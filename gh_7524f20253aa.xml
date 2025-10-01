@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[FreeBuf]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[FreeBuf公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/nyZV7G8qtnqkKHOWCAUsx5HGReoR85aYwFZQCZV4ADy4Sia0etcYbbafVTia1ztlLJ4StrVNvfibfUsC9UvdddFO4Gtd8ialMCaC7yHd1bdPauE/132</url>
+      <title>gh_7524f20253aa</title>
+    </image>
+    <item>
+      <title><![CDATA[特斯拉车载通信单元漏洞使攻击者可获取Root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePFzbBmogh7gywibt7bG75LKDodNTOQ5A5HtBzt66cc4PtVOUdibpeO1DA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款特斯拉车载通信单元（Telematics Control Unit，TCU）存在安全漏洞，攻击者通过物理接触可绕过安全措施获取完整的root级别代码执行权限。Part01漏洞成因分析该漏洞源于外部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=1&amp;sn=690643e23ada06629662057fec498777&amp;chksm=bc1aaac5a650a8baeb7d666f7b843eea7ae89100573c3ab37a49243542a385c5e1faebe497c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[捷豹路虎与朝日啤酒遭遇网络攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePxCoUW88WuNvWFNaGzDN2hud8W28xaDBxjCM3mBmAyuaw80cm5AfaVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当网络犯罪分子能在同一个月内使豪华汽车制造商和大型啤酒生产商陷入停摆时，显然没有任何行业能够免受运营中断的威胁。Part01制造业成为攻击新目标获得英国政府紧急资金支持的捷豹路虎(JLR)正准备在遭遇</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=2&amp;sn=78850a6db9b0471646d292a9c49c15ef&amp;chksm=bc0ca50fc445f3bb9f643f150222a44302b50146b73f69dd003d6963c259db334813b629d346&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核6.17正式发布，修复高危UAF漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePWsNicFISGDy8BxicAXxRxTicPgSVfWaCuG8coPdaYdqc1E323lZ0wELDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Linus Torvalds 正式宣布 Linux 内核 6.17 版本发布，该版本主要聚焦稳定性提升和渐进式改进，而非突破性功能。此次更新带来了大量错误修复、安全增强以及各子系统的驱动更新。Torv</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=3&amp;sn=e83dc08ed6f79d4042f634d8d1041c12&amp;chksm=bcf8ad125e948d9aa0bb8d10a3c90e68c4e735f43ac6f8abb906a9b781aa65e7a416b91448c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
