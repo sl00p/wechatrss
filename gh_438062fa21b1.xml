@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里技术]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里技术公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/7kq2MdYHVfYfYxaLlNk7FfII0aR6hOSIspHrggHfJGXylLGic5u3GGkoQxGTN4wV7UHJ3tcNibX8hnBIHhibLq1ibDDFT8tdHmVt7icPHSBmKzibE/132</url>
+      <title>gh_438062fa21b1</title>
+    </image>
+    <item>
+      <title><![CDATA[如何将 AI 代码采纳率从30%提升到80%？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30F6sHWmre42D4Y5XPEVatClD0PRfaf6BVXD65vYXBecVJCBKnib6QNQxGYodcKClngZBP6vU8Kyo3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第111篇文章（ 本文阅读时间：15分钟 ）01为什么 AI 编码采纳率不高？目前尝试过不少 AI 编程工具，重度使用过的包括 VSCode+Roo Code 、Continue、Tr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508834&amp;idx=1&amp;sn=3d54a4ab09c7d1361fcfdaa539121e03&amp;chksm=ce17d527756c7562d4c30f2b3994a8e406c6b1c902ddb4a7f4747b4e3f24a71eee0ba8dcc02e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 09:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

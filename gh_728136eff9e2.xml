@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[稀土掘金技术社区]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[稀土掘金技术社区公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/YpsK5SYtj3dRqF1r9eVXQFpZzCo4ZicU3YP5V28PDzKB30QibSJZvTRnicnH2s4DmauJE779BCiaUUMn2eunM6obmV4icRiazOmvoAO68seu94cpE/132</url>
+      <title>gh_728136eff9e2</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[编辑器也有邪修？盘点VS Code邪门/有趣的扩展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibusRpu0cPeLsw5u9w1ZWXPr7MSqz1r8egJ9QebH3YrOIQRIWpgtepCKPaTzQ7toR4kicWNq1xHmT2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝VS Code 之所以成为最受欢迎的编辑器之一，很大程度上得益于其丰富的扩展生态。本人精选 20 个实用 or 有趣的 VS Code 扩展，覆盖摸鱼放松，文件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546285&amp;idx=1&amp;sn=9b7ab8dce23d2b82ead4bc039d2dba3e&amp;chksm=fdeeb5653e8dae6ce56142281141608fa5949fa7f25c7c83fbd50e648a98ee9951008a7fad29&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[定时任务如何实现定时执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuEKxfEPR5M5uC7RATnvQzCnMziaRQrR6dHhjibJpqCzX7nj4c2gbPhjoSOsHjQXSXYRePdr3adZdtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝我是[提前退休的java猿]，一名7年java开发经验的开发组长，分享工作中的各种问题！❞前言今天的主题就是聊一聊，spring task 和 Quartz 如何实现任务的定时执行的。 关于spri</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546259&amp;idx=1&amp;sn=dd71ffd2486f1dd40a1f21820e48ea45&amp;chksm=fd9702161c0872a4cc77f6a9834df0e642859d01200ec04e817bbdcf8dae5e34438d261a1a4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[看到Kotlin里满屏的 inline，我真的想 Java 了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtqpvxLQKrdvsatpwarxo0aZ4ia3aSM2icib80ZZK5GJunMRUGQ2V9ZBjhdhon0mbARWyqdhicD4RKufQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝多年以后，当我面对 Kotlin 源码满屏的inline/crossinline/noinline时，将会想起用 Eclipse 手动创建Java匿名内部类的那个遥远的下午。❞一切要用Java和匿名</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546246&amp;idx=1&amp;sn=99953836c752e09d482b6f0e73b578f4&amp;chksm=fd99c9e0612b33e05a15bf2eb4e6df10b47dcd3d3f6c556153bf7b6b44c648ba0dd21eab1067&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MybatisPlus Sql Inject魔法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsFsm91AfS0mXxzickQOGjLtyK6BmnLe6XdMbCQa8cZQ6O0jvFI1TQExk4XYWXP4EzpqZhT2EUCUmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝本篇只讲应用，喜欢原理的可以不用看只保证Mysql可用，没有兼容其余数据库的方言代码笔者线上环境已用，非纸上谈兵❞背景介绍笔者日常的工作有些业务会遇到唯一索引约束。注意到：业务功能相似，要求当唯一键</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546210&amp;idx=1&amp;sn=7b7d97576a4edf9492ad0584722016c8&amp;chksm=fd149440e70258b77aacd16948579a52cbb08369e2ca28bb2fe6ba89facac8e3bb9187cde177&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何在TypeScript里使用类封装枚举来实现Java的枚举形参倒置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibs8GyX5nhzXVkkhcibJicyZnyCslcADq0XzIkAicuibw7r8wdSgxpicGBSLmg4OROFUPiaLMY7nKmOMpuSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言首先，「枚举形参倒置」 的意思是通过为枚举形参添加一些方法，来减少调用时候传入的形参个数。「🌰举个栗子」long timestamp = System.currentTimeMillis();</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546241&amp;idx=1&amp;sn=ee1b89d19f7036b4c346d444a3caed28&amp;chksm=fd0fd9621f23f72cb66002247129e9a273eeb383cbcbcbcd5746715e810cf1d55fc4b8ca4985&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数据库加密方案实践：我们选的不是最完美，但是真的够用了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtZ6iaibPepmbTyS7ljwRDiahcicS5ibf2tSlTArmrWCiaWX0C1urN9s7pAWMibwibfSZfdWr6xLZUjO3yjzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>为什么需要加密存储？我们之前公司开发了一款社交类 App，准备上线各大应用市场的时候，突然发现上架被拒了。原因是：平台要求提供“公安备案号”，否则 App 无法审核通过，甚至有下架风险。没办法，我们只</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546221&amp;idx=1&amp;sn=df7ad610032b5383977525dc9bf2517d&amp;chksm=fd3978f980340b550d58ebb221d1f460e4677d9d95feed979305c5a9c03fe8335f828968c3da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 08:55:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[FreeBuf]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[FreeBuf公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/nyZV7G8qtnqkKHOWCAUsx5HGReoR85aYwFZQCZV4ADy4Sia0etcYbbafVTia1ztlLJ4StrVNvfibfUsC9UvdddFO4Gtd8ialMCaC7yHd1bdPauE/132</url>
+      <title>gh_7524f20253aa</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[将Gemini CLI集成到Kali Linux终端实现渗透测试任务自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCK0Gsr0AkoJdKjA49Ys9WX999EUH0zJUDBe18zLMibnKjhPV33wdrRLZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着Kali Linux 2025.3版本的发布，一项重大更新引入了一个结合人工智能与网络安全的前沿工具：Gemini命令行界面（CLI）。这个全新的开源软件包将谷歌强大的Gemini AI直接集成到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=1&amp;sn=1a05937ecbcbc26366a76948538abb81&amp;chksm=bcb3bb694c5a3ac8442041931aebbbdb07d7f7fb882777e29fa695044606e257152fdc443ba9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ARGUS：专为捕获黑客与物理入侵者而生的安防机器人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKWkIy5HE4Yzmnd7tzW2djPPGFicOTfibhVcjJkH5qcsZhdsUl39gLic8fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>图示：配备LiDAR（激光雷达）、RGB/IR（红外）摄像头和IDS（入侵检测系统）模块的ARGUS原型机，专为网络物理环境中的混合威胁检测设计。Part01应对复合型安全威胁的创新方案医院、机场和校</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=2&amp;sn=d687ced6f71f8943db9b864a5e3ea3b4&amp;chksm=bcb15e1c4b7f74ed3c3a26d6bb82c4352b7dd5c11ea4f8efadf0dd1cbe51b64bf1f5a506a3d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可获取Root权限的Sudo漏洞PoC利用代码已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKF24jFficsjDEP8YwDP3Rq0RibycMIkcATI0dutKkLxTIgUEXEyCB5lLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对（CVE-2025-32463）漏洞的概念验证（PoC）利用代码已公开发布，该漏洞是Sudo工具中存在的一个本地权限提升（LPE）缺陷，在特定配置下可获取root权限。安全研究员Rich Mirc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=3&amp;sn=0328117b75806f3d9aadd7f29f91dc45&amp;chksm=bc8a30057984e06c25484e68775f4772fb573e3e1b1d18336b379406c62dd2cf6b1d89ebb5ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKCqCSgT6ILA1al6rvcpyib9prmTaiavrrUfV2p14TlYicDiccib09Oq15Hrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Redis作为广泛应用于实时分析、缓存和消息代理的开源内存数据库，近期发布了多个安全补丁，修复了四个可能导致远程代码执行（RCE）和拒绝服务（DoS）的安全漏洞。这些漏洞编号为CV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328427&amp;idx=1&amp;sn=e706caef26a8a6b587b711f368f8f2d6&amp;chksm=bc8ca0fd3ceb7d3649a5f32101c588c81670d617ae264e251bc03c4193d1f5a388ae6694fa99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Unity引擎漏洞可导致数百万游戏面临本地代码执行风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKGxcdmR1cWoZrzyvrgZNBuxpWAgyIBAjm8wHmDD4fBdmnMFxhjROciag/640?wxtype=jpeg&amp;wxfrom=0"/><p>Unity Technologies发布紧急安全公告，警告开发者其广泛使用的游戏开发平台存在一个高危漏洞（CVE-2025-59489）。该漏洞会影响使用易受攻击版本Unity Editor构建的应用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328427&amp;idx=2&amp;sn=20ec85c35193e4a42470ed65afa128ba&amp;chksm=bca311416c1238b4ccd252ac33c1cef7b2ecd7f0be9969276d87356ad8608cc9e3e1fafeccfd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[云端幽灵：将AWS X-Ray武器化为C2隐蔽通道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKC7TIpO0gzrINTm16riccEiclGMYaD72m5sqrqAk6wWbH8mfEnbk0BoPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者可将AWS X-Ray改造为隐蔽双向C2通道，滥用合法云追踪基础设施实施命令控制。Part01技术背景在开始之前，如果您尚未阅读我关于MeetC2的日志文章，建议先行查阅。数月来，我在红队行动中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328427&amp;idx=3&amp;sn=8e48d49a47c9f5893ef3e361fe664a69&amp;chksm=bcf0e56695b8314853793b1c824a2482c61e0f9790fdca8cbc385883c872dc0fffc127a7133c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Discord数据泄露事件：用户个人信息及证件扫描件遭泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibQFbPibo6nkIQqKKDr0clPnSw10vY292qclzs9sUEFJVSp76aUvmQTQuoiaW9CCwnShmqkiceydFGpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名通讯平台Discord近日确认发生一起安全事件，涉及某外部客服公司系统遭入侵，导致少量用户的个人信息外泄。Discord以其数百万游戏和社区服务器而广为人知。Part01事件概括Discord于2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328402&amp;idx=1&amp;sn=74d6150ee0ebfda25fc51789e82e8ab7&amp;chksm=bcc12ea36383490b196fded243f787aeccddf3c80cecbaebb50dff48ab8865bd9a6d9d9925f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[恶意链接可一键操控Perplexity的Comet AI浏览器窃取数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibQFbPibo6nkIQqKKDr0clPn7AeqicGHrhUeV7vQs5cJCJMhx66Rwe68JQCgal3vWP5DsK3WCVLQfHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现一项突破性漏洞，能将Perplexity公司开发的AI驱动浏览器Comet转变为数据窃取的"帮凶"。LayerX安全团队将这种新型攻击命名为"CometJacking"，攻击者仅需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328402&amp;idx=2&amp;sn=f025650aafbb712a8eb1fcb00c48d7d3&amp;chksm=bcea65fc2dba41e35556e738abf6ca9fe0afd60261a2e8a48fe18badd2f3a9a2d27bef32ad5c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[XWorm V6.0重现江湖：模块化远控木马携勒索插件与高级规避技术卷土重来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibQFbPibo6nkIQqKKDr0clPn0RCjnjUDkppHS8Rx3oCsofpuv4oJxwD8m40hLiaL8xfuWYUViacTA71A/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Trellix威胁研究中心（ARC）最新分析报告显示，曾在2024年看似终结的臭名昭著远程访问木马（Remote Access Trojan，RAT）XWorm意外重现。这款现以XWorm</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328402&amp;idx=3&amp;sn=e11e53b1b0549329a7e7c8a5174c683f&amp;chksm=bc8d218bf92b0b499eb1e4881d21eecf0f0637872493156e4ede06bc00f3d4d98eda3a6cbe28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[10亿用户记录疑遭泄露！攻击者组织入侵Salesforce并将公开数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icEAS9m83yUd6MePwexEIY2ibpXkElemEZXKex53S21OYd9v9f7lTXxtKEPtMXicN0JT3YLOVsP8ibDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01数据泄露事件概况一个自称"Scattered LAPSUS$ Hunters"（融合了Scattered Spider、Lapsu$和ShinyHunters等团伙的战术与品牌特征）的攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328381&amp;idx=1&amp;sn=e59339c0a6e3d2662425b2622b1e946f&amp;chksm=bcdf6e683660bf7b96cee745f59e8f6eeea8cb7a13f0bbf2e254036f44df34c1174a5234e379&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[红帽OpenShift AI高危漏洞可能导致混合云基础设施被完全接管]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icEAS9m83yUd6MePwexEIY2p9KuRZGDYAiafbk0OTlJzRG3C2aVCEMjibmwQlV17uO1dcJFSHXTQcLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞详情披露红帽OpenShift AI服务中发现一个严重安全漏洞，攻击者在特定条件下可利用该漏洞提升权限并完全控制基础设施。OpenShift AI是一个用于大规模管理预测性和生成性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328381&amp;idx=2&amp;sn=880bd50dbdc4abd4408c11e08d2c5c39&amp;chksm=bcb89843a2818541661af6f00b3f8c6d1d1c90ff073ee5531f9d944f9130eb498294064e229c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果紧急推送更新修复字体解析漏洞（CVE-2025-43400）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icEAS9m83yUd6MePwexEIY24v6H1LXHP7MJrkiaaJIaDWzgSHAe1rV0nic2e5bGfrgfwTZ6kZklEn9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞技术细节苹果公司近日发布iOS和macOS系统更新，用于修复字体处理组件中存在的中危漏洞（CVE-2025-43400）。该漏洞可能引发拒绝服务或内存损坏风险。该漏洞属于操作系统Fon</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328381&amp;idx=3&amp;sn=86936155aa69d8d89ea89bd57810abe7&amp;chksm=bca1c5254ae5d5bb809a756c197d0395934563123161968106b8f7492a5800c3af907f7107dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[红帽GitHub仓库遭攻击者组织入侵，窃取数万份机密数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8t9tiawIAC3zjL2IOCKgOiatw2l0LDibBQ0q7rP3cjwvxZ3KMlviblF18bjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01数据泄露事件概述自称"Crimson Collective"的网络犯罪团伙宣称成功入侵红帽（Red Hat）公司的私有GitHub代码库。该组织声称窃取了570GB数据，涉及28,000个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=1&amp;sn=ed886eaa1ffbaa4847a4a68208eac5bb&amp;chksm=bcb249778d15da906a212d04d423fb3c3c112b1377d4672c0aa7696a4ab0bf94f497e279aa36&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VMware Workstation虚拟机逃逸漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8tPnMncibmh4ia5pJkqIruGteFqiacaRpvnx83kJJN9WZRhz1xMyLgcwBCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员已公开VMware Workstation中一个高危漏洞链的概念验证（PoC）利用代码，攻击者可借此从客户机虚拟机逃逸，在宿主机操作系统上执行任意代码。该漏洞利用成功串联了信息泄露和基于栈</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=2&amp;sn=e1b9d2e7a57675d9534901953c705b0e&amp;chksm=bcde93cc8b287275e6e6694ce802e405f5035fc70cf8c188b75d393738a9c592877255d7a606&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux/Android内核零日漏洞深度分析（CVE-2025-38352）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8tX4fsQfYqNPlkBqqZicMCY8XJdkQlNFMjLXsTLtRtUXVGuDgsV5gZmTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员StreyPaws近日发布了对CVE-2025-38352漏洞的深度分析报告。该漏洞存在于Linux/Android内核的POSIX CPU Timer（POSIX CPU计时器）子系统中，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=3&amp;sn=38d9251ddbbb9a8f4b282c5f0ba4142b&amp;chksm=bc104619c55743ff08b9a1dc37369037b24baa2828099c26b66665c2d8a17bf808c45affd228&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SOC走向AI自动化面临的关键挑战与解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etFORcPPa6RlDvzTE1mJjBwnd29x0QuAAtFue3RbkIsicG8rSXATanSibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC环境中大语言模型的局限性大语言模型（LLM）和智能代理系统在日常生产力场景中表现出色，包括会议转录与摘要生成、待办事项提取、重要邮件优先级排序乃至旅行规划。但在安全运营中心（SOC）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=1&amp;sn=39fbb85a92739c0ed3a8f72e8fb66b81&amp;chksm=bc5a2fdfb48dcc15a754bcdd0b4e9335cfe930e0d86cb0faaf645300ca66ef4bf61c2b89d1f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etichWhfDbMMq2CN6qmPjzwz6Rv36YpU9CsaE9fY3vakibA9p9cderyicibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁攻击者正在野外积极利用一个影响数千台思科防火墙的严重0Day漏洞。该漏洞编号为（CVE-2025-20333），CVSS评分为9.9分，对全球企业构成直接威胁，是今年在企业防火墙基础设施中发现的最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=2&amp;sn=22d42b4d56669eb3ac3ee3eb2dbad4d5&amp;chksm=bc39c82c723d016b6ce700fe004cce570be00cc74f8b33806639186d07cb78daa17a2a0098e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FlipSwitch新型钩子技术突破Linux内核防御体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etKdXQWWf5KWZAnhEddYJcgmINXKTSsWZ3N2u7TrEFVjcIqd8fAx8X5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全领域近期出现了一种针对现代Linux内核的高级rootkit变种FlipSwitch。该技术于2025年9月下旬首次现身，通过利用系统调用（syscall）分发机制的最新变更，直接将隐蔽钩子植</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=3&amp;sn=50240c537ac0a6dd340490a9ab974e62&amp;chksm=bc24febb45226898035765b866a0bfd155885a96d425b31f9daf8e455eeb9a9c25f80875df9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[特斯拉车载通信单元漏洞使攻击者可获取Root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePFzbBmogh7gywibt7bG75LKDodNTOQ5A5HtBzt66cc4PtVOUdibpeO1DA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款特斯拉车载通信单元（Telematics Control Unit，TCU）存在安全漏洞，攻击者通过物理接触可绕过安全措施获取完整的root级别代码执行权限。Part01漏洞成因分析该漏洞源于外部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=1&amp;sn=690643e23ada06629662057fec498777&amp;chksm=bc1aaac5a650a8baeb7d666f7b843eea7ae89100573c3ab37a49243542a385c5e1faebe497c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[捷豹路虎与朝日啤酒遭遇网络攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePxCoUW88WuNvWFNaGzDN2hud8W28xaDBxjCM3mBmAyuaw80cm5AfaVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当网络犯罪分子能在同一个月内使豪华汽车制造商和大型啤酒生产商陷入停摆时，显然没有任何行业能够免受运营中断的威胁。Part01制造业成为攻击新目标获得英国政府紧急资金支持的捷豹路虎(JLR)正准备在遭遇</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=2&amp;sn=78850a6db9b0471646d292a9c49c15ef&amp;chksm=bc0ca50fc445f3bb9f643f150222a44302b50146b73f69dd003d6963c259db334813b629d346&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核6.17正式发布，修复高危UAF漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePWsNicFISGDy8BxicAXxRxTicPgSVfWaCuG8coPdaYdqc1E323lZ0wELDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linus Torvalds 正式宣布 Linux 内核 6.17 版本发布，该版本主要聚焦稳定性提升和渐进式改进，而非突破性功能。此次更新带来了大量错误修复、安全增强以及各子系统的驱动更新。Torv</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=3&amp;sn=e83dc08ed6f79d4042f634d8d1041c12&amp;chksm=bcf8ad125e948d9aa0bb8d10a3c90e68c4e735f43ac6f8abb906a9b781aa65e7a416b91448c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SOC走向AI自动化面临的关键挑战与解决方案]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etFORcPPa6RlDvzTE1mJjBwnd29x0QuAAtFue3RbkIsicG8rSXATanSibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC环境中大语言模型的局限性大语言模型（LLM）和智能代理系统在日常生产力场景中表现出色，包括会议转录与摘要生成、待办事项提取、重要邮件优先级排序乃至旅行规划。但在安全运营中心（SOC）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=1&amp;sn=39fbb85a92739c0ed3a8f72e8fb66b81&amp;chksm=bc5a2fdfb48dcc15a754bcdd0b4e9335cfe930e0d86cb0faaf645300ca66ef4bf61c2b89d1f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etichWhfDbMMq2CN6qmPjzwz6Rv36YpU9CsaE9fY3vakibA9p9cderyicibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>威胁攻击者正在野外积极利用一个影响数千台思科防火墙的严重0Day漏洞。该漏洞编号为（CVE-2025-20333），CVSS评分为9.9分，对全球企业构成直接威胁，是今年在企业防火墙基础设施中发现的最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=2&amp;sn=22d42b4d56669eb3ac3ee3eb2dbad4d5&amp;chksm=bc39c82c723d016b6ce700fe004cce570be00cc74f8b33806639186d07cb78daa17a2a0098e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FlipSwitch新型钩子技术突破Linux内核防御体系]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etKdXQWWf5KWZAnhEddYJcgmINXKTSsWZ3N2u7TrEFVjcIqd8fAx8X5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全领域近期出现了一种针对现代Linux内核的高级rootkit变种FlipSwitch。该技术于2025年9月下旬首次现身，通过利用系统调用（syscall）分发机制的最新变更，直接将隐蔽钩子植</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=3&amp;sn=50240c537ac0a6dd340490a9ab974e62&amp;chksm=bc24febb45226898035765b866a0bfd155885a96d425b31f9daf8e455eeb9a9c25f80875df9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[捷豹路虎与朝日啤酒遭遇网络攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePxCoUW88WuNvWFNaGzDN2hud8W28xaDBxjCM3mBmAyuaw80cm5AfaVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当网络犯罪分子能在同一个月内使豪华汽车制造商和大型啤酒生产商陷入停摆时，显然没有任何行业能够免受运营中断的威胁。Part01制造业成为攻击新目标获得英国政府紧急资金支持的捷豹路虎(JLR)正准备在遭遇</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=2&amp;sn=78850a6db9b0471646d292a9c49c15ef&amp;chksm=bc0ca50fc445f3bb9f643f150222a44302b50146b73f69dd003d6963c259db334813b629d346&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核6.17正式发布，修复高危UAF漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePWsNicFISGDy8BxicAXxRxTicPgSVfWaCuG8coPdaYdqc1E323lZ0wELDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Linus Torvalds 正式宣布 Linux 内核 6.17 版本发布，该版本主要聚焦稳定性提升和渐进式改进，而非突破性功能。此次更新带来了大量错误修复、安全增强以及各子系统的驱动更新。Torv</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=3&amp;sn=e83dc08ed6f79d4042f634d8d1041c12&amp;chksm=bcf8ad125e948d9aa0bb8d10a3c90e68c4e735f43ac6f8abb906a9b781aa65e7a416b91448c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[看雪学苑]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[看雪学苑公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/PktCeSgQXpMh18G56JVzV1TwVuycea4oqVEl2YBvWgc9as3sC4rXaZ1ClFVZWTorlhEWLfoo9XmE9GUAT1DATHLgACR0rHYIqPlUP7T8IlY/132</url>
+      <title>gh_e7e71fe92c19</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Windows内核CVE-2019-1215分析与复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcNRxXWnQAicX2XKUiaOHz2kBzkTybC730kKveawAiaZMdJXbx3JNlaaHDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>该漏洞源于ws2ifsl.sys驱动程序在处理内存对象时的缺陷，可能导致释放重引用错误。攻击者可以利用该错误，通过精心构造的输入，访问已释放的内存区域，从而执行恶意代码，提升权限。本文测试环境：◆虚拟</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601626&amp;idx=1&amp;sn=96fbadea99bbb779069babdb769a5de7&amp;chksm=b041601efdcb71782130a5a58c11bda8349d5483eccdd9d7566aeb469957a07ee89629d4af62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，物联网(IoT)设备已经渗透到我们生活的方方面面，从智能家居到工业自动化，无一不依赖于这些智能设备。然而，随着IoT设备的普及，安全问题也日益凸显。IoT设备漏洞挖掘成为了保障网络安全的重</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601626&amp;idx=2&amp;sn=b5e72cea3d9dd48d7e47eaacc15f057f&amp;chksm=b0c7ddb37e30e80d12d496b39c264fa60b4b775e102788d6a27196fd5aed2471e5c148079788&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025中秋致谢 | 致深耕安全领域的伙伴，月圆情更浓，安全同共建！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRN2rCAwWWSTbhwBHtLCDh9vQVhdTBGvHm77NfXCFXib6Z0fY7az2Ibmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>MID-AUTUMN举杯邀明月，团圆共此时值此中秋佳节，清辉遍洒，万家团圆之际，谨向诸位于此致谢。承蒙厚爱，诸合作伙伴所赠中秋佳礼，已悉数收悉。每份礼品皆载厚意，感念于心。忆往昔，吾与诸位同心协力，共</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601625&amp;idx=1&amp;sn=96d973714d0be329e83848c5b8f9c9cb&amp;chksm=b0833eaeceadf67e761050a0a61d80df942f0f6140e8dae8f54e562e6ad4ab8872e8d4a41ca3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[加入看雪兼职讲师团：凭硬核实力发光，知识变现还能圈粉无数！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EnK64s6ynCyx5WwduY9qSibZl9kym4j7qjOVxTa241iarKa8kn4iaOYFKM4A2Wlykhab8B7qCbSzjcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着技术的发展，网络攻击、数据泄露等安全威胁也日益严峻，网络安全问题已经成为全球关注的焦点。在这样的背景下，培养和储备优秀的网络安全人才显得尤为迫切。看雪作为网络安全领域的先行者，一直致力于网络安全人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601624&amp;idx=1&amp;sn=a78a2af5a40f2bd0228287547955bc21&amp;chksm=b00e868dad6d5451b23a7bda1b9c3bd2447bb4964ccac33875dcbf8f5fc2e304546f97f26905&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AFL源码分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxjsNcLH32Y7S2rQhfLGqRQqsh2Pp9E9Xt0StnvibBNic6ib85YAI20nPvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、基本概念basic block(基本块)、edge(边)、代码覆盖率edge就被用来表示在基本块之间的跳转，知道了每个基本块和跳转的执行次数，就可以知道程序中的每个语句和分支的执行次数，从而获得比</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601624&amp;idx=2&amp;sn=ff35f776264957fd90a214913458bf54&amp;chksm=b0909ce87fad986bde37eea499f05029e5ca540e9dfb4858e6ed7915ee2c5fd40c4b25594ec1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[USB重定向-对开源软件USBIPSTUB框架改造，修改为类过滤机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcbb1zicStLnhBVu2j0DJe8msnCa5XQprpicuTibXQKMeFvibRooXceUwvZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是对USBIPSTUB项目进行改造，添加了类过滤机制，提升了驱动对于USB设备的兼容性。开源项目USB重定向地址：https://github.com/cezanne/usbip-winUSBIP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601623&amp;idx=1&amp;sn=c6e604965de9e90756aaddd2671c0cbd&amp;chksm=b06a4cb0afb430fc3f13348cb85391d9f9b2a2865e369804ad4ce48dddb539a2a6233c490c0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[预售中！车联网安全赛道爆发，这门实战课帮你抢占先机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601623&amp;idx=2&amp;sn=176e31cd9a2368077354c0da6fcfd3ca&amp;chksm=b0c2890ebf1d5c4a9cdda5d3b486bb0d5b59258b2c03792054052998d28d1bab22f056ae2592&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 精彩议题预告 | 你尽力了吗 —— 25 年后的再追问]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxiapeWOZaPiaCqz0FUdYpGzyrv0q6wzW6MdD5jMoBmedkBVbL1OEKuohw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介议题名称：《你尽力了吗 —— 25 年后的再追问》四哥的经典文章《你尽力了吗》陪伴并激励了几代网安人的成长。二十多年来，无论是初入行业、面对困难手足无措的新人，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601622&amp;idx=1&amp;sn=14eda7061e83561011d7150efdee5a9d&amp;chksm=b078aafe45c4406e1d247a6256547cb315bca0a13cb1a5c8ce384864c71e9686944867d71103&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[写一个简单的VMP-不造轮子，何以知轮之精髓？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfc37eduv8FpVW4Gbtic61yTkZALLTtT9TlCc1VISlbjJRcQlNtlCwqk2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了一次从零开始，利用 LLVM Pass 技术为 Android Native 函数实现 VMP（Virtual Machine Protection）的完整心路历程。文章从一个核心观点出发：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=1&amp;sn=26567a67b339c86f7cfafe8985af0daf&amp;chksm=b0a2ff50f53761d36e04ce47cfbb06f3a5ecfbe83640195783203b0f6d3d7f3e116ea8bf220b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=2&amp;sn=23a3a8dec41c01b2307385e4e019597a&amp;chksm=b06b6378b3305b04e68e76390e6ea76d50935cf20be4a791e80bafc14ce3b6f5aaa68ef0a444&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[聚焦可信AI安全！SDC2025 十大议题揭晓，10.23上海启幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EyAAPEbCmIO79CUdYIc2SFUibIWVh613yF5KBtKtwWaqicMkKJt3uq6jwj3MofticuORFxrJxtqWGEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2025·精彩预告前沿技术盛宴，10大议题领航顶尖专家齐聚，共话 AI 发展极客市集狂欢，邂逅新奇科技多轮惊喜抽奖，福利接踵而至智能时代·可信AI安全一、峰会日程安排会议名称：第九届安全开发者峰</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601620&amp;idx=1&amp;sn=b0e9552a11163cc98433a8b64b3a432b&amp;chksm=b0c7ca7c3684c97c170774a4a28d29e55e21dc1fb474c8d7c26d506d19a4a7ada3cc57f455a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[写一个简单的VMP-不造轮子，何以知轮之精髓？]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfc37eduv8FpVW4Gbtic61yTkZALLTtT9TlCc1VISlbjJRcQlNtlCwqk2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了一次从零开始，利用 LLVM Pass 技术为 Android Native 函数实现 VMP（Virtual Machine Protection）的完整心路历程。文章从一个核心观点出发：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=1&amp;sn=26567a67b339c86f7cfafe8985af0daf&amp;chksm=b0a2ff50f53761d36e04ce47cfbb06f3a5ecfbe83640195783203b0f6d3d7f3e116ea8bf220b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=2&amp;sn=23a3a8dec41c01b2307385e4e019597a&amp;chksm=b06b6378b3305b04e68e76390e6ea76d50935cf20be4a791e80bafc14ce3b6f5aaa68ef0a444&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

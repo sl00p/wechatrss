@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[逛逛GitHub]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[逛逛GitHub公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM6BUb11yK6iaP4lic3LfqT3B2bqNO6fiaiaJ0QDaJBz3SLq5Q/132</url>
+      <title>gh_6f55ff91dc49</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[又发现 4 个有趣的 GitHub 开源 MCP。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruynK2fSF31EEkyaTicO1FpJQdbvdena4dvmnqx0gmQ8aeGJjG6GtxuJSORUc0P8o8xCsWGbEAAowAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01微信聊天记录 MCP这个叫 Chatlog 的工具有点顶。它能像查询数据库一样随时检索自己和好友的聊天记录、群聊话题或是某天发过的图片。这个专为微信聊天记录设计的本地化数据处理工具，不会上传任何数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527584&amp;idx=1&amp;sn=b662b4477c90028cbb6831940019dcd5&amp;chksm=f87731f8af3cf468ced221bc48ba101b8144ef9c00c08cc8f86eae4e4c3337e0263db837bd6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现 4 个贼好玩的 GitHub 项目，相当给劲儿。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux0xonibOf2U6JGyffC8XS1abqZibh7soHibiccyCbGHVBmlfsKkUQQ1jTU7qibRHMgPnus4IYhiaibV09jg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一饭封神在 GitHub 上有一个名为「一饭封神」的开源项目。这是一个用 AI 帮你解决「吃什么」和「怎么吃」的智能菜谱生成平台。开源地址：https://github.com/liu-zitin</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527583&amp;idx=1&amp;sn=406819f4c9d139c2d379580c55d9a725&amp;chksm=f858facaead8f3e71c2ebe4cbc7ebc6c55ada5732cbcfadc7a89282cc1491e67a9b1532ff3a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 2 个 GitHub 上集成 Nano banana 的开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruynK2fSF31EEkyaTicO1FpJQBHhLuTplL9t5X8kO0C7Rw6gwGFibac3lZ5RsqBibft2zWpfnoB7KsSnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01香蕉超市这个叫做 Nano Bananary （香蕉超市）的开源项目，是一个零提示词图像生成工具，开源三周就获得 1000 多的 Star 了。不用费心思想提示词，就能轻松处理图片，对新手特别友好</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527582&amp;idx=1&amp;sn=66e810b7dd8d3dd2829bb0e1e176657a&amp;chksm=f8a1a70b09a52e9425e26551d20414335b7cd94e8b91e8de138f03a19f826cc02d67075ca565&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[淘到了 4 个开源 GitHub 项目，太惊艳了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzicOFhYLlnIyiaqFPZ0m8oo3RkSu1q9HWLySqPw7307nh9tspOb9vkZRoiahduV1qAu2zpUVy8I834w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01游戏串流服务这个开源项目是逛 X 的时候淘到的，叫做 Sunshine 还挺火的。GitHub 上竟然有 3 万人 Star。这是一个开源的游戏串流服务器，专为 Moonlight 客户端设计。你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527581&amp;idx=1&amp;sn=d74d0322b184726d742c87ede494575d&amp;chksm=f8f16534759388a66394936227e2a7fd0cfd51ef7a67376812aed9afcc7a53f5fdc1e5320ac4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
