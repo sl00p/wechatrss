@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[稀土掘金技术社区]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[稀土掘金技术社区公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/YpsK5SYtj3dRqF1r9eVXQFpZzCo4ZicU3YP5V28PDzKB30QibSJZvTRnicnH2s4DmauJE779BCiaUUMn2eunM6obmV4icRiazOmvoAO68seu94cpE/132</url>
+      <title>gh_728136eff9e2</title>
+    </image>
+    <item>
+      <title><![CDATA[数据库加密方案实践：我们选的不是最完美，但是真的够用了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtZ6iaibPepmbTyS7ljwRDiahcicS5ibf2tSlTArmrWCiaWX0C1urN9s7pAWMibwibfSZfdWr6xLZUjO3yjzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>为什么需要加密存储？我们之前公司开发了一款社交类 App，准备上线各大应用市场的时候，突然发现上架被拒了。原因是：平台要求提供“公安备案号”，否则 App 无法审核通过，甚至有下架风险。没办法，我们只</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546221&amp;idx=1&amp;sn=df7ad610032b5383977525dc9bf2517d&amp;chksm=fd3978f980340b550d58ebb221d1f460e4677d9d95feed979305c5a9c03fe8335f828968c3da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 08:55:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
