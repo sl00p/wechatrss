@@ -10,6 +10,24 @@
       <title>gh_7524f20253aa</title>
     </image>
     <item>
+      <title><![CDATA[SOC走向AI自动化面临的关键挑战与解决方案]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etFORcPPa6RlDvzTE1mJjBwnd29x0QuAAtFue3RbkIsicG8rSXATanSibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC环境中大语言模型的局限性大语言模型（LLM）和智能代理系统在日常生产力场景中表现出色，包括会议转录与摘要生成、待办事项提取、重要邮件优先级排序乃至旅行规划。但在安全运营中心（SOC）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=1&amp;sn=39fbb85a92739c0ed3a8f72e8fb66b81&amp;chksm=bc5a2fdfb48dcc15a754bcdd0b4e9335cfe930e0d86cb0faaf645300ca66ef4bf61c2b89d1f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etichWhfDbMMq2CN6qmPjzwz6Rv36YpU9CsaE9fY3vakibA9p9cderyicibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>威胁攻击者正在野外积极利用一个影响数千台思科防火墙的严重0Day漏洞。该漏洞编号为（CVE-2025-20333），CVSS评分为9.9分，对全球企业构成直接威胁，是今年在企业防火墙基础设施中发现的最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=2&amp;sn=22d42b4d56669eb3ac3ee3eb2dbad4d5&amp;chksm=bc39c82c723d016b6ce700fe004cce570be00cc74f8b33806639186d07cb78daa17a2a0098e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FlipSwitch新型钩子技术突破Linux内核防御体系]]></title>
+      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etKdXQWWf5KWZAnhEddYJcgmINXKTSsWZ3N2u7TrEFVjcIqd8fAx8X5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全领域近期出现了一种针对现代Linux内核的高级rootkit变种FlipSwitch。该技术于2025年9月下旬首次现身，通过利用系统调用（syscall）分发机制的最新变更，直接将隐蔽钩子植</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=3&amp;sn=50240c537ac0a6dd340490a9ab974e62&amp;chksm=bc24febb45226898035765b866a0bfd155885a96d425b31f9daf8e455eeb9a9c25f80875df9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[特斯拉车载通信单元漏洞使攻击者可获取Root权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePFzbBmogh7gywibt7bG75LKDodNTOQ5A5HtBzt66cc4PtVOUdibpeO1DA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款特斯拉车载通信单元（Telematics Control Unit，TCU）存在安全漏洞，攻击者通过物理接触可绕过安全措施获取完整的root级别代码执行权限。Part01漏洞成因分析该漏洞源于外部</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=1&amp;sn=690643e23ada06629662057fec498777&amp;chksm=bc1aaac5a650a8baeb7d666f7b843eea7ae89100573c3ab37a49243542a385c5e1faebe497c3&amp;scene=0&amp;xtrack=1#rd</link>
