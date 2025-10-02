@@ -11,6 +11,24 @@
     </image>
     <item>
       <title><![CDATA[写一个简单的VMP-不造轮子，何以知轮之精髓？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfc37eduv8FpVW4Gbtic61yTkZALLTtT9TlCc1VISlbjJRcQlNtlCwqk2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了一次从零开始，利用 LLVM Pass 技术为 Android Native 函数实现 VMP（Virtual Machine Protection）的完整心路历程。文章从一个核心观点出发：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=1&amp;sn=26567a67b339c86f7cfafe8985af0daf&amp;chksm=b0a2ff50f53761d36e04ce47cfbb06f3a5ecfbe83640195783203b0f6d3d7f3e116ea8bf220b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=2&amp;sn=23a3a8dec41c01b2307385e4e019597a&amp;chksm=b06b6378b3305b04e68e76390e6ea76d50935cf20be4a791e80bafc14ce3b6f5aaa68ef0a444&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[聚焦可信AI安全！SDC2025 十大议题揭晓，10.23上海启幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EyAAPEbCmIO79CUdYIc2SFUibIWVh613yF5KBtKtwWaqicMkKJt3uq6jwj3MofticuORFxrJxtqWGEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2025·精彩预告前沿技术盛宴，10大议题领航顶尖专家齐聚，共话 AI 发展极客市集狂欢，邂逅新奇科技多轮惊喜抽奖，福利接踵而至智能时代·可信AI安全一、峰会日程安排会议名称：第九届安全开发者峰</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601620&amp;idx=1&amp;sn=b0e9552a11163cc98433a8b64b3a432b&amp;chksm=b0c7ca7c3684c97c170774a4a28d29e55e21dc1fb474c8d7c26d506d19a4a7ada3cc57f455a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[写一个简单的VMP-不造轮子，何以知轮之精髓？]]></title>
       <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfc37eduv8FpVW4Gbtic61yTkZALLTtT9TlCc1VISlbjJRcQlNtlCwqk2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了一次从零开始，利用 LLVM Pass 技术为 Android Native 函数实现 VMP（Virtual Machine Protection）的完整心路历程。文章从一个核心观点出发：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=1&amp;sn=26567a67b339c86f7cfafe8985af0daf&amp;chksm=b0a2ff50f53761d36e04ce47cfbb06f3a5ecfbe83640195783203b0f6d3d7f3e116ea8bf220b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
@@ -20,12 +38,6 @@
       <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/300?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601621&amp;idx=2&amp;sn=23a3a8dec41c01b2307385e4e019597a&amp;chksm=b06b6378b3305b04e68e76390e6ea76d50935cf20be4a791e80bafc14ce3b6f5aaa68ef0a444&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[聚焦可信AI安全！SDC2025 十大议题揭晓，10.23上海启幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EyAAPEbCmIO79CUdYIc2SFUibIWVh613yF5KBtKtwWaqicMkKJt3uq6jwj3MofticuORFxrJxtqWGEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2025·精彩预告前沿技术盛宴，10大议题领航顶尖专家齐聚，共话 AI 发展极客市集狂欢，邂逅新奇科技多轮惊喜抽奖，福利接踵而至智能时代·可信AI安全一、峰会日程安排会议名称：第九届安全开发者峰</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601620&amp;idx=1&amp;sn=b0e9552a11163cc98433a8b64b3a432b&amp;chksm=b0c7ca7c3684c97c170774a4a28d29e55e21dc1fb474c8d7c26d506d19a4a7ada3cc57f455a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
