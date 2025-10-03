@@ -10,6 +10,24 @@
       <title>gh_7524f20253aa</title>
     </image>
     <item>
+      <title><![CDATA[红帽GitHub仓库遭攻击者组织入侵，窃取数万份机密数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8t9tiawIAC3zjL2IOCKgOiatw2l0LDibBQ0q7rP3cjwvxZ3KMlviblF18bjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01数据泄露事件概述自称"Crimson Collective"的网络犯罪团伙宣称成功入侵红帽（Red Hat）公司的私有GitHub代码库。该组织声称窃取了570GB数据，涉及28,000个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=1&amp;sn=ed886eaa1ffbaa4847a4a68208eac5bb&amp;chksm=bcb249778d15da906a212d04d423fb3c3c112b1377d4672c0aa7696a4ab0bf94f497e279aa36&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VMware Workstation虚拟机逃逸漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8tPnMncibmh4ia5pJkqIruGteFqiacaRpvnx83kJJN9WZRhz1xMyLgcwBCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员已公开VMware Workstation中一个高危漏洞链的概念验证（PoC）利用代码，攻击者可借此从客户机虚拟机逃逸，在宿主机操作系统上执行任意代码。该漏洞利用成功串联了信息泄露和基于栈</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=2&amp;sn=e1b9d2e7a57675d9534901953c705b0e&amp;chksm=bcde93cc8b287275e6e6694ce802e405f5035fc70cf8c188b75d393738a9c592877255d7a606&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux/Android内核零日漏洞深度分析（CVE-2025-38352）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicgoRHsbicup3z8gt6mh8tX4fsQfYqNPlkBqqZicMCY8XJdkQlNFMjLXsTLtRtUXVGuDgsV5gZmTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员StreyPaws近日发布了对CVE-2025-38352漏洞的深度分析报告。该漏洞存在于Linux/Android内核的POSIX CPU Timer（POSIX CPU计时器）子系统中，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328364&amp;idx=3&amp;sn=38d9251ddbbb9a8f4b282c5f0ba4142b&amp;chksm=bc104619c55743ff08b9a1dc37369037b24baa2828099c26b66665c2d8a17bf808c45affd228&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SOC走向AI自动化面临的关键挑战与解决方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etFORcPPa6RlDvzTE1mJjBwnd29x0QuAAtFue3RbkIsicG8rSXATanSibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC环境中大语言模型的局限性大语言模型（LLM）和智能代理系统在日常生产力场景中表现出色，包括会议转录与摘要生成、待办事项提取、重要邮件优先级排序乃至旅行规划。但在安全运营中心（SOC）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=1&amp;sn=39fbb85a92739c0ed3a8f72e8fb66b81&amp;chksm=bc5a2fdfb48dcc15a754bcdd0b4e9335cfe930e0d86cb0faaf645300ca66ef4bf61c2b89d1f5&amp;scene=0&amp;xtrack=1#rd</link>
