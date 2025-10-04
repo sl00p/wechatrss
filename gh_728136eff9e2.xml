@@ -10,6 +10,12 @@
       <title>gh_728136eff9e2</title>
     </image>
     <item>
+      <title><![CDATA[MybatisPlus Sql Inject魔法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsFsm91AfS0mXxzickQOGjLtyK6BmnLe6XdMbCQa8cZQ6O0jvFI1TQExk4XYWXP4EzpqZhT2EUCUmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝本篇只讲应用，喜欢原理的可以不用看只保证Mysql可用，没有兼容其余数据库的方言代码笔者线上环境已用，非纸上谈兵❞背景介绍笔者日常的工作有些业务会遇到唯一索引约束。注意到：业务功能相似，要求当唯一键</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546210&amp;idx=1&amp;sn=7b7d97576a4edf9492ad0584722016c8&amp;chksm=fd149440e70258b77aacd16948579a52cbb08369e2ca28bb2fe6ba89facac8e3bb9187cde177&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何在TypeScript里使用类封装枚举来实现Java的枚举形参倒置]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibs8GyX5nhzXVkkhcibJicyZnyCslcADq0XzIkAicuibw7r8wdSgxpicGBSLmg4OROFUPiaLMY7nKmOMpuSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言首先，「枚举形参倒置」 的意思是通过为枚举形参添加一些方法，来减少调用时候传入的形参个数。「🌰举个栗子」long timestamp = System.currentTimeMillis();</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546241&amp;idx=1&amp;sn=ee1b89d19f7036b4c346d444a3caed28&amp;chksm=fd0fd9621f23f72cb66002247129e9a273eeb383cbcbcbcd5746715e810cf1d55fc4b8ca4985&amp;scene=0&amp;xtrack=1#rd</link>
