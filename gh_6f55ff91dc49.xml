@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[逛逛GitHub]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[逛逛GitHub公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM6BUb11yK6iaP4lic3LfqT3B2bqNO6fiaiaJ0QDaJBz3SLq5Q/132</url>
+      <title>gh_6f55ff91dc49</title>
+    </image>
+    <item>
+      <title><![CDATA[淘到了 4 个开源 GitHub 项目，太惊艳了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzicOFhYLlnIyiaqFPZ0m8oo3RkSu1q9HWLySqPw7307nh9tspOb9vkZRoiahduV1qAu2zpUVy8I834w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01游戏串流服务这个开源项目是逛 X 的时候淘到的，叫做 Sunshine 还挺火的。GitHub 上竟然有 3 万人 Star。这是一个开源的游戏串流服务器，专为 Moonlight 客户端设计。你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527581&amp;idx=1&amp;sn=d74d0322b184726d742c87ede494575d&amp;chksm=f8f16534759388a66394936227e2a7fd0cfd51ef7a67376812aed9afcc7a53f5fdc1e5320ac4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
