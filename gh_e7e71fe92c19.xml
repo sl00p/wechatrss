@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 精彩议题预告 | 危险游戏：智能驾驶一线攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhR94v02Tv4RCHsrzyXjwELG6gIom0D6n1VlPW9paHkict4ko7M62rY0Vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介议题名称：《危险游戏：智能驾驶一线攻防实战》随着汽车智能化水平不断提升，越来越多车型配备了先进的智能驾驶辅助系统，尤其是在新能源汽车领域，算力平台和智能驾驶模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601628&amp;idx=1&amp;sn=fb657badfd0d41066f75e43183457b22&amp;chksm=b0d87d5d25ca38ac130ed6469618dd5476cbe4552a932b9fd42792a8eccee191d3b6b0d7e206&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 17:56:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Windows内核CVE-2019-1215分析与复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcNRxXWnQAicX2XKUiaOHz2kBzkTybC730kKveawAiaZMdJXbx3JNlaaHDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>该漏洞源于ws2ifsl.sys驱动程序在处理内存对象时的缺陷，可能导致释放重引用错误。攻击者可以利用该错误，通过精心构造的输入，访问已释放的内存区域，从而执行恶意代码，提升权限。本文测试环境：◆虚拟</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601626&amp;idx=1&amp;sn=96fbadea99bbb779069babdb769a5de7&amp;chksm=b041601efdcb71782130a5a58c11bda8349d5483eccdd9d7566aeb469957a07ee89629d4af62&amp;scene=0&amp;xtrack=1#rd</link>
