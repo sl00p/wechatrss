@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[OSC开源社区]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[OSC开源社区公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM7q7KWaogPQuicoIN5DicjknSEngDueFL2HibrRnCNH8PHxQ/132</url>
+      <title>gh_430521f7587e</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[全球最流行前端框架React有了新的独立组织，并纳入Linux基金会旗下]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKic3WtsM7eEvITstKRWS3MxIPFibY0wFnwPlkylLD4KWrc8iaoafZJokUb439vTDx59LlogDbZ4Rgdag/640?wxtype=jpeg&amp;wxfrom=0"/><p>Meta 宣布将 React、React Native 及相关项目（如 JSX）迁移至一个全新的独立组织 —— React Foundation（React 基金会），并正式纳入 Linux 基金会旗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232266&amp;idx=1&amp;sn=b4d0bdc8582023256dcff0150ca65e90&amp;chksm=bf3e57e624687e529645b118ad805a0289ea1584dd35fe2890ea5da46c4f4041552a0e6ffba6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:13:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模力方舟Codex原生支持上线，百元体验金一键开撸！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/olgJCJjcicwFjPsDcxDKx0tM0aMweyUmo9jQXdWDC5ibibW9ojRGBcE1yOKWGmibXbkJUNhKZ7EQZffyQ47kfqJd9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>继对 Claude Code 提供原生支持后，模力方舟现已提供对 Codex 的原生支持，你可以使用模力方舟的任一编码模型，体验 Codex 超强场景适配性。模力方舟「Claude Code 体验金✖</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232266&amp;idx=2&amp;sn=401aabf365d8bf84187ae910c6194ea7&amp;chksm=bfdf40885959955cfc72998323fc4a9927ab30fa6982b07fb26af62568756902e3fe3a1ff165&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:13:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

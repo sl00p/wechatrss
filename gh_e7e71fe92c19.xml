@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Frida自编译以及去特征]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRk69qwK6FFWs6WMjsvYkMmeyuEXnSeMj9Sjf4dqqIQIia89aXmVI2pAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境：WSL Ubuntu 20.04.6 LTS版本：frida14.2.18查看网上很多很多手动魔改frida，绕过一些检测点教程都是直接通过git pach进去的，首先想自己手动修改一下源码，理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=1&amp;sn=bfcb75dafc7ac077bbbd408600151247&amp;chksm=b0789dcaa3c13e4139b2cebf3779c9280ec9f97020c26897b110e465b8088860ea4d82d7983a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI安全新范式：京东JoySafety开源项目深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIBxrscJVLG4zhRn8rCmxCHxBcuSibZ5NGhR2XfLRgXm8LhpZp8uwuHguQTtbCkU8UJNL3HHf4hgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型技术在各行业的广泛应用，安全问题日益凸显，成为制约其规模化落地的关键瓶颈。内容生成风险、数据泄露、提示词注入攻击等新型威胁频发，不仅影响用户体验，更触及监管红线。政策层面，《生成式人工智能服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=2&amp;sn=06145b6e4c28292852cb7a0414a1ada2&amp;chksm=b084cf9a2b6c139f70c08d1cb9a3cbb961a6ed7e3a6313438d4f2f040e0ad8c828dcdfc3bbcb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[勒索60万英镑、暗网发儿童照！Kido 托儿所攻击案两名17岁嫌疑人被英国警方逮捕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIBxrscJVLG4zhRn8rCmxCv8OsibXGcSOzVOxM9EgSuDMSOHKx4KQkPKeqQUF3xLlva2cL2ZWVe2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>伦敦警察厅（大都会警察局）近日逮捕两名17岁青年，二人涉嫌参与针对“基多”（Kido）连锁托儿所的重大勒索软件攻击，该事件导致8000名儿童的数据信息泄露。以下为此次黑客攻击及警方调查的详细情况。20</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=3&amp;sn=5add2428fb79c23780200d61db85b72b&amp;chksm=b028aac7277afaa1e70bd440e3a6ab95ab3339e1cbb210173b5b1badff3b32e3dda48132713c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Frida编译调试与Hook技术实战：赠 android rat源码供学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ea2W9U8R21NfF9OK3Yck3qMYsMRRstujTTgErxkXFJxLUtjOw5YSibchQaSRpiclFTh8ZQ1UFTZ5RA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Android 应用开发如火如荼，而深入了解其底层原理和掌握强大的工具，能让你在开发、测试以及安全分析等领域如虎添翼。你想了解Android应用的实现原理吗？你想掌握应用层加密数据的解密方法吗？亦或是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=4&amp;sn=b05231696f0e4a9c0f97c80a839cb104&amp;chksm=b08100086c539fe5d528aadf8d8a107f8b6632c978b7aaa06150c02215893d5dc41e81dc0500&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 精彩议题预告 | 危险游戏：智能驾驶一线攻防实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhR94v02Tv4RCHsrzyXjwELG6gIom0D6n1VlPW9paHkict4ko7M62rY0Vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介议题名称：《危险游戏：智能驾驶一线攻防实战》随着汽车智能化水平不断提升，越来越多车型配备了先进的智能驾驶辅助系统，尤其是在新能源汽车领域，算力平台和智能驾驶模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601628&amp;idx=1&amp;sn=fb657badfd0d41066f75e43183457b22&amp;chksm=b0d87d5d25ca38ac130ed6469618dd5476cbe4552a932b9fd42792a8eccee191d3b6b0d7e206&amp;scene=0&amp;xtrack=1#rd</link>

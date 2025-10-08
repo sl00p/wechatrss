@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[美团技术团队]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[美团技术团队公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/PjEpNia7tPv3lXLCTwLd09QAEiapx0TRFb4Xw3pzGypcyK2DaibvS6Bic5xNSpW4IxUkqMpjIEUUmewCJsYoFpGOtgkmiaicv6HHDQveqBj040HmU/132</url>
+      <title>gh_96d37a04e9bf</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[可验证过程奖励在提升大模型推理效率中的探索与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX6EFMLrnos4MibOCuKVYVicGfpBBCylEpRiahQRueR1ll2PgxBknp2pMvNO9cDJbDmZGfp6nzulCpWQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第631篇 | 2025年第028篇美团业务研发搜推平台部算法团队创新提出可验证过程奖励机制（VSRM），针对大模型推理中的冗余回复与过度思考问题，精准奖励有效推理步骤，显著缩减输出长度并提升推理效</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781474&amp;idx=1&amp;sn=7282bee4c7608dc05de01477925ab8f6&amp;chksm=bcf75c1112f2ec9fccb0d97572a82f23ba978310821d5aca8341c547fdec8a39e095d4d55f2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MARS TALK 第06期｜走进香港理工大学，共话高动态环境下的智能机器人发展与应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX6EFMLrnos4MibOCuKVYVicGoXMCLhfDPciaK60y0bQx5ckkyLfeoTm4C72ic0YWI8KcZq13ia6LUsx2A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>9月13日，由美团机器人研究院和香港理工大学及无人自主系统研究中心联合主办的MARS TALK学术沙龙活动，在香港理工大学圆满落幕。本期活动以“高动态环境下的智能机器人”为主题，邀请到来自产学研用各界</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781474&amp;idx=2&amp;sn=b052043a9f15afbcb67559e2c9120ba4&amp;chksm=bc6e67e28e3773123c7407ca9b7a3c805df22b4486a0dd68b64d3772be7fb3d52f6beb70afe0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

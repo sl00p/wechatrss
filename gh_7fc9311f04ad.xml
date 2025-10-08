@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里云开发者]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里云开发者公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/bSV9SZLlia2PPUSl68jTFQeKaBTsSJHS7NdibAlh7ibOUiaGnL6s55iaibLAMaJ0K7icRGu2QKcGgfO0EnMYCJFicicM2gMBNapuogZJItWY0RzhUNpo/132</url>
+      <title>gh_7fc9311f04ad</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJXfnT1osPI0Udr0lMvYU0biagBrQVBlWpd11aagxTozM73zf9SXJs7ibhUB3nOIQoUibp1HnGdxcuAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、故障复盘的业务思考技术支持工作的本质目标是帮助业务方做好稳定性，提升C端用户体验，主张blameless的复盘文化，复盘人心里坚守You can’t "fix" people, but you c</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553554&amp;idx=1&amp;sn=83e85ef49ff2879523ece47e020b8b24&amp;chksm=e8e7414837232aea7a265cb67ea701596798ae8453203e16ca61c4318b78abb162cd7655303a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
