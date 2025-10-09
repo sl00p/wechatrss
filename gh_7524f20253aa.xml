@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新型多态Python恶意软件：每次执行都会改变自身特征]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fay9vDjcukYyUIsCrRH6gIs1ibIUh8J8JP1icDJj2X2SNjpSAM69gFiaMUSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近期发现一款基于Python的远程访问木马（RAT），该恶意软件展现出前所未有的多态行为——每次运行时都会改变其代码特征。Part01低检测率的完整功能木马这款名为nirorat.py</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=1&amp;sn=a136c59bd2e0b7d398ad6d0feb832ba9&amp;chksm=bcd072873cf2f5fea79774546df0273422614556a75126cf92bbd027f8a982a09701eae8445a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从钓鱼攻击到恶意软件：AI成为俄罗斯对乌网络战新武器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayKNgCSgO2NcaUTQoWzcopNuCk17EX7VzqKKeH4QUK92jn97lf0cFq6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰国家特殊通信与信息保护局（SSSCIP）表示，2025年上半年（H1 2025），俄罗斯黑客在对乌网络攻击中使用人工智能（AI）的技术已达到新高度。该机构在周三发布的报告中指出："黑客不仅利用A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=2&amp;sn=b3e0437ee284967674622a5219ad400c&amp;chksm=bcb884552af240b2d283be98d5e7ea8323c5e1ea8900211e3f77854c2a58e2ec8ead73975c9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI聊天机器人被用作入侵敏感数据和基础设施的关键后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayicIsAzQXbHy36BEAulJ4SZkGAvC4wiazkQsYspzib3Ke0JWFfAeUxicGwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击手法分析近期出现了一种复杂的恶意软件攻击活动，攻击者将会话式聊天机器人作为入侵企业系统的隐蔽入口。该攻击最早在2025年9月中旬被发现，主要针对基于大语言模型构建的面向客户的聊天应用。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=3&amp;sn=ed1df56bad3509d5bb68550196e74b03&amp;chksm=bce6ee5844b67ba3886e3d19415f90c5b78dcba9bbad3f377d7cb7ecfcab8b63906da086aed1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TP-Link路由器漏洞允许通过局域网实现Root权限远程代码执行，PoC已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayvztqQvKH6ltdia0DGv77kXraUgva5xmZgylyq93iaoUltU3sdnMiatHCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Rocco Calvi披露了TP-Link AX1800 WiFi 6路由器（Archer AX21/AX20型号）存在的一个高危漏洞，该漏洞允许局域网内的攻击者以root用户身份实现远程代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=4&amp;sn=c0dd0915c411c07d719354f03c7fcb19&amp;chksm=bcab8eb10ddb9e1ac564b0a8eefe94c801034314dbd306a12d47f9dc64b0986fc7a30a6e3e09&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibJicljEicMbYeTvGibOZIlBtxaFvs2XgwsIGRRPYb833uM2RmJ4UP8ibzVZANJb05uYRLP5njhicM0SUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日推出名为CodeMender的新型AI Agent ，该工具通过自动识别和修复漏洞来增强软件安全性。这项创新旨在解决AI辅助快速发现安全漏洞与人工修复耗时费力之间的矛盾。Part01AI驱动的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328513&amp;idx=1&amp;sn=514ea8e3ae4b44e770dcf3556955b7cb&amp;chksm=bcb3ef764ccfbf84fb6a6341e06818c566c98fa50e3ad8a20436478df1869bf3b7c2df5c096b&amp;scene=0&amp;xtrack=1#rd</link>

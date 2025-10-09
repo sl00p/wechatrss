@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 议题预告 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRfDL547pPYNkzlhImNEB9tCJZL6dOCZ9GEia3qFEF7FhUCB9gaXGZGzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机》在传统侧信道攻击研究中，昂贵的硬件设备和复杂的实验环境往往成为研究者的”拦路虎”。本议题将展示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=1&amp;sn=6ce800e0f4f6e0fa171ed7caa41176f1&amp;chksm=b04c36afc80022739f677fc28591fcf76bbea2ea17c0c83eeffabba48b6049dca5799061bd06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OLLVM扁平化还原—新角度：状态机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRQYqSGNbzfHndN84m3aI5ZP6UvRwN62ZCXXSUIY7uaDSpibdfL8Fwsog/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景 安卓逆向的核心流程（https://bbs.kanxue.com/thread-288487.htm）里面分享了安卓逆向技能树的“树干”。“树干”上有多个“树枝”，其中有一个就是“混淆还原</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=2&amp;sn=01f13f3a3a007ba4acf2fd791e7670f5&amp;chksm=b0fbdea69a885080e8eb766845394f19b8a2d5721267c036e2e47c20f0cab776b4443dc16711&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[联发科发布安全公告，修复Wi-Fi与GNSS芯片组多个高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HwiargdcCduYxia3K6ITiapDD3G6kRpCpfjDWA7KSw3sYdvwSxZIWwfCD2cBdlM9EVVxfn0bH4fgtdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>联发科（MediaTek）已发布2025年10月产品安全公告，披露了一系列高、中危漏洞。这些漏洞影响范围广泛，涉及该公司多款Wi-Fi（无线局域网/WLAN）及全球导航卫星系统（GNSS）芯片组，可能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=3&amp;sn=49975c18718017337efc6ac78e6273e4&amp;chksm=b06c6343f2b79cf0b2470c2d5d5fd47a16737daeab916142ca760b41e88fbcbc3440c02bd8ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Frida自编译以及去特征]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRk69qwK6FFWs6WMjsvYkMmeyuEXnSeMj9Sjf4dqqIQIia89aXmVI2pAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境：WSL Ubuntu 20.04.6 LTS版本：frida14.2.18查看网上很多很多手动魔改frida，绕过一些检测点教程都是直接通过git pach进去的，首先想自己手动修改一下源码，理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=1&amp;sn=bfcb75dafc7ac077bbbd408600151247&amp;chksm=b0789dcaa3c13e4139b2cebf3779c9280ec9f97020c26897b110e465b8088860ea4d82d7983a&amp;scene=0&amp;xtrack=1#rd</link>

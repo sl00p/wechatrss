@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯技术工程]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯技术工程公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/LGJeaeYwMW7tlSS6bys5B9eL4IkC51hj57IaJjZ9e79xONXTOJDtPjymPvkMzCyX3sD7To1y6xpdRKrjABxsGr82oxrlOEia7KeITUkqFGFfnZXyHiaoMKP3OyHG4WnuZ6OhMDcLcE73GKcjZpQW754g/132</url>
+      <title>gh_d14465b5ce6c</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[腾讯发布1.58Bit大模型量化新算法Tequila！突破"死区陷阱"，效果性能刷新SOTA]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavoeTqBZiagIg0LhdiaqavQKYkDNaD9c0RQRFyH5YnPJ1ocCBwCsPmMr8R7zxc9vgk8WUYwm8nlbniag/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对大语言模型(LLM)的量化方法层出不穷，近期三值量化（1.58Bit）在LLM中使用的越来越广，比如BitNet等方法。腾讯近期发布了1.58Bit量化的新算法 Tequila，提出一种QAT阶段</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796078&amp;idx=1&amp;sn=7c19fcbb318fd27cd60c8cf7bb90db5f&amp;chksm=bf6a3eb8ee1c99312cabac0db82b01db89bdf61aaa4e453d7ed03bc441994200d5d3fb440b40&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 17:36:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
