@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[智能时代·可信AI安全 | WiFi万能钥匙，助力第九届安全开发者峰会（SDC2025）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWARZJq6Aw2Cqbm14LuwK6nv3v4GKFo9iaD42h5p6OSVwPJGaW0H15zNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>WiFi万能钥匙·SDC2025 精彩预告随着AI大模型、自动化攻防和网络安全技术的加速演进，安全领域正迎来新一轮的机遇与挑战。10月23日，第九届安全开发者峰会（SDC2025）将于上海举办。本届</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601701&amp;idx=1&amp;sn=7511a088058bf2ff58c677e0e5e5f7e7&amp;chksm=b08b697770f5eac84897a2dc349b0632e1b8c2e91ddf4086a8070ab79ccf669631e0df7c72ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DefCamp CTF 2025 onigirl 复盘详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxNcPGOgr1FLV89tK0Zib9YrOOj6pQias6XBQ0PCfyQEArJUibhFIgIV5bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>该题是glibc-2.41下的题目，总共3个难点：如何绕过图像校验？如何在受限情况下进行堆利用？受限情况下如何劫持执行流？对于前半，本文将介绍完整的深入分析复杂流程的过程，对于后半，本文将结合glib</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601701&amp;idx=2&amp;sn=3fba161d9ba57447d17d2d50128db3e7&amp;chksm=b0728e53309f10fe058f2bf21488d2512c9e1a2342601d8bc19e9f6236f010990b46176307b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Copilot 曝严重漏洞，攻击者可窃取私有仓库源代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWPcB8CMaluuO1iageWLmIeibf3NMrhU67pTIWuDtqqfY7xibfvUOUCZrgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub Copilot Chat 中存在一处严重漏洞，其 CVSS（通用漏洞评分系统）评分为 9.6 分（满分 10 分，属于极高风险级别）。该漏洞可能导致攻击者在不被察觉的情况下，窃取私有代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601701&amp;idx=3&amp;sn=ea899df2ca76b7e80de827c947f156b4&amp;chksm=b02f60c498af3b19909332e695b52521e8f7d3b472450c7253594eaff10436660648ffaa5df1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题预告 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRfDL547pPYNkzlhImNEB9tCJZL6dOCZ9GEia3qFEF7FhUCB9gaXGZGzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机》在传统侧信道攻击研究中，昂贵的硬件设备和复杂的实验环境往往成为研究者的”拦路虎”。本议题将展示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=1&amp;sn=6ce800e0f4f6e0fa171ed7caa41176f1&amp;chksm=b04c36afc80022739f677fc28591fcf76bbea2ea17c0c83eeffabba48b6049dca5799061bd06&amp;scene=0&amp;xtrack=1#rd</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[哔哩哔哩技术]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[哔哩哔哩技术公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/tcMEQtKFe22AQEQrjRqDVmRBkNIdZFlG02qhOKliaT3rE2MQZjOE3LibTq8zPwfq858Czgicc84vIRcqh5ccOo619567XNEuV48vWsySWa1weZWdp0wjCUJXo9ooA3BwdDB/132</url>
+      <title>gh_6a92a838f9e0</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[VibeCut - 智能剪辑探索与实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754R615RNu7UnicoSolpdsMyAiaicHrF20hiau9KcJC1poS3pF9tadHUriaZtTIhIl6bWOeNCQPuuldhicicQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读为解决专业视频剪辑软件操作复杂与模板化工具创意受限的行业痛点，本文深入探索并实现了一款面向Web剪辑软件（WebCut）的智能剪辑体——VibeCut。它旨在打破全手动与全自动编辑的边界，为创作者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503578&amp;idx=1&amp;sn=817c3ba757f9f91dbbe70977f567983d&amp;chksm=ce65806ca0028ccfd452785940cef99b02699217bb3a91dcc684fb2073bde290691ad5a99bc5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

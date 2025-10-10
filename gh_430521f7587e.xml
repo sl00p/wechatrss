@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Go开发者的性能救星“GoMem”开源发布：12ns实现零内存分配！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib6h2IBEF78cOib1SbCNBSpA0JchanCSrxWZ1Zvave93LFjiavk32oIQN0ksjvXQVVibbx0ZGmekzuzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Go 语言的高性能应用开发中，内存管理一直是决定系统效率和稳定性的核心要素。尤其是在处理高并发、大数据流或需要极致低延迟的场景下，如何高效地分配和回收内存，避免不必要的 GC 压力和内存碎片，成为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232315&amp;idx=1&amp;sn=f0e5ccf4ca08ff3d33b294a5beebdb29&amp;chksm=bf38ca69f2ce865c52c13e90576b23ab9d11c5767e5b3bfc446d4e85a2e81ced48899ac8b155&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 17:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全球最火开源AI工作流平台n8n融资1.8亿美元]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9LESApUFd1aDCBWLibpHrBajooQlxciaJVHPA0he1F6SqA4Ro20dV7icOHDibA14IrpX8eAcJcUl1Nmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源 AI 工作流平台 n8n 宣布完成 1.8 亿美元 C 轮融资，由 Accel 领投，Meritech、Redpoint、NVIDIA 的 NVentures、T.Capital 等多家机构参与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232294&amp;idx=1&amp;sn=6317c4940fc73b5ff699eabfcb04126e&amp;chksm=bf9c01a8594f34a889dd5ff8ae5b13f58399558b4ddba295706965f4c1ee174161b58b5a588c&amp;scene=0&amp;xtrack=1#rd</link>
