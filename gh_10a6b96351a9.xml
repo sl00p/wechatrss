@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[炸了！业界难题，跨库分页的几种常见方案（第103讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz1gyoUEWiaPc5cuGl8agxcVlEGdWLfume3EhHWeNRRrAnp2MrhaVQn6CHiboTBEwq654UHxBMjr18g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》103.MySQL跨库分页为什么需要研究跨库分页？互联网很多业务都有分页拉取数据的需求，例如：1. 消息过多时，拉取第N页消息；2. 订单过多时，拉取第N页订</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979060&amp;idx=1&amp;sn=f8ebe0019d2c5b1de814e5ca6c0bd470&amp;chksm=bc199ab8853bab022f4b6363fd8492fce35edc54a29a7b080f0851748b8b4edd66da2b4317ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 08:06:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PHP使用local-proxy的一种思路！（第19讲）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657k3jTuD95MaY54QvkMX7goyIeyjI7tiaxn5Uwmk2h6ibKpfGPUaE2sOWRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978982&amp;idx=1&amp;sn=56b07e4f69ee69aa8de6ebad1afd34df&amp;chksm=bc06464c15d39b56d84d1c52c09faafdf95e6e9903bb861777d13f046726a7b4cdb458c764a3&amp;scene=0&amp;xtrack=1#rd</link>

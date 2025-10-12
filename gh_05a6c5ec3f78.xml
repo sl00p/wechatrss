@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯安全威胁情报中心]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM7iauE8pC7G1spMlz5rjn8Gz0GgyBIeTHBiciadjE3dYaS1Q/132</url>
+      <title>gh_05a6c5ec3f78</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Redis 多个漏洞简报（CVE-2025-49844、46817、46818、46819）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWUbvwx8icT1e9yDzDSR64pvIqkMfAZdYzibg2nMLGu5vWicSposHYOHib0q3uicicslEoCtm38K8tCiaPYIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称 (CVE)CVE-2025-49844CVE-2025-46817CVE-2025-46818CVE-2025-46819漏洞发布时间2025年10月03日影响组件Redis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510914&amp;idx=1&amp;sn=9b0da07c3e0eafa56dc65d01d371b16c&amp;chksm=edc6fe49a59bd6e34e2730312e69633743bd4512db413873a9f5ea3f56691d7240d967f8e20f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报近两周回顾 2025-10-12]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月9.28-10.12【家族团伙事件】ScatteredSpider利用Salesforce漏洞发起网络攻击，致使39家企业的数据遭窃取并泄</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510914&amp;idx=2&amp;sn=d9a4f66f09afdcb6df5bdf3e043646f2&amp;chksm=ed575947b581c3ea66363fec49fda1acda265a5b36a8e7d61677ae15e5a2ceb191045fbdc82e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 16:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

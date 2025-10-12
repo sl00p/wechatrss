@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯玄武实验室]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯玄武实验室公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM5m8wW2iaqGlewfWR2VMHHUvp4X4qGianyib7EtHKxzcWicRw/132</url>
+      <title>gh_6095d8d90146</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/13)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 数字签名伪造攻击：理解CVE-2025-29774和SIGHASH_SINGLE漏洞对多重签名钱包的影响https://github.com/demining/Digital-Signature</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960231&amp;idx=1&amp;sn=8954f0a1ad24c412e206569cb8788697&amp;chksm=8a4786cf28d91e2c45c02e6cbc0df865f0382e0936549f5faf5fb95ca52b5bc749a02248784e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 18:27:36 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

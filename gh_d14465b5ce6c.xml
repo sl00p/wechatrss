@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[24小时快速入门大热语言Rust！学不会来找我]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLU1jZhesHYJTcC2KQVlABHYE0NicyQPFR4r3TQJZqzSXSuTicl0KrgU5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：richardyao最近几年，Rust在业界的使用越来越多，本篇文章从Rust核心语法等基础知识入手，进而详细的介绍Rust语言不同于其它语言的思维方式，最后通过一个实战的项目，带大家快速入门R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=1&amp;sn=374bd0d6901ae1971b36dc106b4903e5&amp;chksm=bfee587f0da01b273bd99e9183f7662c4eda79626057a06f9f7795e526459622d92127b25582&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[tRPC-Agent-Go：构建智能AI应用的Go语言Agent框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLYG19L5hvBCKMEYpoWnoZSA6kTNHiavTWqlGUwhRNZbnHJJ5YlDpGBmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语tRPC是腾讯内部覆盖最广的RPC开发框架，覆盖了腾讯大多数微服务，服务了如QQ，腾讯视频，腾讯音乐，QQ浏览器，腾讯新闻，元宝，电脑、手机管家，腾讯云等业务。其中tRPC-Go是使用最广的，累计</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=2&amp;sn=a16d5ea3c16157d41710a3f793b07b4a&amp;chksm=bfa90eb6fa863c590cf2ac9373598b0cb8506c6c1461539b2b0678ef6443b8b807a0f8f32cf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯发布1.58Bit大模型量化新算法Tequila！突破"死区陷阱"，效果性能刷新SOTA]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavoeTqBZiagIg0LhdiaqavQKYkDNaD9c0RQRFyH5YnPJ1ocCBwCsPmMr8R7zxc9vgk8WUYwm8nlbniag/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对大语言模型(LLM)的量化方法层出不穷，近期三值量化（1.58Bit）在LLM中使用的越来越广，比如BitNet等方法。腾讯近期发布了1.58Bit量化的新算法 Tequila，提出一种QAT阶段</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796078&amp;idx=1&amp;sn=7c19fcbb318fd27cd60c8cf7bb90db5f&amp;chksm=bf6a3eb8ee1c99312cabac0db82b01db89bdf61aaa4e453d7ed03bc441994200d5d3fb440b40&amp;scene=0&amp;xtrack=1#rd</link>

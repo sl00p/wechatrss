@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[字节跳动技术团队]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[字节跳动技术团队公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/GkLjCq1hePAMFGKS5lDd4Njfwd6a7rBYEHCgt81sk5X2CzY8bQOtLcic9x8Xrw6kA5rrnTWzibnNJmKg9W8mnibQSOXY11zlY99n3M3v44KYLU/132</url>
+      <title>gh_24231986c9c8</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Compose 智能重组：编译器视角下的黑科技]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgmndmb8GjaFZVjHGcwnkZGKdA7mIUicgXIQROVsCzr55BUmvMjibOg4ib8vyoT7rz5KNCDNFyKWXZHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>什么是智能重组Android View 通过测量、布局和绘制三个阶段完成 UI 渲染，Compose 整体上与 Android View 类似，但在开头多了一个叫做“组合”的重要阶段。在组合阶段，Co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516896&amp;idx=1&amp;sn=36bc793e8b7da00db3cf01c7cb14eb73&amp;chksm=e801e9f6917f547f5e5b4949efd6b7508f78bd610432d8b86354a37015f0fb2ebcb11e0c72df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
