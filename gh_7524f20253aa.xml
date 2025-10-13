@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI安全护栏破绽百出，简单提示注入即可绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR389RiaMbcX1ay2otolZKqnbEaJicCF5zmAMazlfRDR8XsQQLllyWqp3WiadafkUZjLrwtaIqUxdpHibKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI最新推出的Guardrails安全护栏旨在通过检测有害行为来增强AI安全性，但研究人员已利用基本提示注入方法迅速攻破该系统。该框架于2025年10月6日发布，采用大语言模型（LLM）来评估</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328717&amp;idx=1&amp;sn=33062e6f74193fb45931ed0000ff2daf&amp;chksm=bc34ff2c94776201e4ae20c86a8e9c6db84379b393b315606ad14cf279df9c3b94fb38dc993b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告｜大模型与智能体时代，如何筑牢安全底座？10月15日腾讯安全视频号开讲！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR389RiaMbcX1ay2otolZKqnbEmoz7zDb7B7eWBmPQ2AVFlteV8CBsCrUlK7mW8LKtjIlWkasSIxEZicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型从“工具”升级为“决策”，AI智能体已能主动获取信息、调度工具并执行多步骤操作，实现了从理解到行动的跨越。然而，这一技术跃迁在释放巨大效率红利的同时，也将我们推至新的安全临界点——内容失控、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328717&amp;idx=2&amp;sn=0097d5c57088bb436f7b0e6b13df243c&amp;chksm=bc6aebda444323ba30765acb01ab10d2ae5fd0eb3747179a055fdc7cb649f2046be61eff31b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR389RiaMbcX1ay2otolZKqnbEicicn7iakHW61Yfe60nTrRQFOBjwaaTlpZ62x1VUaPibU7orj4MBIIaIMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>苏黎世联邦理工学院研究团队披露了一个被命名为RMPocalypse的关键漏洞（CVE-2025-0033），该漏洞影响了AMD Zen 3、Zen 4和Zen 5处理器系列的机密计算技术。攻击者可利用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328717&amp;idx=3&amp;sn=cef6d2e68c8b9dda3bb0e925eee5d2c4&amp;chksm=bc5e9e001ebc0d98fa4411b663d0117b937b421a2517ad8005c4fe3cf53844a9f7eef99cb1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用Discord通过npm、PyPI和Ruby软件包构建隐蔽C2通道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR389RiaMbcX1ay2otolZKqnbEiabibMcJUiawr3XIE1T0r6qFsbyOKpiaWdibWOnjNYfO2r4SLKLYc0s1kqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，网络犯罪分子正在利用Discord webhook作为替代性命令与控制（C2）通道，渗透主流编程语言生态系统。与传统C2服务器不同，webhook提供免费且隐蔽的数据外传渠道，能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328717&amp;idx=4&amp;sn=87b25375604d746ea25464abac06bf11&amp;chksm=bcecf8e93cc36d47aab6e344bc3fe507d666d9ed2e17c342b08237d90379cf283d09ca5dd650&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从0开始入门海外SRC，专治英语短板、没思路、变现难]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385otHJd7ZibgMrEH75LfFn43ZxoHcicGSiceO936j084YO5uyliaYT0DD9LaaI4cdoKQ6tRzjJowYiaXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言走过六个期班的积累，玲珑安全团队的漏洞挖掘课程已迎来全新的第七期。凭借持续积累的高评价学员口碑，玲珑安全团队以一份始终如一的答卷回应这份认可——“我们太清楚：漏洞挖掘不是靠“碎片化视频”就能学会的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328683&amp;idx=1&amp;sn=255b776302c0bd169dbd8e06e54b97ff&amp;chksm=bcaeae477cfc8a6cc573de1e78299130d1a790afac14f87dd53adaceb66f4c75ff2337c5e508&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,24 +309,6 @@
       <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etichWhfDbMMq2CN6qmPjzwz6Rv36YpU9CsaE9fY3vakibA9p9cderyicibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>威胁攻击者正在野外积极利用一个影响数千台思科防火墙的严重0Day漏洞。该漏洞编号为（CVE-2025-20333），CVSS评分为9.9分，对全球企业构成直接威胁，是今年在企业防火墙基础设施中发现的最</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=2&amp;sn=22d42b4d56669eb3ac3ee3eb2dbad4d5&amp;chksm=bc39c82c723d016b6ce700fe004cce570be00cc74f8b33806639186d07cb78daa17a2a0098e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FlipSwitch新型钩子技术突破Linux内核防御体系]]></title>
-      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etKdXQWWf5KWZAnhEddYJcgmINXKTSsWZ3N2u7TrEFVjcIqd8fAx8X5g/300?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全领域近期出现了一种针对现代Linux内核的高级rootkit变种FlipSwitch。该技术于2025年9月下旬首次现身，通过利用系统调用（syscall）分发机制的最新变更，直接将隐蔽钩子植</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=3&amp;sn=50240c537ac0a6dd340490a9ab974e62&amp;chksm=bc24febb45226898035765b866a0bfd155885a96d425b31f9daf8e455eeb9a9c25f80875df9b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[捷豹路虎与朝日啤酒遭遇网络攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePxCoUW88WuNvWFNaGzDN2hud8W28xaDBxjCM3mBmAyuaw80cm5AfaVw/300?wxtype=jpeg&amp;wxfrom=0"/><p>当网络犯罪分子能在同一个月内使豪华汽车制造商和大型啤酒生产商陷入停摆时，显然没有任何行业能够免受运营中断的威胁。Part01制造业成为攻击新目标获得英国政府紧急资金支持的捷豹路虎(JLR)正准备在遭遇</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=2&amp;sn=78850a6db9b0471646d292a9c49c15ef&amp;chksm=bc0ca50fc445f3bb9f643f150222a44302b50146b73f69dd003d6963c259db334813b629d346&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux内核6.17正式发布，修复高危UAF漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePWsNicFISGDy8BxicAXxRxTicPgSVfWaCuG8coPdaYdqc1E323lZ0wELDw/300?wxtype=jpeg&amp;wxfrom=0"/><p>Linus Torvalds 正式宣布 Linux 内核 6.17 版本发布，该版本主要聚焦稳定性提升和渐进式改进，而非突破性功能。此次更新带来了大量错误修复、安全增强以及各子系统的驱动更新。Torv</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=3&amp;sn=e83dc08ed6f79d4042f634d8d1041c12&amp;chksm=bcf8ad125e948d9aa0bb8d10a3c90e68c4e735f43ac6f8abb906a9b781aa65e7a416b91448c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

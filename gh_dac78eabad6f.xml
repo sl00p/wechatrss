@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯云开发者]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯云开发者公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/V4gRTZJQucJKAGHmJJdItzILTY3CTicT5qOMukaFPruibWDrMSnAtH4GEmxclPa1HoS6mwY7XP2mWhCgP1smFnb7aiaVAxLeY1ScGR8mK1maDY/132</url>
+      <title>gh_dac78eabad6f</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[DeepSeek-V3.2加速技术详解，效果惊人的秘密？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95V5JIRxicdvMKeRpZAe5ZqpicR19nP7IibcI9oIOrKeOa7pTkHVI8y2m6HDMIsxkUArAicksyuBKP4PA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从DeepSeek-V3说起2 DeepSeek的Sparse Attention概念3 V3.2的DSA详解4 训练过程5 结果很惊人6 小结和猜想LimitationDeepSeek依旧</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692373&amp;idx=1&amp;sn=c33b129e98d27db88bfef910a55f6c90&amp;chksm=eb2545ca34f495aa8eac9b0cde35e17f48f8453ad52d3e47a6a421a60a79a36e91023a10a165&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

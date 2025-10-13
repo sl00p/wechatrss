@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 精彩议题预告 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj6cDDOpmDmI7icYEJ1NcxQV7stsm6AV0VEnvCIWxwFrDqb6TGYAVIow0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《大模型供应链安全的熵增效应：风险挖掘与熵减策略》随着大模型逐渐成为新一代 AI 的基础设施，其供应链安全问题正以前所未有的速度与复杂性不断演化。从数据处理、框</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=1&amp;sn=710a5278ab680a3f8bcbbebd8ced9927&amp;chksm=b0e4a8be57feeb0a76b3d304278a2973aee91ee7e2f4f9f31ac0897a90a9943b1bf80382d93e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用NMI中断检测无模块驱动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSPibgcEw4HGWZfZbgW3KwQHXO0fktvcS1pYNQuZrFuyDBrSJX1D3O5jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>各大论坛、博客讲利用NMI插中断检查堆栈的时候普遍有一个错误：在NMI回调中直接调用了RtlWalkFrameChain或者RtlCaptureStackBackTrace。比如R0g大佬这里百密一疏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=2&amp;sn=0e44d185666f6582ab92542e05a6cf9f&amp;chksm=b088c7f51b0a8e9eb362dc1e0689a80e30bfc4f9ed0c00841a56c9e962c279e461eff3c63520&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Invoicely 数据库泄露事件曝光：18万条敏感记录外泄]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj6t3EopLc17eicQ0SK87oIpYJb6OcfQQYZZic9ibqspuxDpLhickxs86qeDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员杰里米·福勒（Jeremiah Fowler）近期发现，与发票和账单管理平台Invoicely相关联的一个数据库因未设置密码且未加密，导致近18万条包含个人身份信息（PII）和银行账户细</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=3&amp;sn=fa70a587765e1d9270576b88fc990b59&amp;chksm=b08972f2881e52f37205c4c85025e54fd548339fdc74d60dc7d3f08bff8832183c667a79f09f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[倒计时9天！SDC2025圆桌会谈：AI智能体与未来安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj66BTUQtRmib0psoE2FZ28bUNhiawaUy83E9ic8mPxicqkAxfibCicmgyjjYzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>圆桌会谈：AI智能体与未来安全随着人工智能技术的飞速迭代，AI 智能体已从实验室走向现实应用，深度融入数字经济、网络空间、智能制造等关键领域，成为驱动社会发展的核心力量。然而，技术的突破往往伴随着新的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=4&amp;sn=e35299ce6c470c616a7c7e71de812e02&amp;chksm=b0565a701b7fb368da828759456ad15e82e12bc9b93181e700d8008156cd798484ef153fcfc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 精彩议题预告 | 不同芯片架构下的可信执行环境（TEE）安全漏洞研究]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSXHfG42zv9pe5IwyL4gWvdLNkicvaJBTg7jqMKSTS6ichnCn0vWDehutw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《不同芯片架构下的可信执行环境（TEE）安全漏洞研究》如今，随着移动设备功能越来越丰富，我们的手机也变得越来越安全。手机中加入了更多的安全模块和防护措施，不仅包</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601924&amp;idx=1&amp;sn=9e13e2e13c7a31c0ba2c4b9c01f62435&amp;chksm=b02ac84d73c0f018024064f15b3f108fbea5ac88636dceb603fbc6527c0d52313feaf84d29ba&amp;scene=0&amp;xtrack=1#rd</link>
