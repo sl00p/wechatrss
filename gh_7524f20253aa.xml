@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[近半数地球同步卫星传输未加密数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38icicEiaibaiaW73jL33IdKmo4vbR5bXIm5uibl481np0fZo54hDicPyZMde6ziaibzAtib3DkT3miaHwPBKucA/640?wxtype=jpeg&amp;wxfrom=0"/><p>加州大学圣地亚哥分校和马里兰大学的研究团队发现，近半数地球同步卫星传输未加密数据，导致敏感的消费者、企业和军事通信面临被截获风险。研究人员使用价值800美元的卫星接收器进行了为期三年的监测，发现大量未</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328759&amp;idx=1&amp;sn=64eca02ca9971f37817311fdf1a8d965&amp;chksm=bc01af03114169fc27308cca167e464b8cebb77f200a5466b05c7862cc5c564cc0b34db1d77a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android旁路攻击30秒即可窃取双重验证码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38icicEiaibaiaW73jL33IdKmo4vOPLkBiapseWeL1oDicv27qA26BF1IzqznxU55nQSweWyjZicYKrfLqppQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员在ACM计算机与通信安全会议（CCS 2025）上披露，Pixnapping是一种针对Android设备的新型旁路攻击，可在30秒内秘密提取屏幕敏感数据（包括Google Authentica</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328759&amp;idx=2&amp;sn=805654d6edf6af2d2d161d0aa76670df&amp;chksm=bcaa18ab43cba6cd0613008f57d4f182d03670aa9b3aaaa6e566c90aa619987b8c18fbbbedea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows远程访问连接管理器0Day漏洞披露，已确认用于攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38icicEiaibaiaW73jL33IdKmo4vsPv6URdhicpbaapumtOPibHSoTTXzIhT0jLDiagBSLIYm10FHOuGnTH6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已确认Windows远程访问连接管理器（RasMan）服务中存在一个关键0Day漏洞正遭主动利用，攻击者可借此提升权限并可能完全控制系统。该漏洞编号为CVE-2025-59230，源于不当的访问控</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328759&amp;idx=3&amp;sn=5a74d20877e8b2004acd4e2daf0ab700&amp;chksm=bc2751fed8a526a5cb8ebc6db5e25795ff880a5389b02fb5e2ab579213460612ec5f64533378&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Sudo工具曝高危权限提升漏洞，PoC已公开（CVE-2025-32463）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38icicEiaibaiaW73jL33IdKmo4v2ajibr3hicuJdWLOtibgmzLL2rEgz0Kaq3xE0RLx9F82Dr0ib2aPAmQrqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述广泛使用的 Sudo 工具中存在一个高危漏洞（CVE-2025-32463），概念验证（PoC）利用代码的公开。该漏洞影响 Sudo 1.9.14 至 1.9.17 版本的 chr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328759&amp;idx=4&amp;sn=17fd0397356fe366e7f8ed866a23e058&amp;chksm=bc4af8b537fc27e108fcc867b3b2ac3c75eb1f8ca7db16e44e51b3808167b3369e850d7fcbb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI安全护栏破绽百出，简单提示注入即可绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR389RiaMbcX1ay2otolZKqnbEaJicCF5zmAMazlfRDR8XsQQLllyWqp3WiadafkUZjLrwtaIqUxdpHibKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI最新推出的Guardrails安全护栏旨在通过检测有害行为来增强AI安全性，但研究人员已利用基本提示注入方法迅速攻破该系统。该框架于2025年10月6日发布，采用大语言模型（LLM）来评估</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328717&amp;idx=1&amp;sn=33062e6f74193fb45931ed0000ff2daf&amp;chksm=bc34ff2c94776201e4ae20c86a8e9c6db84379b393b315606ad14cf279df9c3b94fb38dc993b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePFzbBmogh7gywibt7bG75LKDodNTOQ5A5HtBzt66cc4PtVOUdibpeO1DA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款特斯拉车载通信单元（Telematics Control Unit，TCU）存在安全漏洞，攻击者通过物理接触可绕过安全措施获取完整的root级别代码执行权限。Part01漏洞成因分析该漏洞源于外部</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=1&amp;sn=690643e23ada06629662057fec498777&amp;chksm=bc1aaac5a650a8baeb7d666f7b843eea7ae89100573c3ab37a49243542a385c5e1faebe497c3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[捷豹路虎与朝日啤酒遭遇网络攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePxCoUW88WuNvWFNaGzDN2hud8W28xaDBxjCM3mBmAyuaw80cm5AfaVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当网络犯罪分子能在同一个月内使豪华汽车制造商和大型啤酒生产商陷入停摆时，显然没有任何行业能够免受运营中断的威胁。Part01制造业成为攻击新目标获得英国政府紧急资金支持的捷豹路虎(JLR)正准备在遭遇</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=2&amp;sn=78850a6db9b0471646d292a9c49c15ef&amp;chksm=bc0ca50fc445f3bb9f643f150222a44302b50146b73f69dd003d6963c259db334813b629d346&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux内核6.17正式发布，修复高危UAF漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38cn2dgFBIkTGhUDdyxicZePWsNicFISGDy8BxicAXxRxTicPgSVfWaCuG8coPdaYdqc1E323lZ0wELDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linus Torvalds 正式宣布 Linux 内核 6.17 版本发布，该版本主要聚焦稳定性提升和渐进式改进，而非突破性功能。此次更新带来了大量错误修复、安全增强以及各子系统的驱动更新。Torv</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328330&amp;idx=3&amp;sn=e83dc08ed6f79d4042f634d8d1041c12&amp;chksm=bcf8ad125e948d9aa0bb8d10a3c90e68c4e735f43ac6f8abb906a9b781aa65e7a416b91448c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SOC走向AI自动化面临的关键挑战与解决方案]]></title>
-      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etFORcPPa6RlDvzTE1mJjBwnd29x0QuAAtFue3RbkIsicG8rSXATanSibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC环境中大语言模型的局限性大语言模型（LLM）和智能代理系统在日常生产力场景中表现出色，包括会议转录与摘要生成、待办事项提取、重要邮件优先级排序乃至旅行规划。但在安全运营中心（SOC）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=1&amp;sn=39fbb85a92739c0ed3a8f72e8fb66b81&amp;chksm=bc5a2fdfb48dcc15a754bcdd0b4e9335cfe930e0d86cb0faaf645300ca66ef4bf61c2b89d1f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击]]></title>
-      <description><![CDATA[<img style="max-width: 650px; height: auto; object-fit: contain; width: 100%;" referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bXKJkX1Sibv7vFkTHC47etichWhfDbMMq2CN6qmPjzwz6Rv36YpU9CsaE9fY3vakibA9p9cderyicibA/300?wxtype=jpeg&amp;wxfrom=0"/><p>威胁攻击者正在野外积极利用一个影响数千台思科防火墙的严重0Day漏洞。该漏洞编号为（CVE-2025-20333），CVSS评分为9.9分，对全球企业构成直接威胁，是今年在企业防火墙基础设施中发现的最</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328350&amp;idx=2&amp;sn=22d42b4d56669eb3ac3ee3eb2dbad4d5&amp;chksm=bc39c82c723d016b6ce700fe004cce570be00cc74f8b33806639186d07cb78daa17a2a0098e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Oct 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

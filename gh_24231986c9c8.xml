@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[迈向可信AI Agent：Jeddak AgentArmor意图对齐与约束遵循方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjUQVkPh1INRdYcjNJtoWn6PxHQOFicdWnnEyAVxdQyYm61JUvG2F6wCcmMOTpTPLlmibz2Vb53u3lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>为了从根源上解决 AI Agent 的安全困境，字节跳动安全研究团队提出了全新的智能体安全框架——Jeddak AgentArmor。关于框架的详细介绍，可以查看上篇文章：为 AI Agent 行为立</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516911&amp;idx=1&amp;sn=b30bd074ef49035c2b9b235ba58e67e3&amp;chksm=e88269a9c1b8b83d7e02665063d099ca980ecdc275f8b79f037d764863bcbfdb71960393a298&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Compose 智能重组：编译器视角下的黑科技]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgmndmb8GjaFZVjHGcwnkZGKdA7mIUicgXIQROVsCzr55BUmvMjibOg4ib8vyoT7rz5KNCDNFyKWXZHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>什么是智能重组Android View 通过测量、布局和绘制三个阶段完成 UI 渲染，Compose 整体上与 Android View 类似，但在开头多了一个叫做“组合”的重要阶段。在组合阶段，Co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516896&amp;idx=1&amp;sn=36bc793e8b7da00db3cf01c7cb14eb73&amp;chksm=e801e9f6917f547f5e5b4949efd6b7508f78bd610432d8b86354a37015f0fb2ebcb11e0c72df&amp;scene=0&amp;xtrack=1#rd</link>
