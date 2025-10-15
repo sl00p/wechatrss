@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[手写企业级请求库，支持缓存、重试、并发请求，以及SSE、进度处理...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuI7kISAmmmre0Wiax5D2KPx13byibwhico1ufQlv32VY1gReXKByeicJ7icZSTo9c6yxiawwxcFtgbqRibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！📡 现况前端的请求库，大家基本都用的是 「Axios」 📦而他是基于 XHR 封装的，目前 XHR 已经停更了 ⏹️相较于 fetch，缺失了一些功能 ❌如：🌊</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546387&amp;idx=1&amp;sn=d62d15fa65a3132304a9ecd718d726f7&amp;chksm=fd068ee818bea091bd8720d9ea5099ddfcbe5a26dabfbb7850b4812188ed88b1350dc1096ca7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[忍了一年多，我终于对i18n下手了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtMZJmqqWtrzzgCkKsJc5ef1zDY3Nzl1goxIMvibbCsMeib2zJ17R5rUETszNIMMib6P9ZahSO9jRahA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言大家好，我是奈德丽。过去一年，我主要参与「国际机票业务」的开发工作，因此每天都要和多语言（i18n）打交道。熟悉我的朋友都知道，我这个人比较“惜力”(并不是，实际上只是忍不下去了)，对于「重复笨拙</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546370&amp;idx=1&amp;sn=f9c896b8d557a1de61fd4b8e921b2aad&amp;chksm=fd52da643b1aa090163994336cd14aa4eac51a22622aa930c2dc00d4d94a1933e98a482b2009&amp;scene=0&amp;xtrack=1#rd</link>
