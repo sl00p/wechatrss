@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Spring AI Alibaba实践｜后台定时Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCRea9SPPsJetD9Dj35VJZCu3ZJRNbe0dSjXsZ2xGNicE5BY1xiaPpoESAKMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第116篇文章（ 本文阅读时间：15分钟 ）参考Langchain的这篇文章[1]，面对目前我们常见Chat模式的Agent形态以外，还可以充分发挥Agent新的运行形态：自主持续运行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=1&amp;sn=87d6507695c6cba045838c1f82ecd28c&amp;chksm=cece7934c3be4f72f354514c199e51dd627698b114abf6f2562bb2034cf34e2ab7c149b2d895&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI算法开源｜Logics-Parsing：攻克PDF复杂文档端到端结构化处理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCReaeVQfOLO4FbWnwXbJTRtHkmocbNoowMumlD0bHjevSrtoeBvJRDAu3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>在工作学习中，我们时常有要将图片或PDF内容提取出来的诉求，而当前各工具的提取结果难以令人满意，例如：· 手写的错题整理成电子笔记· 参考资料中表格放进汇报PPT· 化学等专业领域论文编辑使用当资料中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=2&amp;sn=5813230b041d34229b9c86a2944c93b8&amp;chksm=ce51c64970e7409a2f45923256d66121f341f68c2637de4b0b16299dee26f1ebf5d22b329a5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qoder + ADB Supabase ：5分钟GET超火AI手办生图APP]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GQNTau4eE41awIgPdWnVQc5F4EPCjAhSJ8dPx8mFlHxyDl9AjmcbRLAUfMMqiby5TZycOAjPy4GhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>视频效果：01前言在AI原生应用开发的时代，传统的后端架构正在被重新定义。本文将带你体验如何使用 Qoder、阿里云ADB Supabase 和通义千问图像编辑模型（Qwen Image Edit），</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508855&amp;idx=1&amp;sn=41170c2eb4d47db741341aaa23362cfb&amp;chksm=ce576a99a8b8afc9f24a83ae0eb58b50c1a890c06f69732318609f2facd909c8f6cb40161113&amp;scene=0&amp;xtrack=1#rd</link>

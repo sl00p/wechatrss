@@ -6,10 +6,16 @@
     <description><![CDATA[逛逛GitHub公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM6BUb11yK6iaP4lic3LfqT3B2bqNO6fiaiaJ0QDaJBz3SLq5Q/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/icFpsYYhJ3tCsZibNu6WfyODnS0sRys00Kk2piaoOVkzE0GzyySUf6oTfLxmKVm2SwvCgfCHUZYuPKDPibBRFem76qOHS8iaHDrrKJVLJnj0I4Gg/132</url>
       <title>gh_6f55ff91dc49</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[这个 OCR 开源项目天花板，杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4Sja02PlghVC8SUpcgHDNTyVAGzIa0CLc8u7EIia6RI0IKFQDrMibojibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，PaddleOCR 陆续推出了文字识别方案 PP-OCRv5、文档解析方案 PP-StructureV3、关键信息抽取方案 PP-ChatOCRv4 等多项重磅解决方案。得益于多项创新突破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527934&amp;idx=1&amp;sn=bdc73db73ba5273ea0c06024058ee6ab&amp;chksm=f89b87d727e19098221a4fbcdc33a5a7feab232bd8e20f89d12cd0efd5e679e6d8305bb12077&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 15:32:54 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[推荐 4 个 yyds 的 GitHub 开源项目，实用。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruytY0rS6ocz6MpIwmYKbuiaPHNiafVLsyVCcKyDwNgxWSV1nqjK2BcvCjHhSMSksD5LcPJV48BeUcCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01开源浏览器刚刚，这个叫 Nook 的浏览器在 GitHub 开源了，大小只有 8兆。它最大的特点就是运行快、占用内存少，并且把标签页变成了垂直排列，放在浏览器的侧边栏里。这样看起来更自然，也不会显</p>]]></description>
