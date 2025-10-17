@@ -6,10 +6,28 @@
     <description><![CDATA[FreeBuf公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM44FYfJ7GCP22pqkVUnTy8uqVR5bWNRIsyrSc23ffYDCg/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/nyZV7G8qtnqkKHOWCAUsx5HGReoR85aYwFZQCZV4ADy4Sia0etcYbbafVTia1ztlLJ4StrVNvfibfUsC9UvdddFO4Gtd8ialMCaC7yHd1bdPauE/132</url>
       <title>gh_7524f20253aa</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[架构、风险与落地：如何评估和选择适合的AI-SOC平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icrvFgDalWuFibkqLhyVJ0NzaGhIbPTnn2VQNHMHWdztUuoRPd6TaSGdcjy9GR4GowK0TctbrPRNag/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SOC智能化转型的紧迫性安全运营中心（SOC）正面临前所未有的压力。根据SACR《2025年AI-SOC市场格局》报告，当前企业平均每天需处理约960条告警，大型企业则需管理来自28种不同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328909&amp;idx=1&amp;sn=8fe17850ae2d186a6cfe6c9cd1bc03f1&amp;chksm=bcb532efb46fa5a1ed6221d765a468bf8217b8a69dca747e8a26d32098bc0aacf2d6f6124c02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[挖洞工具开发思路 + SRC实战技巧，这里都有]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icrvFgDalWuFibkqLhyVJ0NzRzJ9EywrVNpvPvoc583aOXkkicNwS1uvqNdL9piaRHr8oonObmib9kfWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前网安市场付费挖洞工具越来越多，但工具本身并不稀奇，真正稀缺的是开发思路和挖洞思路的结合创新。日常开发工具的难点：难点技术难题环境兼容性差Java类漏洞依赖特定JDK版本（如 FastJSON ≤</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328909&amp;idx=2&amp;sn=315f990e66e5499f06e359b0a4b5cbde&amp;chksm=bc9e5fc265c40e5461b3a475fe33ff8659308a0424e8b705380a4f7bda9204d90129c3397a8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | F5确认源代码与漏洞数据遭窃；中国金融科技企业遭恶意LNK文件攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🪟F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃💻中国金融科技企</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328909&amp;idx=3&amp;sn=222228fe25202b9d14b26a9595092520&amp;chksm=bc384d490fdff750a20c76f0f763db94ab83a1928b816ce3b55f21d5beb42f429e8e7d7c93b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[JSSS-Find V6.5：接口太多测不完？AI帮你判断高危漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibm1faibP97LmH644wNfgfrQJLjQaB1dQZr6jdGbhjRBPDZ7HjwicQKSgBjCZvbx3OFiaVTiciafRoI1Qg/640?wxtype=jpeg&amp;wxfrom=0"/><p>扫描器轻松帮你扫出几百个 API 接口，看似省了不少事，新麻烦却跟着来了 —— 满屏 URL 摆在面前，反而像站在信息荒漠里：看着到处是 “井”，却不知道哪口能挖出 “水”（也就是有价值的漏洞）。现在</p>]]></description>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibQFbPibo6nkIQqKKDr0clPn7AeqicGHrhUeV7vQs5cJCJMhx66Rwe68JQCgal3vWP5DsK3WCVLQfHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现一项突破性漏洞，能将Perplexity公司开发的AI驱动浏览器Comet转变为数据窃取的"帮凶"。LayerX安全团队将这种新型攻击命名为"CometJacking"，攻击者仅需</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328402&amp;idx=2&amp;sn=f025650aafbb712a8eb1fcb00c48d7d3&amp;chksm=bcea65fc2dba41e35556e738abf6ca9fe0afd60261a2e8a48fe18badd2f3a9a2d27bef32ad5c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[XWorm V6.0重现江湖：模块化远控木马携勒索插件与高级规避技术卷土重来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibQFbPibo6nkIQqKKDr0clPn0RCjnjUDkppHS8Rx3oCsofpuv4oJxwD8m40hLiaL8xfuWYUViacTA71A/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Trellix威胁研究中心（ARC）最新分析报告显示，曾在2024年看似终结的臭名昭著远程访问木马（Remote Access Trojan，RAT）XWorm意外重现。这款现以XWorm</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328402&amp;idx=3&amp;sn=e11e53b1b0549329a7e7c8a5174c683f&amp;chksm=bc8d218bf92b0b499eb1e4881d21eecf0f0637872493156e4ede06bc00f3d4d98eda3a6cbe28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10亿用户记录疑遭泄露！攻击者组织入侵Salesforce并将公开数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icEAS9m83yUd6MePwexEIY2ibpXkElemEZXKex53S21OYd9v9f7lTXxtKEPtMXicN0JT3YLOVsP8ibDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01数据泄露事件概况一个自称"Scattered LAPSUS$ Hunters"（融合了Scattered Spider、Lapsu$和ShinyHunters等团伙的战术与品牌特征）的攻击</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328381&amp;idx=1&amp;sn=e59339c0a6e3d2662425b2622b1e946f&amp;chksm=bcdf6e683660bf7b96cee745f59e8f6eeea8cb7a13f0bbf2e254036f44df34c1174a5234e379&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[红帽OpenShift AI高危漏洞可能导致混合云基础设施被完全接管]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icEAS9m83yUd6MePwexEIY2p9KuRZGDYAiafbk0OTlJzRG3C2aVCEMjibmwQlV17uO1dcJFSHXTQcLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞详情披露红帽OpenShift AI服务中发现一个严重安全漏洞，攻击者在特定条件下可利用该漏洞提升权限并完全控制基础设施。OpenShift AI是一个用于大规模管理预测性和生成性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328381&amp;idx=2&amp;sn=880bd50dbdc4abd4408c11e08d2c5c39&amp;chksm=bcb89843a2818541661af6f00b3f8c6d1d1c90ff073ee5531f9d944f9130eb498294064e229c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Oct 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
