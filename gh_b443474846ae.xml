@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[挑战Claude code和Cursor：阿里Qoder对标全球，AI编程迎来“上下文”革命]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPiapiamdxsGS195kib8kJwspaok5O235pMzHtSv9Wp74IvokeicGSC1U5lW8OfmfmXaaunPvFoCK2LicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>采访嘉宾 |夏振华 编辑 | Tina 策划 | QCon 全球软件开发大会 AI 编程工具正爆发式增长。以 Claude Code、Cursor 为代表的海外路线，凭借架构与交互创新快速出圈；Cli</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259312&amp;idx=1&amp;sn=23fbd1899e27842cd2007f56fe86506d&amp;chksm=bcdc5802fa48b2085811b58824de425f41c79f67e7308d4d511853fc62efbde3886cd28c77c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic新模型杀疯了！成本直降 2/3、性能直逼GPT-5，用户实测：比“吹”的还强，速度超 Sonnet 3.5 倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPiapiamdxsGS195kib8kJwspayfukrMpBeqkusEib7k2jm4ByGghhNdOI7VzmWjB6wib0qnVdpc77cjWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫刚刚，Anthropic 发布了 Claude Haiku 4.5 版本，现已面向所有用户开放。据悉，这是其最小型模型的最新版本，官方宣传其性能与 Sonnet 4 相近，“成本仅为后者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259312&amp;idx=2&amp;sn=c7bb7a70d63c0dd6837ba1d35d0cac0e&amp;chksm=bc17a20302283dfe74f3d1ea2a7f791b40eea0433f484e0c793e2b454783772e04f5ad3f4735&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[李飞飞的创业公司放大招：只要一个 H100 就能跑世界模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPNOHaF11YA8iariazKxdvhNAWBGqdy4ic3JFspd2Ojib5cSjyNia6QotYoUgbEJJjkUicPVkYTibovk3icVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 木子、高允毅 “AI 教母”李飞飞的创业公司，刚刚放出了一个大招。World Labs 在 X 上隆重介绍了一个新鲜的高效世界模型：RTFM（Real-Time Frame Model，实时</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259312&amp;idx=3&amp;sn=8ec042a680bc933a0b04a14e9fd610ef&amp;chksm=bcec3923483d56cbb110d676002faa1892f04b3542a2d1bfb805cf2a585ae17e194374b406f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[优步凭借 CacheFront 的改进实现每秒 1.5 亿次的读取操作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPNOHaF11YA8iariazKxdvhNARSeGkrI6nf70OVxvIBvTmfqOYbUYicdsQiaOBWP2ciagZZGYgM8zWHLuQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 张卫滨 优步的工程师更新了 CacheFront 的架构，以满足每秒钟 1.5 亿次的读取操作，同时确保了更强的一致性。这次更新解决了延迟敏感的服务中陈旧</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259312&amp;idx=4&amp;sn=bcf786dad988dce4ba13e5f04fa59b43&amp;chksm=bcef47a2709ece55e5b49d8bc2526ce08f9f3735d83a75865f800931cda815be19862822bd71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 时代，编程语言选型更难也更重要：Go、Rust、Python、TypeScript 谁该上场？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPiapiamdxsGS195kib8kJwspadfHS7eUuArbCdsCHf8WkQLMY5icrdJV0EhUZA7V89libn3E9pDXAOgHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜傅宇琪、Tina 在 AI 写码逐渐成为“新常态”的当下，编程语言的选择反而更重要。 Flask 作者、创业者 Armin Ronacher 指出：语言背后是复杂的权衡，在 AI 时代必须被重新</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259227&amp;idx=1&amp;sn=c9d5fc589ec73d6d7c6c5669fbce91ba&amp;chksm=bcf4cdaad6269d26b1252e0190141fa7c7faa947ff3fdff7a58d4eef8c26fc0c6f0ce652bd4e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPaAfrUjSDf9cxpKvIprKialziasVIBRub4Ta7icQypQOKnoP0lBUicWAsgl7OUCHvO1A1x7pkjJndbzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 深夜十一点，手机屏幕的微光洒在林悦的脸上。这一天，她已经陪伴了五个不同的求助者，从一段破碎的婚姻到一位年轻人面对失业的焦虑。作为一名心灵疗愈师，她习惯用温柔的语气安抚对方，用细致的分析梳理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651257934&amp;idx=1&amp;sn=4ef05b32eeb98631cd07ae358f881332&amp;chksm=bc227aee7566c2f53d76656ec0fb339ae45f2d7b87bca593ee3237957d3c8d31a49bf6ec1194&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Oct 2025 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一块电池，烧瘫韩国：数据中心失火 22 小时，647 套系统因缺失“双活”集体宕机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNExkHncoaeCibHJsceKmyhcGxYrKsvMU0YR2T6qWk2iciaUNsNXF8TWR5GqlmvnBXBMPpPRXpvkiauyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | Tina 韩国遭遇史上最严重的数字基础设施事故。位于大田的国家信息资源院数据中心（National Information Resources Service data center）在 U</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651257900&amp;idx=1&amp;sn=2301e50b20063fd0e1fab415cfa63bce&amp;chksm=bc5489dd02a0015c2cd7b681edb1721e125a14253fcfe072db24f65bef319ae6bb8b1064a4ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Oct 2025 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
