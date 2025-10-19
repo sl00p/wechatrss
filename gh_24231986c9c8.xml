@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516946&amp;idx=1&amp;sn=42daddd11872e0b49d2ab52752c45ec1&amp;chksm=e810b09d38d2541a2d3e8497912fb707f3bc83d2e1e62dcdca354bc994818c90633d89aa9046&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[1024 邀请函｜火山引擎 AI Coding 技术实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiasgfa2WcT4a0e1UW2WvR3rWoTvcy65kWvRL0vaMDVsiaJYkSwWicf7icJNPtjwSQg56cp7HNEHNOicfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 从“辅助工具” 升级为 “协作伙伴”，软件开发的规则正在被重塑。对于身处其中的开发者而言，如何更好地与 AI 协作，拥抱 AI Coding 浪潮？AI 时代下，开发者认知应该如何再进化？1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516919&amp;idx=1&amp;sn=c88d056b6bc32b4e0f924864792baaa8&amp;chksm=e8cf7915dbfe3e12bbe477535d9f6d606e15ada02f9c6e47e74905e85935d84f498a7653788b&amp;scene=0&amp;xtrack=1#rd</link>

@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM7iauE8pC7G1spMlz5rjn8Gz0GgyBIeTHBiciadjE3dYaS1Q/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/nJRs1RlEIMDyibmBQQWK7HOyicd51282JQBqb59511Wibju7fNibh3y1xj0BkKt1DqxLt7u2du8YxrdHLohqYgCFibRrVjA4SLmZMB0HmZkDAOHg/132</url>
       <title>gh_05a6c5ec3f78</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-10-20]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.13-10.19【家族团伙事件】Mysterious-Elephant采用定制鱼叉钓鱼渗透，引发数据泄露事件Play利用系统漏洞加密</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510929&amp;idx=1&amp;sn=dbe1f7a0e20a1031de8242fbce2163cb&amp;chksm=ed112319ab902986e25f6deb3cdfd15ac65d67f54169e47427489c18d12157a9ed0366580679&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 17:08:22 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[Redis 多个漏洞简报（CVE-2025-49844、46817、46818、46819）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWUbvwx8icT1e9yDzDSR64pvIqkMfAZdYzibg2nMLGu5vWicSposHYOHib0q3uicicslEoCtm38K8tCiaPYIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称 (CVE)CVE-2025-49844CVE-2025-46817CVE-2025-46818CVE-2025-46819漏洞发布时间2025年10月03日影响组件Redis</p>]]></description>

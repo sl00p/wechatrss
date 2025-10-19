@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[海外平台HackProve冠军亲述：那些被忽略的漏洞如何助我登顶？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXzZn7KAy1xz9n63iabFW4seeRPPkaHKKMyMCaZjAdxjH0aF7Pb1y52eQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言征战海外SRC，斩获HackProve挖洞大赛冠军，手握六位数奖金——这是年轻白帽w1th0ut交出的成绩单。而三年前，他还只是个觉得自己“对网安一窍不通”，差点转专业的迷茫大学生。但更值得关注的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=1&amp;sn=2ef2d05a40d0570968e979e43c6fcfcd&amp;chksm=bc118eb77e86e3ed75c9273a5f89dd785d5fdd79bc5466a3d29790b559157a564d0341f7b2a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GlassWorm供应链蠕虫利用隐形Unicode与Solana区块链实现隐蔽C2通信]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXrpmjquS6e7IBWdvQeWYr4bicRu73w8ASqkqyxgxUr3rXPibnq5Y27dRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Koi Security的研究人员发现了全球首个针对OpenVSX市场中VS Code扩展的自传播恶意软件。这款名为GlassWorm的威胁创造了软件供应链攻击的历史性里程碑——它结合了隐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=2&amp;sn=8363d9909c7ab6af78b73b7eacb5337f&amp;chksm=bcdcb5ab9176ac5ecabb539ec25cc8128e638c0ffe8d680e828ca688c23c11c533c624b52321&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型DefenderWrite工具可向杀毒软件执行目录注入恶意DLL]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXBZNaY3RmEPpy9HicHdko5vMLqUBgwTcoa4GiaQrsda9UnISdyQqwfk1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全专家Two Seven One Three开发的DefenderWrite工具可利用Windows白名单程序绕过防护机制，向杀毒软件可执行文件目录写入任意文件，可能实现恶意软件持久化和规避检测</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=3&amp;sn=e83e95a4197c1dc5978994c21098c2a0&amp;chksm=bcbfac9bc7ad138b1778d669587c0d73a986bfc45e7d5e93eb081b7940db0659837990222d83&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜攻击者组织利用区块链技术构建恶意软件分发平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXbj5wichu8JsuH4tbl6E8rkCLnLOibjcE1V6ZkSBN3p3J5jjP1yD48HMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>国家支持的黑客组织与网络犯罪分子正日益滥用加密货币区块链托管恶意载荷，这种被称为"EtherHiding"的技术使攻击更难以被检测和清除。谷歌威胁情报小组（GTIG）研究人员在新报告中指出："我们观察</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=4&amp;sn=ffc7cf232b8dd5f8c9e4473a7ffa125e&amp;chksm=bc05104dc70c2e8e648126b1f48ec8e5f0ced7dd8b616250bc10b199e0457581ba5545963b4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大众汽车遭8Base勒索团伙攻击，敏感数据疑遭窃取]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38THGyzL64K6RUGSdfytNkbmvhOibic5ycdjq3HPgiade8n8vHibm4L5V4yjzkQv4mh2zrSAtagOwjj4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大众汽车集团已就勒索团伙8Base的声明发布公告，该团伙声称从这家汽车制造商处窃取并泄露了敏感数据。这家德国汽车制造商坚称其核心IT基础设施未受影响，但公司模棱两可的回应引发了对事件完整范围的质疑，并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328929&amp;idx=1&amp;sn=ca91a02d859c51987a0bfb5150027c85&amp;chksm=bce5af78ee66f643a491193633ee50b8471d3d78cea5810a8efcd62ac66f84068ed67ed81505&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCK0Gsr0AkoJdKjA49Ys9WX999EUH0zJUDBe18zLMibnKjhPV33wdrRLZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着Kali Linux 2025.3版本的发布，一项重大更新引入了一个结合人工智能与网络安全的前沿工具：Gemini命令行界面（CLI）。这个全新的开源软件包将谷歌强大的Gemini AI直接集成到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=1&amp;sn=1a05937ecbcbc26366a76948538abb81&amp;chksm=bcb3bb694c5a3ac8442041931aebbbdb07d7f7fb882777e29fa695044606e257152fdc443ba9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ARGUS：专为捕获黑客与物理入侵者而生的安防机器人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKWkIy5HE4Yzmnd7tzW2djPPGFicOTfibhVcjJkH5qcsZhdsUl39gLic8fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>图示：配备LiDAR（激光雷达）、RGB/IR（红外）摄像头和IDS（入侵检测系统）模块的ARGUS原型机，专为网络物理环境中的混合威胁检测设计。Part01应对复合型安全威胁的创新方案医院、机场和校</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=2&amp;sn=d687ced6f71f8943db9b864a5e3ea3b4&amp;chksm=bcb15e1c4b7f74ed3c3a26d6bb82c4352b7dd5c11ea4f8efadf0dd1cbe51b64bf1f5a506a3d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[可获取Root权限的Sudo漏洞PoC利用代码已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKF24jFficsjDEP8YwDP3Rq0RibycMIkcATI0dutKkLxTIgUEXEyCB5lLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对（CVE-2025-32463）漏洞的概念验证（PoC）利用代码已公开发布，该漏洞是Sudo工具中存在的一个本地权限提升（LPE）缺陷，在特定配置下可获取root权限。安全研究员Rich Mirc</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328445&amp;idx=3&amp;sn=0328117b75806f3d9aadd7f29f91dc45&amp;chksm=bc8a30057984e06c25484e68775f4772fb573e3e1b1d18336b379406c62dd2cf6b1d89ebb5ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKCqCSgT6ILA1al6rvcpyib9prmTaiavrrUfV2p14TlYicDiccib09Oq15Hrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Redis作为广泛应用于实时分析、缓存和消息代理的开源内存数据库，近期发布了多个安全补丁，修复了四个可能导致远程代码执行（RCE）和拒绝服务（DoS）的安全漏洞。这些漏洞编号为CV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328427&amp;idx=1&amp;sn=e706caef26a8a6b587b711f368f8f2d6&amp;chksm=bc8ca0fd3ceb7d3649a5f32101c588c81670d617ae264e251bc03c4193d1f5a388ae6694fa99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Unity引擎漏洞可导致数百万游戏面临本地代码执行风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39CPt9HFsok7Egu3rxNaQCKGxcdmR1cWoZrzyvrgZNBuxpWAgyIBAjm8wHmDD4fBdmnMFxhjROciag/640?wxtype=jpeg&amp;wxfrom=0"/><p>Unity Technologies发布紧急安全公告，警告开发者其广泛使用的游戏开发平台存在一个高危漏洞（CVE-2025-59489）。该漏洞会影响使用易受攻击版本Unity Editor构建的应用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328427&amp;idx=2&amp;sn=20ec85c35193e4a42470ed65afa128ba&amp;chksm=bca311416c1238b4ccd252ac33c1cef7b2ecd7f0be9969276d87356ad8608cc9e3e1fafeccfd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Oct 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
