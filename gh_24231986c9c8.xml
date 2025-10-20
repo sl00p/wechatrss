@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[NeurIPS 2025｜火山引擎多媒体实验室联合南开大学推出TempSamp-R1强化学习新框架，视频时序理解大模型SOTA！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjqBnfeutL81fPIwzbjbBmZcLkyIxuDy6B3vMzgqdNMFFPIjwJGOrvicjVCjY9UM6uH1tBiaicl8XmaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能与多媒体技术深度融合的当下，视频时序定位（Video Temporal Grounding） 成为视频理解领域的核心任务之一，其目标是根据自然语言查询，在长段视频流中精准定位出与之匹配的时序</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516973&amp;idx=1&amp;sn=003a9a67c2ea029c189253c59e78b501&amp;chksm=e83d28b054b4a79a6c99cb2976ca8a4d4d5e338bc06cdbb52c8deecb7cfa1203f7e455fac1b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516946&amp;idx=1&amp;sn=42daddd11872e0b49d2ab52752c45ec1&amp;chksm=e810b09d38d2541a2d3e8497912fb707f3bc83d2e1e62dcdca354bc994818c90633d89aa9046&amp;scene=0&amp;xtrack=1#rd</link>

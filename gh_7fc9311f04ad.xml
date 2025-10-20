@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Coding实践：CodeFuse + prompt 从系分到代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7yRmHpGconQ3FnODjU9s7pNric8ibXkVg2QjGHSl1XAP7HBluQLA8zZLv0cDe3mOtt8IiaKlSbJe6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务场景：后端JAVA业务代码生成。AI解决方案概述：从系分出发，解析提取其中核心内容，并生成任务列表，再让AI工具结合提示词完成任务（生成代码）。工具选择：IDEA CodeFuse插件 + Cod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554158&amp;idx=1&amp;sn=3ab0a266ec0c7463f3b92c5878aadeaa&amp;chksm=e863a36753ad60c9a129f3b8e781ac677a75f9ea84d96fb1da0125b82e91473d66eea248667a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[C3仓库AI代码门禁通用实践：基于Qwen3-Coder+RAG的代码评审]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naK0tic9iaaoDTGmBAfGKKc3woMRq2yibCX5wublXksPWw7ib4ibRhOt8pSOE8xLncxcBIMXXqRXia5eruBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍在C3级代码仓库中落地LLM代码评审的Agent实践。针对C3仓库禁用闭源模型的安全要求，基于Qwen3-Coder、RAG、Iflow实现，通过百炼Embedding构建知识索引，RAG</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554092&amp;idx=1&amp;sn=5a15ff141506c3c74576940486f452c1&amp;chksm=e853bc8794e2d4a5ea56f7ebf14e0ee344e133ddd74c67fdec4208acf24589cc3de76e2ed15b&amp;scene=0&amp;xtrack=1#rd</link>
