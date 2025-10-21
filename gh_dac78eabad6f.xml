@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯新闻PUSH架构升级之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97ZMQUtg8Ejk4SleyyQpzFkqicCEqczic3AYuSjEaQ0mVeQZib5mJicGkzk2F9rIkUK2laHm507Is8sLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 新闻PUSH平台介绍2 老架构存在的问题3 架构优化方案4 架构升级效果68 万行代码精简到8.6 万；Golang 重写大部分 C++模块；解决过度微服务化问题……这是新闻 PUSH 架构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692506&amp;idx=1&amp;sn=605646c12269d08f52655e408babb9b3&amp;chksm=eb9b65eb24cfea5b3371d10913251ff60ac4d771727798d88bf49988e283c79001792021610c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[信息量很大！AI结对编程核心思维模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95xuC2F2V5pM0gEE52YDuibhy5Wics8Vhib3YWZXPnLMTgH5cZVMmwh1icKmYwh3L0ZCfpEX9uuC8vkhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 VibeCoding的诞生与困境2 回到“原点”看沟通困境3 写代码VS看代码4 提示词VS上下文工程5 一些心得想必你也遇到过：AI的输出像个 “随机盲盒”，有时精准的让你惊艳，有时却像个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692485&amp;idx=1&amp;sn=57040e59666a4b92e3392f21c302f9f8&amp;chksm=eb9a9ff6b11f48b96d9fcee04129849bcaac778cfa919c2edfe54af1d879a2e639ef2314343e&amp;scene=0&amp;xtrack=1#rd</link>

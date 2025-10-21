@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从0到1：天猫AI测试用例生成的实践与突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJw8bOfuS7Zr2JEdVHKRxCnqSNdPJQVOHPxw7HX4yl3fhatgXU4nsUHQe5EAT9AMd0UtaeqsFqN8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统阐述了天猫技术团队在AI赋能测试领域的深度实践与探索，讲述了智能测试用例生成的落地路径。一、背景1.1 业界分析与思考随着大模型的不断演进，测试行业基于AI也在做不同程度的探索，在a</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554220&amp;idx=1&amp;sn=955f11ce394be7d6ba506a537bbcff0a&amp;chksm=e8dd63ceea7bc4c0917e8713d054774843f37c5e2de82bbfca4364af4659db2deda7ebb95677&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Coding实践：CodeFuse + prompt 从系分到代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7yRmHpGconQ3FnODjU9s7pNric8ibXkVg2QjGHSl1XAP7HBluQLA8zZLv0cDe3mOtt8IiaKlSbJe6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务场景：后端JAVA业务代码生成。AI解决方案概述：从系分出发，解析提取其中核心内容，并生成任务列表，再让AI工具结合提示词完成任务（生成代码）。工具选择：IDEA CodeFuse插件 + Cod</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554158&amp;idx=1&amp;sn=3ab0a266ec0c7463f3b92c5878aadeaa&amp;chksm=e863a36753ad60c9a129f3b8e781ac677a75f9ea84d96fb1da0125b82e91473d66eea248667a&amp;scene=0&amp;xtrack=1#rd</link>

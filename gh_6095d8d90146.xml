@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯玄武实验室公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM5m8wW2iaqGlewfWR2VMHHUvp4X4qGianyib7EtHKxzcWicRw/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/3H3pCicVpLQmpsn4s2NwlWYXctDerwgQ4I5nVa90suqouv2ntib9SCVB2FwYR0nKty7XxhFtDACVyTWicRCdx1MSn0syRw7PDfoytsprwVJsqw/132</url>
       <title>gh_6095d8d90146</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/22)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Operation Zero Disco攻击行动https://sectoday.tencent.com/event/3xLT85kBDgvMcds_eB3OOperation Zero Dis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960234&amp;idx=1&amp;sn=6ef321df60235e4a2c736f8751650397&amp;chksm=8a4c344e75eec8a9175d300abcdc5386f9336d870e9028518dfb5ba2166b05c1d32915531204&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 11:46:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[每日安全动态推送(25/10/13)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 数字签名伪造攻击：理解CVE-2025-29774和SIGHASH_SINGLE漏洞对多重签名钱包的影响https://github.com/demining/Digital-Signature</p>]]></description>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL缓冲池(buffer pool)都不会，还做什么架构师？（第106讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQYtM9F1m019yia8Lf3wjJ2l9SK64Z39NROteCN3xqSwBL1vQ98nk2AVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》106.缓冲池(buffer pool)应用系统分层架构，为了加速数据访问，会把最常访问的数据，放在缓存(cache)里，避免每次都去访问数据库。操作系统，会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979192&amp;idx=1&amp;sn=294ab1b7a7da4be18532d00052a26572&amp;chksm=bc1dd8b7798d95cbc5eda9fefabf83cda43e53d0c7288eb5d83a0b54b34b5a24965d6dfc3812&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOw5UBgg38YtBIEibES18fJlIlb1HnjC1VJAm9aYaKOjaNdJFESNnP7kxyWYNoXdo9R0S3ictz13DJ7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人问：当“精通各种技术体系”的资历，败给了“45岁”的数字，这究竟是个人的困境，还是整个行业亟待反思的偏见？主题：为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？https://w</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979219&amp;idx=1&amp;sn=6c2945a4d15ea45e04c3e062d9acb091&amp;chksm=bcd725f03ded8d1b4d2aec7441211b5944cb434c08e63dec0049ea2f3dac4af46ec841912895&amp;scene=0&amp;xtrack=1#rd</link>

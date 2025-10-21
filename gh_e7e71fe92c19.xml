@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 精彩议题预告 | 跨向无人之境：智能架构的支付宝安全风险扫描实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWS7RTicvrm8JGw2gKicibHUdyDXOjauLQcVvuc4VTmByW9RNpUXticS5gBWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介跨向无人之境：智能架构的支付宝安全风险扫描实践随着金融科技快速发展，传统代码风险评估面临严峻挑战：人工审计效率低且依赖专家经验；静态分析存在准召率瓶颈；业务逻辑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602399&amp;idx=1&amp;sn=114893064f7306c2e7a8f5089a96a1bf&amp;chksm=b05ba7c0a3a2c2b0ec81c9153d3d7c6e00150d0faac498d43858c7d6d780a906a172db0367a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 20:56:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[静态程序分析之数据流分析(Foundations + LiveVar Analysis Code)续]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GZ0CLlvX4x3X8RFSzZAUwKoVkuNp0VEupRibquVgI8ia1rWaa2Do1WMYzzaEz17hNARjsWicfmics3Dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从Bottom出发达到的一定是最小不动点，从Top出发到达的一定是最大不动点。Prove Function is Monotonic(证明转换函数单调性)对于Transfer Function的单调性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602399&amp;idx=2&amp;sn=85872344027de4b4d24b710045e55989&amp;chksm=b0acc1f6cd820467ff867d98f882e30ba2fcd0dc36464f4a0ca177899e53b71334b3663491ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 20:56:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 倒计时1天！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G9ria5bA52ZrFuV8HsiaxAYmmxSGqtexkvBmdhpg8twWJRUGF5pqICScQhlNe5QNIWDk3K3QyDmk2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602399&amp;idx=3&amp;sn=91f97feb11da031d2884b84cefc8e2f6&amp;chksm=b0b03f14ed859b66340b4b563a9b8d1d7af03eef13c273bf0abe58b20bb9acc1876d40d4e91d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 20:56:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 精彩议题预告 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSdJ0ukSDOdxAGXjibBtKeUJ7iatzeyfW19KziaCpSosfIN9nFkbmjEt7aw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《SCPGA：自认同CoT渐进式泛化攻击》当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？如今，大语言模型（LLM）已从孤立应用进化为连接RAG知识库</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602303&amp;idx=1&amp;sn=05257292a9d3cf993896de8211b23e25&amp;chksm=b084fc937ad71001c32b7ee97187f2b557612adf38c807ac00e595f88544e5e48344eadb6195&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxjsNcLH32Y7S2rQhfLGqRQqsh2Pp9E9Xt0StnvibBNic6ib85YAI20nPvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、基本概念basic block(基本块)、edge(边)、代码覆盖率edge就被用来表示在基本块之间的跳转，知道了每个基本块和跳转的执行次数，就可以知道程序中的每个语句和分支的执行次数，从而获得比</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601624&amp;idx=2&amp;sn=ff35f776264957fd90a214913458bf54&amp;chksm=b0909ce87fad986bde37eea499f05029e5ca540e9dfb4858e6ed7915ee2c5fd40c4b25594ec1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[USB重定向-对开源软件USBIPSTUB框架改造，修改为类过滤机制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcbb1zicStLnhBVu2j0DJe8msnCa5XQprpicuTibXQKMeFvibRooXceUwvZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是对USBIPSTUB项目进行改造，添加了类过滤机制，提升了驱动对于USB设备的兼容性。开源项目USB重定向地址：https://github.com/cezanne/usbip-winUSBIP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601623&amp;idx=1&amp;sn=c6e604965de9e90756aaddd2671c0cbd&amp;chksm=b06a4cb0afb430fc3f13348cb85391d9f9b2a2865e369804ad4ce48dddb539a2a6233c490c0d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[预售中！车联网安全赛道爆发，这门实战课帮你抢占先机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601623&amp;idx=2&amp;sn=176e31cd9a2368077354c0da6fcfd3ca&amp;chksm=b0c2890ebf1d5c4a9cdda5d3b486bb0d5b59258b2c03792054052998d28d1bab22f056ae2592&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩议题预告 | 你尽力了吗 —— 25 年后的再追问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxiapeWOZaPiaCqz0FUdYpGzyrv0q6wzW6MdD5jMoBmedkBVbL1OEKuohw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介议题名称：《你尽力了吗 —— 25 年后的再追问》四哥的经典文章《你尽力了吗》陪伴并激励了几代网安人的成长。二十多年来，无论是初入行业、面对困难手足无措的新人，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601622&amp;idx=1&amp;sn=14eda7061e83561011d7150efdee5a9d&amp;chksm=b078aafe45c4406e1d247a6256547cb315bca0a13cb1a5c8ce384864c71e9686944867d71103&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
