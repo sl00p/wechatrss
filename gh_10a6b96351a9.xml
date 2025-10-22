@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不写一行代码，生成一个应用，你真的不想试试吗？（Cursor+MCP，搞起来！）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyQD1MCiclU6fic5RZHe393oeqicfUMbd4eic4ib7mlhaVsAHpWuNFJiarsfMgg3425xprRrmxmIZHK6hzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去，将一个想法变为一个可运行的应用程序，需要漫长的学习编码、调试、部署... 可谓是曲折艰难。而在今天，这条路出现了一条全新的捷径：一个清晰的创意 + 精准的需求描述 = 智能体为你生成可运行的应</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979258&amp;idx=1&amp;sn=818ed3de44e74edf797824a353de7de1&amp;chksm=bc641c25782931f391834d45446558ead2b3e55aa91c2474df11b55835651d1d8035f076e8c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MySQL缓冲池(buffer pool)都不会，还做什么架构师？（第106讲，万字收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQYtM9F1m019yia8Lf3wjJ2l9SK64Z39NROteCN3xqSwBL1vQ98nk2AVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》106.缓冲池(buffer pool)应用系统分层架构，为了加速数据访问，会把最常访问的数据，放在缓存(cache)里，避免每次都去访问数据库。操作系统，会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979192&amp;idx=1&amp;sn=294ab1b7a7da4be18532d00052a26572&amp;chksm=bc1dd8b7798d95cbc5eda9fefabf83cda43e53d0c7288eb5d83a0b54b34b5a24965d6dfc3812&amp;scene=0&amp;xtrack=1#rd</link>

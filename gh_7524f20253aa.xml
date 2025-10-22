@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Rust异步TAR库TARmageddon高危漏洞可致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0Az9g1Kh4cVNeaVnFcDI9OiaTr7qXN8T1Y1TurVAjia71dUzL6iavrGETzag/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用Rust编程语言开发项目的开发者，以及运行环境中部署Rust应用程序的IT负责人，需要警惕该编程语言某个库中发现的严重漏洞。Edera安全研究人员表示，他们在流行的Rust库_async-tar_</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=1&amp;sn=cf252a2809c7c25db8c3b11e2893e5f3&amp;chksm=bc75a184a48bd4cc6101ba654404bc6fd9961b4b7d528bb1b3c0e5b4bff5c1e09a043ec63c31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自主AI攻击与网络安全的未来；CISO的十大职业陷阱 | 2025网安行业优质播客精选集⑪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0AzsIDxCUeNGwSTsvKw3O18dNamibevASjlA1r1LYfHqECXKC2dicTIic5kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 自主AI攻击与网络安全的未来攻防天平或将彻底倾斜本期节目：自主AI 正在深刻改变网络安全格局，其攻击能力已实现从扫描到渗透的全流程自动化，且速度和规模远超人类黑客，同时大幅降低攻击门槛；防御方面</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=2&amp;sn=7b114f02c05ef5a97a6a52d8cd3c8b5a&amp;chksm=bcbc0ba3cb3372fb553de69bcda374d28376d867b9e20ee6a5c2a9983603ce117670c9832642&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[主流AI Agent存在关键参数注入漏洞，攻击者可实现远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0AzHf9aMIYNrVxW2vP9s41vbJFLowPPDHnkSA4PpicCicTLPsPBM3sEQ5Fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>三家未公开名称的热门AI Agent平台存在关键参数注入漏洞，攻击者可通过看似无害的提示绕过人工审批防护机制，实现远程代码执行（RCE）。Trail of Bits指出，这些漏洞利用了为提升文件搜索和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=3&amp;sn=c157e875c9d29f5dfe56e538536db732&amp;chksm=bcac1fbba16475bbb7a441ea343d9872d6e30cc1e7bd65dfc1c952d8fc301bf3c305d8e50c65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitLab 多安全漏洞可致攻击者触发拒绝服务状态]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0Az7TE2AmGGDApJjucYZrkoIE0r5xyUfXROicSx4TzFCxj05MK8jn0yibAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitLab 已紧急发布社区版（CE）和企业版（EE）的 18.5.1、18.4.3 和 18.3.5 补丁版本，修复多个关键安全漏洞，其中包括数个高危拒绝服务（DoS）漏洞。这些更新修复了允许特制负</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=4&amp;sn=e3b7e1d79700835476f7af8ffd1eed64&amp;chksm=bc6844f7e6fa5d6f92fc13af1e7fa15f1183a7cd675fe477b83b27e8e430221b1d77585cc2f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DudeSuite进阶版：从漏洞验证到抓包重放，让渗透测试更顺畅]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibZ3LL3ibxWicoxicpSJzsJ3AkwbSFVFrZkEH5ZmDqeNkEBJXyRvRicIFWP9ypSw3IZOcg2eCFZzsu0LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多好用的安全工具，都是先在圈子里被默默认可——DudeSuite 就是其中之一。它以“轻量一体化的单兵渗透利器”在同行间口口相传，集合了重放与爆破、漏洞验证、端口扫描、流量劫持与远程管理等常用功能，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329104&amp;idx=1&amp;sn=0e3cfcfa07c9d32896f7daf0c30957c7&amp;chksm=bcde1c232592dcf1b410f1778cbb48e7dff8ed79d656ebfaabee6f4c9365f0e1a26afd65164d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fay9vDjcukYyUIsCrRH6gIs1ibIUh8J8JP1icDJj2X2SNjpSAM69gFiaMUSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近期发现一款基于Python的远程访问木马（RAT），该恶意软件展现出前所未有的多态行为——每次运行时都会改变其代码特征。Part01低检测率的完整功能木马这款名为nirorat.py</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=1&amp;sn=a136c59bd2e0b7d398ad6d0feb832ba9&amp;chksm=bcd072873cf2f5fea79774546df0273422614556a75126cf92bbd027f8a982a09701eae8445a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从钓鱼攻击到恶意软件：AI成为俄罗斯对乌网络战新武器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayKNgCSgO2NcaUTQoWzcopNuCk17EX7VzqKKeH4QUK92jn97lf0cFq6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰国家特殊通信与信息保护局（SSSCIP）表示，2025年上半年（H1 2025），俄罗斯黑客在对乌网络攻击中使用人工智能（AI）的技术已达到新高度。该机构在周三发布的报告中指出："黑客不仅利用A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=2&amp;sn=b3e0437ee284967674622a5219ad400c&amp;chksm=bcb884552af240b2d283be98d5e7ea8323c5e1ea8900211e3f77854c2a58e2ec8ead73975c9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI聊天机器人被用作入侵敏感数据和基础设施的关键后门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayicIsAzQXbHy36BEAulJ4SZkGAvC4wiazkQsYspzib3Ke0JWFfAeUxicGwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击手法分析近期出现了一种复杂的恶意软件攻击活动，攻击者将会话式聊天机器人作为入侵企业系统的隐蔽入口。该攻击最早在2025年9月中旬被发现，主要针对基于大语言模型构建的面向客户的聊天应用。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=3&amp;sn=ed1df56bad3509d5bb68550196e74b03&amp;chksm=bce6ee5844b67ba3886e3d19415f90c5b78dcba9bbad3f377d7cb7ecfcab8b63906da086aed1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TP-Link路由器漏洞允许通过局域网实现Root权限远程代码执行，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayvztqQvKH6ltdia0DGv77kXraUgva5xmZgylyq93iaoUltU3sdnMiatHCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Rocco Calvi披露了TP-Link AX1800 WiFi 6路由器（Archer AX21/AX20型号）存在的一个高危漏洞，该漏洞允许局域网内的攻击者以root用户身份实现远程代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328554&amp;idx=4&amp;sn=c0dd0915c411c07d719354f03c7fcb19&amp;chksm=bcab8eb10ddb9e1ac564b0a8eefe94c801034314dbd306a12d47f9dc64b0986fc7a30a6e3e09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibJicljEicMbYeTvGibOZIlBtxaFvs2XgwsIGRRPYb833uM2RmJ4UP8ibzVZANJb05uYRLP5njhicM0SUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日推出名为CodeMender的新型AI Agent ，该工具通过自动识别和修复漏洞来增强软件安全性。这项创新旨在解决AI辅助快速发现安全漏洞与人工修复耗时费力之间的矛盾。Part01AI驱动的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328513&amp;idx=1&amp;sn=514ea8e3ae4b44e770dcf3556955b7cb&amp;chksm=bcb3ef764ccfbf84fb6a6341e06818c566c98fa50e3ad8a20436478df1869bf3b7c2df5c096b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

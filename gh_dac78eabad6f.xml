@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek鬼才创举，OCR是啥？腾讯是怎么做的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95KibDw7mBp7b6ibNFZMS8X3NbxXw3btGaokian1pbUHxO2XvqFibicX8tiaR9vcJ88dQHOsvbI8oiagRnKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 DeepSeek OCR核心信息总结1 技术演进2 领域进展3 技术要点4 文档智能5 实测体验DeepSeek最新发布了一个参数 3B规模的视觉压缩OCR模型，论文《DeepSeek-OC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692528&amp;idx=1&amp;sn=8972f95b0bbb8329f921e27a78d93c51&amp;chksm=ebd6c6efac6e88f099c053d37f55d74acb3fd4fc0afe0bd8538476963509d058bb27a5ae5872&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[架构师的周末充电指南，北京/上海/长沙3场不容错过的线下深度交流]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95KibDw7mBp7b6ibNFZMS8X3NX8hZEibIvHsWb4Ir5EpblougyDhaPyQibibR7veo7vVpoxwAucjKeMtsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术之路既需要低头编码，也要抬头看路。本周末（10月25日-26日），腾讯云架构师技术同盟将在北京、上海、长沙发起3场线下深度交流活动，欢迎报名参与！北京站：架构师如何与AI共生- 内容有料：如何与A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692528&amp;idx=2&amp;sn=d253410d8d7fb65c13c34f7d9a3d533e&amp;chksm=eb1a5c068c22cf954b0ee5468fa256062818dcd004c3bbc3066e03315d357819391f30012328&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯新闻PUSH架构升级之路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97ZMQUtg8Ejk4SleyyQpzFkqicCEqczic3AYuSjEaQ0mVeQZib5mJicGkzk2F9rIkUK2laHm507Is8sLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 新闻PUSH平台介绍2 老架构存在的问题3 架构优化方案4 架构升级效果68 万行代码精简到8.6 万；Golang 重写大部分 C++模块；解决过度微服务化问题……这是新闻 PUSH 架构</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692506&amp;idx=1&amp;sn=605646c12269d08f52655e408babb9b3&amp;chksm=eb9b65eb24cfea5b3371d10913251ff60ac4d771727798d88bf49988e283c79001792021610c&amp;scene=0&amp;xtrack=1#rd</link>
