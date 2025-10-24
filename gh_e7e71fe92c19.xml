@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[V8 Bytecode反汇编/反编译不完全指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HTsE2XdwahBxKBicGm2uvlicgeH6Tj9wnc6TSFmjGe9KFfvAPYGO2PZffP5lDAmt3DtLlibgHgjldbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0 IntroductionV8字节码反汇编与反编译过程中的实践与经验，涵盖构建 V8、分析 bytecode 格式、尝试绕过校验与反汇编/反编译的一些非官方方法瞄。0x1 Brief &amp;&amp; Wh</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602701&amp;idx=1&amp;sn=28fd5b31e8facc36b3b6480617f01fcc&amp;chksm=b0cde0e7084d8a21eaa6b9f8013600b4692e53b47d30919b534bebecdbfa28533aaa9a566a6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 17:40:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[格尔软件为全球汽车产业贡献商密力量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GAwpOjibssibhrBjVzfgSrRsrMxRxxbC1s9vEPktQIGZnrj3KtLGOwGsZeZyqic6w3YaoVIdibscZBkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>为期3天的2025世界智能网联汽车大会10月18日在北京闭幕。大会举办期间，发布了格尔软件参编的《智能网联汽车网络技术路线图（2025—2030）》。这一路线图系统性规划了到2030年智能网联汽车网络</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602701&amp;idx=2&amp;sn=911d571bdbca84769114c09fa5cc9515&amp;chksm=b000f42930c50544101335ea152f3afe3afbbe0d94c31b139f8005d448309c04f6721f501462&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 17:40:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 精彩花絮来啦！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GAwpOjibssibhrBjVzfgSrRsUlhrheagx7MqZbOOLpDxDagxc1pdgOEl8zjSIJZt1KJs0ENm5YlbAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月23日，看雪·第九届安全开发者峰会（SDC2025）在上海圆满落幕！此次峰会的主题是“智能时代·可信AI安全”，吸引了众多安全专家和开发者热情参与。除了精彩纷呈的议题，现场还有许多有趣</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602665&amp;idx=1&amp;sn=2a63c4d144dbc9960f5d32683b3450f1&amp;chksm=b094ad578281b1040ced425218a913d1e318c0665b3a365d51007f28b6d8f0923d14a81910b4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcNRxXWnQAicX2XKUiaOHz2kBzkTybC730kKveawAiaZMdJXbx3JNlaaHDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>该漏洞源于ws2ifsl.sys驱动程序在处理内存对象时的缺陷，可能导致释放重引用错误。攻击者可以利用该错误，通过精心构造的输入，访问已释放的内存区域，从而执行恶意代码，提升权限。本文测试环境：◆虚拟</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601626&amp;idx=1&amp;sn=96fbadea99bbb779069babdb769a5de7&amp;chksm=b041601efdcb71782130a5a58c11bda8349d5483eccdd9d7566aeb469957a07ee89629d4af62&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，物联网(IoT)设备已经渗透到我们生活的方方面面，从智能家居到工业自动化，无一不依赖于这些智能设备。然而，随着IoT设备的普及，安全问题也日益凸显。IoT设备漏洞挖掘成为了保障网络安全的重</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601626&amp;idx=2&amp;sn=b5e72cea3d9dd48d7e47eaacc15f057f&amp;chksm=b0c7ddb37e30e80d12d496b39c264fa60b4b775e102788d6a27196fd5aed2471e5c148079788&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025中秋致谢 | 致深耕安全领域的伙伴，月圆情更浓，安全同共建！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRN2rCAwWWSTbhwBHtLCDh9vQVhdTBGvHm77NfXCFXib6Z0fY7az2Ibmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>MID-AUTUMN举杯邀明月，团圆共此时值此中秋佳节，清辉遍洒，万家团圆之际，谨向诸位于此致谢。承蒙厚爱，诸合作伙伴所赠中秋佳礼，已悉数收悉。每份礼品皆载厚意，感念于心。忆往昔，吾与诸位同心协力，共</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601625&amp;idx=1&amp;sn=96d973714d0be329e83848c5b8f9c9cb&amp;chksm=b0833eaeceadf67e761050a0a61d80df942f0f6140e8dae8f54e562e6ad4ab8872e8d4a41ca3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客正积极利用Windows Server Update Services远程代码执行漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391eBJSMnPRaYINzIrhhSaF7ib7fyhkoXjF7L6B8hib0ibmS0Qp1RNMvqOJfwlRxqNcxEP5ibZricA6SNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全与基础设施安全局（CISA）向全球组织发出警告，微软Windows Server Update Services（WSUS）中存在一个正被积极利用的关键远程代码执行（RCE）漏洞。该漏洞编</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329359&amp;idx=1&amp;sn=25b028bdcc87a57f93d5a112a61be8a6&amp;chksm=bc9e51c89d24485e772b406d647ad7ddeb55538a247230e465221c9b3993f8687cd961138be9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI浪潮下，初级程序员的出路在哪里？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38YQDqia9CITwhrGwLLXXwGnImnopP2zrrnTF1I2xy2fVxQYFVicrMiaVolicgxaAqkF1NoSiaPhVtkM4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI敲代码的速度和精度已经远超人类新手，自动化工具不断替代重复劳动。根据行业报告，初级前端、基础测试、部分CRUD后端开发等岗位的需求正在明显收缩。技术迭代本是常态，但这一次的AI浪潮，来得比想象中更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329359&amp;idx=2&amp;sn=dbdd9803bc019d3776bb87e121a64c2e&amp;chksm=bcf1b987020062f399f0234756131a62e4c1ec01f5660e37b8c191bef8346e58eb12901c3b1c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | 无印良品因遭勒索攻击暂停线上销售；Linux-PAM漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🚢无印良品因物流合作伙伴遭勒索攻击暂停线上销售💻Linux-PAM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329359&amp;idx=3&amp;sn=e9f505d4b4811c937f085134239dd919&amp;chksm=bc2a2402ebbbb5e73a43b397f4395a29ba9ef77dcdd4fc6172f9ca37b25eadc9f52450a45a74&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三星Galaxy S25的0Day漏洞遭利用，可远程操控摄像头并追踪定位]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38YQDqia9CITwhrGwLLXXwGnMrfLwM1xl5GpmZvcoPJz2OrhSbZnbOcic9cD6E7Ef0QtCiaWlZVWvIhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在Pwn2Own Ireland 2025黑客大赛上，Interrupt Labs网络安全研究员Ben R.和Georgi G.通过成功利用三星Galaxy S25中的0Day漏洞，展示了令人瞩目的研</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329196&amp;idx=1&amp;sn=60681abd4f15791e5b8cd2f91dc7c2ec&amp;chksm=bc45728f4574a10bd6e2e9e2cf67deede19380d7d4552a1dae42256b2f0187d0307638dba6e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR387jKjf3wAerJXLqbicaPkYRLlkx0qiaRjOJdN4HMy42aQLAJHoicBCeTR7Xqz61VUfib873KwGXumXwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年的安全运营中心（SOC）将不再是纯人工战场。随着企业规模扩大和威胁态势日益复杂化，新一代AI驱动的Agent正在重塑SOC的检测、响应和适应机制。但并非所有AI SOC平台都具备同等能力。从</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328636&amp;idx=1&amp;sn=a400a4abcba223174bce79c4dc920281&amp;chksm=bc88f6e142dea0fdd222ae60ce4c02a0452ed12a69972af8d31bbceb59d27a7ccd725c1b21c5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR387jKjf3wAerJXLqbicaPkYRqvyA1HvM9wxwLcegXxPKIzeNuIlNThIcqG6iaJAw8eJCkVWibeURZaWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现了首个已知利用大语言模型（LLM）在运行时生成恶意代码的恶意软件实例。这款被SentinelLABS命名为"MalTerminal"的恶意软件，通过调用OpenAI的GPT-4动态</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328636&amp;idx=2&amp;sn=33423f636dc69a812c5ea8ce46880fb6&amp;chksm=bccd4ff9421e529e472d0a99877dc47180d498596edd12e984b6b3aac35fbb01280ac5ac5627&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一周网安优质PDF资源推荐 | FreeBuf知识大陆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR387jKjf3wAerJXLqbicaPkYRp8YTrSwaO1SKcse0JiaQ8qic2KYwzMnLlbareXqauy2MibA8AGPgYpiacQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328636&amp;idx=3&amp;sn=4326b59c3fc3f653d1cfece4efe7f32a&amp;chksm=bc637714bbbb3a46502c27ef873c44bea76145d381f344c16d9d82391006c0108bf6289814d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[vivo“看得见信得过有记忆”的安全：在AI时代重建数字信任]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ico1oOdKTg1MWia7uicYX2fayOQoWrJRfa9PNmV5lkguslR1ickjvqcZNtkr3vVibHoicnQ5Y6c9gTiaSibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI能伪造一切，你的手机还值得信任吗？当权限滥用成常态，安全是否只能沦为口号？在深度伪造视频诈骗千万资金的今天，数字世界正经历一场空前的信任危机。用户每日面对层出不穷的权限弹窗、无从验证的AI生成内</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328611&amp;idx=1&amp;sn=4121d1846188ebf3af5e68d1699bbfcf&amp;chksm=bca4ec805805ddf699bb82c0617aa58a45a8ff4271ee2fec85eb26f54fc772172cd9d5e6795a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
