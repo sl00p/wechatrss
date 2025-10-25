@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI首款AI浏览器Atlas上线仅一周即被恶意提示词攻破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38R9nuKZcFyavWmOkicjYibWAqlC35nC2pAsEGOBVElJojxFiaxCY3Z9MsB8c3fackyRQHSlGfDKT5jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析OpenAI新推出的ChatGPT Atlas浏览器旨在融合AI助手与网页导航功能，但目前存在严重安全缺陷：攻击者可将恶意指令伪装成无害URL实现系统越狱。该漏洞利用浏览器的多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=1&amp;sn=68daa8564d7d877fb09aa24b6dec5f9b&amp;chksm=bc0386f503546faa3d8006466990e276009ef9e9f5d93263876579b8b937204967ab46890d08&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一周网安优质PDF资源推荐 | FreeBuf知识大陆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icrvFgDalWuFibkqLhyVJ0NzavBGNFMJt9hc8DUzoc9wSD1ibtaDlGYy4aQFNglibvbOUGkibNzgxG0zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=2&amp;sn=e339f04155014e4fcdb3554383e9b8f8&amp;chksm=bcc5b67a83a3b6d3a27015cebc94013fb04c87201ebac79ebb5fd2e9a631e23492dfbae39a92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[70余万台BIND 9实例受缓存投毒漏洞影响，PoC已公开（CVE-2025-40778）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38R9nuKZcFyavWmOkicjYibWArTkuCs93fMnAaAyYJY4P8K2Trsw19VltCUo4Q4L5y4BqEC00unAL6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>BIND 9 解析器曝出高危漏洞（CVE-2025-40778），攻击者可利用该漏洞实施缓存投毒攻击，将互联网流量重定向至恶意网站。互联网扫描公司 Censys 发现，全球超过 706,000 个暴露</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=3&amp;sn=fc8a09ffea85c5a466e285324d755e40&amp;chksm=bcc385786b53d98776038129779208c0a82ecdb5d89c499e00d18afadff3fdfccf38780e6a68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客正积极利用Windows Server Update Services远程代码执行漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391eBJSMnPRaYINzIrhhSaF7ib7fyhkoXjF7L6B8hib0ibmS0Qp1RNMvqOJfwlRxqNcxEP5ibZricA6SNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全与基础设施安全局（CISA）向全球组织发出警告，微软Windows Server Update Services（WSUS）中存在一个正被积极利用的关键远程代码执行（RCE）漏洞。该漏洞编</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329359&amp;idx=1&amp;sn=25b028bdcc87a57f93d5a112a61be8a6&amp;chksm=bc9e51c89d24485e772b406d647ad7ddeb55538a247230e465221c9b3993f8687cd961138be9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385otHJd7ZibgMrEH75LfFn46DAIiaJbz4ia0viaxMJQUVckibndo8ZJzPjwMcBy3bWD4QwhWSHxibpNxEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现微软Defender for Endpoint与其云服务之间的网络通信存在严重漏洞，可使入侵后的攻击者绕过身份验证、伪造数据、泄露敏感信息，甚至将恶意文件上传至调查数据包。Part01漏洞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328683&amp;idx=2&amp;sn=a4bd262ae1764b235a0783f3c5d41eea&amp;chksm=bcf95754295556fdf41aae2acd1d8935dc5694c0dd9db7ab5fed90cc53e7e6147e54a04d024a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7-Zip两大高危漏洞可导致任意代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385otHJd7ZibgMrEH75LfFn4DUPYyrus24GPbqOUNib2mv1B9JqrMXQuWzTgglc3ZjpLcpeLJlJvGng/640?wxtype=jpeg&amp;wxfrom=0"/><p>Zero Day Initiative（ZDI）近日披露了开源压缩工具 7-Zip 中两处高危漏洞的技术细节，攻击者可诱骗用户打开特制 ZIP 文件实现任意代码执行。目前这两个漏洞已在 7-Zip 2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328683&amp;idx=3&amp;sn=3b3733c8e44a8527366da2620403bdcd&amp;chksm=bc2f9ab499a0691bcde463644921498f74893c787336d525e2746c61688315ecb6e6a71abff3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Oracle EBS再曝高危RCE漏洞，攻击者可窃取敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR385otHJd7ZibgMrEH75LfFn4F3zMiaZ7g6NPutzL7v2ibwkTkLnezkaia7l8QrsXS5eDTYZ5yFSVlSjLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oracle近日披露其E-Business Suite存在一个高危漏洞，可使未经身份验证的攻击者远程访问敏感数据，这对依赖该平台开展核心业务的企业敲响了警钟。该漏洞编号为CVE-2025-61884，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328683&amp;idx=4&amp;sn=f4c86b6741414b059edde6215e228f07&amp;chksm=bc1a08a04becae91543f70db0088299d30e740bc2c33d4a1dd5764ad93446687549698d99aaf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年AI驱动的SOC技术栈：顶级平台的核心差异]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR387jKjf3wAerJXLqbicaPkYRLlkx0qiaRjOJdN4HMy42aQLAJHoicBCeTR7Xqz61VUfib873KwGXumXwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年的安全运营中心（SOC）将不再是纯人工战场。随着企业规模扩大和威胁态势日益复杂化，新一代AI驱动的Agent正在重塑SOC的检测、响应和适应机制。但并非所有AI SOC平台都具备同等能力。从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328636&amp;idx=1&amp;sn=a400a4abcba223174bce79c4dc920281&amp;chksm=bc88f6e142dea0fdd222ae60ce4c02a0452ed12a69972af8d31bbceb59d27a7ccd725c1b21c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
