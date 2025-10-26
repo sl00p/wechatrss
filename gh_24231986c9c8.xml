@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AIO Sandbox：为 AI Agent 打造的一体化、可定制的沙箱环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ib0lO23Szk1xcRjpAtknBcf5VkETgibNZGiaG6Eh51DYAq10FGFyVXqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：AI Agent 在执行复杂任务时，常需在浏览器、代码执行、文件系统之间切换。传统多沙箱方案面临环境割裂、数据搬运、鉴权复杂等问题。AIO Sandbox 通过一个 Docker 镜像整合所有能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=1&amp;sn=ef0dc840f9133ed09b50f13440a13c76&amp;chksm=e8ff868bf23889a66e1dffad7b3d2afedbc46f7bba3803eb644f5e0657e84980dc36e06fc7b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 18:51:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抖音云游戏调度优化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ibiacZagGbWV7L4ptiaich4BZkOYzLlutZaeQy2JUia6nrcJYVicF0LPGmPyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述云游戏作为一种新兴的游戏模式，将游戏的存储、计算和渲染任务从本地终端迁移至云端服务器，使玩家无需配备高性能的硬件，仅通过网络实时接收来自云端服务器的游戏音视频流，即可畅玩各类大作。云游戏突破了设备</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=2&amp;sn=46ca0643e305e7c58309798940aa2b37&amp;chksm=e8e00ae82163294cdf22594150bcf871f91cf1d9f45dad526ac14c40a663c5314cf077379c9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 18:51:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516949&amp;idx=1&amp;sn=7520fb1b4eb8eccdfac9c031076293ee&amp;chksm=e87c6e3f0e3e6d9aca50818ebae7c052b7832db51a23452ef1fe396c0ddec4bc1309a6b8c68f&amp;scene=0&amp;xtrack=1#rd</link>

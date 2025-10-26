@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL写缓冲(change buffer)都不会，还做什么架构师？（第107讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Nd9CiaBh4kZzjqvickceLKvZicsyHDqibiacVYl68VqpaRpibWVqfFs4Fqgxjev4I1RibKChOUV21iaFlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》107.写缓冲(change buffer)上篇《MySQL缓冲池(buffer pool)（第106讲）》，介绍了InnoDB缓冲池的工作原理。有童鞋在评论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979285&amp;idx=1&amp;sn=b6bfab4cacaa6fa3366b9fd6e4628b27&amp;chksm=bc005a0aa11d2897f4ca9af2559a28c65f49bc1bd105ee1b5b8035b359094f7f34dfa96d193b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[乔哈里视窗：你眼中的沈剑是什么样的？（感谢大家的帮助）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwnZibjPSJ0DbiaLQKI3kM7ibZBf8PMAqliaeFSR7AicaBvpjVicYbv6UjibYluwLK1TZMlBmNQgE3u3FJQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>参加一个活动（初步可以理解为“成长教练”活动，关于自我成长的），要收集：1. 自己眼中的自己（我已经完成）；2. 别人眼中的自己；乔哈里视窗，我之前在直播中介绍过，大家可以deepseek一下。通过别</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979279&amp;idx=1&amp;sn=a7c40918b2fef5e8ed149772017af5be&amp;chksm=bc431f097c40f26b0f02d276e97d05e2e99404aeda60f40bba3c50fb1eb170f1fe140feebb11&amp;scene=0&amp;xtrack=1#rd</link>
