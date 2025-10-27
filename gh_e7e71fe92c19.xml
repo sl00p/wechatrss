@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[谷歌完整验证Play Integrity Check全面分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBWtNdPpvyE3NzJicPm2xCniccsLOwJzxIIns4p4dKbOm0aE9iaUaMz9BZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在海外安卓APP市场，Google Play Integrity API是风控策略的最重要一环。大部分APP风控系统均依赖于这个体系，Play Integrity Check不是一个简单的设备检查，而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=1&amp;sn=7ca71a2d3b3ede11b48082327f87ef61&amp;chksm=b0704311fbb081aea36653e74267af791a3466d623eb6e1fb2b12bc28fbe74420c63a2a5d3c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT Atlas浏览器现新漏洞 可植入持久恶意指令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBHpDjkPqfp0A6oRictJIlia8gB139wPM514XI2Bkx56qYp3njt6WwEFiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现OpenAI旗下ChatGPT Atlas网页浏览器存在新漏洞，攻击者可借此向这款AI驱动助手的记忆中注入恶意指令，进而执行任意代码。LayerX安全公司联合创始人兼首席执行官奥尔·埃</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=2&amp;sn=db90258fe95ba6b65b3aca7c6e45e664&amp;chksm=b0cf1803e7b86af646b77371cb7be104c5638f0b3093ccb7cef1aad85c0e2f73dc4f9d23f0b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[预售中！车联网安全赛道爆发，这门实战课帮你抢占先机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=3&amp;sn=79d571ad60727031e2e6a66f58a20543&amp;chksm=b04397bd29fb2dc617a23206072cc46659551a9f92ddc5b50dba22eaf4d3dd74b86f7263408e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Vmprotect2.12.3分析之虚拟机流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hiaw8dlAYSiaKB7QCjojulCDtSyOEGFibG2N6Rhr3fpiczrAQx4pDjibCakiavIFGoVoQAdm1t7MDSWtGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于到了分析用delphi语言编写的vmp保护接近最后一个版本了，delphi时代最后的狂欢了，我说的不知道有没有问题，但是我想表达的就是这个意思，这个版本可能是2.x的网上可以找到的最后一个版本了，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602728&amp;idx=1&amp;sn=cbcaf0b438d959a45a5a897f5fc5e35e&amp;chksm=b0e5377ba656e639dd3da2401add92a3b2994da748dc975a9085a4bdda4087d07a7416b300d9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRQYqSGNbzfHndN84m3aI5ZP6UvRwN62ZCXXSUIY7uaDSpibdfL8Fwsog/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景 安卓逆向的核心流程（https://bbs.kanxue.com/thread-288487.htm）里面分享了安卓逆向技能树的“树干”。“树干”上有多个“树枝”，其中有一个就是“混淆还原</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=2&amp;sn=01f13f3a3a007ba4acf2fd791e7670f5&amp;chksm=b0fbdea69a885080e8eb766845394f19b8a2d5721267c036e2e47c20f0cab776b4443dc16711&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[联发科发布安全公告，修复Wi-Fi与GNSS芯片组多个高危漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HwiargdcCduYxia3K6ITiapDD3G6kRpCpfjDWA7KSw3sYdvwSxZIWwfCD2cBdlM9EVVxfn0bH4fgtdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>联发科（MediaTek）已发布2025年10月产品安全公告，披露了一系列高、中危漏洞。这些漏洞影响范围广泛，涉及该公司多款Wi-Fi（无线局域网/WLAN）及全球导航卫星系统（GNSS）芯片组，可能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=3&amp;sn=49975c18718017337efc6ac78e6273e4&amp;chksm=b06c6343f2b79cf0b2470c2d5d5fd47a16737daeab916142ca760b41e88fbcbc3440c02bd8ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Frida自编译以及去特征]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRk69qwK6FFWs6WMjsvYkMmeyuEXnSeMj9Sjf4dqqIQIia89aXmVI2pAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境：WSL Ubuntu 20.04.6 LTS版本：frida14.2.18查看网上很多很多手动魔改frida，绕过一些检测点教程都是直接通过git pach进去的，首先想自己手动修改一下源码，理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=1&amp;sn=bfcb75dafc7ac077bbbd408600151247&amp;chksm=b0789dcaa3c13e4139b2cebf3779c9280ec9f97020c26897b110e465b8088860ea4d82d7983a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI安全新范式：京东JoySafety开源项目深度解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIBxrscJVLG4zhRn8rCmxCHxBcuSibZ5NGhR2XfLRgXm8LhpZp8uwuHguQTtbCkU8UJNL3HHf4hgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型技术在各行业的广泛应用，安全问题日益凸显，成为制约其规模化落地的关键瓶颈。内容生成风险、数据泄露、提示词注入攻击等新型威胁频发，不仅影响用户体验，更触及监管红线。政策层面，《生成式人工智能服</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601685&amp;idx=2&amp;sn=06145b6e4c28292852cb7a0414a1ada2&amp;chksm=b084cf9a2b6c139f70c08d1cb9a3cbb961a6ed7e3a6313438d4f2f040e0ad8c828dcdfc3bbcb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

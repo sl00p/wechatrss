@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火山 HTTPDNS Cache2.0：网段级精准调度驱动核心业务收益]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjMiaDEPwkhZBE9wQBvjJ5wDObxkMRkpSWlwgr3ibNuhticgicxtI7BsYiaLurGhm8OLYxCc2uu5ERXWQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、调度不准问题及修正方式局限性在字节跳动的业务生态中，HTTPDNS 承担着为抖音、今日头条、西瓜视频等核心应用提供域名解析服务的重任。但目前我们所采用的业界主流缓存机制（火山Cache1.0），却</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517155&amp;idx=1&amp;sn=d735ebf8bddda4047ac322a514c6d965&amp;chksm=e806a885417bcbd87691079fd0cba4c5bd08f884d90b100f12b729fefb417ee36b92aed582c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AIO Sandbox：为 AI Agent 打造的一体化、可定制的沙箱环境]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ib0lO23Szk1xcRjpAtknBcf5VkETgibNZGiaG6Eh51DYAq10FGFyVXqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：AI Agent 在执行复杂任务时，常需在浏览器、代码执行、文件系统之间切换。传统多沙箱方案面临环境割裂、数据搬运、鉴权复杂等问题。AIO Sandbox 通过一个 Docker 镜像整合所有能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=1&amp;sn=ef0dc840f9133ed09b50f13440a13c76&amp;chksm=e8ff868bf23889a66e1dffad7b3d2afedbc46f7bba3803eb644f5e0657e84980dc36e06fc7b2&amp;scene=0&amp;xtrack=1#rd</link>

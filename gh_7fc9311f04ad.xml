@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于Spring AI Alibaba 的 DeepResearch 架构与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5VvjaB8WIFKJXXFV9Y4FVGHFVicAFPrKK3LcszmBB07IBXVmFUwlhUWCV8lZLXtG1wVCJ1VEdo3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：Spring AI Alibaba 社区贡献者一、引言与概述我们基于 SpringAI Alibaba Graph 构建了一套 Java 版本的 DeepResearch 系统，实现了从信息</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554604&amp;idx=1&amp;sn=5a851aa8e6a2e1551db65e461a2b4207&amp;chksm=e8c509d5a258804dc9e0be1761d65f49fae1d4c7596cd4990aadc280183c02d1027003ff2c42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI出码率70%+的背后：高德团队如何实现AI研发效率的量化与优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFFLP48BRaFHWfzK9BC2pRGATw3XNmHHGlgXvOJ1fSJwjkpEHcFCZ2bg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统阐述了在AI辅助编程快速发展的背景下，如何构建一套科学、可落地的研发效率量化指标体系。一、前言随着AI技术的快速发展，AI辅助编程已成为提升研发效率的重要手段，也是不可逆转的编码新方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554539&amp;idx=1&amp;sn=04da5098f4cc1bddd866aec87af6b931&amp;chksm=e8c69e5f4a95c5906afddc26d5ecc1e024dd5b5cb334b3eca1c2c516020ff96f6df8b00d8655&amp;scene=0&amp;xtrack=1#rd</link>
