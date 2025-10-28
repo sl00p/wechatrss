@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[h5后台切换检测利用visibilitychange的缺点分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvly9tw4ePdIA4jHZpib5kJhBXSb8rbcnDkice10xxlgSMztMFqONVwdS9AvYG9rI43iaJ3UdVAG0T0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、什么是 visibilitychange 事件？visibilitychange 是浏览器提供的原生事件，属于 Page Visibility API（页面可见性 API）的核心部分。当页面的可见</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546533&amp;idx=1&amp;sn=c311045c84494ce85168bdc1bfff8aa7&amp;chksm=fd176dd7c135b3702cb4ea1ddbe9fa11fae5cce261afcde878277772cf9a0bd93e507ff6eb9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你打的日志，正在拖垮你的系统：从P4小白到P7专家都是怎么打日志的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtNeia1VLn6v7JC9mPyyiaRsolCYEDmryDdq1dLOkQXicJiakwQBTwRq0J4IibtRFRV4lRqDNy8R7XlTxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝老A的代码茶座 vol.1❞大家好，我是老A。国庆假期的某天，我正懒洋洋地躺在海滩的沙滩椅上，哈着冰啤酒，海风拂面，惬意极了。突然，手机震动个不停。点开一看，是公司告警群里接连蹦出几条「「磁盘空间不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546529&amp;idx=1&amp;sn=a0ecb38d8e3774e0865b9df4e9009d09&amp;chksm=fd123edcce04beecedcdcc187ba6244d9489c5b2c5623ffe6438f251b973261e6cbb416a54be&amp;scene=0&amp;xtrack=1#rd</link>

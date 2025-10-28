@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI辅助逆向APP白盒AES分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOYnKhAofYwIQAWTb4zlI3DyiaBRLgKyGcF3WEPZ3U9FR637nrbFuBlKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、分析定位首先APP为x60企业壳 有frida检测 我采用的是内核模块过的 好了 开始rush b抓个包先看看参数 如下阔以发现有个q参数 sign参数sign=74530712421112715</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602868&amp;idx=1&amp;sn=8a9a6507a73d998e0ebb6f0a5f787fa0&amp;chksm=b0452fcbb2c40a23cb0ddbcdb5a27ec9eebdda8a2cab087b4045149df7a71e1aa0ea5b568709&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[先知安全沙龙 - 西安站 11月15日开启！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOhTBu7g1iaic7n7yKgQzjIFHODhvHEBtpX5MYmQeMJvpf5ibtvicN0S1qFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十一场-西安站将于11月15日在西安电子科技大学南校区办公楼210报告厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602868&amp;idx=2&amp;sn=551be9dcef3a07004481d438b8c89354&amp;chksm=b0c40097e759b06dd5f714b1c48dff7f91cfd930983c86dbaacae0c37d550ac0c34ce86b702e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Everest勒索团伙发起连环攻击，泄露AT&amp;T数据并索要巨额赎金]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOLGQUCJqs648SpPsfYb3saR4EQS5p6shdMxEo8L0ic4rAibIOtoicLfiaTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件团伙Everest近期发起连环网络攻击，先后瞄准电信巨头AT&amp;T、都柏林机场及阿拉伯航空，泄露部分数据并索要高额赎金，引发广泛关注。10月21日，该团伙宣称窃取了AT&amp;T Carrier（at</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602868&amp;idx=3&amp;sn=b7122d5054548a62a1c00bf94653eb8d&amp;chksm=b0d9cc7b16fa9d9f68a0854c332a8db35a00861b8b363c92d8833cbc16a8cb6c4ad3e8499cc3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌完整验证Play Integrity Check全面分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBWtNdPpvyE3NzJicPm2xCniccsLOwJzxIIns4p4dKbOm0aE9iaUaMz9BZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在海外安卓APP市场，Google Play Integrity API是风控策略的最重要一环。大部分APP风控系统均依赖于这个体系，Play Integrity Check不是一个简单的设备检查，而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=1&amp;sn=7ca71a2d3b3ede11b48082327f87ef61&amp;chksm=b0704311fbb081aea36653e74267af791a3466d623eb6e1fb2b12bc28fbe74420c63a2a5d3c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H69tic4m7uJicNFccOjvUBbxNcPGOgr1FLV89tK0Zib9YrOOj6pQias6XBQ0PCfyQEArJUibhFIgIV5bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>该题是glibc-2.41下的题目，总共3个难点：如何绕过图像校验？如何在受限情况下进行堆利用？受限情况下如何劫持执行流？对于前半，本文将介绍完整的深入分析复杂流程的过程，对于后半，本文将结合glib</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601701&amp;idx=2&amp;sn=3fba161d9ba57447d17d2d50128db3e7&amp;chksm=b0728e53309f10fe058f2bf21488d2512c9e1a2342601d8bc19e9f6236f010990b46176307b8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Copilot 曝严重漏洞，攻击者可窃取私有仓库源代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWPcB8CMaluuO1iageWLmIeibf3NMrhU67pTIWuDtqqfY7xibfvUOUCZrgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub Copilot Chat 中存在一处严重漏洞，其 CVSS（通用漏洞评分系统）评分为 9.6 分（满分 10 分，属于极高风险级别）。该漏洞可能导致攻击者在不被察觉的情况下，窃取私有代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601701&amp;idx=3&amp;sn=ea899df2ca76b7e80de827c947f156b4&amp;chksm=b02f60c498af3b19909332e695b52521e8f7d3b472450c7253594eaff10436660648ffaa5df1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题预告 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRfDL547pPYNkzlhImNEB9tCJZL6dOCZ9GEia3qFEF7FhUCB9gaXGZGzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机》在传统侧信道攻击研究中，昂贵的硬件设备和复杂的实验环境往往成为研究者的”拦路虎”。本议题将展示</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=1&amp;sn=6ce800e0f4f6e0fa171ed7caa41176f1&amp;chksm=b04c36afc80022739f677fc28591fcf76bbea2ea17c0c83eeffabba48b6049dca5799061bd06&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OLLVM扁平化还原—新角度：状态机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fua3MZE2jxCyZpxU5FThhRQYqSGNbzfHndN84m3aI5ZP6UvRwN62ZCXXSUIY7uaDSpibdfL8Fwsog/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景 安卓逆向的核心流程（https://bbs.kanxue.com/thread-288487.htm）里面分享了安卓逆向技能树的“树干”。“树干”上有多个“树枝”，其中有一个就是“混淆还原</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601692&amp;idx=2&amp;sn=01f13f3a3a007ba4acf2fd791e7670f5&amp;chksm=b0fbdea69a885080e8eb766845394f19b8a2d5721267c036e2e47c20f0cab776b4443dc16711&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
