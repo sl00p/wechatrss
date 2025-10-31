@@ -6,10 +6,16 @@
     <description><![CDATA[逛逛GitHub公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/icFpsYYhJ3tCsZibNu6WfyODnS0sRys00Kk2piaoOVkzE0GzyySUf6oTfLxmKVm2SwvCgfCHUZYuPKDPibBRFem76qOHS8iaHDrrKJVLJnj0I4Gg/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/kcskZut0b2pHGHrEdbWQSlufn3PQ7vmHdicRmvIIEILw0IpcxLKicFKN2xTffAJ9CibUEe1XoM5d5Xvm3l5ohl0RtxZ2EYkv8zu33LZK4sAEdc/132</url>
       <title>gh_6f55ff91dc49</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[盘点 10 月份 YYDS 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruylvibdTDZDFkje0USriayv5AKT8JkFZ3vDoeiboShkh1wQmXkRD7zyZtJbeicf1Dq5gVapYQKIsyOEvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01交互式提示工程教程这个叫 prompt-eng-interactive-tutorial 的开源项目是 Anthropic 推出的交互式提示工程教程。在 GitHub 上斩获了 25K 的 Sta</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528317&amp;idx=1&amp;sn=0d1cc834938adc4652700305da4f9b49&amp;chksm=f85b04a8b213325aeb7ff8bc0f1bc61d1400d7461f6e81dd9eb7e2d35864674fe313a5ab3c7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[4 个神级 AI 开源项目，太顶了啊。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTyxIt6pDiaqqEuaPH8oQVZxJPytRufic4ZMhZxiaLtpSgCmhAhpAaR7dibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI PPT这个叫做 presentation AI 的工具开源了。输入一句话，它就能让 AI 自动为你生成一款美观的 PPT。输入主题「中国大学生实践报告 PPT」，选择中文和幻灯片数量，AI</p>]]></description>

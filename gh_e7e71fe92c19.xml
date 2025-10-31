@@ -6,10 +6,22 @@
     <description><![CDATA[看雪学苑公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/PktCeSgQXpMh18G56JVzV1TwVuycea4oqVEl2YBvWgc9as3sC4rXaZ1ClFVZWTorlhEWLfoo9XmE9GUAT1DATHLgACR0rHYIqPlUP7T8IlY/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/IU2miaUPe0qogCchjlo6RW35EIl2TnHJEIC6SibLlrYIxECBDsGU0r6ZbsOmcibdBPTBK3ECutxibsMg2c1YfpjkicbpQUiaK1XD2VhEbwp1cEjjQ/132</url>
       <title>gh_e7e71fe92c19</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[写一个简单的ollvm混淆还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RlolMthjAdzjHa2kLsprDTlhzDVDQ2xicKay9HRvg4dJsCxntTQC7Ixw/640?wxtype=jpeg&amp;wxfrom=0"/><p>羽扇纶巾，谈笑间，小小混淆樯橹灰飞烟灭。相信每个逆向萌新在刚接触加固App时，都曾有过下面这个“痛的领悟”：兴致勃勃地把样本拖进 IDA，准备大展拳脚，结果……F5一按，满屏的while乱舞，控制流图</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=1&amp;sn=724386f873a1409d8f8dfed7fcc0fd94&amp;chksm=b0ca7e3f57554a75fbee06c39059d88e9fef1790c70c54491925972b83a444874ecc59c15af5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[7天打造 IDA 9.0 大师：从零基础到逆向精英]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=2&amp;sn=752dd001638bd0bd17995c6244382f30&amp;chksm=b0c3e1b73991a0d7c8f5ffe9a7da4b1f263c80024cff6d7294803f0a8584648b5de2dbd33ee9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[VmProtect.3.0.0beta分析之虚拟机流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicB3pMofSUmnepjs0rJp6fFjngiavnpLT1nWzRuag7wqqcCynT6icCSE3Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于可以开始分析VmProtect3.x，以上的版本了，从刚开始接触vmp，那时是从0.7开始的，算是最早的版本了吧，那时候对虚拟机，一点概念都没有。什么虚拟寄存器，什么伪代码，为什么虚拟机里面没有寄</p>]]></description>
@@ -296,18 +308,6 @@
       <title><![CDATA[SDC2025 精彩议题预告 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj6cDDOpmDmI7icYEJ1NcxQV7stsm6AV0VEnvCIWxwFrDqb6TGYAVIow0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《大模型供应链安全的熵增效应：风险挖掘与熵减策略》随着大模型逐渐成为新一代 AI 的基础设施，其供应链安全问题正以前所未有的速度与复杂性不断演化。从数据处理、框</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=1&amp;sn=710a5278ab680a3f8bcbbebd8ced9927&amp;chksm=b0e4a8be57feeb0a76b3d304278a2973aee91ee7e2f4f9f31ac0897a90a9943b1bf80382d93e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用NMI中断检测无模块驱动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSPibgcEw4HGWZfZbgW3KwQHXO0fktvcS1pYNQuZrFuyDBrSJX1D3O5jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>各大论坛、博客讲利用NMI插中断检查堆栈的时候普遍有一个错误：在NMI回调中直接调用了RtlWalkFrameChain或者RtlCaptureStackBackTrace。比如R0g大佬这里百密一疏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=2&amp;sn=0e44d185666f6582ab92542e05a6cf9f&amp;chksm=b088c7f51b0a8e9eb362dc1e0689a80e30bfc4f9ed0c00841a56c9e962c279e461eff3c63520&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Invoicely 数据库泄露事件曝光：18万条敏感记录外泄]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj6t3EopLc17eicQ0SK87oIpYJb6OcfQQYZZic9ibqspuxDpLhickxs86qeDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员杰里米·福勒（Jeremiah Fowler）近期发现，与发票和账单管理平台Invoicely相关联的一个数据库因未设置密码且未加密，导致近18万条包含个人身份信息（PII）和银行账户细</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=3&amp;sn=fa70a587765e1d9270576b88fc990b59&amp;chksm=b08972f2881e52f37205c4c85025e54fd548339fdc74d60dc7d3f08bff8832183c667a79f09f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
     </item>
   </channel>

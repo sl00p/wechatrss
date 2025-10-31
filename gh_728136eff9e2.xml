@@ -6,10 +6,16 @@
     <description><![CDATA[稀土掘金技术社区公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/YpsK5SYtj3dRqF1r9eVXQFpZzCo4ZicU3YP5V28PDzKB30QibSJZvTRnicnH2s4DmauJE779BCiaUUMn2eunM6obmV4icRiazOmvoAO68seu94cpE/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/ibUAcaplOr9SBdB1MKBW2AViaWQ5XZRJGdeVN2pkqzQdn4bGNCzHDXZ9ictJXNUCqXmppmicEh3WYbOxexeypVmepPbqmJKSgrvlxuiackz79sEs/132</url>
       <title>gh_728136eff9e2</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[放下技术焦虑：越来越多公司重回单体架构的真相]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvGq7icdB0EHNhB7a2EBJ1hjhhDPm2UZ054Bf3EKbaBYvhympcA8eP9CNicAg4HdOVUxiaUZ0ovaIQTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>多年来，我们一直被灌输“微服务是未来”。“把所有东西拆分成小型独立服务，”他们说，“让团队独立扩展，部署更快，行动更敏捷。”但最近出现了奇怪的现象。那些已经迁移到微服务的团队，现在正重新回归单体架构。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546597&amp;idx=1&amp;sn=4fabc9c6aa86d2fd45fb05995636b5fb&amp;chksm=fd39e386a49a41de5bd7ca42b85bf815c8ca00032e665951419093fe24110247f232361fae9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 09:00:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[有人问我会不会用 AI，我直接拿出这个 Ollama + FastGPT 项目给他看]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibulgiaaEeoal7r6uH9ccg8gzWJ8yXibcgtkQbu4zgtOTSWncmnfr0585Gv5oWbgMC8CLtplMC8z2ldA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！前言我们公司最近也开始搞 AI 落地了——下半年的技术规划里，AI 的接入和落地已经被正式列为重点方向。说真的，这股趋势谁也挡不住，现在不论是大厂小厂，几乎都在</p>]]></description>
