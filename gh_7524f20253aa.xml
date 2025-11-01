@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Session Smuggling：恶意AI如何劫持受害者Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38kRHOJ38bfydpibpla2NRiclWHIu6eibZ1fP2xCZBlyZklUkYSyW3ictUq58ZIuhvCGIJUtTWGkgWEYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现了一种新型攻击技术，该技术利用AI Agent通信系统中内置的信任关系实施攻击。这种被称为"Agent Session Smuggling"的攻击方式，允许恶意AI Agent在已建立</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329739&amp;idx=1&amp;sn=b65b8bae5daeba896fb7d2f90819ec11&amp;chksm=bc9c4e020c58c8ddc974866342a5769d40bd4a92fac809815523c9a414480a4b9d724010a4c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 02 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一周网安优质PDF资源推荐 | FreeBuf知识大陆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PMjop86aEzTXzacdGTZWzCeDxcu3gibrExyKORrXqYt3ibSk6umMia9S2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329739&amp;idx=2&amp;sn=4c1dfcb45b1918e557e4d6d46af745fd&amp;chksm=bc920871669880b5c386d97ab6ca8c15cf14f5d6a653cef3bddb4b79f552b8a2adaee3d6a2bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 02 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[npm恶意包通过隐形URL链接逃避依赖检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84P0k04LPc1zA9wicRZs8RWcZamv4yMx1loULVuibyzNdsG7QkiaOfGGV29w/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，威胁行为者正在采用新手段将隐形代码或链接植入开源代码，以规避软件供应链攻击检测。以色列安全公司Koi Security本周披露，自8月以来，一个代号为PhantomRaven的攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329739&amp;idx=3&amp;sn=238df023b6552ef3760bf8874e668c8d&amp;chksm=bc3d751dcb29de2a42f460c91c9e5a1124e4e3a26d4b8bcb461b9f5b36742bbe112ef01732b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 02 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[两个月到账7250刀，我的海外副业赚钱密码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PtjVnbveIicdZCX2VXQeIiblWCGT7eUwbQ174ULvb6ia7xteufullSYMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言从9月份咬牙入局海外SRC到现在，2个月副业收入稳稳到账7250美元。看着这个的数字，心里泛起一阵酸楚——这些年在安全圈里的死磕和坚持，没有白费。赏金截图大家好，我是Z，跟大家吹了个牛，我也不是什</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329720&amp;idx=1&amp;sn=621a62a6d9ae97bf80bc37756ca71f76&amp;chksm=bc87937c6fa9ecbae1e557be7fb107be19b3eac69bf5cb7135bc4326d89991bed9147a26c448&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXrpmjquS6e7IBWdvQeWYr4bicRu73w8ASqkqyxgxUr3rXPibnq5Y27dRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Koi Security的研究人员发现了全球首个针对OpenVSX市场中VS Code扩展的自传播恶意软件。这款名为GlassWorm的威胁创造了软件供应链攻击的历史性里程碑——它结合了隐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=2&amp;sn=8363d9909c7ab6af78b73b7eacb5337f&amp;chksm=bcdcb5ab9176ac5ecabb539ec25cc8128e638c0ffe8d680e828ca688c23c11c533c624b52321&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型DefenderWrite工具可向杀毒软件执行目录注入恶意DLL]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXBZNaY3RmEPpy9HicHdko5vMLqUBgwTcoa4GiaQrsda9UnISdyQqwfk1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全专家Two Seven One Three开发的DefenderWrite工具可利用Windows白名单程序绕过防护机制，向杀毒软件可执行文件目录写入任意文件，可能实现恶意软件持久化和规避检测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=3&amp;sn=e83e95a4197c1dc5978994c21098c2a0&amp;chksm=bcbfac9bc7ad138b1778d669587c0d73a986bfc45e7d5e93eb081b7940db0659837990222d83&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜攻击者组织利用区块链技术构建恶意软件分发平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXbj5wichu8JsuH4tbl6E8rkCLnLOibjcE1V6ZkSBN3p3J5jjP1yD48HMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>国家支持的黑客组织与网络犯罪分子正日益滥用加密货币区块链托管恶意载荷，这种被称为"EtherHiding"的技术使攻击更难以被检测和清除。谷歌威胁情报小组（GTIG）研究人员在新报告中指出："我们观察</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=4&amp;sn=ffc7cf232b8dd5f8c9e4473a7ffa125e&amp;chksm=bc05104dc70c2e8e648126b1f48ec8e5f0ced7dd8b616250bc10b199e0457581ba5545963b4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大众汽车遭8Base勒索团伙攻击，敏感数据疑遭窃取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38THGyzL64K6RUGSdfytNkbmvhOibic5ycdjq3HPgiade8n8vHibm4L5V4yjzkQv4mh2zrSAtagOwjj4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大众汽车集团已就勒索团伙8Base的声明发布公告，该团伙声称从这家汽车制造商处窃取并泄露了敏感数据。这家德国汽车制造商坚称其核心IT基础设施未受影响，但公司模棱两可的回应引发了对事件完整范围的质疑，并</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328929&amp;idx=1&amp;sn=ca91a02d859c51987a0bfb5150027c85&amp;chksm=bce5af78ee66f643a491193633ee50b8471d3d78cea5810a8efcd62ac66f84068ed67ed81505&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
