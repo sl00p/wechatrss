@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[拓宽AI Coding能力：前端 MCP 实用技巧分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuLUAibVQmTX0FM8Y4ibSj1DPY7iaG6WxMKGaJdyib3rDq5Rg1wM1IlJCZxScDCibZZeYb3LXDTyb4VhGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言MCP 火了这么久，不少朋友已经开始写书、做教程，甚至搭建了各种 MCP 资源合集站。 但今天我想换个角度，聊聊我「在日常前端开发中真正用到的一些实用 MCP」。 这些都是经过实践筛选、能直接</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546611&amp;idx=1&amp;sn=bcf67abeb075f98542ba9ac429c85605&amp;chksm=fdcd1bc18ceb3bee697cd7a7a0bcf5a631a60fd0fe7cd374d9ecadb8d053598e3952f3404f3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我删光了项目里的 try-catch，老板：6]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvVl1G0D9bWddb8NdEAYCI9LDM2hs9MmSPWkorCmbCp1Hb3xoRtJqNZvkV7Ue0P0PRywRps8EnQ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信我们经常这样写bug（不是 👇：ounter(lineounter(lineounter(lineounter(lineounter(lineounter(linetry { const res</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546602&amp;idx=1&amp;sn=bd63eb746ec80933d1d25de0caaae27c&amp;chksm=fd2c850afcd5886defd01abea5183607293c1e3c8c454e62c0a3aaad1c80e00fa4cdfa05f681&amp;scene=0&amp;xtrack=1#rd</link>

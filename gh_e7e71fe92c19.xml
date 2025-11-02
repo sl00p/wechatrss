@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 议题回顾 | 危险游戏：智能驾驶一线攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0Ragw20CibiacfWD7l9u4e3HBtgbDVFM1B0fZiccDWIQMKzQDkSibdvf2aAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾随着汽车智能化水平不断提升，越来越多车型配备了先进的智能驾驶辅助系统，尤其是在新能源汽车领域，算力平台和智能驾驶模型迭代迅速。然而智能驾驶系统背后的安全风险却往往被忽视。本议题将从传统汽车网络</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603105&amp;idx=1&amp;sn=dd0f23c875550afb8a66d74bcc7021b3&amp;chksm=b0de2c2d7f6d2846f74d0cc7a97602ec91953c31a779631e52ff59e158d16069cd7a81a58c3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预约 | 破局黑产：守护亿级DAU游戏的安全实战密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0R6nvMxQgtXOsuXG7gmKXfLNWMtQF8ax37qcAj7Y4yI3LdnZvMXGcVicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>外挂数量暴涨238%，黑产攻击升级 AI 对抗，游戏安全防线岌岌可危？11月6日看雪直播间，带你解锁守护亿级 DAU 游戏的安全实战密码！欢迎预约直播﹀﹀﹀球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603105&amp;idx=2&amp;sn=55924a6230b6e3d595cfa9cfa57b0b95&amp;chksm=b0d587100d571b65d45bb1402458a771cb916044d4d9bb49ce30b1dd7a1a5738bf4df18d4528&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[写一个简单的ollvm混淆还原]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RlolMthjAdzjHa2kLsprDTlhzDVDQ2xicKay9HRvg4dJsCxntTQC7Ixw/640?wxtype=jpeg&amp;wxfrom=0"/><p>羽扇纶巾，谈笑间，小小混淆樯橹灰飞烟灭。相信每个逆向萌新在刚接触加固App时，都曾有过下面这个“痛的领悟”：兴致勃勃地把样本拖进 IDA，准备大展拳脚，结果……F5一按，满屏的while乱舞，控制流图</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=1&amp;sn=724386f873a1409d8f8dfed7fcc0fd94&amp;chksm=b0ca7e3f57554a75fbee06c39059d88e9fef1790c70c54491925972b83a444874ecc59c15af5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETmqcgeBM4wQB0Oz0VCZfcrXRQsAhrXYibNibHdZD2YTkh43ibVApGqSQKTzrB2CXDicTB8I8dMTpq7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、比赛模式简介官方会给每个队伍提供一个路由器用于连接本队专属的服务器,pwn和web服务被部署在服务器中.队内的人都可以通过ssh连接服务器并修改文件(pwn的服务固定放置在9999端口,web不清</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601961&amp;idx=2&amp;sn=bce3a48e20fd492728d596da1fbcfc65&amp;chksm=b010303a6b8b06447e9078767cc299ed6ec4c0e70605b01ba2f4c005a7311c603e39e1f2b624&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 18:07:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows远程访问连接管理器0Day漏洞披露，已被用于攻击利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ete70rmyqoicaPvfymemt5otwrUkv9ry7dHOAtYe6fLORRf7nteNwyicYnUibOtS1wDjayzYxianSAbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月15日消息，微软确认Windows远程访问连接管理器（RasMan）服务中存在一个关键零日漏洞（CVE-2025-59230），且该漏洞已在实际攻击中被积极利用。攻击者可通过此漏洞提升</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601961&amp;idx=3&amp;sn=54d929440d9143ff1a64377e23ca19f3&amp;chksm=b02b0e2d949563dd3fe08ea0e652ee3751826454ab74f282f0bb6827806d9993d597f2eb01e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 18:07:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩议题预告 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HV6oicWWE48oXwdHZZDHicj6cDDOpmDmI7icYEJ1NcxQV7stsm6AV0VEnvCIWxwFrDqb6TGYAVIow0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《大模型供应链安全的熵增效应：风险挖掘与熵减策略》随着大模型逐渐成为新一代 AI 的基础设施，其供应链安全问题正以前所未有的速度与复杂性不断演化。从数据处理、框</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601957&amp;idx=1&amp;sn=710a5278ab680a3f8bcbbebd8ced9927&amp;chksm=b0e4a8be57feeb0a76b3d304278a2973aee91ee7e2f4f9f31ac0897a90a9943b1bf80382d93e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 18:00:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

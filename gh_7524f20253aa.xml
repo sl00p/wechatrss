@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美澳加网安机构发布微软Exchange Server防护"迟来已久"的最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391K3dO042ujkoaRrrHicgaGfm4Z66OqfDM80BaibxIFnNg7KyJv92iaaQgPcextA4s5mlicWVCymcPaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01最佳实践聚焦强化用户认证与访问控制美国等三国网络安全机构联合发布了一份保护微软Exchange Server的安全最佳实践清单。这款历史悠久的本地邮件服务器至今仍被众多IT部门所沿用。澳大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329758&amp;idx=1&amp;sn=93616da1ca6b0db40ac6dbcde0259298&amp;chksm=bcb9770757c696f20af892df9a5577c9502cd2e31492c32deccc3ffcbe31daeb77b8fd193278&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude AI漏洞：攻击者可利用代码解释器窃取企业数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391K3dO042ujkoaRrrHicgaG22BxPdReDj1JDDp0Fte1N72JoZ4bfuzH2MQ86EpVKmKTgrngfXVIJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Anthropic公司Claude AI助手最新披露的漏洞显示，攻击者能够利用该平台的代码解释器功能悄无声息地窃取企业数据，甚至绕过默认安全设置。安全研究人员Johann Rehb</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329758&amp;idx=2&amp;sn=4c9f0a322f8727237074f2e6c888c42c&amp;chksm=bcb0e8959849ff10385f93117d565267a7c939dfe862c6ef02b8fd55850025054e5ec8b373ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux 内核释放后重用漏洞正被用于勒索软件攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391K3dO042ujkoaRrrHicgaG6k7BCasNzTM6t8FXdYvx1niatopL7icsIX6pYgQrU6Yia7S4PrrfI2sQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）发布紧急警报，指出Linux内核中存在一个严重的释放后重用漏洞（CVE-2024-1086）。该漏洞潜伏在netfilter:nf_tables组件中，可使本地</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329758&amp;idx=3&amp;sn=84df5ebc3b5f2fb929e1a3dec1288c6c&amp;chksm=bc4397f247e69018459d9a408c1d49922e707c5f759067c276c19f09d30ae9044e7fcf8dfb22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型Agent感知伪装技术利用ChatGPT Atlas浏览器传播虚假内容]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84P0NhvsbqiapueRVYXN5Ea6W0drthbF5iaNMaP2yzGyR2R2VdBgruX16fQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种新型Agent感知伪装技术正利用OpenAI的ChatGPT Atlas等AI浏览器传播误导性内容。该技术使恶意攻击者能够污染AI系统获取的信息，可能影响招聘、商业和声誉管理等领域的决策。通过检测</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329758&amp;idx=4&amp;sn=911ca65349fc597e176c85f6ec583715&amp;chksm=bcff7f77e81d09f34d93ea7f135bf2f51880979272b2819f5b5f28daef54b9ef27c5fb9c538f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent Session Smuggling：恶意AI如何劫持受害者Agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38kRHOJ38bfydpibpla2NRiclWHIu6eibZ1fP2xCZBlyZklUkYSyW3ictUq58ZIuhvCGIJUtTWGkgWEYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现了一种新型攻击技术，该技术利用AI Agent通信系统中内置的信任关系实施攻击。这种被称为"Agent Session Smuggling"的攻击方式，允许恶意AI Agent在已建立</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329739&amp;idx=1&amp;sn=b65b8bae5daeba896fb7d2f90819ec11&amp;chksm=bc9c4e020c58c8ddc974866342a5769d40bd4a92fac809815523c9a414480a4b9d724010a4c8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38f3I9IegQ3Vx7OS4FUIpI0opIRUwLZcs286iblMictpUuyoUqRibXsvUKk0MIomKzLS2xkGicpyxziaUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想跳槽面试，翻遍全网找大厂真题，要么是三四年前的旧题，要么零散得凑不成体系，连份能参考的面经都没有；护网演练到关键节点，急需某个漏洞的 POC/EXP，在各个群里 “求资源” 求到半夜，拿到的还是过期</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329037&amp;idx=2&amp;sn=ffb7c25d01ffa159c7395e97aa0c1b19&amp;chksm=bcdd6db591c23c675380a5b634b8b82a76b23940e25e601f82f114163669a44588b869995f03&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Oct 2025 19:04:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AWS服务大规模中断，基础设施故障影响全球企业]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38f3I9IegQ3Vx7OS4FUIpI0lMmAQvibaXObLiabtiblBbVQ7dKTaQcGIFfxEhJDu3PCcZDKhy6fCZ5NQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01全球性服务中断源于AWS基础设施故障亚马逊云服务（AWS）10月20日发生的大规模故障导致全球网站和应用程序出现严重中断，影响范围从美洲延伸至欧洲和亚洲。该公司随后确认问题已得到缓解，多数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329037&amp;idx=3&amp;sn=dba05c90a9554b152b847fca568b0ac4&amp;chksm=bce8b39497e39533a152904051012bdb2f5ad73563e46279767a72e20f1e8aed35dd6fac62f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 19:04:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows SMB漏洞遭野外利用（CVE-2025-33073），可导致权限提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38f3I9IegQ3Vx7OS4FUIpI0CO40aicYCMq6RlAAZHGibB1GjMA12LcMwQeqXXias9Orl2IFq61aC67GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）于2025年10月20日发布紧急警报，指出微软Windows SMB客户端存在一个严重漏洞（CVE-2025-33073）。该漏洞被归类为不当访问控制缺陷，可能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329037&amp;idx=4&amp;sn=8147222376e5ae2912a14b57969ca57f&amp;chksm=bca85e76bfc78bd27895bc6d5f6761432aa467ed30e3fc0ada104b4c0f353a6cddca6d08c925&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 19:04:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[海外平台HackProve冠军亲述：那些被忽略的漏洞如何助我登顶？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXzZn7KAy1xz9n63iabFW4seeRPPkaHKKMyMCaZjAdxjH0aF7Pb1y52eQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言征战海外SRC，斩获HackProve挖洞大赛冠军，手握六位数奖金——这是年轻白帽w1th0ut交出的成绩单。而三年前，他还只是个觉得自己“对网安一窍不通”，差点转专业的迷茫大学生。但更值得关注的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=1&amp;sn=2ef2d05a40d0570968e979e43c6fcfcd&amp;chksm=bc118eb77e86e3ed75c9273a5f89dd785d5fdd79bc5466a3d29790b559157a564d0341f7b2a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GlassWorm供应链蠕虫利用隐形Unicode与Solana区块链实现隐蔽C2通信]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXrpmjquS6e7IBWdvQeWYr4bicRu73w8ASqkqyxgxUr3rXPibnq5Y27dRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Koi Security的研究人员发现了全球首个针对OpenVSX市场中VS Code扩展的自传播恶意软件。这款名为GlassWorm的威胁创造了软件供应链攻击的历史性里程碑——它结合了隐</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651328981&amp;idx=2&amp;sn=8363d9909c7ab6af78b73b7eacb5337f&amp;chksm=bcdcb5ab9176ac5ecabb539ec25cc8128e638c0ffe8d680e828ca688c23c11c533c624b52321&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

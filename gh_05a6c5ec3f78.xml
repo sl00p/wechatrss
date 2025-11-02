@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/nJRs1RlEIMDyibmBQQWK7HOyicd51282JQBqb59511Wibju7fNibh3y1xj0BkKt1DqxLt7u2du8YxrdHLohqYgCFibRrVjA4SLmZMB0HmZkDAOHg/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/aXzQudib6t7sDlLhT4NYB3nYkEvx00TfchvW5vMvaL6GOoO1Xc4260ftD8gecalt5YRicW00vFX6XwUg0CwTV6dkOiaZCFxoebPAFiaoFgyBibE4/132</url>
       <title>gh_05a6c5ec3f78</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-11-3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.27-11.02【家族团伙事件】FIN11 利用零日漏洞实现远程代码执行，造成数据窃取及勒索事件BlueNoroff采用新型渗透策略</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510941&amp;idx=1&amp;sn=88bfea148438fcee65ce5b9b72e4fc77&amp;chksm=edab7366072b02f29983fea19bdb11c2b3ddc9843e497e60cb20babbddf6003b89e82a02e98e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 16:46:28 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[情报每周回顾 2025-10-27]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.20-10.26【家族团伙事件】MuddyWater 利用被入侵的邮件服务器发动全球钓鱼攻击Coldriver利用CAPTCHA伪装</p>]]></description>

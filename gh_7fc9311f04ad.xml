@@ -6,10 +6,16 @@
     <description><![CDATA[阿里云开发者公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/bSV9SZLlia2PPUSl68jTFQeKaBTsSJHS7NdibAlh7ibOUiaGnL6s55iaibLAMaJ0K7icRGu2QKcGgfO0EnMYCJFicicM2gMBNapuogZJItWY0RzhUNpo/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/Mic7Gbkx2EebsuLbhJOvLaYfib07Im19oUszgMEnyoDjicVfdj2p2EABuGDZeJWmAt7CZib8icwtutVyiaphvW5N3cibhebzpBfZjUaPMIoHE3YjoM/132</url>
       <title>gh_7fc9311f04ad</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[ReAct范式深度解析：从理论到LangGraph实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJGgVHb2qYj380LphkDSzoyCHiapHzMvw4micgIzAQQL7QgXB9ia7ibujyGKG7ibe1xuv5Adibd9X1liaabg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言最近在做智能解决方案系统时，我遇到了一个关键问题：如何让AI在复杂任务中既保持推理能力，又能有效执行行动？传统AI系统往往要么只能基于训练数据推理，要么只能执行固定流程，缺乏动态决策能力。ReAc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554893&amp;idx=1&amp;sn=36c4ce18c711a5f430aa95e4b0345a5f&amp;chksm=e868731da215adc9a67b51efcfe69e5469f0f16f590f08f9b3670a19b9d2c1c885d93501aa93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[如何让Agent更符合预期？基于上下文工程和多智能体构建云小二Aivis的十大实战经验]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naITrnxchK9FKUyezTIjEwkDyiciaYXjcDPJcaCI0dgxb21M8vGZdAHeY3ztayzCZJhichRGLDCSibNv2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景今年我们团队重点投入在“云小二 Aivis”项目中。云小二 Aivis 是阿里云服务领域的数字员工，它标志着我们从传统的智能辅助客服，迈向了更端到端 Multi-Agent 的数字员工能力的全新阶</p>]]></description>
