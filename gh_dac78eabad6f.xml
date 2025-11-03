@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯云开发者公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/V4gRTZJQucJKAGHmJJdItzILTY3CTicT5qOMukaFPruibWDrMSnAtH4GEmxclPa1HoS6mwY7XP2mWhCgP1smFnb7aiaVAxLeY1ScGR8mK1maDY/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/b8viaP2tmCPLoqJuydMlrqnk5rJg9rLfb1cCDvn7aA3d19aALMXjVMt5QP5gia5KAibEnHAzibTKLtW6LCoxahLYKwiayUN3AxNibU0xRZOuMqHZg/132</url>
       <title>gh_dac78eabad6f</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[十分钟速通大模型原理！从函数到神经网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96pwXlo8Yjia0XvknGe0YRmVl2gjI73hLX0505vo4Y4EMSlXI2vGBaZrudRicqSjmgD2V3KJOdUn4jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从函数到神经网络2 计算神经网络的参数3 调教神经网络4 矩阵运算5 从词嵌入到RNN6 Transformer7 结束语现在几乎所有人都在使用大模型，连村口的老头都会说让你帮他在手机上装一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692738&amp;idx=1&amp;sn=a0e020cde2162b4a20bce1d56c86d1af&amp;chksm=eb6a7c55852a7db55c3f27ca3484b0cc3e78e43cb3f17be1654ffb81395aeb7755d021391b7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[故障来源主要分三类： 1、人为变更（≈80%） —— 业务迭代中代码、配置、上线流程等变更引发。 2、预期内的小概率事件 —— 硬件或网络故障，如磁盘坏、丢包，通常被 BCP 容灾设计覆盖。 3、非预期内的系统脆弱性 —— 性能瓶颈、安全防御不足、配置缺陷、架构设计问题等。 本文聚焦第一类：人为变更。 从 3 个 9 到 4 个 9，靠容灾可达；从 4 个 9 到 5 个 9，需流程、工具、文化全链条极致落地。应对变更故障，要从三方面入手：评估、验证、监控。目标是“用流程约束人，用工具替代人”。 一、评估不充分 常见问题：代码遗漏、兼容性未评估、开发者不熟业务、重复代码。 ● 优秀实践：通过标准业务用例文档沉淀知识，在需求评审、代码变更前强制更新用例。 ● 普通业务可简化：在发布单中强制填写影响评估和关键监控点；静态扫描、调用链分析辅助代码审查；代码重复率检测防止多处实现。 二、测试验证不充分 根因多为测试环境不全、不稳或数据缺失。 ● 解决方案： ○ 环境治理：容器化部署、全链路预发环境、染色路由。 ○ 数据问题：定期迁移生产数据至测试环境，或工具化构造测试账号与数据。 ○ 依赖方问题：现网二进制覆盖基础容器，保持一致性并自动拨测。 ○ Mock 与自动化测试。 三、监控遗漏或不及时 ● 主路径通常被覆盖，问题常出在边界分支。应做到“不怕告警多，就怕没告警”。 ● 每条分支路径应结合测试用例建立独立监控点。 ● 框架层应自动打开监控和上报，客户端需自动上报错误码。任何未预期的错误码都要立刻响应。 四、部署与灰度 部署（发二进制）与灰度（导流量）需分离。混在一起会掩盖问题。 ● 小规模机器易出现“一台即半灰度”风险，应从前端开始打灰度标识，部署完成后再放量。 ● 前端重大改版也可通过灰度标签加载不同模板。 ● 关键是提供统一、可控、自动化的灰度工具，让部署与放量可解耦、可回滚。 总结： 80% 的故障来自人。流程是防线，工具是护城河。只有当“变更安全”成为文化，而非流程要求时，系统的韧性才算真正建立。 你是怎么做故障复盘的？欢迎留言评论分享，有机会获得社区精美周边一份。]]></title>
       <description><![CDATA[<p>故障来源主要分三类： 1、人为变更（≈80%） —— 业务迭代中代码、配置、上线流程等变更引发。 2、预期内的小概率事件 —— 硬件或网络故障，如磁盘坏、丢包，通常被 BCP 容灾设计覆盖。 3、非</p>]]></description>

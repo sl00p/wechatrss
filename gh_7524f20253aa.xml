@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[APT组织利用LNK漏洞和OpenSSH后门攻击白俄罗斯军方始末]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39K1ibJDCVsoIyiaZkKoBicCARMCeblGQwCPeYhO5Gs4ibaETQUhVJuOkA4ejIc1iaia8SKQgHyl3ILia32Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员 Cyble Research and Intelligence Labs（CRIL）发现了一起复杂的恶意软件攻击活动，攻击者使用伪装成军事训练文档的武器化 ZIP 压缩包，入侵了白俄</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329791&amp;idx=1&amp;sn=a0f02e7bd2b67da12a3ef393ebba42e7&amp;chksm=bc77ed13b56630a66ad9a8164d96ccaa8333ed7713098eb28925245c9ea91d7e284b7916b634&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 19:08:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研究人员披露Windows SMB服务器权限提升漏洞（CVE-2025-58726）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39K1ibJDCVsoIyiaZkKoBicCAR3TQP7pBlqa5u7qpzbe529iaadMNxpnyYm3Kl8ibJkd9odZB77ExicwGsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Semperis 公司研究员 Andrea Pierini 发现并披露了一个新型 Windows 漏洞（CVE-2025-58726），攻击者可利用 Kerberos 认证反射缺陷，以低权限账户远程获</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329791&amp;idx=2&amp;sn=2181e8520e9c3a7925bdf018c2d8a940&amp;chksm=bcda4378ec757fa5826b106fca16660c8b292829e62cc0cae751dc9afc80612d0331b929dbf6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 19:08:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android AI反诈系统月均拦截百亿次威胁，较iOS高58%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39K1ibJDCVsoIyiaZkKoBicCARyoXuMBySH7Fx703fZvycYdMEpBXlg8h0CrXHaywibrXuNObzJQ0h2PA/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近期发布的博客披露："过去12个月中，诈骗分子利用先进AI工具设计出更具迷惑性的骗局，导致全球损失超过4000亿美元"。为应对日益猖獗的数字欺诈，该公司详细介绍了Android系统通过多层防护机制</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329791&amp;idx=3&amp;sn=bd213570b5a13129f561dd4867916dda&amp;chksm=bcc31bbd839de3beab37c635027b8588521033223e73ca1d52aa7cab04415e0ba1ec05be962e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 19:08:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜APT组织Kimsuky和Lazarus升级攻击武器库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39K1ibJDCVsoIyiaZkKoBicCAR7VxHulskbpnYOrh585mxxzEUnkKPJIrYvuIic9ELibYNLiaNcR5eXjZtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Gen Threat Labs研究人员发现朝鲜国家支持的黑客组织正在使用两套新型工具集，这表明该国持续投入资源发展高级网络间谍和入侵能力。研究发现Kimsuky组织部署了一个名为"HttpTroy"的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329791&amp;idx=4&amp;sn=3d314073a6398054eeac31cccdda850f&amp;chksm=bc4160baa4b1002df191b8491226747774d107702a458a8dc764e98ceecd62d6cf3397edc300&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 19:08:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美澳加网安机构发布微软Exchange Server防护"迟来已久"的最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391K3dO042ujkoaRrrHicgaGfm4Z66OqfDM80BaibxIFnNg7KyJv92iaaQgPcextA4s5mlicWVCymcPaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01最佳实践聚焦强化用户认证与访问控制美国等三国网络安全机构联合发布了一份保护微软Exchange Server的安全最佳实践清单。这款历史悠久的本地邮件服务器至今仍被众多IT部门所沿用。澳大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329758&amp;idx=1&amp;sn=93616da1ca6b0db40ac6dbcde0259298&amp;chksm=bcb9770757c696f20af892df9a5577c9502cd2e31492c32deccc3ffcbe31daeb77b8fd193278&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibZ3LL3ibxWicoxicpSJzsJ3Ake5E6dYDNGibOVKVgqiaicVQ3RfvJlaYIESRyyT83dtBCDETZwEorCWC0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>物流合作商Askul遭勒索攻击导致无印良品暂停线上销售，订单处理、应用服务和网站访问均受影响。日本零售巨头无印良品（Muji）在其物流合作伙伴Askul遭受勒索软件攻击后，暂停了线上销售业务。此次网络</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329104&amp;idx=2&amp;sn=54b1290dc00a848a8f648a6a5476627d&amp;chksm=bca55b44771b727b301c4138619fdd3e956dfd8398880b06a88331be836dc3f9c2e8f196fcc9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Oct 2025 18:30:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TP-Link Omada网关曝高危漏洞，无需认证即可远程执行命令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibZ3LL3ibxWicoxicpSJzsJ3Akor1CPFmdRKnWL1ZVYlUV208RyDYOGibKnibdj7zhZ0fejMhUjaL4o8PQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TP-Link Systems 已发布新版固件，修复其广受欢迎的 Omada 网关系列产品中四个高危漏洞，这些产品包括 ER605、ER7206、ER8411 等在企业和小型商业网络中广泛部署的型号。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329104&amp;idx=3&amp;sn=9e51800fbacfb37649c7aa7ce20887dc&amp;chksm=bc1b09ee6664d47c7fcde2f07ae30ae160f7cee35b164e1bf1444c886a3e6d82324b85d5ffac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Oct 2025 18:30:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft 365 Copilot提示注入漏洞可导致攻击者窃取敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibZ3LL3ibxWicoxicpSJzsJ3AkdZmeL76ox16z4uAa0OmPos2bAtP7tP2rOsJ7JuzI9M2PzZYUqsHsVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现Microsoft 365 Copilot（M365 Copilot）存在一项复杂漏洞，攻击者可通过间接提示注入攻击窃取租户敏感数据，包括近期电子邮件内容。Part01漏洞利用机制分析该漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329104&amp;idx=4&amp;sn=7ba0b99b0ecb99335c4ee1cd588d382d&amp;chksm=bcd8f18a7716c62c947471afc20ba1395cda1e808f8f929d55c651b03abfe54511a8a0bf79f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Oct 2025 18:30:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“策略对抗”到“模型对抗”：朴智平台如何重塑金融风控新范式？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib8oXkanFQs1udvTrU8kDSXuicZ4SEj8CWvkfUL7qHxNkicSapBIBicDBWGg95d1c4IJNeyFK2HbMx0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，金融风控行业正陷入一场与时间赛跑的苦战。随着数字金融的深化发展，欺诈手段正日益隐蔽化、复杂化，当传统风控模型还挣扎在长达1-2个月的迭代周期时，黑产已利用AI技术已将攻击手段的迭代速度提升至“小</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329037&amp;idx=1&amp;sn=5cd229c54f61e418bff289a86448ba6e&amp;chksm=bc3ae74f12a9250fa835de323d4b7571e75bfba88ecb5605a06632379b8e51dc5be8c83c3071&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 19:04:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强推一个永久的攻防演练、渗透攻防知识库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38f3I9IegQ3Vx7OS4FUIpI0opIRUwLZcs286iblMictpUuyoUqRibXsvUKk0MIomKzLS2xkGicpyxziaUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想跳槽面试，翻遍全网找大厂真题，要么是三四年前的旧题，要么零散得凑不成体系，连份能参考的面经都没有；护网演练到关键节点，急需某个漏洞的 POC/EXP，在各个群里 “求资源” 求到半夜，拿到的还是过期</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329037&amp;idx=2&amp;sn=ffb7c25d01ffa159c7395e97aa0c1b19&amp;chksm=bcdd6db591c23c675380a5b634b8b82a76b23940e25e601f82f114163669a44588b869995f03&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 19:04:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

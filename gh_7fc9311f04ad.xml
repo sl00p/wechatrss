@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Midscene.js 实战与源码剖析：如何重塑 UI 自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7VTtFgicoGIcSW6HDI9RzqxUpqHIIduDSgSJ8rEJAM6iaqtrmeiarexEKDgaiaHTia1tcHlap45KDic2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统性地介绍了 Midscene.js —— 一款基于 AI 的下一代 UI 自动化工具，深入剖析其设计动机、核心架构、工作原理及源码实现，同时结合业务场景落地过程，分享一些问题总结及落</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554993&amp;idx=1&amp;sn=0092b25bcc778e273bdbf8e24af9008e&amp;chksm=e82dc196b753a41b5e11a91b222faf8d798ef8fca6bf138b97449921ee8a443a8652aae471d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ReAct范式深度解析：从理论到LangGraph实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJGgVHb2qYj380LphkDSzoyCHiapHzMvw4micgIzAQQL7QgXB9ia7ibujyGKG7ibe1xuv5Adibd9X1liaabg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言最近在做智能解决方案系统时，我遇到了一个关键问题：如何让AI在复杂任务中既保持推理能力，又能有效执行行动？传统AI系统往往要么只能基于训练数据推理，要么只能执行固定流程，缺乏动态决策能力。ReAc</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554893&amp;idx=1&amp;sn=36c4ce18c711a5f430aa95e4b0345a5f&amp;chksm=e868731da215adc9a67b51efcfe69e5469f0f16f590f08f9b3670a19b9d2c1c885d93501aa93&amp;scene=0&amp;xtrack=1#rd</link>
