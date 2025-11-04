@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[亲历两场编程语言迁移“惨案”，谷歌大佬揭露技术选型真相：90%决策与技术无关]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNZ0josaek8nZKEsicsm6rwVd2WUNzpIibic7UQ3pjk7AWhu15Ywsia2xKQTsBjdS1oQeBD2ZkyqBNJEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜ Steve Francia 编译｜冬梅 编者按：技术选型，尤其是编程语言的选择，常常被包裹在“性能”、“生态”、“开发效率”等技术术语的外衣之下，被视为一场纯粹理性的辩论。然而，在这篇由资深技</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651261719&amp;idx=1&amp;sn=79ea2d73dc081c61e1ca92909102aeb3&amp;chksm=bc0adc783c7d0d2701fed966a8ff568d694dc9e664a9005df61f79ea7d602211eecef0641923&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 12:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[星巴克中国一体化可观测性重构：从日志检索到指标驱动，构建低成本、高可用的可观测体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNZ0josaek8nZKEsicsm6rwVKIIZxJapxAvHEnjon9mXwUNta5HBCcbB36D64tNicannRXbI1u5Isvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 星巴克中国技术团队策划 | 华卫 背景与历史问题随着业务与日志规模增长，早期基于 ElasticSearch 的查询式告警逐步暴露出瓶颈：性能与时效上，ES 在高写入与复杂聚合下查询变慢、易</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651261719&amp;idx=2&amp;sn=71c5cf9aa679e64aac1c68266d74d66b&amp;chksm=bce724c4701e29540d7664b3efe54a9b285f92bd781e81d58fa825c8c0e319cfcb3d31add5c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 12:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM 时代的软件研发新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNZ0josaek8nZKEsicsm6rwVskXhFicRZklvI6QraAYtk2hRdPsGjfWbMRlG52kPckSSbyhaPc0gZ8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 写代码已经不新鲜了。真正有价值的问题是：有哪些工作已经可以稳定交给 AI？为什么通用模型不够用，必须走向场景化智能体？研发团队怎么从“试试”走向大规模落地？11 月 5 日晚 8 点，来自百度、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651261719&amp;idx=3&amp;sn=7a2361268c909881e1f7e3f641c7a25f&amp;chksm=bc5f56cd4014f5524e0e1ea44717e04498228386dae25f7dda12573cb296004bdede9a1b1492&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 12:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深入解析多邻国的 FinOps 之旅：将云支出转化为工程洞察]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNZ0josaek8nZKEsicsm6rwVloEfZ50MlK2PHiaibwsyic6lsJXhicsMN6flxJWnTCBMBLSETJFSu5folg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Mark Silvester 译者 | 马可薇多邻国在其新发布的文章《每位工程师都该了解的 FinOps》中，分享了自身在 FinOps（云财务运营）实践中的经验与洞察。多邻国介绍了他们如何</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651261719&amp;idx=4&amp;sn=4007ce2ac550714fa594b064e32726b7&amp;chksm=bc7bd7c8790b50e999693e28d82e47a6ee7651f98cc4730b7211112872aa9f9946c024be5061&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 12:47:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[完整前端代码突然公开？苹果把App Store“老底”都揭了，开发者社区炸锅！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPfCC0MLBXia3BMfYDFv2ymqu7WYYcBawjib5Fwic5a6Ikiaovl0BO1iaQXmr8W2276Niaod5BkqOibm76UA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 苹果正式上线了网页版 App Store，为用户提供了一个可在各类设备应用中浏览的集中入口。现在访问 apps.apple.com，可以看到一个全新的界面，而不再是之前那个只展示 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651261553&amp;idx=1&amp;sn=ccfb3a9e4ef1112c23153394230f83b7&amp;chksm=bc4e6cbbfd616393bffae3249ce098edd552aad6aa6752aa95ae484144b1fb033e807038e788&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMJYPbSS8O0gFGDIUvsY7tcXt5yaQjJEXCAcBfExCQ2e4icvb7m5SjaRictfREYPI2JKqg2y5UWmicwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 付秋伟 引言近期 IDC 发布了一份《AI 原生云 / 新型云厂商重构 Agentic 基础设施》报告，报告中的调研数据显示：87% 的亚太企业在 2024 年至少部署了 10 个 GenA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259990&amp;idx=2&amp;sn=cafa9166cc54410125d4789e2e92badd&amp;chksm=bc2d183823abc51b483b02989919138b606972351afd92fe397169a6e435eac19941bb57860d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 14:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[破局向量数据库难题！解锁毫秒级时序一致的挑战与 IVF索引优化路径 | Q推荐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPMkzhymkgOMLmWNPdnD7QvKPZPia9Bia3T6tV9mLvrW330VicAIY5dvibPiaNkTiaj0bEicNVkh5hoLz3Hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型应用进入深水区，向量数据库已从技术配角升级为 AI 数据基础设施的核心力量。根据 GM Insights 报告，全球向量数据库市场规模将以 21.9% 的复合年增长率飙升，2034 年突破 1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259990&amp;idx=3&amp;sn=364636dcfd78a2c11fa3b9fde88f2ec9&amp;chksm=bcfe4bd6d2bc674aa41c2ace42032cdccf64ec856240441c3ac83f03815000566ac45e55c674&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 14:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌开源的 Gemini CLI 扩展助力开发者构建定制化人工智能工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMBKxc173y9p1tYx48kEZaRuuM1icqqX0cSDdoIJ4d4icvgA3LB23WzP4AbCO3sCvwGefuyFMhCibMww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Hien Luu 译者 | 明知山 谷歌发布 Gemini CLI 扩展，一个开源框架，为开发者提供了一个构建和共享 Gemini CLI 智能体 集成的平台。该框架引入了“剧本”的概念，通</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259990&amp;idx=4&amp;sn=ebf5cae8f60f47391ac397674d0e18b8&amp;chksm=bc903150065de4b6d6e47974dea869fecff3a256b2a4a030b4f85c5860362dfc197f99bfa514&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 14:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[聚焦 AI 全栈创新与行业应用，InfoQ 2025 中国技术力量年度榜单开启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNunYdO3FAiao5pOj5XGCeCczH0icT8HL8iaDUFYEgzAia7Rb7VIVO1VTxb1uzxSxgvd2IFRnqFicqTaUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 木子在国家“人工智能 +”行动规划的推动下，人工智能已从前沿技术逐渐演变为驱动产业升级与经济转型的关键力量。2025 年，中国 AI 技术落地与产业应用进入加速期。从算力基础设施到大模型商业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259789&amp;idx=1&amp;sn=4e265514f25a5494b143361bf52c6403&amp;chksm=bca311c11041fab7e654ec75976b1d8e17ef8e033db6f01da0c4152cd0c969111c007920710d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 12:50:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLM 技术在有道词典笔上的应用实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VOHJDnNl7oIbQ8kPEcmImyVicvg8GbV28rKIGJMv4wsSda7sbIyMKXbCoRLJgPjrLNvhicElf4d3cnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 程桥 审校 | 罗燕珊 策划 | AICon 全球人工智能开发与应用大会 端侧大模型落地面临多方面挑战。算力和内存上，与云侧相比差距大，如端侧 RK3562 芯片对比云侧 4090GPU，算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651259789&amp;idx=2&amp;sn=248c2f814863fb4c90c71a935bd41466&amp;chksm=bc8440b61a4fb15127af1b008d8d325be0ecaba32c40e580cbf662fa2aa41cedd2b8e6a5d80a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 12:50:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 议题回顾 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GaCTicMsNZz5twphlkDr9hicia2ktzg01GCgyk3xvudeicJy6ZNictsjFDqA2nV7CRdCHCQaxRHwRXMjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾在传统侧信道攻击研究中，昂贵的硬件设备和复杂的实验环境往往成为研究者的”拦路虎”。本议题将展示一种革命性的研究方法：通过QEMU仿真STM32微控制器，将CPU消耗巧妙映射为功耗轨迹，实现对A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603265&amp;idx=1&amp;sn=1bce0d64e93eb064e5204867b682e2e4&amp;chksm=b040b4c40baa95b4c4596e15094c06a7e5c8e800fd63d8787832fcd6381f749f66deda8c3fe1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 18:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[11月6日15点 | 腾讯云游戏安全直播，揭秘亿级DAU游戏的安全密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GaCTicMsNZz5twphlkDr9hic6K8BZTxJ7icI2qib6iaB2SG04bQBVoUvwYhM8ibGTbibnmk5iaCUUG4yrRxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>外挂数量暴涨238%，黑产攻击升级至AI对抗，DDoS与APT攻击频发，游戏安全正面临全新挑战！从《JJ斗地主》的智能防盗刷，到《解限机》的100%外挂对抗；从《无尽冬日》的防崩溃秘籍，到《太空杀》的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603265&amp;idx=2&amp;sn=7da22ddc5f32375865e489202104066a&amp;chksm=b0fb9f3d8bee7b7402f5f4d7f8045e58b8c82ffeaba3644ef73110048b99cbf83b8821984a74&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 18:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌AI再立新功，“Big Sleep”发现Safari五大安全漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GaCTicMsNZz5twphlkDr9hicdzglOj4IypNIh4NrGwlzA1U7QptyZJhROsQAVLMDPpjr9YGQuhmAOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，谷歌旗下人工智能网络安全代理“Big Sleep”在苹果Safari浏览器的WebKit组件中发现了五个安全漏洞，并获得苹果官方确认。这些漏洞若被恶意利用，可能导致浏览器崩溃或内存损坏，威胁用户</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603265&amp;idx=3&amp;sn=e6576c3dfd7b2ef0e1aa066a64add6c0&amp;chksm=b09b40cf7c694f66fa9945b2b3fc4ca7deb04f319c84b23fb55e928c405b20d4a2fd4dc24e95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 18:02:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[记录工作中解决bug用到的逆向知识]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RCCVib5WmKC89K6NOq635EPketShicR1icnY8vbn2LAowAKs7tHB9xhjcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>问题现象在使用rk3588开发云手机过程中，有部分核心板随机出现hostserver进程占用cpu过高问题。因为golang编译时候去除了调试信息，没有加上pprof，无法看到goroutine的工作</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603127&amp;idx=1&amp;sn=b9237d31c378d138e2dcb4a63b31e14f&amp;chksm=b0cd3c99786d4e1591e49f7df7dfc948f4745b5eb073ce3ccfe906dbac0d5d5f9b0f45b3f0cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc8sQqUhx3ZqqClHz8l5aFBfrFAV13iaHLf6fyBFDaE6kqB765xaB2XlUzQp3nbfsn4n4BdUpIGiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全研究人员披露，WatchGuard Fireware系统中存在一个已修复的高危安全漏洞。该漏洞可让未授权攻击者执行任意代码，对设备安全构成严重威胁。此次披露的漏洞编号为CVE-2025-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601999&amp;idx=3&amp;sn=217c97c1e2d3b76f3966b763705a8b26&amp;chksm=b0694239a0657af44f1ee9f5f26741328733ce206fa7bd897d8ca8bdd70f3c1115478aa970c6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 18:03:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 倒计时6天！10月23日上海见]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc8sQqUhx3ZqqClHz8l5aFaaOAua53rFG3xstm8KGxKnqVSMO6OyynO9oHvyscFgWxicqfI2mAS2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601999&amp;idx=4&amp;sn=b8deeb1bfa27ada711f37bca80eb25da&amp;chksm=b063d4a9dcfb8253448c8923373dfa31568b31eeba6915b1c734a8b00f46592d1d5542b217ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 18:03:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火热报名中！SDC2025安全训练营：软件安全 x IoT固件实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWS2xUqVkWNWrbPwWaZiaPicv3N7B9UFhT9ic3UMRdXxDpAuaFWsHHeJb70g/640?wxtype=jpeg&amp;wxfrom=0"/><p>10月23日，第九届安全开发者峰会（SDC2025）将于上海举办。为丰富参会者的行程体验，特于峰会前一天设置“安全训练营”培训活动。训练营A：《IoT固件安全分析与漏洞挖掘实战培训》1.培训简介本课程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601969&amp;idx=1&amp;sn=2daf77efcd2f97a1dcafea5f1fe607cf&amp;chksm=b03e6b7c7cc2f62129eda41211515afe78e99caf65627140cf7712ffbdc1c35edba4d6eebf49&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 18:00:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[学习一下dom破坏]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GwZWBzpApHbCQ8p47IIwAneoiagibhWiadUsczxIQVNOVOpT4icHb7kWoYuH0ibGKaYCZvFqW5DAbSqKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一关源码：<!-- Challenge --><h2id="spaghet"></h2><script> spaghet.innerHTML = (new URL(location).sear</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601969&amp;idx=2&amp;sn=bdf1cba033ab1f4456d2402a1f2d750f&amp;chksm=b004508650f7587a1020d84d3e0653eda6444c514e136188ff01d02ae426bc430781ba05de04&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 18:00:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
