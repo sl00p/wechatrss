@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[KernelSU检测之“时间侧信道攻击”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsKnDEOicmZDal1VNE0nhq0IrOciaoPLhp0KGiaASfbILvibpjqGzkOhwzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>偶然间拿到一个海外Bank的样本,打开后出现崩溃的现象，但是我的手机只刷了KernelSU，并且还魔改过的，以前一直都是过五关斩六将，但是这个app为什么会崩溃呢，难道说是检测到我的环境装了Kerne</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603667&amp;idx=1&amp;sn=e6b8adae8b27328af5ab66b5cf328da9&amp;chksm=b066ac5830627a12e3a175c79de965465e7fdd6675913728643b78ad5383f5789fcece698974&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 17:59:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Teams曝严重漏洞：攻击者可冒充高管伪造身份，全球3.2亿用户受威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsOAmTfpNric3EUicw8hap3rb1JicU6pwK5vX6URTkuLso6vskSzqg5ibdGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Check Point研究团队披露了微软Teams四大安全漏洞，攻击者能够冒充企业高管、篡改聊天记录、伪造来电显示，严重破坏这款全球普及的协作平台的信任体系。这些漏洞影响包括外部访客和内部员工在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603667&amp;idx=2&amp;sn=03686a433abd68c496ed208b6aab988e&amp;chksm=b020180430ea93dbaa94485201285a854e96325ea9a8fad94d679fae5ec474f34a46ff022d71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 17:59:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603667&amp;idx=3&amp;sn=b5343c47a4fba2f54b0ea381d7574ab9&amp;chksm=b0aaa931d3624967177502d7cb25bd64bf84608375b1f6c8ea36990886a6e3e5514012a1b4b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 17:59:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GaCTicMsNZz5twphlkDr9hicia2ktzg01GCgyk3xvudeicJy6ZNictsjFDqA2nV7CRdCHCQaxRHwRXMjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾在传统侧信道攻击研究中，昂贵的硬件设备和复杂的实验环境往往成为研究者的”拦路虎”。本议题将展示一种革命性的研究方法：通过QEMU仿真STM32微控制器，将CPU消耗巧妙映射为功耗轨迹，实现对A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603265&amp;idx=1&amp;sn=1bce0d64e93eb064e5204867b682e2e4&amp;chksm=b040b4c40baa95b4c4596e15094c06a7e5c8e800fd63d8787832fcd6381f749f66deda8c3fe1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0NyPkSR4yrnUbWsJTO9sHGoHJeVEfEBcdDUQ0TdQjZkzXT5kliccxGaicqmDTNbX1dZKYoYowLHsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602011&amp;idx=3&amp;sn=e68ddd1f638df45a840ada811f134b71&amp;chksm=b099ef8f054f2ffaf74c87e81c3b0e94bbfe4e052e7d5f7e54795a54ba83ec7903fd6686f1e4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩议题预告 | 利用大模型辅助自动化挖掘BYOVD漏洞驱动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSXIlNxCrlDeRLmponEqkqvmgibHRyDQ99vyF6h8IeJRYMZXFyNBJ45WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《利用大模型辅助自动化挖掘BYOVD漏洞驱动》BYOVD（Bring Your Own Vulnerable Driver）驱动因其隐蔽性强、利用门槛低、攻击面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601999&amp;idx=1&amp;sn=36bec5e8cb27290de651edd9acfd57d1&amp;chksm=b09f7af2d2bb8858a9a3ce5838317c5af248beddb7a435bf70571378031b87fac9070076e9c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 18:03:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对pixel 2进行刷机并使用Magisk获取ROOT权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSk9g3HQP4su7KltR7B4vdA3UsOvS7ySqu2RjMwupTjVad2nGfJXibf9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用Windows11系统进行操作刷机的手机型号是Pixel 2，在设置->系统->开发者选项，打开开发者选项。然后在这个页面向下滑，打开USB调式。要想刷机OEM锁必须解开。谷歌海外版的Pixel</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601999&amp;idx=2&amp;sn=53403d366f28e668b2870f518ee3e2f6&amp;chksm=b025a3ba796055ac6dd355a346c6930a659788049c8b937c652a1c3d200b3f6661c8c824c508&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 18:03:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WatchGuard VPN现高危漏洞 未授权攻击者可接管设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc8sQqUhx3ZqqClHz8l5aFBfrFAV13iaHLf6fyBFDaE6kqB765xaB2XlUzQp3nbfsn4n4BdUpIGiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全研究人员披露，WatchGuard Fireware系统中存在一个已修复的高危安全漏洞。该漏洞可让未授权攻击者执行任意代码，对设备安全构成严重威胁。此次披露的漏洞编号为CVE-2025-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458601999&amp;idx=3&amp;sn=217c97c1e2d3b76f3966b763705a8b26&amp;chksm=b0694239a0657af44f1ee9f5f26741328733ce206fa7bd897d8ca8bdd70f3c1115478aa970c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 18:03:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

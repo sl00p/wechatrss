@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[PortGPT：研究人员如何教会AI自动回移植安全补丁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLWXbCNyTQiccO9v4icicIfib6rq80ZJ9KEnicnm4xPULAZfJvpUTgAibQPQUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01开源项目面临的补丁维护挑战保持旧版软件安全通常需要从新版本回移植补丁，这对于Linux内核等大型开源项目而言是项常规但繁琐的工作。来自中国、美国和加拿大的研究团队开发出PortGPT，这个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=1&amp;sn=0e5e12853c0c490a5b0d5fbd11b96134&amp;chksm=bcb9d00701bc1d9871e6c21ef33687821a53387c069e3d9336cad3c6d0a63ce7e169435d241e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分享一个能一键获取两万+资源的情报网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLWRAicT7cvjRTmfgzXErw1gSqibnepxEh0WArO4Juuic6sSj7iaOHC0v1UQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>✦•✦这个聚合信息平台能做什么你能想到的——学习教程、资料、漏洞、资产测绘、备案查询、工具、福利……这个VIP网站全都准备好了。● 13000+ 网络安全学习资料、公开课视频教程● 10000+ 安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=2&amp;sn=dcf772f5586a807573713540c0a11cc9&amp;chksm=bcb76fa8a7a5f936166ccb44d3a35d2907475282c6bb7e099e10cf9e7a5f5d499fe54f439bd8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客通过DLL劫持利用微软OneDrive执行任意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLO0Ol9KesLLn2fG1yFvjMZficIl7HaYo5WWicdJDWmsibDxs4JXEVsNtxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种利用微软OneDrive应用程序通过DLL侧加载执行恶意代码的高级攻击技术，可使威胁行为者绕过检测机制。该攻击利用经过武器化的version.dll文件劫持合法的Windows进程，并在受感染系统</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=3&amp;sn=50248b57b1ff1ed3df7aa35f168649c6&amp;chksm=bc73b608e16ab180c79306ffdb91baafb0d8556bc641ba0907ba35e1300b9fc8e5dc9feb07dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RondoDox僵尸网络武器库升级：漏洞利用能力激增650%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLvHhXiaDJib76bTPB1LBialBGWtyNDicrnDFx1sbmkaZdQ0fNhBJxgYecLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>RondoDox僵尸网络近期出现重大升级版本，其漏洞利用能力激增650%，标志着针对企业和物联网（IoT）基础设施的威胁态势显著升级。FortiGuard Labs于2024年9月首次记录的原始Ron</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=4&amp;sn=ba2646784818eedc3d9dfb57d67ff20c&amp;chksm=bc1ca8335209207ee7b55963c075dcd580b41231d32e9a48b95e3bea2da42e675e806b3f9c78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[复杂能力，简单交互：小薇定义安全产品的智能体时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCshvvpdbdpsBshdxlia1Q1oicOibjL0LSXiao81QLfGmAiaNGRzhjl4AB1Rxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>“帮我分析一下ERP系统的访问关系。”几分钟后，一份包含资产清单、访问拓扑图、风险分析和策略建议的专业报告就出现在屏幕上。这不是科幻电影的场景，而是小薇微隔离智能体在企业环境中已能实现的真实能力。过去</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329804&amp;idx=1&amp;sn=57da2866dcdc1ea3a0efc6565624d42c&amp;chksm=bc584affaa521abe8544f75f48f3051fa8d10b7e163ba47dc6c99cc538c16e8c93fcf274da94&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38YQDqia9CITwhrGwLLXXwGnYco84g0KngtJNuHzhePFKxEbzszYo0tpt4yhlxG8pCx4r528s0pUmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注我们丨文末赠书随着企业纷纷将核心业务与数据迁移至云端，云安全这一隐形的“达摩克利斯之剑”也悄然悬于头顶，成为制约企业云战略深入发展的关键因素。云环境的开放性、虚拟化与动态性等特点，也使得云安全面临</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329196&amp;idx=2&amp;sn=86ca2ff72356af73c3a6055c6b66a1a5&amp;chksm=bcc7fd7364fb0b04ec60c41d2e243f31574e485755787397ad5fde06e10f942fc254461cb35a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SquareX揭露新型AI侧边栏欺骗攻击：恶意扩展程序可伪装主流AI浏览器界面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38YQDqia9CITwhrGwLLXXwGnDeiaicLNbxCS8hiclHxDQpBfycsKGMVzJfypOQy3dAibdgWF9Um2E7icwkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司SquareX发布重要研究报告，揭露一类针对AI浏览器的新型攻击手段。这种被称为"AI侧边栏欺骗"的攻击利用恶意浏览器扩展程序，伪装成受信任的AI侧边栏界面，诱使用户执行可能导致凭证窃取、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329196&amp;idx=3&amp;sn=a4187a06a7b0505749d1be5a43240885&amp;chksm=bc01b116cb5d7998b92235896c91b5806c292ef2436599bd7ab230e2f8e1e0af0b20f5070480&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SpaceX 禁用缅甸诈骗中心2500余台Starlink终端设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38YQDqia9CITwhrGwLLXXwGnYFXj57E6bYmXtcBicicngIAHEE9yiaQn20iaKEklC45LEbl68TcVgAOaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>SpaceX公司已禁用2500多台与缅甸臭名昭著的诈骗中心相关联的Starlink卫星互联网终端设备。在全球日益关注东南亚地区网络诈骗的背景下，此举彰显了该公司防止技术被滥用的决心。Part01主动打</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329196&amp;idx=4&amp;sn=d747c522e81081c6c9d7758bf8d3ec1f&amp;chksm=bc5783a075ca77ed2cbd4116d5ba6f3b4c06a7e86d679c3ee4b79a3ede20235763a6cea55d18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Rust异步TAR库TARmageddon高危漏洞可致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0Az9g1Kh4cVNeaVnFcDI9OiaTr7qXN8T1Y1TurVAjia71dUzL6iavrGETzag/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用Rust编程语言开发项目的开发者，以及运行环境中部署Rust应用程序的IT负责人，需要警惕该编程语言某个库中发现的严重漏洞。Edera安全研究人员表示，他们在流行的Rust库_async-tar_</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=1&amp;sn=cf252a2809c7c25db8c3b11e2893e5f3&amp;chksm=bc75a184a48bd4cc6101ba654404bc6fd9961b4b7d528bb1b3c0e5b4bff5c1e09a043ec63c31&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自主AI攻击与网络安全的未来；CISO的十大职业陷阱 | 2025网安行业优质播客精选集⑪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SXialQKmeu0S5WicsibEg0AzsIDxCUeNGwSTsvKw3O18dNamibevASjlA1r1LYfHqECXKC2dicTIic5kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 自主AI攻击与网络安全的未来攻防天平或将彻底倾斜本期节目：自主AI 正在深刻改变网络安全格局，其攻击能力已实现从扫描到渗透的全流程自动化，且速度和规模远超人类黑客，同时大幅降低攻击门槛；防御方面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329141&amp;idx=2&amp;sn=7b114f02c05ef5a97a6a52d8cd3c8b5a&amp;chksm=bcbc0ba3cb3372fb553de69bcda374d28376d867b9e20ee6a5c2a9983603ce117670c9832642&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

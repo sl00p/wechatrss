@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个函数超过20行? 聊聊我的函数式代码洁癖]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibteuzpBdELgcYAAnjTic3G2ET5lzkniaRl908vE5WHpqAVBDic3ibCjPSsTIickiaf8XxH0VpXhQtLiaSHBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我又来了😁我得承认，我有个毛病，或者说洁癖吧。在Code Review的时候，当我点开一个*.js / *.ts文件，看到一个函数洋洋洒洒地写了50行、80行，甚至更多时，我的第一反应不是去读</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546646&amp;idx=1&amp;sn=d90dd287ca0b194ee4c4c20f566942c4&amp;chksm=fd7a4d0a2b3cf05c8336932770e42f3eb37a306af1a672e478d3c3ca68eca998addc96f23761&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Konva.js 实现 腾讯文档 多维表格]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibubpo99dGwoYtVsX2RkBqDu5j5xy28Z94ldEganov6VfmVgmGic1y5dloY3HZ6czeh0bdKeOfNSOhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Konva.js 多维表格系统基于 「Konva.js」 实现的高性能「多维表格系统」，支持大规模渲染、分组管理、筛选与排序等复杂功能，旨在构建类似腾讯文档 / 飞书多维表格的交互体验。目录一、项目概</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546641&amp;idx=1&amp;sn=609efca91be326bc3bace88344d07001&amp;chksm=fdae6fa24586483637c2810490b4c28bd35f6985e5a387ecc607904e4be0532af451e0b93850&amp;scene=0&amp;xtrack=1#rd</link>
