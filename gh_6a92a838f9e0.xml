@@ -6,10 +6,16 @@
     <description><![CDATA[哔哩哔哩技术公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/tcMEQtKFe22AQEQrjRqDVmRBkNIdZFlG02qhOKliaT3rE2MQZjOE3LibTq8zPwfq858Czgicc84vIRcqh5ccOo619567XNEuV48vWsySWa1weZWdp0wjCUJXo9ooA3BwdDB/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/MhLhj1Zltjls2gSSSicWLUrN6qG22UmicBAThz4HLuR0YIplFOoZZVIMJibGYUUGSGNpOIkHUJxu4yecGOwNnKL9fCgRbZwODlQ7qa0wzibjHAD3dnmW78EH4HVyRNhbKnFe/132</url>
       <title>gh_6a92a838f9e0</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[B站基础安全在AI溯源方向的探索实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754Q5HQkDs2nAH4kR9iaJ3PfbFcvJ7t7It58ibibQBzJfiby7v65bE3IXiaQsj2ReHGtZ82YBiaKHPYB3gofw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景安全事件告警自动化运营的演变在企业安全建设中，SIEM/SOC 的告警运营始终是不可或缺的核心环节。随着安全需求的不断提升，告警自动化运营经历了多个迭代阶段：人工查证阶段：运营人员需要在各类平台之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503693&amp;idx=1&amp;sn=3d65c30c986bc3c51f2f924b1ea5f158&amp;chksm=cec89a81c7cd38bcf05a4d0dc378d57f02618dc5457de2c9b3eddc98403a744347ab3a2f01d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[RIVAL：面向机器翻译的迭代对抗强化学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754TwYty6lLz4xEw9Sb1zse5icxSUUlpL1EcLYjHPFmsKiahrvaIbibR8IWHiaw8yP3E7FaubMIWkpNLPbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述本文提出 RIVAL（Reinforcement Learning with Iterative and Adversarial Optimization），一种针对机器翻译（MT）的迭代对抗</p>]]></description>

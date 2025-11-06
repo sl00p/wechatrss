@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯玄武实验室公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/3H3pCicVpLQmpsn4s2NwlWYXctDerwgQ4I5nVa90suqouv2ntib9SCVB2FwYR0nKty7XxhFtDACVyTWicRCdx1MSn0syRw7PDfoytsprwVJsqw/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/63x5M7aGhGXNLQWbz1dNpCIuqUQArmqM0Tt9rU1FyHy46IRF7JFfybxJvuk0X11xTWxbSiaSTJ3JqDSNC6JlMNPSYRHo3MWvqwt14Yhdibibz8/132</url>
       <title>gh_6095d8d90146</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/7)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• NVIDIA nvdisasm 堆溢出漏洞分析（CVE-2025-23271）https://hackyboiz.github.io/2025/11/05/ogu123/cve-2025-232</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960246&amp;idx=1&amp;sn=39b0d9f440cdf13d99db1e8af6e3905b&amp;chksm=8a1ab55fcc80a7af03c0cb81cb1997bed6c46e86146575258967c295d2aea2d92ddb877830bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 17:22:30 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[每日安全动态推送(25/10/31)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 研究人员开发Linux内核rootkit绕过Elastic Security EDR检测https://cybersecuritynews.com/linux-rootkit-evades-el</p>]]></description>

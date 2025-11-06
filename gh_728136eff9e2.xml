@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[与产品经理的“模糊”对决：Elasticsearch实现MySQL LIKE '%xxx%']]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibukwia8ib5jZnTE3tMSgxgEOorWzpYETzia9kVlrKX1AlDSLxTZbibTR09Oo3RcK0ujVHLmapUNDlWhnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝曾以为掌握了Elasticsearch的match查询就征服了搜索世界——直到产品经理轻叩桌面，抛出一个看似简单的要求："我们需要像MySQL的LIKE '%关键词%'那样前后通配的模糊搜索。" 我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546668&amp;idx=1&amp;sn=b8ec19f5677d197ad672178c7d862272&amp;chksm=fd1e322b6f83fa718f87f70ff9bf554b1494ad3f2c5805f16f38d690a79a8b2d435819fa2ef2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个函数超过20行? 聊聊我的函数式代码洁癖]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibteuzpBdELgcYAAnjTic3G2ET5lzkniaRl908vE5WHpqAVBDic3ibCjPSsTIickiaf8XxH0VpXhQtLiaSHBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我又来了😁我得承认，我有个毛病，或者说洁癖吧。在Code Review的时候，当我点开一个*.js / *.ts文件，看到一个函数洋洋洒洒地写了50行、80行，甚至更多时，我的第一反应不是去读</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546646&amp;idx=1&amp;sn=d90dd287ca0b194ee4c4c20f566942c4&amp;chksm=fd7a4d0a2b3cf05c8336932770e42f3eb37a306af1a672e478d3c3ca68eca998addc96f23761&amp;scene=0&amp;xtrack=1#rd</link>
