@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ValleyRAT木马利用微信和钉钉针对国内用户发起攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRiaOPXkvkrmGJQKndcSq4JmqpK3W6PLDFyzjCPaRibIt3GMlq8THQvsn6g10m7HdUib8oTGHbJoibTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>ValleyRAT是一种针对Windows系统的复杂多阶段远程访问木马，主要瞄准中文用户和组织机构。该恶意软件最早于2023年初被发现，采用精心设计的感染链，通过下载器、加载器、注入器和最终载荷等多个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330013&amp;idx=1&amp;sn=c7ac242d16895a11eb49c353eee90177&amp;chksm=bcc33f5b7e974c6ad89a68cae3c64ff938ef4019ad6dec6f073816e900f9973d6d69ee174d61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | GPT存在七项零点击攻击漏洞；JS库React高危漏洞威胁数百万开发者]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🍮GPT存在七项零点击攻击漏洞💻JavaScript库React高</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330013&amp;idx=2&amp;sn=63074cae20f3c11bb7d35244d28b19a6&amp;chksm=bc535d56f1962789a3d7fc3f4a0227ef463bf6b0894128d61407d66f6f59c229a87deadbf1a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI浏览器通过模拟人类用户行为绕过付费墙]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRiaOPXkvkrmGJQKndcSq4J5KDyG8iaZIoWATEAyW2TX88PPTtlicT7PLC6z8S8vh1dJiaagPc5p2KVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI的Atlas和Perplexity的Comet等先进AI浏览平台的出现，给全球数字出版商带来了复杂挑战。这些工具利用Agentic能力执行复杂的多步骤任务，从根本上改变了在线内容的获取和消</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330013&amp;idx=3&amp;sn=a769dc1e3c81fdcf5d24152d85bda53e&amp;chksm=bccdaa882c6aa9b21d78863dfed28a19e988baed1e21c7097506a6f64f37280528e0cb85e8e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 全自动漏扫工具更新！联合“资产发现”工具，帮你一键搞定找接口、测漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icLM52tplqDH2iav9AulXzznWic5ozbrmM8wT3sq6PiakExmIPBxDxOvottQJcXHJg5YWQL1icn2iaFciaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>未来，随着AI逐步替代基础性安全任务，红队能力将出现显著分化：善用AI者能聚焦高阶攻防，不善用AI者将逐渐边缘化。人与AI的协同能力，将成为红队发展的关键分水岭。Scan-X v6.0安全代理平台与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329972&amp;idx=1&amp;sn=4710ad685f2dfafcaa9da7efd0ed5f9d&amp;chksm=bc7d89d9bb332bac89674a27ef231f0ddbb184bf495322ba0d0d93731b093b5230cd20bef29d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38R9nuKZcFyavWmOkicjYibWAqlC35nC2pAsEGOBVElJojxFiaxCY3Z9MsB8c3fackyRQHSlGfDKT5jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析OpenAI新推出的ChatGPT Atlas浏览器旨在融合AI助手与网页导航功能，但目前存在严重安全缺陷：攻击者可将恶意指令伪装成无害URL实现系统越狱。该漏洞利用浏览器的多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=1&amp;sn=68daa8564d7d877fb09aa24b6dec5f9b&amp;chksm=bc0386f503546faa3d8006466990e276009ef9e9f5d93263876579b8b937204967ab46890d08&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一周网安优质PDF资源推荐 | FreeBuf知识大陆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icrvFgDalWuFibkqLhyVJ0NzavBGNFMJt9hc8DUzoc9wSD1ibtaDlGYy4aQFNglibvbOUGkibNzgxG0zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=2&amp;sn=e339f04155014e4fcdb3554383e9b8f8&amp;chksm=bcc5b67a83a3b6d3a27015cebc94013fb04c87201ebac79ebb5fd2e9a631e23492dfbae39a92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[70余万台BIND 9实例受缓存投毒漏洞影响，PoC已公开（CVE-2025-40778）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38R9nuKZcFyavWmOkicjYibWArTkuCs93fMnAaAyYJY4P8K2Trsw19VltCUo4Q4L5y4BqEC00unAL6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>BIND 9 解析器曝出高危漏洞（CVE-2025-40778），攻击者可利用该漏洞实施缓存投毒攻击，将互联网流量重定向至恶意网站。互联网扫描公司 Censys 发现，全球超过 706,000 个暴露</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=3&amp;sn=fc8a09ffea85c5a466e285324d755e40&amp;chksm=bcc385786b53d98776038129779208c0a82ecdb5d89c499e00d18afadff3fdfccf38780e6a68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客正积极利用Windows Server Update Services远程代码执行漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR391eBJSMnPRaYINzIrhhSaF7ib7fyhkoXjF7L6B8hib0ibmS0Qp1RNMvqOJfwlRxqNcxEP5ibZricA6SNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全与基础设施安全局（CISA）向全球组织发出警告，微软Windows Server Update Services（WSUS）中存在一个正被积极利用的关键远程代码执行（RCE）漏洞。该漏洞编</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329359&amp;idx=1&amp;sn=25b028bdcc87a57f93d5a112a61be8a6&amp;chksm=bc9e51c89d24485e772b406d647ad7ddeb55538a247230e465221c9b3993f8687cd961138be9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Oct 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

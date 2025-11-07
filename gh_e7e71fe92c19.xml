@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于Linux6.12.32的程序启动流程分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnhU1KIfZibJoSHPIyB0HygotU2icpuzfDV25p1yaHQvxflM0AMxSYMZ3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 主要可执行文件类型为 ELF参考文章：https://zhuanlan.zhihu.com/p/627078387本文主要还是方便理解 Linux 在启动程序的时候大致发生了些什么，对 i</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=1&amp;sn=d8a53e49a04b229c8af3d78469884caf&amp;chksm=b0160af7a554b5547285e2ec3dd33cb03cf9da0923ff9b1b63e0d5e315f6253d13c5360e1cfa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[公告 | 看雪论坛服务器11月12日上午搬迁，暂停访问2小时]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FLKl0tFtpNSCrUKuKa6MvuGv6Tj84sYxwNWTTlicSlUyauMn0NSBmYXWYRUDiaEiamibTHD2OIEvMEbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>亲爱的看雪会员：为了给您提供更稳定、高速的服务，我们将对服务器机房进行搬迁升级。因此，11月12日上午，网站/服务将出现约2小时的短暂无法访问。对于此次中断可能给您带来的不便，我们深感抱歉。我们会全力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=2&amp;sn=34047d9afa33bfe7f79374a9887fa1dc&amp;chksm=b0060039d301d38fedcc1447a9a413e4cb7df8d2de435c5992c7be3e10eed6334f22f6fe0503&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnpDGHrpJR11mLvKsySgibH0ickvNxL4fzPoEiaJjSl8A2ib6DoL1Pib5LLnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾随着大模型逐渐成为新一代 AI 的基础设施，其供应链安全问题正以前所未有的速度与复杂性不断演化。本议题首次引入热力学“熵”的概念，以跨学科的视角重新审视大模型供应链安全，探讨风险的度量与演化规</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603945&amp;idx=1&amp;sn=39283ac5055f746948790e5c713dfb51&amp;chksm=b04fd70c689da9bcd26f8f768e17f6f2af1ce417c96cbdae97ffc9c72fb9b41dc8ef86fa2dfd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fhl2eKO3vdn8eEEicyiaRkhoUsGcqGpyhry1MzEevBBoKd474th7ortre3LE9616H3xYxMGavQEDSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用Minifilter使用一个文件目录保护的驱动，用户层自定义保护目录，收到特定目录下的文件行为时，驱动会通知用户程序，并支持根据用户决策放行或者拒绝文件行为。程序分为驱动层和应用层整体流程：驱动层</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602189&amp;idx=3&amp;sn=d162a56eae691e35dfae497dc98f2a43&amp;chksm=b0b5080484ced3d40f5213a4006030121cf7477e52889810a7d923d008b8357083e3d6de2fb0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 17:59:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩议题预告 | LLM 与安全代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSw37hSLPm4CkAFPGRvcFmicWnAELNn4X35ToT0dlxprTtoibhSp2t0agA/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题：LLM与安全代码大语言模型极大地提升了代码生成的效率，已成为程序员编程助力的重要提效利器。然而技术进步在带来便捷的同时，也伴随着一系列挑战与风险。本次议题将从实践</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602168&amp;idx=1&amp;sn=85069bd0229cab44f259a7b819f3890f&amp;chksm=b0aa7ff8a35907693691e1ff72dea8ed9daf9c608a4467389bf4cb63d4666a041aa726189d6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一道简单的RE迷宫题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc8sQqUhx3ZqqClHz8l5aFob651jzaOkaAcO5vd0b8FtszBAibpBiao73wwKz3ZLwgicJkDctXr6w5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先使用工具查看文件信息，是Linux系统下的一个文件，而且没有打包，很正常的程序。不想动态分析啊，动态分析很依赖操作系统的嘛，用IDA查看文件。函数也很简单，一个初始化跳转到main函数，然后就可以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602168&amp;idx=2&amp;sn=fc97ad3bbfd1fcb697f15859ee4d348d&amp;chksm=b05973510851b29b0c6352fd80855488bba0fc553164d20cd145c177bf4190a2ee1966e384e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

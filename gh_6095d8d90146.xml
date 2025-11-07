@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我们的AI发现了一个零知识证明库的漏洞，Sam Altman的项目也用了这个库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dWDic6IAXZsdktqicLvkBIsgfEiabxf1WoPTicynd7ZGVz5ibsCBYuJl7H4eC3eGVmKm7QPnaHd05Ht8v2VEpF9l2Cg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 8 月，腾讯玄武实验室的阿图因自动化漏洞挖掘引擎在零知识证明库 gnark 中发现了一个高危漏洞（CVE-2025-57801，CVSS 8.6）。之后，玄武实验室联合上海交通大学 GO</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960252&amp;idx=1&amp;sn=a17f504cfb7c8844f295b02f099aa720&amp;chksm=8aacd2c34a925485f7e696151054b4d85ee18429538c58196142ef1b99d38ead47fa4fb80ffd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(25/11/7)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• NVIDIA nvdisasm 堆溢出漏洞分析（CVE-2025-23271）https://hackyboiz.github.io/2025/11/05/ogu123/cve-2025-232</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960246&amp;idx=1&amp;sn=39b0d9f440cdf13d99db1e8af6e3905b&amp;chksm=8a1ab55fcc80a7af03c0cb81cb1997bed6c46e86146575258967c295d2aea2d92ddb877830bc&amp;scene=0&amp;xtrack=1#rd</link>
