@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者利用Active Directory站点实现权限提升与域控沦陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SsDXhS88lER3eEicwFAomw56Hziaf11dlicZmfARGfdhRZANaUChVeW1dXRD9k99pnR4lscjTXx4sA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析Active Directory站点原本旨在通过管理跨地域复制与身份验证，优化分布式组织的网络性能。然而Synacktiv安全研究人员证实，这些被视为安全的网络管理工具可被武器</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=1&amp;sn=67b18ae7a26803443ad8018a0cf906fe&amp;chksm=bc9ab00efaa0b628a838aeaf1a041f7ebefc5880620b8e22fccd3734071079bdb9870b78b89f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：AMS无人值守系统建设与效能提升；SSRF自动化发掘工具；内网渗透测试基础；如何重塑智能网联汽车安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icLM52tplqDH2iav9AulXzzn5aRveJHZKRXKK7XwoiaYF3xr4jUwhDxvDibd2R6ICWzJoMfeVMouRbqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>SSL安全问题及漏洞介绍；全栈应用与API安全解决方案白皮书分享</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=2&amp;sn=834646c762e337fc8510eaa465e3c434&amp;chksm=bc25366cdcf417070d6331c5f5b55d79994938d1ec9ab6d09eed4a77a61bd92ad60ce69a62e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[最新分析揭示LockBit 5.0核心能力与两阶段执行模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SsDXhS88lER3eEicwFAomwEszPfI6ZPkeEwFAaQqXrbnD3CUoXCJUAxrZxNpb1G9K3NsY5e0mqzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>LockBit 5.0于2025年9月下旬首次亮相，标志着这一臭名昭著的勒索软件即服务（RaaS）组织实现了重大升级。该组织可追溯至2019年的ABCD勒索软件，尽管面临执法部门的严厉打击和附属面板泄</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=3&amp;sn=c3970930624b5cf0e9adb2f07b03968d&amp;chksm=bc78d471bcd17ad8e929b871bdcffbb3c45121740020ba1fa60e64d6b4f16da9e8655d2c6ded&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ValleyRAT木马利用微信和钉钉针对国内用户发起攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRiaOPXkvkrmGJQKndcSq4JmqpK3W6PLDFyzjCPaRibIt3GMlq8THQvsn6g10m7HdUib8oTGHbJoibTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>ValleyRAT是一种针对Windows系统的复杂多阶段远程访问木马，主要瞄准中文用户和组织机构。该恶意软件最早于2023年初被发现，采用精心设计的感染链，通过下载器、加载器、注入器和最终载荷等多个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330013&amp;idx=1&amp;sn=c7ac242d16895a11eb49c353eee90177&amp;chksm=bcc33f5b7e974c6ad89a68cae3c64ff938ef4019ad6dec6f073816e900f9973d6d69ee174d61&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39R8r5ubYSoSZNKBKsdBmsOia09Toj4xGhcibD6Yicf3yo8JxtkFiatNuibicReCalGkr5jsl9d3xdPcAhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人在用AI重塑生产力，也有人在用AI破解安全防线。当算力成为“新石油”，GPU成为“兵家必争”，一场围绕AI基础设施的攻防战，正从底层资源蔓延至模型心智。在本期《安全记》栏目中，阿里云智能集团云安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329398&amp;idx=2&amp;sn=c8e5932948e871f426292484312f631b&amp;chksm=bce72b8bd0bf1c286f530a98317add67459f942d02d82fbf6b8111e897b016c4521d973cfe40&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜攻击者组织Lazarus针对无人机行业发起窃密攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39R8r5ubYSoSZNKBKsdBmsOlQd2UHWGAEO2evDosvEcqGpA9IXEpjlQziaMKJ2mcJdhnphjtE9Mgjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜国家背景的黑客组织Lazarus（APT38）近期发起代号"DreamJob"的网络间谍行动，专门针对欧洲无人机技术研发企业。自2025年3月下旬起，攻击者已成功入侵中欧和东南欧地区三家国防相关机</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329398&amp;idx=3&amp;sn=2c607621a6fb0b435a0f0acc2c3adb38&amp;chksm=bcc48fb9318fc7058cd609c74c3d3bbefa4ab90fb0cfd9529a566d8807aa3df40f10b3e42191&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pwn2Own大赛：黑客利用73个0Day漏洞斩获102万美元奖金]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39R8r5ubYSoSZNKBKsdBmsOyOmpnF1MEzOIOTlIEy1UiciaHz8PMGI0cKzt5ZxyHqMNsiaiaYY5mAfv1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Pwn2Own爱尔兰站2025赛事圆满落幕。研究人员通过在不同设备中发现73个独特的0Day漏洞展现了他们的技术实力。本次由Zero Day Initiative（ZDI）主办的比赛共发放高达1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329398&amp;idx=4&amp;sn=8f290d4ee3168bcf78599ef5228b96fe&amp;chksm=bc58873b36aad03b98da818a2f337d8ff688da40bdebbf0c75ed62be086024cfdac4302bcdc0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI首款AI浏览器Atlas上线仅一周即被恶意提示词攻破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38R9nuKZcFyavWmOkicjYibWAqlC35nC2pAsEGOBVElJojxFiaxCY3Z9MsB8c3fackyRQHSlGfDKT5jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析OpenAI新推出的ChatGPT Atlas浏览器旨在融合AI助手与网页导航功能，但目前存在严重安全缺陷：攻击者可将恶意指令伪装成无害URL实现系统越狱。该漏洞利用浏览器的多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329371&amp;idx=1&amp;sn=68daa8564d7d877fb09aa24b6dec5f9b&amp;chksm=bc0386f503546faa3d8006466990e276009ef9e9f5d93263876579b8b937204967ab46890d08&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
