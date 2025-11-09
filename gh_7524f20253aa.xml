@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[《破局黑产：守护亿级DAU游戏的安全实战密码 》直播精彩收官！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRgTt6DLGrS4Vt0CRu5CAcHLYvjQNUEzzPlGVClAuBLFsLOJXia2MT8zkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>由腾讯云游戏安全专家主讲的《破局黑产：守护亿级DAU游戏的安全实战密码》主题直播已圆满收官。面对当前黑产愈发疯狂的进攻态势，直播直击行业核心痛点——游戏安全如何从传统的“被动追查”迈向智能化的“主动免</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=1&amp;sn=ce3a1df6dfd6144ea1d84d03468867e5&amp;chksm=bc2445e602b3cae34d2c1e0a8bde92b8bf1bd28da2b5d0fbd822bac5ed2b124693f623fa47e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:39:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[三星0Day漏洞遭间谍软件LANDFALL利用入侵Galaxy设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRgicTy4TNezpE4QZvibQ9JzKuOnvTg1a86KGxZmVfDbas6QzNTuGXZYdng/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks威胁情报团队Unit 42的研究人员发现了一个名为LANDFALL的新型Android间谍软件家族。该恶意软件利用三星图像处理库中的0Day漏洞（CVE-2025-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=2&amp;sn=a3e2857b20148d5ab2a4728f24595d9a&amp;chksm=bcd0905cf4c7f6b5bc60875b7e84d58c904b9016bce44f9458e1d9b90a100ca092b34534a674&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:39:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型Whisper Leak工具包可窃取加密流量中AI Agent的用户提示]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRga4YYm3m3t3706PZgKH86CV1SzMDyjyTG6W40fs6kjicOznQMSSibr1Ug/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现一种复杂的旁路攻击技术，即使流量受到端到端加密保护，攻击者仍能窃取用户与AI聊天机器人的对话主题。这项名为"Whisper Leak"的漏洞可使国家行为体、互联网服务提供商或Wi-Fi窃听</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=3&amp;sn=e31e12fd53ebe618e54a2b777eecd88e&amp;chksm=bcd8ae9b6b5e33650fd1c019216e6814069c921bcb85cf455aa3522edb0e84bba77fda0834e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:39:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科身份服务引擎漏洞可致攻击者意外重启系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRgvF5s7dwh0VkYkYEcUmEYVaPWhBqg4IxWEo0x7PHPoUOBtTy7OnS8cA/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科身份服务引擎（ISE）存在一个高危漏洞（CVE-2024-20399），远程攻击者可通过构造特定的RADIUS请求序列使系统崩溃。该漏洞源于ISE处理被拒绝终端重复认证失败时的逻辑缺陷，会造成拒绝</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=4&amp;sn=095d7cb0ec3e30daf68fb6bd4222a830&amp;chksm=bce437fa4b7abb6e201e15ef197bbd8342f28dfc45bec728c7028412119633866adb6d8820b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[攻击者利用Active Directory站点实现权限提升与域控沦陷]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SsDXhS88lER3eEicwFAomw56Hziaf11dlicZmfARGfdhRZANaUChVeW1dXRD9k99pnR4lscjTXx4sA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析Active Directory站点原本旨在通过管理跨地域复制与身份验证，优化分布式组织的网络性能。然而Synacktiv安全研究人员证实，这些被视为安全的网络管理工具可被武器</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=1&amp;sn=67b18ae7a26803443ad8018a0cf906fe&amp;chksm=bc9ab00efaa0b628a838aeaf1a041f7ebefc5880620b8e22fccd3734071079bdb9870b78b89f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPCXBCywROJ1e8Vld5Vdk5WKHbDqRpjWVrSnKlJicmBvqbVSjRNdma1iaYNia3Svmz0jLeZLnAvibaag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯云、腾讯研究院联合国际权威研究机构Gartner，共同发布《企业级智能体产业落地研究报告》。报告系统提出智能体落地场景评估方法、深入剖析落地挑战，并结合腾讯云安全的核心能力，为企业构建“高可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329430&amp;idx=2&amp;sn=5d157ae565958b2effa4f9c511080f56&amp;chksm=bc02f82e32f678098b8aa9f4a097eb2af290fb27bae8065366136c656d7312dfef918f6a3b91&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI Atlas浏览器漏洞允许向ChatGPT注入恶意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPCXBCywROJ1e8Vld5Vdk5oywiaLcf51OnFEp3l9d6UFSpKsm17lUlsFqoz4f03KHCglWC5X3Eb4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI新推出的ChatGPT Atlas浏览器存在严重漏洞，攻击者可借此向ChatGPT内存注入恶意指令，并在用户系统上执行远程代码。Part01漏洞概况网络安全公司LayerX发现，该漏洞利用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329430&amp;idx=3&amp;sn=a9b2bd253c5a90d2b11d7523ef2dfba5&amp;chksm=bcd639a6104b94ddc00bb10fe0c39ba06f3ec31bfebd25bce1d5288d0a918befabe4b2d76926&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Apache Tomcat曝三大安全漏洞，最严重可致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPCXBCywROJ1e8Vld5Vdk5loWZY3gRlhU4sN9YVSCODnMrJsL7aBZo1eusPmTaUwfEsKJNvSicz2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache软件基金会已发布多个安全补丁，修复影响Tomcat 9、10和11版本的三个新披露漏洞——CVE-2025-55752、CVE-2025-55754和CVE-2025-61795。其中最严</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329430&amp;idx=4&amp;sn=d61c415b51dfe650e78be0c7a80195a7&amp;chksm=bc7217b2306d371d1d0f7a9376619a386380472900e7b625a6752bff0bd019ad1f02567f5f27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Copilot被用于窃取OAuth令牌，AI Agent成为攻击者帮凶]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39R8r5ubYSoSZNKBKsdBmsOXHprQJOQ5KicdknV76ibzQZTlFu9Q7uPHqpvicr61ic6RfiaW9CibEB1xeFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种名为CoPhish的复杂钓鱼技术正利用Microsoft Copilot Studio诱骗用户授予攻击者对其Microsoft Entra ID账户的未授权访问权限。Datadog安全实验室披露，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329398&amp;idx=1&amp;sn=8ccaf76ff8212a3aa16553dddff797cc&amp;chksm=bc0a169a737a3a1f1900fe9e8a7672aaf65bf9a6b3ecce5863c0ddc2241a5fe3dabeff99e49b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里云安全携手月之暗面共筑AI基础设施“免疫系统”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39R8r5ubYSoSZNKBKsdBmsOia09Toj4xGhcibD6Yicf3yo8JxtkFiatNuibicReCalGkr5jsl9d3xdPcAhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人在用AI重塑生产力，也有人在用AI破解安全防线。当算力成为“新石油”，GPU成为“兵家必争”，一场围绕AI基础设施的攻防战，正从底层资源蔓延至模型心智。在本期《安全记》栏目中，阿里云智能集团云安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329398&amp;idx=2&amp;sn=c8e5932948e871f426292484312f631b&amp;chksm=bce72b8bd0bf1c286f530a98317add67459f942d02d82fbf6b8111e897b016c4521d973cfe40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
