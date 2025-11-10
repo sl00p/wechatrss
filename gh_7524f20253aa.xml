@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ChatGPT被研究人员诱导实施自我提示注入攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bCHJHJljQ2sdn9SWlFk17vq9wzgbzaBn27jrOc9bCJpUCg5oQwq9Tvsn98WMZ5WSClsYHcAjoOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01七种新型数据窃取手法曝光网络安全公司Tenable的研究人员发现了七种从聊天记录中提取私人数据的新方法，这些方法主要通过利用ChatGPT默认功能的间接提示注入攻击实现。AI聊天机器人已为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330233&amp;idx=1&amp;sn=0c45bf2f1655e656758228810095d3c5&amp;chksm=bc26ee60dd704d6f03b21a4b3d113622d59d583f7f9352642e481792660859d2a5c53b194ce5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 19:31:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[满分认证！Bitdefender 斩获 AV-Comparatives 2025 企业级APT威胁防护测试冠军]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bCHJHJljQ2sdn9SWlFk17Wh8PUoRoFzFbEZSTzGuuHqASIdjXaXqYTSuVrwyicp9ofVZqZ0Atw9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI时代，企业所面临的网络威胁愈加复杂与隐蔽。APT 高级持续性威胁凭借强隐匿性与复杂攻击链条，成为威胁企业数据与业务稳定的关键风险。近日，国际权威独立评测机构 AV-Comparatives 发布</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330233&amp;idx=2&amp;sn=c71c6a1a5afe77c7fea7660f4c910364&amp;chksm=bc5b620df1774715751088cb49000366c9f533e6f79d8fa1f890fa7e660ce7774e7c3fd2ea97&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 19:31:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[runc关键漏洞威胁Docker和Kubernetes容器隔离安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bCHJHJljQ2sdn9SWlFk17Gd7CKwzmnGqlsvnVVvQ8yA0HrnP1l8FS830xTGUX4fKXiakFZLEQia4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Docker、Kubernetes等容器平台依赖的底层运行时runc曝出三个关键漏洞，攻击者可利用这些漏洞突破容器隔离限制，获取宿主机root权限。目前尚未发现活跃攻击迹象。这些漏洞通过竞争挂载条件和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330233&amp;idx=3&amp;sn=116042e940f4573d54f44b1b2e661f22&amp;chksm=bc0f9738b3034f63ba87192a6a08dd4ec1aaa56a2d072d6dbbda3e65b234c3e2e08240cf18be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 19:31:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜黑客组织将谷歌Find Hub服务武器化为远程数据擦除工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bCHJHJljQ2sdn9SWlFk17Iy9oq1Cmfet2YbYYBS15SVNesmiaElBfIYqGrkYlsVSyjsjCu7L7PJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>与朝鲜有关联的黑客组织Konni（又名Earth Imp、Opal Sleet、Osmium、TA406和Vedalia）近期发动了一系列针对Android和 Windows 设备的新型攻击，旨在窃取</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330233&amp;idx=4&amp;sn=1765d3ccaf20280dc90f9a4e283e5f3f&amp;chksm=bca3efcfba8f4a126cbf270d0c360b2246428957db79cfc30c35791bf10b3237023d6b76d995&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 19:31:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[《破局黑产：守护亿级DAU游戏的安全实战密码 》直播精彩收官！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRgTt6DLGrS4Vt0CRu5CAcHLYvjQNUEzzPlGVClAuBLFsLOJXia2MT8zkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>由腾讯云游戏安全专家主讲的《破局黑产：守护亿级DAU游戏的安全实战密码》主题直播已圆满收官。面对当前黑产愈发疯狂的进攻态势，直播直击行业核心痛点——游戏安全如何从传统的“被动追查”迈向智能化的“主动免</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=1&amp;sn=ce3a1df6dfd6144ea1d84d03468867e5&amp;chksm=bc2445e602b3cae34d2c1e0a8bde92b8bf1bd28da2b5d0fbd822bac5ed2b124693f623fa47e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCsfvqas3vBibiaicfg0h0cXh0Y85VrAdsfLj7gnGqY44G9NhHX8zM74Rstw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Ubuntu Linux内核近日曝出严重安全漏洞，允许本地攻击者提升权限，并可能获取受影响系统的根访问权限。该漏洞在TyphoonPWN 2025安全会议上披露，源于af_unix子系统中的引用计数失</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329485&amp;idx=2&amp;sn=f1d4296d3190b1580fea6bc75c556ec4&amp;chksm=bc74a40d59ad9913f16206e860933b5643be2adfb98a229e6ee40e3131e78a1f9cdd58434e85&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Docker Compose曝高危漏洞，执行只读命令即可覆写任意文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCsJeTb0NGFicHnVofxEEWWuqrhibpAxvILf4wfMROQSApwjF9bxuDPXJpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Docker容器编排工具Compose近日披露一个高危路径遍历漏洞（CVE-2025-62725，CVSS v4评分8.9）。该漏洞影响Docker Desktop用户、独立Compose二进制文件用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329485&amp;idx=3&amp;sn=3da6e9986c07d59ee0c083a61843c1bc&amp;chksm=bc20abeb965a751e79839805206dd843782b68879b0af39d17adf642e58ee3291c96a50ee3c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型零点击攻击，通过主流AI Agent利用MCP静默窃取数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCsvqDCjSnFibC9MHekQI4x8yLialE55vDFVRicXVtriboRO4CYoqzXxVLNEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种名为"Shadow Escape"的新型零点击攻击利用模型上下文协议（MCP），通过ChatGPT、Claude和Gemini等流行AI Agent静默窃取敏感数据。Operant公司发现的这一漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329485&amp;idx=4&amp;sn=c68a73ca73921e25841452d06dd19084&amp;chksm=bc10e843610d3f182ea80ecc4ad95132960cf1dbef32579a1a78860f595f502c80c92db3a6b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[60多国签署《联合国打击网络犯罪公约》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPCXBCywROJ1e8Vld5Vdk5XoGE1GPaaqLph8AAXpB7S1LVxmcskXFrkvZWnhHynMCdiaG1prObXKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球首部旨在预防和打击网络犯罪的国际公约《联合国打击网络犯罪公约》近日在越南河内开放签署，并将在纽约联合国总部持续接受签署至2026年12月31日。《联合国打击网络犯罪公约》于2024年12月经联合国</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329430&amp;idx=1&amp;sn=8fb5c73b243c90f563bce146509513f7&amp;chksm=bcdd57fd7f1c01aa3d77fc8f0710292ff77fd77cc3da3574a4a4145e72aaaf11a6d2d835cdf0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云、腾讯研究院、Gartner联合发布《企业级智能体产业落地研究报告》，筑牢智能体应用安全基座「附下载链接」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPCXBCywROJ1e8Vld5Vdk5WKHbDqRpjWVrSnKlJicmBvqbVSjRNdma1iaYNia3Svmz0jLeZLnAvibaag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯云、腾讯研究院联合国际权威研究机构Gartner，共同发布《企业级智能体产业落地研究报告》。报告系统提出智能体落地场景评估方法、深入剖析落地挑战，并结合腾讯云安全的核心能力，为企业构建“高可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329430&amp;idx=2&amp;sn=5d157ae565958b2effa4f9c511080f56&amp;chksm=bc02f82e32f678098b8aa9f4a097eb2af290fb27bae8065366136c656d7312dfef918f6a3b91&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

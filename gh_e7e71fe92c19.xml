@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[强网杯S9初赛逆向-解题思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnEVUwzCsuNa8pGfPSMibaeDZdXFJe7vNicMe28YdpRQIUFiaOdoHCl8nng/640?wxtype=jpeg&amp;wxfrom=0"/><p>tradere01基本vm结构分析ptrace父子进程调试，父进程追踪子进程int 3指令的位置，替换成相应的操作，因为开始的赋值操作导致数据结构不好看，可以考虑dump+nop初始化的方式。每次in</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=1&amp;sn=99200fda1665acfd07753cd6a74b7dfb&amp;chksm=b04c9d814a2ac3b930e3677ae50f92ee6d2cc955c44cc4628f53991f94d2bce1d3a2e5916be0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Zoom曝高危漏洞：攻击者可越权获取会议数据，请立即更新！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxe73SjCaUXELLnvCSWNiaRae7lXtXN3qpwhqpYM1HaJnP38EbDbmQKRaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Zoom发布多项安全公告，披露了其Workplace应用程序中的多个漏洞，包括两个高危漏洞及数个中危漏洞。这些漏洞可能允许攻击者绕过访问控制、加入未经授权的会议、访问敏感会话数据，甚至植入恶意软</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=2&amp;sn=e8be2a3e73a6aecb13ebf43dc72aae0e&amp;chksm=b0537094109de1de155d8ea1acbf5c394d01daeefe089ad5a03b7dfc4289b1c0999e2e4d16f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30 小时玩转 CTF！竞赛通关技巧全掌握]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=3&amp;sn=351016c632b91751a60d6a8345406dea&amp;chksm=b0ed54742399d626e6d4c77fcd74abbeb377c37b5609a919df5fe71027daa85d3d380da2063e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | 利用大模型辅助自动化 BYOVD 驱动漏洞挖掘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnXc5hUI4R9XePolhsGYoIL0QYhaicfOeIx4zLcNlGmMMsHyQSoBdstag/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾BYOVD（Bring Your Own Vulnerable Driver）驱动因其隐蔽性强、利用门槛低、攻击面广泛，已经成为黑客组织和APT攻击的重要突破口。本议题首次公开了阿里云系统安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=1&amp;sn=b4a9afda0c3cbd7755e716331ec19d7a&amp;chksm=b0bffed133d902158e298d8b37607de11e871162ef183fa2ef4047524c85f7b8032899cce168&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G9ria5bA52ZrFuV8HsiaxAYmmxSGqtexkvBmdhpg8twWJRUGF5pqICScQhlNe5QNIWDk3K3QyDmk2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602399&amp;idx=3&amp;sn=91f97feb11da031d2884b84cefc8e2f6&amp;chksm=b0b03f14ed859b66340b4b563a9b8d1d7af03eef13c273bf0abe58b20bb9acc1876d40d4e91d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Oct 2025 20:56:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩议题预告 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EYdGag4tSCn08nzq1VldWSdJ0ukSDOdxAGXjibBtKeUJ7iatzeyfW19KziaCpSosfIN9nFkbmjEt7aw/640?wxtype=jpeg&amp;wxfrom=0"/><p>抢先看！SDC2025精彩议题1议题简介《SCPGA：自认同CoT渐进式泛化攻击》当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？如今，大语言模型（LLM）已从孤立应用进化为连接RAG知识库</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602303&amp;idx=1&amp;sn=05257292a9d3cf993896de8211b23e25&amp;chksm=b084fc937ad71001c32b7ee97187f2b557612adf38c807ac00e595f88544e5e48344eadb6195&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 18:07:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[tt x-gorgon分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FtDvb7ia3shLpL3icJyVSX04DY0Uvdmpy4aCPR5V0IZyd6PU9WYWCzqloU8nO4iaiaTDcBWePbA5MkFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>gorgonokay，现在重回正题，该样本app版本为4063，具体的unidbg补环境比较简单，就不提了，定位参数生成位置和寻找入参可以参考果冻爽大佬的文章https://bbs.kanxue.co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602303&amp;idx=2&amp;sn=59390a686511660e0f3c077f243f1aff&amp;chksm=b07808edfba0f3b175ceba5549019ffc72ba755f49b5501af14ebd338ab3288debddb968ed8e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 18:07:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 倒计时2天！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G9ria5bA52ZrFuV8HsiaxAYmmxSGqtexkvBmdhpg8twWJRUGF5pqICScQhlNe5QNIWDk3K3QyDmk2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602303&amp;idx=3&amp;sn=9026b2f4099ab10ff9a342b07575b999&amp;chksm=b014d87292ef2a82cd351750dee82f16f904aab4a7a2cae9985caca8a3f8b0984224f1b31253&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 18:07:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
