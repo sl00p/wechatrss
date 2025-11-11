@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[致命伪装：拆解藏匿于正常流量下的无声入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5JQWsZ8BdaZvJGOaZfD4ccGHkb5wVx61I36ibZPUPviamy9EHRCgVyxOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330302&amp;idx=1&amp;sn=778c3f9579be0eae6ed0288bbf5ec3f2&amp;chksm=bc07752806b8dced5fc1eb7b98570e7275bebc0a2c6f46a3df230941b923ccebecbc9b29e1dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI初创企业在GitHub泄露敏感凭证，模型与训练数据面临风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5AUlXCApoamFYBWlVvJnicu1aqw0YUeWKssGZO1FbicECAyzZxLZUkDdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01创新速度超越安全规范最新研究显示，全球近三分之二的顶级私营AI企业在GitHub上暴露了API密钥和访问令牌。云安全公司Wiz的调查指出，这反映出快速增长的企业可能将创新置于基础开发安全运</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330302&amp;idx=2&amp;sn=59a5fac6e8ba01ed8cb63d0b4b11ed16&amp;chksm=bcd4c899d8cd6dda0079e6e0f34c7370b1914bd566b72f74700189bcc9511efc321fc8f60280&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows 内核 0Day 漏洞遭野外利用提权（CVE-2025-62215）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5zj6BUL2YOAM3jdTwwtQ7YR75Sxz7hJEicRxbaT2Hl7WnvZ8McSReJGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况微软已为Windows内核中新发现的权限提升漏洞分配编号CVE-2025-62215，该漏洞目前已在野外遭到主动利用。2025年11月11日披露的该漏洞被评级为"重要"，属于内核权</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330302&amp;idx=3&amp;sn=fa32deeaae2bb2b68999b0eb2db64665&amp;chksm=bc97adb5549d6a62c80d20dc2bcafd824932dfdb7a7c72b9a8970959cc263b8eae7101a3aa19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GlassWorm蠕虫卷土重来：开源安全体系暴露根本性缺陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5qicjYd5lKlAa7YJamc6D90uHbLyib7tIecYc7vyepXLPgTVlJHztNxJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>曾被宣布彻底清除的GlassWorm蠕虫在沉寂两周后，再次通过隐形Unicode字符和区块链C2（命令与控制）技术感染开源扩展。开源项目OpenVSX此前宣称该蠕虫已被"完全遏制"，但这款自传播恶意软</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330302&amp;idx=4&amp;sn=8f71af28738cee5957492d62221c2962&amp;chksm=bc6fe8df6e95e9bb96386c6bed11bb140ee40b90326de891699c136a6fdab44d4f0e564deb38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ChatGPT被研究人员诱导实施自我提示注入攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38bCHJHJljQ2sdn9SWlFk17vq9wzgbzaBn27jrOc9bCJpUCg5oQwq9Tvsn98WMZ5WSClsYHcAjoOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01七种新型数据窃取手法曝光网络安全公司Tenable的研究人员发现了七种从聊天记录中提取私人数据的新方法，这些方法主要通过利用ChatGPT默认功能的间接提示注入攻击实现。AI聊天机器人已为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330233&amp;idx=1&amp;sn=0c45bf2f1655e656758228810095d3c5&amp;chksm=bc26ee60dd704d6f03b21a4b3d113622d59d583f7f9352642e481792660859d2a5c53b194ce5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibWxKyqZMSU8ibquesBiaEV9KhBzBhZJzia2xtT592bIG8kzwqnXYTdibK6HiapxuGrxaKIiaia0kJBA08yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>都说学网安在 B 站找免费公开课就行，可学完总觉得没透；想接着学吧，只能找到零散资料，连个归类都没有；好不容易找个付费圈，又只有文字，感觉学网安最好还是配上直观的视频；想练挖洞不知道咋开始，报告也不会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329594&amp;idx=2&amp;sn=5283528bda924461a53ffd888ceee460&amp;chksm=bc72f0bfe217bd9b5f2b38f76f655e37b74afffd53280a5712fe0c5a7b018764c58b286601d6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 18:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[针对PHP服务器与物联网设备的自动化僵尸网络攻击激增]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibWxKyqZMSU8ibquesBiaEV9KjX8j9iav7OjKklKDRBGnGv2ZczelkdQ7FXicMscE3iaYIMEaPa18bHfWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，Mirai、Gafgyt和Mozi等僵尸网络近期针对PHP服务器、物联网设备及云网关的自动化攻击显著增加。Qualys威胁研究部门（TRU）向The Hacker News提供的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329594&amp;idx=3&amp;sn=b80a8b301f3eb65a3614258290fe886d&amp;chksm=bce83ab4e0d0d7755704b16d256a8af75f4dc0741ae2d3895d1100a3febf6f998074b6926cce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 18:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软全球服务中断，Azure、365、Xbox等多平台受影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibWxKyqZMSU8ibquesBiaEV9KnAnHWZZo5ghcEbSJ2mIYrT3eL2o5yntNOoaKkxiaerMqpdibfeSfZTGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月29日，微软遭遇大规模基础设施故障，导致全球多项服务瘫痪，企业和个人用户均受到影响。事件起因是微软云网络中的配置变更出错，进而引发关键平台的连锁故障。微软发布状态更新称，其Azure</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329594&amp;idx=4&amp;sn=be7e5a888341c282ac9843e929421e11&amp;chksm=bc966f4853bb7529553c96d65132791ccdc0d4af0449f174d5440d7707ec62d7ea157f82b042&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 18:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FOFA 百万次免费搜！Cake_v1.1 免配代理，全资产收集更全面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCs5kmKtgnE4ciand5mic3eu4uwQTImGumG1a5lm5bjPHou41SUFGuEtJ6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>做资产收集，“全不全” 直接影响后续工作成效。之前 Cake_v1.0 在 Windows 环境、无 API 密钥配置下，查同一个目标的子域名，数量就远超同类工具，能帮大家找到更多容易被忽略的资产：点</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329485&amp;idx=1&amp;sn=0640508b820ac7b4420f01216e77c319&amp;chksm=bc9e8b9f3a751f15e1a69ab2f2cb46d311327f8f329e0f529736d38a0e58c15f3dede0441015&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCsfvqas3vBibiaicfg0h0cXh0Y85VrAdsfLj7gnGqY44G9NhHX8zM74Rstw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Ubuntu Linux内核近日曝出严重安全漏洞，允许本地攻击者提升权限，并可能获取受影响系统的根访问权限。该漏洞在TyphoonPWN 2025安全会议上披露，源于af_unix子系统中的引用计数失</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329485&amp;idx=2&amp;sn=f1d4296d3190b1580fea6bc75c556ec4&amp;chksm=bc74a40d59ad9913f16206e860933b5643be2adfb98a229e6ee40e3131e78a1f9cdd58434e85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
