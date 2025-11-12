@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者利用自定义GPT的SSRF漏洞窃取ChatGPT机密数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icRKEhm7xy5HwSSmCKsU1PlSxHSn7VI68icUDddaVHLhUjs8JvtMYIzvBS51WtaxciacuIwdShvLwTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述OpenAI的ChatGPT被曝存在服务器端请求伪造（SSRF）漏洞。该漏洞潜伏在自定义GPT的"Actions"功能中，攻击者可利用该漏洞诱使系统访问内部云元数据，可能导致敏感的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330362&amp;idx=1&amp;sn=a92d36d88ac0528b31b27f96549c442f&amp;chksm=bcb4be70ec69d9e5907720d478143b32189e1a94fc295751314703b909ed330fe71be1cc1376&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何让安全从“手动挡”迈向“自动驾驶”？乌镇雨中，驶向全域智能信任新纪元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5Uhyrqsh4B34AMbv07XqNEicfVibNzsRQ4tXHJuCa4VeiccxQxBUasib6Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月7日立冬，乌镇细雨绵密。檐角雨声与互联网国际会展中心内人声交织。天气微寒，但世界互联网大会“互联网之光”博览会现场热度不减，参展观众络绎不绝。 在博览会红亭发布区由中国网络空间安全协会主持的“网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330362&amp;idx=2&amp;sn=ac301c511612c32c82d3fa330e49c251&amp;chksm=bc6ec594df52e00087c025c466003d37bae969cbc87ee100660f4117b9f7fb8f8af5f2ed38c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows远程桌面服务漏洞可导致攻击者权限提升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icRKEhm7xy5HwSSmCKsU1PltE2yCzLmr0cNlLibLibQicSDMQCX3OtNxC3Oqd8h9wTOKvfek4lp6iaaAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软近日披露了Windows远程桌面服务(RDS)中存在一个重大漏洞，可能允许已授权的攻击者在受影响系统上提升权限。该漏洞编号为CVE-2025-60703，源于不受信任的指针解引用问题——这是一个困</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330362&amp;idx=3&amp;sn=10740b31334efccc33ef574bdf43de37&amp;chksm=bc047aea01eb68ec0a9ccfcf6178c33eec58de3284ffc12720d328ceb77d271d893061cec589&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Copilot与Visual Studio漏洞可致攻击者绕过安全防护功能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icRKEhm7xy5HwSSmCKsU1PlXuETrgCVhicKXNlo6vaf8OqkcBzP68ZMiceB4rlOlnKNypCWicfoQGAcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软披露了GitHub Copilot和Visual Studio中存在的两个高危安全漏洞，攻击者可利用这些漏洞绕过关键安全防护机制。这两个漏洞均于2025年11月11日公开，被评定为"重要"风险等级</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330362&amp;idx=4&amp;sn=3c733291dc0f790e9f762a3220430601&amp;chksm=bc26871fd1361709eae4f22eaf4d5faf750a8a1ac4c089f626b3b98e3a62b51b1cae91237b57&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[致命伪装：拆解藏匿于正常流量下的无声入侵]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxN9z6I0vPGEakXicda6jb5JQWsZ8BdaZvJGOaZfD4ccGHkb5wVx61I36ibZPUPviamy9EHRCgVyxOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330302&amp;idx=1&amp;sn=778c3f9579be0eae6ed0288bbf5ec3f2&amp;chksm=bc07752806b8dced5fc1eb7b98570e7275bebc0a2c6f46a3df230941b923ccebecbc9b29e1dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84Phbc2ib512Tibt34tM3W9n4cOafkQmtZ1L5rSPHdibTC7Ud4YicmtQr9z3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员警告称，Chromium渲染引擎中存在一个漏洞（被命名为Brash），攻击者利用该漏洞可在数秒内导致Chrome、Microsoft Edge等九款浏览器崩溃。在谷歌连续两个月无视漏洞报告</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329712&amp;idx=2&amp;sn=1bbf917bb5b075e9ea9222ad64819470&amp;chksm=bc3e16e7e9702d918039506d122c0b6c72e663749ccab1df8e3a779ac6912eb9f147a04bf206&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FreeBuf热门电台精选集第十四期]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCsNcBdRmPrhqcQcNLCER8WRjyCHHBzBqkZZumZnOx4f6p1zxAkc6hZfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢本期热门电台抢先看：1.大家怎么看待零信任网络安全架构？🌐2.聊聊企业内部最容易出现的权限滥用问题🔑3.聊聊企业内部的权限和账号管理🔐————————————『FreeBuf电台』——网安人的“小绿</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329712&amp;idx=3&amp;sn=7ec641a10c780b9ae82fec83704b3ec6&amp;chksm=bcc3755b0d4f81805416c9d5e03e69b9313b4fdb85f4d7c1ff40845effe389474ad3caaa633a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RediShell RCE漏洞导致全球8500多个Redis实例面临代码执行攻击风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PWORFiaQrjuyQAhKhYY98xXMMexeaiafeHcnyEwojFUybDibw0ZA7y6iaRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月初，网络安全领域面临一项重大威胁——Redis的Lua脚本引擎中存在严重的释放后重用漏洞RediShell被公开披露。该漏洞被Wiz研究人员命名为"RediShell"（CVE-202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329712&amp;idx=4&amp;sn=5ffb7573bc284b41f18ccddc7dcc511a&amp;chksm=bc6734db80e228fabe344bb1c2dd9cff04917ba18f03236affa774fdf95c62c90698169c8928&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[会计巨头安永4TB SQL Server数据库文件在微软Azure平台遭公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibWxKyqZMSU8ibquesBiaEV9KC9tnECkVpBGpiaCOsmKjbMxLkrkG3PZVOjuqLibNr1bLibbk4SXicX1UicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，全球会计巨头安永（Ernst &amp; Young）一份容量高达4TB的SQL Server备份文件被发现公开暴露在微软Azure云平台上。Part01暴露发现过程网络安全公司Neo Security</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329594&amp;idx=1&amp;sn=da47839b116c8d23effb0f060e42d785&amp;chksm=bccc64a0be9dca19c982f19888c302b077a9fd46d1f24cbf34bc45f4d5f293bfc9f7a33575ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 18:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一次到手 2T 网安学习材料+60个靶场，学完可内推就业]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibWxKyqZMSU8ibquesBiaEV9KhBzBhZJzia2xtT592bIG8kzwqnXYTdibK6HiapxuGrxaKIiaia0kJBA08yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>都说学网安在 B 站找免费公开课就行，可学完总觉得没透；想接着学吧，只能找到零散资料，连个归类都没有；好不容易找个付费圈，又只有文字，感觉学网安最好还是配上直观的视频；想练挖洞不知道咋开始，报告也不会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329594&amp;idx=2&amp;sn=5283528bda924461a53ffd888ceee460&amp;chksm=bc72f0bfe217bd9b5f2b38f76f655e37b74afffd53280a5712fe0c5a7b018764c58b286601d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 18:35:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

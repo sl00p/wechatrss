@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美团开源 LongCat-Audio-Codec，高效语音编解码器助力实时交互落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXmiax6j7KIDBiaDGKufVpGAMmoLic3xCG7nzVIR08S6vJY57maDD7A0zU88ckEUfuW50jBHyfIuGZRg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>语音大语言模型（Speech LLM）想落地，绕不开一个死结：既要快速理解语音里的语义，又要说出自然的音色，还得实时响应。比如智能音箱 “听不懂” 语音，车载助手 “说” 得像机器人，实时翻译延迟卡半</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=1&amp;sn=e321d06b8d14b9b78fa1e4345aeec22d&amp;chksm=bc9043d40f35296317f2d342709b39dd1e0aa4c21c72761b69f0052e19580c9e911a2f248e7e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团 LongCat 团队发布全模态一站式评测基准UNO-Bench：揭示单模态与全模态能力的组合规律]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXHro0Af4Akq9qfsXc6adkdMSHYFic3VPkwsqWoiarbE4W4b2BFdbYgt2A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>多模态人工智能正从单一感知能力迈向视觉、音频与文本的统一融合，即全模态大模型（Omni-models）时代。然而，相应的评测体系却相对滞后。现有的评测工具不仅稀缺、各自为战，且几乎完全以英文为中心，缺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=2&amp;sn=e537023b96d0e70c4bb17f73407d9761&amp;chksm=bc6b464fdab3f9a022eccc37c7d85e26a5b94c6aa3505f3bcf8057d2377b8d8d345f7b2627b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[报名&amp;赠书｜NeurIPS 2025美团论文精选及分享会]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXSlO7MEXcobphcIEHDx3tCEPNlUYhaskF1p9RGPJetUejQdZO5Tm0ZQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第639篇 | 2025年第036篇本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=3&amp;sn=4b0b9536577600021e7d64b647977083&amp;chksm=bc93c9487cf10da8fcad4fb9a36da6beff8ed9bfb7a988e3778b3f18878fbd5d00ff3eec4e34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[LongCat-Flash-Omni 正式发布并开源：开启全模态实时交互时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdNDApZiaCBGmtuVxicGyT90Zva7qezgthmdnic9qIPvascdofiaB6YiaVNxH1uickPkaY5YasiaelTf1mQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>自9月1日，美团正式发布 LongCat-Flash 系列模型，现已开源 LongCat-Flash-Chat 和 LongCat-Flash-Thinking 两大版本，获得了开发者的关注。今天 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781668&amp;idx=1&amp;sn=8d8f243125c428c697791e3b687ccc58&amp;chksm=bccfa51077ec83c488bb436816d32d823752587393531c569c6f3fc0087ca166332e612d4c5f&amp;scene=0&amp;xtrack=1#rd</link>

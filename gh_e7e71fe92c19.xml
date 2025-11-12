@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[看雪科技荣获2025“网安智谷”网络安全创新创业大赛二等奖]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbalq79WPr07LOU7o8dCTfxZu1HKxRUYiaOD6PeT7at6o8xLzaWK4llaXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在2025年11月于上海普陀区举办的2025“网安智谷”网络安全创新创业者大赛中，上海看雪科技有限公司凭借出色表现，荣获大赛“启航组”二等奖。本次大赛由上海市普陀区科学技术委员会主办，以“激创新・汇资</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=1&amp;sn=4cf3c9cb6c5f9a7d63ec741b695f8e2a&amp;chksm=b0c884f3d58d17becbe06613bf99d39a2a6874b428497961000d3a36a0218e114cb508ddcd6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android 加固技术回忆录： 一代TX加固完整分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcs72XVTjP62YQFzr2nExW4ZFHJ2WjHndKG60y7OQ61H4lyZ814N51tFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>内容涉及到结构体还原, 自实现linker脱壳修复, dex解密和dump分析, 以及加固技术原理。逆向环境01◆lg g5 android 4.4.4◆ida 9.1◆010editor◆记事本,</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=2&amp;sn=fb9b7eb9cd47706ba5b8a38dce10ded7&amp;chksm=b0ff14ac18f6ac91197a716cd7cd4c78c8f0f2667e5c875622041bd79e5ba273f94fa6ee1a4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安全通告：Chrome V8引擎发现高危漏洞，官方发布修复更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbaeHaKS69ZEd6rxaqbnsPLxeKOPkPibiaIMkMRNSzQ068xPMnHao9gibibRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日为Chrome浏览器推送了142.0.7444.162/.163版本更新，紧急修复了一个被评定为“高危”级别的安全漏洞。该漏洞编号为CVE-2025-13042，存在于浏览器的核心——V8 J</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=3&amp;sn=23593b87e2f899c70583a2e18866e9b8&amp;chksm=b0b408d4f27dbb9bdfd0feceec82b27586fa962eb96f5177eda4f065070325b5e6d765bec123&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | ReCopilot：基于大模型的二进制逆向工程助手]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iax8RAgDoUojf4QmEwzZzGEs2Ff9LY7BENBesnt3LZHUb4oLy3pic9LQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾ReCopilot 是一个基于大模型的二进制程序分析辅助系统，针对逆向工程中符号信息缺失和人工依赖程度高的核心挑战，提出垂域大模型与程序分析协同优化的智能助手方案。演讲者团队通过预训练（CPT</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=1&amp;sn=0a0774e87aa99d80c5ffa20b0e17a01d&amp;chksm=b035cc63602669ec005ec3f7874fe78736b1cdb2e528c6384e07d0228b2e271bb58e9d63f916&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/VbJOzZqovPOCAMZqOibWYib5St0VtWvJhicQutTXpbPvnfCibbma180btM3DCyfc8aqsyv9vPSdbGB6reo9MxYSduQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月13日，王宇说他要在第九届看雪峰会上做个演讲，题目是《你尽力了吗——25年后的再追问》，找我帮他录个演讲结束时的彩蛋。初始是说录段小视频，我说人老了形象气质差，出镜吓人。两人闲扯到几个月前美帝在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602705&amp;idx=1&amp;sn=6b07c5c494abfe4cc13cd601c9c5cce3&amp;chksm=b0647d2724b0cf2dccb7b8f71205312896d646a302f8fb60f1da966a1e35e45ea119f024231a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 26 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[V8 Bytecode反汇编/反编译不完全指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HTsE2XdwahBxKBicGm2uvlicgeH6Tj9wnc6TSFmjGe9KFfvAPYGO2PZffP5lDAmt3DtLlibgHgjldbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0x0 IntroductionV8字节码反汇编与反编译过程中的实践与经验，涵盖构建 V8、分析 bytecode 格式、尝试绕过校验与反汇编/反编译的一些非官方方法瞄。0x1 Brief &amp;&amp; Wh</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602701&amp;idx=1&amp;sn=28fd5b31e8facc36b3b6480617f01fcc&amp;chksm=b0cde0e7084d8a21eaa6b9f8013600b4692e53b47d30919b534bebecdbfa28533aaa9a566a6b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Oct 2025 17:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[格尔软件为全球汽车产业贡献商密力量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GAwpOjibssibhrBjVzfgSrRsrMxRxxbC1s9vEPktQIGZnrj3KtLGOwGsZeZyqic6w3YaoVIdibscZBkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>为期3天的2025世界智能网联汽车大会10月18日在北京闭幕。大会举办期间，发布了格尔软件参编的《智能网联汽车网络技术路线图（2025—2030）》。这一路线图系统性规划了到2030年智能网联汽车网络</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602701&amp;idx=2&amp;sn=911d571bdbca84769114c09fa5cc9515&amp;chksm=b000f42930c50544101335ea152f3afe3afbbe0d94c31b139f8005d448309c04f6721f501462&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Oct 2025 17:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 精彩花絮来啦！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GAwpOjibssibhrBjVzfgSrRsUlhrheagx7MqZbOOLpDxDagxc1pdgOEl8zjSIJZt1KJs0ENm5YlbAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月23日，看雪·第九届安全开发者峰会（SDC2025）在上海圆满落幕！此次峰会的主题是“智能时代·可信AI安全”，吸引了众多安全专家和开发者热情参与。除了精彩纷呈的议题，现场还有许多有趣</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602665&amp;idx=1&amp;sn=2a63c4d144dbc9960f5d32683b3450f1&amp;chksm=b094ad578281b1040ced425218a913d1e318c0665b3a365d51007f28b6d8f0923d14a81910b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 18:01:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
