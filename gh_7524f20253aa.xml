@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新一代Web扫描器ES::Dirscan：目录扫描快准狠，高价值结果直接提取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFR3ictUHTtlPym3kQfKlCzJ1OtZ4rkVQ1PAapNEaYtGEFGMu1L01MFAKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Web资产摸不清，安全评估全白搭。钻研Rust安全工具的永恒之锋帮会，之前用Rust引擎做的图标化指纹端口扫描工具（点击此访问往期文章），都更新到32版了，口碑一直在线。这次新出的Web路径扫描器ES</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=1&amp;sn=75d0a977ea9e76abb3b6eb061df6fbba&amp;chksm=bc1767506767e6a859c66dfbdb0e7283f59d9701c0e862cc94ed4be2c944b9cbd195d2c47f4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 越智能，数据越危险？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFRWcLV8RibdibLGllSw2BiaLZia9dibyqD4BUmfdNK8aZEHc9yfdkjT5rqia4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型深度融入企业的生产、销售与决策流程时，它早已从“辅助对话工具”演变为企业的“智能业务中枢”。大模型不仅能接触企业的业务订单数据、企业知识管理数据，甚至还可能处理敏感的用户身份信息。而其所汇聚的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=2&amp;sn=49a33a744344e65dcac9c8a91de23916&amp;chksm=bca77f89aafb065368187a60ab704801d7ad2f88ca5f0031cf3350fa465e88db58e78878e678&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitLab曝多个安全漏洞，攻击者可注入恶意指令窃取敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFRRXEqv6RDyD9swVialDFa9yN0aDgnS0KY0iaCAYN2G7ic85oQLev1QboEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01紧急发布安全补丁GitLab 已发布紧急安全补丁，修复影响社区版和企业版的多个漏洞。该公司推出 18.5.2、18.4.4 和 18.3.6 版本，解决可能让攻击者窃取敏感信息并绕过访问控</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=3&amp;sn=46b796ec87fc7ebb7b8f00a1af392a30&amp;chksm=bc25fe10820884e2532cd967c7710e09b93c5dbee1f8eacc33762b0107943c3400cba9e7ef70&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[恶意MCP服务器可劫持Cursor内置浏览器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFRcXO0Do1dckB8WBK23XrKBl9J9CZWIAre5XTvWcfP1Ihf91V21lFSlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新型 PoC 攻击证实：恶意模型上下文协议（MCP）服务器可向 Cursor 浏览器注入 JavaScript，甚至可能利用该 IDE 的权限执行系统级操作。AI Agent 与编程助手正在颠覆开发者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=4&amp;sn=f777a1ec14c972276c6892791f60c39b&amp;chksm=bcac34607330f2ceea92168e839e200e3a9e734bc6bffbfe2e3d6c6d80a8413d3ac7fe025f28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[攻击者利用自定义GPT的SSRF漏洞窃取ChatGPT机密数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icRKEhm7xy5HwSSmCKsU1PlSxHSn7VI68icUDddaVHLhUjs8JvtMYIzvBS51WtaxciacuIwdShvLwTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述OpenAI的ChatGPT被曝存在服务器端请求伪造（SSRF）漏洞。该漏洞潜伏在自定义GPT的"Actions"功能中，攻击者可利用该漏洞诱使系统访问内部云元数据，可能导致敏感的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330362&amp;idx=1&amp;sn=a92d36d88ac0528b31b27f96549c442f&amp;chksm=bcb4be70ec69d9e5907720d478143b32189e1a94fc295751314703b909ed330fe71be1cc1376&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PtjVnbveIicdZCX2VXQeIiblWCGT7eUwbQ174ULvb6ia7xteufullSYMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言从9月份咬牙入局海外SRC到现在，2个月副业收入稳稳到账7250美元。看着这个的数字，心里泛起一阵酸楚——这些年在安全圈里的死磕和坚持，没有白费。赏金截图大家好，我是Z，跟大家吹了个牛，我也不是什</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329720&amp;idx=1&amp;sn=621a62a6d9ae97bf80bc37756ca71f76&amp;chksm=bc87937c6fa9ecbae1e557be7fb107be19b3eac69bf5cb7135bc4326d89991bed9147a26c448&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 01 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FreeBuf周报 | 网络安全法完成修改；会计巨头安永4TB文件在微软Azure平台遭公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！📄网络安全法完成修改，2026年1月1日起施行🧮会计巨头安永4TB</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329720&amp;idx=2&amp;sn=b2eca7d4c87528c031a6378827491041&amp;chksm=bc83a901d7b8ffbefea4820edf7ce44803090894f93cea9dcddc05e3345c942877d9d20e6298&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[macOS全新安全防护层：先于黑客发现管理员配置失误]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PBe88B6Z3K4yZAia3baibQibHPy7VRyRjPsBicocZ2wyG4IicUwkfeM9MLDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>某设计公司正在MacBook Pro上编辑新宣传视频。创意总监打开某协作应用时，该应用悄然请求麦克风和摄像头权限。macOS本应标记此类行为，但此次安全检查存在疏漏，应用最终仍获取了访问权限。同一办公</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329720&amp;idx=3&amp;sn=a5c33afac6254f761cf256bc5cdd718d&amp;chksm=bc46a8e4db7f0e697ec5846f532dd582bfdaccd9428f2a227fc8e63dfb10d490b68d1c4a07c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布基于GPT-5的自主漏洞修复AI Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84PH5gMcH8aIsQFOu8icT7cNkSg4fIIaXYbSWev6GEMibp55K0t6OfMAJgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI集团正式推出Aardvark，这是一款基于GPT-5技术的自主人工智能Agent，专为实时识别、验证并协助修复软件漏洞而设计。这款被OpenAI称为"AI与安全研究领域突破性成果"的Aar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329712&amp;idx=1&amp;sn=49bb0e9917b02f6732864538cad4cce2&amp;chksm=bc9180ad00631d662aa8d609f8b8bbd152f7dbd50c233e7de51692ccba306724a35576506940&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Blink渲染引擎漏洞可在60秒内导致Chromium内核浏览器崩溃，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38ta9PHBibuuhdmmOBePo84Phbc2ib512Tibt34tM3W9n4cOafkQmtZ1L5rSPHdibTC7Ud4YicmtQr9z3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员警告称，Chromium渲染引擎中存在一个漏洞（被命名为Brash），攻击者利用该漏洞可在数秒内导致Chrome、Microsoft Edge等九款浏览器崩溃。在谷歌连续两个月无视漏洞报告</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329712&amp;idx=2&amp;sn=1bbf917bb5b075e9ea9222ad64819470&amp;chksm=bc3e16e7e9702d918039506d122c0b6c72e663749ccab1df8e3a779ac6912eb9f147a04bf206&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

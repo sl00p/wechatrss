@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30H282xzxcdaWQUSyl8DqnZGV3J9p0TGscnAibt1AIrBT4N8jJQ4XSawolibI6tibdoMZibhc18JoKS2JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第128篇文章（ 本文阅读时间：15分钟 ）01前言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508957&amp;idx=1&amp;sn=fa5d5ecdc9306542d31cba236d3fcecb&amp;chksm=ce02f75c03b5ff079358074555cfc7390e0743ef800c9d9f236b0ead28383fdeab7eb9201386&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DMS Airflow：企业级数据工作流编排平台的专业实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HTMrsSBzp9Y2cK8j7a9a2vIURIL38c20qcNlsOJJInicjRH8AlclKvRTKM5CVHhCrVnPp5YNMrm7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第127篇文章（ 本文阅读时间：15分钟 ）DMS Airflow 是基于 Apache Airflow 构建的企业级数据工作流编排平台，通过深度集成阿里云 DMS（Data Mana</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508951&amp;idx=1&amp;sn=70b5087c0a9bcaa64986dd8423e85c6f&amp;chksm=ce8bb9e1c3214dabfaea0da9ce7ab933173848f10317488e46ad7eac30b8f3a68b2fd9907474&amp;scene=0&amp;xtrack=1#rd</link>
