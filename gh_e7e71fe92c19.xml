@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[VmProtect.3.8.1分析之虚拟机流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RoqBic0dSmpCib2lxL3VebTfXJyRRicia1dr9K2zA8ib5oZReqibTReNRdACA/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一篇我分析了VmProtect.3.0.0的例子，这篇我将为大家带来VmProtect.3.8.1虚拟机流程分析的例子，有的小伙伴就纳闷了，这跳级也跳的太快了，VmProtect.3.0.0版本的所</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604240&amp;idx=1&amp;sn=352a54767c28df5af47169e46b3f2613&amp;chksm=b005a82762d1dbc2fd8aa572a4a5c004d5049eafb098063908a9373bfdc68279cb53c3c3e695&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从传统PKI到NGPKI的量子安全跃迁之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbaB0tNiaa2cFFKlsTsu8jzUeBNJN0xR62UttAMkibn35icL2icDMhBanT2Ug/640?wxtype=jpeg&amp;wxfrom=0"/><p>当量子计算机的曙光刺破传统密码学的穹顶，全球数字安全格局正经历百年未有之变局。据NIST最新预警，现有80%的数字身份系统仍依赖RSA、ECC、SM2等传统算法，而量子计算机的指数级算力将在十年内将破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604240&amp;idx=2&amp;sn=479af34ed5d31fc9f85fe2d9da1fef4f&amp;chksm=b02cd8fc452cc062424d9c5fc22648bd7a1a4023a3559221c22438caf399fc2fe1e12160cfae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[强网杯2025 Secured Personal Vault 预期解WP]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdn2b5OFvAZRmUdMlna9HMS30COAGsftvz8YcUiaRk4Bic0czVKwPAAcl9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>该题唯一解是非预期。然后该题为蓝屏DUMP，需要分析内核，那必须搞一下。下载地址：https://pan.baidu.com/share/init?surl=Lo45kFwSwrXzm52GEv5zd</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=1&amp;sn=7aa99e150e133d429500cd7168be139a&amp;chksm=b06a5bec9a5e07acc3cb252a8b81cd9147b4169e29c90013a9e247d7c0a2daa1821735845c38&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBHpDjkPqfp0A6oRictJIlia8gB139wPM514XI2Bkx56qYp3njt6WwEFiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现OpenAI旗下ChatGPT Atlas网页浏览器存在新漏洞，攻击者可借此向这款AI驱动助手的记忆中注入恶意指令，进而执行任意代码。LayerX安全公司联合创始人兼首席执行官奥尔·埃</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=2&amp;sn=db90258fe95ba6b65b3aca7c6e45e664&amp;chksm=b0cf1803e7b86af646b77371cb7be104c5638f0b3093ccb7cef1aad85c0e2f73dc4f9d23f0b3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[预售中！车联网安全赛道爆发，这门实战课帮你抢占先机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=3&amp;sn=79d571ad60727031e2e6a66f58a20543&amp;chksm=b04397bd29fb2dc617a23206072cc46659551a9f92ddc5b50dba22eaf4d3dd74b86f7263408e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vmprotect2.12.3分析之虚拟机流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hiaw8dlAYSiaKB7QCjojulCDtSyOEGFibG2N6Rhr3fpiczrAQx4pDjibCakiavIFGoVoQAdm1t7MDSWtGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于到了分析用delphi语言编写的vmp保护接近最后一个版本了，delphi时代最后的狂欢了，我说的不知道有没有问题，但是我想表达的就是这个意思，这个版本可能是2.x的网上可以找到的最后一个版本了，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602728&amp;idx=1&amp;sn=cbcaf0b438d959a45a5a897f5fc5e35e&amp;chksm=b0e5377ba656e639dd3da2401add92a3b2994da748dc975a9085a4bdda4087d07a7416b300d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

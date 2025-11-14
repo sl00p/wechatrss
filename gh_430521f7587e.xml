@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Gitee年度开源项目评选中：千万流量曝光、奖品丰厚（周边大礼包、4K运动相机……）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibicg7el06fRUTPv7v6iaPp8131kCvqXaxZMfRJZicRp8oNiaYCmkXqO5uoS37W9dRYEvaAsicAlF3J56g/640?wxtype=jpeg&amp;wxfrom=0"/><p>↓点击「阅读原文」参与评选 &amp; 投票</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234099&amp;idx=1&amp;sn=0ac7199d409e424fc045cdeec9cac67e&amp;chksm=bf929b04f3f96d97a4788db5f624bd71d99127c75e8915981a5aa8c49168c2b5ecdd9e3dbc6e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 23:04:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[openEuler 24.03 LTS SP3首个超节点的操作系统正式发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibicg7el06fRUTPv7v6iaPp81lZ5CcFibxJXBoHYIPa1V3snJTPG56uCtvGpoTlAWBYbSHpNV2VBWBog/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月15日，openEuler Summit 2025在北京顺利召开。大会由开放原子开源欧拉（OpenAtom openEuler，简称“开源欧拉”或“openEuler”）社区，协同十家产业伙伴共</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234099&amp;idx=2&amp;sn=66905de0a398a7d1229ed4e43ad6f432&amp;chksm=bfde82daf351d16482d6e7556395319618f2ff4fc23d35403835224ccb615c2cb810f209c773&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 23:04:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[太好了，是卡巴斯基，我们Linux有救了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK93n0PQNkoTKpBdDdZTDlqLLLFSbNRqoghTQXPrMDz3X1eeVt1B5Hk9fBKSOFAnY5Za8p52SOqkGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名安全软件厂商卡巴斯基宣布，其家用产品线新增支持 Linux 系统的版本 —— Kaspersky for Linux。该公司指出，过去五年内，针对 Linux 操作系统的恶意程序数量增长了约 20</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234018&amp;idx=1&amp;sn=39452e01d3e042a48f254c7a96873b53&amp;chksm=bf19fe9d97aabc84dc938dc557566418d0d826f657328d71c9bb41a9a0e779cf3e7265673739&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLiaLhFwogJnPzlEibCF4SoOHCJAxSD1AcWeCBdoKGuq0KGDwuHZd3WEThRuzhBd9xMbrx56DGQHIBfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 11 日 凌晨，美国总统特朗普在社交平台上宣布，自 2025 年 11 月 1 日起，美方将对中国实施新的 100% 关税，并同步启动对「所有关键软件」的出口管制。这意味着，从芯片到算法、从</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232323&amp;idx=2&amp;sn=0f8bdef15579ef8bbb86770385c5876d&amp;chksm=bfe2584da9abbabf62563b9a00acf6ceed782ff013eb3b26b2619a8bc8bba92ea312281961f1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Go开发者的性能救星“GoMem”开源发布：12ns实现零内存分配！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib6h2IBEF78cOib1SbCNBSpA0JchanCSrxWZ1Zvave93LFjiavk32oIQN0ksjvXQVVibbx0ZGmekzuzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Go 语言的高性能应用开发中，内存管理一直是决定系统效率和稳定性的核心要素。尤其是在处理高并发、大数据流或需要极致低延迟的场景下，如何高效地分配和回收内存，避免不必要的 GC 压力和内存碎片，成为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232315&amp;idx=1&amp;sn=f0e5ccf4ca08ff3d33b294a5beebdb29&amp;chksm=bf38ca69f2ce865c52c13e90576b23ab9d11c5767e5b3bfc446d4e85a2e81ced48899ac8b155&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 17:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球最火开源AI工作流平台n8n融资1.8亿美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9LESApUFd1aDCBWLibpHrBajooQlxciaJVHPA0he1F6SqA4Ro20dV7icOHDibA14IrpX8eAcJcUl1Nmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源 AI 工作流平台 n8n 宣布完成 1.8 亿美元 C 轮融资，由 Accel 领投，Meritech、Redpoint、NVIDIA 的 NVentures、T.Capital 等多家机构参与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232294&amp;idx=1&amp;sn=6317c4940fc73b5ff699eabfcb04126e&amp;chksm=bf9c01a8594f34a889dd5ff8ae5b13f58399558b4ddba295706965f4c1ee174161b58b5a588c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 17:22:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
