@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每秒30W次的点赞业务，架构怎么优化？（第113讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZND0JrHHjV2v2YBD48nv523rrhcz6XrJdjoEmLOG3lJmS39ULibtkqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》113.高并发计数继续答星球水友提问，30WQPS的点赞计数业务，如何设计？可以看到，这个业务的特点是：1. 吞吐量超高；2. 能够接受一定数据不一致；画外音</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=1&amp;sn=75e70accc000669991602d4525ce7536&amp;chksm=bc68a8d209f5ff544425790ade4a07e214c781b95e1102ff32f22f913380de7d4622f55123ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[有人问我说，沈老师，写公众号10年，你究竟是怎么坚持下来的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz0M3DwRWCP8ZZOa3IVvmDmjFYbWOhhHXybrxwmQc7ue3z1F8ylQQuZ8bVCe1JRXsj4mfqnIxq8ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第四篇：写10年公众号，我是怎么坚持下来的。领域认证要1000个粉丝，大伙帮帮忙，感恩。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=2&amp;sn=cf62efd2fcea3c1a5d0322e2a1055a15&amp;chksm=bc4199916e64cdf0c4cc02b76a9dce42aa7db34d4fe8facbfa1f845ee887d344ba9e49fd2612&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[责任感，为什么让我陷入无限内耗？（内心愧疚，一定程度上...）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZNOxlFUQRq5NJ7yB8qJhjJ43jibmia5ttBpqEljLvetabNibdKv91KZDHnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第三篇：1. 企业经营不力，是我的责任...2. 有同学离开，是我的责任...3. 没有陪伴家人，又是我...大伙有什么帮助我的建</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979538&amp;idx=1&amp;sn=49f84d19069b5a379710789df9f008aa&amp;chksm=bce9008ab164b0899c100a3778d5d58507a143410211d28925cfb312995a0f1fe7790486cdc3&amp;scene=0&amp;xtrack=1#rd</link>

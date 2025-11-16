@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新课上架！10年内核大佬亲授：从Hook到Rootkit，手把手打造你的专属攻防工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=1&amp;sn=57300991b49686a258380aaec7a07030&amp;chksm=b09bd1cc56d0de5f5f1b0187a0ea3049b2d11255d23e1e0f94bb95f6afc1fe74fea92a1c0ff2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[教你玩转ida反编译（修改ida microcode）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5oSnXgYtewbLsLVfiaoYvHmdmia3woVXpL1B6bjYI3G3VDjl5iafmGYb3SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>看到了GhHei大佬的文章OLLVM扁平化还原—更优雅的解法：IDA Hex-Rays Microcode（https://bbs.kanxue.com/thread-288691.htm），迫不及待</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=2&amp;sn=0bc170bdecd845619c065ba533a11f76&amp;chksm=b03536d1eab947c0b937009aee16f7cf3105baadce48b9044f1010a5cbe744bd5d5addaa1c11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SAP紧急修复9.9分高危漏洞，系统面临完全失控风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5obAd0ZGNI8DqPFJDOkEvRib35RtOqkdsE19ia5xlBv2nficfb3adSnaCMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，SAP发布紧急安全补丁，修复一个编号为CVE-2025-42887的高危漏洞。该漏洞被评为9.9分（满分10分），属于最高风险级别。漏洞存在于SAP Solution Manager中，攻击者可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=3&amp;sn=991047edd9f272fd8afc98e7df4b3c11&amp;chksm=b04df46bfd0753afb7e4463dd068bcecc8288783b0a8c23816e7f98767ca5e1b2348b2edb2c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[VmProtect.3.8.1分析之虚拟机流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RoqBic0dSmpCib2lxL3VebTfXJyRRicia1dr9K2zA8ib5oZReqibTReNRdACA/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一篇我分析了VmProtect.3.0.0的例子，这篇我将为大家带来VmProtect.3.8.1虚拟机流程分析的例子，有的小伙伴就纳闷了，这跳级也跳的太快了，VmProtect.3.0.0版本的所</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604240&amp;idx=1&amp;sn=352a54767c28df5af47169e46b3f2613&amp;chksm=b005a82762d1dbc2fd8aa572a4a5c004d5049eafb098063908a9373bfdc68279cb53c3c3e695&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOhTBu7g1iaic7n7yKgQzjIFHODhvHEBtpX5MYmQeMJvpf5ibtvicN0S1qFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十一场-西安站将于11月15日在西安电子科技大学南校区办公楼210报告厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602868&amp;idx=2&amp;sn=551be9dcef3a07004481d438b8c89354&amp;chksm=b0c40097e759b06dd5f714b1c48dff7f91cfd930983c86dbaacae0c37d550ac0c34ce86b702e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Everest勒索团伙发起连环攻击，泄露AT&amp;T数据并索要巨额赎金]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOLGQUCJqs648SpPsfYb3saR4EQS5p6shdMxEo8L0ic4rAibIOtoicLfiaTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件团伙Everest近期发起连环网络攻击，先后瞄准电信巨头AT&amp;T、都柏林机场及阿拉伯航空，泄露部分数据并索要高额赎金，引发广泛关注。10月21日，该团伙宣称窃取了AT&amp;T Carrier（at</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602868&amp;idx=3&amp;sn=b7122d5054548a62a1c00bf94653eb8d&amp;chksm=b0d9cc7b16fa9d9f68a0854c332a8db35a00861b8b363c92d8833cbc16a8cb6c4ad3e8499cc3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌完整验证Play Integrity Check全面分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBWtNdPpvyE3NzJicPm2xCniccsLOwJzxIIns4p4dKbOm0aE9iaUaMz9BZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在海外安卓APP市场，Google Play Integrity API是风控策略的最重要一环。大部分APP风控系统均依赖于这个体系，Play Integrity Check不是一个简单的设备检查，而</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=1&amp;sn=7ca71a2d3b3ede11b48082327f87ef61&amp;chksm=b0704311fbb081aea36653e74267af791a3466d623eb6e1fb2b12bc28fbe74420c63a2a5d3c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT Atlas浏览器现新漏洞 可植入持久恶意指令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicBHpDjkPqfp0A6oRictJIlia8gB139wPM514XI2Bkx56qYp3njt6WwEFiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现OpenAI旗下ChatGPT Atlas网页浏览器存在新漏洞，攻击者可借此向这款AI驱动助手的记忆中注入恶意指令，进而执行任意代码。LayerX安全公司联合创始人兼首席执行官奥尔·埃</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602753&amp;idx=2&amp;sn=db90258fe95ba6b65b3aca7c6e45e664&amp;chksm=b0cf1803e7b86af646b77371cb7be104c5638f0b3093ccb7cef1aad85c0e2f73dc4f9d23f0b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[微软“任务管理器之父”锐评：Windows系统真烂。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9qB7B9ADbO3LndO0hwdtbCib736mrJwUPJUkVRmZmNLqlVxkK3IXPLMup6W66sAmG2JAcJgru0PYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>曾深度参与 Windows 开发（被视为“任务管理器之父”）的微软前工程师 Dave Plummer 近日在其 YouTube 视频中公开批评了最新的 Windows 11 系统，他认为微软已将 Wi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234110&amp;idx=1&amp;sn=b2d6495458262aadd9a920023af8d9b6&amp;chksm=bfb9e468703568d4bbd28585545f80441d0af32c583feceec7072d2c9c4486293336fb869deb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gitee开源LFS上传增强工具：支持分片+断点续传，大模型上传不再头疼]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLgg82WP6INr2Ra8Hup3FiblSajzia6j6iaC667skLcnP2w7VY3ibVhvbBpBehHn32YJJJeEl4FC9Vx3Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型部署过程中，上传模型参数文件一直是个难题。Git LFS 虽支持大文件管理，但 原生不支持断点续传，一旦网络中断就需重头上传，对于动辄几十 GB 的模型权重而言，上传失败是常态。为解决这一问题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234110&amp;idx=2&amp;sn=d65b8bbc1aa014e4a06a3ac287c32cc7&amp;chksm=bf956e44afbafcc22d63bbc245b55df7e6261a9a6fa35a40cb14cc84c5dc0123f9c843c861c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gitee年度开源项目评选中：千万流量曝光、奖品丰厚（周边大礼包、4K运动相机……）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibicg7el06fRUTPv7v6iaPp8131kCvqXaxZMfRJZicRp8oNiaYCmkXqO5uoS37W9dRYEvaAsicAlF3J56g/640?wxtype=jpeg&amp;wxfrom=0"/><p>↓点击「阅读原文」参与评选 &amp; 投票</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234099&amp;idx=1&amp;sn=0ac7199d409e424fc045cdeec9cac67e&amp;chksm=bf929b04f3f96d97a4788db5f624bd71d99127c75e8915981a5aa8c49168c2b5ecdd9e3dbc6e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib7FmYZoXic23cbiaW548FEvfNUJLrpPukfZh8vZa3BbQaQicchiaTEvKFor6icibIdmicNd64Io2zHdjWtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232337&amp;idx=1&amp;sn=fe74f57f1137166e738324517d843fe6&amp;chksm=bfa134694c17fd9d669c2200d27d460c547bbd79385bc12116fb0fac44eec53365f5083ca1d4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 16:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Python 3.14.0正式发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibAnsaAL9NvTnGgHhRxt6iaunptOR7icPia0u5gtUYyTPqn1Kpb35cj3gvjphJiaGVZ2dCJSvicxRnmzHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Python 3.14 已正式发布。这一版本在语法、性能、类型系统及开发体验等方面均有显著改进。以下是核心变化概览：模板字符串（T-Strings）引入 t"..." 语法，支持延迟插值与上下文替换，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232323&amp;idx=1&amp;sn=bc2fd385846c2cd17b3849a93d92a815&amp;chksm=bf9163bea270c547bd837b6e83b0c30123e2468b2ef8a865619071b7ed2fb1f60f9b99a4423d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当关键软件也被卡，我们的答案在哪里]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLiaLhFwogJnPzlEibCF4SoOHCJAxSD1AcWeCBdoKGuq0KGDwuHZd3WEThRuzhBd9xMbrx56DGQHIBfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 11 日 凌晨，美国总统特朗普在社交平台上宣布，自 2025 年 11 月 1 日起，美方将对中国实施新的 100% 关税，并同步启动对「所有关键软件」的出口管制。这意味着，从芯片到算法、从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650232323&amp;idx=2&amp;sn=0f8bdef15579ef8bbb86770385c5876d&amp;chksm=bfe2584da9abbabf62563b9a00acf6ceed782ff013eb3b26b2619a8bc8bba92ea312281961f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 16:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

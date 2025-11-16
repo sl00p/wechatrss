@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Sentry 都不想接，这锅还让我背？这xx工作我不要了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtrfa7keX8Qe4OO2sYArpbPDqR0ZFkGWkIwqYURPh4ib1cBLn2xmzvCF49r0icBLlCHianT8bw4Gngxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端出了问题，但总是“查无此人”之前在一家体量不算大的公司，我们团队负责维护一个面向 C 端用户的 「SaaS 系统」。产品双周迭代，每次上线后，我们也会定期从客服那边收集用户的反馈。但很快，我们就遇</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546918&amp;idx=1&amp;sn=b5b1380fc0ab0b9e37cb2fe62ebc7767&amp;chksm=fd70a7fd6413c6f57d29789246bdce1b0af2c9abecfe5fb526aef05300efc464bdcc929817c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前端技巧：检测到省略号文本自动显示 Tooltip]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvEtSnY40Vaq7ng2zR4Ve1ahOq2WABNtnZGZzFcCzHsiaAWgZXxhx2ljdu6S72ydicgyqib4EN0hw4kQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在前端开发中，我们经常会遇到接口返回的文本内容过长，无法完全显示的问题。为了处理这一问题，通常会设置固定的宽度并使用省略号样式（text-overflow: ellipsis）来隐藏超出的文本。然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546917&amp;idx=1&amp;sn=9e42133faab02eb9a5b09af2f022b774&amp;chksm=fdeb0af165a138d3ac6f9c86320c1d53cd04207cb6c7c55ce2e5403c799ce8229e3645c5cd76&amp;scene=0&amp;xtrack=1#rd</link>
