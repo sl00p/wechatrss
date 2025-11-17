@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么年轻程序员比年老的更有性价比？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzfPIM3ibUGFM8iaj3bQYj447sXrdoskSCSP988IiaFSKC6tAa5fZQ0hBIJhyFL6KfoHdO1IObQfw3kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>职场招聘圈里总绕不开一个争议：招年轻程序员还是资深程序员？不少团队负责人私下吐槽，年轻程序员薪资预期更灵活，熬大夜赶项目从不喊累，学新框架、新工具快得惊人，上手业务后能快速产出；反观资深程序员，薪资要</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979602&amp;idx=1&amp;sn=94a935ceac332752d10a6e3ff7afb31c&amp;chksm=bc85459ac861963a990937888b80cbbc3ca3937e84ac4e610eeea687fc1aebf2e1f1e7ce5933&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 20:35:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每秒30W次的点赞业务，架构怎么优化？（第113讲，收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZND0JrHHjV2v2YBD48nv523rrhcz6XrJdjoEmLOG3lJmS39ULibtkqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》113.高并发计数继续答星球水友提问，30WQPS的点赞计数业务，如何设计？可以看到，这个业务的特点是：1. 吞吐量超高；2. 能够接受一定数据不一致；画外音</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=1&amp;sn=75e70accc000669991602d4525ce7536&amp;chksm=bc68a8d209f5ff544425790ade4a07e214c781b95e1102ff32f22f913380de7d4622f55123ad&amp;scene=0&amp;xtrack=1#rd</link>

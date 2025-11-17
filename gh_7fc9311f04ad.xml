@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么 LLM 搞不定复杂任务？ReAct 与 Reflexion 技术综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKyOLK50D5X8j93cRAicEC2x698VMbPAjNUOx2OxDsKq4MicawW7NmX1Vm2zGKCmLzibxjA0YjvDcgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，特别是大语言模型（LLM）的应用中，尽管模型在许多任务上表现出色，但在处理复杂任务时仍存在明显局限性。大型语言模型在处理需要多步骤推理、实时信息获取和动态决策的任务时，常常面临以下挑战</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555651&amp;idx=1&amp;sn=5a1b76a316c8043c9203d0f068853d60&amp;chksm=e8454ad3937fb63c442e9db36145bb217693f64d83bd2482d3bb7a517829cff40a10899b9ee2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agentic 应用时代，Dify 全链路可观测最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKyOLK50D5X8j93cRAicEC2xSB0zicTz19jUkSYvDmz2pYibtZOdgkbafj16NqA2icE5lVUcYJqtwxtFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述 Dify 平台在 Agentic 应用开发中面临的可观测性挑战，从开发者与运维方双重视角出发，系统分析了当前 Dify 可观测能力的现状、局限与改进方向。前言Dify 是时下热门的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555601&amp;idx=1&amp;sn=eeff18259de7caf8d2226f640a451ef2&amp;chksm=e87672ee335833078f69396e21e88b6fadbe98ee6f55d8fc71a852d084d77acd63dbee9f3475&amp;scene=0&amp;xtrack=1#rd</link>
