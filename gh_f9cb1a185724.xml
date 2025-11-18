@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Cloudflare 11-18 断网故障复盘报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Wkpr3rA9wF3G0tpdN0qWouAvXk2ak5QkicyXNtJffN2XbH4GHC7fhqPZtQ6QhaC9kicg4cPr8RTria5XibAK03ibjDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在昨天，有 “赛博佛祖” 之称的 Cloudflare 遭遇自 2019 年以来的最严重故障 —— 正常的核心网络流量无法传输，长达六个小时。 ChatGPT、X（前 Twitter）、Spotif</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwODMyMDE2NQ==&amp;mid=2247484812&amp;idx=1&amp;sn=4900bb6f5ca27f968afbdbf6c6e93990&amp;chksm=c1da4346b0a7b1a050158f698922a9b6517fa769772fdb4890ae63ea62334c55f600475a1a79&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 10:31:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[云厂商需要有人管起来，CloudFlare又宕机了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cLhphc4pbpE1bPkmP8WMRYV3RVic8uVwhWe7dGn4ekPjslSdopHaVUUk4t9l01uVKFG40bs2K8wSwpVCDIHI1FQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近这些天，云厂家一家接一家的宕机。今天轮到CloudFlare挂掉，导致全球10%以上的网站不可访问。这个故障，不用等到厂家发布事后分析报告，无非就是又一个工程师在设计或者操作的时候考虑不周全，导致</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkwODMyMDE2NQ==&amp;mid=2247484801&amp;idx=1&amp;sn=aee5708d7ae7b18d078ac9c1f2314da6&amp;chksm=c1e2321ae3cea3749d37ccacedf6f09b3f013305496eb0a07c2b32b51cdac4054bd6487cb764&amp;scene=0&amp;xtrack=1#rd</link>

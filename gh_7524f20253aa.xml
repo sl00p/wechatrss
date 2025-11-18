@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[端点安全评估新思路：基于Windows原生机制的权限管理工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfN4Oia5lFibeNygvDtmm72hpEZ8hYSM4enibxT99CoCibEjFEouQazlpIkpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在授权安全测试中，我们通常会遇到这种情况：虽然当前用户属于管理员组，但由于 UAC（用户账户控制）机制，进程仍运行在受限权限下。执行 whoami /priv 命令会发现，关键权限 SeImperso</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=1&amp;sn=382539e01be5a02ea78c856c03f4322e&amp;chksm=bc4eb795b4dd5681890d8a9925049a14bdb5ca1329a29f4992f551e461dddbf5f22062f9ccc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare服务中断导致全球网络瘫痪：X平台、ChatGPT及多家主流网站无法访问]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNyOluNejWHYUZ5SzmC1wTmR4rdE874jIyzj1DhTtjyyc6ytUuvd6rlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心基础设施故障引发全球连锁反应2025年11月18日，互联网基础设施服务商Cloudflare发生大规模服务中断，导致全球范围内众多知名网站和平台出现间歇性故障。此次故障源于内部服务降级</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=2&amp;sn=6fe982f36807e95bb0462e09a0194914&amp;chksm=bc057b5b79f4e16f2850a69c5acf792acc12eec8da064932139fd914be475ab41a03b0947139&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突破IAM孤岛：身份安全架构为何对保护AI与非人类身份至关重要]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNk6s0GiawC0KpxTurSddlXp58bo3fMEPNqCvicKgDB8ZCKj5WdhK52cxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>身份安全架构（Identity Security Fabric，ISF）是一种统一架构框架，能够整合分散的身份管理能力。通过ISF，身份治理与管理（IGA）、访问管理（AM）、特权访问管理（PAM）以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=3&amp;sn=640c3b2a4765e562bbd2c4c91d72d400&amp;chksm=bc4e5710e73c009983c05ed37f294553f7a1648d0c0390af962b3e7d5d230cfb4144450b5b13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌紧急修复Chrome浏览器正被利用的0Day漏洞（CVE-2025-13223）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTt3gunlXD5dVdB3XQEEIhO0p30QBvuWSZZe37FmLTfe34cJwWgsyucA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况2025年11月17日，谷歌针对Chrome稳定版频道发布了一项紧急安全更新，修复了V8 JavaScript引擎中两个独立的类型混淆漏洞。其中最严重的CVE-2025-13223</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=4&amp;sn=6a2bdd1041ff5a7753a04044989b4b9b&amp;chksm=bc1bd25d65de93c98c526c4f7106de28758e974a17d0c0fc3b95a65f7cf631a4ab451d999fef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[杀猪盘诈骗团伙借助AI助手扩大犯罪规模]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTIHtm7rGI6PlGicIQwGia37lQV6adeSEWkL6oBDuIyYvnia3MvZeyY1tIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>杀猪盘诈骗已发展成为最具破坏性的全球网络犯罪威胁之一，每年造成数十亿美元损失。这种长期投资骗局通过情感诱导和虚假交易平台建立信任，最终榨干受害者的毕生积蓄。如今这类诈骗已形成产业化规模，犯罪集团开始采</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=1&amp;sn=ede32f143becb9558c87bbf2c784e073&amp;chksm=bcd28bba523c2662ae8dca9d6ef3257f71e28dba6449379e84114fd40e91386492a1fc8f47c5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLWXbCNyTQiccO9v4icicIfib6rq80ZJ9KEnicnm4xPULAZfJvpUTgAibQPQUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01开源项目面临的补丁维护挑战保持旧版软件安全通常需要从新版本回移植补丁，这对于Linux内核等大型开源项目而言是项常规但繁琐的工作。来自中国、美国和加拿大的研究团队开发出PortGPT，这个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=1&amp;sn=0e5e12853c0c490a5b0d5fbd11b96134&amp;chksm=bcb9d00701bc1d9871e6c21ef33687821a53387c069e3d9336cad3c6d0a63ce7e169435d241e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分享一个能一键获取两万+资源的情报网站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLWRAicT7cvjRTmfgzXErw1gSqibnepxEh0WArO4Juuic6sSj7iaOHC0v1UQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>✦•✦这个聚合信息平台能做什么你能想到的——学习教程、资料、漏洞、资产测绘、备案查询、工具、福利……这个VIP网站全都准备好了。● 13000+ 网络安全学习资料、公开课视频教程● 10000+ 安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=2&amp;sn=dcf772f5586a807573713540c0a11cc9&amp;chksm=bcb76fa8a7a5f936166ccb44d3a35d2907475282c6bb7e099e10cf9e7a5f5d499fe54f439bd8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客通过DLL劫持利用微软OneDrive执行任意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLO0Ol9KesLLn2fG1yFvjMZficIl7HaYo5WWicdJDWmsibDxs4JXEVsNtxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种利用微软OneDrive应用程序通过DLL侧加载执行恶意代码的高级攻击技术，可使威胁行为者绕过检测机制。该攻击利用经过武器化的version.dll文件劫持合法的Windows进程，并在受感染系统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=3&amp;sn=50248b57b1ff1ed3df7aa35f168649c6&amp;chksm=bc73b608e16ab180c79306ffdb91baafb0d8556bc641ba0907ba35e1300b9fc8e5dc9feb07dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RondoDox僵尸网络武器库升级：漏洞利用能力激增650%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibNoviaotmiafeP19hjgZ6pLvHhXiaDJib76bTPB1LBialBGWtyNDicrnDFx1sbmkaZdQ0fNhBJxgYecLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>RondoDox僵尸网络近期出现重大升级版本，其漏洞利用能力激增650%，标志着针对企业和物联网（IoT）基础设施的威胁态势显著升级。FortiGuard Labs于2024年9月首次记录的原始Ron</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329887&amp;idx=4&amp;sn=ba2646784818eedc3d9dfb57d67ff20c&amp;chksm=bc1ca8335209207ee7b55963c075dcd580b41231d32e9a48b95e3bea2da42e675e806b3f9c78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复杂能力，简单交互：小薇定义安全产品的智能体时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icB2VbOz2fDY1ouovRI0ibCshvvpdbdpsBshdxlia1Q1oicOibjL0LSXiao81QLfGmAiaNGRzhjl4AB1Rxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>“帮我分析一下ERP系统的访问关系。”几分钟后，一份包含资产清单、访问拓扑图、风险分析和策略建议的专业报告就出现在屏幕上。这不是科幻电影的场景，而是小薇微隔离智能体在企业环境中已能实现的真实能力。过去</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651329804&amp;idx=1&amp;sn=57da2866dcdc1ea3a0efc6565624d42c&amp;chksm=bc584affaa521abe8544f75f48f3051fa8d10b7e163ba47dc6c99cc538c16e8c93fcf274da94&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

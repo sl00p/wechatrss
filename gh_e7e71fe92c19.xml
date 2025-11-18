@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MSVC编译器/Warbird初步逆向记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5ovvhMWLUoLk66dwajb646WgUCY2D0ZBkfJxBScwjO5vWg7jY2rKEfVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>VS版本: Visual Studio 2022最近看到了隔壁大佬逆向msvc劫持编译器(碎碎念: 顺便一提似乎直接调用微软为warbird提供的接口来实现编译期混淆会更方便，相关内容下面也有写)我也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=1&amp;sn=7e392e784e9eb4863132470e32f80169&amp;chksm=b09f47dd694dd10ec66b3d0ad876fdd08c49eb0c78f8af22b77d7882cbc3d0787feb27e0890c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突发！Cloudflare全球中断，ChatGPT、Uber等大批网站瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQYfS6ibYVMrJ2JjrbGHK9eSxLvwrDScNIGuSibM53wZuicAic9BGxFFmXaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，全球互联网遭遇一场突如其来的“断网”风暴。从清晨开始，无数用户发现他们熟悉的网站和App要么无法打开，要么错误频出。这场混乱的源头，直指互联网的关键底层服务商——Cloudfl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=2&amp;sn=6aaef93e0a88b419f7bdd7660cc866f8&amp;chksm=b05e4f38f6138d300856ee6705160f9a285bb9fa5057aec2982bb44681394ebecc4299541f13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=3&amp;sn=c633363783edea8b272821ec92e958e9&amp;chksm=b05b7951356643fb5a17e2fc464fff4b36ef9d3a2bf58718ee4b600a6f952dd2ade9a9d38b30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | LLM 与安全代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iaZw9KEh0J0aNlHzJfbmFTlia9WIb5zTQsZeZ39iazWcA7761YhR4pVib7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾大语言模型极大地提升了代码生成的效率，已成为程序员编程助力的重要提效利器。然而技术进步在带来便捷的同时，也伴随着一系列挑战与风险。本次议题将从实践角度出发，探讨哪些因素会影响生成代码的安全性，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=1&amp;sn=37ec0d386ca2a38f643de04c1c3cad1a&amp;chksm=b06efd2b1cf346a8278f7f110ff93677e4c2b134962bcea2f60418b1679011ca232c3d8576b3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳市小溪流科技有限公司职位经验/学历薪资地点安卓开发工程师3-5年/本科面议深圳Android引擎开发工程师3-5年/本科面议深圳Android RO</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603005&amp;idx=3&amp;sn=40bc0d4797cbfb360bac1b970255a08f&amp;chksm=b02eab2cc493ede8b49bdc7f30da73cf632afcfb1f54df0d4566c220032848d4220324f8210a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 18:01:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[速通秘籍来咯！VMProtect虚拟机逆向入门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GYDWOic1Dndw1vDJbr1UzpCRoFBvIdO3ADt84YnVPB3PRYgwrIz1bnEZxxTaV3kUPM5KRqBJ77b5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在信息安全领域，逆向工程是核心技能之一，而VMProtect作为一种常见的软件保护技术，其复杂性和高保护性使其成为许多逆向工程师的难题。然而学习VMProtect虚拟机也充满挑战，你是否正被这些难题绊</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603005&amp;idx=4&amp;sn=429278874545a95543b98a466b69ad01&amp;chksm=b0c1308664ae7a4cc21c624401c37463761e8021820198eebaee6d6a4e5fa982acd849d98366&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:01:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | 你尽力了吗——25 年后的再追问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FjtPpbFRtIEgumIV6qd4FOWjwEpRhsHElESm1MSKUTBDx99gRlhiadsHYG6ic7Cz4OBO96wysBx3Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾四哥的经典文章《你尽力了吗》陪伴并激励了几代网安人的成长。尽力，不止是阅读时的情绪共鸣，更应是求索时的知行合一。本议题将结合作者的研究历程，通过十余个原创的操作系统内核漏洞案例，从系统架构、程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602900&amp;idx=1&amp;sn=c463742ad5fa9601ce77cd9c3f83518f&amp;chksm=b0f86afb97158a09310099adeb6001635fa6c136a763414dddb19d3d4486cbb3ce188e4cb5b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GEEKCON 2025 上海站闭幕丨荣誉榜单·年度鲱鱼奖公布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ehib0faBfrXR9Kw4gp7icuObWhjc9gt545ZvzzTQicmF9NFcG7ZMggfhEACUv7ajdNfoOR1Yaicxmq0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>（左右滑动查看更多）智能眼镜上的摄像头能帮我们随时随地记录好风景。然而，如果有一天，你的智能眼镜在不知不觉中“看见”了一切，还将这些内容实时传送给他人，你是否会意识到？在24日的第一个挑战中，选手董宪</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458602900&amp;idx=2&amp;sn=9ce03b30716bb3f04e1db3233a7a7f8e&amp;chksm=b06e8c1d48416268f97584d3f2ec06e2ec0cf9f82f93bc3fa909f1c6ec1b99867743330522f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[500W数据，每秒20W并发分词检索，架构如何设计？（第114讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZNuBRUjKoCcT6lOYYAeGOv7WyjPpKLLaYia79PjbwZ22SPnzl9BJ9ywNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》114.高并发分词检索沈哥，我们有个业务，类似于“标题分词检索”，并发量非常大，大概20W次每秒，数据量不是很大，大概500W级别，而且数据不会频繁更新，平均</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979556&amp;idx=1&amp;sn=9a108b904eccc7ed8f5640fd7702b556&amp;chksm=bcae3d83744099eb35df8352107fc132b5d0f0e4afe7efd8b1429364bd6ed82dcb60d365a11b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么年轻程序员比年老的更有性价比？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzfPIM3ibUGFM8iaj3bQYj447sXrdoskSCSP988IiaFSKC6tAa5fZQ0hBIJhyFL6KfoHdO1IObQfw3kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>职场招聘圈里总绕不开一个争议：招年轻程序员还是资深程序员？不少团队负责人私下吐槽，年轻程序员薪资预期更灵活，熬大夜赶项目从不喊累，学新框架、新工具快得惊人，上手业务后能快速产出；反观资深程序员，薪资要</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979602&amp;idx=1&amp;sn=94a935ceac332752d10a6e3ff7afb31c&amp;chksm=bc85459ac861963a990937888b80cbbc3ca3937e84ac4e610eeea687fc1aebf2e1f1e7ce5933&amp;scene=0&amp;xtrack=1#rd</link>

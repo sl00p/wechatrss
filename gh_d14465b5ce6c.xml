@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[《程序员年度最热prompt》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauy0Iqdpg3Cb2XeL1jZI5v0F0qicIbls4Ao1ykUibIkhByncv1R5QiaudL6hwZlZPdsbspKQnk0OeAUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796802&amp;idx=1&amp;sn=5cb13fbc3345121774ec3443e1db71fb&amp;chksm=bf783c727355031f26a9e9b76e77006b0a7233b006e009cc55e13124ff026062dbabf7c2be51&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:03:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[超详细干货！微信后台服务性能优化实践之PGO]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavIABQa8AYCJXJ6kV8U1iaH4UXDCyNDH6icgvnwRPppV26yibdw3kibJ3CyArJoKuvILbzwwF00HFibdEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 引言随着微信业务的持续发展，后台模块的运营成本逐步上升，其中机器计算资源占据了重要部分。为有效控制成本，我们自去年起开始探索微信后台服务的性能优化路径，并在早期分享了初步的实验性成果。经过团队半</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796640&amp;idx=1&amp;sn=bf82a1e57372eb1bf17e92bc01e0efc5&amp;chksm=bf803eea6cd58dd256caa02ad928b7371f4ab8140213b4991962d05e63ad9347aa3036bdc20b&amp;scene=0&amp;xtrack=1#rd</link>

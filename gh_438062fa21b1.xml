@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AliSQL 向量技术解析（一）：存储格式与算法实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FcqX2Kdic25WricQGUNwS9fyicicSQj4T2ZOo33iamPGRxQhFOM9iapavia7vWeQz6DbBhYXtfRh1KX56ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第129篇文章（ 本文阅读时间：15分钟 ）01背景随着 AI 与大模型应用的普及，高维向量作为表征复杂数据（如文本、图像、语音）的关键载体，其存储与高效检索需求在推荐系统、图像检索、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508987&amp;idx=1&amp;sn=e4046f4b5317aa05875c121c76f6f856&amp;chksm=cee8afe8ce1fa4a79d4a60f54aef407c794959bc3311282096cd3fe173d413abbd28db465607&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30H282xzxcdaWQUSyl8DqnZGV3J9p0TGscnAibt1AIrBT4N8jJQ4XSawolibI6tibdoMZibhc18JoKS2JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第128篇文章（ 本文阅读时间：15分钟 ）01前言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508957&amp;idx=1&amp;sn=fa5d5ecdc9306542d31cba236d3fcecb&amp;chksm=ce02f75c03b5ff079358074555cfc7390e0743ef800c9d9f236b0ead28383fdeab7eb9201386&amp;scene=0&amp;xtrack=1#rd</link>
