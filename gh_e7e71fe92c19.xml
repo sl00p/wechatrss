@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2025 议题回顾 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQgDfqcnWDVLoXLI427m4x3knnWlvyZib0ECHsMuH2BVpjWyp5AlZGsNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？本次议题将从SCPGA的攻击原理拆解，到防御方案的技术落地，再到真实场景的风险复盘，全方位带您看清LLM接入万物时代的“真威胁”与“破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=1&amp;sn=c9c3d5f23ce7da8357d9fe24b9dc9e30&amp;chksm=b0c8bab28a87af5511d9308b9a3142e9f4515e54c5a26065f203f578bd4bc0ee4c1ffe76b812&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[华硕路由器遭大规模黑客攻击，超5万台设备被窃密操控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GGqRyqFY1YGsRiaSSichD4gkOk4ChVOBLeYFtpaOmBkg0VfvcichQlJlMPmJolMNxib6lEw18vzp7dJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，网络安全公司SecurityScorecard联合华硕披露了一起代号为“WrtHug”的精密黑客行动，全球数万台华硕WRT系列路由器遭劫持，沦为潜在的间谍工具。攻击目标集中在已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=2&amp;sn=e1c465c37e801bfde89a6decf640dce1&amp;chksm=b011c8b1d3030b46db9a5765509325c2f5f27624c80daee37534e8904ca87369936f22c2347c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码审计无从下手？四阶段实战教学，带你从入门到精通]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=3&amp;sn=b355152f50e954a71ee190e6438d7f89&amp;chksm=b00188c4e063b619b31b17adb0cafa5ecaa9d33dd3c30e91484766d28ac2f76b87822eaef04e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MSVC编译器/Warbird初步逆向记录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5ovvhMWLUoLk66dwajb646WgUCY2D0ZBkfJxBScwjO5vWg7jY2rKEfVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>VS版本: Visual Studio 2022最近看到了隔壁大佬逆向msvc劫持编译器(碎碎念: 顺便一提似乎直接调用微软为warbird提供的接口来实现编译期混淆会更方便，相关内容下面也有写)我也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=1&amp;sn=7e392e784e9eb4863132470e32f80169&amp;chksm=b09f47dd694dd10ec66b3d0ad876fdd08c49eb0c78f8af22b77d7882cbc3d0787feb27e0890c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=2&amp;sn=752dd001638bd0bd17995c6244382f30&amp;chksm=b0c3e1b73991a0d7c8f5ffe9a7da4b1f263c80024cff6d7294803f0a8584648b5de2dbd33ee9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 01 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VmProtect.3.0.0beta分析之虚拟机流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fdqo0sq2ciaft63w3CTAUicB3pMofSUmnepjs0rJp6fFjngiavnpLT1nWzRuag7wqqcCynT6icCSE3Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于可以开始分析VmProtect3.x，以上的版本了，从刚开始接触vmp，那时是从0.7开始的，算是最早的版本了吧，那时候对虚拟机，一点概念都没有。什么虚拟寄存器，什么伪代码，为什么虚拟机里面没有寄</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603005&amp;idx=1&amp;sn=697ec2842a8fcd98b5ac6730d2981497&amp;chksm=b0076d575e6c678107ee87957d86fbe837c2e013c5ca54f0d07ad44e643c1822d55e91d55de6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:01:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌沉默以对，Chromium漏洞曝光！数十亿用户面临浏览器崩溃风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0Rj2c75KIOqg4vr8e9qkz0sZfasujkiaey8hLFInDMjapCKpRl4u0ZQTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究员何塞·皮诺披露了一个名为“Brash”的Chromium高危漏洞，该漏洞可在数秒内导致基于Chromium内核的浏览器崩溃，波及全球超30亿用户。令人震惊的是，皮诺早在两个月前就向谷歌</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603005&amp;idx=2&amp;sn=40181b69e27466e402c789292a095783&amp;chksm=b008bfd70d07873df66f523f5d2054db792559c4f46f1970f88c6dc6f6060bdba11ea7a92e0e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:01:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025大厂技术岗实时更新！企业新增职位汇总]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳市小溪流科技有限公司职位经验/学历薪资地点安卓开发工程师3-5年/本科面议深圳Android引擎开发工程师3-5年/本科面议深圳Android RO</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603005&amp;idx=3&amp;sn=40bc0d4797cbfb360bac1b970255a08f&amp;chksm=b02eab2cc493ede8b49bdc7f30da73cf632afcfb1f54df0d4566c220032848d4220324f8210a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:01:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
