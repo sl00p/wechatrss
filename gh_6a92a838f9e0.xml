@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[B站消息新架构升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RxcicfiaugGSUUuc6VK9VxcJenyrac149qOC7LFrwDc4W3UtU4MrR6DHbHW3nYYrH4fRE00ia4ROQOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>先思考两个问题：技术上数据量越大，降级概率越大，但消息业务场景上数据量大的是影响力更大的UP，业务不接受技术降级，如何破？如果消息流量增加10倍，怎么保障服务不挂？1.现状业务解读按业务全域现状，在服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503755&amp;idx=1&amp;sn=bd23c345d87a50bbfc833e442081843c&amp;chksm=ce6ffbe69fb8998fcbc440bd2d918451c9353319cbcb84db2e15f7175990490acd205586e7c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[VisionWeaver：从“现象识别”到“病因诊断”，开启AI视觉幻觉研究新篇章]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RJEHz8LhcpF96iaWNvHBzDcd1FgvJkfaKRDofO7cZlia4IK7mBhySG8RQCfcdS6j6IRiaybYz5woFdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言长久以来，我们只知道大型视觉语言模型（LVLM）会犯错，但始终缺乏一把“手术刀”，无法剖析其视觉感知的根源性缺陷。我们只知其然，不知其所以然。我们希望当 AI 模型观察图像时，不再凭空想象，不再“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503701&amp;idx=1&amp;sn=6ca4ff76ca955db7350d14556e814b2c&amp;chksm=ce8ca0e94769681881627dc0df0fab2f5048364b887b2d5df24bf1dc33d58087b705c4f92aa7&amp;scene=0&amp;xtrack=1#rd</link>

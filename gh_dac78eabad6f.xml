@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑、P0故障频繁登上热搜。表面原因看似多样，但这些因素往年也存在，并不会只在今年集中爆发。真正的问题，是高可用建设背后的结构性挑战。 系统质量难以稳定，首先来自熵增。赶工、堆需求、技术债累积、新技术不断加入，都在让系统变得更复杂。理论上通过规范和流程能改善，但现实中业务压力通常远大于质量压力，技术团队很难真正阻断系统滑向混乱。 第二是墨菲定律。只要系统在运行，意外就是必然：机房会坏，链路会断，软件和系统都有 bug。就算做了多活，真正需要切换时也可能失败。高可用是一场永远无法完全取胜的竞赛，只能尽可能延缓系统走向失控。 更麻烦的是，那些把隐患提前消灭的工作，往往看不见、量化不了；但系统一旦撑不住，重构、多活、混合云这些工程就会立刻成为重点。你一年修一堆细碎问题，年底材料并不好看；隔壁团队虽然出过P0，却因大刀阔斧做架构升级，轻松拿到亮眼结果。 高可用做得越早、越细，越难被证明，这也是行业里最吊诡的部分。公司层面也面临同样矛盾：平时的投入看起来琐碎；真正出事故，又觉得当初投入不够。于是形成普遍循环：系统退化 → 重大事故 → 大规模治理 → 阶段稳定 → 再次退化。 高可用像一场反复上演的运动式工程，谁撞上谁倒霉。有没有破局？从工程角度看，没有快速有效的解，很多团队能做的只是避免成为那个倒霉蛋。但如果希望系统长期更稳，关键不在技术，而在组织文化。 至少有三件事值得坚持： 第一，把高可用视为持续工程。 系统健康像身体健康，需要常态维护，而不是一次性升级。给团队留出质量时间，比突击式治理更可靠。 第二，接受高可用是慢变量。 隐患处理不会立刻带来收益，但能减少灾难级事故，也能让系统不至于一路滑向深渊。 第三，坚持体检。 一年小复盘，两年大盘点，即便无法避免事故，也能把12小时的损失降成2小时，这对业务影响是本质差异。 高可用的难点不在技术，在于组织能否给系统留出生长和修复的空间。 下次老板再问你高可用，就把这篇文章甩给他吧！]]></title>
+      <description><![CDATA[<p>浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693193&amp;idx=1&amp;sn=f4d9c7aa2441ff69dc083386d5e31182&amp;chksm=eb5ccc89531353165b6804c434a7487c7939459c4f2fdd47b8966e1d2cc6dd746056662e6d13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97Y9TypxKLvYNl6se1GkJG9vunEyrnBLZLrO8GfvicLnEtmkmmdGIiaO4GiaEvfeFs2LIcVicFia1z3SYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 模型能力2 初步体验3 网友测试案例4 写在最后Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693189&amp;idx=1&amp;sn=4bec58ed888fd01965aaa30d46c12eb6&amp;chksm=eb3a82e249c350ee3f696d7159bab74a3bc8071da7627951793008f0ea058ed9b240e5db9b43&amp;scene=0&amp;xtrack=1#rd</link>

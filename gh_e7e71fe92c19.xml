@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新课预售 | 为什么你的系统总崩溃？Windows 内核调试核心技术揭秘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=1&amp;sn=0b339f1827ff430a126bdec228cb4736&amp;chksm=b02e9387c74875a34c69cc01a7d97a96b1799302f27123e31c993fd446a69f4960817da2b129&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一道CTF题目animals：变异MD5加密分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx0crbJibMibg2Z0s8JoaXV9wNXXl8iayKWVWALZLMiatIdFKPAOKibO1WzeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1分析首先IDA打开熟悉的味道熟悉的花整整两段，没有办法，挫一个idapython脚本梭一下start_add = 0x400800end_add = 0x406e22for i in range(s</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=2&amp;sn=d3ce2c80572bdce231d2a9420d29448e&amp;chksm=b05d91fa6e19f21f863d64d396f845eb8ddd1aed113f3fcd550484b81b2d67dc83cd8405e1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周职位更新！速速投简历]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=3&amp;sn=e54f0304139fa6cd301001984e700e94&amp;chksm=b09643984049e295682c0b4a6278978b466d1c9b98dae8a05834cf520ee1196e054acf6fc6c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Oracle EBS零日漏洞遭大规模利用，近30家机构数据被窃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTxSeAibNemkskalTHEorFRHiam9Gk9nJ5vr10qodqkkCC6eFROicNXmxBjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Oracle E-Business Suite（EBS）遭遇一场大规模网络攻击，涉及零日漏洞CVE-2025-61882，导致全球近30家知名机构数据被窃，波及教育、媒体、制造、金融等多个行业。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=4&amp;sn=c8c02adf4a01fb9a90ce98efa70ac380&amp;chksm=b0667084dc81af2c702366a94c84b8c414c3515606567a07e001690d40178941b6773a2819af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQgDfqcnWDVLoXLI427m4x3knnWlvyZib0ECHsMuH2BVpjWyp5AlZGsNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？本次议题将从SCPGA的攻击原理拆解，到防御方案的技术落地，再到真实场景的风险复盘，全方位带您看清LLM接入万物时代的“真威胁”与“破</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=1&amp;sn=c9c3d5f23ce7da8357d9fe24b9dc9e30&amp;chksm=b0c8bab28a87af5511d9308b9a3142e9f4515e54c5a26065f203f578bd4bc0ee4c1ffe76b812&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIxxTVghb20icruhHZLrEpwEM2Nib66S65n46ickt4Tvp8Es5KOdhuFWvhOV9iaKKmQQLM7CuibrOaj4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对复杂的加密解密、千奇百怪的隐写技术、五花八门的文件格式，是不是常常感到无从下手？别担心，《MISC 从入门到精通全解篇》课程来啦，专为想在 MISC 领域突破的你量身打造！超值价 ¥199本次课</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603127&amp;idx=4&amp;sn=335c47f3804a6d1c6fa96e960ae612a1&amp;chksm=b0e9cd503bd9f1282ede480ef6183bbb8c3b271589d3ac74314da17a8135050d7ece52d42575&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | 危险游戏：智能驾驶一线攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0Ragw20CibiacfWD7l9u4e3HBtgbDVFM1B0fZiccDWIQMKzQDkSibdvf2aAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾随着汽车智能化水平不断提升，越来越多车型配备了先进的智能驾驶辅助系统，尤其是在新能源汽车领域，算力平台和智能驾驶模型迭代迅速。然而智能驾驶系统背后的安全风险却往往被忽视。本议题将从传统汽车网络</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603105&amp;idx=1&amp;sn=dd0f23c875550afb8a66d74bcc7021b3&amp;chksm=b0de2c2d7f6d2846f74d0cc7a97602ec91953c31a779631e52ff59e158d16069cd7a81a58c3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预约 | 破局黑产：守护亿级DAU游戏的安全实战密码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0R6nvMxQgtXOsuXG7gmKXfLNWMtQF8ax37qcAj7Y4yI3LdnZvMXGcVicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>外挂数量暴涨238%，黑产攻击升级 AI 对抗，游戏安全防线岌岌可危？11月6日看雪直播间，带你解锁守护亿级 DAU 游戏的安全实战密码！欢迎预约直播﹀﹀﹀球分享球点赞球在看点击阅读原文查看更多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603105&amp;idx=2&amp;sn=55924a6230b6e3d595cfa9cfa57b0b95&amp;chksm=b0d587100d571b65d45bb1402458a771cb916044d4d9bb49ce30b1dd7a1a5738bf4df18d4528&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[写一个简单的ollvm混淆还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RlolMthjAdzjHa2kLsprDTlhzDVDQ2xicKay9HRvg4dJsCxntTQC7Ixw/640?wxtype=jpeg&amp;wxfrom=0"/><p>羽扇纶巾，谈笑间，小小混淆樯橹灰飞烟灭。相信每个逆向萌新在刚接触加固App时，都曾有过下面这个“痛的领悟”：兴致勃勃地把样本拖进 IDA，准备大展拳脚，结果……F5一按，满屏的while乱舞，控制流图</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=1&amp;sn=724386f873a1409d8f8dfed7fcc0fd94&amp;chksm=b0ca7e3f57554a75fbee06c39059d88e9fef1790c70c54491925972b83a444874ecc59c15af5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7天打造 IDA 9.0 大师：从零基础到逆向精英]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603015&amp;idx=2&amp;sn=752dd001638bd0bd17995c6244382f30&amp;chksm=b0c3e1b73991a0d7c8f5ffe9a7da4b1f263c80024cff6d7294803f0a8584648b5de2dbd33ee9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

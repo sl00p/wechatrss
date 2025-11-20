@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(25/11/21)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Redis 7.4.5 Lua引擎中发现严重漏洞，可实现远程代码执行与权限提升https://www.freebuf.com/articles/network/451795.html本文深入揭示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960307&amp;idx=1&amp;sn=6a724d1c2676dbecbadf4dad2535fae1&amp;chksm=8a3af2e7a7019a5c7f229f3e8150ed659cef1d2056fc01e9b15e79ed3e07bab43f2478e682f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 10:33:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(25/11/18)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Apache OpenOffice 多漏洞修复事件https://sectoday.tencent.com/event/a4QpfZoBvMLTtVn_TTJMApache OpenOffice</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960303&amp;idx=1&amp;sn=9646e987b9b9d3a97ae45865b4f95147&amp;chksm=8ad403fe5e30515624ea0cdcf084acb86bba6ac392cb44ed5247642184c765b2003208b82a28&amp;scene=0&amp;xtrack=1#rd</link>
