@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[朝鲜黑客组织Kimsuky与Lazarus联手利用0Day漏洞攻击全球关键行业]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibjyRc17mkdVxbuR6Vgf2GydkibibicOAu5zUcJTDXduIpVzL4Gziay6MXj8d0qq6yNja5NsnFtAibPVHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜两个最危险的黑客组织Kimsuky和Lazarus已联手发起协同攻击行动，威胁全球组织机构安全。这两个组织通过将社会工程学与0Day漏洞利用相结合的系统性攻击手段，窃取敏感情报和加密货币。Part</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=1&amp;sn=fbd4e7ec8b3580e701bf76b7bc90f801&amp;chksm=bc7659facbb08d8ba21339621c0ef4135b2e767b576412595015b84edb6799c38a3928afb2e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高危Windows图形组件漏洞：单张图片即可让黑客接管系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibKPf94wchcJ7jvp92g5HOuib76EeHibRDdfiaZGjaLWbhwVDZBiciafMOmQ18KfOtJMZrAn88DXicYAw0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软Windows图形组件中存在一个高危远程代码执行漏洞，攻击者可通过特制JPEG图片完全控制系统。该漏洞CVSS评分高达9.8分，且无需用户交互即可触发，对全球Windows用户构成严重威胁。Par</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=2&amp;sn=76b2fe93f8a2e796c282148d883cdda4&amp;chksm=bc0f8c03136f1697303c3e9266ef2f693a621db6799f4ed5f0059793d795a8c36b1fc302def2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | 杀猪盘诈骗团伙借助AI助手扩大犯罪规模；Cloudflare服务中断致全球网络瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🐖杀猪盘诈骗团伙借助AI助手扩大犯罪规模🌦️Cloudflare服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=3&amp;sn=05c4134aa1376a8d5eaf54edd88195de&amp;chksm=bca427a6eb20489d1d565add3a871a7b5c8baae364b82b69a147af3c13ef7bff161ea6733712&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[FreeBuf培训平台致学员的一封信：你的权益与保障，平台用机制守护]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNTl3VsYQvEh6CvxbRZhnZ5xWJ9picBygxGZicUONrbHuNPlDJiaTjuiapCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从你选课到学习，再到售后的每一个环节，我们都想做你可托付的保障者。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330742&amp;idx=1&amp;sn=8b130cd89fd9556aa371959309325b60&amp;chksm=bc04547d456cb8cd6efd1b7d9bc7ca1cd696c8ea082b6745281463d7c265c89e8ad0eeb55c57&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39Rl8Tmb0ibHxMic9IrTe5tRgvF5s7dwh0VkYkYEcUmEYVaPWhBqg4IxWEo0x7PHPoUOBtTy7OnS8cA/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科身份服务引擎（ISE）存在一个高危漏洞（CVE-2024-20399），远程攻击者可通过构造特定的RADIUS请求序列使系统崩溃。该漏洞源于ISE处理被拒绝终端重复认证失败时的逻辑缺陷，会造成拒绝</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330102&amp;idx=4&amp;sn=095d7cb0ec3e30daf68fb6bd4222a830&amp;chksm=bce437fa4b7abb6e201e15ef197bbd8342f28dfc45bec728c7028412119633866adb6d8820b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 18:39:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用Active Directory站点实现权限提升与域控沦陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SsDXhS88lER3eEicwFAomw56Hziaf11dlicZmfARGfdhRZANaUChVeW1dXRD9k99pnR4lscjTXx4sA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞机制解析Active Directory站点原本旨在通过管理跨地域复制与身份验证，优化分布式组织的网络性能。然而Synacktiv安全研究人员证实，这些被视为安全的网络管理工具可被武器</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=1&amp;sn=67b18ae7a26803443ad8018a0cf906fe&amp;chksm=bc9ab00efaa0b628a838aeaf1a041f7ebefc5880620b8e22fccd3734071079bdb9870b78b89f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AMS无人值守系统建设与效能提升；SSRF自动化发掘工具；内网渗透测试基础；如何重塑智能网联汽车安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icLM52tplqDH2iav9AulXzzn5aRveJHZKRXKK7XwoiaYF3xr4jUwhDxvDibd2R6ICWzJoMfeVMouRbqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>SSL安全问题及漏洞介绍；全栈应用与API安全解决方案白皮书分享</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=2&amp;sn=834646c762e337fc8510eaa465e3c434&amp;chksm=bc25366cdcf417070d6331c5f5b55d79994938d1ec9ab6d09eed4a77a61bd92ad60ce69a62e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最新分析揭示LockBit 5.0核心能力与两阶段执行模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SsDXhS88lER3eEicwFAomwEszPfI6ZPkeEwFAaQqXrbnD3CUoXCJUAxrZxNpb1G9K3NsY5e0mqzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>LockBit 5.0于2025年9月下旬首次亮相，标志着这一臭名昭著的勒索软件即服务（RaaS）组织实现了重大升级。该组织可追溯至2019年的ABCD勒索软件，尽管面临执法部门的严厉打击和附属面板泄</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330033&amp;idx=3&amp;sn=c3970930624b5cf0e9adb2f07b03968d&amp;chksm=bc78d471bcd17ad8e929b871bdcffbb3c45121740020ba1fa60e64d6b4f16da9e8655d2c6ded&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Nov 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

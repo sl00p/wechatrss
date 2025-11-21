@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[极路由远程命令执行漏洞-漏洞分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsKnDEOicmZDal1VNE0nhq0IrOciaoPLhp0KGiaASfbILvibpjqGzkOhwzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇主要介绍cloud_token的计算方式和远程命令执行漏洞的代码分析。cloud_token是开启远程ssh的token，如果知道cloud_token就可以远程开启ssh服务。01cloud_t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=1&amp;sn=63eb614120055ac689f6192c16cb2c74&amp;chksm=b04fa85c826f315cceba6e8d472c614d0b8a16ed6222287bbb3fe78e45cb87d800321002a5ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=2&amp;sn=ec105db6a0b9106aec654784d428fcab&amp;chksm=b0195d4308856e7e50d18841b76f993fd3f8a06d94859737c6165306e32c96b593fb92adf9b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[新课预售 | 为什么你的系统总崩溃？Windows 内核调试核心技术揭秘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=1&amp;sn=0b339f1827ff430a126bdec228cb4736&amp;chksm=b02e9387c74875a34c69cc01a7d97a96b1799302f27123e31c993fd446a69f4960817da2b129&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[2025天网杯攻防演练：吉利车载系统如何做到全程零失守？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GFAaEzkaat5picINgd5T3xH1lhD7d8Vib589Rx4rwaXDqkLjGMkiaen74vzBg2EvDZDIUQNPChh91og/640?wxtype=jpeg&amp;wxfrom=0"/><p>当汽车从“四个轮子”到“四个轮子上的超级计算机“，其承载的不仅是乘客，更是城市互联的神经末梢——个人隐私、交通数据、城市脉络在此交汇。今年9月，由天津市人民政府主办、国家计算机病毒应急处理中心联合多家</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603127&amp;idx=2&amp;sn=8b141a0efdc02f454aaea9156bd738f0&amp;chksm=b0589dc54a6c93ae2af1a8633a6b7e167e8465d83b6175fb9ae8741455e7101af4f5ba8cf5b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你的货物正被远程调包！RMM工具成黑客“隐形方向盘”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GFAaEzkaat5picINgd5T3xHzA2GeCplE622ZLbWCyicOkXgQL8MWcmxtwJQCoqOEHY4nfazZ7f9WaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，网络安全公司Proofpoint发现，黑客正通过恶意邮件与链接，向货运经纪及卡车运输公司发起定向攻击，借远程监控与管理工具（RMM）劫持货物、窃取实物资产。此类攻击自今年1月起活跃，6月以来愈加</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603127&amp;idx=3&amp;sn=eb688656bb3e30124cc6193353b08f52&amp;chksm=b06811cea530c69efd49eebb505f38829fa71e8c6e77032d7d9b43b442079b739a46fd3a00c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再被 MISC 题目劝退！20小时吃透加密/隐写/取证，竞赛拿分稳了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIxxTVghb20icruhHZLrEpwEM2Nib66S65n46ickt4Tvp8Es5KOdhuFWvhOV9iaKKmQQLM7CuibrOaj4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对复杂的加密解密、千奇百怪的隐写技术、五花八门的文件格式，是不是常常感到无从下手？别担心，《MISC 从入门到精通全解篇》课程来啦，专为想在 MISC 领域突破的你量身打造！超值价 ¥199本次课</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603127&amp;idx=4&amp;sn=335c47f3804a6d1c6fa96e960ae612a1&amp;chksm=b0e9cd503bd9f1282ede480ef6183bbb8c3b271589d3ac74314da17a8135050d7ece52d42575&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 17:59:10 +0800</pubDate>
     </item>
   </channel>
