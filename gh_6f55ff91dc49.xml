@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek 最新开源！直接干到了数学奥赛金牌水平。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyHp5U6fY1CbYx1Fm9l8cuicVblwgeJTToCrZ08C8aiatGJWwCzRdJflCIMc3WEjoAWBsia5RMLxug4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，DeepSeek 开源了最新的数学推理模型 DeepSeek-Math-V2。最近国外 Gemini、Claude 神仙打架，小鲸鱼又活过来了。这不仅仅是一次普通的模型迭代，根据在国际数学奥林匹</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529201&amp;idx=1&amp;sn=b42685ef5f8e04c56254a71cce7b94ba&amp;chksm=f87772cac99049f271168e5b72fa206f3ac1668f04034e7ac5763f8f995956a2808bbf3caa17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 项目真给劲儿，搜集了各种开源平替。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxTQgTgOtiaRoB09ukT5v76wSFduM0eNuWYhUsiaxDaAoibzsblxxhuGcIXmGd7OkwKSN0fQQzwUOiclw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个非常实用的开源项目叫 Deploy Your Own SaaS。它收集了海量的可以自己部署的开源软件，涵盖笔记工具、云盘、在线会议、记账工具等方方面面。而且收录的项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529187&amp;idx=1&amp;sn=50fb04109f21a2bf1e3f195e6a55debc&amp;chksm=f8140958d50f8f7ab1d639da3e37e788e4b45d9877a57c11ef2c9fa2b567a937f76dfdce76fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzDibDEJibVD9MyhNFzIdeswfMWYPfZ1q7GyWMq9iaNrPOnbmCVDOkXtuKT9IicuQYWBAIRyG8T1SU6mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用飞书多维表格 + 即梦 4.0（或 Nano Banana），打造一个文生图游乐场。先来看一个视频。这个视频中所有的页面都是基于飞书多维表格从零搭建的。不需要写一行代码。你可以把你想要搞的生图场景</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527602&amp;idx=1&amp;sn=65d60088ae1d6b56191d315e2af80297&amp;chksm=f88075110105bec24b0ad9c986023b6bc54bd1e886b7eaf43833f172255fc8249815845ef1b7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 3 个 GitHub 开源项目，让你的 Claude Code 与众不同。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruytTkeLD6dibP0Ucfbtcgh0rYic2JKLehG0oXQhIyydCAvquP8QZoOBNRpTFLhP9BeWAichniarmMfmSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 用量监控器Claude Code Usage Monitor 是一个专门用来实时监控 token 使用情况的开源工具。它运行在终端中，以清晰美观的界面展示用量数据，并支持预</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527601&amp;idx=1&amp;sn=27141de225ae7620f0b6dc5b7e6965a6&amp;chksm=f86dd38ead0f86d22eaa05075cb1246e18cc8f9d030e20ad7a22a46b5ebbdaeaa6b5c6832810&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Oct 2025 15:04:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

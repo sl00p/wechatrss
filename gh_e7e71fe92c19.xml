@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[xVMP项目分析(基于LLVM的VMP实现)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPMmM9LBVSAbDCiaB31vpKcy8f84vbaDGAPl2h6Hw1KsbMhaLAlMGsq6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前在學LLVM Pass的時候就在想，是否能用LLVM Pass來實現vmp？想了一陣子沒啥思路就沒再多想了。直至看到大佬的這篇文章：写一个简单的VMP-不造轮子，何以知轮之精髓？才發現原來LLVM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=1&amp;sn=a16a91ea3424a8b809cefcde896f4764&amp;chksm=b049c04f9f5ab2dc3437edd9ea47773185f2b9dc97173b3f2875ab62c737b8270acda46b998a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周职位更新！速速投简历]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=2&amp;sn=79164f11db318adba20a898e49ac6e9b&amp;chksm=b0d55f74562a89394481cacc07286aa0c3bb3d5b1e42ec28d6c333d3920a4b270aa95cf7c051&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新曝Next.js未授权DoS漏洞，可一键击溃服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4fNia3icJFBuKMqJd9OiaHfKQXdvvTAvJ3YRctrK5cd2HR7RJICM5ngMyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Next.js框架曝出一项高危未授权拒绝服务（DoS）漏洞，攻击者仅需发送单个特制HTTP请求，即可导致自托管服务器内存耗尽并崩溃，且无需任何身份验证。该漏洞存在于`body-streams.t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=3&amp;sn=35dd5bd4c71a05d1a770635c98edf0ec&amp;chksm=b074ce3cbb50136bf8930341b1495a90d1ab993a6df1cf597f87134b26e8d72a3446218460e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hyper-V平台IUM进程调试工具及通用TPM漏洞CVE-2025-2884分析与复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdP8Z32bjJNrpE1duuN4QTRDnWTTGw5P6ecvYuX5wbnOTVepUn4EZtibNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章的目的是介绍Hyper-V平台TPM组件服务进程vmsp.exe相关的通用TPM漏洞CVE-2025-2884分析与复现。文章结合了笔者魔改的用户模式隔离进程调试工具和逆向代码及调试结果分析了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=1&amp;sn=8375e00ae768fbb4d8b952b3fb61a204&amp;chksm=b05ef8e5582458591db6cc60237f95fe74f34699625ff15d46c3374e92613d0c790bf111d668&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnrUGMFBjP3uhgQcXExsDesNC33oPjHsYIicXha20rrGb0xglPfGrpjag/640?wxtype=jpeg&amp;wxfrom=0"/><p>【看雪双11 · 技术人的购课狂欢】年度钜惠，仅剩1天！活动时间：11.7-11.11快来扫码加购想趁双 11 囤点硬核课程提升技能，又怕遇到 “虚标折扣”、“赠品鸡肋” 的坑？别慌！看雪安全社区双1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=2&amp;sn=4db86efcce3ff94e61099f53b9a8c43f&amp;chksm=b028510daef313fe2d400d0ad005a3d18be8334bceb743441a8d15d5c5ae6baaaf045ad0fa9d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三星0Day漏洞遭间谍软件LANDFALL利用入侵Galaxy设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iawD8CeWbPWQXx4V5bFaicxNDaBQK8CG2dO03ggpx3RWxoA6HxicyOMQDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Palo Alto Networks旗下Unit 42威胁情报团队披露了一个名为LANDFALL的新型安卓间谍软件家族。该软件利用三星图像处理库中的一个零日漏洞（CVE-2025-21042），</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=3&amp;sn=f4abd7819eccecbe85bc803633762cb2&amp;chksm=b06c329ec7be50d5c55fdb78ae8d51a188bacaf3f2261f238871e941452bd67f151e7aff9d05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于Linux6.12.32的程序启动流程分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnhU1KIfZibJoSHPIyB0HygotU2icpuzfDV25p1yaHQvxflM0AMxSYMZ3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 主要可执行文件类型为 ELF参考文章：https://zhuanlan.zhihu.com/p/627078387本文主要还是方便理解 Linux 在启动程序的时候大致发生了些什么，对 i</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=1&amp;sn=d8a53e49a04b229c8af3d78469884caf&amp;chksm=b0160af7a554b5547285e2ec3dd33cb03cf9da0923ff9b1b63e0d5e315f6253d13c5360e1cfa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[公告 | 看雪论坛服务器11月12日上午搬迁，暂停访问2小时]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FLKl0tFtpNSCrUKuKa6MvuGv6Tj84sYxwNWTTlicSlUyauMn0NSBmYXWYRUDiaEiamibTHD2OIEvMEbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>亲爱的看雪会员：为了给您提供更稳定、高速的服务，我们将对服务器机房进行搬迁升级。因此，11月12日上午，网站/服务将出现约2小时的短暂无法访问。对于此次中断可能给您带来的不便，我们深感抱歉。我们会全力</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=2&amp;sn=34047d9afa33bfe7f79374a9887fa1dc&amp;chksm=b0060039d301d38fedcc1447a9a413e4cb7df8d2de435c5992c7be3e10eed6334f22f6fe0503&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

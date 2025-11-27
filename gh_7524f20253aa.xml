@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI承认数据泄露事件：合作伙伴遭钓鱼攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6fZjN1iakex573RPCGtPDYhsvR2GrEibicJI9x57iclibHtS7LkibUpaARLPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI与数据分析平台Mixpanel近日发布联合声明称，由于黑客入侵Mixpanel系统，OpenAI客户数据遭到泄露。此次事件导致OpenAI API门户的用户档案信息被窃取，但ChatGPT</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331296&amp;idx=1&amp;sn=2691f3061ffd83eb25a9ab5b5e77d0b2&amp;chksm=bc1481ca51f58b5e7593026a3c42b97d10e50853976c4c207e3baa1253273c7fdf56d7d7b5bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[聊聊LNK文件在授权安全测试中的一点应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic66t1r8GT3bDGLGK5icOCichaZt998tNS1jJl0X3b2jSL0K0vDGpPWokAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>有时候，最有效的安全测试，就是从最寻常的地方入手。比如，一个大家每天都会双击的.LNK快捷方式文件，都有可能存在安全风险。据互联网文章研究人员发现，“攻击者不断利用 Windows 快捷方式 (.LN</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331296&amp;idx=2&amp;sn=e9c6770a3adddb26864007756ebedede&amp;chksm=bc33b9b0bf604e85cb820e0ac8cd79a5ca0e72972f798c2ba35e6031fdb5706858356545bb82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用物联网漏洞部署新型ShadowV2恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6LfHmt91Bb2raM7HsFzjS1ObU7qfA1icz6lLMnRRUiabd919iahRia71enQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月下旬，伴随全球AWS服务中断事件，一场代号为ShadowV2的新型恶意软件攻击活动浮出水面。该高级威胁通过利用物联网设备漏洞构建僵尸网络，专门实施分布式拒绝服务（DDoS）攻击。其快速</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331296&amp;idx=3&amp;sn=13b59c62185fa7245c93506d7bcf9d1a&amp;chksm=bc54e609da82c1b8154ddda5e3d99b4c9f4ed446716d7a2b6c33f92173559dacdeb00725e78b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[遗留Python包中的漏洞代码可通过域名劫持攻击Python包索引]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic61LQRAN6YgAaJ9KBFSTIcHFJYNrA4KzGe5pBGOF8CcTYUQnJNjrIdbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代开发环境中，遗留代码中潜藏的漏洞往往带来难以察觉的安全风险。近期，Python生态中就暴露出一个典型案例：与构建工具 zc.buildout 配套使用的过时引导脚本，可能使用户面临域名劫持攻击。P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331296&amp;idx=4&amp;sn=ae9c319b0b73d7888bb0e4af8b227255&amp;chksm=bccb7576351c127050f775cc39069dffa6b3e27d5c95e09e7e25e4392c1efe824dc93d5011a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[羊城相会，“产学研”三方大咖共话安全——腾讯安全沙龙（广州站）即将起航]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89v4R5HP9o49fNBDBgGHxCibSmaFECgVvNfnOOHQwNeMggUEeHdMVXsEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型从技术引擎演进为产业核心基础设施，大模型安全也在被重塑。安全不再是可选的“附加题”，而是决定了AI能否在实战场景中稳健落地、持续创造价值的“必答题”。在供应链风险暗藏、Agent智能体可信性存</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=1&amp;sn=38e73557fdc1b38d9332824e2faa9266&amp;chksm=bc22873b5f5b51a4526dc5e40525a7b767e59f6d9e8775446664677545c33274d5a9092a879d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFRZjPSuftCuicBTJNfdK8nUOf4YO6PyDicjMPPaNZKzThCcBQCrzoiayaSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01CVE争夺白热化根据2025年多项行业报告显示，约50%至61%的新披露漏洞会在48小时内被武器化利用。参考CISA已知被利用漏洞目录，数百个软件漏洞在公开披露后数天内即被确认遭到攻击。每</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=1&amp;sn=29a4031501c306fe0b16170d69c0943b&amp;chksm=bc4343596808119bbafa5107564d346605bbcd540cab86950d2a7041f37afc57f2630dc91883&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39eSaoKM67nwQSdxoLfJhQnV9yR5Waj7Pt0p0MfBSDAmEmD9gwZmP9TTfcdiaQS0cvN8RT68iarjA5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现了一系列影响主流人工智能（AI）推理引擎的关键远程代码执行漏洞，涉及Meta、Nvidia、微软等厂商以及vLLM、SGLang等开源PyTorch项目。Oligo Securit</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=2&amp;sn=b944c440a5ca14eb9491a63f7df34466&amp;chksm=bc3af909b03d0370065d355543a7251e7b8f1e654c37f5a66aeb504938fe572481fa89b23add&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[专访国外爆火的AI渗透机器人XBOW：对抗性机器人与自主威胁猎手的较量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39eSaoKM67nwQSdxoLfJhQnPicRbAkv7yS8AKW2WeWXickjRFD3Fke63ZMoAW6Y85E4icGo7suYjVicRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI黑客永不休眠我们的防御体系也不能停歇数字孪生技术有望帮助我们实现全天候威胁追踪，先发制人地发现潜在威胁。在最近的SecTor大会上，我发表了关于主动威胁追踪的演讲，随后在展区引发了一系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=3&amp;sn=20859f4e878e1810f1a199443ddef4e0&amp;chksm=bc0acb397838fb6cdab51c7c604a426c6a9b49da79c813962a27ba7ef2b35e12570810df4e90&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🍮ChatGPT被诱导自我注入攻击，7 种新型手法窃取隐私数据💻W</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=4&amp;sn=196d2937587bc55a49abc9ec4f756874&amp;chksm=bcdf412b46d182cb60170b4d8dea2f56addaec32b903dfca29b71df649509e72199ceac748d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新一代Web扫描器ES::Dirscan：目录扫描快准狠，高价值结果直接提取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFR3ictUHTtlPym3kQfKlCzJ1OtZ4rkVQ1PAapNEaYtGEFGMu1L01MFAKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Web资产摸不清，安全评估全白搭。钻研Rust安全工具的永恒之锋帮会，之前用Rust引擎做的图标化指纹端口扫描工具（点击此访问往期文章），都更新到32版了，口碑一直在线。这次新出的Web路径扫描器ES</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=1&amp;sn=75d0a977ea9e76abb3b6eb061df6fbba&amp;chksm=bc1767506767e6a859c66dfbdb0e7283f59d9701c0e862cc94ed4be2c944b9cbd195d2c47f4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
