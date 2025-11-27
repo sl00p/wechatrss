@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯云原生]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯云原生公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/YiaAFFvTRPweTcRNQkezOm4D93SMhnDqjiawUjyBQwfw0hoSc7NN9kiadWFPclx164vrwjS0HvSErkiaCVlU1TibK2elGOH61GF2XwkeJqSoeLiaQ/132</url>
+      <title>gh_faa30cb2ba5b</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[一图看懂 | 腾讯云Agent Infra解决方案最新进展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gBXSicjuwMvHABOibUvF0icIlZ68G9aiaBTVyIDxSN64VUr2hw6xWxnicVyn5nriaUl7uQiaXtga6fLsiaYMdQIcibvH4PA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527366&amp;idx=1&amp;sn=fed40dfb6030561365a5a42d8b00ac40&amp;chksm=c1b98b5f6d8b9331efb170392846f4bb4956a02f6feabc28101970afd1786f5582f528e55f21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 15:43:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播邀约 | 11月4日，腾讯云Agent Infra解决方案内测体验会]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gBXSicjuwMvHXpvR05yZ7GjKshKT11p8ORZSwFscHibG1CE3EYJQ31bZ6LBC6IqfD65TvM89SsDNv5xbHMfA8XQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>打通AI Agent规模化应用的“最后一公里”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527353&amp;idx=1&amp;sn=1faa94977acd18f2b0556e321543ee56&amp;chksm=c1d490fbd067e0a8f3fd1f64febf9612e799e8a331849b956d1e0192fb25b4366149d089fd8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 16:05:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TKE 算力集群：新一代跨集群混部资源引擎]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/gBXSicjuwMvGuG7noibFUsKDCmNyeoRwnJTicE9A9UziaU7xRHO0qG7ZA7RTIJaxsbp3N3qCgia5bWFwf5VhiagtgrWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>彭芳，腾讯云高级产品经理，负责 TKE 相关能力建设和商业化工作。引言在云原生技术席卷千行百业的今天，企业业务早已从单一微服务转向 “在线服务 + AI 训练 + 大数据处理” 的多元形态。业务多样性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527342&amp;idx=1&amp;sn=ca1928327705e0ab3081da30eb5665a8&amp;chksm=c17a66b1362e7f9bbbfe9c138c328f56a28bd9b82e86b3a298909b1392c7c7f942f06438f686&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 16:41:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

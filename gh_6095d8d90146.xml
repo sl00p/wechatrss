@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯玄武实验室]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯玄武实验室公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/63x5M7aGhGXNLQWbz1dNpCIuqUQArmqM0Tt9rU1FyHy46IRF7JFfybxJvuk0X11xTWxbSiaSTJ3JqDSNC6JlMNPSYRHo3MWvqwt14Yhdibibz8/132</url>
+      <title>gh_6095d8d90146</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/27)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Oracle Identity Manager 存在关键远程代码执行漏洞，可被未认证攻击者利用https://petri.com/oracle-identity-manager-rce-flaw</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960313&amp;idx=1&amp;sn=d052fc5c941e7b20c30459d1853afcb0&amp;chksm=8a7b0602885604395cde3fdfd22ac1e9f0664f895cbd79290d810662561becfbb5ba5a383e4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 16:10:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/24)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用3G调制解调器漏洞实现对车载主机的完全控制https://ics-cert.kaspersky.com/publications/reports/2025/11/20/god-mode-on</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960310&amp;idx=1&amp;sn=3eee52316fb5a71cf2cbc71d74aa2581&amp;chksm=8addb7ca03f3cdf0ba84cb79c59f62d11db7bbf704002b23b6140ee4e168eaa0d834b7c116b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 16:05:58 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/21)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Redis 7.4.5 Lua引擎中发现严重漏洞，可实现远程代码执行与权限提升https://www.freebuf.com/articles/network/451795.html本文深入揭示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960307&amp;idx=1&amp;sn=6a724d1c2676dbecbadf4dad2535fae1&amp;chksm=8a3af2e7a7019a5c7f229f3e8150ed659cef1d2056fc01e9b15e79ed3e07bab43f2478e682f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 10:33:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/18)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Apache OpenOffice 多漏洞修复事件https://sectoday.tencent.com/event/a4QpfZoBvMLTtVn_TTJMApache OpenOffice</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960303&amp;idx=1&amp;sn=9646e987b9b9d3a97ae45865b4f95147&amp;chksm=8ad403fe5e30515624ea0cdcf084acb86bba6ac392cb44ed5247642184c765b2003208b82a28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 16:15:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[量子计算机距离攻破 RSA-2048 还有多远]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dWDic6IAXZsfmUDiaVwATgBiaRMjr6JkqPPk0pnOsPaHA3AWIicAKxklORAa6vMqEeESyQIsALKpibMwPkdARD9wzIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在当今数字世界中，RSA‑2048 与 ECC 等经典公钥密码是最广泛应用的加密标准，支撑着网络安全、金融交易和隐私保护的底层信任。然而，这一基石正面临量子计算的潜在威胁。理论上，量子计算机能够以远快</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960300&amp;idx=1&amp;sn=748b04728f583734a78f43bcb83011a0&amp;chksm=8a699ae462fba2141498541a47cc1356d3904b376a2036eae0c92839c421a3ad54fcf870ac58&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 16:45:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/13)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 黑客利用Triofox 0-Day漏洞：滥用杀毒功能执行恶意负载https://cybersecuritynews.com/triofox-0-day-vulnerability-exploit</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960258&amp;idx=1&amp;sn=2dd48f54ed5a1834deeed1436c532e78&amp;chksm=8a15f103a8a33bc06689aeee85e570e0e956a4c457914661648060482f173844b426ed85401e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:23:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/10)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 安卓系统零点击RCE漏洞（CVE-2025-48593）https://sectoday.tencent.com/event/HkHjUpoBDgvMcds_UUSnGoogle于2025年11</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960255&amp;idx=1&amp;sn=36b5bb0dd29cd1407328503dfd5ef52e&amp;chksm=8ac7133dbe4f45f4574699d872484c15b1def09227dbdc895b4c82cbc00ad38d54eae03ec12b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 11:51:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[我们的AI发现了一个零知识证明库的漏洞，Sam Altman的项目也用了这个库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dWDic6IAXZsdktqicLvkBIsgfEiabxf1WoPTicynd7ZGVz5ibsCBYuJl7H4eC3eGVmKm7QPnaHd05Ht8v2VEpF9l2Cg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 8 月，腾讯玄武实验室的阿图因自动化漏洞挖掘引擎在零知识证明库 gnark 中发现了一个高危漏洞（CVE-2025-57801，CVSS 8.6）。之后，玄武实验室联合上海交通大学 GO</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960252&amp;idx=1&amp;sn=a17f504cfb7c8844f295b02f099aa720&amp;chksm=8aacd2c34a925485f7e696151054b4d85ee18429538c58196142ef1b99d38ead47fa4fb80ffd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/11/7)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• NVIDIA nvdisasm 堆溢出漏洞分析（CVE-2025-23271）https://hackyboiz.github.io/2025/11/05/ogu123/cve-2025-232</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960246&amp;idx=1&amp;sn=39b0d9f440cdf13d99db1e8af6e3905b&amp;chksm=8a1ab55fcc80a7af03c0cb81cb1997bed6c46e86146575258967c295d2aea2d92ddb877830bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 17:22:30 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/31)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 研究人员开发Linux内核rootkit绕过Elastic Security EDR检测https://cybersecuritynews.com/linux-rootkit-evades-el</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960243&amp;idx=1&amp;sn=368135d0fe07b731b331fd58024f3353&amp;chksm=8a20eb6367c8b8a2dc87dc0e9d6119f3347b879a40d5db47bf3c3bfb6fcbec1556b87f039729&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 18:58:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/27)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 杜比统一解码器高危漏洞可实现零点击远程代码执行https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960237&amp;idx=1&amp;sn=68742a97c416c06755eb3de55c6b3c1c&amp;chksm=8a22c21fe00933b49f5ab5f11413c7b829729b5b104b3470a0a6f616aa32260304ffdc371a29&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 10:33:02 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/22)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Operation Zero Disco攻击行动https://sectoday.tencent.com/event/3xLT85kBDgvMcds_eB3OOperation Zero Dis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960234&amp;idx=1&amp;sn=6ef321df60235e4a2c736f8751650397&amp;chksm=8a4c344e75eec8a9175d300abcdc5386f9336d870e9028518dfb5ba2166b05c1d32915531204&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 11:46:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/10/13)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 数字签名伪造攻击：理解CVE-2025-29774和SIGHASH_SINGLE漏洞对多重签名钱包的影响https://github.com/demining/Digital-Signature</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960231&amp;idx=1&amp;sn=8954f0a1ad24c412e206569cb8788697&amp;chksm=8a4786cf28d91e2c45c02e6cbc0df865f0382e0936549f5faf5fb95ca52b5bc749a02248784e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 18:27:36 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

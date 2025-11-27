@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[爱奇艺技术产品团队]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[爱奇艺技术产品团队公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM5ZobQgHT7Gh8yCp9jOYghHWLtC5WhRkRdN16J5sIiaCicQ/132</url>
+      <title>gh_aa1476c2ce41</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[爱奇艺多桌面端统一：Mac客户端架构升级实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/unymlvueOvuQh1h6afRQoF6g97LvjqicJCvg49KD3DPbqgWY85b9GEPtnfAAEXOTSKknC8S0fmCgDGicI81GY5rQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>01#背景爱奇艺一直致力于提供卓越的桌面视频客户端使用体验。爱奇艺的桌面端主要包括：电脑网页端Windows客户端UWP客户端Mac客户端爱奇艺的桌面客户端矩阵演进历程2022年之前这4个端由不同的产</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499080&amp;idx=1&amp;sn=eed666cf82842d6faef3954feea5380c&amp;chksm=e8f51adcbfeb368eb3a9dc49bc809af95ac2e11aeaf94891943b1fada197d9af429430738846&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让AI编程的价值可追踪、可量化--「AI编程效能量化系统」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/unymlvueOvvAajSoxMIibkMpdP7uvZOskdRb3qVwGhvtPAJuucqzwupRoFwbyv6QVl0zaqicibVLNp594zlAl8uYA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>01#背景：AI编程时代，我们面临的新挑战随着AI编程的普及与深入，AI编程工具如Cursor、Cline、Claude Code等正成为开发者日常的得力助手。然而，我们也发现随之而来的是两大核心痛点</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499036&amp;idx=1&amp;sn=293ae1d7d10f361133995137f7c82a6f&amp;chksm=e853afd1b0067d557f0b262d08db1ab52a6b548a4d0a30396a32e9d19e1971ff85fbdb54552a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 09:17:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[告别“玄学”创作，AI重塑微短剧全链路生产方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/unymlvueOvv6wzSC3ZrmA1k34ic9D8RVLwW6uQtMzH1vHfobSG0f3X9qUJPrDlqg2E49KmpS4EhlADmvkV66JFQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>01#1条视频剪5小时，你的钱和时间都去哪了？你是不是也这样？为了追一个热点，对着海量素材反复拉片，眼睛都快熬瞎了，好不容易剪出一条自认为的“爆款”，投放出去却石沉大海。一条几分钟的微短剧素材，从找“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247499015&amp;idx=1&amp;sn=fa82d748304123c5e314bdd4f4a7aa5b&amp;chksm=e83f8e385e21b013ab09fd3c774580a54e5d11a5449edb3aaf3223b85e227fc911247bfb404e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[盘活数据资产，驱动价值释放：数据仓库与 ChatBI 的融合之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/unymlvueOvuMdFrcfAjibsxVR46ib25sBRWibiaIH9JvkVoSPc93dgZXYQHRHMYx5N1Dic6QUkZIOr7KXAzWNesocDw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>01#Chat BI 相关背景介绍首先和大家分享下数据仓库与Chat BI融合的背景，主要围绕BI系统的发展历程、各阶段数据获取路径、Chat BI的优劣势及核心关注点展开。1. BI系统的发展历程B</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&amp;mid=2247498972&amp;idx=1&amp;sn=586bc014e9dc46228c26af8a16cb3f72&amp;chksm=e8336311619610ae1f5ea1ec4fa37c820cef0dd62946b474e0e95c56c9d683f961146ad2a863&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里云开发者]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里云开发者公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/Mic7Gbkx2EebsuLbhJOvLaYfib07Im19oUszgMEnyoDjicVfdj2p2EABuGDZeJWmAt7CZib8icwtutVyiaphvW5N3cibhebzpBfZjUaPMIoHE3YjoM/132</url>
+      <title>gh_7fc9311f04ad</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[让跨境电商“懂文化”：AI内容生成在全球民族特色品类中的实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYCGGpOoOXpJ1mzLIGCaCzB8gicibjMkZicQHQeaAuXkk7GkXKqCicR8iboTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地了一套基于大模型与民族文化知识库的民族品类智能识别与匹配方案，旨在解决跨境电商平台在服务穆斯林、印度裔等特定民族群体时面临的“供需错配”难题。一、概述跨境电商平台想要精准服务穆</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555953&amp;idx=1&amp;sn=7defa9d0b9a7073400cb0b14b1549c50&amp;chksm=e8ab355c8b2a3f9542e9746c76941ca1376c2ffe7242c18dee524b5c8a85027a675a4a52e53b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让AI评测AI：构建智能客服的自动化运营Agent体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYk2ejgqZSAtpJbGWcXR4rYlfvMyU9AoOT2LlJuJNOZANv96nEbpibLQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型和算力的快速发展，促进了很多行业的变革，即使目前AI仍然处于“自主行动”的初级阶段，即“辅助人”的阶段，其巨大的潜力和演进路径却是相对明确的。客服领域，作为最早使用“智能能力”的领域，也随着LL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555905&amp;idx=1&amp;sn=334b37e5292774a97718d60f9b6d81dd&amp;chksm=e86e057d2fd6d9964953b7c7a1e3619e51d102e4176d36687e38203aa111670556c25052a44b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[仅凭几张图片，我们是如何让 AI 自动生成 70% 可用前端代码的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvicvSpe9bxCRZpPbyhtQj1MLibcO47DnAy3HUnMFial3q3adRutqbKdueb8DrbjSFg1ogl6iaLOjdaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统总结了在仅有 UI 图片、无设计稿和交互说明的情况下，如何通过 AI 技术实现高质量前端代码自动生成。一、需求图片开局一张图需求，前端先行！对于一个仅提供几张图片没有任何Sketch</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555902&amp;idx=1&amp;sn=a2489771a6b72690ea701508f6affa39&amp;chksm=e8ccfee79e9cf4469591fce7bb2a712d254d658d78ded46fe9fabdafbdb6cf7c2c3749d646fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Java 正式进入 Agentic AI 时代：Spring AI Alibaba 1.1 发布背后的技术演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLlc4VK3D74sm8IcSGNQuZ1sTkWkLRn9yPfzZJ8hVicD8ssAzXK9hpVaTUYB6kdyicyW5lt22vicUxvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天 Java Agent 生态迎来重大发布，Spring AI 发布 1.1.0 GA 正式版本，紧接着，Spring AI Alibaba 1.1 版本正式发布。1.1 版本是在总结 1.0 版</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555883&amp;idx=1&amp;sn=a1b2999a43b1fa8cb41c81fddd933052&amp;chksm=e8319a219b54fa3cb84780ab885783e20ec5d27f5d243db42fe25aa5cb147f714632011b07c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大厂CIO独家分享：AI如何重塑开发者未来十年]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL3JFpC4wgqiatmujaVibO4W0nRkxgERb4eM8X4V7FLricjCBO6VRdH1RWj0WvaexTwfUo6vdWHrVx2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读在 AI 时代，若你还在紧盯代码量、执着于全栈工程师的招聘，或者仅凭技术贡献率来评判价值，执着于业务提效的比例而忽略产研价值，你很可能已经被所谓的“常识”困住了脚步。AI 时代，技术人如何自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555807&amp;idx=1&amp;sn=7d7b603c85e0f884d26598073c538bc3&amp;chksm=e8a4d249ed70e5fc2016ed6ce6b5d631a9de48082604fe7645b260773c13c55a23ca55edfe34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个销售数据分析机器人的诞生：看 Dify 如何在 DMS 助力下实现自动化闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVlicDnsqzrQ4Vc50JYqlFtUXvYRicOpsmcfNmGxtOmW0e3TzcHrnEICLyrdWoukPgypvBhlibsF8hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与挑战Dify 作为一款低代码 AI 应用开发平台，凭借其直观的可视化工作流编排能力，极大降低了大模型应用的开发门槛。然而，在实际企业级落地过程中，我们发现其原生能力仍存在两个关键瓶颈：代码执行能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555773&amp;idx=1&amp;sn=2297d0caead54312c29169792034489c&amp;chksm=e83e24d53cbc70531563621105dd0cfe5807ab84c1fae91c832b7ff04771bab032d3e0e3d295&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[文章“找茬”神器——媒体行业AI智能校对方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL99nic5J0GicDesxpcl1zdDkoU2Z0YwlIOqfAZaW9h5DD9QyawBbf0Doh5lQBZj8BbsMictjXPTEr4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景年初DeepSeek大模型火爆以后，各行各业都在加速建设AI相关的场景，媒体行业无疑是大模型场景适配较好的一个行业。大模型凭借强大的内容生成能力，可以深度渗透内容生产的全链路环节，从热点事件的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555710&amp;idx=1&amp;sn=5cce8e2fd3b7c2f149ec887c853960cb&amp;chksm=e8ad929efe6321222525ddb9a33152854e29a3fe9137ea30149c8847c79e9d7c3adc7805843e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么 LLM 搞不定复杂任务？ReAct 与 Reflexion 技术综述]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKyOLK50D5X8j93cRAicEC2x698VMbPAjNUOx2OxDsKq4MicawW7NmX1Vm2zGKCmLzibxjA0YjvDcgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能领域，特别是大语言模型（LLM）的应用中，尽管模型在许多任务上表现出色，但在处理复杂任务时仍存在明显局限性。大型语言模型在处理需要多步骤推理、实时信息获取和动态决策的任务时，常常面临以下挑战</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555651&amp;idx=1&amp;sn=5a1b76a316c8043c9203d0f068853d60&amp;chksm=e8454ad3937fb63c442e9db36145bb217693f64d83bd2482d3bb7a517829cff40a10899b9ee2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agentic 应用时代，Dify 全链路可观测最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKyOLK50D5X8j93cRAicEC2xSB0zicTz19jUkSYvDmz2pYibtZOdgkbafj16NqA2icE5lVUcYJqtwxtFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述 Dify 平台在 Agentic 应用开发中面临的可观测性挑战，从开发者与运维方双重视角出发，系统分析了当前 Dify 可观测能力的现状、局限与改进方向。前言Dify 是时下热门的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555601&amp;idx=1&amp;sn=eeff18259de7caf8d2226f640a451ef2&amp;chksm=e87672ee335833078f69396e21e88b6fadbe98ee6f55d8fc71a852d084d77acd63dbee9f3475&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[打通出行最后一公里｜高德面向地铁场景的多模态智能图文引导系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKMmduNeq3rIbEG21IDAW2NhiaNpJr5Z3MzV7SDzTI2crlv9MjzpB4DjhRPHhvPtMA1bkSZGxyibfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景你是不是也有过刚刷完进站闸机，抬头十几条指示牌，一脸懵；换乘只隔一条站台 最后走到腿软还绕回原点；地铁口连商场没指路牌，硬生生逛成“买单人流”。面对日益多样化的用户场景和亟待提升的用户体验指标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555555&amp;idx=1&amp;sn=d7faff2c470322a62839b2ad9833f44a&amp;chksm=e865a17277189cfbd60c688549b7217ac2fcdd0598f1b49316cb6e9d73f7555499c29cb26545&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJWIo1rKgBZ1eAo6RInhAHibHCUMBqzycT1wBhrsiagpbOglG1zVxsibactTKBjJLfiaHMdqjGlSgg3lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而来。它是一段跨越二十年的技术演进成果——从最原始的生成器（gen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555549&amp;idx=1&amp;sn=cecff32747d0c37e5fe2e09d4207d1d5&amp;chksm=e8f149033f8001dd1b7082d383f731b2bbbcdfaa0a4295a116bde1caacd1ed53f57f970c0437&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从代码生成到自主决策：打造一个Coding驱动的“自我编程”Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI4wukLHsIGET73hnWbdwqLZ5iaGeic3Q0iaLy0SkkFJy8iadupdcLORWBZlkQtwQFccse1a1G1Ak843w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜残风、栀七、荀易、辉酱在探索 LLM 应用的过程中，LLM作为 Agent 的"大脑"有着无限可能。其中，"代码编写"已经成为了少数几个成功大规模落地的场景之一，这让我们不禁想到：既然 LLM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555366&amp;idx=1&amp;sn=28392d99d449935875c0be2d02ead515&amp;chksm=e8f068908021b46c6793e74bc4025e5ae0d382d40b4ae1f24082b1746deb7f90addbf7fa6521&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么说多模态是推荐系统破局的关键？来自饿了么一线的实战复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJpdGoibibVr2haZJJ9RLNPnQ5rlygn3XcGFEoU8K29Mw9PSPkqiaxUkqhpjuox3bBnOrjq1uGkevYgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目组｜饿了么DIC算法与搜推算法团队引言推荐系统作为互联网时代连接用户与信息的核心技术，正在经历从传统协同过滤向多模态智能推荐的重要变革。随着深度学习技术的快速发展，特别是大语言模型和多模态预训练技</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555312&amp;idx=1&amp;sn=69b0b21376ebed84fc230f0758e77a4c&amp;chksm=e80f4987dc8343360c1f828d8befb0092d652bc1dacfb0f97c406fa82180aad0ca220fe63898&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码采纳率如何提升至50%？AI 自动编写单元测试实践总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIL4icxPlCZgWGQjUrrPSibOpD21Jdzs3bqT7hA6WGslTszTHSM3jFPOr8B5tcd427QdJeC7TSyGPkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>零、一句话概括借助 Aone Copilot Agent，通过精心设计的 prompt 指导 AI 进行测试用例的自动化生成和代码修改。从实践来看，AI 代码采纳率约 50%，要获得更好效果需要持续优</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555282&amp;idx=1&amp;sn=736db5cd8e22ab829b135721b8a2c49e&amp;chksm=e80dc57bb888185c8d4736c68e80b7286c84e4f41b1e54a028fd0a5d5dbc900f04fe1b985af1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重构一个类，JVM竟省下2.9G内存？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRaGGf37vwU9wXZ2Y6kleITwBY0J7Pt52Acldnp4bLvAUKc8WXq6dzGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、优化效果仅重构一个类，JVM 堆内存直降 2994MB（≈3GB）——从 3205MB 降至 211MB，新结构内存占用仅为老方案的 6.5%。这不是压测数据，也不是理论推演，而是生产环境双写验证</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555256&amp;idx=1&amp;sn=70304b2b14ae559993735d47434d7a5e&amp;chksm=e842040b32cc461484c6577d842eb4d7edaeb724d10141d2119ace4e668647e1da6953936d35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI时代，我们为何重写规则引擎？—— QLExpress4 重构之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRBicqengrdhpcvya2cSh5k4dPh8V7L4icSic8XVoibZd2axac4bAsH88Bzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读AI时代下，规则引擎的需求反而更旺盛。QLExpress4 通过全面重构，在性能、可观测性和AI友好性上大幅提升。“都AI时代了，你们这些人怎么还在研究规则引擎？” 无聊时朋友调侃道。QLE</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555192&amp;idx=1&amp;sn=3d3e16c5f0c7c4cb62c14679065827df&amp;chksm=e805a84c2f6cfb83ec163c1c55b07f3b21d9cd23897a688f1870d391239c58c101ffecf14277&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TinyAI ：全栈式轻量级 AI 框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKmXFmxGp8iaXicZz6nibiafA6bOHqSpiaoVwibmTnLrecRdotNlZRcLjenAnlxJ8jWDy4auqRmrLG7F4Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个完全用Java实现的全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。写在最前面十一期间，用Qoder体验了一把vibe-coding，喝喝茶动动嘴，将两年前的开源项目（从零构建</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555133&amp;idx=1&amp;sn=8741d992348c64e2df3956c267d7002b&amp;chksm=e854a34166db1fd38989f1b1e3e3898e310e891aca816ce6e468c3180f3b83fbe82a24c8f7e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Midscene.js 实战与源码剖析：如何重塑 UI 自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7VTtFgicoGIcSW6HDI9RzqxUpqHIIduDSgSJ8rEJAM6iaqtrmeiarexEKDgaiaHTia1tcHlap45KDic2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统性地介绍了 Midscene.js —— 一款基于 AI 的下一代 UI 自动化工具，深入剖析其设计动机、核心架构、工作原理及源码实现，同时结合业务场景落地过程，分享一些问题总结及落</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554993&amp;idx=1&amp;sn=0092b25bcc778e273bdbf8e24af9008e&amp;chksm=e82dc196b753a41b5e11a91b222faf8d798ef8fca6bf138b97449921ee8a443a8652aae471d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ReAct范式深度解析：从理论到LangGraph实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJGgVHb2qYj380LphkDSzoyCHiapHzMvw4micgIzAQQL7QgXB9ia7ibujyGKG7ibe1xuv5Adibd9X1liaabg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言最近在做智能解决方案系统时，我遇到了一个关键问题：如何让AI在复杂任务中既保持推理能力，又能有效执行行动？传统AI系统往往要么只能基于训练数据推理，要么只能执行固定流程，缺乏动态决策能力。ReAc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554893&amp;idx=1&amp;sn=36c4ce18c711a5f430aa95e4b0345a5f&amp;chksm=e868731da215adc9a67b51efcfe69e5469f0f16f590f08f9b3670a19b9d2c1c885d93501aa93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何让Agent更符合预期？基于上下文工程和多智能体构建云小二Aivis的十大实战经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naITrnxchK9FKUyezTIjEwkDyiciaYXjcDPJcaCI0dgxb21M8vGZdAHeY3ztayzCZJhichRGLDCSibNv2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景今年我们团队重点投入在“云小二 Aivis”项目中。云小二 Aivis 是阿里云服务领域的数字员工，它标志着我们从传统的智能辅助客服，迈向了更端到端 Multi-Agent 的数字员工能力的全新阶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554851&amp;idx=1&amp;sn=00e4cea8a7d444e07378e2143a3359b3&amp;chksm=e804f2a14a3d942471a020ee9f3bfa0efe42a010a231eb77a8e924b1e1e503327b13ca015794&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让Agent系统更聪明之前，先让它能被信任]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKLHC0gED1ia5VK557sYfvGaLnMVH9xXickn3SHKHJoDufskgFC4siaia0BPpA0stshZ7JibxGJQzSh2Yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当我们将所有希望寄托于大模型的「智能」时，却忘记了智能的不确定性必须以工程的确定性为支撑。一个无法复现、无法调试、无法观测的智能，更像是一场精彩但失控的魔法，而非我们真正需要的、可靠的生产力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554817&amp;idx=1&amp;sn=c97362960549e6734e0b487f99ee42bd&amp;chksm=e8c8417552d851e688ebf91005805e0c15a8fde95aa6a97531e2ba9425d151969df529757084&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在性能优化时，如何避免盲人摸象]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL6eiaesdosIbIW646XskBAjRCAMEN4sxOGZDeWsShbZF7CunXVaXZId9kf1KxLXwlt0lkyicREom4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>盲人摸象最早出自于《大般涅槃经》，讲述一群盲人触摸大象的不同部位，由于每人触及部位不同，却各自认为自己摸到的才是大象的全部，并为此争吵。比喻对事物了解不全面，以偏概全。过去一年，一直在想一个问题，平时</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554656&amp;idx=1&amp;sn=cc11b7f43b3fdb20c4e88f59a3665498&amp;chksm=e8ae87a8d99a33ca2388d327e461be10e83e190749dfbc21c75f0c23ca7bd397237ca7842a6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于Spring AI Alibaba 的 DeepResearch 架构与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5VvjaB8WIFKJXXFV9Y4FVGHFVicAFPrKK3LcszmBB07IBXVmFUwlhUWCV8lZLXtG1wVCJ1VEdo3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：Spring AI Alibaba 社区贡献者一、引言与概述我们基于 SpringAI Alibaba Graph 构建了一套 Java 版本的 DeepResearch 系统，实现了从信息</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554604&amp;idx=1&amp;sn=5a851aa8e6a2e1551db65e461a2b4207&amp;chksm=e8c509d5a258804dc9e0be1761d65f49fae1d4c7596cd4990aadc280183c02d1027003ff2c42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI出码率70%+的背后：高德团队如何实现AI研发效率的量化与优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFFLP48BRaFHWfzK9BC2pRGATw3XNmHHGlgXvOJ1fSJwjkpEHcFCZ2bg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统阐述了在AI辅助编程快速发展的背景下，如何构建一套科学、可落地的研发效率量化指标体系。一、前言随着AI技术的快速发展，AI辅助编程已成为提升研发效率的重要手段，也是不可逆转的编码新方</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554539&amp;idx=1&amp;sn=04da5098f4cc1bddd866aec87af6b931&amp;chksm=e8c69e5f4a95c5906afddc26d5ecc1e024dd5b5cb334b3eca1c2c516020ff96f6df8b00d8655&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[浅谈上下文工程｜从 Claude Code 、Manus 和 Kiro 看提示工程到上下文工程的转变]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFY8I4YsKbtkFYI4l3SAgtKLicmuJbW9g1iaQXrfT8RydiaoIRMJxdlzKZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言随着 AI Agent 的快速发展，一个新的名词「上下文工程」进入大家的视野，很多人会好奇它与「提示词工程」有什么区别，是又在造新的概念吗？我们今天就来聊聊，究竟什么是「上下文工程」，以及它是如何</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554461&amp;idx=1&amp;sn=e52d01dd0832ede6a6cc146c152b39a1&amp;chksm=e854f3fb96030deca675f98a14449484fd8c6821fa540bb514156e9bcaf2045bc090badfa5a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《AI大模型时代老板必修课》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5VvjaB8WIFKJXXFV9Y4FVCMv29oFA8CciaFMJibZa9rEgrSIBYFwPiacNRibEMIWlkdd3Z3LOJumZCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云智能集团副总裁、CIO 蒋林泉，过去几个月和近百位业界CIO/CTO进行了交流，共话大模型落地的真实经验。钛媒体联合创始人、联席 CEO 刘湘明则通过百余份调研，试图厘清“AI 落地的十个问题”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554319&amp;idx=1&amp;sn=3678174e7a17b91b7223db406aa71e73&amp;chksm=e89885bdf5ba051860a3e8f48c1d30bbe4d9c613d6dee9d164b8d5170ffd69408f3664d4b7d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从0到1：天猫AI测试用例生成的实践与突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJw8bOfuS7Zr2JEdVHKRxCnqSNdPJQVOHPxw7HX4yl3fhatgXU4nsUHQe5EAT9AMd0UtaeqsFqN8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统阐述了天猫技术团队在AI赋能测试领域的深度实践与探索，讲述了智能测试用例生成的落地路径。一、背景1.1 业界分析与思考随着大模型的不断演进，测试行业基于AI也在做不同程度的探索，在a</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554220&amp;idx=1&amp;sn=955f11ce394be7d6ba506a537bbcff0a&amp;chksm=e8dd63ceea7bc4c0917e8713d054774843f37c5e2de82bbfca4364af4659db2deda7ebb95677&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Coding实践：CodeFuse + prompt 从系分到代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7yRmHpGconQ3FnODjU9s7pNric8ibXkVg2QjGHSl1XAP7HBluQLA8zZLv0cDe3mOtt8IiaKlSbJe6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务场景：后端JAVA业务代码生成。AI解决方案概述：从系分出发，解析提取其中核心内容，并生成任务列表，再让AI工具结合提示词完成任务（生成代码）。工具选择：IDEA CodeFuse插件 + Cod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554158&amp;idx=1&amp;sn=3ab0a266ec0c7463f3b92c5878aadeaa&amp;chksm=e863a36753ad60c9a129f3b8e781ac677a75f9ea84d96fb1da0125b82e91473d66eea248667a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[C3仓库AI代码门禁通用实践：基于Qwen3-Coder+RAG的代码评审]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naK0tic9iaaoDTGmBAfGKKc3woMRq2yibCX5wublXksPWw7ib4ibRhOt8pSOE8xLncxcBIMXXqRXia5eruBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍在C3级代码仓库中落地LLM代码评审的Agent实践。针对C3仓库禁用闭源模型的安全要求，基于Qwen3-Coder、RAG、Iflow实现，通过百炼Embedding构建知识索引，RAG</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554092&amp;idx=1&amp;sn=5a15ff141506c3c74576940486f452c1&amp;chksm=e853bc8794e2d4a5ea56f7ebf14e0ee344e133ddd74c67fdec4208acf24589cc3de76e2ed15b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【智造】AI应用实战：6个agent搞定复杂指令和工具膨胀]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKkuDtee0OYXVUEjQ11Yaowbll43Khmgvf62RU1Svc2uNrwQJ4skV9Z1SECYiaSSmsgxIWiblOhYORg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言首先需要说明一下，标题中智造特指联调中的造数，是的，就是联调造数这么一个特定的场景下，我们采用了多个agent协同完成。联调造数是一个非常典型的AI应用场景，其背后是用户丰富的语言表达、复杂的业务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553898&amp;idx=1&amp;sn=01beae24939b500244b38fc7563dc68d&amp;chksm=e82fd5535300c85ba4f89923ef8b093a20e777d79695d4ee6355c15fff71661212c89c5d6b5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[揭秘 Claude Code：AI 编程入门、原理和实现，以及免费替代 iFlow CLI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1dogUNgKSzrqO9nTeAlhpd4shZwAIlibttRztFrrC0BZs5UmbTMllTicgBwOTlI9Nb2V6aCshR7GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文面向对 AI Coding 感兴趣的朋友介绍 Claude Code。通过此次分享，可以让没有体验过的快速体验，体验过的稍微理解其原理，以便后续更好地使用。2025年最热闹的非 AI Codi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553845&amp;idx=1&amp;sn=a0ae2d18311c5a6aa1d99b7d1768da1b&amp;chksm=e8d37f3c6e5aca85e5bccb37bb8d6462bca19e1733f1f658ca3f91fe5079fcbe552036b1e702&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[万字长文｜大语言模型结构化输出（Structured Output）的技术原理和实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltcJC7u9oBKzorAuyxB3HQh8eOptZZunpGk061gicIkrS8j6uaIFxA6ghg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文详细阐述了大语言模型（LLM）生成结构化输出的技术演进、核心方法与未来趋势。传统上，大语言模型（LLMs）被设计用于生成自由格式的文本。这种输出虽然连贯且富有信息，但缺乏严格的结构，导致</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553794&amp;idx=1&amp;sn=4d87268b65f2c1a968861d54731515fb&amp;chksm=e8d7119d8b1d27e1c0270db46708bf92e0feca12077bd037066b5ab4028c2ad61ebf47210952&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从人工到AI驱动：天猫测试全流程自动化变革实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJPWBYsOwjsHfTJ1ian5ISo8E8lLAImeaibC3geK2O4HYFdhOSWTaY8HfbMZ40auLWicPS30oJF9vlzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI时代天猫技术质量同学在质量保障方面也不断探索AI在测试全流程提效的落地方案，传统测试工作链条拆解为“需求解析 → 用例生成 → 数据构造 → 执行验证 → 对比校验”五大核心阶段，而我们的目标是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553721&amp;idx=1&amp;sn=514effd96bde9974bd83937ecfd1f7e4&amp;chksm=e8a59f3d907567d17ccb0514f96bc2a4b4afe582d732a20dabc4df8ca29514ff9b1172b629d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltchMmr38KcUncRMOibbYHfKSc8zO5EMsVlbzLMvQ1AWic22EjOCFZlaic0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读淘宝推荐信息流业务，常年被“需求多、技术栈杂、协作慢”困扰，需求上线周期动辄一周。WaterFlow——一套 AI 驱动的端到端开发新实践，让部分需求两天内上线，甚至产品经理也能“自产自销”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553658&amp;idx=1&amp;sn=f59f27137921f17aba0010271b26f45f&amp;chksm=e82b174523b6019b5e75cde9fd839954caf7c98cc58b62d00e54ac9b42121d3592f735790c17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从6人日到1人日：一次AI驱动的客户端需求开发实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKLE4Nh7Wx8TDMMfgocnFW4moKVWAwxjyHhydheicz0JQ2cL4kJSH0bIiaBIeeNGoXqV5rWrQgJaLNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读揭示了AI Coding在复杂客户端研发中落地的核心方法论。引言随着AI 能力的逐步强大，由 AI 来完成部分需求的 Coding 工作，已成为一种必然技术趋势（微软很早就号称 30% 代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553580&amp;idx=1&amp;sn=53b88213c541684ec16eee965024d952&amp;chksm=e8abfbe9da4d45b683054552edcc1db8fe951da9aae95fcd8ab9da2f2ff8c4df2b08f652f800&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[提效40%？揭秘AI驱动的支付方式“一键接入”系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVU2Cd8r2WXrUSLzuZz7LfuU24ImJiaK2JskBJgsX6UY8SGUejYl3KDZGaEjXCQCzfVpRU81S4NZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与挑战1.1. 问题陈述在跨境支付场景中，收银台需要持续接入新的支付渠道和支付方式以满足全球买家的多样化支付需求。然而，当前接入流程存在以下痛点：虽然代码结构已高度模板化，但研发效率仍受限于“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553555&amp;idx=1&amp;sn=710a6d6c32e8a8ea8c802f6dd94b6f5a&amp;chksm=e88b4ec130a6d98ae8b531dc734110097d3177d62555c2824bc1e99576dc580cbb1f3376ea60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJXfnT1osPI0Udr0lMvYU0biagBrQVBlWpd11aagxTozM73zf9SXJs7ibhUB3nOIQoUibp1HnGdxcuAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、故障复盘的业务思考技术支持工作的本质目标是帮助业务方做好稳定性，提升C端用户体验，主张blameless的复盘文化，复盘人心里坚守You can’t "fix" people, but you c</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553554&amp;idx=1&amp;sn=83e85ef49ff2879523ece47e020b8b24&amp;chksm=e8e7414837232aea7a265cb67ea701596798ae8453203e16ca61c4318b78abb162cd7655303a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

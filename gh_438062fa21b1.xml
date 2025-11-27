@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里技术]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里技术公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/1gEOsg1tm7ThNJ0Dsq4RribmTfBdZIErwhiaCsaLP2J4QhZicSUuXmVlibibobC2wrTs2zkBxTiaQp46HkJIEa0eibowKLVUplpP6GbIfLE1t1mU8k/132</url>
+      <title>gh_438062fa21b1</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[一个销售数据分析机器人的诞生：看 Dify 如何在 DMS 助力下实现自动化闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FBz5DiaKf39Jf8hVMUoOke4ibNtE0icAgrVC9JxTiaeHx8librpg6obgicDichaJpLPtyTCDibQXtTfHID8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第130篇文章（ 本文阅读时间：15分钟 ）01背景与挑战Dify 作为一款低代码 AI 应用开发平台，凭借其直观的可视化工作流编排能力，极大降低了大模型应用的开发门槛。然而，在实际企</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508994&amp;idx=1&amp;sn=3635952b151104fa6e30b814c543e6ce&amp;chksm=ce31854f46f03924d73a761a6f31c84301ae7da0367938ad575defba775771a928f2c32e3b4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AliSQL 向量技术解析（一）：存储格式与算法实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FcqX2Kdic25WricQGUNwS9fyicicSQj4T2ZOo33iamPGRxQhFOM9iapavia7vWeQz6DbBhYXtfRh1KX56ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第129篇文章（ 本文阅读时间：15分钟 ）01背景随着 AI 与大模型应用的普及，高维向量作为表征复杂数据（如文本、图像、语音）的关键载体，其存储与高效检索需求在推荐系统、图像检索、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508987&amp;idx=1&amp;sn=e4046f4b5317aa05875c121c76f6f856&amp;chksm=cee8afe8ce1fa4a79d4a60f54aef407c794959bc3311282096cd3fe173d413abbd28db465607&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30H282xzxcdaWQUSyl8DqnZGV3J9p0TGscnAibt1AIrBT4N8jJQ4XSawolibI6tibdoMZibhc18JoKS2JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第128篇文章（ 本文阅读时间：15分钟 ）01前言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508957&amp;idx=1&amp;sn=fa5d5ecdc9306542d31cba236d3fcecb&amp;chksm=ce02f75c03b5ff079358074555cfc7390e0743ef800c9d9f236b0ead28383fdeab7eb9201386&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DMS Airflow：企业级数据工作流编排平台的专业实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HTMrsSBzp9Y2cK8j7a9a2vIURIL38c20qcNlsOJJInicjRH8AlclKvRTKM5CVHhCrVnPp5YNMrm7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第127篇文章（ 本文阅读时间：15分钟 ）DMS Airflow 是基于 Apache Airflow 构建的企业级数据工作流编排平台，通过深度集成阿里云 DMS（Data Mana</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508951&amp;idx=1&amp;sn=70b5087c0a9bcaa64986dd8423e85c6f&amp;chksm=ce8bb9e1c3214dabfaea0da9ce7ab933173848f10317488e46ad7eac30b8f3a68b2fd9907474&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3A大作！阿里ROLL团队从基建->算法->机理，推动RL4LLM全栈协同优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30EE9Vx2JABiaSStT2XnVSVJUhicwkrKItCabpoOt2ygdCn5ywmmhGlN7CYX872C2VwCOCUkwwBSWK6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，阿里巴巴 ROLL 团队（淘天未来生活实验室与阿里巴巴智能引擎团队）联合上海交通大学、香港科技大学推出「3A」协同优化框架 ——Async 架构（Asynchronous Training）、A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508944&amp;idx=1&amp;sn=d0647c36272e9f4c0b8876f66c8e09e1&amp;chksm=cea258b4708ed2c6f731d44c469e4c439ff5d85373013ac45240ed4f820534f8667da268e8f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI时代，我们为何重写规则引擎？—— QLExpress4 重构之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GTiby616AUUKIm9Qfe20XLwuIpmzIMQBx4ISfX6mF3CicxZeYIPRy8QTkmQ9MPiayl7nRM3yD2n5jHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第125篇文章（ 本文阅读时间：15分钟 ）“都AI时代了，你们这些人怎么还在研究规则引擎？” 无聊时朋友调侃道。QLExpress 是 Java 嵌入式脚本引擎，可以很方便地集成到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508938&amp;idx=1&amp;sn=24d69157768ecdc6512cbad48fcf7b39&amp;chksm=cec5945cec97d94e25199bc7ffe1672dbd2926db8ae928b3b6be06050b86515d367fc2dcbfda&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首份《AI向善报告》，都说了啥？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HSbWZ3uyByotF0cUo3oFib1F7libnvlXBSq84rDWicdXk1YRkOxLTMgKJrISm71t6Jib4gibaTYjXDZsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能浪潮奔涌而来，成为继电力、互联网之后的又一通用技术革命。但也给出了新的命题：AI，该往何处去？ 11月3日，《阿里巴巴AI向善行动报告2025》发布，这是国内科技企业发布的首份AI向善报告。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508931&amp;idx=1&amp;sn=261dd986f9f2c7226498f0bd892d71ee&amp;chksm=cebd935ed543d8fbf34db680d99dae063eb845307b5660fad174b1a6f5ddabaeb43ae7e00947&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何让Agent更符合预期？基于上下文工程和多智能体构建云小二Aivis的十大实战经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30ETeTr4X8d224VFwYriadfPiczpGhQicpHKmPJ9WWJZGhb9DdlA8O2DpbYXFB5JgBB0NRBK5H4FP2zibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第123篇文章（ 本文阅读时间：15分钟 ）01背景今年我们团队重点投入在“云小二 Aivis”项目中。云小二 Aivis 是阿里云服务领域的数字员工，它标志着我们从传统的智能辅助客服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508925&amp;idx=1&amp;sn=0ec9795dcce281e17cbd5581856f51ab&amp;chksm=cee2ea0ed8f60d84893293d128f573ec63b3b90fd6f0ebf0d86d804ce2a5a9d6a581356c9d82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何构建企业级数据智能体：Data Agent 开发实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HMYO8wW0E5mI8tuT2aDibKbHuUHRsmdBNplcw3icvlZp9ic6G2DA04yZXjwibD3mcRS3hzvw4Bks4rBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第122篇文章（ 本文阅读时间：15分钟 ）01前言“What I cannot create, I do not understand.” -- Richard Feynman2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508908&amp;idx=1&amp;sn=0a38428f4b096c812a78becc0ff06dcb&amp;chksm=ceae2531dd7045831b6804d996dc10a1eb85560b70a515cda0a6ea5c5f64107598a28e6e2f2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从0到1：天猫AI测试用例生成的实践与突破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FOBerQym8CMLUNib1AmGic0BM9JIJCZDKeRoLQia11wZQPhbXDicLoqRryDsX2MBGczIpUCaqvP0O8jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第121篇文章（ 本文阅读时间：15分钟 ）01背景1.1 业界分析与思考随着大模型的不断演进，测试行业基于AI也在做不同程度的探索，在agent智能体生成方面，基本使用的是promp</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508899&amp;idx=1&amp;sn=34e59a6273ba7d0bdcbf6b4d53f03653&amp;chksm=ce5bfa3a35f33d0ed501ac55df72576c552c1f8e97a19fabf6a9b3319c832120905f78096194&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FzofTrxNKb2PLl5jPQ4cGrseX75yIEJiaViaZpONG0NCNbpkiaibjMPg0rSxY9GEqmTa5UtbV8t7bzkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第120篇文章（ 本文阅读时间：15分钟 ）本文整理自阿里云智能集团高级技术专家周礼在 2025 全球机器学习技术大会上的精彩演讲《Apache RocketMQ x AI：面向异步化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508890&amp;idx=1&amp;sn=5b08490308cdf32cc37727881aab25d3&amp;chksm=ce6ef988524f04354465d1d27328f8a22205d663569fd74733af005cb6dd207e74d9590c758c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高德车道级地图：从感知智能到空间智能的技术跃迁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30EPM2vNGmLoalOzSVpzo1MibSdorVoHYfK9MKQmTBdrpM1n5MicTsx1KBRySsqoHop3EApwJ5c3C48w/640?wxtype=jpeg&amp;wxfrom=0"/><p>车道级地图：解锁精准导航与智能驾驶新场景高德地图作为一款国民级的APP，为用户提供一体化的出行、生活体验，是我们最大的愿景。在瞬息万变的交通环境中，“该走哪条车道”曾是驾驶者的普遍焦虑。高德地图以车道</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508883&amp;idx=1&amp;sn=e7e6f80cb1c0c2e40cb2996bf91ee889&amp;chksm=cefc3b4c545f7bc812b78bbfe48f0631b209b344ae4fccca347f5fa82cbb74155494318b46bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从人工到AI驱动：天猫测试全流程自动化变革实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GGVO4GOVfRYwPicAwwIKU0dCmW86dQlpFPsgxu9852acD2GRCYrCsaxp4hXkVNkichSIobBrolmNlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第118篇文章（ 本文阅读时间：15分钟 ）在AI时代天猫技术质量同学在质量保障方面也不断探索AI在测试全流程提效的落地方案，传统测试工作链条拆解为“需求解析 → 用例生成 → 数据构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508877&amp;idx=1&amp;sn=beb30a660acbe106acee7f3182344fbf&amp;chksm=ce3fa34997465f7cd4e04909a58732764ef0665c16a0fe58c30f33f8ec22baecac79d00f3977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Spring AI Alibaba实践｜后台定时Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCRea9SPPsJetD9Dj35VJZCu3ZJRNbe0dSjXsZ2xGNicE5BY1xiaPpoESAKMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第116篇文章（ 本文阅读时间：15分钟 ）参考Langchain的这篇文章[1]，面对目前我们常见Chat模式的Agent形态以外，还可以充分发挥Agent新的运行形态：自主持续运行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=1&amp;sn=87d6507695c6cba045838c1f82ecd28c&amp;chksm=cece7934c3be4f72f354514c199e51dd627698b114abf6f2562bb2034cf34e2ab7c149b2d895&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI算法开源｜Logics-Parsing：攻克PDF复杂文档端到端结构化处理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCReaeVQfOLO4FbWnwXbJTRtHkmocbNoowMumlD0bHjevSrtoeBvJRDAu3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>在工作学习中，我们时常有要将图片或PDF内容提取出来的诉求，而当前各工具的提取结果难以令人满意，例如：· 手写的错题整理成电子笔记· 参考资料中表格放进汇报PPT· 化学等专业领域论文编辑使用当资料中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=2&amp;sn=5813230b041d34229b9c86a2944c93b8&amp;chksm=ce51c64970e7409a2f45923256d66121f341f68c2637de4b0b16299dee26f1ebf5d22b329a5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qoder + ADB Supabase ：5分钟GET超火AI手办生图APP]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GQNTau4eE41awIgPdWnVQc5F4EPCjAhSJ8dPx8mFlHxyDl9AjmcbRLAUfMMqiby5TZycOAjPy4GhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>视频效果：01前言在AI原生应用开发的时代，传统的后端架构正在被重新定义。本文将带你体验如何使用 Qoder、阿里云ADB Supabase 和通义千问图像编辑模型（Qwen Image Edit），</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508855&amp;idx=1&amp;sn=41170c2eb4d47db741341aaa23362cfb&amp;chksm=ce576a99a8b8afc9f24a83ae0eb58b50c1a890c06f69732318609f2facd909c8f6cb40161113&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[阿里云发布《游戏行业云上技术服务方案和实践》！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30ExD0TcTG41QAjOYFNTBDOZGyR1lfXyaiakeia6kNOAnkMN2ibadvSo2Vg28SPneBrGPVCYSSyds4V6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第114篇文章（ 本文阅读时间：15分钟 ）游戏在中国的发展已有30多年。上世纪90年代，游戏以客户端游戏和PC游戏为主，部署在IDC中，架构相对传统和简单。2007年之后，网页游戏开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508855&amp;idx=2&amp;sn=e0ffbe820b7a2b13485e4c4a892fa2bf&amp;chksm=cec0a89e07b74d8eefcb161f669075cb7e30f3dc26e6d2bd6d468f5c58a3011477e889476191&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源｜Python 应用往微服务迈进的 1*3 种 Pythonic 步伐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30Gkma46C30F2hfE4dduiaXk6DeiaabVu1vS6vyPa6pbB7xd8CzJyBePtPOvwCM3k3Uqhka7UBN8zEKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第112篇文章（ 本文阅读时间：15分钟 ）在微服务架构占据信息系统应用架构主流的当下，Java语言体系凭借Spring Cloud等成熟生态占据主导地位，而Python开发者却常常面</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508842&amp;idx=1&amp;sn=127482f1cc8065e3c29be8e5348be74a&amp;chksm=ce04b64eff96420b725192af26fdf616b093133d2629d0e3a910e702aa46694a13fbf0c32144&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何将 AI 代码采纳率从30%提升到80%？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30F6sHWmre42D4Y5XPEVatClD0PRfaf6BVXD65vYXBecVJCBKnib6QNQxGYodcKClngZBP6vU8Kyo3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第111篇文章（ 本文阅读时间：15分钟 ）01为什么 AI 编码采纳率不高？目前尝试过不少 AI 编程工具，重度使用过的包括 VSCode+Roo Code 、Continue、Tr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508834&amp;idx=1&amp;sn=3d54a4ab09c7d1361fcfdaa539121e03&amp;chksm=ce17d527756c7562d4c30f2b3994a8e406c6b1c902ddb4a7f4747b4e3f24a71eee0ba8dcc02e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Oct 2025 09:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

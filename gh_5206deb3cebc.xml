@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[天御攻防实验室]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[天御攻防实验室公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/OE1thn2CfHWbKKpqGoRIEBcJ3pjcgJwxxfyDMvQuhkCvXiaNib0b6VW1yUdIkSKdvDMTtj6EejGPyaRTKiapicGLvRZQYBGNk6AjaNrgHFlWWPc/132</url>
+      <title>gh_5206deb3cebc</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[我领导一支经常成功攻破财富500强企业的红队，欢迎来聊！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBA2icgiaRibShCibByC45icGJGEaI1TJMgjOibMzbQXM9kIcaLlrR66dwEuXZ0lRNsJjbfE1EUiaicEjHtosw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是 Jason，在 A公司 负责 Targeted Operations Red Team。A公司 是一家由 David Kennedy 创立的端到端进攻性安全公司，总部位于美国俄亥俄州克利夫兰地区</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486614&amp;idx=1&amp;sn=90d73a8d0d6ab02739a466d354bf80ea&amp;chksm=fa43e0a3deda8383e9439f7c7afc3bd7ff6a273f00cac6965b1001423eafb8e9af9c6a010387&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 12:40:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[几名前NSA黑客讨论进攻性AI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBCJI9zwwkCKfm0nFxahrztSSVUwicGGJ2okDCXsLdof1bphSM2LiaxL1NIh8aLqJibeib7UPiaBQsDwYLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在第一届专注进攻性AI的会议上，几名前NSA黑客就大语言模型（LLM）在漏洞发现和自动化漏洞利用开发等议题展开讨论。小组成员：Dave：前NSA黑客 Perri ：DARPA AI 网络挑战赛（AIx</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486610&amp;idx=1&amp;sn=e68aa64005de2c92c11ce7c130f3e51d&amp;chksm=faa1492d36cbe3127d7ea84a19a41370e446cccd3cebc7bcfa5fc56c6adb7aa6d9ffedcf6260&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 10:27:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌红队负责人 - 建立并运营一支内部红队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBBcicibxoBI41ZyoCyhoFHkbgHU2xDkutYibWeQ7icX6ZLopdNB7QXrzQiciathK8PW0ZfibhXdQDMETrt6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文基于谷歌历任红队负责人的演讲、博客和交流整理而成，本文从高级别视角介绍了谷歌如何建立和运营内部红队的经验。（本文为上篇，不会涉及具体的技术细节，比如如何模拟攻击者等）备注：除了本文外，我们之前也介</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486606&amp;idx=1&amp;sn=689a085aa13e7e412658dec165047462&amp;chksm=fa5401bf5c5b434f266f392888c24367ce34f8bf7b13887e547f161e04fe9ccdabb6e66b3755&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 15:26:36 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[氛围威胁狩猎]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBAghhWibZ7gSjnHsibHEje3pqmG9LEYia8iafXN4HsrAY4Cf2H5euUnPFcBgv61R5bfiatvwEvSsjqZoKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文目标读者为有实际狩猎经验的Hunter1.什么是#氛围威胁狩猎？ 氛围威胁狩猎（以下简称氛围狩猎）是人类直觉与机器推理的交汇。由狩猎者构建的代理，旨在使每个人都能进行威胁狩猎。它不仅仅是另一个副</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486601&amp;idx=1&amp;sn=239fc3368e2c4548720dd73993d58eaf&amp;chksm=faff4cbe2b6530120063bce33983348cd5bb6d6cfe50bbfd84224a7c20b1ff432091c9589e23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 11:01:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025年西方甲方威胁情报现状]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBCBactFxuJ9XmHmQIibBmOI0Jw5ewI8GwEzgsw0n2XoKpu6ibELCJHbyKzPdIaPibz25HxcGpaGy0flQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文基于国外一家知名网络威胁情报公司与第三方研究机构合作调研的一份报告整理而成。报告调研对象包括600+位网络安全高管、管理人员和从业者。（受访对象主要是大甲方）所有受访者所在公司员工超过 1000</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486590&amp;idx=1&amp;sn=9a25fb9b72f1575d6795cbb48798cdca&amp;chksm=faf29898ad8a37cc5495b8ac8cdf458d04220f3547708022a3c4540b80daf691f055dd5ba362&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 12:54:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Renew｜中美战略竞争下的网络空间冲突]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBAUEibFLZ35M0gYuU2oNbDhyadGkHx4eL4qSEaZiaicxoaAwiaeYgrZubTMuubWht9iat8KZa1vfv6LFWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年3月，我们在一篇题为“中美战略竞争下的网络空间冲突”的文章中指出：“2024年2月16号，某事件表明，1）对手手里的牌很多；2）越来越多的承包商会被对手渗透和曝光。” 全文：独家：中X战略竞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486583&amp;idx=1&amp;sn=7a2b939aefe787d279a4665d9524e345&amp;chksm=fad41b8b2cd027ee938cde86375878237f63646aeefb44c49b350b78413bb28fea23f9834b1c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 15:23:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首发 ｜ 五眼联盟网络武器承包商Trenchant总经理为澳大利亚信号情报局前黑客]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBC3Venb4aRrV3OTnGGkV1QaLUeCzuLiaFMv5gzfnYpntITHuqC7FamJwAFH2YJ6aOjDvVWDWPRyyoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Peter Williams，39岁，澳大利亚国籍，现居美国华盛顿特区，是网络安全与情报领域的资深从业者。他最近因涉嫌窃取并出售商业秘密而面临美国司法部的指控，此事件涉及国防承包商L3Harris T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486579&amp;idx=1&amp;sn=a52ba78d18f8ae6ced974cec56213c48&amp;chksm=fa7505a798438c90e23d1cc91be678077d171131be485b9b78ec2af1b8a58016523b91ae59f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 23:49:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[原计划在Pwn2Own上展示WhatsApp零点击的漏洞研究员疑似因国内压力取消]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBD34ictib0ugzXg5GmFbFVXb8XKP1xGcaCWLacdszYs4H0wUBibtaXIeZOgWONq8AjSBYfmRNwU6fflg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在由趋势科技零日计划（ZDI）组织的2025年Pwn2Own爱尔兰黑客竞赛中，总计支付了1,024,750美元的奖金。然而，一位原定展示价值100万美元WhatsApp漏洞的研究人员在最后一刻退出，使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486575&amp;idx=1&amp;sn=d25ff0744b82c964d7b5dbaad1a5560e&amp;chksm=fa45cd778a4b5ac89a25adac9aca0d8a2a26b75e2d992b39eea088ede1b71af2883e47e7807a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 23:15:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[独家：NSA漏洞承包商网络武器库泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBAscOT4bMK7kultr5UuA4cMQGP5ibYGuEH30Odicv92j9c8HERDn53coCpFXfG8t04FEb0QeCGA0Jcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据我们获得的一份美国地方法院的法庭文件，美国国家安全局（NSA）的主要漏洞承包商之一的A公司的总经理PT涉嫌将其公司内部开发的零日漏洞和武器化工具泄露给俄罗斯买方。影子经纪人（The Shadow</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486568&amp;idx=1&amp;sn=309143d0bd958d85af3b1a8cf4b831cd&amp;chksm=fa47c58458f5cc8221b72f1159a36fe01e4bd43f53e85d3388dbedc52a09e3a2a4b2e8f65c67&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 12:01:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[马斯克观摩NSA网攻北京授时中心]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBBoc1ia0iaMo1haliaKV4tCOoR2lwlicZjW2DiaNLtMN1HFna9HQVFHTRXdvKQWFicusxvoWlvDUauhbwtA/640?wxtype=jpeg&amp;wxfrom=0"/><p>声明本文基于真实事件改编！2025年10月的一个清晨，马里兰州米德堡的薄雾笼罩着美国国家安全局（NSA）的总部大楼。埃隆·马斯克（Elon Musk），这位科技界的传奇人物，以特朗普总统成本削减顾问的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486562&amp;idx=1&amp;sn=fee6966941dd7996b03998c62d416e61&amp;chksm=fa24eb76ae6fa11276b6a4cc6da957e7f573737066f2d5049f567b12763000e0202c920bff2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 16:47:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美国公司是我们需要重视的下一个网络威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBAcEERxp4Tql7VQlR0dgCT4z2cmgNNQiaUAAFLXfBicV9ySe05IrvPJqtvt8sS6iaPjq5CVpbMSPt3SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年8月15号，美国亚利桑那州第一选区的共和党众议员David Schweikert向众议院提交了《H.R.4988 - 2025年反诈骗农场私掠许可授权法案》。这项拟议立法将授权美国总统向私营</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486554&amp;idx=1&amp;sn=67ec9a286966ec9b6492b491c2ba974c&amp;chksm=fabe6be27aa65e80836ec566618c74f5157e949a486f3523dbbc4336e294eeedea0d8411520c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 11:29:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美国陆军推动全军进攻性网络能力的应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBA4nrBtCoyBJw8KxRxS9PB3fYws6YMJofnOsYIRticwF3vSy6W8SkkWPicicGd9M91FB3XVbA8icJkvcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>电子战与信息优势纳入陆军首席网络顾问职责网络安全是陆军五大优先事项之一，其首席网络顾问正致力于推动全军进攻性网络能力的应用。陆军部长在网络问题上的首席顾问现已被赋予提供电子战与信息优势相关建议的职责，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486548&amp;idx=1&amp;sn=fa2b9cc61723bbe3437fa28b1c162a05&amp;chksm=fab3685f37fa0d8a4eaa48ce49fcdae15625514a4b835764251154133a2795318acf22a147eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 17:55:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[F5被黑客入侵，影响NGINX、BIG-IP等]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBDCBxhKs5LO50DE9Wia6Uso0lovdHZOlJpzSicotkUNC0QbMhVfMcs0tWUuthEo0picKS2wxa4vST6bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言2025年8月，美国网络安全公司F5, Inc.（以下简称F5）遭遇一起高度复杂的网络入侵事件。该事件由一个国家支持的威胁行为者实施，涉及对公司内部系统的长期访问和数据窃取。根据F5提交给美国证券</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486543&amp;idx=1&amp;sn=6265118127c495ee357c9bd6acf5f0f4&amp;chksm=fabaa10c898e02b143776f12f50c2d9526321a2777b01e5bd96df37583280307c687647436a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 11:30:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[网络雇佣军产业的兴起]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBBlyXCD8ianeeUUxbUhm3W4eiawpVmRb9t7Z5wxIBBf0cmrRTdWd9ibGclZ8MZ2SB2ERwXJ1KticcrNZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>十多年前，爱德华·斯诺登泄露了美国国家安全局（NSA）的文件，暴露了美国政府在全球范围内的广泛监控行动。当时，侵入性网络能力的威胁仅限于少数国家，非国家行为体缺乏复制NSA全球监控网络的技术能力、基础</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486538&amp;idx=1&amp;sn=1978ba44f262b6ea14772dee63b84b59&amp;chksm=fa61a5ef130109a49ea9bfc6431d7300e3666fdfa2aa4d19c6ee13c38997bc57876f44b946a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 12:30:15 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

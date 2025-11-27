@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[哔哩哔哩技术]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[哔哩哔哩技术公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/MhLhj1Zltjls2gSSSicWLUrN6qG22UmicBAThz4HLuR0YIplFOoZZVIMJibGYUUGSGNpOIkHUJxu4yecGOwNnKL9fCgRbZwODlQ7qa0wzibjHAD3dnmW78EH4HVyRNhbKnFe/132</url>
+      <title>gh_6a92a838f9e0</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[智能体开发新范式：Blades 架构下的高效 Agent &amp; Workflow 实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/DicvG64GianWg3MQA9sfsdmRFPpU9m2y9fnCYpp25MD6OgcVe8ONjJGOqRKPof8y7SAeVQe8qVCUAAxULiap2IoPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🎉Blades 已发布 v0.3.0 版本，欢迎大家使用https://github.com/go-kratos/blades/releases/tag/v0.3.0什么是 Agent（智能体）？业界</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503757&amp;idx=1&amp;sn=77027417e47156e9236c34963bcddda2&amp;chksm=ce3d1f7286c7cb24d6755999c31966b9685b41ab69b74827d5a9e36874b018e3308f97981303&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[B站消息新架构升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RxcicfiaugGSUUuc6VK9VxcJenyrac149qOC7LFrwDc4W3UtU4MrR6DHbHW3nYYrH4fRE00ia4ROQOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>先思考两个问题：技术上数据量越大，降级概率越大，但消息业务场景上数据量大的是影响力更大的UP，业务不接受技术降级，如何破？如果消息流量增加10倍，怎么保障服务不挂？1.现状业务解读按业务全域现状，在服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503755&amp;idx=1&amp;sn=bd23c345d87a50bbfc833e442081843c&amp;chksm=ce6ffbe69fb8998fcbc440bd2d918451c9353319cbcb84db2e15f7175990490acd205586e7c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VisionWeaver：从“现象识别”到“病因诊断”，开启AI视觉幻觉研究新篇章]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RJEHz8LhcpF96iaWNvHBzDcd1FgvJkfaKRDofO7cZlia4IK7mBhySG8RQCfcdS6j6IRiaybYz5woFdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言长久以来，我们只知道大型视觉语言模型（LVLM）会犯错，但始终缺乏一把“手术刀”，无法剖析其视觉感知的根源性缺陷。我们只知其然，不知其所以然。我们希望当 AI 模型观察图像时，不再凭空想象，不再“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503701&amp;idx=1&amp;sn=6ca4ff76ca955db7350d14556e814b2c&amp;chksm=ce8ca0e94769681881627dc0df0fab2f5048364b887b2d5df24bf1dc33d58087b705c4f92aa7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[B站基础安全在AI溯源方向的探索实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754Q5HQkDs2nAH4kR9iaJ3PfbFcvJ7t7It58ibibQBzJfiby7v65bE3IXiaQsj2ReHGtZ82YBiaKHPYB3gofw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景安全事件告警自动化运营的演变在企业安全建设中，SIEM/SOC 的告警运营始终是不可或缺的核心环节。随着安全需求的不断提升，告警自动化运营经历了多个迭代阶段：人工查证阶段：运营人员需要在各类平台之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503693&amp;idx=1&amp;sn=3d65c30c986bc3c51f2f924b1ea5f158&amp;chksm=cec89a81c7cd38bcf05a4d0dc378d57f02618dc5457de2c9b3eddc98403a744347ab3a2f01d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RIVAL：面向机器翻译的迭代对抗强化学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754TwYty6lLz4xEw9Sb1zse5icxSUUlpL1EcLYjHPFmsKiahrvaIbibR8IWHiaw8yP3E7FaubMIWkpNLPbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述本文提出 RIVAL（Reinforcement Learning with Iterative and Adversarial Optimization），一种针对机器翻译（MT）的迭代对抗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503686&amp;idx=1&amp;sn=fb40d52cc0b3be6fee309aa932a1f4fa&amp;chksm=cea1d14ce3405a3cee39c716fad318bba23f58a7508514d60b236378ffb13ae2824fc56a749c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[B站游戏大模型翻译实践 —— 我们如何用LLM撑起全年百万字本地化翻译任务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754Rd4rdTV2jjrxQGCBoKyJRN2nAqicIHkG254Ktic1XkDQqu4vzUaYqQFWEjwDEWoLkibTaLfu40gQhFg/640?wxtype=jpeg&amp;wxfrom=0"/><p>1 前言随着游戏行业全球化进程的深入推进，哔哩哔哩也在海外游戏市场积极布局。哔哩哔哩有丰富的游戏储备，运营众多自研和代理游戏，随着出海战略的推进，我们的目标用户已经覆盖全球多个地区。游戏要想在海外市场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503622&amp;idx=1&amp;sn=0ac090fb8c352983d3c14d02e27ea3fc&amp;chksm=cef416f86e140c2df1381fef4f10bd7f00d3b7dba4db35e02685c149f8b38d4e8fc140bdf829&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码筑梦，优雅永存 | B站2025程序员节高能回顾：一场献给技术人的硬核浪漫]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RlM9m1wI6TgBCibvPhfV9LNkN6kD0FAibAbI6nslVRNm5nx3LtobTlrMcWQFc50AI423bn18mUp29g/640?wxtype=jpeg&amp;wxfrom=0"/><p>当1024在B站日历上闪现，这个二进制世界的神秘代码，瞬间点燃了所有程序员的节日模式！在这一天，以《Hello,World!：邂逅新次元》为主题1024程序员节活动圆满落幕——这不仅是一次福利的集中释</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503649&amp;idx=1&amp;sn=6f72386b455385893fd2be2f57734980&amp;chksm=ce013142799031a2098e60d97802ae905b4592113bc4125932eace03ecb0524f8dabaaa5802f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 21:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[B站多模态精细画质分析模型在 ICCV2025 大赛获得佳绩]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RSlJDmeO7l1dzbyib738NNu21icHO1qibNjaUq7X6QxlibktSVribGFJ9kTSnox1o6cCu6P7ibVOWqt3wA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言暑期，B站多媒体实验室带队参与了 ICCV MIPI (Mobile Intelligent Photography and Imaging) Workshop 的细粒度图像质量定位 (Detai</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503602&amp;idx=1&amp;sn=259fb935b60caf9cdd93b299ef1e79ff&amp;chksm=ce664103899ea8c5d741212acac14d62190eb0a62034e04b64933eb04b858b8e949d659dbefd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[门票福利丨哔哩哔哩4大议题亮相QCon上海站，邀您共赴技术盛宴！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754RSlJDmeO7l1dzbyib738NNufH9qSzqXr7WL6tTQicVgAoPDzvKHwdjTOMcatXKVn4ic1WQpbYMqicmug/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 技术的兴奋期渐退，工程化的深水区已然到来。真正的挑战不再是构建概念验证，而是如何将智能可靠、高效、安全地注入企业核心系统的运行底座。在这场深刻的范式转变中，最具价值的答案从未写在教科书上，而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503602&amp;idx=2&amp;sn=1095c22382a67e1fe68717dff1b6e94b&amp;chksm=ce363761cfb1e30729e4d948c484f570ebb8e2687f6051f40de6b0d39516ae272b774457592f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VibeCut - 智能剪辑探索与实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754R615RNu7UnicoSolpdsMyAiaicHrF20hiau9KcJC1poS3pF9tadHUriaZtTIhIl6bWOeNCQPuuldhicicQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读为解决专业视频剪辑软件操作复杂与模板化工具创意受限的行业痛点，本文深入探索并实现了一款面向Web剪辑软件（WebCut）的智能剪辑体——VibeCut。它旨在打破全手动与全自动编辑的边界，为创作者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503578&amp;idx=1&amp;sn=817c3ba757f9f91dbbe70977f567983d&amp;chksm=ce65806ca0028ccfd452785940cef99b02699217bb3a91dcc684fb2073bde290691ad5a99bc5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 12:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

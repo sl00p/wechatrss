@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[看雪学苑]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[看雪学苑公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/IU2miaUPe0qogCchjlo6RW35EIl2TnHJEIC6SibLlrYIxECBDsGU0r6ZbsOmcibdBPTBK3ECutxibsMg2c1YfpjkicbpQUiaK1XD2VhEbwp1cEjjQ/132</url>
+      <title>gh_e7e71fe92c19</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Hyper-V平台IUM进程调试工具及通用TPM漏洞CVE-2025-2884分析与复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdP8Z32bjJNrpE1duuN4QTRDnWTTGw5P6ecvYuX5wbnOTVepUn4EZtibNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章的目的是介绍Hyper-V平台TPM组件服务进程vmsp.exe相关的通用TPM漏洞CVE-2025-2884分析与复现。文章结合了笔者魔改的用户模式隔离进程调试工具和逆向代码及调试结果分析了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=1&amp;sn=8375e00ae768fbb4d8b952b3fb61a204&amp;chksm=b05ef8e5582458591db6cc60237f95fe74f34699625ff15d46c3374e92613d0c790bf111d668&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当心！假冒《战地6》游戏暗藏恶意软件，玩家数据与加密货币钱包面临窃取风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FI9zyA5BzTicJTkZPRefyqLaVliaoV9iaPVmHPoTellRJIl8GvTGyMbNWZ2wiaLlKb15zE1gm4PMt6gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Bitdefender Labs发布报告揭露，网络犯罪分子正利用热门游戏《战地6》进行恶意攻击。他们通过散假冒的盗版游戏、安装程序及所谓的“游戏作弊工具”，诱骗玩家下载恶意软件，导致个人信息泄露</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=2&amp;sn=b711dbe441b7e714076fbdf3486cf33c&amp;chksm=b081c30bc8d3bd480cd8e461c195231464ae05bf6d16c2c330b7a4d87f288f186c5d7119d68a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[第二阶段目录更新！从底层开发到逆向攻防：《安卓软件开发与逆向分析》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FI9zyA5BzTicJTkZPRefyqLl54V91ZmpYUlmRAfrGXQ5yfIick2ywXpaPe3urEzdefuUZkar8ThXXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>做安卓开发的你，是不是总被 “灵魂拷问” 暴击：-想优化 app 性能，系统底层机制像黑箱，改代码如 “盲人摸象”，改了又改还是卡？-搞逆向分析，面对加密代码、复杂逻辑，像 “无头苍蝇”，Hook 能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=3&amp;sn=f65fc55b6a37850e59050d257d3b0e43&amp;chksm=b01290b498c3c667a6b2e9bdbedb8baac486b05aac69a4af3969e9b3e1efc609b6fc19bd6077&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[第八届强网拟态防御国际精英挑战赛 - WIN！致敬mt 复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsXREIoJ5DicDY9MLItU33nyLibkXdVLPRHKcpRicAWc4Z27atxLyJGzrrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>拟态比赛的时候时间过于匆忙，并没有很多时间看这道题目，因此赛后进行了复现，这一过程中十分感谢@zikh26师傅和神秘的@Nik Xe大哥给予的帮助。1漏洞分析基本信息：从启动脚本发现其实只开了一个80</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=1&amp;sn=52ae9835635172918961d471e1302f7a&amp;chksm=b08c3e8b372198293b51b36e0b56e389175972a76fd25ec9a46cf3c066c81b48a6cc05bbf8b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Firefox曝高危漏洞CVE-2025-13016，1.8亿用户面临代码执行风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPqKwicL3MNpI9oGMxfvalNsibVcE18iacPmRn7BCvIsLN73SMoicIz0SuDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能安全公司AISLE披露了Firefox浏览器中的一个高危漏洞（CVE-2025-13016），该漏洞潜伏长达六个月，可能导致攻击者在用户计算机上执行任意代码，影响约1.8亿用户。漏洞源于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=2&amp;sn=b39d4c8f84761e16602c7fb06ab27eed&amp;chksm=b00e02c6e19a76bdd86a0c5a7b23f2a9c861d0420121c00b99f21335260fc223a2e3ca7e4723&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[24节直播每周教学！Windows 内核与高级调试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=3&amp;sn=104db8d234bb5e96f722e4d4218af904&amp;chksm=b0d76bb3fd32162f54ce1da2afe0d5681b72fd2cbbaca4a9c6f6aab9254f5e5d2b76b340be76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VmProtect.3.9.4分析之虚拟机流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RLeuAeOR6SrZdTcCVHOCDRj6KZwWBsuEKmwbEibiarbZfnImQ8kqf4JZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于到了可以开始分析VmProtect.3.9.4了，像极了玩游戏来到了最终boss环节，我们玩过游戏的都知道，打boss是一件不容易的是请，因为作为整个游戏里最强大的生物，他的血量防御极其高，但是打</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=1&amp;sn=5a27c839e4afd1061ad21a51e96a3a09&amp;chksm=b0a623bc38b41ca2e2abbe08a18e05aaf08b8bbb12e2a38568bdbcf9ed6db583f2f61f46947f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抗量子NGPKI核心技术解密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4MgQEniaSj6b1KbhfYbKg5Zo0oro0vR5b116GibZrH6XcPBJiaDufNvW5UUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以Shor算法为代表的量子攻击模型已对RSA、ECC及国密SM2等经典公钥密码构成理论威胁。在此背景下，如何在保障现有系统连续性的前提下，构建可抵御未来量子攻击的数字信任基础设施，成为PKI演进</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=2&amp;sn=37d141a63a0813c4ac467878cdec1bd0&amp;chksm=b03e67eae8fda9d898b2359d51f42e8741ef855f1be2324a3ba41b90a813913e71fd6d272655&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache Syncope 硬编码密钥漏洞（CVE-2025-65998）可致用户密码泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HNJ7WmrGqmK2Dl2EyDdzZkj7Gmo6nAuianh1R7NicKxFrTBEd97KTCyXrBQ6IRVticTZFN0wJCbariag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Apache 软件基金会发布了一条重要的安全公告，披露其广受欢迎的开源身份管理平台 Apache Syncope 中存在一个关键设计缺陷，可能导致企业环境中存储的用户密码面临泄露风险。该漏洞编号</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=3&amp;sn=0d3802aa7534e61d602c5526e8f6d149&amp;chksm=b0b4ad4163cbdae35a70ee2fb4cd7657e418c1bb7d3148dae43504b392f39b406f57da6fa6f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 议题回顾 | 跨向无人之境：智能架构的支付宝安全风险扫描实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQIsxic3SpYDpT9rluGS4LN5auLZQoaj1P20LFN0VpJJGIUqLS4B69y9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾随着金融科技快速发展，传统代码风险评估面临严峻挑战：人工审计效率低且依赖专家经验；静态分析存在准召率瓶颈；业务逻辑漏洞的隐蔽性和识别复杂度持续提升，亟需突破性解决方案。本议题演讲者深度介绍了如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=1&amp;sn=66ffdd7b1a82aa9b4a549b200916a934&amp;chksm=b0e209216004ff08b7af6354a8913ceefdff01963baf7675357479cd55b8178c97aa7278355f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[vLLM曝高危漏洞CVE-2025-62164，恶意嵌入可致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4Mg3daIWVHOKJRYQicFZMiciaDPZnXwibnIZqqOPaYGNSclMBt2dNpB9EiaQKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，高速增长的开源大模型推理引擎vLLM曝出高危内存破坏漏洞（CVE-2025-62164，CVSS评分8.8）。该漏洞影响vLLM 0.10.2及后续版本，攻击者通过向Completions AP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=2&amp;sn=b62d0ad139306b8ae175c223238664a8&amp;chksm=b0054ee769fce4f30478abd0d3fecbc6060fd9df7bc53641a95b74452f27c6d700fd2e9a8dff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新课上架！10年内核大佬亲授：从Hook到Rootkit，手把手打造你的专属攻防工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=3&amp;sn=088d5a3e3d34303d3abea25c9a99269d&amp;chksm=b006e0493665d3afde64334285b6bf47fde6de2e61a698667df3053569efab2f6bda1d0d27a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[极路由远程命令执行漏洞-漏洞分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsKnDEOicmZDal1VNE0nhq0IrOciaoPLhp0KGiaASfbILvibpjqGzkOhwzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇主要介绍cloud_token的计算方式和远程命令执行漏洞的代码分析。cloud_token是开启远程ssh的token，如果知道cloud_token就可以远程开启ssh服务。01cloud_t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=1&amp;sn=63eb614120055ac689f6192c16cb2c74&amp;chksm=b04fa85c826f315cceba6e8d472c614d0b8a16ed6222287bbb3fe78e45cb87d800321002a5ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=2&amp;sn=ec105db6a0b9106aec654784d428fcab&amp;chksm=b0195d4308856e7e50d18841b76f993fd3f8a06d94859737c6165306e32c96b593fb92adf9b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新课预售 | 为什么你的系统总崩溃？Windows 内核调试核心技术揭秘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=1&amp;sn=0b339f1827ff430a126bdec228cb4736&amp;chksm=b02e9387c74875a34c69cc01a7d97a96b1799302f27123e31c993fd446a69f4960817da2b129&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一道CTF题目animals：变异MD5加密分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx0crbJibMibg2Z0s8JoaXV9wNXXl8iayKWVWALZLMiatIdFKPAOKibO1WzeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1分析首先IDA打开熟悉的味道熟悉的花整整两段，没有办法，挫一个idapython脚本梭一下start_add = 0x400800end_add = 0x406e22for i in range(s</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=2&amp;sn=d3ce2c80572bdce231d2a9420d29448e&amp;chksm=b05d91fa6e19f21f863d64d396f845eb8ddd1aed113f3fcd550484b81b2d67dc83cd8405e1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周职位更新！速速投简历]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=3&amp;sn=e54f0304139fa6cd301001984e700e94&amp;chksm=b09643984049e295682c0b4a6278978b466d1c9b98dae8a05834cf520ee1196e054acf6fc6c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Oracle EBS零日漏洞遭大规模利用，近30家机构数据被窃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTxSeAibNemkskalTHEorFRHiam9Gk9nJ5vr10qodqkkCC6eFROicNXmxBjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Oracle E-Business Suite（EBS）遭遇一场大规模网络攻击，涉及零日漏洞CVE-2025-61882，导致全球近30家知名机构数据被窃，波及教育、媒体、制造、金融等多个行业。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=4&amp;sn=c8c02adf4a01fb9a90ce98efa70ac380&amp;chksm=b0667084dc81af2c702366a94c84b8c414c3515606567a07e001690d40178941b6773a2819af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 议题回顾 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQgDfqcnWDVLoXLI427m4x3knnWlvyZib0ECHsMuH2BVpjWyp5AlZGsNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？本次议题将从SCPGA的攻击原理拆解，到防御方案的技术落地，再到真实场景的风险复盘，全方位带您看清LLM接入万物时代的“真威胁”与“破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=1&amp;sn=c9c3d5f23ce7da8357d9fe24b9dc9e30&amp;chksm=b0c8bab28a87af5511d9308b9a3142e9f4515e54c5a26065f203f578bd4bc0ee4c1ffe76b812&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[华硕路由器遭大规模黑客攻击，超5万台设备被窃密操控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GGqRyqFY1YGsRiaSSichD4gkOk4ChVOBLeYFtpaOmBkg0VfvcichQlJlMPmJolMNxib6lEw18vzp7dJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，网络安全公司SecurityScorecard联合华硕披露了一起代号为“WrtHug”的精密黑客行动，全球数万台华硕WRT系列路由器遭劫持，沦为潜在的间谍工具。攻击目标集中在已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=2&amp;sn=e1c465c37e801bfde89a6decf640dce1&amp;chksm=b011c8b1d3030b46db9a5765509325c2f5f27624c80daee37534e8904ca87369936f22c2347c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码审计无从下手？四阶段实战教学，带你从入门到精通]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=3&amp;sn=b355152f50e954a71ee190e6438d7f89&amp;chksm=b00188c4e063b619b31b17adb0cafa5ecaa9d33dd3c30e91484766d28ac2f76b87822eaef04e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MSVC编译器/Warbird初步逆向记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5ovvhMWLUoLk66dwajb646WgUCY2D0ZBkfJxBScwjO5vWg7jY2rKEfVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>VS版本: Visual Studio 2022最近看到了隔壁大佬逆向msvc劫持编译器(碎碎念: 顺便一提似乎直接调用微软为warbird提供的接口来实现编译期混淆会更方便，相关内容下面也有写)我也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=1&amp;sn=7e392e784e9eb4863132470e32f80169&amp;chksm=b09f47dd694dd10ec66b3d0ad876fdd08c49eb0c78f8af22b77d7882cbc3d0787feb27e0890c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突发！Cloudflare全球中断，ChatGPT、Uber等大批网站瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQYfS6ibYVMrJ2JjrbGHK9eSxLvwrDScNIGuSibM53wZuicAic9BGxFFmXaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，全球互联网遭遇一场突如其来的“断网”风暴。从清晨开始，无数用户发现他们熟悉的网站和App要么无法打开，要么错误频出。这场混乱的源头，直指互联网的关键底层服务商——Cloudfl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=2&amp;sn=6aaef93e0a88b419f7bdd7660cc866f8&amp;chksm=b05e4f38f6138d300856ee6705160f9a285bb9fa5057aec2982bb44681394ebecc4299541f13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=3&amp;sn=c633363783edea8b272821ec92e958e9&amp;chksm=b05b7951356643fb5a17e2fc464fff4b36ef9d3a2bf58718ee4b600a6f952dd2ade9a9d38b30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 议题回顾 | LLM 与安全代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iaZw9KEh0J0aNlHzJfbmFTlia9WIb5zTQsZeZ39iazWcA7761YhR4pVib7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾大语言模型极大地提升了代码生成的效率，已成为程序员编程助力的重要提效利器。然而技术进步在带来便捷的同时，也伴随着一系列挑战与风险。本次议题将从实践角度出发，探讨哪些因素会影响生成代码的安全性，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=1&amp;sn=37ec0d386ca2a38f643de04c1c3cad1a&amp;chksm=b06efd2b1cf346a8278f7f110ff93677e4c2b134962bcea2f60418b1679011ca232c3d8576b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Clop勒索团伙再出手，罗技确认因Oracle漏洞导致数据泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HaUt8eqh9Rg5NQby4PF9uLfq1LtovPqYiarkUQtpibhmqctXLHlJBpyicX4iaNQ5f1iaJgL5dR4iaJ71Fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，硬件配件巨头罗技（Logitech）确认遭遇数据泄露，事件源于Clop勒索团伙对Oracle E-Business Suite（EBS）发起的网络攻击。罗技已向美国证券交易委员会提交8-K文件，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=2&amp;sn=364d0c2862669459505599b2fa67b41f&amp;chksm=b0bb277cc08d2611ace908477ce9ce0b4f9f8174ba44fbffed0c754038b83053ae23f3dc03ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重磅开课！系统0day安全——车联网安全入门（第8期）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=3&amp;sn=4931474594577332913a3d537678c029&amp;chksm=b04a5a4f8e2cc622d71e18f5c291be8a71b9ceeccf1b981cf07b45e14261d96680d31591d6b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新课上架！10年内核大佬亲授：从Hook到Rootkit，手把手打造你的专属攻防工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=1&amp;sn=57300991b49686a258380aaec7a07030&amp;chksm=b09bd1cc56d0de5f5f1b0187a0ea3049b2d11255d23e1e0f94bb95f6afc1fe74fea92a1c0ff2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[教你玩转ida反编译（修改ida microcode）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5oSnXgYtewbLsLVfiaoYvHmdmia3woVXpL1B6bjYI3G3VDjl5iafmGYb3SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>看到了GhHei大佬的文章OLLVM扁平化还原—更优雅的解法：IDA Hex-Rays Microcode（https://bbs.kanxue.com/thread-288691.htm），迫不及待</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=2&amp;sn=0bc170bdecd845619c065ba533a11f76&amp;chksm=b03536d1eab947c0b937009aee16f7cf3105baadce48b9044f1010a5cbe744bd5d5addaa1c11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SAP紧急修复9.9分高危漏洞，系统面临完全失控风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5obAd0ZGNI8DqPFJDOkEvRib35RtOqkdsE19ia5xlBv2nficfb3adSnaCMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，SAP发布紧急安全补丁，修复一个编号为CVE-2025-42887的高危漏洞。该漏洞被评为9.9分（满分10分），属于最高风险级别。漏洞存在于SAP Solution Manager中，攻击者可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604263&amp;idx=3&amp;sn=991047edd9f272fd8afc98e7df4b3c11&amp;chksm=b04df46bfd0753afb7e4463dd068bcecc8288783b0a8c23816e7f98767ca5e1b2348b2edb2c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VmProtect.3.8.1分析之虚拟机流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RoqBic0dSmpCib2lxL3VebTfXJyRRicia1dr9K2zA8ib5oZReqibTReNRdACA/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一篇我分析了VmProtect.3.0.0的例子，这篇我将为大家带来VmProtect.3.8.1虚拟机流程分析的例子，有的小伙伴就纳闷了，这跳级也跳的太快了，VmProtect.3.0.0版本的所</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604240&amp;idx=1&amp;sn=352a54767c28df5af47169e46b3f2613&amp;chksm=b005a82762d1dbc2fd8aa572a4a5c004d5049eafb098063908a9373bfdc68279cb53c3c3e695&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从传统PKI到NGPKI的量子安全跃迁之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbaB0tNiaa2cFFKlsTsu8jzUeBNJN0xR62UttAMkibn35icL2icDMhBanT2Ug/640?wxtype=jpeg&amp;wxfrom=0"/><p>当量子计算机的曙光刺破传统密码学的穹顶，全球数字安全格局正经历百年未有之变局。据NIST最新预警，现有80%的数字身份系统仍依赖RSA、ECC、SM2等传统算法，而量子计算机的指数级算力将在十年内将破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604240&amp;idx=2&amp;sn=479af34ed5d31fc9f85fe2d9da1fef4f&amp;chksm=b02cd8fc452cc062424d9c5fc22648bd7a1a4023a3559221c22438caf399fc2fe1e12160cfae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[强网杯2025 Secured Personal Vault 预期解WP]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdn2b5OFvAZRmUdMlna9HMS30COAGsftvz8YcUiaRk4Bic0czVKwPAAcl9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>该题唯一解是非预期。然后该题为蓝屏DUMP，需要分析内核，那必须搞一下。下载地址：https://pan.baidu.com/share/init?surl=Lo45kFwSwrXzm52GEv5zd</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=1&amp;sn=7aa99e150e133d429500cd7168be139a&amp;chksm=b06a5bec9a5e07acc3cb252a8b81cd9147b4169e29c90013a9e247d7c0a2daa1821735845c38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[聚力协同创新 共筑安全生态 ——2025年普陀区网络安全产业生态大会正式召开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5oayCIqTIYqD8zZ1MXQNNiaEV5f4dwt7u2kkZcPwy4jXcVH3tYjM1oOuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月13日，由普陀区科学技术委员会、中共上海市普陀区委网络安全和信息化委员会办公室联合主办，上海市信息网络安全管理协会、上海市互联网协会、上海市信息安全行业协会共同承办的2025年普陀区网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=2&amp;sn=a551e6df480fd8998130f1d890958894&amp;chksm=b0d0c2f9374d92f8e22a1fcd3c20689e47a8ca991de8522bf6938dcc02088981ae69606244d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周职位更新！速速投简历]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=3&amp;sn=4bdfee16e641a0c5d0e7cac7ae5d49ba&amp;chksm=b0b16ca6324e94d0ce0fb5a60199ecc44be3bdc4c618b853d85a1075fce6e971baff2dde7911&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[看雪科技荣获2025“网安智谷”网络安全创新创业大赛二等奖]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbalq79WPr07LOU7o8dCTfxZu1HKxRUYiaOD6PeT7at6o8xLzaWK4llaXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在2025年11月于上海普陀区举办的2025“网安智谷”网络安全创新创业者大赛中，上海看雪科技有限公司凭借出色表现，荣获大赛“启航组”二等奖。本次大赛由上海市普陀区科学技术委员会主办，以“激创新・汇资</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=1&amp;sn=4cf3c9cb6c5f9a7d63ec741b695f8e2a&amp;chksm=b0c884f3d58d17becbe06613bf99d39a2a6874b428497961000d3a36a0218e114cb508ddcd6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android 加固技术回忆录： 一代TX加固完整分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcs72XVTjP62YQFzr2nExW4ZFHJ2WjHndKG60y7OQ61H4lyZ814N51tFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>内容涉及到结构体还原, 自实现linker脱壳修复, dex解密和dump分析, 以及加固技术原理。逆向环境01◆lg g5 android 4.4.4◆ida 9.1◆010editor◆记事本,</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=2&amp;sn=fb9b7eb9cd47706ba5b8a38dce10ded7&amp;chksm=b0ff14ac18f6ac91197a716cd7cd4c78c8f0f2667e5c875622041bd79e5ba273f94fa6ee1a4c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安全通告：Chrome V8引擎发现高危漏洞，官方发布修复更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbaeHaKS69ZEd6rxaqbnsPLxeKOPkPibiaIMkMRNSzQ068xPMnHao9gibibRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日为Chrome浏览器推送了142.0.7444.162/.163版本更新，紧急修复了一个被评定为“高危”级别的安全漏洞。该漏洞编号为CVE-2025-13042，存在于浏览器的核心——V8 J</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=3&amp;sn=23593b87e2f899c70583a2e18866e9b8&amp;chksm=b0b408d4f27dbb9bdfd0feceec82b27586fa962eb96f5177eda4f065070325b5e6d765bec123&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 议题回顾 | ReCopilot：基于大模型的二进制逆向工程助手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iax8RAgDoUojf4QmEwzZzGEs2Ff9LY7BENBesnt3LZHUb4oLy3pic9LQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾ReCopilot 是一个基于大模型的二进制程序分析辅助系统，针对逆向工程中符号信息缺失和人工依赖程度高的核心挑战，提出垂域大模型与程序分析协同优化的智能助手方案。演讲者团队通过预训练（CPT</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=1&amp;sn=0a0774e87aa99d80c5ffa20b0e17a01d&amp;chksm=b035cc63602669ec005ec3f7874fe78736b1cdb2e528c6384e07d0228b2e271bb58e9d63f916&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[致敬安全力量！荣耀SRC 2025年度致谢榜单重磅揭晓]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeiaQ5lHVaJI0iczygYIDlWpy7toic1SKL2XiaZVF6P1zGhqLT8MXEYyv1ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀球分享球点赞球在看</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=2&amp;sn=f12d77e7c2efe62cf8967c7b3a2bfcc2&amp;chksm=b046f58f630a00e89a4666c4fa67d3db963098f1da3487172aa0d40cacddb076197bf96c000b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[73亿美元、12.8万受害者，一中国籍加密诈骗主犯在英获刑11年]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E5xBSFlC2S3SgzlicAM5bzAxUXkDHJYrrr8SxjkBiayDQxJA5cJsx99IeIDK3IpsG8nAQhLfO8JVug/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，英国伦敦萨瑟克刑事法院对一起震惊全球的加密货币洗钱案作出判决，被称为“比特币女王”的中国籍女子钱志敏（Zhimin Qian，又名Yadi Zhang）因涉嫌洗钱73亿美元（约合人民币530亿元</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=3&amp;sn=b78e491b42a593c7fb0c7bc459bc4550&amp;chksm=b0371e47f449d7f475254fe992e458ebd834ae6524b9028a627034be5c461d1e389baa3adf8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[国产大模型 Deepseek实战：10节课精通大语言模型安全应用开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EEzlUx4bJpPEDMPMw4yTBwMpC34QVMiaIzMWodjmibhXxf9fNicY0R2OMyC6IH7rLelxPHESayVjnsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在攻防对抗不断升级的今天，传统安全工具已难以应对海量漏洞和新型攻击手法。而大语言模型正以惊人的推理和生成能力，为网络安全领域注入全新解题思路——但如何让AI真正落地安全实战？如何将ChatGPT变成你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=4&amp;sn=36d28ee94fb0f2d56f1b301f36df1ca6&amp;chksm=b00968efbec8d3d8fdf753feb90104225a9bdcba36ca4ea70e418a246821dc5a8794ab87b1b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[强网杯S9初赛逆向-解题思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnEVUwzCsuNa8pGfPSMibaeDZdXFJe7vNicMe28YdpRQIUFiaOdoHCl8nng/640?wxtype=jpeg&amp;wxfrom=0"/><p>tradere01基本vm结构分析ptrace父子进程调试，父进程追踪子进程int 3指令的位置，替换成相应的操作，因为开始的赋值操作导致数据结构不好看，可以考虑dump+nop初始化的方式。每次in</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=1&amp;sn=99200fda1665acfd07753cd6a74b7dfb&amp;chksm=b04c9d814a2ac3b930e3677ae50f92ee6d2cc955c44cc4628f53991f94d2bce1d3a2e5916be0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Zoom曝高危漏洞：攻击者可越权获取会议数据，请立即更新！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxe73SjCaUXELLnvCSWNiaRae7lXtXN3qpwhqpYM1HaJnP38EbDbmQKRaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Zoom发布多项安全公告，披露了其Workplace应用程序中的多个漏洞，包括两个高危漏洞及数个中危漏洞。这些漏洞可能允许攻击者绕过访问控制、加入未经授权的会议、访问敏感会话数据，甚至植入恶意软</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=2&amp;sn=e8be2a3e73a6aecb13ebf43dc72aae0e&amp;chksm=b0537094109de1de155d8ea1acbf5c394d01daeefe089ad5a03b7dfc4289b1c0999e2e4d16f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30 小时玩转 CTF！竞赛通关技巧全掌握]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=3&amp;sn=351016c632b91751a60d6a8345406dea&amp;chksm=b0ed54742399d626e6d4c77fcd74abbeb377c37b5609a919df5fe71027daa85d3d380da2063e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2025 议题回顾 | 利用大模型辅助自动化 BYOVD 驱动漏洞挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnXc5hUI4R9XePolhsGYoIL0QYhaicfOeIx4zLcNlGmMMsHyQSoBdstag/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾BYOVD（Bring Your Own Vulnerable Driver）驱动因其隐蔽性强、利用门槛低、攻击面广泛，已经成为黑客组织和APT攻击的重要突破口。本议题首次公开了阿里云系统安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=1&amp;sn=b4a9afda0c3cbd7755e716331ec19d7a&amp;chksm=b0bffed133d902158e298d8b37607de11e871162ef183fa2ef4047524c85f7b8032899cce168&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[最后1天！看雪双11·课程狂欢，限时抢购]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnrUGMFBjP3uhgQcXExsDesNC33oPjHsYIicXha20rrGb0xglPfGrpjag/640?wxtype=jpeg&amp;wxfrom=0"/><p>【看雪双11 · 技术人的购课狂欢】年度钜惠，仅剩1天！活动时间：11.7-11.11快来扫码加购想趁双 11 囤点硬核课程提升技能，又怕遇到 “虚标折扣”、“赠品鸡肋” 的坑？别慌！看雪安全社区双1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=2&amp;sn=4db86efcce3ff94e61099f53b9a8c43f&amp;chksm=b028510daef313fe2d400d0ad005a3d18be8334bceb743441a8d15d5c5ae6baaaf045ad0fa9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[三星0Day漏洞遭间谍软件LANDFALL利用入侵Galaxy设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iawD8CeWbPWQXx4V5bFaicxNDaBQK8CG2dO03ggpx3RWxoA6HxicyOMQDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Palo Alto Networks旗下Unit 42威胁情报团队披露了一个名为LANDFALL的新型安卓间谍软件家族。该软件利用三星图像处理库中的一个零日漏洞（CVE-2025-21042），</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=3&amp;sn=f4abd7819eccecbe85bc803633762cb2&amp;chksm=b06c329ec7be50d5c55fdb78ae8d51a188bacaf3f2261f238871e941452bd67f151e7aff9d05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于Linux6.12.32的程序启动流程分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnhU1KIfZibJoSHPIyB0HygotU2icpuzfDV25p1yaHQvxflM0AMxSYMZ3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 主要可执行文件类型为 ELF参考文章：https://zhuanlan.zhihu.com/p/627078387本文主要还是方便理解 Linux 在启动程序的时候大致发生了些什么，对 i</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=1&amp;sn=d8a53e49a04b229c8af3d78469884caf&amp;chksm=b0160af7a554b5547285e2ec3dd33cb03cf9da0923ff9b1b63e0d5e315f6253d13c5360e1cfa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[公告 | 看雪论坛服务器11月12日上午搬迁，暂停访问2小时]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FLKl0tFtpNSCrUKuKa6MvuGv6Tj84sYxwNWTTlicSlUyauMn0NSBmYXWYRUDiaEiamibTHD2OIEvMEbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>亲爱的看雪会员：为了给您提供更稳定、高速的服务，我们将对服务器机房进行搬迁升级。因此，11月12日上午，网站/服务将出现约2小时的短暂无法访问。对于此次中断可能给您带来的不便，我们深感抱歉。我们会全力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458603946&amp;idx=2&amp;sn=34047d9afa33bfe7f79374a9887fa1dc&amp;chksm=b0060039d301d38fedcc1447a9a413e4cb7df8d2de435c5992c7be3e10eed6334f22f6fe0503&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[架构师之路]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[架构师之路公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/GzdjWDjRNlNg505kgYIUe2HqjC9XWb75LyEUIUYfoqYab9C7Yl2cLVQfJWVov0ibqkaNo9aiayYxRf7xEHJnctwkwWOibccCAvkEBcdpyLdwxJYV926l4ebibnZdORyYt67LnV1pW8WaYqQgljPL7JfPfQ/132</url>
+      <title>gh_10a6b96351a9</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[假如一个高水平程序员故意留了一个只有他自己知道的漏洞，那么这种行为违法吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwqDFGKldK5zUicUfhJW2gt8GkVW4vOZJYx6n4gX9DsPdoxpbpm5P6DXut8LAfRgqMCdElRicibq5Qqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人问：“假如团队里最牛的程序员，在关键系统里埋了个只有他能修的“雷”，这会不会踩到了法律的红线”?主题：假如一个高水平程序员故意留了一个只有他自己知道的漏洞，那么这种行为违法吗？https://ww</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979727&amp;idx=1&amp;sn=3e1fc8324bc32ca45c1728e31a2d5819&amp;chksm=bc7317f6d3f413ebf13ea4fd804c803b52316fbb623f3ded2a3ef51726573db74c2ba935cd07&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 19:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[究竟有没有人讲得清楚，数据库索引架构，为什么是B树？（第2讲，内核篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwqDFGKldK5zUicUfhJW2gt8NzFg5Tr4AwYe71auJCMDiaeFBe3kwX8q1htkoocnLkAvot9ILVMCYQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》2. 数据库索引，为啥是B+树数据库架构100讲，第二讲，数据库索引为什么是B+树。知其然，知其所以然，讲懂B+树其实不难，今天更多聊聊“数据库索引，为什么设计成这样”。第一个问</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979679&amp;idx=1&amp;sn=d73ab69532bed7678caa017677949085&amp;chksm=bc13dd854f97bf810d00ba911b8eea9f8bdac4932983015f2eddd5c142ddc6e7b5fe6bc765dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你TM怎么能搞成这样，让我来做，我早就搞定了！（专家转管理，要不要事必躬亲？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwqDFGKldK5zUicUfhJW2gt8toxojQh24lv4nvw6kmh4B38ic0Knzib4eOxicDKrpJuv4ckf5hic58sKsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。这一篇：1. 看到下属干得不好，要帮他吗？2. 专业上，如果你很厉害，把自己的能力复制给别人；3. 专业上，如果你不如别人，就招聘</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979720&amp;idx=1&amp;sn=ca524d9b093b1d3805ea8d5debdaac70&amp;chksm=bcec629a24e1c018aae6129c5529afe6e02ea90bcbaa8b7a85c186142c87e9649a5a66803e3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数据库架构，我究竟要学哪4层知识？（第1讲）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxfJiadQ7nIG6PvibSkmr8MKBxqg6UwLibkibpkxLjE8FtogRSAEue1ciaX4IgRUicS1vWDyiaOKISeibs3JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》1.数据库架构知识的四层结构去年立了一个flag，架构师之路系列，讲100讲。这个系列到现在，一年左右的时间，前前后后大概讲了100多讲。有些童鞋反馈，分布式系统架构有点听腻了，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979655&amp;idx=1&amp;sn=5ab9c1cbf3777e7ee4bff5348c7a7bdf&amp;chksm=bc2a53807916091689e87d8ca21150690551af79080b5ab5e37a2f47424031346603a59449d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 08:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[程序员这个职业会在10年内被AI淘汰吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzfPIM3ibUGFM8iaj3bQYj447ddCnFtyOiaHtLkDrNPqjLZX35qk1L5YmODxHJ1Q45hRyHrKibpn8Ak2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI正在以肉眼可见的速度重塑编程，它能理解需求、生成代码、调试纠错。它像一个不知疲倦、博闻强识的实习生，正在快速掌握从基础到复杂的开发任务。这让我们不得不直面一个核心问题，当AI越来越“能干”，程序员</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979645&amp;idx=1&amp;sn=cc7c6aa47dd00848672b7a4607287f1f&amp;chksm=bc948c21fe54e1418895044dde1d7f6c3d3664c5194a0069c22599de458f507bcfad0dc60802&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[晋升与涨薪的底层逻辑，到底是什么？（能力？绩效？老板说了算？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz0M3DwRWCP8ZZOa3IVvmDmCU8Jicj7Qfvstad342icoErIoh0AhgzGooonNLicBFVEaicVu9iaXv6y8ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球8月份话题：晋升什么样的问题，是好问题？我之前没有想的问题。一个对我职业发展影响很大的问题：晋升与涨薪的底层逻辑，到底是什么？每当聊到“晋升”，到底在聊什么？【1】为什么我那么在意职级与晋升答辩？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979568&amp;idx=1&amp;sn=16d09f081e4191e7a6518062658e20e5&amp;chksm=bcbe0dad16ee1a10a8ee6571e1b0edc7a79ce733da1a323eaa8576f0319ec7c37ddc549b7107&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[40岁，辞去CTO，一个人创业...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx9Kib2Vkrx19lAvALIic0iczHciatZhicyAc2icUjaL97pBbjlfKdvl3fDY82t4AicT9Iic3lpNpaSCfEK3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第五篇：1. 为什么辞去CTO？2. 为什么价值感不强？3. 为什么觉得对不起团队？4. 这个阶段，主要矛盾是什么呢？领域认证要1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979644&amp;idx=1&amp;sn=1fac7b0a9d2b8f303eabc9083d8ba6cc&amp;chksm=bc1787d22a25c445fee02a7722f19569f77f818928844c654d9424e77e403d933d53ad5363e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 08:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[500W数据，每秒20W并发分词检索，架构如何设计？（第114讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZNuBRUjKoCcT6lOYYAeGOv7WyjPpKLLaYia79PjbwZ22SPnzl9BJ9ywNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》114.高并发分词检索沈哥，我们有个业务，类似于“标题分词检索”，并发量非常大，大概20W次每秒，数据量不是很大，大概500W级别，而且数据不会频繁更新，平均</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979556&amp;idx=1&amp;sn=9a108b904eccc7ed8f5640fd7702b556&amp;chksm=bcae3d83744099eb35df8352107fc132b5d0f0e4afe7efd8b1429364bd6ed82dcb60d365a11b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么年轻程序员比年老的更有性价比？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzfPIM3ibUGFM8iaj3bQYj447sXrdoskSCSP988IiaFSKC6tAa5fZQ0hBIJhyFL6KfoHdO1IObQfw3kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>职场招聘圈里总绕不开一个争议：招年轻程序员还是资深程序员？不少团队负责人私下吐槽，年轻程序员薪资预期更灵活，熬大夜赶项目从不喊累，学新框架、新工具快得惊人，上手业务后能快速产出；反观资深程序员，薪资要</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979602&amp;idx=1&amp;sn=94a935ceac332752d10a6e3ff7afb31c&amp;chksm=bc85459ac861963a990937888b80cbbc3ca3937e84ac4e610eeea687fc1aebf2e1f1e7ce5933&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 20:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每秒30W次的点赞业务，架构怎么优化？（第113讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZND0JrHHjV2v2YBD48nv523rrhcz6XrJdjoEmLOG3lJmS39ULibtkqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》113.高并发计数继续答星球水友提问，30WQPS的点赞计数业务，如何设计？可以看到，这个业务的特点是：1. 吞吐量超高；2. 能够接受一定数据不一致；画外音</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=1&amp;sn=75e70accc000669991602d4525ce7536&amp;chksm=bc68a8d209f5ff544425790ade4a07e214c781b95e1102ff32f22f913380de7d4622f55123ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[有人问我说，沈老师，写公众号10年，你究竟是怎么坚持下来的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz0M3DwRWCP8ZZOa3IVvmDmjFYbWOhhHXybrxwmQc7ue3z1F8ylQQuZ8bVCe1JRXsj4mfqnIxq8ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第四篇：写10年公众号，我是怎么坚持下来的。领域认证要1000个粉丝，大伙帮帮忙，感恩。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=2&amp;sn=cf62efd2fcea3c1a5d0322e2a1055a15&amp;chksm=bc4199916e64cdf0c4cc02b76a9dce42aa7db34d4fe8facbfa1f845ee887d344ba9e49fd2612&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[责任感，为什么让我陷入无限内耗？（内心愧疚，一定程度上...）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZNOxlFUQRq5NJ7yB8qJhjJ43jibmia5ttBpqEljLvetabNibdKv91KZDHnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第三篇：1. 企业经营不力，是我的责任...2. 有同学离开，是我的责任...3. 没有陪伴家人，又是我...大伙有什么帮助我的建</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979538&amp;idx=1&amp;sn=49f84d19069b5a379710789df9f008aa&amp;chksm=bce9008ab164b0899c100a3778d5d58507a143410211d28925cfb312995a0f1fe7790486cdc3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 12:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[码农的儿子成为码农的概率有多大？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyVBLw2OfYvS4iaBRc1q2IRbtP5taVVYZvBERujypqxDM9xQoB9Rq8xCUJicd9FAeiaZ2SkWtLhLVdXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人忍不住想问：码农的孩子，真的更容易成为码农吗？是家庭氛围的 “自然传承”，还是职业标签的 “隐形束缚”？主题：码农的儿子成为码农的概率有多大？https://www.zhihu.com/quest</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979519&amp;idx=1&amp;sn=2a9da28ccb8b64cd4f169794c256af5b&amp;chksm=bcd891f113ffec27ce4e53938fd01dc6fd262ffdfbf9a9f498e0ec10ea35148bd7bbb137a792&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每天都很忙，可为啥一个月下来，又感觉啥也没干呢？（你有没有过这种感觉？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz42wHRGGQ2LSKzAj5pxAr2F4eticCHtkibXoITvalfvV2iaiaAoprPpiaBa5gia0RbpXO87oITICEP0kicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：我的时间为什么总是不够用？【1】时间管理基础（并非今天重点）职场早期，我觉得自己每天都很忙，但时间完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979495&amp;idx=1&amp;sn=0cd81acb0f660c358d320bcc4abee85e&amp;chksm=bcc5f1da9b73194b31bef9b1a72b7ca7e6c428de7664eb082635bff014d5ebdfa51df4e0dd66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不是天赋型选手，难道就没有希望了吗？（作为普通人，我是靠什么走过来的）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxmQjMgTn6VRUYEbfHeleiaouNTKy3hTo8pIZqmsBkpdibbWj9ziaJibnxejDdjoiadHecKqmnPJBicmVFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. “架构师之路”视频号主讲架构；2. 新号讲职场与第二曲线，聊自己真实的故事，真实的感悟。第二篇：1. 高考失利，我要如何应对？3. 百度的同事又聪明，又努力，我该怎么突围？3. 我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979518&amp;idx=1&amp;sn=d7a7b05884cea2cb6008d04b0507b173&amp;chksm=bc35d7c3d7b4520ee54e941b8dcba083e42079dc613abf8cf87fad8c69eafc42d21c43eba3c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 09:24:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[交易数据频繁变化，100W用户如何实时通知，如何降低数据库压力？（第112讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz42wHRGGQ2LSKzAj5pxAr23NdUAEQAMhl7HPFzZu0v9cUQibVvPwESvtZtiawBBlQoKrAm0icwXS2ng/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》112.实时通知继续答星球水友提问：交易数据频繁变化，如何做缓存与推送，如何降低数据库压力？并没有做过相关的业务，结合自己的架构经验，说说自己的思路和想法，希</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979476&amp;idx=1&amp;sn=7b80543cc7d8f3a8905ee2a06e5e71d6&amp;chksm=bc1f436450f7d86d237dbf126dbb51fb611cef967bd7dd97cbc1a748c615257d7e37635a6de7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高管决策失误，一线承担后果？（作为CTO，我为什么工作得不开心...）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz42wHRGGQ2LSKzAj5pxAr2AYZaINGj1zvtBTTf8LY8JlibibpTnuNkDPXibY0OHoVpcicyA6rz4haibUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号，谨防大号失联：1. “架构师之路”视频号主讲架构；2. 新号讲职场与第二曲线，聊自己真实的故事，真实的感悟。第一篇：1. 从一线研做到CTO，为什么最后却不开心了呢？2. 高管决策失误，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979466&amp;idx=1&amp;sn=877497e4a0da246166d5e618779dc799&amp;chksm=bc33bfc9e8eb2b4332de06debb7085a35bb322a96811ef3795aa06803cf88e5e1ba097c44f01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 11:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[几万条群离线消息，如何高效拉取？（第111讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOymrOvT8QdwTwuibGnl8Ip8WibQX5s60zzK9aHNZZtIWhpENibHbRZJVdmZ7Ta7rrSpaV21vq3PEBDuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》111.群离线消息架构继续回答星球提问：1. 群离线消息是推还是拉？2. 几万条群离线消息，怎么保证不丢失？画外音：欢迎大家加入星球提问（免费）。群离线消息，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979459&amp;idx=1&amp;sn=69c495431866f1255dbac4cfee07d53c&amp;chksm=bcc00503171f5682b92fc0929c8964379fcc7dbb12ab6c2b49dc64c03571247d9a4d5eddb3d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 11:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[除了AI，还有架构！（Top100全球软件案例研究峰会）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxHJuNiaTENibZKnTyspjnj2lSVfaX2RmkXkufZHpfuASYPcE5VVYuhm53ricSKH22B7wcSyyr5nRQZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了什么事？事件：Top100全球软件案例研究峰会时间：11.21-23（3天）地点：北京官网：https://www.top100summit.com/国内比较TOP的技术综合类大会，比较TOP的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979450&amp;idx=1&amp;sn=f3db0299d1d9effff28ad2484981de75&amp;chksm=bc287d4683d127950d5ebf159a61ea4af4306debdc5323e3d120e491f86b05d88edcce0f332b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Nov 2025 11:43:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[程序员们可以说个暗号，证明你是程序员吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzNyUZQWxTZzI5eBzCVw6XNcia7A1R6mjAFojcrS5rUpf0CLWhzVL6hxhPLMF0QOCNjbVOmQT1WUNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>若你在走廊听见有人念叨“0是开始，1是归宿”，或是群里突然弹出 “遇事不决，先打log”，别怀疑，这大概率是程序员在 “接头”。主题：程序员们可以说个暗号，证明你是程序员吗？https://www.z</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979432&amp;idx=1&amp;sn=b6c121f3917dcf52f7455226fc876d9a&amp;chksm=bc72f6eef1f9f4eb8acefc449952253c82f5232594bed17aa09d1ce49f3cdb23d6352975f473&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[需要同事协同，他不配合我怎么办？（都是平级，凭什么听你的？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDfS4UIKvAicHLFSHTDlBpexpkuDKWKRial8IqZ8FgSolMQKPKowobXGibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：如何让兄弟部门配合我？【1】身处职场，你是不是很多时候需要兄弟部门的配合？我经常遇到过这样的场景：1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979405&amp;idx=1&amp;sn=e866a7d802ffee252d39db3e42ed9d6c&amp;chksm=bc63dd07eaae136c05f95818fd09b8d406f07bb64ff3bec7be84d1511387393c2a5d76213aae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[好友关系，百亿关系链，架构要如何设计？（第110讲，答粉丝提问，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDzwT4dxfiabIVZXtH2S6sHCWQ3lBVwSnVhI0u2j4Rx12ib9mUz3Hf8rsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》110.关系链架构设计继续答星球粉丝提问，大数据量，高并发量，好友关系链、粉丝关系链要如何设计？什么是关系链业务？关系链主要分为两类，弱好友关系与强好友关系，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979394&amp;idx=1&amp;sn=702d64bc7f91aa68d5e4cea85d2ed4d0&amp;chksm=bc937a9476825a60c7613870bbe91e6326b37bdb51e179500d25448778e976a3329c4a9b69e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[程序员那么累，为什么你还当一名程序员？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzNyUZQWxTZzI5eBzCVw6XNxbB83eiaeQpEnict7HXP4wEDr8crAKd6CVibDqhzXOZ1F9bmiblC4FkK1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>常有人问：“程序员要熬无数个调试的夜，要扛版本上线的压，怎么还不转行？” 主题：程序员那么累，为什么你还当一名程序员？https://www.zhihu.com/question/630236419【</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979431&amp;idx=1&amp;sn=c24e10f52ad5e9f37d676bdcb37ca996&amp;chksm=bcf3a6d36a6bd28bdfd6be220707f7fe382ce4855c974b58455f62376bc7dcc32d1ebddad793&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[几亿数据的定时任务，执行时间优化都不会，还做什么架构师？（第109讲，答粉丝提问）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDicsSdiaUAqvdFpkC2xljETstThaib6HH1pkhSW59GCqcQiceROjBergReg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》109.定时任务执行时间优化这次回答星球内粉丝的提问。问题抽象：1. 用户会员系统；2. 用户会有分数流水，每个月要做一次分数统计，对不同分数等级的会员做不同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979384&amp;idx=1&amp;sn=e220242d2383b91bad7709b0ccbb16f2&amp;chksm=bcc600dfc8b22d69d36ff72a7963b69fb41733fc423f11c7b3a890155a8d26b2b08ce66c6263&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[什么样的程序员在35岁以后依然被公司抢着要？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyVBLw2OfYvS4iaBRc1q2IRbDasum6xuPiaMaqC004hk74DGBu5iabw8T7gZYiaTaaqDmhfkNhNkboAaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>朋友圈总刷到“35岁程序员焦虑”，有人怕被优化，有人愁转型。但也见过身边前辈，过了35岁反而成了公司“香饽饽”，新项目组抢着要。明明都是写代码，为啥有人越老越慌，有人越老越值钱？到底是技术栈够硬，还是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979374&amp;idx=1&amp;sn=d2b679fb150fea184be6932cba30fe40&amp;chksm=bc9d424950a471b680af11c1292c38146a2c55818716c2ea9e4c8883120697cda9b177e25572&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情绪波动者，能力再强，信任值也会归零（那一次，我TM差点把产品经理Duo了）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Nd9CiaBh4kZzjqvickceLKyZ1ACRBfKh4UoDicCI5QF33RyJKkvZ968ZpBO26F42JibA2Ocribg3bDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：身在职场，情绪控制能力，到底有多重要？【1】身处职场，你有没有“差点失控”过？我偶尔遇到这样的场景：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979311&amp;idx=1&amp;sn=f2f788f328646a1b4f6433bdf88220ed&amp;chksm=bcbce32d116ec6dc9491f59b732ecefcf7939f220f68ccb4f743cb83757f1140ddc018746b64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拥抱AI，重塑研发（送福利）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyicmnn8FAaNnI0uck1dOWbd3930MlleTr04bKeYmjibARzGmTXPXQJiarsdW6NJgcxPCO1MGNsobsZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了啥事？时间：11.14-15（2天）事件：第8届AiDD峰会主题：拥抱AI，重塑研发地点：深圳官网：https://aidd.vip/2025sz国内比较TOP的AI大会，比较TOP的公司都会参</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979353&amp;idx=1&amp;sn=119cf78a62368dc7c55558512c6e3dc8&amp;chksm=bcb049b97de540943215cb375573b1985f2ff84ab6a962b7bf2c0660262eff02055f207e31e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Oct 2025 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MQ平滑迁移都不会，还做什么架构师？（第108讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Nd9CiaBh4kZzjqvickceLK3jwmJgQplOEDN0PgjxMg4h7OELPbpnicuYZr2Kj2gnM78xlBhrnYYpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》108.MQ平滑迁移继《MySQL如何不停服平滑迁移？（第104讲）》之后，有童鞋问我说，切换MQ，从一个旧的服务商升级为新的服务商，能否平滑迁移？今天和大家</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979289&amp;idx=1&amp;sn=5a3b58b0d85a6970c5638215410f161e&amp;chksm=bccb10cdc2bb3e1aab5795870dc2f8722b6344ea244f5ddabe9b17aaa1812024cd937ce2195d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么产品经理不能一次性确定好需求，总是变更需求？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzV15TYXulvwuLSpCu0WZwUjlEXDFZ1KqOGFekqiaXMSMoJ3pLAfgEyic0mENOAwF6aiaicibo9WLwNIFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“做项目验收的时候整理需求池发现，200个需求中，接近80个需求都是变更优化需求，为什么不能一次性就确定好需求是什么，需要返工来改呢？”主题：产品经理为什么不能一次性确定好需求，总是要变更需求</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979320&amp;idx=1&amp;sn=3788aaf497f9f85aa5bd2f24a82decc3&amp;chksm=bc31b14042db456cec1ee09316a6f479a89f332cfb29208f975d28f903caa97bb9d5c10868a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MySQL写缓冲(change buffer)都不会，还做什么架构师？（第107讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Nd9CiaBh4kZzjqvickceLKvZicsyHDqibiacVYl68VqpaRpibWVqfFs4Fqgxjev4I1RibKChOUV21iaFlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》107.写缓冲(change buffer)上篇《MySQL缓冲池(buffer pool)（第106讲）》，介绍了InnoDB缓冲池的工作原理。有童鞋在评论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979285&amp;idx=1&amp;sn=b6bfab4cacaa6fa3366b9fd6e4628b27&amp;chksm=bc005a0aa11d2897f4ca9af2559a28c65f49bc1bd105ee1b5b8035b359094f7f34dfa96d193b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[乔哈里视窗：你眼中的沈剑是什么样的？（感谢大家的帮助）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwnZibjPSJ0DbiaLQKI3kM7ibZBf8PMAqliaeFSR7AicaBvpjVicYbv6UjibYluwLK1TZMlBmNQgE3u3FJQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>参加一个活动（初步可以理解为“成长教练”活动，关于自我成长的），要收集：1. 自己眼中的自己（我已经完成）；2. 别人眼中的自己；乔哈里视窗，我之前在直播中介绍过，大家可以deepseek一下。通过别</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979279&amp;idx=1&amp;sn=a7c40918b2fef5e8ed149772017af5be&amp;chksm=bc431f097c40f26b0f02d276e97d05e2e99404aeda60f40bba3c50fb1eb170f1fe140feebb11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Oct 2025 12:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么程序员的工资越来越低了？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwkzz3icibzteMhFVynwrxH9YG3FBle7xvp3NNicw9Z1FzR9tibuGlFRDhrKIajp9SGWTYVGNGn5V5VaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“现在失业是就业岗位的减少，大家都会基本使用的那一套（个人能力、思维方式）能力差异肯定有，大环境下会卡条件、工作经验、项目经验、跳槽公司等。之前月入20k，现在只能10k，福利和待遇的下降，是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979310&amp;idx=1&amp;sn=a9c5ef34d80cb784bf6fcec2912347c1&amp;chksm=bc0f717a1c9dea04ee35b6e7d93ae2eca5dc1229868ff21f61a789a8e59d0d77e6b9986e316f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[技术人的出路，到底在哪里？（我做了一个统计...）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQ0jpX06iaL2Wr7nogZ5dYPwIcxwgAJ2JCln1DU6AB68jQjdFLesDLGsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球6月份话题：职业规划什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：技术人职场，典型出路在哪里？【1】我为什么会问这个问题？我站在上帝视角这么问自己，另一个我坦诚回答：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979205&amp;idx=1&amp;sn=f4d8d8d39b926e80b8065d64633fd64c&amp;chksm=bc7ccdf05db3203200303fe90683be887ec89c2ba6a82664c7716bebade22b6a7822b7c031c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不写一行代码，生成一个应用，你真的不想试试吗？（Cursor+MCP，搞起来！）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyQD1MCiclU6fic5RZHe393oeqicfUMbd4eic4ib7mlhaVsAHpWuNFJiarsfMgg3425xprRrmxmIZHK6hzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去，将一个想法变为一个可运行的应用程序，需要漫长的学习编码、调试、部署... 可谓是曲折艰难。而在今天，这条路出现了一条全新的捷径：一个清晰的创意 + 精准的需求描述 = 智能体为你生成可运行的应</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979258&amp;idx=1&amp;sn=818ed3de44e74edf797824a353de7de1&amp;chksm=bc641c25782931f391834d45446558ead2b3e55aa91c2474df11b55835651d1d8035f076e8c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MySQL缓冲池(buffer pool)都不会，还做什么架构师？（第106讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQYtM9F1m019yia8Lf3wjJ2l9SK64Z39NROteCN3xqSwBL1vQ98nk2AVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》106.缓冲池(buffer pool)应用系统分层架构，为了加速数据访问，会把最常访问的数据，放在缓存(cache)里，避免每次都去访问数据库。操作系统，会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979192&amp;idx=1&amp;sn=294ab1b7a7da4be18532d00052a26572&amp;chksm=bc1dd8b7798d95cbc5eda9fefabf83cda43e53d0c7288eb5d83a0b54b34b5a24965d6dfc3812&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOw5UBgg38YtBIEibES18fJlIlb1HnjC1VJAm9aYaKOjaNdJFESNnP7kxyWYNoXdo9R0S3ictz13DJ7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人问：当“精通各种技术体系”的资历，败给了“45岁”的数字，这究竟是个人的困境，还是整个行业亟待反思的偏见？主题：为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？https://w</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979219&amp;idx=1&amp;sn=6c2945a4d15ea45e04c3e062d9acb091&amp;chksm=bcd725f03ded8d1b4d2aec7441211b5944cb434c08e63dec0049ea2f3dac4af46ec841912895&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[内存管理都不会，还做什么架构师？（第105讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQpF49dQomakKNORZbscspGxlZE3JahibK3OwGNHfvGroo9E6rgFHicnicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》105.内存管理内存管理，是架构师的基本功之一。如何掌握这项基本功，最好的方法是和开源的项目学习。memcache的内核设计，值得每一个架构师借鉴。第一部分：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979183&amp;idx=1&amp;sn=b03bf65b82c9d6d1023b7b53bf4cbcb9&amp;chksm=bc07f0cfa83b93cb8b35fb708930ef1f581ec40f31130fec58b8caae1a272932b631b5d423c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 11:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个AI大会，说不定你会感兴趣？（附：封面提示词）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxzxnY80dhvqttaGNXhINSib6HBe2pHtyjJTAXJo2HIwVSKcp3KAicbKdoCEfUbsJ2TqEf2MtUGgZqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了啥事？时间：10.24-25（2天）事件：DACon数智大会（DataFun策划）https://h.datafuntalk.com/QGtTkg地点：北京国内比较TOP的AI大会，比较TOP的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979173&amp;idx=1&amp;sn=d03dcf4af14c36ee13a93f1a8cc09e60&amp;chksm=bcbc28fd2412edbe4df6ae61405cad7e3b15264342b0db17b9a898da1739e0fa289a56648ce5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 11:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为什么程序员害怕改需求？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznlicPUQAun7eWQfKtFdbke0KaqY7ION4biahRsB8I2DhVmmPsTmnEjPQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在程序员界，流传着这样一条堪比“第一定律”的共识：“杀一个程序员不需要用枪，改三次需求就够了。” 这虽然是一句玩笑，却精准地道出了那个让所有开发者心头一紧、瞳孔地震的瞬间，产品经理带着人畜无害的微笑走</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979104&amp;idx=1&amp;sn=c6bdfb718cb4f576cf850369d3f7241d&amp;chksm=bc56df7b6f20483359c5087ecbf2b2121debb4abe6efaf9b012e6289e9c41e83474b6a3c21be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[技术人的职业生涯，到底能不能复制？（有速胜的方法吗？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznuGKydwz3sgWhiaPy91ibFISFfbXBiaBxV6DmpUFtVEM69iafBV56zBoGlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球6月份话题：职业规划什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：技术人的职业生涯，到底能不能复制？ 【1】我为什么会问这个问题？我站在上帝视角这么问自己，另一个我坦</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979092&amp;idx=1&amp;sn=4765134e5c77d2cb8c6fd7df9c6ea8f8&amp;chksm=bc34c0bf057dbe008247d339e35f5f559644ed5c2b7e7fe870233fb5836f6f89955c7a9fb417&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分布式系统一致性为什么难做？（第20讲）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kmwCgfZ7TNS77S3E6UzGcyCU9GJxFzCxAFtWJd0s7CROWCSGicJ5cic6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979022&amp;idx=1&amp;sn=814a5c5406af0f80ee1b893ac3845198&amp;chksm=bc2d3ac04ba0be10fd123bfd717cb646bc6131f1f94495088b726c43a13ed11b51c5b385e24b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MySQL，100亿数据，如何不停服平滑迁移？（第104讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOw2EMCIp57KxTsSmvVSTQODN1zOXAbdvLU2Bh0BMhZYDbzicVEsA5QvK8iahdWCwIic1hnice1XtNJbeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》104.MySQL数据迁移上篇《MySQL怎么秒级平滑扩容？（第102讲）》之后，很多朋友提问，说如果不是“双倍”扩容，能否做到平滑迁移，不影响服务呢？今天和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979069&amp;idx=1&amp;sn=7a3c3e24b348f3eb615a80ff178312b6&amp;chksm=bcf250cdaf2a0530114117900035519054c2e241e95226ea745d05109cdfb23b1318cf5ae105&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[把我放在海报这个位置，有点受不起呀！（免费签名送书）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznTxIH4PagpSVVDcs1fYDW10sE0rkvDsJhMXjvMsAXWN0CX7oR3gjAfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>【1】发生了什么事情？时间：10.19（周日）全天事件：软件架构峰会地点：北京，机械工业出版社报告厅主题：架构新生，数智时代的软件架构峰会【2】有哪些架构话题？话题：《Devops转型中的生存工具》[</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979102&amp;idx=1&amp;sn=2b24f27f344469fa2d9a767bb3a22f03&amp;chksm=bc170ad744e8a92ae82d6d4720b72c98001b844fe78585dd4971769a0213ea9b35defcc80abd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 16:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[炸了！业界难题，跨库分页的几种常见方案（第103讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz1gyoUEWiaPc5cuGl8agxcVlEGdWLfume3EhHWeNRRrAnp2MrhaVQn6CHiboTBEwq654UHxBMjr18g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》103.MySQL跨库分页为什么需要研究跨库分页？互联网很多业务都有分页拉取数据的需求，例如：1. 消息过多时，拉取第N页消息；2. 订单过多时，拉取第N页订</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979060&amp;idx=1&amp;sn=f8ebe0019d2c5b1de814e5ca6c0bd470&amp;chksm=bc199ab8853bab022f4b6363fd8492fce35edc54a29a7b080f0851748b8b4edd66da2b4317ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 08:06:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PHP使用local-proxy的一种思路！（第19讲）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657k3jTuD95MaY54QvkMX7goyIeyjI7tiaxn5Uwmk2h6ibKpfGPUaE2sOWRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978982&amp;idx=1&amp;sn=56b07e4f69ee69aa8de6ebad1afd34df&amp;chksm=bc06464c15d39b56d84d1c52c09faafdf95e6e9903bb861777d13f046726a7b4cdb458c764a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Oct 2025 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[长期当程序员会失去什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyqyJ9gWWv7JDGcwAbOFNOpTyl3C0Bxic9dGAJGv7pVPDdicMCic78v1JVChQZHCbDJYteqqlECvz82g/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“看奇葩说和主持人大赛，总觉得他们知识面很广，对很多事物都有独特的见解。看薛兆丰老师的经济学讲义时，总觉得我们对世界运行的规律缺乏了解。作为程序员，或许执着于技术，却很少思考我们的世界，我们的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979051&amp;idx=1&amp;sn=4af61ead03a6f4da0558cde5a9d92383&amp;chksm=bc0c64697c358ec2a5503c39341e7c2fffc46d610c2832d2bae3da191a5f6f65ac3ab5c58351&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 20:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1亿数据量MySQL，怎么秒级平滑扩容？（第102讲，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kDt79dnoq4sDMeueNPcqjSBUdzniaiadKagtjO5P0229mpNMF4o6YkO1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》102.MySQL秒级扩容数据库秒级平滑扩容，这个问题之前写过，上周有个童鞋在评论区问我，说找不到原文了。这个方案实操性很强，曾经在58我们就是这么玩的。另外</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978954&amp;idx=1&amp;sn=abfb90b68370f6d99e58734f34174fb2&amp;chksm=bc3f9ef7f3b1e7b732ef7bb42a052ab8897a73af73559c8a6f2a805192c81c7057996f31c11e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 08:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[70天短视频行动营，下周开营！（40岁一个人创业）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kuPvEhwwR1vJaibsqo6GdPzSNK3ian9kQegQefsAW1MTFpoyJV4o2aMYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>【1】为什么要做短视频行动营产品？1. 在几百份调研问卷中，“短视频”需求最旺盛；2. 自己在这个赛道拿到过不错的成绩，有一套方法，经常出10W+；3. 短视频确实是当下的风口，机会非常大，不愿意大伙</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978963&amp;idx=1&amp;sn=3fe45786ed9671c8764d4cca9eb632b4&amp;chksm=bc8e93af85b6d38e056520f14ca24c5defb86a2a8ceb239a142c8fe4652202f5fa69142d3835&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 11:42:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[秒杀架构优化，掌握这一个核心原则！（第18讲）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx9fSspfE9mvgficn6Z9KVnRc0mh6BKgv9XZIDuNanxia1OgaW7LfnLYJvjHH80bSrRbUDMPZiaoQfHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978945&amp;idx=1&amp;sn=2913b830dd5ff4f635cf00126b75b323&amp;chksm=bc9ca6cf82fb61355c1be18a020891618d3b8662b55d27bc0b43a6647c565f3b2d912f460770&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 20:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在小公司编程是一种什么样的体验？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyTXzMUvc0jMmqxLBRooYvtjaCnSKu5XtCs8ia9Y885TPWKHopdYDKMuq5O2vuxRMBOJoz6SmxEqcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“好像平时在网上看到的都是一大票牛人，在大公司其乐融融的开发体验。那么，有没有普通的程序猿，在普通的小公司，分享一些普通的故事呢？”主题：在小公司编程是一种什么样的体验？https://www</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978865&amp;idx=1&amp;sn=47ccfd4050b1c037f246757a656bbba0&amp;chksm=bc76cb664eee15452ede93d9123b9e474cd8c5b373e16c07d0d17f047f682346777e2d3d372d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Oct 2025 20:35:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

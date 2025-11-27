@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[奇安信威胁情报中心]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[奇安信威胁情报中心公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/icqiaWjCyyxOo4MbQBtjB7U9ibyd8CiaFBjzZFk7jt6jYOSkt1AGbpZOW98xSrbQ1R3l1urfl1JIjZDyKM4NibFcQJ4C5ll6IY3cbSOUFYQRg4LY/132</url>
+      <title>gh_166784eae33e</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[披露SetcodeRat：一款专为中文地区定制的Telegram窃密特马]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicy3oTa9OaibMN0akf7a5vRicEfUJ8oVia889KHMQyDbcDOztKxSAUAAsycSFMOEVrx5Y8AK0LeXtzsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信威胁情报中心红雨滴团队在运营私有情报生产流程过程中发现一款此前从未被披露过的特种木马，正在中文地区大规模传播，我们将其命名为“SetcodeRat”。该木马内置针对Telegram的定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516773&amp;idx=1&amp;sn=a4d99b46312e0ae944d5f8e550e89a4d&amp;chksm=eb69bb4a0a0d69cc9564d98204506d7579d78c0a7fad87616bea27fdb0d49b5a13fc9c1e57c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 11:21:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.11.14~11.20)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicibnvX0erAj3BoWpos60FRSnPuPTf1Y94xB114Ka2FLSvsfhVeiaYo6UoAUa4XXicOoibXXqdAiaY260tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.14~11.20攻击团伙情报UNC1549 针对航空航天和国防生态系统发起攻击Dragon Breath 使用 RONINGLOADER 部署新的 gh0st RAT 变种APT42组</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516700&amp;idx=1&amp;sn=e4e97fa247350ee2a4c4872173c13a75&amp;chksm=eb5ad6019577342098ff6104218a65da04f21274939d467d196e16dd396124ab75212b2c6092&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.11.07~11.13)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic1o3iaUEnwTes2bmKlbiaOJibMd8KhA9B9Z7PNBdZ5HnsAto7ha7OcD2WDzibwic3taSxFMV43F21qXibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.07~11.13攻击团伙情报KONNI 利用谷歌资产追踪功能 Find Hub 实现远程数据擦除攻击Lazarus Group 携 Comebacker 新变种再攻航空航天与国防工业蔓</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516597&amp;idx=1&amp;sn=37ce295833241692c40eec82645c4e4a&amp;chksm=eb11d6f42a8aba30252d63f509a5a80d3d3470abda692fc738628793c6d987904ff4622e3dd1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 10:04:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.10.31~11.06)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8ZeZNIsF4ibDpic4eia0DRtxxaS7xWxNbhnqHSEy8bTOiaUbBnoveSica9ooquqDea4hNwiaZSkgXuJkqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.31~11.06攻击团伙情报Curly COMrades：通过隐藏的 Hyper-V 虚拟机实现规避和持久化研究人员披露 Silent Lynx 组织的 Peek-a-Baku 活动研</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516573&amp;idx=1&amp;sn=41e4287a07c23e992b7a7d5f13ebc09a&amp;chksm=eb1185a49f1de84f1cf3d1d4c79cfece0816783ee23d5d37470daf2745f6baf11e762b9d1d18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Operation South Star:针对国产手机的 0day 间谍活动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8BhrvqSKmNI92iaJn6Fne9dV9jy53icN03FDibLoXx4gWqqaryONA1UclYUcRy6l9sfFzNaZHfInPMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述最近几年，奇安信威胁情报中心红雨滴团队在与东北亚地区的高级 APT 组织进行高强度对抗的过程中，发现了近 20 个涉及国产软件的 0day 漏洞，部分细节我们已经在 Operation Devil</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516542&amp;idx=1&amp;sn=55df9e8ef778a5aee6bd099276a381b2&amp;chksm=ebb1f5ec6f634d924552bee309f1ec8152cbbd4c402a4ae0cbf0b9c42b287b91d0d23cf72571&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.10.24~10.30)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicUb7niaoyVVLwDt5nxAtAqP3icrjITyicUKwMEhcPpVIarP9ibckS2qoibuaW8HS1DgjiaTpAl5kpOzibEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.24~10.30攻击团伙情报SideWinder 采用基于 ClickOnce 的新型感染链Lazarus Group 利用 DreamLoader 恶意软件发起攻击Lazarus 以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516502&amp;idx=1&amp;sn=aadc73e9c3ea330c9943c51aa7cad5dd&amp;chksm=ebe211de4442a5f7cbf27590ad8b8e6a8969437b681c9df3c55fe7d4728392e8eb254ec6411d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研发人员请注意：你克隆的代码，可能“带毒”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicichxNuDsuZfVP6EFQ8qgsI5zn1vzfJJzAs2cG6nibNgO4NAQAASm466W6xibiacjibsQSZ4ozZ12ibwTfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信网络安全部和威胁情报中心观察到有多个政企客户研发人员从 Github 上下载不可信的工具或安装包，从而导致开发终端被植入窃密或挖矿软件，可能会对公司核心数据造成潜在的影响。本文重点剖析</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516465&amp;idx=1&amp;sn=a3985a67f38de686f0d2d7e01f031d63&amp;chksm=eb61e39c6bd67762c5fc2ffc261767ff70bfe39ba0021ab225a5512fcdd24921de828d07bcce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 10:51:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一次针对 iOS 间谍武器开发人员的 0day 攻击到美国十大政府承包商 L3Harris 的陷落]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic9wH11P8Qo2HIuuEoWPHicv312kSDgic1z62VGpMJTVguRBhjZFXNuduZ4XupGaZ7BWibnibThOXhVNfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引子该事件一开始源于 2025/10/23 日，x 上大 v @jsrailton 基于一篇帖子的回复，从字里行间可以看出疑似给五眼联盟开发相关网络武器的厂商 Trenchant 发生了信息泄露，提到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516445&amp;idx=1&amp;sn=96ac3c139e429191e1472dcdb916cda7&amp;chksm=ebf86ddd2ada4872e19dea223172082f2bb96688634557824003aafd32f234b5f18b5aead105&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 10:51:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.10.17~10.23)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic88HLjn0FZ5Xvj9HogeXOV9K8Rv2ibvyoeoAUyvYscdI3oFJ9q4S0nWnbUdRibYicTV7Saf4ddTyJaiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.17~10.23攻击团伙情报COLDRIVER 启用新的恶意软件BeaverTail 和 OtterCookie 推出新的 Javascript 模块UNC5342 使用“EtherH</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516418&amp;idx=1&amp;sn=0dee80b5083eddb1d5618c1d2ae15ba7&amp;chksm=eb2fb0ed5f6123fe121609cbb37925c87e1863668f30d367b55aed9152145d3275724cebd01b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 09:40:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TA585 组织利用 ClickFix 钓鱼技术部署 MonsterV2 RAT 的深度技术分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORRHcwFDO043XEKXjWg9XqBU9jXXBicLPnBeZxQ4grzqjHd3fUNSNa1GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2025 年 2 月，Proofpoint 首次发现了一个新的网络犯罪组织 TA585，该组织利用美国国税局(IRS)为主题的钓鱼邮件，包含指向恶意 PDF 的链接，诱导受害者访问使用 Cli</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516385&amp;idx=1&amp;sn=8f03b35f17ff5a7329d76ece0cb2223d&amp;chksm=ebf469db228f45e692aaf977fc0f3f91ae41fd5e897537d2c13cfcd77df543b863084a27b018&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 15:33:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[蔓灵花（APT-Q-37）以多样化手段投递新型后门组件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic9VAq08aQSWziarsSVW7D2ghaFjeNib0Jxc36Y4G5bQ3xxKKqfNhA6vIDicn2bicdQvQhfHVia2au6aib9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>团伙背景蔓灵花，又名 Bitter，奇安信内部跟踪编号 APT-Q-37。该组织被普遍认为具有南亚地区背景，长期针对中国、巴基斯坦等国家进行攻击活动，定向攻击的目标包括政府、电力、军工等领域的单位，意</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516384&amp;idx=1&amp;sn=3e053949ace1a20a955d317eac556cef&amp;chksm=eb89ece73581049de4506ca1150c5a87290ade2640c8a5b1361ab536d23c4e5b7d74b04054f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 09:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[软硬件产品供应链攻击分析报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicFBeSKs3UjwoshLULJcBSZQfbaFXyFJC9YI6zAfsiavTknIztUwibUap4neGarbQPnict2H5fddMpQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要2025 年 8 月，与勒索组织 ShinyHunters 有关联的攻击团伙 GRUB1（又称 UNC6395）通过入侵 Salesloft 的 Drift 应用程序，窃取 OAuth 令牌，然后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516358&amp;idx=1&amp;sn=3402f2dd396114d5d79f7b674106d3eb&amp;chksm=eb7508381f2afe7a9551e846233b8b2b196bca0e7dcdeb0924efc859fe61a9d52a294a5a27e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 09:44:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.10.10~10.16)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORHuhHf5TMIL1N4lsKFcWbbqGAqHQTuwv4N9icia2sGfibib3h9TqOwmLLYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.10~10.16攻击团伙情报海莲花组织Havoc远控木马分析TwoNet 黑客组织瞄准 OT/ICSAPT35组织泄露的内部文件分析Mysterious Elephant利用 What</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516358&amp;idx=2&amp;sn=4a524a0a3f679964479f9c2b49515d68&amp;chksm=ebfd7a3f6dca58d7b7cf1a12b3b4aee5239a1720217983acbdbad5cbd5690ddf0ae2a7aa45bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 09:44:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[另一个 SolarWinds 事件？F5 被攻击渗透事件简要信息整理及影响分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORcucwr35b83jyF4rIycrELOx58jQYZQLTqWicFJIwF3R3Kn6CNJ4Cv2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2025 年 10 月 15 日，应用交付与安全领域巨头 F5 Networks 向美国证券交易委员会(SEC)提交了一份 8-K 表格，正式披露了一起重大网络安全事件。根据官方报告，一个被描</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516329&amp;idx=1&amp;sn=5a37291bef5900ba692652c16cbae592&amp;chksm=eb4bf0ccf17b3289e2eb5f9200d97679b5c652d2d18a31e547e805dff915044b7f4a6f703591&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 11:47:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用 Oracle EBS 漏洞（CVE-2025-61882）的勒索活动综合技术分析报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic0cRPvDGEc963CnqU1QOC52E8ou8EM6QzL7UqyNTj3BHDWUOP8lSEvs3JFFXlI78p2VGLXhdmaSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>执行摘要本报告深入分析针对 Oracle E-Business Suite（EBS）的关键漏洞 CVE-2025-61882，以及其在大规模勒索活动中的实际利用情况。该漏洞 CVSS 评分为 9.8（</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516258&amp;idx=1&amp;sn=35067a93c015611f3492b7f989480289&amp;chksm=eb3d694c352f82cbbbbccc0bc8805ce101dca303f5066dab746a43d3299cfa476fc376de7745&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 10:46:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周高级威胁情报解读(2025.09.26~10.09)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicRmiatQpbMCBz95Dx8bMIj3v7t0LiaJN0XLT7DTedicxEUdGAfsSzKbWAB43tWRR5s9ibrnLVhZ5xqzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.09.26~10.09攻击团伙情报Cavalry Werewolf 利用信任关系攻击袭击俄罗斯公共部门Confucius 攻击工具从窃取器向模块化后门演进分析 DPRK IT Workers</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516252&amp;idx=1&amp;sn=51b593b738d783d8be5d07886f82ca3e&amp;chksm=ebeb01d3c0908cc3434e788ecc431e80c2f57d4b79a29e60de83e3fbcaf5c4d6de8f0d2a337a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 11:27:41 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

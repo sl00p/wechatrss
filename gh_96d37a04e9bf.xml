@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[美团技术团队]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[美团技术团队公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM5vhk5P7xlYy014w9hRdPMvmnciaYLl3pyQicvXV7aTXmDA/132</url>
+      <title>gh_96d37a04e9bf</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[复旦 NLP&amp;美团 LongCat 联合提出长程推理能力评测与增强新框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVeibKmVEoGavyQ38ibiaUOlGnH4As3mNFpxdMrTicLUcQBA4QyoCuQ6jfVpGhxSZdKgr0SviaXOrcbKPg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>一、推理模型⾯临的新挑战随着 OpenAI o1 、 DeepSeek-R1 等大型推理模型（LRMs）的问世， AI 推理能力迎来了「测试时扩展」的新阶段。这些模型通过长链思维（Long Chain</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781773&amp;idx=1&amp;sn=9b181e49fdda51bb0860a6e4c7a71e0a&amp;chksm=bc3599b139e7824c497421435701da2e5d8f665a91354d471fad9d02a1393cd56386d9627d2c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LongCat 发布 AMO-Bench：重新定义 LLM 数学上限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVeibKmVEoGavyQ38ibiaUOlGn5uqu3BIvbfa4RKiajPMvWsQEg2RArXZE8YTA3ITmbeIUIcMbstmbIXg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>大模型的“推理能力”能让机器具备与人类相似的认知和行为能力，能像人一样理解、思考、学习并解决复杂问题。而在众多推理能力评测场景中，数学推理任务是当前衡量和追踪模型推理能力进展的 “黄金标尺”。与此同时</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781773&amp;idx=2&amp;sn=63542c877217ed0012de229d93350c36&amp;chksm=bcfbca6f8cee993de058e21d66756686a966041f1b05214841c52b8416b9103726fd9274c755&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[报名 | 美团技术沙龙第87期：鸿蒙原生适配与跨端架构演进实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVeibKmVEoGavyQ38ibiaUOlGn9R76Rk8blO2fIibzsjjujmqe8qTIA6pYLjM6WmoYIRVUCHibmgGMyXyQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>【美团技术沙龙】由美团技术团队和美团科协主办，每期沙龙邀请美团及其他互联网公司的技术专家分享来自一线的实践经验，覆盖各主要技术领域。从2015年7月举办第一期至今，已经吸引了十万多名工程师参会。本期活</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781773&amp;idx=3&amp;sn=3c1c37c432f87b636a769bb7481535df&amp;chksm=bcdd7b5b7c64600dea2123b0c4c1d0defd1beed939b624dd368c6c2aa449e28f84c154132417&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团 LongCat Interaction 团队发布大模型交互系统技术报告 WOWService]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsV72pj4yfZStf0ZNtKOySOzicLkwxE6KcYGryDrLHwHbBa8SrgjS3jwXmbiapejapsyibTwymC60zZ8g/640?wxtype=jpeg&amp;wxfrom=10000"/><p>在本地生活服务领域，大模型技术落地正遭遇 “三重困境”：通用能力与领域需求难以适配，复杂场景下服务可靠性与个性化无法兼顾，高昂的数据成本与漫长的训练周期进一步增加了开发难度。更关键的是，行业内缺乏可复</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781734&amp;idx=1&amp;sn=cc848330c852f22c1cb6bde1fbc2147c&amp;chksm=bcb81e22400c3e84015319556dbebf73ce2f1d0a687abfe94c590d59f90aab749f3d835f024c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团首款 AI IDE 产品 CatPaw 开启公测 | 文末附邀请码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUEabEGbF9lAs9MlVIyzs9D9QZyLCj6QzttG5ggmPy2WHvUlKjgwrI4lUdxB71cuw38iaGbaxNh4jQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>Meituan CatPaw （以下统一使用“CatPaw”）是美团推出的 AI IDE，以 Agent &amp; 人协作为核心，通过 Agent 智能驱动编程，辅以代码补全、项目预览调试等功能，结合美团自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781734&amp;idx=2&amp;sn=bea84cd8e7eefcdceab09abd8b685605&amp;chksm=bc87a710da33573bb314ca3256279bace6bde201a5c1029877515b6efb8161d87e0d82df8546&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抽奖赠书 | 从理论到落地，清华×美团出版教材，讲透即时配送]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUEabEGbF9lAs9MlVIyzs9DTbt5Px4icyfALqFuVukcx9mqRVYrptHEqezKJ3woibQWDQ9FI9N0aMCg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>由清华大学与美团联合编著的《即时配送中的人工智能》现已正式出版，并被纳入教育部战略性新兴领域“十四五”高等教育系列教材！本书由清华大学自动化系贾庆山教授、美团核心本地商业业务研发平台孙致钊、何仁清、郝</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781734&amp;idx=3&amp;sn=214cd9f12c1f178d074ee7ae5eb95e7d&amp;chksm=bc5c115079296c19cff41d7ffdee71ef4bc148c709a634f0c8942fc3a4f12bd96588af02c646&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团开源 LongCat-Audio-Codec，高效语音编解码器助力实时交互落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXmiax6j7KIDBiaDGKufVpGAMmoLic3xCG7nzVIR08S6vJY57maDD7A0zU88ckEUfuW50jBHyfIuGZRg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>语音大语言模型（Speech LLM）想落地，绕不开一个死结：既要快速理解语音里的语义，又要说出自然的音色，还得实时响应。比如智能音箱 “听不懂” 语音，车载助手 “说” 得像机器人，实时翻译延迟卡半</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=1&amp;sn=e321d06b8d14b9b78fa1e4345aeec22d&amp;chksm=bc9043d40f35296317f2d342709b39dd1e0aa4c21c72761b69f0052e19580c9e911a2f248e7e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团 LongCat 团队发布全模态一站式评测基准UNO-Bench：揭示单模态与全模态能力的组合规律]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXHro0Af4Akq9qfsXc6adkdMSHYFic3VPkwsqWoiarbE4W4b2BFdbYgt2A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>多模态人工智能正从单一感知能力迈向视觉、音频与文本的统一融合，即全模态大模型（Omni-models）时代。然而，相应的评测体系却相对滞后。现有的评测工具不仅稀缺、各自为战，且几乎完全以英文为中心，缺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=2&amp;sn=e537023b96d0e70c4bb17f73407d9761&amp;chksm=bc6b464fdab3f9a022eccc37c7d85e26a5b94c6aa3505f3bcf8057d2377b8d8d345f7b2627b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[报名&amp;赠书｜NeurIPS 2025美团论文精选及分享会]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXSlO7MEXcobphcIEHDx3tCEPNlUYhaskF1p9RGPJetUejQdZO5Tm0ZQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第639篇 | 2025年第036篇本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=3&amp;sn=4b0b9536577600021e7d64b647977083&amp;chksm=bc93c9487cf10da8fcad4fb9a36da6beff8ed9bfb7a988e3778b3f18878fbd5d00ff3eec4e34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LongCat-Flash-Omni 正式发布并开源：开启全模态实时交互时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdNDApZiaCBGmtuVxicGyT90Zva7qezgthmdnic9qIPvascdofiaB6YiaVNxH1uickPkaY5YasiaelTf1mQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>自9月1日，美团正式发布 LongCat-Flash 系列模型，现已开源 LongCat-Flash-Chat 和 LongCat-Flash-Thinking 两大版本，获得了开发者的关注。今天 L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781668&amp;idx=1&amp;sn=8d8f243125c428c697791e3b687ccc58&amp;chksm=bccfa51077ec83c488bb436816d32d823752587393531c569c6f3fc0087ca166332e612d4c5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 10:24:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VitaBench：基于复杂生活场景的交互式 Agent 评测基准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXcwibvr0jQX5ddYt0rXnzB83R5baOibNS7yFBPybwcTS8eB7rDAgV14uZibRWM7T0SUu31zcbmicgiaAg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>近日，美团 LongCat 团队正式发布当前高度贴近真实生活场景、面向复杂问题的大模型智能体评测基准——VitaBench（Versatile Interactive Tasks Benchmark）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781668&amp;idx=2&amp;sn=c2ed735dc30dd0ffdeb1eb745abcb1ec&amp;chksm=bc2d5ec8400168bfcb84d2a5a714dd500b4cb5af254c4c54d2f3e553f08dfb5701225b0ec342&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 10:24:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LongCat-Video 视频生成模型正式发布，探索世界模型的第一步]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXg8qxEq7y3RXuzN090gnTUfKuTs4UvCDhsD4DjsEWsFl2hqavZEDpfdH4yzrbcicW4Qiadh5ymYfVw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>要让人工智能真正理解、预测甚至重构真实世界，“世界模型”（World Model）已成为通往下一代智能的核心引擎。作为能够建模物理规律、时空演化与场景逻辑的智能系统，世界模型赋予AI“看见”世界运行本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781654&amp;idx=1&amp;sn=11534a7155b6d53badd15858036d2e20&amp;chksm=bc77a512b5eed9192f08282521a0947b4fc577bf9767b18e866671a1c4d8df9e41300b67bd1a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 10:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[活动回顾｜2025年美团北斗计划 · 基座大模型技术交流会圆满落幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXg8qxEq7y3RXuzN090gnTUTI5LJ0tx0ONVd9k3UUeQmpA93iaIdWAOlPEOEHN4542oeYVYXsIsBDw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>2025年10月16日，美团在北京总部举办了一场美团北斗计划·基座大模型技术交流会。↑ 点击查看活动视频 ↑来自国内顶尖高校的学者、百余位AI领域的技术人才，和美团基座大模型团队的技术专家一起，围绕A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781654&amp;idx=2&amp;sn=8b7a7d70bca75795d24b1f44458b45c8&amp;chksm=bc3d16bfccea0ab5af4ac507f67666769cf323ba5245a153efe3219de14df0118342ea76b2b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 10:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谁说美团没有AI？文末互动有奖！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXcwibvr0jQX5ddYt0rXnzB8zEMwmFokKxLfxw0xUOsLx269Gw8w9ZeGwhAn9joxLibiaibTt7ibibdxwxw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>——2025美团技术团队用 10 项开源技术/产品重新定义了 AI 生产力> GitHub | Hugging Face | 博客> 官网 | GitHub | 博客> 官网 | 博客> 官网 |</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781635&amp;idx=1&amp;sn=8bd1a03642d2dcb465f0a176c38706e6&amp;chksm=bc08d90d66e98c20bbbc5e3e17dcd15b1ab8fb0466de3ffae64b67baee6e84687d3d39767ff9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 10:23:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[IROS 2025 | 美团机器人研究院学术年会，具身智能大咖观点交锋]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsXcwibvr0jQX5ddYt0rXnzB8C2CvDbO0htwZIvS7Kic4FBL0tnR5aKX1WTQufyayRO6ibHVeibP3CTyvA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>当行业顶尖智慧在IROS现场交汇，一场关于机器人未来的思想盛宴由此开启。美团机器人研究院在IROS拉开学术年会大幕，展厅瞬间爆满成为焦点，场内站无虚席，挤满了热情高涨的年轻学子。本次「IROS 202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781635&amp;idx=2&amp;sn=b702a5e7a64b52a5203fc470ea307180&amp;chksm=bcae83dbd44c9b208b1fc98eff42bd2b2f65710954dbfb6996770be7e6a3a9764baeac7b21a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 10:23:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ICCV 2025 | 美团论文精选及多模态推理竞赛冠军方法分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUaf65ejXibUwJOia6f1Kypr6ah7j0Y1IEBOACGMafNiat0Y0rY4gmeVZpxIERC5icxmspCTVibvEVPM5Q/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第633篇 | 2024年第030篇本文介绍了美团技术团队在国际顶会ICCV 2025中发表的5篇论文。同时，在ICCV 2025 举办的多模态推理竞赛中，美团基础研发平台/计算和智能平台组建的Ac</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781635&amp;idx=3&amp;sn=39c9d2736ff0c91b786689db30deb4dc&amp;chksm=bc542da775db380ad72435afd32b8f13d003653a812500224d31977ad9977cce6aa0816616f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 10:23:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从0到1建设美团数据库容量评估系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsV9zjr2OytPrSGsb979ID1HcNRVeBtgKxbsA2BmwtR5xl2tsibDrkNo30ic8IzOD7DfphFFsEsmbziaA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第632篇 | 2025年第029篇美团数据库团队推出了数据库容量评估系统，旨在解决数据库容量评估与变更风险防控等领域难题。本文介绍了系统架构和主要功能：系统使用线上流量在沙盒环境回放验证变更安全，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781533&amp;idx=1&amp;sn=71babe1f54b374eabea1f3791261cd83&amp;chksm=bc223438e7cd2643bffaa460e8c002e9f86f33ae419eee7cac5f65975cdbf18c486bc8184592&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团无人机香港航线升级，国内首个夜间配送服务上线深圳]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsV9zjr2OytPrSGsb979ID1HlUBK6pwaU5QX4OjEGmmluYdzql1NRKMvrXYWdEURFSl5V74pJibebfA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>让低空科技进一步融入城市昼夜生活节奏，美团无人机近日实现两大突破。自6月6日开通香港航线后，今日，美团无人机香港常态化配送服务宣布完成全面升级：在全新开通大埔海滨公园航线的基础上，启用了全港首个防风防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781533&amp;idx=2&amp;sn=11f9c1eecbdef040fc9d4c6eaadef92c&amp;chksm=bc4931e36f761d13e1a89d70ce05fe0c1b8731040945cbe0c321eb1bb9c93208b3fe6268b223&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可验证过程奖励在提升大模型推理效率中的探索与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX6EFMLrnos4MibOCuKVYVicGfpBBCylEpRiahQRueR1ll2PgxBknp2pMvNO9cDJbDmZGfp6nzulCpWQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第631篇 | 2025年第028篇美团业务研发搜推平台部算法团队创新提出可验证过程奖励机制（VSRM），针对大模型推理中的冗余回复与过度思考问题，精准奖励有效推理步骤，显著缩减输出长度并提升推理效</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781474&amp;idx=1&amp;sn=7282bee4c7608dc05de01477925ab8f6&amp;chksm=bcf75c1112f2ec9fccb0d97572a82f23ba978310821d5aca8341c547fdec8a39e095d4d55f2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MARS TALK 第06期｜走进香港理工大学，共话高动态环境下的智能机器人发展与应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX6EFMLrnos4MibOCuKVYVicGoXMCLhfDPciaK60y0bQx5ckkyLfeoTm4C72ic0YWI8KcZq13ia6LUsx2A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>9月13日，由美团机器人研究院和香港理工大学及无人自主系统研究中心联合主办的MARS TALK学术沙龙活动，在香港理工大学圆满落幕。本期活动以“高动态环境下的智能机器人”为主题，邀请到来自产学研用各界</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781474&amp;idx=2&amp;sn=b052043a9f15afbcb67559e2c9120ba4&amp;chksm=bc6e67e28e3773123c7407ca9b7a3c805df22b4486a0dd68b64d3772be7fb3d52f6beb70afe0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 19:58:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

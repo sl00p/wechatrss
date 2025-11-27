@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[字节跳动技术团队]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[字节跳动技术团队公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/Uwibibz0cZzKtHkY5ons1Gxd0T65c77uiblBrA02zkP4FTwhoA7WgctF8VPwEl966SaAG6ibSoj477BbFaLBxHzZqibLBJNF0fpMiciazic2ZtXw0cw/132</url>
+      <title>gh_24231986c9c8</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhicglMPXBqELl0A3FXTIScCsKEL1W0Y2xXqMiblia2ibjEMsb9LccM0VpayBTwTHQZ3gZ2PaOnxhicMzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景近日，AAAI 2026公布了录用结果，该会议是是人工智能领域极具影响力的国际顶级学术会议之一。据悉本次会议共有23680篇投稿进入审稿阶段，最终4167篇论文被录用，录取率为17.6%。火山</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517631&amp;idx=1&amp;sn=c3251514392ea816c758b67cb5b443cc&amp;chksm=e81390f198a95a1b48000f58a12b4103764949fc573b2cefa4f84d54aeaaf8644cdf7f7de797&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用 Eino ADK 构建你的第一个 AI 智能体：从 Excel Agent 实战开始]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg79Qia0FIUyKk1VibpaxCFkwicfvYdLhguL5ofR7QkJbrcy4p5r882icRrN5icFMEmh8yamjNlmlNNAcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文将会向您介绍如何利用 Eino ADK (Agent Development Kit) 构建一个强大的多智能体系统。往期链接：Eino ADK：一文搞定 AI Agent 核心设计模式，从0到1搭</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517592&amp;idx=1&amp;sn=5d0e53332bca103cbbf970cd504b76eb&amp;chksm=e8931f06364b9231b7eb6cee957268e8b782043646d1f4bc007ebb742727b6d061f7e0f7b30d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能体防御｜一文了解3种用户提示词加固方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjBB9eMD4Pd2lQf9PvIJiaPsnpK2tRxph929BzhC570l1yLLECreT1iaNOhn5orLCd9yBfXRibES2pKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述智能体的用户提示词加固是一种通过对用户提示词内容中追加安全标签后送到大模型研判的一种加固方案。该方案可以在传统系统提示词加固的基础上进一步增加智能体对安全规则的遵守性，从而进一步提升安全加固效果；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517574&amp;idx=1&amp;sn=ab6e94ec1a131505920fe4c23e5184f3&amp;chksm=e80b3cbc06313db4c986620a82cfb1e5893aad1e3f751adb1080ec15ef1d8ef548ea40218a9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:47:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Vibe Coze-企业 AI 应用赛道开启]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjBB9eMD4Pd2lQf9PvIJiaPsicQHfXgmibOk5K0qzPsuNYK6xx9lVcCkML0espLFofPIPGt2BN98FI0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>赛道详情参赛选手需从企业真实需求（如数据分析、办公助手、知识查询/管理、营销推广等场景）出发，基于扣子（coze.cn) /扣子空间的能力创建一个 H5 或其他可复现的成品项目，推荐结合使用豆包编程模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517574&amp;idx=2&amp;sn=eba80391ac451716001e85977c84ebb8&amp;chksm=e8a5f6f0f0b360b9478c5a19df2e2dd419bb146e2d94228af6df9ccd754d1b74fb82f9397446&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:47:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[火山引擎 MongoDB 进化史：从扛住抖音流量洪峰到 AI 数据底座]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjAnfPQX3e3ad6BRKoR3U9goIFm5N09GDByaz4o5oQuCsoSfXpJicJPtNfWmZ17r5MTFzdzgMoNocg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式人工智能和大模型迅猛发展的当下，数据已不再仅仅是「存储」对象，而是智能应用的核心资产。MongoDB 凭借灵活的数据模型、丰富且高性能的查询能力以及原生向量检索能力，成为构建 RAG 系统、智</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517486&amp;idx=1&amp;sn=d23f31af222e0a45f7b303a400a4bb6e&amp;chksm=e8be0c1da63c55bf6ff504809999bb0d91cc4fac22b6effdab5d93bd4a66b0abbfcec464a59e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[veDB-HTAP 论文入选 VLDB'25 | 字节跳动高度集成、高效执行&amp;自适应的 HTAP（TP&amp;AP 融合）系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaKeFcJHs6ZmylmfB2mywWbpjpPV7vP69jB28sUXYjnaE6TDiazibd7CAwEicvEbj4qSKpd1dlbC93pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景2025年9月1日至9月5日，作为数据库顶会之一的 VLDB 2025在伦敦如期召开。在此次会议中，众多数据库领域的第一梯队科技公司纷纷投稿，展现其在 Analytic Processing（</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517430&amp;idx=1&amp;sn=c272e6bae7612905ac124eb9492335a3&amp;chksm=e8a201d237be399e6eb45bcbc5015bbdeacee88d1970f969c6cbd9aa57bd0a27c245abcd2747&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全新升级，全面开放，限时免费！一图读懂 SOLO 正式版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiacTVkmaFqmg1bf7OvOCZZvKqPrbnudeb8csshb3crGicfXE72rib5o82IonKzg5jNEUSyBYugaEt8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517414&amp;idx=1&amp;sn=7866376f89a66bb57a980d3f9a272ffc&amp;chksm=e8c37b8f578eb8f5ddab68509270bf346378d8b24201e03d3ef42d1e3032395773c83d6e620c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 18:18:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PubSub-VFL——基于发布订阅架构的高效异构垂直联邦学习框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOia8SDPwiaalIaV7fg3wkH6UFLhbUPDfIFFB1Hiaw4J2sAPsQly5C2AAOlnH8GnTicFG9jJxl2MYkD2mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究背景：垂直联邦学习面临的异构挑战随着数据隐私保护法规的日益严格和跨机构数据协作需求的不断增长，垂直联邦学习（Vertical Federated Learning， VFL）作为一种重要的隐私保护</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517374&amp;idx=1&amp;sn=8afc6ffcb10ac05c1de3b6e6ed2fe1e7&amp;chksm=e89299802af471b20d7b84563d69a28f9c477b409e79cbb83ff5c5442912920a78318f69dfff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[云端协同构建 VR 院线，加速 LBE 产业化与规模化发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgw63nR1fpX6yZWTZf2wCBkuEBjf490wPq7yWzY4n0DYR05w2v0hUt1QRRofcKslZLrZCTcYZzNibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言虚拟现实技术的成熟推动 VR 大空间，即基于位置的娱乐项目（Location based Entertainment， 简称 LBE）成为融合“文化+科技+互动娱乐”的新型大文娱业态，其沉浸式、强</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517322&amp;idx=1&amp;sn=3582abb25431189914f0fad6edd0c64b&amp;chksm=e885f84e9778d1df93a0d6a4890414aeadc1594ed4d008cf97e782186f8a1e559dee308203a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 17:02:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Vibe Coze！扣子 AI 挑战赛邀你参赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgw63nR1fpX6yZWTZf2wCBkCS0zWvoxME5aIkTB8dggT2ewlia2jgSVtQLTcLFOppTIwNATTa3UW3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>活动详情扫码查看活动详情，立即报名！扫码加入交流群在 AI 日益强大的时代，人类的“Vibe”是无法被机器复制的，它关乎创造力、共情力、独特视角和生活态度。「Vibe Coze！扣子 AI 挑战赛」开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517322&amp;idx=2&amp;sn=e13fd0552a7cf8ac144a82d3b801f617&amp;chksm=e87b5fb00dcea3a49f6dad6b067d5ee7427a73a9f85605a1bbe1a972c1a266148d3323ff8e51&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 17:02:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Eino ADK：一文搞定 AI Agent 核心设计模式，从0到1搭建智能体系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgxB7kHfb0ZrVibic0YKFD5iaibKicmr0vicAibFtyicxVzib28r0I800rBdFwdfZjgzdXonsnVPIMMiaPhrx0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言当大语言模型突破了“理解与生成”的瓶颈，Agent 迅速成为 AI 落地的主流形态。从智能客服到自动化办公，几乎所有场景都需要 Agent 来承接 LLM 能力、执行具体任务。但技术演进中痛点也随</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517292&amp;idx=1&amp;sn=bbecec7b8b9881dbd93c57ee04c3bf4e&amp;chksm=e891e2f225253daac63ab1f4dcf4b165ca1925cb4ea4faff8686dc1cbcf0b4db370f0b6e5213&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[火山引擎推出数据智能体 Data Agent 评测体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjLLx3WXAELOS1bia6Za19GdMT3E6oz6b6sJI5I4sQJqPZBXHn2J4fCkUsDXPFvAM7vFMicblicWGcYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月，火山引擎在 AI 创新巡展武汉站中正式发布《2025数据智能体实践指南——回归商业本质：数据智能体价值主张与务实路径》，同步推出国内首个融合国家级智库理论框架与大规模实战验证的数据智</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517270&amp;idx=1&amp;sn=cf2cbf25c44d4dc400847cd149dfb4db&amp;chksm=e8d054dc120e006bae3318ed206826071926d1c881bb74fde286ad02bbebac573ae5b5cfef73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[火山 HTTPDNS Cache2.0：网段级精准调度驱动核心业务收益]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjMiaDEPwkhZBE9wQBvjJ5wDObxkMRkpSWlwgr3ibNuhticgicxtI7BsYiaLurGhm8OLYxCc2uu5ERXWQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、调度不准问题及修正方式局限性在字节跳动的业务生态中，HTTPDNS 承担着为抖音、今日头条、西瓜视频等核心应用提供域名解析服务的重任。但目前我们所采用的业界主流缓存机制（火山Cache1.0），却</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517155&amp;idx=1&amp;sn=d735ebf8bddda4047ac322a514c6d965&amp;chksm=e806a885417bcbd87691079fd0cba4c5bd08f884d90b100f12b729fefb417ee36b92aed582c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AIO Sandbox：为 AI Agent 打造的一体化、可定制的沙箱环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ib0lO23Szk1xcRjpAtknBcf5VkETgibNZGiaG6Eh51DYAq10FGFyVXqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：AI Agent 在执行复杂任务时，常需在浏览器、代码执行、文件系统之间切换。传统多沙箱方案面临环境割裂、数据搬运、鉴权复杂等问题。AIO Sandbox 通过一个 Docker 镜像整合所有能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=1&amp;sn=ef0dc840f9133ed09b50f13440a13c76&amp;chksm=e8ff868bf23889a66e1dffad7b3d2afedbc46f7bba3803eb644f5e0657e84980dc36e06fc7b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 18:51:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抖音云游戏调度优化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ibiacZagGbWV7L4ptiaich4BZkOYzLlutZaeQy2JUia6nrcJYVicF0LPGmPyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述云游戏作为一种新兴的游戏模式，将游戏的存储、计算和渲染任务从本地终端迁移至云端服务器，使玩家无需配备高性能的硬件，仅通过网络实时接收来自云端服务器的游戏音视频流，即可畅玩各类大作。云游戏突破了设备</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=2&amp;sn=46ca0643e305e7c58309798940aa2b37&amp;chksm=e8e00ae82163294cdf22594150bcf871f91cf1d9f45dad526ac14c40a663c5314cf077379c9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 18:51:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516949&amp;idx=1&amp;sn=7520fb1b4eb8eccdfac9c031076293ee&amp;chksm=e87c6e3f0e3e6d9aca50818ebae7c052b7832db51a23452ef1fe396c0ddec4bc1309a6b8c68f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[火山引擎多媒体实验室画质理解大模型 Q-Insight 入选 NeurIPS 2025 Spotlight]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaAtqichBGwnKTVtiaLu4L0mFIcBGsic4WZFRKL55Tt7Wus2rhqZiauZr0RHneclsQvudEoOgnwTwGU1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景近日，NeurIPS 2025公布了录用结果，该会议是机器学习与人工智能领域最具影响力的国际顶级学术会议之一。据悉本次会议共有21575篇投稿进入审稿阶段，最终5290篇论文被录用，录用论文中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516990&amp;idx=1&amp;sn=12203e0272f010f8ec3de09d8a98e247&amp;chksm=e8f50cf9a56516b2205bc69c6bc520c44d8e7a40eab756f86ace96df82fcac5bd40049111d93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NeurIPS 2025｜火山引擎多媒体实验室联合南开大学推出TempSamp-R1强化学习新框架，视频时序理解大模型SOTA！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjqBnfeutL81fPIwzbjbBmZcLkyIxuDy6B3vMzgqdNMFFPIjwJGOrvicjVCjY9UM6uH1tBiaicl8XmaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能与多媒体技术深度融合的当下，视频时序定位（Video Temporal Grounding） 成为视频理解领域的核心任务之一，其目标是根据自然语言查询，在长段视频流中精准定位出与之匹配的时序</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516973&amp;idx=1&amp;sn=003a9a67c2ea029c189253c59e78b501&amp;chksm=e83d28b054b4a79a6c99cb2976ca8a4d4d5e338bc06cdbb52c8deecb7cfa1203f7e455fac1b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516946&amp;idx=1&amp;sn=42daddd11872e0b49d2ab52752c45ec1&amp;chksm=e810b09d38d2541a2d3e8497912fb707f3bc83d2e1e62dcdca354bc994818c90633d89aa9046&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1024 邀请函｜火山引擎 AI Coding 技术实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiasgfa2WcT4a0e1UW2WvR3rWoTvcy65kWvRL0vaMDVsiaJYkSwWicf7icJNPtjwSQg56cp7HNEHNOicfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 从“辅助工具” 升级为 “协作伙伴”，软件开发的规则正在被重塑。对于身处其中的开发者而言，如何更好地与 AI 协作，拥抱 AI Coding 浪潮？AI 时代下，开发者认知应该如何再进化？1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516919&amp;idx=1&amp;sn=c88d056b6bc32b4e0f924864792baaa8&amp;chksm=e8cf7915dbfe3e12bbe477535d9f6d606e15ada02f9c6e47e74905e85935d84f498a7653788b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 17:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向可信AI Agent：Jeddak AgentArmor意图对齐与约束遵循方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjUQVkPh1INRdYcjNJtoWn6PxHQOFicdWnnEyAVxdQyYm61JUvG2F6wCcmMOTpTPLlmibz2Vb53u3lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>为了从根源上解决 AI Agent 的安全困境，字节跳动安全研究团队提出了全新的智能体安全框架——Jeddak AgentArmor。关于框架的详细介绍，可以查看上篇文章：为 AI Agent 行为立</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516911&amp;idx=1&amp;sn=b30bd074ef49035c2b9b235ba58e67e3&amp;chksm=e88269a9c1b8b83d7e02665063d099ca980ecdc275f8b79f037d764863bcbfdb71960393a298&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Compose 智能重组：编译器视角下的黑科技]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgmndmb8GjaFZVjHGcwnkZGKdA7mIUicgXIQROVsCzr55BUmvMjibOg4ib8vyoT7rz5KNCDNFyKWXZHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>什么是智能重组Android View 通过测量、布局和绘制三个阶段完成 UI 渲染，Compose 整体上与 Android View 类似，但在开头多了一个叫做“组合”的重要阶段。在组合阶段，Co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516896&amp;idx=1&amp;sn=36bc793e8b7da00db3cf01c7cb14eb73&amp;chksm=e801e9f6917f547f5e5b4949efd6b7508f78bd610432d8b86354a37015f0fb2ebcb11e0c72df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 17:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯云开发者]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯云开发者公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/b8viaP2tmCPLoqJuydMlrqnk5rJg9rLfb1cCDvn7aA3d19aALMXjVMt5QP5gia5KAibEnHAzibTKLtW6LCoxahLYKwiayUN3AxNibU0xRZOuMqHZg/132</url>
+      <title>gh_dac78eabad6f</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[成为Linus Torvalds座上宾：我用47%性能飞跃完成了一次鹅厂程序员的逆袭]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96GH8jVpdqPBMZzuqtq2wonS2QAPuuXK0BrOv9aO0ZwxYAsqQVAnnKocdhnfGH5bNibHCOBvEb5RNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 问题的本质：当调度器成为性能瓶颈2 本工作的核心贡献3 解决方案：赋予调度器语义感知能力4 设计原则：生产环境的考量5 性能评测：数据说话6 实现细节：魔鬼在细节中7 从技术到哲学：重新定义</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693333&amp;idx=1&amp;sn=a9df102ff26b418e81d97ae306fe9b00&amp;chksm=eb190d7ec5c72b4866fb50706c4d28ad744263232a5e85330d712a70bd0d989d789452b1fa0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI时代，架构师还有存在必要吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96cOwVhyzCmO9yLIokzT4QIwr6M38icIjbS0HjOhpkmqicpHdhba3bcxZAq56zgRKjjibRvf2Prib5IJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从架构说起2 AI架构的演进3 未来世界一瞥4 人人都是“架构师”5 写在最后：每个人都要成为“架构师”AI 技术的飞速迭代，在极大增进各行各业工作效率的同时，也对一些工作岗位带来了被替代的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693261&amp;idx=1&amp;sn=bb0bff57fbba6cdc23a7a4080c2641be&amp;chksm=eb4db8c15b509bd46dd428d9cfaa22cab56596915a5c74bc34d7e80888151ea089966a65fd2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[下一代 AI 底座，需要怎样的 OS？｜2025 OpenCloudOS 操作系统大会全日程发布，席位有限，速来报名！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96cOwVhyzCmO9yLIokzT4QIPdWkEfDNKkw5iaGia6ggaEgiafKmde3jsvyacCSiaQYTjVmM1RZL0G7daQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>12 月 6 日，北京 · 万达文华酒店，2025 OpenCloudOS 操作系统生态大会即将启幕！大会以“以生态之力，让 OS 更懂未来”为主题，聚焦 AI 时代下的 OS 生态协同、技术创新与应</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693261&amp;idx=2&amp;sn=758004c06afa1c908c7c6c7fc6a8ba33&amp;chksm=eb24a5009cff41c4c1b7d7b738c36849f00fbb1198bb5b581eb9a9ed69adb5c976568fe05220&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你相信光吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94kWiaSEKuGuEEufMCHlYUPYxzWsdcssGv5xAmKoW99Mnt46yHKM7FLyoxZiayXRdlp0Wh2nic1k1BEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 技术必须解决实际的问题，让安全真正落地2 在激烈的攻防对抗中，探索主动安全的边界3 追求极致的技术，做别人做不到的事4 写在最后有圣，就有盗。有高山，就有深渊。有天地悬殊，就有腥风血雨。有利</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693233&amp;idx=1&amp;sn=7697562be1ae2c0dfd117dec6c9496b6&amp;chksm=eb9bc7517cf95711585858df6e6c87277c0bb2a2fca520b618d6790a4bd12fc789845c9a8fea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 16:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑、P0故障频繁登上热搜。表面原因看似多样，但这些因素往年也存在，并不会只在今年集中爆发。真正的问题，是高可用建设背后的结构性挑战。 系统质量难以稳定，首先来自熵增。赶工、堆需求、技术债累积、新技术不断加入，都在让系统变得更复杂。理论上通过规范和流程能改善，但现实中业务压力通常远大于质量压力，技术团队很难真正阻断系统滑向混乱。 第二是墨菲定律。只要系统在运行，意外就是必然：机房会坏，链路会断，软件和系统都有 bug。就算做了多活，真正需要切换时也可能失败。高可用是一场永远无法完全取胜的竞赛，只能尽可能延缓系统走向失控。 更麻烦的是，那些把隐患提前消灭的工作，往往看不见、量化不了；但系统一旦撑不住，重构、多活、混合云这些工程就会立刻成为重点。你一年修一堆细碎问题，年底材料并不好看；隔壁团队虽然出过P0，却因大刀阔斧做架构升级，轻松拿到亮眼结果。 高可用做得越早、越细，越难被证明，这也是行业里最吊诡的部分。公司层面也面临同样矛盾：平时的投入看起来琐碎；真正出事故，又觉得当初投入不够。于是形成普遍循环：系统退化 → 重大事故 → 大规模治理 → 阶段稳定 → 再次退化。 高可用像一场反复上演的运动式工程，谁撞上谁倒霉。有没有破局？从工程角度看，没有快速有效的解，很多团队能做的只是避免成为那个倒霉蛋。但如果希望系统长期更稳，关键不在技术，而在组织文化。 至少有三件事值得坚持： 第一，把高可用视为持续工程。 系统健康像身体健康，需要常态维护，而不是一次性升级。给团队留出质量时间，比突击式治理更可靠。 第二，接受高可用是慢变量。 隐患处理不会立刻带来收益，但能减少灾难级事故，也能让系统不至于一路滑向深渊。 第三，坚持体检。 一年小复盘，两年大盘点，即便无法避免事故，也能把12小时的损失降成2小时，这对业务影响是本质差异。 高可用的难点不在技术，在于组织能否给系统留出生长和修复的空间。 下次老板再问你高可用，就把这篇文章甩给他吧！]]></title>
+      <description><![CDATA[<p>浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693193&amp;idx=1&amp;sn=f4d9c7aa2441ff69dc083386d5e31182&amp;chksm=eb5ccc89531353165b6804c434a7487c7939459c4f2fdd47b8966e1d2cc6dd746056662e6d13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97Y9TypxKLvYNl6se1GkJG9vunEyrnBLZLrO8GfvicLnEtmkmmdGIiaO4GiaEvfeFs2LIcVicFia1z3SYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 模型能力2 初步体验3 网友测试案例4 写在最后Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693189&amp;idx=1&amp;sn=4bec58ed888fd01965aaa30d46c12eb6&amp;chksm=eb3a82e249c350ee3f696d7159bab74a3bc8071da7627951793008f0ea058ed9b240e5db9b43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 12w Star神器！一文详解大模型集成框架LangChain]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Tw8Y5gEAlewFrGlDtoGZs7bx5XDQ8EHtSoIHfwtDATfhzjDicpfWLBbxW006hGgzVCCwrlDOuqzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 LangChain概述2 LangChain使用之环境准备3 LangChain核心组件之Model I/O4 LangChain核心组件之Chains5 LangChain核心组件之Mem</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693109&amp;idx=1&amp;sn=fa97420d453a5736db39937b725ca12b&amp;chksm=eb3962a83cdda355be3c6a729c063b63c288a8d9a88e483f530a1da3ab3782d5e89b3b258496&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agent全面爆发！一文搞懂Agent开发核心链路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97xxBnxOESLsT50U66W2y6Ib55VScHe2gmfwMwkk3GX8CyiaEnIEzndTRanglUj1fOL0KBcGG32kHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 Agent介绍2 Agent 的核心演变和核心模块3 怎么基于大模型搭建一个Agent?【开发视角】4 Agent如何评估？当数据自己会思考，当代码拥有自主决策的能力——从Workflow到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693098&amp;idx=1&amp;sn=57f0ea666f7c32a829e72202d00f447f&amp;chksm=eb59fcd25d6cf0e284db6ba305dc0691fdea9b2241ade2d615ed40424a98453e4fd26b513aa6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[晋升了！ 做晋升时，很多人把注意力放在规则和评委身上，希望找到一个绝对公平的答案。但从个体角度看，这几乎不可能。规则会变、评委的理解会变，你作为被观察者本身也难以完全量化。制度无法绝对公平，对个人来说，与其纠结规则，不如尽量让自己远离模糊区间。 晋升结果可以理解为约等于。 同样是8.4分，根据不同处理方式，可能得8，也可能得9。系统可接受，但对个人差别巨大。目标不能刚好够，要把自己的表现尽量推向9分以上，让结果尽可能稳。要做到这一点，材料必须有结构、有逻辑、有重点。 第一步是搭框架。 很多人在项目堆里来回挪动，越改越乱。不是素材的问题，而是没有看懂它们之间的关系。先确定你想证明的能力是什么，再选择能支撑这些能力的两三条主线，让材料从堆叠变成结构。 第二步是补足关键细节。 每个项目为什么做、难点在哪里、你解决了什么、效果如何，这些都是让材料站得住的硬信息。细节不求多，但要能体现判断力、方法、影响范围。没有逻辑链的内容只会分散注意力。 第三步是保证论证清晰。 晋升本质上是证明题。每一页内容都要回答一句话：它在证明什么。如果既可要也可不要，那往往说明你还没完全想明白。逻辑越稳，评委理解你就越容易。 现在很多团队都在做轻量化评审，材料短、节奏快。 这并不降低要求，而是更考验你能否把核心价值讲得迅速、干净、准确。制度无法由个人决定，但个人可以让自己变成更好被观察的对象：更明确的成果、更清晰的结构、更稳定的叙述方式。 最后，可以用一个简单的答辩材料框架来校验自己： 业务背景：让评委快速看懂你在做什么 业务挑战：说明必要性，让评委理解重要性 技术挑战：把业务难点转成技术难点，突出门槛 分析问题：展示拆解能力与思考深度 解决问题：逐点对应你的策略与决策 解决效果：用趋势或对比数据展示真实价值 回归业务：最后落到业务影响与结果 自我总结：提炼方法论，让评委看到成长性 把这七点讲清楚，比任何技巧都更可靠。晋升不是玄学，要让系统在有限的观测里尽可能准确地读取你。]]></title>
+      <description><![CDATA[<p>晋升了！ 做晋升时，很多人把注意</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692947&amp;idx=1&amp;sn=b806d44963ce8dd2d3442d6bd4f68a25&amp;chksm=eb3b223deaa0fad0a028b99b3fcc4ee210ed80ae339abb4f5b646a0b79637fded8e3eb09f733&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一套代码跨8端，Vue3恐怖如斯？详解跨端框架到底香不香]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Y2KynRCe6pgk5uOIg86uKWQI2wLHrWsQTHxCmmjDZ6niaJ3kpsFSMHh9jcvRsHZnhxfr9NGk1XaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 起源2 “多端统一”应用是什么3 常见的多端统一框架4 跨“八”端的真正跨端应用5 跨端框架优势：香6 跨端框架缺点：不香7 总结应用终端的种类越来越多，为了节省人力，提高开发效率，越来越多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692921&amp;idx=1&amp;sn=57ecce1e1e6730f53ab23f060e654519&amp;chksm=eb07929d56196e633536ad413fcf57e12bfc6fb55e1e9fa267b7e2d8c5b6514e23555161b7e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[300万行代码精简到30万！腾讯新闻推荐架构重构复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94Oh0yls9hHHciaU24sx6jAQicob6MPpDDgm7Yf4JROCAF0Lo7nmgah5jlN0YVQacVnNLGkoZRtxE3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 “重构”的定义2 重构决策：什么时候该动手3 重构范围：平迁还是重建4 重构策略：绞杀者模式的实战应用5 风险控制：如何保证不翻车6 数据迁移：最难啃的硬骨头7 架构设计的底层原则8 复盘与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692879&amp;idx=1&amp;sn=eb4c051cd2adf792f32ab95497747918&amp;chksm=eb5acdd5598eac1695b8310b9e00cfbc22f866b5c31684fbe51eb3d8cc5c1cc6b6fcd2ac6ba5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[史诗级更新！国内首个支持Skills模式的编程助手，开启AI编程二阶段！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96NIQMDzXicPeibyYCUNFq23OvxaKKQjcgHJXibia9HstskrricSXrbzUpqDgXwjO8r6mBXncPB5IVeymg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 AI Coding 时代一线开发者的痛点2 Skills：为 AI 配备现实世界所需的"技能包"3 快速上手：从个人使用到团队协作4 实践案例：从单人智能到团队智能5 九大使用 Skills</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692871&amp;idx=1&amp;sn=e96dddf79b104100dd959ce07be9eee5&amp;chksm=eb117e975207471c32674ab3e0c1e63b352bc926b085c69230fd3b4ec510358dcb5fc833ac0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[过去十年，几乎所有架构演进的故事，都指向微服务，微服务几乎成了现代架构的代名词，单体被骂成毒瘤。 直到近几年，业界开始反思：微服务是不是新的毒瘤？ 越来越多团队发现，微服务带来的问题不比它解决的少。复杂的部署链路、无穷无尽的接口治理、跨团队协调的噩梦——这些都让拆分变成了新的枷锁。于是，单体重新被提起。曾经被视为落后的它，如今又被不少工程师视作理性回归。 单体架构的本质很简单：所有核心功能运行在一个进程里，模块之间靠函数调用。听起来“老土”，但它有三个优势：高效、直接、可控。部署只需一次，调试能断点，测试范围清晰。很多中小业务在这个架构下运行多年，稳定、经济，问题少。 那为什么微服务会崛起？因为系统变大了。 当团队规模扩大、技术栈多样、功能快速膨胀时，单体的缺点开始放大：任何一个小错误都可能拖垮整个系统。此时，“把不可靠的部分隔离起来”成为唯一出路。微服务就是对这种不确定性的工程化应对：它假设错误一定会发生，于是通过拆分边界，把问题锁在最小范围内。 它以复杂换可靠，用成本换自治，用高要求的架构师替代低风险的维护逻辑。互联网厂商们的架构图像蜘蛛网一样密集，那是可用性换来的代价。没有足够的监控、自动化、灰度、认证体系，微服务接口治理、依赖地狱、跨团队协作的成本，全都堆上来了。 对一个早期业务，单体意味着效率和确定性；对一个团队成熟、系统庞大的组织，微服务可能是必要的防线。 判断是否应该微服务的关键是三点： 团队是否足够大到需要独立边界； 技术栈是否多到必须解耦； 系统的变更是否频繁到难以整体发布。 如果这三点都没触发，微服务不是救星，而是拖累。 对开发者来说，最重要的一点是：别急着跟风，先判断自己到底到了哪一步。 因为很多时候，你以为需要微服务，其实只是需要写好一点的代码。 在工程实践上，架构演进应当遵循渐进式原则。 当业务增长、团队扩张时，不要一刀切地推翻旧系统，而应从边界清晰、变更频繁的模块开始拆分，通过事件总线、接口网关或服务注册中心逐步过渡。让监控、灰度、回滚、自动化部署先跑在前面，再去谈微服务。只有当可观测、治理、容灾三项基础能力稳定后，微服务才可能真正落地，否则只会换一种方式制造混乱。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247685065&amp;idx=1&amp;sn=512ad7f4a66690fcae3a619f607ba880&amp;scene=21#wechat_redirect">单体架构比微服务架构更落后吗？</a> 你是怎么看待这个问题的？欢迎留言评论分享，有机会获得社区精美周边一份。]]></title>
+      <description><![CDATA[<p>过去十年，几乎所有架构演进的故事，都指向微服务，微服务几乎成了现代架构的代名词，单体被骂成毒瘤。 直到近几年，业界开始反思：微服务是不是新的毒瘤？ 越来越多团队发现，微服务带来的问题不比它解决</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692823&amp;idx=1&amp;sn=7c54847bf978f65b774a26469cb4d083&amp;chksm=eba2eff5089bed8f5aa3b51742bace8dbabdadf60c3dd614aad7cf4f02a195c0d4a19b6e3c7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 08:15:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[彻底爆了！一文了解LLM应用架构：从Prompt到Multi-Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TGhibWoDzj1tW2og20PWyhwwwuESHibVw3P0MNBQwPxgZDNKvwEk38D5XCrmaXhm9C0BkjpY2GZVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 Agent是什么？2 为什么会有Agent出现？3 Agent要怎么实现？4 总结自 ChatGPT 问世以来，业内对于如何将LLM落地应用进行了各种探索。本文主要总结了LLM在应用落地中的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692785&amp;idx=1&amp;sn=3f7903c8e98ead5b81b3f3dd8ce97446&amp;chksm=eb99eafea4d1d5f8247f356d8b2603c0417ad49a90ee06f5b5ae208c3ffca94fa71df17712a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[沙龙推荐｜揭秘王者荣耀推荐系统：在线学习技术的落地应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TGhibWoDzj1tW2og20PWyhWibt5icNWNGC4j1tMJvtdNunrz8LrkCEFsWDTYsaEQ4xn4jFuKYiaC7Rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI 席卷各行各业的今天，数据不仅是 AI 的根基，更是智能进化的“燃料”。没有高质量、大规模的数据支撑，再先进的模型也难为“无米之炊”。然而随着 AI 应用场景的不断深化，数据瓶颈也逐渐凸显——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692785&amp;idx=2&amp;sn=794fe0c3280667a4158a58cc43f0354b&amp;chksm=eb899184d9dcb59c13842abf83ce4a5d9bc6f9c95bbc8cd838ac15676bb2576ae14e4d8f99be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一篇文理解架构：企业架构、技术架构、C4模型、TOGAF、互联网模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97pfgmklFFfy0ib6ib5eomIQxPFjZsIvnA68Mau9Y7knfbkI4T3zicDKTskIiavbD9ByB3Y2IK2HbgEZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 关于架构的理解 1.1 4+1模式 1.2 C4模型 1.3 TOGAF-4A 架构 1.4 互联网模型2 企业架构又是什么？“架构”这个词被频繁提起，却常常被误解。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692749&amp;idx=1&amp;sn=8db37fd417b2037b75cdae5961bbdaa3&amp;chksm=ebd25a60a4a002793ca51a00ed23f6ea4f14702bba6eb38a9374c113e50fa8c05f958152819a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[十分钟速通大模型原理！从函数到神经网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96pwXlo8Yjia0XvknGe0YRmVl2gjI73hLX0505vo4Y4EMSlXI2vGBaZrudRicqSjmgD2V3KJOdUn4jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从函数到神经网络2 计算神经网络的参数3 调教神经网络4 矩阵运算5 从词嵌入到RNN6 Transformer7 结束语现在几乎所有人都在使用大模型，连村口的老头都会说让你帮他在手机上装一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692738&amp;idx=1&amp;sn=a0e020cde2162b4a20bce1d56c86d1af&amp;chksm=eb6a7c55852a7db55c3f27ca3484b0cc3e78e43cb3f17be1654ffb81395aeb7755d021391b7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[故障来源主要分三类： 1、人为变更（≈80%） —— 业务迭代中代码、配置、上线流程等变更引发。 2、预期内的小概率事件 —— 硬件或网络故障，如磁盘坏、丢包，通常被 BCP 容灾设计覆盖。 3、非预期内的系统脆弱性 —— 性能瓶颈、安全防御不足、配置缺陷、架构设计问题等。 本文聚焦第一类：人为变更。 从 3 个 9 到 4 个 9，靠容灾可达；从 4 个 9 到 5 个 9，需流程、工具、文化全链条极致落地。应对变更故障，要从三方面入手：评估、验证、监控。目标是“用流程约束人，用工具替代人”。 一、评估不充分 常见问题：代码遗漏、兼容性未评估、开发者不熟业务、重复代码。 ● 优秀实践：通过标准业务用例文档沉淀知识，在需求评审、代码变更前强制更新用例。 ● 普通业务可简化：在发布单中强制填写影响评估和关键监控点；静态扫描、调用链分析辅助代码审查；代码重复率检测防止多处实现。 二、测试验证不充分 根因多为测试环境不全、不稳或数据缺失。 ● 解决方案： ○ 环境治理：容器化部署、全链路预发环境、染色路由。 ○ 数据问题：定期迁移生产数据至测试环境，或工具化构造测试账号与数据。 ○ 依赖方问题：现网二进制覆盖基础容器，保持一致性并自动拨测。 ○ Mock 与自动化测试。 三、监控遗漏或不及时 ● 主路径通常被覆盖，问题常出在边界分支。应做到“不怕告警多，就怕没告警”。 ● 每条分支路径应结合测试用例建立独立监控点。 ● 框架层应自动打开监控和上报，客户端需自动上报错误码。任何未预期的错误码都要立刻响应。 四、部署与灰度 部署（发二进制）与灰度（导流量）需分离。混在一起会掩盖问题。 ● 小规模机器易出现“一台即半灰度”风险，应从前端开始打灰度标识，部署完成后再放量。 ● 前端重大改版也可通过灰度标签加载不同模板。 ● 关键是提供统一、可控、自动化的灰度工具，让部署与放量可解耦、可回滚。 总结： 80% 的故障来自人。流程是防线，工具是护城河。只有当“变更安全”成为文化，而非流程要求时，系统的韧性才算真正建立。 你是怎么做故障复盘的？欢迎留言评论分享，有机会获得社区精美周边一份。]]></title>
+      <description><![CDATA[<p>故障来源主要分三类： 1、人为变更（≈80%） —— 业务迭代中代码、配置、上线流程等变更引发。 2、预期内的小概率事件 —— 硬件或网络故障，如磁盘坏、丢包，通常被 BCP 容灾设计覆盖。 3、非</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692697&amp;idx=1&amp;sn=3d5f7737e87794fcee703a1f50c29684&amp;chksm=eb2f7692dd6ae0d5f075889049601a6fc2bfe101b4cb2f3b3595f89795939c0e4a7035a64f27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 08:19:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[万字长文：重构软件工程迷思，搞懂需求与产品思维]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe962R6S9EBQqQVyWF565zHuVM6sgnyzTIdV5L4dk1eiamClXISnzcOWSNxkgFxSmoia0uKj5toWYibkzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 软件工程的“共识”难以建立，没有标准化的表达形式2 软件工程3大待厘清的领域3 第1个脑袋 – 何谓“需求”？4 产品定位 – 何谓“价值”？5 何谓 “用户体验” ？6 从需求到产品的推导</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692695&amp;idx=1&amp;sn=92cb3a8f74aa9b8c436d7f6ca5b8efc4&amp;chksm=eb2ed4e39e88f486d7d813e0bb2e97f9ada0f6e2da6818fd92d1a45b7f5a47e2e7fe43c665f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[以Dify架构设计为例，一篇文看懂AI原生应用开发平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPAx2jAj6QD6vYroaLMr1VnIRIEt0gEsr20AuictR2gFWUQG1ux2CdIVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 平台定位2 核心能力3 系统架构4 AI 任务编排执行引擎5 总结6 展望本文基于LLM AI原生应用开发平台Tasking AI和Dify的架构设计，浅析两者在LLM接入与集成、工具插件扩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692630&amp;idx=1&amp;sn=c610e480331070a721b7aab7f3e1ca6a&amp;chksm=eb657019c6cdce943837487b00c7ccf8c61ceae6299e46fbd1c663268f6150aad55e39c3bff6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[绝密数据解禁！腾讯有多少程序员？什么技术栈最热门？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Nf2W6LBFQnYkMiag37c6uAsdHiapyhHPGq7bIo1Cia1qpic0aLRYsLUIo4BuvIvRkSAGjlvEGo4q4Xg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在腾讯，程序员到底有多少？他们每天写多少行代码？又在用哪些最火的技术栈？AI在其中起到怎样的作用？那些“国民级” App背后的业务提效如何？这些问题，终于在今天都有了答案。《2025腾讯研发大数据报告</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692616&amp;idx=1&amp;sn=8e8b1260d0159a5530a1b996ae21f738&amp;chksm=eb58560ad018585575343cf68d0d5b9ec1f1f798e75d71459ba7a796c5400d06ec4deaf1b781&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，全国程序员群体普查结果正式发布！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWc6Vic3vG5ib9nBYqqVFwP4HLSOpABU6Ggawqeic9TBhw5AxONCOrEAY0Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深夜的编辑器还亮着，键盘声是城市最后的心跳。有人写逻辑，有人写生活。他们的注释里，藏着整个时代的算法。代码一行，人生一行。Debug，也是在修补生活。今天是 1024，属于那些写在屏幕光里的名字。腾讯</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=1&amp;sn=15727ba0f16f5eec2e35217dda8df635&amp;chksm=eb717557543f072542708d4906b420541ca5afc84d5108884610828fa107019aaeea297d20c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[与AI共生还是被取代？别让系统“纸面容灾”！架构师技术沙龙在京沪湘皖四城同时探讨破局之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWcMj4Dm3hvSVAhTPa9yCTDrrp8QAIZ7Ne73QPibzWvHVpic6daFYic58ibAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术之路既需要低头编码，也要抬头看路。本周末（10月25日-26日），腾讯云架构师技术同盟将在北京、上海、长沙、合肥发起4场线下深度交流活动，欢迎报名参与！北京站：架构师如何与AI共生- 内容有料：如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=2&amp;sn=2f3a0e7d3cd7ec759fb59b1c8d6be512&amp;chksm=ebd142a564571ae5cb0473562e462a3636ec00c3a0de10959922cd2d6f59d55d405640d163c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek鬼才创举，OCR是啥？腾讯是怎么做的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95KibDw7mBp7b6ibNFZMS8X3NbxXw3btGaokian1pbUHxO2XvqFibicX8tiaR9vcJ88dQHOsvbI8oiagRnKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 DeepSeek OCR核心信息总结1 技术演进2 领域进展3 技术要点4 文档智能5 实测体验DeepSeek最新发布了一个参数 3B规模的视觉压缩OCR模型，论文《DeepSeek-OC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692528&amp;idx=1&amp;sn=8972f95b0bbb8329f921e27a78d93c51&amp;chksm=ebd6c6efac6e88f099c053d37f55d74acb3fd4fc0afe0bd8538476963509d058bb27a5ae5872&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[架构师的周末充电指南，北京/上海/长沙3场不容错过的线下深度交流]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95KibDw7mBp7b6ibNFZMS8X3NX8hZEibIvHsWb4Ir5EpblougyDhaPyQibibR7veo7vVpoxwAucjKeMtsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术之路既需要低头编码，也要抬头看路。本周末（10月25日-26日），腾讯云架构师技术同盟将在北京、上海、长沙发起3场线下深度交流活动，欢迎报名参与！北京站：架构师如何与AI共生- 内容有料：如何与A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692528&amp;idx=2&amp;sn=d253410d8d7fb65c13c34f7d9a3d533e&amp;chksm=eb1a5c068c22cf954b0ee5468fa256062818dcd004c3bbc3066e03315d357819391f30012328&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯新闻PUSH架构升级之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97ZMQUtg8Ejk4SleyyQpzFkqicCEqczic3AYuSjEaQ0mVeQZib5mJicGkzk2F9rIkUK2laHm507Is8sLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 新闻PUSH平台介绍2 老架构存在的问题3 架构优化方案4 架构升级效果68 万行代码精简到8.6 万；Golang 重写大部分 C++模块；解决过度微服务化问题……这是新闻 PUSH 架构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692506&amp;idx=1&amp;sn=605646c12269d08f52655e408babb9b3&amp;chksm=eb9b65eb24cfea5b3371d10913251ff60ac4d771727798d88bf49988e283c79001792021610c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[信息量很大！AI结对编程核心思维模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95xuC2F2V5pM0gEE52YDuibhy5Wics8Vhib3YWZXPnLMTgH5cZVMmwh1icKmYwh3L0ZCfpEX9uuC8vkhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 VibeCoding的诞生与困境2 回到“原点”看沟通困境3 写代码VS看代码4 提示词VS上下文工程5 一些心得想必你也遇到过：AI的输出像个 “随机盲盒”，有时精准的让你惊艳，有时却像个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692485&amp;idx=1&amp;sn=57040e59666a4b92e3392f21c302f9f8&amp;chksm=eb9a9ff6b11f48b96d9fcee04129849bcaac778cfa919c2edfe54af1d879a2e639ef2314343e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如此编程20年 1. 工具次之，问题为王。先准确定义问题，再选合适技术；别为工具改造问题。 2. 代码写给人看。命名清晰、结构稳定，照顾新人和未来的你。 3. 协作胜于个人英雄。公开沟通、共享决策依据，以身作则让追随者变成合作者。 4. 分治与低耦合。单元测+集成测，既测常态也测边界与极端。 5. 别把自我与代码绑定。可交接、可延续，才能抽身成长。 6. 安全是分层风控，取舍因业务而异：银行先安全，游戏先性能。 7. 代码有寿命：核心/必要/增值，学会放手与归档。 8. 技术债像快餐：偶尔放任可以，积累就会三高。 9. 取舍排序：安全＞可用性＞可维护＞简单＞简洁＞性能。括弧，视情况而定。 10. Ctrl C+V前先审计，Bug藏在复杂性后。 11. 异常要写“为什么、如何检测、如何恢复”。输入尽早校验，能失败就早失败。 12. 远离炒作驱动开发，保持好奇心与多语言/多文化输入，持续分享。 13. 彻底了解问题前不写代码，不为不存在的问题设计架构，扩展性在真需求出现后再做。 14. 社区让开发更有趣：倾听、启发、复用与回馈。腾讯云开发者社区就很棒棒！ 17. AI是加速器：方向错会更快撞墙。先定需求、验算与评测，再让AI上车。 18. 以评测驱动开发（E2E/Eval）：为模型与检索链路设离线/在线对齐指标与回归集。 19. 设计可控的不确定：对LLM设温度/重试/超时/缓存/工具调用白名单，边界内随机、接口外确定。 20. 当某些子任务可以用确定性的方式完成时，永远优先使用确定性的方法，而不是依赖“智能” 21. RAG＞死记硬背：先让知识可被检索与更新，再让模型会引用与标注。 22. 成本/时延是功能的一部分：把token、延迟、并发当非功能需求管理。 23. 模型是依赖：版本化、灰度、回滚、提示词与系统提示同等纳管。 24. 让AI产出可审计：要求“证据+步骤”，必要时用程序化校验而非人肉信任。 25. 能被提示词解决的，就别开新的评审会。 26. 保住工作不容易，提升自己是ROI更高的防御式编程。 问题来了，按照这些原则编程，你能干20年吗？留言分享，我们将抽取一条评论送出社区周边一份。]]></title>
+      <description><![CDATA[<p>如此编程20年 1. 工具次之，问题为王。先准确定义问题，再选合适技术；别为工具改造问题。 2. 代码写给人看。命名清</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692472&amp;idx=1&amp;sn=cbf5b36233420bc938b8cb03e3d27dfc&amp;chksm=eb673f8123eabcdf34a1564d1fdc30a69fcf9c2310fde328714d0d6d907d37de556cf6afa427&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[万字详解：数据架构、数据存储、数仓设计、指标定义，一篇文讲透数据那些事儿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPx6m1VGNL5YdicG3YQ99qAnDtXAgvSTkqBcx443p4mhTD9A2vw8zJk6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 数据架构: 思想演进与权2 数据存储: 架构剖析3 数仓设计: 服务应用4 指标定义: 理论结合业务思考5 数据质量与提效数据类的架构设计远不止是工具和概念的堆砌，它更像是一门在规模、实时性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692448&amp;idx=1&amp;sn=dc21e6103de0de82d999d7fad63cb574&amp;chksm=eb8296d3aa8f98322a4124a9017b461a84d31912e2b9eeeab420c7cd1d1dfe75ae0df5f32328&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[万字详解AI悖论，戳破AI时代最大的谎言]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97gJ7a0sZjxMuTfJicCmAmjj52TjHMbOnKomnshnGYGXC6lxI6YheLVEwJSQYBVQkcNdQnKRweq0nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 范式转变的前夜2 揭开面纱：LLM的本质是什么3 不可靠性的数学：p^n困境4 舒适区理论：那条想象中的曲线5 Known Unknown vs Unknown Unknown：不可靠性的本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692407&amp;idx=1&amp;sn=d87291fd86dbbe7dc61fcfb3f2217912&amp;chksm=ebe908742e658a129c7024c61166354130696a555152e8546410bdc8236f2d300d0ec156f23d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek-V3.2加速技术详解，效果惊人的秘密？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95V5JIRxicdvMKeRpZAe5ZqpicR19nP7IibcI9oIOrKeOa7pTkHVI8y2m6HDMIsxkUArAicksyuBKP4PA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从DeepSeek-V3说起2 DeepSeek的Sparse Attention概念3 V3.2的DSA详解4 训练过程5 结果很惊人6 小结和猜想LimitationDeepSeek依旧</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692373&amp;idx=1&amp;sn=c33b129e98d27db88bfef910a55f6c90&amp;chksm=eb2545ca34f495aa8eac9b0cde35e17f48f8453ad52d3e47a6a421a60a79a36e91023a10a165&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 08:45:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

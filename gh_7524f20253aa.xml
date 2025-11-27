@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[FreeBuf]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[FreeBuf公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/INJM4dpRo9XzfCnaiaqIOtrSRziaCIwhZD0pjrWZZK8BrcfickibLDHPYzem04aeKrBcpnk2KUWmXqlF5vibDpmAETN3tgvYbvfjn3BX9ImKGricc/132</url>
+      <title>gh_7524f20253aa</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[羊城相会，“产学研”三方大咖共话安全——腾讯安全沙龙（广州站）即将起航]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89v4R5HP9o49fNBDBgGHxCibSmaFECgVvNfnOOHQwNeMggUEeHdMVXsEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型从技术引擎演进为产业核心基础设施，大模型安全也在被重塑。安全不再是可选的“附加题”，而是决定了AI能否在实战场景中稳健落地、持续创造价值的“必答题”。在供应链风险暗藏、Agent智能体可信性存</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=1&amp;sn=38e73557fdc1b38d9332824e2faa9266&amp;chksm=bc22873b5f5b51a4526dc5e40525a7b767e59f6d9e8775446664677545c33274d5a9092a879d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者在暗网兜售iOS 26全链0Day漏洞利用工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89ds106uPZ6V8kY2tZnxPlia1WGl8QFgJrm9F1uBfiazhez0fFE2DUddfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名自称"ResearcherX"的攻击者在知名暗网市场发布据称可针对苹果最新iOS 26操作系统的全链0Day漏洞利用工具。该卖家声称该漏洞利用工具利用了iOS消息解析器中的关键内存损坏漏洞。若该漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=2&amp;sn=bc50c5f58d1d49b6796ffd230f983a60&amp;chksm=bc2fcb77971999e0bb70ca97e149f61709602fba1fca730d216d66cce337a6b4a7451e524cbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cobalt Strike 4.12发布：新增进程注入技术、UAC绕过与可定制C2选项]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89gictM57cHicibuVVc3MuZFjv3UjQuMXIVgv7H3jtlubLArtE8Oib5ApZqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新渗透测试框架Cobalt Strike迎来重大升级，新版引入增强型图形界面功能、REST API支持以及安全研究人员可用于攻击行动的新型规避技术。Part01全面升级的图形界面与核心功能Cobal</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=3&amp;sn=76d28c9c37e60693b3205fcbef8f80e3&amp;chksm=bc90b9eafa398824862c7492e1d038c75c463bf216a6171d3b2b5e271335e90370025c4b9c10&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Next.js框架DoS漏洞仅需一次请求即可导致服务器崩溃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89RzKjAXpepc4ZS9gwQryZ3qe5gJo0so1GdB0zGHdgouampVvia6yyCHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新Next.js框架中新发现的一个高危漏洞，允许攻击者仅通过一次HTTP请求即可使自托管服务器崩溃，且执行攻击所需的资源几乎可以忽略不计。Part01漏洞技术分析该拒绝服务（DoS）漏洞由Harmo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=4&amp;sn=02a6568b348291d06a5f65eca456caab&amp;chksm=bc63b309768b4748df3ece2f7a5d012ea5d830b92bcfdc6279121cf1ff01c5f17d80b710433d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[JSONFormatter等在线代码编辑工具长期泄露数据，暴露数千组密码及API密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicrhWBJyTqlnNPzh8iaVFuoMk76aStI03fiaibLhr63XlP4zvKwwolZEXwQtocsbbRQpibd2wlLwqcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新研究表明，包括政府部门、电信运营商和关键基础设施机构在内的多个敏感行业组织，会将密码与凭证信息粘贴至JSONFormatter、CodeBeautify等在线代码校验工具中。网络安全公司watch</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331178&amp;idx=1&amp;sn=d1aea72260825d19a1ca9658195035b2&amp;chksm=bc37779f9543aecc189059ad7bceab20c5ac79ae7d3da4b78b8e99045bbb236a3691ddba7607&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2个真实场景验证：用对工具，渗透测试效率翻倍其实很简单]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicrhWBJyTqlnNPzh8iaVFujn1Zo58KmldeQj9d7RiceNEz21DHjGbqJo0EzWyj5icSica3TEQTITVYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在的系统越来越复杂，前端各种框架，后端一堆API，还有微服务架构。要是还靠纯手工测试，不仅累，还特别容易漏掉重要漏洞。本文分享两个实际测试中的场景，看看怎么用工具把那些重复性工作自动化，让我们能更专</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331178&amp;idx=2&amp;sn=75476335c0d2b3d9155afe966ba61c4b&amp;chksm=bc673a56aa2c6d2c42897a64f8f907f2e954f84bbb35e4ebcaef359bcdb10b37fa621e905126&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用新型黑产AI工具KawaiiGPT发起网络攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicrhWBJyTqlnNPzh8iaVFuTY9BIECiahcMklM06f61zy0VqwFLQWedD1ArmIVC11VYQKGG1jiaHpjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>KawaiiGPT是一款免费恶意大语言模型（LLM），最早于2025年7月被发现，目前版本已升级至2.5。该工具为攻击者提供了生成钓鱼邮件、勒索软件说明文档和攻击脚本的能力，大幅降低了网络犯罪的技术门</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331178&amp;idx=3&amp;sn=c6d8ef8e426be39c46ee13f0b6f7574e&amp;chksm=bc337e442dae79bc87a31967d905740681c9d4da7df88c88dce702a12f6158ee8dfd738a8a11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[零检出RelayNFC安卓恶意软件将手机变为远程读卡器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicrhWBJyTqlnNPzh8iaVFuEiaUYUhbBmbkfanWvhTuzWq35qY7Qz6985L1G8kgXU40Ldeef2gp1fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cyble研究与情报实验室（CRIL）发现一场快速演变的NFC中继恶意软件活动。这种新发现的恶意软件家族被命名为RelayNFC，能够将受害者的安卓设备转变为远程读卡器，使攻击者无需物理接触银行卡即可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331178&amp;idx=4&amp;sn=83ffe617f1fa489b175e9d9cff5c8788&amp;chksm=bc153491ba4f3a29663b26345fe5caaa1d306113ea1d9748d66c29928fb641303afe208a540c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[APT35攻击者组织内部文件泄露，暴露其攻击目标与方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsR4licx187Dxeheba8LEZvvwmPAKSyQSSHkfy2haTSXU9QOvMcr2g7UXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月，一次重大数据泄露事件曝光了APT35（又称"迷人小猫"）攻击者组织的内部运作细节。该网络攻击单位隶属于伊朗情报组织。数千份泄露文件显示，该组织对中东和亚洲地区的政府与企业实施系统性攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=1&amp;sn=c80987f462f3d1d6dce4427c0dd30a65&amp;chksm=bc6983120e4385fbd7294367b2c76718d39b9d51e9ec2206cb44aa4440123478abeb76245fb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Shai-Hulud蠕虫攻击波及2.5万余个代码库，通过npm预安装脚本窃取凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsREsDQZo4M2lvicrw720t7z7To3GZ7gc72YjyooegEdobhK8bJt3BG00A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，多家安全厂商发出警报，指出npm软件包注册表正遭遇第二波大规模攻击，其手法与2025年9月曝光的“Shai-Hulud”事件高度相似。根据机构报告，已有数百个npm包遭篡改并植入恶意代码，波及超</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=2&amp;sn=bc0b2b67f1cfd2350096aa6fc588f6bb&amp;chksm=bc8bd54c52d51e53eac8c4414bce1e678b8ae5381f6aa1833017412424ce5de349ca20d5c3e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Fluent Bit曝出五个高危漏洞，可导致云基础设施遭远程控制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsRJWptCTo8y0Kw7S3hhtTTvRfAwzzfiacUOv9pDSqzR18nQbNSxpZv5Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员在开源轻量级遥测代理 Fluent Bit 中发现了五个安全漏洞，攻击者可组合利用这些漏洞入侵并接管云基础设施。Oligo Security 在报告中指出，这些安全缺陷"允许攻击者绕过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=3&amp;sn=18b7ba00d5bd991608304b94145548e1&amp;chksm=bc1f82e5e4df961a1762b45cf7d1dec4d6f34303f8a497bf57df99ad6b3ccdbc8887f428428c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsRCXY8NXW3DrRQstS9ic21PgxefibWhokgo5atttNnib8ibXkq15d3FBc8fA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，英伟达发布关键安全补丁，修复其Isaac-GR00T机器人平台中两个高危漏洞。该平台是专为机器人操控任务设计的基础模型。Part01漏洞概述与风险等级漏洞编号为CVE-2025-33183与CV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=4&amp;sn=0ef63ee983b17118be228b750a4b4e07&amp;chksm=bc751221ee65b5230abc4855fcf93ab14be8ceab4828139d3486f862fd675c341fd589e19765&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[知名npm包Markdown to PDF曝CVSS 10分漏洞，可通过元数据实现JS注入]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEhCUDGBZuJFC7RhPM9e4oOH4rBIBvBBtIDOYLazz5DcribTcrUlPvApQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，广泛使用的npm包md-to-pdf （Markdown to PDF）被披露存在一个严重安全漏洞（ CVE-2025-65108 ）。该npm包每周下载量逾 4.7 万次，用于将 Markdo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=1&amp;sn=53954199c29a2be6fda876c1111ea2b1&amp;chksm=bcbe977d937df8793bf7455ccbf62309993db5f35ab88d532b03d72d27fb274b20a5e08cf2a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[强推一个永久的攻防演练、渗透攻防知识库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEzREBpelDI5jo65ZmKqxl9zYm9e338Mu3S8yfXpAMrDbhpMsWu6Riafw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转发该文章到朋友圈集赞30个凭截图免费领取渗透知识库帮会会员1个月想跳槽面试，翻遍全网找大厂真题，要么是三四年前的旧题，要么零散得凑不成体系，连份能参考的面经都没有；护网演练到关键节点，急需某个漏洞的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=2&amp;sn=28dd980edcd593bebefae1098172f807&amp;chksm=bc2c9b783a9ccc0876f7a794d6fda18c8c8d7dfe259e1f5b74fee8ce09eee712fb8b364a54bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Wireshark漏洞允许攻击者通过注入畸形数据包导致程序崩溃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEdnJg2riaia2kibWHe2rDrtJUrXd3GH5wIfPP8XWW5hwnlxJveB9x1rmWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Wireshark 基金会已为其广泛使用的网络协议分析工具发布重要安全更新，修复了多个可能导致拒绝服务状态的漏洞。最新版本 4.6.1 专门针对 Bundle Protocol version 7（B</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=3&amp;sn=5ef28c5c45490aa555d091dc69489b77&amp;chksm=bc0d2b286b01ed7931c6bcca103ece4185323779ca65aee849747f7781bc475bb853e15c934c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[vLLM高危漏洞可致远程代码执行（CVE-2025-62164）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEH4OqfehFn0jXrM87b49d0OveKkqZUY24Xuh5bxKCZ2K0kmjRgOQdaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>vLLM新披露的高危漏洞允许攻击者仅通过提交恶意提示嵌入（prompt embeddings）即可导致服务器崩溃或可能执行任意代码。该漏洞编号为CVE-2025-62164，CVSS评分为8.8分，影</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=4&amp;sn=56cb854932f5b73ba251efe837e35fe7&amp;chksm=bc7d76a426dba7d733e395ff03bb27bd71804902db8881c9bd29f8ad6e11ebd8b386a434f04d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[网络安全巨头CrowdStrike解雇向攻击者泄露内部系统信息的员工]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38eQR8vehgGiaUl17kNuEPSRLQnkXORj82NSrickHYYs04ps5Lqz7IasdWKkI3VmEKo91Y9ibiaFoXaoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全巨头CrowdStrike证实，已解雇一名涉嫌向知名攻击者组织泄露内部系统敏感信息的内部人员。Part01内部截图遭Telegram泄露这起事件于周四晚间至周五上午曝光，攻击者组织“Scatt</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330796&amp;idx=1&amp;sn=12cdb7a6a54102b8eed8118795d70b05&amp;chksm=bcb2397de7f8a82ef4e72a3d9904c6fe6323cbdff4d66db0e37641ed48e86423da16ea590066&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Grafana修复CVSS 10.0分高危漏洞：SCIM配置缺陷可致权限提升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38eQR8vehgGiaUl17kNuEPSRnxCp6icrIbF5CVqweRMnuMqISusPOYtQaTogepKqYbRDQhibMY8IuJsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Grafana近日发布安全更新，修复了一处CVSS 10.0分安全漏洞CVE-2025-41115。该漏洞在特定配置下可能引发权限提升或用户身份冒充风险。Part01技术详情该漏洞编号为CVE-202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330796&amp;idx=2&amp;sn=861bcfd599e5b89130ee895a3df3fceb&amp;chksm=bc4600761bd71a081bba350b6e924d2d199d0980c6e14c20bf53db084be0d1472991beed01d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icLM52tplqDH2iav9AulXzzn5aRveJHZKRXKK7XwoiaYF3xr4jUwhDxvDibd2R6ICWzJoMfeVMouRbqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI时代的安全防护平台；MQTT协议的固有安全隐患</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330796&amp;idx=3&amp;sn=28aff32b6f9551ac81732d6ad500755f&amp;chksm=bc5332496346e8d09e1f0f5a9496d8f675d45cd9e7ec188b24f212a1a5adc3fd69d2adca9d30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜黑客组织Kimsuky与Lazarus联手利用0Day漏洞攻击全球关键行业]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibjyRc17mkdVxbuR6Vgf2GydkibibicOAu5zUcJTDXduIpVzL4Gziay6MXj8d0qq6yNja5NsnFtAibPVHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜两个最危险的黑客组织Kimsuky和Lazarus已联手发起协同攻击行动，威胁全球组织机构安全。这两个组织通过将社会工程学与0Day漏洞利用相结合的系统性攻击手段，窃取敏感情报和加密货币。Part</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=1&amp;sn=fbd4e7ec8b3580e701bf76b7bc90f801&amp;chksm=bc7659facbb08d8ba21339621c0ef4135b2e767b576412595015b84edb6799c38a3928afb2e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高危Windows图形组件漏洞：单张图片即可让黑客接管系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibKPf94wchcJ7jvp92g5HOuib76EeHibRDdfiaZGjaLWbhwVDZBiciafMOmQ18KfOtJMZrAn88DXicYAw0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软Windows图形组件中存在一个高危远程代码执行漏洞，攻击者可通过特制JPEG图片完全控制系统。该漏洞CVSS评分高达9.8分，且无需用户交互即可触发，对全球Windows用户构成严重威胁。Par</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=2&amp;sn=76b2fe93f8a2e796c282148d883cdda4&amp;chksm=bc0f8c03136f1697303c3e9266ef2f693a621db6799f4ed5f0059793d795a8c36b1fc302def2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | 杀猪盘诈骗团伙借助AI助手扩大犯罪规模；Cloudflare服务中断致全球网络瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🐖杀猪盘诈骗团伙借助AI助手扩大犯罪规模🌦️Cloudflare服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330782&amp;idx=3&amp;sn=05c4134aa1376a8d5eaf54edd88195de&amp;chksm=bca427a6eb20489d1d565add3a871a7b5c8baae364b82b69a147af3c13ef7bff161ea6733712&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf培训平台致学员的一封信：你的权益与保障，平台用机制守护]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNTl3VsYQvEh6CvxbRZhnZ5xWJ9picBygxGZicUONrbHuNPlDJiaTjuiapCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从你选课到学习，再到售后的每一个环节，我们都想做你可托付的保障者。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330742&amp;idx=1&amp;sn=8b130cd89fd9556aa371959309325b60&amp;chksm=bc04547d456cb8cd6efd1b7d9bc7ca1cd696c8ea082b6745281463d7c265c89e8ad0eeb55c57&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI被攻击怎么办？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibBP5xINh6YBe8VOfQwQZ71PzUBtweFLibLvibkRGkJuDeibf1EvRicejlqkmXyTfJekm7kVR3sQUnctQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个未设防的AI接口，可能在一小时内被恶意调用上百万次。如果企业缺乏有效防护，攻击者只需一段自动化脚本，就能疯狂消耗企业算力，造成动辄百万元的损失。在这个智能与风险并存的时代，企业需要的不仅是强大的A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330742&amp;idx=2&amp;sn=b11e89994a4dbe08e9f333e854ec5be3&amp;chksm=bc89ee509ae845001cb6f14b12c76e6d8913d6324514b8e668fb72726fda01c7ea48975374c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客论坛惊现微软Office 0Day RCE漏洞交易]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibKPf94wchcJ7jvp92g5HOuzTWD5iah3CMETNTKWtSwoV7pFfIebFBg5Kvz8tAd8BpBOe4t5gMjaGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全社区近日拉响警报，黑客论坛上出现名为Zeroplayer的威胁行为者正在出售针对微软Office和Windows系统的0Day远程代码执行（RCE）漏洞，该漏洞还包含沙箱逃逸功能。据称该漏洞利</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330742&amp;idx=3&amp;sn=9fe78d7bbeb3b2a8c97dad5f47d00d1b&amp;chksm=bc984fd2ad1e837610ba8aa1fb8e60b8541114393dcad6422c3218d0d7cfc000a0ac2fc4a3dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ollama漏洞允许攻击者通过解析恶意模型文件执行任意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibKPf94wchcJ7jvp92g5HOuwZ09doKNjJbyUg9aS5DAp5VDu81vfSDEmxJTt1Q3gic2B5QGuZdiaHpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述GitHub最受欢迎的开源项目之一Ollama（拥有超过15.5万星标）曝出严重漏洞。该漏洞存在于软件解析模型文件的过程中，攻击者可利用此缺陷在运行易受攻击版本平台的系统上执行任意</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330742&amp;idx=4&amp;sn=74c6f1380ae5f5238e0a3209c45be96b&amp;chksm=bc04eeba3b20dc1c35c7d83926f6ff0935c739de6b5cd712a459e9e2a667ae4bebf505a04af9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Fortinet警告FortiWeb新漏洞（CVE-2025-58034）已被野外利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibBP5xINh6YBe8VOfQwQZ71bpLMYVu0M5BYjFWavMv4JFrOHjVNbvv6uFssk2AuSOia0QfstCVmb8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet 近日警告称，其 FortiWeb 产品中存在一个已被野外利用的新安全漏洞。该漏洞被标记为CVE-2025-58034，属于中等严重级别，CVSS 评分为 6.7（满分 10.0）。P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330685&amp;idx=1&amp;sn=2dd634c0df98b743e578697b13c40b6f&amp;chksm=bc9ba836e2e2f33d94dedf7dffc37ad6db988071473ce3b0e2f3a8741032b88f719c07e6c072&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[照这样挖洞，小白不出洞来找我]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibBP5xINh6YBe8VOfQwQZ71sdTjviceH1MNZmf9WfuPbaX59NoibWlRpZqPY3p73hWVRTyicG8tJaMzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 声明严格遵守《中华人民共和国网络安全法》及相关法律法规，恪守网络安全行业职业素养。本文所有操作均以合规测试为前提，不从事任何破坏性行为；本文发现漏洞将通过正规平台提交，仅分享技术思路，供学术交流与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330685&amp;idx=2&amp;sn=341469dabfde30fa45249e50e29ca992&amp;chksm=bcf3ed8a82d3d6002bbe4bf24f5ad9d48bed60e5b8fa300f44fd436ce49874a2e53be00bf1f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[欧盟拟修订《通用数据保护条例》和《人工智能法案》以简化监管]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibBP5xINh6YBe8VOfQwQZ712Ub6TG1n6tAbGdxxhouvUMiaGtyac6qXibkpWUpWycHE7pmGvxr9YKfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>欧盟近日提出一系列监管改革方案，旨在降低企业遵守《人工智能法案》和《通用数据保护条例》（GDPR）的合规难度。欧盟执行机构欧盟委员会宣布，此次立法更新预计到2029年可为企业节省高达50亿欧元的行政成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330685&amp;idx=3&amp;sn=c89af185ca33b0f2792b2c3f06abf9f3&amp;chksm=bc2c5a5149d199785abcee41e6a1b235ec935c1fbb4f44cdfab25cae1fd4d5da602929696916&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[点击一次渗透42天：Akira勒索软件利用CAPTCHA诱饵摧毁云备份致存储公司瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibBP5xINh6YBe8VOfQwQZ71mUeghrAaGaa5JV3NfT6xDQjJjdiaIEd4P7mpHAIa1DrUGTGJt2UaCAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Unit 42最新分析报告披露，一家全球数据存储和基础设施公司因员工点击恶意CAPTCHA诱饵，遭受毁灭性勒索软件攻击而陷入瘫痪。据Unit 42描述，"攻击始于一名员工访问遭入侵的汽车经销商网站时"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330685&amp;idx=4&amp;sn=15d272142ae04c0e467a8087cf0f6576&amp;chksm=bc2138276679a63a0257c225d2fd21fac509f0da111d8d62fa58232b7b0c600ec5698b48e6d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[端点安全评估新思路：基于Windows原生机制的权限管理工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfN4Oia5lFibeNygvDtmm72hpEZ8hYSM4enibxT99CoCibEjFEouQazlpIkpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在授权安全测试中，我们通常会遇到这种情况：虽然当前用户属于管理员组，但由于 UAC（用户账户控制）机制，进程仍运行在受限权限下。执行 whoami /priv 命令会发现，关键权限 SeImperso</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=1&amp;sn=382539e01be5a02ea78c856c03f4322e&amp;chksm=bc4eb795b4dd5681890d8a9925049a14bdb5ca1329a29f4992f551e461dddbf5f22062f9ccc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare服务中断导致全球网络瘫痪：X平台、ChatGPT及多家主流网站无法访问]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNyOluNejWHYUZ5SzmC1wTmR4rdE874jIyzj1DhTtjyyc6ytUuvd6rlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心基础设施故障引发全球连锁反应2025年11月18日，互联网基础设施服务商Cloudflare发生大规模服务中断，导致全球范围内众多知名网站和平台出现间歇性故障。此次故障源于内部服务降级</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=2&amp;sn=6fe982f36807e95bb0462e09a0194914&amp;chksm=bc057b5b79f4e16f2850a69c5acf792acc12eec8da064932139fd914be475ab41a03b0947139&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突破IAM孤岛：身份安全架构为何对保护AI与非人类身份至关重要]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNk6s0GiawC0KpxTurSddlXp58bo3fMEPNqCvicKgDB8ZCKj5WdhK52cxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>身份安全架构（Identity Security Fabric，ISF）是一种统一架构框架，能够整合分散的身份管理能力。通过ISF，身份治理与管理（IGA）、访问管理（AM）、特权访问管理（PAM）以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=3&amp;sn=640c3b2a4765e562bbd2c4c91d72d400&amp;chksm=bc4e5710e73c009983c05ed37f294553f7a1648d0c0390af962b3e7d5d230cfb4144450b5b13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌紧急修复Chrome浏览器正被利用的0Day漏洞（CVE-2025-13223）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTt3gunlXD5dVdB3XQEEIhO0p30QBvuWSZZe37FmLTfe34cJwWgsyucA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况2025年11月17日，谷歌针对Chrome稳定版频道发布了一项紧急安全更新，修复了V8 JavaScript引擎中两个独立的类型混淆漏洞。其中最严重的CVE-2025-13223</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=4&amp;sn=6a2bdd1041ff5a7753a04044989b4b9b&amp;chksm=bc1bd25d65de93c98c526c4f7106de28758e974a17d0c0fc3b95a65f7cf631a4ab451d999fef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[杀猪盘诈骗团伙借助AI助手扩大犯罪规模]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTIHtm7rGI6PlGicIQwGia37lQV6adeSEWkL6oBDuIyYvnia3MvZeyY1tIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>杀猪盘诈骗已发展成为最具破坏性的全球网络犯罪威胁之一，每年造成数十亿美元损失。这种长期投资骗局通过情感诱导和虚假交易平台建立信任，最终榨干受害者的毕生积蓄。如今这类诈骗已形成产业化规模，犯罪集团开始采</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=1&amp;sn=ede32f143becb9558c87bbf2c784e073&amp;chksm=bcd28bba523c2662ae8dca9d6ef3257f71e28dba6449379e84114fd40e91386492a1fc8f47c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI说的每一句话，都靠谱吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTgLKYzw8kCN2NALbWjiad3rUOd0wCTx81v7I1RhLkbLsOUyLVg1kSl5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>当用户向AI提问，或通过内部工具获取决策建议时，得到的每一条回答，都由大模型实时生成。这些内容看似精准高效，却可能暗藏风险：模型可能无意引用未公开的内部数据训练数据中存在违规信息，被输出给用户在复杂语</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=2&amp;sn=4b6fb0a7c86f5bd74cb4a65ea8032cf9&amp;chksm=bc67d2ba65243ca29254f16d49b64e525dfe33967d4a6a1e3f5923ef1ba928327517f8846d92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软成功抵御史上最大规模云DDoS攻击，峰值达15.7 Tbps]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTPicnkJTPZN1tneZ64bsKzpbTFZTGTyYrWicXVibcBomysImib5R76EIUJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击规模创纪录2025年10月24日，微软Azure DDoS防护系统检测并成功抵御了一起针对澳大利亚某终端的多向量DDoS攻击，峰值流量达到15.72 Tbps，每秒处理数据包达36.4</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=3&amp;sn=aa0b57387655987765b938083d181b96&amp;chksm=bcf4b7a47dbbc8b702a58ebea2e1a14f10619319e196973d82b8d1c0e4e37c366ba0a6df6fa1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EchoGram漏洞可绕过主流大语言模型的护栏机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTAsocyVeABLScDeerRzX3WGYQ98GVUibDGsjPibia94N5MpNZO8iczK9MZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI安全公司HiddenLayer的最新研究揭露了当前主流大语言模型（LLMs）安全系统存在的漏洞，包括GPT-5.1、Claude和Gemini等模型。这项在2025年初发现的漏洞被命名为EchoG</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=4&amp;sn=7cfd99639d749061b3f5b88c0c732fd2&amp;chksm=bc2a35395f4aca48886c2725a2e833155e3cdba7f4d02527e505a67b8f99637ec4737f8143a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高度复杂的macOS DigitStealer采用多阶段攻击逃避检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MUsfCpUntCHEnYfue5SIc20CfwrfJSIYXy6Qctq6wzcjGvZkLeY0UicYXgTtHXLhvJ806bltic1Dg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现了一个针对macOS系统的新型恶意软件家族，该软件采用先进的检测规避技术和多阶段攻击链。这款名为DigitStealer的信息窃取程序通过多个有效载荷窃取敏感数据，同时在受感染设备</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330508&amp;idx=1&amp;sn=9717fbb7a0fdab0af09411fb7b40976c&amp;chksm=bced46488d7a49451b544d5fff2db81f80cb60018d1e3d3d4b1d1785b2e811d72b878068ce3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[赠书福利 | 《Web漏洞分析与防范实战》免费送]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MUsfCpUntCHEnYfue5SIc2qolmxIqQjANK5TTmogYV8FIsr8QTBT0SLaJjd2ial5fpuYCianAYE8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着信息技术的飞速发展，互联网应用已经渗透到社会的各个角落，企业的信息化程度也在不断提升。然而，网络安全问题日益严峻，成为影响国家安全、企业生存和个人隐私安全的关键因素。网络攻击手段不断进化，从传统的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330508&amp;idx=2&amp;sn=fbe35770b9e616dce6bfd97afd16a81a&amp;chksm=bc32cc6dbd390e2c55dab51e2986e409962ef07c4eab3ea2c02e9f4053742e3f532e4bf5df44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SilentButDeadly：一款可阻断EDR/AV网络通信的新型工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MUsfCpUntCHEnYfue5SIcak1EVJnfRHnHIUp0t2fOnvuMFztkDp3SnEYSiaBGoQgdQKS8ibicDC4KA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01工具概述安全研究人员Ryan Framiñán开发了一款名为SilentButDeadly的新型开源工具，该工具通过切断端点检测与响应（EDR）和杀毒软件（AV）的网络通信来干扰其运行。该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330508&amp;idx=3&amp;sn=78f79da60e75083c928dda3bff6628fd&amp;chksm=bcf47016e7db5814df2eebed0bfe84b53c4e2bcca57c20a5377c97712f85e2f31d7f0a9f82e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rust语言助力Android内存安全漏洞占比首次降至20%以下]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MUsfCpUntCHEnYfue5SIcSXmyUstYCphkBwJAffzP1TY8GRvqADiaqP3SHeZNurh3gtQgqNUAm7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌披露，由于在Android系统中持续采用Rust编程语言，其内存安全漏洞数量首次降至总漏洞数的20%以下。"我们选择Rust是出于安全考虑，与Android的C和C++代码相比，Rust实现了内存</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330508&amp;idx=4&amp;sn=73d5040902651535f7f0ca31ed48abe9&amp;chksm=bc59b3eba6c77e8d0065b4ef117eb76520885f8a27e6648c6f31b190394bb2ee7232312883ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“交费后不退不赔”，网安培训“私下交易”维权之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39KXctvCsbYawe1Hg7qNHEf6iaZM0EFDomE4J9Igl0aBYNm9erSibxbracL2epUNByAmYXt66GjpcWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，网络安全培训领域的一些风波引发了广泛关注。我们联系到一位亲历者——大学生小杨（化名），希望通过他的真实讲述，还原一段本可避免的曲折经历。以下是我们的对话整理，为保护隐私，姓名已做处理。Q可以简单</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330476&amp;idx=1&amp;sn=eb9cebb884f1e173888081637e300d5f&amp;chksm=bc2b6b82f5a7e10d5a6c375868a0d83182962d38647cc48fcea7feb73026dfb938803f4f1498&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 15:10:36 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[罗技确认约1.8TB数据泄露，员工及消费者信息被盗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39KXctvCsbYawe1Hg7qNHEf6gBXFicXDmdZWAheMhuHfAF5xjfSrpOJzTJd62Dsbdmvicib5hCu1FNew/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国硬件配件巨头罗技已正式确认遭遇数据泄露事件，此次网络攻击由Clop勒索团伙发起。该团伙今年7月曾针对Oracle电子商务套件（Oracle E-Business Suite）发起过数据窃取攻击。作</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330476&amp;idx=2&amp;sn=8edff2e9e75ce68f6906b7c553cf6304&amp;chksm=bc9157bbc4d0014001ea0d317156750724cc7dffd29a7c87bcb92cb5d5a1b99d56ac32c7a32b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 15:10:36 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：网络安全时间响应服务；无线网络安全原书；2025大模型训练数据安全研究报告；Django SQL注入漏洞详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icLM52tplqDH2iav9AulXzzn5aRveJHZKRXKK7XwoiaYF3xr4jUwhDxvDibd2R6ICWzJoMfeVMouRbqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>CISSP官方教材完备精华笔记；WebView漏洞挖掘教程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330476&amp;idx=3&amp;sn=4d477ea411b3aa4185a781f76ce992a7&amp;chksm=bcf4164e76a7bd73372653522394c6ad265531de6a291680d286cc8cd392c9fd7cbd4261c597&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 15:10:36 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当攻击快过补丁：为何2026年将成为机器速度安全元年]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFRZjPSuftCuicBTJNfdK8nUOf4YO6PyDicjMPPaNZKzThCcBQCrzoiayaSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01CVE争夺白热化根据2025年多项行业报告显示，约50%至61%的新披露漏洞会在48小时内被武器化利用。参考CISA已知被利用漏洞目录，数百个软件漏洞在公开披露后数天内即被确认遭到攻击。每</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=1&amp;sn=29a4031501c306fe0b16170d69c0943b&amp;chksm=bc4343596808119bbafa5107564d346605bbcd540cab86950d2a7041f37afc57f2630dc91883&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39eSaoKM67nwQSdxoLfJhQnV9yR5Waj7Pt0p0MfBSDAmEmD9gwZmP9TTfcdiaQS0cvN8RT68iarjA5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现了一系列影响主流人工智能（AI）推理引擎的关键远程代码执行漏洞，涉及Meta、Nvidia、微软等厂商以及vLLM、SGLang等开源PyTorch项目。Oligo Securit</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=2&amp;sn=b944c440a5ca14eb9491a63f7df34466&amp;chksm=bc3af909b03d0370065d355543a7251e7b8f1e654c37f5a66aeb504938fe572481fa89b23add&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[专访国外爆火的AI渗透机器人XBOW：对抗性机器人与自主威胁猎手的较量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39eSaoKM67nwQSdxoLfJhQnPicRbAkv7yS8AKW2WeWXickjRFD3Fke63ZMoAW6Y85E4icGo7suYjVicRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI黑客永不休眠我们的防御体系也不能停歇数字孪生技术有望帮助我们实现全天候威胁追踪，先发制人地发现潜在威胁。在最近的SecTor大会上，我发表了关于主动威胁追踪的演讲，随后在展区引发了一系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=3&amp;sn=20859f4e878e1810f1a199443ddef4e0&amp;chksm=bc0acb397838fb6cdab51c7c604a426c6a9b49da79c813962a27ba7ef2b35e12570810df4e90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR393g1IzY1y9evH3Ue7ac4IMnRxh7JeOsFLkmvuvBNJXva3JIcj5NicWPWmzGgS6iaicicfMZNKZticDWTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🍮ChatGPT被诱导自我注入攻击，7 种新型手法窃取隐私数据💻W</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330449&amp;idx=4&amp;sn=196d2937587bc55a49abc9ec4f756874&amp;chksm=bcdf412b46d182cb60170b4d8dea2f56addaec32b903dfca29b71df649509e72199ceac748d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新一代Web扫描器ES::Dirscan：目录扫描快准狠，高价值结果直接提取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39vsibibGo5j4YiaeBaYFS6lFR3ictUHTtlPym3kQfKlCzJ1OtZ4rkVQ1PAapNEaYtGEFGMu1L01MFAKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Web资产摸不清，安全评估全白搭。钻研Rust安全工具的永恒之锋帮会，之前用Rust引擎做的图标化指纹端口扫描工具（点击此访问往期文章），都更新到32版了，口碑一直在线。这次新出的Web路径扫描器ES</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330440&amp;idx=1&amp;sn=75d0a977ea9e76abb3b6eb061df6fbba&amp;chksm=bc1767506767e6a859c66dfbdb0e7283f59d9701c0e862cc94ed4be2c944b9cbd195d2c47f4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Nov 2025 18:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

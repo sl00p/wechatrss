@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[逛逛GitHub]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[逛逛GitHub公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/kcskZut0b2pHGHrEdbWQSlufn3PQ7vmHdicRmvIIEILw0IpcxLKicFKN2xTffAJ9CibUEe1XoM5d5Xvm3l5ohl0RtxZ2EYkv8zu33LZK4sAEdc/132</url>
+      <title>gh_6f55ff91dc49</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[这个 GitHub 项目真给劲儿，搜集了各种开源平替。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxTQgTgOtiaRoB09ukT5v76wSFduM0eNuWYhUsiaxDaAoibzsblxxhuGcIXmGd7OkwKSN0fQQzwUOiclw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个非常实用的开源项目叫 Deploy Your Own SaaS。它收集了海量的可以自己部署的开源软件，涵盖笔记工具、云盘、在线会议、记账工具等方方面面。而且收录的项</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529187&amp;idx=1&amp;sn=50fb04109f21a2bf1e3f195e6a55debc&amp;chksm=f8140958d50f8f7ab1d639da3e37e788e4b45d9877a57c11ef2c9fa2b567a937f76dfdce76fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 15:47:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29J5eElhnSu49SknJUUnp9hpjzfwl0hVeNiaibcVS5IXblDHAEARpTTicLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01siyuan：个人知识管理工具这个叫 思源笔记的开源项目，肯定很多人用过。在 GitHub 上都有 4 万的 Star 了。它在极致的编辑体验与绝对的数据隐私之间找到平衡点，它不仅是一个笔记工具，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529141&amp;idx=1&amp;sn=ab1bcd47346e13d016f51cdd64213f94&amp;chksm=f8bb25d8500b12f02a05c8474bfd60abaebb5da70861cbc1d2a36a11ccc07999234e5ea5f99b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5 个 AI 操纵手机的 GitHub 项目，牛逼了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwPz6GHDCOGsYNoWXVibVKTjVA8BfUsfqcyeSoyic5buLxMtlySdaJlKvGA1wf09sbiatldAjTGUNm6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去，如果我们想自动化操作手机，通常需要使用 Appium 或 Airtest 这样的工具，但这要求开发者必须深入了解 APP 的底层元素 ID，比如 resource-id 或 xpath。一旦</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529132&amp;idx=1&amp;sn=0b45b857cfd67f9144472f2017f46a14&amp;chksm=f8d04524c2af856c5b4c8ad3546eb23035f5e6b7be47ac950ac5f607c80608109c238e3abbf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 15:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 上狂揽 1 万 Star，这个国产 AI 应用开发平台牛啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29BT1SMZQj5hZ9iciaO8WqwDFXUiaUzxdcTKWTq1fyicHe7mTSMzHwiciaXDew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个叫 BISHENG 的国产 AI 开源项目。这是一款主要面向企业的开源 AgentOps。名字取自活字印刷术的发明者：毕昇。活字印刷术为人类知识的传递起到了巨大的推</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529110&amp;idx=1&amp;sn=7e8082a7edf28036056c718bac3bd8f9&amp;chksm=f8444be7af5200ebf359901f4fb7b32ba6fd53913136ab31f260ac22c8188702d5b1f7b38b3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 5 个 yyds 的 Claude Skills 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzic4lkiaFibiaGd7pO5bHtvYZyN6bF9HicLNcUGoialntO2rxL8VTcN29monFs0HO1nEfyUdsRM7LReang/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间，Anthropic 推出了 Claude Skills 能力。这是一种模块化能力扩展机制。有了它你不就用给 AI 重复解释了。你可以把所有想让 Claude 吸取的经验都写到一个 Skill</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529084&amp;idx=1&amp;sn=ee9d1ebfd21aa3568ac41913e94a3366&amp;chksm=f8f3ec60cb1cd2a196e5e25bfebeba4560b4830c72935aafdc9b38d984d4f2096073435b3ea5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新挖掘了 3 个牛哄哄的 GitHub 项目，有点意思啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81nRXSWbWvTvI4ozuef22nV2agkEDmoWQDicc4OibUTy9gwqicamGV7FJCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把 VS Code 装进浏览器这个开源项目可以让你在浏览器里面写代码，它把 VS Code 完整地搬进浏览器中运行，现在已经 75K 的 Star 了。code-server 让 VS Code</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529000&amp;idx=1&amp;sn=8b43d987607eed0346f1a3c75f3939a0&amp;chksm=f81feae56598bf478c7e12792ad2be1f7e01e1cbeafb210eefcc7b2dc7bfdb9d440835c660c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[实测 Gemini 3 Pro ，我人傻了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzic4lkiaFibiaGd7pO5bHtvYZyEg0A5pmY6JLscys6lwibQm3buApxVpYbGyLldicm9qVLs7Jf9rGq3UGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间谷歌的 Gemini 3 Pro 发布了。好家伙，直接屠榜了。别人模型发布，都是说“我们的新模型在 AI 基准测试中比现在最好的模型高 1 个百分点”它直接高 5、6 个点，断层领先。而且在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528987&amp;idx=1&amp;sn=eb72aee8487e98fce6239210eb0383d1&amp;chksm=f8c3a05b8c6b4f0627d890191f2f05f682b39ec092c2421e6dd2b6b21b4a1ae61672cf0a36cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 3 个 AI 智能体 GitHub 项目，太绝了啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81pX4Qvmxv7XK47XJEsCPkMVicrdJFXDrgwCnO1NJvMujrhp1D81HcFXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 智能体平台是科大讯飞开源了一个 AI 智能体平台，叫做 Astron Agent ，实用性较高。类似 Coze、n8n 等平台，Astron Agent 集成了 AI 工作流编排、模型管理、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528909&amp;idx=1&amp;sn=6be89862c4e53c8bd7033bbb600ecd52&amp;chksm=f87556da30af5782c8dcc315ae28855fea21f9c1f6c7bdc0d6e84069ae006fc5a1b31f1cd513&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[清华联合开源！首个基于 MCP 的 RAG 框架，太秀了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r810VUicR51aCl7ZtyZwflgQH2TRl6G61QYcnEOKFPaTnllBnZEleibKwQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 挖到宝了，这个叫 UltraRAG 的开源项目是首个基于 MCP 的检索增强生成（RAG）框架，不写代码也能玩转。用 YAML 文件轻松构建复杂 RAG 系统。RAG 系统：简单来说</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528908&amp;idx=1&amp;sn=d1cb4216dbf73faeb8d00ed7020280a6&amp;chksm=f894292d06a93a26add2258d34cb7004d42ca10a80ecca46f8328da2ba692cba530508965f28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这个 GitHub 神器 30 秒搞定网站部署，贼给力。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r815ETxVeicCnrGDkFHOS4aiagyLE8q4GbYBiazQ08C9DTBf3Glv8OOTv4vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 发现了一个快速部署网站的开源项目。在 AI 生成 HTML 前端页面成本极低的今天，这个开源项目相当有用。这个叫 PinMe 的 GitHub 项目可以快速、免费、文档的部署 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528907&amp;idx=1&amp;sn=c0fe5fd7f7e73776a01d9f1507595e97&amp;chksm=f85025264ab8a0947a51029e6e930122260c59e44d193d095519745670e5925d830cc4667b3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Kimi 开源即爆火！K2 Thinking 有哪些实用玩法？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81DqsYfzk4xcVaecEtDUZ3GSTNrubCKqNUdZVsz76LCUyNMzVZECfHWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 最近开源了思考模型：Kimi K2 Thinking。按照官方介绍，它掌握「边思考，边使用工具」的能力。可以自主实现高达 300 步的工具调用，解决复杂问题。而且在「人类终极考试」中一举超越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528906&amp;idx=1&amp;sn=dbae59a09477dc897eb5d9801bcd5a4f&amp;chksm=f821b427c990af54862eb1e2f6a7375293a4c763cab4d6958e56d5096730e815b17a5ac23a80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[太残暴了！一周 8000 Star 的 AI 黑客 GitHub 项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81Fq3ONiayP9RAyj0pEwibMqmh5d5QfsEAjq9bvKDPFQyO7kOumcYIA2tA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天逛 GitHub 的时候，发现了一个名为 Strix 的开源项目登上了开源热榜。一周就获得了近 8K 的 Star，它用 AI 黑客团队自动渗透测试你的代码。它理念确实有意思，不像传统的安全扫描工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528905&amp;idx=1&amp;sn=9ab20b6d2be6f72301b090173fbba93e&amp;chksm=f801e49f4366cdf691310c1e9a437e63826b46aacaab8cbf480d4bbc954d9ed1ca1d22dc4fcd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周 13 个 YYDS 的 GitHub 项目，哪个你用过？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxqKdvSfZia7RCiaXKicHxMLibvkRJkgibln6K2ibARbYnKDex6LoWjbGF3Z37YlOzMQsfj19ePpKKJrycg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 智能体打造记忆系统：CogneeCognee 是一个专为 AI 智能体设计的内存管理系统，想解决 AI 应用中的知识管理和记忆持久化问题。该项目采用创新的 ECL 流水线架构，包含提取、认知</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528783&amp;idx=1&amp;sn=7976c3fdaed0940fd0e76fb4194e649b&amp;chksm=f86a19cb2b6e684ac1dd4c1feab1a4da56f17ba4c986ec6b2a7671b672f602f4ec89cb02dfb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3 个顶呱呱的 GitHub 开源项目，有点意思啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaOCNciarABIbnP9KqpvaWN4o6VPA9DdG9SGkPdAD6zugQur65dhia8IhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01快速把网页打包成 APP这个 GitHub 开源项目有 6.5K 的 Star 了。它是一个打包神器，能把你平时用的网站，比如油管、小红书或者你自己写的网页项目，快速变成一个独立的、小巧的电脑或手</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528755&amp;idx=1&amp;sn=83983f4a348853f1f0f5730867541268&amp;chksm=f8b62b743ac46e520a5c53926cddea5f16f7067ecb3ceaabab172e1918846b78dd03e6d30168&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Nov 2025 15:31:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[副业搞个 100 万，这 5 个 GitHub 项目不能错过。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaY54fsIHaJs1aOWSm7ZhicOjRJuzXMVaUa2eiaf1A1ibCFiaElV5aNaWQjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一人企业方法论开源项目名字叫做《一人企业方法论》，目前已经更新到第二版。专门为想要独立创业或开展副业的个人提供实用指导。无论是做自媒体、电商还是数字商品，即使没有技术背景，也能从中获得启发。我读下</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528737&amp;idx=1&amp;sn=fe09bec408998d56605c8fd9b8409ad6&amp;chksm=f830a7a31ce2cf26189837bf4f56c13e36eb463efc822d91297f1799e6c7175bff3a9f767d9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 开源 AI 好玩神器，自动记录你的一天。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPruZe7tkCHadlMrllITGX9YjR617WODSa6rpS7ib83RF1D5lomcUNlYMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我在逛 GitHub 的时候，发现了一个名为 Dayflow 的开源项目，它能够自动记录你的屏幕活动，并生成清晰的时间轴报告。作为一个 macOS 应用，Dayflow 通过轻量级的屏幕录制和 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528708&amp;idx=1&amp;sn=083f7a583be7cbc2da4d43454bb6401f&amp;chksm=f8c076c666e87db67b66b5cf58bed760d1b2b231c78137357baf512655a892bfd12b793448e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 上的 3 个 AI 信息差利器，太绝了啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iar5w74JQVaibKEOYVq4DmbXdykAQHiaKvfQMlOef8ia4gcicRHOjRRHOj4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信大家也和我一样，对优质的信息源极度关注。我一般在 X、小宇宙播客、即刻等平台获取最优质的信息。但是信息一般会散落在各个平台，如果能聚合推送给我就好了。哪怕是一些总结摘要，我也能快速知道自己关注的博</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528707&amp;idx=1&amp;sn=7918d107ef8288dd77dfb4a6d2e341c9&amp;chksm=f8d33783368cde4a1ffe88477997c7fcc26f3cf6db48748797f3e77e1a15c0ece3fdbfc2056f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周 6 个最火火火火 GitHub 项目，AI 杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaMVdQh7M0icX19HQA7EEKh68a74oibDbxUCgq40GAex1Qho2QLFByYjWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01DeepCode：智能体编程平台DeepCode 由香港大学数据智能实验室开发，现在有 1 万 Star 了。它采用多智能体系统架构，能够理解复杂需求，如研究论文或自然语言描述，并通过智能体协作自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528685&amp;idx=1&amp;sn=b3c8432920212e4651c690d3d010a6c4&amp;chksm=f81fab19a75dd4c252c1f4574d88ab88b42030939bb99318242b72a35619e1fbd60c248eb0cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 3 个 GitHub 上酷酷酷的工具，挺实用的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPr5y5haod2A5oZpgZibZWoUicwu0nRDtqV1WsIIgibMiasAekBJ9CEO68qrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智能图表生成工具Smart Excalidraw 是一个基于 Next.js 构建的智能图表生成工具，它巧妙地将大语言模型与 Excalidraw 绘图工具相结合。说句话就能给你画各种好看的图表。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528644&amp;idx=1&amp;sn=ea9f907bf732971b581743dab0c78da9&amp;chksm=f80442645876870181ee9e8238cffebca1ccfc58aef0a7b0a39d56caa91a5eb219b703909de6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 2 个 n8n + 飞书多维表格工作流，效率提升 Max。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwrWdQOMjH5JRT7aOibgXPOs9vxYVzrgawtaXAf2H6RZicSGKp8PQibicfiaPoxInaskwC6whniaC2nSqxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 n8n 开源工作流神器搭建自动化流程的时候，如果涉及到数据的归档或存储。使用飞书多维表格是一个不错的方案。除了把飞书多维表格当做结构化数据的中转站，还能基于「字段捷径」进一步 AI 处理或自动化，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528599&amp;idx=1&amp;sn=afc2d3e8398ac1a1999387d9cc3c9652&amp;chksm=f80285c3988c3f3eb07a0fd43d46059e52adabb2db830338ef5114a6df331385b57a9cf43102&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Nov 2025 17:15:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1 天狂揽 4000 多 Star 的 AI 舆情分析开源神器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxryGicoZ0TIeXplCAPnzh25fa2pLEJAFp3nxfYnNOqQXe0WEichQzicNzNWKLzwibChIIcib6vH23Qs2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>看今天的 GitHub 开源热榜，你会发现一个叫 BettaFish 的开源项目登顶了。这个叫「微舆」的开源项目，号称是人人可用的多 Agent 舆情分析助手。帮助你打破信息茧房，还原舆情原貌，预测未</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528548&amp;idx=1&amp;sn=83a34b20b4e54768f7b6d7f5e4d41542&amp;chksm=f871c2803f99451bed3f19d81695513bb7a1c905b9a95cb86d884414b2701827fbbea2c98d0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Nov 2025 16:03:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[国产开源 AI CRM 系统，用它替换了 7 年的 Salesforce。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZjkdKLzOt8I3oLZJt1ia8iaXsfz3aGwCicviaMt2uhogYIhVaAMLzdogSezA/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个国产开源的 AI CRM 系统：CordysCRM。CRM 也就是客户关系管理系统，企业的核心工具，往往价格比较昂贵且定制化困难。这个刚开源的 AI CRM 系统不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528523&amp;idx=1&amp;sn=f7af82b8882eb24bb6fa980c6268eea1&amp;chksm=f84759b862e6417603204945cbf4ae8ec95c8990c78c32862efa2decf0dd73714f4721496665&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Nov 2025 16:15:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[老外吹爆的国产开源 AI 大模型，登顶了开源热榜第 1。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZju8QnsicoiazmR72Via0zfqrky5aTcSdVC7ukVDB2PNvg38T6p58zPOyEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天看开源社区 Hugging Face 的热门榜单，发现开源模型 MiniMax-M2 登顶了。在它后面是前段时间爆火的 DeepSeek-OCR。这个刚刚开源的国产 AI 模型，在国内还没有掀起</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528435&amp;idx=1&amp;sn=b5ed24818d400556e09f986a05c475bf&amp;chksm=f8fe89d0162c567a06f638602276d6b66b3d35712e230779fe93697cea8c202e1811320c9542&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Nov 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3 个近期 yyds 的 AI 开源项目， 有点绝。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZjsuZCjiaV4FWmQCgTDc2JwtMWfCcLfSwRz99qrsIosvmeu44MH5brolA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01数据分析 Agent这个叫 DeepAnalyze 的 GitHub 开源项目是清华和人大联合开发的数据分析 Agent。开源 2 周，现在 1000 多 Star。给它一堆原始数据，它能完成从数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528402&amp;idx=1&amp;sn=989eda6a027819a77a4586e7077a9a93&amp;chksm=f8d33eaed02dca3de4b52cc8398073f574d26d6eba4feaca642347514f7a78df9a4993b97775&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 15:50:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现 4 个 yyds 实用 GitHub 项目，太绝了啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdhl85OjSVDk0iccBY19LMoSTuUKX0m70IWLlbT2mCOyRP2T37g9U0BDOVFFMTWhHOh0iaLEZeibLhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01英语学习工具abandon，abandon，abandon。这个开源项目能通过打字练习帮你记单词、背文章。无广告，支持单词 + 文章双维度练习。现在已经 5K 的 Star 了，还挺适合想提升英语</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528369&amp;idx=1&amp;sn=b81f55539d909a3de4906b9dab316d8a&amp;chksm=f89a47a0286a2e4ad991868f6f3618bd61243ad972ac12ab7dce66d6ea793cfa020245355be8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 02 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[盘点 10 月份 YYDS 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruylvibdTDZDFkje0USriayv5AKT8JkFZ3vDoeiboShkh1wQmXkRD7zyZtJbeicf1Dq5gVapYQKIsyOEvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01交互式提示工程教程这个叫 prompt-eng-interactive-tutorial 的开源项目是 Anthropic 推出的交互式提示工程教程。在 GitHub 上斩获了 25K 的 Sta</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528317&amp;idx=1&amp;sn=0d1cc834938adc4652700305da4f9b49&amp;chksm=f85b04a8b213325aeb7ff8bc0f1bc61d1400d7461f6e81dd9eb7e2d35864674fe313a5ab3c7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Nov 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4 个神级 AI 开源项目，太顶了啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTyxIt6pDiaqqEuaPH8oQVZxJPytRufic4ZMhZxiaLtpSgCmhAhpAaR7dibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI PPT这个叫做 presentation AI 的工具开源了。输入一句话，它就能让 AI 自动为你生成一款美观的 PPT。输入主题「中国大学生实践报告 PPT」，选择中文和幻灯片数量，AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528219&amp;idx=1&amp;sn=4ec25e6312f56707aca2b45beadf235b&amp;chksm=f8ce26284271bdafaaf809da6300edde8bdd2a3415c63cfbf76e5924af9b987e03685bf94fcf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 31 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4 个 AI 方向 GitHub 开源项目，杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTSUsNdkKibfcmjur4YuBibTGibCicsuleLrGWKaibyUIliaJAE6LFvrqryg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>01实时读懂你的屏幕和对话Glass 能够实时读取屏幕和麦克风内容，理解你电脑上看到和听到的内容，随时把所见所闻变成可检索、追问的结构化知识，为你提供智能帮助。当然这个助手不会出现在录屏、截图或桌面中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528218&amp;idx=1&amp;sn=87db5cf975baa9bc7e8cbd0a1c2ab063&amp;chksm=f89a5c5754cf2c5f4fa8dd53c3331be33576ba9367e626ffd71c4ab71c237be08c91e2ac787b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复刻爆火的 AI 交易大赛，刚刚开源的 GitHub 项目火了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyqouKn9NPADNDiapDHfQR92ZQjbKukV47p63OaP1tBUp0dt6bHOIl0cYVsfGB1ffqjt0ksAxzFAog/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一场名为 Alpha Arena 的 AI 交易大赛在金融和科技圈刷屏了。相信大家刷短视频、小红书的时候看到过。这不是模拟游戏，而是真枪实战，玩真的。金融 AI 研究实验室 nof1 发起，把全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528217&amp;idx=1&amp;sn=6c52ce47682d97405b175663b311efba&amp;chksm=f8ac6ff86b74840bf91b586c5fb8a777124c5fbf908a4333906a8e584ec42ac20baec782bd7a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4 个超级实用的 GitHub 开源项目，速速收藏。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux3XDC2fkqX7pECvic0ZQcicl87w0ds04okCzQt0pkcYoQa6Rh93WC97yGIUp7df8YuWqQolQTo2FSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01宝藏开源下载工具平时下载文件、Torrent 种子，还有从视频平台扒音频/视频，总要用三四个工具来回切换，进度也不好统一管理。开源项目 Varia 居然能把这些需求打包搞定，用下来还特别轻量。这个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528204&amp;idx=1&amp;sn=c85a934074415e445515b8879e5417aa&amp;chksm=f81536ebd1f0435c2a05aaa747ade150d72d73985f91fe196e7a07d4a636601e3427a164551b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现了 2 个贼火开源 MCP， GitHub 上 1 万多 Star。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTlupgak77PYNHYTMa0JGyTPsqFCMktR9eIHw062U5Z1Hq9V854F4A0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01谷歌开源的 AI 控制 Chrome 神器谷歌官方开源了一个 Chrome 开发者工具 MCP：Chrome DevTools MCP，能让 AI 智能体能够调用 Chrome 浏览器。目前咋 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528203&amp;idx=1&amp;sn=c5d18d92bad262f7d27c6bff99866927&amp;chksm=f8dd6ae20cda109aa5484e30294bb123b4f2ff895cf7278cab688eae966bb01d8b59613199ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这 4 个 yyds 的 GitHub 项目本周贼火。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTtDALzWJJia2sRSg1BNiaTFVleUfOCMmRZ1mVoCy3gbWlI6xmdr02FpHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给图片设置看不见的水印传统的水印，比如在图片角落加上 Logo，虽然直观但一裁剪或涂抹就木得了。这个名为 blind_watermark 的开源项目，能给图片添加一种特殊的盲水印。这种水印的特殊之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528121&amp;idx=1&amp;sn=c339ceff3c37704aab97c534a3427fcd&amp;chksm=f83b7aa10e5b148869c592b1e002a4a7da0f3ab19de455d978685d40eeced1dc28a2307154d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Oct 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 上刚开源的 AI 炒股平台，支持大 A、美股。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dThpWb3SicmmaPIwHysgV4JTV95J2gU2k5bKHzWSOAatxX5uoRUrMWH1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 GitHub 上闲逛的时候，发现一个刚开源木多长时间的金融 AI 项目：ValueCell。这是一个多 Agent 平台，专为金融投资设计的。对 AI 和金融都感兴趣的读者，肯定对它的理念很感兴趣</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528103&amp;idx=1&amp;sn=107e2e0f5d192e86e2caa2b40fb73e1c&amp;chksm=f836b5a0730a1af7c191ce897e5735abd181eeb678c69bdc884217dee3d60d6c8a85965b1af7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现了 4 个超神 GitHub 开源项目，绝对给劲儿。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyQwia9uRTVhPpVCEibSn5nRWJBE9spFRbwuKWYu9edPYMps1qGjPqcribJE0sBs9VBfdmoyGMvkE0ibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Awesome Mac 软件这个 9 万人标星的开源项目堪称 mac 软件界的「宇宙级收藏馆」收录了海量优质 macOS 软件，其规模之巨、分类之细，足以让任何 Mac 用户叹为观止。从从日常办公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528086&amp;idx=1&amp;sn=71c3c24862e0520efaade935759b2fd5&amp;chksm=f8044130c2a8fd7911f9c7e5aa849163cc0b36ba0562700f7bd14c9f54dc0e082bee1ccf63e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 上 1.8 万星的 Web 防火墙，国产开源神器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxFQTF37Y39B3IQfvItJicKXw73ygTIHTfkVWo808vBccIMDjicSWJdSUGRx9n8YPNghicmBDTBUI5gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上有个开源项目，叫：SafeLine 。目前已经获得 1.8 万多的 Star 了，是比较火的开源 Web 应用防火墙和反向代理工具。它专门保护你的网站免受各种网络攻击和漏洞利用，能够过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528019&amp;idx=1&amp;sn=133a638e5176dda572001a31727579c5&amp;chksm=f835f2756a2771d6d8ec7b0b757d53ee16b7e8b5a6311a1ef215c16024ace9892b84443e13a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Oct 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[国产首个开源 AI 原生后端平台，这次是真起飞了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz5LVq6ruiaicCgtTcYeibY1puWUmcGLdRLzp6HllBg3eAHuszqHqK95ZAU5GBETrsjBu9x2xhpDXtpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌最新版的 Gemini 3.0 Pro 大家都看了吧。一句话，它自己就搞出了一个 macOS，成功复刻操作系统界面。AI 的写前端代码的能力又上了一个台阶。现在各大厂商 AI 的 Coding 能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528085&amp;idx=1&amp;sn=37a067f5736a6d210c5dfe626af5cfad&amp;chksm=f830dac8891b55638ebec730bbf1689bc9825efaeb803c809d7b8478dadff9d99c2383b73fbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 淘到 1 个「AI 控制浏览器」插件，一句话帮你干活。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxFQTF37Y39B3IQfvItJicKXAPfhK6TALayDsWp11H7ReNSiaBvyPl06pe0YAsjpNhRE6ibXRp3ve3qg/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个浏览器自动化开源项目，是个 Chrome 插件。对小白也挺友好的，分享一下。这个叫 Nanobrowser 的开源项目，现状有 1 万多 Star。安装后，就会在你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528018&amp;idx=1&amp;sn=a9e726fbd92d8355a56f688931d5feac&amp;chksm=f8c5a52df88c85e8ba3ea73aff579e9e1ae769de19fbddcdf900dc22ffc552745fdf27ce2987&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Oct 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 11 个本周 yyds 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyQwia9uRTVhPpVCEibSn5nRWXgoONeAJc91oyygunu65oD3hBgQxMlcCQhicfZo6mOBObC14vMYdaibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01提示工程资源大全这是一个关于提示工程的综合性资源库，在 GitHub 上获得 6万多 Star 了。它汇集了指南、论文、课程、notebook 等资源，涵盖了提示工程、上下文工程、RAG 和 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527997&amp;idx=1&amp;sn=074361ead8937635f39545ae53ac11cb&amp;chksm=f810dccb7d9b47a060c681d5cb9ae46633311d9fd64ef505c195ba77b68309bc1a33995ca88b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3 天就斩获 20000 星！这个 GitHub 开源项目凭啥？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxxwwnO1vJrunVt6xBkkesfc4DspMok3N7av37n5jgiaXPsLAI4tlLpq69KXsD4vEK9WoEnMwnvtTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 nanochat 的开源项目，刚刚开源 3 天就获得 21.6K 的 Star 了。这个 Star 的增长速度绝了，都快赶上当初 DeepSeek R1 开源的盛况了。这个开源项目很牛。AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527941&amp;idx=1&amp;sn=20a20cf5e8ffee33eb0e3d0215adc5a0&amp;chksm=f89bf0555de8257e6935d599919708f04e3d96410f0a20dca783beb80371a9222dc8d33a50b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Oct 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[100+ 热门网站克隆版：这个 3 万星的 GitHub 项目顶啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4b0r0tKv0WkaqEQRWNGWqfwRiaOKTVGLxd83x9AvbDZmTKibYKF1KlCKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们经常用的抖音国外版 Tiktok、Youtube、Amazon、奈飞、谷歌翻译等等热门网站都有开源克隆版。这个 3 万人 Star 的开源项目就收集了 100+ 开源克隆项目。Clone-Wars</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527935&amp;idx=1&amp;sn=7d2c0f0207c3b1ff5ea109bacf2356ef&amp;chksm=f8826f11a12d194f487736bf67b398fcc3d9fec68e8f866ce58bca087f3aa2f2ba3d16a7458f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Oct 2025 15:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这个 OCR 开源项目天花板，杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4Sja02PlghVC8SUpcgHDNTyVAGzIa0CLc8u7EIia6RI0IKFQDrMibojibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，PaddleOCR 陆续推出了文字识别方案 PP-OCRv5、文档解析方案 PP-StructureV3、关键信息抽取方案 PP-ChatOCRv4 等多项重磅解决方案。得益于多项创新突破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527934&amp;idx=1&amp;sn=bdc73db73ba5273ea0c06024058ee6ab&amp;chksm=f89b87d727e19098221a4fbcdc33a5a7feab232bd8e20f89d12cd0efd5e679e6d8305bb12077&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Oct 2025 15:32:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 4 个 yyds 的 GitHub 开源项目，实用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruytY0rS6ocz6MpIwmYKbuiaPHNiafVLsyVCcKyDwNgxWSV1nqjK2BcvCjHhSMSksD5LcPJV48BeUcCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01开源浏览器刚刚，这个叫 Nook 的浏览器在 GitHub 开源了，大小只有 8兆。它最大的特点就是运行快、占用内存少，并且把标签页变成了垂直排列，放在浏览器的侧边栏里。这样看起来更自然，也不会显</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527856&amp;idx=1&amp;sn=b445ae37517d7a5322e62990110073ec&amp;chksm=f81c517eeb0cb35aefd9e69a81f028fd06d16d2995bb4737ea48c82ae2000ebe08cc6c9cfb91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[网友发现的 Claude Code 神器：直接拉爆国产 AI 模型表现。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzfZia3s3geOhWuEiciajic02VBjWtmNdKEPUdGxIKehqsgFnyyGE4j3G2uEDmKzoMCw8ziat0cSZwo8icQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个叫 ZCF 的开源工具。它能一键完成 Claude Code 的环境设置，支持中英文等多语言切换，还预置了调教好的系统提示词，自动配置常用的 MCP 和工作流，相当</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527842&amp;idx=1&amp;sn=5d8cf27d6453204cea9d5f4a19612fb4&amp;chksm=f8e5fc7d5f97c05252180b59e29dfade60be0c4ca8928ba892240c37b15b0fbe7efaf644b618&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Oct 2025 15:10:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 4 个实用、好玩儿的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzz4h1It8P8sg7mFHM7HUFpehZmu6Oiaug8PqO1p7VXAXpUdgIyd3oFtWw3qV3wmOibrUydk5KYy7EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01爬虫开源工具Crawlee 在 GitHub 上获得了近 20K 的 Star。这是一个用 Node.js （也有基于 Python 的）编写的网络爬虫和浏览器自动化库，它能帮助你快速、可靠地抓取</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527758&amp;idx=1&amp;sn=a5f73536fe5dbde905c2e68dda24c40c&amp;chksm=f8ad3e8f9218ffccda09b007f392be0caaec108892750d307c84895d167d5517507d8ff09485&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现 4 个 GitHub 开源项目，太给劲儿了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyCukfFkGiaew2TRzawvN7hRTIMOBLy1Tx4y8HhnPco57FZJ9YAXgicLEmfiaZhCcwjyfSV9QHTZzFpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01游戏一键加速现在，使用这个叫 OpenSpeedy 的开源工具就能一键给你电脑上的软件加速。无论是游戏还是某网盘，效率都直接拉满。使用也非常简单，启动你想要的加速的软件， 比如游戏三国志。在 Op</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527733&amp;idx=1&amp;sn=6eadca4f8f6996f2263b6124a30313e2&amp;chksm=f80e31ac5f5362157749f8a3b802eae11f0fbdccb5fbe26658b3cc5ba39a7fffc7d3fe7b3ab4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[登上 GitHub 热榜！一口气调用多个 AI 大模型开源神器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxWfwXknejEu1AbE1GHOOwPMibOM42IezNtscZsVSb3SwqnNCec1zHOYdJLRj5Pgic9Ff2uOMibg8ib8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫做 zen-mcp-server 的开源项目登上了当日 GitHub 开源热榜。现在已经在 GitHub 上获得 8.6K 的 Star 了。你可以把它理解成一个桥梁，能让你的 Claude C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527726&amp;idx=1&amp;sn=4fbb0f2f06b301892e9dbd9c1f77525e&amp;chksm=f8ccb6200a5ef17115b37aa02e3ac8de95f9a93f57d82ea1f5eb868eeac44f8829d44f44da53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[盘点本周 6 个火火火火 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxmQk6mXJia9FnpOA2uScrge8oN86wYWsbj2LCicsTOYcHdw7k0ic9pmgJojYhL7Geqd1Ej2lUED6ZRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在一个地方看电影、电视剧Stremio-web是一个开源的网页版媒体中心项目，能让你在一个统一的界面里浏览和观看各种视频内容。这个项目本身不提供视频资源，而是依靠插件来扩展内容源。用户安装不同的插</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527695&amp;idx=1&amp;sn=7007d847b6b8e625ebeb267a23659223&amp;chksm=f8e3d485e5df469a44cdfd95391100e1441fa311d5c39b71751837c06931084f0836d45c66bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这个牛逼的股票市场平台，在 GitHub 上开源了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzz4h1It8P8sg7mFHM7HUFpZeZYXELE8CicJ4B0HvqGDCXayh1hxTfiblSTo2IjWgrUzA1UAicbibD6eg/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个刚刚开源的炫酷股票市场数据平台，号称永久免费。这个叫做 OpenStock 的开源项目，是由 Open Dev Society 社区开源的项目。它为普通用户、学生及</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527668&amp;idx=1&amp;sn=10d5644469c9c3fd8fdd4fdd40b8422f&amp;chksm=f877e59f4cf676104dc60823391c2687e0ea6e57cdb47ae186f4f72be6f745cb1d923cecb3b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[飞书多维表格 + 即梦 4.0，打造你的 AI 生图游乐场。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzDibDEJibVD9MyhNFzIdeswfMWYPfZ1q7GyWMq9iaNrPOnbmCVDOkXtuKT9IicuQYWBAIRyG8T1SU6mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>使用飞书多维表格 + 即梦 4.0（或 Nano Banana），打造一个文生图游乐场。先来看一个视频。这个视频中所有的页面都是基于飞书多维表格从零搭建的。不需要写一行代码。你可以把你想要搞的生图场景</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527602&amp;idx=1&amp;sn=65d60088ae1d6b56191d315e2af80297&amp;chksm=f88075110105bec24b0ad9c986023b6bc54bd1e886b7eaf43833f172255fc8249815845ef1b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Oct 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[推荐 3 个 GitHub 开源项目，让你的 Claude Code 与众不同。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruytTkeLD6dibP0Ucfbtcgh0rYic2JKLehG0oXQhIyydCAvquP8QZoOBNRpTFLhP9BeWAichniarmMfmSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 用量监控器Claude Code Usage Monitor 是一个专门用来实时监控 token 使用情况的开源工具。它运行在终端中，以清晰美观的界面展示用量数据，并支持预</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527601&amp;idx=1&amp;sn=27141de225ae7620f0b6dc5b7e6965a6&amp;chksm=f86dd38ead0f86d22eaa05075cb1246e18cc8f9d030e20ad7a22a46b5ebbdaeaa6b5c6832810&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Oct 2025 15:04:50 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

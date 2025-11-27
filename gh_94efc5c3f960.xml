@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里巴巴中间件]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里巴巴中间件公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM591PV3q88Jtdkr3PYJv5rJDwoNWar9N0xuiaKlTe2xYLg/132</url>
+      <title>gh_94efc5c3f960</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Hello AgentScope Java]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWtmaYEia6DbKxQ8JcJ98tu6DALZxgHLd7rlrzp3cqgUQLGp4dtQl7GDSg2uhPVibYp8bEfvicOu7MVXQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>随着 LLM 应用的飞速发展，越来越多的 Agent 应用开始走近每个人。围绕着 Agent 应用的核心，目前业界有零代码、低代码和高代码三条主流的技术路线。AgentScope 作为 Python</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520182&amp;idx=1&amp;sn=a5a92dd1d74e8aee6b8451c119945150&amp;chksm=fc7e52a7515af8a5141f2784903756215d810af786a6b613db4929d06ff784c517c4ee7c8cf1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Nov 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache RocketMQ × AI：面向 Multi-Agent 的事件驱动架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWtJPNa4LE7ia1E79jeCe95icbZ9xI869oIJWkNYToTfpzVFv0abYZjUIMhicibqic7icRdnia1dHSbqV4ibLQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>本文整理自阿里云智能集团高级技术专家周礼在 2025 全球机器学习技术大会上的精彩演讲《Apache RocketMQ x AI：面向异步化 Agent 的事件驱动架构》，介绍了如何基于 Apache</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520146&amp;idx=1&amp;sn=10fbcabfeac03fe1aed7fbfedf90f98e&amp;chksm=fc40617986922b48097aeb80c10b13eab97db1be87caf23d7424e13543eca769cb0f5eae22cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Oct 2025 16:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qoder 负责人揭秘：Qoder 产品背后的思考与未来发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWtu5571vfKxTrFT46QyNMv2diaqa3S3PlIWFicicK2zGUbTe4nXdmpiaVVEzrVpCdGrRQHrZ8QqpTGGFQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>各位开发者，大家上午好，今天我很荣幸给大家分享一下 Qoder。Qoder 是阿里巴巴推出的一款全新的 Agentic 编程平台，产品上线刚一个月就收获了数十万用户，非常感谢大家的认可。今天借着云栖大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520125&amp;idx=1&amp;sn=8be54958b3b8fc50b0cf71f3f0ffdc6a&amp;chksm=fc3d2743709631bae3dff3e6519809cfdbe96929e37f49fa84e354b6f77a94b0cd6d09c7a308&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Oct 2025 10:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

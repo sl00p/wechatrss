@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[腾讯安全威胁情报中心]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/aXzQudib6t7sDlLhT4NYB3nYkEvx00TfchvW5vMvaL6GOoO1Xc4260ftD8gecalt5YRicW00vFX6XwUg0CwTV6dkOiaZCFxoebPAFiaoFgyBibE4/132</url>
+      <title>gh_05a6c5ec3f78</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[Ollama 越界写入漏洞简报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWVaOmngOLDFw8LhaJZ9UVx8ibHJXgSqrgibcr2VkFs9Kia506mTt6WJica7rZt8FgAydiaFziaWQu2rEuTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称无CVE漏洞发布时间2025年10月03日影响组件Redis Lua 脚本模块影响版本 Ollama 版本 <0.7.0披露渠道Sonar博客[1]漏洞危害远程代码执行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510969&amp;idx=1&amp;sn=7d8b2bb6618f6876bedcb77a689a4ac2&amp;chksm=ed0e16ec223fc3edf7b802c10e45ecd59b44f404e3450fdccf030ead34db20ceeffd17eed73b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Nov 2025 09:30:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[杀毒软件“退居”用户态？微软 Ignite 2025 带来的安全架构巨变]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWW2CpkJDr2xhSSCdRXy2M2tL6lmzfyTmsTqWxMictn4HvLzX7ZP1vNCXTOLQFsQKD6icHEYP27r3VJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言在刚刚结束的 Microsoft Ignite 2025 中，微软照例发布了一系列议题，而在其中有一个由 Windows 弹性计划 (Windows Resiliency Initiative,</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510963&amp;idx=1&amp;sn=b6cc690e18448d8b2a58525ac2ad769c&amp;chksm=edc930755226470f13d6096fc4e8793eff63583ce91f422b6fca941100778678081e5d49ec22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Nov 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-11-24]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年11月11.17-11.23【家族团伙事件】NoName057发动DDoS攻击致目标网站服务中断，引发社会广泛关注AvosLocker利用双重敲</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510952&amp;idx=1&amp;sn=051f718f22e2fa7f2d8221544bc2a951&amp;chksm=ed8075b690f7eb58cc878b84556a6e20d136c796ff1b18885a57078fd3e6d672aed2fc8bf40f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Nov 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-11-17]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年11月11.10-11.16【家族团伙事件】UAT-5394借Google Find Hub服务对Android用户发起攻击，窃取账号并传播恶意</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510946&amp;idx=1&amp;sn=1badc6371042db18d7834cabac78acd3&amp;chksm=ed00c30778976d6e074cd6512bb5309ccba35bd1bf6d6da0c694cbd84b66a83d9a3ad8b63e59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Nov 2025 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-11-10]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年11月11.03-11.09【家族团伙事件】FIN7利用Windows SSH Bhy实现远程访问与持久化APT-C-60伪装求职者发起网络钓鱼</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510944&amp;idx=1&amp;sn=11e7b883a3a6d28e5ac62caa598edaeb&amp;chksm=ed7b5213a164378243d5418f3fa191641af4faaa950a065c2f1827b596f98337d6e7fe28e03e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Nov 2025 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-11-3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.27-11.02【家族团伙事件】FIN11 利用零日漏洞实现远程代码执行，造成数据窃取及勒索事件BlueNoroff采用新型渗透策略</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510941&amp;idx=1&amp;sn=88bfea148438fcee65ce5b9b72e4fc77&amp;chksm=edab7366072b02f29983fea19bdb11c2b3ddc9843e497e60cb20babbddf6003b89e82a02e98e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Nov 2025 16:46:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-10-27]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.20-10.26【家族团伙事件】MuddyWater 利用被入侵的邮件服务器发动全球钓鱼攻击Coldriver利用CAPTCHA伪装</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510935&amp;idx=1&amp;sn=a304d7b09b3014a1cb266274e241df44&amp;chksm=ed13700747625c2f117a37ee2192c62870c79bbbc8a9fea0d1e6b0657b54d4008a6280d37432&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Oct 2025 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-10-20]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月10.13-10.19【家族团伙事件】Mysterious-Elephant采用定制鱼叉钓鱼渗透，引发数据泄露事件Play利用系统漏洞加密</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510929&amp;idx=1&amp;sn=dbe1f7a0e20a1031de8242fbce2163cb&amp;chksm=ed112319ab902986e25f6deb3cdfd15ac65d67f54169e47427489c18d12157a9ed0366580679&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Oct 2025 17:08:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Redis 多个漏洞简报（CVE-2025-49844、46817、46818、46819）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWUbvwx8icT1e9yDzDSR64pvIqkMfAZdYzibg2nMLGu5vWicSposHYOHib0q3uicicslEoCtm38K8tCiaPYIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称 (CVE)CVE-2025-49844CVE-2025-46817CVE-2025-46818CVE-2025-46819漏洞发布时间2025年10月03日影响组件Redis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510914&amp;idx=1&amp;sn=9b0da07c3e0eafa56dc65d01d371b16c&amp;chksm=edc6fe49a59bd6e34e2730312e69633743bd4512db413873a9f5ea3f56691d7240d967f8e20f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[情报近两周回顾 2025-10-12]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年10月9.28-10.12【家族团伙事件】ScatteredSpider利用Salesforce漏洞发起网络攻击，致使39家企业的数据遭窃取并泄</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510914&amp;idx=2&amp;sn=d9a4f66f09afdcb6df5bdf3e043646f2&amp;chksm=ed575947b581c3ea66363fec49fda1acda265a5b36a8e7d61677ae15e5a2ceb191045fbdc82e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Oct 2025 16:30:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
