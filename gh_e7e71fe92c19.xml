@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[劫持MSVC编译器编译过程(VS2019 VS2022) 利用思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4tMn9Lmqbuudu6OjFOaxBuomam0AudVWlPaBXQlBgeXA4Dp2FgJpiarA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天为大家带来一个基于Dll劫持的MSVC编译过程劫持思路,我本来是想要研究下MSVC编译器想通过注入的方式劫持编译流，然后通过得出逆向出微软编译器的IR格式，最后通过自己的Pass实现原生的Wind</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604608&amp;idx=1&amp;sn=aaebd4cc6f470a4ace0e6f378360ddf4&amp;chksm=b0344461fba708394785293dc3ac6f4404026f23db7f6104865145f6b56a198283b47dda8e32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fcaa0XZm3Ywr9mVA0eUdJ1Yq9tfTeSr5TztP6Wk5jaFt1FrMrOaIKpsB2vGHLfOvJDusb2ODnkTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月22日，第二届“华为漏洞管理与应急响应技术大会”于深圳如期举行。大会以“共建共治 智护未来”为主题，聚焦行业安全漏洞管理痛点，汇聚各领域网络安全专家，从行业监管、网络产品提供者、关键信</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604608&amp;idx=2&amp;sn=04ed151f1624d653c618dff4dbce99f5&amp;chksm=b068a48e4374f989ed466419674853794caa9f3b198114e95fd8f0711cfcfb7ecc05768919a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Nov 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[xVMP项目分析(基于LLVM的VMP实现)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPMmM9LBVSAbDCiaB31vpKcy8f84vbaDGAPl2h6Hw1KsbMhaLAlMGsq6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前在學LLVM Pass的時候就在想，是否能用LLVM Pass來實現vmp？想了一陣子沒啥思路就沒再多想了。直至看到大佬的這篇文章：写一个简单的VMP-不造轮子，何以知轮之精髓？才發現原來LLVM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=1&amp;sn=a16a91ea3424a8b809cefcde896f4764&amp;chksm=b049c04f9f5ab2dc3437edd9ea47773185f2b9dc97173b3f2875ab62c737b8270acda46b998a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=3&amp;sn=351016c632b91751a60d6a8345406dea&amp;chksm=b0ed54742399d626e6d4c77fcd74abbeb377c37b5609a919df5fe71027daa85d3d380da2063e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | 利用大模型辅助自动化 BYOVD 驱动漏洞挖掘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnXc5hUI4R9XePolhsGYoIL0QYhaicfOeIx4zLcNlGmMMsHyQSoBdstag/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾BYOVD（Bring Your Own Vulnerable Driver）驱动因其隐蔽性强、利用门槛低、攻击面广泛，已经成为黑客组织和APT攻击的重要突破口。本议题首次公开了阿里云系统安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=1&amp;sn=b4a9afda0c3cbd7755e716331ec19d7a&amp;chksm=b0bffed133d902158e298d8b37607de11e871162ef183fa2ef4047524c85f7b8032899cce168&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最后1天！看雪双11·课程狂欢，限时抢购]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnrUGMFBjP3uhgQcXExsDesNC33oPjHsYIicXha20rrGb0xglPfGrpjag/640?wxtype=jpeg&amp;wxfrom=0"/><p>【看雪双11 · 技术人的购课狂欢】年度钜惠，仅剩1天！活动时间：11.7-11.11快来扫码加购想趁双 11 囤点硬核课程提升技能，又怕遇到 “虚标折扣”、“赠品鸡肋” 的坑？别慌！看雪安全社区双1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604044&amp;idx=2&amp;sn=4db86efcce3ff94e61099f53b9a8c43f&amp;chksm=b028510daef313fe2d400d0ad005a3d18be8334bceb743441a8d15d5c5ae6baaaf045ad0fa9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

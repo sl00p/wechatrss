@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重新思考 weapp-tailwindcss 的未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvUfjdX3ZhyadroLLQhDSVrfAm7DK4f2PV2icxDhWF6PH2iaaWTXBT5JCIGsc7aq9e01B8PsPTLUNng/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛强势上线，速戳上图了解详情🔍）大家好，我是 weapp-tailwindcss、weapp-vite 的作者 icebreaker。最近我一直在思考 weapp-tailw</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547142&amp;idx=1&amp;sn=8cb3166a4af002ccb20c50a47bd6e186&amp;chksm=fde7bddc6661598e158eb4067b9bce14065fa0b64a4ec3fc6e81816c2cf35689c5638ae7d746&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Nov 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一眼就会大文件分片上传，白送前后端全套功法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuvIP9SYvgtD4NMt4eoqBFzuLwRzC1VdDqhVw3aSdPCcuSXLpkleYbPB2GbKBMWJiaxsdJibtd5aUpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛强势上线，速戳上图了解详情🔍）快看！前方好像有什么人在争吵。我这个文件上传了这么多，怎么又要重新开始上传啊？我这个网页怎么又卡住了。切图仔快来看看！「啊啊啊！」 前方突然传</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547118&amp;idx=1&amp;sn=0c945b0604b74833c361513b82b1675a&amp;chksm=fdb50f0bb67df1fe8b2a73e03d072e94af95b05e42af383b5a36350df98f5c3a12d075210441&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuEKxfEPR5M5uC7RATnvQzCnMziaRQrR6dHhjibJpqCzX7nj4c2gbPhjoSOsHjQXSXYRePdr3adZdtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝我是[提前退休的java猿]，一名7年java开发经验的开发组长，分享工作中的各种问题！❞前言今天的主题就是聊一聊，spring task 和 Quartz 如何实现任务的定时执行的。 关于spri</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546259&amp;idx=1&amp;sn=dd71ffd2486f1dd40a1f21820e48ea45&amp;chksm=fd9702161c0872a4cc77f6a9834df0e642859d01200ec04e817bbdcf8dae5e34438d261a1a4f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看到Kotlin里满屏的 inline，我真的想 Java 了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtqpvxLQKrdvsatpwarxo0aZ4ia3aSM2icib80ZZK5GJunMRUGQ2V9ZBjhdhon0mbARWyqdhicD4RKufQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝多年以后，当我面对 Kotlin 源码满屏的inline/crossinline/noinline时，将会想起用 Eclipse 手动创建Java匿名内部类的那个遥远的下午。❞一切要用Java和匿名</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546246&amp;idx=1&amp;sn=99953836c752e09d482b6f0e73b578f4&amp;chksm=fd99c9e0612b33e05a15bf2eb4e6df10b47dcd3d3f6c556153bf7b6b44c648ba0dd21eab1067&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Oct 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
