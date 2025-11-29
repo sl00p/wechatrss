@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当上传不再只是 /upload，我们是怎么设计大文件上传的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsKuDUV0SLjoAs39zN5WvytuIKVBq9gz8fx3VfiaLuEnQMNBV05EyMyIxO1BtZhVrjeicEdWLQf96kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）业务背景在正式讲之前，先看一个我们做的大文件上传 demo。下面这个视频演示的是上传一个 1GB 的压缩包，整个过程支持分片上传、断点续传、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547153&amp;idx=1&amp;sn=71db09d5456a56578e4ad152587961ae&amp;chksm=fdd86c1ef06809e2be1f173d4cee8d34fae3b4eb8cb6a318b77b11d7ed962b60f39115ef87c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 30 Nov 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重新思考 weapp-tailwindcss 的未来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvUfjdX3ZhyadroLLQhDSVrfAm7DK4f2PV2icxDhWF6PH2iaaWTXBT5JCIGsc7aq9e01B8PsPTLUNng/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛强势上线，速戳上图了解详情🔍）大家好，我是 weapp-tailwindcss、weapp-vite 的作者 icebreaker。最近我一直在思考 weapp-tailw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547142&amp;idx=1&amp;sn=8cb3166a4af002ccb20c50a47bd6e186&amp;chksm=fde7bddc6661598e158eb4067b9bce14065fa0b64a4ec3fc6e81816c2cf35689c5638ae7d746&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibusRpu0cPeLsw5u9w1ZWXPr7MSqz1r8egJ9QebH3YrOIQRIWpgtepCKPaTzQ7toR4kicWNq1xHmT2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝VS Code 之所以成为最受欢迎的编辑器之一，很大程度上得益于其丰富的扩展生态。本人精选 20 个实用 or 有趣的 VS Code 扩展，覆盖摸鱼放松，文件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546285&amp;idx=1&amp;sn=9b7ab8dce23d2b82ead4bc039d2dba3e&amp;chksm=fdeeb5653e8dae6ce56142281141608fa5949fa7f25c7c83fbd50e648a98ee9951008a7fad29&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Oct 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[定时任务如何实现定时执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuEKxfEPR5M5uC7RATnvQzCnMziaRQrR6dHhjibJpqCzX7nj4c2gbPhjoSOsHjQXSXYRePdr3adZdtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝我是[提前退休的java猿]，一名7年java开发经验的开发组长，分享工作中的各种问题！❞前言今天的主题就是聊一聊，spring task 和 Quartz 如何实现任务的定时执行的。 关于spri</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546259&amp;idx=1&amp;sn=dd71ffd2486f1dd40a1f21820e48ea45&amp;chksm=fd9702161c0872a4cc77f6a9834df0e642859d01200ec04e817bbdcf8dae5e34438d261a1a4f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
