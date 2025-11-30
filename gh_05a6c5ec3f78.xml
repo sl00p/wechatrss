@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/aXzQudib6t7sDlLhT4NYB3nYkEvx00TfchvW5vMvaL6GOoO1Xc4260ftD8gecalt5YRicW00vFX6XwUg0CwTV6dkOiaZCFxoebPAFiaoFgyBibE4/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/kFQqCq0fbzUDlKISt4aaJjJWuvZgT0LmA1AscAFWxznrs0gicIsCWgicx86ico9BgYFWiblIbekSYN8RphcPTvj8frHe1xEB6jaZ7VK3ER0KCLk/132</url>
       <title>gh_05a6c5ec3f78</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[情报每周回顾 2025-12-01]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年11月11.24-11.30【家族团伙事件】INCRansom借未知漏洞潜入系统，造成相关部门服务中断及大量信息窃取危机UAT-5394借Git</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510975&amp;idx=1&amp;sn=27789bf6e0651802ecc7b2c609e15c62&amp;chksm=ed0cd298cd355b575ff8baacb67729079fb55c01e47f13dc06535858937bad2a45ad7547988e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 16:30:15 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[Ollama 越界写入漏洞简报]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWVaOmngOLDFw8LhaJZ9UVx8ibHJXgSqrgibcr2VkFs9Kia506mTt6WJica7rZt8FgAydiaFziaWQu2rEuTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称无CVE漏洞发布时间2025年10月03日影响组件Redis Lua 脚本模块影响版本 Ollama 版本 <0.7.0披露渠道Sonar博客[1]漏洞危害远程代码执行</p>]]></description>

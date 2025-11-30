@@ -6,10 +6,28 @@
     <description><![CDATA[看雪学苑公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/IU2miaUPe0qogCchjlo6RW35EIl2TnHJEIC6SibLlrYIxECBDsGU0r6ZbsOmcibdBPTBK3ECutxibsMg2c1YfpjkicbpQUiaK1XD2VhEbwp1cEjjQ/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/uhz7zTF1ylaJYaUzEXehhfokbynNIDq03glEpv85AJFsfzWTPhqrA4WBkMiaMTj37RbWsb9lQTZdpPfeVVWKtQFhHUdGqghlfxyeJvY6IRvE/132</url>
       <title>gh_e7e71fe92c19</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Android-ARM64的VMP分析和还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4sWia8jib52Cic2LSahKZ9aRibDLnufCzoFG1dauZUaUML3WGzKohP5dEOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景OLLVM扁平化还原—新角度：状态机里面分享了代码保护之一的控制流扁平化的还原思路。控制流扁平化，实际上就是对基本块之间的调用关系进行调整，但基本块的内部保持不变。而更严格的代码保护，是对基本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=1&amp;sn=0670c0f5e68f62656d15ffffb6bb7f67&amp;chksm=b09de28132918e76dfb4e5f627bdfb3fc77b44d3e102acba77221d1033b1981c4f4a77fe475a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Outlook高危0点击漏洞PoC公开，无需交互即可远程执行代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FGes13qvvST96ROkZCtssTrhqYAWufl2zULDf6708hUnsoKNq5HKER5tI8sR8rTMFUqhl8DyE3rA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，针对微软Outlook中一处被称为“MonikerLink”的严重远程代码执行漏洞（CVE-2024-21413），安全研究人员已公开概念验证（PoC）利用代码。该漏洞CVSS评分高达9.8，允</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=2&amp;sn=5c18988c87f29aa71e037b8faa8bbddb&amp;chksm=b04974b429dc33311dd345c22b40617d473c9f328fcb0fe14eff5fc2a0dbd2106e6dfe1fa810&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[课程更新！MISC 从入门到精通全解篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIxxTVghb20icruhHZLrEpwEM2Nib66S65n46ickt4Tvp8Es5KOdhuFWvhOV9iaKKmQQLM7CuibrOaj4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对复杂的加密解密、千奇百怪的隐写技术、五花八门的文件格式，是不是常常感到无从下手？别担心，《MISC 从入门到精通全解篇》课程来啦，专为想在 MISC 领域突破的你量身打造！超值价 ¥199大数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=3&amp;sn=b9b096554f769358f70483483dd80557&amp;chksm=b0a9763c357edfa405bfe0dab1fd93c835134dcb694827ddb17ecd9c83ebebbf95455cfe3188&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[劫持MSVC编译器编译过程(VS2019 VS2022) 利用思路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4tMn9Lmqbuudu6OjFOaxBuomam0AudVWlPaBXQlBgeXA4Dp2FgJpiarA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天为大家带来一个基于Dll劫持的MSVC编译过程劫持思路,我本来是想要研究下MSVC编译器想通过注入的方式劫持编译流，然后通过得出逆向出微软编译器的IR格式，最后通过自己的Pass实现原生的Wind</p>]]></description>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EEzlUx4bJpPEDMPMw4yTBwMpC34QVMiaIzMWodjmibhXxf9fNicY0R2OMyC6IH7rLelxPHESayVjnsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在攻防对抗不断升级的今天，传统安全工具已难以应对海量漏洞和新型攻击手法。而大语言模型正以惊人的推理和生成能力，为网络安全领域注入全新解题思路——但如何让AI真正落地安全实战？如何将ChatGPT变成你</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=4&amp;sn=36d28ee94fb0f2d56f1b301f36df1ca6&amp;chksm=b00968efbec8d3d8fdf753feb90104225a9bdcba36ca4ea70e418a246821dc5a8794ab87b1b8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强网杯S9初赛逆向-解题思路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdnEVUwzCsuNa8pGfPSMibaeDZdXFJe7vNicMe28YdpRQIUFiaOdoHCl8nng/640?wxtype=jpeg&amp;wxfrom=0"/><p>tradere01基本vm结构分析ptrace父子进程调试，父进程追踪子进程int 3指令的位置，替换成相应的操作，因为开始的赋值操作导致数据结构不好看，可以考虑dump+nop初始化的方式。每次in</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=1&amp;sn=99200fda1665acfd07753cd6a74b7dfb&amp;chksm=b04c9d814a2ac3b930e3677ae50f92ee6d2cc955c44cc4628f53991f94d2bce1d3a2e5916be0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Zoom曝高危漏洞：攻击者可越权获取会议数据，请立即更新！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxe73SjCaUXELLnvCSWNiaRae7lXtXN3qpwhqpYM1HaJnP38EbDbmQKRaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Zoom发布多项安全公告，披露了其Workplace应用程序中的多个漏洞，包括两个高危漏洞及数个中危漏洞。这些漏洞可能允许攻击者绕过访问控制、加入未经授权的会议、访问敏感会话数据，甚至植入恶意软</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=2&amp;sn=e8be2a3e73a6aecb13ebf43dc72aae0e&amp;chksm=b0537094109de1de155d8ea1acbf5c394d01daeefe089ad5a03b7dfc4289b1c0999e2e4d16f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30 小时玩转 CTF！竞赛通关技巧全掌握]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604080&amp;idx=3&amp;sn=351016c632b91751a60d6a8345406dea&amp;chksm=b0ed54742399d626e6d4c77fcd74abbeb377c37b5609a919df5fe71027daa85d3d380da2063e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

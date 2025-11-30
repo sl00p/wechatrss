@@ -6,10 +6,16 @@
     <description><![CDATA[阿里云开发者公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/Mic7Gbkx2EebsuLbhJOvLaYfib07Im19oUszgMEnyoDjicVfdj2p2EABuGDZeJWmAt7CZib8icwtutVyiaphvW5N3cibhebzpBfZjUaPMIoHE3YjoM/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/0SsPNEaIERVduia8SE72c6F8X4ib5OfUrovrtINNDhiaQacVqaA4mlYRSF5v1wK2PRxzD1oPwDN56e2Qg96AqV2q1ACqWUx7zIwdsQNYGnNOH8/132</url>
       <title>gh_7fc9311f04ad</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[MCP 网关实战：基于 Higress + Nacos 的零代码工具扩展方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLrHKCWIpribCmicXHHHcwGVPCI8XwHKAyNNDjGXa5oabIpSYoNYnvicIic7ZU0mcW52PobeE9MxeK89g/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍一种基于开源 Higress 与 Nacos 的私有化 MCP 智能体网关架构，实现工具动态注册、Prompt 实时更新、多租户安全隔离，并支持在无外网、无 Helm 的生产环境中一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556038&amp;idx=1&amp;sn=f010debc506a2325678320a3a7593d26&amp;chksm=e832699adba6891afd4392ee372e5c18859976b1faff39995f80fbb89b2d0aa2dc1c6609db04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[AICoding实践：从Prd到代码生成]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIKcwQOib5fj1X26XvmnCE0jahYW1Xh7aicKPP5hW4GlgibJW03AzncJzvnobGLI8RTWIYZLdJeJGkMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文探讨了在AI技术推动软件工程范式变革的新阶段，如何通过构建增强型AI编程系统（codefuse）实现从需求到代码的端到端自动生成。一、业务背景在AI技术重构软件工程范式的新阶段，大模型技</p>]]></description>

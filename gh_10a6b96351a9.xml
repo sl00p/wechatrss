@@ -6,10 +6,16 @@
     <description><![CDATA[架构师之路公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/GzdjWDjRNlNg505kgYIUe2HqjC9XWb75LyEUIUYfoqYab9C7Yl2cLVQfJWVov0ibqkaNo9aiayYxRf7xEHJnctwkwWOibccCAvkEBcdpyLdwxJYV926l4ebibnZdORyYt67LnV1pW8WaYqQgljPL7JfPfQ/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/ib6veiamQaUt9vGiaYXvKcgib7xBxTSdrUApB8IficAsRLHT7Oo6DwGbc45zMkChbZPg1zTmHXenf3p6xxUCJrcuQLEN7DON8ic7ZniaAghheqSRrINwR1vGEqWsjMkYsbTXHFlTiawXusGQg2FephsU8vRq1Q/132</url>
       <title>gh_10a6b96351a9</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[有人问我，说余额为何只能设置，不能扣减？（第115讲，万字收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzknEmvY4HfpgUkVHosIKEVSEdAxudBr2j1CicRK1qbJmib0Iw9NFBxzu787r5ICkvnHTibM2wHYc2qA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》115.幂等性有朋友问我：沈老师，我们有个业务，同一个用户在并发“查询，逻辑计算，扣款”的情况下，余额可能出现不一致，请问有什么优化方法么？今天和大家聊一聊这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979737&amp;idx=1&amp;sn=cc50536bd986283b9ec019bc16b83b4c&amp;chksm=bc31716b3a3e527b288c0820b380da6e94d3faae53e3b824d7832d9a75d6192479e7a258954c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 08:15:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[你被哪个后来知道很SB的BUG困扰过一周以上吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwqDFGKldK5zUicUfhJW2gt85rnNI7VSUxYiaxKAygiaiatVKlBr0icrgZWS2ibrApEkKjibL7GYiaMae44KA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当你动用所有高深技术，从源码查到内核，它却躲在某个角落，对你发出无声的嘲笑。直到真相大白那一刻，你才发现，原来最复杂的，往往是那个最简单、最SB的盲点。主题：你被哪个后来知道很SB的BUG困扰过一周以</p>]]></description>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kDt79dnoq4sDMeueNPcqjSBUdzniaiadKagtjO5P0229mpNMF4o6YkO1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》102.MySQL秒级扩容数据库秒级平滑扩容，这个问题之前写过，上周有个童鞋在评论区问我，说找不到原文了。这个方案实操性很强，曾经在58我们就是这么玩的。另外</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978954&amp;idx=1&amp;sn=abfb90b68370f6d99e58734f34174fb2&amp;chksm=bc3f9ef7f3b1e7b732ef7bb42a052ab8897a73af73559c8a6f2a805192c81c7057996f31c11e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Oct 2025 08:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[70天短视频行动营，下周开营！（40岁一个人创业）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kuPvEhwwR1vJaibsqo6GdPzSNK3ian9kQegQefsAW1MTFpoyJV4o2aMYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>【1】为什么要做短视频行动营产品？1. 在几百份调研问卷中，“短视频”需求最旺盛；2. 自己在这个赛道拿到过不错的成绩，有一套方法，经常出10W+；3. 短视频确实是当下的风口，机会非常大，不愿意大伙</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978963&amp;idx=1&amp;sn=3fe45786ed9671c8764d4cca9eb632b4&amp;chksm=bc8e93af85b6d38e056520f14ca24c5defb86a2a8ceb239a142c8fe4652202f5fa69142d3835&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 11:42:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

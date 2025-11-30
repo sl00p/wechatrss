@@ -6,10 +6,16 @@
     <description><![CDATA[逛逛GitHub公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/kcskZut0b2pHGHrEdbWQSlufn3PQ7vmHdicRmvIIEILw0IpcxLKicFKN2xTffAJ9CibUEe1XoM5d5Xvm3l5ohl0RtxZ2EYkv8zu33LZK4sAEdc/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/ZibdkXsXhoLeFSt4iachU6zia7kQibNEMBwn8tgqIL0GSgPb82go6YseUiblfJJCvP69nqwFGGVdosibADOpYO5WibHtlr7lVdJlknHTCrKVLheol8/132</url>
       <title>gh_6f55ff91dc49</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[10 个 YYDS 的技巧：Google 官方教你用 Nano Banana Pro]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxFgXI2QHuUodgcfRfAx23PzRibRaOQeZA8GDwN7BL6yiajibe3ibH3mAm0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌官方在 X 上发布了一个指南，手把手教你用 Nano Banana Pro。我对谷歌官方提到的 10 个技巧进行总结下，感兴趣的可以去看原帖。地址：https://x.com/GoogleAISt</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529333&amp;idx=1&amp;sn=3d61592b715b56144117754abc004967&amp;chksm=f83d978ee799532628a01c232ad437948e914894462e9c1ee123835deda36707a30cedfc4fcf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 15:04:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[发现 3 个牛哄哄 AI 的 GitHub 开源项目，速速收藏。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxNgWAJP1vJ4ccmiaicGt4Q94Ch6ic5TW8FMq0HyyqHJgkrnU5Rla7XYGUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01小红书采集神器这个叫 Spider_XHS 的小红书爬虫神器，已经在 GitHub 上获得 3000 多 Star 了。它不仅是一个爬虫工具，更是一套小红书全域运营的解决方案。这个开源的小红书数据</p>]]></description>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxWfwXknejEu1AbE1GHOOwPMibOM42IezNtscZsVSb3SwqnNCec1zHOYdJLRj5Pgic9Ff2uOMibg8ib8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫做 zen-mcp-server 的开源项目登上了当日 GitHub 开源热榜。现在已经在 GitHub 上获得 8.6K 的 Star 了。你可以把它理解成一个桥梁，能让你的 Claude C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527726&amp;idx=1&amp;sn=4fbb0f2f06b301892e9dbd9c1f77525e&amp;chksm=f8ccb6200a5ef17115b37aa02e3ac8de95f9a93f57d82ea1f5eb868eeac44f8829d44f44da53&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点本周 6 个火火火火 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxmQk6mXJia9FnpOA2uScrge8oN86wYWsbj2LCicsTOYcHdw7k0ic9pmgJojYhL7Geqd1Ej2lUED6ZRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在一个地方看电影、电视剧Stremio-web是一个开源的网页版媒体中心项目，能让你在一个统一的界面里浏览和观看各种视频内容。这个项目本身不提供视频资源，而是依靠插件来扩展内容源。用户安装不同的插</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527695&amp;idx=1&amp;sn=7007d847b6b8e625ebeb267a23659223&amp;chksm=f8e3d485e5df469a44cdfd95391100e1441fa311d5c39b71751837c06931084f0836d45c66bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

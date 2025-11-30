@@ -6,10 +6,16 @@
     <description><![CDATA[稀土掘金技术社区公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/ibUAcaplOr9SBdB1MKBW2AViaWQ5XZRJGdeVN2pkqzQdn4bGNCzHDXZ9ictJXNUCqXmppmicEh3WYbOxexeypVmepPbqmJKSgrvlxuiackz79sEs/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/icUf1NUSf35iayV3oETR0RibWLibfREp0CwRDN5M4YtKVXDRXxt6YAV3H1bLwbZgZWFs1ExibJJooc8f6yjHlD2nS91X3NyCB7L3ERzzGYQXSaibc/132</url>
       <title>gh_728136eff9e2</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Android 网络请求超时？可能与连接池和脏连接有关]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsXUBPTs0aDicDCctRuAC59Z9yuncM0L8ibuibEp22RWSFOzScfqfH0ygNzWJD6K1tchQpwG1WunGO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在IOT开发连接Soft AP后发起网络请求时，发现一个奇怪的现象，经常有网络请求超时，一开始以为是硬件（提供Web服务）的原因，因为客户端代码看到网络请求已经出去了，但是硬件端反馈就是没收到。那问题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547154&amp;idx=1&amp;sn=be8d1baeee4cca345192d76dba2dbe0b&amp;chksm=fdc946a7cca23021a6d1ec13a1790311f2c9a7dc893479224f7bc244e30732d703b1ca7c70c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 01 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[当上传不再只是 /upload，我们是怎么设计大文件上传的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsKuDUV0SLjoAs39zN5WvytuIKVBq9gz8fx3VfiaLuEnQMNBV05EyMyIxO1BtZhVrjeicEdWLQf96kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）业务背景在正式讲之前，先看一个我们做的大文件上传 demo。下面这个视频演示的是上传一个 1GB 的压缩包，整个过程支持分片上传、断点续传、</p>]]></description>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaYibdklROdyFYtVUYC68fjAt1hL1icQulC75z1UkbQibibmJibZj1Xd7H0SMbTnFXH5RERgTSLoGJTwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！运营小姐姐的烦恼在我们公司有一个运营部门， 平常要负责把内容发布到抖音、快手、小红书等这些平台。账号类型也很多，有品牌号、合作号、还有专门用来做活动的测试号。 日</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546301&amp;idx=1&amp;sn=ab76991ced92ce24a289f5527bd4a98b&amp;chksm=fd3415b6cf1381617329343a50be4f0524b1ab0691a498b342e29e1c9a7c8e783ef55c553e77&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Oct 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[编辑器也有邪修？盘点VS Code邪门/有趣的扩展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibusRpu0cPeLsw5u9w1ZWXPr7MSqz1r8egJ9QebH3YrOIQRIWpgtepCKPaTzQ7toR4kicWNq1xHmT2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝VS Code 之所以成为最受欢迎的编辑器之一，很大程度上得益于其丰富的扩展生态。本人精选 20 个实用 or 有趣的 VS Code 扩展，覆盖摸鱼放松，文件</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546285&amp;idx=1&amp;sn=9b7ab8dce23d2b82ead4bc039d2dba3e&amp;chksm=fdeeb5653e8dae6ce56142281141608fa5949fa7f25c7c83fbd50e648a98ee9951008a7fad29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Oct 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
