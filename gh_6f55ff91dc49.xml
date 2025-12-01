@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 11 月份 YYDS 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxuwXTqxyQp0UKBJ0f5r9Ef92yWBPt7ZjLnkErVd3hmwyJ9gHozYdN1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Cursor vip 免费续杯这个开源项目现在已经 44K + 的 Star 了。可以绕过 Cursor AI 代码编辑器的免费试用限制。通过技术手段重置机器码，从而让你能够持续使用其免费额度或</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529339&amp;idx=1&amp;sn=cbe63a38a07319cd261183296cb8cece&amp;chksm=f81c6d82d8851a3be9bd67b5ce1b99a8fefb2fd41c7ddf6ba915295f7966070c3b2cfda3246c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[10 个 YYDS 的技巧：Google 官方教你用 Nano Banana Pro]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxFgXI2QHuUodgcfRfAx23PzRibRaOQeZA8GDwN7BL6yiajibe3ibH3mAm0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌官方在 X 上发布了一个指南，手把手教你用 Nano Banana Pro。我对谷歌官方提到的 10 个技巧进行总结下，感兴趣的可以去看原帖。地址：https://x.com/GoogleAISt</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529333&amp;idx=1&amp;sn=3d61592b715b56144117754abc004967&amp;chksm=f83d978ee799532628a01c232ad437948e914894462e9c1ee123835deda36707a30cedfc4fcf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyCukfFkGiaew2TRzawvN7hRTIMOBLy1Tx4y8HhnPco57FZJ9YAXgicLEmfiaZhCcwjyfSV9QHTZzFpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01游戏一键加速现在，使用这个叫 OpenSpeedy 的开源工具就能一键给你电脑上的软件加速。无论是游戏还是某网盘，效率都直接拉满。使用也非常简单，启动你想要的加速的软件， 比如游戏三国志。在 Op</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527733&amp;idx=1&amp;sn=6eadca4f8f6996f2263b6124a30313e2&amp;chksm=f80e31ac5f5362157749f8a3b802eae11f0fbdccb5fbe26658b3cc5ba39a7fffc7d3fe7b3ab4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[登上 GitHub 热榜！一口气调用多个 AI 大模型开源神器。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxWfwXknejEu1AbE1GHOOwPMibOM42IezNtscZsVSb3SwqnNCec1zHOYdJLRj5Pgic9Ff2uOMibg8ib8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫做 zen-mcp-server 的开源项目登上了当日 GitHub 开源热榜。现在已经在 GitHub 上获得 8.6K 的 Star 了。你可以把它理解成一个桥梁，能让你的 Claude C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527726&amp;idx=1&amp;sn=4fbb0f2f06b301892e9dbd9c1f77525e&amp;chksm=f8ccb6200a5ef17115b37aa02e3ac8de95f9a93f57d82ea1f5eb868eeac44f8829d44f44da53&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

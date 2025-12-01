@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRlBO9ibQ5mzuCXV9G29REFCJybz2aiauvTMEjUOgpzibApGO9hUgvxiaPic5noTOjCVwMDKicEibicLPib2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月29日，腾讯云黑客松智能渗透挑战赛决赛落下帷幕，来自全国各地的400多名顶尖白帽子、战队代表与行业专家齐聚羊城，共同见证了一场以“AI智能体”为主角的高水平攻防竞技。在这场国内最大规模的大模型安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331468&amp;idx=1&amp;sn=988f054ab4d76f050de24c13f0f44470&amp;chksm=bc1985b8442bdb4fca5e7a0d54ce8036d7481e67f3e8ab60e308c7b571caeef584eab25c0dbc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:00:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞（CVE-2025-47372）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRlBO9ibQ5mzuCXV9G29REFiaAXStcYss2l82FfFdYAcD7AQdibgX50Wj0RRG9nmazFMEn3hGot2HdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>高通公司发布了2025年12月重大安全更新，修复了其芯片组生态系统中11个不同漏洞。本次补丁包的重点是一个设备启动过程中的高危漏洞，该漏洞可能允许攻击者执行任意代码，同时还修复了影响音频、摄像头和汽车</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331468&amp;idx=2&amp;sn=887c61ac606c120976bf170ea57fc388&amp;chksm=bcfec0d70d171a7b6f0a8d3a92d28efa91c7a1c7e46906cc17c07a5e5ab5c9ec73c25f23d430&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:00:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安卓紧急预警：框架组件存在严重拒绝服务漏洞及两个遭利用的0Day漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRlBO9ibQ5mzuCXV9G29REFoLYYTaqOQyFDlOYicDnHFMCnSpa0ZwgaCBelN3HR5GhKS8nPeXElfIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌发布2025年12月Android安全公告，披露了影响全球最流行移动操作系统的一系列漏洞。本次更新的重点警告包括野外活跃攻击事件，以及Android框架组件中一个可能允许远程攻击者瘫痪设备的关键漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331468&amp;idx=3&amp;sn=57b32c39840e569858251e151299d8e7&amp;chksm=bca7d138fc6a41f83b7eab77b1f6aa29a78bbb5c6f4395c9fb804ba3750b41ff9bee352402af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:00:16 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[430万Chrome与Edge用户遭ShadyPanda恶意软件七年攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibRlBO9ibQ5mzuCXV9G29REF408bqDicQhe7JMnUpXWeAQQaIbqXuvmibZH5HJ7WiaKWf93WTC2ib8OHdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意软件运作机制高级威胁组织"ShadyPanda"通过长达七年的攻击活动，已成功感染430万Chrome和Edge浏览器用户。该组织利用用户对浏览器应用商店的信任，将"精选"和"已验证"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331468&amp;idx=4&amp;sn=97243dbd472a722e6f4998181e7205d7&amp;chksm=bc8a1d5feefc3b8f9d2b4ef0fb44b31fa157e3ad33c78d040d46b6625b5b9e746c0f8327fae2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:00:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[200多个CVE漏洞遭利用，谷歌云OAST服务成复杂攻击活动跳板]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbkm5uB6JHcEeqMTYj6mIib0ib20bqKRx819oTlb0FcQcjic32zYlWWaFpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现一项复杂的漏洞利用活动，该活动利用托管于谷歌云基础设施上的私有带外应用安全测试（OAST, Out-of-band Application Security Testing）服务发起攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=1&amp;sn=b6775fc89fea0b34a05d123fa46b124d&amp;chksm=bc35b5453de133ce9d8827c25a072df75fab8919ccdbd729d6e008e40b5d3b1bd3f7e35822ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNyOluNejWHYUZ5SzmC1wTmR4rdE874jIyzj1DhTtjyyc6ytUuvd6rlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心基础设施故障引发全球连锁反应2025年11月18日，互联网基础设施服务商Cloudflare发生大规模服务中断，导致全球范围内众多知名网站和平台出现间歇性故障。此次故障源于内部服务降级</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=2&amp;sn=6fe982f36807e95bb0462e09a0194914&amp;chksm=bc057b5b79f4e16f2850a69c5acf792acc12eec8da064932139fd914be475ab41a03b0947139&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突破IAM孤岛：身份安全架构为何对保护AI与非人类身份至关重要]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3895HT6R6hj8IgDmRCKDwfNk6s0GiawC0KpxTurSddlXp58bo3fMEPNqCvicKgDB8ZCKj5WdhK52cxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>身份安全架构（Identity Security Fabric，ISF）是一种统一架构框架，能够整合分散的身份管理能力。通过ISF，身份治理与管理（IGA）、访问管理（AM）、特权访问管理（PAM）以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=3&amp;sn=640c3b2a4765e562bbd2c4c91d72d400&amp;chksm=bc4e5710e73c009983c05ed37f294553f7a1648d0c0390af962b3e7d5d230cfb4144450b5b13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌紧急修复Chrome浏览器正被利用的0Day漏洞（CVE-2025-13223）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTt3gunlXD5dVdB3XQEEIhO0p30QBvuWSZZe37FmLTfe34cJwWgsyucA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况2025年11月17日，谷歌针对Chrome稳定版频道发布了一项紧急安全更新，修复了V8 JavaScript引擎中两个独立的类型混淆漏洞。其中最严重的CVE-2025-13223</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330585&amp;idx=4&amp;sn=6a2bdd1041ff5a7753a04044989b4b9b&amp;chksm=bc1bd25d65de93c98c526c4f7106de28758e974a17d0c0fc3b95a65f7cf631a4ab451d999fef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[杀猪盘诈骗团伙借助AI助手扩大犯罪规模]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTIHtm7rGI6PlGicIQwGia37lQV6adeSEWkL6oBDuIyYvnia3MvZeyY1tIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>杀猪盘诈骗已发展成为最具破坏性的全球网络犯罪威胁之一，每年造成数十亿美元损失。这种长期投资骗局通过情感诱导和虚假交易平台建立信任，最终榨干受害者的毕生积蓄。如今这类诈骗已形成产业化规模，犯罪集团开始采</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=1&amp;sn=ede32f143becb9558c87bbf2c784e073&amp;chksm=bcd28bba523c2662ae8dca9d6ef3257f71e28dba6449379e84114fd40e91386492a1fc8f47c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI说的每一句话，都靠谱吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Fg3fDyxwIQnfUaL3kiaQVTgLKYzw8kCN2NALbWjiad3rUOd0wCTx81v7I1RhLkbLsOUyLVg1kSl5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>当用户向AI提问，或通过内部工具获取决策建议时，得到的每一条回答，都由大模型实时生成。这些内容看似精准高效，却可能暗藏风险：模型可能无意引用未公开的内部数据训练数据中存在违规信息，被输出给用户在复杂语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330545&amp;idx=2&amp;sn=4b6fb0a7c86f5bd74cb4a65ea8032cf9&amp;chksm=bc67d2ba65243ca29254f16d49b64e525dfe33967d4a6a1e3f5923ef1ba928327517f8846d92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 18:04:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯玄武实验室公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/63x5M7aGhGXNLQWbz1dNpCIuqUQArmqM0Tt9rU1FyHy46IRF7JFfybxJvuk0X11xTWxbSiaSTJ3JqDSNC6JlMNPSYRHo3MWvqwt14Yhdibibz8/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/A2WJW8bNA6VSmcmED8UQ3l2xvaia3sNPPWvyVWZVxJeibOcnlboAiciaEL1yIcyPrMjbGzu6dbtfia8Xk719L7VVsYxIkx2PduBt9xO8sNxdU7h8/132</url>
       <title>gh_6095d8d90146</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(25/12/2)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Firefox WebAssembly 栈溢出漏洞事件https://sectoday.tencent.com/event/AH_CyZoBDgvMcds_UeJ_2025 年 11 月，安全公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960316&amp;idx=1&amp;sn=6d3a045e621fd4c5ed3ed770d9c527cc&amp;chksm=8a6c50b097e20e9ebe38544b19870eccbe3b3e4d10937476685c51c66ae9c7ff929324cb4245&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 10:47:54 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[每日安全动态推送(25/11/27)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Oracle Identity Manager 存在关键远程代码执行漏洞，可被未认证攻击者利用https://petri.com/oracle-identity-manager-rce-flaw</p>]]></description>

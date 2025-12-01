@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于AI大模型的故障诊断与根因分析落地实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJoaVnTiaSUm633FUIyw7arNk5UywvRMcL4nAgZD9r07OmNlLAHPZ3iaYvaXNhd2ho0Yw8L2SZVtiaoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、项目背景概述当前，企业数字化转型进入深水区，业务系统的复杂性呈指数级增长。微服务、容器化、云原生架构成为主流，这虽然带来了敏捷性和弹性，但也让系统内部的依赖关系变得空前复杂。一个简单的用户请求可能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556054&amp;idx=1&amp;sn=0bf030a40a2bc74b9a62474baebc6cde&amp;chksm=e8f1aff215f73a399c3c716b8a1ffafcc1524e1e52881def622f95ac62b4fd76a31832008f45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MCP 网关实战：基于 Higress + Nacos 的零代码工具扩展方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLrHKCWIpribCmicXHHHcwGVPCI8XwHKAyNNDjGXa5oabIpSYoNYnvicIic7ZU0mcW52PobeE9MxeK89g/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍一种基于开源 Higress 与 Nacos 的私有化 MCP 智能体网关架构，实现工具动态注册、Prompt 实时更新、多租户安全隔离，并支持在无外网、无 Helm 的生产环境中一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556038&amp;idx=1&amp;sn=f010debc506a2325678320a3a7593d26&amp;chksm=e832699adba6891afd4392ee372e5c18859976b1faff39995f80fbb89b2d0aa2dc1c6609db04&amp;scene=0&amp;xtrack=1#rd</link>

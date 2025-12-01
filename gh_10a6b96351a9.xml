@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我为什么想法很多，可总行动不起来？（你是不是也有这种感觉？）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyaViaDofQp4BMNzHxAfuFLG5bJQvc3NYcfwlSD4oibFhr0thQdGvyCib0BlYzx7mpMlibpelCWgdzXsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。这一篇：1. 为什么宏大的目标，不利于行动？2. 为什么最小化行动法，是超强执行力利器？3. 具体到跑步，拍短视频，学AI，要怎么</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979780&amp;idx=1&amp;sn=b58eaf8d00223289325b339d4a7cc2ba&amp;chksm=bc489b1b1251fc35b32645700d54207f342db2adb2db1450317d2d752c91637f6f1e916bf429&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[有人问我，说余额为何只能设置，不能扣减？（第115讲，万字收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzknEmvY4HfpgUkVHosIKEVSEdAxudBr2j1CicRK1qbJmib0Iw9NFBxzu787r5ICkvnHTibM2wHYc2qA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》115.幂等性有朋友问我：沈老师，我们有个业务，同一个用户在并发“查询，逻辑计算，扣款”的情况下，余额可能出现不一致，请问有什么优化方法么？今天和大家聊一聊这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979737&amp;idx=1&amp;sn=cc50536bd986283b9ec019bc16b83b4c&amp;chksm=bc31716b3a3e527b288c0820b380da6e94d3faae53e3b824d7832d9a75d6192479e7a258954c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyqyJ9gWWv7JDGcwAbOFNOpTyl3C0Bxic9dGAJGv7pVPDdicMCic78v1JVChQZHCbDJYteqqlECvz82g/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“看奇葩说和主持人大赛，总觉得他们知识面很广，对很多事物都有独特的见解。看薛兆丰老师的经济学讲义时，总觉得我们对世界运行的规律缺乏了解。作为程序员，或许执着于技术，却很少思考我们的世界，我们的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979051&amp;idx=1&amp;sn=4af61ead03a6f4da0558cde5a9d92383&amp;chksm=bc0c64697c358ec2a5503c39341e7c2fffc46d610c2832d2bae3da191a5f6f65ac3ab5c58351&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 20:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1亿数据量MySQL，怎么秒级平滑扩容？（第102讲，收藏）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kDt79dnoq4sDMeueNPcqjSBUdzniaiadKagtjO5P0229mpNMF4o6YkO1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》102.MySQL秒级扩容数据库秒级平滑扩容，这个问题之前写过，上周有个童鞋在评论区问我，说找不到原文了。这个方案实操性很强，曾经在58我们就是这么玩的。另外</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978954&amp;idx=1&amp;sn=abfb90b68370f6d99e58734f34174fb2&amp;chksm=bc3f9ef7f3b1e7b732ef7bb42a052ab8897a73af73559c8a6f2a805192c81c7057996f31c11e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 08:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

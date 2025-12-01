@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从“版本号打架”到 30 秒内提醒用户刷新：一个微前端团队的实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaT5t7Bqr6uq8TNNyQrYkofTedLXdEYrdR7B5YucmDgnUsvXKOqS0SuWwicZiaruMxpA2brvxVlLibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）1. 背景与痛点我们团队维护着一个微前端子应用集群，每个子应用都需要同时服务 dev / test / release / online 多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547158&amp;idx=1&amp;sn=8a0d497cf4da7c6ffc9d08b7a4f10d59&amp;chksm=fd2ae39144d8dfcb4da07ffea9bcd2b9c4bfa4aca5366418d8e8037dcb44f78f04d167414904&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android 网络请求超时？可能与连接池和脏连接有关]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsXUBPTs0aDicDCctRuAC59Z9yuncM0L8ibuibEp22RWSFOzScfqfH0ygNzWJD6K1tchQpwG1WunGO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在IOT开发连接Soft AP后发起网络请求时，发现一个奇怪的现象，经常有网络请求超时，一开始以为是硬件（提供Web服务）的原因，因为客户端代码看到网络请求已经出去了，但是硬件端反馈就是没收到。那问题</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547154&amp;idx=1&amp;sn=be8d1baeee4cca345192d76dba2dbe0b&amp;chksm=fdc946a7cca23021a6d1ec13a1790311f2c9a7dc893479224f7bc244e30732d703b1ca7c70c1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuQ8Vs6cibSjblskUDP9Vfice2dw6S7mBLRmIDJvpMpHO4OHgD5k46ImwkvC8y0poRaCYSEs18ib6kHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝之前和大家提过，想要写一个多参重载场景中能够将函数实现分离的通用方法。经过一些天在类型体操中的折腾，今天，它来了！如果你也遇到类似问题或场景，开发和维护陷入混乱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546320&amp;idx=1&amp;sn=4d2ec13f83e7ab88111fac6ab06d2a95&amp;chksm=fd1077e9baafb19885954722c0d47c3d4838d9d77bf4f043c4b000dc9678a2f148893c4a953b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做了套小红书一键发布系统，运营小姐姐说她不想离开我了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaYibdklROdyFYtVUYC68fjAt1hL1icQulC75z1UkbQibibmJibZj1Xd7H0SMbTnFXH5RERgTSLoGJTwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！运营小姐姐的烦恼在我们公司有一个运营部门， 平常要负责把内容发布到抖音、快手、小红书等这些平台。账号类型也很多，有品牌号、合作号、还有专门用来做活动的测试号。 日</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546301&amp;idx=1&amp;sn=ab76991ced92ce24a289f5527bd4a98b&amp;chksm=fd3415b6cf1381617329343a50be4f0524b1ab0691a498b342e29e1c9a7c8e783ef55c553e77&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Oct 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

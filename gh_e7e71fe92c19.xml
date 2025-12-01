@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[400+极客菁英共聚羊城，见证国内首个AI智能渗透挑战赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yqnoG1VGBssq8hQw95N1FE9bDWIPLjcHwjIrsxwXaOyNVs71eB0bcRVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月29日，腾讯云黑客松智能渗透挑战赛决赛落下帷幕，来自全国各地的400多名顶尖白帽子、战队代表与行业专家齐聚羊城，共同见证了一场以“AI智能体”为主角的高水平攻防竞技。在这场国内最大规模的大模型安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604701&amp;idx=1&amp;sn=da4afd6579a54417d1ea5d199dd4f292&amp;chksm=b0b62a54122cf0756def6b4f24040d4b389fe8e1f4a6ced052e7191018bdb8c4cfaff9356c97&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:59:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从C到Pwn：栈溢出漏洞利用实战入门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FGes13qvvST96ROkZCtssTrgulW4K9EAue7nIOx0f9NLsFG1uWoObWg7755gN09IXNIhHJ8fSByA/640?wxtype=jpeg&amp;wxfrom=0"/><p>实在是非常想再开一次入门课，因为有一个自己觉得还挺巧妙的小想法:我能不能写一个C程序，它不调用后门函数，而是我自己用栈溢出去调用完成getshell。我想从开发的角度，而非从计算机的底层来理解我自己学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604701&amp;idx=2&amp;sn=88b548d360e026b8d2ebc11d66d54240&amp;chksm=b0f90ab7d1d671e5409b4db77c4751e5de67e413047043a76b51f710bfdeabceaed4caf741b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:59:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安卓曝高危DoS漏洞及两个遭利用零日漏洞，请立即更新补丁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yq4zOIeIJRH1zJC1ytMPbrUxYOWwJM0dj7EiawxgLchhput6B8oIqYyibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日发布了2025年12月的安卓安全公告，披露了一系列影响全球主流移动操作系统的高危漏洞。此次更新尤为值得关注的是，公告中明确警告已有漏洞在野外被主动利用，同时安卓框架内存在一个关键级远程拒绝服务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604701&amp;idx=3&amp;sn=c8c472c30c1e3e7a9a38dd3a152f27c6&amp;chksm=b0e34fdb366e0ff66ba072dc70aea35abac68c79f2c4e860022a1f9251d728812e1db6bcc1ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 02 Dec 2025 17:59:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android-ARM64的VMP分析和还原]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4sWia8jib52Cic2LSahKZ9aRibDLnufCzoFG1dauZUaUML3WGzKohP5dEOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景OLLVM扁平化还原—新角度：状态机里面分享了代码保护之一的控制流扁平化的还原思路。控制流扁平化，实际上就是对基本块之间的调用关系进行调整，但基本块的内部保持不变。而更严格的代码保护，是对基本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=1&amp;sn=0670c0f5e68f62656d15ffffb6bb7f67&amp;chksm=b09de28132918e76dfb4e5f627bdfb3fc77b44d3e102acba77221d1033b1981c4f4a77fe475a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[SDC2025 议题回顾 | ReCopilot：基于大模型的二进制逆向工程助手]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iax8RAgDoUojf4QmEwzZzGEs2Ff9LY7BENBesnt3LZHUb4oLy3pic9LQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾ReCopilot 是一个基于大模型的二进制程序分析辅助系统，针对逆向工程中符号信息缺失和人工依赖程度高的核心挑战，提出垂域大模型与程序分析协同优化的智能助手方案。演讲者团队通过预训练（CPT</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=1&amp;sn=0a0774e87aa99d80c5ffa20b0e17a01d&amp;chksm=b035cc63602669ec005ec3f7874fe78736b1cdb2e528c6384e07d0228b2e271bb58e9d63f916&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[致敬安全力量！荣耀SRC 2025年度致谢榜单重磅揭晓]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeiaQ5lHVaJI0iczygYIDlWpy7toic1SKL2XiaZVF6P1zGhqLT8MXEYyv1ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀球分享球点赞球在看</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=2&amp;sn=f12d77e7c2efe62cf8967c7b3a2bfcc2&amp;chksm=b046f58f630a00e89a4666c4fa67d3db963098f1da3487172aa0d40cacddb076197bf96c000b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[73亿美元、12.8万受害者，一中国籍加密诈骗主犯在英获刑11年]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E5xBSFlC2S3SgzlicAM5bzAxUXkDHJYrrr8SxjkBiayDQxJA5cJsx99IeIDK3IpsG8nAQhLfO8JVug/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，英国伦敦萨瑟克刑事法院对一起震惊全球的加密货币洗钱案作出判决，被称为“比特币女王”的中国籍女子钱志敏（Zhimin Qian，又名Yadi Zhang）因涉嫌洗钱73亿美元（约合人民币530亿元</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=3&amp;sn=b78e491b42a593c7fb0c7bc459bc4550&amp;chksm=b0371e47f449d7f475254fe992e458ebd834ae6524b9028a627034be5c461d1e389baa3adf8b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国产大模型 Deepseek实战：10节课精通大语言模型安全应用开发]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EEzlUx4bJpPEDMPMw4yTBwMpC34QVMiaIzMWodjmibhXxf9fNicY0R2OMyC6IH7rLelxPHESayVjnsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在攻防对抗不断升级的今天，传统安全工具已难以应对海量漏洞和新型攻击手法。而大语言模型正以惊人的推理和生成能力，为网络安全领域注入全新解题思路——但如何让AI真正落地安全实战？如何将ChatGPT变成你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604085&amp;idx=4&amp;sn=36d28ee94fb0f2d56f1b301f36df1ca6&amp;chksm=b00968efbec8d3d8fdf753feb90104225a9bdcba36ca4ea70e418a246821dc5a8794ab87b1b8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
