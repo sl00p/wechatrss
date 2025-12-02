@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[看懂这篇，你就能秒懂 LLM底层秘密—Transformer原理解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasNtAd1CJKCLbib4hz96KPGQqUkGcsrNu7bIIjbrNyficB7wrNxWOncVfAuaRrk8tbiaVLqQH41xIRjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：huaxing本系列的文章由浅入深介绍LLM的基础知识，从大模型的使用，到原理解析，再到LLM系统实战。 本文着重介绍LLM主流架构Transformer的原理，结合我近期阅读的几本大模型原理书</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649797188&amp;idx=1&amp;sn=04e4bc8bed0941633496109146edc392&amp;chksm=bf9a4fc4abc2bb24defc4fcf139601a89de7ebd0cf6b166e24e38e3b469050057e9fb0d89fe0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Dec 2025 21:03:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从CoT到AGI：深扒大模型LLM“深度思考”的技术演进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvat0UhZ5qhkOia9OabBzC8YQAsS80h0qKicexV3lV8vib8P5bNxibuEJILBegtQSKv59cUyehgOM7qgqng/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chrisccai如今我们已经习惯了大模型处理复杂问题时，先进行深度思考再给出精心编排条理清晰的答案、惊叹于Agent在处理复杂任务时经过规划、执行、观察、反思的一系列处理复杂任务的通用能力。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796995&amp;idx=1&amp;sn=0f1e7c8e001b1958ba4e95c79a6402fa&amp;chksm=bff64942c52b7195581aaf45e1b2d4ee375a0b6cc9cc2bc2352d95e227741b36f5bdbd1c20e4&amp;scene=0&amp;xtrack=1#rd</link>

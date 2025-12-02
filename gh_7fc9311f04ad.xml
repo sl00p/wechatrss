@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SpecKit 在成熟 Java 项目中的 AI 编码实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJnWSefuy8LN9G0icocE17sxoXj2HFCoSz7fsH8dQfY6OGnErG2h02zCklicwvazbKWpy6Xddibl1V8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景初次尝试 AI Code + SpecKit，过程中被其能力所震撼。本文将总结一些实践经验，与大家共同学习探讨。当前 vibe coding 正如火如荼，尤其适用于单兵作战时对新场景的快速验证与实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556080&amp;idx=1&amp;sn=48bfa2ad8306dd57c81489f042cd7f18&amp;chksm=e830c27e52cbf611ba21e178acd82557c2777779b08851dc93c478e0a402ed0a7690e3756d99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于AI大模型的故障诊断与根因分析落地实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJoaVnTiaSUm633FUIyw7arNk5UywvRMcL4nAgZD9r07OmNlLAHPZ3iaYvaXNhd2ho0Yw8L2SZVtiaoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、项目背景概述当前，企业数字化转型进入深水区，业务系统的复杂性呈指数级增长。微服务、容器化、云原生架构成为主流，这虽然带来了敏捷性和弹性，但也让系统内部的依赖关系变得空前复杂。一个简单的用户请求可能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556054&amp;idx=1&amp;sn=0bf030a40a2bc74b9a62474baebc6cde&amp;chksm=e8f1aff215f73a399c3c716b8a1ffafcc1524e1e52881def622f95ac62b4fd76a31832008f45&amp;scene=0&amp;xtrack=1#rd</link>

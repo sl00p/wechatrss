@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[挖到 3 个令人惊艳的 GitHub 项目，推荐给大家。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29vBBvXjplzrVJuC20DD7aU0SAiaA1NdsRc50DFGeQEuicetZfRvtwwKcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01读论文 Agent阅读国外专业的学术论文，光理解内容就挺费劲了，如果还要总结内容、生成思维导图，更是让人头疼。可以试下，Paper Burner X 这个开源工具，集文献识别、翻译、阅读与智能分析</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529340&amp;idx=1&amp;sn=70b932e8796e655bb452bc1582e850a0&amp;chksm=f8cc68c36f8079d7a22717cf018d1c537570995062e5bc9a8faefa7c8ef7923461c514fbcebf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Dec 2025 16:04:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 11 月份 YYDS 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxuwXTqxyQp0UKBJ0f5r9Ef92yWBPt7ZjLnkErVd3hmwyJ9gHozYdN1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Cursor vip 免费续杯这个开源项目现在已经 44K + 的 Star 了。可以绕过 Cursor AI 代码编辑器的免费试用限制。通过技术手段重置机器码，从而让你能够持续使用其免费额度或</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529339&amp;idx=1&amp;sn=cbe63a38a07319cd261183296cb8cece&amp;chksm=f81c6d82d8851a3be9bd67b5ce1b99a8fefb2fd41c7ddf6ba915295f7966070c3b2cfda3246c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzz4h1It8P8sg7mFHM7HUFpehZmu6Oiaug8PqO1p7VXAXpUdgIyd3oFtWw3qV3wmOibrUydk5KYy7EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01爬虫开源工具Crawlee 在 GitHub 上获得了近 20K 的 Star。这是一个用 Node.js （也有基于 Python 的）编写的网络爬虫和浏览器自动化库，它能帮助你快速、可靠地抓取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527758&amp;idx=1&amp;sn=a5f73536fe5dbde905c2e68dda24c40c&amp;chksm=f8ad3e8f9218ffccda09b007f392be0caaec108892750d307c84895d167d5517507d8ff09485&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[发现 4 个 GitHub 开源项目，太给劲儿了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyCukfFkGiaew2TRzawvN7hRTIMOBLy1Tx4y8HhnPco57FZJ9YAXgicLEmfiaZhCcwjyfSV9QHTZzFpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01游戏一键加速现在，使用这个叫 OpenSpeedy 的开源工具就能一键给你电脑上的软件加速。无论是游戏还是某网盘，效率都直接拉满。使用也非常简单，启动你想要的加速的软件， 比如游戏三国志。在 Op</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527733&amp;idx=1&amp;sn=6eadca4f8f6996f2263b6124a30313e2&amp;chksm=f80e31ac5f5362157749f8a3b802eae11f0fbdccb5fbe26658b3cc5ba39a7fffc7d3fe7b3ab4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

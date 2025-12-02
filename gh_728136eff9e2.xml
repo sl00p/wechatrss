@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Cursor 一年深度开发实践：前端开发的效率革命]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuU2OJwzib1lk64icw6uZyAHvdcOAjGCS9H5d9yZjweqZpY4JexicePgfr3AgqqYKG01Mp8PPhUWBarQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）在 AI Coding 提效这件事上，我想我的经历让我有充分的发言权。今年上半年，作为团队中的校招新人，我承接了两位离职同事的业务模块。面对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547196&amp;idx=1&amp;sn=acacf9267d8d02212eac7c4176548891&amp;chksm=fd70b07d530a7e37e91a775a234a1708685feefc1c12d01708f1e528520576916eeda3fa2f02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从“版本号打架”到 30 秒内提醒用户刷新：一个微前端团队的实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaT5t7Bqr6uq8TNNyQrYkofTedLXdEYrdR7B5YucmDgnUsvXKOqS0SuWwicZiaruMxpA2brvxVlLibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）1. 背景与痛点我们团队维护着一个微前端子应用集群，每个子应用都需要同时服务 dev / test / release / online 多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547158&amp;idx=1&amp;sn=8a0d497cf4da7c6ffc9d08b7a4f10d59&amp;chksm=fd2ae39144d8dfcb4da07ffea9bcd2b9c4bfa4aca5366418d8e8037dcb44f78f04d167414904&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsedWjJSqGnOUjdZkqZEnCyyeyicm6QO0ODfpMuwpxfR9Mrv1otx6tDLKBBYemZeK6XibXc9N8icia8mA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vue 3.6 推试验性 Vapor Mode，逐步弃 VDOM！它凭元素级定点更新破 VDOM 性能瓶颈，借抽象代码兼容跨平台，却存编译压力与产物体积问题，带你看透 Vue 性能进化方向！引言❝20</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546327&amp;idx=1&amp;sn=fe3ef737a55027972d0a84e18835d683&amp;chksm=fd6f9ded2340b9777e4ee08d284ffc3ab06a2cbcb6b1fafec9d63ad9791fecbc917f90ce6e80&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[优雅永不过时！你试过这样的函数重载吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuQ8Vs6cibSjblskUDP9Vfice2dw6S7mBLRmIDJvpMpHO4OHgD5k46ImwkvC8y0poRaCYSEs18ib6kHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝之前和大家提过，想要写一个多参重载场景中能够将函数实现分离的通用方法。经过一些天在类型体操中的折腾，今天，它来了！如果你也遇到类似问题或场景，开发和维护陷入混乱</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546320&amp;idx=1&amp;sn=4d2ec13f83e7ab88111fac6ab06d2a95&amp;chksm=fd1077e9baafb19885954722c0d47c3d4838d9d77bf4f043c4b000dc9678a2f148893c4a953b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

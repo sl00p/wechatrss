@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[都是B+树，MyISAM与InnoDB的索引，究竟有什么差异？（第4讲，内核篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzknEmvY4HfpgUkVHosIKEVvRIc6mGQba3FDnTahqRW82c7ibfV3lCPY5YLDsL6mS0E4AbjazaOy1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》4. MyISAM与InnoDB的索引差异数据库的索引分为主键索引（Primary Inkex）与普通索引（Secondary Index）。InnoDB和MyISAM是怎么利用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979746&amp;idx=1&amp;sn=0deb3e2e98908149c16e08195a02fd33&amp;chksm=bccf2546cd9d000400d2ce864a8688fd374daf69e400b11dc3752e4e2c816aee0455b92c137a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 03 Dec 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我为什么想法很多，可总行动不起来？（你是不是也有这种感觉？）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyaViaDofQp4BMNzHxAfuFLG5bJQvc3NYcfwlSD4oibFhr0thQdGvyCib0BlYzx7mpMlibpelCWgdzXsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。这一篇：1. 为什么宏大的目标，不利于行动？2. 为什么最小化行动法，是超强执行力利器？3. 具体到跑步，拍短视频，学AI，要怎么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979780&amp;idx=1&amp;sn=b58eaf8d00223289325b339d4a7cc2ba&amp;chksm=bc489b1b1251fc35b32645700d54207f342db2adb2db1450317d2d752c91637f6f1e916bf429&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657k3jTuD95MaY54QvkMX7goyIeyjI7tiaxn5Uwmk2h6ibKpfGPUaE2sOWRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978982&amp;idx=1&amp;sn=56b07e4f69ee69aa8de6ebad1afd34df&amp;chksm=bc06464c15d39b56d84d1c52c09faafdf95e6e9903bb861777d13f046726a7b4cdb458c764a3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Oct 2025 18:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[长期当程序员会失去什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyqyJ9gWWv7JDGcwAbOFNOpTyl3C0Bxic9dGAJGv7pVPDdicMCic78v1JVChQZHCbDJYteqqlECvz82g/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人说：“看奇葩说和主持人大赛，总觉得他们知识面很广，对很多事物都有独特的见解。看薛兆丰老师的经济学讲义时，总觉得我们对世界运行的规律缺乏了解。作为程序员，或许执着于技术，却很少思考我们的世界，我们的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979051&amp;idx=1&amp;sn=4af61ead03a6f4da0558cde5a9d92383&amp;chksm=bc0c64697c358ec2a5503c39341e7c2fffc46d610c2832d2bae3da191a5f6f65ac3ab5c58351&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 20:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
