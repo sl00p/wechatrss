@@ -6,10 +6,22 @@
     <description><![CDATA[OSC开源社区公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/uI5pczeERTYjbnEOjIhibPhuoJ7iaQoMIpQv0MxBMuKNCgicElGtShI6UqgXx12ICd65MN8ToNDhHs/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/Viau4nc1b9VJibaYn7qRAicza2v6mVWG3G2Sj2GOUlYChJGTRa8tx8whLN19RKyEUJlpHVLdpo7Y7vqFKRwGMLhYm0yMkfqEL2ZWZzIJP0GbYiak3MLmfuHLX3TRXBibKI9nL/132</url>
       <title>gh_430521f7587e</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Let’s Encrypt宣布：2028年将其证书有效期从90天缩短到45天]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicsH1jHzrPXiaibZmDSQRwTsFibHMEjpXRHJCCwNciaAzBZsw9TctRsS0g5Q9soY2GeNynZZMOapX3Y2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Let’s Encrypt 宣布将全面缩短 TLS/SSL 证书的有效期，从现有的 90 天调整为 45 天。这一变化将从 2028 年开始正式生效。https://letsencrypt.org/2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235041&amp;idx=1&amp;sn=46221e2b5be8f4d5cd0df1221404a6f5&amp;chksm=bf20b4c7296a68c7982c4871d74314cfdaa19668f1f920a18a26052849b881c1168457394ce6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 17:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[🥷Strix：用于渗透测试的开源AI黑客]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicsH1jHzrPXiaibZmDSQRwTsFWibsYIAiciaxic2gTGwQ8WiadjWuSDbX4FZje4qKIqtjicMsArE5ib4XjEOcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Strix是具备自主性的AI Agent，它就像真正的黑客一样行动——动态运行您的代码，发现漏洞，并通过真实PoC为需要快速、准确安全测试的开发人员和安全团队设计，免去手动渗透测试带来的额外负担，也避</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235041&amp;idx=2&amp;sn=7257d02fa733eccc48a81d0cb80fde78&amp;chksm=bfbb1dc83a4b18b4e2b2d3d7ec7cca5b278a41f91a886bd28cf9fe55dcae1adb07af39e27a0f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 17:26:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[“豆包手机”使用了锤子科技Smartisan OS祖传代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8SicKibNorfiaEpbaTuaJJbMiamvKvo96u7DAP8nNBoMT2ad9g7a5x82jSiaHNa1pM8cJWoEhV1pJDuEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>豆包和中兴通讯近日宣布，搭载“豆包手机助手”技术预览版的工程样机努比亚 M153 已少量发售。开发者 @wuxianlin 对这款“豆包手机”的工程样机进行系统拆包后发现了 Smartisan、Sma</p>]]></description>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibXKLJz9hibH9CeOicBOayj9VDx58xEo3yhStaq5VicDoibTJBKXcZhiaCHlfx0DIsLUXaCg4mCbScQkcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>北京亦庄·通明湖会展中心内，开源与人工智能的智慧浪潮正奔涌而来，一场以“万源共振，智构未来”为主题的全球开源技术峰会在此启幕。11 月 1 日，全球开源技术峰会 GOTC 2025 在北京亦庄·通明湖</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233456&amp;idx=1&amp;sn=4ede274e5e5396cbd286f22bf2ca5a5e&amp;chksm=bfe72f53f070f094866c30911fb9f7d9bd0cb827d76467cb62d060771f70e28cc8380383b6b5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 01 Nov 2025 14:46:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“开源 x AI 年度钜献”GOTC 2025：不多解释了兄弟们，倒计时1天！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibRhgVSuTGL9qjMuFeDcbaC7tpnZaibvA0kmE06nBhfdK46g8iaCNdxDnicGH087Xuz0miaSu6IY1VCiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球开源技术峰会 GOTC 2025 将于 11 月 1 日至 2 日在北京亦庄・通明湖会展中心举办。通过行业展览、主题发言、圆桌讨论等形式诠释此次大会主题 ——“万源共振，智构未来”。🔗GOTC 2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233363&amp;idx=1&amp;sn=e945050c618b640b4b9c349c541a95bf&amp;chksm=bf4ee4de5fed02737a8b6de761f72a7b34fe8104cc6af08a51a076f0e952ac1cfa3601ba1e3e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 17:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[特写：AI编程浪潮下的开发者文艺复兴]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8njQogdmGaGdTS8eAjUd4NsDextZfCEeibX0NCeN8uNBbCUBLAicG93naj9RhgNTJBP3ibDbFOtlz0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场技术的浪潮正以超乎预期的速度重塑着软件开发的全貌。近日，备受瞩目的“腾讯云黑客松冠军工坊”在深圳举行，活动邀请了腾讯云黑客松系列赛事的冠军团队亲临现场，为数百名开发者深度复盘了获奖作品的诞生之路。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233363&amp;idx=2&amp;sn=ed9a3dff75e2b0b14406731d6005bc38&amp;chksm=bfb8ee9f4d4b6449c03dea46dcacdba40a5a8c5cc35271198f731d7efb710c977d142fad2d5d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 17:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

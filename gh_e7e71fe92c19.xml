@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[EXIF解析缓冲区溢出漏洞分析与利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4urQ4tn4ZntWVpRELNvo6aicdmmISsXrNJRVHrGcCQiaTEpOticBE8Wkqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>缓冲区溢出某社交平台在处理本地图片时存在缓冲区溢出的漏洞，问题出现在Java_com_sina_filter_JpegExifExtractor_nativeExifExtrator函数，具体功能是解</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=1&amp;sn=174d05be91d4dac9e2bfe20e7d389e50&amp;chksm=b008dfe7df06733346120d6e589988ad6bb4872cf9ef048d5792299b18d76c92d6a134247c9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[七年潜伏，430万用户中招：ShadyPanda利用浏览器扩展实施长期间谍活动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HVibczDz9bC6vRyww0yicVnGfJz06WLENQeMciawyg9VnKlvZF7kuHST9bBxDT7qHZCegiciaoB3Vggicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全公司Koi Security揭露了一起名为“ShadyPanda”的大规模网络间谍行动。该组织在约七年时间内，通过谷歌Chrome和微软Edge浏览器的扩展程序，感染了超过430万用户，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=2&amp;sn=17be3e9aa7a1b8f7e89049be79821f4f&amp;chksm=b0f1a0fa2c3352d973c329e98fdaffd68106f127b12cbf45bfbcb62f5c0ba6b93d28d9e50387&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=3&amp;sn=1552618891d0880bfcbb98f0589a1f41&amp;chksm=b02e65f550556244863dff9f6db32c10f61592b56cd2f5726071880b03b0a30f6d6cd82fc4b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2025 议题回顾 | 不同芯片架构下的可信执行环境（TEE）安全漏洞研究]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdP5F5n2yQygcrL1FAfSrvO9zbaXiae05sTElgqVEC53NnLsYju76ubOyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾如今，随着移动设备功能越来越丰富，我们的手机也变得越来越安全。手机中加入了更多的安全模块和防护措施，不仅包括应用层和内核层的安全措施，还包括底层的安全芯片。在这一过程中，可信执行环境（TEE）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604765&amp;idx=1&amp;sn=684d1b0ceaa34e63f3d276f6d9b7cb12&amp;chksm=b05648fc0a7c062f6911bdfe52f7a5eda5d12968b1e99f76a9f7b6b0fe4397109995bc4d993d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F0icbxpd9mrlShJhK45STdn2b5OFvAZRmUdMlna9HMS30COAGsftvz8YcUiaRk4Bic0czVKwPAAcl9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>该题唯一解是非预期。然后该题为蓝屏DUMP，需要分析内核，那必须搞一下。下载地址：https://pan.baidu.com/share/init?surl=Lo45kFwSwrXzm52GEv5zd</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=1&amp;sn=7aa99e150e133d429500cd7168be139a&amp;chksm=b06a5bec9a5e07acc3cb252a8b81cd9147b4169e29c90013a9e247d7c0a2daa1821735845c38&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[聚力协同创新 共筑安全生态 ——2025年普陀区网络安全产业生态大会正式召开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5oayCIqTIYqD8zZ1MXQNNiaEV5f4dwt7u2kkZcPwy4jXcVH3tYjM1oOuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月13日，由普陀区科学技术委员会、中共上海市普陀区委网络安全和信息化委员会办公室联合主办，上海市信息网络安全管理协会、上海市互联网协会、上海市信息安全行业协会共同承办的2025年普陀区网</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=2&amp;sn=a551e6df480fd8998130f1d890958894&amp;chksm=b0d0c2f9374d92f8e22a1fcd3c20689e47a8ca991de8522bf6938dcc02088981ae69606244d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周职位更新！速速投简历]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604233&amp;idx=3&amp;sn=4bdfee16e641a0c5d0e7cac7ae5d49ba&amp;chksm=b0b16ca6324e94d0ce0fb5a60199ecc44be3bdc4c618b853d85a1075fce6e971baff2dde7911&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪科技荣获2025“网安智谷”网络安全创新创业大赛二等奖]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GOIlTd0RfUibic1xlanc9fbalq79WPr07LOU7o8dCTfxZu1HKxRUYiaOD6PeT7at6o8xLzaWK4llaXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在2025年11月于上海普陀区举办的2025“网安智谷”网络安全创新创业者大赛中，上海看雪科技有限公司凭借出色表现，荣获大赛“启航组”二等奖。本次大赛由上海市普陀区科学技术委员会主办，以“激创新・汇资</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604124&amp;idx=1&amp;sn=4cf3c9cb6c5f9a7d63ec741b695f8e2a&amp;chksm=b0c884f3d58d17becbe06613bf99d39a2a6874b428497961000d3a36a0218e114cb508ddcd6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[产品经理是目前仅次于程序员的最好职业吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx9gsQbtZ1PXmtbx1njlibq5icwahGsX26VdWibjCJbvnSq3NrJyG8vRTPxegU71libib4vPlTKQ1xBNDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>看到年轻人讨论“产品经理是不是仅次于程序员的好职业”。有人说它是离CEO最近的岗位，能定义产品、驱动团队；也有人吐槽它是“背锅侠”，每天在程序员和老板之间夹缝求生。作为和无数产品经理打过交道的技术人，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979793&amp;idx=1&amp;sn=a7280215365491e579a6c8d87aaeb0fe&amp;chksm=bc9ff0c0d8ecf0b01e3580e933233f7aab39f353b7bc2f2875cf5867796467285487195325af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 20:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[都是B+树，MyISAM与InnoDB的索引，究竟有什么差异？（第4讲，内核篇）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzknEmvY4HfpgUkVHosIKEVvRIc6mGQba3FDnTahqRW82c7ibfV3lCPY5YLDsL6mS0E4AbjazaOy1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》4. MyISAM与InnoDB的索引差异数据库的索引分为主键索引（Primary Inkex）与普通索引（Secondary Index）。InnoDB和MyISAM是怎么利用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979746&amp;idx=1&amp;sn=0deb3e2e98908149c16e08195a02fd33&amp;chksm=bccf2546cd9d000400d2ce864a8688fd374daf69e400b11dc3752e4e2c816aee0455b92c137a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz1gyoUEWiaPc5cuGl8agxcVlEGdWLfume3EhHWeNRRrAnp2MrhaVQn6CHiboTBEwq654UHxBMjr18g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》103.MySQL跨库分页为什么需要研究跨库分页？互联网很多业务都有分页拉取数据的需求，例如：1. 消息过多时，拉取第N页消息；2. 订单过多时，拉取第N页订</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979060&amp;idx=1&amp;sn=f8ebe0019d2c5b1de814e5ca6c0bd470&amp;chksm=bc199ab8853bab022f4b6363fd8492fce35edc54a29a7b080f0851748b8b4edd66da2b4317ec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 08:06:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PHP使用local-proxy的一种思路！（第19讲）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657k3jTuD95MaY54QvkMX7goyIeyjI7tiaxn5Uwmk2h6ibKpfGPUaE2sOWRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651978982&amp;idx=1&amp;sn=56b07e4f69ee69aa8de6ebad1afd34df&amp;chksm=bc06464c15d39b56d84d1c52c09faafdf95e6e9903bb861777d13f046726a7b4cdb458c764a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 18:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

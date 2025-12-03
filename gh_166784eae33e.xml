@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【严重！已复现】React Server Components (CVE-2025-55182)远程代码执行漏洞安全风险通告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic80Upy254ZlHChqCWZxV9Eiacd5icT6IicvLg4gdCBnyXGyom5OqxiciaUqiaq7iaodkmmrp07VtJyiap3L1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一章 安全通告尊敬的客户：近日，奇安信CERT监测到官方修复React Server Components 远程代码执行漏洞(CVE-2025-55182)和Next.js 远程代码执行漏洞(CVE</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516887&amp;idx=1&amp;sn=37159cfcf5788326fd194b5cad50c4c2&amp;chksm=eb966019388f1ed305ebbb234eb4447d7370debc1740c3442c0fe1a538147d813826c226242a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 09:22:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[摩诃草（APT-Q-36）利用 WebSocket 的新木马 StreamSpy 分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8NltQkJoOqbCsL9V72DEYfxa1JbJ4Cs56TYl3R3FBDY6GfnZYHSicrZp5qH1EBpcicwO5BNgDKD0SA/640?wxtype=jpeg&amp;wxfrom=0"/><p>团伙背景摩诃草，又名 Patchwork、白象、Hangover、Dropping Elephant 等，奇安信内部跟踪编号 APT-Q-36。该组织被普遍认为具有南亚地区背景，其最早攻击活动可追溯到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516879&amp;idx=1&amp;sn=45c8e73b57bf480cbc95aad6dce7cf55&amp;chksm=eb19edbf5891ef9438280d1e193b6eaedd75d740beeca323de7f017454b818d5db1523a446ec&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何用Claude Code 生成顶级UI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtA2rSjQb8luvJniciags7YoE1easVjicevMX2iaTdmAZRpDFlIsiaiaiaB6FicibjOh31BQJfPmOyPtDZeKEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）前言Hi 大家🫶 ，我是大雄 ，好久不见。最近空余时间，在独立开发一些小产品，也在探索一些独立开发的最佳实践。 今天要分享的是：如何用 Cl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547223&amp;idx=1&amp;sn=2f909b6b9df9d0e8dd5b4d0e9373f6a3&amp;chksm=fdb4b41f16975e4e813f6068c462474cbbc40e6ba2093263ea524501ab81442bf99bc2a2af27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Cursor 一年深度开发实践：前端开发的效率革命]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuU2OJwzib1lk64icw6uZyAHvdcOAjGCS9H5d9yZjweqZpY4JexicePgfr3AgqqYKG01Mp8PPhUWBarQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）在 AI Coding 提效这件事上，我想我的经历让我有充分的发言权。今年上半年，作为团队中的校招新人，我承接了两位离职同事的业务模块。面对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547196&amp;idx=1&amp;sn=acacf9267d8d02212eac7c4176548891&amp;chksm=fd70b07d530a7e37e91a775a234a1708685feefc1c12d01708f1e528520576916eeda3fa2f02&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsedWjJSqGnOUjdZkqZEnCytuxiaqqarQztGLsEtUfqrUuib0CUNnicWGYGMLXkB4QJKRIFdiaza0Hgmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！一、开场白：后端为啥绕不开对象存储？上次产品经理拍我肩膀：“用户要传 10G 的设计图，你数据库存一下？” 我当场掏出对象存储的 “户口本”：这玩意儿才是文件的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546337&amp;idx=1&amp;sn=584c827878ee1eb2b77d7ea1e1cfdf95&amp;chksm=fd2386ebb10e96440912d7d08eb47f4fca7d7507afafe42ea98847ed73cc22f37c3fbe277462&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[详解 Vue 3.6 Vapor Mode：从原理到问题，看透 VDOM 逐步退场的底层逻辑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsedWjJSqGnOUjdZkqZEnCyyeyicm6QO0ODfpMuwpxfR9Mrv1otx6tDLKBBYemZeK6XibXc9N8icia8mA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vue 3.6 推试验性 Vapor Mode，逐步弃 VDOM！它凭元素级定点更新破 VDOM 性能瓶颈，借抽象代码兼容跨平台，却存编译压力与产物体积问题，带你看透 Vue 性能进化方向！引言❝20</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546327&amp;idx=1&amp;sn=fe3ef737a55027972d0a84e18835d683&amp;chksm=fd6f9ded2340b9777e4ee08d284ffc3ab06a2cbcb6b1fafec9d63ad9791fecbc917f90ce6e80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

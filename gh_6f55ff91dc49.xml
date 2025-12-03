@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 GitHub 上 3 个 牛牛牛 Nano Banana Pro 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxBG11oVf0YTrWkpzZZL9rLSn3VPb4tJexHNSTr0zxFFC9J2ZicBonUVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Awesome Nano Banana ProAwesome Nano Banana Pro 是一个精选资源列表。一般某个模型或者方向火了后，GitHub 上会立马出现一个该方向的 Awesome</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529355&amp;idx=1&amp;sn=602312240a793d2910c7ececf8303449&amp;chksm=f8029bcb2d343573f5ca6f534c4747cec9bcbe3de777d2d42062f57e2bd4cea61d072bf48c44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 04 Dec 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖到 3 个令人惊艳的 GitHub 项目，推荐给大家。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29vBBvXjplzrVJuC20DD7aU0SAiaA1NdsRc50DFGeQEuicetZfRvtwwKcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01读论文 Agent阅读国外专业的学术论文，光理解内容就挺费劲了，如果还要总结内容、生成思维导图，更是让人头疼。可以试下，Paper Burner X 这个开源工具，集文献识别、翻译、阅读与智能分析</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529340&amp;idx=1&amp;sn=70b932e8796e655bb452bc1582e850a0&amp;chksm=f8cc68c36f8079d7a22717cf018d1c537570995062e5bc9a8faefa7c8ef7923461c514fbcebf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzfZia3s3geOhWuEiciajic02VBjWtmNdKEPUdGxIKehqsgFnyyGE4j3G2uEDmKzoMCw8ziat0cSZwo8icQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个叫 ZCF 的开源工具。它能一键完成 Claude Code 的环境设置，支持中英文等多语言切换，还预置了调教好的系统提示词，自动配置常用的 MCP 和工作流，相当</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527842&amp;idx=1&amp;sn=5d8cf27d6453204cea9d5f4a19612fb4&amp;chksm=f8e5fc7d5f97c05252180b59e29dfade60be0c4ca8928ba892240c37b15b0fbe7efaf644b618&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 15:10:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 4 个实用、好玩儿的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzz4h1It8P8sg7mFHM7HUFpehZmu6Oiaug8PqO1p7VXAXpUdgIyd3oFtWw3qV3wmOibrUydk5KYy7EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01爬虫开源工具Crawlee 在 GitHub 上获得了近 20K 的 Star。这是一个用 Node.js （也有基于 Python 的）编写的网络爬虫和浏览器自动化库，它能帮助你快速、可靠地抓取</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527758&amp;idx=1&amp;sn=a5f73536fe5dbde905c2e68dda24c40c&amp;chksm=f8ad3e8f9218ffccda09b007f392be0caaec108892750d307c84895d167d5517507d8ff09485&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
