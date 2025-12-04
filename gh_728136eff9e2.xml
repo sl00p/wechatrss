@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[肝了半个月，我用 Flutter 写了个功能强大的图片编辑器，告别image_cropper]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuiaAgf4sfUL6Lw9bge7wt82icBdeBwcwUApEgOKCySy7cM5OZqIia7NQRs7pic4qBM1vTKWHw4Y5btyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：为什么需要图片编辑？在如今的应用开发中，图片处理几乎是社交、电商、工具类 App 的标配功能。用户上传头像需要裁剪，分享美图需要编辑，添加水印需要文字功能，为 App 添加一个头像上传功能等等.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547238&amp;idx=1&amp;sn=9df1148b15816174501790d906b661fd&amp;chksm=fd3aff9db94395cbc6f4466ff72b9c31f107a55246d366c4ec77a8c8f29efdfe6710c26bd136&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 05 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何用Claude Code 生成顶级UI]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtA2rSjQb8luvJniciags7YoE1easVjicevMX2iaTdmAZRpDFlIsiaiaiaB6FicibjOh31BQJfPmOyPtDZeKEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）前言Hi 大家🫶 ，我是大雄 ，好久不见。最近空余时间，在独立开发一些小产品，也在探索一些独立开发的最佳实践。 今天要分享的是：如何用 Cl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547223&amp;idx=1&amp;sn=2f909b6b9df9d0e8dd5b4d0e9373f6a3&amp;chksm=fdb4b41f16975e4e813f6068c462474cbbc40e6ba2093263ea524501ab81442bf99bc2a2af27&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibszuv5N2icTxeDdYhFvUrqJFXeK7qKGZ0Oh5r0SaCq5xvpYxB8Pctmk8Knq494al0RVtDvJ84qH0fQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目初期的审核机制在之前公司的时候，我被调到另外一个项目组，负责一个刚上线的社交项目。 在熟悉项目、体验功能的过程中，我发现了一个比较严重的问题：「项目里的朋友圈功能体验非常差」。当时我随手发一条动态</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546344&amp;idx=1&amp;sn=2dd7c5987a46bff9b7036f4e52d0ab32&amp;chksm=fd8317d221e96664526654a9cec3cb155b58e333110461c948f638db414c04657b3a80ab2f84&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Oct 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对象存储封神指南：OSS 分片上传 + 重复校验 + 防毒，代码直接抄！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsedWjJSqGnOUjdZkqZEnCytuxiaqqarQztGLsEtUfqrUuib0CUNnicWGYGMLXkB4QJKRIFdiaza0Hgmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！一、开场白：后端为啥绕不开对象存储？上次产品经理拍我肩膀：“用户要传 10G 的设计图，你数据库存一下？” 我当场掏出对象存储的 “户口本”：这玩意儿才是文件的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546337&amp;idx=1&amp;sn=584c827878ee1eb2b77d7ea1e1cfdf95&amp;chksm=fd2386ebb10e96440912d7d08eb47f4fca7d7507afafe42ea98847ed73cc22f37c3fbe277462&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
