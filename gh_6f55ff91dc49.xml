@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[逛逛发现了 5 个 AI 开源 GitHub 项目，快来瞧瞧。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxwwGxxV6ng58BEtkuvgnsOCWMnFQKGhiah8Q8cQSichLEaNeKbDmICCiav81ITtLF0bazkYFRMPKkPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 大神新开源玩具之前介绍过 AI 大神 Karpathy 的一个开源项目 nanoChat，现在他又开源了一个新的玩具：llm-council 这是一个多智能体协作的 Demo。它的理念很简单</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529428&amp;idx=1&amp;sn=925e7cf6541ed1b148dfcfb3ff0a2565&amp;chksm=f8c0bb1f238a415127b2c66291e78af1264d556cc875e80264ae69819c33cd79a5c321204aa9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 06 Dec 2025 15:09:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 2 万 Star！这个浏览器 AI 自动化项目火了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxdEzCx4tnIERa38lCEt8VCy67SudTJC4qVibxicSgfF3kbGsyBINoBy07hBmZTUjJyaAlwAFCjMoew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现一个叫 skyvern 的开源项目登上了热榜。这是一个 AI 控制浏览器自动化工作流的项目。现在已经在 GitHub 上斩获近 2 万的 Star 了。01开源项目简介在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529410&amp;idx=1&amp;sn=95e3bc07b7837a95ad285472281f62c7&amp;chksm=f823089cf64d24d50954ba5c4fd4d1bd564871b07b09cf94b1f9005fe73d3727eeb750275d7a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4Sja02PlghVC8SUpcgHDNTyVAGzIa0CLc8u7EIia6RI0IKFQDrMibojibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，PaddleOCR 陆续推出了文字识别方案 PP-OCRv5、文档解析方案 PP-StructureV3、关键信息抽取方案 PP-ChatOCRv4 等多项重磅解决方案。得益于多项创新突破</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527934&amp;idx=1&amp;sn=bdc73db73ba5273ea0c06024058ee6ab&amp;chksm=f89b87d727e19098221a4fbcdc33a5a7feab232bd8e20f89d12cd0efd5e679e6d8305bb12077&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 15:32:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 4 个 yyds 的 GitHub 开源项目，实用。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruytY0rS6ocz6MpIwmYKbuiaPHNiafVLsyVCcKyDwNgxWSV1nqjK2BcvCjHhSMSksD5LcPJV48BeUcCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01开源浏览器刚刚，这个叫 Nook 的浏览器在 GitHub 开源了，大小只有 8兆。它最大的特点就是运行快、占用内存少，并且把标签页变成了垂直排列，放在浏览器的侧边栏里。这样看起来更自然，也不会显</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527856&amp;idx=1&amp;sn=b445ae37517d7a5322e62990110073ec&amp;chksm=f81c517eeb0cb35aefd9e69a81f028fd06d16d2995bb4737ea48c82ae2000ebe08cc6c9cfb91&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

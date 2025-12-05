@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个超级真实的Three.js树生成器插件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuRQ8FT5mB1dB0QPNFLmWlNwmBiaH3SjWN6tfKbRxy4icNM4QwOxXlib2N5PrynXEreQbRT6BIHzOsjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）前言分享一个基于Three.js封装的树生成器插件，可以实现创建不同类型且渲染效果真实的3D树说实话，第一次在这个插件官网看到这个效果时我一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547249&amp;idx=1&amp;sn=93b2a75123f38fcd6be642c3a3a4d10b&amp;chksm=fd8afd85d89ade3ed340082572c5382f8190461dc12ae0bea01234570420bd2f44990da45bf3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 06 Dec 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[肝了半个月，我用 Flutter 写了个功能强大的图片编辑器，告别image_cropper]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuiaAgf4sfUL6Lw9bge7wt82icBdeBwcwUApEgOKCySy7cM5OZqIia7NQRs7pic4qBM1vTKWHw4Y5btyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：为什么需要图片编辑？在如今的应用开发中，图片处理几乎是社交、电商、工具类 App 的标配功能。用户上传头像需要裁剪，分享美图需要编辑，添加水印需要文字功能，为 App 添加一个头像上传功能等等.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547238&amp;idx=1&amp;sn=9df1148b15816174501790d906b661fd&amp;chksm=fd3aff9db94395cbc6f4466ff72b9c31f107a55246d366c4ec77a8c8f29efdfe6710c26bd136&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibu42zkUBKBg1Gd7AxTiaTWz7WkCianEicJYAAx0WHKk8vo7fcWca0sbia4K5d9iaCaZLxFzIfcrseFhjeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝「一次超惊险的故障排查经历」「事件」：双十一大促高峰期，核心用户服务集群出现大规模请求超时。「影响」：“下单成功率”断崖式下跌，基于实时广告流量转化率估算，导致千万级广告费资损，故障被定级为P1。「</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546349&amp;idx=1&amp;sn=931989c7959f7e087ec50f19beb87814&amp;chksm=fd93c1b147d2b2c5fcf3a9634f9b9fc36072ce960612d09ec7252da2a845f5e682328f2c2e67&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[老板嫌机审太贵，我做了一套能降本增效的内容审核系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibszuv5N2icTxeDdYhFvUrqJFXeK7qKGZ0Oh5r0SaCq5xvpYxB8Pctmk8Knq494al0RVtDvJ84qH0fQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目初期的审核机制在之前公司的时候，我被调到另外一个项目组，负责一个刚上线的社交项目。 在熟悉项目、体验功能的过程中，我发现了一个比较严重的问题：「项目里的朋友圈功能体验非常差」。当时我随手发一条动态</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546344&amp;idx=1&amp;sn=2dd7c5987a46bff9b7036f4e52d0ab32&amp;chksm=fd8317d221e96664526654a9cec3cb155b58e333110461c948f638db414c04657b3a80ab2f84&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Oct 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
