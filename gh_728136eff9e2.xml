@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一夜重构！我用 TRAE SOLO 手搓了一个 AI 视频面试官]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibs6Nb5GAicqnV8fWwAYExwBMx2CW9c0S6SzLYxya0bHlp23Q6iaibBickbw3EHicMEVK23RROPO4Euycyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）「🔗 体验地址」：QuizPort面试是一项技能，而任何技能的进阶都离不开 “高频练习” 与“即时反馈”这两个核心要素。传统的面试准备往往陷</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547259&amp;idx=1&amp;sn=18253310f8c37eac6f332ece529df2a6&amp;chksm=fd4c06bfe6bb912a643c7df92fa463a220111480c20eb6a399d8f6d2b5597c4ae380a0a42ce8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个超级真实的Three.js树生成器插件]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuRQ8FT5mB1dB0QPNFLmWlNwmBiaH3SjWN6tfKbRxy4icNM4QwOxXlib2N5PrynXEreQbRT6BIHzOsjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）前言分享一个基于Three.js封装的树生成器插件，可以实现创建不同类型且渲染效果真实的3D树说实话，第一次在这个插件官网看到这个效果时我一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547249&amp;idx=1&amp;sn=93b2a75123f38fcd6be642c3a3a4d10b&amp;chksm=fd8afd85d89ade3ed340082572c5382f8190461dc12ae0bea01234570420bd2f44990da45bf3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsvVDdPmoGiaYPxJI26rAiaACicoZYgzEvC9TwYbAHI8C87mhkVg1qfCvqypXYKZVA8CfUz2BAT4IZRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！前言在全球化协作持续深化的大背景下，越来越多前端项目对国际化适配提出了快速落地的需求。然而，许多项目在初期规划阶段并未纳入国际化方案，导致代码中遗留了大量中文硬编</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546359&amp;idx=1&amp;sn=23a0ff8170ef27cd299be1634f696fc1&amp;chksm=fd6cafaa093edf4fed7e64a2e94eb8c575840e25aac9a4e73f7b14f30b2b788b059fbe6af2d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[P10老板一句‘搞不定就P0’，15分钟我用Arthas捞回1000万资损]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibu42zkUBKBg1Gd7AxTiaTWz7WkCianEicJYAAx0WHKk8vo7fcWca0sbia4K5d9iaCaZLxFzIfcrseFhjeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝「一次超惊险的故障排查经历」「事件」：双十一大促高峰期，核心用户服务集群出现大规模请求超时。「影响」：“下单成功率”断崖式下跌，基于实时广告流量转化率估算，导致千万级广告费资损，故障被定级为P1。「</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546349&amp;idx=1&amp;sn=931989c7959f7e087ec50f19beb87814&amp;chksm=fd93c1b147d2b2c5fcf3a9634f9b9fc36072ce960612d09ec7252da2a845f5e682328f2c2e67&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

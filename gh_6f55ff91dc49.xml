@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 10 个本周在 GitHub 上火火火的开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxVQ5PJJ3KsYwat5awEegjlic0HeRdtaJ8pgLUlvibDAcfzZomKZ6STlIzicSFFDxrNVVZGMeJLF7iaUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Linux 上运行 Windows 软件winapps 这个 12K Star 的开源项目能让你在 Linux 上运行 Windows 软件，体验却像原生 Linux 应用一样丝滑。通过 KVM/</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea&amp;chksm=f832778a106249eeff4f0a1071f635acab875ef1fe1837f52ac7dbea1fb553171a11eab8b67e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[逛逛发现了 5 个 AI 开源 GitHub 项目，快来瞧瞧。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxwwGxxV6ng58BEtkuvgnsOCWMnFQKGhiah8Q8cQSichLEaNeKbDmICCiav81ITtLF0bazkYFRMPKkPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 大神新开源玩具之前介绍过 AI 大神 Karpathy 的一个开源项目 nanoChat，现在他又开源了一个新的玩具：llm-council 这是一个多智能体协作的 Demo。它的理念很简单</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529428&amp;idx=1&amp;sn=925e7cf6541ed1b148dfcfb3ff0a2565&amp;chksm=f8c0bb1f238a415127b2c66291e78af1264d556cc875e80264ae69819c33cd79a5c321204aa9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4b0r0tKv0WkaqEQRWNGWqfwRiaOKTVGLxd83x9AvbDZmTKibYKF1KlCKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们经常用的抖音国外版 Tiktok、Youtube、Amazon、奈飞、谷歌翻译等等热门网站都有开源克隆版。这个 3 万人 Star 的开源项目就收集了 100+ 开源克隆项目。Clone-Wars</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527935&amp;idx=1&amp;sn=7d2c0f0207c3b1ff5ea109bacf2356ef&amp;chksm=f8826f11a12d194f487736bf67b398fcc3d9fec68e8f866ce58bca087f3aa2f2ba3d16a7458f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Oct 2025 15:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 OCR 开源项目天花板，杀疯了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxJbLcVUPJCDsiaZ0MVUY9k4Sja02PlghVC8SUpcgHDNTyVAGzIa0CLc8u7EIia6RI0IKFQDrMibojibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，PaddleOCR 陆续推出了文字识别方案 PP-OCRv5、文档解析方案 PP-StructureV3、关键信息抽取方案 PP-ChatOCRv4 等多项重磅解决方案。得益于多项创新突破</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247527934&amp;idx=1&amp;sn=bdc73db73ba5273ea0c06024058ee6ab&amp;chksm=f89b87d727e19098221a4fbcdc33a5a7feab232bd8e20f89d12cd0efd5e679e6d8305bb12077&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 15:32:54 +0800</pubDate>
     </item>
   </channel>
 </rss>

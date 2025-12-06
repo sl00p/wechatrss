@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[215万台运行Next.js的Web服务暴露于互联网，CVSS10分漏洞需紧急修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38iaXWfIXo2f6fSyMTte2ah80ybiagtKGsbIChd4picAV2ecSRaVxyqsNlmlWV1zxYZ0TNhHTfrfg9Ng/640?wxtype=jpeg&amp;wxfrom=0"/><p>12月3日，React披露了编号为CVE-2025-55182的关键漏洞，该漏洞存在于React服务器组件中，其CVSS评分为满分10分。漏洞源于React服务器组件所使用的“Flight”协议中存在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=1&amp;sn=1f7220c88577f037a95925bae76b0997&amp;chksm=bce954678b1885430d7fa26cd8f75dbbc1eda7b5fc3495919c29568bb273dbcdd90a6c7624ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cursor等AI编程工具曝30余项漏洞，可导致数据窃取与远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38iaXWfIXo2f6fSyMTte2ah8GOYhNgvxuiasOFzQjUHicZtPzKwO81B6Cu9bKOGIooazqOtZKrOYcIAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，研究人员在各类人工智能（AI）集成开发环境（IDE）中发现了三十多个安全漏洞。这些漏洞能够将提示词注入攻击手法与IDE的合法功能相结合，从而实现数据窃取与远程代码执行。Part01漏洞概述：攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=2&amp;sn=b2b555d37c8629fcdad2e7d8ce2e4134&amp;chksm=bc61fd9d9628d37544f9ef12817f8dedd5d4000dcbf63f8c8ac73a6df0dd8587ab3e81cbd4b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：苹果锁屏漏洞探究；Javassist代码审计关键点实践；网络安全实验教程；计算机病毒揭秘与对抗，网络防卫计划]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6XkZuwrWvw1VLTe36Boib4ybcmicPxkfYSGZEUGiaZ7iaWqKsJAC2pMYbOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌Antigravity安全风险分析；开源情报的实用方法。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=3&amp;sn=972e374404552be6f5b67e2a8c06950d&amp;chksm=bc3d9619e2a05e149e93db9de4c78fc0a2a49d25c1a778375f087991972a5aa3f5ecb78f6d0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[念古诗绕过AI安全护栏：25款顶尖模型栽跟头，模糊语义成安全大漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPwVVhmdrrAj9Nk9HmTY5e8fJsjkt0YtvjlBG6Ncj4vzHiabNIfcFwE7sqZnCXK2BaczFE0kAXfxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01一首诗 “放倒” AI 安全墙？危险内容竟能轻松获取对人类来说，诗歌有时是 “猜不透的艺术”，可最新研究发现，AI 遇上诗歌也会 “犯迷糊”！来自德克萨伊伦理 AI 公司伊卡洛斯实验室、罗</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=1&amp;sn=f1c70f8695bdf5bc557b9a36459b7e91&amp;chksm=bc338708d634b605dbfc15bcd48cc8b265862e5f0e800aaa05bb4456666a01d9147f71c09a9e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[知名npm包Markdown to PDF曝CVSS 10分漏洞，可通过元数据实现JS注入]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEhCUDGBZuJFC7RhPM9e4oOH4rBIBvBBtIDOYLazz5DcribTcrUlPvApQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，广泛使用的npm包md-to-pdf （Markdown to PDF）被披露存在一个严重安全漏洞（ CVE-2025-65108 ）。该npm包每周下载量逾 4.7 万次，用于将 Markdo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=1&amp;sn=53954199c29a2be6fda876c1111ea2b1&amp;chksm=bcbe977d937df8793bf7455ccbf62309993db5f35ab88d532b03d72d27fb274b20a5e08cf2a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强推一个永久的攻防演练、渗透攻防知识库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEzREBpelDI5jo65ZmKqxl9zYm9e338Mu3S8yfXpAMrDbhpMsWu6Riafw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转发该文章到朋友圈集赞30个凭截图免费领取渗透知识库帮会会员1个月想跳槽面试，翻遍全网找大厂真题，要么是三四年前的旧题，要么零散得凑不成体系，连份能参考的面经都没有；护网演练到关键节点，急需某个漏洞的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=2&amp;sn=28dd980edcd593bebefae1098172f807&amp;chksm=bc2c9b783a9ccc0876f7a794d6fda18c8c8d7dfe259e1f5b74fee8ce09eee712fb8b364a54bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Wireshark漏洞允许攻击者通过注入畸形数据包导致程序崩溃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEdnJg2riaia2kibWHe2rDrtJUrXd3GH5wIfPP8XWW5hwnlxJveB9x1rmWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Wireshark 基金会已为其广泛使用的网络协议分析工具发布重要安全更新，修复了多个可能导致拒绝服务状态的漏洞。最新版本 4.6.1 专门针对 Bundle Protocol version 7（B</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=3&amp;sn=5ef28c5c45490aa555d091dc69489b77&amp;chksm=bc0d2b286b01ed7931c6bcca103ece4185323779ca65aee849747f7781bc475bb853e15c934c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[vLLM高危漏洞可致远程代码执行（CVE-2025-62164）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEH4OqfehFn0jXrM87b49d0OveKkqZUY24Xuh5bxKCZ2K0kmjRgOQdaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>vLLM新披露的高危漏洞允许攻击者仅通过提交恶意提示嵌入（prompt embeddings）即可导致服务器崩溃或可能执行任意代码。该漏洞编号为CVE-2025-62164，CVSS评分为8.8分，影</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=4&amp;sn=56cb854932f5b73ba251efe837e35fe7&amp;chksm=bc7d76a426dba7d733e395ff03bb27bd71804902db8881c9bd29f8ad6e11ebd8b386a434f04d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[算力十年狂飙100000倍，他却每天担心破产！黄仁勋亲述：如何用“30天危机感”逆袭万亿AI市场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMAiarLvic1SIbS1iahAiajib1pMdcBz76TB1YphTxaicoibuGRIuLSD8mOljKwt8JunUwkh1jISBvA28dhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 黄仁勋回顾了英伟达最惊险、也最具决定性的创业阶段——从错误的早期战略、濒临破产的现金流，到押上公司未来的技术重构与一次性量产的豪赌。昨天，英伟达正式推出 CUDA Toolkit 13.1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651265783&amp;idx=1&amp;sn=6cd3b838b74fd57969ed2aa11010e489&amp;chksm=bc8e5dec31a35c84d2a8cdfd1d0236da2a03ba91c21bb4f54fa21e4314c472163c20157a6839&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突破显存瓶颈：基于 DeepSeek-V3.2-Exp 的 Latent Cache 卸载预取方案设计与模拟验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPbs4o0fTkVeTAT4vzKSoNYJHFGKV2n9eMhmic2rN2llylxOUYiceYk4euGdw5Rfdian1th34OjXRhXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引 言DeepSeek-V3.2-Exp 所搭载的稀疏化 Attention 计算，在长上下文场景中成功降低了推理延迟。但在 PD 分离架构下，随着序列长度不断增长，Decode 阶段的吞吐受限</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651265783&amp;idx=2&amp;sn=e1f7031c3bdc4c9fb64f7e49002cf831&amp;chksm=bcfc782dda391010d7dea8c063426f46059284424a20a60dda7d85a081c2ec16f9721e4b4aa3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[启动｜State of Vibe 2025 - 中国 Vibe 创作生态调研]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPbs4o0fTkVeTAT4vzKSoNYsmqHqaMDQyWKBDiaFe7eC7Q8XHOmSglyRpo0p4bkc9zWJFd8iafo4lFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>为什么要启动这次调研随着 AI 不断地改变着各类内容的创作形式，Vibe Coding 或者更加广义的 Vibe Creation 也激发着全新的工作与生活方式。Vibe Friends 与 极客邦科</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651265783&amp;idx=3&amp;sn=d30c9c525ded63ac310bad48806fa263&amp;chksm=bc21137e442cba38b0f3073d3383edd449953c1a5b9e1a448ebf1625960a56d234b8a084c4b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Valkey 9.0 引入多数据库集群、原子级槽位迁移，并带来大幅性能提升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMAiarLvic1SIbS1iahAiajib1pMrTj1ympaJRzTdEoSMCoJEJfQiaAYibQc2CHarMDIklF3Nw6EpXb66bAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 马可薇 Linux 基金会宣布 Valkey 9.0 正式发布，这是一款作为 Redis 接班者而发展的开源内存存储方案。最新的大版本带来了原子级槽位迁移</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651265783&amp;idx=4&amp;sn=b27b3ddd9c9d97e917fb90685b2782ba&amp;chksm=bcff26c36fcafe844cd8162bd88e7609299ae0aa6b3fb4624c82041432432abb796be1887ced&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 07 Dec 2025 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[62岁软件教父Martin Fowler警告：AI泡沫下，裁员潮印证行业萧条，大模型正将编程拖入“非确定性深渊”！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPbs4o0fTkVeTAT4vzKSoNYiakjkKtWPM1XqUbSCzW4CVianuRX00ygibJxyZxnt1GDAiaIYhbzz5kaQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 褚杏娟、核子可乐 Martin Fowler 是软件架构乃至整个技术行业中最具影响力的人物之一。这位 62 岁的软件开发专家，是 ThoughtWorks 的首席科学家，也是《重构》《企业应</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651265620&amp;idx=1&amp;sn=53302b652d796d8c95730513da579c14&amp;chksm=bcd9674bfc0c74725fe905c2de5e5e25424d4e16894ca65614aa3e40bd5b58f1b0cf7d2229c9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPbezdO0MnyllQZ2Pa9RnWXIP1CjP6ZcpuQZdC3ic4mcRd30RR8I6y4L1XDG67nRWQqe5ibd5fwwbeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 陈姚戈过去两年，AI 算力需求陡峭跃升，推动 AI 基础设施发展进入关键拐点。从需求结构上看，AI 算力的消耗已经从原来集中的训练主导，转向由推理驱动，推理算力消耗占据行业约七成。从行业需求</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651264284&amp;idx=3&amp;sn=0d53ca07668db52b9534cc75aaa5a544&amp;chksm=bc07556145e8739df9921f2b52fea7181c45d559adf32d846885cdeec6c168619c8bf3d07c19&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Nov 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[规范驱动开发：瀑布模型回潮]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VM3pia5YVmgCNq0LRwhp8DlVb3BeZmBsg1Bnh508CsSwibv9Zz4wc08mfBiaPkMU6SD5buB5146Hsxsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | François Zaninotto译者 | 平川 策划 | Tina 本文最初发布于 marmelab 官方博客。规范驱动开发（SDD）重拾了编码前撰写大量文档的旧理念——这就像是瀑布式开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651264284&amp;idx=4&amp;sn=15bc57cc18438b3efbccec53ebe931fc&amp;chksm=bc34b3e96bd2efb53e1ddfb95004869282fa2cadbde9da80e37cde2e99484fdecb9212d33b44&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 圈现“教科书式”骗局：对外伪造千亿估值，对内裁员、四次爽约，投资人员工双双被套]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VM3pia5YVmgCNq0LRwhp8DlVftyVxAAT6vkEjnrQoSAdkg1ngiathJ696HRTGxlqBCCljJzABhicKyPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 法律和金融专业人士把“爆雷”定义为通过隐瞒真实经营情况、财务造假或欺诈，让投资者蒙受重大损失的行为。2025 年初，一家名为 Infinite Reality 的科技初创公司连续抛出数个令</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651264132&amp;idx=1&amp;sn=c94bb224a933d7ce2ecc181e4a9e2d40&amp;chksm=bc32d43634abe87044eb613e8b67370046c25ac88e8ad3f41f41485cc3841f160900ce9fc4f4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 12:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用AI“打开”金融市场黑盒：微软亚洲研究院如何构建订单级仿真引擎]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VOyok8AFzdI1dYk5y1nMIvCd0POmicn6iaD0hGyLwZy0vhv2Xmibe3DHEZ2aHfRRr1h3RopQUmzJPh7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜刘炜清编辑｜李忠良策划｜AICon 全球人工智能开发与应用大会在大模型与智能 Agent 崛起的时代，金融行业正迎来前所未有的变革。从投资决策到市场模拟，AI 的潜力正在被持续释放。InfoQ</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651264132&amp;idx=2&amp;sn=f5d370a77a7076e83f3ede5d8277d166&amp;chksm=bce4deb26f3ba53ff737360aac64097ee38e78cc48694f905bc7d7246011a812fb474cf34b7d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 12:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[生成式推荐与广告大模型的真实落地挑战 | 直播预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VM3pia5YVmgCNq0LRwhp8DlVmwAo40eSu9bibm1sCiaqzIzLI5QoJ3T7UVgu6DUnFl3OTZO0tg56txYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型全面进入推荐与广告系统之后，行业真正的挑战才刚开始：生成式推荐如何上量？scaling law 在搜广推里是否一直有效？线上推理的延迟与成本如何平衡？多模态与行为大模型如何融入全链路？本次直播将</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651264132&amp;idx=3&amp;sn=6dc41098b567d1411a5935356386fb98&amp;chksm=bc513ad2ef0154aa8d58a88fafd6d14bf79b752e627178daf5d32c0f4afe584ebc7f93ae879c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 12:28:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
