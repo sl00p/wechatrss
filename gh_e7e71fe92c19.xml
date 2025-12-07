@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=1&amp;sn=8a4116de09a9ee9a46a0d8e5420990dc&amp;chksm=b0e40efdd515a9c819695408d0a9cc879f18bd1c63c2c5f79807cb0032ddf7ad52ff07bbdbd7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Buuctf刷题记录-hitcontraining_uaf]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJhiamGpAOxVYt8GPemYt9zot3GZtzmqibKZHMpBMuTNySbfOulGiaHoaKrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.看保护是32位程序，Partial RELRO表明可以劫持got表，没有开canary和pie，开了NX栈不可执行。2.看源码main函数可以看出是典型的菜单题，打印menu，根据选项调用add_</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=2&amp;sn=734d5bb692a14ebabb0b13f669019aca&amp;chksm=b0519ac11f8a29aeff9df06389b54186a29ef489229ac9a1a473af9d817a60976cf6ede00b14&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LockBit 5.0 核心基础设施泄露！关键IP与勒索域名曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh58O3CLljicgLN3ARL3QbzaUHefhxNbDZXpY5VaAs0aYBiaPUv3mkkNMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全研究员 Rakesh Krishnan 曝光了勒索软件团伙LockBit 5.0的核心基础设施，包括关键服务器IP地址205.185.116.233及勒索泄露站点域名karma0.xyz</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=3&amp;sn=5795cfd312ff93543454da61ab009b1f&amp;chksm=b06b74c4c313eb05169e5ae1908119484d818a98f69fd9b1421397f42c32f0f9af77ed371b8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从ANGR-CTF项目入手ANGR和符号执行技术]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc6IPbvbymwJjly5Q2ltZuPekFUUgWbJGS6AqAL1lBRtHlKrOFKKIHWOws4hnf6Iy5fB0picXWibiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前置准备安装angr，部署angr-ctf项目。先安装angr：$sudo pip install angrangr用project调用来加载二进制文件import angrp = angr.Proj</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604798&amp;idx=1&amp;sn=463308cb532244fc5466996f77e343dd&amp;chksm=b05fc848e06ffd2e52a506240a09654546972b725da2fbc2ea758924764155e5dc1737a7c89a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=3&amp;sn=c633363783edea8b272821ec92e958e9&amp;chksm=b05b7951356643fb5a17e2fc464fff4b36ef9d3a2bf58718ee4b600a6f952dd2ade9a9d38b30&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | LLM 与安全代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GpsL1nrOHKaSLicN8B4rY3iaZw9KEh0J0aNlHzJfbmFTlia9WIb5zTQsZeZ39iazWcA7761YhR4pVib7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾大语言模型极大地提升了代码生成的效率，已成为程序员编程助力的重要提效利器。然而技术进步在带来便捷的同时，也伴随着一系列挑战与风险。本次议题将从实践角度出发，探讨哪些因素会影响生成代码的安全性，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=1&amp;sn=37ec0d386ca2a38f643de04c1c3cad1a&amp;chksm=b06efd2b1cf346a8278f7f110ff93677e4c2b134962bcea2f60418b1679011ca232c3d8576b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Clop勒索团伙再出手，罗技确认因Oracle漏洞导致数据泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HaUt8eqh9Rg5NQby4PF9uLfq1LtovPqYiarkUQtpibhmqctXLHlJBpyicX4iaNQ5f1iaJgL5dR4iaJ71Fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，硬件配件巨头罗技（Logitech）确认遭遇数据泄露，事件源于Clop勒索团伙对Oracle E-Business Suite（EBS）发起的网络攻击。罗技已向美国证券交易委员会提交8-K文件，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=2&amp;sn=364d0c2862669459505599b2fa67b41f&amp;chksm=b0bb277cc08d2611ace908477ce9ce0b4f9f8174ba44fbffed0c754038b83053ae23f3dc03ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅开课！系统0day安全——车联网安全入门（第8期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604320&amp;idx=3&amp;sn=4931474594577332913a3d537678c029&amp;chksm=b04a5a4f8e2cc622d71e18f5c291be8a71b9ceeccf1b981cf07b45e14261d96680d31591d6b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

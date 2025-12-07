@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Dscan：全方位自动化攻击面管理与漏洞扫描平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38fPaUYzPePcbrDxpufD3FMuJKYIkvHbJsBenicUgZXW7wp2KpLIsyaDaibmA2nVPOB0qHttwBxdnbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在企业安全建设中，攻击面管理（ASM）一直是防御体系的第一道防线。如何快速发现暴露在公网的资产，并及时检测其中潜藏的漏洞，是安全团队面临的日常挑战。不过现在不用担心，Dscan 能解决这些问题。Dsc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331879&amp;idx=1&amp;sn=0749ea8f4e08b5e5f4fc12cff241b4fd&amp;chksm=bcff06061c5670c8ffc336c41b1e62ba7780b2887ff9337536338f3af3c5f605453a3c1ae78b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Next.js发布扫描工具，可检测并修复受React2Shell漏洞影响的应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38fPaUYzPePcbrDxpufD3FM3XLYTuvFEZVngf3Jhw8hUwC2zFTb8dX2MIseuOYTrIujM8S0OaAAyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Next.js近日发布了名为fix-react2shell-next的专用命令行工具，帮助开发者快速检测并修复高危"React2Shell"漏洞（CVE-2025-66478）。这款新型工具提供单行命</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331879&amp;idx=2&amp;sn=cf79186c77bbc4ed43e5bb14b7962893&amp;chksm=bcabf0f2e8bcd80f3d6bc3a60e05af8d2200216107bf881bd53e86df396ae4ee4871634d1e87&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能汽车遭远程锁死，俄罗斯数百辆保时捷出现大规模瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38fPaUYzPePcbrDxpufD3FMMruURFZD0bUWEYsQ02OJW4hefCzAzeJcr9HWOMqJT9UMibP4KO3ibgOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01卫星安全系统故障致数百辆保时捷瘫痪俄罗斯数百名车主和经销商报告称，由于原厂安装的卫星安全系统发生故障，导致当地大批保时捷车辆无法正常行驶。据经销商集团Rolf透露，多个俄罗斯城市的驾驶员报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331879&amp;idx=3&amp;sn=4e4cf67bc10d4a653dd1f0f54b9b1ffb&amp;chksm=bc524d98190e130e86828bfeb0d7c6f0c51e754c92b883e2076296217db386d1a0cf14e0acc9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高危lz4-java漏洞可能导致敏感数据泄露（CVE-2025-66566）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38fPaUYzPePcbrDxpufD3FMtjlzjffEECgrGm2WTYH2wEnMpNOeKMic8VhNia4AWLtdCxWCZP8QK7Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>广泛使用的LZ4压缩算法Java库lz4-java近日被发现存在一个高危漏洞。该漏洞编号为CVE-2025-66566，其CVSS评分为8.2，表明其对数据机密性构成重大威胁。攻击者可以利用该漏洞诱骗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331879&amp;idx=4&amp;sn=334f57f901c649f97da439a2d2093f7d&amp;chksm=bc2ff4421b31d2d958635c9112f467106627bfeb480a9de0fcae4407da0a0d591c5312ad028d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[215万台运行Next.js的Web服务暴露于互联网，CVSS10分漏洞需紧急修复]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38iaXWfIXo2f6fSyMTte2ah80ybiagtKGsbIChd4picAV2ecSRaVxyqsNlmlWV1zxYZ0TNhHTfrfg9Ng/640?wxtype=jpeg&amp;wxfrom=0"/><p>12月3日，React披露了编号为CVE-2025-55182的关键漏洞，该漏洞存在于React服务器组件中，其CVSS评分为满分10分。漏洞源于React服务器组件所使用的“Flight”协议中存在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=1&amp;sn=1f7220c88577f037a95925bae76b0997&amp;chksm=bce954678b1885430d7fa26cd8f75dbbc1eda7b5fc3495919c29568bb273dbcdd90a6c7624ab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsR4licx187Dxeheba8LEZvvwmPAKSyQSSHkfy2haTSXU9QOvMcr2g7UXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月，一次重大数据泄露事件曝光了APT35（又称"迷人小猫"）攻击者组织的内部运作细节。该网络攻击单位隶属于伊朗情报组织。数千份泄露文件显示，该组织对中东和亚洲地区的政府与企业实施系统性攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=1&amp;sn=c80987f462f3d1d6dce4427c0dd30a65&amp;chksm=bc6983120e4385fbd7294367b2c76718d39b9d51e9ec2206cb44aa4440123478abeb76245fb9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Shai-Hulud蠕虫攻击波及2.5万余个代码库，通过npm预安装脚本窃取凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsREsDQZo4M2lvicrw720t7z7To3GZ7gc72YjyooegEdobhK8bJt3BG00A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，多家安全厂商发出警报，指出npm软件包注册表正遭遇第二波大规模攻击，其手法与2025年9月曝光的“Shai-Hulud”事件高度相似。根据机构报告，已有数百个npm包遭篡改并植入恶意代码，波及超</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=2&amp;sn=bc0b2b67f1cfd2350096aa6fc588f6bb&amp;chksm=bc8bd54c52d51e53eac8c4414bce1e678b8ae5381f6aa1833017412424ce5de349ca20d5c3e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Fluent Bit曝出五个高危漏洞，可导致云基础设施遭远程控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsRJWptCTo8y0Kw7S3hhtTTvRfAwzzfiacUOv9pDSqzR18nQbNSxpZv5Pw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员在开源轻量级遥测代理 Fluent Bit 中发现了五个安全漏洞，攻击者可组合利用这些漏洞入侵并接管云基础设施。Oligo Security 在报告中指出，这些安全缺陷"允许攻击者绕过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=3&amp;sn=18b7ba00d5bd991608304b94145548e1&amp;chksm=bc1f82e5e4df961a1762b45cf7d1dec4d6f34303f8a497bf57df99ad6b3ccdbc8887f428428c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38KzfnxcppexLuFvq8LxbsRCXY8NXW3DrRQstS9ic21PgxefibWhokgo5atttNnib8ibXkq15d3FBc8fA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，英伟达发布关键安全补丁，修复其Isaac-GR00T机器人平台中两个高危漏洞。该平台是专为机器人操控任务设计的基础模型。Part01漏洞概述与风险等级漏洞编号为CVE-2025-33183与CV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331145&amp;idx=4&amp;sn=0ef63ee983b17118be228b750a4b4e07&amp;chksm=bc751221ee65b5230abc4855fcf93ab14be8ceab4828139d3486f862fd675c341fd589e19765&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[知名npm包Markdown to PDF曝CVSS 10分漏洞，可通过元数据实现JS注入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicTaxOn3KiabNnDIXZehGwEhCUDGBZuJFC7RhPM9e4oOH4rBIBvBBtIDOYLazz5DcribTcrUlPvApQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，广泛使用的npm包md-to-pdf （Markdown to PDF）被披露存在一个严重安全漏洞（ CVE-2025-65108 ）。该npm包每周下载量逾 4.7 万次，用于将 Markdo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651330850&amp;idx=1&amp;sn=53954199c29a2be6fda876c1111ea2b1&amp;chksm=bcbe977d937df8793bf7455ccbf62309993db5f35ab88d532b03d72d27fb274b20a5e08cf2a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

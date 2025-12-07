@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL，InnoDB的高并发，究竟是不是因为MVCC？（第5讲，长文收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDib1l3DXYjuYDQWpg4xibpKH2rH5LzEwT5VJWML6IjDggwl0JVnyffS7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》5. MySQL InnoDB：并发控制、锁、MVCCMySQL是互联网公司用的最多的数据库，InnoDB是MySQL用的最多的存储引擎，它非常适合大数据量，高并发量的互联网业务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979807&amp;idx=1&amp;sn=8f513fa8345d591dec03f94ecfba23b4&amp;chksm=bce51b7596f5de62028b0155ffcc2ffb82b7fef4723d0b8f629cf981f83b9a058499951e5e5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 08 Dec 2025 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[医生和我说，血脂再不改善，下半生可能都要吃药了！（不要等身体出问题时，再...）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDwEJesJWE4U5phcOEFSx79ibn0c6dMNVm6HPwm1bsiaamPs7Dmp283btg/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。最近做了一个新产品：70天，每天30分钟，短视频行动营（第二曲线最佳选择）点击“阅读原文”，立刻参与。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979815&amp;idx=1&amp;sn=114909c1efeaab2cc0f059dc0af3464c&amp;chksm=bc075967010b49de5ee8e415ae40655088f36e299da17e6c247b075d72755ef406319e79cbd0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznuGKydwz3sgWhiaPy91ibFISFfbXBiaBxV6DmpUFtVEM69iafBV56zBoGlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球6月份话题：职业规划什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：技术人的职业生涯，到底能不能复制？ 【1】我为什么会问这个问题？我站在上帝视角这么问自己，另一个我坦</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979092&amp;idx=1&amp;sn=4765134e5c77d2cb8c6fd7df9c6ea8f8&amp;chksm=bc34c0bf057dbe008247d339e35f5f559644ed5c2b7e7fe870233fb5836f6f89955c7a9fb417&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分布式系统一致性为什么难做？（第20讲）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycQRoG8ocpNRYN9MKC657kmwCgfZ7TNS77S3E6UzGcyCU9GJxFzCxAFtWJd0s7CROWCSGicJ5cic6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979022&amp;idx=1&amp;sn=814a5c5406af0f80ee1b893ac3845198&amp;chksm=bc2d3ac04ba0be10fd123bfd717cb646bc6131f1f94495088b726c43a13ed11b51c5b385e24b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 20:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
