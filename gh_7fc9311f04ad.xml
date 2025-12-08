@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Human In the Loop竟然可以是个MCP?]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKahRTlpm3GYyaauSblaX4AbXnXNSVJz3iaB3UibNaveFBL3NxkLvA4hTg9SggfVgpqbicoG1uDgYOSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们的实践，阐述了如何使用统一的工程方案在阿里的大模型研发平台（OpenLM）上，以及其他Agent平台上针对“Human In The Loop”场景进行大模型产品设计和研发工作。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556212&amp;idx=1&amp;sn=15730b7a525095559ec53fcd56b0b390&amp;chksm=e89402220db655043aff964db31f7d5c5847bc64bab967b12e557650d81966c9c76f362ec6d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型开发实战从入门到入坑：动手写一个MCP Server去理解MCP背后的技术原理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKiay6y36kDSk4gQll0NaqicLMyiatFzMBHEib9eZiaQq7Kl6F2nLlTSkkLU64uNJeiaIYxDeVmibhUwSJcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言"会调接口"早已不是后端工程师的专利——在AI时代，这成了每个想用大模型创造业务价值的Agent开发者必备技能。通过MCP协议让Agent获取业务上下文，已成为行业标配，集团也提供了完善的工具链支</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556152&amp;idx=1&amp;sn=bd04bc04cd3fd5194b41d53f45db4632&amp;chksm=e870022e13ac1bc0bba27ee9d4892d0be58d8f5bd6284477f022d4e0774101c643957ef72660&amp;scene=0&amp;xtrack=1#rd</link>

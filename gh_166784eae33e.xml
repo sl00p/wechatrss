@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【附IOC】Next.js RCE漏洞在野利用事件分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic9JIduREQdm8896icaZbiaRpARiaDCwpGN3pp5C6iapjGcMQMdtUdv88BM1QGWYkgysYibcujpAP1kD82A/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信威胁情报中心红雨滴团队在私有情报生产流程发现最近披露的Next.js RCE(CVE-2025-55182)正在被海量黑客团伙利用，攻击者通过RCE漏洞启动反向shell，随后执行cu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517208&amp;idx=1&amp;sn=92ee1ae869f212bb8cec41dc715ac438&amp;chksm=eb2ba64c4b2c1af0906f8240e7c15dd2b8a23c7d84657765e7d8c9c42f81c5246e833bc88481&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Operation Tornado:针对国产信创平台的网络间谍活动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic9YReFEiakeCs47YhhQIruoCkKxqbuGJqofUCbPSk4RtAwrTfYhafscPoWA07Ad2sZ3hotog16YZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述2022 年，奇安信威胁情报中心红雨滴团队在 Operation Typhoon[1] 报告中首次披露了海莲花组织针对国产化系统的攻击案例。鉴于当时信创终端普及率较低，且该类设备多存储政府敏感信息</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517171&amp;idx=1&amp;sn=4fd41b2cd38ccbf69d8a983db8aff150&amp;chksm=eba050c980cb3d03a4c5bcedb83154c20517ce8c23a5b9bcf4fce1f51313d0449f298596d69c&amp;scene=0&amp;xtrack=1#rd</link>

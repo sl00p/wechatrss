@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TD路由器环境模拟与漏洞分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJhJ3svOgYr5bybedsYkztRtmNB7eBubjYfAzSV3Tkd4rjE2btdicJelvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、环境配置版本 :AX3000_Pro_V16.03.49.26EMUX :emux二、EMUX配置首先按照官方的步骤配置EMUX的环境：docker run hello-worldsudo gro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605025&amp;idx=1&amp;sn=c887ac897c43aba332fd6c6835c68332&amp;chksm=b0381342dc1d8b2c4917a93f532fb4f04d5530b5ea403448e51db10ca2e5dea608cd4b3104cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[百万次攻击！GhostFrame 钓鱼工具包凭 iframe 伪装难检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9XZoVJDML0F6foVnAoNSviaEQUF6RJQ7jibjjOAzC7u9Xdib4UpTnRVUUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为 GhostFrame 的新型高级钓鱼工具包已在全球发起超 100 万次攻击，成为当前网络安全领域的重大威胁。该工具包于 2025 年 9 月由梭子鱼（Barracuda）安全研究人员首次发现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605025&amp;idx=2&amp;sn=120746e0fb55c6ad6845530ec1cf6ae4&amp;chksm=b036f3e0410c83ed09cebb46d642af25796a16beff5ff7c10e51f57a0930ff0039c323271abd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【非虫新课】阶段二来咯！安卓软件开发与逆向分析（工具篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605025&amp;idx=3&amp;sn=b4c7ab3d3f2eb959aa29db46ee155d8b&amp;chksm=b09eb9a1078e2de7ffae5ac2e3befbe21a39bce65e3933ef0e17b25de2cf83537b7cafadb1e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=1&amp;sn=8a4116de09a9ee9a46a0d8e5420990dc&amp;chksm=b0e40efdd515a9c819695408d0a9cc879f18bd1c63c2c5f79807cb0032ddf7ad52ff07bbdbd7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=3&amp;sn=b355152f50e954a71ee190e6438d7f89&amp;chksm=b00188c4e063b619b31b17adb0cafa5ecaa9d33dd3c30e91484766d28ac2f76b87822eaef04e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MSVC编译器/Warbird初步逆向记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5ovvhMWLUoLk66dwajb646WgUCY2D0ZBkfJxBScwjO5vWg7jY2rKEfVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>VS版本: Visual Studio 2022最近看到了隔壁大佬逆向msvc劫持编译器(碎碎念: 顺便一提似乎直接调用微软为warbird提供的接口来实现编译期混淆会更方便，相关内容下面也有写)我也</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=1&amp;sn=7e392e784e9eb4863132470e32f80169&amp;chksm=b09f47dd694dd10ec66b3d0ad876fdd08c49eb0c78f8af22b77d7882cbc3d0787feb27e0890c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突发！Cloudflare全球中断，ChatGPT、Uber等大批网站瘫痪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQYfS6ibYVMrJ2JjrbGHK9eSxLvwrDScNIGuSibM53wZuicAic9BGxFFmXaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，全球互联网遭遇一场突如其来的“断网”风暴。从清晨开始，无数用户发现他们熟悉的网站和App要么无法打开，要么错误频出。这场混乱的源头，直指互联网的关键底层服务商——Cloudfl</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=2&amp;sn=6aaef93e0a88b419f7bdd7660cc866f8&amp;chksm=b05e4f38f6138d300856ee6705160f9a285bb9fa5057aec2982bb44681394ebecc4299541f13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604404&amp;idx=3&amp;sn=c633363783edea8b272821ec92e958e9&amp;chksm=b05b7951356643fb5a17e2fc464fff4b36ef9d3a2bf58718ee4b600a6f952dd2ade9a9d38b30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

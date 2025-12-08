@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[React 远程代码执行漏洞简报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWWRkibE9RF6EYudF0rMZpxOQ1dwA0PiaA3mYaQszVefdVEL115AIDR3AVS87efeia86Fk56jJIQiaECMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称CVE-2025-55182漏洞发布时间2025年12月03日影响组件React Server Components影响版本 该漏洞影响以下 React 19 R</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510986&amp;idx=1&amp;sn=424be0708a67b3ef8a802ca6bb5e4fdb&amp;chksm=edefb457ae555bff5f4d12381525736fae8b3c21ae202f3a18401f52c6000f51de8c4f0d45e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 10:45:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[情报每周回顾 2025-12-08]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年12月12.01-12.07【家族团伙事件】Akira利用SonicWall防火墙零日漏洞，对金融科技公司实施勒索攻击并泄露数据Turla依托T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247510979&amp;idx=1&amp;sn=45ad388685922de5e555ad65bb5cc401&amp;chksm=eda3f4d05f3c8225b15c1cbec7d9e8a39840f0ec7fca3e2e55667892f35ee869f2c3a7ed7125&amp;scene=0&amp;xtrack=1#rd</link>

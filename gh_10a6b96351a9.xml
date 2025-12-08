@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么程序员不自己开发微X小程序这类似的东西赚钱？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyCAia8fvTSK2ahHaaQDyASRzatwAUia75zfFTSdgA6IEVVYQwPTUXibIeBUNibUhiakv40jQOODp39l4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人问：“明明手握技术，能独立搞定开发，可多数程序员却不自己做微X小程序类似东西变现？是看不上小收益，还是背后藏着不为人知的门槛”？主题：为什么程序员不自己开发微X小程序这类似的东西赚钱？https:</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979858&amp;idx=1&amp;sn=5e1d808b0acf73689b302130eef6e1a8&amp;chksm=bc2c268e1034b4473dfd4036acbe12a4b88da90dd70f42ffe767a431c5d50fca4b72e416b3ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 09 Dec 2025 20:25:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MySQL，InnoDB的高并发，究竟是不是因为MVCC？（第5讲，长文收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDib1l3DXYjuYDQWpg4xibpKH2rH5LzEwT5VJWML6IjDggwl0JVnyffS7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》5. MySQL InnoDB：并发控制、锁、MVCCMySQL是互联网公司用的最多的数据库，InnoDB是MySQL用的最多的存储引擎，它非常适合大数据量，高并发量的互联网业务</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979807&amp;idx=1&amp;sn=8f513fa8345d591dec03f94ecfba23b4&amp;chksm=bce51b7596f5de62028b0155ffcc2ffb82b7fef4723d0b8f629cf981f83b9a058499951e5e5f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznlicPUQAun7eWQfKtFdbke0KaqY7ION4biahRsB8I2DhVmmPsTmnEjPQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在程序员界，流传着这样一条堪比“第一定律”的共识：“杀一个程序员不需要用枪，改三次需求就够了。” 这虽然是一句玩笑，却精准地道出了那个让所有开发者心头一紧、瞳孔地震的瞬间，产品经理带着人畜无害的微笑走</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979104&amp;idx=1&amp;sn=c6bdfb718cb4f576cf850369d3f7241d&amp;chksm=bc56df7b6f20483359c5087ecbf2b2121debb4abe6efaf9b012e6289e9c41e83474b6a3c21be&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Oct 2025 20:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[技术人的职业生涯，到底能不能复制？（有速胜的方法吗？）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOycdUUW4oKnWMFplcdQooznuGKydwz3sgWhiaPy91ibFISFfbXBiaBxV6DmpUFtVEM69iafBV56zBoGlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球6月份话题：职业规划什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：技术人的职业生涯，到底能不能复制？ 【1】我为什么会问这个问题？我站在上帝视角这么问自己，另一个我坦</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979092&amp;idx=1&amp;sn=4765134e5c77d2cb8c6fd7df9c6ea8f8&amp;chksm=bc34c0bf057dbe008247d339e35f5f559644ed5c2b7e7fe870233fb5836f6f89955c7a9fb417&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
