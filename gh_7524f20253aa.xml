@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Gemini零点击漏洞可致攻击者窃取Gmail、日历及文档数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvKlnFQ21Eq0yOdlJSr1A1fkfZqfmicJIvNG2Lr1ktJXGDXBBjrgAey2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google Gemini Enterprise（前身为Vertex AI Search）中存在一个被命名为"GeminiJack"的高危零点击漏洞，攻击者可借此轻松窃取Gmail、日历和文档中的企业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=1&amp;sn=7d489eaaa2505c470dc260395dc2347d&amp;chksm=bc8b138268085f99024d6f19698574e00ac61d48b0f298868c30d925bf807f01c53bc6bbb0c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI自动化工具发现零检测的GhostPenguin后门攻击Linux服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvGd5xWdbYuVibhl6T3DuueH7Uce6mUNjfNA33LuR8qLnPRicvurp2rzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型Linux后门程序被发现研究人员发现了一个名为GhostPenguin的Linux后门程序，该恶意软件在过去四个月中成功规避了安全检测。这款采用C++编写的多线程恶意软件通过加密UDP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=2&amp;sn=b4650dfb908805ec56cc75ac0ade2670&amp;chksm=bcc6e3b7359cd451235528f7a29f074634bdd530f5fe1bdd53d20af47cb2909f6542b4ea79ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜黑客组织利用React2Shell漏洞部署新型EtherRAT恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvzTYd9KicM1eYqltABbfTbnRNS5gsRE9TCtnu3ibaIPjcnLMPBmVu2w5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>与朝鲜有关联的黑客组织近期开始利用React服务器组件（RSC）中新披露的关键安全漏洞React2Shell，部署一种此前未公开记录的远程访问木马EtherRAT。云安全公司Sysdig在周一发布的报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=3&amp;sn=7a9814be07c86c73f43f90e688e368be&amp;chksm=bc88b2d9c26750f7e3254c69d8dbd166f39401fbf34c3ce5beeeb87c924cabe037bbc335ac8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Burp Suite扫描工具新增关键React2Shell漏洞检测能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvrAI3X6cWrZkvT1EOSzeZSymoqpMkkJvjlqNkKicYJkMjGMhFVycPMiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>PortSwigger公司通过最新升级ActiveScan++扩展，增强了Burp Suite的扫描能力，新增了对关键React2Shell漏洞（CVE-2025-55182和CVE-2025-664</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=4&amp;sn=ccaccc4a5ef630ac7dd7719c8fa28e87&amp;chksm=bc765d3264a9be840936b4f54566b70a5bca5debb4d2105a7ab71861825f11f831c2fce15857&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI安全的“上海时刻”：GDPS这场前沿交锋至关重要]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38y7MTHLWT29ql4uNSK8NL6ibVYEmFbpZzsIIeiaicnFQeQxr5PPCIsWDFomPqQFluabrj2I7tmSbvKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们已站在AI的“转折元年”。智能体正走出虚拟，深入现实，从工具演化为能够直接干预物理世界的“行动者”。然而智能体的“反噬”，往往只源于一个未被察觉的漏洞。技术越前进，风险越迫近。一个根本命题已然浮现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331915&amp;idx=1&amp;sn=3cf261720725d5f8968a5d18a8571b89&amp;chksm=bc49c2b8bb4ff09723f45403eb5ee8cbeb13dd0fcc4b8b99f07845c7a98e5288d53c96b2c744&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89v4R5HP9o49fNBDBgGHxCibSmaFECgVvNfnOOHQwNeMggUEeHdMVXsEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型从技术引擎演进为产业核心基础设施，大模型安全也在被重塑。安全不再是可选的“附加题”，而是决定了AI能否在实战场景中稳健落地、持续创造价值的“必答题”。在供应链风险暗藏、Agent智能体可信性存</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=1&amp;sn=38e73557fdc1b38d9332824e2faa9266&amp;chksm=bc22873b5f5b51a4526dc5e40525a7b767e59f6d9e8775446664677545c33274d5a9092a879d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者在暗网兜售iOS 26全链0Day漏洞利用工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89ds106uPZ6V8kY2tZnxPlia1WGl8QFgJrm9F1uBfiazhez0fFE2DUddfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名自称"ResearcherX"的攻击者在知名暗网市场发布据称可针对苹果最新iOS 26操作系统的全链0Day漏洞利用工具。该卖家声称该漏洞利用工具利用了iOS消息解析器中的关键内存损坏漏洞。若该漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=2&amp;sn=bc50c5f58d1d49b6796ffd230f983a60&amp;chksm=bc2fcb77971999e0bb70ca97e149f61709602fba1fca730d216d66cce337a6b4a7451e524cbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cobalt Strike 4.12发布：新增进程注入技术、UAC绕过与可定制C2选项]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89gictM57cHicibuVVc3MuZFjv3UjQuMXIVgv7H3jtlubLArtE8Oib5ApZqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新渗透测试框架Cobalt Strike迎来重大升级，新版引入增强型图形界面功能、REST API支持以及安全研究人员可用于攻击行动的新型规避技术。Part01全面升级的图形界面与核心功能Cobal</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=3&amp;sn=76d28c9c37e60693b3205fcbef8f80e3&amp;chksm=bc90b9eafa398824862c7492e1d038c75c463bf216a6171d3b2b5e271335e90370025c4b9c10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Next.js框架DoS漏洞仅需一次请求即可导致服务器崩溃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38Tiapm6d7sibptUCpBz96X89RzKjAXpepc4ZS9gwQryZ3qe5gJo0so1GdB0zGHdgouampVvia6yyCHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新Next.js框架中新发现的一个高危漏洞，允许攻击者仅通过一次HTTP请求即可使自托管服务器崩溃，且执行攻击所需的资源几乎可以忽略不计。Part01漏洞技术分析该拒绝服务（DoS）漏洞由Harmo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331223&amp;idx=4&amp;sn=02a6568b348291d06a5f65eca456caab&amp;chksm=bc63b309768b4748df3ece2f7a5d012ea5d830b92bcfdc6279121cf1ff01c5f17d80b710433d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[JSONFormatter等在线代码编辑工具长期泄露数据，暴露数千组密码及API密钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39gicrhWBJyTqlnNPzh8iaVFuoMk76aStI03fiaibLhr63XlP4zvKwwolZEXwQtocsbbRQpibd2wlLwqcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新研究表明，包括政府部门、电信运营商和关键基础设施机构在内的多个敏感行业组织，会将密码与凭证信息粘贴至JSONFormatter、CodeBeautify等在线代码校验工具中。网络安全公司watch</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331178&amp;idx=1&amp;sn=d1aea72260825d19a1ca9658195035b2&amp;chksm=bc37779f9543aecc189059ad7bceab20c5ac79ae7d3da4b78b8e99045bbb236a3691ddba7607&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

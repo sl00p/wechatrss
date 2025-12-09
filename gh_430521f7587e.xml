@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最受欢迎的开源Rust跨平台GUI库——Iced已支持响应式渲染]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKiclOKIfFq9GN4zIyoD2KFGD54QtsTsb2UrMKZhkTs8rm3Fg8Pjym26rZ6icdMLTJtxcx6ialhACc5SA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Iced 是一个为 Rust 语言设计的开源跨平台 GUI（图形用户界面）库，受到 Elm 的架构启发。它以简洁易用、类型安全 (type-safe)、反应式 (reactive) API 为原则。I</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235259&amp;idx=1&amp;sn=ec691c5cb7f7fe86701c27cddad3bee2&amp;chksm=bf4656f4af91bf0d138e0cf43636e15f7d2bfd1b86b1c4a042ef901cd8cfacca553c88f7540f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 15:18:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025 鸿蒙极客私享会・大理站圆满落幕 共绘鸿蒙生态新蓝图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ibX0VVEkvAficiakicic8lB8Nfm69gdCwMWuHsEO6k9acfLfMiblgxCTsib1ibc4cGCLnH3aYqHibicSCXnVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 12 月 6 日，鸿蒙极客私享会在云南大理圆满落幕。20 位来自全国各地的鸿蒙技术深耕者齐聚苍山洱畔，通过破冰交流、权益解读、生态共创、GEEK开发等多重环节，碰撞思维火花，共话 202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235259&amp;idx=2&amp;sn=63c24cdcd146a1873e2af700dacca66d&amp;chksm=bf39a92eaee5d328f034719ac64cbc8aec181f36e722f5edcc683cb3b102ab5fcb0b532f4938&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 15:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[JetBrains下一代轻量级IDE“Fleet”宣布停更]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ibX0VVEkvAficiakicic8lB8Nf08DD0eSnBDUNmWSkSWSbImdzDXoHWcwTFFib07LpVygJYsptQ0BkAjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>JetBrains 发布关于 Fleet 未来发展的最新消息：自 2025 年 12 月 22 日起，Fleet 将停止提供下载。我们目前正在打造一款专注于 Agentic 开发的新产品。如果你之前已</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235221&amp;idx=1&amp;sn=aa2c8b5f26e698878a53abb3e3be42b0&amp;chksm=bfc1771792c44544daf86dd20446001cae1b5e1ca5f0a98f658c96b1114f7569ab9622ee1467&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8CBibxjiaZDqzeA7Tuc5b6w7TcjM7k461LwQe6cOiadtKt14HmKDiat7uReKJLzmhYRAuAicsaElMetgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 11 月 1 日，全球开源技术峰会 GOTC 2025 在北京亦庄·通明湖会展中心隆重召开。在首日的主论坛上，天翼云携手开源中国共同启动“OpenTeleDB 开源仪式”，并宣布全球首个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233781&amp;idx=2&amp;sn=b0b71f345e9d778a241fba54c9f0dee9&amp;chksm=bf49103e5c7f5012fd3fffe88b02c3c3a7b958c94df11a7a421a19a7ae25b1f299571600d15d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 16:45:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编程工具Cursor 2.0正式发布，同步推出首个编程模型Composer]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ltdwxXGSuuKsmOicZrFMFwZZBHQSAlhyuPdAicnOQ4B3VABicqABemR7vzga4AlibNHZIh6QkZBA5Ig/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor 2.0已正式发布，并推出首个编程模型Composer。 Composer是一款前沿模型，其速度是同等智能模型的4倍。具体来看，该模型专为在Cursor中进行低延迟的代理式编程而打造，大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233699&amp;idx=1&amp;sn=20b55e6777a793140978f95f01ea0640&amp;chksm=bf4aa2e3aae5fecd17e137e6ce0d2a1178f2774ead5794740aea18010fe0c58fa4184b1bc178&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 16:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[曝光总量超6亿次，全球开源技术峰会GOTC 2025圆满落幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibeFoUZDdSu2K6f1jy2n3sLWdCeg8uTarBIHA3nLRvvs9SWXouGvUYLDHtZ4svuq6lJHCv1xVcAoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>11 月 2 日，为期两天的全球开源技术峰会 GOTC 2025 于北京圆满落幕。本届峰会由开源中国主办，以开源与人工智能的深度融合为核心主线，汇聚了全球顶尖专家、行业领袖与数千名开发者，共同描绘了一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233667&amp;idx=1&amp;sn=975a3d075e3af780b533163ed58ea558&amp;chksm=bfff8d993c6efb943b17a3e94ccd7f718aea97dfaa6adb85bd5d1ca8b9318ebd7ed5f328edfa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 10:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

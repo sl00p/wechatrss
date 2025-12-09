@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Buuctf刷题记录-ZJCTF 2019 EasyHeap]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9hiaeLsVBt8jlIyYsr3g7zQhSuviblNp24y8g59gmNxezFTm4GPSAsGLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 查看保护先看程序开了哪些保护，开了canary和NX，没有pie,Partial RELRO表明可以修改got表。2. 看源码main函数可以看到有一个menu函数int __fastcall</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605041&amp;idx=1&amp;sn=e68ff9561f8d4c664d45c72dc6d28114&amp;chksm=b00e81766920a8868d54fff47d36c5bfcf11d19d68d9514080e5c32443c68f2a10603b69e8bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 17:59:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抵御勒索风暴，守护核心资产——看雪【勒索病毒应急响应服务】全面上线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbULavJ8LibpuPKk539Sjb7kyWpeZBibCQVBJymV3XbKLz3WPtTgbyWB6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果您发现文件或服务器被加密、业务中断、收到赎金通知——请立即联系我们！7×24 专业团队，15分钟响应，1小时启动现场/远程支援。时间每延迟1分钟，风险和损失都在扩大。免费远程初诊(30分钟)·15</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605041&amp;idx=2&amp;sn=6ae6427d408afafe440e6b617f20edca&amp;chksm=b09f2ce540e116a3641fb65ddecb47753bc86f25f74b4ae6df222f49dab2ca12a090faab0358&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 17:59:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gemini漏洞让攻击者零点击窃取企业机密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbicbry1sgBEJerRaeOB7DWCJFw79J94ZsRL1YNCUzayibqSBUZKAcf9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，谷歌Gemini Enterprise及原Vertex AI Search被曝存在名为“GeminiJack”的高危零点击漏洞，攻击者可轻松窃取企业Gmail、日历和文档中的敏感信息。安全机构N</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605041&amp;idx=3&amp;sn=708372f05fbb66c1ed5cbc05bfe3f3f5&amp;chksm=b049b46dbacbca35267e071128850e2489c9276785d88ad335b635812009d97c07a9eb265e50&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 17:59:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TD路由器环境模拟与漏洞分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJhJ3svOgYr5bybedsYkztRtmNB7eBubjYfAzSV3Tkd4rjE2btdicJelvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、环境配置版本 :AX3000_Pro_V16.03.49.26EMUX :emux二、EMUX配置首先按照官方的步骤配置EMUX的环境：docker run hello-worldsudo gro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605025&amp;idx=1&amp;sn=c887ac897c43aba332fd6c6835c68332&amp;chksm=b0381342dc1d8b2c4917a93f532fb4f04d5530b5ea403448e51db10ca2e5dea608cd4b3104cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTxSeAibNemkskalTHEorFRHiam9Gk9nJ5vr10qodqkkCC6eFROicNXmxBjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Oracle E-Business Suite（EBS）遭遇一场大规模网络攻击，涉及零日漏洞CVE-2025-61882，导致全球近30家知名机构数据被窃，波及教育、媒体、制造、金融等多个行业。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=4&amp;sn=c8c02adf4a01fb9a90ce98efa70ac380&amp;chksm=b0667084dc81af2c702366a94c84b8c414c3515606567a07e001690d40178941b6773a2819af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | SCPGA：自认同CoT渐进式泛化攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQgDfqcnWDVLoXLI427m4x3knnWlvyZib0ECHsMuH2BVpjWyp5AlZGsNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾当LLM接入万物：SCPGA如何撕开模型生态安全的新裂缝？本次议题将从SCPGA的攻击原理拆解，到防御方案的技术落地，再到真实场景的风险复盘，全方位带您看清LLM接入万物时代的“真威胁”与“破</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=1&amp;sn=c9c3d5f23ce7da8357d9fe24b9dc9e30&amp;chksm=b0c8bab28a87af5511d9308b9a3142e9f4515e54c5a26065f203f578bd4bc0ee4c1ffe76b812&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[华硕路由器遭大规模黑客攻击，超5万台设备被窃密操控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GGqRyqFY1YGsRiaSSichD4gkOk4ChVOBLeYFtpaOmBkg0VfvcichQlJlMPmJolMNxib6lEw18vzp7dJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月18日，网络安全公司SecurityScorecard联合华硕披露了一起代号为“WrtHug”的精密黑客行动，全球数万台华硕WRT系列路由器遭劫持，沦为潜在的间谍工具。攻击目标集中在已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=2&amp;sn=e1c465c37e801bfde89a6decf640dce1&amp;chksm=b011c8b1d3030b46db9a5765509325c2f5f27624c80daee37534e8904ca87369936f22c2347c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码审计无从下手？四阶段实战教学，带你从入门到精通]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604411&amp;idx=3&amp;sn=b355152f50e954a71ee190e6438d7f89&amp;chksm=b00188c4e063b619b31b17adb0cafa5ecaa9d33dd3c30e91484766d28ac2f76b87822eaef04e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:59:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

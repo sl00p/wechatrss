@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让 AI Agent 实时生成个性化交互式可视化体验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKopbGVcQoWFVLNFmmTic1evwux49adMJ9V3dYsl7Oh6oCGP4VTUW3hoiaHNCJsslxcmnIeTF309Snw/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务背景最近我们在尝试能否大幅提升 AI 或者 Agent 和用户的对话体验。现在市面上千篇一律的 Agent 对话， Agent 只是输出文本，高级一点就是输出 markdown 支持的一些图表来实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556258&amp;idx=1&amp;sn=3c24a4e8b9167b8839348cf00cbc2055&amp;chksm=e8d0539fa30bd3c53905290f4cf8cfcd45f4d3fd5910fd31e3108eef95d318d6e2d02ea8024b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Human In the Loop竟然可以是个MCP?]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKahRTlpm3GYyaauSblaX4AbXnXNSVJz3iaB3UibNaveFBL3NxkLvA4hTg9SggfVgpqbicoG1uDgYOSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们的实践，阐述了如何使用统一的工程方案在阿里的大模型研发平台（OpenLM）上，以及其他Agent平台上针对“Human In The Loop”场景进行大模型产品设计和研发工作。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556212&amp;idx=1&amp;sn=15730b7a525095559ec53fcd56b0b390&amp;chksm=e89402220db655043aff964db31f7d5c5847bc64bab967b12e557650d81966c9c76f362ec6d4&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SPEC 为什么会失败？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97MF1LoGxhpXnIRbN9kwVAthXkFicvsGsXWhMe0HwOia54IHSyhPJ81NXOkIwsP3icGJyOLwS6hic2PqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 失败点 1：背景缺失——缺少项目级指导原则的 SPEC2 失败点 2：评审缺位——对 AI 生成的 SPEC 缺乏严格审查3 查失败点 3: 过度设计——在 SPEC 阶段陷入“分析瘫痪”4</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693540&amp;idx=1&amp;sn=c452bcc648534d541443ee802bed7e1d&amp;chksm=eb711086c8d4be3ca095c0475de4058df1ddac0593ba07ee8fa12f9c1708682441d4049e35e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[非专业也能看懂的AI大模型工作原理！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96leXGDTpCw5s56vL0Il4W1iaeo7np6OrMIbRibTQ4mSAMdx2Tz9AMKaByKOQLVFqUkkm9UgoL6IV0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 输入：从用户提问到模型"看得懂"的矩阵2 Transformer架构与自注意力机制：模型如何“理解”上下文3 输出：从logits到人类语言的“翻译”4 位置编码和长文本外推5 实践与思考6</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693536&amp;idx=1&amp;sn=9ca79c1358a13b0906ac99c39807f282&amp;chksm=eb9367fa85be3dc560e08e30147613b0d83575a2181554e5ea0e692f741036683d1a55db3cf2&amp;scene=0&amp;xtrack=1#rd</link>

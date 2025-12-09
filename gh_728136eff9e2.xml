@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[后台太多记不住？我做了一个统一门户把所有系统全串起来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibugVpEEuBsBMnGXlaouicNoZaibzpXMQLicO3XOmoLYz0mibletjLMibfqaK57v8aAKbWRGJtlGloV3EXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务背景大家好，我是卡卡。在我之前公司的时候，很多业务都需要做私有化部署，加上项目基本都是微服务拆分的模式，一个业务往往会衍生出好几个后台系统，而且还要区分测试后台、正式后台、日志监控、运维工具、发布</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547370&amp;idx=1&amp;sn=0b958d57cafab1abfb4b05ba6ec3d895&amp;chksm=fd83b79f8fad88fe59f942d4ee576422a25b3d516bb53208d79477dbf10189ee9f951cbb41bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 10 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[收到字节的短信：Trae SOLO上线了？尝尝鲜，浅浅做个音乐播放器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsewODHD9bgT5ibpMTdHH66RYpibxKDzWDrraianfJyznH294icM7fAia99xYgZNJYmciaze05HCu0cpESA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）前言【字节跳动】亲爱的 TRAE 友，感谢您的耐心等待。TRAE 中国版现已正式上线 SOLO 模式；请将 TRAE 中国版升级至最新版本，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547328&amp;idx=1&amp;sn=5b18f2896cb62b3f979fb6f91dc451fa&amp;chksm=fdfb7bc601a027955e62321d697b6fc265ab0942d67a75e29bde4961b216772831f1a86b9d4c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuI7kISAmmmre0Wiax5D2KPxn6awuEhQ8GxB50DNjDicb2WzaWlQ5Eiab8xzR4QTxVTZvSc90V7PiapHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新消息，VUE的slot移除产生内存泄漏问题已修复！！！前端佬们嗨起来~---------------------分割线-------------------------------这个是之前一个文</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546398&amp;idx=1&amp;sn=040053a036fd5bec4c52bc444732a5f2&amp;chksm=fdcf615ed8f8ba24535b3ab974e0392aeffb8601893bccfa9fbcec2bf40400596d3326d0d422&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手写企业级请求库，支持缓存、重试、并发请求，以及SSE、进度处理...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuI7kISAmmmre0Wiax5D2KPx13byibwhico1ufQlv32VY1gReXKByeicJ7icZSTo9c6yxiawwxcFtgbqRibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！📡 现况前端的请求库，大家基本都用的是 「Axios」 📦而他是基于 XHR 封装的，目前 XHR 已经停更了 ⏹️相较于 fetch，缺失了一些功能 ❌如：🌊</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546387&amp;idx=1&amp;sn=d62d15fa65a3132304a9ecd718d726f7&amp;chksm=fd068ee818bea091bd8720d9ea5099ddfcbe5a26dabfbb7850b4812188ed88b1350dc1096ca7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
