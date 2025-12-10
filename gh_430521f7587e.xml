@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不止代码滚烫，TA 们在鸿蒙世界里携手追光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKiclOKIfFq9GN4zIyoD2KFGD007ZhOzspor5qKaH4wv5MuwPeiaBw8MWib3MsfIJoY922ke7lb7nicVnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>6 年前，当“ HarmonyOS 鸿蒙”字样出现在华为年会的大屏幕，普通人仅能从这个 logo 中，模糊地看出世界软件格局正在发生变化。但作为程序员，体感则更为震撼：他们知道，从技术的角度出发，构建</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235405&amp;idx=1&amp;sn=c99bb5c35ee7ce0658193b1909258ae1&amp;chksm=bfd2e9ec6487b171348e6972701a3f697ad0a02a56f47b1b8a08fc1e09251d28124b961caf0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 17:54:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从需求到落地：基于 LazyLLM 的华为 Mate 80 舆情智能分析实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKic4OlDQzzTGeV1WyKKnNrS8DODU6IUyXUWlaNU9Ib2jnBlricCclj3Hp9q8T8BPR6VmXElog0D2drg/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景：新品发布期的用户声音亟待结构化洞察2025 年 10 月，华为正式发布 Mate 80 系列旗舰手机，涵盖 Mate 80、Mate 80 Pro、Mate 80 RS 以及延续经典的 Mate</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235405&amp;idx=2&amp;sn=3bcf4636117e90b021b040a427adf064&amp;chksm=bfae3738c424dc54dc8238341b3bf4468f0166f3c7eacb256c23853cb02c589af3e5e57958c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 17:54:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最受欢迎的开源Rust跨平台GUI库——Iced已支持响应式渲染]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKiclOKIfFq9GN4zIyoD2KFGD54QtsTsb2UrMKZhkTs8rm3Fg8Pjym26rZ6icdMLTJtxcx6ialhACc5SA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Iced 是一个为 Rust 语言设计的开源跨平台 GUI（图形用户界面）库，受到 Elm 的架构启发。它以简洁易用、类型安全 (type-safe)、反应式 (reactive) API 为原则。I</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235259&amp;idx=1&amp;sn=ec691c5cb7f7fe86701c27cddad3bee2&amp;chksm=bf4656f4af91bf0d138e0cf43636e15f7d2bfd1b86b1c4a042ef901cd8cfacca553c88f7540f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG5biaHGMMoNW2aMMc1iamrT64gIx0ib2I3b03FDUQibpT7UzlrXYhOiaasS74zxChibSlHPKGuuNotY6rBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 26 日，Amazon Web Services 在深圳举办年度开发者盛会 Community Day@2025，汇聚来自国内外的技术专家与社区实践者。开源中国 Gitee 产品总监林靖靖受</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233803&amp;idx=2&amp;sn=5119f14a06c65b3ea760aed2027d0943&amp;chksm=bf8d0ed44843c9e697a0880197485c529dda88a281e8c4b9ece2afedd2d921dc49054122b387&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 17:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MiniMax M2采用“Full Attention”是开倒车？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ltdwxXGSuuKsmOicZrFMFwibM4Tzz5eRnQ2Q6hdJdIZDPQnVpUlYZic3Lbbq4W8Zr8v0X42ibtKQQAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自「MiniMax稀宇科技」为什么M2是Full Attention？Guixianren，公众号：MiniMax 稀宇科技为什么MiniMax M2是一个Full Attention模型？作</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233781&amp;idx=1&amp;sn=2f57c50e9883f1d5a587768fcb10e907&amp;chksm=bf24e5d81d4224e523cb1050e0dce3120c5f92b33049313e324a5048463fc7bb4c705477baee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 16:45:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenTeleDB正式开源，赋能国产数据库生态新征程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8CBibxjiaZDqzeA7Tuc5b6w7TcjM7k461LwQe6cOiadtKt14HmKDiat7uReKJLzmhYRAuAicsaElMetgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 11 月 1 日，全球开源技术峰会 GOTC 2025 在北京亦庄·通明湖会展中心隆重召开。在首日的主论坛上，天翼云携手开源中国共同启动“OpenTeleDB 开源仪式”，并宣布全球首个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233781&amp;idx=2&amp;sn=b0b71f345e9d778a241fba54c9f0dee9&amp;chksm=bf49103e5c7f5012fd3fffe88b02c3c3a7b958c94df11a7a421a19a7ae25b1f299571600d15d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 16:45:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

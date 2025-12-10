@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVE-2015-3456 Qemu逃逸复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yqFDVrIrtqDicDtEQVUqw9oLVe6jk9iadrPuF65zh5tVgMUDVpFR9EOLCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建QEMU版本:1.5.3编译◆下载 python 2.7apt install python2.7 python2.7-dev◆必要的依赖apt-get install -y \ git</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=1&amp;sn=f6d8c7ce14ce6f01273842199542f5ed&amp;chksm=b024a991537168a64f21a56bbb9aa083d9461becf645531bbfafdb8757c316c8f56289aa68f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Adobe Acrobat现高危漏洞！攻击者可远程执行代码，需紧急更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HRefCFeUmbea0qnrg2ou64KXpdH9yD9kGB7pNO3YSOxuUxgTQZtoBEtjP4cGtjAw9gLSB625wKQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>12月9日，Adobe发布安全公告APSB25-119，称旗下Acrobat及Reader系列产品存在多个安全漏洞，涉及Windows与macOS双平台，建议用户立即更新。此次漏洞包含两类风险：高危漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=2&amp;sn=c18e16f62ca83d87766e8cb0b26ff187&amp;chksm=b0b3b2d9701becfbae16ef505b6772b61d88960fac340acf36e68c0a77692d4d6dd5a77deba0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深耕Windows攻防10年！实战派大佬亲授：内核Hook与Rootkit开发全攻略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=3&amp;sn=78a85d2d1d05a6155d6dcae721d5398b&amp;chksm=b053044e53c70b9f334846332baf4b1901ac81e8c6e39dc4a8e820dde76137b02ad4e9bc514d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Buuctf刷题记录-ZJCTF 2019 EasyHeap]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9hiaeLsVBt8jlIyYsr3g7zQhSuviblNp24y8g59gmNxezFTm4GPSAsGLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 查看保护先看程序开了哪些保护，开了canary和NX，没有pie,Partial RELRO表明可以修改got表。2. 看源码main函数可以看到有一个menu函数int __fastcall</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605041&amp;idx=1&amp;sn=e68ff9561f8d4c664d45c72dc6d28114&amp;chksm=b00e81766920a8868d54fff47d36c5bfcf11d19d68d9514080e5c32443c68f2a10603b69e8bf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[新课预售 | 为什么你的系统总崩溃？Windows 内核调试核心技术揭秘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=1&amp;sn=0b339f1827ff430a126bdec228cb4736&amp;chksm=b02e9387c74875a34c69cc01a7d97a96b1799302f27123e31c993fd446a69f4960817da2b129&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一道CTF题目animals：变异MD5加密分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx0crbJibMibg2Z0s8JoaXV9wNXXl8iayKWVWALZLMiatIdFKPAOKibO1WzeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1分析首先IDA打开熟悉的味道熟悉的花整整两段，没有办法，挫一个idapython脚本梭一下start_add = 0x400800end_add = 0x406e22for i in range(s</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=2&amp;sn=d3ce2c80572bdce231d2a9420d29448e&amp;chksm=b05d91fa6e19f21f863d64d396f845eb8ddd1aed113f3fcd550484b81b2d67dc83cd8405e1e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周职位更新！速速投简历]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=3&amp;sn=e54f0304139fa6cd301001984e700e94&amp;chksm=b09643984049e295682c0b4a6278978b466d1c9b98dae8a05834cf520ee1196e054acf6fc6c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Oracle EBS零日漏洞遭大规模利用，近30家机构数据被窃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTxSeAibNemkskalTHEorFRHiam9Gk9nJ5vr10qodqkkCC6eFROicNXmxBjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Oracle E-Business Suite（EBS）遭遇一场大规模网络攻击，涉及零日漏洞CVE-2025-61882，导致全球近30家知名机构数据被窃，波及教育、媒体、制造、金融等多个行业。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=4&amp;sn=c8c02adf4a01fb9a90ce98efa70ac380&amp;chksm=b0667084dc81af2c702366a94c84b8c414c3515606567a07e001690d40178941b6773a2819af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
     </item>
   </channel>

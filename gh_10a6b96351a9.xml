@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我为什么要离开家乡，来北京打拼？（说说我自己的故事...）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwGxRdfMkxoEbcLkeHRS2kX29M2Thpk9PY4g0llqYZ0Z2ImF8upC3qSDKGzvuibMzbpWibAPmODcuicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。谢谢大家，听我的故事。希望对大伙也有帮助。最近做了一个新产品：70天，每天30分钟，短视频行动营（第二曲线最佳选择）点击“阅读原文</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979878&amp;idx=1&amp;sn=3fa31b88449c919d94f07a307948306f&amp;chksm=bc61352aa5085ece87534b187273254661b1427ca1248a8e5ff1869bd6db22575ae1f5ea86da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 20:59:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖个InnoDB坑，出个题，答对有奖！（你以为DeepSeek说的就对？）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDNxNwhzeWLdxiaym6TwSewsAHI9FBGMyzfYPEtCrvSq3k8bahh6iaGsGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>准备系统性讲下MySQL InnoDB的锁机制，开讲之前，先挖个坑。讲完之后，这些坑就都很容易了。Case 1MySQL，InnoDB，默认的隔离级别(RR)，假设有数据表：t(id PK, name</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979819&amp;idx=1&amp;sn=c653bcee11b366e47304406040e21e96&amp;chksm=bc5d36156b4196d79332cfb4d7f0c806eaab0f9cb549a9876c2b9fb15fd82e5485ff9b553a8c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxWzX7TkjsyIqxibHmF2ZXoQpF49dQomakKNORZbscspGxlZE3JahibK3OwGNHfvGroo9E6rgFHicnicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》105.内存管理内存管理，是架构师的基本功之一。如何掌握这项基本功，最好的方法是和开源的项目学习。memcache的内核设计，值得每一个架构师借鉴。第一部分：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979183&amp;idx=1&amp;sn=b03bf65b82c9d6d1023b7b53bf4cbcb9&amp;chksm=bc07f0cfa83b93cb8b35fb708930ef1f581ec40f31130fec58b8caae1a272932b631b5d423c1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 11:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个AI大会，说不定你会感兴趣？（附：封面提示词）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxzxnY80dhvqttaGNXhINSib6HBe2pHtyjJTAXJo2HIwVSKcp3KAicbKdoCEfUbsJ2TqEf2MtUGgZqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了啥事？时间：10.24-25（2天）事件：DACon数智大会（DataFun策划）https://h.datafuntalk.com/QGtTkg地点：北京国内比较TOP的AI大会，比较TOP的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979173&amp;idx=1&amp;sn=d03dcf4af14c36ee13a93f1a8cc09e60&amp;chksm=bcbc28fd2412edbe4df6ae61405cad7e3b15264342b0db17b9a898da1739e0fa289a56648ce5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Oct 2025 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何用隐形字符给公司内部文档加盲水印?(抓内鬼神器)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibskHUERBQia2twc2eDvljxia7rOFrgzkiapTicAaZQAJr66xiabksZa90wBYaf4lvYq3RzAYic92BobI0ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）大家好😁。上个月，我们公司的内部敏感文档（PRD）截图，竟然出现在了竞品的群里。老板大发雷霆，要求技术部彻查：到底是谁泄露出去的？😠但问题是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547382&amp;idx=1&amp;sn=ac4199cea53d6a3386dd998304b7c61d&amp;chksm=fd0616e7075a6cc5955946942eadbb0424324b275e00e42a35b8f3c47a55774d4ef3d8295c98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 11 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[后台太多记不住？我做了一个统一门户把所有系统全串起来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibugVpEEuBsBMnGXlaouicNoZaibzpXMQLicO3XOmoLYz0mibletjLMibfqaK57v8aAKbWRGJtlGloV3EXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务背景大家好，我是卡卡。在我之前公司的时候，很多业务都需要做私有化部署，加上项目基本都是微服务拆分的模式，一个业务往往会衍生出好几个后台系统，而且还要区分测试后台、正式后台、日志监控、运维工具、发布</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547370&amp;idx=1&amp;sn=0b958d57cafab1abfb4b05ba6ec3d895&amp;chksm=fd83b79f8fad88fe59f942d4ee576422a25b3d516bb53208d79477dbf10189ee9f951cbb41bc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuAOpPyRmlcbStA5W76cgj8OwIfVosDiar9ufUibicFRpsqvARudibWMGHRMBiaqjtzlMY1bzrkT8e5KLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本案例Demo效果图：一、前言前一篇文章：Kotlin+Compose+Multiplatform跨平台之桌面端实现（一）对Kotlin+Compose+Multiplatform跨平台开发进行了相关</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546423&amp;idx=1&amp;sn=b98d86d03c5d3995ceeb8b60ea6e9b7c&amp;chksm=fd86d30e2e17128b2d2a26ee78084523013c0609d7a9a61ad330601d5d687e0e5ad9b4c9ee70&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Oct 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[被偷家了！崩溃！！Element-plus组件测试的后续~]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuI7kISAmmmre0Wiax5D2KPxn6awuEhQ8GxB50DNjDicb2WzaWlQ5Eiab8xzR4QTxVTZvSc90V7PiapHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新消息，VUE的slot移除产生内存泄漏问题已修复！！！前端佬们嗨起来~---------------------分割线-------------------------------这个是之前一个文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546398&amp;idx=1&amp;sn=040053a036fd5bec4c52bc444732a5f2&amp;chksm=fdcf615ed8f8ba24535b3ab974e0392aeffb8601893bccfa9fbcec2bf40400596d3326d0d422&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
