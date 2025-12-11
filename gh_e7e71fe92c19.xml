@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不改 NDK 也能用新版 LLVM Pass：Windows 下基于插件的 NDK 27 集成方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9DKbAcLWTVEbHUYbT9TIlDPDQsAP4R1PoHG5J3NXwQKSaZVeQZjcjicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近总算在 Windows 上用插件的方式把 LLVM Pass 集成进了 NDK，中间踩了不少坑。发现全网几乎没人把完整流程写出来，那就由我来补上这块空白吧～01前人的智慧在查阅一些资料后，笔者发现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=1&amp;sn=24b5cb942d684609b1ee01fdaa3151b5&amp;chksm=b04b3f275ec3da5b347f30eb0bd8c4957e869b8f0c9da2bc1e8abe58bfe44809ebcccc3e40cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025 最后一波高薪机会！网络安全/逆向开发/Android 岗速投]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳软牛科技集团股份有限公司 职位经验/学历薪资地点逆向开发工程师应届毕业生/本科面议深圳高级逆向开发工程师3-5年/本科面议深圳长按识别关于岗位详情及</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=2&amp;sn=689adf40ab11a6c82f57aa27c0f38708&amp;chksm=b01c6906b5b19f8ece863afa06b5360217304b16c0bf30f4c05770f3ab4be5ca763f057b6cd0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能机秒变监视器！新型安卓恶意软件“DroidLock”可远程锁屏并偷拍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fico5ETXWCupokxJXrH5kscPmJ3oicgqRolBfYnWuia3rRdGsa7UoKFIWABl8poBmiaSSj8Dxot8fTrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>移动安全公司Zimperium旗下zLabs实验室近日发现一款名为“DroidLock”的新型安卓恶意软件，该软件正通过伪造的钓鱼网站针对西班牙用户发起攻击。研究人员警告，这一高度组织化的恶意程序不仅</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=3&amp;sn=7338ffcf2694343270b24b6c5cbd312c&amp;chksm=b01538fd1a28b894bdf210b66154f97f9e306b0ad414b48b523015df11040f5095f97b056941&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025安卓逆向冬季高研班，专治“技术内卷”——学真逆向，冲3万月薪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、课程安排2w班课程计划表如下：3w班课程计划表如下：*注意2W班和3W班是完全独立噢，没有交集；二、开学礼包升级（1）3W班开学大礼包：orange pi 5 3588S 云手机套装*包含香橙派5</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=4&amp;sn=df2a34e27227a315812d453a638bf356&amp;chksm=b0d710fc3a674f278b2488128ec6b472cb47be4c615ec02cd1e09ed29ebc34ecb6581f554a6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVE-2015-3456 Qemu逃逸复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yqFDVrIrtqDicDtEQVUqw9oLVe6jk9iadrPuF65zh5tVgMUDVpFR9EOLCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建QEMU版本:1.5.3编译◆下载 python 2.7apt install python2.7 python2.7-dev◆必要的依赖apt-get install -y \ git</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=1&amp;sn=f6d8c7ce14ce6f01273842199542f5ed&amp;chksm=b024a991537168a64f21a56bbb9aa083d9461becf645531bbfafdb8757c316c8f56289aa68f2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4Mg3daIWVHOKJRYQicFZMiciaDPZnXwibnIZqqOPaYGNSclMBt2dNpB9EiaQKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，高速增长的开源大模型推理引擎vLLM曝出高危内存破坏漏洞（CVE-2025-62164，CVSS评分8.8）。该漏洞影响vLLM 0.10.2及后续版本，攻击者通过向Completions AP</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=2&amp;sn=b62d0ad139306b8ae175c223238664a8&amp;chksm=b0054ee769fce4f30478abd0d3fecbc6060fd9df7bc53641a95b74452f27c6d700fd2e9a8dff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新课上架！10年内核大佬亲授：从Hook到Rootkit，手把手打造你的专属攻防工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=3&amp;sn=088d5a3e3d34303d3abea25c9a99269d&amp;chksm=b006e0493665d3afde64334285b6bf47fde6de2e61a698667df3053569efab2f6bda1d0d27a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[极路由远程命令执行漏洞-漏洞分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsKnDEOicmZDal1VNE0nhq0IrOciaoPLhp0KGiaASfbILvibpjqGzkOhwzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇主要介绍cloud_token的计算方式和远程命令执行漏洞的代码分析。cloud_token是开启远程ssh的token，如果知道cloud_token就可以远程开启ssh服务。01cloud_t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=1&amp;sn=63eb614120055ac689f6192c16cb2c74&amp;chksm=b04fa85c826f315cceba6e8d472c614d0b8a16ed6222287bbb3fe78e45cb87d800321002a5ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8H5D5k6Apjea6xzYjVbb1DMOJ9zft079ibN3B93bgeatSpGRYkBZ3ZQGUG3dR9M6bddMaX1iaiab511A/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码审计工程师如今，代码审计已成为企业防御漏洞、提升产品安全的重要技能之一。然而，能够从零基础到精通代码审计的课程却不多。这门课程将从环境搭建到高危漏洞挖掘全覆盖，带你飞跃技术壁垒，全面了解和掌握高危</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604463&amp;idx=2&amp;sn=ec105db6a0b9106aec654784d428fcab&amp;chksm=b0195d4308856e7e50d18841b76f993fd3f8a06d94859737c6165306e32c96b593fb92adf9b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新课预售 | 为什么你的系统总崩溃？Windows 内核调试核心技术揭秘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604437&amp;idx=1&amp;sn=0b339f1827ff430a126bdec228cb4736&amp;chksm=b02e9387c74875a34c69cc01a7d97a96b1799302f27123e31c993fd446a69f4960817da2b129&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 17:59:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

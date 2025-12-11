@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这是一套基于实际项目经验总结的系统化Prompt设计方法论。 核心思想：将大模型（LLM）视为一个可独立执行任务的Agent，并为其提供一套清晰的标准作业流程（SOP）。 Prompt = 角色(Role) + 上下文(Context) + SOP(Workflow) + 边界(Boundary) + 回答约束(Constraints) + 示例(Examples) 角色(Role) 明确专业领域：如意图识别专家、问题分类专员 单一职责原则：一个Agent只做一件事，复杂流程通过多个Agent协作完成 避免角色冲突：不要让同一个Agent同时扮演客服和销售等冲突角色 上下文(Context) 状态显式传递：明确告知当前流程节点、循环次数、用户资格等关键状态 分层加载：只加载当前节点相关的上下文，避免Prompt过长导致注意力分散 结构化呈现：使用表格、列表等结构化方式组织上下文信息 SOP CoT思考链：强制模型输出思考过程，按识别状态 → 理解输入 → 判断行动 → 生成输出 顺序执行 步骤编号：明确标注，让模型理解执行顺序 决策树结构：使用"如果...则..."的条件分支，覆盖所有可能路径 循环控制：根据循环次数动态调整策略 边界(Boundary) 知识边界：明确知识来源，如"回答必须严格基于知识库" 职责边界：明确处理范围，如"只处理A，不回答B" 状态限制：基于用户状态限制可能的意图，如"新用户不可能是续费问题" 兜底策略：不确定时宁可返回不明确，也不要猜 回答约束(Constraints) 格式刚性约束：严格定义XML/JSON结构，强调必填字段和可选字段 提供完整示例：给出多个完整示例，覆盖各种场景 字段语义化：使用中文描述（问题类型A）而非编号（类型1） 语言风格统一：明确称呼、语气、句式细节 示例(Examples) 双轨制示例：固定示例（人工编写典型case）+ 动态示例（向量检索相似问题） 覆盖边界case：重点提供容易混淆的场景 完整的输入输出：不只给输入，还要给完整的输出格式示例 多轮对话示例：展示历史对话如何影响当前判断 没有完美的Prompt，只有不断迭代的Agent。 你学会了吗彦祖亦菲？]]></title>
+      <description><![CDATA[<p>这是一套基于实际项目经验总结的系统化Prompt设计方法论。 核心思想：将大模型（LLM）视为一个可独立执行任务的Agent，并为其提供一套清晰的标准作业流程（SOP）。 Prompt = 角</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693549&amp;idx=1&amp;sn=84ceff667274bae4c2596d4ee7ca3086&amp;chksm=ebe8596933c0651435565751574ab34f06f4cbd20987867be501ec46f6b8e340ca0fbf1eb026&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大厂P9：为什么大部分程序员成不了架构师？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe946jWGncBrPibL9xC19SYXPBxgXMpCroZo4dQCAKy2e3j2x9JWxCluYaHPXEtib1jicWuX2ibEHgssQnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 认知龙门：架构师不是资深程序员2 教育龙门 – 缺乏架构设计体系教育3 机会龙门： 缺乏架构设计的实战机会4 破局之道5 后记不想当架构师的程序员不是好码农。成为架构师或许是在技术这条路上，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693546&amp;idx=1&amp;sn=e86cf96fcd181c3926665c7ff9b3ed10&amp;chksm=eb1ea65dbace09c91b55884368150684801d14837cc0c6d038085f7658e5204fec0c870bdf2f&amp;scene=0&amp;xtrack=1#rd</link>

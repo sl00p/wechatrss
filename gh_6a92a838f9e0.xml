@@ -6,10 +6,16 @@
     <description><![CDATA[哔哩哔哩技术公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/MhLhj1Zltjls2gSSSicWLUrN6qG22UmicBAThz4HLuR0YIplFOoZZVIMJibGYUUGSGNpOIkHUJxu4yecGOwNnKL9fCgRbZwODlQ7qa0wzibjHAD3dnmW78EH4HVyRNhbKnFe/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/CiaYQia1kkgkCRv3baPGAiaVwUn0JUGvX9x3mrAJbECTZx4giaFhzvnymegiaibkkQArkFv4yUuicMQZrKAM8w7CXKjuySlwORyW015t4raCBHlWFhoLsT16shKbt84AVYibKOkZ/132</url>
       <title>gh_6a92a838f9e0</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[从JS云函数到MCP：打造跨平台AI Agent工具的工程实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754QPhZ0Q0TUDiafK0upmgic9Kiaa5vURw5RKTzqcduLzKLsO5pI2bxySmH01q32X8tTxZxZJj9Jo1meOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>构建 AI 工具生态这件事上，过去一年我们做了不少尝试。回头看，会觉得这条路径像是在搭建一条越来越清晰的“能力生产线”：从写 JS → Agent Tool 工具 → 成为 MCP 工具 → 成为跨平</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503836&amp;idx=1&amp;sn=d84b2e1c6ce9330751cd4d58b3ec32ef&amp;chksm=cebcd036354557e0da21860796c216dd97ed6f4da436499ccd4c3c70744a5e5abdd4cc6016e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 12 Dec 2025 12:00:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[B站社群AI智能分析系统的实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754TVtb1gJIpwkrp4q6pffBddz1AMKMiblGr7XDzG74qNHicAKw48glTQQKg44apnUYNrK1uDwe5OA8iag/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、为什么我们需要一套能“读懂群聊”的 AI？在 B 站，我们运营团队需要管理着数量庞大的UP主交流群，如：品类扶持、成长训练营、专项交流、答疑沟通群等。覆盖许许多多的创作者，每天会产生大量的消息。如</p>]]></description>
