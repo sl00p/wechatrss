@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[微软组建团队清理“屎山代码”：利用AI将C/C++转换为Rust]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8hOKjFN2fSI9MMibKHEVR5Oy21fsMC3Kdnd0M23TlJKMJUO1O65NPeSLqvKd3dJA6kTelZLECJiaxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软正推进一项长期工程：计划在 2030 年前，将公司内部现存的 C 和 C++ 代码逐步迁移至 Rust。该消息源于微软内部工程负责人在公开平台的披露，随后引发开发者社区广泛讨论。https://w</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236315&amp;idx=1&amp;sn=d9d85c2201aa2e6ebcfc2d51dd8d12f3&amp;chksm=bf96413f20a3cad867331acb4bb703710b1a004efce5cfad2743f575ba103e1035f8f885a8e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 16:29:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Redis之父：程序员对AI辅助编程的抵触情绪已显著降低]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8hOKjFN2fSI9MMibKHEVR5OEskW2eowChjZEXduiblUUJ9fZlUlZ0s30bQgE131h4UeEpZH7FibQu9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Redis之父Antirez最新博客文章：《Reflections on AI at the end of 2025》，谈论了他对人工智能的思考，称未来20年AI面临的根本挑战是避免人类灭绝。 📒完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236315&amp;idx=2&amp;sn=fab71ac797d9b38edaa65d3e8dde9578&amp;chksm=bfcf272bcba7e90754fb03e6a21c24001a1e84cbd072597672d383a8b7af5b179ef7369f15e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 16:29:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Redis之父2025年对人工智能的思考：AI面临的根本挑战是避免人类灭绝。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK830pfMDoUYTqNVlLeGKd1nzzcfaIArFd7bhUlY914RwUv9FgEicKQ3VDVzL9WhU5oOSOAgJB0SNXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Redis 之父 Antirez 最新博客文章：《Reflections on AI at the end of 2025》，谈论了他对人工智能的思考。从“随机鹦鹉”到现实：多年以来，尽管功能证据和科</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236222&amp;idx=1&amp;sn=072763ce8f7a5df66a2ed4dc1a3eb26e&amp;chksm=bf5a8047ce37b04611539e1a30e019c33bb6448bf2a8ac5b9c22906f1b25c192e710933c7017&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8yDw7mwtibkNTH948q4efsxrng4yL6jN6rbgxkE8JBnk727nBjgUthfJQc5rgv61qYXnsoVfYvvsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>中国开源年会 COSCon 是业界最具影响力的开源盛会之一，由开源社在 2015 年首次发起，2016 年正式得以命名。九年来，中国开源年会以其独特的中立社区定位及日益增加的影响力，吸引了越来越多国内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233996&amp;idx=2&amp;sn=6145eea671e395851d5c4f5640ba6f34&amp;chksm=bfde84e7ae033ffd9033f610696e242281b0ed6101f32de7852a1fb31681d26de4b09bd0dcd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火绒“开撕”鲁大师，揭露其流量劫持黑幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib1dmG245zJXKVkIqAZW83ia0jBjFcCHVI4jmibyEiaXx0fqNoWtVzib3ZkBd46Z7aZZvPtjO9icicAjDkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>火绒安全近日发文，直言“撕开鲁大师为首系列企业流量劫持黑幕”。火绒安全实验室监测发现，包含成都奇鲁科技有限公司、天津杏仁桉科技有限公司在内的多家软件厂商，正通过云控配置方式构建大规模推广产业链，远程开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233931&amp;idx=1&amp;sn=baac3fc1b6500bbea63c72b6f3687af5&amp;chksm=bfa309fef8932154e05bd820b158aa6f91dfec0004431e6c610c1259b24ed9ffdd5ad21c00cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 15:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深圳湾畔，一场重塑软件研发范式的技术盛宴即将启幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib1dmG245zJXKVkIqAZW83ia3bn2fxOibibibU4h7gllUE9plvoX0xfUxjHboz7OPO2BkDRHjNaMTjn7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月14-15日，深圳湾万丽酒店将汇聚中国软件研发领域最强大脑，共同探讨AI如何深度重构软件研发的每一个环节。这不仅是一次技术的交流，更是一场关乎未来的智慧碰撞——第8届AI+研发数字峰会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233931&amp;idx=2&amp;sn=faaf721d8a240600bb67ad08f6c2794d&amp;chksm=bfa71845226135b3bfc8e6cf0c43ae1f746ccc8a69d2cdca33dbf6c35ee9b53b30a4ec08a8b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 15:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

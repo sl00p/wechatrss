@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从CLI原理出发，如何做好AI Coding]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKko5ANyVGoIKEvicyibqnafltXq0aoMKxt22LEj5DpILDInFPneAA7dClSmHSMSY9X4pQYDBjuf0UA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文整理自[AIGO小酒馆]分享内容话题内容：CLI的产品美学： 时代在倒退么？CLI的技术原理：Single Agent vs Multi AgentCLI的使用场景：如何用好CLI写代码？话题背景</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556673&amp;idx=1&amp;sn=37cef41b77e152f9ee76cfdf32343cc3&amp;chksm=e8207242459bdff2b8e2d70a157d85661dd0ae80d8eaff0d9d88ec286bf327cf1aa856b0bda2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用代码染色实现精准无效代码清理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJVZj7WGyBjNXLSdTpC1yuUVEA0AFdHV8EKyISibOM8Bn8lGW8xHQ9Viatbod8tRTsZoQAUegwf8XoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>D是我们团队的服务端应用，其代码库历史悠久，最早可以追溯到淘宝APP无线端迁移，应用中许多代码已无线上流量，但代码并未随业务的下线被清理。越来越多的代码“沉淀”下来，既增加了团队新人学习门槛，也增加日</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556599&amp;idx=1&amp;sn=c926694e656f9fd130c83ad9721dce40&amp;chksm=e8405ce6af950b339223092bd08e644777ac39c5c1b4f9278dfea1e1997580e764557043071f&amp;scene=0&amp;xtrack=1#rd</link>

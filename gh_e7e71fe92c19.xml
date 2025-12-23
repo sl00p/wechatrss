@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对某漫画的算法还原测试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eeck0yTCvzKjDp4q0E3UcwDey29nFyYhJfBW0vicCtRoZHrtuRX1xutfkNYx8kicwXVpgBouI3gctQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>查壳修复MT查壳可以看到是360加固，直接使用在线网站可以进行脱壳，也可以找到360加固的脱壳点进行手动dump，都可以，只是这篇文章更偏向于算法还原，所以直接使用在线网站进行脱壳了。https://</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=1&amp;sn=f88682b9245347f4253a020cabf8b456&amp;chksm=b06a9ae8162aaa6deebfc7effedc3ac0d058455cd5395d83611b0f79e6fb0bacc3ced1da4920&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[致敬每一行代码的重量：【看雪社区2025年度评选】火热来袭]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GBS0G4vBPud3xpwFsUe26UIZehtcIF1cibVCHGbLVS1icNESYZaxKdI93OKRfp7wTnChypiaF2RlGmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025看雪社区年度评选当时间的指针即将划过2025，我们并非在丈量岁月的长度，而是在称量一行行代码、一篇篇分析、一次次解答所共同构筑的思想重量。过去一年，社区里高手如云、精彩纷呈。有人以笔为剑，剖析</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=2&amp;sn=f55558a38fcb1db4ca9c58489fe3d011&amp;chksm=b029c6dea9aed81383821c83cd2ac1ef7e9f4b24826bf37606dae4283fe2ba498e1503263b7d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Red Hat GitLab遭黑客入侵，日产2.1万客户数据外泄]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GBS0G4vBPud3xpwFsUe26UbzTZsv0AlribEE1v4Tl0UBZagQoQiaU3hCLPN0gwZqfBZTrpPBkbTt7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>日本汽车制造商日产近日披露一起数据泄露事件，此次事件源于其合作方红帽咨询（Red Hat Consulting）使用的自托管GitLab实例遭黑客入侵，导致2.1万名日产客户信息外泄。日产已就此事向个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=3&amp;sn=c6eff30023b5e14648b36dca0142f087&amp;chksm=b0a9d5a0ea4f0c6039e4355e89a59815533c5fc8e793bca24e530b9ab77a3eed91e49d408de9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不改 NDK 也能用新版 LLVM Pass：Windows 下基于插件的 NDK 27 集成方法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9DKbAcLWTVEbHUYbT9TIlDPDQsAP4R1PoHG5J3NXwQKSaZVeQZjcjicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近总算在 Windows 上用插件的方式把 LLVM Pass 集成进了 NDK，中间踩了不少坑。发现全网几乎没人把完整流程写出来，那就由我来补上这块空白吧～01前人的智慧在查阅一些资料后，笔者发现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=1&amp;sn=24b5cb942d684609b1ee01fdaa3151b5&amp;chksm=b04b3f275ec3da5b347f30eb0bd8c4957e869b8f0c9da2bc1e8abe58bfe44809ebcccc3e40cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4MgQEniaSj6b1KbhfYbKg5Zo0oro0vR5b116GibZrH6XcPBJiaDufNvW5UUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以Shor算法为代表的量子攻击模型已对RSA、ECC及国密SM2等经典公钥密码构成理论威胁。在此背景下，如何在保障现有系统连续性的前提下，构建可抵御未来量子攻击的数字信任基础设施，成为PKI演进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=2&amp;sn=37d141a63a0813c4ac467878cdec1bd0&amp;chksm=b03e67eae8fda9d898b2359d51f42e8741ef855f1be2324a3ba41b90a813913e71fd6d272655&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Apache Syncope 硬编码密钥漏洞（CVE-2025-65998）可致用户密码泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HNJ7WmrGqmK2Dl2EyDdzZkj7Gmo6nAuianh1R7NicKxFrTBEd97KTCyXrBQ6IRVticTZFN0wJCbariag/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Apache 软件基金会发布了一条重要的安全公告，披露其广受欢迎的开源身份管理平台 Apache Syncope 中存在一个关键设计缺陷，可能导致企业环境中存储的用户密码面临泄露风险。该漏洞编号</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=3&amp;sn=0d3802aa7534e61d602c5526e8f6d149&amp;chksm=b0b4ad4163cbdae35a70ee2fb4cd7657e418c1bb7d3148dae43504b392f39b406f57da6fa6f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2025 议题回顾 | 跨向无人之境：智能架构的支付宝安全风险扫描实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HnYC1y6hJFVHIGMp8dOpgQIsxic3SpYDpT9rluGS4LN5auLZQoaj1P20LFN0VpJJGIUqLS4B69y9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>议题回顾随着金融科技快速发展，传统代码风险评估面临严峻挑战：人工审计效率低且依赖专家经验；静态分析存在准召率瓶颈；业务逻辑漏洞的隐蔽性和识别复杂度持续提升，亟需突破性解决方案。本议题演讲者深度介绍了如</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=1&amp;sn=66ffdd7b1a82aa9b4a549b200916a934&amp;chksm=b0e209216004ff08b7af6354a8913ceefdff01963baf7675357479cd55b8178c97aa7278355f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[vLLM曝高危漏洞CVE-2025-62164，恶意嵌入可致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4Mg3daIWVHOKJRYQicFZMiciaDPZnXwibnIZqqOPaYGNSclMBt2dNpB9EiaQKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，高速增长的开源大模型推理引擎vLLM曝出高危内存破坏漏洞（CVE-2025-62164，CVSS评分8.8）。该漏洞影响vLLM 0.10.2及后续版本，攻击者通过向Completions AP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604494&amp;idx=2&amp;sn=b62d0ad139306b8ae175c223238664a8&amp;chksm=b0054ee769fce4f30478abd0d3fecbc6060fd9df7bc53641a95b74452f27c6d700fd2e9a8dff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

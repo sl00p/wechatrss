@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不仅免费，还开源？这个 AI Mock 神器我必须曝光它]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvKPYoRAuFHeiboYCkfIhhImKm4NdecyEE5ib2HKWZw3tO2E2Sk85ShHibwAX5dYlB1zEJsxlGDGPVqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>此前用 Popup 弹窗做联调，窗小、易误关、操作繁琐；于是我重构为 Sidebar 常驻侧栏：规则随时可见，刷新也不丢。「换成 Sidebar 侧边栏」：钉在页面右边，想开就开，数据都存着，再也不怕</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547598&amp;idx=1&amp;sn=c54e9131fe49fae7627f8fc02c7ed4ac&amp;chksm=fd51b4b0ff48820d11964a438d279b6dc7601ab1c1d138be0dacc51bab2a78c969caa09ab576&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtKDhXKTLb8I3pVq0lqur3b8QSuxPRpfchd3GyJupR8bibb7AE048oQ0ibpBYt8NqnMHmzbjE26lOwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端生成 PDF 不清晰？文字无法搜索选中编辑？体积太大？分页切割不精准？生成页数太少？dompdf.jsV1.1.0 版本更新后，这些都不在是问题，只需要一行代码，就可以将 html 页面生成数千页</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547542&amp;idx=1&amp;sn=57c007f67ef16c8b14bb69a035b2a37e&amp;chksm=fdfb730bbfff6a16a95e6255e77013f32f8427383b83170a23be06f6a7a2720a757a9551acdb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsaicfy3B1pBQxh3h85nE7mZ8Yp4BDMCyOKwU7AZPF1T58yowYBYOL61XqhaHwbOsuPwyeLia8nEfHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>React 技术栈发展到现在，已经出现了非常多且优秀的状态库，比如从早期的 Redux 和 Mobx，到现在拥抱 Hooks 版本的 Zustand 和 Jotai。在当前 React 18、19 的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546453&amp;idx=1&amp;sn=fc1c711ff47a50bad6e5eec742c8eaba&amp;chksm=fd39ce946bcde0982b4c3478f57d6f6c7049d737651b3f54b7bb166dade640ca25e15ec0427d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【前端效率工具】：告别右键另存，不到 50 行代码一键批量下载网页图片]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvPMia3qIDDpP1iabAcsn3onUibLibruxoDcWMz5oPhGQVFwmEU0bsyibILghOwZ8q28MibHWb502JVCRew/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！❝前端还原页面你肯定干过吧？像仿 xxx 首页那种。收素材时最烦的就是一张张存图，慢不说还老漏。跟我用 10 分钟做个 chrome 小插件，点一下，整页图片全下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546449&amp;idx=1&amp;sn=44f5170c66888e745a2e05185b7fd709&amp;chksm=fda1814034adf596dbc972bf35d886e055c941d9f9075587ad4dfc356e7ea2f7bd967821b870&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

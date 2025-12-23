@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一场“智变”：当AI不仅要防“外敌”，还要防“自己”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3iby8ExSK6sqyZPxRh05yHdflrWjPdUXgOKBRicf2Y7QAnjmW1ZoxdHzQF8MPzaib5YRs6bq4W9Zr0Bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从每分钟拦截上千次恶意诱导，到为百万终端构建“云上保险柜”，安全正从一个被动的成本部门，转变为驱动AI规模化落地的核心引擎。“下次咱们论坛能不能找个更大的场地？”2025年底的上海世博中心，火山引擎冬</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332851&amp;idx=1&amp;sn=f34bdcbc088339866086ce76d7abe864&amp;chksm=bcc18cecda0c79b940000456c826067e9b296f1994f8dd07e702a34ac7ab68767d8fb99fa647&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 19:13:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[内鬼威胁：黑客重金收买企业内部人员绕过安全防护]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3iby8ExSK6sqyZPxRh05yHdfzbdFtJGibl0zmwxicDrfmVv7Wod558GyiaVYdyibvOIicuZNlfyic75RHe8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客转向内鬼策略Check Point Research（CPR）最新研究表明，网络犯罪分子正在改变入侵企业的方式。他们不再仅依赖密码猜测或系统漏洞利用，而是开始重金收买企业内部员工充当内</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332851&amp;idx=2&amp;sn=70fdd40b8d82c996b73af2ec18ad8e88&amp;chksm=bceb2567722184a7a762d8ea6849f31e7a11f77ee6f804520694f1aa3d97cc085d00bf11ea16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Dec 2025 19:13:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[n8n工作流自动化平台曝高危漏洞：数万实例面临任意代码执行风险]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib6OFLyLoTXDz4kpkmyyeibR587InqEjcRWicFz0N1hgwFCqlXsDITeLpeVDxxYVMRELVZZ47EY1iapA/640?wxtype=jpeg&amp;wxfrom=0"/><p>n8n工作流自动化平台近日披露一个高危安全漏洞，在特定条件下成功利用该漏洞可能导致任意代码执行。该漏洞被追踪为CVE-2025-68613，CVSS评分为9.9分（满分10分）。根据npm统计数据显示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332801&amp;idx=1&amp;sn=52c4694e9c82cdb974cbffac68b785d8&amp;chksm=bc53a8a9a3f44803090e818abebc80c51156a79891bd9115c3d80266582285d2c970bd69eeb7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[200多个CVE漏洞遭利用，谷歌云OAST服务成复杂攻击活动跳板]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbkm5uB6JHcEeqMTYj6mIib0ib20bqKRx819oTlb0FcQcjic32zYlWWaFpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现一项复杂的漏洞利用活动，该活动利用托管于谷歌云基础设施上的私有带外应用安全测试（OAST, Out-of-band Application Security Testing）服务发起攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=1&amp;sn=b6775fc89fea0b34a05d123fa46b124d&amp;chksm=bc35b5453de133ce9d8827c25a072df75fab8919ccdbd729d6e008e40b5d3b1bd3f7e35822ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISA警告OpenPLC ScadaBR跨站脚本漏洞（CVE-2021-26829）正遭攻击者利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbyG9p6pIwwqPrcRVTzxqIaMrriaPkSickNojuhjs3TAOXsjnXp1jtIY3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概括美国网络安全和基础设施安全局（CISA）已正式将OpenPLC ScadaBR的一个关键漏洞纳入其已知被利用漏洞（KEV）目录，确认威胁攻击者正在实际攻击中利用该漏洞。该安全缺陷编</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=2&amp;sn=ff5a6cd93e1e1aafa783ea5562bd862c&amp;chksm=bc1f5d91bdc5bc54e21dabb1cdc0721f1c374acaf0a43c913900fa60b3a74dcc3e35ff4989ac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高危警报：Apache Kvrocks 'RESET' 命令漏洞可获取管理员权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbZricYbSosLaT1NW5UibAMQVM2Ivx47ibS2M3uIx5OC6ytwM90v6KZUcwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月29日，Apache软件基金会针对兼容Redis协议的分布式键值NoSQL数据库Apache Kvrocks发布重要安全公告。该产品作为存储海量数据的高性能磁盘型Redis替代方案，其</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=3&amp;sn=3807ed7fea9c7d971087d7c78e994052&amp;chksm=bcae3c9274da1b399cd50bdff55763d1951585a57b5fe7811a926a56f8042871fefa292f147a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
