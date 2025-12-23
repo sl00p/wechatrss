@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[n8n工作流自动化平台曝高危漏洞：数万实例面临任意代码执行风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib6OFLyLoTXDz4kpkmyyeibR587InqEjcRWicFz0N1hgwFCqlXsDITeLpeVDxxYVMRELVZZ47EY1iapA/640?wxtype=jpeg&amp;wxfrom=0"/><p>n8n工作流自动化平台近日披露一个高危安全漏洞，在特定条件下成功利用该漏洞可能导致任意代码执行。该漏洞被追踪为CVE-2025-68613，CVSS评分为9.9分（满分10分）。根据npm统计数据显示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332801&amp;idx=1&amp;sn=52c4694e9c82cdb974cbffac68b785d8&amp;chksm=bc53a8a9a3f44803090e818abebc80c51156a79891bd9115c3d80266582285d2c970bd69eeb7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告 | 攻防演练季应急自救指南——0Day/NDay来袭，传统防护失效下该如何破局？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icMITyWjqYfcibrfQARkc38Oh0Ac4IduPSh7sRmd5gZejic3C95UicIoN3qqibTia8cCYEhxwJjz3RGDRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻防演练季已至，您的系统是否做好了准备？随着0Day/NDay漏洞频繁爆发，传统安全防护手段面临严峻挑战：漏洞修复往往伴随业务中断，新型攻击特征提取滞后，而传统RASP方案又常因资源占用过高、影响业务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332801&amp;idx=2&amp;sn=9a484088ff7905a2af2237137a37dc2d&amp;chksm=bcc49df72be4dbb97035cfbe451ecca145aa062677c9a61a22f1a54f680b65faa2f09f4345ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型"谎言循环"攻击利用AI安全对话框实现远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib6OFLyLoTXDz4kpkmyyeibRvbtfj3hLYK1UwVlFAuZ9Qe5Hjbxl7gHOJHMNWvhV5lx0kAn9icspacw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项新发现的攻击技术通过武器化人工智能代码助手的固有安全特性，暴露了其关键弱点。这种被称为"谎言循环"（Lies-in-the-Loop）的攻击手段，利用了用户对审批对话框的信任——这些对话框本应防止</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332801&amp;idx=3&amp;sn=3f779be5eb65d839aee6cc0ffa28d3d4&amp;chksm=bcd7fd8cf659316a1738291ccb87b56cc00ded693cea9d27601f6218d4edfc826c5ba575149e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核POSIX CPU计时器实现中的释放后使用漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ib6OFLyLoTXDz4kpkmyyeibRC2GJE4z0L4gZ00RTkUxgXPIoCMINfGjicUfKicjeTiaRSHeibVZL3Hc8TQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况安全研究人员已公开针对（CVE-2025-38352）的概念验证（PoC）利用代码，该漏洞是Linux内核POSIX CPU计时器实现中存在的一个竞态条件问题。攻击者可利用此漏洞触</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332801&amp;idx=4&amp;sn=dad05b5eff88693c8f49aa18c5ae1b1e&amp;chksm=bcf426ed64bed4a763aa5e99cff7f58c1cf30321bf47cd0ae87409d5feb4b474e31ba6236968&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[军用级ValleyRAT失控：内核Rootkit构建工具泄露引发全球攻击激增]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38rS50lQ90tJqqsorMaRmAfkXyVRGib6pGZFbTtZXveCWYyDnLIPyRad2aOyBBwWDMzwleysknCTNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款曾用于定向间谍活动的高级网络武器现已失控——其构建工具公开泄露后，该恶意软件正在全球威胁环境中迅速扩散。Check Point Research（CPR）最新报告显示，被称为Winos的模块化后门</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332187&amp;idx=1&amp;sn=a9203f5e855bb4266548a63ceb98af8a&amp;chksm=bc4e2080d5e7327592e329b40e58a7012046824094dd2bf601ec7b4700ccb976b2dfcfc1a50b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbZricYbSosLaT1NW5UibAMQVM2Ivx47ibS2M3uIx5OC6ytwM90v6KZUcwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月29日，Apache软件基金会针对兼容Redis协议的分布式键值NoSQL数据库Apache Kvrocks发布重要安全公告。该产品作为存储海量数据的高性能磁盘型Redis替代方案，其</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=3&amp;sn=3807ed7fea9c7d971087d7c78e994052&amp;chksm=bcae3c9274da1b399cd50bdff55763d1951585a57b5fe7811a926a56f8042871fefa292f147a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Outlook高危零点击远程代码执行漏洞PoC利用代码公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR380Zjeuuv1ozMpOp1B7ElSbom6DciaVW9oHdazrnfSFHmwG0DK4lmWyWM0qDbRx1fPMbQ6XmhWJQyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对微软Outlook高危远程代码执行（RCE）漏洞（CVE-2024-21413）的概念验证（PoC）利用代码已被公开。该漏洞被命名为"MonikerLink"，攻击者可借此绕过Outlook的安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331416&amp;idx=4&amp;sn=45963fe6ed4783c7c948db01a3c463de&amp;chksm=bc6fcae1348cf09d79698f57a5c3feec43a684c1b6c9669d068ae5d80503d861a8b6a3ac4885&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[漏洞盒子十年：在线安全服务平台的演进与未来范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6gbX9atzJMFQbVIwuZ2AgBMcibPZIiabo5zk9psiaUdwy5J8UIDXbeNE3A/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331395&amp;idx=1&amp;sn=5e54694c391552eb1aa4ca8929da49cc&amp;chksm=bcbe823f6f8ba079a90563d8031199502946170c31b6cb63fa99e6c2e8e5da91c2ab0bd9876f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 30 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[20年老协议仍威胁全球网络安全：黑客利用NTLM认证漏洞攻击Windows系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icicrStIowicRAy2ZVDIutUt0blOAPlzh0DFgEsqA3qdPnhOibZXd9bGo1miaNdZb124bhKYkicorria0Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>自首次发现二十多年后，NTLM（新技术局域网管理器）认证协议仍在全球范围内威胁着Windows系统的安全。2001年还只是理论上的漏洞，如今已演变成广泛的安全危机，攻击者正积极利用多个NTLM漏洞危害</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331395&amp;idx=2&amp;sn=ead8ab383d82ca76a2c85068d3300b13&amp;chksm=bcb61aef68f9ee94e56f6d50cc9372d86afe61b0106ec71c5e0ea76748711d051d01b02faf53&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 30 Nov 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AMSI·一键续命；金融大模型应用安全研究报告；Windows内核的安全防护；应急响应实战笔记；网络安全基础知识]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6XkZuwrWvw1VLTe36Boib4ybcmicPxkfYSGZEUGiaZ7iaWqKsJAC2pMYbOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AMSI·一键续命；金融大模型应用安全研究报告</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331395&amp;idx=3&amp;sn=2feb11cfebff18297b97f97ba7cf8b1b&amp;chksm=bca9859fcad84f4a3ae695daabdff1dc1a026273bed6f64117545abceab0b23be513aa854268&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 30 Nov 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
