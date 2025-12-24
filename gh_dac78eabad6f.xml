@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯技术面：聊聊MySQL五大核心模块]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97WpIoUY1gbFmF1UjKA1wBkUUuYMLcvaUOpWukdaHF1FPZ70oFkGIEsJ1PBtib2p6iaLHx75FwCH9vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 前言2 分层逻辑架构3 InnoDB存储引擎4 事务机制与并发控制5 主从复制原理6 分区策略与应用场景7 鱼骨图本文系统剖析了MySQL的核心技术架构，重点聚焦于分层逻辑结构、InnoDB</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693748&amp;idx=1&amp;sn=8d5d030cce11e371f80bc3492cfc7079&amp;chksm=eb5a2bcaaf3ccf0ddb0bcf8dcc6a194b6bb8f2dc78d91eea012c99967dae9073468a123f44ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[IMA知识库：从0到1的架构设计与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe964OWuyf3G2qRNUePu3hew2ibt3qetvbVpyBXcOck22yUD1WE7fdZg1Insd9bDnObIVl9Ck6U0icT4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 写在前面1 知识库是什么2 知识库核心业务流程3 知识库架构设计4 成果与业务价值5 总结6 体验ima，感受AI驱动的知识管理知识库作为IMA的核心功能，合理的架构设计是业务发展的重中之重</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693717&amp;idx=1&amp;sn=487033b658ab0d4bd077f36122cf056b&amp;chksm=ebf9c1d41955b7288c8c13789d26e7078d9ea47c4acc8e52460d55d13e17bf1d5006dfb81339&amp;scene=0&amp;xtrack=1#rd</link>

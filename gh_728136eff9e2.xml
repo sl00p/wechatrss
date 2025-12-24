@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[flea-cache使用之Redis哨兵模式接入]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuAOpPyRmlcbStA5W76cgj80MqfNwpibEnvJaibnG5yUt9f0pECvzvWX81dHicsicVb4Licat5dM57F0GQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 参考flea-cache使用之Redis哨兵模式接入源代码:https://github.com/Huazie/flea-framework/tree/dev/flea-cache2. 依赖je</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547599&amp;idx=1&amp;sn=378375f431307238ce2f60428b0d808b&amp;chksm=fd4d929430310b5443f1b429ba1b97900ceed1d3cd0337208e8b05e188ebebc9ea9e3a491571&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不仅免费，还开源？这个 AI Mock 神器我必须曝光它]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvKPYoRAuFHeiboYCkfIhhImKm4NdecyEE5ib2HKWZw3tO2E2Sk85ShHibwAX5dYlB1zEJsxlGDGPVqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>此前用 Popup 弹窗做联调，窗小、易误关、操作繁琐；于是我重构为 Sidebar 常驻侧栏：规则随时可见，刷新也不丢。「换成 Sidebar 侧边栏」：钉在页面右边，想开就开，数据都存着，再也不怕</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547598&amp;idx=1&amp;sn=c54e9131fe49fae7627f8fc02c7ed4ac&amp;chksm=fd51b4b0ff48820d11964a438d279b6dc7601ab1c1d138be0dacc51bab2a78c969caa09ab576&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuiawYV2lAKZGJd6FT3EiaYSZfDBbia7b5f2iaVVfDcgLwQNicaoI0ylXaxRickD2LJMW7LHbZvGjK9woaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述在开发中，我们常遇到这种布局：A、B、C 三段文本长度不固定，其中 A、C 占用空间较少，需要完整显示，B 是自适应区域，超出部分需省略显示。A 与 B 属同一容器，该容器与 C 同级，容器应占据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546462&amp;idx=1&amp;sn=6776e47bf79fc181833834d46de67736&amp;chksm=fd8bb4eb1068845fe0fd2fe035c4f4d24ea894fc8c8204d1b2cfadea938a384992548c977999&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[React 状态库：Zustand 和 Jotai 怎么选？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsaicfy3B1pBQxh3h85nE7mZ8Yp4BDMCyOKwU7AZPF1T58yowYBYOL61XqhaHwbOsuPwyeLia8nEfHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>React 技术栈发展到现在，已经出现了非常多且优秀的状态库，比如从早期的 Redux 和 Mobx，到现在拥抱 Hooks 版本的 Zustand 和 Jotai。在当前 React 18、19 的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546453&amp;idx=1&amp;sn=fc1c711ff47a50bad6e5eec742c8eaba&amp;chksm=fd39ce946bcde0982b4c3478f57d6f6c7049d737651b3f54b7bb166dade640ca25e15ec0427d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

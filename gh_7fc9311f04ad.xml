@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从一条慢SQL说起：交易订单表如何做索引优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVVIfApIhyPYCeSeIcHKick0GGiaenFy7oDvJkfj1Shw7tI1U8QViau1kog/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文首先以淘天电商交易订单表线上一条非典型慢 SQL 的深入剖析为切入点，示范如何系统地分析与排查慢 SQL；接着详尽归纳了索引分类、B+Tree 与 B‑Tree 的结构差异、B+Tree</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556693&amp;idx=1&amp;sn=b33166f9642e7a868ba5062ccfbd9d8a&amp;chksm=e862913941e9faf58f499925163a3ac331694dc88bb68f82ae5ae9575caabd5ac98d0621012b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从CLI原理出发，如何做好AI Coding]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKko5ANyVGoIKEvicyibqnafltXq0aoMKxt22LEj5DpILDInFPneAA7dClSmHSMSY9X4pQYDBjuf0UA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文整理自[AIGO小酒馆]分享内容话题内容：CLI的产品美学： 时代在倒退么？CLI的技术原理：Single Agent vs Multi AgentCLI的使用场景：如何用好CLI写代码？话题背景</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556673&amp;idx=1&amp;sn=37cef41b77e152f9ee76cfdf32343cc3&amp;chksm=e8207242459bdff2b8e2d70a157d85661dd0ae80d8eaff0d9d88ec286bf327cf1aa856b0bda2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVU2Cd8r2WXrUSLzuZz7LfuU24ImJiaK2JskBJgsX6UY8SGUejYl3KDZGaEjXCQCzfVpRU81S4NZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与挑战1.1. 问题陈述在跨境支付场景中，收银台需要持续接入新的支付渠道和支付方式以满足全球买家的多样化支付需求。然而，当前接入流程存在以下痛点：虽然代码结构已高度模板化，但研发效率仍受限于“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553555&amp;idx=1&amp;sn=710a6d6c32e8a8ea8c802f6dd94b6f5a&amp;chksm=e88b4ec130a6d98ae8b531dc734110097d3177d62555c2824bc1e99576dc580cbb1f3376ea60&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别让故障复盘流于形式：用AI挖掘每一次“跌倒”的价值]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJXfnT1osPI0Udr0lMvYU0biagBrQVBlWpd11aagxTozM73zf9SXJs7ibhUB3nOIQoUibp1HnGdxcuAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、故障复盘的业务思考技术支持工作的本质目标是帮助业务方做好稳定性，提升C端用户体验，主张blameless的复盘文化，复盘人心里坚守You can’t "fix" people, but you c</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553554&amp;idx=1&amp;sn=83e85ef49ff2879523ece47e020b8b24&amp;chksm=e8e7414837232aea7a265cb67ea701596798ae8453203e16ca61c4318b78abb162cd7655303a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

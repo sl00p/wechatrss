@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[程序员之神Fabrice Bellard最新开源项目MicroQuickJS：面向嵌入式系统的JavaScript引擎]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicXFrFC3AwILybkU0d7iamSGXurEM7LDFqVAfV0z3oXrQsP5ulsEG4I6x7cNgAZfvr2yCcrsTGKic3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>著名开源开发者 Fabrice Bellard（因 QEMU、TinyCC、FFmpeg 和 QuickJS 等项目而知名）开源了一个全新 JavaScript 引擎：MicroQuickJS，特点是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236371&amp;idx=1&amp;sn=c8ae58295ec4521e7aa4eea9d96c6997&amp;chksm=bf5a40f38ab9bd2235422e70773ac057c00ae440bbb6d22aacab067da0ad6ff79c5b3f35afaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 16:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[软件工厂之可信依赖库，守护软件供应链安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG7yCZ3x81zibVkOkPlAccaRLqAiagvMkYJ6MQGspdmyNJvn2TyhiaXfVMhYbk8I29DU0aSlgDLib5ek5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：软件供应链安全的战略意义与治理目标软件工厂软件供应链安全是科技工业高质量发展的核心保障，其战略必要性根植于第三方组件安全风险的普遍性与软件工厂场景特殊性的叠加效应。根据相关报告显示，75%的企业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236371&amp;idx=2&amp;sn=c351fe87f9706184a92655924ed136d0&amp;chksm=bf64705a930823abe11b721ad9aa7d53d5f4e4ac6b1f6920f63b53279c0c22ef7330e94fb944&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 16:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软组建团队清理“屎山代码”：利用AI将C/C++转换为Rust]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8hOKjFN2fSI9MMibKHEVR5Oy21fsMC3Kdnd0M23TlJKMJUO1O65NPeSLqvKd3dJA6kTelZLECJiaxQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软正推进一项长期工程：计划在 2030 年前，将公司内部现存的 C 和 C++ 代码逐步迁移至 Rust。该消息源于微软内部工程负责人在公开平台的披露，随后引发开发者社区广泛讨论。https://w</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236315&amp;idx=1&amp;sn=d9d85c2201aa2e6ebcfc2d51dd8d12f3&amp;chksm=bf96413f20a3cad867331acb4bb703710b1a004efce5cfad2743f575ba103e1035f8f885a8e8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8yDw7mwtibkNTH948q4efsxXxQzzicc5Lco0cZ1GvlBzIp3gj19QE5TDHTDeWRzEr6lsZwcGvdefGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，在数据库的世界里，性能、稳定性与成本的平衡始终是开发者和企业运维的核心命题。随着业务规模扩张与数据量激增，一些数据库在高并发场景下的性能瓶颈、复杂运维带来的效率损耗，以及兼容性不足引发的迁移</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234018&amp;idx=2&amp;sn=7da640257a0a122430ad14960e3ab80c&amp;chksm=bfbed6ecc4815f0d70d629828d7a6b8ed019684b9705b5767d9089dcabb1981f033a46f6d2b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软发布“全球首款智能IDE”：Visual Studio 2026正式GA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8yDw7mwtibkNTH948q4efsxTB669UyZE6pictM14DbHZYede3HsiajMDH70fYn8qpO1aTpbee2BHlpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已正式发布 Visual Studio 2026，此版本带来显著性能提升和 AI 集成体验。新版本针对开发者反馈修复了 5000+ 个 bug，实现了 300 多条功能请求，在大型解决方案中的启动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233996&amp;idx=1&amp;sn=fd62a97c5fa84648c985b24d97314c3e&amp;chksm=bfd6212d5c03f8ec6389e9338bb04c8d5e12500fea4faf6c2d515ae9f7663c912e3e55691465&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[众智汇聚！COSCon 第十届中国开源年会主论坛嘉宾阵容重磅官宣]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8yDw7mwtibkNTH948q4efsxrng4yL6jN6rbgxkE8JBnk727nBjgUthfJQc5rgv61qYXnsoVfYvvsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>中国开源年会 COSCon 是业界最具影响力的开源盛会之一，由开源社在 2015 年首次发起，2016 年正式得以命名。九年来，中国开源年会以其独特的中立社区定位及日益增加的影响力，吸引了越来越多国内</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650233996&amp;idx=2&amp;sn=6145eea671e395851d5c4f5640ba6f34&amp;chksm=bfde84e7ae033ffd9033f610696e242281b0ed6101f32de7852a1fb31681d26de4b09bd0dcd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 16:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

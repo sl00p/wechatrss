@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[RC4算法逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HOQibVPXeMokBtm4XAmJnibfRsM8BCSaxrXE3PaXABDoic2cv9dMSnGDUVn7ZcZdvFIuFQSOqh9AO4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>在密码学中，RC4 是一种流加密算法，密钥长度可变。它加解密使用相同的密钥，因此也属于对称加密算法。RC4 是有线等效加密（WEP）中采用的加密算法，也曾经是 TLS 可采用的算法之一。流密码也属于对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606104&amp;idx=1&amp;sn=c3bff3eb2cca350c6280a19b2ba0de86&amp;chksm=b0754b3a3164ca9f0d35d53043ebf77b28e4ee5446d8eb66d6c4ab01625a1243377ff392af4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[n8n自动化平台现致命漏洞，可远程执行任意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HOQibVPXeMokBtm4XAmJnibfHfbOrzYTibjZWqb7rQWZ6YW9SKh3Qjcc0aSNhOhHq8jjeLZQHwKNehg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现自动化平台n8n存在一处致命安全漏洞，攻击者在特定条件下可利用该漏洞执行任意代码，潜在影响超10万实例。该漏洞编号为CVE-2025-68613，CVSS评分高达9.9分，属于最高危级</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606104&amp;idx=2&amp;sn=397f7d463ab27cf4f87c397937f2d6e6&amp;chksm=b09c51e3e9340e227d50e09064b7f355f7cd45dc65bf8fef92528d6d28cd38c70c94428f98f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深耕Windows攻防10年！实战派大佬亲授：内核Hook与Rootkit开发全攻略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606104&amp;idx=3&amp;sn=cec26bdb27513d5cd47bbc1031c2e38b&amp;chksm=b0c167dc85a7643f330c8ce87c7ab00c0d1bb826d6afdb66adca48784e65c77489b2673d13b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对某漫画的算法还原测试]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eeck0yTCvzKjDp4q0E3UcwDey29nFyYhJfBW0vicCtRoZHrtuRX1xutfkNYx8kicwXVpgBouI3gctQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>查壳修复MT查壳可以看到是360加固，直接使用在线网站可以进行脱壳，也可以找到360加固的脱壳点进行手动dump，都可以，只是这篇文章更偏向于算法还原，所以直接使用在线网站进行脱壳了。https://</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=1&amp;sn=f88682b9245347f4253a020cabf8b456&amp;chksm=b06a9ae8162aaa6deebfc7effedc3ac0d058455cd5395d83611b0f79e6fb0bacc3ced1da4920&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPqKwicL3MNpI9oGMxfvalNsibVcE18iacPmRn7BCvIsLN73SMoicIz0SuDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能安全公司AISLE披露了Firefox浏览器中的一个高危漏洞（CVE-2025-13016），该漏洞潜伏长达六个月，可能导致攻击者在用户计算机上执行任意代码，影响约1.8亿用户。漏洞源于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=2&amp;sn=b39d4c8f84761e16602c7fb06ab27eed&amp;chksm=b00e02c6e19a76bdd86a0c5a7b23f2a9c861d0420121c00b99f21335260fc223a2e3ca7e4723&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[24节直播每周教学！Windows 内核与高级调试]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=3&amp;sn=104db8d234bb5e96f722e4d4218af904&amp;chksm=b0d76bb3fd32162f54ce1da2afe0d5681b72fd2cbbaca4a9c6f6aab9254f5e5d2b76b340be76&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VmProtect.3.9.4分析之虚拟机流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RLeuAeOR6SrZdTcCVHOCDRj6KZwWBsuEKmwbEibiarbZfnImQ8kqf4JZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于到了可以开始分析VmProtect.3.9.4了，像极了玩游戏来到了最终boss环节，我们玩过游戏的都知道，打boss是一件不容易的是请，因为作为整个游戏里最强大的生物，他的血量防御极其高，但是打</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=1&amp;sn=5a27c839e4afd1061ad21a51e96a3a09&amp;chksm=b0a623bc38b41ca2e2abbe08a18e05aaf08b8bbb12e2a38568bdbcf9ed6db583f2f61f46947f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[抗量子NGPKI核心技术解密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMn4Ry1TYqMX7Z3EnBL4MgQEniaSj6b1KbhfYbKg5Zo0oro0vR5b116GibZrH6XcPBJiaDufNvW5UUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以Shor算法为代表的量子攻击模型已对RSA、ECC及国密SM2等经典公钥密码构成理论威胁。在此背景下，如何在保障现有系统连续性的前提下，构建可抵御未来量子攻击的数字信任基础设施，成为PKI演进</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604498&amp;idx=2&amp;sn=37d141a63a0813c4ac467878cdec1bd0&amp;chksm=b03e67eae8fda9d898b2359d51f42e8741ef855f1be2324a3ba41b90a813913e71fd6d272655&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

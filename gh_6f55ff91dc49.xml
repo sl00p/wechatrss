@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[使用最新 MiniMax 2.1 复刻爆火人生 K 线图，真的给劲儿。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz43ibGS2gecjK920TACYIamUX4l5lmPMGfTQeN0OY6KAvu4USZzq9rWibctticcUYObVfGiagRFo3CLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>国产 AI 大模型 Minimax M2.1 发布了。这次更新在 Multi-SWE 领域强势升级，它不仅让 Web 开发、App 开发以及 Rust、Go、Java 等核心技术栈的开发体验丝般顺滑，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529923&amp;idx=1&amp;sn=e433341275c3b64b9f8b681d83cc2ee7&amp;chksm=f8493dfeb5a0459f33cee28434591a2b9a583adb01d8d0172bbed4980faae515154f796c54e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Dec 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 5 个 yyds 的 AI 开源项目，给劲儿啊。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyo2jcJxRbK1RrVXnwG0LZnrH4HbcQfh0buF8cYK9ic7LnrB6R36XYLl5KkOEufxaiaJ0pIAy1csq5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智谱开源 GLM-4.7智谱 GLM-4.7 正式发布并官宣即将开源。LiveCodeBench 和 Code Arena 等多个权威榜单中，它直接拿下了国产第一、开源第一。综合 Coding 能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529912&amp;idx=1&amp;sn=d766f5c6e6d842bc6bfc13874a73efe5&amp;chksm=f82025e420ca73f85458c62f357a10d8e94b0db2c798c42f5cc5e74b3ccb307c4b6920633237&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTtDALzWJJia2sRSg1BNiaTFVleUfOCMmRZ1mVoCy3gbWlI6xmdr02FpHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给图片设置看不见的水印传统的水印，比如在图片角落加上 Logo，虽然直观但一裁剪或涂抹就木得了。这个名为 blind_watermark 的开源项目，能给图片添加一种特殊的盲水印。这种水印的特殊之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528121&amp;idx=1&amp;sn=c339ceff3c37704aab97c534a3427fcd&amp;chksm=f83b7aa10e5b148869c592b1e002a4a7da0f3ab19de455d978685d40eeced1dc28a2307154d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 26 Oct 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上刚开源的 AI 炒股平台，支持大 A、美股。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dThpWb3SicmmaPIwHysgV4JTV95J2gU2k5bKHzWSOAatxX5uoRUrMWH1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 GitHub 上闲逛的时候，发现一个刚开源木多长时间的金融 AI 项目：ValueCell。这是一个多 Agent 平台，专为金融投资设计的。对 AI 和金融都感兴趣的读者，肯定对它的理念很感兴趣</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528103&amp;idx=1&amp;sn=107e2e0f5d192e86e2caa2b40fb73e1c&amp;chksm=f836b5a0730a1af7c191ce897e5735abd181eeb678c69bdc884217dee3d60d6c8a85965b1af7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
