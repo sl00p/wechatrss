@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从工单、文档到结构化知识库：一套可复用的 Agent 知识采集方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKlP2N1FlJ4nBic1tKfcDuwjbqhhVAW4ySHSYjDzxCAEljySJpTsxhicYJ3GbmDhUPFGBUHdDqV8cng/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读我们构建了一套“自动提取 → 智能泛化 → 增量更新 → 向量化同步”的全链路自动化 pipeline，将 Agent 知识库建设中的收集、提质与维护难题转化为简单易用的 Python 工具</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556720&amp;idx=1&amp;sn=e4883e7cd8c0239e233a8ff1a015ab88&amp;chksm=e8820c9321f24c7fd702a9f802e65e7f4a750a09fb26d1cea4aa2267c9315c4eb4bc1d5f4b28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从一条慢SQL说起：交易订单表如何做索引优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVVIfApIhyPYCeSeIcHKick0GGiaenFy7oDvJkfj1Shw7tI1U8QViau1kog/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文首先以淘天电商交易订单表线上一条非典型慢 SQL 的深入剖析为切入点，示范如何系统地分析与排查慢 SQL；接着详尽归纳了索引分类、B+Tree 与 B‑Tree 的结构差异、B+Tree</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556693&amp;idx=1&amp;sn=b33166f9642e7a868ba5062ccfbd9d8a&amp;chksm=e862913941e9faf58f499925163a3ac331694dc88bb68f82ae5ae9575caabd5ac98d0621012b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKLE4Nh7Wx8TDMMfgocnFW4moKVWAwxjyHhydheicz0JQ2cL4kJSH0bIiaBIeeNGoXqV5rWrQgJaLNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读揭示了AI Coding在复杂客户端研发中落地的核心方法论。引言随着AI 能力的逐步强大，由 AI 来完成部分需求的 Coding 工作，已成为一种必然技术趋势（微软很早就号称 30% 代码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553580&amp;idx=1&amp;sn=53b88213c541684ec16eee965024d952&amp;chksm=e8abfbe9da4d45b683054552edcc1db8fe951da9aae95fcd8ab9da2f2ff8c4df2b08f652f800&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[提效40%？揭秘AI驱动的支付方式“一键接入”系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVU2Cd8r2WXrUSLzuZz7LfuU24ImJiaK2JskBJgsX6UY8SGUejYl3KDZGaEjXCQCzfVpRU81S4NZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与挑战1.1. 问题陈述在跨境支付场景中，收银台需要持续接入新的支付渠道和支付方式以满足全球买家的多样化支付需求。然而，当前接入流程存在以下痛点：虽然代码结构已高度模板化，但研发效率仍受限于“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553555&amp;idx=1&amp;sn=710a6d6c32e8a8ea8c802f6dd94b6f5a&amp;chksm=e88b4ec130a6d98ae8b531dc734110097d3177d62555c2824bc1e99576dc580cbb1f3376ea60&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

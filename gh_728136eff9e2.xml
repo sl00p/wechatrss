@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【用户行为监控】别只做工具人了！手把手带你写一个前端埋点统计 SDK]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtgNoYAAaGZd3gsMt9ic7RABU6ohX7hZKnJbDQro2SecYIfIZIesT8JAK3fUXTW217XQ5jAJiajjvaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝你是否一直对前端「用户行为监控」系统的底层原理充满好奇？想知道那些“黑科技”是如何「拦截点击」、统计 「PV」（页面浏览量）与 「UV」（独立访客数）、精确计算「页面停留时长」的吗？与其只做工具的使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547606&amp;idx=1&amp;sn=deb18b1aac98abfdb37b6b1a3f401cdf&amp;chksm=fdc1793012c00401f06327a41630871f466f24777ce6451c998521594c20f61c53e0352e42ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[flea-cache使用之Redis哨兵模式接入]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuAOpPyRmlcbStA5W76cgj80MqfNwpibEnvJaibnG5yUt9f0pECvzvWX81dHicsicVb4Licat5dM57F0GQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 参考flea-cache使用之Redis哨兵模式接入源代码:https://github.com/Huazie/flea-framework/tree/dev/flea-cache2. 依赖je</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547599&amp;idx=1&amp;sn=378375f431307238ce2f60428b0d808b&amp;chksm=fd4d929430310b5443f1b429ba1b97900ceed1d3cd0337208e8b05e188ebebc9ea9e3a491571&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuzzwx1Nhwbva8peLSK8Fog49759wbVCYibXdebPMO0mPzRXFL1neDXmxgj8h8tnVQOO00vM1uiaRCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝代码一敲，游戏烦恼全消！你家是否也有个沉迷小游戏的“神兽”？上周六，我正在家快乐刷剧，突然接到亲戚电话：“救命啊！我家那小崽子天天抱着电脑玩小游戏，作业不写，饭都不吃，跟入了魔似的！”我一听，这不就</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546511&amp;idx=1&amp;sn=78efd90cda8ef9bdd791cce502528b78&amp;chksm=fdbbb52af4fce51288424962bc5f22cb062307b3c177c3c02b8f79ff81462b3c1f918c314a27&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 25 Oct 2025 08:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Flex 布局下文字省略不生效？原因其实很简单]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuiawYV2lAKZGJd6FT3EiaYSZfDBbia7b5f2iaVVfDcgLwQNicaoI0ylXaxRickD2LJMW7LHbZvGjK9woaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述在开发中，我们常遇到这种布局：A、B、C 三段文本长度不固定，其中 A、C 占用空间较少，需要完整显示，B 是自适应区域，超出部分需省略显示。A 与 B 属同一容器，该容器与 C 同级，容器应占据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546462&amp;idx=1&amp;sn=6776e47bf79fc181833834d46de67736&amp;chksm=fd8bb4eb1068845fe0fd2fe035c4f4d24ea894fc8c8204d1b2cfadea938a384992548c977999&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

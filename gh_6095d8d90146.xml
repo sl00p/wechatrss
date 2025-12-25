@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(25/12/26)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用 CVE-2025-38352：在不使用内核补丁的情况下扩展竞争窗口https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960337&amp;idx=1&amp;sn=dee2e90c15423538229e230382e958b6&amp;chksm=8a45839377ce76bcb6db2b5b24fd99ab98359b20a43ab9955c6a2b8dfecd81fe82cc060899cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 18:23:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(25/12/12)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 基于SVG的新点击劫持技术通过CSS滤镜暴露跨域数据https://www.cysecurity.news/2025/12/new-svg-based-clickjacking-techniqu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960325&amp;idx=1&amp;sn=e66cf84ea710bc01f76f9bee8383d8cd&amp;chksm=8a425883a97ab9f7daa5a922059968a55a1cdd7906311e69ed27334bbe11923e6d961a4a2805&amp;scene=0&amp;xtrack=1#rd</link>

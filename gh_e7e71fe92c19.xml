@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux启动流程初探(V:6.12.32)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HOQibVPXeMokBtm4XAmJnibf0CTTpTibF7oCyAGKtpaOotXY6H2lGic5dksFamFh1YSic1xezvRibkHumw/640?wxtype=jpeg&amp;wxfrom=0"/><p>版本说明: Linux 6.12.32架构说明: x86_64这个文章其实是因为看 arttnba3 大佬的文章的时候看见了一个泄漏地址小trick也就是 physmem_base + 0x9d000</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606180&amp;idx=1&amp;sn=9f85eb602d58cc32deb6d1c646c6eebb&amp;chksm=b01fa577c2f2dfdb964f477e745f9dc441dff509c9fde184296ac900a6ae2db2fba7bdaba4dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[格尔软件参编金融业抗量子密码报告，以实战经验护航行业量子安全迁移]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FOwWf0VFibBZVeDCDEe0mUBc1I1SyZ8nbIAltbuZ9rziaB67drc9FhP8dUgyGfLGFAnucc8R9SDVNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，在第八届金融科技产业大会上，中国信通院联合工商银行、华夏银行、银河证券、国泰君安证券及格尔软件等多家机构，正式启动《金融业前沿技术应用研究报告—抗量子密码》编制工作。随着量子计算技术的快速发展，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606180&amp;idx=2&amp;sn=295c535675a898f44f2ae94fd1d15614&amp;chksm=b0f7e47f68a05ceb63719e6b4ce7856ce328499057d1f2a6adc8282dd4326c5240af8646c020&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[暗网兜售NtKiller工具，宣称可绕过主流杀毒及EDR防护]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FOwWf0VFibBZVeDCDEe0mUBVfqwiaibMOxIW7Be0Hp4okpVMLnlc9CjE56EBl9aglafjW65evIjP0Sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一个化名为“AlphaGhoul”的恶意攻击者开始在暗网地下论坛中公开推广并销售一款名为“NtKiller”的恶意工具。据其宣传，该工具专门设计用于在受感染计算机上静默关闭（终止）防病毒软件和各</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606180&amp;idx=3&amp;sn=021c11ea31bf08147cf59690eb754685&amp;chksm=b0044847827f9f79c8327b636ff78fc6ae7df9ac1d60f2514996f8b3ce2c725d058e030f118c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RC4算法逆向分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HOQibVPXeMokBtm4XAmJnibfRsM8BCSaxrXE3PaXABDoic2cv9dMSnGDUVn7ZcZdvFIuFQSOqh9AO4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>在密码学中，RC4 是一种流加密算法，密钥长度可变。它加解密使用相同的密钥，因此也属于对称加密算法。RC4 是有线等效加密（WEP）中采用的加密算法，也曾经是 TLS 可采用的算法之一。流密码也属于对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606104&amp;idx=1&amp;sn=c3bff3eb2cca350c6280a19b2ba0de86&amp;chksm=b0754b3a3164ca9f0d35d53043ebf77b28e4ee5446d8eb66d6c4ab01625a1243377ff392af4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FI9zyA5BzTicJTkZPRefyqLaVliaoV9iaPVmHPoTellRJIl8GvTGyMbNWZ2wiaLlKb15zE1gm4PMt6gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Bitdefender Labs发布报告揭露，网络犯罪分子正利用热门游戏《战地6》进行恶意攻击。他们通过散假冒的盗版游戏、安装程序及所谓的“游戏作弊工具”，诱骗玩家下载恶意软件，导致个人信息泄露</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=2&amp;sn=b711dbe441b7e714076fbdf3486cf33c&amp;chksm=b081c30bc8d3bd480cd8e461c195231464ae05bf6d16c2c330b7a4d87f288f186c5d7119d68a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第二阶段目录更新！从底层开发到逆向攻防：《安卓软件开发与逆向分析》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FI9zyA5BzTicJTkZPRefyqLl54V91ZmpYUlmRAfrGXQ5yfIick2ywXpaPe3urEzdefuUZkar8ThXXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>做安卓开发的你，是不是总被 “灵魂拷问” 暴击：-想优化 app 性能，系统底层机制像黑箱，改代码如 “盲人摸象”，改了又改还是卡？-搞逆向分析，面对加密代码、复杂逻辑，像 “无头苍蝇”，Hook 能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=3&amp;sn=f65fc55b6a37850e59050d257d3b0e43&amp;chksm=b01290b498c3c667a6b2e9bdbedb8baac486b05aac69a4af3969e9b3e1efc609b6fc19bd6077&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第八届强网拟态防御国际精英挑战赛 - WIN！致敬mt 复现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ho6BRLSEquc2xXMGvnFBcsXREIoJ5DicDY9MLItU33nyLibkXdVLPRHKcpRicAWc4Z27atxLyJGzrrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>拟态比赛的时候时间过于匆忙，并没有很多时间看这道题目，因此赛后进行了复现，这一过程中十分感谢@zikh26师傅和神秘的@Nik Xe大哥给予的帮助。1漏洞分析基本信息：从启动脚本发现其实只开了一个80</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=1&amp;sn=52ae9835635172918961d471e1302f7a&amp;chksm=b08c3e8b372198293b51b36e0b56e389175972a76fd25ec9a46cf3c066c81b48a6cc05bbf8b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Firefox曝高危漏洞CVE-2025-13016，1.8亿用户面临代码执行风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPqKwicL3MNpI9oGMxfvalNsibVcE18iacPmRn7BCvIsLN73SMoicIz0SuDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能安全公司AISLE披露了Firefox浏览器中的一个高危漏洞（CVE-2025-13016），该漏洞潜伏长达六个月，可能导致攻击者在用户计算机上执行任意代码，影响约1.8亿用户。漏洞源于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604539&amp;idx=2&amp;sn=b39d4c8f84761e16602c7fb06ab27eed&amp;chksm=b00e02c6e19a76bdd86a0c5a7b23f2a9c861d0420121c00b99f21335260fc223a2e3ca7e4723&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:59:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

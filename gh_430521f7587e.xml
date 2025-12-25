@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linus看不惯GPLv2被滥用，罕见地在论坛发表长文进行声明]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8GaMe2D64fDsxvFVDkUGEgdnibZniahYYZXIcklYG7RVUSl2N2Ky3E5s6iamibS0jfbERm1zcvyO2AeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>省流总结：Vizio 与 SFC 的纠纷源于电视制造商 Vizio 没有遵守 GPLv2 ，未能向用户提供其智能电视中使用的开源软件（主要基于 Linux）的源代码和修改权，SFC 因此起诉。最近法院</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236427&amp;idx=1&amp;sn=b7711c196e707d5f4d9ec5be7a2716b7&amp;chksm=bf11294175a5fe38411105ba82d6b1b516737235509f75bb6bff8b689bd139dcde989ec90215&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 15:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[获奖作品公示 —— 造浪 2025 AI Agent 创新赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicXFrFC3AwILybkU0d7iamSGExgicNSXVb7RlepXGGicu3Nu3YnLvAI0qs4F4ibciajr6zVQtMsEMscmJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>造浪 2025 AI Agent 创新赛由开源中国携手独家冠名厂商-商汤大装置联合主办，聚焦智慧金融、教育科技、出海辅助、本地生活等重点行业领域，面向全国企业开发者、高校科研团队及个人创客征集具备商业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236427&amp;idx=2&amp;sn=ca9ef5a09177bcc449161d19a593656e&amp;chksm=bf1453244a280ae0e1120b4e06e3c6e7d7ce2fd002a8b015c72cc35465a94454bf7b55cff6df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Dec 2025 15:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[程序员之神Fabrice Bellard最新开源项目MicroQuickJS：面向嵌入式系统的JavaScript引擎]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicXFrFC3AwILybkU0d7iamSGXurEM7LDFqVAfV0z3oXrQsP5ulsEG4I6x7cNgAZfvr2yCcrsTGKic3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>著名开源开发者 Fabrice Bellard（因 QEMU、TinyCC、FFmpeg 和 QuickJS 等项目而知名）开源了一个全新 JavaScript 引擎：MicroQuickJS，特点是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236371&amp;idx=1&amp;sn=c8ae58295ec4521e7aa4eea9d96c6997&amp;chksm=bf5a40f38ab9bd2235422e70773ac057c00ae440bbb6d22aacab067da0ad6ff79c5b3f35afaf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibicg7el06fRUTPv7v6iaPp81lZ5CcFibxJXBoHYIPa1V3snJTPG56uCtvGpoTlAWBYbSHpNV2VBWBog/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月15日，openEuler Summit 2025在北京顺利召开。大会由开放原子开源欧拉（OpenAtom openEuler，简称“开源欧拉”或“openEuler”）社区，协同十家产业伙伴共</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234099&amp;idx=2&amp;sn=66905de0a398a7d1229ed4e43ad6f432&amp;chksm=bfde82daf351d16482d6e7556395319618f2ff4fc23d35403835224ccb615c2cb810f209c773&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 15 Nov 2025 23:04:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[太好了，是卡巴斯基，我们Linux有救了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK93n0PQNkoTKpBdDdZTDlqLLLFSbNRqoghTQXPrMDz3X1eeVt1B5Hk9fBKSOFAnY5Za8p52SOqkGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名安全软件厂商卡巴斯基宣布，其家用产品线新增支持 Linux 系统的版本 —— Kaspersky for Linux。该公司指出，过去五年内，针对 Linux 操作系统的恶意程序数量增长了约 20</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234018&amp;idx=1&amp;sn=39452e01d3e042a48f254c7a96873b53&amp;chksm=bf19fe9d97aabc84dc938dc557566418d0d826f657328d71c9bb41a9a0e779cf3e7265673739&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从初识到实战 | OpenTeleDB数据库线上征文活动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8yDw7mwtibkNTH948q4efsxXxQzzicc5Lco0cZ1GvlBzIp3gj19QE5TDHTDeWRzEr6lsZwcGvdefGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>众所周知，在数据库的世界里，性能、稳定性与成本的平衡始终是开发者和企业运维的核心命题。随着业务规模扩张与数据量激增，一些数据库在高并发场景下的性能瓶颈、复杂运维带来的效率损耗，以及兼容性不足引发的迁移</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234018&amp;idx=2&amp;sn=7da640257a0a122430ad14960e3ab80c&amp;chksm=bfbed6ecc4815f0d70d629828d7a6b8ed019684b9705b5767d9089dcabb1981f033a46f6d2b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 14:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
