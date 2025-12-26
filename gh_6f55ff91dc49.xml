@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上 5000 人收藏的 Vibe Coding 神级指南。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzib6uAZIwnice3OuOOI6Kb8X6dFlWpZWiaKic2p2Jk4d5GicMaRbaAqvDEpOIH818qqAYKicNEo5voykBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vibe Coding 说白了就是开发个应用不再像程序员一样，苦哈哈地写每一行代码，而是化身为导演。只需要保持一种感觉，这种感觉可能是对产品逻辑、用户流程、审美和交互的把握，剩下的体力活全交给 Cur</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529972&amp;idx=1&amp;sn=f5f2730e197afee0df4dbc951e3d0ce5&amp;chksm=f8854487c7228bbb79c17f5b80e046a44e8048663195bfa12960e896c44a51a02b7040826424&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Dec 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[国产 OCR 开源神器官网上线了，相当给力。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy2p23rQIEGcP9K6z9TNPCRjBgvCK2Lw665tPbGFAQVuvurJKrDaiasbGD2KrZjAicPSyehF2IysZvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型狂飙突进的今天，高质量、结构化的数据已成为决定 AI 能力的核心基建。而现实中，海量知识却沉睡在PDF、扫描件、报告等非结构化文档中。如何将这座富矿高效、精准地转化为大模型可理解、可训练的数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529971&amp;idx=1&amp;sn=213d22243a5502e25d2d8fd91ba48832&amp;chksm=f87529934bd614640d559f1d9968cf5fe10e75f7ca9b949c19daf3687c229ff938301ef49d93&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux3XDC2fkqX7pECvic0ZQcicl87w0ds04okCzQt0pkcYoQa6Rh93WC97yGIUp7df8YuWqQolQTo2FSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01宝藏开源下载工具平时下载文件、Torrent 种子，还有从视频平台扒音频/视频，总要用三四个工具来回切换，进度也不好统一管理。开源项目 Varia 居然能把这些需求打包搞定，用下来还特别轻量。这个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528204&amp;idx=1&amp;sn=c85a934074415e445515b8879e5417aa&amp;chksm=f81536ebd1f0435c2a05aaa747ade150d72d73985f91fe196e7a07d4a636601e3427a164551b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[发现了 2 个贼火开源 MCP， GitHub 上 1 万多 Star。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTlupgak77PYNHYTMa0JGyTPsqFCMktR9eIHw062U5Z1Hq9V854F4A0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01谷歌开源的 AI 控制 Chrome 神器谷歌官方开源了一个 Chrome 开发者工具 MCP：Chrome DevTools MCP，能让 AI 智能体能够调用 Chrome 浏览器。目前咋 G</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528203&amp;idx=1&amp;sn=c5d18d92bad262f7d27c6bff99866927&amp;chksm=f8dd6ae20cda109aa5484e30294bb123b4f2ff895cf7278cab688eae966bb01d8b59613199ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

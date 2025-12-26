@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[[强网杯S9]Qcalc赛题解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5otpyQ8tXZyB91llJh7mkUJicOjjNYTrUr2iaspRDuNg0eApQAltDhR1hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先是查看导出的Activity 只有MainActivity导出，但发现有导出的contentProvider看看是否存在路径穿越检测了私有目录，这个漏洞点可以直接放弃。审计MainAcitivy</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606343&amp;idx=1&amp;sn=b6f12c20b41641d9812e23be0fba1ff1&amp;chksm=b0e284f6fec0a03f1e612b853e9f830ae2e3d454cc5229c4773996c2fc67d212f2a987f068fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安全圈 “露脸” 机会！看雪兼职讲师团招新，技术分享=行业背书+精准圈粉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FOwWf0VFibBZVeDCDEe0mUBcMvglAicSicXzCUaMM9LSPNMoApI3EQIt73oEmf3plKLNV5p6nX4MhLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代下，网络攻击、数据泄露等安全威胁持续升级，网络安全已成为全球关注的核心议题，行业对优质安全人才的需求日益扩大。深耕网络安全领域20余年的看雪学苑，作为国内最早的安全工程师交流社区，始终以培养</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606343&amp;idx=2&amp;sn=d3f6c2a4f15cec321af5113c3e6c7178&amp;chksm=b0e4a1b6e782680fecae08e4ffd5c540df03d0ae952ee9cc1b2d8220c34b1e239c7ea8a5bcd4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux启动流程初探(V:6.12.32)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HOQibVPXeMokBtm4XAmJnibf0CTTpTibF7oCyAGKtpaOotXY6H2lGic5dksFamFh1YSic1xezvRibkHumw/640?wxtype=jpeg&amp;wxfrom=0"/><p>版本说明: Linux 6.12.32架构说明: x86_64这个文章其实是因为看 arttnba3 大佬的文章的时候看见了一个泄漏地址小trick也就是 physmem_base + 0x9d000</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606180&amp;idx=1&amp;sn=9f85eb602d58cc32deb6d1c646c6eebb&amp;chksm=b01fa577c2f2dfdb964f477e745f9dc441dff509c9fde184296ac900a6ae2db2fba7bdaba4dc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4fNia3icJFBuKMqJd9OiaHfKQXdvvTAvJ3YRctrK5cd2HR7RJICM5ngMyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Next.js框架曝出一项高危未授权拒绝服务（DoS）漏洞，攻击者仅需发送单个特制HTTP请求，即可导致自托管服务器内存耗尽并崩溃，且无需任何身份验证。该漏洞存在于`body-streams.t</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=3&amp;sn=35dd5bd4c71a05d1a770635c98edf0ec&amp;chksm=b074ce3cbb50136bf8930341b1495a90d1ab993a6df1cf597f87134b26e8d72a3446218460e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hyper-V平台IUM进程调试工具及通用TPM漏洞CVE-2025-2884分析与复现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdP8Z32bjJNrpE1duuN4QTRDnWTTGw5P6ecvYuX5wbnOTVepUn4EZtibNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章的目的是介绍Hyper-V平台TPM组件服务进程vmsp.exe相关的通用TPM漏洞CVE-2025-2884分析与复现。文章结合了笔者魔改的用户模式隔离进程调试工具和逆向代码及调试结果分析了</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=1&amp;sn=8375e00ae768fbb4d8b952b3fb61a204&amp;chksm=b05ef8e5582458591db6cc60237f95fe74f34699625ff15d46c3374e92613d0c790bf111d668&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当心！假冒《战地6》游戏暗藏恶意软件，玩家数据与加密货币钱包面临窃取风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FI9zyA5BzTicJTkZPRefyqLaVliaoV9iaPVmHPoTellRJIl8GvTGyMbNWZ2wiaLlKb15zE1gm4PMt6gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Bitdefender Labs发布报告揭露，网络犯罪分子正利用热门游戏《战地6》进行恶意攻击。他们通过散假冒的盗版游戏、安装程序及所谓的“游戏作弊工具”，诱骗玩家下载恶意软件，导致个人信息泄露</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604548&amp;idx=2&amp;sn=b711dbe441b7e714076fbdf3486cf33c&amp;chksm=b081c30bc8d3bd480cd8e461c195231464ae05bf6d16c2c330b7a4d87f288f186c5d7119d68a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
