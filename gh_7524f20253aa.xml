@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MongoDB高危漏洞允许未认证攻击者读取未初始化内存，PoC已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibpnB4gcOKgzv9VZ6Y0phEMwbI5wJylJ12UzHZBp5EBtH20OnMMldJPnLDOfnRzFu65MNrY3CcKSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日公开披露了一个影响MongoDB数据库的高危安全漏洞（CVE-2025-14847，CVSS 评分：8.7）。该漏洞可能允许未经身份验证的用户读取服务器未初始化的堆内存，导致敏感信</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=1&amp;sn=944d6c888e66700b84d4f2a45e62440f&amp;chksm=bca7bb1a85936f016480b4944e6f1ad5aeb925e7c985f50bf6812e97fa73a5764eb81add3036&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026年网络安全预测：AI全面融入实战的100+行业洞察]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibpnB4gcOKgzv9VZ6Y0phEM8XTKtBckC5bOtYrtJiarrmpccxsLHvpBGqqqcAWria1N0QBlguicAUt6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能深度融入企业运营和网络犯罪武器库，2026年网络安全格局将呈现自主威胁、身份中心型攻击和加速数字化转型风险的空前交汇。来自顶尖安全公司、政府机构和研究机构的专家们提出了100多项关键预测，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=2&amp;sn=68af2759a113d09e56a47d099732989b&amp;chksm=bc62e2800e5c9c56c8cb24790a57e53083036e61a2142f81adfd351c6dd9156a0257dcc6374a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：CVE-2025-66478攻击链分析；人工智能安全与治理现状；JavaScript引擎漏洞利用；]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6XkZuwrWvw1VLTe36Boib4ybcmicPxkfYSGZEUGiaZ7iaWqKsJAC2pMYbOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>SuiteCRM SQL注入漏洞；一文搞懂前端加密和js逆向。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=3&amp;sn=15c71b5b0bdd17bf5145d836dbe1536b&amp;chksm=bc244b0e773273638b22f57490d8de8585bfac3a287e927d9660788aeef16d1fe2e8f1f526e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[零点击漏洞肆虐的一年：2025年现代恶意软件带来的启示]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39rrpOgWMAN7icDuia5y4oAwcibOYPsU8fMBGvLmresRqDibvcicLUK6s8RvAn1T7HiaJMOPOPeKR845zGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年成为网络安全领域的关键转折点，零点击漏洞利用技术显著进化，彻底颠覆了我们对数字安全的认知。与传统攻击需要用户点击恶意链接或下载感染文件不同，零点击漏洞利用在暗处运作，无需受害者任何操作即可悄</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333161&amp;idx=1&amp;sn=1cd636f72540cad36e71da0735b70445&amp;chksm=bc6aaf4288ce0f029a78363f9ba68a1e8630b86b370e772a90b733dc585593490e5a19b06f5b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNyKU1nlYTwPm8mVYeY3ILTBJUZOVvxfNRJ2xviacB7aKicdV2AP2MRxz7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概括2025年12月5日，安全研究人员发现影响Splunk Enterprise平台和Universal Forwarder组件的两个高危漏洞（CVE-2025-20386、CVE-2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331769&amp;idx=3&amp;sn=b9be04ec1f8fa8bfce8097e0b8b086ef&amp;chksm=bc185ed73fc9949dd4573fb624d3a768cd0d0359113018a269e72574dd20edb6ad833072d88f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WebXR漏洞影响40亿Chromium用户，请立即更新浏览器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNys85y7Iibfpd4gTpIwicsQrp6kLx4840aVONRS3ibOP2icnibjmgwQddiaXTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全专家AISLE近期在全球主流网页浏览器底层代码中发现一个严重安全漏洞，可能导致超过40亿台设备面临数据泄露风险。该漏洞被评定为中等危害程度（4.3分），影响所有基于Chromium代码库的主流</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331769&amp;idx=4&amp;sn=99a3f10cc259b6668a0c62159704bd54&amp;chksm=bca98b2049ba9133daaef27899078ca51b7a3503d4f09c160873f46fc782c0f8914323d7fc3f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FreeBuf社群开通AI商桥服务，甲乙双方精准业务对接]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymGCWFLUib8MQeydEicMUHMxvLW0kCYWSNZtgCVIjHjFnkSZtNkta6eAWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在前面回首而望，FreeBuf甲方会员体系已经陪伴大家走过 1800多个日夜 ，与来自科技、金融、制造、医疗、政务等 20大行业 的 2000多位安全从业者 共同成长，同时也与 300+家优质安全厂</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331589&amp;idx=1&amp;sn=566525730833a9d5e88f35268fe6bd39&amp;chksm=bcf8db1091ee1987716bf94c627bcb4a0141b2cfb3bec1d4b3f9d408ea81cb853748c732c3ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 18:30:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[React框架被曝最高危险等级漏洞，阿里云一键防护指南速览]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymrnFEEAc0IrWjHDSicaoCA4yH2GWITms8WeGQiaNiathWp4a5U6kvBXR1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Meta的React核心团队与Vercel的Next.js团队联合发布公告，披露了两个最高危险等级（Critical）的安全漏洞：CVE-2025-55182（React）和CVE-2025-6</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331589&amp;idx=2&amp;sn=4f19655f492716a355a7b7fe3b7acfd0&amp;chksm=bc728b4d81b270f8fc605da23dba29c9b79d9cd61c9f1b146a2fdf745121a930fab4161c36e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 18:30:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
