@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI coding 智能体设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naInDhJTqeCBJaW2ZQaw2hfIVSibqm4MvHR9ehywF34ABZZg0BZcXrmyjE2092icwJ8XO0f459fVCXHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>理解 AI coding 智能体的设计，可以帮助开发者更好地使用 AI coding 工具，实现开发提效。了解用户提示词预处理，帮助我们写出高效的用户提示词。例如：为什么在提示词中使用 @字符引入文件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556801&amp;idx=1&amp;sn=05c6adb69298f1bedfc53d047dd1ff67&amp;chksm=e84409bc30685cbf94eeb5f869969a1056d5db867025ecae6270f90fcb6e40f2d9471d15540e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从工单、文档到结构化知识库：一套可复用的 Agent 知识采集方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKlP2N1FlJ4nBic1tKfcDuwjbqhhVAW4ySHSYjDzxCAEljySJpTsxhicYJ3GbmDhUPFGBUHdDqV8cng/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读我们构建了一套“自动提取 → 智能泛化 → 增量更新 → 向量化同步”的全链路自动化 pipeline，将 Agent 知识库建设中的收集、提质与维护难题转化为简单易用的 Python 工具</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556720&amp;idx=1&amp;sn=e4883e7cd8c0239e233a8ff1a015ab88&amp;chksm=e8820c9321f24c7fd702a9f802e65e7f4a750a09fb26d1cea4aa2267c9315c4eb4bc1d5f4b28&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltchMmr38KcUncRMOibbYHfKSc8zO5EMsVlbzLMvQ1AWic22EjOCFZlaic0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读淘宝推荐信息流业务，常年被“需求多、技术栈杂、协作慢”困扰，需求上线周期动辄一周。WaterFlow——一套 AI 驱动的端到端开发新实践，让部分需求两天内上线，甚至产品经理也能“自产自销”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553658&amp;idx=1&amp;sn=f59f27137921f17aba0010271b26f45f&amp;chksm=e82b174523b6019b5e75cde9fd839954caf7c98cc58b62d00e54ac9b42121d3592f735790c17&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从6人日到1人日：一次AI驱动的客户端需求开发实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKLE4Nh7Wx8TDMMfgocnFW4moKVWAwxjyHhydheicz0JQ2cL4kJSH0bIiaBIeeNGoXqV5rWrQgJaLNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读揭示了AI Coding在复杂客户端研发中落地的核心方法论。引言随着AI 能力的逐步强大，由 AI 来完成部分需求的 Coding 工作，已成为一种必然技术趋势（微软很早就号称 30% 代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553580&amp;idx=1&amp;sn=53b88213c541684ec16eee965024d952&amp;chksm=e8abfbe9da4d45b683054552edcc1db8fe951da9aae95fcd8ab9da2f2ff8c4df2b08f652f800&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

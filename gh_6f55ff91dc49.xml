@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上 10 个令人惊艳的 Agent 开发平台，太顶了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7AhknvcdIHQqPoI3IicTEaVic2DPiabLm0fJeOgibtoNcDic6jlFtEofdGINB5BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AutoGPTAutoGPT 是 AI Agent 领域的鼻祖级项目，现在已经 18 万+的 Star 了。与聊天机器人不一样，AutoGPT 能够自主地将一个大目标拆解为子任务，并利用互联网搜索</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530086&amp;idx=1&amp;sn=256bf22f34ffea67b789e37cdd66abd7&amp;chksm=f88bb3fab464befe69137b37e6e642b364aa0c365916922aca6d3bdf68c1b564c2795ec0b2fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 15:18:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 8 个本周 yyds 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7Ahknsfad8HKXaglaIV19ibjybO19p9lSrggicfXl35M1eaZJibLXXiaxbBDHyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Skills 的开源合集这个 28K Star 的开源项目由 Anthropic 发布维护，收集了很多 Skills 。Skills 是啥之前介绍过，感兴趣的也可以问 AI。本质上就是将复杂的提示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530027&amp;idx=1&amp;sn=51d12ff254c52af9c0d3a6c8e0d1b937&amp;chksm=f82198e68428f12058a7f2c86d1e128354762c21aa3c749b1c650972af9ac17544b3a5964d6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTSUsNdkKibfcmjur4YuBibTGibCicsuleLrGWKaibyUIliaJAE6LFvrqryg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>01实时读懂你的屏幕和对话Glass 能够实时读取屏幕和麦克风内容，理解你电脑上看到和听到的内容，随时把所见所闻变成可检索、追问的结构化知识，为你提供智能帮助。当然这个助手不会出现在录屏、截图或桌面中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528218&amp;idx=1&amp;sn=87db5cf975baa9bc7e8cbd0a1c2ab063&amp;chksm=f89a5c5754cf2c5f4fa8dd53c3331be33576ba9367e626ffd71c4ab71c237be08c91e2ac787b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[复刻爆火的 AI 交易大赛，刚刚开源的 GitHub 项目火了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyqouKn9NPADNDiapDHfQR92ZQjbKukV47p63OaP1tBUp0dt6bHOIl0cYVsfGB1ffqjt0ksAxzFAog/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一场名为 Alpha Arena 的 AI 交易大赛在金融和科技圈刷屏了。相信大家刷短视频、小红书的时候看到过。这不是模拟游戏，而是真枪实战，玩真的。金融 AI 研究实验室 nof1 发起，把全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528217&amp;idx=1&amp;sn=6c52ce47682d97405b175663b311efba&amp;chksm=f8ac6ff86b74840bf91b586c5fb8a777124c5fbf908a4333906a8e584ec42ac20baec782bd7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

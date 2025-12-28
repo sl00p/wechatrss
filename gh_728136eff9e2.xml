@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[别搞混了！MCP 和 Agent Skill 到底有什么区别？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtgoMDckSxgUicXB8GZFWj0cfp2libN03TUmtYoKheqSGjfGIdrW92FJYWn7oTy7CSwVWLZLwhVlfQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文火热进行中，速戳上图了解详情🔍）用 AI Agent 工具（Claude Code、Cursor、Windsurf 等）的时候，经常会遇到两个概念：MCP（Model Context</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547657&amp;idx=1&amp;sn=cf1ab46ff2225c648d9fb7d1de9d9876&amp;chksm=fd519537d4e61e19c3bf4bdbc1e2d645ff9ae8de65621f5ca43812248b229c8b351744b5bf77&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【AI 编程实战】第 4 篇：一次完美 vs 五轮对话 - UnoCSS 配置的正确姿势]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtTib6hGJC9dlZvZeL6ABDSkuib4ZAoDIP7eEdjhKXJd1vB4pG1cpH8ehde0NdQlDdMuWRNFWIXhVCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文火热进行中，速戳上图了解详情🔍）❝很多教程告诉你"写好提示词就能让 AI 一次给出正确答案"，但现实是：「你不可能一开始就知道所有细节」。真正高效的 AI 协作，是在对话中逐步明确需求</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547652&amp;idx=1&amp;sn=2cd039cecbb8b567d22b425b9b0d7e52&amp;chksm=fdfc235ce1b39d7992426e4e298bb6111aefa7bb6cb3e7ba0224544d4be7d30cda3723de1237&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvly9tw4ePdIA4jHZpib5kJhBXSb8rbcnDkice10xxlgSMztMFqONVwdS9AvYG9rI43iaJ3UdVAG0T0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、什么是 visibilitychange 事件？visibilitychange 是浏览器提供的原生事件，属于 Page Visibility API（页面可见性 API）的核心部分。当页面的可见</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546533&amp;idx=1&amp;sn=c311045c84494ce85168bdc1bfff8aa7&amp;chksm=fd176dd7c135b3702cb4ea1ddbe9fa11fae5cce261afcde878277772cf9a0bd93e507ff6eb9f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你打的日志，正在拖垮你的系统：从P4小白到P7专家都是怎么打日志的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtNeia1VLn6v7JC9mPyyiaRsolCYEDmryDdq1dLOkQXicJiakwQBTwRq0J4IibtRFRV4lRqDNy8R7XlTxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝老A的代码茶座 vol.1❞大家好，我是老A。国庆假期的某天，我正懒洋洋地躺在海滩的沙滩椅上，哈着冰啤酒，海风拂面，惬意极了。突然，手机震动个不停。点开一看，是公司告警群里接连蹦出几条「「磁盘空间不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546529&amp;idx=1&amp;sn=a0ecb38d8e3774e0865b9df4e9009d09&amp;chksm=fd123edcce04beecedcdcc187ba6244d9489c5b2c5623ffe6438f251b973261e6cbb416a54be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

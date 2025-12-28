@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SMC自修改代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ey9ibJK1Eic4zeOibEiccUorwFPNA7vBicMibBBa0WpRib5Aiactm2niczbnkibEydicdCnF8ibD7pEXjIPia2whg/640?wxtype=jpeg&amp;wxfrom=0"/><p>自修改代码（SMC, Self Modifying Code）是在程序执行过程中修改其自身指令的技术。通常，这种做法旨在通过减少指令路径长度来提高性能，或者为了避免重复代码，从而简化维护。自修改代码一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=1&amp;sn=ec32fb045ef10a19ea75e3cd9e72f9fe&amp;chksm=b06e90dfb30bb8722fa122ca9a3cf1b0b79ccbba78023ea40b09737c5c8c21083b4534bd66da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“耳机劫持”惊魂！热门蓝牙耳机藏致命漏洞，手机恐被远程操控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ey9ibJK1Eic4zeOibEiccUorwFbMONT54VDLLr3wCuXN7aUmr6rtKicTibKlGYd0Xia0YzVVTBnicfJicNB7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>德国网络安全公司ERNW Enno Rey Netzwerke GmbH最新报告披露，主流音频品牌使用的芯片存在三大致命漏洞，攻击者可借此窃听对话，甚至劫持相连的智能手机。这份题为《Airoha RA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=2&amp;sn=56ed1fca7dd1011e0b211a57baebeb2e&amp;chksm=b043390957615c06dc97f45e6ed5ebe76ab8e0a2f809ac4812d4f7edcdce178ee48bc175b58f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=3&amp;sn=73f8d69fc5298cbd66e6eb33be37ecfd&amp;chksm=b037709505023adabf5df1eaf18f12678e417f7cdb5bae28796922a06913e1ca208e46100318&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[[强网杯S9]Qcalc赛题解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GbGmcelIwXTDiccDkq1Kp5otpyQ8tXZyB91llJh7mkUJicOjjNYTrUr2iaspRDuNg0eApQAltDhR1hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>首先是查看导出的Activity 只有MainActivity导出，但发现有导出的contentProvider看看是否存在路径穿越检测了私有目录，这个漏洞点可以直接放弃。审计MainAcitivy</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606343&amp;idx=1&amp;sn=b6f12c20b41641d9812e23be0fba1ff1&amp;chksm=b0e284f6fec0a03f1e612b853e9f830ae2e3d454cc5229c4773996c2fc67d212f2a987f068fc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fcaa0XZm3Ywr9mVA0eUdJ1Yq9tfTeSr5TztP6Wk5jaFt1FrMrOaIKpsB2vGHLfOvJDusb2ODnkTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月22日，第二届“华为漏洞管理与应急响应技术大会”于深圳如期举行。大会以“共建共治 智护未来”为主题，聚焦行业安全漏洞管理痛点，汇聚各领域网络安全专家，从行业监管、网络产品提供者、关键信</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604608&amp;idx=2&amp;sn=04ed151f1624d653c618dff4dbce99f5&amp;chksm=b068a48e4374f989ed466419674853794caa9f3b198114e95fd8f0711cfcfb7ecc05768919a2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 29 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[xVMP项目分析(基于LLVM的VMP实现)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FEJD2XxlIPnt4p4OxZLgdPMmM9LBVSAbDCiaB31vpKcy8f84vbaDGAPl2h6Hw1KsbMhaLAlMGsq6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前在學LLVM Pass的時候就在想，是否能用LLVM Pass來實現vmp？想了一陣子沒啥思路就沒再多想了。直至看到大佬的這篇文章：写一个简单的VMP-不造轮子，何以知轮之精髓？才發現原來LLVM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=1&amp;sn=a16a91ea3424a8b809cefcde896f4764&amp;chksm=b049c04f9f5ab2dc3437edd9ea47773185f2b9dc97173b3f2875ab62c737b8270acda46b998a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周职位更新！速速投简历]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新工业和信息化部电子第五研究所职位经验/学历薪资地点二进制漏洞挖掘工程师不限/本科20-30k广州二进制漏洞利用exp开发工程师不限/本科20-30k广州</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=2&amp;sn=79164f11db318adba20a898e49ac6e9b&amp;chksm=b0d55f74562a89394481cacc07286aa0c3bb3d5b1e42ec28d6c333d3920a4b270aa95cf7c051&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新曝Next.js未授权DoS漏洞，可一键击溃服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4fNia3icJFBuKMqJd9OiaHfKQXdvvTAvJ3YRctrK5cd2HR7RJICM5ngMyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Next.js框架曝出一项高危未授权拒绝服务（DoS）漏洞，攻击者仅需发送单个特制HTTP请求，即可导致自托管服务器内存耗尽并崩溃，且无需任何身份验证。该漏洞存在于`body-streams.t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604601&amp;idx=3&amp;sn=35dd5bd4c71a05d1a770635c98edf0ec&amp;chksm=b074ce3cbb50136bf8930341b1495a90d1ab993a6df1cf597f87134b26e8d72a3446218460e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 17:58:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

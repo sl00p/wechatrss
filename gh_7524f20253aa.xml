@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[iOS 26.2陷阱：WebKit整数溢出漏洞PoC曝光，你的iPhone安全吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP6YiaDwA9yyfLlLvH0DiaibryDVIG3mm1NBjrq0pTHt0mSTCCk7Q4wMLz4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员 Joseph Goydish 在苹果 WebKit 引擎中发现了一个高危漏洞，攻击者可通过该漏洞致使浏览器崩溃，或通过与其他漏洞链式利用，在最新 iOS 设备上执行任意代码。最新报告详细披</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=1&amp;sn=80ca1b36dcc67f465051d8356f25a1a3&amp;chksm=bc4cf387860e9b61c29feaeff16ee6936241a8f80a4fb08b8c7daee48a91182a50766705538c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从一艘橙汁运输船看美国海运面临的网安危机；自主AI攻击与网络安全的未来 | 2025网安行业优质播客精选集⑬]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP62oawGFGPViaUfn8NQW9ks4CQic3Qh7JHa3qiay6rS0q1JYBKp8BK8RQEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 从一艘橙汁运输船看美国海运业面临的网络安全危机本期节目：一艘名为"橙星号"的货轮每周都会停靠新泽西州的伊丽莎白港，运载38848立方米的浓缩橙汁。这艘船供应的橙汁被纽约市所有主要零售商使用。如果</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=2&amp;sn=0d96c747432b4eaa30a5d293e9b4917e&amp;chksm=bc0d3867731d5bc2e37887af78be7ac6c72e11cb671778d28a223f27651c2bddb0d99ccf33d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[育碧《彩虹六号：围攻》服务器遭入侵事件与MongoBleed漏洞关联]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP6neXn9bHJDmqEVMcO1vseJrbf8t684ffTiagKXedRTDMq7B6M7CQNUgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高调入侵引发游戏混乱育碧公司面临的危机今日急剧升级，此前以隐蔽攻击著称的"第一黑客组织"对《彩虹六号：围攻》服务器发起了公开破坏性接管。全球玩家报告游戏内出现大量异常情况：账户被无故注入游</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=3&amp;sn=8d91ae7d09d9ff446da635113d26debe&amp;chksm=bcbb32c59fe0493aa1687a395d13d19fe9ca25eb2eadf489a82c9e3b1ecc7af4c9a7337e7861&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA["耳机劫持"：索尼、JBL等主流无线耳机芯片曝高危漏洞，黑客可接管用户手机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP6WN17Vn5SeMt2gaxjE3rIcQWOUboANibnVjmI2aLoib5GsE4aZQicuJgwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>您的蓝牙耳机可能不仅仅是播放音乐——它正在成为数字生活的安全漏洞。ERNW Enno Rey Netzwerke GmbH最新研究报告揭露，主流音频品牌采用的芯片存在三个关键漏洞，攻击者可借此窃听对话</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=4&amp;sn=4882cb9094c62f98ea5c780bb77b3b93&amp;chksm=bc96e7306c5555bef4f3de42d7f59d92b3a08615c767b113caa0bbebf08dd5ed02f9a4d443f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MongoDB高危漏洞允许未认证攻击者读取未初始化内存，PoC已公开]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibpnB4gcOKgzv9VZ6Y0phEMwbI5wJylJ12UzHZBp5EBtH20OnMMldJPnLDOfnRzFu65MNrY3CcKSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日公开披露了一个影响MongoDB数据库的高危安全漏洞（CVE-2025-14847，CVSS 评分：8.7）。该漏洞可能允许未经身份验证的用户读取服务器未初始化的堆内存，导致敏感信</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=1&amp;sn=944d6c888e66700b84d4f2a45e62440f&amp;chksm=bca7bb1a85936f016480b4944e6f1ad5aeb925e7c985f50bf6812e97fa73a5764eb81add3036&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymyA0AYWle3Wnao3wWyHqsDzMGH37D4XINGFb1Us09fC8ibRIH5cvgDSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！📶启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=3&amp;sn=c98084779a9587e1a5eddb5e0137cb22&amp;chksm=bcce829c0459fcfde0de92d8a7f0af8290340b602143345da607d40158e29cc4d3f8df80d38c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 06 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客可在数秒内劫持行车记录仪并将其武器化为攻击工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNy18gUQb2yYsphGDTZdBwC0lScJEQMTrr0jREiaib5zytOTiaIxTHnIhvpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>行车记录仪已成为全球驾驶员必备设备，可作为交通事故或道路纠纷的可靠见证。然而，新加坡网络安全研究团队发现了一个令人不安的事实：这些看似无害的设备可在数秒内被劫持，转变为强大的监控工具。Part01漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=4&amp;sn=a629f77ab4bfb819e6f40639feb897f5&amp;chksm=bcd94b12672fd82c51e273d47483b83e8349f99cac0a86db7ca518d166a6beb9134d36095cc1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜黑客遭“反杀”：专用设备意外感染木马，牵涉14亿美元加密货币盗窃案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNy1bKHauS5edtlc0O5PIibuZjdoYj9UFg3LicGgz5vz8Ya9pTwhxic20XCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一起罕见的"反杀"事件曝光：朝鲜国家资助的黑客组织设备感染了通常用于攻击他人的同类型恶意软件，意外揭露其运营细节与史上最大规模加密货币盗窃案之一的直接关联。网络安全情报公司Hudson Rock在分析</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331769&amp;idx=1&amp;sn=4b9be4e11c7d91fe85cd8787f5b92a02&amp;chksm=bc2d4e270308ff4b4cae36cc9b4d1ada4fbf4a1ddb8bf74f9e563ad138b4502004d1c5c35969&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型安全资料一次找齐！3000 + 份资源，覆盖全领域]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNyXKJ67BVE2T4ias3JtHWQ1YjaCaLFvwFeWftSJWyKtMt4JlENXgq3U4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在大模型落地越来越快，不管是企业做合规落地，还是团队搞技术研发，甚至是个人想跟进行业动态，都绕不开 “安全” 这块 —— 但偏偏这领域的资源特别散，要么政策更新了找不到解读，要么技术方案缺实操支撑，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331769&amp;idx=2&amp;sn=19af3c5ea7a551406e30d2e5dceedaf7&amp;chksm=bcfeb01f9547be561247fa6261e36a26018b8e8d44de9de200fa92fe698490e69b2718235cfb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高危级Splunk漏洞：Windows文件权限配置错误导致本地提权]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icvhCKElTCGuRZ4cVicQLhNyKU1nlYTwPm8mVYeY3ILTBJUZOVvxfNRJ2xviacB7aKicdV2AP2MRxz7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概括2025年12月5日，安全研究人员发现影响Splunk Enterprise平台和Universal Forwarder组件的两个高危漏洞（CVE-2025-20386、CVE-2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331769&amp;idx=3&amp;sn=b9be04ec1f8fa8bfce8097e0b8b086ef&amp;chksm=bc185ed73fc9949dd4573fb624d3a768cd0d0359113018a269e72574dd20edb6ad833072d88f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
