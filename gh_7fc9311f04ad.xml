@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AMD服务器上一个诡异的性能问题诊断历程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVSspHj9CnNkd4FNM0D3xCQduPBDib9Z9iaIKqvPMCBxticDDXEicMibDsZyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文复盘该高优故障的根因、排查过程与应对策略，为新硬件平台上的混部稳定性提供关键经验。本文档分析工作由阿里控股-平台技术-基础设施与稳定性工程团队同学完成。一、问题发现从8月底开始，集团的a</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556836&amp;idx=1&amp;sn=1a9c1be1c7886c9b3d5e6d71a3eb8119&amp;chksm=e82b3388d32fbf3cf2e7a63a074b3341a92cbc693fe23c9f040203ad86b01dad8872a33d9396&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI coding 智能体设计]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naInDhJTqeCBJaW2ZQaw2hfIVSibqm4MvHR9ehywF34ABZZg0BZcXrmyjE2092icwJ8XO0f459fVCXHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>理解 AI coding 智能体的设计，可以帮助开发者更好地使用 AI coding 工具，实现开发提效。了解用户提示词预处理，帮助我们写出高效的用户提示词。例如：为什么在提示词中使用 @字符引入文件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556801&amp;idx=1&amp;sn=05c6adb69298f1bedfc53d047dd1ff67&amp;chksm=e84409bc30685cbf94eeb5f869969a1056d5db867025ecae6270f90fcb6e40f2d9471d15540e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJPWBYsOwjsHfTJ1ian5ISo8E8lLAImeaibC3geK2O4HYFdhOSWTaY8HfbMZ40auLWicPS30oJF9vlzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI时代天猫技术质量同学在质量保障方面也不断探索AI在测试全流程提效的落地方案，传统测试工作链条拆解为“需求解析 → 用例生成 → 数据构造 → 执行验证 → 对比校验”五大核心阶段，而我们的目标是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553721&amp;idx=1&amp;sn=514effd96bde9974bd83937ecfd1f7e4&amp;chksm=e8a59f3d907567d17ccb0514f96bc2a4b4afe582d732a20dabc4df8ca29514ff9b1172b629d1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[产品经理也能“开发”需求？淘宝信息流从需求到上线的AI端到端实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltchMmr38KcUncRMOibbYHfKSc8zO5EMsVlbzLMvQ1AWic22EjOCFZlaic0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读淘宝推荐信息流业务，常年被“需求多、技术栈杂、协作慢”困扰，需求上线周期动辄一周。WaterFlow——一套 AI 驱动的端到端开发新实践，让部分需求两天内上线，甚至产品经理也能“自产自销”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553658&amp;idx=1&amp;sn=f59f27137921f17aba0010271b26f45f&amp;chksm=e82b174523b6019b5e75cde9fd839954caf7c98cc58b62d00e54ac9b42121d3592f735790c17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

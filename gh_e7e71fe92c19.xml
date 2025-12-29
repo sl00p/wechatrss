@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一款单机斗地主手机游戏的分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mJcRia7SzQDkRBlYpzRibwg3N3OPFAAGqdnlPfiaeczQUJtbhicO3Ur3xIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款我很久之前玩过的单机斗地主游戏，但是玩的时间一久，系统发的牌就变得特别差，所以我就想分析分析一下这个App。注意：这是一个32位的安装包，需要把IDA的32位调试服务器adb push到/data</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=1&amp;sn=355eeaf1f94c84cfa7e6cc167fdb2196&amp;chksm=b00d3fc071dc825b10ab5e0a37a1c662a479a4d4f3a5713c2f28b0cdbd8840fed71a46225350&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI助攻钓鱼！新型工具包瞄准微软用户，窃取登录信息还追踪位置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mkSr6Yic9Pe5OjxxH4gzQ4RCgEHofvgPKzaiccTAZQtmJH9JQoiaDiaRG7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年3月以来，一个西班牙语钓鱼团伙持续针对微软Outlook用户开展攻击活动，所使用的精密钓鱼工具包呈现出明显的AI辅助开发痕迹。该攻击活动可通过嵌入字符串“OUTL”中的四个蘑菇表情符号这一独</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=2&amp;sn=c2e764cc2bd17a09815d203745714320&amp;chksm=b0f1c6392c3cb6ea0c482824d7f92caaa2bc4594a7055f5f912d67abef5c169ef21533af3e3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抢占智能汽车安全风口！系统0day安全——车联网安全入门（第8期）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=3&amp;sn=f4867ec9a446a8be54257fad99d53e04&amp;chksm=b0095ba4665376dd8a3706f7a3f5ef5424747e7506bbc157a7a1ad84dc08aa4baec527842aa0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SMC自修改代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ey9ibJK1Eic4zeOibEiccUorwFPNA7vBicMibBBa0WpRib5Aiactm2niczbnkibEydicdCnF8ibD7pEXjIPia2whg/640?wxtype=jpeg&amp;wxfrom=0"/><p>自修改代码（SMC, Self Modifying Code）是在程序执行过程中修改其自身指令的技术。通常，这种做法旨在通过减少指令路径长度来提高性能，或者为了避免重复代码，从而简化维护。自修改代码一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=1&amp;sn=ec32fb045ef10a19ea75e3cd9e72f9fe&amp;chksm=b06e90dfb30bb8722fa122ca9a3cf1b0b79ccbba78023ea40b09737c5c8c21083b4534bd66da&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FGes13qvvST96ROkZCtssTrhqYAWufl2zULDf6708hUnsoKNq5HKER5tI8sR8rTMFUqhl8DyE3rA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，针对微软Outlook中一处被称为“MonikerLink”的严重远程代码执行漏洞（CVE-2024-21413），安全研究人员已公开概念验证（PoC）利用代码。该漏洞CVSS评分高达9.8，允</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=2&amp;sn=5c18988c87f29aa71e037b8faa8bbddb&amp;chksm=b04974b429dc33311dd345c22b40617d473c9f328fcb0fe14eff5fc2a0dbd2106e6dfe1fa810&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[课程更新！MISC 从入门到精通全解篇]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HIxxTVghb20icruhHZLrEpwEM2Nib66S65n46ickt4Tvp8Es5KOdhuFWvhOV9iaKKmQQLM7CuibrOaj4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对复杂的加密解密、千奇百怪的隐写技术、五花八门的文件格式，是不是常常感到无从下手？别担心，《MISC 从入门到精通全解篇》课程来啦，专为想在 MISC 领域突破的你量身打造！超值价 ¥199大数据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=3&amp;sn=b9b096554f769358f70483483dd80557&amp;chksm=b0a9763c357edfa405bfe0dab1fd93c835134dcb694827ddb17ecd9c83ebebbf95455cfe3188&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[劫持MSVC编译器编译过程(VS2019 VS2022) 利用思路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4tMn9Lmqbuudu6OjFOaxBuomam0AudVWlPaBXQlBgeXA4Dp2FgJpiarA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天为大家带来一个基于Dll劫持的MSVC编译过程劫持思路,我本来是想要研究下MSVC编译器想通过注入的方式劫持编译流，然后通过得出逆向出微软编译器的IR格式，最后通过自己的Pass实现原生的Wind</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604608&amp;idx=1&amp;sn=aaebd4cc6f470a4ace0e6f378360ddf4&amp;chksm=b0344461fba708394785293dc3ac6f4404026f23db7f6104865145f6b56a198283b47dda8e32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Nov 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fcaa0XZm3Ywr9mVA0eUdJ1Yq9tfTeSr5TztP6Wk5jaFt1FrMrOaIKpsB2vGHLfOvJDusb2ODnkTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年11月22日，第二届“华为漏洞管理与应急响应技术大会”于深圳如期举行。大会以“共建共治 智护未来”为主题，聚焦行业安全漏洞管理痛点，汇聚各领域网络安全专家，从行业监管、网络产品提供者、关键信</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604608&amp;idx=2&amp;sn=04ed151f1624d653c618dff4dbce99f5&amp;chksm=b068a48e4374f989ed466419674853794caa9f3b198114e95fd8f0711cfcfb7ecc05768919a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Nov 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

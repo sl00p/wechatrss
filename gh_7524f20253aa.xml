@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI安全工具开发：手把手教你搭建安全工具平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrOJSNG8Vk41P3VrjPcRffx2AEdUPdCmZAeKI1F3q9rdJYvu1tLAAFiaWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年初，DeepSeek掀起的AI浪潮，实实在在地冲击整个互联网甚至日常生活，网络安全这个领域同意受到了影响：AI正逐步成为渗透测试中的协作助手、应急响应环节的分析工具，以及自动化扫描过程中的决</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=1&amp;sn=788a4745b1ce32ef7cb101c01580ab1c&amp;chksm=bcd3e14b76fe9727d6366146b72bca45e27498f19135ca40202a350366a34c5c42eee5c4d0d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[传统安全框架难以应对AI新型攻击向量]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrOVbN3vrlaJTicHrQibETkzK9PiaWDib5mdK1ESdm9XT6ibT1nKDVdR2ZfiayQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年12月，流行的Ultralytics AI库遭入侵，攻击者植入恶意代码劫持系统资源进行加密货币挖矿。2025年8月，恶意Nx软件包导致2349个GitHub、云服务和AI凭证泄露。整个202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=2&amp;sn=e388ad5c8873df522d8b64ff2ea8a094&amp;chksm=bc120e79e0662e77b8aefbc7d18ca9aa42f021590876420fde31bba6bdcc9edc239f287dcd19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows事件日志揭示"精密"网络攻击背后的混乱真相]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrO8rfCuBFgic0FSCru4MQqzeuVoyuVnPGKUE3ic0Obm7f1TqvCxv3wFdqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>公开报道的网络攻击往往呈现精心修饰的画面——攻击者按部就班地执行周密计划，每个动作都完美无缺。这种描述让许多人误以为现代攻击者能像机器般精准运作，毫无障碍地实现各个目标。然而，当检视受感染系统留下的实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=3&amp;sn=75487456bd28c0eb31511bcae8f48cbb&amp;chksm=bc544aa7857f7e6a7608bd76ccba19f4e6b64f3b07d0635a3fdb5cbaca1536f15778850bb09d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI强化ChatGPT Atlas防御提示注入攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP666JBlWJlRTZkjlicibKwwZDibJHiak3OiakBCBSPmR3hYqeiaP3yu7jjBAaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI已为其基于浏览器的AI Agent——ChatGPT Atlas推出关键安全更新，新增针对提示注入攻击的高级防御措施。此次更新标志着在保护用户免受针对Agentic AI系统的新型对抗威胁</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=4&amp;sn=4063055176ffd887c57661366f1e2993&amp;chksm=bc2ea886583cfaa126588ea4330c6dad549808671e3ad61710255ac657cf255e35a93fa8fdf5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[iOS 26.2陷阱：WebKit整数溢出漏洞PoC曝光，你的iPhone安全吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP6YiaDwA9yyfLlLvH0DiaibryDVIG3mm1NBjrq0pTHt0mSTCCk7Q4wMLz4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员 Joseph Goydish 在苹果 WebKit 引擎中发现了一个高危漏洞，攻击者可通过该漏洞致使浏览器崩溃，或通过与其他漏洞链式利用，在最新 iOS 设备上执行任意代码。最新报告详细披</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=1&amp;sn=80ca1b36dcc67f465051d8356f25a1a3&amp;chksm=bc4cf387860e9b61c29feaeff16ee6936241a8f80a4fb08b8c7daee48a91182a50766705538c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38iaXWfIXo2f6fSyMTte2ah8GOYhNgvxuiasOFzQjUHicZtPzKwO81B6Cu9bKOGIooazqOtZKrOYcIAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，研究人员在各类人工智能（AI）集成开发环境（IDE）中发现了三十多个安全漏洞。这些漏洞能够将提示词注入攻击手法与IDE的合法功能相结合，从而实现数据窃取与远程代码执行。Part01漏洞概述：攻击</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=2&amp;sn=b2b555d37c8629fcdad2e7d8ce2e4134&amp;chksm=bc61fd9d9628d37544f9ef12817f8dedd5d4000dcbf63f8c8ac73a6df0dd8587ab3e81cbd4b7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 07 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：苹果锁屏漏洞探究；Javassist代码审计关键点实践；网络安全实验教程；计算机病毒揭秘与对抗，网络防卫计划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6XkZuwrWvw1VLTe36Boib4ybcmicPxkfYSGZEUGiaZ7iaWqKsJAC2pMYbOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌Antigravity安全风险分析；开源情报的实用方法。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331842&amp;idx=3&amp;sn=972e374404552be6f5b67e2a8c06950d&amp;chksm=bc3d9619e2a05e149e93db9de4c78fc0a2a49d25c1a778375f087991972a5aa3f5ecb78f6d0a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[念古诗绕过AI安全护栏：25款顶尖模型栽跟头，模糊语义成安全大漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPwVVhmdrrAj9Nk9HmTY5e8fJsjkt0YtvjlBG6Ncj4vzHiabNIfcFwE7sqZnCXK2BaczFE0kAXfxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01一首诗 “放倒” AI 安全墙？危险内容竟能轻松获取对人类来说，诗歌有时是 “猜不透的艺术”，可最新研究发现，AI 遇上诗歌也会 “犯迷糊”！来自德克萨伊伦理 AI 公司伊卡洛斯实验室、罗</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=1&amp;sn=f1c70f8695bdf5bc557b9a36459b7e91&amp;chksm=bc338708d634b605dbfc15bcd48cc8b265862e5f0e800aaa05bb4456666a01d9147f71c09a9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare全球服务中断事件溯源：React漏洞修复适得其反]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icPwVVhmdrrAj9Nk9HmTY5edfd7wIWzJ7TpgJ90tgDSPTCw4uKLUs8eZD3K4w155HPfGcQ3z3ibPAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01全球网络突发中断Cloudflare 全球网络今晨因 Web 应用防火墙（WAF）内部变更引发短暂但大规模服务中断，持续时间约 25 分钟。此次变更旨在应对 React Server Co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=2&amp;sn=7936ebbb2ff0fc59a814790080075f07&amp;chksm=bc116757988e69c6b77b097b282a086911286dc77f43358e726ea516a9f54d9f4c3d64ad6663&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FreeBuf周报 | 高通骁龙8 Gen3曝出高危漏洞；核弹级React远程代码执行漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymyA0AYWle3Wnao3wWyHqsDzMGH37D4XINGFb1Us09fC8ibRIH5cvgDSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！📶启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651331816&amp;idx=3&amp;sn=c98084779a9587e1a5eddb5e0137cb22&amp;chksm=bcce829c0459fcfde0de92d8a7f0af8290340b602143345da607d40158e29cc4d3f8df80d38c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

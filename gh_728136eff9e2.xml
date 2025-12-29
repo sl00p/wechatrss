@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[写Tailwind CSS像在写屎山？这锅该不该它背]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuQYKtbRSASWnNeGLiaVnlcqphov9VEy0zkTdibMFPkGkeV9A2Lhpeiavnm0AdST27lQbMOzHiaicqotMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文火热进行中，速戳上图了解详情🔍）我上次在群里吐槽 Tailwind，被几个大佬围攻了：“现在还在写传统 CSS 的怕不是还在用 jQuery？”、“都 2025 年了还用 BEM？”，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547665&amp;idx=1&amp;sn=21316b092070177aa177878fbb1f5f1c&amp;chksm=fda4210c4995eac6d925b6dfa4c2c0174c417f7b1e7274f7e91e7efe49d8a7c4cfd9b1ae9af0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别搞混了！MCP 和 Agent Skill 到底有什么区别？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtgoMDckSxgUicXB8GZFWj0cfp2libN03TUmtYoKheqSGjfGIdrW92FJYWn7oTy7CSwVWLZLwhVlfQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文火热进行中，速戳上图了解详情🔍）用 AI Agent 工具（Claude Code、Cursor、Windsurf 等）的时候，经常会遇到两个概念：MCP（Model Context</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547657&amp;idx=1&amp;sn=cf1ab46ff2225c648d9fb7d1de9d9876&amp;chksm=fd519537d4e61e19c3bf4bdbc1e2d645ff9ae8de65621f5ca43812248b229c8b351744b5bf77&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsM3YiaicZZ02SwX6UOib8g8WZQu6KqPsFTKMPSE9dovUh7OzZvgV5ESUDsVclic2tVOKG16UgZxuPMrQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝女朋友经常手滑关掉标签页这事儿头大了？跟女朋友说用 Ctrl/Cmd+Shift+T，她皱眉：“键盘上哪有这个键！！！”让她翻历史记录，她摇头：“根本找不到，全是我今天打开的！”最后指向左上角的“最</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546543&amp;idx=1&amp;sn=1b114ca54261640e5a01ba1124f17fce&amp;chksm=fde17702c96258d5b839f274aa9ba80ae410672a0026d2c22a5660fb92ab1378b9333334530a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[h5后台切换检测利用visibilitychange的缺点分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvly9tw4ePdIA4jHZpib5kJhBXSb8rbcnDkice10xxlgSMztMFqONVwdS9AvYG9rI43iaJ3UdVAG0T0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、什么是 visibilitychange 事件？visibilitychange 是浏览器提供的原生事件，属于 Page Visibility API（页面可见性 API）的核心部分。当页面的可见</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546533&amp;idx=1&amp;sn=c311045c84494ce85168bdc1bfff8aa7&amp;chksm=fd176dd7c135b3702cb4ea1ddbe9fa11fae5cce261afcde878277772cf9a0bd93e507ff6eb9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
