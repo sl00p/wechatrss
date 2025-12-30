@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 6 个本周 火火火火 的 GitHub 项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruw7L1rTOs9DELQniaLrRTSHE4bq7Ns2pnZAI3Hz7zDJHXxCKEwtMxyAiahrgsX4Q3lpibAXXHflrPSWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用 YAML 去写简历写简历最烦的就是调格式，RenderCV 的思路挺有意思，它让你用 YAML 文件去写简历内容。你只需要把你的经历、技能像填表一样写在配置文件里，它就能自动帮你生成各种排版精</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530174&amp;idx=1&amp;sn=003b2f5ccad3ac11ac81b285cd340f56&amp;chksm=f85bcd4e82ece516eb3b8da4877d19bf8ddf027b7be3d71af25b837c7a6514345f79135f9154&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 8 个爷青回 GitHub 开源游戏，太怀念了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7AhknslIdN7xsx5RzvQRh98MWXOzlQTx6NL8Wl8gJj06xV7icZqJCl3vQIvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛逛的童年被两种游戏机统治。第一种是小霸王。虽然「学习机」三个大字赫然展示在小霸王键盘上，但是右上角的卡槽更夺人眼球。配合下方这样的游戏卡，学习机也就变成了游戏机。每逢放学放假，几个小伙伴就抱着大大的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530139&amp;idx=1&amp;sn=847afb9698feeb6390dab1d7bbee2e07&amp;chksm=f833281b9cb4595c4ee37e2f84a835ab8a108596020f3818e048a07085dd2b5ee3c9b5657c19&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruylvibdTDZDFkje0USriayv5AKT8JkFZ3vDoeiboShkh1wQmXkRD7zyZtJbeicf1Dq5gVapYQKIsyOEvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01交互式提示工程教程这个叫 prompt-eng-interactive-tutorial 的开源项目是 Anthropic 推出的交互式提示工程教程。在 GitHub 上斩获了 25K 的 Sta</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528317&amp;idx=1&amp;sn=0d1cc834938adc4652700305da4f9b49&amp;chksm=f85b04a8b213325aeb7ff8bc0f1bc61d1400d7461f6e81dd9eb7e2d35864674fe313a5ab3c7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 01 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4 个神级 AI 开源项目，太顶了啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzOQzUbw4vhHZ7E3Z8613dTyxIt6pDiaqqEuaPH8oQVZxJPytRufic4ZMhZxiaLtpSgCmhAhpAaR7dibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI PPT这个叫做 presentation AI 的工具开源了。输入一句话，它就能让 AI 自动为你生成一款美观的 PPT。输入主题「中国大学生实践报告 PPT」，选择中文和幻灯片数量，AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528219&amp;idx=1&amp;sn=4ec25e6312f56707aca2b45beadf235b&amp;chksm=f8ce26284271bdafaaf809da6300edde8bdd2a3415c63cfbf76e5924af9b987e03685bf94fcf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[量子安全 quantum ctf Global Hyperlink Zone Hack the box]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWyg3GF9d0ds6B5s7wZcaHwHauafaGuMxU1NCFmjf8MSj171jCn1ibcCVJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码分析server.py首先，拿到了一个server.py文件，我们先来分析代码：一上来是定义了一个类，然后引用了包和设置aerfrom qiskit import QuantumCircuit,</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=1&amp;sn=01fd80bfa67b7c7b26254022f0d11e81&amp;chksm=b02bed9d1d9fda8e0fe31d0bb2fdf7dede837a8db93d1fbec861108853a31466e4009fad4d0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者仿冒Jackson JSON库入侵Maven Central，发起定向投毒攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWygiazicQHtLk5mwfUMzKpdsKGyEiau1mAbBcaoia1UaEnuZI3nIyg37cFr7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一项新型恶意软件攻击成功入侵Maven Central——这个Java开发者最信赖的软件仓库之一，攻击手段是仿冒知名的Jackson JSON库扩展组件。这款恶意包注册在`org.fasterx</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=2&amp;sn=0fcd1f204ed1096afd67047e906f45b3&amp;chksm=b0456c215f9cd4955c58738d448fb35d615ba93401cafba87979613608a13a41098224b3bc4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[速通秘籍来咯！VMProtect虚拟机逆向入门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GYDWOic1Dndw1vDJbr1UzpCRoFBvIdO3ADt84YnVPB3PRYgwrIz1bnEZxxTaV3kUPM5KRqBJ77b5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在信息安全领域，逆向工程是核心技能之一，而VMProtect作为一种常见的软件保护技术，其复杂性和高保护性使其成为许多逆向工程师的难题。然而学习VMProtect虚拟机也充满挑战，你是否正被这些难题绊</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=3&amp;sn=9c6d93f70a973fb6a6353c0f62a8d48f&amp;chksm=b01a318c57e4e969360b379d0485b308c60fb3c6622b65f687d1051bd4fa3c25981e31099a59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一款单机斗地主手机游戏的分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mJcRia7SzQDkRBlYpzRibwg3N3OPFAAGqdnlPfiaeczQUJtbhicO3Ur3xIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款我很久之前玩过的单机斗地主游戏，但是玩的时间一久，系统发的牌就变得特别差，所以我就想分析分析一下这个App。注意：这是一个32位的安装包，需要把IDA的32位调试服务器adb push到/data</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=1&amp;sn=355eeaf1f94c84cfa7e6cc167fdb2196&amp;chksm=b00d3fc071dc825b10ab5e0a37a1c662a479a4d4f3a5713c2f28b0cdbd8840fed71a46225350&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FGes13qvvST96ROkZCtssTrgulW4K9EAue7nIOx0f9NLsFG1uWoObWg7755gN09IXNIhHJ8fSByA/640?wxtype=jpeg&amp;wxfrom=0"/><p>实在是非常想再开一次入门课，因为有一个自己觉得还挺巧妙的小想法:我能不能写一个C程序，它不调用后门函数，而是我自己用栈溢出去调用完成getshell。我想从开发的角度，而非从计算机的底层来理解我自己学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604701&amp;idx=2&amp;sn=88b548d360e026b8d2ebc11d66d54240&amp;chksm=b0f90ab7d1d671e5409b4db77c4751e5de67e413047043a76b51f710bfdeabceaed4caf741b6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 17:59:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安卓曝高危DoS漏洞及两个遭利用零日漏洞，请立即更新补丁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yq4zOIeIJRH1zJC1ytMPbrUxYOWwJM0dj7EiawxgLchhput6B8oIqYyibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日发布了2025年12月的安卓安全公告，披露了一系列影响全球主流移动操作系统的高危漏洞。此次更新尤为值得关注的是，公告中明确警告已有漏洞在野外被主动利用，同时安卓框架内存在一个关键级远程拒绝服务</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604701&amp;idx=3&amp;sn=c8c472c30c1e3e7a9a38dd3a152f27c6&amp;chksm=b0e34fdb366e0ff66ba072dc70aea35abac68c79f2c4e860022a1f9251d728812e1db6bcc1ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 17:59:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Android-ARM64的VMP分析和还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4sWia8jib52Cic2LSahKZ9aRibDLnufCzoFG1dauZUaUML3WGzKohP5dEOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景OLLVM扁平化还原—新角度：状态机里面分享了代码保护之一的控制流扁平化的还原思路。控制流扁平化，实际上就是对基本块之间的调用关系进行调整，但基本块的内部保持不变。而更严格的代码保护，是对基本</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=1&amp;sn=0670c0f5e68f62656d15ffffb6bb7f67&amp;chksm=b09de28132918e76dfb4e5f627bdfb3fc77b44d3e102acba77221d1033b1981c4f4a77fe475a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Outlook高危0点击漏洞PoC公开，无需交互即可远程执行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FGes13qvvST96ROkZCtssTrhqYAWufl2zULDf6708hUnsoKNq5HKER5tI8sR8rTMFUqhl8DyE3rA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，针对微软Outlook中一处被称为“MonikerLink”的严重远程代码执行漏洞（CVE-2024-21413），安全研究人员已公开概念验证（PoC）利用代码。该漏洞CVSS评分高达9.8，允</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604640&amp;idx=2&amp;sn=5c18988c87f29aa71e037b8faa8bbddb&amp;chksm=b04974b429dc33311dd345c22b40617d473c9f328fcb0fe14eff5fc2a0dbd2106e6dfe1fa810&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

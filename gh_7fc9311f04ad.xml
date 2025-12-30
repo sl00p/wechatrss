@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大模型在需求分析与设计中的提效实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvTGzzFk5ibHxbZdVzl11HoQDLoy07e1DGzWWibicZQvv9HlhlWIdxl6icjpnGQHLf9qjfficuQRAaRUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景介绍随着 AI 技术的快速发展，越来越多的企业开始积极探索如何利用 AI 优化产品开发流程。从初期的产品需求文档（PRD）撰写、系统分析与设计，到高质量代码的生成，AI 正逐步渗透到开发全流程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556918&amp;idx=1&amp;sn=396bf83218b5b0c66696c006a64829c4&amp;chksm=e875ff73e2f7c6cb90513e822711d0dfa14f12cdf1df8c6513dfb522d35bfe2972570d9894df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 31 Dec 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AMD服务器上一个诡异的性能问题诊断历程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVSspHj9CnNkd4FNM0D3xCQduPBDib9Z9iaIKqvPMCBxticDDXEicMibDsZyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文复盘该高优故障的根因、排查过程与应对策略，为新硬件平台上的混部稳定性提供关键经验。本文档分析工作由阿里控股-平台技术-基础设施与稳定性工程团队同学完成。一、问题发现从8月底开始，集团的a</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556836&amp;idx=1&amp;sn=1a9c1be1c7886c9b3d5e6d71a3eb8119&amp;chksm=e82b3388d32fbf3cf2e7a63a074b3341a92cbc693fe23c9f040203ad86b01dad8872a33d9396&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltcJC7u9oBKzorAuyxB3HQh8eOptZZunpGk061gicIkrS8j6uaIFxA6ghg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文详细阐述了大语言模型（LLM）生成结构化输出的技术演进、核心方法与未来趋势。传统上，大语言模型（LLMs）被设计用于生成自由格式的文本。这种输出虽然连贯且富有信息，但缺乏严格的结构，导致</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553794&amp;idx=1&amp;sn=4d87268b65f2c1a968861d54731515fb&amp;chksm=e8d7119d8b1d27e1c0270db46708bf92e0feca12077bd037066b5ab4028c2ad61ebf47210952&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从人工到AI驱动：天猫测试全流程自动化变革实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJPWBYsOwjsHfTJ1ian5ISo8E8lLAImeaibC3geK2O4HYFdhOSWTaY8HfbMZ40auLWicPS30oJF9vlzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI时代天猫技术质量同学在质量保障方面也不断探索AI在测试全流程提效的落地方案，传统测试工作链条拆解为“需求解析 → 用例生成 → 数据构造 → 执行验证 → 对比校验”五大核心阶段，而我们的目标是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553721&amp;idx=1&amp;sn=514effd96bde9974bd83937ecfd1f7e4&amp;chksm=e8a59f3d907567d17ccb0514f96bc2a4b4afe582d732a20dabc4df8ca29514ff9b1172b629d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
