@@ -6,10 +6,58 @@
     <description><![CDATA[InfoQ公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/PTEicMoGiauKgQ6e9KHAHrCrpxicQMEmhibic8fSNOyzbBQwNMBwyxR2gemNX69icFBl8Ddiavkv0U9hTDpslT3ebIVtEzWj0u7Od7icliaNtrHsbKRYtleEM6nfJdbEG0vppv3EI9PNrRdpiayia0gsVgUDkRVag/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/RHXTBPgY9N0vCdcIO23ebdDP0630aeFicbLGYDK3VGVoMu1zojhfUVNGcYibuZdnqXTZ8aVw9s37K4c6Eic8T8ComvHdkk350dMCNUsWCTA7o0zScBmddZGJ3EnyQ5ibPq85ZExB93ZSWmRulIH0yD0uDw/132</url>
       <title>gh_b443474846ae</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！项目做到一半突遭中断，官方解释是“误伤”？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaSXkAR1tickct7ZB67mlCGic4rCP3iazO7ibyTvribsEkdiaTrmMiaU1NIHy69w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 在 AI 编程工具快速演化的当下，模型能力本身已经不再是唯一的竞争焦点。谁能控制模型的使用方式、定价结构以及开发者通道，正在成为新的博弈核心。1 Anthropic 突然阻止第三方工具调用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271024&amp;idx=1&amp;sn=04338ed648c5243ca2dba6d1abecd9f1&amp;chksm=bc064ada319d834a9e53651bd8c17991f9de3f988e25bca36184b7012a59e6c2051371e75bba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Jan 2026 12:01:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code 的创始人揭秘工作流程：开 5 个智能体“玩编程游戏”，不看的程序员就落后了？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNuhTc83iaYIPDBVueSOpLLe2dM2wSRjFwzsSr7g5PBsicwtQ6dCHDNhsZnDKLahvDEjHgGiaEmtZWYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫 过去一周，工程界正反复剖析 Boris Cherny 在社交平台 X 上发布的一系列推文。Boris Cherny 是 Anthropic 公司 Claude Code 的创始人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271024&amp;idx=2&amp;sn=61b4efd1840b05f1c657d0a72e5a27b5&amp;chksm=bcc991bf93db806a4ac99e9e3e75868ea0261695694767dacff50c46a32b696ee04b9ed0e966&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Jan 2026 12:01:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[架构师困境：选择已被验证的道路，还是自行开辟一条新路？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNuhTc83iaYIPDBVueSOpLLeaKCftN4icT1nlLN63lSibeQtrDgeFW36e55Ebp76pmkiaHnW0WOl56FBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Pierre Pureur, Kurt Bittner 译者 | 张卫滨 开发软件就像一次旅行，在这个过程中，团队需要不断做出决策，既包括他们所构建产品的功能（即 MVP，最小可行产品），也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271024&amp;idx=3&amp;sn=73f5f6925454f8b6a80b05164f881724&amp;chksm=bc682f81444da094dbf9ca53776d37ec9985a6dbe21ecfccbca8345c315648d6c47409765fa2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Jan 2026 12:01:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[软件开发人员认为无需关注却可能会影响其工作的那些事]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNuhTc83iaYIPDBVueSOpLLe7qWOs7ydlicmJtUic23MfiaJAspDsq0jbGpUDK5vEDCibdZ8ibTLmR6OqJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 平川 在 哥本哈根 Goto 大会 上，Holly Cummins 发表了主题演讲，呼吁开发人员关注那些会影响其工作却常被忽视的问题。她警告说设</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271024&amp;idx=4&amp;sn=48719260c90057038ffc52d1dfb353fa&amp;chksm=bc6423077d172925f173064a807016fb9ccba70953859e5fac2073c6a9be404e95f39f43d65c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Jan 2026 12:01:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Manus高溢价收购背后，是Agent开发落地困境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VOo7PptdENkYYm2ic3QgXCQRiax9n1TqXia2LBBnSweddsIXs81w8dbjnsveIibAoxrjzysE6H3GTTtEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 李文朋 编辑 | 王一鹏 最近，“Meta 以 20 亿美元收购 Manus ”的消息传得很热。Manus 曾被嘲讽“套壳”，但业内人士认为，虽然 Manus 整体架构和理念不算颠覆式“新”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651270953&amp;idx=1&amp;sn=e86d3c3e5c057cfdb74e70a30f6189b3&amp;chksm=bc93483b4c969c84869cba12e8b15be95b4139423faada31973941a1e856594cb7a53d55c516&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“机器人一次性卖完太亏！”真机智能刘智勇：今年中国本体厂商将大淘汰，拼的是世界模型？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNuhTc83iaYIPDBVueSOpLLewZHl7SmkqdWSodVKvXNQsUnicWRdXsK4tR4xLuaQkanicF1ImwYP0OOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 本文为《2025 年度盘点与趋势洞察》系列内容之一，由 InfoQ 技术编辑组策划。本系列覆盖大模型、Agent、具身智能、AI Native 开发范式、AI 工具链与开发、AI+ 传</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651270953&amp;idx=2&amp;sn=4c93b07ebb2a96b54910ff2992049e1b&amp;chksm=bcc195929a2abf49d5619459fd312a5ad075e06e4539ec5b29d9cd129ea78ab40ccdf291a610&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[7 天 AI 搭子实测：你的判断决定哪款应用值得留下！| 模力工场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VOo7PptdENkYYm2ic3QgXCQRZqVAcQyKTuNNHXEjOCEtkMWnHyy22MrCkXrppBz5oOBsmORf7r3HRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 霍太稳 @极客邦科技 如今，AI 工具越来越多，用户的效率却未必同步提升。哪些是切中痛点、用了就回不去的生产力刚需？哪些又是看似炫酷、实则鸡肋的应用？答案不在铺天盖地的宣传中，而在真实用户的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651270953&amp;idx=3&amp;sn=89b266a225dd9c7d5a551b0bb93a05fb&amp;chksm=bc1e5bce08c41012f2a6f45b7af5ab03f2a157713119f36e135d202dacd1004df55961b5a5c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Bun 推出内置数据库客户端与零配置前端开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNuhTc83iaYIPDBVueSOpLLeTib5weibQowia8MwibakFMPS4q0wE8HE36pKce69qqyZh4os63JLOGjwdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 平川 Bun （一个快速全能的 JavaScript 运行环境）现已发布 1.3 版本。此次更新堪称迄今为止最大的一个版本，不仅实现了全栈开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651270953&amp;idx=4&amp;sn=308d99e72a06cb72745ed0ba8a34a023&amp;chksm=bc0d1f8c7ba331e6bcec2831d7418e07e3e94a88d6c7e5b3e704ca0f86cfac08ba8d09deb65d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 13:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[裁4000人换来的AI全白搞？Salesforce悄悄改架构：用 “老技术”故障少还省钱，网友怒喊：CEO零遣散费滚蛋]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMHjZmWxZibj22xuF3R2ia8mn2ib0IFCeW44zaMCZQ56g8dJVtClqo2GNeIBYyvTKceVHlPSlhRfsTwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫“我们不再需要那么多人手。”作为全球市值最高的企业级软件公司之一，Salesforce 曾大举部署 AI 并裁撤技术人员的数量，将客户支持团队的人员配置从 9000 人缩减到约 5000</p>]]></description>
@@ -261,54 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPhd6kicD0icKLP8DnNb0AHzibIjFEibx2LXQ9eXsFOiaVNFCxs6oiaG5ntB67M83OvmkQUMRPywq87odIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜尹小明 编辑｜李忠良 策划｜AICon 全球人工智能开发与应用大会 在大模型技术飞速发展的当下，大数据领域的各类应用如雨后春笋般涌现，从数仓开发到 ChatBI 问数，再到深度分析 Agent，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266336&amp;idx=2&amp;sn=1a16bda146cc3dccab8681199c66d50c&amp;chksm=bc67b36c7056b43bd91f8b837ea09c31ee144b588926008ec66dc493a44b050720004ef54818&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[搅局者来了！智谱重磅开源AutoGLM，让“豆包手机”人人可造！官方：AI手机不该掌握在少数厂商手中]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPhd6kicD0icKLP8DnNb0AHziboXDuUUYsTficeBmV8ziaq2dLsP9la8IRpbdMtZkIbfbChdGjuv3ic7biaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 木子、高允毅2023 年 4 月，在很多人刚听说“大模型”这个词的时候，智谱团队开始研究一个听上去不太现实的目标：让 AI 真正学会“使用手机”，也就是像真人一样，对智能手机等设备具有使用能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266336&amp;idx=3&amp;sn=f9c0c11e5fb5594fe5c994bcc3ebad2f&amp;chksm=bc90a27142cc88cce142824b032d596c5b051bd5ec751e659cd584e8630050893e5680771f09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Reddit 将其评论功能的后端从 Python 迁移为 Go 微服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPhd6kicD0icKLP8DnNb0AHzibyZib4wILuNkFmlGuwFhy6kD25iaEPKoJDiatZwjlkcwniahQS5COl53huw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 张卫滨 Reddit 完成了对其评论后端的重大重构，从传统的 Python 系统迁移到了特定领域的 Go 微服务，以提高性能和可靠性。这一变化解决了 Re</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266336&amp;idx=4&amp;sn=aced522497c30757cc97bac9d967f108&amp;chksm=bce27fa36468c8241a3d7ab6f0fa7cb4a17ee33889b6b71a6472f58e4d65dbe81619f144c7af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不融资、不烧钱、不扩团队，华裔 CEO 创办的AI独角兽打入谷歌、Anthropic核心供应链！如今营收近百亿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPhd6kicD0icKLP8DnNb0AHzibzKf3uFxn5RRb7ibGpqibhfAEFicmAhn69gMd7o0gialoibCM2T9eRhcE1sQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑 | 冬梅 在 Meta 豪掷 143 亿美元入股竞争对手 Scale AI 时，这家由谷歌前工程师创立、员工仅为对手十分之一的公司，已悄然实现了年营收超 10 亿美元的业绩，且从未接受外部投资。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266230&amp;idx=1&amp;sn=777b81be623d16a1066bbeb14e89d146&amp;chksm=bcca38ae3af074b197da1d5ad481d9d69f9a597f845ec266f03802561be91d1b5aab6a3511e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不再为告警“救火”：AIOps 如何重塑腾讯音乐的智能运维体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPOFQDORLnAicSWlTZ0xRmhru8D3yjqxjBXz2q2icsYrnqXUL19H7qcEEQHc8tVaYuIwMB8O47MzYvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜边雪冬 编辑｜李忠良 策划｜AICon 全球人工智能开发与应用大会 在 AI 技术快速发展的浪潮下，企业如何在有限资源下提升效率、保障质量，并推动智能化运维成为行业关注的核心议题。InfoQ 荣</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266230&amp;idx=2&amp;sn=bdc20fa6b6a204b8bc04cc398d734c0f&amp;chksm=bcc950e3b22e19eb2f3ef8366e9f31200c7e23cf207012561cff1773adffb79cbc29f1ef0400&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1700+学子竞逐金融梦，产教融合育见未来——2025深圳国际金融科技大赛圆满落幕 | Q推荐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VNav2bktVLn1Dr0zdC0TibsbBP9SssFlmfz2A6jtqzIVibKP5u60p6nQnLMzibXVHdPHT6whjFEc5Jfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑 | Luna 12 月 5 日 -7 日，由深圳市地方金融管理局进行战略指导，深圳大学微众银行金融科技学院、微众银行、InfoQ 极客传媒、狗熊会等多方联合举办的 2025 FinTechath</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266230&amp;idx=3&amp;sn=34fc26c050148aef16f455a6ae62298e&amp;chksm=bc12860c40a9408684a4aea36682f540128de636ce23a9d0979b4ae429fea86ab2f171645fdc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPOFQDORLnAicSWlTZ0xRmhrohdhmHcTj6YzVfjlgwSCl7uVFpiajiaR7wFNriaGDtG1NvuicWrtqqMwGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当企业完成大模型的选型与部署，真正的挑战才刚刚开始：如何让模型不再停留在“试验田”，而是深度嵌入 CRM、ERP、财务、供应链等核心系统，形成可度量、可治理、可演进的业务闭环？走出“试验田”，进入“深</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266230&amp;idx=4&amp;sn=d3d231771ea2ce9d5e6f4f1107c149bf&amp;chksm=bc742354503df6b8e7c58e86e9fc68206625b2711caddac4940d4e3b9cb47d0c37f01c18c3e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 13:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent如何重构企业核心系统？深度拆解Agent、多模态与组织变革的实战路径｜AICon]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPOFQDORLnAicSWlTZ0xRmhrHibREHscrCE19Hlq8sWNv3FUibK0jSr0271icQvcqAOUxyCX20ez5uicog/640?wxtype=jpeg&amp;wxfrom=0"/><p>在由大模型、Agent 等技术驱动的新一轮“生产力革命”中，越来越多企业开始关注真正可规模化落地的 AI 生产力：如何让 AI 深入业务场景、托管关键系统、推动组织与流程重塑，正成为技术与管理者共同面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266071&amp;idx=1&amp;sn=f0a1e967116155b08c136eea6a54ed64&amp;chksm=bc0305c039dd24f67534b87e488dda57541b63d40b75381429f2dcd3171e3ffe61787c2ac58b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 13:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[摩尔线程放大招？新一代 GPU 架构即将揭晓 | Q推荐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPOFQDORLnAicSWlTZ0xRmhrCjPsJqXZL9USW2cBmRgib1dBDMMDZ9LSIiblFTuaMiaiayccPBOq9icOASA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 12 月 19 日至 20 日，摩尔线程首届 MUSA 开发者大会（MUSA Developer Conference，简称 MDC 2025）将在北京中关村国际创新中心拉开帷幕。作为国</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266071&amp;idx=2&amp;sn=a831c9391d8af714d7616d06836917fb&amp;chksm=bcd0603c727dee63d622a9db449671517d822a958c58230eb6a6c369630d217f632147596194&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 13:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

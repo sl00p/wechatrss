@@ -6,10 +6,22 @@
     <description><![CDATA[OSC开源社区公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/Viau4nc1b9VJibaYn7qRAicza2v6mVWG3G2Sj2GOUlYChJGTRa8tx8whLN19RKyEUJlpHVLdpo7Y7vqFKRwGMLhYm0yMkfqEL2ZWZzIJP0GbYiak3MLmfuHLX3TRXBibKI9nL/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/mrn5QWShAcibBZ0zpMI9MyxShicicaSEGCKSRBtQxj3nB8AZqLEFhbycwkLlfbnqbwgFcuzWKBVicv1okkNoFGEmDYciaiaGF9urUb4BFmv5Wso52gF3Tocxj2PRiaglBYINEcib/132</url>
       <title>gh_430521f7587e</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[放弃MyBatis，拥抱新一代Java数据访问库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicCOm8JiaV8ribibuxLZQDS3pWJp5q9jCQgNokPcGDVYHU0dIyWj5g5uRIGHg0OhbGibJ6zTeCkO37CHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据访问层（DAL）技术已经非常成熟，从最早的 JDBC 到 Hibernate、MyBatis，再到 Spring Data JPA。我们习惯了用这些框架处理数据。然而，当我们把目光投向“数据”本身</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236993&amp;idx=1&amp;sn=8c7fc9b7c614b5aecc4fcaafd5219120&amp;chksm=bfd623200d2e7fa2ebb84c5838b8f3b008235c433a26e2071dedc542572be79017c4425b6c91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 15:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[给腾讯点赞！FFmpeg再次感谢他们提交手写ARM汇编补丁，性能提升2倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicCOm8JiaV8ribibuxLZQDS3pWZ6E1KI6ly4rrWTCLBCkSPcGnXhlyKPEaJJ8mJ3IS6OO99IWIKndMBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名开源多媒体框架 FFmpeg 在社交媒体公开感谢了腾讯公司向项目提交的手写 ARM 汇编补丁，称比 C 快 5 倍：据介绍，这些补丁可以让 FFmpeg 在 ARM 处理器上执行速度比普通 C 代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236993&amp;idx=2&amp;sn=7f2e3111d642b5ff60e8ac3911dda621&amp;chksm=bfa1b90162e92f258498138224916b6d15f35f1af9d364ea02d05f9d00272186db132a5ec560&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 15:15:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[罗永浩向开源社区捐款累计约1200万]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8UbbNbaO9csfB8N0UGCwlTgv6jWHMG5MbBichdaXdJaWRdYTv0b1wOiapIk5DYJtoD9HTRialDkhtXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>12 月 30 日晚，罗永浩在上海市徐汇区西岸国际会展中心举行「十字路口之 2025 年度科技创新分享大会」活动，此举被外界普遍视为其标志性的“科技春晚”在阔别七年后的回归。罗永浩在现场宣布，大会的观</p>]]></description>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG43fDcNoALWjyU53cUPKcibbJJAwm5xteaHaWvVOhuDQiaEJNgn41oyzJU1W5t2d8Jw8OHlxqx25icRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，某企业在对二进制制品进行安全扫描后，但线上生产环境仍然出现了包含 「0day漏洞」的制品的情况，引发紧急下线修复。分析其原因，主要有以下两点：没有自动更新知识库：传统模式下依赖安全厂商更新，更新</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234206&amp;idx=2&amp;sn=6f692c2105d5241e860b840a86e2a9d8&amp;chksm=bf77bd2ea98485283f8b88f62e4ad3d9e8fffb7dd33e9a51dbbf6e97f9053bc0a1451f39e95f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 17:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linus谈“氛围编程”：可以接受，但不适合在生产环境使用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibZo1zxAz0iavNSoYkkHYczuv7QnlDoIfZda27YU2t35ovbKGZk4CDA6BUqRyEkST3kZqZIYVrBuJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本月初，在韩国首尔举行的 Linux 基金会开源峰会上，Verizon 开源负责人 Dirk Hohndel 对 Linux 之父 Linus Torvalds 进行了采访。期间 Linus 谈到了对</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234183&amp;idx=1&amp;sn=0acbc7058b08abdcf1847c2404c28e92&amp;chksm=bf8ebfc66bf04432f1248c995e4a10251d390e973cd361e49f9f8c00935f1b3878ae99aaebd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模力方舟 AI 沙龙深圳站：看懂算力到应用的下一个主战场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/olgJCJjcicwEQny6j5LJbS8zGs1CppOzKtibj4JSjeIlibsRRe1KI9XYycL76KWE1AACHicicHHvpibrJuX3FpEh1odQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年，模力方舟 AI 应用开发沙龙已在全国七城连续举办，围绕「AI × 算力 / 模型 / 应用」展开系统性的技术交流。第八站，我们重新回到沙龙的起点——深圳。这里拥有完整的 AI 产业生态、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234183&amp;idx=2&amp;sn=88441c8666f0daab9e6965a8c972781a&amp;chksm=bfe939cb41eb21af2a179825e27102e3e2c623f66fb2aca8ddbd3923dcbdb8eb768d37b9b2e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:58:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

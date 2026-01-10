@@ -6,10 +6,22 @@
     <description><![CDATA[逛逛GitHub公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/ZibdkXsXhoLeFSt4iachU6zia7kQibNEMBwn8tgqIL0GSgPb82go6YseUiblfJJCvP69nqwFGGVdosibADOpYO5WibHtlr7lVdJlknHTCrKVLheol8/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/fIXD5mLZ1qI7Y6Wdn7c61CibZKuRFX1I1ywb0uCyjibb5YziclaSmBoN2kX2M2ddibyzq8hl2mW4aicx3agKdQJnvHZPLYqLibXwMHELYzfAXeyPw/132</url>
       <title>gh_6f55ff91dc49</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxlrpzbEMgCw6LB32axFCWEHlSxhTBH3qicsLC0MbvAcasa7613NH0yXouAb6M8ZoDtox2v2sB4oHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClaudeCode Workflow Studio的开源项目是专为 Claude Code 设计的可视化工作流编辑器，有点意思。如果你是 Claude Code、Vs Code 的重度用户，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530482&amp;idx=1&amp;sn=80e975e2997f28dcbee2ab4a86d25189&amp;chksm=f839b8f61222ab262c0d91c145d358aab61080f2d93a68c9e3690984549d4b228de20874bffe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现了 4 个挺实用的 GitHub 开源项目，推荐给你。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzHhFMgJX87PAXeVVebRO9F6LV7VCfjEYWZJNIJQsQ7SyrKoQcypKibg2sduNpOxOcAfVJyibwKGwhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01远程桌面软件CrossDesk 是一款开源的远程桌面软件。现在在 GitHub 上有 3.3K 的 Star 了。它主打轻量级和跨平台，我看了一下它的代码仓库，主要使用 C++ 编写，占比很高，它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530437&amp;idx=1&amp;sn=385e9fb4124190c72b566fe9fa7df586&amp;chksm=f8cf2cd0b7eb57882da3d6f787a2bebfcb8c8b596b07c56b38495b047401156a9ae6f1310230&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 16:52:59 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[盘点 6 个本周 火火火火 的 GitHub 项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruw7L1rTOs9DELQniaLrRTSHE4bq7Ns2pnZAI3Hz7zDJHXxCKEwtMxyAiahrgsX4Q3lpibAXXHflrPSWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用 YAML 去写简历写简历最烦的就是调格式，RenderCV 的思路挺有意思，它让你用 YAML 文件去写简历内容。你只需要把你的经历、技能像填表一样写在配置文件里，它就能自动帮你生成各种排版精</p>]]></description>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZjsuZCjiaV4FWmQCgTDc2JwtMWfCcLfSwRz99qrsIosvmeu44MH5brolA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01数据分析 Agent这个叫 DeepAnalyze 的 GitHub 开源项目是清华和人大联合开发的数据分析 Agent。开源 2 周，现在 1000 多 Star。给它一堆原始数据，它能完成从数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528402&amp;idx=1&amp;sn=989eda6a027819a77a4586e7077a9a93&amp;chksm=f8d33eaed02dca3de4b52cc8398073f574d26d6eba4feaca642347514f7a78df9a4993b97775&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 15:50:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[发现 4 个 yyds 实用 GitHub 项目，太绝了啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzdhl85OjSVDk0iccBY19LMoSTuUKX0m70IWLlbT2mCOyRP2T37g9U0BDOVFFMTWhHOh0iaLEZeibLhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01英语学习工具abandon，abandon，abandon。这个开源项目能通过打字练习帮你记单词、背文章。无广告，支持单词 + 文章双维度练习。现在已经 5K 的 Star 了，还挺适合想提升英语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528369&amp;idx=1&amp;sn=b81f55539d909a3de4906b9dab316d8a&amp;chksm=f89a47a0286a2e4ad991868f6f3618bd61243ad972ac12ab7dce66d6ea793cfa020245355be8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 10 月份 YYDS 的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruylvibdTDZDFkje0USriayv5AKT8JkFZ3vDoeiboShkh1wQmXkRD7zyZtJbeicf1Dq5gVapYQKIsyOEvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01交互式提示工程教程这个叫 prompt-eng-interactive-tutorial 的开源项目是 Anthropic 推出的交互式提示工程教程。在 GitHub 上斩获了 25K 的 Sta</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528317&amp;idx=1&amp;sn=0d1cc834938adc4652700305da4f9b49&amp;chksm=f85b04a8b213325aeb7ff8bc0f1bc61d1400d7461f6e81dd9eb7e2d35864674fe313a5ab3c7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

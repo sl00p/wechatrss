@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯玄武实验室公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/A2WJW8bNA6VSmcmED8UQ3l2xvaia3sNPPWvyVWZVxJeibOcnlboAiciaEL1yIcyPrMjbGzu6dbtfia8Xk719L7VVsYxIkx2PduBt9xO8sNxdU7h8/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/aNeeRXwDXmA7RuBjYh6zq59Q7K7drZ1YibaC9oK0U2Nicic7HiaEJ4icLH0RwotozvzmkVmnxtMo3riaCZQZV7bndGlYr4PicJMyaupcpn3iaCib5e0U/132</url>
       <title>gh_6095d8d90146</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[每日安全动态推送(26/1/9)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用内核补丁保护机制在Windows中隐藏进程以逃避任务管理器检测https://cybersecuritynews.com/hackers-can-leverage-kernel-patch-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960354&amp;idx=1&amp;sn=ff35b3ed34eefc50ca32f7c5c8d6593d&amp;chksm=8a2f586e1b113a4857529a1ee71d4346ac0c0dba1c35e12e2716c1f5e358e5c355722fa5d46f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Jan 2026 13:00:22 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[每日安全动态推送(25/12/31)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• GnuPG 多重关键漏洞事件https://sectoday.tencent.com/event/05UMapsBvMLTtVn_Hifm近期，GnuPG 被发现存在多个关键安全漏洞，涉及签名验</p>]]></description>
