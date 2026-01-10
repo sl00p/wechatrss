@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“Gemini 3不错，但我们也快发了”：Mark Chen评价谷歌大模型，讲清OpenAI如何给300个项目排GPU优先级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaSvVLpWibDT3GdQFiaBGic5icZJZWiavp9dpichO0PAvVicLXmmPl31DdG9vKnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 傅宇琪 12 月，OpenAI 首席执行官萨姆·奥特曼宣布拉响「红色警报」，将调配更多内部资源以加速改进 ChatGPT。在当前白热化的 AI 模型竞赛中，作为行业内屈指可数的 “明星企业”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271147&amp;idx=1&amp;sn=87a6e2be4e423ae2aa8f6726ff67b759&amp;chksm=bc6d76e9afd431ab3ceb382b456e85d7b135fdc674d9fbcf6190cecec9b6a29c40b92271f57d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code开源了代码简化Agent，千年“屎山”代码终于有救了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaSKpdmAObGakPa64bZF8DvvSq3n67hrUMc6jqq9fQZFicK4lzA7h21BUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅 Claude Code 开源了代码简化 Agent，千年“屎山”代码终于有救了！Claude Code 的创建者刚刚开源了他团队用来清理大型混乱 PR 的内部代码简化代理。它旨在长时间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271147&amp;idx=2&amp;sn=a2becd0deac1389aa8f084a94c802ffe&amp;chksm=bca61376cd4b570ac7338ddf8316a0cbb790c4f0863054ec46b77639b2fa9e2a38aa2605bb9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek-V3.2 在推理任务中的表现优于 GPT-5]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaSYyz3I6ibJCmOm0ucavx2UP2ACLppp4QTCaCQ6zzF4vffUIZf2y6hhnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Anthony Alford 译者 | 平川 DeepSeek 发布 DeepSeek-V3.2，这是一个开源的推理和代理 AI 模型家族。在多项推理基准测试中，其高性能计算版本 DeepS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271147&amp;idx=3&amp;sn=22fea25f3a67ec9aa02a87e1361dbe9b&amp;chksm=bc8ea9d3cc84db7502ef4aa4c069173934229c1718094462999dbcb53bf8b3289af11a23abc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[JEP 525 为 Java 的结构化并发引入超时处理与连接器优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaS4bdVC7ztaG1pZ3TD1C4Rm8iaObvGhibO5fbsguP8YMmWSfzFRkFGLdZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | A N M Bazlur Rahman 译者 | 平川 JEP 525（结构化并发预览版 6）已经完成，将随即将发布的 JDK 26 交付。自 JDK 21 发布以来，结构化并发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271147&amp;idx=4&amp;sn=b16043a1e0b6753d91b2370ef5b894c5&amp;chksm=bc69a5d027f8c9811ececd162edbbf9f1c26a22fa31a807fda090f083cc177923670ce62b4cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！项目做到一半突遭中断，官方解释是“误伤”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMRB3wYvrtvgpo6X3q7rDiaSXkAR1tickct7ZB67mlCGic4rCP3iazO7ibyTvribsEkdiaTrmMiaU1NIHy69w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 在 AI 编程工具快速演化的当下，模型能力本身已经不再是唯一的竞争焦点。谁能控制模型的使用方式、定价结构以及开发者通道，正在成为新的博弈核心。1 Anthropic 突然阻止第三方工具调用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651271024&amp;idx=1&amp;sn=04338ed648c5243ca2dba6d1abecd9f1&amp;chksm=bc064ada319d834a9e53651bd8c17991f9de3f988e25bca36184b7012a59e6c2051371e75bba&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VM0pClv9zQLmW9SlEQnWvbZLcX6HuumnsjHXRapUywOZDlH5icCaicSOkU7TARsI4lJuck4ibubQB6zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 在大模型训练的高速迭代背景下，算力需求约每六个月翻一番，远超基础设施建设和摩尔定律的增速，同时数据中心能耗急剧攀升。尽管企业仍持续不断地加大硬件投入，但行业数据显示，GPU 有效利用率长期</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266437&amp;idx=2&amp;sn=f26ca2443d786b49ae48da0bcfc554ea&amp;chksm=bcf38f3f9b78e2914e67424123dee6a4a8b1ad94a9c828e581bc47b30b307f495b518e5e8f78&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Dec 2025 15:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微前端：迈向现代化前端架构的社会技术之旅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPABP79kkSeMibLLRMshOxvsajbwptzQd22cQk2N0BCgWMTO5Vr6uVhynEepNP6q83MWNGqQBxh3cA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Luca Mezzalira 译者 | 平川 多年来，分布式系统定义了我们对后端架构的思考方式。我们学会了将单体应用拆分成可以独立部署的服务，拥抱自治、快速反馈和持续变化的理念。但在前端领域</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266437&amp;idx=3&amp;sn=0c2fb2638b540782b5e866d3460cbaee&amp;chksm=bc1d544c338fde1c2bcb802616fae2491f75e4c4d2e71c23952aa36b8a34963e2f9f169f119f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 15:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 盲测新模型不如 Nano Banana Pro？曝 Altman 要暂停 Sora，死磕 ChatGPT]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPABP79kkSeMibLLRMshOxvsX6UUiabjjdtOvP2THb4qibDoy40dDJuPaoj5dgktO9iamo2zNzdATZZrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 近日，有网友发现 Notion 可能正在内部测试 GPT-5.2，代号为“olive-oil-cake”。此前，有网友表示 GPT-5.2 最新发布日期是当地时间周四。此外，x 上还</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266437&amp;idx=4&amp;sn=967424922817b821b37425d08abec29d&amp;chksm=bc14d94684632ff04a9613121d359b8ca4081e49c74a9c883c8d3dc875d77fc76829eceedd72&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 15:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent是雷声大雨点小？5位创始人吐真言：“内争外患”还被错配、基模威胁也挺狠]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VM0pClv9zQLmW9SlEQnWvbZsyibmX0ibwfexztD9hqaRO9VszMkxNM0AMrsInv9Iu2p9DzVE8gzWibhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫编辑 | 蔡芳芳本文为《2025 年度盘点与趋势洞察》系列内容之一，由 InfoQ 技术编辑组策划。本系列覆盖大模型、Agent、具身智能、AI Native 开发范式、AI 工具链与开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266336&amp;idx=1&amp;sn=d2e611a9eff6c95fcde827b02dd38e5d&amp;chksm=bceb6dc9a50ab61c1605f66e16cbc092faf8868454c5b77d8f5b01c88dec398c2464b4308af1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[评测也很酷，Data Agent 自动化评测的三层框架与实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VPhd6kicD0icKLP8DnNb0AHzibIjFEibx2LXQ9eXsFOiaVNFCxs6oiaG5ntB67M83OvmkQUMRPywq87odIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜尹小明 编辑｜李忠良 策划｜AICon 全球人工智能开发与应用大会 在大模型技术飞速发展的当下，大数据领域的各类应用如雨后春笋般涌现，从数仓开发到 ChatBI 问数，再到深度分析 Agent，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651266336&amp;idx=2&amp;sn=1a16bda146cc3dccab8681199c66d50c&amp;chksm=bc67b36c7056b43bd91f8b837ea09c31ee144b588926008ec66dc493a44b050720004ef54818&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 12:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

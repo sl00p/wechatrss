@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Instagram曝大规模数据泄露事件，1750万用户信息遭泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MAFUibhj6tStrHU8WbEV6WNHohonjHHicGEWCY0EH7NF87OdMUEjfSPPqibgzjs3dMyp95TEAxveuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Malwarebytes近日披露：约1750万个Instagram用户账户遭入侵，导致敏感个人信息外泄，目前这些数据正在暗网流通。该事件对用户隐私与账户安全构成严峻威胁。Part01泄露数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333951&amp;idx=1&amp;sn=d23f7879e6479a6818421484f4ea8e95&amp;chksm=bc215d7e45e2dcfc85767ad3e66d029656e0a0c065f138115703c11345f10bbd62e1b86305c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大型僵尸网络利用AI工具暴力破解全球Linux服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38MAFUibhj6tStrHU8WbEV6WKeic65kmhoHtBibkSKSb4mxsX1xa3prPwH0lDo2xzPIQ7TGdQyJwVCHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一种名为 GoBruteforcer 的高阶 Go 语言编写的僵尸网络正全球范围内积极攻击 Linux 服务器，暴力破解暴露在互联网上的 FTP、MySQL、PostgreSQL 和 phpMy</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333951&amp;idx=2&amp;sn=908404009cf1137ca874c16d5568d005&amp;chksm=bcd2c8b8c3ab605b3045ad610bd044725e27ff07f03efc09ef924be650c812917b0de50ac2e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：工业互联网渗透实战记录；12月企业必修安全漏洞；揭秘黑灰产AI的潘多拉魔盒；渗透测试行业术语扫盲]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icycH9yDEUA78sddIQVdK0cHgvj1GqicbpS5arf6HtUHS3BfBhxvYtfibQc6eianuz8OrsP250x6rX8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>银狐病毒应急响应排查处置；广工考务服务平台SQL漏洞；实战捕获的病毒样本分析。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333951&amp;idx=3&amp;sn=8013d6fcad15445293d04a12b1daa088&amp;chksm=bc8fa3357136f8b7d050776205b2629ffbf658f8c59c6400bc927e770bac30ed1f17ff46cd34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的智能挖洞搭档，已上线！| 蛙池AI内测邀请码派送中]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icycH9yDEUA78sddIQVdK0cAy1yGnG5ibuuHKb8KfwpxunqmCo3ZK6ktzhmbsGeZav6sjzaopZiaSfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>初级白帽想 0 基础入门渗透测试，该选什么？中高级白帽想借 AI 快速挖洞提效，该用什么？资深白帽想深化漏洞研究破局，该靠什么？当然是蛙池 AI！渗透、分析、报告、协作，一条龙全自动。你的漏洞，蛙池A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333923&amp;idx=1&amp;sn=a224be3ef910da6694fb058bd2cc4c32&amp;chksm=bc055601ed85c94555e2c33ad77bb17cfe5eae324d35b04a9c120bec6720eb467ce85550e9f4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39VWhkqgc5VDg6GAkRdn4BGMzWTiciccehv3ibhes3Im5cCSmCJekx2DrNEUeiaQhHibiadNoxG6WADn3OA/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已发布安全更新，修复一个危险的Windows PowerShell漏洞（CVE-2025-54100），该漏洞允许攻击者在受影响系统上执行恶意代码。该漏洞于2025年12月9日公开披露，对全球企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332055&amp;idx=3&amp;sn=c04edbcc2002482b821caa699429d9a2&amp;chksm=bc183f8e6893bc78693361bb310ce2c16024f549211fe826c7d534840d950ecf2525ea009078&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[React2Shell漏洞遭大规模利用：攻击者投放加密货币挖矿程序与新型恶意软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39VWhkqgc5VDg6GAkRdn4BGaCNLB6nlIM0Q3ycYBsF4Rh5ZgiarvV8eANKaHIBic93ZRvFcsGwA66Og/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据Huntress最新研究，React2Shell漏洞正持续遭到大规模利用，攻击者通过React Server Components（RSC）中的高危安全缺陷投放加密货币挖矿程序及多个此前未记录的恶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332055&amp;idx=4&amp;sn=e530d162696d6fca89c27cbee8e53a6f&amp;chksm=bca36f45b0f49a1a8c00a4ef9cb0c5597b193d934444c5f2321b5ad72e5cef646b06087f4d80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gemini零点击漏洞可致攻击者窃取Gmail、日历及文档数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvKlnFQ21Eq0yOdlJSr1A1fkfZqfmicJIvNG2Lr1ktJXGDXBBjrgAey2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google Gemini Enterprise（前身为Vertex AI Search）中存在一个被命名为"GeminiJack"的高危零点击漏洞，攻击者可借此轻松窃取Gmail、日历和文档中的企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=1&amp;sn=7d489eaaa2505c470dc260395dc2347d&amp;chksm=bc8b138268085f99024d6f19698574e00ac61d48b0f298868c30d925bf807f01c53bc6bbb0c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用AI自动化工具发现零检测的GhostPenguin后门攻击Linux服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38TJMDLxr9EPGGib49oQymrvGd5xWdbYuVibhl6T3DuueH7Uce6mUNjfNA33LuR8qLnPRicvurp2rzjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型Linux后门程序被发现研究人员发现了一个名为GhostPenguin的Linux后门程序，该恶意软件在过去四个月中成功规避了安全检测。这款采用C++编写的多线程恶意软件通过加密UDP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651332014&amp;idx=2&amp;sn=b4650dfb908805ec56cc75ac0ade2670&amp;chksm=bcc6e3b7359cd451235528f7a29f074634bdd530f5fe1bdd53d20af47cb2909f6542b4ea79ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

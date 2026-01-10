@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 8 个本周 yyds 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux2n9GTAv9q6qPSl8NQBALWYppvkXREuSRmFJttItzceZe7GRSG91bsib6jyic4Mc2Xic4MQrfhehsAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Opencode本周最火的 GitHub 开源项目莫过于这个 OpenCode 了。目前已经拥有 6 万颗 Star 了。类似于 Claude Code ，OpenCode 也是能让你在命令行获得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530564&amp;idx=1&amp;sn=cbb21f5d0f5a88beadda8eaf391495b3&amp;chksm=f870c76ae7fd52af3025c62c6d4a701afcd681b9266af3104d3361f1ea1a4eb86173b1e6f765&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Jan 2026 15:34:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxlrpzbEMgCw6LB32axFCWEHlSxhTBH3qicsLC0MbvAcasa7613NH0yXouAb6M8ZoDtox2v2sB4oHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClaudeCode Workflow Studio的开源项目是专为 Claude Code 设计的可视化工作流编辑器，有点意思。如果你是 Claude Code、Vs Code 的重度用户，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530482&amp;idx=1&amp;sn=80e975e2997f28dcbee2ab4a86d25189&amp;chksm=f839b8f61222ab262c0d91c145d358aab61080f2d93a68c9e3690984549d4b228de20874bffe&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZju8QnsicoiazmR72Via0zfqrky5aTcSdVC7ukVDB2PNvg38T6p58zPOyEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天看开源社区 Hugging Face 的热门榜单，发现开源模型 MiniMax-M2 登顶了。在它后面是前段时间爆火的 DeepSeek-OCR。这个刚刚开源的国产 AI 模型，在国内还没有掀起</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528435&amp;idx=1&amp;sn=b5ed24818d400556e09f986a05c475bf&amp;chksm=f8fe89d0162c567a06f638602276d6b66b3d35712e230779fe93697cea8c202e1811320c9542&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3 个近期 yyds 的 AI 开源项目， 有点绝。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux1SkLQNhQavBjndNgxQkZjsuZCjiaV4FWmQCgTDc2JwtMWfCcLfSwRz99qrsIosvmeu44MH5brolA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01数据分析 Agent这个叫 DeepAnalyze 的 GitHub 开源项目是清华和人大联合开发的数据分析 Agent。开源 2 周，现在 1000 多 Star。给它一堆原始数据，它能完成从数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528402&amp;idx=1&amp;sn=989eda6a027819a77a4586e7077a9a93&amp;chksm=f8d33eaed02dca3de4b52cc8398073f574d26d6eba4feaca642347514f7a78df9a4993b97775&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 15:50:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
