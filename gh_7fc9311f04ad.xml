@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CodeGenius Memory：构建面向代码生成的可控上下文系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZ8nlibavuTcHsS4HAqmerSb55o2fxIiaWz6mn3qP4VhTUL4niaEdTJFxO9R2ibBCKe8mKNf3lLwPgIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本次 Memory 系统重构是一次面向 AI Agent 未来演进的上下文工程升级——通过结构化、压缩与抽象机制，让模型在有限上下文预算下更高效地维持任务理解、目标对齐与推理连贯性。上下文膨</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557330&amp;idx=1&amp;sn=782f98f8d7199b31d4fa2a192615bdff&amp;chksm=e8d2a8a97978999fbf07465e931edb526574b5a7563b3b8f91b577743b2bfd97ded922af4d9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型在需求分析与设计中的提效实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvTGzzFk5ibHxbZdVzl11HoQDLoy07e1DGzWWibicZQvv9HlhlWIdxl6icjpnGQHLf9qjfficuQRAaRUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景介绍随着 AI 技术的快速发展，越来越多的企业开始积极探索如何利用 AI 优化产品开发流程。从初期的产品需求文档（PRD）撰写、系统分析与设计，到高质量代码的生成，AI 正逐步渗透到开发全流程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556918&amp;idx=1&amp;sn=396bf83218b5b0c66696c006a64829c4&amp;chksm=e875ff73e2f7c6cb90513e822711d0dfa14f12cdf1df8c6513dfb522d35bfe2972570d9894df&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1dogUNgKSzrqO9nTeAlhpd4shZwAIlibttRztFrrC0BZs5UmbTMllTicgBwOTlI9Nb2V6aCshR7GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文面向对 AI Coding 感兴趣的朋友介绍 Claude Code。通过此次分享，可以让没有体验过的快速体验，体验过的稍微理解其原理，以便后续更好地使用。2025年最热闹的非 AI Codi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553845&amp;idx=1&amp;sn=a0ae2d18311c5a6aa1d99b7d1768da1b&amp;chksm=e8d37f3c6e5aca85e5bccb37bb8d6462bca19e1733f1f658ca3f91fe5079fcbe552036b1e702&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文｜大语言模型结构化输出（Structured Output）的技术原理和实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIibDzAYvULcia4mo3T5ZLltcJC7u9oBKzorAuyxB3HQh8eOptZZunpGk061gicIkrS8j6uaIFxA6ghg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文详细阐述了大语言模型（LLM）生成结构化输出的技术演进、核心方法与未来趋势。传统上，大语言模型（LLMs）被设计用于生成自由格式的文本。这种输出虽然连贯且富有信息，但缺乏严格的结构，导致</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553794&amp;idx=1&amp;sn=4d87268b65f2c1a968861d54731515fb&amp;chksm=e8d7119d8b1d27e1c0270db46708bf92e0feca12077bd037066b5ab4028c2ad61ebf47210952&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
