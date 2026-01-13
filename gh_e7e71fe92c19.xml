@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ιldb 脚本 —— 你才叫 lldb，我叫 "约塔 ldb"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4JcjfN9CP8pMibBy7Bic5WjkOvojmggHnumhUBIvcWTjG2yl881t3S92A/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述ιldb 是一个基于 LLDB 的调试脚本工具，提供了多种便捷的调试命令和命令管理功能。它通过模块化设计，将常用的调试操作封装为简单易用的命令，并支持命令的保存、显示、删除和执行。如果这些命令的命</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=1&amp;sn=c8dad55246b2999ac66dab20f2b48fba&amp;chksm=b037cfce4438a641a1ebfe6d085c4bc895f807f71223a06783766b48e0aa84fed5bbfc072c32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[周五20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4vdh0aRZiafSEmO32Gy2xhvdgs4y3luhiaW9hu34MHcHET0DyKxITibVAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=2&amp;sn=c19b6cf882e4ef220bac802d3136a28b&amp;chksm=b09f4c212285465fab2942f865b9fe3f6ab0ff6dfcd8dfda2321dfab0350368b7ba501f4b64f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[恶意Chrome扩展伪装交易工具窃取MEXC交易所API密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4Kdpson4kfpro050BYnkFMSHxpcjCSiaJZ9HXdtibeLwt36UhvOZOIs6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员近日披露了一款恶意的Google Chrome扩展程序，该扩展程序伪装成一种自动化交易工具，专门窃取与全球性加密货币交易所MEXC关联的API密钥。MEXC是一家业务覆盖超过170个国家</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=3&amp;sn=f0d641262020efb1748e5902daad1ad9&amp;chksm=b08a3a95305b13500f0abe569aa0eb577b8c876f47f752731002ba1b66586cc9902e72eec6a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[《Linux Pwn 番外篇》重磅上线！6大架构全覆盖，异构漏洞利用5h学透]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JSOMSXg8TC48Hp0vjTDTkUr7EoSqqMq1QHc3zCVrVLcunwDiaeZJZiaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=1&amp;sn=5fcf7ec92bff6761d0d98524fa5e166a&amp;chksm=b0be70d8056f3047aeb9b3b60f7eb8cdc27b28e25fed09e8a78d5f1865fd3e3b324d839b69dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh58O3CLljicgLN3ARL3QbzaUHefhxNbDZXpY5VaAs0aYBiaPUv3mkkNMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全研究员 Rakesh Krishnan 曝光了勒索软件团伙LockBit 5.0的核心基础设施，包括关键服务器IP地址205.185.116.233及勒索泄露站点域名karma0.xyz</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=3&amp;sn=5795cfd312ff93543454da61ab009b1f&amp;chksm=b06b74c4c313eb05169e5ae1908119484d818a98f69fd9b1421397f42c32f0f9af77ed371b8d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从ANGR-CTF项目入手ANGR和符号执行技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fc6IPbvbymwJjly5Q2ltZuPekFUUgWbJGS6AqAL1lBRtHlKrOFKKIHWOws4hnf6Iy5fB0picXWibiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前置准备安装angr，部署angr-ctf项目。先安装angr：$sudo pip install angrangr用project调用来加载二进制文件import angrp = angr.Proj</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604798&amp;idx=1&amp;sn=463308cb532244fc5466996f77e343dd&amp;chksm=b05fc848e06ffd2e52a506240a09654546972b725da2fbc2ea758924764155e5dc1737a7c89a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Deepseek大模型安全应用开发：从提示词、Agent到RAG的完整实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EEzlUx4bJpPEDMPMw4yTBwMpC34QVMiaIzMWodjmibhXxf9fNicY0R2OMyC6IH7rLelxPHESayVjnsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在攻防对抗不断升级的今天，传统安全工具已难以应对海量漏洞和新型攻击手法。而大语言模型正以惊人的推理和生成能力，为网络安全领域注入全新解题思路——但如何让AI真正落地安全实战？如何将ChatGPT变成你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604798&amp;idx=2&amp;sn=5039c697de3ea59f3bbfabe6571bbde3&amp;chksm=b0ca085ba2879b6a8135fd1a9260daa1269b00666f6d7a5fb24c7a3917c3573ea3d060fe4e93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 06 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安卓软件开发与逆向分析（工具篇）硬核上线！过检测、写模块、脱壳、Hook...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EUvIzHxeAy5N1eqFETiamUtEbmnCeHAzBEibZ8gVibbibbic8iaK8dR1cnsBBz2UAQicLNSsfr3SCSJJ5ZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604797&amp;idx=1&amp;sn=283b632705b2dac77a22c15998fdf936&amp;chksm=b013b59be4fad10dcf815b519f172d1fe68f72c15d3a2fc29b84c4ffdb929d3e8326ba8c1634&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

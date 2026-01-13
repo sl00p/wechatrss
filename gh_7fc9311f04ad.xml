@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[告别传统 Text-to-SQL：基于 Spring AI Alibaba 的数据分析智能体 DataAgent 深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLR8ibrR7GHUqVSoB6kXUoqoiaIcInZ31T5wEygdib55KjcWjZ8KNBUZUq4AX9ho98ZLfXRtnIQibJgRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵雁松，周岩珏，李志强，周永康，刘军前言：AI 数据分析的“最后一公里”在企业数字化转型的浪潮中，我们发现很多公司依然面临着“数据深渊”：业务人员想看数据，却受限于复杂的 SQL 语法；开发者虽</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557400&amp;idx=1&amp;sn=60549eb6870e72c0d8130f6cbc01f5be&amp;chksm=e886e89a58f37609dbaf050e109e6aef40c679f48560e7ebc237e21e4f58ac1f9e7ebb7de294&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI工程vs传统工程 —「道法术」中的变与不变]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyia8LkH9jURmoazuxHIECMxodsbiaxQaJLNLQUQJDnwVAbibHfdFCTUxhZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文从“道、法、术”三个层面对比AI工程与传统软件工程的异同，指出AI工程并非推倒重来，而是在传统工程坚实基础上，为应对大模型带来的不确定性（如概率性输出、幻觉、高延迟等）所进行的架构升级：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557348&amp;idx=1&amp;sn=b5f56806e4071ec21186d1829a020b50&amp;chksm=e87ee04439530cf9adaac7c3f015ef3e20e9ca601003692374212071a3964ec5801f875625e5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naK0tic9iaaoDTGmBAfGKKc3woMRq2yibCX5wublXksPWw7ib4ibRhOt8pSOE8xLncxcBIMXXqRXia5eruBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍在C3级代码仓库中落地LLM代码评审的Agent实践。针对C3仓库禁用闭源模型的安全要求，基于Qwen3-Coder、RAG、Iflow实现，通过百炼Embedding构建知识索引，RAG</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554092&amp;idx=1&amp;sn=5a15ff141506c3c74576940486f452c1&amp;chksm=e853bc8794e2d4a5ea56f7ebf14e0ee344e133ddd74c67fdec4208acf24589cc3de76e2ed15b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【智造】AI应用实战：6个agent搞定复杂指令和工具膨胀]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKkuDtee0OYXVUEjQ11Yaowbll43Khmgvf62RU1Svc2uNrwQJ4skV9Z1SECYiaSSmsgxIWiblOhYORg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言首先需要说明一下，标题中智造特指联调中的造数，是的，就是联调造数这么一个特定的场景下，我们采用了多个agent协同完成。联调造数是一个非常典型的AI应用场景，其背后是用户丰富的语言表达、复杂的业务</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553898&amp;idx=1&amp;sn=01beae24939b500244b38fc7563dc68d&amp;chksm=e82fd5535300c85ba4f89923ef8b093a20e777d79695d4ee6355c15fff71661212c89c5d6b5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

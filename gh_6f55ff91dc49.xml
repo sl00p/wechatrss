@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 智能体模拟平行世界 推演未来，这个 GitHub 项目有意思。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwv7hpO0KQLqkVyCtn8tNgae65K9AA2TOKm2paXQ8acAYVILkS3FwibNUCTiclly0JTqdMMaKLkV60A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一个非常有意思的 GitHub 开源项目，名叫 MiroFish。刚开源没多长时间，已经有 1000 多人 Star 了。它是一个基于多智能体技术的预测引擎，通过模拟群体行为来推演未来。啥意思呢？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530595&amp;idx=1&amp;sn=cee7ed7a207215f9fa630051ad12b27e&amp;chksm=f83a18a5aa86d2635e5b41ec7540c00a9da73ba80e3c802fd6342f36a33e76739a3bb07e2e04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这 2 个 Skills 开源项目，最近在 GitHub 上火了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux2n9GTAv9q6qPSl8NQBALW1I9DQ0oYMPjkrjzeaIua4l7aym5m7gSqj8VE92QlynvxicaiaeycBfWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Obsidian Skills相信关注逛逛的读者，很多人都在用 Obsidian，它是一个基于本地 Markdown 文件的知识管理与笔记软件。obsidian-skills 是由 Obsidia</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530589&amp;idx=1&amp;sn=c0c1fb00a767608cd80c62e5c641f08c&amp;chksm=f8d72e511132184354329603f64f0a664c5b0190f4ae16be71e1fce736fed4ad74401e4a4743&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwrWdQOMjH5JRT7aOibgXPOs9vxYVzrgawtaXAf2H6RZicSGKp8PQibicfiaPoxInaskwC6whniaC2nSqxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 n8n 开源工作流神器搭建自动化流程的时候，如果涉及到数据的归档或存储。使用飞书多维表格是一个不错的方案。除了把飞书多维表格当做结构化数据的中转站，还能基于「字段捷径」进一步 AI 处理或自动化，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528599&amp;idx=1&amp;sn=afc2d3e8398ac1a1999387d9cc3c9652&amp;chksm=f80285c3988c3f3eb07a0fd43d46059e52adabb2db830338ef5114a6df331385b57a9cf43102&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 17:15:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1 天狂揽 4000 多 Star 的 AI 舆情分析开源神器。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxryGicoZ0TIeXplCAPnzh25fa2pLEJAFp3nxfYnNOqQXe0WEichQzicNzNWKLzwibChIIcib6vH23Qs2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>看今天的 GitHub 开源热榜，你会发现一个叫 BettaFish 的开源项目登顶了。这个叫「微舆」的开源项目，号称是人人可用的多 Agent 舆情分析助手。帮助你打破信息茧房，还原舆情原貌，预测未</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528548&amp;idx=1&amp;sn=83a34b20b4e54768f7b6d7f5e4d41542&amp;chksm=f871c2803f99451bed3f19d81695513bb7a1c905b9a95cb86d884414b2701827fbbea2c98d0d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 16:03:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

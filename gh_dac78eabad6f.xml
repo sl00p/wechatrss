@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[提示词技巧分享：一劳永逸版！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDLiaMzrDnjb2ootgl9KgErxql48psl2aqHgRw0dl9JATCM560mdZ05xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=1&amp;sn=aab8bb5f9fd0084532812ccd50ca1907&amp;chksm=ebd39cb1ff72536b761aaa0da2b110a026bbf7a1bd2e529c7c752051af1845fabbf90d8bcf56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微信小程序送补贴！手把手教你薅免费云开发资源+混元Token（附使用教程）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDlAO44O89swqWNZt9PhfUDNo32wayq4pmRcNiamd4iaBFFJ0FPYfYcumw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇每一个小程序都可以利用AI的能力，带来全新的产品体验，打造令人惊喜的应用。微信小程序最近推出了「AI小程序成长计划」，将为开发者补贴免费云开发资源和AI算力、商</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=2&amp;sn=95056524a61d0c686fb973815b10298e&amp;chksm=eb6865041d5f6d44624bb57d8aa35234c39d1d6384e4bb2beadb5202e6e83f8bc50a3a36f333&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型狂飙2025：一篇文理清从模型到智能体的架构演进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96fA0ia1ELgMopG5BtukXv5iaYs2FIYkTZbJE9BPL8u30omRPK3ibkXHatdBHAjaUTJWXHDHgsUUO07w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01宏观生态概览：从随机生成到确定性工程 1.1 2025年 AI 工程化的范式转移在2023年至2025年的短短两年间，大语言模型（LLM）的工程生态经历</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693948&amp;idx=1&amp;sn=3e557a7e45c7f8cea9600a2373591d83&amp;chksm=eb384a6ea11172008a90b1b323de867ab56caf4cf2cb25b1a643ec746af29ca8abfa6ff4cd1f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97gJ7a0sZjxMuTfJicCmAmjj52TjHMbOnKomnshnGYGXC6lxI6YheLVEwJSQYBVQkcNdQnKRweq0nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 范式转变的前夜2 揭开面纱：LLM的本质是什么3 不可靠性的数学：p^n困境4 舒适区理论：那条想象中的曲线5 Known Unknown vs Unknown Unknown：不可靠性的本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692407&amp;idx=1&amp;sn=d87291fd86dbbe7dc61fcfb3f2217912&amp;chksm=ebe908742e658a129c7024c61166354130696a555152e8546410bdc8236f2d300d0ec156f23d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-V3.2加速技术详解，效果惊人的秘密？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95V5JIRxicdvMKeRpZAe5ZqpicR19nP7IibcI9oIOrKeOa7pTkHVI8y2m6HDMIsxkUArAicksyuBKP4PA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从DeepSeek-V3说起2 DeepSeek的Sparse Attention概念3 V3.2的DSA详解4 训练过程5 结果很惊人6 小结和猜想LimitationDeepSeek依旧</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692373&amp;idx=1&amp;sn=c33b129e98d27db88bfef910a55f6c90&amp;chksm=eb2545ca34f495aa8eac9b0cde35e17f48f8453ad52d3e47a6a421a60a79a36e91023a10a165&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

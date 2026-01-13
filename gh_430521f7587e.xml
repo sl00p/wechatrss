@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linus Torvalds开源首个“Vibe Coding”项目：AudioNoise]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Bop46314whkphxXEuM8HhcYvraia30IWRAd4jsDic56VOTTFre6BIibVdgBUzicCCDItpZxhAI1m1CQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux内核创始人近日开源了他在年假期间创建的全新项目——AudioNoise，该工具聚焦于数字音频效果处理，尤其是与吉他踏板相关的数字滤波算法，旨在为音频爱好者和开发者提供可扩展的效果生成工具。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237043&amp;idx=1&amp;sn=e73af761795f27a3f0a62952963c06ae&amp;chksm=bf9cc4419a37a9a76a9d64e4cfe61ac912e07bc21c2d98bfaef68cfb7ed16245481f27fe530c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 16:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI原生语言MoonBit遇上静态分析，迸发高性能、资源受限场景下的独特潜力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Bop46314whkphxXEuM8HhUVDpSrkq0dIcLes5gc6Clb55y1w3qibMiasnISSIvcX2icv6gfSzzkAiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：东灯原标题：用 MoonBit 做静态分析：从分析简单语言到 MCIL一、前言你是否曾在编写代码时，对那些能未卜先知的工具感到好奇？当C/C++编译器警告你“变量可能未初始化”，或TypeS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237043&amp;idx=2&amp;sn=5b6876c4cc09128e9aea01b1d9e87fa0&amp;chksm=bfec8ae0f60630bbaff08101c5d3521128985f17d35af794e0c814c8dc2633d58d6fdb13e993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Jan 2026 16:06:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic发布简化版“Claude Code”：Claude Cowork]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Vz2I2zunWwoEW4KI6ISdyWZ6McmXiau8kQlaOkvJEbyhZJsibzwLl4HGnn6G963UroD6s0CdeZzEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 宣布推出 Cowork —— 让 Claude 能像协作伙伴一样在用户设备上执行实际任务的新功能，目前作为“研究预览版”向 Claude Max 订阅用户开放，仅支持 macOS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237021&amp;idx=1&amp;sn=2cddf8a7719afb76f5b838b9dd0654df&amp;chksm=bff3065c44cfb0aada959468261b56f57ae1b6c8d0595ccfd6679edc109520696b907819e56c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibh7G83diaHOZZwIuicbdKxicLQQVztqicnq4UMFaXJStLlibarz4x2IRuRicgu5Xn3Rdw8V2KPOn4ScL2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>罗永浩在最新一期《罗永浩的十字路口》播客节目中表示，如果不做TNT，锤子科技有可能不倒闭，多撑几年。罗永浩提到，当时不甘心只做小修小补的创新，想激进的做一点不一样的东西，所以诞生了TNT。在罗永浩看来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234468&amp;idx=1&amp;sn=fd5b497f26218671fac7771d3fc0cc48&amp;chksm=bfd6c731a8d12bf1be5366096a8241ff634686f805a9352431c09c875706b2f40e23af47c691&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 18:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌全新“Agent-First”IDE产品：Google Antigravity]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibh7G83diaHOZZwIuicbdKxicLichBFWRPNOguPvzibgma5qEf7WVCnJqvxNV1t3lll1FjAKPC9CFnNqCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥💻谷歌正式推出全新“Agent-First”IDE产品：Google Antigravity，其定位是AI智能代理式开发平台（Agentic Development Platform）。 Anti</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234468&amp;idx=2&amp;sn=10801d02a539bb6236e0502fb5cb9ac6&amp;chksm=bfca4101a602dc94c64809cb9aff9e35370b4840c0e00034e9ad4d70328a42c4018ea0ff4555&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 18:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为大模型而生的AI超级计算机，只在开源中国解锁￥29,888专属价]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8jdQGBXorfbNYJ0sVkjr7vc9uBbgic8NpOMcnGic9IvcKlxnyfYoROwh1F9XsR5ibvI5P2bSPareMicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近做大模型的同学，应该都感受到一个现实：云上算力越来越贵，本地算力永远不够。这一次，我们想把真正给开发者用的 AI 超级计算机，搬上你的桌面——而且价格，要比大部分电商平台好看很多。NVIDIA D</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234321&amp;idx=1&amp;sn=c927842fc8d30afd60198ae7be3e0c97&amp;chksm=bfacf25bdaa3867af691c7b9679d3bce3f117a5d1a162b7f0c9ba4593e67285108578224b031&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 11:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
