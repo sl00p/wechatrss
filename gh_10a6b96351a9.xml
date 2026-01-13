@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL，InnoDB究竟如何巧妙实现，4种事务的隔离级别（第9讲，超硬核）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwgykA9yCgJCeWA7jSmHhibnWLnBeY9thDhMWe6IXD5NlGZWLa2HatcpibMKI4LncrWibC3kdwqVUURg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》9. InnoDB四种隔离级别事务ACID特性，其中I代表隔离性(Isolation)。什么是事务的隔离性？隔离性是指，多个用户的并发事务访问同一个数据库时，一个用户的事务不应该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980283&amp;idx=1&amp;sn=ef5f61d5a69224337a8c38c179a9ed5e&amp;chksm=bc53a2760b5dd8655ef0f69c536f7c7aeba61aa85e1f23b5b8599f4cf46be25145c48770ea1a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[[-] 我曾经也这么纠结过？ 对着手机镜头，准备好的词儿在脑子里转了一百遍，一按录制键，舌头就打结，表情僵硬。拍了几十条，没一条能看。心里有个声音在说：“算了，我这么内向，不会说又不会演，搞什么个人品牌？” 太内耗了，这个问题我必须想清楚：我性格内向，真的也能做好个人品牌吗？ [-] 为啥我会纠结这个问题？ 在我的想象里，“个人品牌”约等于一个画面：在镜头前侃侃而谈、在舞台上光芒四射的“表演者”。我认为，品牌=表现力=外向。所以，第一反应就是“我不配”、“我不会”。 [-] 但其实呢？ 个人品牌的本质，是持续输出有价值的内容，建立信任。“表达”是桥，但“造桥的材料”不止“口头演讲”这一种。 外向者的“大桥”：可能是即兴演讲、直播连麦、线下分享。 内向者的“隧道”：可能是结构严谨的口播短视频，我们用深度、条理和耐性来连接。 [-] 我没有即兴的天赋，我能借助“外挂”吗？ 于是乎就，我就用提词器APP，把文案一字一句打出来，照着念。 别觉得这“不真实”，我就是这么过来的。然后，通过不断的刻意练习，提升自己的表达能力与镜头感。久而久之，我才有了今天的顺畅与自然。 原来，性格内向，关键不在于强行模仿外向者的“大桥”，而在于发现并深耕自己独有的“隧道”。真诚与深度，本身就是最打动人心的表达。 短视频，干着干着，5年过去了，然后到了今天。内向不是问题，最关键的，是动手干起来！ 以上，共勉！ [-] 一月份，了一个3天的闭门直播： 1.12 如何找到人生的目标？ 1.13 如何建立个人品牌？ 1.14 如何第二曲线变现？ 今晚开始，欢迎入手。]]></title>
       <description><![CDATA[<p>[-] 我曾经也这么纠结过？ 对着手机镜头，准备好的词儿在脑子里转了一百遍，一按录制键，舌头就打结，表情僵硬。拍了几十条，没一条能看。心里有个声音在说：“算了，我这么内向，不会说又不会演，搞什么个人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980282&amp;idx=1&amp;sn=573f4878278f5cf2f7ddf22c8275839c&amp;chksm=bcafd0a4dbceddaa73229b726b4ebc001fe3b15a1ec26c19f2b6c5fe1374fc8422c024b90f68&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Nd9CiaBh4kZzjqvickceLKyZ1ACRBfKh4UoDicCI5QF33RyJKkvZ968ZpBO26F42JibA2Ocribg3bDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：身在职场，情绪控制能力，到底有多重要？【1】身处职场，你有没有“差点失控”过？我偶尔遇到这样的场景：</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979311&amp;idx=1&amp;sn=f2f788f328646a1b4f6433bdf88220ed&amp;chksm=bcbce32d116ec6dc9491f59b732ecefcf7939f220f68ccb4f743cb83757f1140ddc018746b64&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拥抱AI，重塑研发（送福利）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyicmnn8FAaNnI0uck1dOWbd3930MlleTr04bKeYmjibARzGmTXPXQJiarsdW6NJgcxPCO1MGNsobsZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了啥事？时间：11.14-15（2天）事件：第8届AiDD峰会主题：拥抱AI，重塑研发地点：深圳官网：https://aidd.vip/2025sz国内比较TOP的AI大会，比较TOP的公司都会参</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979353&amp;idx=1&amp;sn=119cf78a62368dc7c55558512c6e3dc8&amp;chksm=bcb049b97de540943215cb375573b1985f2ff84ab6a962b7bf2c0660262eff02055f207e31e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 18:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

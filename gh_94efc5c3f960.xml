@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从注册中心控制台到云原生管控面，Dubbo 服务治理能力全新升级！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWs3LUaSRoibjaImJh5OqJISWXlDht9oOibk71ibSXQ3m4nX6Ys5OUgd9kxfJIQO5Kibt1MACnWY7pMic5A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>Apache Dubbo Admin 是一个用于更好地可视化、监控、治理 Dubbo 微服务应用程序的管控台。0.7.0 版本是一个以 Kubernetes 原生为核心设计目标的里程碑版本，标志着 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520311&amp;idx=1&amp;sn=9fe6216b1fb735635156b188d0ec2803&amp;chksm=fcc907b035c0f67c1484652c8d315621f5900ba043f21541166055582893f9e74d045685063f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突破 Serverless 无状态限制：用 AgentRun 破解 Agent 沙箱工程化挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWsTubB1TPjBqFQv6Y82kl3pgwCm1v8cOWkce5UdukibDViaAkNyv6eHqOcdiaicwlJ5kGgibwV2XFFBqGA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>阿里云函数计算 AgentRun 全新发布后，我们整理了“探秘 AgentRun”系列文章，本系列将梳理企业落地 Agent 常见难题，给出具体解法，助力 Agentic AI 快速走进生产级环境。欢</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520295&amp;idx=1&amp;sn=fe9f061df7a05a4b92611857c82b5497&amp;chksm=fc61155648e6d22eed198a750ed20f5aa132b14d33bb4048b45e01e8a8b82b467dd5852164bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 18:00:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[阿里云云原生团队热招！欢迎加入 AI 工程化顶级赛场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWsTubB1TPjBqFQv6Y82kl3phE6PJLGByibDs1pjabVdFa4J39r8FaGLdZUlGh7BiaRhxqibXNV0CtRCA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>我们是谁Cloud Native我们是中国最大云计算公司的基石——云原生应用平台。我们掌管着应用构建的核心命脉，孵化了 RocketMQ、Higress、Nacos、Dubbo 等多个世界级开源项目。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520295&amp;idx=2&amp;sn=99546f4b91593a306ede68b2569d333b&amp;chksm=fc2b3444b15b01f2c394c43ec092d3c0dcb8ef495903c4b6247c4dfa0ddd657b434409b32ae6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 18:00:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[快速构建企业 AI 开放平台，HiMarket 重磅升级]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWuOA3bfZtamSqxkm74gRnHeHWaXAalOzm2vc50Uh4nj2pz2T3w0t7iaP9ia0IJr7eAwBHHV2Xw3Fqbw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>本文作者：赵恒、岛风、文想、彦林、于怀2025 是 Agent 元年，企业开始大规模落地 Agent，都会遇到多 Agent 管理，多 MCP 工具管理，多模型管理问题，如何查找和选择合适的 Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520228&amp;idx=1&amp;sn=3932db7f0e7a26d8b79145054d7b94b7&amp;chksm=fc22cc7a0973f992d34cde8ca15d197e5605a6c01c3f0450a071a4c07d66647f443e5d255dec&amp;scene=0&amp;xtrack=1#rd</link>

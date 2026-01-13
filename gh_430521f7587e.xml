@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic发布简化版“Claude Code”：Claude Cowork]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Vz2I2zunWwoEW4KI6ISdyWZ6McmXiau8kQlaOkvJEbyhZJsibzwLl4HGnn6G963UroD6s0CdeZzEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 宣布推出 Cowork —— 让 Claude 能像协作伙伴一样在用户设备上执行实际任务的新功能，目前作为“研究预览版”向 Claude Max 订阅用户开放，仅支持 macOS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237021&amp;idx=1&amp;sn=2cddf8a7719afb76f5b838b9dd0654df&amp;chksm=bff3065c44cfb0aada959468261b56f57ae1b6c8d0595ccfd6679edc109520696b907819e56c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 16:07:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【精校无错版】上周六，唐杰、杨强、林俊旸、姚顺雨真正说了什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8BDJWR2lRAbOdBVS3ZDuUTR9k645tzaZgLkxW2KKXGPKj0OVp44rWuP389G5JWxuJFUpibjUN7ALw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：【精校无错版】上周六，唐杰、杨强、林俊旸、姚顺雨真正说了什么？2026 年开年的中国 AI 圈，简直不能再热闹了。“热闹”的点在于，大模型“开源四杰”中的三家核心人物——唐杰教授、杨植麟、林俊</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237010&amp;idx=1&amp;sn=4e96ae3d422f2254d35b9fbad64fe3d9&amp;chksm=bf28abfb365dc488ca15c5ff150915574d3645e28498314baf9a1a826022fdc99294a2970174&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 16:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌调整Android开源代码（AOSP）发布节奏，从每年四次改为仅两次]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8BDJWR2lRAbOdBVS3ZDuUTA4JgrXAzQnicYRcO5quhibe3SuKH2x9XYBYa6uECmNmIFHP8vsNrvjpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌发布了关于 Android 开源代码的最新调整：仅将在每年的第二季度和第四季度向 AOSP 发布 Android 源代码。AOSP 官网写道：自 2026 年起，为了与我们稳定的主干开发模式保持一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237010&amp;idx=2&amp;sn=b4ce271a11fd311b6d24a9664c52edcd&amp;chksm=bf2de95b2dfe6adcbbfb99165fa2de7c9eab41dedf0f299fc6472357caf03b6fc4c03b00fecf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 16:31:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[放弃MyBatis，拥抱新一代Java数据访问库]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicCOm8JiaV8ribibuxLZQDS3pWJp5q9jCQgNokPcGDVYHU0dIyWj5g5uRIGHg0OhbGibJ6zTeCkO37CHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据访问层（DAL）技术已经非常成熟，从最早的 JDBC 到 Hibernate、MyBatis，再到 Spring Data JPA。我们习惯了用这些框架处理数据。然而，当我们把目光投向“数据”本身</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236993&amp;idx=1&amp;sn=8c7fc9b7c614b5aecc4fcaafd5219120&amp;chksm=bfd623200d2e7fa2ebb84c5838b8f3b008235c433a26e2071dedc542572be79017c4425b6c91&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8jdQGBXorfbNYJ0sVkjr7vc9uBbgic8NpOMcnGic9IvcKlxnyfYoROwh1F9XsR5ibvI5P2bSPareMicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近做大模型的同学，应该都感受到一个现实：云上算力越来越贵，本地算力永远不够。这一次，我们想把真正给开发者用的 AI 超级计算机，搬上你的桌面——而且价格，要比大部分电商平台好看很多。NVIDIA D</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234321&amp;idx=1&amp;sn=c927842fc8d30afd60198ae7be3e0c97&amp;chksm=bfacf25bdaa3867af691c7b9679d3bce3f117a5d1a162b7f0c9ba4593e67285108578224b031&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 11:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[17年来最大重构，开源中国社区重制首映]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9X3qv4JW4Wo49aKyV3Yjr7fOGs5ZwSs7uMpkzqMSZh5EEUEvYIIPydxcN0W2Gfn412PDeJAicLEmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>以开源 × AI 为底座，重构开发者生态与社区体验，解锁更多创作可能。 OSC 邀你加入共创，共同谱写社区未来十年。 🔗www.oschina.net 1️⃣新版体验说明 新版目前正处于逐步替换</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234243&amp;idx=1&amp;sn=0f18fcd417d1082b273922174403fddc&amp;chksm=bff0d6e25e9bc33394fb5be0e7adb142a807de8857a36a284e74888b6abab3fbe93d048058a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软高管：听到你们说AI不怎么样，我忍不住笑了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9X3qv4JW4Wo49aKyV3Yjr7VcDUMOtTrPsre2GwqhcYvbo5jmE0oHiaGyKtIwYOWZ0g5quzGqISGOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软 AI 首席执行官 Mustafa Suleyman 最近在 X（原 Twitter）发文，针对近期用户对 Windows 系统上 AI 功能的不满作出回应，表示“听到有人说 AI 平庸，我就想笑</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234206&amp;idx=1&amp;sn=e0af7279b4a8704817c000b441712e78&amp;chksm=bf875b9488653d8aad50c96ac5a0139d4eb4af080946203c594fbae5daf5843179c4e6764e65&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【重磅升级】制品库安全知识库自动更新与分析，制品安全防护「快人一步」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG43fDcNoALWjyU53cUPKcibbJJAwm5xteaHaWvVOhuDQiaEJNgn41oyzJU1W5t2d8Jw8OHlxqx25icRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，某企业在对二进制制品进行安全扫描后，但线上生产环境仍然出现了包含 「0day漏洞」的制品的情况，引发紧急下线修复。分析其原因，主要有以下两点：没有自动更新知识库：传统模式下依赖安全厂商更新，更新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234206&amp;idx=2&amp;sn=6f692c2105d5241e860b840a86e2a9d8&amp;chksm=bf77bd2ea98485283f8b88f62e4ad3d9e8fffb7dd33e9a51dbbf6e97f9053bc0a1451f39e95f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:17:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

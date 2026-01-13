@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯AngelSlim重磅升级！面向全模态的大模型压缩算法工具包，推理速度飙升 1.8倍！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvav6wfXh1kfXq9vTvXILia18ce7uHuLibq47UKXMde3wJTN54fJynlZ1ztzAEZyL2FTBnlPtuHo1Fweg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大模型正从能力竞赛走向工程落地，推理阶段的成本、时延与稳定性逐渐成为制约规模化应用的核心因素。在长上下文、高并发与多模态场景下，解码过程受限于算力与显存带宽，单纯依赖模型压缩或硬件堆叠的优化路</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798429&amp;idx=1&amp;sn=da961ed5b12ae12e685ce2fee7767ae8&amp;chksm=bff987a6426acf9b097a6f39bb480a792e3913af15bef9a959f7ec0496a5fc9eadde0c0c3306&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 16:55:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavevkItlahhJWjePLECp6S0R4mqibXRPOXhjOKm1OpNibiagib9OfndFIsjS1M00OXwDdwStCrzoHDbJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：rickyshou2025 年 AI 编程工具遍地开花，但一个尴尬的现实是：工具越来越强，预期越来越高，落地却越来越难——speckit 的规范流程在企业需求的"千层套路"、海量代码面前显得理想</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798388&amp;idx=1&amp;sn=e0312f3b4b60675a40411281e86c4469&amp;chksm=bfa053934524a6ad2e78d01603ba5806af80529a6323f5dac0bb34baa15ee831512dd31d82aa&amp;scene=0&amp;xtrack=1#rd</link>

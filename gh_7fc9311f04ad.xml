@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI工程vs传统工程 —「道法术」中的变与不变]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyia8LkH9jURmoazuxHIECMxodsbiaxQaJLNLQUQJDnwVAbibHfdFCTUxhZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文从“道、法、术”三个层面对比AI工程与传统软件工程的异同，指出AI工程并非推倒重来，而是在传统工程坚实基础上，为应对大模型带来的不确定性（如概率性输出、幻觉、高延迟等）所进行的架构升级：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557348&amp;idx=1&amp;sn=b5f56806e4071ec21186d1829a020b50&amp;chksm=e87ee04439530cf9adaac7c3f015ef3e20e9ca601003692374212071a3964ec5801f875625e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CodeGenius Memory：构建面向代码生成的可控上下文系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZ8nlibavuTcHsS4HAqmerSb55o2fxIiaWz6mn3qP4VhTUL4niaEdTJFxO9R2ibBCKe8mKNf3lLwPgIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本次 Memory 系统重构是一次面向 AI Agent 未来演进的上下文工程升级——通过结构化、压缩与抽象机制，让模型在有限上下文预算下更高效地维持任务理解、目标对齐与推理连贯性。上下文膨</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557330&amp;idx=1&amp;sn=782f98f8d7199b31d4fa2a192615bdff&amp;chksm=e8d2a8a97978999fbf07465e931edb526574b5a7563b3b8f91b577743b2bfd97ded922af4d9e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKkuDtee0OYXVUEjQ11Yaowbll43Khmgvf62RU1Svc2uNrwQJ4skV9Z1SECYiaSSmsgxIWiblOhYORg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言首先需要说明一下，标题中智造特指联调中的造数，是的，就是联调造数这么一个特定的场景下，我们采用了多个agent协同完成。联调造数是一个非常典型的AI应用场景，其背后是用户丰富的语言表达、复杂的业务</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553898&amp;idx=1&amp;sn=01beae24939b500244b38fc7563dc68d&amp;chksm=e82fd5535300c85ba4f89923ef8b093a20e777d79695d4ee6355c15fff71661212c89c5d6b5e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭秘 Claude Code：AI 编程入门、原理和实现，以及免费替代 iFlow CLI]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1dogUNgKSzrqO9nTeAlhpd4shZwAIlibttRztFrrC0BZs5UmbTMllTicgBwOTlI9Nb2V6aCshR7GA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文面向对 AI Coding 感兴趣的朋友介绍 Claude Code。通过此次分享，可以让没有体验过的快速体验，体验过的稍微理解其原理，以便后续更好地使用。2025年最热闹的非 AI Codi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247553845&amp;idx=1&amp;sn=a0ae2d18311c5a6aa1d99b7d1768da1b&amp;chksm=e8d37f3c6e5aca85e5bccb37bb8d6462bca19e1733f1f658ca3f91fe5079fcbe552036b1e702&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

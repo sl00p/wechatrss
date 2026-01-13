@@ -11,6 +11,42 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[《Linux Pwn 番外篇》重磅上线！6大架构全覆盖，异构漏洞利用5h学透]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JSOMSXg8TC48Hp0vjTDTkUr7EoSqqMq1QHc3zCVrVLcunwDiaeZJZiaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=1&amp;sn=5fcf7ec92bff6761d0d98524fa5e166a&amp;chksm=b0be70d8056f3047aeb9b3b60f7eb8cdc27b28e25fed09e8a78d5f1865fd3e3b324d839b69dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[庖丁解牛之——Windows DTrace实现原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JBDJ5nlGUdDRCc5xYqySnDD7MTMQU0MHXicjk6puFXnHH2gL8e27prJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DTrace 是一个命令行实用工具，允许用户实时监视和调试其系统性能，windows的Dtrace是移植其他操作系统的开放源代码的事件追踪平台，从win10的1900内核版本开始集成的，可以借助dtr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=2&amp;sn=3d1a71c603bd1a873c2a0a55cbc09b98&amp;chksm=b0cf2c1610aa47ea6c2fd46ecfdcc17029d82692e1b7c34a56a6068fbc8f626e63ee4162a7a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客叫卖Target内部源码，零售商紧急下架并关闭Git服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JAaliazzhBUVNRgXryLNDHbxUcKWkqd57tepewjbdMPX6V6xgJLR8iaPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，有黑客声称窃取了美国零售巨头Target公司的内部源代码，并在一公开软件开发平台上发布了部分疑似被盗的代码仓库样本，以此作为更大规模数据销售的“预览”。据悉，黑客正在地下论坛或私人渠道兜售这些数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=3&amp;sn=9853ea45411c50152c5a871e9d476d7c&amp;chksm=b04bed38e08e932310e60fffa350c6a9e5acf466a468ec92067490b7dad4cb775a6d9472d88f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows SEH 结构化异常溢出分析记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFWpUV4UPDzgFDTfBTcuJhHWVZM7Xk493aRGjO0FOlpc7yO50D65dtkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01概念这个部分是最基础的，一切都先从理解SEH结构体开始这个结构体大概如下：struct _EXCEPTION_REGISTRATION_RECORD {struct _EXCEPTION_REGI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=1&amp;sn=16d8d2064f34c3364bd1fe6960b4dcdf&amp;chksm=b0a228248731a55a985a82067e3a2cdf86b48075db8c807c37a36b6e73efaf1af36303fe262c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[游戏工具变后门？InputPlumber高危漏洞曝光，Linux游戏玩家面临劫持风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Gwk82ibCdjRGWgbJPZbaRQHNxe8bsQ786LlZ7oZAkLBibAiaq5OxiczdMVV1Z48oPLyF8QyyPH8V7jyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款旨在提升Linux游戏体验的实用工具被曝出存在严重安全漏洞，可能允许本地攻击者劫持用户会话或导致系统崩溃。SUSE安全团队发布报告指出，用于在SteamOS等环境中整合输入设备的工具Inpu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=2&amp;sn=f5d444c58d3d67312e7d95bbd04251ed&amp;chksm=b0c25851ff5b4886d9dafbcfb2f4ac3977a3f9b2274dc0333dd320a02368a8d6c770392a1385&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拒绝赎金陷阱！看雪勒索病毒救援：99%数据恢复+全链路溯源+安全加固]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbULavJ8LibpuPKk539Sjb7kyWpeZBibCQVBJymV3XbKLz3WPtTgbyWB6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果您发现文件或服务器被加密、业务中断、收到赎金通知——请立即联系我们！7×24 专业团队，15分钟响应，1小时启动现场/远程支援。时间每延迟1分钟，风险和损失都在扩大。免费远程初诊(30分钟)·15</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=3&amp;sn=8cd6ed52d9433902b9f0c924aa7ada0b&amp;chksm=b0479acb28691b6512c4b5bf72716423952754b35d391ffcc59ed66e672606378bf6996de747&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入浅出 Keystone 框架学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GU7Z2cSK0VVkqRmRTec3xAv1lPINuzMNO6e0mTfEmlnZZBR3aSoUJW7nYXDay1hW5JWP60xL80QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言通过此前的文章，我们已经掌握了两大框架。在逆向工程的工具链中，它们各司其职：Unicorn (大脑)：负责跑代码。它模拟 CPU 的状态流转与内存交互。[原创]深入浅出 Unicorn 框架学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607711&amp;idx=1&amp;sn=6ca1ef51193a428bbc859ab835b314af&amp;chksm=b0d32a07f12d4bb02b3dc7ecb24dfaf808b8a5004a0481afb9a935bc8b276c6fa793bc780e28&amp;scene=0&amp;xtrack=1#rd</link>
@@ -273,42 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EUvIzHxeAy5N1eqFETiamUtEbmnCeHAzBEibZ8gVibbibbic8iaK8dR1cnsBBz2UAQicLNSsfr3SCSJJ5ZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604797&amp;idx=1&amp;sn=283b632705b2dac77a22c15998fdf936&amp;chksm=b013b59be4fad10dcf815b519f172d1fe68f72c15d3a2fc29b84c4ffdb929d3e8326ba8c1634&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代-逆向工作者该如何用好这一利器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EUvIzHxeAy5N1eqFETiamUtWhLbKTuW9USHysMb0LNrroSQnhqoE5CIdiagJA5TvDbDxZtwrBRjkJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前阵子去京东沙龙上做了一次 升级的猫鼠游戏：AI时代的移动攻与防的讲座，讲的主要内容就是在ai的时代，如何进行高效的安全开发和逆向工程。主要核心就是，ai提高了每个人的效率，逆向工作者提高了自己逆向的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604797&amp;idx=2&amp;sn=85eaa93178248cbaecf8d805c444b6fa&amp;chksm=b0f2c041fcd7464bcc9c18362bda9346d4e58defac7199c19ab5de1d25b1b702ed9d1286adf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周职位更新！速速投简历]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳软牛科技集团股份有限公司 职位经验/学历薪资地点逆向开发工程师应届毕业生/本科面议深圳高级逆向开发工程师3-5年/本科面议深圳长按识别关于岗位详情及</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604797&amp;idx=3&amp;sn=8555f71139d83cc7f77b1c69dfbd21a0&amp;chksm=b0c986ff7f8c58e1bac72715b89e36cb6d9851b0c37e849a93bb04000148b099db5c147fd9fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型安卓木马Albiriox全球肆虐，瞄准400余款银行与加密应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EUvIzHxeAy5N1eqFETiamUtjNSZEG2r9zj1GjCwZdUOiayKYk9WT0y3604YMhdqH8Oia5lfDwFHyOkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款名为 Albiriox 的新型安卓恶意软件引发安全警报。该木马以“恶意软件即服务”（MaaS）形式在地下论坛出租，攻击者可通过月付方式获取并使用，对全球超过400款银行和加密货币应用构成直接</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604797&amp;idx=4&amp;sn=684ecb869266262b478c7d0b1b7b2964&amp;chksm=b0480664fce6e32ab86a3c6b6177582e0804bf782377ffb18816b40ba637bf144e41d7403cf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[EXIF解析缓冲区溢出漏洞分析与利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FqziaZemFWIRUhU4931HBw4urQ4tn4ZntWVpRELNvo6aicdmmISsXrNJRVHrGcCQiaTEpOticBE8Wkqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>缓冲区溢出某社交平台在处理本地图片时存在缓冲区溢出的漏洞，问题出现在Java_com_sina_filter_JpegExifExtractor_nativeExifExtrator函数，具体功能是解</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=1&amp;sn=174d05be91d4dac9e2bfe20e7d389e50&amp;chksm=b008dfe7df06733346120d6e589988ad6bb4872cf9ef048d5792299b18d76c92d6a134247c9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[七年潜伏，430万用户中招：ShadyPanda利用浏览器扩展实施长期间谍活动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HVibczDz9bC6vRyww0yicVnGfJz06WLENQeMciawyg9VnKlvZF7kuHST9bBxDT7qHZCegiciaoB3Vggicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全公司Koi Security揭露了一起名为“ShadyPanda”的大规模网络间谍行动。该组织在约七年时间内，通过谷歌Chrome和微软Edge浏览器的扩展程序，感染了超过430万用户，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=2&amp;sn=17be3e9aa7a1b8f7e89049be79821f4f&amp;chksm=b0f1a0fa2c3352d973c329e98fdaffd68106f127b12cbf45bfbcb62f5c0ba6b93d28d9e50387&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《进阶逆向工程实战》：解锁逆向技术的全链路实战能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G5IBC9HQwLOuBtOibvPI7Ug9gVca95icLF25jQg2r7picqD6THw1AbJl3lpQ6QmiclcsiaeblGeF1MRGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动安全攻防、爬虫数据获取、软件漏洞挖掘等场景中，逆向工程是破解保护机制、洞察底层逻辑的核心能力。然而，面对C++复杂结构体还原、虚拟机保护（VMP）分析、内存校验对抗等高阶技术，许多学习者因缺乏系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604770&amp;idx=3&amp;sn=1552618891d0880bfcbb98f0589a1f41&amp;chksm=b02e65f550556244863dff9f6db32c10f61592b56cd2f5726071880b03b0a30f6d6cd82fc4b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
