@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿里 Assistant Agent 开源，助力开发者快速构建答疑、诊断智能助手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyiaB84icI4xUwQgzyLxeWkibUkIPA0E5pAYiahUXHhRmhgldicZdYmf2HDYXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>更多具体定制接入与使用方式，可加入文末微信与钉钉群，与官方维护团队取得联系。简介Assistant Agent 是一个基于 Spring AI Alibaba 构建的企业级智能助手框架，采用代码即行动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557465&amp;idx=1&amp;sn=76a5a8c192cf450955cea5c89dab32e9&amp;chksm=e89d1c75816f42249ce9e85a49c8d66238cb20121381d6f0a1b75343af87162b0b3bbed43776&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别传统 Text-to-SQL：基于 Spring AI Alibaba 的数据分析智能体 DataAgent 深度解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLR8ibrR7GHUqVSoB6kXUoqoiaIcInZ31T5wEygdib55KjcWjZ8KNBUZUq4AX9ho98ZLfXRtnIQibJgRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵雁松，周岩珏，李志强，周永康，刘军前言：AI 数据分析的“最后一公里”在企业数字化转型的浪潮中，我们发现很多公司依然面临着“数据深渊”：业务人员想看数据，却受限于复杂的 SQL 语法；开发者虽</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557400&amp;idx=1&amp;sn=60549eb6870e72c0d8130f6cbc01f5be&amp;chksm=e886e89a58f37609dbaf050e109e6aef40c679f48560e7ebc237e21e4f58ac1f9e7ebb7de294&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7yRmHpGconQ3FnODjU9s7pNric8ibXkVg2QjGHSl1XAP7HBluQLA8zZLv0cDe3mOtt8IiaKlSbJe6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务场景：后端JAVA业务代码生成。AI解决方案概述：从系分出发，解析提取其中核心内容，并生成任务列表，再让AI工具结合提示词完成任务（生成代码）。工具选择：IDEA CodeFuse插件 + Cod</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554158&amp;idx=1&amp;sn=3ab0a266ec0c7463f3b92c5878aadeaa&amp;chksm=e863a36753ad60c9a129f3b8e781ac677a75f9ea84d96fb1da0125b82e91473d66eea248667a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[C3仓库AI代码门禁通用实践：基于Qwen3-Coder+RAG的代码评审]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naK0tic9iaaoDTGmBAfGKKc3woMRq2yibCX5wublXksPWw7ib4ibRhOt8pSOE8xLncxcBIMXXqRXia5eruBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍在C3级代码仓库中落地LLM代码评审的Agent实践。针对C3仓库禁用闭源模型的安全要求，基于Qwen3-Coder、RAG、Iflow实现，通过百炼Embedding构建知识索引，RAG</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554092&amp;idx=1&amp;sn=5a15ff141506c3c74576940486f452c1&amp;chksm=e853bc8794e2d4a5ea56f7ebf14e0ee344e133ddd74c67fdec4208acf24589cc3de76e2ed15b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

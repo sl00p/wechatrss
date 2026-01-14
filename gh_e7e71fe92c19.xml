@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hitcontraining_heapcreator]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fv6AKzlMQkfRpWPNibEapJdYzgerd2SI40Z13K6g0z1b4WFsD6IRwnj9Gfe9WiaNBTR3BrvDeV9DmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>看保护Partial RELRO表明got表可写：看idamain函数可以看到是菜单题，有四个功能：intmenu(){puts("--------------------------------")</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=1&amp;sn=69e1e079dae6eabec82f6c742511a9a8&amp;chksm=b0cb7eb35b4bd75519561f0d1ff0ca2163a9a34b80d3e0f0527b0434cb1e21be733d4dd5127b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Palo Alto Networks 紧急修复高危漏洞，攻击者可致防火墙瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HG09guKdbiaf5tFhj3NV64Igt4vJuZTQK2S6yudjEMbf2R9dr2SsicWUbsFO9h3MZhwOo5RtrqVs9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks 近日修补了一个高危漏洞，该漏洞可能允许未经身份验证的攻击者通过拒绝服务（DoS）攻击禁用防火墙防护功能。该漏洞编号为 CVE-2026-0227，影响到运行 PA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=2&amp;sn=a74eb8d323b5228da92136491333e075&amp;chksm=b0d658105983457866e9e6d456295d87beaabb630df966d34ce1f28009d0e2e3c8a9208875ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[顶尖硕博战队亲授！30小时系统攻克CTF密码学，从入门到精通]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=3&amp;sn=06b520dbf347d968f45fee13ae443a0c&amp;chksm=b00bbab5bbef7c5f3bc23ba8e34e347559e5aedae2f9c256f7eba1afa05bc894c5bbfe5d2248&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ιldb 脚本 —— 你才叫 lldb，我叫 "约塔 ldb"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4JcjfN9CP8pMibBy7Bic5WjkOvojmggHnumhUBIvcWTjG2yl881t3S92A/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述ιldb 是一个基于 LLDB 的调试脚本工具，提供了多种便捷的调试命令和命令管理功能。它通过模块化设计，将常用的调试操作封装为简单易用的命令，并支持命令的保存、显示、删除和执行。如果这些命令的命</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=1&amp;sn=c8dad55246b2999ac66dab20f2b48fba&amp;chksm=b037cfce4438a641a1ebfe6d085c4bc895f807f71223a06783766b48e0aa84fed5bbfc072c32&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605025&amp;idx=3&amp;sn=b4c7ab3d3f2eb959aa29db46ee155d8b&amp;chksm=b09eb9a1078e2de7ffae5ac2e3befbe21a39bce65e3933ef0e17b25de2cf83537b7cafadb1e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=1&amp;sn=8a4116de09a9ee9a46a0d8e5420990dc&amp;chksm=b0e40efdd515a9c819695408d0a9cc879f18bd1c63c2c5f79807cb0032ddf7ad52ff07bbdbd7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Buuctf刷题记录-hitcontraining_uaf]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJhiamGpAOxVYt8GPemYt9zot3GZtzmqibKZHMpBMuTNySbfOulGiaHoaKrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.看保护是32位程序，Partial RELRO表明可以劫持got表，没有开canary和pie，开了NX栈不可执行。2.看源码main函数可以看出是典型的菜单题，打印menu，根据选项调用add_</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=2&amp;sn=734d5bb692a14ebabb0b13f669019aca&amp;chksm=b0519ac11f8a29aeff9df06389b54186a29ef489229ac9a1a473af9d817a60976cf6ede00b14&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LockBit 5.0 核心基础设施泄露！关键IP与勒索域名曝光]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh58O3CLljicgLN3ARL3QbzaUHefhxNbDZXpY5VaAs0aYBiaPUv3mkkNMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全研究员 Rakesh Krishnan 曝光了勒索软件团伙LockBit 5.0的核心基础设施，包括关键服务器IP地址205.185.116.233及勒索泄露站点域名karma0.xyz</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458604907&amp;idx=3&amp;sn=5795cfd312ff93543454da61ab009b1f&amp;chksm=b06b74c4c313eb05169e5ae1908119484d818a98f69fd9b1421397f42c32f0f9af77ed371b8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

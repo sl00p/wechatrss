@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[什么是技术架构、数据架构、业务架构、应用架构和代码架构？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TY5zEM1OvGic441w11zscxgbGJNEVFcu2NU69FfpFbrlkBbUJntzbIPm34AZeD9YxJrXLwNoossw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01关于架构的理解 1.1 分析与扩充维度架构，是对系统的描述。维基百科的定义是：软件架构是有关软件整体结构与组件的抽象描述，用于指导大型软件系统各个方面的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694025&amp;idx=1&amp;sn=a308b1c530baf655fff51886b1cf5261&amp;chksm=eb8f69dc480f02d0a26167bd43796f75a1d77d338a213de6db135f4238d2c8409d854eb5660b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[提示词技巧分享：一劳永逸版！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDLiaMzrDnjb2ootgl9KgErxql48psl2aqHgRw0dl9JATCM560mdZ05xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=1&amp;sn=aab8bb5f9fd0084532812ccd50ca1907&amp;chksm=ebd39cb1ff72536b761aaa0da2b110a026bbf7a1bd2e529c7c752051af1845fabbf90d8bcf56&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPx6m1VGNL5YdicG3YQ99qAnDtXAgvSTkqBcx443p4mhTD9A2vw8zJk6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 数据架构: 思想演进与权2 数据存储: 架构剖析3 数仓设计: 服务应用4 指标定义: 理论结合业务思考5 数据质量与提效数据类的架构设计远不止是工具和概念的堆砌，它更像是一门在规模、实时性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692448&amp;idx=1&amp;sn=dc21e6103de0de82d999d7fad63cb574&amp;chksm=eb8296d3aa8f98322a4124a9017b461a84d31912e2b9eeeab420c7cd1d1dfe75ae0df5f32328&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字详解AI悖论，戳破AI时代最大的谎言]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97gJ7a0sZjxMuTfJicCmAmjj52TjHMbOnKomnshnGYGXC6lxI6YheLVEwJSQYBVQkcNdQnKRweq0nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 范式转变的前夜2 揭开面纱：LLM的本质是什么3 不可靠性的数学：p^n困境4 舒适区理论：那条想象中的曲线5 Known Unknown vs Unknown Unknown：不可靠性的本</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692407&amp;idx=1&amp;sn=d87291fd86dbbe7dc61fcfb3f2217912&amp;chksm=ebe908742e658a129c7024c61166354130696a555152e8546410bdc8236f2d300d0ec156f23d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

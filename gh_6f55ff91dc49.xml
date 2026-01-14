@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近 火火火 的 4 个 GitHub 开源项目]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux0OJe6vJRLiczvNsAribicCMHrcnuvtO7TqX2YnTDOc6DzFia4ibic2IWegjfwcL1FV1ekdJzTdarzqkEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01科研类 Claude Skills 这个开源项目收集了一套针对 Claude 优化的科研类系统提示词。把这些设定喂给 AI 后，它在处理学术任务时的表现会有质的飞跃。无论是在解释晦涩的科学概念，还</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530617&amp;idx=1&amp;sn=6b5bfc3e439a229f54e03afacbecba04&amp;chksm=f89dafe9e32bc1b3d5a0e1bb3dcca4287dcc563e2b24cb225c082ea2cd9c43999690d22d506c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Jan 2026 15:11:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 智能体模拟平行世界 推演未来，这个 GitHub 项目有意思。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwv7hpO0KQLqkVyCtn8tNgae65K9AA2TOKm2paXQ8acAYVILkS3FwibNUCTiclly0JTqdMMaKLkV60A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一个非常有意思的 GitHub 开源项目，名叫 MiroFish。刚开源没多长时间，已经有 1000 多人 Star 了。它是一个基于多智能体技术的预测引擎，通过模拟群体行为来推演未来。啥意思呢？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530595&amp;idx=1&amp;sn=cee7ed7a207215f9fa630051ad12b27e&amp;chksm=f83a18a5aa86d2635e5b41ec7540c00a9da73ba80e3c802fd6342f36a33e76739a3bb07e2e04&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPr5y5haod2A5oZpgZibZWoUicwu0nRDtqV1WsIIgibMiasAekBJ9CEO68qrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智能图表生成工具Smart Excalidraw 是一个基于 Next.js 构建的智能图表生成工具，它巧妙地将大语言模型与 Excalidraw 绘图工具相结合。说句话就能给你画各种好看的图表。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528644&amp;idx=1&amp;sn=ea9f907bf732971b581743dab0c78da9&amp;chksm=f80442645876870181ee9e8238cffebca1ccfc58aef0a7b0a39d56caa91a5eb219b703909de6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 2 个 n8n + 飞书多维表格工作流，效率提升 Max。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwrWdQOMjH5JRT7aOibgXPOs9vxYVzrgawtaXAf2H6RZicSGKp8PQibicfiaPoxInaskwC6whniaC2nSqxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 n8n 开源工作流神器搭建自动化流程的时候，如果涉及到数据的归档或存储。使用飞书多维表格是一个不错的方案。除了把飞书多维表格当做结构化数据的中转站，还能基于「字段捷径」进一步 AI 处理或自动化，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528599&amp;idx=1&amp;sn=afc2d3e8398ac1a1999387d9cc3c9652&amp;chksm=f80285c3988c3f3eb07a0fd43d46059e52adabb2db830338ef5114a6df331385b57a9cf43102&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 17:15:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
