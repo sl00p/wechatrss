@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[挖到了 4 个有趣的 GitHub 开源项目，挺有意思的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy9aL7RYJDGiasnfnLEibqxuETqnVibd36eYTwH7WGicqTtW0vHlrg95n0ErZQIMMf8ZJfhXibb8SJkpug/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 记录你的数字生活LifeTrace 是一个帮你自动记录和管理数字生活的开源工具。我们每天在电脑上处理大量信息，但很容易忘记几天前甚至几小时前具体看了什么或做了什么。Life 这个 1600</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530618&amp;idx=1&amp;sn=90cef3becccd9bf07bfd9160d7df79cf&amp;chksm=f805a14e318306e035d1dfe102294f73b63219563d5396b75fe5f7834a7d16a1f46542702dc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Jan 2026 15:43:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近 火火火 的 4 个 GitHub 开源项目]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux0OJe6vJRLiczvNsAribicCMHrcnuvtO7TqX2YnTDOc6DzFia4ibic2IWegjfwcL1FV1ekdJzTdarzqkEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01科研类 Claude Skills 这个开源项目收集了一套针对 Claude 优化的科研类系统提示词。把这些设定喂给 AI 后，它在处理学术任务时的表现会有质的飞跃。无论是在解释晦涩的科学概念，还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530617&amp;idx=1&amp;sn=6b5bfc3e439a229f54e03afacbecba04&amp;chksm=f89dafe9e32bc1b3d5a0e1bb3dcca4287dcc563e2b24cb225c082ea2cd9c43999690d22d506c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaMVdQh7M0icX19HQA7EEKh68a74oibDbxUCgq40GAex1Qho2QLFByYjWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01DeepCode：智能体编程平台DeepCode 由香港大学数据智能实验室开发，现在有 1 万 Star 了。它采用多智能体系统架构，能够理解复杂需求，如研究论文或自然语言描述，并通过智能体协作自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528685&amp;idx=1&amp;sn=b3c8432920212e4651c690d3d010a6c4&amp;chksm=f81fab19a75dd4c252c1f4574d88ab88b42030939bb99318242b72a35619e1fbd60c248eb0cd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 09 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 3 个 GitHub 上酷酷酷的工具，挺实用的。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPr5y5haod2A5oZpgZibZWoUicwu0nRDtqV1WsIIgibMiasAekBJ9CEO68qrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智能图表生成工具Smart Excalidraw 是一个基于 Next.js 构建的智能图表生成工具，它巧妙地将大语言模型与 Excalidraw 绘图工具相结合。说句话就能给你画各种好看的图表。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528644&amp;idx=1&amp;sn=ea9f907bf732971b581743dab0c78da9&amp;chksm=f80442645876870181ee9e8238cffebca1ccfc58aef0a7b0a39d56caa91a5eb219b703909de6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

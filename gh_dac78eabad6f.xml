@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域，通常也是公司为其客户提供的服务。 产品，通常是指对应的业务背景下为相关问题域提供的解决方案，即为用户/目标组织所提供的系统或服务。 产品是对解决方案的包装，支撑起解决方案的实现即系统（业务系统）。 业务开发，冠以“业务”前缀，要的是在技术通识的基础上，更要熟悉业务。 业务开发团队，要承接并交付出“好”的业务系统，挑战在两点： 从0到1阶段：洞察用户痛点，解决核心用户问题。 1到100阶段：业务系统能轻松、高质量地动态进化，在不断发展中支持业务攻城略地。 洞察痛点：本质在于理解业务，能够定义边界/聚焦重点 【面向需求】要开发什么样的产品？ 【面向业务】为什么要开发这个产品？要解决什么问题，达成什么目标？ 动态进化：本质依托于业务系统的设计和实现 【面向设计】如何做才能契合业务形态应对变化、减少制约以更好的达成目标？ 对于技术要承载的业务，要跳出单一代码视角，从两种视角拆开看： 问题空间：即问题域，探讨关注有什么问题要解决，存在什么痛点要消除，也即需求； 解空间：也称解决方案域，考虑有哪些方案去解决问题；最终用哪个方案做到了，称为实现。 提问题比解决问题更重要。 初识业务，或者成熟业务上扩展出新需求，需要主动思考： 业务现状，为谁服务？全景如何，上下游如何合作？核心价值，利润来源？最重要待解决问题？…… 有全局认识，才能建立足够的判断力，帮助高效对接/厘清业务，放大价值贡献。 业务建模是一个体系化主题，不同的场景有其合适的用法。只有当有更多角色直接参与，并有更多不同业务信息由该系统处理时，业务建模才会增加更多价值。例如，纯技术领域的问题中，与业务无关，可以无须业务建模，你的代码和数据结构就是你的模型抽象 当 LLM 掀起巨浪，Prompt Engineering的本质也是“如何理解业务并结构化陈述业务需求”，这与业务建模方法为业务开发赋予的理解问题域能力正好契合，“声明式的方法+结构化抽象并逐步分解问题”的思维不会过时，AI时代甚至有机会赋予业务开发新价值。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247667685&amp;idx=1&amp;sn=94959aefedb00fc4bf2d3393dd70e529&amp;scene=21#wechat_redirect">天天写业务代码，如何破局业务开发的本质？</a> 各位彦祖亦菲，你对本篇命题的答案是？]]></title>
+      <description><![CDATA[<p>没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694037&amp;idx=1&amp;sn=bae63314ed696e5bac80052565cfa8b4&amp;chksm=eb894b805a26f9b961a2a440a09a65a384fadb08a92dc9a0d021a1b24636e23bfe8e7ad1293a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[什么是技术架构、数据架构、业务架构、应用架构和代码架构？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TY5zEM1OvGic441w11zscxgbGJNEVFcu2NU69FfpFbrlkBbUJntzbIPm34AZeD9YxJrXLwNoossw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01关于架构的理解 1.1 分析与扩充维度架构，是对系统的描述。维基百科的定义是：软件架构是有关软件整体结构与组件的抽象描述，用于指导大型软件系统各个方面的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694025&amp;idx=1&amp;sn=a308b1c530baf655fff51886b1cf5261&amp;chksm=eb8f69dc480f02d0a26167bd43796f75a1d77d338a213de6db135f4238d2c8409d854eb5660b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>如此编程20年 1. 工具次之，问题为王。先准确定义问题，再选合适技术；别为工具改造问题。 2. 代码写给人看。命名清</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692472&amp;idx=1&amp;sn=cbf5b36233420bc938b8cb03e3d27dfc&amp;chksm=eb673f8123eabcdf34a1564d1fdc30a69fcf9c2310fde328714d0d6d907d37de556cf6afa427&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字详解：数据架构、数据存储、数仓设计、指标定义，一篇文讲透数据那些事儿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPx6m1VGNL5YdicG3YQ99qAnDtXAgvSTkqBcx443p4mhTD9A2vw8zJk6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 数据架构: 思想演进与权2 数据存储: 架构剖析3 数仓设计: 服务应用4 指标定义: 理论结合业务思考5 数据质量与提效数据类的架构设计远不止是工具和概念的堆砌，它更像是一门在规模、实时性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692448&amp;idx=1&amp;sn=dc21e6103de0de82d999d7fad63cb574&amp;chksm=eb8296d3aa8f98322a4124a9017b461a84d31912e2b9eeeab420c7cd1d1dfe75ae0df5f32328&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

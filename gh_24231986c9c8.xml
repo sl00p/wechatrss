@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[观测成本如何优化？APMPlus 尾采样技术的降本增效实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjFXb7uaGd2UeBbteiabfqvcqKmZkrQ6WfUxuRVUVib7Jvsxw8iazJwbEDJPcYA2JNjgmolkET0OicBiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在现代软件工程架构实践中，工程师普遍面临一个挑战：如何在海量的请求中精确捕捉异常链路，同时避免数据成本的快速增长。本文将探讨分布式链路追踪（Distributed Tracing）中的采样（Sam</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517976&amp;idx=1&amp;sn=148268f951f01fbc00c5e77526da1a6e&amp;chksm=e873f04914bf40bf8736e6086cfccbc22f4dd2b8148a1427c6bdc3e2be47d4f61d6c9f1dfbf9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Jan 2026 18:25:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火山引擎日志服务-AI时代的数据存储分析底座]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaer0oMoktPuZOgzy9vGKwwNpDTebImHmpmdJ1hOH0zEJGPk5yiaHS7r3to2nUkl8MzEDHtJEP012g/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言火山引擎日志服务（TLS）是 Log、Trace、Metric、Event 等泛文本数据的一站式存储分析平台，包含采集、存储、检索分析、加工、消费、投递、监控告警、可视化等功能。围绕企业在云原生服</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517962&amp;idx=1&amp;sn=931e2c5cebbe272ce3ba186307a457a9&amp;chksm=e8e39249a2af1ab15d2262078e3c4c0bc74e658508f97f2725dce82922dbd021d18ac6f9009c&amp;scene=0&amp;xtrack=1#rd</link>

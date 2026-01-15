@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯安全态势研究：2025年度云上网络攻击态势报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdelSOSa4kgRRm89jU44nqCZYOwp7r1xe3HwaMQcefV4w3pD3BCYR1TEU0Fw4eRpuTAaibicV8IbUFAibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要云上攻击早已进入"后漏洞利用"时代。攻击者不再满足于"能打进去"，而是追求"打进去能赚钱"。当我们分析这些入侵记录时，一个残酷的现实浮出水面：近六成成功入侵目的是挖矿，其它被肉鸡而导致的安全事件、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528821&amp;idx=1&amp;sn=b10bdd7fa503e75b814d9cde0dd1297f&amp;chksm=c110a05b6904b82f98aa3ae452232fab0ec43a606696fdb9b69e0852d95d88a5f9e2482abac2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Jan 2026 17:47:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[React高危漏洞，腾讯云全系安全产品一键防护]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdeljVDJsD1v5AOhxzsrDCOPxvaO2fKDVCOLYoOq5WwuYDZ5icrkcTzocpeXBvfoicyrJJviaaUCosexgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞速览近日，腾讯云安全云鼎实验室监控到React与Next.js官方团同时发布紧急安全公告，披露了一个严重的远程代码执行漏洞。React 编号 CVE-2025-55182，对应 next.js 编</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528736&amp;idx=1&amp;sn=8c6561f3151382c0294a36410ce2c96a&amp;chksm=c1918d256cb5d4fe2b7864705c58883a79dbf562073c10efc5c4c7a710d93de2929bc9d65e8c&amp;scene=0&amp;xtrack=1#rd</link>
