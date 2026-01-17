@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[StealC恶意软件C2系统被攻破，攻击者反被溯源锁定]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38daAluefq6JJ5FMSbia6MVReghzfHhyetjOkrt1Hpa4yw9elIaHKM0YlxTia1lbuwb96zguYbyWUiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，CyberArk Labs的安全研究人员成功利用StealC恶意软件基础设施中的漏洞，攻入攻击者C2系统，并通过其被盗的会话凭证反向锁定威胁主体身份。此次入侵暴露了以凭证窃取为核心的犯罪运营团队</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334228&amp;idx=1&amp;sn=0d312c59f4b8fc11b1ec293a38c712aa&amp;chksm=bccb4567896dd058dc9fb4f4ca44516127f4eaca2039763c90dd68e0ff14fd6ffe0b899c4334&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美国某头部银行被植入键盘记录器，潜伏窃取20万登录凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38daAluefq6JJ5FMSbia6MVRLEvtRdy9nsRmHiclNxnNEWpuTwqcQZcEmvtVcLiaDuRqWzQJSx1bib1JA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司 Sansec 的研究人员发现，某美国头部银行的员工福利商城系统被植入键盘记录器。该恶意软件在运行约18小时后被清除，期间持续窃取网站表单内输入的所有内容，包括登录凭证、支付卡号及个人敏感</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334228&amp;idx=2&amp;sn=ab5261ba63fb8bae858fae604975bd9d&amp;chksm=bca74eb72cef88e3163579054c096c4276e702c70eb81d6d3b57f890902188961bba63ea80e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：全球数据泄露态势报告；二进制代码混淆工具分析；某消费金融算法分析；信息安全工程师思维导图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38daAluefq6JJ5FMSbia6MVRJtFwG6iakcQYuNicBM70fF0sXAibMZrGLpsqeicE7VGT8mU4m0HTyunvlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Coolify自托管工具漏洞技术分析与自救指南；快速生成树协议分析。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334228&amp;idx=3&amp;sn=d892b5dfc0b0f8ff2da63f9e39e2601d&amp;chksm=bc76b9dfc710672e991abe8af9041ce11b57eae1dbceb74e0bcf3ef5bfdbd5c0db70a90fb291&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[世界经济论坛2026：AI将主导网络安全领域]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39QSw26ZpmHDvicOVzwo5z5UKfibjngL0ojzJTG8zXwibhxV8GR5o3RlnlGYcicr4QSadlLjEeGsWXcww/640?wxtype=jpeg&amp;wxfrom=0"/><p>世界经济论坛（WEF）发布的《2026全球网络安全展望》报告显示，人工智能（AI）仍是影响网络安全的关键因素。报告指出，AI技术进步、地缘政治分裂加剧以及供应链复杂性上升，正在放大网络风险。Part0</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334202&amp;idx=1&amp;sn=e2d4d95a485e6dc36a0880795a281dfb&amp;chksm=bca0b2cbcd6c7183f2a6c0f0b2088b481d83a0b8a6e8b80c5a6e1f7bac5848692394d49c847d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP6WN17Vn5SeMt2gaxjE3rIcQWOUboANibnVjmI2aLoib5GsE4aZQicuJgwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>您的蓝牙耳机可能不仅仅是播放音乐——它正在成为数字生活的安全漏洞。ERNW Enno Rey Netzwerke GmbH最新研究报告揭露，主流音频品牌采用的芯片存在三个关键漏洞，攻击者可借此窃听对话</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333216&amp;idx=4&amp;sn=4882cb9094c62f98ea5c780bb77b3b93&amp;chksm=bc96e7306c5555bef4f3de42d7f59d92b3a08615c767b113caa0bbebf08dd5ed02f9a4d443f8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MongoDB高危漏洞允许未认证攻击者读取未初始化内存，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibpnB4gcOKgzv9VZ6Y0phEMwbI5wJylJ12UzHZBp5EBtH20OnMMldJPnLDOfnRzFu65MNrY3CcKSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日公开披露了一个影响MongoDB数据库的高危安全漏洞（CVE-2025-14847，CVSS 评分：8.7）。该漏洞可能允许未经身份验证的用户读取服务器未初始化的堆内存，导致敏感信</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=1&amp;sn=944d6c888e66700b84d4f2a45e62440f&amp;chksm=bca7bb1a85936f016480b4944e6f1ad5aeb925e7c985f50bf6812e97fa73a5764eb81add3036&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年网络安全预测：AI全面融入实战的100+行业洞察]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibpnB4gcOKgzv9VZ6Y0phEM8XTKtBckC5bOtYrtJiarrmpccxsLHvpBGqqqcAWria1N0QBlguicAUt6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着人工智能深度融入企业运营和网络犯罪武器库，2026年网络安全格局将呈现自主威胁、身份中心型攻击和加速数字化转型风险的空前交汇。来自顶尖安全公司、政府机构和研究机构的专家们提出了100多项关键预测，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=2&amp;sn=68af2759a113d09e56a47d099732989b&amp;chksm=bc62e2800e5c9c56c8cb24790a57e53083036e61a2142f81adfd351c6dd9156a0257dcc6374a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：CVE-2025-66478攻击链分析；人工智能安全与治理现状；JavaScript引擎漏洞利用；]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38c0llNMggh7TQ9qTBAzibic6XkZuwrWvw1VLTe36Boib4ybcmicPxkfYSGZEUGiaZ7iaWqKsJAC2pMYbOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>SuiteCRM SQL注入漏洞；一文搞懂前端加密和js逆向。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333178&amp;idx=3&amp;sn=15c71b5b0bdd17bf5145d836dbe1536b&amp;chksm=bc244b0e773273638b22f57490d8de8585bfac3a287e927d9660788aeef16d1fe2e8f1f526e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
