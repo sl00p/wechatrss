@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用奥卡姆剃刀解决 ollvm 间接跳转和函数调用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HG09guKdbiaf5tFhj3NV64ITOia7NRgjpfDHrXxkRhGVk0U7bOO2jwb2TTUZLibIhUnoZ7Gn9GjZBVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇聚焦去除 native 中的间接跳转（indirect jump）和间接函数调用（indirect call）混淆。这类混淆经常被大厂 APP 使用，用以增加静态分析的难度和时间成本。间接跳转与间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=1&amp;sn=a463f3535ad02ff994654b39fb867a00&amp;chksm=b05a2e01846bed5722f1d78a668b81de12aa7f335e04c29d8543b63940bf0314e65078fa0fdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJCOhyoZXcjNWLBYhpqVK63qgT05KGpNic4iaDYY3FLpJ3cZq11qI1D7zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>GNU C 库（glibc）维护团队近日披露了两项高危安全漏洞，涵盖堆破坏与信息泄露两类风险，波及绝大多数 Linux 系统。其中一款漏洞的存在时间可追溯至 glibc 2.0 版本，跨度长达数十年。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=2&amp;sn=db978609e85f81923fdb2003165acdb3&amp;chksm=b0b926667e7b97e6ecbbe366472ed11d7b5f01c21fabf4c483fe2ce285c6569124eed60adbd3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周更新3课时！《零基础学习网络安全》：大佬手把手教学，不怕学不会！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G1VoewWmfN1y7Ka2ibhgAwlFia4a8m3U1f6iaicxp5CnsvZ8NTuS40yGPEIMBEDGF40wedrLMYrBLrmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想踏入网络安全领域却不知从何开始？担心没有基础学不会？现重磅推出《零基础学习网络安全》课程，技术大佬手把手教学，助你从零搭建知识体系，掌握核心技能，轻松开启网络安全学习之旅！本周更新课时5：XSS-L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=3&amp;sn=47f8edb048ac95ca1fa9a28f99d11fe5&amp;chksm=b06f4ad4b0cea96262a16c35b50f559eab9bac627e958535ea1158aff260f7fad1cae8fe4d29&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入浅出 Unicorn 框架学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4SlG8ialrIkk9xqAWc3maxzqBbEy7UxPMeCy4x6GJF0CAd5VHwSN06Uw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01简介Unicorn是一个基于 QEMU 的轻量级、多平台、多架构 CPU 模拟器框架。相比于重量级的符号执行框架（如 Angr），Unicorn 虽然没有内置 Z3 约束求解器，但凭借其极致的性能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608286&amp;idx=1&amp;sn=d19eb37d23dcccd5ec414a18a15e648b&amp;chksm=b09d5ebafe50df50e3fe352de873c43cc15f4d9963f3bb9faff1215e2ad61a0ae858108894e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Hwx816jTXOQicDA1Ricbd3yqFDVrIrtqDicDtEQVUqw9oLVe6jk9iadrPuF65zh5tVgMUDVpFR9EOLCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建QEMU版本:1.5.3编译◆下载 python 2.7apt install python2.7 python2.7-dev◆必要的依赖apt-get install -y \ git</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=1&amp;sn=f6d8c7ce14ce6f01273842199542f5ed&amp;chksm=b024a991537168a64f21a56bbb9aa083d9461becf645531bbfafdb8757c316c8f56289aa68f2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Adobe Acrobat现高危漏洞！攻击者可远程执行代码，需紧急更新]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HRefCFeUmbea0qnrg2ou64KXpdH9yD9kGB7pNO3YSOxuUxgTQZtoBEtjP4cGtjAw9gLSB625wKQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>12月9日，Adobe发布安全公告APSB25-119，称旗下Acrobat及Reader系列产品存在多个安全漏洞，涉及Windows与macOS双平台，建议用户立即更新。此次漏洞包含两类风险：高危漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=2&amp;sn=c18e16f62ca83d87766e8cb0b26ff187&amp;chksm=b0b3b2d9701becfbae16ef505b6772b61d88960fac340acf36e68c0a77692d4d6dd5a77deba0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深耕Windows攻防10年！实战派大佬亲授：内核Hook与Rootkit开发全攻略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EuiaEqyLFLoSNoOIq5gzjxeIefmW1UBtCWiayibUprzyPxUS78uPX0icANLkPlSFCqg5SyhOLQAM0Gng/640?wxtype=jpeg&amp;wxfrom=0"/><p>·核心痛点？是不是每次做竞品分析时，对方的Hook总能绕开你的检测？反外挂/防盗号对抗里，Rootkit的隐蔽性总能让你头疼？想自己搭一套HIPS防护系统，却卡在驱动层通信、内核回调Hook这些细节上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605048&amp;idx=3&amp;sn=78a85d2d1d05a6155d6dcae721d5398b&amp;chksm=b053044e53c70b9f334846332baf4b1901ac81e8c6e39dc4a8e820dde76137b02ad4e9bc514d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Buuctf刷题记录-ZJCTF 2019 EasyHeap]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9hiaeLsVBt8jlIyYsr3g7zQhSuviblNp24y8g59gmNxezFTm4GPSAsGLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 查看保护先看程序开了哪些保护，开了canary和NX，没有pie,Partial RELRO表明可以修改got表。2. 看源码main函数可以看到有一个menu函数int __fastcall</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605041&amp;idx=1&amp;sn=e68ff9561f8d4c664d45c72dc6d28114&amp;chksm=b00e81766920a8868d54fff47d36c5bfcf11d19d68d9514080e5c32443c68f2a10603b69e8bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 17:59:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

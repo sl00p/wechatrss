@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源JavaScript库jQuery刚刚过完20岁生日，发布重大更新4.0，依旧锋利？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKib11snS9FrhDzoyKTYlVuNWAS2mXicegagNGDrSuXex1IsmlxZZvACWUhy1aXKB35q3hGXmFOGkYIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2006 年 1 月 14 日，John Resig 在纽约市的 BarCamp 推出了一个名为 jQuery 的 JavaScript 库。现在，20 年后，jQuery 团队正式发布了 jQuer</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237091&amp;idx=1&amp;sn=24692e38863fe6af5cec8e848966611c&amp;chksm=bf5037c5c4b45eafd1e1f103ba58279c7ec5b0d0794539419f8e563d853f1489aaab810355a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 15:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从断网交付到敏捷协同：Gitee 移动软件工厂的增量落地全路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG4UXf5rh0AiaFGIkUGNqrK4sYnQmj22ktCRAHNjydBDqFB7PLibnVhfBcVncDD8PmL918fxVdqeib1Fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在当前的数字化转型浪潮中，研发体系的建设不再局限于传统的集中式模式。越来越多的组织需要在复杂环境下保持研发活动的连续性：有的项目需要驻场交付，研发团队必须「带着工厂去客户现场」；有的研发涉及涉密内容，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237091&amp;idx=2&amp;sn=6e376ec90f2be6b59fabf82c35c23d1e&amp;chksm=bf23259a29dd9df02ca9ad8be6742a1f18c9599ffda3f66e727dc5b1ca4d83a5f9dbbc79a72c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 15:49:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[陈天桥MiroMind团队开源全球最强搜索智能体模型：MiroThinker 1.5]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Bop46314whkphxXEuM8Hhib9lc1ztibISibW9ibFlmbjplnS8tc3U6xSuU323Ywr9bqt1ibVD8NpwcRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>MiroThinker 是 MiroMind AI 团队开源的智能代理式“深度研究（Deep Research）”模型，旨在提升工具辅助推理和信息检索能力，支持跨不同挑战的复杂现实世界研究工作流程。国</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237062&amp;idx=1&amp;sn=142cf6abc0b22888c8d51026741415aa&amp;chksm=bf188c78c9882841a245c915e4281629c2fae7dd58cc6aead19a48dfd9f1c3d36ae0894c5eea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9E9uVrgmLnlpszvHBSEJ4gbuicypVocRxILsCyooeL0fk5XLvu6jiaiaRzxMM2frcgew3AxvAcZR4Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OSCHINA 社区呼声已久的“听文章”功能终于来了，「DevFM」—— 专为程序员打造的技术音频助手，把您想看的技术内容自动变成随时可听的高质量播客。 「DevFM」通过智能生成结构清晰、语音自然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234733&amp;idx=1&amp;sn=e0d9fd3f92b56ee6ae4aa268f3a73a51&amp;chksm=bfb818db82dba3d0a6ad435eeefe1411881c3f2e08322c3734e768111c69cde4af04086ce743&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Nov 2025 15:44:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gitee 产品更新：Web 端提交、工作项与知识库体验提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG6eHZYTMOJxARMckHgjsZXsjYRqPwxB3PKnJ2Tfmg3THyJ4aUiafkOgsPjhjiaSQ3y4CqaEA8fxJ7eg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Gitee 在最近对Web Git 提交、工作项流转、知识库管理等核心协作体验进行了集中升级。本次更新聚焦提交更灵活、流程更可控、信息更易追溯三大方向，为团队在研发沟通、跨项目协同及内容管理中带来更清</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234733&amp;idx=2&amp;sn=62fec80e746a242c5cce441d8e58d7f2&amp;chksm=bfc9e86494e91d4ed2b65bc428454d93b5810b8a20d7553e6dcc852d93b06d6a240b276f85ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 15:44:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[🥳🥳OSCHINA焕然一新]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9BWp7jCx7PnSNg9L36zm2n6DysjSCicNMEumibjpjVz7M6amaUzONuxtKQNWmEt81r7kKFMmQ583Sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234546&amp;idx=1&amp;sn=c8c43a8105466dc903d0b1321866bf08&amp;chksm=bfd1ae95cfb0973443469a058dd3c136f7e5f7a7da46274cb794f81b04c98a29f186c7074dc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 11:37:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

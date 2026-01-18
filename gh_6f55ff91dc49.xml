@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[挖到了 GitHub 上 3 个 Claude Cowork 的开源平替。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawK6oia0olWUKQRzkaL36Miaov7ALtXcvr42d6A2wjSa4V73E2ib6WiaWL6Rg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Cowork 是 Anthropic 推的一个新功能，它让 Claude 变成一个能操作你电脑文件的 AI Agent 。Cowork 不仅仅是陪你聊天，而是可以直接在你授权的电脑文件夹</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530692&amp;idx=1&amp;sn=8795eb4e922db924128c21c0aeb64b48&amp;chksm=f89d12765f03e399644e1ccf73e2a581fce9a2d9b2baaa0e5b00d5b78a493b818e924fd28953&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 2 个 GitHub 上的 Markdown 开源工具，有意思。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy9aL7RYJDGiasnfnLEibqxuEQJh58LBDnSBdARXTBBqwUg5EkUM0mGHuMh16znbKFwhaYaiaglib6Isg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Markdown 增强排版神器这是一个让 Markdown 具备排版和编程能力的工具。Markdown 简单好用，适合快速记录，但排版能力非常有限，做复杂的论文或 PPT很吃力。写论文的 LaTe</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530619&amp;idx=1&amp;sn=63b3f466f345c4d1043a6fa549472ac4&amp;chksm=f8895b8f89cf5ae91d356c7b47e5080e42bb8d1ff8f453477087b8c1ef6c4a9e31b748d1c46f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPruZe7tkCHadlMrllITGX9YjR617WODSa6rpS7ib83RF1D5lomcUNlYMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我在逛 GitHub 的时候，发现了一个名为 Dayflow 的开源项目，它能够自动记录你的屏幕活动，并生成清晰的时间轴报告。作为一个 macOS 应用，Dayflow 通过轻量级的屏幕录制和 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528708&amp;idx=1&amp;sn=083f7a583be7cbc2da4d43454bb6401f&amp;chksm=f8c076c666e87db67b66b5cf58bed760d1b2b231c78137357baf512655a892bfd12b793448e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上的 3 个 AI 信息差利器，太绝了啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iar5w74JQVaibKEOYVq4DmbXdykAQHiaKvfQMlOef8ia4gcicRHOjRRHOj4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信大家也和我一样，对优质的信息源极度关注。我一般在 X、小宇宙播客、即刻等平台获取最优质的信息。但是信息一般会散落在各个平台，如果能聚合推送给我就好了。哪怕是一些总结摘要，我也能快速知道自己关注的博</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528707&amp;idx=1&amp;sn=7918d107ef8288dd77dfb4a6d2e341c9&amp;chksm=f8d33783368cde4a1ffe88477997c7fcc26f3cf6db48748797f3e77e1a15c0ece3fdbfc2056f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

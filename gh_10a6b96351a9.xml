@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL，InnoDB快照读，在RR和RC下有何差异？（第10讲，超硬核）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1xxkWAE9iaVu8xGsRRT6bicg9iaEWvEGQvNOGIyliaMaRKES6WvS7meIPjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》10. InnoDB快照读先简单解释下快照读，读提交，可重复读。快照读(Snapshot Read)MySQL数据库，InnoDB存储引擎，为了提高并发，使用MVCC机制，在并发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980336&amp;idx=1&amp;sn=65091757d33f5ecf419bdb09a55e984f&amp;chksm=bcdcf766c132330d7cd2e637ec358f55a6166e3107f0a18b3350fcb8df71ded5a2d83d32b456&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Jan 2026 19:59:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[昨天去架构师同盟《打造架构师个人IP》的闭门交流专场，分享了一个《如何在70天建立自己的个人品牌》的话题。 前面几个老师，分别分享了建立个人品牌的几种方式：公众号，写书，开源项目。举办方希望我讲讲通过短视频建立个人品牌的一些经验。 这次分享，我用了一个比较新意新奇的形式讲解：抛出了10个问题，引导大家思考，并给出自己的观点与答案。 我发现，大家通过自我思考，都能够得到与我一样的答案。 “我告诉你”与“你想出来”，显然，后者对听众的收获能够更大一些。 由于是线下闭门交流，很多童鞋没法参加，我抛出这10个问题，看大伙是不是也能深度思考，得到自己的答案： 主题：《如何在70天建立自己的个人品牌》 分享人：沈剑 1. 你为什么想做个人品牌？ （先聊why） 2. 你觉得“架构师之路”是怎么做起来的？ （再聊how，5个核心要素） 3. 70天建立自己的个人品牌，是否有可能？ （消除妄念，分享建立个人品牌唯二的方法） 4. 现阶段，做个人品牌，哪个内容载体最合适？ （这还用说吗？） 5. 做短视频赚钱吗，有哪几种商业模式？ （四种很成熟的模式） 6. 普通人做短视频能做起来吗？ （答案显而易见） 7. 想做短视频，想做个人品牌，想做副业变现，但为什么大家都没有开始？卡在哪一步？ （很扎心的问题） 8. 决策-启动-持续-迭代，做个人品牌哪一个步骤最难？如何解决？ （启动最难，90%的人卡在启动） 9. 怎么证明，普通人能做起来？ （讲数据，讲事实） 10. 有什么捷径？ （不是鸡汤，是捷径） 其实，问对了问题，很多迷茫，真的自己就能解决。很多时候我欠缺的，就是自我的深度思考。 你，有多久没有深度思考了？]]></title>
       <description><![CDATA[<p>昨天去架构师同盟《打造架构师个人IP》的闭门交流专场，分享了一个《如何在70天建立自己的个人品牌》的话题。 前面几个老师，分别分享了建立个人品牌的几种方式：公众号，写书，开源项目。举办方希望我讲讲通</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980327&amp;idx=1&amp;sn=2a54fc287b354364611b0d0025e7ea8f&amp;chksm=bc276003c0d639525a30df29ead3afb725dcc60c43fcb4ee6bfa7d20037a18a9bbc15c7c3a57&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDfS4UIKvAicHLFSHTDlBpexpkuDKWKRial8IqZ8FgSolMQKPKowobXGibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：如何让兄弟部门配合我？【1】身处职场，你是不是很多时候需要兄弟部门的配合？我经常遇到过这样的场景：1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979405&amp;idx=1&amp;sn=e866a7d802ffee252d39db3e42ed9d6c&amp;chksm=bc63dd07eaae136c05f95818fd09b8d406f07bb64ff3bec7be84d1511387393c2a5d76213aae&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[好友关系，百亿关系链，架构要如何设计？（第110讲，答粉丝提问，万字收藏）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDzwT4dxfiabIVZXtH2S6sHCWQ3lBVwSnVhI0u2j4Rx12ib9mUz3Hf8rsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》110.关系链架构设计继续答星球粉丝提问，大数据量，高并发量，好友关系链、粉丝关系链要如何设计？什么是关系链业务？关系链主要分为两类，弱好友关系与强好友关系，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979394&amp;idx=1&amp;sn=702d64bc7f91aa68d5e4cea85d2ed4d0&amp;chksm=bc937a9476825a60c7613870bbe91e6326b37bdb51e179500d25448778e976a3329c4a9b69e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
