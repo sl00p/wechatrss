@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施，PoC已发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibELyUIfgh4RnyFUA0icSGLcSXI81QMZjhvA1bxN86l3ibuo0QhWnGjVkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows Kerberos认证中存在一个关键漏洞，该漏洞显著扩大了Active Directory环境中凭据中继攻击的攻击面。攻击者通过滥用Windows客户端在Kerberos服务票据请求期间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=1&amp;sn=fb01e0c63a3c48ed0f4cb9fd1c70cc96&amp;chksm=bca1703c8d140e22dd78202adb240a5b233f2854b00b5616ab3473f0d760fd0a1f5df98b7034&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[诗歌竟成AI安全漏洞；朝鲜远程渗透计划年牟利6亿美元 | 2025网安行业优质播客精选集⑭]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibofXkkXsibM0gxKLeZpLUxEug1ZWQnwCdzqib3WsYTPsXJMkl1Z4ePJJovZ9Vun3kWKBAUYGl2SZkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 诗歌竟成AI安全漏洞？25款模型实测本期节目：研究团队重磅发现：诗歌形式的提示竟能突破AI安全护栏！25款前沿模型中，部分攻击成功率高达100%。测试覆盖CBRN、网络攻击等高危领域，Googl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=2&amp;sn=1698ef57ace4b46a44186b6a17d163eb&amp;chksm=bc8fbc2511c10ba8b7db209d1e4ef83ce437d215ccb58a1a56d843b7f12c201ff0a382845ba1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全球恶意广告劫持DNS漏洞，日均欺诈百万用户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibvArXs5Ss9ObL8Lak7Av352w7Q46svesKjcoJTic0YOGHlCibtosMiaiaHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Infoblox研究人员揭露了一个庞大的欺诈性推送通知网络，展示了薄弱的DNS管理规范与"坐以待毙"（Sitting Ducks）漏洞如何助长全球欺诈广告生态。最新报告详细记录了研究团队如何"黑吃黑"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=3&amp;sn=4c8b76d11037c2bd994e0cb92fe95e5a&amp;chksm=bc2a5269f1016008a1e08c78c9dba60709470dd1d3fabf8df6c0b964205a16109b28eec3d81e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5款恶意Chrome扩展伪装成生产力工具劫持企业会话]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibv4XAFMJU3hkUrP9fwotkCJXib6JGNv85IwErZeeHiadcukLdBOgciblOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Socket威胁研究团队发现了一个针对企业环境的新型复杂攻击活动。五款伪装成Workday、NetSuite和SAP SuccessFactors等主流平台生产力工具的恶意Google Chrome扩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=4&amp;sn=d86474188eb8d30f9b826c6cc27986fd&amp;chksm=bcec536b20572ece465556a41b52a9198b5b47f6702a3164d2e06af55f10e0b876395a701b00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌Mandiant发布彩虹表工具集，可破解NTLMv1管理员密码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibofXkkXsibM0gxKLeZpLUxEPdibyXIENCAqIMjA7tBdGibJ9KhbJcG5tD6UicVOjhQq2RiclvMTAVmhAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌旗下 Mandiant 公司近日公开了一套完整的 Net-NTLMv1 彩虹表数据集，这一举措显著放大了传统认证协议的安全风险警示。Part01过时协议的安全危机此次发布传递了一个紧迫信号：企业必</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334254&amp;idx=1&amp;sn=60c1a1f106cdbab728bc207a35262d08&amp;chksm=bc1377b4cf6d743e15b81ccd0061b4466e35d1d6fd99cea8c1345d11b4cbb83ff508ad327247&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibffdWnbTGVIfHJdFLVakZUr4uvGFV80xHD7iccfrR09P9SeoSoBM5DISnOXricqSIVVar1ico94aqvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>欧洲航天局（ESA）近日确认发生一起网络安全事件，影响少量外部服务器。这是该欧洲顶级航天机构罕见地公开承认存在安全漏洞。Part01事件确认与响应措施ESA在周二发布的官方声明中表示："ESA已知晓近</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333419&amp;idx=4&amp;sn=246ac490f9164b86b899f414cb6e325e&amp;chksm=bc5f2315a6d2690d83eefe4d6aec545982b0407a9be3113a4807fd42de424d399150744e1e8f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 31 Dec 2025 18:01:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI安全工具开发：手把手教你搭建安全工具平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrOJSNG8Vk41P3VrjPcRffx2AEdUPdCmZAeKI1F3q9rdJYvu1tLAAFiaWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年初，DeepSeek掀起的AI浪潮，实实在在地冲击整个互联网甚至日常生活，网络安全这个领域同意受到了影响：AI正逐步成为渗透测试中的协作助手、应急响应环节的分析工具，以及自动化扫描过程中的决</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=1&amp;sn=788a4745b1ce32ef7cb101c01580ab1c&amp;chksm=bcd3e14b76fe9727d6366146b72bca45e27498f19135ca40202a350366a34c5c42eee5c4d0d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[传统安全框架难以应对AI新型攻击向量]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrOVbN3vrlaJTicHrQibETkzK9PiaWDib5mdK1ESdm9XT6ibT1nKDVdR2ZfiayQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024年12月，流行的Ultralytics AI库遭入侵，攻击者植入恶意代码劫持系统资源进行加密货币挖矿。2025年8月，恶意Nx软件包导致2349个GitHub、云服务和AI凭证泄露。整个202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=2&amp;sn=e388ad5c8873df522d8b64ff2ea8a094&amp;chksm=bc120e79e0662e77b8aefbc7d18ca9aa42f021590876420fde31bba6bdcc9edc239f287dcd19&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows事件日志揭示"精密"网络攻击背后的混乱真相]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrO8rfCuBFgic0FSCru4MQqzeuVoyuVnPGKUE3ic0Obm7f1TqvCxv3wFdqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>公开报道的网络攻击往往呈现精心修饰的画面——攻击者按部就班地执行周密计划，每个动作都完美无缺。这种描述让许多人误以为现代攻击者能像机器般精准运作，毫无障碍地实现各个目标。然而，当检视受感染系统留下的实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=3&amp;sn=75487456bd28c0eb31511bcae8f48cbb&amp;chksm=bc544aa7857f7e6a7608bd76ccba19f4e6b64f3b07d0635a3fdb5cbaca1536f15778850bb09d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI强化ChatGPT Atlas防御提示注入攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icWA14gdxOXBpqQvstzKeP666JBlWJlRTZkjlicibKwwZDibJHiak3OiakBCBSPmR3hYqeiaP3yu7jjBAaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI已为其基于浏览器的AI Agent——ChatGPT Atlas推出关键安全更新，新增针对提示注入攻击的高级防御措施。此次更新标志着在保护用户免受针对Agentic AI系统的新型对抗威胁</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333365&amp;idx=4&amp;sn=4063055176ffd887c57661366f1e2993&amp;chksm=bc2ea886583cfaa126588ea4330c6dad549808671e3ad61710255ac657cf255e35a93fa8fdf5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

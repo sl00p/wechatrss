@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[万字详解大模型应用发展：RAG、MCP、Agent的爆发之旅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96ddQAfNdefjDDrKeQCvBWxNyv0n4VgBjYKqiaNWyEXSsialUMDJ1bfo28HHHeQnkJ3Wa3KXiboW9XwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01大语言模型发展历程摘要大语言模型的发展历程：2017年具有革命性的Transformer架构开始，解决了早期模型（诸如循环神经网络（RNN）和长短期记忆网络</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694097&amp;idx=1&amp;sn=26aa1b7ba79a8359af3d88642d246ea1&amp;chksm=eb9936eb80b6142f3497055601bda5c0051269c69daf58a2ef506bb1f93bb9b5bfc2dcffeb61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域，通常也是公司为其客户提供的服务。 产品，通常是指对应的业务背景下为相关问题域提供的解决方案，即为用户/目标组织所提供的系统或服务。 产品是对解决方案的包装，支撑起解决方案的实现即系统（业务系统）。 业务开发，冠以“业务”前缀，要的是在技术通识的基础上，更要熟悉业务。 业务开发团队，要承接并交付出“好”的业务系统，挑战在两点： 从0到1阶段：洞察用户痛点，解决核心用户问题。 1到100阶段：业务系统能轻松、高质量地动态进化，在不断发展中支持业务攻城略地。 洞察痛点：本质在于理解业务，能够定义边界/聚焦重点 【面向需求】要开发什么样的产品？ 【面向业务】为什么要开发这个产品？要解决什么问题，达成什么目标？ 动态进化：本质依托于业务系统的设计和实现 【面向设计】如何做才能契合业务形态应对变化、减少制约以更好的达成目标？ 对于技术要承载的业务，要跳出单一代码视角，从两种视角拆开看： 问题空间：即问题域，探讨关注有什么问题要解决，存在什么痛点要消除，也即需求； 解空间：也称解决方案域，考虑有哪些方案去解决问题；最终用哪个方案做到了，称为实现。 提问题比解决问题更重要。 初识业务，或者成熟业务上扩展出新需求，需要主动思考： 业务现状，为谁服务？全景如何，上下游如何合作？核心价值，利润来源？最重要待解决问题？…… 有全局认识，才能建立足够的判断力，帮助高效对接/厘清业务，放大价值贡献。 业务建模是一个体系化主题，不同的场景有其合适的用法。只有当有更多角色直接参与，并有更多不同业务信息由该系统处理时，业务建模才会增加更多价值。例如，纯技术领域的问题中，与业务无关，可以无须业务建模，你的代码和数据结构就是你的模型抽象 当 LLM 掀起巨浪，Prompt Engineering的本质也是“如何理解业务并结构化陈述业务需求”，这与业务建模方法为业务开发赋予的理解问题域能力正好契合，“声明式的方法+结构化抽象并逐步分解问题”的思维不会过时，AI时代甚至有机会赋予业务开发新价值。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247667685&amp;idx=1&amp;sn=94959aefedb00fc4bf2d3393dd70e529&amp;scene=21#wechat_redirect">天天写业务代码，如何破局业务开发的本质？</a> 各位彦祖亦菲，你对本篇命题的答案是？]]></title>
       <description><![CDATA[<p>没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694037&amp;idx=1&amp;sn=bae63314ed696e5bac80052565cfa8b4&amp;chksm=eb894b805a26f9b961a2a440a09a65a384fadb08a92dc9a0d021a1b24636e23bfe8e7ad1293a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95xuC2F2V5pM0gEE52YDuibhy5Wics8Vhib3YWZXPnLMTgH5cZVMmwh1icKmYwh3L0ZCfpEX9uuC8vkhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 VibeCoding的诞生与困境2 回到“原点”看沟通困境3 写代码VS看代码4 提示词VS上下文工程5 一些心得想必你也遇到过：AI的输出像个 “随机盲盒”，有时精准的让你惊艳，有时却像个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692485&amp;idx=1&amp;sn=57040e59666a4b92e3392f21c302f9f8&amp;chksm=eb9a9ff6b11f48b96d9fcee04129849bcaac778cfa919c2edfe54af1d879a2e639ef2314343e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如此编程20年 1. 工具次之，问题为王。先准确定义问题，再选合适技术；别为工具改造问题。 2. 代码写给人看。命名清晰、结构稳定，照顾新人和未来的你。 3. 协作胜于个人英雄。公开沟通、共享决策依据，以身作则让追随者变成合作者。 4. 分治与低耦合。单元测+集成测，既测常态也测边界与极端。 5. 别把自我与代码绑定。可交接、可延续，才能抽身成长。 6. 安全是分层风控，取舍因业务而异：银行先安全，游戏先性能。 7. 代码有寿命：核心/必要/增值，学会放手与归档。 8. 技术债像快餐：偶尔放任可以，积累就会三高。 9. 取舍排序：安全＞可用性＞可维护＞简单＞简洁＞性能。括弧，视情况而定。 10. Ctrl C+V前先审计，Bug藏在复杂性后。 11. 异常要写“为什么、如何检测、如何恢复”。输入尽早校验，能失败就早失败。 12. 远离炒作驱动开发，保持好奇心与多语言/多文化输入，持续分享。 13. 彻底了解问题前不写代码，不为不存在的问题设计架构，扩展性在真需求出现后再做。 14. 社区让开发更有趣：倾听、启发、复用与回馈。腾讯云开发者社区就很棒棒！ 17. AI是加速器：方向错会更快撞墙。先定需求、验算与评测，再让AI上车。 18. 以评测驱动开发（E2E/Eval）：为模型与检索链路设离线/在线对齐指标与回归集。 19. 设计可控的不确定：对LLM设温度/重试/超时/缓存/工具调用白名单，边界内随机、接口外确定。 20. 当某些子任务可以用确定性的方式完成时，永远优先使用确定性的方法，而不是依赖“智能” 21. RAG＞死记硬背：先让知识可被检索与更新，再让模型会引用与标注。 22. 成本/时延是功能的一部分：把token、延迟、并发当非功能需求管理。 23. 模型是依赖：版本化、灰度、回滚、提示词与系统提示同等纳管。 24. 让AI产出可审计：要求“证据+步骤”，必要时用程序化校验而非人肉信任。 25. 能被提示词解决的，就别开新的评审会。 26. 保住工作不容易，提升自己是ROI更高的防御式编程。 问题来了，按照这些原则编程，你能干20年吗？留言分享，我们将抽取一条评论送出社区周边一份。]]></title>
-      <description><![CDATA[<p>如此编程20年 1. 工具次之，问题为王。先准确定义问题，再选合适技术；别为工具改造问题。 2. 代码写给人看。命名清</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692472&amp;idx=1&amp;sn=cbf5b36233420bc938b8cb03e3d27dfc&amp;chksm=eb673f8123eabcdf34a1564d1fdc30a69fcf9c2310fde328714d0d6d907d37de556cf6afa427&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

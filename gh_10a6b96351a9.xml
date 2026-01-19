@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么现在招聘C++程序员这么难？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1RrSbVZJZfsGMFJrCRhSVYQFUtxibReSb3yUnpbCEpyEAgwcrk4pqeZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有HR说：“招聘条件已经降到很低了，薪资也还不错，就是没人。”主题：为什么现在招聘C++程序员这么难？https://www.zhihu.com/question/491876804【回答1】要不是我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980366&amp;idx=1&amp;sn=2c9a490cfaf80fb538bf388bb960cb34&amp;chksm=bc8b9facf882c8d9d67efb7fc037478f65b08f6eeba5a3b8400a5bba9773acda25392222a80a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 18:35:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MySQL，InnoDB快照读，在RR和RC下有何差异？（第10讲，超硬核）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1xxkWAE9iaVu8xGsRRT6bicg9iaEWvEGQvNOGIyliaMaRKES6WvS7meIPjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》10. InnoDB快照读先简单解释下快照读，读提交，可重复读。快照读(Snapshot Read)MySQL数据库，InnoDB存储引擎，为了提高并发，使用MVCC机制，在并发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980336&amp;idx=1&amp;sn=65091757d33f5ecf419bdb09a55e984f&amp;chksm=bcdcf766c132330d7cd2e637ec358f55a6166e3107f0a18b3350fcb8df71ded5a2d83d32b456&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzNyUZQWxTZzI5eBzCVw6XNcia7A1R6mjAFojcrS5rUpf0CLWhzVL6hxhPLMF0QOCNjbVOmQT1WUNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>若你在走廊听见有人念叨“0是开始，1是归宿”，或是群里突然弹出 “遇事不决，先打log”，别怀疑，这大概率是程序员在 “接头”。主题：程序员们可以说个暗号，证明你是程序员吗？https://www.z</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979432&amp;idx=1&amp;sn=b6c121f3917dcf52f7455226fc876d9a&amp;chksm=bc72f6eef1f9f4eb8acefc449952253c82f5232594bed17aa09d1ce49f3cdb23d6352975f473&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Nov 2025 20:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[需要同事协同，他不配合我怎么办？（都是平级，凭什么听你的？）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzic5gelsmNiadVLFYPa0FtVDfS4UIKvAicHLFSHTDlBpexpkuDKWKRial8IqZ8FgSolMQKPKowobXGibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：如何让兄弟部门配合我？【1】身处职场，你是不是很多时候需要兄弟部门的配合？我经常遇到过这样的场景：1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979405&amp;idx=1&amp;sn=e866a7d802ffee252d39db3e42ed9d6c&amp;chksm=bc63dd07eaae136c05f95818fd09b8d406f07bb64ff3bec7be84d1511387393c2a5d76213aae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[3700+ Star 的 MemOS：在 Claude 之前，就把 AI 的记忆和知识库分清楚了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwgmdzox7XFrpicad42ib8iaE7HR0eqxLg8Re5BL56YjvibV5cS9Z2LsyPx1gDrgxPtd0y93y0LO42Nww/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天刚被路透 Claude 的「Knowledge Base + Memory」将进行更新，本质上解决的是同一个老问题：原生的 AI，每一次对话对模型来说都是第一次见你。模型不会记得你之前做过什么、怎</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530693&amp;idx=1&amp;sn=a231230a037f2fbe8b1c4cd51db85f29&amp;chksm=f879562f807365839a97e7484831d06f88f60b4fd292f0e84009ab17e768d9276cf584d8c093&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖到了 GitHub 上 3 个 Claude Cowork 的开源平替。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawK6oia0olWUKQRzkaL36Miaov7ALtXcvr42d6A2wjSa4V73E2ib6WiaWL6Rg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Cowork 是 Anthropic 推的一个新功能，它让 Claude 变成一个能操作你电脑文件的 AI Agent 。Cowork 不仅仅是陪你聊天，而是可以直接在你授权的电脑文件夹</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530692&amp;idx=1&amp;sn=8795eb4e922db924128c21c0aeb64b48&amp;chksm=f89d12765f03e399644e1ccf73e2a581fce9a2d9b2baaa0e5b00d5b78a493b818e924fd28953&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaY54fsIHaJs1aOWSm7ZhicOjRJuzXMVaUa2eiaf1A1ibCFiaElV5aNaWQjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一人企业方法论开源项目名字叫做《一人企业方法论》，目前已经更新到第二版。专门为想要独立创业或开展副业的个人提供实用指导。无论是做自媒体、电商还是数字商品，即使没有技术背景，也能从中获得启发。我读下</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528737&amp;idx=1&amp;sn=fe09bec408998d56605c8fd9b8409ad6&amp;chksm=f830a7a31ce2cf26189837bf4f56c13e36eb463efc822d91297f1799e6c7175bff3a9f767d9c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 开源 AI 好玩神器，自动记录你的一天。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyIesmcpbYOGY27Zex9QHPruZe7tkCHadlMrllITGX9YjR617WODSa6rpS7ib83RF1D5lomcUNlYMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我在逛 GitHub 的时候，发现了一个名为 Dayflow 的开源项目，它能够自动记录你的屏幕活动，并生成清晰的时间轴报告。作为一个 macOS 应用，Dayflow 通过轻量级的屏幕录制和 AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528708&amp;idx=1&amp;sn=083f7a583be7cbc2da4d43454bb6401f&amp;chksm=f8c076c666e87db67b66b5cf58bed760d1b2b231c78137357baf512655a892bfd12b793448e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

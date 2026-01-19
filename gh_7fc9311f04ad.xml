@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qoder @database功能上线！自动关联数据库 Schema，后端 AI Coding 效率拉满]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKD7mnQMc2fMOGNBEPC3WyOPfItQ5dEKCWibsWlcoCdXhHQUe59hA9UO6zmCdaLDKtmjltjztHC9pQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据库是后端开发的灵魂。在 AI Coding 极度流行的今天，虽然生成 SQL 语句已不再是难事，但 AI 工具往往因拿不到准确的表结构而“乱写代码”。尤其在数据库Schema未保存在本地（如使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557678&amp;idx=1&amp;sn=a295dee2a4bd58af957843591f763185&amp;chksm=e8ead21ca38ba03062e84f235e54c3744e1282c296f0bc980c028ab7f25a0d3308aa8a1c0c0f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDD 如何在复杂业务系统中真正落地？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyianTTwY9twB1B8yviaicDsWtdoLpnsfmpAOsb9eRolRomiacTPvapJhf83Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>发展历史全称：spec-driven develop，spec 是 specification 的缩写，代表规范，我们以 OpenSpec 这个库为例。CLI 基础使用项目初始化 (Setup)ope</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557558&amp;idx=1&amp;sn=6e4699216ea6be3a5c2f784887a66ce1&amp;chksm=e85c0e6e006e6b05cd219af4871a02e62b5ff8fac3d904dcf9c49486c1b9548b2a2244c29981&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFY8I4YsKbtkFYI4l3SAgtKLicmuJbW9g1iaQXrfT8RydiaoIRMJxdlzKZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言随着 AI Agent 的快速发展，一个新的名词「上下文工程」进入大家的视野，很多人会好奇它与「提示词工程」有什么区别，是又在造新的概念吗？我们今天就来聊聊，究竟什么是「上下文工程」，以及它是如何</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554461&amp;idx=1&amp;sn=e52d01dd0832ede6a6cc146c152b39a1&amp;chksm=e854f3fb96030deca675f98a14449484fd8c6821fa540bb514156e9bcaf2045bc090badfa5a1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《AI大模型时代老板必修课》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5VvjaB8WIFKJXXFV9Y4FVCMv29oFA8CciaFMJibZa9rEgrSIBYFwPiacNRibEMIWlkdd3Z3LOJumZCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云智能集团副总裁、CIO 蒋林泉，过去几个月和近百位业界CIO/CTO进行了交流，共话大模型落地的真实经验。钛媒体联合创始人、联席 CEO 刘湘明则通过百余份调研，试图厘清“AI 落地的十个问题”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554319&amp;idx=1&amp;sn=3678174e7a17b91b7223db406aa71e73&amp;chksm=e89885bdf5ba051860a3e8f48c1d30bbe4d9c613d6dee9d164b8d5170ffd69408f3664d4b7d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
