@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深入浅出 Ollvm 混淆原理及反混淆技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GU7Z2cSK0VVkqRmRTec3xAqvVne6hYomrExO1ffxeVx58icpk0go57ubSn2ogqm17FB5S9unmy5Ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在对抗 OLLVM（Obfuscator-LLVM）混淆的征途中，理解其混淆原理是制定还原策略的第一步。本文将深入探讨 OLLVM 的三大核心混淆手段：指令替换、虚假控制流、控制流平坦化，并分</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=1&amp;sn=30666abdc58e2d9e0ff07ebb1aec8f2a&amp;chksm=b02fa96550c5a50791ae62b87fa8df892a4641c1b7b8ac59f3f36d29d372d80a517f48ddcd41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0Gu80eKbg3sXz6xFfqLZjpJRZBAKesvIlQOicJpzBLUIz5n0PKBMZE5bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog安全研究团队公开披露了Redis数据库中一个高危漏洞的完整利用链，证实“老式”栈缓冲区溢出攻击在2026年仍具极大危害性。该漏洞编号为CVE-2025-62507，CVSS评分高达8.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=2&amp;sn=7fb7a1fd128f9485c34b6412149976d8&amp;chksm=b0e9bcfaa822fd25395249bff13faa04aa26555f387c1a2685bac36dfb45b5e61fcfb09fedd9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[985安全硕士、10年逆向经验！无名侠亲授，7天吃透 IDA 9.0+AES 逆向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在被反调试技术虐得体无完肤？面对AES变种算法一脸懵？写IDAPython脚本总是卡壳？看雪论坛技术大牛「无名侠」亲授，7天从小白到逆向精英的蜕变之路✅ 掌握通用逆向方法论✅ 轻松剖析AES加密算法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=3&amp;sn=af9807e2b2149813583872077dbe0aa3&amp;chksm=b0eb268a28c5fd87b4a3c9b58a95f237818cde0d2c23a35917a0e0874de0de66f25ebb095dc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NETGEAR 路由器环境模拟与漏洞分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJPw6v0dmXuhIhQGEzt20Yn0hWDuorQW2WE0ibreA7IEKmwLvtgalgNfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01环境配置版本 :Nighthawk AX12 RAXE500 V1.2.14.114_2.0.67首先 binwalk -e1 RAXE500-V1.2.14.114_2.0.67.chk 解压固</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=1&amp;sn=a2d35a8ebfe8b57b29b4000968090400&amp;chksm=b072983930b29f33a5681ffab82d25d9157586d253b847844df45c73e026925a3d5510ff3ca5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GBS0G4vBPud3xpwFsUe26UIZehtcIF1cibVCHGbLVS1icNESYZaxKdI93OKRfp7wTnChypiaF2RlGmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025看雪社区年度评选当时间的指针即将划过2025，我们并非在丈量岁月的长度，而是在称量一行行代码、一篇篇分析、一次次解答所共同构筑的思想重量。过去一年，社区里高手如云、精彩纷呈。有人以笔为剑，剖析</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=2&amp;sn=f55558a38fcb1db4ca9c58489fe3d011&amp;chksm=b029c6dea9aed81383821c83cd2ac1ef7e9f4b24826bf37606dae4283fe2ba498e1503263b7d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Red Hat GitLab遭黑客入侵，日产2.1万客户数据外泄]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GBS0G4vBPud3xpwFsUe26UbzTZsv0AlribEE1v4Tl0UBZagQoQiaU3hCLPN0gwZqfBZTrpPBkbTt7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>日本汽车制造商日产近日披露一起数据泄露事件，此次事件源于其合作方红帽咨询（Red Hat Consulting）使用的自托管GitLab实例遭黑客入侵，导致2.1万名日产客户信息外泄。日产已就此事向个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605976&amp;idx=3&amp;sn=c6eff30023b5e14648b36dca0142f087&amp;chksm=b0a9d5a0ea4f0c6039e4355e89a59815533c5fc8e793bca24e530b9ab77a3eed91e49d408de9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不改 NDK 也能用新版 LLVM Pass：Windows 下基于插件的 NDK 27 集成方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9DKbAcLWTVEbHUYbT9TIlDPDQsAP4R1PoHG5J3NXwQKSaZVeQZjcjicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近总算在 Windows 上用插件的方式把 LLVM Pass 集成进了 NDK，中间踩了不少坑。发现全网几乎没人把完整流程写出来，那就由我来补上这块空白吧～01前人的智慧在查阅一些资料后，笔者发现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=1&amp;sn=24b5cb942d684609b1ee01fdaa3151b5&amp;chksm=b04b3f275ec3da5b347f30eb0bd8c4957e869b8f0c9da2bc1e8abe58bfe44809ebcccc3e40cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025 最后一波高薪机会！网络安全/逆向开发/Android 岗速投]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳软牛科技集团股份有限公司 职位经验/学历薪资地点逆向开发工程师应届毕业生/本科面议深圳高级逆向开发工程师3-5年/本科面议深圳长按识别关于岗位详情及</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458605063&amp;idx=2&amp;sn=689adf40ab11a6c82f57aa27c0f38708&amp;chksm=b01c6906b5b19f8ece863afa06b5360217304b16c0bf30f4c05770f3ab4be5ca763f057b6cd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

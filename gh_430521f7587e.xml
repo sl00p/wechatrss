@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code的代码安全困境：插件机制齐全，却绕不开模型幻觉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLhpaJicVgVLdzGuLCF1ObjJ9aDHzvFOJAS9dvafuNpeWYU8vREpepPCwU9NhQIykbauTZCNImic7wIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 正在尝试构建一个插件化的 AI 安全体系：钩子机制、技能加载、上下文集成协议（MCP）等模块一应俱全，结构复杂度在同类工具中颇为罕见。Gitee CodePecker 团队近期</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237237&amp;idx=1&amp;sn=1a0fe8e2de02fe995e84b914f3e18a2d&amp;chksm=bf7acc44fabcf28b6195a92102a0cf34bd45519511bf155d4f6abf86666b56e037d7a10fdc7a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 16:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026 平凯数据库新品分享会议程官宣]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UpAsF3LicVxpz3abKBXksEKg1ebGgLF3Hia3oKdVBdibqUVeyllfIUmTbubWrzHhZPw47MZzSAtOzaKUwR4IEdlgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>「2026 平凯数据库新品分享会」议程来了 🎁 转发有奖 第一步：点击预约直播。第二步：转发上方议程海报或本条推文至朋友圈。第三步：点击阅读原文，将预约截图和转发截图发至活动帖评论区。即可参与【限量款</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237237&amp;idx=2&amp;sn=336e3e661dfdc246397cc0683b47a75c&amp;chksm=bf9c3a8b27d7bb62a6fd2892c824c3476bb6239c3fdb512bd48f67427ca15d6d62e3268bc1e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 16:06:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[马斯克开源𝕏推荐算法，完全基于AI大模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK99faTSx5m4pNInjuLcUKeKgBxNg0bZUSlLYxsFCFGSJicrchgt9KicZEOGyQzoyktnvb614VJBSMvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237172&amp;idx=1&amp;sn=203fa9d64f4bf3c3d54eaaf331de72e9&amp;chksm=bfd8c452392723208ee1a5bd44dee920bac015551d50bcc51d2b2b7800a3edf85f61949e7852&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK92HXia5WydMAReOlnlBuyVFrEz18l1Yg7ot6xCFOB2BeQTcPgt33uCiboVXtDB7aGHw2Adl4Z5uN0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>📃智库地址 https://www.oschina.net/doc/ #OSCHINA #AI #技术 #资料 #改版 #网站</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234876&amp;idx=4&amp;sn=e3ff0bb4b543d932cad262ed66077a94&amp;chksm=bfc65d6137de4f53af3efaf7cc9df0cf9b7e2c5e7697dcf1457eb6f539ee4e7ad0f42e432df3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 15:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中国“开源AI模型”超越美国]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKic50wibWUryxtROUbAU6oBGNyoYyyKKsPicpWV79boLE6zWPXxeXJcAMBekLs8THDF6EOPryN1bTlvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据《金融时报》的报道，中国目前已经在全球“开放（open-weight）AI 模型”市场上超过美国，成为主导力量。一项由 MIT 与 Hugging Face 联合进行的研究显示：过去一年，中国团队</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234857&amp;idx=1&amp;sn=e09e8fbc72f9e58818da49815b2cf88b&amp;chksm=bf5a405b6d36887be6c28bbe87c10981893d2f6ae9655860588528bfbd0e08d8201c52e9e81e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 13:27:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Multi-Agent Hackathon 2025 正式启动：构建智能体网络，赢取 15000 元奖金！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/H0Amia18ibmzImuFibBiaSfKInYhCrVicog7tY0ryAN0EoNI9nCbPoibE99qapuLT1DjNY07GdBb9kvd6eQKlSuEoQ8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>为推动多智能体技术及应用的发展，激励广大开发者探索与创新，OpenAgents 社区正式发起 Multi-Agent Hackathon 2025 ！我们诚邀您利用 OpenAgents 这一强大的基</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234857&amp;idx=2&amp;sn=cd3583670019b36f0d4fa2b6ae8c905a&amp;chksm=bf9422e535c0e669fa5ce41bf48890d85fb6203fc61bb80c5945d3ec0f5fd8a09472cbefafb0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 13:27:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

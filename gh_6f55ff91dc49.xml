@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 5 个本周 火火火火 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKQ5gqG4Xznc6HJ7tIL2uA4uSN9t1QJpI0eWYf9kHx1qadiaptVqMKLDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01SuperPowers这个 GitHub 项目在本周还挺火的，现在已经 2.7 万的 Star 了。它其实一个为 Claude Code 设计的 Skill 框架与工作流插件。改天会好好介绍一下这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530695&amp;idx=1&amp;sn=8fec94de00dd3805e01ac3540daa6b57&amp;chksm=f810674f3cf478e8491541e2ccc019d7617674739edbea0156be0105abe2d7963f0f26bd934f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3700+ Star 的 MemOS：在 Claude 之前，就把 AI 的记忆和知识库分清楚了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwgmdzox7XFrpicad42ib8iaE7HR0eqxLg8Re5BL56YjvibV5cS9Z2LsyPx1gDrgxPtd0y93y0LO42Nww/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天刚被路透 Claude 的「Knowledge Base + Memory」将进行更新，本质上解决的是同一个老问题：原生的 AI，每一次对话对模型来说都是第一次见你。模型不会记得你之前做过什么、怎</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530693&amp;idx=1&amp;sn=a231230a037f2fbe8b1c4cd51db85f29&amp;chksm=f879562f807365839a97e7484831d06f88f60b4fd292f0e84009ab17e768d9276cf584d8c093&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaOCNciarABIbnP9KqpvaWN4o6VPA9DdG9SGkPdAD6zugQur65dhia8IhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01快速把网页打包成 APP这个 GitHub 开源项目有 6.5K 的 Star 了。它是一个打包神器，能把你平时用的网站，比如油管、小红书或者你自己写的网页项目，快速变成一个独立的、小巧的电脑或手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528755&amp;idx=1&amp;sn=83983f4a348853f1f0f5730867541268&amp;chksm=f8b62b743ac46e520a5c53926cddea5f16f7067ecb3ceaabab172e1918846b78dd03e6d30168&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 15:31:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[副业搞个 100 万，这 5 个 GitHub 项目不能错过。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaY54fsIHaJs1aOWSm7ZhicOjRJuzXMVaUa2eiaf1A1ibCFiaElV5aNaWQjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一人企业方法论开源项目名字叫做《一人企业方法论》，目前已经更新到第二版。专门为想要独立创业或开展副业的个人提供实用指导。无论是做自媒体、电商还是数字商品，即使没有技术背景，也能从中获得启发。我读下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528737&amp;idx=1&amp;sn=fe09bec408998d56605c8fd9b8409ad6&amp;chksm=f830a7a31ce2cf26189837bf4f56c13e36eb463efc822d91297f1799e6c7175bff3a9f767d9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

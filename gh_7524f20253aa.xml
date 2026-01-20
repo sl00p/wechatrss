@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[东南亚120亿美元Telegram非法交易平台“土豆担保”停止交易]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2vibPdAtOuf5BMz8HhxtWLGyTGWqV9UrE6os2Itms97SjlGdCicsPpWerA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01东南亚大型非法交易平台疑似停运区块链网络安全公司Elliptic报告指出，东南亚地区基于Telegram的大型非法交易平台"土豆担保"(Tudou Guarantee)已停止其公开群组的交</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=1&amp;sn=b70aaea5cc3c028b416737b4a129975b&amp;chksm=bc8e76da4d32c7085533b146256753c28d4e91bbe9306e1ca89af5810128b0d946acc8fade18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2viaHQh30Wn40p7V5AZENd7Kqj86HME1aWWSma5dibSDIL2cShV6jjgX2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cloudflare Web应用防火墙（WAF）存在一个高危0Day漏洞，攻击者可借此绕过安全控制措施，通过证书验证路径直接访问受保护的主机服务器。FearsOff安全研究人员发现，针对_/.well</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=2&amp;sn=da57f9930955ca08f55436ad9db4a5a1&amp;chksm=bc5e601b2ff02953fd235257dc584292d32bf200cc53a5ff771f9dad422248f37ed04cb6988e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2vB7hUSwNpSDjTV4Ckx67MW5uceDMchN9ibWW0vRLbdR7qdUAOLicpT77A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic PBC的官方Git Model Context Protocol（模型上下文协议）服务器存在多个安全漏洞，可能引发任意文件访问，某些情况下甚至能通过提示词注入（prompt inj</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=3&amp;sn=3be4f099d58260eb35fcdd86fb125e42&amp;chksm=bc738a9f36ce5524329e1d2d85883232b2e65c713af0264d0163bbabe4829910ebe2c9880218&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[间谍软件反制升级，Predator恶意软件开始猎杀安全研究人员]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2vF5PA0Mo9wAtyBDacy0nMJ1OT0GVqIYL8IW7G5NWfcWoHiclOzbMPFQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>商业间谍软件行业不再仅开发针对受害者的监控工具，他们正在构建专门用于反制研究人员的功能。Jamf Threat Labs最新技术分析报告揭露，臭名昭著的Predator间谍软件中潜藏着此前未记录的复杂</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=4&amp;sn=d1de2f4fa3e1c8f491eebd294765dad6&amp;chksm=bc7a558f0636561791b0b8fde89bc2e4c8096ed79122e96741681c4cf172a43fe7bb713e9c00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施，PoC已发布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibELyUIfgh4RnyFUA0icSGLcSXI81QMZjhvA1bxN86l3ibuo0QhWnGjVkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows Kerberos认证中存在一个关键漏洞，该漏洞显著扩大了Active Directory环境中凭据中继攻击的攻击面。攻击者通过滥用Windows客户端在Kerberos服务票据请求期间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=1&amp;sn=fb01e0c63a3c48ed0f4cb9fd1c70cc96&amp;chksm=bca1703c8d140e22dd78202adb240a5b233f2854b00b5616ab3473f0d760fd0a1f5df98b7034&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icycH9yDEUA78sddIQVdK0cTnKR4Z1IRrGuk22OML7U7cyibayMiaxqp8UiawSnyiabm121Xs4Jtokulw/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对AI系统和基础设施的攻击已开始在实际场景中显现，安全专家预计未来数年此类攻击将显著增加。在追逐AI效益的热潮中，多数企业在部署AI工具和应用场景时忽视了安全加固工作。专家警告称，许多组织尚未做好检</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333805&amp;idx=4&amp;sn=59babd77d817fa024b103eead2c5f8eb&amp;chksm=bcb32ae5d7dc93643b9775462b1ace8b94a93ff0e50043fec1b62bbffedcc2d3eecdd9132bc9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源C2平台AdaptixC2重大更新，稳定性、性能与速度全面提升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibffdWnbTGVIfHJdFLVakZU8s7lW0DfeYl2UcTSSQfF6lYVs8icppclIsvkdM8z5ajLqEvPdQpQYaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Adaptix Framework 团队近日宣布了对其开源后渗透与对抗仿真平台 AdaptixC2 的一次重大更新。该平台专为渗透测试人员设计，最新版本在网络隧道、用户界面及整体系统性能方面带来了显著</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333419&amp;idx=1&amp;sn=f019d08863942553aece01b2a7588476&amp;chksm=bc95a2c35ebdee5643dc0a58e7d91c762431fc1fb26c80f3ec38d66fb612e8b304e1afaf046d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 18:01:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有奖提建议 | 塑造更精准的FreeBuf社群AI商桥服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibGzh4z1Iz460eNmy8AmicrO2ia0sqUQicicfmkC9Fib4gIkYiarvr6s0dTOhk7BhTldlVXP6Vickbwyee2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>自FreeBuf社群AI商桥服务上线以来，已有不少甲方伙伴通过它快速匹配厂商、缩短选型路径。为让这项服务更精准、更实用，我们正式启动“商桥体验官”声音征集计划。诚邀已体验或正在关注商桥服务的甲方伙伴，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333419&amp;idx=2&amp;sn=ba9eba4eeb32c1d1dceb90d512f2076a&amp;chksm=bc4291c1dfcc356a98398d75b1ca2fd387d0090fe8880bb9178bab494e1a1a798bb0ee7bf233&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 18:01:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ESET警告：AI驱动的恶意软件攻击威胁全球网络安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibffdWnbTGVIfHJdFLVakZUoSVbto9ka5s80EoStMPneUMouzf1hGIO85JCichgicdYFM75IZq66PeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01网络安全格局迎来关键转折随着人工智能从理论威胁转变为实战工具，网络安全格局已到达关键转折点。ESET在《2025年下半年威胁报告》中指出，攻击者的运作模式正发生令人不安的转变——AI驱动的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333419&amp;idx=3&amp;sn=9f240a654b6ad757b07cd27f66ba03db&amp;chksm=bc9b1945ebdf85ce15f6fca454ca5403c2c43fb07037b8c27dd92739f07a74f5d70691fcaada&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 18:01:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[欧洲航天局确认外部服务器遭入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibffdWnbTGVIfHJdFLVakZUr4uvGFV80xHD7iccfrR09P9SeoSoBM5DISnOXricqSIVVar1ico94aqvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>欧洲航天局（ESA）近日确认发生一起网络安全事件，影响少量外部服务器。这是该欧洲顶级航天机构罕见地公开承认存在安全漏洞。Part01事件确认与响应措施ESA在周二发布的官方声明中表示："ESA已知晓近</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651333419&amp;idx=4&amp;sn=246ac490f9164b86b899f414cb6e325e&amp;chksm=bc5f2315a6d2690d83eefe4d6aec545982b0407a9be3113a4807fd42de424d399150744e1e8f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 18:01:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

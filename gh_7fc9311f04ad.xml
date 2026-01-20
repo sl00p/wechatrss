@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[多 AI 协同 + SDD 编程实践：一个 AI 全流程交付实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQA5RcIlKmJeR4uhyibz775jxjTYfj6P63oJ8ODR5rvlBwlqGUibhM6WxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言2025年以来，AI Coding技术正以前所未有的速度演进，在提升研发效能方面发挥着越来越重要的作用。Claude Code、CodeX、Gemini、Qwen Coder、Kimi K2等编码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557693&amp;idx=1&amp;sn=a904d94029bc877eb7319d096308fb7b&amp;chksm=e8e1c53532fc8fdd19d65eec924bdb7b099c363a34a8de47fa99d83bf782c2bc8c57139bcbfe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qoder @database功能上线！自动关联数据库 Schema，后端 AI Coding 效率拉满]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKD7mnQMc2fMOGNBEPC3WyOPfItQ5dEKCWibsWlcoCdXhHQUe59hA9UO6zmCdaLDKtmjltjztHC9pQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据库是后端开发的灵魂。在 AI Coding 极度流行的今天，虽然生成 SQL 语句已不再是难事，但 AI 工具往往因拿不到准确的表结构而“乱写代码”。尤其在数据库Schema未保存在本地（如使用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557678&amp;idx=1&amp;sn=a295dee2a4bd58af957843591f763185&amp;chksm=e8ead21ca38ba03062e84f235e54c3744e1282c296f0bc980c028ab7f25a0d3308aa8a1c0c0f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFFLP48BRaFHWfzK9BC2pRGATw3XNmHHGlgXvOJ1fSJwjkpEHcFCZ2bg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统阐述了在AI辅助编程快速发展的背景下，如何构建一套科学、可落地的研发效率量化指标体系。一、前言随着AI技术的快速发展，AI辅助编程已成为提升研发效率的重要手段，也是不可逆转的编码新方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554539&amp;idx=1&amp;sn=04da5098f4cc1bddd866aec87af6b931&amp;chksm=e8c69e5f4a95c5906afddc26d5ecc1e024dd5b5cb334b3eca1c2c516020ff96f6df8b00d8655&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅谈上下文工程｜从 Claude Code 、Manus 和 Kiro 看提示工程到上下文工程的转变]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZu6aVojlqCkAIbPXxdIhFY8I4YsKbtkFYI4l3SAgtKLicmuJbW9g1iaQXrfT8RydiaoIRMJxdlzKZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言随着 AI Agent 的快速发展，一个新的名词「上下文工程」进入大家的视野，很多人会好奇它与「提示词工程」有什么区别，是又在造新的概念吗？我们今天就来聊聊，究竟什么是「上下文工程」，以及它是如何</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554461&amp;idx=1&amp;sn=e52d01dd0832ede6a6cc146c152b39a1&amp;chksm=e854f3fb96030deca675f98a14449484fd8c6821fa540bb514156e9bcaf2045bc090badfa5a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
