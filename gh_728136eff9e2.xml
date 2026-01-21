@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于 Agent Skills 的 UI 重构实践：从 Demo 到主题化界面的升级之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsrCvVjJ38X8TSiaRmBnw7zdibWP48WWX7OPK9ibT4f9iaicmmOCq5LKsich2wasHNibnSpk7uLgpgyquNNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文倒计时4️⃣天，速戳上图了解详情🔍）从一个小 Demo 开始最近正在读《百万富翁快车道》，里面有个观点是通过工作收入 &amp; 投资复利，要实现财富自由需要非常久的时间，于是心血来潮，用 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547758&amp;idx=1&amp;sn=11ef13e5661a70d8f21c9f8bd2075d91&amp;chksm=fdc96003d414eeb69bd135bd8c4eca4cd201bee4966ae1f09b4a0f58d6677ffb9509b480c4c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[周年回馈｜TRAE国际版全部用户限免一个月！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvWSgXoibIcem2EcOINQyWljjcY1SFS50Xk1XtWqb0Wyn6d8EklrdOYOtnZky4gicWO5w1btD9CDXicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547706&amp;idx=1&amp;sn=6f53304a4998dba62649f81333e536ad&amp;chksm=fdf2cddbd0d42b84a4483a933d55b705c80e5a2d67cf477386d877f8dada696a98ace481fa75&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvVl1G0D9bWddb8NdEAYCI9LDM2hs9MmSPWkorCmbCp1Hb3xoRtJqNZvkV7Ue0P0PRywRps8EnQ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信我们经常这样写bug（不是 👇：ounter(lineounter(lineounter(lineounter(lineounter(lineounter(linetry { const res</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546602&amp;idx=1&amp;sn=bd63eb746ec80933d1d25de0caaae27c&amp;chksm=fd2c850afcd5886defd01abea5183607293c1e3c8c454e62c0a3aaad1c80e00fa4cdfa05f681&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 02 Nov 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[放下技术焦虑：越来越多公司重回单体架构的真相]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvGq7icdB0EHNhB7a2EBJ1hjhhDPm2UZ054Bf3EKbaBYvhympcA8eP9CNicAg4HdOVUxiaUZ0ovaIQTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>多年来，我们一直被灌输“微服务是未来”。“把所有东西拆分成小型独立服务，”他们说，“让团队独立扩展，部署更快，行动更敏捷。”但最近出现了奇怪的现象。那些已经迁移到微服务的团队，现在正重新回归单体架构。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546597&amp;idx=1&amp;sn=4fabc9c6aa86d2fd45fb05995636b5fb&amp;chksm=fd39e386a49a41de5bd7ca42b85bf815c8ca00032e665951419093fe24110247f232361fae9b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

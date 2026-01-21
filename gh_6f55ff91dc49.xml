@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKWwdg5SzyHmrxIeJ8VtnOljH4I7ZBBic3XYaS7b34HuEOVnxCER1VgDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华大学、中国人民大学、面壁智能与 OpenBMB 开源社区联合开源了一个智能体，叫做 AgentCPM，它重新定义了端侧智能体天花板。AgentCPM 最亮眼的是以小博大。仅 4B 参数的模型，在复</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530710&amp;idx=1&amp;sn=1ef6a9abecb2077c5c34d0201b2e676c&amp;chksm=f8d5144d04699565a16cebd59eee66d599bc679440fda8378e4e8ea591b719bbebc4a264a78c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 15:25:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 5 个本周 火火火火 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKQ5gqG4Xznc6HJ7tIL2uA4uSN9t1QJpI0eWYf9kHx1qadiaptVqMKLDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01SuperPowers这个 GitHub 项目在本周还挺火的，现在已经 2.7 万的 Star 了。它其实一个为 Claude Code 设计的 Skill 框架与工作流插件。改天会好好介绍一下这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530695&amp;idx=1&amp;sn=8fec94de00dd3805e01ac3540daa6b57&amp;chksm=f810674f3cf478e8491541e2ccc019d7617674739edbea0156be0105abe2d7963f0f26bd934f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxqKdvSfZia7RCiaXKicHxMLibvkRJkgibln6K2ibARbYnKDex6LoWjbGF3Z37YlOzMQsfj19ePpKKJrycg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 智能体打造记忆系统：CogneeCognee 是一个专为 AI 智能体设计的内存管理系统，想解决 AI 应用中的知识管理和记忆持久化问题。该项目采用创新的 ECL 流水线架构，包含提取、认知</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528783&amp;idx=1&amp;sn=7976c3fdaed0940fd0e76fb4194e649b&amp;chksm=f86a19cb2b6e684ac1dd4c1feab1a4da56f17ba4c986ec6b2a7671b672f602f4ec89cb02dfb9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 15 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3 个顶呱呱的 GitHub 开源项目，有点意思啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxkSibCdXvhAEic1WISmc5Q3iaOCNciarABIbnP9KqpvaWN4o6VPA9DdG9SGkPdAD6zugQur65dhia8IhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01快速把网页打包成 APP这个 GitHub 开源项目有 6.5K 的 Star 了。它是一个打包神器，能把你平时用的网站，比如油管、小红书或者你自己写的网页项目，快速变成一个独立的、小巧的电脑或手</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528755&amp;idx=1&amp;sn=83983f4a348853f1f0f5730867541268&amp;chksm=f8b62b743ac46e520a5c53926cddea5f16f7067ecb3ceaabab172e1918846b78dd03e6d30168&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 15:31:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

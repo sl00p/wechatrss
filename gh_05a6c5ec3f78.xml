@@ -6,10 +6,16 @@
     <description><![CDATA[腾讯安全威胁情报中心公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/kFQqCq0fbzUDlKISt4aaJjJWuvZgT0LmA1AscAFWxznrs0gicIsCWgicx86ico9BgYFWiblIbekSYN8RphcPTvj8frHe1xEB6jaZ7VK3ER0KCLk/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ver_1/KXTZPLqRYUBsUUTVHicOedoKzYSp4xDj27hZbyrBNXEWM6Er1nZJFb0kKJ4gqich31Xl56Zt2jQz8cLN4XdiboRjKaFNGH0xOmcgv1n7ZhBIxo/132</url>
       <title>gh_05a6c5ec3f78</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[n8n远程代码执行漏洞简报（CVE-2026-21858）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWUkdQIU0c1KKG9v6X415JbkbU7ibUeOxJoDTLhjJicm72UBZVLsiacveIG2gxKAZpicVhrMBUPjPiamgibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01漏洞基本信息漏洞名称CVE-2026-21858 (别名: Ni8mare)漏洞发布时间2026年1月7日影响组件n8n (工作流自动化平台)影响版本 1.65.0 至 1.121.0</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511005&amp;idx=1&amp;sn=b5b4aa6ee28a9331ff4c0cf194b40db8&amp;chksm=edaf645c5a83fd3b72bdae1d94896f018afa2a81789d8d28dfd68c0022675cb0145dcf0f82fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 16:11:19 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[情报每周回顾 2025-12-29]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6AoQM3RKCWXia1xKyza7Ss8zBicD2yNRmw9icYzd75vXsxribMKvpTsLicwAvpbtY7GAJzfjISjhtBz2BUsELR8zkXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云安全威胁情报中心摘要概览每周一篇情报追踪2025年12月12.22-12.28【家族团伙事件】Turla利用卫星通信漏洞隐匿控制中心，对目标机构发动精准攻击PaperWerewolf借助恶意Ex</p>]]></description>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL，InnoDB，如何调试死锁？（第11讲，超硬核）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g15XiabyYlEd7t06tZfBZvWY9PePnX3icgSAd7d5FOhFYY6icgNQQe9w09Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》11. InnoDB死锁调试近期写了不少InnoDB锁相关的文章，不少小伙伴问，如何在MySQL终端模拟并发事务，今天，咱们一起动起手来，模拟并发事务的互斥与死锁。 【事前准备】</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980367&amp;idx=1&amp;sn=9ac1ea095e028d531f90984aaf665e2a&amp;chksm=bcc12ca7c34c06f27b6a1ea92c5120ec8265fecc268e27aaca72de36617a9f30b8fc4471d21a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[[-] 我曾经也这么纠结过？ 白天在公司被项目追着跑，晚上到家累得只想躺平。一刷朋友圈，谁谁副业又月入过万了，心里那叫一个羡慕。 于是，熬夜写了篇技术文章，发出去却没几个阅读，哎，换个方向吧。几个月毫无起色，只剩下满满的挫败感和更深的焦虑。 太内耗了，这个问题我必须想清楚：我每天就这么点时间和精力，到底该怎么规划与投入第二曲线？ [-] 为啥我会纠结这个问题？ 我后来发现，我的纠结来自于想要“立刻收获”的贪心，想做的事情很多，想把副业一夜做成，结果就是哪个都没投入足够的、连续的、高质量的注意力，最后在“虚假繁忙”中自我感动，在“没有结果”中自我怀疑。 [-] 这个问题的内核是什么？ 再往深了想，我的时间和精力，就是我最宝贵的本金。第二曲线，就像我投资的“标的”应该是聚焦成长股，中长期定投，而不应该“撒胡椒面”。 不要指望一次性All-in就成功。目标是“长期复利”，建立可积累的资产（内容、产品、品牌）。 [-] 要怎么做呢？ 于是乎，我给自己制定了这样的定投策略： 1. 每晚10点到11点，屏蔽一切干扰，只做一件事，写一篇1000字的架构文章； 2. 或者，要么录一条2分钟的架构短视频； 我不追求爆款，只追求“持续在场”。 干着干着，5年，10年过去了，然后到了今天。我的中长期标的“架构师之路”，从每天1小时的定投开始，如今有了一点点成绩。 以上，共勉！]]></title>
       <description><![CDATA[<p>[-] 我曾经也这么纠结过？ 白天在公司被项目追着跑，晚上到家累得只想躺平。一刷朋友圈，谁谁副业又月入过万了，心里那叫一个羡慕。 于是，熬夜写了篇技术文章，发出去却没几个阅读，哎，换个方向吧。几个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980365&amp;idx=1&amp;sn=51b9161c08c8df95894dbdab1fad0a3d&amp;chksm=bc2d44b3fa965ecdcc89b2b44f8ba4f4261557e0123b2f7e169347c8f382a634f9376a0c81fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOymrOvT8QdwTwuibGnl8Ip8WibQX5s60zzK9aHNZZtIWhpENibHbRZJVdmZ7Ta7rrSpaV21vq3PEBDuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》111.群离线消息架构继续回答星球提问：1. 群离线消息是推还是拉？2. 几万条群离线消息，怎么保证不丢失？画外音：欢迎大家加入星球提问（免费）。群离线消息，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979459&amp;idx=1&amp;sn=69c495431866f1255dbac4cfee07d53c&amp;chksm=bcc00503171f5682b92fc0929c8964379fcc7dbb12ab6c2b49dc64c03571247d9a4d5eddb3d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 11:55:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[除了AI，还有架构！（Top100全球软件案例研究峰会）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxHJuNiaTENibZKnTyspjnj2lSVfaX2RmkXkufZHpfuASYPcE5VVYuhm53ricSKH22B7wcSyyr5nRQZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>发生了什么事？事件：Top100全球软件案例研究峰会时间：11.21-23（3天）地点：北京官网：https://www.top100summit.com/国内比较TOP的技术综合类大会，比较TOP的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979450&amp;idx=1&amp;sn=f3db0299d1d9effff28ad2484981de75&amp;chksm=bc287d4683d127950d5ebf159a61ea4af4306debdc5323e3d120e491f86b05d88edcce0f332b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Nov 2025 11:43:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[​DeepSeek工程师手误“点踩”，竟惹得程序员破防：以为自己很了不起吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicekkMiaztBFh0GA6EdSWdFwiaCAKr2DY4OJadiagGj7FwlZUsnc06YD5ibxCbIE7U6VL0aqezGkz9LVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，DeepSeek 团队工程师在 GitHub 向其核心推理内核 FlashMLA 推送了一系列更新，而在这些提交中，一个此前从未公开亮相的模型命名“MODEL1”引发了社区的高度关注。根据代码上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237273&amp;idx=1&amp;sn=80d5d1ab5fe22e273f42385b82527bb5&amp;chksm=bf25f160dabdef5863a5455c45ad5f8452b4b177e6e6ac6ea1c98b71a9d97188f8206440a5a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 16:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[北京中关村学院入驻 Gitee：打造 AI for Science 教学新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLiaict4L9bRwGTxgc7R0F15LONBeHykDLLXRclp3PXqy5XdKltbWk6oUibgsIpHojJtBoOKITCoW20vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI 正加速改写各类学科研究范式的今天，如何让更多非计算机专业的学生也能走上 AI 工程实践之路，成为摆在教育者面前的关键课题。由北京中关村学院发起的AI 软件工程社区项目诸葛菜（以下简称诸葛菜社</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237273&amp;idx=2&amp;sn=6f982cb29351195aded7b02849c461bd&amp;chksm=bf5e1df6b8c57d896c010328449865f756ecc0e70076dd2c24297059add61ec395658beebcaa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 16:31:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code的代码安全困境：插件机制齐全，却绕不开模型幻觉]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLhpaJicVgVLdzGuLCF1ObjJ9aDHzvFOJAS9dvafuNpeWYU8vREpepPCwU9NhQIykbauTZCNImic7wIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 正在尝试构建一个插件化的 AI 安全体系：钩子机制、技能加载、上下文集成协议（MCP）等模块一应俱全，结构复杂度在同类工具中颇为罕见。Gitee CodePecker 团队近期</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237237&amp;idx=1&amp;sn=1a0fe8e2de02fe995e84b914f3e18a2d&amp;chksm=bf7acc44fabcf28b6195a92102a0cf34bd45519511bf155d4f6abf86666b56e037d7a10fdc7a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[开源中国AI造物平台来了：把你的点子，一路送到产品发布会]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK92HXia5WydMAReOlnlBuyVF9HEaiaCVKfy1ZDXaKicDTV5arDcJB5RRp481qpGb3aIh2GBP8yOibHqZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖直达造物 https://www.oschina.net/ai-creation #AI #开源 #硬件 #产品 #创意 #网站 #改版 #OSCHINA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234876&amp;idx=2&amp;sn=ccf5454790e174e4c99352ba9f2c60fb&amp;chksm=bf0739d0181a6c5b5c4b1a96f37bd5204fc0ca8fa3e0e222bc238550cfc331222c2b59289c99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 15:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源中国“动弹”回归：程序员终于能光明正大摸鱼了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK92HXia5WydMAReOlnlBuyVFyEASmbybXS3PjUwDMZI1R0PFqiaUq4n8YpeA3unLGQdaNxy4Wvww7LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>🐟马上“动弹” https://www.oschina.net/oscTweet/ #动弹 #新版 #网站 #更新 #程序员 #AI #交流 #技术 #开源 #OSCHINA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234876&amp;idx=3&amp;sn=ea355dd53c8480797bac1dc381a78614&amp;chksm=bf3fe70bed9f976c72df9ee24dcdc42f1cafbf9df58c8465b9129bd825645dc5b72d9cc8bd68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 15:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源中国“智库”上线：技术资料一站式查阅与下载]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK92HXia5WydMAReOlnlBuyVFrEz18l1Yg7ot6xCFOB2BeQTcPgt33uCiboVXtDB7aGHw2Adl4Z5uN0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>📃智库地址 https://www.oschina.net/doc/ #OSCHINA #AI #技术 #资料 #改版 #网站</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234876&amp;idx=4&amp;sn=e3ff0bb4b543d932cad262ed66077a94&amp;chksm=bfc65d6137de4f53af3efaf7cc9df0cf9b7e2c5e7697dcf1457eb6f539ee4e7ad0f42e432df3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 15:58:00 +0800</pubDate>
     </item>
   </channel>

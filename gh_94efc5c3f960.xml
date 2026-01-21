@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[漫说运维：LoongCollector 性能与稳定性技术大解密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWsYZECxKWnA521aMHfKbHiblZGRHZ7ibkNHynPuEMwI8kCEAmramHlbal2dZdh7M8WseZpAYTxXMoQg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>在大规模云上业务持续增长的 10 多年里，我们打磨出了 LoongCollector（前身 iLogtail）：在同等硬件上可实现 10 倍吞吐，并带来 80% 资源下降。更重要的是，它在“极限性能”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520357&amp;idx=1&amp;sn=acd51b314588045a7abbeab47c639e31&amp;chksm=fc75c26f981709f67ad364b73bd21663aa937dba3054128b5aff7ddfb78aff518180b53cbd1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Jan 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从注册中心控制台到云原生管控面，Dubbo 服务治理能力全新升级！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/qdzZBE73hWs3LUaSRoibjaImJh5OqJISWXlDht9oOibk71ibSXQ3m4nX6Ys5OUgd9kxfJIQO5Kibt1MACnWY7pMic5A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>Apache Dubbo Admin 是一个用于更好地可视化、监控、治理 Dubbo 微服务应用程序的管控台。0.7.0 版本是一个以 Kubernetes 原生为核心设计目标的里程碑版本，标志着 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU4NzU0MDIzOQ==&amp;mid=2247520311&amp;idx=1&amp;sn=9fe6216b1fb735635156b188d0ec2803&amp;chksm=fcc907b035c0f67c1484652c8d315621f5900ba043f21541166055582893f9e74d045685063f&amp;scene=0&amp;xtrack=1#rd</link>
