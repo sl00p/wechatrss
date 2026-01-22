@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI编码实践：从Vibe Coding到SDD]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8eKp2jwdcpNFUiaicOicibiaZhpDWZKHhKS9ibPAv4dsLCdXiaKft5mfE4vGbeg8piaibRMcibeRMMIEaBUgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统回顾了淘特导购团队在AI编码实践中的演进历程，从初期的代码智能补全到Agent Coding再到引入Rules约束，最终探索SDD（Specification Driven Deve</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557778&amp;idx=1&amp;sn=fcacb22b8790b169d70a6eb56e643313&amp;chksm=e82b3a3d6ad0469347e2b4446a6cbf74c49fe5ab46d9d71af0aa172fc6e13d0449a11ef067ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别再手写提示词！需求澄清 + 50多专业提示词框架自动匹配，效率提升10倍！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKD7mnQMc2fMOGNBEPC3WyOl3HRQCUJaNQ8Bibb8XicicOjSkoqypIvQAianibB0XvIPBec8YZ3FhMzGaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、痛点当前用户撰写提示词存在很多难点：可能表达不清楚，存在遗漏、歧义；知道的提示词框架非常有限，很难挑选最适合的提示词框架；知道提示词框架自己套用非常浪费时间。当前很多提示词优化工具的主要缺点：缺乏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557769&amp;idx=1&amp;sn=25073739d70b5443176974b3925d4670&amp;chksm=e8b2719b025618fd8330a8119477a07d8771b6ca6e67a2719c2741caa3ba8e0e604ea72b804e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL6eiaesdosIbIW646XskBAjRCAMEN4sxOGZDeWsShbZF7CunXVaXZId9kf1KxLXwlt0lkyicREom4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>盲人摸象最早出自于《大般涅槃经》，讲述一群盲人触摸大象的不同部位，由于每人触及部位不同，却各自认为自己摸到的才是大象的全部，并为此争吵。比喻对事物了解不全面，以偏概全。过去一年，一直在想一个问题，平时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554656&amp;idx=1&amp;sn=cc11b7f43b3fdb20c4e88f59a3665498&amp;chksm=e8ae87a8d99a33ca2388d327e461be10e83e190749dfbc21c75f0c23ca7bd397237ca7842a6d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于Spring AI Alibaba 的 DeepResearch 架构与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5VvjaB8WIFKJXXFV9Y4FVGHFVicAFPrKK3LcszmBB07IBXVmFUwlhUWCV8lZLXtG1wVCJ1VEdo3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：Spring AI Alibaba 社区贡献者一、引言与概述我们基于 SpringAI Alibaba Graph 构建了一套 Java 版本的 DeepResearch 系统，实现了从信息</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554604&amp;idx=1&amp;sn=5a851aa8e6a2e1551db65e461a2b4207&amp;chksm=e8c509d5a258804dc9e0be1761d65f49fae1d4c7596cd4990aadc280183c02d1027003ff2c42&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
