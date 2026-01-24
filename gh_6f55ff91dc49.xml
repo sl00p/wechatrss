@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[发现了 GitHub 上 4 个文档工具开源项目，来瞧瞧。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy9aL7RYJDGiasnfnLEibqxuEmbvgRKOlvGObLxgPFPohgyFOUghqAU9GHPlqAjuPkhrMfibJ9esAZJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01文档协作平台Docs 开源项目的背景相当强悍，是由法国和德国政府联合发起的。现在已经在 GitHub 上获得 15.5K 的 Star 了。这一个支持实时协作的文档平台，主要用来做笔记、写文档或者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530746&amp;idx=1&amp;sn=80e4e5e273d5554c1a2beeae860df1bc&amp;chksm=f8c8c4a9f2d107791071485613aa0676e935b7a7a82712129c55552bdb1b827f33514113273a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[发现了 4 个好玩 SKills，已经在 GitHub 上开源了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwqiavLE43HKoiaIGzr1MJHiamuqoAFuZ9R2X6aRPCQVMDjkKNlxtibsaqb18zTUHAl9C5IxLZ2okWgTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频剪辑 Skill这个开源项目是一个视频剪辑 Skill，叫 videocut-skills。它能够辅助你完成视频处理工作，比如识别视频中的口误、静音片段以及语气词啥的。通过简单的指令让 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530711&amp;idx=1&amp;sn=6114576066d4fe0ddbabd7cd6ee9654e&amp;chksm=f844ed05212369f84e017b02261ae76548735d504591cfada192360ef80b649a6ef40f7042a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Jan 2026 15:13:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKWwdg5SzyHmrxIeJ8VtnOljH4I7ZBBic3XYaS7b34HuEOVnxCER1VgDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华大学、中国人民大学、面壁智能与 OpenBMB 开源社区联合开源了一个智能体，叫做 AgentCPM，它重新定义了端侧智能体天花板。AgentCPM 最亮眼的是以小博大。仅 4B 参数的模型，在复</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530710&amp;idx=1&amp;sn=1ef6a9abecb2077c5c34d0201b2e676c&amp;chksm=f8d5144d04699565a16cebd59eee66d599bc679440fda8378e4e8ea591b719bbebc4a264a78c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81DqsYfzk4xcVaecEtDUZ3GSTNrubCKqNUdZVsz76LCUyNMzVZECfHWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 最近开源了思考模型：Kimi K2 Thinking。按照官方介绍，它掌握「边思考，边使用工具」的能力。可以自主实现高达 300 步的工具调用，解决复杂问题。而且在「人类终极考试」中一举超越</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528906&amp;idx=1&amp;sn=dbae59a09477dc897eb5d9801bcd5a4f&amp;chksm=f821b427c990af54862eb1e2f6a7375293a4c763cab4d6958e56d5096730e815b17a5ac23a80&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 17 Nov 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[太残暴了！一周 8000 Star 的 AI 黑客 GitHub 项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81Fq3ONiayP9RAyj0pEwibMqmh5d5QfsEAjq9bvKDPFQyO7kOumcYIA2tA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天逛 GitHub 的时候，发现了一个名为 Strix 的开源项目登上了开源热榜。一周就获得了近 8K 的 Star，它用 AI 黑客团队自动渗透测试你的代码。它理念确实有意思，不像传统的安全扫描工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528905&amp;idx=1&amp;sn=9ab20b6d2be6f72301b090173fbba93e&amp;chksm=f801e49f4366cdf691310c1e9a437e63826b46aacaab8cbf480d4bbc954d9ed1ca1d22dc4fcd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周 13 个 YYDS 的 GitHub 项目，哪个你用过？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxqKdvSfZia7RCiaXKicHxMLibvkRJkgibln6K2ibARbYnKDex6LoWjbGF3Z37YlOzMQsfj19ePpKKJrycg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 智能体打造记忆系统：CogneeCognee 是一个专为 AI 智能体设计的内存管理系统，想解决 AI 应用中的知识管理和记忆持久化问题。该项目采用创新的 ECL 流水线架构，包含提取、认知</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528783&amp;idx=1&amp;sn=7976c3fdaed0940fd0e76fb4194e649b&amp;chksm=f86a19cb2b6e684ac1dd4c1feab1a4da56f17ba4c986ec6b2a7671b672f602f4ec89cb02dfb9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
