@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[4 个本周最火火火的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6QERU4KfLicBiave2CxrAg5d72LVqpZmqCSsjhruvwjjhicsNvMibFv4FVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01编程的方式做视频Remotion 最近因为他们推出了 Skill 又火了一波。Remotion 可以让你使用 React 来以代码的方式创建视频。不同于传统的视频剪辑软件，Remotion 将视频</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530782&amp;idx=1&amp;sn=c8d75db5c20ca31b06e20584c6a3dba3&amp;chksm=f8f9bd7ba99b370e34f80bd63b59999d03ac06ead58b48329e10b85602ad8e7d77cb4204f8e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[发现了 GitHub 上 4 个文档工具开源项目，来瞧瞧。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy9aL7RYJDGiasnfnLEibqxuEmbvgRKOlvGObLxgPFPohgyFOUghqAU9GHPlqAjuPkhrMfibJ9esAZJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01文档协作平台Docs 开源项目的背景相当强悍，是由法国和德国政府联合发起的。现在已经在 GitHub 上获得 15.5K 的 Star 了。这一个支持实时协作的文档平台，主要用来做笔记、写文档或者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530746&amp;idx=1&amp;sn=80e4e5e273d5554c1a2beeae860df1bc&amp;chksm=f8c8c4a9f2d107791071485613aa0676e935b7a7a82712129c55552bdb1b827f33514113273a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r815ETxVeicCnrGDkFHOS4aiagyLE8q4GbYBiazQ08C9DTBf3Glv8OOTv4vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 发现了一个快速部署网站的开源项目。在 AI 生成 HTML 前端页面成本极低的今天，这个开源项目相当有用。这个叫 PinMe 的 GitHub 项目可以快速、免费、文档的部署 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528907&amp;idx=1&amp;sn=c0fe5fd7f7e73776a01d9f1507595e97&amp;chksm=f85025264ab8a0947a51029e6e930122260c59e44d193d095519745670e5925d830cc4667b3d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi 开源即爆火！K2 Thinking 有哪些实用玩法？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81DqsYfzk4xcVaecEtDUZ3GSTNrubCKqNUdZVsz76LCUyNMzVZECfHWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 最近开源了思考模型：Kimi K2 Thinking。按照官方介绍，它掌握「边思考，边使用工具」的能力。可以自主实现高达 300 步的工具调用，解决复杂问题。而且在「人类终极考试」中一举超越</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528906&amp;idx=1&amp;sn=dbae59a09477dc897eb5d9801bcd5a4f&amp;chksm=f821b427c990af54862eb1e2f6a7375293a4c763cab4d6958e56d5096730e815b17a5ac23a80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Nov 2025 15:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
