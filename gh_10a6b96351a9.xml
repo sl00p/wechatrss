@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL，不为人知的主键与唯一索引约束？（第12讲，超硬核）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyJibIHtWcNYNzPRnOaWMP2UKLMHSYHHP89Il80NRkZQYuK9g4icofiasZFUlyDNWBDphOxtsIdq5dZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》12. InnoDB主键与唯一索引约束今天聊聊MySQL的主键与唯一索引约束：PRIMARY KEY and UNIQUE Index Constraints文章不长，保证有收获</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980379&amp;idx=1&amp;sn=4b45917c8626113f689e2dcca8b396a1&amp;chksm=bcc28599fb33c50cd06f22982a20f62235ffcf6123310ccae2b865aa3c0bc1af0349aac5af28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Jan 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[有不少朋友想做短视频，问我意见，“沈老师，你觉得我究竟适不适合做短视频？” 问我这个问题的朋友，他们的特点是：都还没起步。还没开始拍几条视频，就开始担心做不做得成，有没有收入，适不适合等等问题。 我通常会回复，拍两条就知道了。 我也曾经是这样。 我适不适合写代码？ 我适不适合做架构？ 我适不适合带团队？ 其实，这些答案我不应该问别人，自己试一试就知道了。 拍短视频，如同敲代码一样，其实自己做一段时间就会有答案。 对我而言，看到自己做出的东西能有种正向激励，自己能提高，大伙有收获，个人品牌力有加强，所以就一直做下去了。写代码，做架构，带团队，写文章，拍短视频，都类似... 元认知，和自己对话，面对一个事情，我为什么会对自己提出这一类问题？ 我的内心回应：给自己找不开始找理由，本身是一种自我保护。毕竟，只要不开始，就不用学习，就不用行动，就不会失败，就不会是自己的问题，对吧？我果然就是这么想的。 温水里的青蛙，只有到痛的那一天，才悔恨当初没有启动... 坦诚面对自己，共勉！]]></title>
       <description><![CDATA[<p>有不少朋友想做短视频，问我意见，“沈老师，你觉得我究竟适不适合做短视频？” 问我这个问题的朋友，他们的特点是：都还没起步。还没开始拍几条视频，就开始担心做不做得成，有没有收入，适不适合等等问题。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980381&amp;idx=1&amp;sn=b002ffa47ecf038a167f00673533e04b&amp;chksm=bc9115cd55317cdb49bde7de6faf65c8f5d66adeb6d251829581e6dc3e25e4713cfe6a9e3ab1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz42wHRGGQ2LSKzAj5pxAr2F4eticCHtkibXoITvalfvV2iaiaAoprPpiaBa5gia0RbpXO87oITICEP0kicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球7月份话题：通用技能什么样的问题，是好问题？我之前没有想的问题。这个对我职业发展影响很大的问题：我的时间为什么总是不够用？【1】时间管理基础（并非今天重点）职场早期，我觉得自己每天都很忙，但时间完</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979495&amp;idx=1&amp;sn=0cd81acb0f660c358d320bcc4abee85e&amp;chksm=bcc5f1da9b73194b31bef9b1a72b7ca7e6c428de7664eb082635bff014d5ebdfa51df4e0dd66&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不是天赋型选手，难道就没有希望了吗？（作为普通人，我是靠什么走过来的）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxmQjMgTn6VRUYEbfHeleiaouNTKy3hTo8pIZqmsBkpdibbWj9ziaJibnxejDdjoiadHecKqmnPJBicmVFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. “架构师之路”视频号主讲架构；2. 新号讲职场与第二曲线，聊自己真实的故事，真实的感悟。第二篇：1. 高考失利，我要如何应对？3. 百度的同事又聪明，又努力，我该怎么突围？3. 我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979518&amp;idx=1&amp;sn=d7a7b05884cea2cb6008d04b0507b173&amp;chksm=bc35d7c3d7b4520ee54e941b8dcba083e42079dc613abf8cf87fad8c69eafc42d21c43eba3c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 09:24:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

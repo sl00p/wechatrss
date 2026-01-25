@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[代码里的“和平协议”：用MoonBit实现无冲突的多人编辑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK96OLCyzjZicfekWmKfuwdfyRkoLpUHeoY3lCMKwgT2xLIJiaBBwwFcuc1tA4Ok1m4c396zordBMrDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：东灯原标题：用 MoonBit 实现 CRDTs 算法并构建实时协作应用‌一.引言当你在 Google Docs 中与同事同时编辑一份文档，或者在 Figma 中与设计师协作调整界面时，你有没有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237322&amp;idx=1&amp;sn=bb81ca2a48ccf7bd60745783018e57cb&amp;chksm=bf440606966c11c4495826bf306b318e9c6629aecab59d108fa8180c919123198731712c760a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Jan 2026 16:12:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic黑客马拉松比赛获胜者的Claude Code配置合集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK96OLCyzjZicfekWmKfuwdfyDssuWXz1UhSAtvP5y9kgspV7dOevhQlcuuP4akThUAAhicR1GSDLqmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Everything Claude Code 是一个专门针对 Claude Code 的高级配置合集。该库开发者 Affaan Mustafa 曾利用这套配置在 Anthropic 的黑客马拉松比赛中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237322&amp;idx=2&amp;sn=35bd5eba11afade04a7493e9a6797ca5&amp;chksm=bf938dffe889dd391af9b2caa99e9c12184852a4506da046944bb64af5c779dcdcb84e192159&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Jan 2026 16:12:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火爆全网的开源AI工具，能全认识的都不是普通人。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9go1KUaOzy9GqSFSSvUErjFKnRhII2zYc2YdECuFnk2iaqXrGvjSan0cFqqO1sJibReXPNPT3Sgcicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>#AI#开源#工具#项目#学习#软件#Python#Agent#Skills#llm</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237314&amp;idx=1&amp;sn=5e5ac92043ebb0dedc4f44eeead18b23&amp;chksm=bf0babb7e58037c8d3e6bc82afb020fa02d4a8548f8f889719615e2070029baf8b43ba8ea737&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicsH1jHzrPXiaibZmDSQRwTsFWibsYIAiciaxic2gTGwQ8WiadjWuSDbX4FZje4qKIqtjicMsArE5ib4XjEOcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Strix是具备自主性的AI Agent，它就像真正的黑客一样行动——动态运行您的代码，发现漏洞，并通过真实PoC为需要快速、准确安全测试的开发人员和安全团队设计，免去手动渗透测试带来的额外负担，也避</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235041&amp;idx=2&amp;sn=7257d02fa733eccc48a81d0cb80fde78&amp;chksm=bfbb1dc83a4b18b4e2b2d3d7ec7cca5b278a41f91a886bd28cf9fe55dcae1adb07af39e27a0f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 04 Dec 2025 17:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“豆包手机”使用了锤子科技Smartisan OS祖传代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8SicKibNorfiaEpbaTuaJJbMiamvKvo96u7DAP8nNBoMT2ad9g7a5x82jSiaHNa1pM8cJWoEhV1pJDuEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>豆包和中兴通讯近日宣布，搭载“豆包手机助手”技术预览版的工程样机努比亚 M153 已少量发售。开发者 @wuxianlin 对这款“豆包手机”的工程样机进行系统拆包后发现了 Smartisan、Sma</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234987&amp;idx=1&amp;sn=1618506fd6868517c56812c8ea9bea2b&amp;chksm=bf3e0de3b4dbebfe3153e39df10104e7bcdc335c7ca01dfca3c4d8d4cb654ef50a9d3d2d8009&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Dec 2025 16:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源中国推出AI写作平台“智写”，深度集成DeepSeek、Qwen以及GLM等主流大模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8SicKibNorfiaEpbaTuaJJbMia9AAtXSz5zXEicvWajKRwGlLO0XPOWVAOKFd43OV8daUvGSEvzfbcJLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>“OSC・智写平台”现已重磅上线，这是一个基于先进AI技术的在线写作助手，在原有的博客撰写功能上，新增了“AI续写/优化/校对/翻译”功能。当你手搓灵感卡壳或想锦上添花时，它随时待命为你提供帮助。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650234987&amp;idx=2&amp;sn=0f09df083acb9190e93ca657771d2b23&amp;chksm=bf248a0caa2c32ca4d5f150f7100841f4aedce67d438d38c69d8045a3491fa99c79bc2a29861&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Dec 2025 16:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
