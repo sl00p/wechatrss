@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 5 万 Star！26 年爆火的个人 AI 助手。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyMyTWQNTKAR6pn8yUJhIG0BzZLIeYlKAiafyWa1ia1bFkp5RwDo9jckoGlyib5zqPBchfiaFEWgUvXYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClawdBot 的开源项目，可能是最近最火的 GitHub 项目了。最近几天的 Star 从 5K 飙升到了 5W+ Star。它把主动型、本地 AI 助手做成了一个可跑的现实项目，而不是停</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530939&amp;idx=1&amp;sn=bbef18aa1025aea5e937facceafb9878&amp;chksm=f8b1108dbd7dc74eb4160d7938e3477a9f09a57ac653b157d4f6459466ca16807d98ddc5d245&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美团在 GitHub 上悄悄开源 AI 大模型？8 个大脑并行，绝了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyoNQ0xnpg6m70QIgBzC0OoP3Ps8XiaknfSic85ia5VsE07rMujfufZIzplV3apcrNlSkudUzmofvlwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年，可能是会自己深思熟虑的智能体模型正式登场的一年。美团 LongCat 团队刚刚开源的 LongCat-Flash-Thinking-2601，就是这一波浪潮中的标志性模型。它不仅是一个大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530906&amp;idx=1&amp;sn=3ca8b7567391f2d01f5b4df0b2095309&amp;chksm=f8732bf67667b62b28f1f24f2282899dd89bbfc47fa6653f670a4a307363f45108cb824eb816&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81pX4Qvmxv7XK47XJEsCPkMVicrdJFXDrgwCnO1NJvMujrhp1D81HcFXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 智能体平台是科大讯飞开源了一个 AI 智能体平台，叫做 Astron Agent ，实用性较高。类似 Coze、n8n 等平台，Astron Agent 集成了 AI 工作流编排、模型管理、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528909&amp;idx=1&amp;sn=6be89862c4e53c8bd7033bbb600ecd52&amp;chksm=f87556da30af5782c8dcc315ae28855fea21f9c1f6c7bdc0d6e84069ae006fc5a1b31f1cd513&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[清华联合开源！首个基于 MCP 的 RAG 框架，太秀了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r810VUicR51aCl7ZtyZwflgQH2TRl6G61QYcnEOKFPaTnllBnZEleibKwQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 挖到宝了，这个叫 UltraRAG 的开源项目是首个基于 MCP 的检索增强生成（RAG）框架，不写代码也能玩转。用 YAML 文件轻松构建复杂 RAG 系统。RAG 系统：简单来说</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528908&amp;idx=1&amp;sn=d1cb4216dbf73faeb8d00ed7020280a6&amp;chksm=f894292d06a93a26add2258d34cb7004d42ca10a80ecca46f8328da2ba692cba530508965f28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

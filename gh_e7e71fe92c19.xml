@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[初识IO_FILE Exploitation]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRFBY7vAETgaCAV11G9BGNMcTDzulOLiaxaHJuj2exru8lw9T3YsHvUMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>记一次跟着ctiwiki学习IO_FILE Exploitation的过程，我会在有些地方调试看看，加深理解。大部分内容都是来自ctfwiki。01给libc文件加符号表我这里是为了链接libc2.2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=1&amp;sn=432dff90252a270f0d35e2d76e0e2b78&amp;chksm=b0c9e9f2a1d579935c786649490768dff9e2a86f5afb7caa5261ec6c286d39d9f28facaa3dc4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[极客无疆——2025京麒白帽大会暨JSRC年终盛典圆满落幕！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z9MuUwaeeGJDtuOETGGPuK3FUVmd97fBM6ZZTO1dhsymITM41KiaxducWSE3R4hOPSZsyWbGleibtSosDsX4CC3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>新疆伊犁2025京麒白帽大会暨JSRC年终盛典1月21日～1月25日，2025京麒白帽大会暨JSRC年终盛典如期而至，来自五湖四海的白帽英雄齐聚一堂，以技术为媒，以热爱为名，共赴这场“极客无疆”的年度</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=2&amp;sn=44df121a87215e303d250f16d63b33bd&amp;chksm=b057bdad2af00045a9a1b6cd6b90aba000e24016f256feff51ed8ba848b65a816995ca3767d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[两款下载量超150万的VS Code扩展被曝窃取源代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRNco08u1kGvBAqM8dysUG2EQu7yQg0IKPnesoU22gZULJHAedshzBkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI编程助手日益普及的今天，开发者们享受着自动化补全、错误解释带来的效率提升。然而，近期曝出的一起安全事件，为这股热潮敲响了警钟：一些广受欢迎的AI编程扩展，竟在暗中扮演着数据窃取者的角色。壹伪装成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=3&amp;sn=4f7f220082ee8e8018fcd65e9bf83635&amp;chksm=b08c9384361c9db687a2b4ec68489f311546122a69621570c2e5f6b026c76f142682d39c2d13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta低调修复Instagram高危权限漏洞，安全社区质疑其响应透明度]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GW6Ctr763UFRXlYLpYZQ3iazubh3xGmxLBpiavkUNrSI1MRQPQ4UBSiaEcTFXJZo1HmJ9draX11sFUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一起涉及Instagram用户私密内容安全的高危漏洞近日浮出水面。安全研究人员指出，该漏洞源于服务器授权逻辑缺陷，而母公司Meta在修复过程中的模糊回应，引发了业界对科技巨头安全漏洞管理透明度和责任感</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608579&amp;idx=1&amp;sn=b2ea4f72fed798e5537bb1f1dd511cad&amp;chksm=b02d3f9dd3e98b888a4fd1d78bc704a42be0ad3c3246a642aa91bd63f56a0e0192bc6d6cda18&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mkSr6Yic9Pe5OjxxH4gzQ4RCgEHofvgPKzaiccTAZQtmJH9JQoiaDiaRG7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年3月以来，一个西班牙语钓鱼团伙持续针对微软Outlook用户开展攻击活动，所使用的精密钓鱼工具包呈现出明显的AI辅助开发痕迹。该攻击活动可通过嵌入字符串“OUTL”中的四个蘑菇表情符号这一独</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=2&amp;sn=c2e764cc2bd17a09815d203745714320&amp;chksm=b0f1c6392c3cb6ea0c482824d7f92caaa2bc4594a7055f5f912d67abef5c169ef21533af3e3b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[抢占智能汽车安全风口！系统0day安全——车联网安全入门（第8期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=3&amp;sn=f4867ec9a446a8be54257fad99d53e04&amp;chksm=b0095ba4665376dd8a3706f7a3f5ef5424747e7506bbc157a7a1ad84dc08aa4baec527842aa0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SMC自修改代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ey9ibJK1Eic4zeOibEiccUorwFPNA7vBicMibBBa0WpRib5Aiactm2niczbnkibEydicdCnF8ibD7pEXjIPia2whg/640?wxtype=jpeg&amp;wxfrom=0"/><p>自修改代码（SMC, Self Modifying Code）是在程序执行过程中修改其自身指令的技术。通常，这种做法旨在通过减少指令路径长度来提高性能，或者为了避免重复代码，从而简化维护。自修改代码一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=1&amp;sn=ec32fb045ef10a19ea75e3cd9e72f9fe&amp;chksm=b06e90dfb30bb8722fa122ca9a3cf1b0b79ccbba78023ea40b09737c5c8c21083b4534bd66da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“耳机劫持”惊魂！热门蓝牙耳机藏致命漏洞，手机恐被远程操控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ey9ibJK1Eic4zeOibEiccUorwFbMONT54VDLLr3wCuXN7aUmr6rtKicTibKlGYd0Xia0YzVVTBnicfJicNB7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>德国网络安全公司ERNW Enno Rey Netzwerke GmbH最新报告披露，主流音频品牌使用的芯片存在三大致命漏洞，攻击者可借此窃听对话，甚至劫持相连的智能手机。这份题为《Airoha RA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606699&amp;idx=2&amp;sn=56ed1fca7dd1011e0b211a57baebeb2e&amp;chksm=b043390957615c06dc97f45e6ed5ebe76ab8e0a2f809ac4812d4f7edcdce178ee48bc175b58f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 ReAct 到 Ralph Loop：AI Agent 的持续迭代范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQuOSVEEia0XWibEf9XQXhzQfI1Mf1MvHiacAR91ukH1KBOk7b0fpbpExyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>痛点：AI 编程助手为何总是“半途而废”？在使用 AI 编程工具时，开发者经常遭遇以下困境：过早退出：AI 在它认为“足够好”时就停止工作，而非真正完成任务单次提示脆弱：复杂任务无法通过一次提示完成，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557988&amp;idx=1&amp;sn=b70b03f87eedda96f43a8dc7ec05047b&amp;chksm=e8b1bc94cc33bbaabb5f72bfee0e6f8815d8b0d0c4f5a8dfa2c1d00458d5dce78a21c943688f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RTP-LLM 在相关性大模型中的推理优化最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI9VWy9myiaeDv1vUHeRicZL1DdeOlyApTWTgOJnl1eQro1vxgPxAqF0Jh8Az0icr4PbhqibfjrqgGemQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景在淘宝搜索场景下，用户Query与候选商品(Item)之间的相关性判别是非常重要的一环，它筛选出该Query下最相关的商品， 是用户体验的基石。过去几年主搜在相关性场景上已经做了不少工作，并且</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557780&amp;idx=1&amp;sn=bbaf1e9d79687368594c706c1afd9f39&amp;chksm=e87e12a816e09c7a79ab27ff6a6baf6f346316baf9082c571832fd9cafe6fdb7502ac984e44f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naITrnxchK9FKUyezTIjEwkDyiciaYXjcDPJcaCI0dgxb21M8vGZdAHeY3ztayzCZJhichRGLDCSibNv2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景今年我们团队重点投入在“云小二 Aivis”项目中。云小二 Aivis 是阿里云服务领域的数字员工，它标志着我们从传统的智能辅助客服，迈向了更端到端 Multi-Agent 的数字员工能力的全新阶</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554851&amp;idx=1&amp;sn=00e4cea8a7d444e07378e2143a3359b3&amp;chksm=e804f2a14a3d942471a020ee9f3bfa0efe42a010a231eb77a8e924b1e1e503327b13ca015794&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让Agent系统更聪明之前，先让它能被信任]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKLHC0gED1ia5VK557sYfvGaLnMVH9xXickn3SHKHJoDufskgFC4siaia0BPpA0stshZ7JibxGJQzSh2Yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当我们将所有希望寄托于大模型的「智能」时，却忘记了智能的不确定性必须以工程的确定性为支撑。一个无法复现、无法调试、无法观测的智能，更像是一场精彩但失控的魔法，而非我们真正需要的、可靠的生产力</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554817&amp;idx=1&amp;sn=c97362960549e6734e0b487f99ee42bd&amp;chksm=e8c8417552d851e688ebf91005805e0c15a8fde95aa6a97531e2ba9425d151969df529757084&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

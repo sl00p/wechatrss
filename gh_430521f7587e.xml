@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Skip正式开源：基于Swift构建原生iOS和Android应用的跨平台移动开发框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm280CSuqUmtIMmiaTzYtE6kNZn4kSpvJnB1mJ82VfTLRnEO2MCYxgoQMQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>跨平台移动开发工具 Skip宣布重大转向[1]：自 Skip 1.7 起，全面取消许可证与订阅限制，向所有开发者免费开放，并同步开源其核心构建引擎 skipstone。此举标志着 Skip 从商业授权</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=1&amp;sn=06c5c7baea7be5fe5db76b95751f77ab&amp;chksm=bfc7aec28d7f3b9fe73802a994952468931c5550d00d3a6a3f7c2692a5b0544843128db0bcad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 14:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从选型到部署 | OpenTeleDB 数据库线上征文活动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm28suibvTKNFxwxHQ46oVAGa48BF6ANIOOsFGOJSwqrlUSM8vjNib8EKWEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>距离天翼云 openTeleDB 正式开源已 2 月有余，在此期间，OSC 社区发起了第一期 OpenTeleDB 数据库线上征文活动，征集到了很多一线数据库从业者对于该产品的核心功能剖析与使用心得，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=2&amp;sn=d57d36d7bd01ae09cd67f981163fd053&amp;chksm=bfb99f4b7f9c5d665cbcb7e9769a3a1509f4f8ceddb151a7f0667094ba1fbaf266d85d2e93f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 14:32:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码里的“和平协议”：用MoonBit实现无冲突的多人编辑]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK96OLCyzjZicfekWmKfuwdfyRkoLpUHeoY3lCMKwgT2xLIJiaBBwwFcuc1tA4Ok1m4c396zordBMrDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：东灯原标题：用 MoonBit 实现 CRDTs 算法并构建实时协作应用‌一.引言当你在 Google Docs 中与同事同时编辑一份文档，或者在 Figma 中与设计师协作调整界面时，你有没有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237322&amp;idx=1&amp;sn=bb81ca2a48ccf7bd60745783018e57cb&amp;chksm=bf440606966c11c4495826bf306b318e9c6629aecab59d108fa8180c919123198731712c760a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibhbrm21rNKdlhIFj2u0Akz1ydbkqzuftFtWo4mldWqFXV1nRJhE87c1gKjY0cYzuswV7NIyNq4kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新版社区上线后（OSCHINA - 开源 × AI · 开发者生态社区），OSCHINA不再只是一个资讯网站，而是一个技术内容与社区生态共同成长的开放空间——个人开发者、团队、企业、开源项目、新的 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235154&amp;idx=2&amp;sn=4fdd80ab7d1eca24e62e742b8f1e6b70&amp;chksm=bf19441abc38fbe63da29f9f7fb4a359025e5948f14c2614023a567f27cbba8b85a12643130a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 18:19:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Let’s Encrypt宣布：2028年将其证书有效期从90天缩短到45天]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicsH1jHzrPXiaibZmDSQRwTsFibHMEjpXRHJCCwNciaAzBZsw9TctRsS0g5Q9soY2GeNynZZMOapX3Y2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Let’s Encrypt 宣布将全面缩短 TLS/SSL 证书的有效期，从现有的 90 天调整为 45 天。这一变化将从 2028 年开始正式生效。https://letsencrypt.org/2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235041&amp;idx=1&amp;sn=46221e2b5be8f4d5cd0df1221404a6f5&amp;chksm=bf20b4c7296a68c7982c4871d74314cfdaa19668f1f920a18a26052849b881c1168457394ce6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 17:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[🥷Strix：用于渗透测试的开源AI黑客]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicsH1jHzrPXiaibZmDSQRwTsFWibsYIAiciaxic2gTGwQ8WiadjWuSDbX4FZje4qKIqtjicMsArE5ib4XjEOcw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Strix是具备自主性的AI Agent，它就像真正的黑客一样行动——动态运行您的代码，发现漏洞，并通过真实PoC为需要快速、准确安全测试的开发人员和安全团队设计，免去手动渗透测试带来的额外负担，也避</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235041&amp;idx=2&amp;sn=7257d02fa733eccc48a81d0cb80fde78&amp;chksm=bfbb1dc83a4b18b4e2b2d3d7ec7cca5b278a41f91a886bd28cf9fe55dcae1adb07af39e27a0f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 17:26:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

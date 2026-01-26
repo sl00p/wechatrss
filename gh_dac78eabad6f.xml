@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[万字详解大模型推理加速核心原理：分形规律与资源计算公式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94taMUlqOoGXJiccwDaEk6nEL0jdT5cSxekWzJR7J7kiaLMxibywfZiamvTShGD25P4ZehIR8FjAibrSVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇大模型推理性能优化比较复杂，千头万绪，涉及推理框架、模型特性、GPU硬件特性、算子优化、网络基础设施、通信协议、SLO等很多方面因素，优化的时候主要用工具分析T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694196&amp;idx=1&amp;sn=151b34f31e6a5cdfe4cc8600668b57cb&amp;chksm=eb649ca57032a0d3938f116d8b8b5fe621e42e0176f15508a249bf0bc3dd128b9fc646015eb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI是开发忠实的合作伙伴：知识渊博（训练内化各类通用知识）、有一定的逻辑推理能力、效率惊人，但同时确定性不太好（概率本质，幻觉）。 我们大多数需求追求的是确定性的交付结果，所以要采用一些合适方法，让AI扬长避短，在提效同时，保证结果稳定。 实践下来，PDCA是个高效方法： 戴明的 PDCA（也称“戴明环”）是持续改进的闭环方法。 定义：PDCA = Plan（计划）- Do（执行）- Check（检查）- Act（处理/标准化），循环往复实现持续改进。 目的：以数据驱动、低风险的小规模试验验证改进行动，沉淀为标准，再进入下一轮升级。 需求交付中，把目标拆到尽可能小的确定的独立任务，明确达成路径，再基于每个小任务和 AI 结对编程，如此循环，将AI的黑魔法变成稳定可靠的生产力。 Plan是单次循环中最重要的一步，类似CoT，但由人主导规划，AI辅助，以保证达成目标路径的确定性。 在每个循环中，通过D-C循环来确保符合预期。 Act是长期改善的关键： 从本次需求视角看，可以对不符合预期的结果调整指令、计划、上下文。 从全局视角看，可以识别和沉淀规则，分析模式抽象组件（例如：由专用Agent承载），持续改善开发环境。 典型案例：快速验证 Plan：拆 MVP 聚焦核心产品假设，拆解MVP，再基于MVP进一步拆解任务。 Check：收集反馈 小任务粒度，自己体验是否能跑通，体验是否顺畅。 MVP粒度，找产品经理或典型客户体验，收集反馈结果。 Act：产品迭代 基于反馈调整方案或者产品方向，并沉淀可复用的能力，为下轮迭代做准备。 提示词工程本质是好好说话，可以通过套模板的结构化表达组织，随着大模型推理能力的快速进化，提示词的技巧性会被逐渐抹平，最终还是会回归到上下文背景+目标的核心诉求。 AI深入应用，逐步带来业务开发的范式演进，对人的要求也会变化。 从经验驱动到知识工程，业务开发，逐渐演进为人 + Agent矩阵的协同生产。开发人员应当持续投入建设知识工程，在日常研发过程中逐步构建场景化 AI Agent，并持续提升稳定性，大步迈向 100x 大 AI 时代。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692303&amp;idx=1&amp;sn=f574a69e187ac887a57ead6a912dff5d&amp;scene=21#wechat_redirect">与Cursor结对编程，掌握这个方法效率起飞！</a>]]></title>
       <description><![CDATA[<p>AI是开发忠实的合作伙伴：知识渊博（训练内化各类通用知识）、有一定的逻辑推理能力、效率惊人，但同时确定性不太好（概率本质，幻觉）。 我们大多数需求追求的是确定性的交付结果，所以要采用一些合适方法，让</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694142&amp;idx=1&amp;sn=cc3a6dc135f10855878dd9b7cb6a6db9&amp;chksm=ebba44cbdbb15abc6396192b73b37257a0a99cabc6151f9f3805436d3e372b059f8eeeb763ca&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWcMj4Dm3hvSVAhTPa9yCTDrrp8QAIZ7Ne73QPibzWvHVpic6daFYic58ibAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术之路既需要低头编码，也要抬头看路。本周末（10月25日-26日），腾讯云架构师技术同盟将在北京、上海、长沙、合肥发起4场线下深度交流活动，欢迎报名参与！北京站：架构师如何与AI共生- 内容有料：如</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=2&amp;sn=2f3a0e7d3cd7ec759fb59b1c8d6be512&amp;chksm=ebd142a564571ae5cb0473562e462a3636ec00c3a0de10959922cd2d6f59d55d405640d163c0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek鬼才创举，OCR是啥？腾讯是怎么做的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95KibDw7mBp7b6ibNFZMS8X3NbxXw3btGaokian1pbUHxO2XvqFibicX8tiaR9vcJ88dQHOsvbI8oiagRnKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 DeepSeek OCR核心信息总结1 技术演进2 领域进展3 技术要点4 文档智能5 实测体验DeepSeek最新发布了一个参数 3B规模的视觉压缩OCR模型，论文《DeepSeek-OC</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692528&amp;idx=1&amp;sn=8972f95b0bbb8329f921e27a78d93c51&amp;chksm=ebd6c6efac6e88f099c053d37f55d74acb3fd4fc0afe0bd8538476963509d058bb27a5ae5872&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

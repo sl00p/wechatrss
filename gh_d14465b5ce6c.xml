@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯混元AI Infra核心技术重磅开源：推理吞吐提升30%！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauJY1zO9AaZI8fiaMEaVPAIMZBx7K7u6KibNV8mFLIRPMsjw1Gqw69fkN1jztSWaRxsWAUjhIHZr7Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯混元AI Infra团队开源生产级高性能LLM推理核心算子库 HPC-Ops，该算子库基于生产环境痛点，采用 CUDA 和 CuTe 从零构建，通过抽象化工程架构、微架构深度适配及指令级极致优化等</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798546&amp;idx=1&amp;sn=2a832bbfe5448299c27b5bf683b9c92f&amp;chksm=bf3882f2daf7cb4a0374c75ce4d27c409a0e0474d3ef8c92e30a42ae81c48a5426ad0c84815e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Jan 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[读懂 AI Infra，看这六个关键词就够了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasyXk1xVPnkNQVsVuzSlwjV1fJkic5wVWTLEWjK3yfJtkKVmId4UWqFv3t7uia5nUibTmH54f6Eea5xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年初，DeepSeek的走红让更多人明白，不仅仅是模型本身，训练和推理过程中工程上的优化同样重要。元旦假期看了朱亦博老师的一篇帖子，很受启发，2025年过去了，我想应该尝试来把亦博老师总结的2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798528&amp;idx=1&amp;sn=7be16951d971ceb1e63930982569c70d&amp;chksm=bf9049a50893dc1e15ff50c555f530944114049e9558e4bb606009f694c2d95d04860825a839&amp;scene=0&amp;xtrack=1#rd</link>
