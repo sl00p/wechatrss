@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[强网杯S9 Real World - monotint]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRhhsHe4KVoiap3ndzSQ3MtzjiafX3bILX2SicDicxZf3r6Uh4fx0oHTyaNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次强网杯线下和0x300R的师傅们一起打了，其他师傅都太强啦。但最后一天的时间很短，我们最后demo的4题，基本都因为环境问题，没有成功，其中就包括了我这里demo 的monotint，一道浏览器的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=1&amp;sn=6847c40b551141a8d7a336c01ee7b5c7&amp;chksm=b09457ec0ab5a5b0a1a0e56c9d72e57a559dee0445a8f53b4fc893a6009f6abb0c402e86feff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FJCHuX0Z3OYq0FMxTcEicp8uNTKHrEKK2lpJvV6ADMheI2oNIbBJEGl2QfUjrkzwXoc3NftiaxIsZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今晚7点，《系统0day安全-IOT设备漏洞挖掘（第6期）》系列直播聚焦经典路由设备——D-Link，带你深入设备内部，拆解那些被隐藏的致命漏洞。我们将从实战出发，解析认证绕过漏洞的多种技巧与精选案例</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=2&amp;sn=4ca0b40d05e4611144274a07a6e2bab1&amp;chksm=b06f3364512b563cec96025d240d5eac12f93859d567ab3c55b00f3453782475ba9072f791d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[初识IO_FILE Exploitation]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRFBY7vAETgaCAV11G9BGNMcTDzulOLiaxaHJuj2exru8lw9T3YsHvUMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>记一次跟着ctiwiki学习IO_FILE Exploitation的过程，我会在有些地方调试看看，加深理解。大部分内容都是来自ctfwiki。01给libc文件加符号表我这里是为了链接libc2.2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=1&amp;sn=432dff90252a270f0d35e2d76e0e2b78&amp;chksm=b0c9e9f2a1d579935c786649490768dff9e2a86f5afb7caa5261ec6c286d39d9f28facaa3dc4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GYDWOic1Dndw1vDJbr1UzpCRoFBvIdO3ADt84YnVPB3PRYgwrIz1bnEZxxTaV3kUPM5KRqBJ77b5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在信息安全领域，逆向工程是核心技能之一，而VMProtect作为一种常见的软件保护技术，其复杂性和高保护性使其成为许多逆向工程师的难题。然而学习VMProtect虚拟机也充满挑战，你是否正被这些难题绊</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=3&amp;sn=9c6d93f70a973fb6a6353c0f62a8d48f&amp;chksm=b01a318c57e4e969360b379d0485b308c60fb3c6622b65f687d1051bd4fa3c25981e31099a59&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一款单机斗地主手机游戏的分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mJcRia7SzQDkRBlYpzRibwg3N3OPFAAGqdnlPfiaeczQUJtbhicO3Ur3xIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款我很久之前玩过的单机斗地主游戏，但是玩的时间一久，系统发的牌就变得特别差，所以我就想分析分析一下这个App。注意：这是一个32位的安装包，需要把IDA的32位调试服务器adb push到/data</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=1&amp;sn=355eeaf1f94c84cfa7e6cc167fdb2196&amp;chksm=b00d3fc071dc825b10ab5e0a37a1c662a479a4d4f3a5713c2f28b0cdbd8840fed71a46225350&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI助攻钓鱼！新型工具包瞄准微软用户，窃取登录信息还追踪位置]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HdxgJFElLohSSESvAibEP2mkSr6Yic9Pe5OjxxH4gzQ4RCgEHofvgPKzaiccTAZQtmJH9JQoiaDiaRG7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年3月以来，一个西班牙语钓鱼团伙持续针对微软Outlook用户开展攻击活动，所使用的精密钓鱼工具包呈现出明显的AI辅助开发痕迹。该攻击活动可通过嵌入字符串“OUTL”中的四个蘑菇表情符号这一独</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606724&amp;idx=2&amp;sn=c2e764cc2bd17a09815d203745714320&amp;chksm=b0f1c6392c3cb6ea0c482824d7f92caaa2bc4594a7055f5f912d67abef5c169ef21533af3e3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Dec 2025 17:58:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

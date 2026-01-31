@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibdIDHM7Kns9672aia7ZlDr12Pgiakrlhzq9zYeoJIkV8hQ3nl3wN7DMl6YCwCMVL3Hpdz4vgj5ArWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周 Metasploit 框架的最新更新为渗透测试人员和红队成员带来重大增强，新增了七个针对常用企业软件的漏洞利用模块。本次更新的亮点包括三个针对 FreePBX 的复杂模块，以及针对 Cacti</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=1&amp;sn=5521cffc82af812bd5d93251d26334d0&amp;chksm=bc1e6c97481b464fb8195282d7dfe43ec187443b7564c25a61316d4de760c5c64ddc87ffc25b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Clawdbot数千个Agent暴露在公网；恶意VS Code扩展“ClawdBot Agent”伪装AI助手 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖“AI网红”Clawdbot数千个Agent暴露在公网“裸奔”🐎</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=2&amp;sn=c8cdbd01c42c6c9b0cee3debe07b3287&amp;chksm=bc11743036a95027d10d4a6550852d0fc4026c78dc0fd4d439200e42c7d27d376695d47b6a9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[云迁移安全常见误区及规避策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibnrQibOZyPeN5gojum7YiajaHEsAQLAKZh0lO3F2AnCkqibeezdWGG0jNHnl9YtiasmIx2KGlDw7uSeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>云服务采用率正在快速攀升，但许多企业仍低估了从安全角度看云迁移的复杂性和风险。虽然将工作负载从本地环境迁移至云端能带来灵活性、可扩展性和成本优势，但云环境也引入了一系列传统基础设施团队往往准备不足的新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=3&amp;sn=837374caf612044a8fb15e692f2311c4&amp;chksm=bcb7a1a5d24811e93b87363b2e6d9c13aa5b8c5a3ecc47ba2624a10bf5ce343834224e4caa75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[生成式AI现可创建"活体"多态钓鱼页面]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7mXftegSCf8Qq1e79G5CKbYb483diaG1CxLficuGVR7UiamJJRksiazS0NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks Unit 42的安全研究人员揭示了一种令人担忧的网络攻击新趋势：攻击者正利用生成式AI（GenAI）创建"活体"钓鱼页面，这些页面仅在受害者访问看似无害的网站后才</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=1&amp;sn=9a6ebf5fe6277735696857b972382474&amp;chksm=bca9015ce7da80d5fb7051d7458296538fb5a819cfe73fbf2c4ae6a9ad071fcf1184cf779174&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIRaltrZVKxHyDE18c4IRVa28mSlCV8epf8M5MYojKY5Ubcpu2a2TB7CvZVfyBQHGajbKZIy4K5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Facebook用户正日益成为一类能绕过常规安全措施的复杂钓鱼技术的攻击目标。作为拥有超过30亿活跃用户的平台，Facebook对企图入侵账户、窃取个人凭证的攻击者极具吸引力。这类攻击的主要目的十分明</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334067&amp;idx=2&amp;sn=18f7103c1807c92a06a77adf934a9732&amp;chksm=bc07a290ec224bfd80ccbe64987660471cdb6a61b71ad338d06651229048d121849dd4ab761f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[伊朗MuddyWater组织在最新攻击中部署基于Rust的植入程序]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIRaltrZVKxHyDE18c4IRVgNYgIB7icsspsRuhZQ1L23xcsKxmUWrJH7Du4ZpMaPp2eY3aGEBUiaSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司CloudSEK披露，与伊朗有关联的高级持续性威胁组织MuddyWater近期在针对以色列和中东其他国家的间谍活动中，部署了基于Rust语言的恶意植入程序。Part01RustyWater</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334067&amp;idx=3&amp;sn=560869d5621da4e09096d13b04ce3569&amp;chksm=bc655e365c2a032074fc57370868f1990867409fb9fed0a7acb55d73e8fa13e7f0ab64c27d52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意Chrome扩展窃取钱包登录凭证并实施自动化交易]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38aVhibuXkYH1GLIZEQlZPWOY0t1ibID4NP8eME2xzIgqSaypAicWK6HgsCOKYFVJeicTUgFfmLc8yfvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为 MEXC API Automator 的恶意 Chrome 扩展正滥用浏览器插件的信任机制，窃取 MEXC 用户的加密货币交易权限。该插件伪装成自动化交易和 API 密钥生成工具，暗中控制新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334067&amp;idx=4&amp;sn=cb12638c36bd7da0cc13bdec2b55dac7&amp;chksm=bc846aea9ff23c4d2ad8a8b91e8ffa3385a6d93cabbd2c2bfda2f2ab3a848e9630cb6a6bd423&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[暗网论坛BreachForums遭“黑吃黑”，神秘黑客泄露全部用户数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38aVhibuXkYH1GLIZEQlZPWO62icw7oibLPPicZicaudO6nDdgxicvD5gibzUevwTMyS4yW0ZnqS98gIHGWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01BreachForums数据泄露事件网络犯罪地下世界发生戏剧性转折，一位名为"James"的神秘黑客泄露了暗网知名论坛BreachForums的完整用户数据库。该论坛是臭名昭著的被盗数据交</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334021&amp;idx=1&amp;sn=12b9ba4fe57d39b89ac2b3e68d658225&amp;chksm=bcfaeba8621a38b21280371edddc834eda9aab05f9ca111dba3feaf095b508cf4de2a2812fe5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
