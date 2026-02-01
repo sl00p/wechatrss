@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI扩大攻击面，大国博弈引发安全新挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibk1BW3MeDVRNXFZmWkZR94yR9bs7JO2dQicib6LcVN3PykYQTdiciaqh4ApKvCZiaELy4CwqzRF4YEvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着全球人工智能引擎持续加速运转，人们对其底层基础设施所面临威胁的担忧也与日俱增。AI Agent的兴起引发了一系列新问题：需要何种级别的安全控制来管理其访问权限与行为？如何确保Agent间通信协议的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334703&amp;idx=1&amp;sn=35b8f3ded12a90e6eab483cae71002ec&amp;chksm=bc8894fe8f4e2ac4e78e0c37ce9c78722a12e09c888f70b032605f0fc0b0132759c4a2c1d63a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AutoPentestX：面向 Linux 系统的自动化渗透测试工具包]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibk1BW3MeDVRNXFZmWkZR9Sa02B6pAMAKeE5O8XrrPHedVAtPYp9ic3YYul7viaHiaNTbx9TLlMUNzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AutoPentestX 是一款面向 Linux 系统的开源自动化渗透测试工具包，通过单条命令即可完成全面的安全评估。该工具由 Gowtham Darkseid 开发并于 2025 年 11 月发布，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334703&amp;idx=2&amp;sn=4f2afae61df80a04119295f230b4afec&amp;chksm=bca3436fbf15ad7362a696729b552232f62b918b84a131902ea08b74bf5d68e4abd5aad12d6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：25年黑产“银狐”防治年报；企业安全健康自检表；高风险代码分析与对策建议]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icibk1BW3MeDVRNXFZmWkZR99jvKFTu4DwFWyXMmJxopYZ69KwImK5fS5mul7pza758IhQ22mKw1Ug/640?wxtype=jpeg&amp;wxfrom=0"/><p>利用HaE MCP自动复合流量中的敏感数据；网安大厂面试真题合集；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334703&amp;idx=3&amp;sn=ad4c779c88cea61465908733ac24ae15&amp;chksm=bc07973243bc0b4a2037aa86fe7bf5976425a19b62a5fbf03a976272441b154489e2bd31f1c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibdIDHM7Kns9672aia7ZlDr12Pgiakrlhzq9zYeoJIkV8hQ3nl3wN7DMl6YCwCMVL3Hpdz4vgj5ArWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周 Metasploit 框架的最新更新为渗透测试人员和红队成员带来重大增强，新增了七个针对常用企业软件的漏洞利用模块。本次更新的亮点包括三个针对 FreePBX 的复杂模块，以及针对 Cacti</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=1&amp;sn=5521cffc82af812bd5d93251d26334d0&amp;chksm=bc1e6c97481b464fb8195282d7dfe43ec187443b7564c25a61316d4de760c5c64ddc87ffc25b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibNh0W8icIx5DkT4JhenqdpboGeGAgEwZ05L7oOZVH1FdPVeY2hzicRQnbbSk7hpFuQjzNOLMD0138A/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软在2026年1月13日的"补丁星期二"更新中修复了其桌面窗口管理器（DWM）中的一个关键0Day信息泄露漏洞，此前已监测到该漏洞在野外遭到主动利用。该漏洞编号为CVE-2026-20805，允许低</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334109&amp;idx=3&amp;sn=791de4d8f4f5ae4fa1d0b1fa42ce4147&amp;chksm=bcf38eaf9b9838cb8e342ef2d8bb3474a11279e1937798c44005b7496363e19fa92404b15b21&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Jan 2026 18:36:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[俄罗斯APT组织利用PLUGGYAPE恶意软件攻击乌克兰国防部队]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibNh0W8icIx5DkT4JhenqdpbWUuKas95to1o8YH4D1N1yPmmqz9CHTmYKWz9GPMlYlf0feoKJWx5Lg/640?wxtype=jpeg&amp;wxfrom=0"/><p>乌克兰计算机应急响应小组（CERT-UA）近日披露，乌克兰国防部队遭受新型网络攻击，攻击者使用PLUGGYAPE恶意软件。政府专家以中等可信度将该攻击归因于俄罗斯关联组织Void Blizzard（又</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334109&amp;idx=4&amp;sn=51f676f39493aa631390566b38794ea0&amp;chksm=bc5aae68bb54ad1beb8ba0b49ed4b86b481f1ce8da039f13330eb4d998e6685336119a8de87d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 18:36:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜远程工作者通过身份窃取入侵敏感系统牟利6亿美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIRaltrZVKxHyDE18c4IRVGVC7V9nP3VZXVyO8ZjZRAlPskaPOkIFmia0suOBohtLIVa4uWB8H2KA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01内鬼威胁的演变近年来，网络安全格局发生了根本性转变，内部威胁的定义不断演进。过去数十年间，企业安全工作的重点一直是防范心怀不满的员工或疏忽大意的承包商泄露敏感数据。而如今，最具危害性的内部</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334067&amp;idx=1&amp;sn=817c2149a41e006fedbb453ec71f40ec&amp;chksm=bc6b2837d634ff507913785ae521f0aec8265ade729240f569762469074b6e445f72296d3502&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用"浏览器套浏览器"技术窃取Facebook用户登录凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icIRaltrZVKxHyDE18c4IRVa28mSlCV8epf8M5MYojKY5Ubcpu2a2TB7CvZVfyBQHGajbKZIy4K5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Facebook用户正日益成为一类能绕过常规安全措施的复杂钓鱼技术的攻击目标。作为拥有超过30亿活跃用户的平台，Facebook对企图入侵账户、窃取个人凭证的攻击者极具吸引力。这类攻击的主要目的十分明</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334067&amp;idx=2&amp;sn=18f7103c1807c92a06a77adf934a9732&amp;chksm=bc07a290ec224bfd80ccbe64987660471cdb6a61b71ad338d06651229048d121849dd4ab761f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

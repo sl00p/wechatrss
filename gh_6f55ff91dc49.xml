@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[15 万个 ClawdBot 涌进 AI 社交网站，但人类只能围观。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5I7AUbSJN0BOKNND7H6beJVhicyPWkvdv7nE4NbibtPllTibRWLFWECcQbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谁都没想到，26 年第一个现象级的 AI Agent 产品竟然是开源的 ClawdBot。可以用这个开源项目把 AI 接入国外聊天 APP 中，你直接在 WhatsAPP、Telegram 中和 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531052&amp;idx=1&amp;sn=b8908779a1624cf90982e0a4cefec03f&amp;chksm=f81dd78095af43a5ba45257139889074f6a1c5002be8c96889cee4a9eafa9f433fffb7b273ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Feb 2026 09:35:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[堪称外挂的 Claude Code 配置神器，在 GitHub 上杀疯了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6EaEKplicjgic14j0rX6zxj3wXrcUP9GOmE15j2ExsGQe1mzeoj4qDr4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 everything-claude-code 的开源项目太顶了。开源没几天就 3.5 万的 Star 了。。。先看它的简介，上面写的是：完整的 Claude Code 配置合集——Agent、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530978&amp;idx=1&amp;sn=4ffda450408750872a52ddaeb808a2ff&amp;chksm=f8df89218419ccd66be931565f94032bd9a934b26e7924f5f85493973885775afae9467b7c0d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81nRXSWbWvTvI4ozuef22nV2agkEDmoWQDicc4OibUTy9gwqicamGV7FJCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把 VS Code 装进浏览器这个开源项目可以让你在浏览器里面写代码，它把 VS Code 完整地搬进浏览器中运行，现在已经 75K 的 Star 了。code-server 让 VS Code</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529000&amp;idx=1&amp;sn=8b43d987607eed0346f1a3c75f3939a0&amp;chksm=f81feae56598bf478c7e12792ad2be1f7e01e1cbeafb210eefcc7b2dc7bfdb9d440835c660c3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 22 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实测 Gemini 3 Pro ，我人傻了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzic4lkiaFibiaGd7pO5bHtvYZyEg0A5pmY6JLscys6lwibQm3buApxVpYbGyLldicm9qVLs7Jf9rGq3UGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间谷歌的 Gemini 3 Pro 发布了。好家伙，直接屠榜了。别人模型发布，都是说“我们的新模型在 AI 基准测试中比现在最好的模型高 1 个百分点”它直接高 5、6 个点，断层领先。而且在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247528987&amp;idx=1&amp;sn=eb72aee8487e98fce6239210eb0383d1&amp;chksm=f8c3a05b8c6b4f0627d890191f2f05f682b39ec092c2421e6dd2b6b21b4a1ae61672cf0a36cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
