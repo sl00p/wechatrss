@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[生产级Prompt自动化推理评估A/B实验结果的工程实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL9Dr7oLH85FMDI7ImRYhdPZHnk4xRQ3ISeGUghTQBKT1ydL1srpQCoAdNBn72jLuSHVxZ8LnuDgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在互联网流量竞争白热化的时代，A/B实验已成为产品迭代的标准决策工具。当实验数量从数十增长到数百甚至数千数万时，传统的人工巡检模式遭遇瓶颈：需要专业的同学每日投入4-6小时逐个检视实验数据，判</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558131&amp;idx=1&amp;sn=73317842c9c513c3bde07efac9cee952&amp;chksm=e8803e9872294de744a7980e25d7560f5f072bab71cdb3292a252c822da123f986719ccf3b95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 ReAct 到 Ralph Loop：AI Agent 的持续迭代范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQuOSVEEia0XWibEf9XQXhzQfI1Mf1MvHiacAR91ukH1KBOk7b0fpbpExyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>痛点：AI 编程助手为何总是“半途而废”？在使用 AI 编程工具时，开发者经常遭遇以下困境：过早退出：AI 在它认为“足够好”时就停止工作，而非真正完成任务单次提示脆弱：复杂任务无法通过一次提示完成，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557988&amp;idx=1&amp;sn=b70b03f87eedda96f43a8dc7ec05047b&amp;chksm=e8b1bc94cc33bbaabb5f72bfee0e6f8815d8b0d0c4f5a8dfa2c1d00458d5dce78a21c943688f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJGgVHb2qYj380LphkDSzoyCHiapHzMvw4micgIzAQQL7QgXB9ia7ibujyGKG7ibe1xuv5Adibd9X1liaabg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言最近在做智能解决方案系统时，我遇到了一个关键问题：如何让AI在复杂任务中既保持推理能力，又能有效执行行动？传统AI系统往往要么只能基于训练数据推理，要么只能执行固定流程，缺乏动态决策能力。ReAc</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554893&amp;idx=1&amp;sn=36c4ce18c711a5f430aa95e4b0345a5f&amp;chksm=e868731da215adc9a67b51efcfe69e5469f0f16f590f08f9b3670a19b9d2c1c885d93501aa93&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何让Agent更符合预期？基于上下文工程和多智能体构建云小二Aivis的十大实战经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naITrnxchK9FKUyezTIjEwkDyiciaYXjcDPJcaCI0dgxb21M8vGZdAHeY3ztayzCZJhichRGLDCSibNv2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景今年我们团队重点投入在“云小二 Aivis”项目中。云小二 Aivis 是阿里云服务领域的数字员工，它标志着我们从传统的智能辅助客服，迈向了更端到端 Multi-Agent 的数字员工能力的全新阶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554851&amp;idx=1&amp;sn=00e4cea8a7d444e07378e2143a3359b3&amp;chksm=e804f2a14a3d942471a020ee9f3bfa0efe42a010a231eb77a8e924b1e1e503327b13ca015794&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深入浅出 Android Hook 技术：Frida 框架入门系列]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5NornKOMNVWj6cOjHZ8Aqj7Aw6NWMMzr3Il57tQlS7A4LqkoI5N609w/640?wxtype=jpeg&amp;wxfrom=0"/><p>PART 01一、Hook 框架概述Hook是一种在程序运行时动态修改或拦截函数调用、参数或返回值的技术。在 Android 安全研究、逆向分析以及自动化测试中，Hook 技术扮演着至关重要的角色。核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=1&amp;sn=1f40272488c196228ffd477b34e89d34&amp;chksm=b05d7a145f15ad4167c900dc80f0294cb70c54def639b0a933ead8774dc1b5d4ebdd334f4525&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[暗网市场出现新型OT攻击框架，可针对性破坏电力系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8suIScBN7OZW5XdbY0p55hZLIgESzF4icaTrCdbVArQUYicchREO7EyyAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一支名为Lab52的研究团队在暗网深处，发现了一款正在被大肆推广的、高度专业化的攻击框架。该工具并非针对普通电脑或手机，而是直指能源、电力等关键基础设施的控制系统。这款在暗网“黑市卡特尔”平台上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=2&amp;sn=78f264620dec14cc64ff5dae8fe43999&amp;chksm=b06007f9f21b9eb137e75816f29f413f437708fdf033c3f41c3587834020ffc45bf13ce3a16c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【招生中】无人机安全攻防入门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E4gvpb3vgYVWnRWiamTMSjXDiaLSMuwLnlWicGZoJfO1l002hM5kHL7hxtPOBS2EPK43pvlxQn9uZfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，无人机已经成为各行各业的重要工具，其应用场景日益广泛。例如从军事侦察到物流配送，从影视拍摄到农业监测。随着无人机技术的普及，其安全问题也逐渐凸显。例如无人机遭受黑客攻击、数据泄露、飞行失控等安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=3&amp;sn=6cfb0d195f3b606bab8e7be997c629bb&amp;chksm=b06db63e7239b73658627045543070d8d5b49ef20ea1c0ca009093a2e264f6bfc1002676e4c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[强网杯S9 Real World - monotint]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRhhsHe4KVoiap3ndzSQ3MtzjiafX3bILX2SicDicxZf3r6Uh4fx0oHTyaNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次强网杯线下和0x300R的师傅们一起打了，其他师傅都太强啦。但最后一天的时间很短，我们最后demo的4题，基本都因为环境问题，没有成功，其中就包括了我这里demo 的monotint，一道浏览器的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=1&amp;sn=6847c40b551141a8d7a336c01ee7b5c7&amp;chksm=b09457ec0ab5a5b0a1a0e56c9d72e57a559dee0445a8f53b4fc893a6009f6abb0c402e86feff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFlUJHyf6iaDcbFFInfpojZeSAAxQia1niaR0aaZjia4PHH8QHPCGGzPQ91Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，微软安全防护软件 Microsoft Defender 卷入一场颇具争议的“误伤”事件。其本意为打击冒用知名开源工具“微软激活脚本”（MAS）之名的恶意软件，却因过滤规则存在偏差，意外将正版的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607710&amp;idx=3&amp;sn=b3bccbf9237c9509768331236258185d&amp;chksm=b0128f3153947f4bfb87f4f8f336d18663fb5df3285d40f3116c9704160c01739da77b9575a0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[量子安全 quantum ctf Global Hyperlink Zone Hack the box]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWyg3GF9d0ds6B5s7wZcaHwHauafaGuMxU1NCFmjf8MSj171jCn1ibcCVJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码分析server.py首先，拿到了一个server.py文件，我们先来分析代码：一上来是定义了一个类，然后引用了包和设置aerfrom qiskit import QuantumCircuit,</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=1&amp;sn=01fd80bfa67b7c7b26254022f0d11e81&amp;chksm=b02bed9d1d9fda8e0fe31d0bb2fdf7dede837a8db93d1fbec861108853a31466e4009fad4d0d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者仿冒Jackson JSON库入侵Maven Central，发起定向投毒攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWygiazicQHtLk5mwfUMzKpdsKGyEiau1mAbBcaoia1UaEnuZI3nIyg37cFr7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一项新型恶意软件攻击成功入侵Maven Central——这个Java开发者最信赖的软件仓库之一，攻击手段是仿冒知名的Jackson JSON库扩展组件。这款恶意包注册在`org.fasterx</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=2&amp;sn=0fcd1f204ed1096afd67047e906f45b3&amp;chksm=b0456c215f9cd4955c58738d448fb35d615ba93401cafba87979613608a13a41098224b3bc4f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[速通秘籍来咯！VMProtect虚拟机逆向入门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GYDWOic1Dndw1vDJbr1UzpCRoFBvIdO3ADt84YnVPB3PRYgwrIz1bnEZxxTaV3kUPM5KRqBJ77b5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在信息安全领域，逆向工程是核心技能之一，而VMProtect作为一种常见的软件保护技术，其复杂性和高保护性使其成为许多逆向工程师的难题。然而学习VMProtect虚拟机也充满挑战，你是否正被这些难题绊</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458606863&amp;idx=3&amp;sn=9c6d93f70a973fb6a6353c0f62a8d48f&amp;chksm=b01a318c57e4e969360b379d0485b308c60fb3c6622b65f687d1051bd4fa3c25981e31099a59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

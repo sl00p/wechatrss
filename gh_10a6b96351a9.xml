@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[openclaw火了，你学了没有？你是不是也有这种感觉，技术根本学不完？ agent，MCP，skills，openclaw... 层出不穷，学得身心俱疲，更可怕的是，好像那些体力充沛的年轻人，学得比我更快、更猛。 好了，醒醒吧！到了我们这个阶段，如果还在“盲目学新技术”，那真的在进步吗？ 有一类人，有“技术收集癖”，总觉得简历上、脑子里，技术概念越多就越安全。但实际上呢，我们去和25岁、精力无限、没有家累的年轻人，比赛谁学得更快吗？这不是努力，这是用自己的短板，去拼别人的长板，是战略上的不作为。 那怎么办？躺平吗？当然不是。从现在开始，停止漫无目的地收藏各类教程，立刻去做三件事： 第一件事：“技术断舍离”，确立核心。 把我们关注的那些五花八门的赛博博主、收藏夹里上百个教程，彻底清理一遍。问问自己：未来三年，支撑我吃饭的、最不可替代的“核心武器”是什么？ 自动化测试？前端工程化体系？分布式系统架构？AI核心技能？只留一个，最多两个， 其他的，全部取关以及删除。 第二件事：“逆向学习法”，用输出倒逼输入。 别再看那些“从入门到精通”的教程了。去找一个我们核心领域内，经典的、稍微超出我们当前能力的真实开源项目。比如一个知名的RPC框架，我们的任务不是用它，而是去“拆解”它。 倒逼自己用任何方式（画图、写博客、录个短视频口播）把我们理解的东西讲出来。这个过程，就是在形成我们自己的知识体系。 第三件事：“项目驱动”，基于真实需求学习。 任何一个新工具、新框架，想要学习它，必须满足一个前提：基于一个真实的需求去使用它，去实践它。 openclaw，我们了解概念，在mac mini部署了环境，就会了吗？简直是笑话。我们不用它解决自己的问题，真正变成自己的提效助理，副业助理，那叫学会？ 末了，别再被焦虑牵着鼻子，做那些“虚假的无用功”了。“技术断舍离”，“逆向学习，输出倒逼输入”，“基于真实的需求学习”，你怎么看？ 共勉！]]></title>
+      <description><![CDATA[<p>openclaw火了，你学了没有？你是不是也有这种感觉，技术根本学不完？ agent，MCP，skills，openclaw... 层出不穷，学得身心俱疲，更可怕的是，好像那些体力充沛的年轻人，学得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980427&amp;idx=1&amp;sn=605838b05ed716432cf95be0c26c140b&amp;chksm=bc04d4c41952bc60e1aaafe8418956735d8d729f5313670cde3587f2f8163661bc8bfd6013b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不想做程序员了，也没其他本领，还能干什么呢？（求支招）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzSaaTzrCLN1cuwFqzuAHBzK3C0Vl4JrqHr5kHbHF2XHjwrDCLaScibf2TicblH6A7oLiaibKz5Q2zKug/640?wxtype=jpeg&amp;wxfrom=0"/><p>有粉丝留言：“干了三年Java程序员，发现越来越不喜欢，每天都只是完成业务需求，现在公司还内卷我们，逼我们写专利，干更多莫名其妙的难活，更不喜欢了。性格又不是喜欢攀炎附势，没有想往上走，不喜欢那些勾心</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980425&amp;idx=1&amp;sn=3db6d11bc3051d36a5261ce8f86af9a5&amp;chksm=bc97a6534a0074bae91ddff3103bb9a8725c61061647735bd34359a512f3a75ea7f7e1f7cdaf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[每秒30W次的点赞业务，架构怎么优化？（第113讲，收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZND0JrHHjV2v2YBD48nv523rrhcz6XrJdjoEmLOG3lJmS39ULibtkqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》113.高并发计数继续答星球水友提问，30WQPS的点赞计数业务，如何设计？可以看到，这个业务的特点是：1. 吞吐量超高；2. 能够接受一定数据不一致；画外音</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=1&amp;sn=75e70accc000669991602d4525ce7536&amp;chksm=bc68a8d209f5ff544425790ade4a07e214c781b95e1102ff32f22f913380de7d4622f55123ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有人问我说，沈老师，写公众号10年，你究竟是怎么坚持下来的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOz0M3DwRWCP8ZZOa3IVvmDmjFYbWOhhHXybrxwmQc7ue3z1F8ylQQuZ8bVCe1JRXsj4mfqnIxq8ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个小号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。第四篇：写10年公众号，我是怎么坚持下来的。领域认证要1000个粉丝，大伙帮帮忙，感恩。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979587&amp;idx=2&amp;sn=cf62efd2fcea3c1a5d0322e2a1055a15&amp;chksm=bc4199916e64cdf0c4cc02b76a9dce42aa7db34d4fe8facbfa1f845ee887d344ba9e49fd2612&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 17 Nov 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>

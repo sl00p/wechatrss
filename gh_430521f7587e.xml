@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[HarmonyOS首登微信公开课，分享跨平台适配与体验提升实践经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9AulshnNXblsMNHoDKyCwfT9kNXngXGR3Wia6OgjX4W42H1zUdPuIqlicKgUFWrRW9KNEUej7PibEUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，2026微信公开课PRO在广州举行。值得关注的是，HarmonyOS开发专家首次以官方分享嘉宾身份亮相开发者专场，并围绕“跨平台适配与体验提升”这一主题，深入剖析了微信小程序在跨平台开发中的兼容</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237437&amp;idx=1&amp;sn=a355a2cb084fcbe36a65950cb0060097&amp;chksm=bfe6a5adf4addc949092da063cc67d3a59276c4396d8e8f64a4b2a79371a4d6027b1461193a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 16:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这Star增速有点吓人：一周从5K飙到11万的开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9qDPic6crqyhK9Qhnxvy2pC1U7ALXUYibNk7e0N3oENnbYFlC9hibpCdLcUNES4zMy0rXiccgVM8c7uA/640?wxtype=jpeg&amp;wxfrom=0"/><p>📒使用教程 让Clawdbot接入模力方舟：本地Agent跑通国产大模型 🔗github.com/openclaw/openclaw #开源#AI#openclaw#助手#热门#项目#Macmini</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237437&amp;idx=2&amp;sn=38ac87720d06097848fb83008f12e030&amp;chksm=bff5dcdfcf84f2f0462ab21a2bcd65630e4fc954838e98cc878701239238be7458a083d494eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 16:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Skip正式开源：基于Swift构建原生iOS和Android应用的跨平台移动开发框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm280CSuqUmtIMmiaTzYtE6kNZn4kSpvJnB1mJ82VfTLRnEO2MCYxgoQMQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>跨平台移动开发工具 Skip宣布重大转向[1]：自 Skip 1.7 起，全面取消许可证与订阅限制，向所有开发者免费开放，并同步开源其核心构建引擎 skipstone。此举标志着 Skip 从商业授权</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=1&amp;sn=06c5c7baea7be5fe5db76b95751f77ab&amp;chksm=bfc7aec28d7f3b9fe73802a994952468931c5550d00d3a6a3f7c2692a5b0544843128db0bcad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK81KicEesBQo9RkiafnFruEGF2SwXxguqS5K5Xib3adiaUyB3OcU0HzHhrqQt45p2Q79NS11jibar9MlCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>被称作“欧洲DeepSeek”的Mistral AI发布了Mistral 3系列模型，全线回归Apache 2.0。 该系列有多个模型，具体包括： ①世界上最好的小型模型：Ministral 3（1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235171&amp;idx=2&amp;sn=19b38404f999b8bd641714b91e99314a&amp;chksm=bfea1b88dd711178183ee9297d7f1e571c7769186dc3b090e8852db527685226d5a152b0530c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Dec 2025 16:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AGFS：致敬Plan 9“万物皆文件”理念的Agent文件系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibhbrm21rNKdlhIFj2u0AkzsE4iawwSJicyvVe4Qa14vEbRGavG5FgoSApicvInld9m3odexVasQIXJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>PingCAP 联合创始人兼 CTO 黄东旭最近发布了名为「AGFS」的开源项目。根据介绍，AGFS（Aggregated File System / Agent File System）尝试以“文件</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235154&amp;idx=1&amp;sn=215f1ba0b27ca0dc75b4aa797fb05362&amp;chksm=bf92be176b62a36303f7691f61526aabc5b6786ce0039dde3e1588e029845461f285e76971d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:19:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OSCHINA更新汇报Vol.01 | Tech Daily上线、优化博客智写AI配图生成速度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKibhbrm21rNKdlhIFj2u0Akz1ydbkqzuftFtWo4mldWqFXV1nRJhE87c1gKjY0cYzuswV7NIyNq4kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新版社区上线后（OSCHINA - 开源 × AI · 开发者生态社区），OSCHINA不再只是一个资讯网站，而是一个技术内容与社区生态共同成长的开放空间——个人开发者、团队、企业、开源项目、新的 A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235154&amp;idx=2&amp;sn=4fdd80ab7d1eca24e62e742b8f1e6b70&amp;chksm=bf19441abc38fbe63da29f9f7fb4a359025e5948f14c2614023a567f27cbba8b85a12643130a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:19:01 +0800</pubDate>
     </item>
   </channel>
 </rss>

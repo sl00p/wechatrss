@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 1 月份 yyds 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IYqkibKaG07fqhVa4aL8zlGV54p66WhlYXYFRw0CBcCJSNe8BoibzicYjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 金融分析 AgentDexter 是一个专门搞金融研究的 AI Agent。 它像个初级分析师一样去干活，你甩给它一个复杂的金融问题，比如分析某公司这季度的利润率变化原因，它能自己拆解任务去</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531076&amp;idx=1&amp;sn=7e1f313691cffc27b5a34a31dde2f6b2&amp;chksm=f8e2d2b495e86ea00df7e7672f860e9ff4359b0ec7d61533b3006e163531cb2c250d6ea7db98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[15 万个 ClawdBot 涌进 AI 社交网站，但人类只能围观。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5I7AUbSJN0BOKNND7H6beJVhicyPWkvdv7nE4NbibtPllTibRWLFWECcQbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谁都没想到，26 年第一个现象级的 AI Agent 产品竟然是开源的 ClawdBot。可以用这个开源项目把 AI 接入国外聊天 APP 中，你直接在 WhatsAPP、Telegram 中和 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531052&amp;idx=1&amp;sn=b8908779a1624cf90982e0a4cefec03f&amp;chksm=f81dd78095af43a5ba45257139889074f6a1c5002be8c96889cee4a9eafa9f433fffb7b273ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzic4lkiaFibiaGd7pO5bHtvYZyN6bF9HicLNcUGoialntO2rxL8VTcN29monFs0HO1nEfyUdsRM7LReang/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间，Anthropic 推出了 Claude Skills 能力。这是一种模块化能力扩展机制。有了它你不就用给 AI 重复解释了。你可以把所有想让 Claude 吸取的经验都写到一个 Skill</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529084&amp;idx=1&amp;sn=ee9d1ebfd21aa3568ac41913e94a3366&amp;chksm=f8f3ec60cb1cd2a196e5e25bfebeba4560b4830c72935aafdc9b38d984d4f2096073435b3ea5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 23 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新挖掘了 3 个牛哄哄的 GitHub 项目，有点意思啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzuTSj6hib8AwQoiaQDSq7r81nRXSWbWvTvI4ozuef22nV2agkEDmoWQDicc4OibUTy9gwqicamGV7FJCw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把 VS Code 装进浏览器这个开源项目可以让你在浏览器里面写代码，它把 VS Code 完整地搬进浏览器中运行，现在已经 75K 的 Star 了。code-server 让 VS Code</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529000&amp;idx=1&amp;sn=8b43d987607eed0346f1a3c75f3939a0&amp;chksm=f81feae56598bf478c7e12792ad2be1f7e01e1cbeafb210eefcc7b2dc7bfdb9d440835c660c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
