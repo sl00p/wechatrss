@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这 6 个超神的 SKills，在 GitHub 上杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6sALlibo6lh0UbdOZTQicTQubicw6NW7CKTjMSnewjxkOMaAHkyLQtyszg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频制作：Remotion Skill不知道大家有没有用过 Remotion 这个开源项目，现在也有 2.8 万的 Star 了。之前我想做视频生成自动化的时候，了解过 Remotion。它其实是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531077&amp;idx=1&amp;sn=6e2f73fdd3300d7dbb8990b06f80026a&amp;chksm=f8fd3e1522d5b207a949e807e0fa2e18eb2bcf07d0e8c7488e3ddfa2271e108e2572d061ea35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 1 月份 yyds 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IYqkibKaG07fqhVa4aL8zlGV54p66WhlYXYFRw0CBcCJSNe8BoibzicYjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 金融分析 AgentDexter 是一个专门搞金融研究的 AI Agent。 它像个初级分析师一样去干活，你甩给它一个复杂的金融问题，比如分析某公司这季度的利润率变化原因，它能自己拆解任务去</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531076&amp;idx=1&amp;sn=7e1f313691cffc27b5a34a31dde2f6b2&amp;chksm=f8e2d2b495e86ea00df7e7672f860e9ff4359b0ec7d61533b3006e163531cb2c250d6ea7db98&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29BT1SMZQj5hZ9iciaO8WqwDFXUiaUzxdcTKWTq1fyicHe7mTSMzHwiciaXDew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个叫 BISHENG 的国产 AI 开源项目。这是一款主要面向企业的开源 AgentOps。名字取自活字印刷术的发明者：毕昇。活字印刷术为人类知识的传递起到了巨大的推</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529110&amp;idx=1&amp;sn=7e8082a7edf28036056c718bac3bd8f9&amp;chksm=f8444be7af5200ebf359901f4fb7b32ba6fd53913136ab31f260ac22c8188702d5b1f7b38b3e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 5 个 yyds 的 Claude Skills 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzic4lkiaFibiaGd7pO5bHtvYZyN6bF9HicLNcUGoialntO2rxL8VTcN29monFs0HO1nEfyUdsRM7LReang/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间，Anthropic 推出了 Claude Skills 能力。这是一种模块化能力扩展机制。有了它你不就用给 AI 重复解释了。你可以把所有想让 Claude 吸取的经验都写到一个 Skill</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529084&amp;idx=1&amp;sn=ee9d1ebfd21aa3568ac41913e94a3366&amp;chksm=f8f3ec60cb1cd2a196e5e25bfebeba4560b4830c72935aafdc9b38d984d4f2096073435b3ea5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 23 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

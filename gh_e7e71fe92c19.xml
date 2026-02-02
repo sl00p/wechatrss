@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[fnOS路径穿越与命令执行漏洞利用分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjXb7iasviaO6kv104zlDOz2SWGxt4ZO9FKANf97j6hROt3CIlbDN0o0yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01安装环境下载历史版本镜像，以1.1.11为例，向https://fnnas.com/api/download-sign post 如下请求获得下载地址。安装完成之后即可访问web页面初始化之后成功</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=1&amp;sn=eb20b7a211d3d0a14aee4d810d146e57&amp;chksm=b0fdaa4dc852e29d76750c342e17f34879ee61eca30dbfa0f9e25c4528bf00a9f5cdceaac9a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Office 最新高危漏洞遭利用，多国政府机构被定向攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjga4hvpeXUlvCdJibSx1drWeWrBuOs5n81PTAhatGKVJgxDElzlnQ0rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一起利用 Microsoft Office 最新高危漏洞（CVE-2026-21509）的定向攻击活动被曝光。该漏洞在微软发布安全公告的次日便遭恶意利用，攻击目标直指乌克兰及欧盟国家的政府机构。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=2&amp;sn=e1ca0e9a1a5c81f2114d6194072f76fa&amp;chksm=b0bf9c9b3c4cf5652038beca37aac10fd2d35c6825908051985ab83b4a3e1448874df33b6bc9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突破 x86 局限！多架构 Linux Pwn 实战课，从用户态到内核提权全掌握]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjibIfheWx0e2rmO4r6icJmxQx6VnPn9AwEZlgp0LibjbPHmM9FlJpib4JKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，早已满足不了行业对复合型安全人才的需求。如果你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=3&amp;sn=5c358d94ca07fb5725fabce428325fc5&amp;chksm=b0d5b503adb419d138bee6c04991ac1119d9eba853a17baddda758b52cd80484eb267912705d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入浅出 Android Hook 技术：Frida 框架入门系列]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5NornKOMNVWj6cOjHZ8Aqj7Aw6NWMMzr3Il57tQlS7A4LqkoI5N609w/640?wxtype=jpeg&amp;wxfrom=0"/><p>PART 01一、Hook 框架概述Hook是一种在程序运行时动态修改或拦截函数调用、参数或返回值的技术。在 Android 安全研究、逆向分析以及自动化测试中，Hook 技术扮演着至关重要的角色。核</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=1&amp;sn=1f40272488c196228ffd477b34e89d34&amp;chksm=b05d7a145f15ad4167c900dc80f0294cb70c54def639b0a933ead8774dc1b5d4ebdd334f4525&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FOwWf0VFibBZVeDCDEe0mUBcMvglAicSicXzCUaMM9LSPNMoApI3EQIt73oEmf3plKLNV5p6nX4MhLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代下，网络攻击、数据泄露等安全威胁持续升级，网络安全已成为全球关注的核心议题，行业对优质安全人才的需求日益扩大。深耕网络安全领域20余年的看雪学苑，作为国内最早的安全工程师交流社区，始终以培养</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607711&amp;idx=2&amp;sn=f04e1949cdca723266d3e7383cda04be&amp;chksm=b0da293a1262dc2f23e5407a207f087fe0cf7d711b636f1a684954c0a5e0fe6c3d7a66c9c860&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 10 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DEX文件格式解析：深入Android字节码结构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFF8L5oCzNHBM1ytIp9BH5KjGg3uiaV3Q4cYqnqkDTibPsrF3Pr98XtnnEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01大体框架Dex（Dalvik Executable）是Android系统中Java字节码的优化格式，相比传统的class文件，Dex具有更高的执行效率和更小的文件体积。Dex文件整体架构Dex文件</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607710&amp;idx=1&amp;sn=a27506ef91ae2597ced325e17794cfde&amp;chksm=b098fe48642208219cd69ed6f0eb916f22eb151289d9c4f23506ef003c50673cf654291abdc8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[周日20点直播 | FART14秒脱海外加固厂商dexprotector加壳app]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFoWHmzLR4JQkibO1uiaU0m3cZfepK2ubMtJMMfgg3icXxJFiajKKx9SrMYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607710&amp;idx=2&amp;sn=bdc6e048ee353a1bb325c8bd61cdfd79&amp;chksm=b0d7f07dcaac3ac1fcce9d6f4bf9c267b07d6b27bb354b379d0ca09a056cff32f19660b929af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软 Defender 误伤“正版”激活工具，一字母之差引发乌龙]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFlUJHyf6iaDcbFFInfpojZeSAAxQia1niaR0aaZjia4PHH8QHPCGGzPQ91Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，微软安全防护软件 Microsoft Defender 卷入一场颇具争议的“误伤”事件。其本意为打击冒用知名开源工具“微软激活脚本”（MAS）之名的恶意软件，却因过滤规则存在偏差，意外将正版的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607710&amp;idx=3&amp;sn=b3bccbf9237c9509768331236258185d&amp;chksm=b0128f3153947f4bfb87f4f8f336d18663fb5df3285d40f3116c9704160c01739da77b9575a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

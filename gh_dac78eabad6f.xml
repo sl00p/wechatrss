@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkGxA7o3gSrJicBFwov4TZQ4KfQ8PV5sKbphLBFicK3lfpn2nYOoEAyIMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Clawdbot 技术方案Clawdbot（现名 OpenClaw） 是一个 Local-First (本地优先) 的 AI Agent 运行时环境，旨在将</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694343&amp;idx=1&amp;sn=8974e62e0c74a0011c6fdf6d037f957c&amp;chksm=eb90ae37ee7a95285ad05cd124ebafa408483bf2a3fa47b56ec8eb79efa52325a79c44e0b2ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[万字详解大模型推理加速核心原理：分形规律与资源计算公式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94taMUlqOoGXJiccwDaEk6nEL0jdT5cSxekWzJR7J7kiaLMxibywfZiamvTShGD25P4ZehIR8FjAibrSVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇大模型推理性能优化比较复杂，千头万绪，涉及推理框架、模型特性、GPU硬件特性、算子优化、网络基础设施、通信协议、SLO等很多方面因素，优化的时候主要用工具分析T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694196&amp;idx=1&amp;sn=151b34f31e6a5cdfe4cc8600668b57cb&amp;chksm=eb649ca57032a0d3938f116d8b8b5fe621e42e0176f15508a249bf0bc3dd128b9fc646015eb9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[刚刚，全国程序员群体普查结果正式发布！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWc6Vic3vG5ib9nBYqqVFwP4HLSOpABU6Ggawqeic9TBhw5AxONCOrEAY0Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深夜的编辑器还亮着，键盘声是城市最后的心跳。有人写逻辑，有人写生活。他们的注释里，藏着整个时代的算法。代码一行，人生一行。Debug，也是在修补生活。今天是 1024，属于那些写在屏幕光里的名字。腾讯</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=1&amp;sn=15727ba0f16f5eec2e35217dda8df635&amp;chksm=eb717557543f072542708d4906b420541ca5afc84d5108884610828fa107019aaeea297d20c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[与AI共生还是被取代？别让系统“纸面容灾”！架构师技术沙龙在京沪湘皖四城同时探讨破局之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWcMj4Dm3hvSVAhTPa9yCTDrrp8QAIZ7Ne73QPibzWvHVpic6daFYic58ibAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术之路既需要低头编码，也要抬头看路。本周末（10月25日-26日），腾讯云架构师技术同盟将在北京、上海、长沙、合肥发起4场线下深度交流活动，欢迎报名参与！北京站：架构师如何与AI共生- 内容有料：如</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=2&amp;sn=2f3a0e7d3cd7ec759fb59b1c8d6be512&amp;chksm=ebd142a564571ae5cb0473562e462a3636ec00c3a0de10959922cd2d6f59d55d405640d163c0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>

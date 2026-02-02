@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从传统编程转向大模型编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIY4eiaejicQ6Kh78NicqfpgWaXtgM3riag0rqxuyXKjfOsCjdHEZqG6f1tgeUUYUKjcwmDcwcsDzfzgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 核心目标：从“代码产出者”变成“文档定义者”这篇文档不是教你怎么把 Ctrl+C / Ctrl+V 换成“让 AI 写代码”，而是希望帮你完成一次根本性的角色转换：Code is generat</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558172&amp;idx=1&amp;sn=4352d94bba884ceac8f3f231a9074910&amp;chksm=e8ddb0f78363986a0e2f37f4f3667f341878c742eb22c532316b3f3c2e8a0336326af121fa30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[生产级Prompt自动化推理评估A/B实验结果的工程实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL9Dr7oLH85FMDI7ImRYhdPZHnk4xRQ3ISeGUghTQBKT1ydL1srpQCoAdNBn72jLuSHVxZ8LnuDgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在互联网流量竞争白热化的时代，A/B实验已成为产品迭代的标准决策工具。当实验数量从数十增长到数百甚至数千数万时，传统的人工巡检模式遭遇瓶颈：需要专业的同学每日投入4-6小时逐个检视实验数据，判</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558131&amp;idx=1&amp;sn=73317842c9c513c3bde07efac9cee952&amp;chksm=e8803e9872294de744a7980e25d7560f5f072bab71cdb3292a252c822da123f986719ccf3b95&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7VTtFgicoGIcSW6HDI9RzqxUpqHIIduDSgSJ8rEJAM6iaqtrmeiarexEKDgaiaHTia1tcHlap45KDic2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统性地介绍了 Midscene.js —— 一款基于 AI 的下一代 UI 自动化工具，深入剖析其设计动机、核心架构、工作原理及源码实现，同时结合业务场景落地过程，分享一些问题总结及落</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554993&amp;idx=1&amp;sn=0092b25bcc778e273bdbf8e24af9008e&amp;chksm=e82dc196b753a41b5e11a91b222faf8d798ef8fca6bf138b97449921ee8a443a8652aae471d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ReAct范式深度解析：从理论到LangGraph实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJGgVHb2qYj380LphkDSzoyCHiapHzMvw4micgIzAQQL7QgXB9ia7ibujyGKG7ibe1xuv5Adibd9X1liaabg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言最近在做智能解决方案系统时，我遇到了一个关键问题：如何让AI在复杂任务中既保持推理能力，又能有效执行行动？传统AI系统往往要么只能基于训练数据推理，要么只能执行固定流程，缺乏动态决策能力。ReAc</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554893&amp;idx=1&amp;sn=36c4ce18c711a5f430aa95e4b0345a5f&amp;chksm=e868731da215adc9a67b51efcfe69e5469f0f16f590f08f9b3670a19b9d2c1c885d93501aa93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
