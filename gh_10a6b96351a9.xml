@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[技术人干着干着，都会面临一个抉择：到底是拼命卷上去做管理，还是继续深挖技术？ 我身边有无数案例：对于大多数不善沟通、天赋点都点在技术上的兄弟来说，那条看似光鲜的“管理”路，不是升职加薪，而是无尽的痛苦。 很多人觉得，咱们的职业生涯，头衔上不带个“经理”“总监”什么的，就不算成功。感觉不做到管理，就不算上岸似的。来，我们一起看看“所谓上岸”后真实的风景是什么： 调和下属的反弹，花大量时间写材料和开会，有替上面的决策背锅，再向下面传达压力。离专家越来越远，离人心和PPT越来越近。这，是不是我们当年选择这行时，想要的生活呢？ 那到底该怎么选？ 别听别人的，三个问题，问问我们自己。 第一个问题，看我们获取能量的方式。 我们是从“与人协作、带领团队达成目标”中获得巨大满足，还是从“独自钻研、攻克一个精妙技术难题”中获得快感？​ 前者是管理，后者是专家。逼一个天生享受孤独解题乐趣的人，去天天搞团队建设，那才是无尽的消耗。 第二个问题，看我们愿意承受的“杂音”量级。 管理岗至少50%的精力，要处理“杂音”：人际关系杂音、流程汇报杂音、资源争夺杂音。技术专家呢？难题主要来自技术本身的复杂性和不确定性。我们更愿意忍受哪一种？​ 诚实回答自己，这决定了我们每天的幸福指数。 第三个问题，也是最重要的一条：看我们的“野心”在哪里，是想横向铺开，还是纵向打穿。 管理路径是横向的，影响力随着团队和业务范围扩大而扩大。专家路径是纵向的，影响力随着我们对某个领域技术理解的深度和解决问题的能力而沉淀。是想成为一座桥，还是一个深井？​ 深井的水，才是真正的行业稀缺资源。 所以，别再被那虚无的“职位光环”绑架了。对于真正热爱技术、享受创造乐趣的我们来说，把“专家”这条路走到极致，所获得的职业自由度、技术尊严感和市场定价权，可能远超一个夹心层、身心俱疲的平庸管理者。 当然，技术和管理，这两条路，没有高低贵贱，只有适不适合。 你更倾向于哪条路？或者你已经换了路，那有什么不一样的体会吗？]]></title>
+      <description><![CDATA[<p>技术人干着干着，都会面临一个抉择：到底是拼命卷上去做管理，还是继续深挖技术？ 我身边有无数案例：对于大多数不善沟通、天赋点都点在技术上的兄弟来说，那条看似光鲜的“管理”路，不是升职加薪，而是无尽的痛</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980438&amp;idx=1&amp;sn=60e7dd0de4e017e08c4e788de0c2178f&amp;chksm=bc4ec78f0705e04135bfa8197a59f1486151b351f64a7ee6747339ee0e5afd017bf23d41c880&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[两个小公举，调试MySQL死锁必备！（第13讲，超硬核）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxXjb9AEyTAcMgI4Tsx06pErtAfibo7iaHRQxvofVLXny9wB5aqJDl3rvKjGkRia48LJ1PTrncmuZQdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》13.MySQL，死锁调试工具数据库死锁，是最难调试与追踪的。场景如下：同一个表，事务内先插入一条记录，再更新这条记录，并发时会死锁。并且能够复现。可以通过什么工具模拟并发事务，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980435&amp;idx=1&amp;sn=6450e8b7c540f69d6681d840057d59ad&amp;chksm=bc568dec801fb8237bb5192a5f201b6ec25edeaed621180bf456c280b3e1a6189ee0753e78a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxGRAAqU5bjWRUzDZqRsoZNuBRUjKoCcT6lOYYAeGOv7WyjPpKLLaYia79PjbwZ22SPnzl9BJ9ywNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《架构师之路：架构设计中的100个知识点》114.高并发分词检索沈哥，我们有个业务，类似于“标题分词检索”，并发量非常大，大概20W次每秒，数据量不是很大，大概500W级别，而且数据不会频繁更新，平均</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979556&amp;idx=1&amp;sn=9a108b904eccc7ed8f5640fd7702b556&amp;chksm=bcae3d83744099eb35df8352107fc132b5d0f0e4afe7efd8b1429364bd6ed82dcb60d365a11b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么年轻程序员比年老的更有性价比？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzfPIM3ibUGFM8iaj3bQYj447sXrdoskSCSP988IiaFSKC6tAa5fZQ0hBIJhyFL6KfoHdO1IObQfw3kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>职场招聘圈里总绕不开一个争议：招年轻程序员还是资深程序员？不少团队负责人私下吐槽，年轻程序员薪资预期更灵活，熬大夜赶项目从不喊累，学新框架、新工具快得惊人，上手业务后能快速产出；反观资深程序员，薪资要</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979602&amp;idx=1&amp;sn=94a935ceac332752d10a6e3ff7afb31c&amp;chksm=bc85459ac861963a990937888b80cbbc3ca3937e84ac4e610eeea687fc1aebf2e1f1e7ce5933&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 20:35:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

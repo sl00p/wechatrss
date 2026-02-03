@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 原生研发范式：从“代码中心”到“文档驱动”的演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlcjgiaxa7ls2GGBsOqmTOfDvmZarkuOsZJumkd1QzzvEbx8GmBnDNAFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述在 AI 编程时代，通过 SDD解决上下文腐烂、审查瘫痪、维护断层三大工程失序问题，并提供一套轻量、可落地的人机协作 SOP。0. 前言：让 Vibe Coding 可落地TL;DR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558173&amp;idx=1&amp;sn=a510f5608a758b601b342d7c8920af39&amp;chksm=e8f7631de2174f58a695d786ba5c37f1c019deeee30b60e25e72c08331ca1f1bcc8508fc99ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从传统编程转向大模型编程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIY4eiaejicQ6Kh78NicqfpgWaXtgM3riag0rqxuyXKjfOsCjdHEZqG6f1tgeUUYUKjcwmDcwcsDzfzgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 核心目标：从“代码产出者”变成“文档定义者”这篇文档不是教你怎么把 Ctrl+C / Ctrl+V 换成“让 AI 写代码”，而是希望帮你完成一次根本性的角色转换：Code is generat</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558172&amp;idx=1&amp;sn=4352d94bba884ceac8f3f231a9074910&amp;chksm=e8ddb0f78363986a0e2f37f4f3667f341878c742eb22c532316b3f3c2e8a0336326af121fa30&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKmXFmxGp8iaXicZz6nibiafA6bOHqSpiaoVwibmTnLrecRdotNlZRcLjenAnlxJ8jWDy4auqRmrLG7F4Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个完全用Java实现的全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。写在最前面十一期间，用Qoder体验了一把vibe-coding，喝喝茶动动嘴，将两年前的开源项目（从零构建</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555133&amp;idx=1&amp;sn=8741d992348c64e2df3956c267d7002b&amp;chksm=e854a34166db1fd38989f1b1e3e3898e310e891aca816ce6e468c3180f3b83fbe82a24c8f7e8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Midscene.js 实战与源码剖析：如何重塑 UI 自动化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI7VTtFgicoGIcSW6HDI9RzqxUpqHIIduDSgSJ8rEJAM6iaqtrmeiarexEKDgaiaHTia1tcHlap45KDic2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统性地介绍了 Midscene.js —— 一款基于 AI 的下一代 UI 自动化工具，深入剖析其设计动机、核心架构、工作原理及源码实现，同时结合业务场景落地过程，分享一些问题总结及落</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247554993&amp;idx=1&amp;sn=0092b25bcc778e273bdbf8e24af9008e&amp;chksm=e82dc196b753a41b5e11a91b222faf8d798ef8fca6bf138b97449921ee8a443a8652aae471d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

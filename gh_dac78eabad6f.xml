@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用Go重构C++老系统，一次降本82%的极致之旅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe9579g8JGNNUMjiaG36BicUxhjpzLTJNR4vRjOicfwVPd8dibVLLAHibMkkrkG2pIrsqhR0f7FNoQjqUibibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景：当“大力”不再“出奇迹”该服务是 QQ 游戏生态中的核心基础设施之一，具有极高的并发写特性，直接关系到用户成就的实时展示与游戏权益的即时到账。重构前规</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=1&amp;sn=9e955e9aec449ec3245339142575cd1e&amp;chksm=eb24e81d394812c48f6e4070478fcfb5f9e0064ab656fdb98f0f26228a6e3d3ab8539bd1b73d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[言出法随 -- Chaterm如何通过ASR精准操作K8S]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkeujyTACWib2F16icvUiajSOibdbG83tQuXqDO0Z7M0acNX6b0FDbXmHx1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作为程序员，幸幸苦苦忙碌一年，春节回家也未必轻松，赶火车回家团圆，参加爸妈安排的相亲，同学的婚礼随份子， 被七大姑问候工资，然而最恐怖的却是突如其来的 -- 「</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=2&amp;sn=688269877d325a9b032e387d98ab7cb9&amp;chksm=ebbd7f393d039ec1118bbb3fb0e095963bb398cef3ceee61178871725f3a4b9d4ed6e412377c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkGxA7o3gSrJicBFwov4TZQ4KfQ8PV5sKbphLBFicK3lfpn2nYOoEAyIMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Clawdbot 技术方案Clawdbot（现名 OpenClaw） 是一个 Local-First (本地优先) 的 AI Agent 运行时环境，旨在将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694343&amp;idx=1&amp;sn=8974e62e0c74a0011c6fdf6d037f957c&amp;chksm=eb90ae37ee7a95285ad05cd124ebafa408483bf2a3fa47b56ec8eb79efa52325a79c44e0b2ec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPAx2jAj6QD6vYroaLMr1VnIRIEt0gEsr20AuictR2gFWUQG1ux2CdIVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 平台定位2 核心能力3 系统架构4 AI 任务编排执行引擎5 总结6 展望本文基于LLM AI原生应用开发平台Tasking AI和Dify的架构设计，浅析两者在LLM接入与集成、工具插件扩</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692630&amp;idx=1&amp;sn=c610e480331070a721b7aab7f3e1ca6a&amp;chksm=eb657019c6cdce943837487b00c7ccf8c61ceae6299e46fbd1c663268f6150aad55e39c3bff6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[绝密数据解禁！腾讯有多少程序员？什么技术栈最热门？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Nf2W6LBFQnYkMiag37c6uAsdHiapyhHPGq7bIo1Cia1qpic0aLRYsLUIo4BuvIvRkSAGjlvEGo4q4Xg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在腾讯，程序员到底有多少？他们每天写多少行代码？又在用哪些最火的技术栈？AI在其中起到怎样的作用？那些“国民级” App背后的业务提效如何？这些问题，终于在今天都有了答案。《2025腾讯研发大数据报告</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692616&amp;idx=1&amp;sn=8e8b1260d0159a5530a1b996ae21f738&amp;chksm=eb58560ad018585575343cf68d0d5b9ec1f1f798e75d71459ba7a796c5400d06ec4deaf1b781&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，全国程序员群体普查结果正式发布！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97zAiac7h8c3jDelYD74brWc6Vic3vG5ib9nBYqqVFwP4HLSOpABU6Ggawqeic9TBhw5AxONCOrEAY0Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深夜的编辑器还亮着，键盘声是城市最后的心跳。有人写逻辑，有人写生活。他们的注释里，藏着整个时代的算法。代码一行，人生一行。Debug，也是在修补生活。今天是 1024，属于那些写在屏幕光里的名字。腾讯</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692600&amp;idx=1&amp;sn=15727ba0f16f5eec2e35217dda8df635&amp;chksm=eb717557543f072542708d4906b420541ca5afc84d5108884610828fa107019aaeea297d20c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

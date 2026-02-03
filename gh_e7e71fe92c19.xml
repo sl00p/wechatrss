@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[PageCache详细分析(读写/写回) 基于 Linux 6.12.32版本]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sYb4YrzQOWleDQCjsTERUMt7ULkC3tyRqjxO7SCStB9sN6OF6oHhS8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01核心数据结构FGP Flags#define FGP_ACCESSED ((__force fgf_t)0x00000001)#define FGP_LOCK</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=1&amp;sn=4b7864d52ec24a4ac6a4a701a53b2c94&amp;chksm=b09ca9df70efbba3673934a7d1a84b63dcad73c36756a62e4941c75c560e6db80d4c529ab0c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[杀毒软件竟成“投毒”帮凶？印度eScan更新服务器遭黑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3Fw0ygK27ibFXId7BnzsiboGk2EwxvR2ZFGZf2HkOCVNs1tejjL3Bd3pXRvrl7LRwAE5mTw5cQ65rywUr0GiaT9yNovIDfQZwcDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>印度知名网络安全公司MicroWorld旗下的杀毒软件eScan，竟通过自家的更新系统向用户推送恶意软件。安全机构Morphisec调查发现，攻击者入侵了eScan的更新基础设施，利用其自动更新机制向</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=2&amp;sn=9a513a9a41b12f1530d472401654dc87&amp;chksm=b0a6fbf293c421fa1430e3e73ad8938cb5f2f9989fd6142f99c5e58dcef5ecd14dcaf46d8897&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[顶尖硕博战队亲授：30小时教你进阶CTF-密码学]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=3&amp;sn=d1abce10635a2d9d215f069a01044b1d&amp;chksm=b035d3b9fec60d6dd7310c432fe712201d1f9674cee6676445b752ef97e6c2a76540fc7a3c9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[fnOS路径穿越与命令执行漏洞利用分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjXb7iasviaO6kv104zlDOz2SWGxt4ZO9FKANf97j6hROt3CIlbDN0o0yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01安装环境下载历史版本镜像，以1.1.11为例，向https://fnnas.com/api/download-sign post 如下请求获得下载地址。安装完成之后即可访问web页面初始化之后成功</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=1&amp;sn=eb20b7a211d3d0a14aee4d810d146e57&amp;chksm=b0fdaa4dc852e29d76750c342e17f34879ee61eca30dbfa0f9e25c4528bf00a9f5cdceaac9a2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Gwk82ibCdjRGWgbJPZbaRQHNxe8bsQ786LlZ7oZAkLBibAiaq5OxiczdMVV1Z48oPLyF8QyyPH8V7jyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款旨在提升Linux游戏体验的实用工具被曝出存在严重安全漏洞，可能允许本地攻击者劫持用户会话或导致系统崩溃。SUSE安全团队发布报告指出，用于在SteamOS等环境中整合输入设备的工具Inpu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=2&amp;sn=f5d444c58d3d67312e7d95bbd04251ed&amp;chksm=b0c25851ff5b4886d9dafbcfb2f4ac3977a3f9b2274dc0333dd320a02368a8d6c770392a1385&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拒绝赎金陷阱！看雪勒索病毒救援：99%数据恢复+全链路溯源+安全加固]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbULavJ8LibpuPKk539Sjb7kyWpeZBibCQVBJymV3XbKLz3WPtTgbyWB6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果您发现文件或服务器被加密、业务中断、收到赎金通知——请立即联系我们！7×24 专业团队，15分钟响应，1小时启动现场/远程支援。时间每延迟1分钟，风险和损失都在扩大。免费远程初诊(30分钟)·15</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=3&amp;sn=8cd6ed52d9433902b9f0c924aa7ada0b&amp;chksm=b0479acb28691b6512c4b5bf72716423952754b35d391ffcc59ed66e672606378bf6996de747&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入浅出 Keystone 框架学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GU7Z2cSK0VVkqRmRTec3xAv1lPINuzMNO6e0mTfEmlnZZBR3aSoUJW7nYXDay1hW5JWP60xL80QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言通过此前的文章，我们已经掌握了两大框架。在逆向工程的工具链中，它们各司其职：Unicorn (大脑)：负责跑代码。它模拟 CPU 的状态流转与内存交互。[原创]深入浅出 Unicorn 框架学</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607711&amp;idx=1&amp;sn=6ca1ef51193a428bbc859ab835b314af&amp;chksm=b0d32a07f12d4bb02b3dc7ecb24dfaf808b8a5004a0481afb9a935bc8b276c6fa793bc780e28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪讲师招募：百万粉丝平台，助你打造个人 IP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FOwWf0VFibBZVeDCDEe0mUBcMvglAicSicXzCUaMM9LSPNMoApI3EQIt73oEmf3plKLNV5p6nX4MhLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代下，网络攻击、数据泄露等安全威胁持续升级，网络安全已成为全球关注的核心议题，行业对优质安全人才的需求日益扩大。深耕网络安全领域20余年的看雪学苑，作为国内最早的安全工程师交流社区，始终以培养</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607711&amp;idx=2&amp;sn=f04e1949cdca723266d3e7383cda04be&amp;chksm=b0da293a1262dc2f23e5407a207f087fe0cf7d711b636f1a684954c0a5e0fe6c3d7a66c9c860&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

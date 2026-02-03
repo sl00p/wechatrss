@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 4 个 yyds 的 OpenClaw 相关 GitHub 项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5I8sSfUdLIql8SrqMAxJCT9ia6w6axg0OwIeM9UI5ic9xCAsLkxEzsTKIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01飞书接入 OpenClaw这个开源项目是为最近那个火出圈的 OpenClaw 做的一个飞书连接器。OpenClaw 虽然能让 AI 操控电脑、跑代码，但它官方支持的聊天软件大多是 Discord</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531078&amp;idx=1&amp;sn=91e40b7860b80bb5f1777a73d064dbfb&amp;chksm=f8f334633e90f65239ce6920053e2145efbe68974fce66ae90eb9e077c2b80da840808e9f570&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这 6 个超神的 SKills，在 GitHub 上杀疯了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6sALlibo6lh0UbdOZTQicTQubicw6NW7CKTjMSnewjxkOMaAHkyLQtyszg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频制作：Remotion Skill不知道大家有没有用过 Remotion 这个开源项目，现在也有 2.8 万的 Star 了。之前我想做视频生成自动化的时候，了解过 Remotion。它其实是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531077&amp;idx=1&amp;sn=6e2f73fdd3300d7dbb8990b06f80026a&amp;chksm=f8fd3e1522d5b207a949e807e0fa2e18eb2bcf07d0e8c7488e3ddfa2271e108e2572d061ea35&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwPz6GHDCOGsYNoWXVibVKTjVA8BfUsfqcyeSoyic5buLxMtlySdaJlKvGA1wf09sbiatldAjTGUNm6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去，如果我们想自动化操作手机，通常需要使用 Appium 或 Airtest 这样的工具，但这要求开发者必须深入了解 APP 的底层元素 ID，比如 resource-id 或 xpath。一旦</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529132&amp;idx=1&amp;sn=0b45b857cfd67f9144472f2017f46a14&amp;chksm=f8d04524c2af856c5b4c8ad3546eb23035f5e6b7be47ac950ac5f607c80608109c238e3abbf4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 15:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 1 万 Star，这个国产 AI 应用开发平台牛啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29BT1SMZQj5hZ9iciaO8WqwDFXUiaUzxdcTKWTq1fyicHe7mTSMzHwiciaXDew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个叫 BISHENG 的国产 AI 开源项目。这是一款主要面向企业的开源 AgentOps。名字取自活字印刷术的发明者：毕昇。活字印刷术为人类知识的传递起到了巨大的推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529110&amp;idx=1&amp;sn=7e8082a7edf28036056c718bac3bd8f9&amp;chksm=f8444be7af5200ebf359901f4fb7b32ba6fd53913136ab31f260ac22c8188702d5b1f7b38b3e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

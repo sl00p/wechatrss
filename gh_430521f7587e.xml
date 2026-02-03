@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux内核社区开始讨论制定“Linus接班计划”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhX5qEPAIWHxN2ACRuoichEuqG9LcBCsPBMwGGb4hP1Eia7XA8jBmCGb5qlucgfaNWcNIibJl51iabyYPhJrDq4sEsTNibib93xAmI6TE/640?wxtype=jpeg&amp;wxfrom=0"/><p>经过 34 年的发展与 Linus Torvalds 的主导，Linux 内核成为全球最重要的操作系统核心之一，其开发几乎渗透到服务器、Android 设备、超级计算机等关键基础设施中。Linus 作</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237460&amp;idx=1&amp;sn=8f75d334c4e0c11906776a97a09463ec&amp;chksm=bf796c46167431529ecf2e6f1ca731855094e727953c1e8c416bf826a7b339671d35a16f5371&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 17:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[姚顺雨团队最新成果：从Context探索语言模型的范式转变]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUtQAv6LtVicrAiaZMAvfgllVLLQq6wpxeWb8V7LfiaPsMfx1Fof0HxDGAfmBy3Zx2d5nQQYoTMhFWgjbo5npBrNZGqE4NBgwNe8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：混元研究博客上线姚顺雨团队最新成果：从 Context 探索语言模型的范式转变“模型想要迈向高价值应用，核心瓶颈就在于能否用好 Context。”2月3日，腾讯混元官网技术博客（Tencent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237460&amp;idx=2&amp;sn=8bc1eb8a4dd8a75f9dc3173953cc5fe4&amp;chksm=bf76db68f81ec2a05179fd6b5ab3dd810539ddf0fc0e8e6b5b19821eaf2fc00735628024bf33&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Feb 2026 17:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Redis之父：编程已实现自动化。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Nd0HAjWgAsYSpa9ZEatLnYGRLE4m8EXeMLOEaia8blg7TiaIPlTDWccwiccgVSqP9yfJ8MxiclkuUVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在我的 YouTube 频道里，我已开始用“自动编程”一词指代借助 AI 辅助编写软件的过程（而且我相信，这个说法很快就会等同于“编写软件”本身）。也许你已经注意到：即便使用同样的 LLM，自动编程的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237445&amp;idx=1&amp;sn=1eb313fc30b1be8fa146424f44d5acab&amp;chksm=bf2a0335a55c5c5375593e911e8e8a22bbe7320f95003f6eaeb0e6fb9b3727ec9c593c0d4bd2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ibX0VVEkvAficiakicic8lB8Nfm69gdCwMWuHsEO6k9acfLfMiblgxCTsib1ibc4cGCLnH3aYqHibicSCXnVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 12 月 6 日，鸿蒙极客私享会在云南大理圆满落幕。20 位来自全国各地的鸿蒙技术深耕者齐聚苍山洱畔，通过破冰交流、权益解读、生态共创、GEEK开发等多重环节，碰撞思维火花，共话 202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235259&amp;idx=2&amp;sn=63c24cdcd146a1873e2af700dacca66d&amp;chksm=bf39a92eaee5d328f034719ac64cbc8aec181f36e722f5edcc683cb3b102ab5fcb0b532f4938&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Dec 2025 15:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[JetBrains下一代轻量级IDE“Fleet”宣布停更]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ibX0VVEkvAficiakicic8lB8Nf08DD0eSnBDUNmWSkSWSbImdzDXoHWcwTFFib07LpVygJYsptQ0BkAjA/640?wxtype=jpeg&amp;wxfrom=0"/><p>JetBrains 发布关于 Fleet 未来发展的最新消息：自 2025 年 12 月 22 日起，Fleet 将停止提供下载。我们目前正在打造一款专注于 Agentic 开发的新产品。如果你之前已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235221&amp;idx=1&amp;sn=aa2c8b5f26e698878a53abb3e3be42b0&amp;chksm=bfc1771792c44544daf86dd20446001cae1b5e1ca5f0a98f658c96b1114f7569ab9622ee1467&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 16:32:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[视觉觉醒：从“看见”到“理解”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8ibX0VVEkvAficiakicic8lB8NfjicvLXtLyM9cyJsgiccnjt7jQhRbiclQIv2SDqWTrkoYUicPdsOwTJQB8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>当机器开始真正“看懂”世界，产业的未来将会怎样？在今天的生产线上，仍有大量依赖人眼的环节——安全规范是否遵守？产品瑕疵是否逃逸？这些依赖传统视觉模型的自动化尝试，常常在复杂光线、罕见缺陷和千变万化的现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650235221&amp;idx=2&amp;sn=67d30137d146c1b3934da4620f609e2a&amp;chksm=bfb58a143187d1f61d45751cffa2f1dc5a4df7e94530f80a059938b8de8bc4c1d3c7cc4b236e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 16:32:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
