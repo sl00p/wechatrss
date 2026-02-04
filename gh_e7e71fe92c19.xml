@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[[PWN] Linux中的pkeys安全机制及绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sNYr5jOY39bUdnuyJZwRGVib7l2r72xMvpGRd0bYWb5XTar2d5IHT65A/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单介绍（Memory Protection Keys for Userspace，PKU，亦 即PKEYs）内存保护键提供了一种强制实施基于页的保护机制，可以快速调整某些内存区域的执行权限，而不是像</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=1&amp;sn=3e33084304fad678da056968ee8b950f&amp;chksm=b0add12d54d3875c097896f243cc75af2304e289e1e6b120bf705713a701deadbeee12dbff4e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[格小密和你聊聊：给AI发“身份证”，到底是怎么回事？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75USM1s9OfoSZHgy9HPo1sTcFdW9MFIIu7bicTRXNic2Bbpv5cgRB0ZAM2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司大家好，我是格小密。最近总有人问我：现在到处是智能助手、自动化程序，甚至还有能自己决策的“智能体”，它们需不需要“身份证”？怎么确认它是不是可信？今天，我就用最直白的话，和大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=2&amp;sn=ef1b7495d3c0aec423178f4089619006&amp;chksm=b06843ed04980eeb4a7bb6dac62835dcb4fff655a79307045bfdd88d0dc3ba46ef2b8694bbd0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拒付赎金！哈佛、宾大百万校友数据遭黑客公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K26UZvM0ua3wGDwVddVEAcyWxgLWNsRW9z1w6R9OaydN6iaibpwIOYSicpKWWx5KibGm0IyZtZsrymfibQCB3ob8VA1ROiajmJd7lnc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心提要：因据称高校拒绝支付赎金，黑客组织ShinyHunters近期公开了据称从哈佛大学和宾夕法尼亚大学窃取的超百万条校友数据，事件源于去年发生的两起社会工程学攻击。01事件回顾：黑客公然“撕票”一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=3&amp;sn=603eae227b6ebe05b740f78d55be1a26&amp;chksm=b00cdd7b568a465b9288d1bcb04cb7824cd5c829b76b5cafecec778ac51ae10da8d8710d4cf6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PageCache详细分析(读写/写回) 基于 Linux 6.12.32版本]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sYb4YrzQOWleDQCjsTERUMt7ULkC3tyRqjxO7SCStB9sN6OF6oHhS8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01核心数据结构FGP Flags#define FGP_ACCESSED ((__force fgf_t)0x00000001)#define FGP_LOCK</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=1&amp;sn=4b7864d52ec24a4ac6a4a701a53b2c94&amp;chksm=b09ca9df70efbba3673934a7d1a84b63dcad73c36756a62e4941c75c560e6db80d4c529ab0c1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JBDJ5nlGUdDRCc5xYqySnDD7MTMQU0MHXicjk6puFXnHH2gL8e27prJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DTrace 是一个命令行实用工具，允许用户实时监视和调试其系统性能，windows的Dtrace是移植其他操作系统的开放源代码的事件追踪平台，从win10的1900内核版本开始集成的，可以借助dtr</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=2&amp;sn=3d1a71c603bd1a873c2a0a55cbc09b98&amp;chksm=b0cf2c1610aa47ea6c2fd46ecfdcc17029d82692e1b7c34a56a6068fbc8f626e63ee4162a7a1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客叫卖Target内部源码，零售商紧急下架并关闭Git服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JAaliazzhBUVNRgXryLNDHbxUcKWkqd57tepewjbdMPX6V6xgJLR8iaPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，有黑客声称窃取了美国零售巨头Target公司的内部源代码，并在一公开软件开发平台上发布了部分疑似被盗的代码仓库样本，以此作为更大规模数据销售的“预览”。据悉，黑客正在地下论坛或私人渠道兜售这些数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=3&amp;sn=9853ea45411c50152c5a871e9d476d7c&amp;chksm=b04bed38e08e932310e60fffa350c6a9e5acf466a468ec92067490b7dad4cb775a6d9472d88f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows SEH 结构化异常溢出分析记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFWpUV4UPDzgFDTfBTcuJhHWVZM7Xk493aRGjO0FOlpc7yO50D65dtkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01概念这个部分是最基础的，一切都先从理解SEH结构体开始这个结构体大概如下：struct _EXCEPTION_REGISTRATION_RECORD {struct _EXCEPTION_REGI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=1&amp;sn=16d8d2064f34c3364bd1fe6960b4dcdf&amp;chksm=b0a228248731a55a985a82067e3a2cdf86b48075db8c807c37a36b6e73efaf1af36303fe262c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[游戏工具变后门？InputPlumber高危漏洞曝光，Linux游戏玩家面临劫持风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Gwk82ibCdjRGWgbJPZbaRQHNxe8bsQ786LlZ7oZAkLBibAiaq5OxiczdMVV1Z48oPLyF8QyyPH8V7jyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款旨在提升Linux游戏体验的实用工具被曝出存在严重安全漏洞，可能允许本地攻击者劫持用户会话或导致系统崩溃。SUSE安全团队发布报告指出，用于在SteamOS等环境中整合输入设备的工具Inpu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607716&amp;idx=2&amp;sn=f5d444c58d3d67312e7d95bbd04251ed&amp;chksm=b0c25851ff5b4886d9dafbcfb2f4ac3977a3f9b2274dc0333dd320a02368a8d6c770392a1385&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

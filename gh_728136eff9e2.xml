@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[解决前端 “复现难”：rrweb 录制回放从入门到精通（上）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuz7xfQn17rLntcSbLJ6zcUJVBAibibbTklY8ZM1DI8QHQTSPKw1OCI8pMHxr5pv9cnn6jXHDK04tkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、为什么需要前端录制回放技术？前端开发的核心痛点之一，是 “问题不可见”—— 当用户反馈 “按钮点击无响应”“页面空白” 时，开发者只能靠有限日志推测场景，难以复现真实操作路径。这种信息差不仅拖慢排</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547769&amp;idx=1&amp;sn=fbe0a87cf11a301696b2b1cdc24fdca6&amp;chksm=fd306453c85f1fa8e97c1d0eb4e4bfab17d1094202eb59dab0d7b396b8907854bb7ebacde617&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于 Agent Skills 的 UI 重构实践：从 Demo 到主题化界面的升级之路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsrCvVjJ38X8TSiaRmBnw7zdibWP48WWX7OPK9ibT4f9iaicmmOCq5LKsich2wasHNibnSpk7uLgpgyquNNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨年终技术征文倒计时4️⃣天，速戳上图了解详情🔍）从一个小 Demo 开始最近正在读《百万富翁快车道》，里面有个观点是通过工作收入 &amp; 投资复利，要实现财富自由需要非常久的时间，于是心血来潮，用 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547758&amp;idx=1&amp;sn=11ef13e5661a70d8f21c9f8bd2075d91&amp;chksm=fdc96003d414eeb69bd135bd8c4eca4cd201bee4966ae1f09b4a0f58d6677ffb9509b480c4c8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuLUAibVQmTX0FM8Y4ibSj1DPY7iaG6WxMKGaJdyib3rDq5Rg1wM1IlJCZxScDCibZZeYb3LXDTyb4VhGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言MCP 火了这么久，不少朋友已经开始写书、做教程，甚至搭建了各种 MCP 资源合集站。 但今天我想换个角度，聊聊我「在日常前端开发中真正用到的一些实用 MCP」。 这些都是经过实践筛选、能直接</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546611&amp;idx=1&amp;sn=bcf67abeb075f98542ba9ac429c85605&amp;chksm=fdcd1bc18ceb3bee697cd7a7a0bcf5a631a60fd0fe7cd374d9ecadb8d053598e3952f3404f3a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我删光了项目里的 try-catch，老板：6]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvVl1G0D9bWddb8NdEAYCI9LDM2hs9MmSPWkorCmbCp1Hb3xoRtJqNZvkV7Ue0P0PRywRps8EnQ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信我们经常这样写bug（不是 👇：ounter(lineounter(lineounter(lineounter(lineounter(lineounter(linetry { const res</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546602&amp;idx=1&amp;sn=bd63eb746ec80933d1d25de0caaae27c&amp;chksm=fd2c850afcd5886defd01abea5183607293c1e3c8c454e62c0a3aaad1c80e00fa4cdfa05f681&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

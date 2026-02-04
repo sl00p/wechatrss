@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[王炸组合！OpenClaw+Skills可以做什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5KYdsibZd32MHwXRTQpcIknN8uWHEqnfTGk9Kg67jeaxAHBGZZibPVCRrhadZOMSiaic0Dqvszcz5uFic50waAlUhyAolkA0oZJ8jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇OpenClaw 发布至今，相信很多感兴趣的同学已经尝鲜过了。腾讯云开发者社区联合腾讯云轻量云 Lighthouse 也带来了可能是全网最详细的一键部署教程和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694374&amp;idx=1&amp;sn=dde9f8bab936caa961e6cf8546e190a1&amp;chksm=eb92a9966d181f5a86e3ba347b825124ecad8ff38f353b3da750bbb303ebb71d645c22607c95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用Go重构C++老系统，一次降本82%的极致之旅]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe9579g8JGNNUMjiaG36BicUxhjpzLTJNR4vRjOicfwVPd8dibVLLAHibMkkrkG2pIrsqhR0f7FNoQjqUibibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景：当“大力”不再“出奇迹”该服务是 QQ 游戏生态中的核心基础设施之一，具有极高的并发写特性，直接关系到用户成就的实时展示与游戏权益的即时到账。重构前规</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=1&amp;sn=9e955e9aec449ec3245339142575cd1e&amp;chksm=eb24e81d394812c48f6e4070478fcfb5f9e0064ab656fdb98f0f26228a6e3d3ab8539bd1b73d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe962R6S9EBQqQVyWF565zHuVM6sgnyzTIdV5L4dk1eiamClXISnzcOWSNxkgFxSmoia0uKj5toWYibkzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 软件工程的“共识”难以建立，没有标准化的表达形式2 软件工程3大待厘清的领域3 第1个脑袋 – 何谓“需求”？4 产品定位 – 何谓“价值”？5 何谓 “用户体验” ？6 从需求到产品的推导</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692695&amp;idx=1&amp;sn=92cb3a8f74aa9b8c436d7f6ca5b8efc4&amp;chksm=eb2ed4e39e88f486d7d813e0bb2e97f9ada0f6e2da6818fd92d1a45b7f5a47e2e7fe43c665f8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Oct 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[以Dify架构设计为例，一篇文看懂AI原生应用开发平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95tXUmlAXxCoCQTVTlm3OpPAx2jAj6QD6vYroaLMr1VnIRIEt0gEsr20AuictR2gFWUQG1ux2CdIVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 平台定位2 核心能力3 系统架构4 AI 任务编排执行引擎5 总结6 展望本文基于LLM AI原生应用开发平台Tasking AI和Dify的架构设计，浅析两者在LLM接入与集成、工具插件扩</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692630&amp;idx=1&amp;sn=c610e480331070a721b7aab7f3e1ca6a&amp;chksm=eb657019c6cdce943837487b00c7ccf8c61ceae6299e46fbd1c663268f6150aad55e39c3bff6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

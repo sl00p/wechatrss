@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[自动化评测的九九归一——评测agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlQB1ExiaA6xhAu42GT3xoHE7gl16Wv0IrRGxmibhniasPiaf5z93Jv9ujHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地统一评测Agent架构，通过让Agent自主学习业务标注标准（如语雀文档），实现评测集生成、自动打分、结果验收与Badcase分析的全链路自动化。背景去年我们围绕商家经营助理场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558178&amp;idx=1&amp;sn=eaa639c6255e7dd20e13f07bc9bf4670&amp;chksm=e85a7edca60782991dbfc7b2cbb91e6fabe38428aa6b68977d584b18b83b73e80020350aa6f7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 原生研发范式：从“代码中心”到“文档驱动”的演进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlcjgiaxa7ls2GGBsOqmTOfDvmZarkuOsZJumkd1QzzvEbx8GmBnDNAFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述在 AI 编程时代，通过 SDD解决上下文腐烂、审查瘫痪、维护断层三大工程失序问题，并提供一套轻量、可落地的人机协作 SOP。0. 前言：让 Vibe Coding 可落地TL;DR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558173&amp;idx=1&amp;sn=a510f5608a758b601b342d7c8920af39&amp;chksm=e8f7631de2174f58a695d786ba5c37f1c019deeee30b60e25e72c08331ca1f1bcc8508fc99ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRBicqengrdhpcvya2cSh5k4dPh8V7L4icSic8XVoibZd2axac4bAsH88Bzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读AI时代下，规则引擎的需求反而更旺盛。QLExpress4 通过全面重构，在性能、可观测性和AI友好性上大幅提升。“都AI时代了，你们这些人怎么还在研究规则引擎？” 无聊时朋友调侃道。QLE</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555192&amp;idx=1&amp;sn=3d3e16c5f0c7c4cb62c14679065827df&amp;chksm=e805a84c2f6cfb83ec163c1c55b07f3b21d9cd23897a688f1870d391239c58c101ffecf14277&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TinyAI ：全栈式轻量级 AI 框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKmXFmxGp8iaXicZz6nibiafA6bOHqSpiaoVwibmTnLrecRdotNlZRcLjenAnlxJ8jWDy4auqRmrLG7F4Gw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个完全用Java实现的全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。写在最前面十一期间，用Qoder体验了一把vibe-coding，喝喝茶动动嘴，将两年前的开源项目（从零构建</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555133&amp;idx=1&amp;sn=8741d992348c64e2df3956c267d7002b&amp;chksm=e854a34166db1fd38989f1b1e3e3898e310e891aca816ce6e468c3180f3b83fbe82a24c8f7e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
