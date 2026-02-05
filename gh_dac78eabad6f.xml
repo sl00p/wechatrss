@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[程序员如何吹牛？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7PXOibSLOR74DSN0681deRu3oTkvLYf0uXTTUGs0iaic8FYOicLAnibbZhLe9eqnZJL3JMIFEYPMYue5PgWCWVbQGwagsAN2kRxJk4/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694505&amp;idx=1&amp;sn=e655f47b4b8ffd53c019345b7cc12a4d&amp;chksm=eb9ff07fdd7f2ec76d18d0acb83a298acf6ffae52e29c2bb15dc88148ee8358a4574a6551c39&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[王炸组合！OpenClaw+Skills可以做什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5KYdsibZd32MHwXRTQpcIknN8uWHEqnfTGk9Kg67jeaxAHBGZZibPVCRrhadZOMSiaic0Dqvszcz5uFic50waAlUhyAolkA0oZJ8jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇OpenClaw 发布至今，相信很多感兴趣的同学已经尝鲜过了。腾讯云开发者社区联合腾讯云轻量云 Lighthouse 也带来了可能是全网最详细的一键部署教程和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694374&amp;idx=1&amp;sn=dde9f8bab936caa961e6cf8546e190a1&amp;chksm=eb92a9966d181f5a86e3ba347b825124ecad8ff38f353b3da750bbb303ebb71d645c22607c95&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>故障来源主要分三类： 1、人为变更（≈80%） —— 业务迭代中代码、配置、上线流程等变更引发。 2、预期内的小概率事件 —— 硬件或网络故障，如磁盘坏、丢包，通常被 BCP 容灾设计覆盖。 3、非</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692697&amp;idx=1&amp;sn=3d5f7737e87794fcee703a1f50c29684&amp;chksm=eb2f7692dd6ae0d5f075889049601a6fc2bfe101b4cb2f3b3595f89795939c0e4a7035a64f27&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 08:19:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文：重构软件工程迷思，搞懂需求与产品思维]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe962R6S9EBQqQVyWF565zHuVM6sgnyzTIdV5L4dk1eiamClXISnzcOWSNxkgFxSmoia0uKj5toWYibkzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 软件工程的“共识”难以建立，没有标准化的表达形式2 软件工程3大待厘清的领域3 第1个脑袋 – 何谓“需求”？4 产品定位 – 何谓“价值”？5 何谓 “用户体验” ？6 从需求到产品的推导</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692695&amp;idx=1&amp;sn=92cb3a8f74aa9b8c436d7f6ca5b8efc4&amp;chksm=eb2ed4e39e88f486d7d813e0bb2e97f9ada0f6e2da6818fd92d1a45b7f5a47e2e7fe43c665f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Oct 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

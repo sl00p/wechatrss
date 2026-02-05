@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近看到的 3 个 GitHub 开源项目，分享一下。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5ItTt0wXRap9niaJ92XKEWE9kDPorx6yhynsRaWRlskiaBdGECCVibuic2TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PageLM：NotebookLM 开源平替PageLM 是又一个开源版的 Google NotebookLM。NotebookLM 最火的功能就是把一堆资料扔进去，它能给你生成播客对话、测验题或</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531080&amp;idx=1&amp;sn=4004c64c145d91fd681a9b96097bdc67&amp;chksm=f8db51a2b4d7aac5bf859b88d28970f0095aaeb928297adc8e38579b021d8ab9e15d8f6ed409&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 16:24:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 6 个 GitHub 上小众但实用的开源项目，收藏一波。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxl9qkTF3lpEhoTC4cK9m5IicnMAghGhzC8qYvMMRfaibbEFFVdJZTIjwnyA85xxh0ZFDosNTcCnkhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01地图海报生成器这是一个基于 Python 的开源工具，可以把城市地图数据转化为极简风格的艺术海报。该项目利用 OpenStreetMap 获取地理数据，并通过 Matplotlib 进行渲染，让你</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531079&amp;idx=1&amp;sn=4b718b1b0fcdcc2582a34318064b1080&amp;chksm=f8c024d3e41507d54009bf0612b24a472a0ed4f222539bc19fb95a3e3d596365b5f74731bb89&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxTQgTgOtiaRoB09ukT5v76wSFduM0eNuWYhUsiaxDaAoibzsblxxhuGcIXmGd7OkwKSN0fQQzwUOiclw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个非常实用的开源项目叫 Deploy Your Own SaaS。它收集了海量的可以自己部署的开源软件，涵盖笔记工具、云盘、在线会议、记账工具等方方面面。而且收录的项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529187&amp;idx=1&amp;sn=50fb04109f21a2bf1e3f195e6a55debc&amp;chksm=f8140958d50f8f7ab1d639da3e37e788e4b45d9877a57c11ef2c9fa2b567a937f76dfdce76fd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 15:47:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29J5eElhnSu49SknJUUnp9hpjzfwl0hVeNiaibcVS5IXblDHAEARpTTicLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01siyuan：个人知识管理工具这个叫 思源笔记的开源项目，肯定很多人用过。在 GitHub 上都有 4 万的 Star 了。它在极致的编辑体验与绝对的数据隐私之间找到平衡点，它不仅是一个笔记工具，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529141&amp;idx=1&amp;sn=ab1bcd47346e13d016f51cdd64213f94&amp;chksm=f8bb25d8500b12f02a05c8474bfd60abaebb5da70861cbc1d2a36a11ccc07999234e5ea5f99b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

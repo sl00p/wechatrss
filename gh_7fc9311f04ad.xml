@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40V1peVicVaYvxh5yrY1CFPh6woibiaCAahtCeLIl6vmjeKBjicyK3K8Gkiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：AI Coding 提升代码质量的关键——知识库的深度建设在当前 AI Coding 快速普及的背景下，业界普遍面临一个核心矛盾：模型“能写” ≠ “写得对”。尤其在高频迭代、强业务耦合的场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558194&amp;idx=1&amp;sn=ece018ca2921b2d51176c37a91bd23f3&amp;chksm=e86e8ab0f12fe2b4689656750d1ee2bc7c221a1fdcbc2e79e767671e7b44bcbf5bbc88f73426&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自动化评测的九九归一——评测agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlQB1ExiaA6xhAu42GT3xoHE7gl16Wv0IrRGxmibhniasPiaf5z93Jv9ujHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地统一评测Agent架构，通过让Agent自主学习业务标注标准（如语雀文档），实现评测集生成、自动打分、结果验收与Badcase分析的全链路自动化。背景去年我们围绕商家经营助理场</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558178&amp;idx=1&amp;sn=eaa639c6255e7dd20e13f07bc9bf4670&amp;chksm=e85a7edca60782991dbfc7b2cbb91e6fabe38428aa6b68977d584b18b83b73e80020350aa6f7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRaGGf37vwU9wXZ2Y6kleITwBY0J7Pt52Acldnp4bLvAUKc8WXq6dzGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、优化效果仅重构一个类，JVM 堆内存直降 2994MB（≈3GB）——从 3205MB 降至 211MB，新结构内存占用仅为老方案的 6.5%。这不是压测数据，也不是理论推演，而是生产环境双写验证</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555256&amp;idx=1&amp;sn=70304b2b14ae559993735d47434d7a5e&amp;chksm=e842040b32cc461484c6577d842eb4d7edaeb724d10141d2119ace4e668647e1da6953936d35&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代，我们为何重写规则引擎？—— QLExpress4 重构之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRBicqengrdhpcvya2cSh5k4dPh8V7L4icSic8XVoibZd2axac4bAsH88Bzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读AI时代下，规则引擎的需求反而更旺盛。QLExpress4 通过全面重构，在性能、可观测性和AI友好性上大幅提升。“都AI时代了，你们这些人怎么还在研究规则引擎？” 无聊时朋友调侃道。QLE</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555192&amp;idx=1&amp;sn=3d3e16c5f0c7c4cb62c14679065827df&amp;chksm=e805a84c2f6cfb83ec163c1c55b07f3b21d9cd23897a688f1870d391239c58c101ffecf14277&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

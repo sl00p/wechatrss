@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Mlr6Ku5zUjIumqAk6ia6bF3WbJTW3jT3sKuCGEMCHenweYBVlc8aGxXDpuceJbglibruteNaLvH9wjBCUN6yKmwxeiaEQ0icGevE/640?wxtype=jpeg&amp;wxfrom=0"/><p>听说第八届“强网”拟态防御国际精英挑战赛一道 JerryScript 的 Pwn 题，抽空尝试做了一下。当时构造出 8 字节的越界读写后，一直尝试利用，但由于 GC 的原因一直没有成功，时间比较短，如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609245&amp;idx=1&amp;sn=e7111d374843bb2c5ae4344177656ea5&amp;chksm=b0dfda8d7cc6b364d7e8f1b92b007931c6f90d7005cf387adc636e1f3f1c6222076a3ce8537a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[格小密：智能体社会，如何一眼认出“自己人”？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75UKQyut3HaplrFU63zcVFOEALI7sKxxjloZLkN3uJLT5xgjHia9SANC1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司大家好，我是格小密。昨天我和大家聊了什么是智能体身份？今天我一直在想一个问题：当未来的世界充满了会思考、会协作的智能体，我们该怎样确认，每一个与我们打交道的“数字伙伴”，都值</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609245&amp;idx=2&amp;sn=433853cf1fa324300da16982acfc9ddd&amp;chksm=b0b00816be4ac6eed12c683695b532eb037d7effcd907c08f8df9da46eb9f3a8cc3f15874eee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1j4glQg8FXeYIUvNhm7UvWZQBcRic707Q9kiaDFstlILhorXQmE2QiceWw5wVdzNxkhCbAdiaWmFqxKd99cDxrLvxrODO90Bc2p5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，备受开发者欢迎的前端PDF生成库jsPDF被曝出两个高危安全漏洞。利用这些漏洞，攻击者可向PDF文档中注入恶意代码，或通过一张特殊图片导致应用程序或浏览器标签页崩溃。安全专家强烈建议所有使用该库</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609245&amp;idx=3&amp;sn=9c72500d0544dd0c5119aee9e839a325&amp;chksm=b0fb26da2736302a5939725b14ac2e2132dfd58c47596afca8e08f1269f5aee3d539c6fd3eab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[[PWN] Linux中的pkeys安全机制及绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sNYr5jOY39bUdnuyJZwRGVib7l2r72xMvpGRd0bYWb5XTar2d5IHT65A/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单介绍（Memory Protection Keys for Userspace，PKU，亦 即PKEYs）内存保护键提供了一种强制实施基于页的保护机制，可以快速调整某些内存区域的执行权限，而不是像</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=1&amp;sn=3e33084304fad678da056968ee8b950f&amp;chksm=b0add12d54d3875c097896f243cc75af2304e289e1e6b120bf705713a701deadbeee12dbff4e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4vdh0aRZiafSEmO32Gy2xhvdgs4y3luhiaW9hu34MHcHET0DyKxITibVAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=2&amp;sn=c19b6cf882e4ef220bac802d3136a28b&amp;chksm=b09f4c212285465fab2942f865b9fe3f6ab0ff6dfcd8dfda2321dfab0350368b7ba501f4b64f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意Chrome扩展伪装交易工具窃取MEXC交易所API密钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4Kdpson4kfpro050BYnkFMSHxpcjCSiaJZ9HXdtibeLwt36UhvOZOIs6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员近日披露了一款恶意的Google Chrome扩展程序，该扩展程序伪装成一种自动化交易工具，专门窃取与全球性加密货币交易所MEXC关联的API密钥。MEXC是一家业务覆盖超过170个国家</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608141&amp;idx=3&amp;sn=f0d641262020efb1748e5902daad1ad9&amp;chksm=b08a3a95305b13500f0abe569aa0eb577b8c876f47f752731002ba1b66586cc9902e72eec6a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《Linux Pwn 番外篇》重磅上线！6大架构全覆盖，异构漏洞利用5h学透]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JSOMSXg8TC48Hp0vjTDTkUr7EoSqqMq1QHc3zCVrVLcunwDiaeZJZiaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=1&amp;sn=5fcf7ec92bff6761d0d98524fa5e166a&amp;chksm=b0be70d8056f3047aeb9b3b60f7eb8cdc27b28e25fed09e8a78d5f1865fd3e3b324d839b69dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[庖丁解牛之——Windows DTrace实现原理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JBDJ5nlGUdDRCc5xYqySnDD7MTMQU0MHXicjk6puFXnHH2gL8e27prJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DTrace 是一个命令行实用工具，允许用户实时监视和调试其系统性能，windows的Dtrace是移植其他操作系统的开放源代码的事件追踪平台，从win10的1900内核版本开始集成的，可以借助dtr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458607943&amp;idx=2&amp;sn=3d1a71c603bd1a873c2a0a55cbc09b98&amp;chksm=b0cf2c1610aa47ea6c2fd46ecfdcc17029d82692e1b7c34a56a6068fbc8f626e63ee4162a7a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

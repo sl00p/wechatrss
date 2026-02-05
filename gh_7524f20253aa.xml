@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibojSqCiaQr3YlDo8DRHcia6kmY7zoh5yql5JWBunmzT6Sic4OdcBRSCiagsic1A3uIBhdmM00wBFI592VmIGdPXYS76mCyGupMWrk/640?wxtype=jpeg&amp;wxfrom=0"/><p>一睁眼，Anthropic上新模型，让Claude Opus 4.6来给您拜！年！了！消息一出，金融数据服务商FactSet最惨盘中暴跌10%，S&amp;P Global、穆迪、纳斯达克公司纷纷下跌，各大指</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=1&amp;sn=891ff82faea84feac5d8284ffe647d63&amp;chksm=bcb8d8a166b8e09d32ceb6e547aa60813771cc08b594cb0fc4facc6165ba6a2e2516a5dbccff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI-Vanguard v1.3：“双模型 + Skill”架构智能安全渗透测试平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2h7PsPNkQlYT58zgj2DwMVvDTd6kEsoOVGb4kcNco1mGuCoKAibtLd38KVCmic2O5wdf97ofkn5QX154BCgmqCFbuG6pjpDHeD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这个版本中，我们对底层架构进行了重大重构，引入了“双模型（Dual-Model）”策略和全新的“Skill 技能架构”，并正式上线了RAG 本地知识库功能。这不仅仅是一次版本迭代，更是向着“自主智能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=2&amp;sn=1e5ec3baba4a0c2e4db7ec5de9ff8133&amp;chksm=bca8a7a7c702460be14eb1f0273ee4d8dd6f56ffba0c4e7d1758b03aaa9de7d6bcfe047b0a9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Interlock利用游戏反作弊驱动0day漏洞，精准瘫痪EDR/AV系统实施双重勒索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbLN2Khl3uxfulmJnFzw1lxRibUCNuwhlDTzia82PHh4CEy8HlIZqRS64IA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Interlock 勒索软件组织已成为网络安全领域一个独特的威胁，主要针对美国和英国的教育机构。与多数采用勒索软件即服务（RaaS）模式的现代勒索软件组织不同，Interlock 是一个规模较小但专注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=3&amp;sn=e1416281a86a4655382c45c54e914419&amp;chksm=bc1de19fc81171a699316f2b5fb41e8340833b17243a8f0d7767d9ccfd21e898c02b81b1d672&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Django高危漏洞可引发拒绝服务与SQL注入攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0qMuEV9a0aRRraGYCghQfaiaP5uSD4sRP13bbicWAwCWFZrgz1H2MBgM9ibiaAib7WNubN4icF5PvHA7jIhjbD4uBf3MfE8GsmLLBz4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况Django 开发团队紧急发布安全更新，修复了影响多个版本 Python Web 框架的六个高危漏洞。这些漏洞涉及三个高危 SQL 注入漏洞和多个拒绝服务攻击向量，影响 Djang</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=4&amp;sn=20741ce322c1778edbc0c50317adf31f&amp;chksm=bc16eff0fbc7b3fb346d5d042c74ab749ef1f552f8dfc63a7ff2c27470b82df3a864ed62ef80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手搓一个“永不掉线”的渗透测试员！Clawdbot+APTP，渗透活儿干成远程遥控流水线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbLSPTUT6NSzicdHffvEicQ9deklh0s1cL5zc10w90bSbseA8ab9JPLWYGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>家人们，你们是不是也这样？每天不是在看告警就是在等资产扫描结果，不是催修复就是写报告，被“安全牛马”角色牢牢套住……最近，我们整了个狠活：把能自己干活的AI智能体Clawdbot（现在叫OpenCla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=1&amp;sn=b06ecf121ba1121dec5954d358642c10&amp;chksm=bc5bc5fa78f67c52b6e6bcc8ec4646d5add5545ab6a9cee643ddc297e12e0fc69e12b76fe076&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibofXkkXsibM0gxKLeZpLUxEug1ZWQnwCdzqib3WsYTPsXJMkl1Z4ePJJovZ9Vun3kWKBAUYGl2SZkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 诗歌竟成AI安全漏洞？25款模型实测本期节目：研究团队重磅发现：诗歌形式的提示竟能突破AI安全护栏！25款前沿模型中，部分攻击成功率高达100%。测试覆盖CBRN、网络攻击等高危领域，Googl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=2&amp;sn=1698ef57ace4b46a44186b6a17d163eb&amp;chksm=bc8fbc2511c10ba8b7db209d1e4ef83ce437d215ccb58a1a56d843b7f12c201ff0a382845ba1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球恶意广告劫持DNS漏洞，日均欺诈百万用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibvArXs5Ss9ObL8Lak7Av352w7Q46svesKjcoJTic0YOGHlCibtosMiaiaHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Infoblox研究人员揭露了一个庞大的欺诈性推送通知网络，展示了薄弱的DNS管理规范与"坐以待毙"（Sitting Ducks）漏洞如何助长全球欺诈广告生态。最新报告详细记录了研究团队如何"黑吃黑"</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=3&amp;sn=4c8b76d11037c2bd994e0cb92fe95e5a&amp;chksm=bc2a5269f1016008a1e08c78c9dba60709470dd1d3fabf8df6c0b964205a16109b28eec3d81e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5款恶意Chrome扩展伪装成生产力工具劫持企业会话]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibxFOsAVvZjZ7ibNx0NTcC9ibv4XAFMJU3hkUrP9fwotkCJXib6JGNv85IwErZeeHiadcukLdBOgciblOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Socket威胁研究团队发现了一个针对企业环境的新型复杂攻击活动。五款伪装成Workday、NetSuite和SAP SuccessFactors等主流平台生产力工具的恶意Google Chrome扩</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334305&amp;idx=4&amp;sn=d86474188eb8d30f9b826c6cc27986fd&amp;chksm=bcec536b20572ece465556a41b52a9198b5b47f6702a3164d2e06af55f10e0b876395a701b00&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌Mandiant发布彩虹表工具集，可破解NTLMv1管理员密码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibofXkkXsibM0gxKLeZpLUxEPdibyXIENCAqIMjA7tBdGibJ9KhbJcG5tD6UicVOjhQq2RiclvMTAVmhAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌旗下 Mandiant 公司近日公开了一套完整的 Net-NTLMv1 彩虹表数据集，这一举措显著放大了传统认证协议的安全风险警示。Part01过时协议的安全危机此次发布传递了一个紧迫信号：企业必</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334254&amp;idx=1&amp;sn=60c1a1f106cdbab728bc207a35262d08&amp;chksm=bc1377b4cf6d743e15b81ccd0061b4466e35d1d6fd99cea8c1345d11b4cbb83ff508ad327247&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客劫持伊朗国家电视台，播放反政权抗议信息]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibofXkkXsibM0gxKLeZpLUxECZawPaoU2mjHuxSgggssaRrYqS4PwN3DKvtxpbg61gtEovE0bic7OwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01活动分子入侵伊朗Badr卫星反政权活动分子短暂控制了伊朗Badr卫星通信系统，通过劫持国家电视台频道播放了王储礼萨·巴列维呼吁民众抗议伊斯兰共和国的信息。巴列维的媒体团队随后在社交平台发布</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334254&amp;idx=2&amp;sn=a122903330cf2f7cee4a66614e1bd1d9&amp;chksm=bc6187892dbafeb7fd0e714c5e25a4d1f6c48d3f213939eb608be72313fe2f7771df71596a38&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
