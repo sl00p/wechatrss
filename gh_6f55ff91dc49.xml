@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 12 Star！把 Claude Code、Gemini CLI 等聚到了一起。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IrwLZlcuu7vakCMN0PSzZzGM8P4hcvMhicQCnuE5BUZibQYOWdLBTjIpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AionUi 在 GitHub 上已经获得 12K 的 Star 了。它是本地、免费、开源的 AI Cowork 平台，对标 Anthropic 的 Cowork，但完全本地可部署、免费开源。Aion</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531081&amp;idx=1&amp;sn=d8eea566ee6444926dba4d85665cc350&amp;chksm=f8b3bbceb3c5d840bcadf2638bfc0a556caf16c055ed8c31d4f29f1ea63aa0686c2159328a9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Feb 2026 15:08:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近看到的 3 个 GitHub 开源项目，分享一下。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5ItTt0wXRap9niaJ92XKEWE9kDPorx6yhynsRaWRlskiaBdGECCVibuic2TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PageLM：NotebookLM 开源平替PageLM 是又一个开源版的 Google NotebookLM。NotebookLM 最火的功能就是把一堆资料扔进去，它能给你生成播客对话、测验题或</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531080&amp;idx=1&amp;sn=4004c64c145d91fd681a9b96097bdc67&amp;chksm=f8db51a2b4d7aac5bf859b88d28970f0095aaeb928297adc8e38579b021d8ab9e15d8f6ed409&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyHp5U6fY1CbYx1Fm9l8cuicVblwgeJTToCrZ08C8aiatGJWwCzRdJflCIMc3WEjoAWBsia5RMLxug4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，DeepSeek 开源了最新的数学推理模型 DeepSeek-Math-V2。最近国外 Gemini、Claude 神仙打架，小鲸鱼又活过来了。这不仅仅是一次普通的模型迭代，根据在国际数学奥林匹</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529201&amp;idx=1&amp;sn=b42685ef5f8e04c56254a71cce7b94ba&amp;chksm=f87772cac99049f271168e5b72fa206f3ac1668f04034e7ac5763f8f995956a2808bbf3caa17&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 项目真给劲儿，搜集了各种开源平替。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxTQgTgOtiaRoB09ukT5v76wSFduM0eNuWYhUsiaxDaAoibzsblxxhuGcIXmGd7OkwKSN0fQQzwUOiclw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现了一个非常实用的开源项目叫 Deploy Your Own SaaS。它收集了海量的可以自己部署的开源软件，涵盖笔记工具、云盘、在线会议、记账工具等方方面面。而且收录的项</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529187&amp;idx=1&amp;sn=50fb04109f21a2bf1e3f195e6a55debc&amp;chksm=f8140958d50f8f7ab1d639da3e37e788e4b45d9877a57c11ef2c9fa2b567a937f76dfdce76fd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 15:47:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
