@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 8 个本周 yyds 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1fNZiauz7cSp0M0lGfEgBx4GCXhVnRQrickp3kvse8iaxuIXVfGgibfzwzYOOPFQBCZ0bgl7knWL8ibaehUoicnORJ5dh5dllTnEeqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 记忆插件Claude-Mem 是一个专为 Claude Code 开发的持久化记忆插件。它能够自动捕获 Claude 在会话中的所有操作，对这些信息进行压缩处理，并将相关的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd&amp;chksm=f86678a8fdb868701036b26024f2c45b2dd68ff5dc25ddb98127ad1468ceb08db22f4604d73d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 12 Star！把 Claude Code、Gemini CLI 等聚到了一起。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IrwLZlcuu7vakCMN0PSzZzGM8P4hcvMhicQCnuE5BUZibQYOWdLBTjIpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AionUi 在 GitHub 上已经获得 12K 的 Star 了。它是本地、免费、开源的 AI Cowork 平台，对标 Anthropic 的 Cowork，但完全本地可部署、免费开源。Aion</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531081&amp;idx=1&amp;sn=d8eea566ee6444926dba4d85665cc350&amp;chksm=f8b3bbceb3c5d840bcadf2638bfc0a556caf16c055ed8c31d4f29f1ea63aa0686c2159328a9c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyHp5U6fY1CbYx1Fm9l8cuic4ibnpZDLnAQZByeWlRktYbzc6fZys9wlibjyu85GH0REou9XK4taiaDAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近又被 Nano Banana Pro 刷屏了。刷推特、公众号、小红书啥的，全都是有趣的案例。GitHub 上有一个刚刚开源的项目，它收集整理了各大媒体平台上有趣 Nano Banana Pro 提</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529202&amp;idx=1&amp;sn=ed32bee1fad70fc6f0277fece9a6bf86&amp;chksm=f8c7025a729642d78e08946472d2f740463f1bba722291f01035e22d34957244b97ccc3630d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 29 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek 最新开源！直接干到了数学奥赛金牌水平。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyHp5U6fY1CbYx1Fm9l8cuicVblwgeJTToCrZ08C8aiatGJWwCzRdJflCIMc3WEjoAWBsia5RMLxug4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，DeepSeek 开源了最新的数学推理模型 DeepSeek-Math-V2。最近国外 Gemini、Claude 神仙打架，小鲸鱼又活过来了。这不仅仅是一次普通的模型迭代，根据在国际数学奥林匹</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529201&amp;idx=1&amp;sn=b42685ef5f8e04c56254a71cce7b94ba&amp;chksm=f87772cac99049f271168e5b72fa206f3ac1668f04034e7ac5763f8f995956a2808bbf3caa17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw与谷歌VirusTotal联手应对AI Agent和Skill安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1SOeqibSyFyHJmQDcq6UGjnj1IkT1d17VO1seu6DU70vIMsC9kviaLWrpUYN3EhXM4k1cQFRl5ET18ibBUUHJibHsb6DGiaKqBe4KY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 宣布与谷歌旗下威胁情报平台 VirusTotal 达成合作，为其 AI Agent 市场 ClawHub 上发布的所有Skill实施自动化安全扫描。这项整合是目前新兴 AI Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334922&amp;idx=1&amp;sn=43bdacc6f54aa089c02d3b886a719507&amp;chksm=bc08422f3191eaaa68fd181728b83dc01e57eda37ab042bbb2d71bc81e08be3d2a913a1d8912&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Feb 2026 14:21:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[n8n自动化平台再曝6个漏洞，4个可致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RMnNXm5aMcGlcoPRbrWDZpP4J1cTzPRbL3LYarIvSCwfStPOnjicqLMXialO5RF8Aotu3ibJSpsVI8e7mQf3icdibaxxn8RZqYph4/640?wxtype=jpeg&amp;wxfrom=0"/><p>用于构建LLM驱动Agent以实现业务流程连接的n8n工作流平台新发现6个安全漏洞，其中4个被评为高危漏洞，CVSS严重性评分达9.4分。以色列云安全供应商Upwind的安全研究员Amit Genki</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334922&amp;idx=2&amp;sn=4b97c2725128a03f8ad421c0b96b5a59&amp;chksm=bc0615e4686cb82ba485fb5d83efe9b2e542bb8172bfb769f5d5e0a7df777e016660e2ff735f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Feb 2026 14:21:23 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：工控系统网络安全事件洞察；软件供应链下的安全治理；攻防演练中的快速打点思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZkYvjOevriamWv1s9EGgcuVlnAt50JuuC8kFCgT6icW3OIP4Ltj1d3FnNsFlXBw8t627DSWP8ic0ZBrtXdX3y4ib0rsPpBM0z6ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>“微信红包封面”钓鱼链背后的黑产图谱；CISA红队对美国关基部门的安全评估。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334922&amp;idx=3&amp;sn=7a6469bcae8252b90ca09ed607795288&amp;chksm=bcec4853e36d4f344fbe6ed0ac9c66ef09796afe7f482c59b1c1253b808dd73adb35d8ef4ee2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Feb 2026 14:21:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软开发轻量级AI检测工具，一键扫描大模型隐藏后门]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2FI3c3icCYrtLRbZ16blAxYsoI7f3EiaTm7kE2rlCvjLap0HXXL9ib1MpAY8hRCb2WkAnVJ0gYaspwNmssJaz9mALzwF1jWtFLibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软周三宣布开发出一款轻量级扫描工具，可检测开源大语言模型（LLM）中的后门程序，从而提升人工智能（AI）系统的整体可信度。该科技巨头的AI安全团队表示，该扫描器利用三种可观测信号，能在保持低误报率的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334895&amp;idx=1&amp;sn=e6b2d1fb3e55412299cee92861f90a8e&amp;chksm=bc0c0eef41a302cfc7b0ded8e8900cec77a340484cdc0b6fb70904d2fc68bc1860d2054242a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39MKEia5CfQdLnb2HVG8avhtl3X5dQaFTaicA56QMFpn6dfkWhS088fn6pZoibDiaOfBelhcxhy4bPt4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全领域迎来了危险的新篇章——研究人员发现了首款几乎完全由人工智能构建的高级恶意软件框架VoidLink。与以往黑客利用AI制作简单恶意工具不同，VoidLink标志着威胁行为者已能借助AI以前所</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334373&amp;idx=4&amp;sn=28a1aed0484b3f17b16e2d8d42f0d64b&amp;chksm=bc73b2a241402e615b88f5ca2526bd9202960db621de1a5c7e147b3c8c65da17d218af37e891&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[东南亚120亿美元Telegram非法交易平台“土豆担保”停止交易]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2vibPdAtOuf5BMz8HhxtWLGyTGWqV9UrE6os2Itms97SjlGdCicsPpWerA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01东南亚大型非法交易平台疑似停运区块链网络安全公司Elliptic报告指出，东南亚地区基于Telegram的大型非法交易平台"土豆担保"(Tudou Guarantee)已停止其公开群组的交</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=1&amp;sn=b70aaea5cc3c028b416737b4a129975b&amp;chksm=bc8e76da4d32c7085533b146256753c28d4e91bbe9306e1ca89af5810128b0d946acc8fade18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2viaHQh30Wn40p7V5AZENd7Kqj86HME1aWWSma5dibSDIL2cShV6jjgX2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cloudflare Web应用防火墙（WAF）存在一个高危0Day漏洞，攻击者可借此绕过安全控制措施，通过证书验证路径直接访问受保护的主机服务器。FearsOff安全研究人员发现，针对_/.well</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=2&amp;sn=da57f9930955ca08f55436ad9db4a5a1&amp;chksm=bc5e601b2ff02953fd235257dc584292d32bf200cc53a5ff771f9dad422248f37ed04cb6988e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic官方Git MCP服务器曝链式漏洞，可致文件访问与代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqicrdic5icku8cXyORbJUic2vB7hUSwNpSDjTV4Ckx67MW5uceDMchN9ibWW0vRLbdR7qdUAOLicpT77A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic PBC的官方Git Model Context Protocol（模型上下文协议）服务器存在多个安全漏洞，可能引发任意文件访问，某些情况下甚至能通过提示词注入（prompt inj</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334345&amp;idx=3&amp;sn=3be4f099d58260eb35fcdd86fb125e42&amp;chksm=bc738a9f36ce5524329e1d2d85883232b2e65c713af0264d0163bbabe4829910ebe2c9880218&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
