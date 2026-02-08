@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 AI 操纵手机的 GitHub 项目，支持 OpenClaw 干不了的活。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0vyX7DiaCnvjoGoeB8Bh21lmyOLmGDOuKxDxI9jPVDUZQPmv1ibAtdOCJLdekdWX42WrvaFe1Y1tRQL2tyAkLkB3Ls81mibOJ2wI/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近开源项目 Clawdbot 很火，现在叫 OpenClaw 了。各路开发者通常把 OpenClaw 安装在家里的一台 24 小时开机的 Mac Mini 或者闲置电脑上。通过手机上的 WhatsA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531216&amp;idx=1&amp;sn=6e6433f6845e8ab424f7631c234c4729&amp;chksm=f814fd3ba385c63cba83ae45478a3271a51215641f1a2470edc338badf6d7f0ca9b87022e3b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 8 个本周 yyds 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1fNZiauz7cSp0M0lGfEgBx4GCXhVnRQrickp3kvse8iaxuIXVfGgibfzwzYOOPFQBCZ0bgl7knWL8ibaehUoicnORJ5dh5dllTnEeqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 记忆插件Claude-Mem 是一个专为 Claude Code 开发的持久化记忆插件。它能够自动捕获 Claude 在会话中的所有操作，对这些信息进行压缩处理，并将相关的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd&amp;chksm=f86678a8fdb868701036b26024f2c45b2dd68ff5dc25ddb98127ad1468ceb08db22f4604d73d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxNgWAJP1vJ4ccmiaicGt4Q94Ch6ic5TW8FMq0HyyqHJgkrnU5Rla7XYGUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01小红书采集神器这个叫 Spider_XHS 的小红书爬虫神器，已经在 GitHub 上获得 3000 多 Star 了。它不仅是一个爬虫工具，更是一套小红书全域运营的解决方案。这个开源的小红书数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529260&amp;idx=1&amp;sn=5780da74dfd03575149b541c779cb0b6&amp;chksm=f806fdf9f4531f4ecba97a15fe74992e38803716ccc296959a4914097a1eb47c41eaae3d79ff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 30 Nov 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 项目整理好 Nano Banana Pro 超火玩法。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyHp5U6fY1CbYx1Fm9l8cuic4ibnpZDLnAQZByeWlRktYbzc6fZys9wlibjyu85GH0REou9XK4taiaDAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近又被 Nano Banana Pro 刷屏了。刷推特、公众号、小红书啥的，全都是有趣的案例。GitHub 上有一个刚刚开源的项目，它收集整理了各大媒体平台上有趣 Nano Banana Pro 提</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529202&amp;idx=1&amp;sn=ed32bee1fad70fc6f0277fece9a6bf86&amp;chksm=f8c7025a729642d78e08946472d2f740463f1bba722291f01035e22d34957244b97ccc3630d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Nov 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

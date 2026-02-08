@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[栈迁移的一次小小总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K129tWv6ZM8o7MS8CH9hnKLPvmGN5FcgkbNllliaPFIPvlphic9gnoS9JQibshecmcYzKn3qFzwicdHK20UD1oIiciaeCZdQibXx5YUx8/640?wxtype=jpeg&amp;wxfrom=0"/><p>基础知识这里借用ctfwiki的介绍：https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/fancy-rop/栈迁移（stack pi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609463&amp;idx=1&amp;sn=71a4da9b5c12dd3e82d8444710350599&amp;chksm=b087dfaae61c5cb7fe8aff77eb9cf120322388e034c41e5062e68010c6c181a688ba6949e6e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当AI智能体成为“同事”，我们该如何信任它？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75UVaJoZR9y9WSJLbmsngVYx1jONDVal45V7356yXicY65Pia4oR3yv1tPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司今天在格尔研究院，我和同事们一直在讨论着一个有趣的变化：越来越多的AI智能体（你可以理解为能自主执行任务的智能程序）正在进入企业的核心业务，成为我们的“数字同事”。这带来了一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609463&amp;idx=2&amp;sn=fc9be5b1d5c9cd8e676ff4196a09ae3e&amp;chksm=b00aa7bf29d9d5b5f70d8fff6e41242a69d8d181cf66a31d461ca76e1b44c675eac7769a6d6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“天降横财”变闹剧：Bithumb误发62万枚比特币，用户刚到手就被追回]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3QIhNahVTePovcV4c0rwsvpC4ULLiaBknLlEMyAsKYxom08ibGV1Qicu1G8HeiayooLNuYnxhibqE8FjdcsXEhjRmcngKFe65XlN8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>韩国知名加密货币交易所Bithumb近日发生一起重大系统操作失误，在促销活动中误向用户发放巨额比特币，一度引发交易平台价格剧烈波动，随后迅速引起监管关注。事件经过2026年2月6日，Bithumb在一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609463&amp;idx=3&amp;sn=9aa911a482dc8f3fc7c0a750f4ed3819&amp;chksm=b07d84a7e7ddefba7a40aa17001e74db8e72a52bf2d85e1fcaa699e11fd7c44b42db2113e70f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[量子安全 quantum ctf Qlotto Hack the box]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2NvxwiaXLH1Cn1cZp00H1KfxJp8gbPmQpdk0abnoIxz3UZoriaIxkIeofTpZEibSK0ettfbGXdtSU5ArcTSfsWxClI1UII00PR8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01代码分析server.py首先，拿到了一个server.py文件，我们先来分析代码：这道题也是一上来是定义了一个类，然后引用了包和设置aerfrom qiskit import QuantumCi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609298&amp;idx=1&amp;sn=acff6ef187e123da88d53a12f91fe82f&amp;chksm=b0edc8f619581441e3e9c98e656e0a11a4acd6080d559a2d9138a82fc138e6bef78f7ce77509&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EmicqFmoHrFJhE0olONerj9xvcVQL8Z4O8KVTQuB7Tic3kPibD5LIsciaOS97ISthUkOyLeAFUB5vlZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员于2026年1月6日首次发现一种名为MonetaStealer的新型信息窃取恶意软件，该软件正通过伪装文件和社交工程手段，积极针对macOS用户发起攻击。该恶意软件伪装成名为“Portfo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608285&amp;idx=3&amp;sn=bcf75ac95b99ec2afbbf0b7d91260814&amp;chksm=b03b9c4d7477c53941529d544392d98c64f018e31adb71fa75cd65aab3a5e65037bcaf4fb6f5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hitcontraining_heapcreator]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Fv6AKzlMQkfRpWPNibEapJdYzgerd2SI40Z13K6g0z1b4WFsD6IRwnj9Gfe9WiaNBTR3BrvDeV9DmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>看保护Partial RELRO表明got表可写：看idamain函数可以看到是菜单题，有四个功能：intmenu(){puts("--------------------------------")</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=1&amp;sn=69e1e079dae6eabec82f6c742511a9a8&amp;chksm=b0cb7eb35b4bd75519561f0d1ff0ca2163a9a34b80d3e0f0527b0434cb1e21be733d4dd5127b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Palo Alto Networks 紧急修复高危漏洞，攻击者可致防火墙瘫痪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HG09guKdbiaf5tFhj3NV64Igt4vJuZTQK2S6yudjEMbf2R9dr2SsicWUbsFO9h3MZhwOo5RtrqVs9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks 近日修补了一个高危漏洞，该漏洞可能允许未经身份验证的攻击者通过拒绝服务（DoS）攻击禁用防火墙防护功能。该漏洞编号为 CVE-2026-0227，影响到运行 PA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=2&amp;sn=a74eb8d323b5228da92136491333e075&amp;chksm=b0d658105983457866e9e6d456295d87beaabb630df966d34ce1f28009d0e2e3c8a9208875ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[顶尖硕博战队亲授！30小时系统攻克CTF密码学，从入门到精通]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608278&amp;idx=3&amp;sn=06b520dbf347d968f45fee13ae443a0c&amp;chksm=b00bbab5bbef7c5f3bc23ba8e34e347559e5aedae2f9c256f7eba1afa05bc894c5bbfe5d2248&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

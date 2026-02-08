@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[借助 AI Coding 快速打造 AI Agent 系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40jaC2rjR5Bt5wzsnhDvxHXKulVpDxwyrcL5XJFjdCcGEVq4jszicglCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在AI驱动的电商运营时代，如何让运营同学通过自然语言快速生成个性化购物场景，并自动关联优质商品搭建会场，成为提升运营效率的关键问题。购物场景生成AI Agent应运而生，通过智能化的场景生成和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558316&amp;idx=1&amp;sn=6a53c77fe9bdb8b35a1d513897c4a472&amp;chksm=e8c3325ad96be03a903d3273b57f73e21929e6fd0083169f37e1f03de45a93293e539dd867f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40V1peVicVaYvxh5yrY1CFPh6woibiaCAahtCeLIl6vmjeKBjicyK3K8Gkiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：AI Coding 提升代码质量的关键——知识库的深度建设在当前 AI Coding 快速普及的背景下，业界普遍面临一个核心矛盾：模型“能写” ≠ “写得对”。尤其在高频迭代、强业务耦合的场</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558194&amp;idx=1&amp;sn=ece018ca2921b2d51176c37a91bd23f3&amp;chksm=e86e8ab0f12fe2b4689656750d1ee2bc7c221a1fdcbc2e79e767671e7b44bcbf5bbc88f73426&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIL4icxPlCZgWGQjUrrPSibOpD21Jdzs3bqT7hA6WGslTszTHSM3jFPOr8B5tcd427QdJeC7TSyGPkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>零、一句话概括借助 Aone Copilot Agent，通过精心设计的 prompt 指导 AI 进行测试用例的自动化生成和代码修改。从实践来看，AI 代码采纳率约 50%，要获得更好效果需要持续优</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555282&amp;idx=1&amp;sn=736db5cd8e22ab829b135721b8a2c49e&amp;chksm=e80dc57bb888185c8d4736c68e80b7286c84e4f41b1e54a028fd0a5d5dbc900f04fe1b985af1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重构一个类，JVM竟省下2.9G内存？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLRicLWxMG0FDycuXbsnk1iaRaGGf37vwU9wXZ2Y6kleITwBY0J7Pt52Acldnp4bLvAUKc8WXq6dzGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、优化效果仅重构一个类，JVM 堆内存直降 2994MB（≈3GB）——从 3205MB 降至 211MB，新结构内存占用仅为老方案的 6.5%。这不是压测数据，也不是理论推演，而是生产环境双写验证</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555256&amp;idx=1&amp;sn=70304b2b14ae559993735d47434d7a5e&amp;chksm=e842040b32cc461484c6577d842eb4d7edaeb724d10141d2119ace4e668647e1da6953936d35&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
