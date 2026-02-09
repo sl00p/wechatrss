@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【新课】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=1&amp;sn=17ea9d9c0fd30d1caa7e7e38bc17f96e&amp;chksm=b0749445b9b5ea2bc3f786166413d027288e0b1ff0b64aeef674b4803e38cd35929a6c1984d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[经典 Frida 检测 libmsaoaidsec.so 绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2icCQ5ru8upJVGkibdZZ8ibCQ6QByTibottNqQKtc1CNIEJWvsXNLKPNzkcHiaicQkSJwOfOCZx3mdvuNWlX9goDJu8cvw65dE5m5ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>01定位检测源：追踪 SO 加载流程在面对 Frida 检测导致的闪退时，首要任务是找到是哪个 SO 库触发了检测。通常，反调试逻辑会在JNI_OnLoad 或.init_array中执行。如果 Ap</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=2&amp;sn=f950d89d8d9fceaee897996e349afddf&amp;chksm=b0f311083b1d89c6cc0c3b882cd75dfd0761de4d7451612538e1e0e9b8d0eef0fd7ec5fd15ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Axios 曝高危漏洞，可致 Node.js 服务崩溃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3VYg9iaQMaW62l9O1mmLNicwumwH6XCuuWjwOZKBpCJz2eQdWmQCPR4b7VPksqKAr42ibYJl6heW21zAz8w6BRj9bT6VmpNxcOjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，全球广泛使用的 HTTP 客户端库 Axios 曝出一个高危漏洞（CVE-2026-25639），CVSS 评分为 7.5。该漏洞存在于核心配置合并函数 `mergeConfig` 中，当处理包</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=3&amp;sn=585c9c3a555a370d3cf0d7e0264abe4c&amp;chksm=b0c049b9fc15c73641e20ea2f54655aca02cab8e8ad8e5810d1b11cddc45a648d6fb44625a2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[栈迁移的一次小小总结]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K129tWv6ZM8o7MS8CH9hnKLPvmGN5FcgkbNllliaPFIPvlphic9gnoS9JQibshecmcYzKn3qFzwicdHK20UD1oIiciaeCZdQibXx5YUx8/640?wxtype=jpeg&amp;wxfrom=0"/><p>基础知识这里借用ctfwiki的介绍：https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/fancy-rop/栈迁移（stack pi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609463&amp;idx=1&amp;sn=71a4da9b5c12dd3e82d8444710350599&amp;chksm=b087dfaae61c5cb7fe8aff77eb9cf120322388e034c41e5062e68010c6c181a688ba6949e6e4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JSOMSXg8TC48Hp0vjTDTkUr7EoSqqMq1QHc3zCVrVLcunwDiaeZJZiaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608286&amp;idx=2&amp;sn=7fd1e909b4d0028bd9862ac4a28c8619&amp;chksm=b0f95ecde322a9bb436c3411fa882a35b5bf7deff3a553e95337564bc32f033945c3797e9c4c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 17 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Swift 逆向——授人以鱼不如授人以渔]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EhX3LXAfz6BiaBJjnTttFFFHYXGWxX8gkcC4KghYn9Eic3ibbt0RBaTqNLLZfOZc3ZgrQGiaibqNiazPag/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Swift String 底层原理Swift 源码地址https://github.com/swiftlang/swift/tree/main/stdlib/public/coreMems 工具下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608285&amp;idx=1&amp;sn=aee4153763a6c4b7f48d32158d1ed396&amp;chksm=b09e4a283fc3d2c67fde42c4b0fa8055e60b905c45162f2e82eb29299427855781609f30a675&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今晚20点直播 | 想挖IoT漏洞？这个Tenda 0day案例你不能错过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4vdh0aRZiafSEmO32Gy2xhvdgs4y3luhiaW9hu34MHcHET0DyKxITibVAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>﹀﹀﹀</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608285&amp;idx=2&amp;sn=26ef1de70e528ff6d82da8c6ef3280ba&amp;chksm=b07bb5f495707da42f860c643a1978b9d832a906d84c8ead4bfe072f87b41aef4eb3955fed15&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI代码驱动的MonetaStealer窃密软件正瞄准macOS用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EmicqFmoHrFJhE0olONerj9xvcVQL8Z4O8KVTQuB7Tic3kPibD5LIsciaOS97ISthUkOyLeAFUB5vlZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员于2026年1月6日首次发现一种名为MonetaStealer的新型信息窃取恶意软件，该软件正通过伪装文件和社交工程手段，积极针对macOS用户发起攻击。该恶意软件伪装成名为“Portfo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608285&amp;idx=3&amp;sn=bcf75ac95b99ec2afbbf0b7d91260814&amp;chksm=b03b9c4d7477c53941529d544392d98c64f018e31adb71fa75cd65aab3a5e65037bcaf4fb6f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

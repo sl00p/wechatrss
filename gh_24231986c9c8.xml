@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[BSave - 数据切面工程在字节的大规模实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefkK2xSwic2YAVEJrc0BibAjeelK2hTmKJYfX1HpeChiama3FY8ibQTMDFEumBF3zZK4nop50q9ZJohxicOjibmXO9864TvLQs7VRrks/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言数据切面工程（Data Aspect Engineering），是我们团队在字节跳动内规模化落地 BSave 后总结出的理念，其核心思想是在数据存储的边界引入对业务透明的操作层，将原本需要业务关注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518512&amp;idx=1&amp;sn=3c192e3b47c6080d15a0d9adeed89040&amp;chksm=e8275ef029943c2b7d55839e56340d1ab6a3dbca49954e23af5ef0b50b8efc88597a7292c8ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当 OpenClaw 内置 LanceDB：为个人 AI 智能体打造超强长期记忆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fed32xHEMHbSSLjbpRBU3nFTAiaiayQHic9UlDXUxhr0vaib7qFqVmibCkdfX7w25XwuDqopnrFqic3uDQYS5RWnDuB5HmsabW8nbsx88/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw （原名 Clawdbot/Moltbot）是当下超级火爆的（截止目前Github Star数 161K）、开源、可自托管的个人 AI 智能体（Agent）框架。其官方唯一实现的第三方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518417&amp;idx=1&amp;sn=27cf117f0487cff41839aaaaf4de2545&amp;chksm=e8cea7dd70ae254522df5dfd53737b8774cbd48222312870c6926a47bffd3eeb136fcab8ae90&amp;scene=0&amp;xtrack=1#rd</link>

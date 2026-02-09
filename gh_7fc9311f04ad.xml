@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[别再让语音机器人“答非所问”：AI Force任务型语音对话技术总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1VmsZnicicfz6xwf9v3cyiaD3iaCjibSadabD6juqhAQMbnSicfgrcmFcFiavZ4akgr72UswO0wF2KaQPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文围绕企业级任务型语音 Agent（如营销、催收、教培等场景）的核心挑战，提出：要让 AI 语音助手真正胜任“真人小二”角色，必须同步解决 “拟人化” 与 “专业化” 两大维度。背景AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558288&amp;idx=1&amp;sn=1e34f7eae3421e09e8f2f78baeb5f066&amp;chksm=e8b362a72bf70c710814f06afe264898e69e83bb631d25d437d07462de2ea6789d31ac8acf12&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[借助 AI Coding 快速打造 AI Agent 系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40jaC2rjR5Bt5wzsnhDvxHXKulVpDxwyrcL5XJFjdCcGEVq4jszicglCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在AI驱动的电商运营时代，如何让运营同学通过自然语言快速生成个性化购物场景，并自动关联优质商品搭建会场，成为提升运营效率的关键问题。购物场景生成AI Agent应运而生，通过智能化的场景生成和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558316&amp;idx=1&amp;sn=6a53c77fe9bdb8b35a1d513897c4a472&amp;chksm=e8c3325ad96be03a903d3273b57f73e21929e6fd0083169f37e1f03de45a93293e539dd867f4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJpdGoibibVr2haZJJ9RLNPnQ5rlygn3XcGFEoU8K29Mw9PSPkqiaxUkqhpjuox3bBnOrjq1uGkevYgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目组｜饿了么DIC算法与搜推算法团队引言推荐系统作为互联网时代连接用户与信息的核心技术，正在经历从传统协同过滤向多模态智能推荐的重要变革。随着深度学习技术的快速发展，特别是大语言模型和多模态预训练技</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555312&amp;idx=1&amp;sn=69b0b21376ebed84fc230f0758e77a4c&amp;chksm=e80f4987dc8343360c1f828d8befb0092d652bc1dacfb0f97c406fa82180aad0ca220fe63898&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码采纳率如何提升至50%？AI 自动编写单元测试实践总结]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIL4icxPlCZgWGQjUrrPSibOpD21Jdzs3bqT7hA6WGslTszTHSM3jFPOr8B5tcd427QdJeC7TSyGPkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>零、一句话概括借助 Aone Copilot Agent，通过精心设计的 prompt 指导 AI 进行测试用例的自动化生成和代码修改。从实践来看，AI 代码采纳率约 50%，要获得更好效果需要持续优</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555282&amp;idx=1&amp;sn=736db5cd8e22ab829b135721b8a2c49e&amp;chksm=e80dc57bb888185c8d4736c68e80b7286c84e4f41b1e54a028fd0a5d5dbc900f04fe1b985af1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
