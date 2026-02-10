@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Fluss在阿里双11万亿规模场景下的落地实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUFVYntYEL4sHkgPibZeicAdQ5rAQUubMeUg2WJjzkdHkYUL7WicMnO5mpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文整理自阿里采集分析平台工程技术负责人吴宝国（木深），在 Flink Forward Asia 2025 城市巡回深圳站中的分享。这是2026年的第6篇文章（ 本文阅读时间：15分钟 ）01前言：从</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509154&amp;idx=1&amp;sn=11652959f94704b4604b429b996e7bfc&amp;chksm=ce5bebf4d8597d1d7c7a7dc8c66482dd861bb8c4277ad0c5b6448267f51263609bb4e872acb7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Zvec: 开箱即用、高性能的嵌入式向量数据库]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUoVSe2HkLPZxsnsqAZ0OYs7pz50k34WgloqMals9HhsjCClCsRP5sEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 5 篇文章（ 本文阅读时间：15分钟 ）Zvec 是一款类 SQLite 的轻量级嵌入式向量数据库，专为终端侧设计，具备开箱即用、资源可配置、极致性能以及多样化向量能力四大核心优势</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509153&amp;idx=1&amp;sn=715acff1350136af1654b2400718b653&amp;chksm=cea0fd3416e1ad825dbf34ab75e152a87d1d3c7301dec5160d0bce02ec583490ddac2d28a909&amp;scene=0&amp;xtrack=1#rd</link>

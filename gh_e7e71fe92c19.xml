@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[初探Android Linker 动态库SO的加载流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2rjLBRdod6eVGrP6o17fEJD5atQxnrWtpVEr7LWOjs0aiaDXEWccicNeAbKM5A6rwcqAFon3QCTHEuCTtn4P0pphZXoQb2YsaEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>建议学习过ELF文件结构的再来读这份代码，这里推荐读完《程序员的自我修养——链接、装载与库》，以及《ARM汇编与逆向工程 蓝狐卷 基础知识》的第二章知识，然后再来看，这一系列文章。从这篇文章开始，基于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=1&amp;sn=53539e2ea0d4c3eda68e915de51d27df&amp;chksm=b0296ae2c711ceec5ebc4959054749094ee3525989bc12407cce076b50eff405fae3ce87e3e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[紧急修复！Windows 记事本漏洞可致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0lPY0A31GdgCrTSiaOMDgGXaAHO4sFkDPCDvWFefwSib9W7Rwm9LKmD6oeibL52qcG8nibB2x8U6ekgC2vVNc2EsJSUVszOEmwsyY/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软于近日修补了 Windows 系统中的“记事本”（Notepad）应用中的一个高危漏洞。该漏洞可能允许攻击者通过网络，诱使用户打开特制的 Markdown 文件，从而在受害者计算机上远程执行恶意代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=2&amp;sn=80d56bc5de67e2fddbdb31d16d97a8c6&amp;chksm=b0cdf4e9de8e17169911c2456ab225b94f241c0c2936d407eb11ecef50bcc391ff8f9a5a8d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无名侠主讲 | 7天打造 IDA 9.0 大师：从零基础到逆向精英]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=3&amp;sn=f8830ffeb61eef9a70791add28954008&amp;chksm=b08fddb93d1993eab97812bf99d8b1bc7147c54e3f0a836d10e97b1a798e85818f5a72928f6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【新课】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=1&amp;sn=17ea9d9c0fd30d1caa7e7e38bc17f96e&amp;chksm=b0749445b9b5ea2bc3f786166413d027288e0b1ff0b64aeef674b4803e38cd35929a6c1984d9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJCOhyoZXcjNWLBYhpqVK63qgT05KGpNic4iaDYY3FLpJ3cZq11qI1D7zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>GNU C 库（glibc）维护团队近日披露了两项高危安全漏洞，涵盖堆破坏与信息泄露两类风险，波及绝大多数 Linux 系统。其中一款漏洞的存在时间可追溯至 glibc 2.0 版本，跨度长达数十年。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=2&amp;sn=db978609e85f81923fdb2003165acdb3&amp;chksm=b0b926667e7b97e6ecbbe366472ed11d7b5f01c21fabf4c483fe2ce285c6569124eed60adbd3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周更新3课时！《零基础学习网络安全》：大佬手把手教学，不怕学不会！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G1VoewWmfN1y7Ka2ibhgAwlFia4a8m3U1f6iaicxp5CnsvZ8NTuS40yGPEIMBEDGF40wedrLMYrBLrmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想踏入网络安全领域却不知从何开始？担心没有基础学不会？现重磅推出《零基础学习网络安全》课程，技术大佬手把手教学，助你从零搭建知识体系，掌握核心技能，轻松开启网络安全学习之旅！本周更新课时5：XSS-L</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=3&amp;sn=47f8edb048ac95ca1fa9a28f99d11fe5&amp;chksm=b06f4ad4b0cea96262a16c35b50f559eab9bac627e958535ea1158aff260f7fad1cae8fe4d29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入浅出 Unicorn 框架学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FD1pneCxSgArF1z67m1qz4SlG8ialrIkk9xqAWc3maxzqBbEy7UxPMeCy4x6GJF0CAd5VHwSN06Uw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01简介Unicorn是一个基于 QEMU 的轻量级、多平台、多架构 CPU 模拟器框架。相比于重量级的符号执行框架（如 Angr），Unicorn 虽然没有内置 Z3 约束求解器，但凭借其极致的性能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608286&amp;idx=1&amp;sn=d19eb37d23dcccd5ec414a18a15e648b&amp;chksm=b09d5ebafe50df50e3fe352de873c43cc15f4d9963f3bb9faff1215e2ad61a0ae858108894e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别 x86 局限！ARM/MIPS/RISC-V 全架构 Pwn 实战课]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JSOMSXg8TC48Hp0vjTDTkUr7EoSqqMq1QHc3zCVrVLcunwDiaeZJZiaYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608286&amp;idx=2&amp;sn=7fd1e909b4d0028bd9862ac4a28c8619&amp;chksm=b0f95ecde322a9bb436c3411fa882a35b5bf7deff3a553e95337564bc32f033945c3797e9c4c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

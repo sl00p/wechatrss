@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当我们谈论 AI 推理的 KV Cache，我们在说什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2CfuylnMY692zUWUIY18kEbca2M1j0B8V7J3PSH0nXo0V1TCOKXWkhGYkMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文以《Attention Is All You Need》为起点，深入浅出地解析了 Transformer 架构的核心思想与技术细节。一、Attention Is All You Need</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558315&amp;idx=1&amp;sn=836e95d31ae6e6927b0fa829a7bfcc3d&amp;chksm=e88b5bef12f690c970d5e6ed2b41c9367c35753cb893fe4436cc4355af790a0e5d2f02a2e5a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别再让语音机器人“答非所问”：AI Force任务型语音对话技术总结]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1VmsZnicicfz6xwf9v3cyiaD3iaCjibSadabD6juqhAQMbnSicfgrcmFcFiavZ4akgr72UswO0wF2KaQPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文围绕企业级任务型语音 Agent（如营销、催收、教培等场景）的核心挑战，提出：要让 AI 语音助手真正胜任“真人小二”角色，必须同步解决 “拟人化” 与 “专业化” 两大维度。背景AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558288&amp;idx=1&amp;sn=1e34f7eae3421e09e8f2f78baeb5f066&amp;chksm=e8b362a72bf70c710814f06afe264898e69e83bb631d25d437d07462de2ea6789d31ac8acf12&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI4wukLHsIGET73hnWbdwqLZ5iaGeic3Q0iaLy0SkkFJy8iadupdcLORWBZlkQtwQFccse1a1G1Ak843w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜残风、栀七、荀易、辉酱在探索 LLM 应用的过程中，LLM作为 Agent 的"大脑"有着无限可能。其中，"代码编写"已经成为了少数几个成功大规模落地的场景之一，这让我们不禁想到：既然 LLM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555366&amp;idx=1&amp;sn=28392d99d449935875c0be2d02ead515&amp;chksm=e8f068908021b46c6793e74bc4025e5ae0d382d40b4ae1f24082b1746deb7f90addbf7fa6521&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么说多模态是推荐系统破局的关键？来自饿了么一线的实战复盘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJpdGoibibVr2haZJJ9RLNPnQ5rlygn3XcGFEoU8K29Mw9PSPkqiaxUkqhpjuox3bBnOrjq1uGkevYgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目组｜饿了么DIC算法与搜推算法团队引言推荐系统作为互联网时代连接用户与信息的核心技术，正在经历从传统协同过滤向多模态智能推荐的重要变革。随着深度学习技术的快速发展，特别是大语言模型和多模态预训练技</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555312&amp;idx=1&amp;sn=69b0b21376ebed84fc230f0758e77a4c&amp;chksm=e80f4987dc8343360c1f828d8befb0092d652bc1dacfb0f97c406fa82180aad0ca220fe63898&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
