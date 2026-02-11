@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[灵码+Qwen3-Coder——使用Skill机制实现代码审核]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2Cfuyfa3BdvJaAK1AMdurOIAAx5DgibU2EJKzWOsAojpJpfXJeCC97Upu1icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Claude Skills是Anthropic推出的一套基于提示词的模块化能力扩展系统，它通过"渐进式披露"机制让AI在需要时动态加载特定领域的专业知识，实现从通用助手到领域专家的无缝切换，受</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558354&amp;idx=1&amp;sn=032b02687e785e2bf6468dfd61f7294c&amp;chksm=e840e2cdd12d6972957d7c99b05d9bcb48f4cb20bc217feb9129176c72825b80cb3758cbe48e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当我们谈论 AI 推理的 KV Cache，我们在说什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2CfuylnMY692zUWUIY18kEbca2M1j0B8V7J3PSH0nXo0V1TCOKXWkhGYkMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文以《Attention Is All You Need》为起点，深入浅出地解析了 Transformer 架构的核心思想与技术细节。一、Attention Is All You Need</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558315&amp;idx=1&amp;sn=836e95d31ae6e6927b0fa829a7bfcc3d&amp;chksm=e88b5bef12f690c970d5e6ed2b41c9367c35753cb893fe4436cc4355af790a0e5d2f02a2e5a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJWIo1rKgBZ1eAo6RInhAHibHCUMBqzycT1wBhrsiagpbOglG1zVxsibactTKBjJLfiaHMdqjGlSgg3lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而来。它是一段跨越二十年的技术演进成果——从最原始的生成器（gen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555549&amp;idx=1&amp;sn=cecff32747d0c37e5fe2e09d4207d1d5&amp;chksm=e8f149033f8001dd1b7082d383f731b2bbbcdfaa0a4295a116bde1caacd1ed53f57f970c0437&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从代码生成到自主决策：打造一个Coding驱动的“自我编程”Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI4wukLHsIGET73hnWbdwqLZ5iaGeic3Q0iaLy0SkkFJy8iadupdcLORWBZlkQtwQFccse1a1G1Ak843w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜残风、栀七、荀易、辉酱在探索 LLM 应用的过程中，LLM作为 Agent 的"大脑"有着无限可能。其中，"代码编写"已经成为了少数几个成功大规模落地的场景之一，这让我们不禁想到：既然 LLM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555366&amp;idx=1&amp;sn=28392d99d449935875c0be2d02ead515&amp;chksm=e8f068908021b46c6793e74bc4025e5ae0d382d40b4ae1f24082b1746deb7f90addbf7fa6521&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

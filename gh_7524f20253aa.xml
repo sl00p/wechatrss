@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw第一款安全扫描器，检测企业自主AI Agent活动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RGtczicpwxXDuGgqy2M1cibib3XFs7ccbJDYAMvTFDJMuhQYDMyX6KXmiaYJNMv6r024QacOotvpXuauTInudFARGflNicqROW2qE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款新的免费开源工具现已发布，可帮助组织检测企业环境中运行的自主AI Agent。OpenClaw扫描器能够识别OpenClaw（又称MoltBot）的实例，这种自主AI助手可在无集中监管的情况下执行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335082&amp;idx=1&amp;sn=b87ee18a0d8aaf1f159b930d9efd587f&amp;chksm=bc59036e854f37369ea45be69554789896ae7c27021b329e0edac5c0dc368c5a7d3a81a00cd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[威胁狩猎决定SOC成败，过时情报让企业沦为黑客活靶子]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3FPLcD8SmeoqIje4nJqBbia4dqT4FtSXkyHlEZiau2WuiaQdUf6j1yKibQvxyeS9HFROzCRAaMibKpBo4HwQAJcZ6Etr8wtHOyvOaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>高绩效的SOC团队正越来越多地采用沙箱衍生的威胁情报，使威胁狩猎变得可重复且有效。ANY.RUN的TI Lookup等工具基于数百万次分析得出的真实攻击者行为，能够实现更快速的狩猎。威胁狩猎仍是成熟安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335082&amp;idx=2&amp;sn=4cc0641f4a42e8bcbdb078839ee7d2dd&amp;chksm=bce986c45b75c6146baca7eefa35ad857a4b54c1400a396d26bf909c633752cab4cb12bf17c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows记事本漏洞可导致攻击者远程执行代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0L8rRoayiaicIHBPpeE5vFLShGZxnGptmFHXIAGmM8ecLPia6aAJg1nY0CHTIYNianbibtkdLaqpf1aojWe1WamCWPz12jbq6ibw94Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已修复Windows记事本应用中的一个关键远程代码执行（RCE）漏洞（CVE-2026-20841），该漏洞可能允许攻击者在受害者机器上运行恶意代码。该漏洞于2026年2月10日微软补丁星期二更新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335082&amp;idx=3&amp;sn=3d30460e013b320f61a2bda8251163f1&amp;chksm=bc2293650cb6c0722544563103c7840e33eeba152d8da8eff9580bb9ae58c3abfd8a5647b7b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI生成Linux恶意软件VoidLink肆虐云端，内核隐匿与多云攻击威胁企业安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2JLMGiaTH7ibNlfjtPjG6dniaEr4ZoZX6jBv0R1MMiasyvzHXiaxz7K9ojuib8KswfzMb8YvdwNSayD2QS2iaJHfIyHn6KTUu7h3gawY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种名为VoidLink的复杂Linux恶意软件框架近期浮出水面，成为AI辅助威胁开发的典型案例。该恶意软件结合了先进的多云攻击能力与内核级隐匿机制，代表着新一代网络威胁——攻击者利用大语言模型（LL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335082&amp;idx=4&amp;sn=ef24c4a32e1cad9666ce6e5b6b1f7af0&amp;chksm=bcea59ba9ca5268097b6323c13ec3416dd816788dc1f43a37cd1696dc9bb0daed7b68751badf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX208j1X1fI4x0vBRq2gQl99Z8Z9yZjahDibzxGyannjoCOQUQ7fTllbuhF6ajVK070vC4iavmQkFCEyia71rLv0a02u0SmmcCTghs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01React2Shell漏洞遭利用Darktrace公司"CloudyPots"全球蜜罐网络检测到一场完全由AI生成的恶意软件活动正在积极利用"React2Shell"漏洞。此次入侵事件突显</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335056&amp;idx=1&amp;sn=24d27cdfc5518dc7f950a558a94d2750&amp;chksm=bc905061590fe98bd603590f2e991e8bcf702c65f5a1fc86caeee9cdbd2847947eb46d7f4cdb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7E0hmYhdxZPKibvYnHcuWibNMx1hkz7Dfqggdww61bLLevKkhnKJ6grlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pulsar RAT 作为开源 Quasar RAT 的复杂变种，通过引入危险的功能增强，使攻击者能够利用高级规避技术维持隐形远程访问。这款专注于 Windows 系统的模块化远程管理工具，标志着威胁</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=2&amp;sn=adc0034e2c7b88ecf07e6d83c3be093c&amp;chksm=bc4d59ba44188b16f42a5f47e0d1c1f5f22895dbd914af0ed4b100649426a0c8e0ab0a6e1819&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Node.js二进制解析库曝高危漏洞可导致恶意代码注入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7XYCBd8juXknNtyOTJU7URKYnVuzNxCzEQ73obY5Cp2wjQILxibeu4Nw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Node.js二进制解析库（binary-parser）被发现存在一个高危代码注入漏洞（CVE-2026-1245），影响2.3.0之前的所有版本。该漏洞允许攻击者在应用程序使用不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=3&amp;sn=e267c9614aa2e24f0edd8ecbb9302311&amp;chksm=bcc3e9778c79336093d4b95eb8d8971c4335ee20417e5df6d441de39ecc4411ba56bb6e473a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VMware vCenter关键RCE漏洞已遭攻击利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7jJPAPVYBSGibuiclwYoe8s0khciacZAOiaL4RNl2KBK6b6wFc3JEolffQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）已将影响博通（Broadcom）VMware vCenter Server的关键漏洞列入其已知被利用漏洞（KEV）目录。此举证实CVE-2024-37079漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=4&amp;sn=660917994a0bb64b8d94e952f17a26bb&amp;chksm=bc83d48e64f41c91321ce4000778c1641fd0c476c5dc0a188c05a17b9840c6ef71a7fb51fe7b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谁批准了这些AI Agent？重新思考AI时代下的访问权限、问责机制与风险管控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39icU8BxJBY6E2Bnib9B002b3UWSAtnF1l2UnxZWofjE5adqVZAD0icL14tZDowSg9dtlPMRb95Wa5dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent正在加速工作流程的执行。它们可以安排会议、访问数据、触发工作流、编写代码并实时采取行动，以超越人类的速度提升企业生产力。直到某天安全团队突然发现："等等...这是谁批准的？"与传统用户</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334485&amp;idx=1&amp;sn=16e39a1ae4f77bda9113301ef6419727&amp;chksm=bcd986127e3fdddc1e08e8fcaed1ae84af2ff645a8b0f6fca71b885275a5fdacd3e38f3f6833&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pwn2Own 2026首日，研究人员凭借37个独特0Day漏洞斩获51.65万美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39icU8BxJBY6E2Bnib9B002b3WHnBosv0rKRzRjQAfz5owwXonCzAKZkOZRF9UeIHaMia7pue1yjgvPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pwn2Own Automotive 2026赛事首日，研究人员通过37个0Day漏洞获得51.65万美元奖金。目前赛事累计曝光66个独特漏洞，总奖金达95.575万美元，凸显汽车行业巨大的攻击面。P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334485&amp;idx=2&amp;sn=2fbe44f2bab41d986116105983112ef5&amp;chksm=bcdee98fcd5b8293843654cf65b1887285947902941c43fab2918411241765e56007bfd22f2c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

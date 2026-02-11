@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[马斯克说到做到：开源X平台核心推荐算法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905YPpWlDvQhFMAgoVsBIe9WObNCYxPOnNILrFbsf4m5c2Nff92icgwWVCa1kUZ6VV5IHaQfDdYWJN1ZOGzE4tqFkEcEgvhvviaOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯广告推荐技术团队，周超博士1，X开源内容推荐Feed on X召回、精排推理、策略代码。参数配置小应是简化版本。 2，召回是双塔模型，用户塔输入是【用户特征，S长度的行为序列】，内容塔是帖子</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800086&amp;idx=1&amp;sn=ecf2702e487f771cf5470dc74d94032e&amp;chksm=bf8226707afb4d6bb8b56c9296e28a746b2bd5166e504f5f9412db6ff8d27a10721929324e7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 17:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微信WFS传统TCP网络Fio跑满200Gb网卡实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906M26cK7KmC6uY5GIgycCGegteiccZShFoAWicP1QFOet6o0iaU45n3ZaN5I3ZyrlZHTjRpyqqLLicJpmEXc11S1hBduv3w1OhS3xE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：微信WFS团队DeepSeek 在去年二月对外开源了 3FS，凭借基于 RDMA 的架构设计实现了极高吞吐，成为业界关注的标杆，网友纷纷复现其在 100Gb 网络下 Fio 跑满带宽的惊艳表现。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800087&amp;idx=1&amp;sn=6a467f41f32841821dc3065cb08e27b5&amp;chksm=bfe9b54f9a8d97056e9e1d14988cbeeb87646aaee5071ce0a98e769a5f1850c09c61add11009&amp;scene=0&amp;xtrack=1#rd</link>

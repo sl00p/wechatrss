@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU02icgxSpgZWFMUPDvl8H6TdgsR6GTA8zPcCVew20QXtkbyA94c3FEicBdauhVqsqRXCp5U5RRI2ODj9jKqhPphMhMBkvgpwNDHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，整个外网集体陷入猜谜游戏，仿佛整个科技区进入了全员侦探的模型。这是因为一个叫 Pony Alpha 的匿名模型在海外各大评测榜单上横空出世。它没有发布会，甚至没有一家具体的公司认领。。。仅仅凭</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc&amp;chksm=f89fb555f4fd6c0bf2064207df5d898824cc8b155bf8961cb4866873f38dc2044e2fb84871be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 15:01:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 1.3 万 Star！港大开源的轻量版 Clawdbot。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1k1SzxNLDrPdUZbcYhkdIibglGpZx2tjWQretKLLrqZib21F8wnhF6d18CHeJOB84VmfJxSlWicaZ9P3pBibtRwYRIe8oVQQe01A4/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 nanobot 的项目是香港大学数据科学实验室开源的项目。既然 nano 开头，就说明这是一个超轻量级个人 AI 助手，非常注重可读性、研究友好、启动快、易集成多模型和多聊天通道。开源没多长时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531244&amp;idx=1&amp;sn=e7c7582cd88ec05a56c1df4068512cc8&amp;chksm=f8733186c01517f0cc363e5dfd4baa75d5b18d465e8bfb95b97a8779f33077be05a95ce3eb52&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29vBBvXjplzrVJuC20DD7aU0SAiaA1NdsRc50DFGeQEuicetZfRvtwwKcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01读论文 Agent阅读国外专业的学术论文，光理解内容就挺费劲了，如果还要总结内容、生成思维导图，更是让人头疼。可以试下，Paper Burner X 这个开源工具，集文献识别、翻译、阅读与智能分析</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529340&amp;idx=1&amp;sn=70b932e8796e655bb452bc1582e850a0&amp;chksm=f8cc68c36f8079d7a22717cf018d1c537570995062e5bc9a8faefa7c8ef7923461c514fbcebf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 16:04:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 11 月份 YYDS 的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxuwXTqxyQp0UKBJ0f5r9Ef92yWBPt7ZjLnkErVd3hmwyJ9gHozYdN1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Cursor vip 免费续杯这个开源项目现在已经 44K + 的 Star 了。可以绕过 Cursor AI 代码编辑器的免费试用限制。通过技术手段重置机器码，从而让你能够持续使用其免费额度或</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529339&amp;idx=1&amp;sn=cbe63a38a07319cd261183296cb8cece&amp;chksm=f81c6d82d8851a3be9bd67b5ce1b99a8fefb2fd41c7ddf6ba915295f7966070c3b2cfda3246c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

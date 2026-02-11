@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个 ELF 文件的运行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0MGcopG06TMYC29LNib90D4AZZErLpsiaZiaCGyQk31fbha2YDiaqWWPaWJKsUAESEIFVDJKcI0w9IMl45cdtGYmbkLy5Rab1qBibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章会包含很多项目的源码阅读, 覆盖elf 的解析, elf 的加载, elf 的链接。只在代码关键地方做注释，并不会直接总结一个 elf 包含了哪些信息，只是纯粹的源码阅读的记录，看看在实际生产</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=1&amp;sn=8fac5f1d178e69a2a2d497409e600d54&amp;chksm=b0844356918ac75f8049637525de0b418dd15aec652d8a2086b2eb813733d4cc53878174d30b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI写病毒首次实战！React2Shell漏洞遭“代码代写”式攻击，91台服务器沦为矿机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2WpdskhmWVFaluDwLdtLsAUwotZWtFZkwo0uG54ca2Xystiar7aDHGb6QsbDDPIziadkYzvFen05RPgFvmwlNjOibUrtCac6rPpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>你可能听说过“Vibe Coding”——程序员靠AI辅助写代码，边听歌边“意念编程”。但今天，这套开发范式正式流向了暗网。Darktrace全球蜜网“CloudyPots”近日捕获一例代号React</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=2&amp;sn=b22f07373e8540d85dd62682cc5b01af&amp;chksm=b089fd9ff2b2a7ef8a9a46088f634d57f05f6fedd7f36ed00c2e8f35a952ff66d6e499bbb766&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[年后开班！24节直播：Windows 内核与高级调试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HonU4eVHJclvDsLVnSnZTx2m2cBgxjRL1SdToFHoQn4WmerOOsUyibza5rhIlKk1ZhVVQDdF7ZDmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直到今天，Windows仍然是软件历史上最复杂的操作系统，深入理解这个操作系统对于任何软件工程师来说都是一个巨大的挑战。本培训借助调试器这把利剑，深入Windows系统内部，以生动鲜活的方式，解读IR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=3&amp;sn=803c95bc4f913ad97cf0df7188a5bca6&amp;chksm=b0f42280215c1a628941dd67374258d8f33dcba6577a0a6286ef854a9fea4bd2c0f1b22fc353&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[初探Android Linker 动态库SO的加载流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2rjLBRdod6eVGrP6o17fEJD5atQxnrWtpVEr7LWOjs0aiaDXEWccicNeAbKM5A6rwcqAFon3QCTHEuCTtn4P0pphZXoQb2YsaEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>建议学习过ELF文件结构的再来读这份代码，这里推荐读完《程序员的自我修养——链接、装载与库》，以及《ARM汇编与逆向工程 蓝狐卷 基础知识》的第二章知识，然后再来看，这一系列文章。从这篇文章开始，基于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=1&amp;sn=53539e2ea0d4c3eda68e915de51d27df&amp;chksm=b0296ae2c711ceec5ebc4959054749094ee3525989bc12407cce076b50eff405fae3ce87e3e8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GdwxLUFnHGKAXsskt3KflDAmrocj7e2T9iccB20VQXhibicanjQWCnJj3x5hRf6Cv3uZjzXggUHKPlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Cloudflare的Web应用防火墙（WAF）曝出一处关键零日漏洞，攻击者可通过证书验证路径绕过安全控制，直接访问受保护的源站服务器。该漏洞由安全研究团队FearsOff发现，目前已由Clou</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=2&amp;sn=2bdd5c55f5a0388eaadf3679c6b92827&amp;chksm=b0c23b3abb65397be685fe5cee9875e404bede0d80e3e71a64eebcb11f368efdb88b43ecaaa8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[满10人开班：系统0day安全——车联网安全入门（第8期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HsGpu16TP0Ig0qGeqVYQ5PRCiccxYF5IZtrR2adCxs3O0Eng4jSazyUpSwLLzarNgiccWdpGicTL8pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能汽车的飞速发展，车联网技术已成为汽车行业的重要组成部分。车联网安全不仅关乎车辆的正常运行，更涉及到用户的生命财产安全。据行业报告显示，2024年全球智能汽车渗透率已突破35%，车联网攻击事件同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=3&amp;sn=e0f5efeee2b34911138bb6c44c60cc8c&amp;chksm=b09ad01c7ff4f9cde8a8d64017ad0e6a9f60b09007f02a0c3e3018ed23dfaaf14b95ef3064c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用奥卡姆剃刀解决 ollvm 间接跳转和函数调用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HG09guKdbiaf5tFhj3NV64ITOia7NRgjpfDHrXxkRhGVk0U7bOO2jwb2TTUZLibIhUnoZ7Gn9GjZBVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本篇聚焦去除 native 中的间接跳转（indirect jump）和间接函数调用（indirect call）混淆。这类混淆经常被大厂 APP 使用，用以增加静态分析的难度和时间成本。间接跳转与间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=1&amp;sn=a463f3535ad02ff994654b39fb867a00&amp;chksm=b05a2e01846bed5722f1d78a668b81de12aa7f335e04c29d8543b63940bf0314e65078fa0fdc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJCOhyoZXcjNWLBYhpqVK63qgT05KGpNic4iaDYY3FLpJ3cZq11qI1D7zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>GNU C 库（glibc）维护团队近日披露了两项高危安全漏洞，涵盖堆破坏与信息泄露两类风险，波及绝大多数 Linux 系统。其中一款漏洞的存在时间可追溯至 glibc 2.0 版本，跨度长达数十年。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608330&amp;idx=2&amp;sn=db978609e85f81923fdb2003165acdb3&amp;chksm=b0b926667e7b97e6ecbbe366472ed11d7b5f01c21fabf4c483fe2ce285c6569124eed60adbd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
