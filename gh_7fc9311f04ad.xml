@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用Spring AI Alibaba把MultiAgent实现从5天压到5小时]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4zdsCZXIVkj0QofRkt8GGOib8jZ9ia7Nn4Q8h5pX1WglGZ9BGhAe9ibEAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言不久前，Spring AI和Spring AI Alibaba都迎来了新版本的发布，首次在框架层面支持了Multi-agent 编排能力，看到官方示例中的ReactAgent构建代码，以及其“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558373&amp;idx=1&amp;sn=edc6314dd8b386cb4d5f9d92985a1479&amp;chksm=e81095d09789d743b6015c0c266cc58e206370b93c118123de8d64e0601a42870d524314a68a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[灵码+Qwen3-Coder——使用Skill机制实现代码审核]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2Cfuyfa3BdvJaAK1AMdurOIAAx5DgibU2EJKzWOsAojpJpfXJeCC97Upu1icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Claude Skills是Anthropic推出的一套基于提示词的模块化能力扩展系统，它通过"渐进式披露"机制让AI在需要时动态加载特定领域的专业知识，实现从通用助手到领域专家的无缝切换，受</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558354&amp;idx=1&amp;sn=032b02687e785e2bf6468dfd61f7294c&amp;chksm=e840e2cdd12d6972957d7c99b05d9bcb48f4cb20bc217feb9129176c72825b80cb3758cbe48e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKMmduNeq3rIbEG21IDAW2NhiaNpJr5Z3MzV7SDzTI2crlv9MjzpB4DjhRPHhvPtMA1bkSZGxyibfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景你是不是也有过刚刷完进站闸机，抬头十几条指示牌，一脸懵；换乘只隔一条站台 最后走到腿软还绕回原点；地铁口连商场没指路牌，硬生生逛成“买单人流”。面对日益多样化的用户场景和亟待提升的用户体验指标</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555555&amp;idx=1&amp;sn=d7faff2c470322a62839b2ad9833f44a&amp;chksm=e865a17277189cfbd60c688549b7217ac2fcdd0598f1b49316cb6e9d73f7555499c29cb26545&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJWIo1rKgBZ1eAo6RInhAHibHCUMBqzycT1wBhrsiagpbOglG1zVxsibactTKBjJLfiaHMdqjGlSgg3lA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而来。它是一段跨越二十年的技术演进成果——从最原始的生成器（gen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555549&amp;idx=1&amp;sn=cecff32747d0c37e5fe2e09d4207d1d5&amp;chksm=e8f149033f8001dd1b7082d383f731b2bbbcdfaa0a4295a116bde1caacd1ed53f57f970c0437&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者利用Gemini AI模型实施网络攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3VqIbANaBWPrjQgUwKTO0ukV7gL6O8FlPlR7Rdxk9yXzNRk5BELnptItUya5vp7UnnyGUpFOA6iclEBibfiaDxqWGd6IT0NclLdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者已开始利用Google的Gemini API动态生成C#代码，用于构建多阶段恶意软件，从而规避传统检测方法。Google威胁情报小组(GTIG)在2026年2月的AI威胁追踪报告中详细披露了这一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=1&amp;sn=b3eeb3cc0716e5887296164d95710e59&amp;chksm=bca7171960d00d868d65b5343fdff3c55677f5a2791b6166ac0e2d23ff72e73863847baa3df5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[程序员成黑客新靶点，供应链攻击威胁激增]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0DXynGsBfwOEibgqa5QTj8cPXulRPLhQTSZliaAUZpVlcKlLrjcQxpAoAYM3OpKbHKbo1XmLZLrtOWGib6afWSFvI1GNTuxmticLc/640?wxtype=jpeg&amp;wxfrom=0"/><p>程序员正日益成为网络犯罪分子的攻击目标，企业安全负责人需高度重视这一风险趋势。网络犯罪分子正在改变策略——他们不再局限于利用应用程序漏洞，而是将目标转向程序员日常依赖的工具和访问渠道。攻击者通过结合多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=2&amp;sn=ca80e8440282e00ec19a7fe0236ed4b2&amp;chksm=bc3557c16eec48fb87c55f45635d376a622f05b6cfcf6e8bf3e57a9566c61d1cc66871e6b4d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SSHStalker僵尸网络利用IRC实现C2并控制Linux系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1QOM2sGgoGRDCAAaHKBJSKAmGcaC4VS3aRM041lAETXpXicy4aXCHg0VamrZ1qTwl67iaWxNyePu1jKzVnBFQNogBcpGsSqJBGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了一个名为SSHStalker的新型僵尸网络攻击活动细节，该网络依赖互联网中继聊天（IRC）协议实现命令与控制（C2）功能。网络安全公司Flare表示："该工具集结合了隐蔽辅助程序</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=3&amp;sn=5d172a156f21110ef1b9d47cdfaf017c&amp;chksm=bc89b450ee6eb770e9e1b27b0f4c28af2c3076ea0f4f9321deb45f2f117f3a54f6bac066651d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Java安全运维正成为企业日常负担]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3BL1BbrkEcQtEWPVXwTvNJqeUKIP9rXcNhWgD2HBic5jDPAe9PWrfYgKR9t5SlYkricZgpvRSz3Me3a7ZJ2svVCRNVtSTP01V8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>大型企业的安全团队已耗费大量时间追踪软件供应链、第三方库和内部代码库中的漏洞。Java环境进一步扩大了风险敞口，因为众多关键业务系统仍运行在JVM（Java虚拟机）上。Azul公司2026年对2000</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=4&amp;sn=c08484313da2569306f018cd2c0f10fa&amp;chksm=bc11f811c86c585be9eff74eca14d0375127c01d75c72d25df7dd9a14bc828a607b73ebe7115&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw第一款安全扫描器，检测企业自主AI Agent活动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RGtczicpwxXDuGgqy2M1cibib3XFs7ccbJDYAMvTFDJMuhQYDMyX6KXmiaYJNMv6r024QacOotvpXuauTInudFARGflNicqROW2qE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款新的免费开源工具现已发布，可帮助组织检测企业环境中运行的自主AI Agent。OpenClaw扫描器能够识别OpenClaw（又称MoltBot）的实例，这种自主AI助手可在无集中监管的情况下执行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335082&amp;idx=1&amp;sn=b87ee18a0d8aaf1f159b930d9efd587f&amp;chksm=bc59036e854f37369ea45be69554789896ae7c27021b329e0edac5c0dc368c5a7d3a81a00cd5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibdIDHM7Kns9672aia7ZlDr12Pgiakrlhzq9zYeoJIkV8hQ3nl3wN7DMl6YCwCMVL3Hpdz4vgj5ArWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周 Metasploit 框架的最新更新为渗透测试人员和红队成员带来重大增强，新增了七个针对常用企业软件的漏洞利用模块。本次更新的亮点包括三个针对 FreePBX 的复杂模块，以及针对 Cacti</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=1&amp;sn=5521cffc82af812bd5d93251d26334d0&amp;chksm=bc1e6c97481b464fb8195282d7dfe43ec187443b7564c25a61316d4de760c5c64ddc87ffc25b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Clawdbot数千个Agent暴露在公网；恶意VS Code扩展“ClawdBot Agent”伪装AI助手 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖“AI网红”Clawdbot数千个Agent暴露在公网“裸奔”🐎</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=2&amp;sn=c8cdbd01c42c6c9b0cee3debe07b3287&amp;chksm=bc11743036a95027d10d4a6550852d0fc4026c78dc0fd4d439200e42c7d27d376695d47b6a9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[云迁移安全常见误区及规避策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibnrQibOZyPeN5gojum7YiajaHEsAQLAKZh0lO3F2AnCkqibeezdWGG0jNHnl9YtiasmIx2KGlDw7uSeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>云服务采用率正在快速攀升，但许多企业仍低估了从安全角度看云迁移的复杂性和风险。虽然将工作负载从本地环境迁移至云端能带来灵活性、可扩展性和成本优势，但云环境也引入了一系列传统基础设施团队往往准备不足的新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334675&amp;idx=3&amp;sn=837374caf612044a8fb15e692f2311c4&amp;chksm=bcb7a1a5d24811e93b87363b2e6d9c13aa5b8c5a3ecc47ba2624a10bf5ce343834224e4caa75&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 31 Jan 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[生成式AI现可创建"活体"多态钓鱼页面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7mXftegSCf8Qq1e79G5CKbYb483diaG1CxLficuGVR7UiamJJRksiazS0NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks Unit 42的安全研究人员揭示了一种令人担忧的网络攻击新趋势：攻击者正利用生成式AI（GenAI）创建"活体"钓鱼页面，这些页面仅在受害者访问看似无害的网站后才</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=1&amp;sn=9a6ebf5fe6277735696857b972382474&amp;chksm=bca9015ce7da80d5fb7051d7458296538fb5a819cfe73fbf2c4ae6a9ad071fcf1184cf779174&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pulsar RAT采用内存驻留执行与HVNC技术实现隐形远程控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR39HonLcKiaspBzoEOs6Ltos7E0hmYhdxZPKibvYnHcuWibNMx1hkz7Dfqggdww61bLLevKkhnKJ6grlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pulsar RAT 作为开源 Quasar RAT 的复杂变种，通过引入危险的功能增强，使攻击者能够利用高级规避技术维持隐形远程访问。这款专注于 Windows 系统的模块化远程管理工具，标志着威胁</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334516&amp;idx=2&amp;sn=adc0034e2c7b88ecf07e6d83c3be093c&amp;chksm=bc4d59ba44188b16f42a5f47e0d1c1f5f22895dbd914af0ed4b100649426a0c8e0ab0a6e1819&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MiniCPM-o 4.5 开源了，登上了开源热榜。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2Y71648xNdHfdXiaMxSnftLRudPp9OEib1N0oTicLicKN2gTc0IRhFd02TcE1hEkJgrdZKNwgbvTnNXnrGx43yktyr2fBVVvrb3o4/640?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM-o 4.5 开源了。这是面壁智能 OpenBMB 在 2 月正式开源的新一代全模态旗舰模型，参数量只有 9B。却对标甚至在多项任务上追平乃至超越一些闭源大模型，被很多人称为端侧 GPT</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531273&amp;idx=1&amp;sn=7d035417d984a98d2d4d5e022dd04c2f&amp;chksm=f8aeff070eeb8754e88a0dfd8b6fc189033c222cede86de6b21a03e0cf44f208cd02a71592b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GLM-5 发布了！10 分钟傻瓜化部署 OpenClaw 到飞书。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU02icgxSpgZWFMUPDvl8H6TdgsR6GTA8zPcCVew20QXtkbyA94c3FEicBdauhVqsqRXCp5U5RRI2ODj9jKqhPphMhMBkvgpwNDHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，整个外网集体陷入猜谜游戏，仿佛整个科技区进入了全员侦探的模型。这是因为一个叫 Pony Alpha 的匿名模型在海外各大评测榜单上横空出世。它没有发布会，甚至没有一家具体的公司认领。。。仅仅凭</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc&amp;chksm=f89fb555f4fd6c0bf2064207df5d898824cc8b155bf8961cb4866873f38dc2044e2fb84871be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxBG11oVf0YTrWkpzZZL9rLSn3VPb4tJexHNSTr0zxFFC9J2ZicBonUVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Awesome Nano Banana ProAwesome Nano Banana Pro 是一个精选资源列表。一般某个模型或者方向火了后，GitHub 上会立马出现一个该方向的 Awesome</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529355&amp;idx=1&amp;sn=602312240a793d2910c7ececf8303449&amp;chksm=f8029bcb2d343573f5ca6f534c4747cec9bcbe3de777d2d42062f57e2bd4cea61d072bf48c44&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 04 Dec 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖到 3 个令人惊艳的 GitHub 项目，推荐给大家。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxPYKVvExhia6nPLKWY8CQ29vBBvXjplzrVJuC20DD7aU0SAiaA1NdsRc50DFGeQEuicetZfRvtwwKcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01读论文 Agent阅读国外专业的学术论文，光理解内容就挺费劲了，如果还要总结内容、生成思维导图，更是让人头疼。可以试下，Paper Burner X 这个开源工具，集文献识别、翻译、阅读与智能分析</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529340&amp;idx=1&amp;sn=70b932e8796e655bb452bc1582e850a0&amp;chksm=f8cc68c36f8079d7a22717cf018d1c537570995062e5bc9a8faefa7c8ef7923461c514fbcebf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Dec 2025 16:04:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

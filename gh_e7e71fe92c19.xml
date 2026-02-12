@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[看雪兼职讲师招募：这一次，我们谈名利双收]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3wB62oeGyvRQ6uoWAFLHIGtsOrUU0iarUBeNmS4OquPAuD4dgGspuEg05RPWMUI3BJqeibjlLgHLtDYMjVXnY6uEUXkReywH3Wo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，暗流涌动的0day、愈演愈烈的勒索攻击、动辄千万的数据泄露……我们比任何时候都更需要真正的技术派——那些能在代码废墟里找到漏洞入口，能在反汇编世界里读懂机器心跳的人。而你，正是其中之一。看</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611113&amp;idx=1&amp;sn=bca9a517096681a9d112e5457dcc51d4&amp;chksm=b013d9aa09ad263112b454678ba009bb3981a8b9d7ebd12b62180cb03a6d994d221197e59491&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个 ELF 文件的运行]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0MGcopG06TMYC29LNib90D4AZZErLpsiaZiaCGyQk31fbha2YDiaqWWPaWJKsUAESEIFVDJKcI0w9IMl45cdtGYmbkLy5Rab1qBibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章会包含很多项目的源码阅读, 覆盖elf 的解析, elf 的加载, elf 的链接。只在代码关键地方做注释，并不会直接总结一个 elf 包含了哪些信息，只是纯粹的源码阅读的记录，看看在实际生产</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=1&amp;sn=8fac5f1d178e69a2a2d497409e600d54&amp;chksm=b0844356918ac75f8049637525de0b418dd15aec652d8a2086b2eb813733d4cc53878174d30b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[NETGEAR 路由器环境模拟与漏洞分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJPw6v0dmXuhIhQGEzt20Yn0hWDuorQW2WE0ibreA7IEKmwLvtgalgNfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01环境配置版本 :Nighthawk AX12 RAXE500 V1.2.14.114_2.0.67首先 binwalk -e1 RAXE500-V1.2.14.114_2.0.67.chk 解压固</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=1&amp;sn=a2d35a8ebfe8b57b29b4000968090400&amp;chksm=b072983930b29f33a5681ffab82d25d9157586d253b847844df45c73e026925a3d5510ff3ca5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare曝零日漏洞：攻击者可借证书验证路径绕过WAF访问任意源站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GdwxLUFnHGKAXsskt3KflDAmrocj7e2T9iccB20VQXhibicanjQWCnJj3x5hRf6Cv3uZjzXggUHKPlw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Cloudflare的Web应用防火墙（WAF）曝出一处关键零日漏洞，攻击者可通过证书验证路径绕过安全控制，直接访问受保护的源站服务器。该漏洞由安全研究团队FearsOff发现，目前已由Clou</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=2&amp;sn=2bdd5c55f5a0388eaadf3679c6b92827&amp;chksm=b0c23b3abb65397be685fe5cee9875e404bede0d80e3e71a64eebcb11f368efdb88b43ecaaa8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>

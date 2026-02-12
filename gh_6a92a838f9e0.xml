@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[视频生成推理加速实践：基于全局时间索引的序列并行 3D 位置编码优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STPb7299rFf1defLpNpseJJf6WMHqPhicqyZFF6XGmposyt3UhxV8wtyNzJUmUFDZAz9C2tyov7keK5okYibpV1BPWdhhla5WCfc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、Self-Forcing：从 Wan2.1 到因果视频推理Wan2.1：全帧并行的视频扩散模型Wan2.1 是阿里巴巴团队开源的大规模视频生成基础模型，基于主流的扩散 Transformer（Di</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503933&amp;idx=1&amp;sn=f9b7c2ebf85e78af4473ea0134835723&amp;chksm=ce499e9ea28179e091d57dadfbb3cbfd21cf19ce7c4c742315af9ff8f8a60edea8278bf31b19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从JS云函数到MCP：打造跨平台AI Agent工具的工程实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/1BMf5Ir754QPhZ0Q0TUDiafK0upmgic9Kiaa5vURw5RKTzqcduLzKLsO5pI2bxySmH01q32X8tTxZxZJj9Jo1meOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>构建 AI 工具生态这件事上，过去一年我们做了不少尝试。回头看，会觉得这条路径像是在搭建一条越来越清晰的“能力生产线”：从写 JS → Agent Tool 工具 → 成为 MCP 工具 → 成为跨平</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503836&amp;idx=1&amp;sn=d84b2e1c6ce9330751cd4d58b3ec32ef&amp;chksm=cebcd036354557e0da21860796c216dd97ed6f4da436499ccd4c3c70744a5e5abdd4cc6016e4&amp;scene=0&amp;xtrack=1#rd</link>
