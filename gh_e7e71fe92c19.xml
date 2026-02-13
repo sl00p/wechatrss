@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[去间接跳转/模拟执行学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3vjbSb3EnzjzswumR5VYddoP3gQg56tI6RfNSt9ln0Dy0z7daeIicVATBSKqRRdeWWXE7O64ricCoPfbF4POouEo4Te5pgw8LQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>间接跳转这个高级混淆，接触了unicorn，unidbg这种模拟执行脚本后，发现这种特别适合对抗反编译器无法分辨的一些混淆，本文记录学习过程以及以京麒2024的drillbeam为样本尝试去去除间接跳</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=1&amp;sn=fc44c27ffd6e4d0765228ba895da097e&amp;chksm=b0c474c3478251223f8bf744288b87c4b6f12b4ac16d28e13c4be4cfaad24c2328de0c1adedb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbULavJ8LibpuPKk539Sjb7kyWpeZBibCQVBJymV3XbKLz3WPtTgbyWB6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>新春佳节，本是阖家团圆、安心休憩的时刻，可勒索病毒的突袭却往往猝不及防！假期期间企业防护值守薄弱，成为勒索病毒攻击的高发期，一旦遭遇文件或服务器被加密、业务突然中断、赎金通知弹窗出现，不仅会让新春氛围</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=2&amp;sn=2ff74fb9bef3d4e31a6e4f2b468d01bc&amp;chksm=b0b6d59f1d4704cfc96881a38729e9d3a76b75056166bcd770d2c75693768999c0665d1de89e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[看雪兼职讲师招募：这一次，我们谈名利双收]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3wB62oeGyvRQ6uoWAFLHIGtsOrUU0iarUBeNmS4OquPAuD4dgGspuEg05RPWMUI3BJqeibjlLgHLtDYMjVXnY6uEUXkReywH3Wo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，暗流涌动的0day、愈演愈烈的勒索攻击、动辄千万的数据泄露……我们比任何时候都更需要真正的技术派——那些能在代码废墟里找到漏洞入口，能在反汇编世界里读懂机器心跳的人。而你，正是其中之一。看</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611113&amp;idx=1&amp;sn=bca9a517096681a9d112e5457dcc51d4&amp;chksm=b013d9aa09ad263112b454678ba009bb3981a8b9d7ebd12b62180cb03a6d994d221197e59491&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0Gu80eKbg3sXz6xFfqLZjpJRZBAKesvIlQOicJpzBLUIz5n0PKBMZE5bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog安全研究团队公开披露了Redis数据库中一个高危漏洞的完整利用链，证实“老式”栈缓冲区溢出攻击在2026年仍具极大危害性。该漏洞编号为CVE-2025-62507，CVSS评分高达8.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=2&amp;sn=7fb7a1fd128f9485c34b6412149976d8&amp;chksm=b0e9bcfaa822fd25395249bff13faa04aa26555f387c1a2685bac36dfb45b5e61fcfb09fedd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[985安全硕士、10年逆向经验！无名侠亲授，7天吃透 IDA 9.0+AES 逆向]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在被反调试技术虐得体无完肤？面对AES变种算法一脸懵？写IDAPython脚本总是卡壳？看雪论坛技术大牛「无名侠」亲授，7天从小白到逆向精英的蜕变之路✅ 掌握通用逆向方法论✅ 轻松剖析AES加密算法</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=3&amp;sn=af9807e2b2149813583872077dbe0aa3&amp;chksm=b0eb268a28c5fd87b4a3c9b58a95f237818cde0d2c23a35917a0e0874de0de66f25ebb095dc0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NETGEAR 路由器环境模拟与漏洞分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FMQ0OzsklkBSkZUib6mXygJPw6v0dmXuhIhQGEzt20Yn0hWDuorQW2WE0ibreA7IEKmwLvtgalgNfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01环境配置版本 :Nighthawk AX12 RAXE500 V1.2.14.114_2.0.67首先 binwalk -e1 RAXE500-V1.2.14.114_2.0.67.chk 解压固</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608458&amp;idx=1&amp;sn=a2d35a8ebfe8b57b29b4000968090400&amp;chksm=b072983930b29f33a5681ffab82d25d9157586d253b847844df45c73e026925a3d5510ff3ca5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

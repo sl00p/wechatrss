@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[准确率提升至 90%，阿里商旅基于 AgentScope 构建多智能体差旅助手最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ9VUlHGU1AqQWWtjhZuN5hF9fibVQVVOg29SRzdS25yUibJve8ZcTWtMzj3qAhmyKbXTNnUfoOfiasA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里商旅是阿里巴巴旗下一站式数智化差旅服务平台。依托阿里巴巴生态强大的供应链及信息数字整合能力，帮助企业实现降本增效，增加合规透明度，全方位提升企业组织效率及员工差旅体验。其中AliGo阿里商旅的差旅</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558374&amp;idx=1&amp;sn=df986ec3bd155c4bdb0be357501c162f&amp;chksm=e8211dea831e8c1b69dc5d2cca9e5d7b4d0ac2d361b182c86c892e60afcf807d974bf6d39fad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用Spring AI Alibaba把MultiAgent实现从5天压到5小时]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4zdsCZXIVkj0QofRkt8GGOib8jZ9ia7Nn4Q8h5pX1WglGZ9BGhAe9ibEAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言不久前，Spring AI和Spring AI Alibaba都迎来了新版本的发布，首次在框架层面支持了Multi-agent 编排能力，看到官方示例中的ReactAgent构建代码，以及其“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558373&amp;idx=1&amp;sn=edc6314dd8b386cb4d5f9d92985a1479&amp;chksm=e81095d09789d743b6015c0c266cc58e206370b93c118123de8d64e0601a42870d524314a68a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKyOLK50D5X8j93cRAicEC2xSB0zicTz19jUkSYvDmz2pYibtZOdgkbafj16NqA2icE5lVUcYJqtwxtFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述 Dify 平台在 Agentic 应用开发中面临的可观测性挑战，从开发者与运维方双重视角出发，系统分析了当前 Dify 可观测能力的现状、局限与改进方向。前言Dify 是时下热门的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555601&amp;idx=1&amp;sn=eeff18259de7caf8d2226f640a451ef2&amp;chksm=e87672ee335833078f69396e21e88b6fadbe98ee6f55d8fc71a852d084d77acd63dbee9f3475&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 17 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[打通出行最后一公里｜高德面向地铁场景的多模态智能图文引导系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKMmduNeq3rIbEG21IDAW2NhiaNpJr5Z3MzV7SDzTI2crlv9MjzpB4DjhRPHhvPtMA1bkSZGxyibfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景你是不是也有过刚刷完进站闸机，抬头十几条指示牌，一脸懵；换乘只隔一条站台 最后走到腿软还绕回原点；地铁口连商场没指路牌，硬生生逛成“买单人流”。面对日益多样化的用户场景和亟待提升的用户体验指标</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555555&amp;idx=1&amp;sn=d7faff2c470322a62839b2ad9833f44a&amp;chksm=e865a17277189cfbd60c688549b7217ac2fcdd0598f1b49316cb6e9d73f7555499c29cb26545&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

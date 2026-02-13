@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一周 6000+ Star！这个 Clawdbot 的轻量开源平替火了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1m50of3eE34yVibrkvLqXxxtcwtuXxjzlIO1bBbdP20Z3P8jqTzTziaQNup4g47FCImK8Pdpa4t2uJk2UBUf7qEVrkuoZ30Efzk/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天发了一个文章，介绍了港大的开源的 nanochat，它只有 4000 行代码。最近还有一个类似的轻量级 Clawdbot 开源平替，叫做 nanoclaw。它基于 500 行 TypeScrip</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531315&amp;idx=1&amp;sn=dcc41e589c929c0a0989795a1d8a0e29&amp;chksm=f82361ebd560c1fba92832cff773c6332d2fc222172304dbfc15cd064f8fe67f9de5d1809d9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Feb 2026 15:38:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MiniCPM-o 4.5 开源了，登上了开源热榜。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2Y71648xNdHfdXiaMxSnftLRudPp9OEib1N0oTicLicKN2gTc0IRhFd02TcE1hEkJgrdZKNwgbvTnNXnrGx43yktyr2fBVVvrb3o4/640?wxtype=jpeg&amp;wxfrom=0"/><p>MiniCPM-o 4.5 开源了。这是面壁智能 OpenBMB 在 2 月正式开源的新一代全模态旗舰模型，参数量只有 9B。却对标甚至在多项任务上追平乃至超越一些闭源大模型，被很多人称为端侧 GPT</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531273&amp;idx=1&amp;sn=7d035417d984a98d2d4d5e022dd04c2f&amp;chksm=f8aeff070eeb8754e88a0dfd8b6fc189033c222cede86de6b21a03e0cf44f208cd02a71592b3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxdEzCx4tnIERa38lCEt8VCy67SudTJC4qVibxicSgfF3kbGsyBINoBy07hBmZTUjJyaAlwAFCjMoew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现一个叫 skyvern 的开源项目登上了热榜。这是一个 AI 控制浏览器自动化工作流的项目。现在已经在 GitHub 上斩获近 2 万的 Star 了。01开源项目简介在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529410&amp;idx=1&amp;sn=95e3bc07b7837a95ad285472281f62c7&amp;chksm=f823089cf64d24d50954ba5c4fd4d1bd564871b07b09cf94b1f9005fe73d3727eeb750275d7a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 14:38:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 GitHub 上 3 个 牛牛牛 Nano Banana Pro 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz6XfrlrjNsvYbU05QnNorxBG11oVf0YTrWkpzZZL9rLSn3VPb4tJexHNSTr0zxFFC9J2ZicBonUVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Awesome Nano Banana ProAwesome Nano Banana Pro 是一个精选资源列表。一般某个模型或者方向火了后，GitHub 上会立马出现一个该方向的 Awesome</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529355&amp;idx=1&amp;sn=602312240a793d2910c7ececf8303449&amp;chksm=f8029bcb2d343573f5ca6f534c4747cec9bcbe3de777d2d42062f57e2bd4cea61d072bf48c44&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 15:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
