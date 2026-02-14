@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[发现了 3 个 OpenClaw 相关开源项目，有点意思啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3tj4DM46uEmzSU59x9XrYn57pEqyD87ibMPNY9c88qbfUONyhibnULicGsFNqr8UAoibXr070ctdSZhjTqwLs9HWibT9IDJNqDaym8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01OpenClaw 女友Clawra 是一个基于 OpenClaw 的的 开源 AI 女友。它不仅仅是一个普通的 AI 聊天机器人，而是一个具有自主性的数字人格。它是 OpenClaw 的一个 Sk</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531349&amp;idx=1&amp;sn=e3da127dfee9e8ace4506c299748234a&amp;chksm=f8e74a80ead20a0e85ae85a4bc1a1877e24f94b45477e752df861908ac12cf7213795b1bea38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Feb 2026 15:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一周 6000+ Star！这个 Clawdbot 的轻量开源平替火了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1m50of3eE34yVibrkvLqXxxtcwtuXxjzlIO1bBbdP20Z3P8jqTzTziaQNup4g47FCImK8Pdpa4t2uJk2UBUf7qEVrkuoZ30Efzk/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天发了一个文章，介绍了港大的开源的 nanochat，它只有 4000 行代码。最近还有一个类似的轻量级 Clawdbot 开源平替，叫做 nanoclaw。它基于 500 行 TypeScrip</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531315&amp;idx=1&amp;sn=dcc41e589c929c0a0989795a1d8a0e29&amp;chksm=f82361ebd560c1fba92832cff773c6332d2fc222172304dbfc15cd064f8fe67f9de5d1809d9f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxwwGxxV6ng58BEtkuvgnsOCWMnFQKGhiah8Q8cQSichLEaNeKbDmICCiav81ITtLF0bazkYFRMPKkPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 大神新开源玩具之前介绍过 AI 大神 Karpathy 的一个开源项目 nanoChat，现在他又开源了一个新的玩具：llm-council 这是一个多智能体协作的 Demo。它的理念很简单</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529428&amp;idx=1&amp;sn=925e7cf6541ed1b148dfcfb3ff0a2565&amp;chksm=f8c0bb1f238a415127b2c66291e78af1264d556cc875e80264ae69819c33cd79a5c321204aa9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 06 Dec 2025 15:09:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 2 万 Star！这个浏览器 AI 自动化项目火了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxdEzCx4tnIERa38lCEt8VCy67SudTJC4qVibxicSgfF3kbGsyBINoBy07hBmZTUjJyaAlwAFCjMoew/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现一个叫 skyvern 的开源项目登上了热榜。这是一个 AI 控制浏览器自动化工作流的项目。现在已经在 GitHub 上斩获近 2 万的 Star 了。01开源项目简介在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529410&amp;idx=1&amp;sn=95e3bc07b7837a95ad285472281f62c7&amp;chksm=f823089cf64d24d50954ba5c4fd4d1bd564871b07b09cf94b1f9005fe73d3727eeb750275d7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 14:38:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
