@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[QBDI原理详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3spRNsE9StbneXgyp38WOxGmWxZUM82icnfpKncsfUIbANG8e72icW57ghRqNLUfZtNNQdyyrG11fvUJ11JAKbibefNpqQAAqntg/640?wxtype=jpeg&amp;wxfrom=0"/><p>QBDI的代码位于: https://github.com/QBDI/QBDIQBDI的含义为: A Dynamic Binary Instrumentation framework based o</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611115&amp;idx=1&amp;sn=293899176e4090adb7cfc5878204988c&amp;chksm=b02779bdbf308f8c844f5d72f202ad578950ee4c6ddf4a923e0d7639c5af1da92b87a4bc005b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[除夕快乐 | 马年大吉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3GktdPWpkRqkDeAia5icek4b98YFiaehkmBLWjCELbxIuMKSF6CwXBrBfyF3OuR9Ixiba7Ey0NuXic0cibOTrVjOUlGWrfh7bFnqNibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🐎希望大家新的一年平安·健康·好运</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611115&amp;idx=2&amp;sn=f86e72087a20f262d692d931b53e2e03&amp;chksm=b0e7198e99eac498145abc4f97bc657c6ab158160630a2766c9bf20b757d5fa0b9734ef66ba5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[去间接跳转/模拟执行学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3vjbSb3EnzjzswumR5VYddoP3gQg56tI6RfNSt9ln0Dy0z7daeIicVATBSKqRRdeWWXE7O64ricCoPfbF4POouEo4Te5pgw8LQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>间接跳转这个高级混淆，接触了unicorn，unidbg这种模拟执行脚本后，发现这种特别适合对抗反编译器无法分辨的一些混淆，本文记录学习过程以及以京麒2024的drillbeam为样本尝试去去除间接跳</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=1&amp;sn=fc44c27ffd6e4d0765228ba895da097e&amp;chksm=b0c474c3478251223f8bf744288b87c4b6f12b4ac16d28e13c4be4cfaad24c2328de0c1adedb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ERO7Lf5qIWeT23rfWBIBYImsP2kibVTyibAjdvygTwvcs2HMflKXHXm66fBjdXLxvAlqFxMMScVRibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>*购买即赠送【pixel 1代】测试手机一部随着移动设备的流行和普及，手机、平板、门铃、路由等终端使用安卓系统越来越多，安卓逆向领域的需求也在持续增长。很多刚毕业的大学生想要入门这个领域，并期望打好基</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608486&amp;idx=3&amp;sn=d59ca262fd7eabbe8c2309847203408c&amp;chksm=b0a1b8166dfdf199412a73d607df40540f080d84e72b788c342ef4dbc0999bf4218e943fb110&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 18:01:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入浅出 Ollvm 混淆原理及反混淆技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GU7Z2cSK0VVkqRmRTec3xAqvVne6hYomrExO1ffxeVx58icpk0go57ubSn2ogqm17FB5S9unmy5Ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在对抗 OLLVM（Obfuscator-LLVM）混淆的征途中，理解其混淆原理是制定还原策略的第一步。本文将深入探讨 OLLVM 的三大核心混淆手段：指令替换、虚假控制流、控制流平坦化，并分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=1&amp;sn=30666abdc58e2d9e0ff07ebb1aec8f2a&amp;chksm=b02fa96550c5a50791ae62b87fa8df892a4641c1b7b8ac59f3f36d29d372d80a517f48ddcd41&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Redis 远程代码执行漏洞曝光：官方容器现“老式”栈溢出高危风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0Gu80eKbg3sXz6xFfqLZjpJRZBAKesvIlQOicJpzBLUIz5n0PKBMZE5bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog安全研究团队公开披露了Redis数据库中一个高危漏洞的完整利用链，证实“老式”栈缓冲区溢出攻击在2026年仍具极大危害性。该漏洞编号为CVE-2025-62507，CVSS评分高达8.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608480&amp;idx=2&amp;sn=7fb7a1fd128f9485c34b6412149976d8&amp;chksm=b0e9bcfaa822fd25395249bff13faa04aa26555f387c1a2685bac36dfb45b5e61fcfb09fedd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
