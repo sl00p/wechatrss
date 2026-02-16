@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 还没整明白，又来一个 ZeroClaw 开源神器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gmSdT2NYiacZFpsxI0qF0jWD1AkTo35wX8AibQV75JIwb8eSe3XicUlgqheS1icfMpHcDeQicYCGuBIosDvcu1JGdOdjIrKnAwibkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>26 年开年最火的开源项目 OpenClaw，现在已经 20 万多的 Star 了。它 Star 的增长的诉求远超所有人的认知，估计也包括 OpenClaw 的作者。。。。在你自己电脑上运行 AI，并</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531514&amp;idx=1&amp;sn=e06b9d70fa8289d77593dd7c027e030a&amp;chksm=f81a0b4ff7edff388ffbc434f796e42ea9b736e06403b487ce46cb948490a1af65eeeaa4a92c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Feb 2026 12:04:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0OKQq2yc7icgicbMBGMgBibHlc7hLpkkorzDjpKibrVtzpJUkIz153W8bos4hyxPGhWL0liaaD4osQm6I0g94fgjlTPGGwZm6ENic0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>打开 Kimi 的官网，你会发现刚刚上了一个 Kimi Claw 的能力。Kimi 版的 OpenClaw 来了。现在，你不用担心受限于硬件或者复杂的部署流程。用 Kimi Claw 就能实现云端一键</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531449&amp;idx=1&amp;sn=894beeca3897c7ba9b269b59e12cb649&amp;chksm=f857695d444fcfe071c119c7c8c47d255e88c7802e33106aab938205a91f3ebeb50cbde1e896&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxVQ5PJJ3KsYwat5awEegjlvlqLaia2ZjMK7ggWAJP43TLhTmywjjjAhA169WyrI6Gr97d1ib83VbGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>打开 GitHub 趋势榜单页面，你会发现一个叫 Librepods 的开源项目登上了月榜第二。这个开源项目的描述，号称：AirPods 已摆脱苹果生态的束缚。来看看这个 GitHub 项目什么个情况</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529497&amp;idx=1&amp;sn=5687231705cda89b6a1171d1a4e082c1&amp;chksm=f880dd2e428d52bb09e98e14fb4b53c6e27df9951e81aa5a1939e73178bc8b06eddf22878219&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Dec 2025 15:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 10 个本周在 GitHub 上火火火的开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxVQ5PJJ3KsYwat5awEegjlic0HeRdtaJ8pgLUlvibDAcfzZomKZ6STlIzicSFFDxrNVVZGMeJLF7iaUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Linux 上运行 Windows 软件winapps 这个 12K Star 的开源项目能让你在 Linux 上运行 Windows 软件，体验却像原生 Linux 应用一样丝滑。通过 KVM/</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529468&amp;idx=1&amp;sn=99bab6296dc990f9c04a787268beffea&amp;chksm=f832778a106249eeff4f0a1071f635acab875ef1fe1837f52ac7dbea1fb553171a11eab8b67e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 07 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
