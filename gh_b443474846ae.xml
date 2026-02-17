@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI 一线开发现实观察：能同时盯住 10～20 个 Agent、跑小时级任务的人，正在把其他工程师远远甩开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh1efAzRKnjPkba3hfWPxNiayU7WR7sot6nyTFTSodUnOXxJODNOiaiaAy4hrCwRLbdTAMFGib3IX95lhFmOTpXkEsLtF6n8d7LgPs/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina 很多人还在吵“AI 会不会取代程序员”。OpenAI 内部给出的答案是：AI 正在把工程师重新分层。差距不会慢慢拉开，它会被工具放大、被流程放大、被组织放大，最后变成一种很难追回的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275835&amp;idx=1&amp;sn=056d0daf57d1623a1f6d346a1458f316&amp;chksm=bc30a184347f04df6231f10ed79ecf5a64d9a01b9a0b19761be5644d62c168d27fd62c1833a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Feb 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gemini灵魂人物、传奇工程师Jeff Dean最新访谈：未来人均50个虚拟实习生，用不上专家了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhCiaF50ibRfibZWJhcIUD8ibM8SGDrBSY8CoxzUlBrWfkicBOsMtSbvN2MzmA6Zec2MibnwNlDTvSNWqykD8S7G2cv2WsJ0LXrMA79w/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 ｜华卫 “简历基本上就是 AI 的时间线”，这是许多人对 Gemini 背后的核心推动者、谷歌首席人工智能科学家 Jeff Dean 的评价。从 2000 年代初重写谷歌搜索全栈到重启万亿参数稀</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275813&amp;idx=1&amp;sn=15c2b8fe5505075465e3548c68c72c44&amp;chksm=bce84d2bd084af5a4336adac36ff0d78e14fdaa9c01306eec7c890ec6b97c0782a072d0293fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMedYX6bF7uLFvSLLLdN0aP3RwpibicMmJhn82MRm6zNe4d0dLtNn8Z1gdBcXByH5ssGGHKTib1h2hmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 1 月 29 日，百度正式发布并开源新一代文档解析模型 PaddleOCR-VL-1.5。该模型以仅 0.9B 参数的轻量架构，在全球权威文档解析评测榜单 OmniDocBench</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274179&amp;idx=4&amp;sn=1f3f027d43984bdea727ba84fdf55bba&amp;chksm=bcbbc09844392975ad09bfbd299162b80ac7b9bd765d2247d484e55518c659336b04809654f1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 13:27:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Moltbook底裤被扒了！150万用户99%是水军，创始团队自导自演]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMocDVs6NJPp3N7Nf2agZMRAGWgNibKalO8EarmH5gSncOSibNNIoj3AKy6hS0znSD8YLzYRLvIUt5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 1 Moltbook 突然爆火，技术社区炸锅了 在经历了 Clawbot、Moltbot 和 OpenClaw 等一系列实验性项目的演进后，一款名为 Moltbook 的社交平台在科技圈迅</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274116&amp;idx=1&amp;sn=bcc2216794c501e02337086102960812&amp;chksm=bc48feeedb8f71430e02818eff492465e14a82d7b4d42e91f09b2acbd75320f8e23f5b312c73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 14:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

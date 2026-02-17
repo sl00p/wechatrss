@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw日志投毒漏洞可致恶意内容注入]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1yuJNKDsCiazveibGelZCwXNOXZLzLnZPePE1rCXVDKnT0fHrcuTERicuJrLcbAaNXv5kIgvkAZ091sYbeaQfk8Pw9OSWibL3THbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 作为一款快速崛起的开源 AI 助手，用于连接消息服务、云服务和本地系统工具。OpenClaw 近日修复了一个"日志投毒"漏洞，远程攻击者可利用该漏洞将恶意用户控制的内容注入日志，而这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335225&amp;idx=1&amp;sn=16c8d2e3afca10a0201c42f89e042c4e&amp;chksm=bc2f14cb43f7429ef153ce46d75d6780a68529ffaad44fce526369d91eadd05a6a223fe58333&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[macOS木马DigitStealer活动激增，暴露关键基础设施弱点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0dL39eUAyg969dDbzpxiabbjuhHiaClKtibiaQt8F603m9HjzywAXUnuxSWfZZAZN3HX0oIgBFTSkCwBELVo3kiav1Q8XG9DD5ngcs/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，针对macOS系统的复杂信息窃取木马DigitStealer活动激增，引发网络安全界高度关注。这款2025年末首次出现的恶意软件专门针对Apple M2设备，与普通威胁有明显区别。该木马主要通过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335225&amp;idx=2&amp;sn=06fd12ea870a74d9a3b0d723155f6ffe&amp;chksm=bce9286fbdc13f4d58ae57ee1f2501a1c6f01896da8aa80b53c7cd3864508e6177ba7394fe4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VulnCheck获2500万美元融资，强化实时漏洞利用情报平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3JjpXA2rmBB4M3bSm4ntK7h6oFDPhAxrFSGt1Wh3zQ3z3icQpL3mCy4kYNTUuT2d2pBucONkia5poV8DahMiakO05TiaZBJ0ybYUM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全威胁情报提供商 VulnCheck Inc. 近日宣布完成2500万美元新一轮融资，用于加速业务增长并扩展其情报能力。Part01实时漏洞利用情报填补安全缺口成立于2021年的VulnChec</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335225&amp;idx=3&amp;sn=84794d7ce8502fb23a2cfc106029f5a3&amp;chksm=bc44b2158ab933f09020b0ad77fe605001fb7831b3203530d0cb97c29c63e2aaa6a82497b864&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[迎新岁 接鸿运 | 骐骥开春]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0bIXDuPhDk7Tc8pGPcvAcDXJGCxIj656aIVzxDCJpicoibA7pMXLgc2j3ibz1iaw6JqlpojsxErOibiaQGEnDEYjyCRTicOp3wzrTZO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335208&amp;idx=1&amp;sn=2a1bbbe52f4be9b1405d044ffd15efeb&amp;chksm=bcfffbc1bf7bbde3ae6cfa789e91161cf267beb798488dd6c34e9e0b71647746164eb5caf853&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYCrDFp2j7gY5FFSE7fa0yp0H13qKPMib1aAz8W5UHPzYNicmPmJvibThnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞利用详情攻击者正在积极利用React Native CLI Metro服务器中的高危漏洞（CVE-2025-11953）。该漏洞存在于React Native CLI的Metro开发服</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=4&amp;sn=8f38a3467041d5edc5074d61094cdf8b&amp;chksm=bce9237115760c8f2066b0f380c109ebcb7f203adcbd125693a3dd4b265aec0f0052d0c67050&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw高危漏洞可一键窃取主密钥，攻击者直通上帝模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SgoPHsqlGnJqsib3bWOXwJyfBqEBDAIOicXWGPVUQqV70HExGvOTXvic7hX4NRLBKVWGw5SiaaNurtw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度安全研究团队depthfirst General Security Intelligence发现，开源AI个人助手OpenClaw（被超过10万开发者信任）存在一个高危漏洞，该漏洞已被武器化为可一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334753&amp;idx=1&amp;sn=524b36dd1ad4438e007591490307244f&amp;chksm=bc7a5127b23f06363d21c7ebe5e0ea0591a90c471f2963c2907292b115b502a9fc4d5ea29bab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业如何控制AI大模型的应用风险；国内部署AI Agent的安全法规要点 | FreeBuf热门电台精选集第十八期]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SgoPHsqlGnJqsib3bWOXwJ3ibMiaBe4fHeaWV0ibVEw7icTjry9506cwcic6ticWIzGTsw7L0uQWibJ3jfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢本期热门电台抢先看：1.聊聊企业如何控制AI大模型的应用风险🤖2.公司在国内部署ai agent，在安全方面有什么法规需要注意⚖️3.小公司能搞的AI安全🎯————————————『FreeBuf电</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334753&amp;idx=2&amp;sn=a57d779bceef469e1708c9b1daf70f17&amp;chksm=bc4e2d0621fc01c9e63cecb48562039bb5ca87edb8dc5b97a8ff6607533aeca5ec29f68a1d6a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客攻击MongoDB实例删除数据库并植入勒索信息]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR38SgoPHsqlGnJqsib3bWOXwJsCX2XSnFM65GZjhwWmC8MU58ZWt8Zcz3I3NkyspnN4J3TwgLMOJLyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正通过大规模自动化勒索软件活动，持续攻击暴露在互联网上的MongoDB实例。攻击模式高度一致：攻击者扫描公网可访问的未受保护MongoDB数据库，删除存储数据后植入比特币勒索信息。Part01M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334753&amp;idx=3&amp;sn=92b6607bec6a43ab6b1eafa58844ebfb&amp;chksm=bcef5d12d5868a72b21ea506b3409b02eb276da67b383c6b5e05a7b83a092cae74fd061e7bcf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
