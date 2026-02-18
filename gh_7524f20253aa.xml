@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代下安全工程师培养的新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2OypHuZAUE0bVazicdlmaMIUfLZp527cDM6cBLztVZicmwx8b6SOeibsxeVh2MiafMOyLg976iblIIjcjUsCs8PLkQU1u1YQEpjB7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI开发者时代CISO面临的新挑战：代码安全在DevOps高速迭代的压力下，首席信息安全官（CISO）本就在艰难地帮助开发者遵循安全编码原则。如今，随着AI辅助开发重塑代码编写与交付方式，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335267&amp;idx=1&amp;sn=0958458c3a088c57f9bbb0cedbfd70bf&amp;chksm=bca559cc958de995b9767cae45ec72f42f769c3ca85f533af2f017284d48634765a0ad70cd6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具备Agent后端的AI安全运营中心，将革新传统安全运维模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3yzQkz6kDpGBrTUqhfpNUy5Oxl6WGg7AiaftT2OS75yI2v48q1KDYHSzZFujhTMv2ITvQvNwfzhKAiac9knXH1icJHSQ2L5OK8mM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全AI自动化提供商Swimlane公司今日发布其安全分析师方案中的新角色——由主动型Agent而非被动助手驱动的AI安全运营中心（AI SOC）。该公司表示，这种新型AI SOC代表着安全思维的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335267&amp;idx=2&amp;sn=b73c99098609c034e329cb38d5105250&amp;chksm=bcabeb434e34bc10859e658999232b4c5f8fdc4f6586b458686c7d036f2aa065d3a478d59af7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Firefox 0Day漏洞：单字符错误引发RCE风险，攻击者可劫持系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1zh6sudrjBnc7w9AibjlFks5Q4LibjfbkCb6TkIspYZR4fzbfVTKfGiaibdiaMIs8OKhOYxTP26NlkVKmAIaYsvGCY6a7spyjFZ9Yk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mozilla Firefox 中存在一个严重的远程代码执行（RCE）漏洞，该漏洞源于 SpiderMonkey JavaScript 引擎 WebAssembly 垃圾回收代码中的一个单字符输入错误</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335267&amp;idx=3&amp;sn=37a68727cb5661ca6a5a86fdb918c24c&amp;chksm=bca2cb2401b186a0323e409bbb18ae730dab4df29cf2ebe85e0a3ef7cbbbd8324ecafc4cc3d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw日志投毒漏洞可致恶意内容注入]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1yuJNKDsCiazveibGelZCwXNOXZLzLnZPePE1rCXVDKnT0fHrcuTERicuJrLcbAaNXv5kIgvkAZ091sYbeaQfk8Pw9OSWibL3THbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 作为一款快速崛起的开源 AI 助手，用于连接消息服务、云服务和本地系统工具。OpenClaw 近日修复了一个"日志投毒"漏洞，远程攻击者可利用该漏洞将恶意用户控制的内容注入日志，而这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335225&amp;idx=1&amp;sn=16c8d2e3afca10a0201c42f89e042c4e&amp;chksm=bc2f14cb43f7429ef153ce46d75d6780a68529ffaad44fce526369d91eadd05a6a223fe58333&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[AI 8分钟攻破AWS，云安全防线形同虚设]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYqbs2w18wv9CHPcPIWLIe2VjEHL52xagj01z6OibPcDib1GIhic3fJMYDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI辅助攻击者实现快速提权攻击者借助大语言模型（LLM），在不到8分钟内完成从凭证窃取、权限提升、横向移动到GPU资源滥用的完整攻击链，其速度之快令防御者几乎无法反应。Sysdig威胁研究</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=1&amp;sn=e052da512a608ee2d0ee20b662e93404&amp;chksm=bc6295a6613736fd36dfda8a460a69ba9366eda04276b8906ad428ecee812b8f8ff748c1b4e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软将默认禁用NTLM协议，终结30年高危身份验证漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYsRuLPlbyDWdPunyuekupSEva2jDNuHEhZEAtmrxUF7WrdxK7CEnY3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软正在加速淘汰NTLM（新技术局域网管理器）这一已在Windows系统中存在三十余年的传统身份验证协议。该公司宣布将在未来Windows版本中通过分阶段路线图逐步减少、限制并最终默认禁用NTLM，这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=2&amp;sn=c0c1884ae2790f987769327ec59f9954&amp;chksm=bcd1bd198ef391c5cc18da5757c4fd036733ec77cb7faf0513ae45b63cb1ca28947394fb1561&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux平台“ShadowHS”恶意软件武器化Hackshell工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYticjhc1licn0TibPaiatnEoetKd8IFibJKuDgbD1C6abL53HY58tmjicwF5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cyble研究与情报实验室（CRIL）近日发现名为ShadowHS的复杂Linux入侵攻击链，该行动利用高度混淆的无文件加载器来部署开源工具"hackshell"的武器化版本。与立即消耗CPU资源进行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=3&amp;sn=c05a661edbb89f3b081323681dabad4d&amp;chksm=bc74e3a2ce633bf5dc6a7cd22bbd10e768dcc0aeca1d0af1d6066d38bd40acac961d91b6e81a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用React Native CLI漏洞提前部署Rust恶意软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYCrDFp2j7gY5FFSE7fa0yp0H13qKPMib1aAz8W5UHPzYNicmPmJvibThnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞利用详情攻击者正在积极利用React Native CLI Metro服务器中的高危漏洞（CVE-2025-11953）。该漏洞存在于React Native CLI的Metro开发服</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=4&amp;sn=8f38a3467041d5edc5074d61094cdf8b&amp;chksm=bce9237115760c8f2066b0f380c109ebcb7f203adcbd125693a3dd4b265aec0f0052d0c67050&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>

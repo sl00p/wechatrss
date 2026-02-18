@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 6 个本周 yyds 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3hjKAUwV0VPQibertPFK4CKBm1O6QIC7DHicjiaPNOcNbAEub1tqKCCr1AgE0R2yuD7Uia0Z4nKrdickMU3H5ccSjBGasV8F0K6yfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>01谷歌开源的文档信息抽取神器最近逛 GitHub 发现谷歌开源了一个挺有意思的项目 LangExtract，目前已经有将近 3 万的 Star 了。这是一个 Python 库，专门用 LLM 从乱七</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531516&amp;idx=1&amp;sn=b2f05e6fbbbcc8525df191034a176c4d&amp;chksm=f87475e7511237145a3bc7b80ee57f3ec9944b1ec89e9815f21d6260f52571ef620ae39e1230&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Feb 2026 12:12:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 4 个神级 SKills 开源 GitHub 项目，非常实用。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0nrCBibQwhj4AQxOjRyiaDIb6sVQGBqemiaR3qwQVzJpc2IwKWNibVp12mCSeuQDXPZXJULtmWHJs1iaD6zR04C50WibpBf6xw6ibVqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01营销人的 Claude Code 技能库这个是专门为营销同学准备的 skill 包，已经有 7.5k 的 Star 了。作者是个叫 Corey Haines 的营销大佬，他在 X 上说这是他发布过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531515&amp;idx=1&amp;sn=f248513e73e1bbfa3f125256176f7450&amp;chksm=f8dc704f228bdabcc803f38ee487c0940bf1579147e7395cc18007e524f55f1dcc8c35ff1fe2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxwwGxxV6ng58BEtkuvgnsOXmhHlVv9YCrEF6s5bMBdOWfO6P55qiaA2viahwrYVGUgYjzrYaVWIw4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>01年会抽奖开源项目推荐两个年会抽奖 GitHub 开源项目，年会能排上用场了。第一个 log-lottery 支持 3D 标签云效果，所有参与者的名字会组成一个旋转的球体、螺旋或网格，科技感十足。不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529519&amp;idx=1&amp;sn=be53c42a05a1c3b7be9fcd8d9f173ec6&amp;chksm=f8eb2a1df42225c966e8f37cd32041c6d56909735709b9aa0726a383ec4524eb1da529921a99&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Dec 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[建议去 GitHub 学这 6 个项目，打破 Agent 的信息差。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzGHxsqt3CDxSl5ZC9C62ssibiaB7g8BIib73MfZSTAp1njmOrurqGBjZQHHdYPtrQoCtwNYeLXY4D3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，毫无疑问将是 Agent（智能体）元年，GitHub 上无疑是非常重要的一个学习平台，上面有很多宝藏教程。今天推荐几个 Agent 学习开源项，，感兴趣的可以先收藏本文，方便后面回顾。01</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529518&amp;idx=1&amp;sn=a59d9fc6a0df8a78401b900ea3bf6a4c&amp;chksm=f8d3e05d1875d37298d0a324b355fa71e5f3a34079a3ed7ddd4e2d617345fb4746dbfc4bc5cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

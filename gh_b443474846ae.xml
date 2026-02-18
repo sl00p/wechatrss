@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“软件工程师”头衔要没了？Claude Code之父YC访谈：一个月后不再用plan mode，多Agent开始自己组队干活]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhVvDA1l1z7hOElibTtFIdC9xaDjtrr7mibmvVqDnC6xchLUAr60NH767H3gDqoHXtZFZqQA1CiaSK8SX8WZCsURtB15Bucj1ic3wE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 木子 “我们会开始看到 “软件工程师”这个头衔慢慢消失。 可能会变成 builder、product manager，或者头衔还保留，但只是一个遗留符号。因为大家做的工作不再只是写代码：软件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275912&amp;idx=1&amp;sn=28684e1adf869f59fd295dd4184c6890&amp;chksm=bc98cfa1b3554a1a088c6234c33d02ff8653f993bd5c590a33024fce9f252c0114ee479da222&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Feb 2026 17:25:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 一线开发现实观察：能同时盯住 10～20 个 Agent、跑小时级任务的人，正在把其他工程师远远甩开]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh1efAzRKnjPkba3hfWPxNiayU7WR7sot6nyTFTSodUnOXxJODNOiaiaAy4hrCwRLbdTAMFGib3IX95lhFmOTpXkEsLtF6n8d7LgPs/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina 很多人还在吵“AI 会不会取代程序员”。OpenAI 内部给出的答案是：AI 正在把工程师重新分层。差距不会慢慢拉开，它会被工具放大、被流程放大、被组织放大，最后变成一种很难追回的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275835&amp;idx=1&amp;sn=056d0daf57d1623a1f6d346a1458f316&amp;chksm=bc30a184347f04df6231f10ed79ecf5a64d9a01b9a0b19761be5644d62c168d27fd62c1833a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[一项 20 年前的 Oracle 排序算法专利到期，开源数据库集体受益]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMedYX6bF7uLFvSLLLdN0aPmR7vviaXbVFb05f06EvIqRjYoiaCiakGOicNYoVKxWHUbEumcd9o5ZzMFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 田橙 近日，一篇文章披露，Oracle 公司一项关于高速排序方法的 专利已经到期，这意味着开源数据库可以自由使用这一算法。该排序算法的发明者 Mark C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274179&amp;idx=3&amp;sn=5ea9d9b578b321a6ccdd06d2bb6a9879&amp;chksm=bc1f62cccbccac4306b2c2281e50e4f82ddf4ce88f5d6b14a4a940e22acf082696724eff264e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 13:27:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OCR 竞争加剧！百度开源新一代 SOTA OCR 模型，性能超越 DeepSeek-OCR2？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMedYX6bF7uLFvSLLLdN0aP3RwpibicMmJhn82MRm6zNe4d0dLtNn8Z1gdBcXByH5ssGGHKTib1h2hmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 1 月 29 日，百度正式发布并开源新一代文档解析模型 PaddleOCR-VL-1.5。该模型以仅 0.9B 参数的轻量架构，在全球权威文档解析评测榜单 OmniDocBench</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274179&amp;idx=4&amp;sn=1f3f027d43984bdea727ba84fdf55bba&amp;chksm=bcbbc09844392975ad09bfbd299162b80ac7b9bd765d2247d484e55518c659336b04809654f1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 13:27:00 +0800</pubDate>
     </item>
   </channel>
