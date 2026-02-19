@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 5 个 yyds 的语音 AI 神器，强推第一个。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0Gc4smSM9jRZuKDrCfk4XFxXD9ZnSicNqbTPKRuCDbe4IeUgQZ5x4wHicwXtxcj21db0IliariamMicDAD6JCFThSkXsngftgAOCvM/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Noiz AI第一个是强推我一直在用的语音 AI 神器：Noiz，最近在海外特别火。它曾经登上过 Product Hunt 榜单 Top2。地址：https://noiz.ai/Noiz 不是会读</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531518&amp;idx=1&amp;sn=8cd2f2b60570b53f31e3dc5c4af64c7c&amp;chksm=f8f8d7b09669adba8b28bb9e316e33dd6753356036145527d4f9fc8094a4df0c35e8e73ef9fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 6 个本周 yyds 的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3hjKAUwV0VPQibertPFK4CKBm1O6QIC7DHicjiaPNOcNbAEub1tqKCCr1AgE0R2yuD7Uia0Z4nKrdickMU3H5ccSjBGasV8F0K6yfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>01谷歌开源的文档信息抽取神器最近逛 GitHub 发现谷歌开源了一个挺有意思的项目 LangExtract，目前已经有将近 3 万的 Star 了。这是一个 Python 库，专门用 LLM 从乱七</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531516&amp;idx=1&amp;sn=b2f05e6fbbbcc8525df191034a176c4d&amp;chksm=f87475e7511237145a3bc7b80ee57f3ec9944b1ec89e9815f21d6260f52571ef620ae39e1230&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux9blHAFx4TQ0vHqITOYCoqjxoQ0icIL2CgztfI4DBCibE5ZPSic77DmNHibGsLibDuYoaQ8o5CmvHDOUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Nano Banana PPTBanana-slides 是基于 Nano Banana Pro 模型开源的 AI PPT 生成应用，解决传统 AI PPT 工具模板僵化、设计感差和素材质量低的问</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529523&amp;idx=1&amp;sn=790a1109f5bc841fafdca08e4f8ab0dc&amp;chksm=f84cfbf86ec0368313a19962f90b7c272c2260ab989a60f1fee081d5ba220a3b5bf492080393&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 15:20:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逛逛今天推荐 4 个 GitHub 开源项目，非常实用。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxwwGxxV6ng58BEtkuvgnsOXmhHlVv9YCrEF6s5bMBdOWfO6P55qiaA2viahwrYVGUgYjzrYaVWIw4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>01年会抽奖开源项目推荐两个年会抽奖 GitHub 开源项目，年会能排上用场了。第一个 log-lottery 支持 3D 标签云效果，所有参与者的名字会组成一个旋转的球体、螺旋或网格，科技感十足。不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529519&amp;idx=1&amp;sn=be53c42a05a1c3b7be9fcd8d9f173ec6&amp;chksm=f8eb2a1df42225c966e8f37cd32041c6d56909735709b9aa0726a383ec4524eb1da529921a99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

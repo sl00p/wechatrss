@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI压缩安全响应时间，重塑网络安全攻防格局]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1M30FmSeWnSqOLM80IibPxxiakhLpz6vDHRW4QkTumsmRmB9hfmG6uYiadrSSBZbva9OkzXJmL2G0wbk71eKS2GsKxs5mAYicNUhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们对这些情景早已司空见惯：开发人员部署新的云工作负载时，为了赶进度而授予过度宽松的权限；工程师生成"临时"API密钥用于测试后却忘记撤销……这些看似轻微的操作风险，将会成为在后续周期逐步修复的技术“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335284&amp;idx=1&amp;sn=d70511baf06383a5de2d042fa4fbd977&amp;chksm=bc4607fd0a7565e248c4423bbbaf18288913a32852ec3675fecd16c4be6ea564d541aed8f00c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MCP服务器漏洞可导致任意代码执行与敏感数据外泄]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2gV1vXEBNsRnFbcXBaHGEx1eTFBj8RAvciaqCcKdFjlsDamv8aosmwoxqxuqaiaGWjlxzPxDOHsjYWxZy8zFukCdviaHb3xPRTsk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01协议架构风险暴露2024年11月推出的模型上下文协议（Model Context Protocol，MCP）作为Anthropic设计的突破性标准，旨在无缝连接AI助手与外部系统和数据源。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335284&amp;idx=2&amp;sn=e4cf01cfb5b0d851ba6103ba5cad746e&amp;chksm=bc2aa9e926ed9ff3f05f94287569da95b4ff51014b786f835afa19cea2ca61bca7cf5ad50cf1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用Emoji代码隐藏恶意指令以规避安全检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2Y0GS01tCmvBlvDPAno2cMXEegzNpc2TqeZjYQqTsKfLYreA8NEZ4jhr41fz4RgQYmxKTicIVrbU5gV9Kr2CvDC1jLM44hk4xo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01传统安全工具的检测盲区威胁行为者已开始使用一种名为"emoji smuggling"的混淆技术，以向安全系统隐藏恶意代码。该攻击方法利用Unicode编码和表情符号字符，绕过传统安全过滤器</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335284&amp;idx=3&amp;sn=7263917f596dc1a7517e65d7f349f8e6&amp;chksm=bc3cc72eef0951261c667dbbf8a611da43183ca857e82511b9947d7d1d733171411ae5237840&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI时代下安全工程师培养的新范式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2OypHuZAUE0bVazicdlmaMIUfLZp527cDM6cBLztVZicmwx8b6SOeibsxeVh2MiafMOyLg976iblIIjcjUsCs8PLkQU1u1YQEpjB7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI开发者时代CISO面临的新挑战：代码安全在DevOps高速迭代的压力下，首席信息安全官（CISO）本就在艰难地帮助开发者遵循安全编码原则。如今，随着AI辅助开发重塑代码编写与交付方式，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335267&amp;idx=1&amp;sn=0958458c3a088c57f9bbb0cedbfd70bf&amp;chksm=bca559cc958de995b9767cae45ec72f42f769c3ca85f533af2f017284d48634765a0ad70cd6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbL6Fia7ACLFD783vd46w3QW3BA3EZVgCJsBEemAYYSnQQrUo8pANAxBmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01红队测试的智能化改革红队测试技术已发生根本性演变。在复杂多变的环境中，现代企业无法仅依赖人工创造力或过时的攻击模拟来发现安全漏洞。随着攻击者开始运用日益精密的AI技术实现攻击自动化与规模化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=2&amp;sn=f8602b7144a7d10fb9089931e7c3204c&amp;chksm=bc086de38a056e62f52bb76ac807983d927d4fcebf24ac81116af12c9049fb4dbbbad63f9d43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chrome漏洞可导致攻击者执行任意代码并引发系统崩溃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0bdicZnmBlvZsTDBxlrQDH74fFU67X2icgEOibV2p0pKfF42pDqO66hFb0aydff7HCF9CibtsAO97usg3t7iaHdJgut4XyPDkR17dw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google 已针对 Chrome 稳定版发布关键安全更新，修复了两个高危漏洞，这些漏洞可能导致用户遭受任意代码执行（ACE）和拒绝服务（DoS）攻击。本次更新将 Windows 和 macOS 版本</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=3&amp;sn=c2cafa4ea34c5d1d5efc6c1a0ec0efa6&amp;chksm=bcda3b85eedee0088bbe407560c7b52c2c3375499834ae0e229694263e3502b35b9719b4e8be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TAMECAT恶意软件曝光，伊朗APT42无文件后门锁定国防高官]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1zJ2uuAgcj0sHYSjWVdZQ3GHBxwC2G2oWPsy9Nic5obicLHJ0VjwibKuqu4tkzAbPfXAotsYnXgVJH9HcA2D6wiafaghialPtfeZnw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项针对国防和政府高级官员的复杂网络间谍活动已被证实与伊朗国家支持的 APT42（高级持续性威胁组织）有关，该组织隶属于伊朗伊斯兰革命卫队（IRGC）。此次攻击的核心是 TAMECAT——一款采用模块</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=4&amp;sn=2f72d800e61aaf6da4fa1e3b1713605f&amp;chksm=bce8d81769994d825e0e346dbbf45f4a65f84a7c85230f392a2d2b98d5cd06f0fe75e72ed213&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 8分钟攻破AWS，云安全防线形同虚设]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3icfgFySDVR8vQfO3iablplDYqbs2w18wv9CHPcPIWLIe2VjEHL52xagj01z6OibPcDib1GIhic3fJMYDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI辅助攻击者实现快速提权攻击者借助大语言模型（LLM），在不到8分钟内完成从凭证窃取、权限提升、横向移动到GPU资源滥用的完整攻击链，其速度之快令防御者几乎无法反应。Sysdig威胁研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334777&amp;idx=1&amp;sn=e052da512a608ee2d0ee20b662e93404&amp;chksm=bc6295a6613736fd36dfda8a460a69ba9366eda04276b8906ad428ecee812b8f8ff748c1b4e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

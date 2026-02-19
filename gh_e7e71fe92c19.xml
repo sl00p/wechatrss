@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[第十届安全开发者峰会（SDC2026）【议题火热征集中】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0GzIErjYL8bcIIzKHDj4hdAfTHMmeV7JmJo6icwMdfQ0Q4bhgwXrfHibag/640?wxtype=jpeg&amp;wxfrom=0"/><p>自首届安全开发者峰会举办以来，SDC已经走过了九个春秋。我们见证了安全行业的蓬勃兴起，也陪伴了一代开发者的成长与突破。2026年，SDC将迎来具有里程碑意义的第十届。我们将集结全球顶尖安全研究者、开发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=1&amp;sn=f063788f8971edf449fd09571d515ba7&amp;chksm=b01f20ebb58e1799ddf4500e9cbe16ff11fc5a9b3de432dd3101204ff9f16921cdeb874929db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[刺杀 VMP 3.9.4混淆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2VSlvt4hRoUibNxb0Emib5cQPEP3kZnKkoKAAD7e4M1sY0RCXnNiaiaGBnCPGHaP5iarrsBIGRMMgiay55LvTGGWYwKz02M9A5zRppM/640?wxtype=jpeg&amp;wxfrom=0"/><p>实际上我想研究的工作是借助符号执行来完成vmp虚拟机里各 handler 的语义识别，不使用以往传统上的指令特征识别方法（而且现在的vmp似乎实现了单个 handler 里集成多个虚拟机操作原语的特性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=2&amp;sn=92a2e9a7cef6100e9eaf3fc5eb991381&amp;chksm=b0da87fa27841cd3c39292683e849178f137e5d4aa41eafea66451bb92ce0149a9689e76c7d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026新春致谢 | 礼承厚意，马跃新程共青云（留言点赞送新春礼盒）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Ro7VuicxpgMPvpuFwXicZw0orraozl05lDVNTGKKosKNu3bk9z7h31XyiblzKPXZKWMqlo0qPv7ngV9oZiaicfq3SfOujMEo54UAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大年初一，新春大吉！看雪给各位合作伙伴和社区会员们拜年啦🧨🧨🧨深耕网络安全领域二十余载，看雪始终坚信，技术的突破源于交流，行业的繁荣在于共生。值此新春佳节，我们陆续收到了来自安全厂商与合作伙伴的暖心贺</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611116&amp;idx=1&amp;sn=f1633e927af2bef9877647a7d917e099&amp;chksm=b0156921e864737b3823aea1f0faea1f55e2ebdc6d3362fc7c02d6802c76652ebafbee9a4f6c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeG2AQmFClHq0gTwSoJibxNqoruSSOkl1FqlG8RsdMLpLOvmvibndfHoECg/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，苹果公司第二大代工厂立讯精密遭遇勒索软件攻击，内部机密文件被泄露，此事对苹果全球供应链造成冲击。目前，黑客已公开部分内部文档，涉及生产流程、安全规程及供应链协议等敏感运营信息。立讯精密在苹果供</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608566&amp;idx=3&amp;sn=c4ddde5b43e0d9340a712d7a4282b265&amp;chksm=b048db6f412cd0fbd69a6fad6f2f469ccdc08ee8e2c96b22f638d4aab0b14dee74c24db89d23&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 18:00:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[堆学习：Unlink attack]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HG09guKdbiaf5tFhj3NV64IHtnqQz8Z6GIJU47wd5PBSjc5cibkrGIu630ibgZXxphfAHaAWl5uoybQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>基础知识什么是 Unlink？在 Linux 的 glibc 堆管理机制中，unlink是一个核心操作，其字面意思为“脱链”。当堆管理器释放某一 chunk时，如果发现其相邻的 chunk 处于空闲状</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608486&amp;idx=1&amp;sn=b8e1778fa948ae6706cf7984a921faea&amp;chksm=b0fa4eb7315d041815a9de7185997c691357fa75e6aa2cbfbf8dac0e5508111fbe4ddbec5951&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 18:01:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI助力单人一周开发出高危Linux恶意软件VoidLink]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HLodIS1tvaMUEXVwNF2ZVoxML9txZAuUGKTWrDWdsRjO0m9T3gFjibwGY8wh2gOv6D9JMQEKb6WjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日， checkpoint研究人员发现一款聚焦云环境的Linux恶意软件框架VoidLink，其大概率由一名开发者借助AI工具独立打造，颠覆了传统恶意软件的开发模式。该软件集成自定义加载器、植入程序</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608486&amp;idx=2&amp;sn=a226507f88d347bd5363f6a2edbf9f66&amp;chksm=b06bf173adbe3b19f491a1dca4747ed6c9ea63e362ed43b42fe83c8971c0e2dc4aa08d50d89c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 18:01:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
