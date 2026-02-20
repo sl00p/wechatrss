@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic发布Claude Code Security，全球网络安全股应声暴跌]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX01q0e3E6FYsswQMFXAibdmibyhgsWrJyP7UfX8BVzLPtlIicic8rWUclo2ia0AibrhjrDkBLr3GaibXrPibmydeXnqfk1xV3RFcYYQykg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01主要网络安全公司股价下挫Anthropic 公司今日推出软件漏洞检测工具 Claude Code Security 后，多家网络安全供应商股价应声下跌。该工具目前作为研究预览版，面向 An</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335325&amp;idx=1&amp;sn=9ed0ec9935e791c0508c4ec1526dbf72&amp;chksm=bcfd7212fd791f562cea574fa323b5051bb0500f40a3f279d6ab23c199edeff1ef9d088917cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Feb 2026 12:30:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI自动化渗透测试平台PentAGI整合20+安全工具，颠覆传统安全评估模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0nB6lW2eBL1FY3M8H0eZUgcCNy1YbsNT59ib3wqE6NNcTia8wx5ZSWAqUA1Ct1SEMfd8MribuT1dicZcAtTPuxHwe6mTOibsEw5txA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心功能PentAGI开创性地采用AI驱动渗透测试方法，通过整合Nmap和Metasploit等工具实现复杂工作流自动化，并生成详细测试报告。这款由VXControl开发并于2025年初在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335325&amp;idx=2&amp;sn=579a5fb44e8975badc68d1977d99c0d2&amp;chksm=bce999b39e275be92c74610572e7ff74fdedcce68f66b85c74f588d6770faa1b817babe5aa88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Feb 2026 12:30:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenClaw AI框架曝出六大高危漏洞，含SSRF与认证绕过风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX09ygXHaRgHIaBVnxAfs1eMNqzuwlXTibIwAxdYJNG8PibxCMaXRdFoyxxdNSnyqQOxqXVI1gnmwEIibK72f150zxfp60etzkckia4/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员在开源AI Agent框架OpenClaw中发现六个高危漏洞，该框架被业界称为"AI Agent的社交媒体平台"。Endor Labs团队通过AI驱动的静态应用安全测试（SAST）引擎，追</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335325&amp;idx=3&amp;sn=81c10da0ab4a5f8937bc49cdb024e095&amp;chksm=bc965ac87dddfc30a3a383fe71b4e7507d21701c30de16c2676084f7c84fecaa404de75ecc85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Feb 2026 12:30:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI压缩安全响应时间，重塑网络安全攻防格局]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1M30FmSeWnSqOLM80IibPxxiakhLpz6vDHRW4QkTumsmRmB9hfmG6uYiadrSSBZbva9OkzXJmL2G0wbk71eKS2GsKxs5mAYicNUhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们对这些情景早已司空见惯：开发人员部署新的云工作负载时，为了赶进度而授予过度宽松的权限；工程师生成"临时"API密钥用于测试后却忘记撤销……这些看似轻微的操作风险，将会成为在后续周期逐步修复的技术“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335284&amp;idx=1&amp;sn=d70511baf06383a5de2d042fa4fbd977&amp;chksm=bc4607fd0a7565e248c4423bbbaf18288913a32852ec3675fecd16c4be6ea564d541aed8f00c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbLN2Khl3uxfulmJnFzw1lxRibUCNuwhlDTzia82PHh4CEy8HlIZqRS64IA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Interlock 勒索软件组织已成为网络安全领域一个独特的威胁，主要针对美国和英国的教育机构。与多数采用勒索软件即服务（RaaS）模式的现代勒索软件组织不同，Interlock 是一个规模较小但专注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=3&amp;sn=e1416281a86a4655382c45c54e914419&amp;chksm=bc1de19fc81171a699316f2b5fb41e8340833b17243a8f0d7767d9ccfd21e898c02b81b1d672&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Django高危漏洞可引发拒绝服务与SQL注入攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0qMuEV9a0aRRraGYCghQfaiaP5uSD4sRP13bbicWAwCWFZrgz1H2MBgM9ibiaAib7WNubN4icF5PvHA7jIhjbD4uBf3MfE8GsmLLBz4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况Django 开发团队紧急发布安全更新，修复了影响多个版本 Python Web 框架的六个高危漏洞。这些漏洞涉及三个高危 SQL 注入漏洞和多个拒绝服务攻击向量，影响 Djang</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=4&amp;sn=20741ce322c1778edbc0c50317adf31f&amp;chksm=bc16eff0fbc7b3fb346d5d042c74ab749ef1f552f8dfc63a7ff2c27470b82df3a864ed62ef80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手搓一个“永不掉线”的渗透测试员！Clawdbot+APTP，渗透活儿干成远程遥控流水线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbLSPTUT6NSzicdHffvEicQ9deklh0s1cL5zc10w90bSbseA8ab9JPLWYGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>家人们，你们是不是也这样？每天不是在看告警就是在等资产扫描结果，不是催修复就是写报告，被“安全牛马”角色牢牢套住……最近，我们整了个狠活：把能自己干活的AI智能体Clawdbot（现在叫OpenCla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=1&amp;sn=b06ecf121ba1121dec5954d358642c10&amp;chksm=bc5bc5fa78f67c52b6e6bcc8ec4646d5add5545ab6a9cee643ddc297e12e0fc69e12b76fe076&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年顶级AI红队测试工具全景解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbL6Fia7ACLFD783vd46w3QW3BA3EZVgCJsBEemAYYSnQQrUo8pANAxBmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01红队测试的智能化改革红队测试技术已发生根本性演变。在复杂多变的环境中，现代企业无法仅依赖人工创造力或过时的攻击模拟来发现安全漏洞。随着攻击者开始运用日益精密的AI技术实现攻击自动化与规模化</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334858&amp;idx=2&amp;sn=f8602b7144a7d10fb9089931e7c3204c&amp;chksm=bc086de38a056e62f52bb76ac807983d927d4fcebf24ac81116af12c9049fb4dbbbad63f9d43&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
