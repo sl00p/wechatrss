@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者借助多款AI服务，入侵55个国家600余台FortiGate设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39ibPF0icwEYmoA0iaib0BZuDvxtgk9Y4a7KBYWn0yC8ic9yxS4MpkpCqXHGpHtGvP2nySzVrIcSQia7UdUmh7pk88a62av9HYoAYlY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01大规模入侵事件概述2026年1月11日至2月18日期间，一个以经济利益为动机的威胁行为体利用多种商用生成式AI服务，成功入侵了55个国家超过600台FortiGate设备。此次攻击活动标志</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=1&amp;sn=ae34cb185e92fa2c29259d756c4602d6&amp;chksm=bc359fa896eb4456682283693795c5915d4d5ad32ae547bd1c1d383a36c5f34dcad8e940e46a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者借Microsoft365 OAuth令牌窃取数据，企业面临长期隐秘入侵风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX104mrr0niaF3OlibiclWjJZ6TNJg3pchAqueeA64hJnTb5Dmjx8ib0qLMZaYSbCiawr6TfmmibqmK7MdHBU7gdaibtmdgG1icMP4y0hicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项针对Microsoft365用户的钓鱼攻击活动正在持续进行，攻击者通过滥用OAuth令牌获取企业数据的长期访问权限。该活动主要针对北美地区的商业用户，旨在入侵Outlook、Teams和OneDr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=2&amp;sn=89430ca30c912a8f49038197ec1bf057&amp;chksm=bc4aff6f7722a81cbd2fd59fc3143744f0955419ea45581492f9444408ff34567af79f50a626&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1RfTs7BUYYEXNvzbr7reiaias5msUjax8zUGj5Qg9WH2pH19Fkt2GmQvSRGTmj1qo4cFc4Y9fLVJF9G8rVb9fyqjYblxPYc2NdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已在 2026 年 2 月补丁星期二更新周期中修复了 Windows 记事本应用中的一个高危远程代码执行（RCE）漏洞（CVE-2026-20841）。该漏洞源于命令注入，最初由 Delta Ob</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=3&amp;sn=150a99960afd1e3c0abf4e734dfed4e9&amp;chksm=bc168d520354f084cc6221844f96fe30e7318fbcbdfd9afa6a24d0d4a516d8280d6a84e07aab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic发布Claude Code Security，全球网络安全股应声暴跌]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX01q0e3E6FYsswQMFXAibdmibyhgsWrJyP7UfX8BVzLPtlIicic8rWUclo2ia0AibrhjrDkBLr3GaibXrPibmydeXnqfk1xV3RFcYYQykg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01主要网络安全公司股价下挫Anthropic 公司今日推出软件漏洞检测工具 Claude Code Security 后，多家网络安全供应商股价应声下跌。该工具目前作为研究预览版，面向 An</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335325&amp;idx=1&amp;sn=9ed0ec9935e791c0508c4ec1526dbf72&amp;chksm=bcfd7212fd791f562cea574fa323b5051bb0500f40a3f279d6ab23c199edeff1ef9d088917cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🎯Claude新模型4.6：开箱即挖500个0day漏洞，源代码审</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334895&amp;idx=3&amp;sn=55b0c4f7892750d46ea762d87427e543&amp;chksm=bc61329de6db33e82dc7449ae7c6365f7dbac3af5b54f6b165a3194bfcf1c542db29ad93cf47&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude新模型4.6：开箱即挖500个0day漏洞，源代码审计即将颠覆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibojSqCiaQr3YlDo8DRHcia6kmY7zoh5yql5JWBunmzT6Sic4OdcBRSCiagsic1A3uIBhdmM00wBFI592VmIGdPXYS76mCyGupMWrk/640?wxtype=jpeg&amp;wxfrom=0"/><p>一睁眼，Anthropic上新模型，让Claude Opus 4.6来给您拜！年！了！消息一出，金融数据服务商FactSet最惨盘中暴跌10%，S&amp;P Global、穆迪、纳斯达克公司纷纷下跌，各大指</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=1&amp;sn=891ff82faea84feac5d8284ffe647d63&amp;chksm=bcb8d8a166b8e09d32ceb6e547aa60813771cc08b594cb0fc4facc6165ba6a2e2516a5dbccff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI-Vanguard v1.3：“双模型 + Skill”架构智能安全渗透测试平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2h7PsPNkQlYT58zgj2DwMVvDTd6kEsoOVGb4kcNco1mGuCoKAibtLd38KVCmic2O5wdf97ofkn5QX154BCgmqCFbuG6pjpDHeD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在这个版本中，我们对底层架构进行了重大重构，引入了“双模型（Dual-Model）”策略和全新的“Skill 技能架构”，并正式上线了RAG 本地知识库功能。这不仅仅是一次版本迭代，更是向着“自主智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=2&amp;sn=1e5ec3baba4a0c2e4db7ec5de9ff8133&amp;chksm=bca8a7a7c702460be14eb1f0273ee4d8dd6f56ffba0c4e7d1758b03aaa9de7d6bcfe047b0a9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Interlock利用游戏反作弊驱动0day漏洞，精准瘫痪EDR/AV系统实施双重勒索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibzefibicmDdQl5gbj0kdRbbLN2Khl3uxfulmJnFzw1lxRibUCNuwhlDTzia82PHh4CEy8HlIZqRS64IA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Interlock 勒索软件组织已成为网络安全领域一个独特的威胁，主要针对美国和英国的教育机构。与多数采用勒索软件即服务（RaaS）模式的现代勒索软件组织不同，Interlock 是一个规模较小但专注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651334873&amp;idx=3&amp;sn=e1416281a86a4655382c45c54e914419&amp;chksm=bc1de19fc81171a699316f2b5fb41e8340833b17243a8f0d7767d9ccfd21e898c02b81b1d672&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 10:13:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

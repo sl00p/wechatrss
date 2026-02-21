@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2CVcoAQEjFKb6CznJDAnOmAlvDyLxEwJiccKPFTvg0vdvd1z3oXiaTaosCuY2vUyegfFia2oqKLaZ4A4tfPS1liakNY4Pj0wmNjgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了一个挺有意思的仓库，专门收集 OpenClaw 的 usecases。说实话，很多人装完 OpenClaw 之后的操作都是一样的：疯狂往里面塞各种 Skill，Cla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531567&amp;idx=1&amp;sn=45f174b7c7949d1dc95797729e340584&amp;chksm=f83244b171146c453e38202c25f34912d398f6921fa1dd1f5fe750ffceceb4e92d0dafcdeea1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[挖到 4 个很哇塞的 AI 开源项目，快来瞧瞧。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2HrxiakLxMkXXz9ESAwOm0xROGqNE10y8eHcKGnNZAr5ndPvlia7BDcbIv0ODuWl9ibNovuGdLqmDGwYH4NT5Bc2HuZny6uHQaeY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01图片、PDF转为可编辑这个叫 edit banana 的开源项目是北理工开发的。它能把不可编辑的图片或 PDF 格式的统计图表、流程图转换为可完全编辑的格式，比如 DrawIO 的 XML 或 P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531541&amp;idx=1&amp;sn=b3cea171daa3ae35bd34a021e175088a&amp;chksm=f821d3ec30cdb5d17bd914c356f8578e85cf44a48eed79b1f50be738f6367b8518a502e022e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzib6uAZIwnice3OuOOI6Kb8Xzjhd7ZPYgPVXXA3wbXK2RY8BqENNb3OFEBunuibl3arAQ3zibiaxZI0Iw/640?wxtype=jpeg&amp;wxfrom=0"/><p>人生 K 线最近推特和小红书上很火。在股市里面 K线记录的是价格的波动。在人生K线里描述一个人起伏波动的人生经历。你只需要输入自己的生辰八字，就能生成类似下面这样的人生 K 线图：纵轴代表能量、成就感</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529909&amp;idx=1&amp;sn=3760362073fe7e60ea7a4ceb032cc050&amp;chksm=f81114fadd5f42dcab868bcc56489cefaf4687dab5025befb30cd73a933a0203b7709e9a7135&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Dec 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖到 4 个 Vibe Coding 的 GitHub 开源项目，速速收藏。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz9nhIeEXqk2VuOFKoibiaI55JNOlWSicRccSBL220C3Qe8h5Fkhhib3kqH8WicgM4NpKnrHVkB936Zib8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Andrej Karpathy 是 OpenAI 创始成员、前特斯拉 AI 总监。他年初在 X 上发布了一条推文，分享了自己使用 Cursor + Claude 进行编程的体验，并首次使用了 Vibe</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529535&amp;idx=1&amp;sn=6e200998d7b39834294e99d45e142c91&amp;chksm=f8e5a9e6fcd0d4a9b6c266ab673085a30064c8a711ff038a4a09f600f89db190bfb428aaa83b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

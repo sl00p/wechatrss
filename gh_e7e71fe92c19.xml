@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深入理解 Windows 进程属性：从 PPID 欺骗到句柄继承]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K162YP0p9ZKW1ZRibjE9hs7AZicRa9csO59rTX7iaB05Q2pdMVl0mGAq8MZFAjypsbRZia1Sz9ZDicUXFFHu3mJOicY5jW0veEdoK0XQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Windows 恶意软件开发和红队行动中，如何让恶意进程在系统中看起来“人畜无害”是一项重要技能。本文将探讨STARTUPINFOEX 结构体，揭示如何通过它来实现父进程 ID (PPID) 欺骗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=1&amp;sn=a0d7e079f341eecb81c81823f459b9ff&amp;chksm=b04138e4565bfcf7ea3dcf080a7efcfcc578e5aec6ce3d0182e96eae52842ef8b61fddfcd3cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【新课预售中】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=2&amp;sn=da2102a2b27f97a3cb31ecbf7ef31b97&amp;chksm=b0d0d6deceb20283d03e1e6cfbef0b66e1ad69df658eaae6317b9ca8ae879b28d0baf2b0581d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[第十届安全开发者峰会（SDC2026）【议题火热征集中】]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0GzIErjYL8bcIIzKHDj4hdAfTHMmeV7JmJo6icwMdfQ0Q4bhgwXrfHibag/640?wxtype=jpeg&amp;wxfrom=0"/><p>自首届安全开发者峰会举办以来，SDC已经走过了九个春秋。我们见证了安全行业的蓬勃兴起，也陪伴了一代开发者的成长与突破。2026年，SDC将迎来具有里程碑意义的第十届。我们将集结全球顶尖安全研究者、开发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=1&amp;sn=f063788f8971edf449fd09571d515ba7&amp;chksm=b01f20ebb58e1799ddf4500e9cbe16ff11fc5a9b3de432dd3101204ff9f16921cdeb874929db&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[纯静态解决遇到的各类global-metadata加密问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeG8CY5lYDJBmQmflsv1XUexDqjjgEANxgbhic2ZY0PS3oc7MtJSy7m0bQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在通过Il2cppdumper工具尝试dump unity游戏的sdk时，经常会碰到一些加密的global-metadata.dat，导致无法成功dump。搜索网上的文章或工具个人感觉最好用两种分别是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608566&amp;idx=1&amp;sn=5a0fe4f676d05d1be2dafafa9aba1138&amp;chksm=b02badc6135251a789aa437039215350af92008dcf1668ee757a0aba49dd56418cf3ac56ff8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 18:00:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[​原来有人靠「找漏洞」每月多赚几万]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeGKfjhfJhtOPjU7X7ibBHnFzgZItTtkq0b1Jneda1B5szEW6vqbtjhQyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>原来有人靠「找漏洞」每月多赚几万现实情况很简单：有人下班后挖漏洞有人周末看看项目有人把它当长期副收入赏金从几百、几千，到一个漏洞几万，都存在。问题不在技术，在于：不知道从哪类项目下手不知道哪些漏洞更容</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608566&amp;idx=2&amp;sn=bf87ede159ec3f36f21eee4298f52ab5&amp;chksm=b044b6245d687dd5ec0a4f56e46224cdd12d0c9f481a972473cd8b703b9480357a24b92b5e54&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 18:00:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果第二大代工厂立讯精密遭勒索软件攻击，机密数据泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeG2AQmFClHq0gTwSoJibxNqoruSSOkl1FqlG8RsdMLpLOvmvibndfHoECg/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，苹果公司第二大代工厂立讯精密遭遇勒索软件攻击，内部机密文件被泄露，此事对苹果全球供应链造成冲击。目前，黑客已公开部分内部文档，涉及生产流程、安全规程及供应链协议等敏感运营信息。立讯精密在苹果供</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608566&amp;idx=3&amp;sn=c4ddde5b43e0d9340a712d7a4282b265&amp;chksm=b048db6f412cd0fbd69a6fad6f2f469ccdc08ee8e2c96b22f638d4aab0b14dee74c24db89d23&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 18:00:17 +0800</pubDate>
     </item>
   </channel>
