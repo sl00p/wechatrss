@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[问个扎心的问题：过年期间，有手机完全静音、网络彻底关闭，心安理得地消失一两个小时吗？ 发现没有，我们可能是最懂网络，也最被网络绑架的一群人。 早上睁眼第一件事，摸手机。 睡前最后一件事，刷信息。 工作群，时不时还亮起小红点（F**K）。 算法永远知道下一屏该推什么，最吸引你。 一段完整的休闲？ 简直是奢望。 更可怕的是，我们甚至习惯了这种“被绑架”： 觉得随时响应，成了敬业。 秒回信息，成了靠谱（F**K）。 陪家人吃顿饭，都忍不住要看几眼手机。 过年了。有没有机会“断网”一次？ 陪家人聊聊天。 陪孩子或读本书。 去户外走走，散散心。 没想到，过年断网，成了一种奢侈的愿望！ 最后一天假期，明天就要复工。 过年，你休息好了吗？ （明天发架构内容啦）]]></title>
+      <description><![CDATA[<p>问个扎心的问题：过年期间，有手机完全静音、网络彻底关闭，心安理得地消失一两个小时吗？ 发现没有，我们可能是最懂网络，也最被网络绑架的一群人。 早上睁眼第一件事，摸手机。 睡前最后一件事，刷信息。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980562&amp;idx=1&amp;sn=fd91daeb2e23b7e012c232a46624b747&amp;chksm=bc69df3998e40350eb80e36663d18a468f590244b9ef539e64a90ee25fe6a63b53b0b0f6aef0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Feb 2026 11:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[年终复盘，是公司要求，表演给公司看的？还是写给自己看的？ 很多人写给公司看，于是变成了什么？ “成果汇报”和“免责声明”​ 的混合体。列一堆完成的工作，包装得漂漂亮亮。至于问题，轻描淡写，通篇解释。 解释什么？ 解释没有达成的合理性。 这种复盘，除了感动自己和应付流程，毫无价值。我觉得，可以偶尔应付公司，但没有必要欺骗自己。真正的复盘，需要“对自己下狠手”。 问自己3个老板不会问、但至关重要的问题： 1. 今年我最失败的一个决策是什么？根本原因是什么？信息误判？态度问题？能力问题？ 2. 我投入时间最多的是什么事？核心产出是什么？对我有什么用？认知提升？学习到新技能？赚到钱？放松了心情？ 3. 我错过了哪个机会？原因是什么？没看见机会？还是因为害怕？还是执行没到位？ 复盘的过程，不是欣赏功劳簿，而是解剖失败和遗憾。这才疼，但也这才有用。 复盘的结果，也不是为了应付老板，而是生成我们未来的“避坑指南”和“机会雷达”： 1. 把教训变成规则：把一次性的错误，固化成一条永不失效的做事原则； 2. 进一步认识自己：我的行业认知、与人沟通、抗压能力，各方面，和去年比怎么样； 3. 寻找新的机会：错过的机会，未来如何能把握住； 过了一年，你复盘了吗？ 难道真的，只是年龄又增长了一岁？ 欢迎围观，我2025的年度总结与复盘。]]></title>
       <description><![CDATA[<p>年终复盘，是公司要求，表演给公司看的？还是写给自己看的？ 很多人写给公司看，于是变成了什么？ “成果汇报”和“免责声明”​ 的混合体。列一堆完成的工作，包装得漂漂亮亮。至于问题，轻描淡写，通篇解释</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980560&amp;idx=1&amp;sn=2874334ad9104465134a1ebd2b631c75&amp;chksm=bc369cbc21589079d970ba5bfcfe3fdfbe9bb6523b5b2683964f16b7ffdaea51d17f5290c8ab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDNxNwhzeWLdxiaym6TwSewsAHI9FBGMyzfYPEtCrvSq3k8bahh6iaGsGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>准备系统性讲下MySQL InnoDB的锁机制，开讲之前，先挖个坑。讲完之后，这些坑就都很容易了。Case 1MySQL，InnoDB，默认的隔离级别(RR)，假设有数据表：t(id PK, name</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979819&amp;idx=1&amp;sn=c653bcee11b366e47304406040e21e96&amp;chksm=bc5d36156b4196d79332cfb4d7f0c806eaab0f9cb549a9876c2b9fb15fd82e5485ff9b553a8c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Dec 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么程序员不自己开发微X小程序这类似的东西赚钱？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyCAia8fvTSK2ahHaaQDyASRzatwAUia75zfFTSdgA6IEVVYQwPTUXibIeBUNibUhiakv40jQOODp39l4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人问：“明明手握技术，能独立搞定开发，可多数程序员却不自己做微X小程序类似东西变现？是看不上小收益，还是背后藏着不为人知的门槛”？主题：为什么程序员不自己开发微X小程序这类似的东西赚钱？https:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979858&amp;idx=1&amp;sn=5e1d808b0acf73689b302130eef6e1a8&amp;chksm=bc2c268e1034b4473dfd4036acbe12a4b88da90dd70f42ffe767a431c5d50fca4b72e416b3ef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 20:25:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

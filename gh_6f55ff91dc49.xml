@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 3 个 AI Agent 相关神级 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3EIxvyXNGcerDRKJnXAqdOnYsE2LKILSY3dxtjzicC0R6NUrEVia3asvaibia1Eq3f7ico0icVEODBvFsm7JvWfiaOuWIyS7ALJMIXo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让不懂代码的人也能玩转 AI 工作流说实话，n8n 这种工作流自动化工具虽然强大，但对于非技术用户来说，学习成本还是挺高的。光是要搞清楚各种节点怎么配置、怎么连接，就够折腾一阵子了。最近在 Git</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531596&amp;idx=1&amp;sn=e07802761573db606f43f74fd8e75999&amp;chksm=f8c2ab506b0751a86fbaac19ad1c6ce8d4079a57b919cf7783d1e827ebfdb86b5c52ec5efecf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上开源了 30+ 个 OpenClaw 真实使用案例。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2CVcoAQEjFKb6CznJDAnOmAlvDyLxEwJiccKPFTvg0vdvd1z3oXiaTaosCuY2vUyegfFia2oqKLaZ4A4tfPS1liakNY4Pj0wmNjgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了一个挺有意思的仓库，专门收集 OpenClaw 的 usecases。说实话，很多人装完 OpenClaw 之后的操作都是一样的：疯狂往里面塞各种 Skill，Cla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531567&amp;idx=1&amp;sn=45f174b7c7949d1dc95797729e340584&amp;chksm=f83244b171146c453e38202c25f34912d398f6921fa1dd1f5fe750ffceceb4e92d0dafcdeea1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyo2jcJxRbK1RrVXnwG0LZnrH4HbcQfh0buF8cYK9ic7LnrB6R36XYLl5KkOEufxaiaJ0pIAy1csq5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智谱开源 GLM-4.7智谱 GLM-4.7 正式发布并官宣即将开源。LiveCodeBench 和 Code Arena 等多个权威榜单中，它直接拿下了国产第一、开源第一。综合 Coding 能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529912&amp;idx=1&amp;sn=d766f5c6e6d842bc6bfc13874a73efe5&amp;chksm=f82025e420ca73f85458c62f357a10d8e94b0db2c798c42f5cc5e74b3ccb307c4b6920633237&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Dec 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近爆火的人生K线！GitHub 上有开源，真的太有趣了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzib6uAZIwnice3OuOOI6Kb8Xzjhd7ZPYgPVXXA3wbXK2RY8BqENNb3OFEBunuibl3arAQ3zibiaxZI0Iw/640?wxtype=jpeg&amp;wxfrom=0"/><p>人生 K 线最近推特和小红书上很火。在股市里面 K线记录的是价格的波动。在人生K线里描述一个人起伏波动的人生经历。你只需要输入自己的生辰八字，就能生成类似下面这样的人生 K 线图：纵轴代表能量、成就感</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529909&amp;idx=1&amp;sn=3760362073fe7e60ea7a4ceb032cc050&amp;chksm=f81114fadd5f42dcab868bcc56489cefaf4687dab5025befb30cd73a933a0203b7709e9a7135&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Dec 2025 15:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

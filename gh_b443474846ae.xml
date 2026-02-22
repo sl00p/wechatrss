@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MiniMax 成为 Token 调用第一后，模型厂商必须面对的 AgentOS 现实]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia1Z9IDlZoZKNnogQB5icXtLmAib4b557yF6W9ib2AV6Hfn86KLnb1NG8GgWicXLBI4C9fia1khSUVb6JibBicHTRJOZiaGicVmZgzwIHlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 姚戈 就在今年春节假期期间，OpenRouter 上出现了一组耐人寻味的数据变化。作为目前全球最主要的大模型 API 聚合网关之一，OpenRouter 的 Token 调用量在 2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276108&amp;idx=1&amp;sn=c4c3f7ae13bdf440bdd8748954d5580b&amp;chksm=bc6f45861e1269f13db39d79b0a1e4e38e8a56480c52fe9e41a8341b5f9f1d902d3ea56c46a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Feb 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别再学做App了：Karpathy预言Agent将淘汰App Store，软件进入“用完即丢”时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjWaPEGWzaiaV7WofKuyGCb0fOhUbgwwEdicJBAvp7ODYnC9mCh1qmibDpp2926cnFSgXiad0sbQEwXcoA6yzwj7MMmibvoQpjKaGa4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 木子 如果软件可以由 AI 现场生成，那应用商店会不会消失？知名 AI 工程师、神经网络布道者 Andrej Karpathy，前两天又发了篇长帖，引起热议。最主要的意思是：以后可能不用专门</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276037&amp;idx=1&amp;sn=23ce7c07c6cb2e32d89a62019917aa34&amp;chksm=bc3bc2ed85090d82be6aee44392ffafc3ba88e82e18dc8320bf7b280d6dfb75259d8b2c7a302&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[百度沧海·存储 Mantle 系统架构演进之路，SOSP'25 论文背后的故事]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMYmhqicB8vfnia7Uxfg4g9JMMxw3sPOC1PtKkM2iclkavSUOhfbXL2ZScBPGxkLaRH1t4uGIoQZvEFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 曹彪在技术深水区，最大的障碍往往不是未知，而是那些我们深信不疑的已知。这篇文章清晰还原了创新的真实路径：问题从何而来、传统方案为何失效，以及 Mantle 新的系统设计思路是如何一步步成形的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274349&amp;idx=3&amp;sn=497e917454ddfc7d2572bd8c7a258f16&amp;chksm=bc5a8c1d688e419988578791f09ab0f4ab9e1be754136c9cb82780b13d5c37d90565b2c97475&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BigQuery 新功能：SQL 直调 17 万 + AI 模型，3800 万行数据处理成本仅 2 美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YriaiaJPb26VMYmhqicB8vfnia7Uxfg4g9JMtQDgmEj0PBenMaP0Maia3otEoZWDpdr5ozCQntTaxgva1bCalAnTvyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 田橙 Google 近期针对 BigQuery 推出了面向开源模型的第三方生成式 AI 推理功能。这一更新允许数据团队直接使用简单的 SQL 语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274349&amp;idx=4&amp;sn=75a926c8d04f079d37da28034bea7b61&amp;chksm=bc785000d6e9f89092d8cf7e7d57e19d14faaec22f305c873920319dd3b801171fd0959889c0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 13:30:00 +0800</pubDate>
     </item>
   </channel>
