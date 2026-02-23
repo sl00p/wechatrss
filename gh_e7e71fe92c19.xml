@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[量子算法分析: 椭圆曲线密码学的量子破解方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2ic5w5EibyX6G1ZcKDqY6JIQ5LTThKh65yPIuZEy3DiczgCE9LYpAJdzMshnFFMlbH2eKEic4x3eF8GnuUU8ibKY2rmKia6NaDB5nKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前写了篇RSA的量子算法分析的文章，在这篇文章里留了个离散对数问题的坑一直没填，借此机会把坑填了，ECC的shor算法破解除了少数几篇论文中简单地提及外，几乎没有系统而详细地资料，本文算是独一篇了。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611119&amp;idx=1&amp;sn=dae1055aa7be7a97a6080a42d547d354&amp;chksm=b0c239810b5eab0b4a39b64fef1c32f8f93f352c28ef591698a9933e88b3937a2886e8da0cd6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《Linux Pwn 番外篇》]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JicqN6UnI5fb2vEaNA5PnOv81FNolqwruOxnLu1SxDvEp88N3TvcyvbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611119&amp;idx=2&amp;sn=909efecd770d7963f909ba59d8f7f1f2&amp;chksm=b0ea22e656643fcf40ce32b7d2b679b320cf729df82d445012b5a892fb90b8b287cfeecdf4d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入理解 Windows 进程属性：从 PPID 欺骗到句柄继承]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K162YP0p9ZKW1ZRibjE9hs7AZicRa9csO59rTX7iaB05Q2pdMVl0mGAq8MZFAjypsbRZia1Sz9ZDicUXFFHu3mJOicY5jW0veEdoK0XQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Windows 恶意软件开发和红队行动中，如何让恶意进程在系统中看起来“人畜无害”是一项重要技能。本文将探讨STARTUPINFOEX 结构体，揭示如何通过它来实现父进程 ID (PPID) 欺骗</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=1&amp;sn=a0d7e079f341eecb81c81823f459b9ff&amp;chksm=b04138e4565bfcf7ea3dcf080a7efcfcc578e5aec6ce3d0182e96eae52842ef8b61fddfcd3cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GdwxLUFnHGKAXsskt3KflDhcyrQWC65SvshrSlCFMziaMgzFBsvG5kLp0fhdzibOxOy8jZOH89YCJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>由于相关题目稀缺难以收集，以下为部分题解。题目可能会缺失，欢迎也恳请有资源者补充相关题目。同时因为没法验证答案，可能存在错误，如有问题敬请批评指正。01t2_2 WebPHP反序列化。<?phpcla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608567&amp;idx=1&amp;sn=9025f834ec1c9494e96b7e08bbc1ff2c&amp;chksm=b0bb3e1171bf37f62577841a340320024043a2545568d372299f6bae259229bda785232455f6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 24 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[策马扬鞭看山海！一起为2025年360精英白帽荣耀加冕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeGJnB5zykibEyaEtcJUxoxEibiczluTkEMiaf3ibIPlIaTvTG5iaAIf8LicvbWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>360白帽盛典1月13日-18日，360SRC与360漏洞云携手白帽精英，共赴马来西亚，开启一场技术与情怀交织的“洞力补给之旅”。我们在红树林的萤火星河下探寻自然的密语，在碧海落日的余晖中感受世界的辽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608567&amp;idx=2&amp;sn=eafdfd9ea8bae27fb7d34657a056120a&amp;chksm=b05efc7ddaced4746f76311b26dd21c20096c55a5287ea865bb6c5c79c9972e6cdf8f1227fb1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[纯静态解决遇到的各类global-metadata加密问题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HtVTxHNORrvxXgR3U5RGeG8CY5lYDJBmQmflsv1XUexDqjjgEANxgbhic2ZY0PS3oc7MtJSy7m0bQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在通过Il2cppdumper工具尝试dump unity游戏的sdk时，经常会碰到一些加密的global-metadata.dat，导致无法成功dump。搜索网上的文章或工具个人感觉最好用两种分别是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608566&amp;idx=1&amp;sn=5a0fe4f676d05d1be2dafafa9aba1138&amp;chksm=b02badc6135251a789aa437039215350af92008dcf1668ee757a0aba49dd56418cf3ac56ff8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 18:00:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

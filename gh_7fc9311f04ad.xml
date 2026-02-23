@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Agent系列｜什么是 ReAct Agent？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKJn5oQFHtSnv6Vib6onSlDlVPWXl54DGaWPbM2ZYpPuakj1Phib9J1aWrxK8CvkFLETQKo7y87jBbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558441&amp;idx=1&amp;sn=f856bc1bf23341b6c7e1cf249d0f522e&amp;chksm=e89b33c6de544a1d360f5ce635a32e9cd898d7ed0e9923ac11402e5b37d0ff5eb2d0c1ccfddf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[上新！阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xCGMl15tEH9GqgV8m00O7RHmskdmRCMbtR9dt0gRwSEoHS0CPRJ2AkI84k8Re4ibyicvEW8JB4ogjA8HApIm1lUIRWM0cuqDn6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里云Coding Plan订阅服务上新Qwen 3.5-Plus、GLM-4.7、Kimi-K2.5等编程模型，用户订阅后即可自由切换模型。即日起，新用户首月首购享两折优惠，18000次请求额</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558445&amp;idx=1&amp;sn=9ad45971cfa80fa50a107452a2da68f1&amp;chksm=e8cfaf6c9062fa0affa61f263c22315838b617f8734ebb5c60649497f67c36d9e44479b22a4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVlicDnsqzrQ4Vc50JYqlFtUXvYRicOpsmcfNmGxtOmW0e3TzcHrnEICLyrdWoukPgypvBhlibsF8hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与挑战Dify 作为一款低代码 AI 应用开发平台，凭借其直观的可视化工作流编排能力，极大降低了大模型应用的开发门槛。然而，在实际企业级落地过程中，我们发现其原生能力仍存在两个关键瓶颈：代码执行能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555773&amp;idx=1&amp;sn=2297d0caead54312c29169792034489c&amp;chksm=e83e24d53cbc70531563621105dd0cfe5807ab84c1fae91c832b7ff04771bab032d3e0e3d295&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[文章“找茬”神器——媒体行业AI智能校对方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL99nic5J0GicDesxpcl1zdDkoU2Z0YwlIOqfAZaW9h5DD9QyawBbf0Doh5lQBZj8BbsMictjXPTEr4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景年初DeepSeek大模型火爆以后，各行各业都在加速建设AI相关的场景，媒体行业无疑是大模型场景适配较好的一个行业。大模型凭借强大的内容生成能力，可以深度渗透内容生产的全链路环节，从热点事件的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555710&amp;idx=1&amp;sn=5cce8e2fd3b7c2f149ec887c853960cb&amp;chksm=e8ad929efe6321222525ddb9a33152854e29a3fe9137ea30149c8847c79e9d7c3adc7805843e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

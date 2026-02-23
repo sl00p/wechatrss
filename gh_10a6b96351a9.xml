@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[究竟什么才是程序员的核心竞争力？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcvtImfq2a2Du5qICoznQTlgMc4cfENYMw3GDfLaPXTTPhpibRu0EkLGwfgzDM4o9Fp7NAI1QDO3fHdt82IGrd2lBHTfaIG2cOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI时代，很多程序员陷入了职业瓶颈。有人说，真正能让程序员走得远、立得住的核心竞争力，从来都不只是代码能力，那到底什么才是程序员能长久立足的核心竞争力？主题：究竟什么才是程序员的核心竞争力？https</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980563&amp;idx=1&amp;sn=6cb42d7531b9792df6daacbd0156a2ae&amp;chksm=bc20571a5ffe3a248461bdcf93b61321ca91a11b7e7b9bc59acc4574ad6fb24804463645449b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Feb 2026 08:34:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[问个扎心的问题：过年期间，有手机完全静音、网络彻底关闭，心安理得地消失一两个小时吗？ 发现没有，我们可能是最懂网络，也最被网络绑架的一群人。 早上睁眼第一件事，摸手机。 睡前最后一件事，刷信息。 工作群，时不时还亮起小红点（F**K）。 算法永远知道下一屏该推什么，最吸引你。 一段完整的休闲？ 简直是奢望。 更可怕的是，我们甚至习惯了这种“被绑架”： 觉得随时响应，成了敬业。 秒回信息，成了靠谱（F**K）。 陪家人吃顿饭，都忍不住要看几眼手机。 过年了。有没有机会“断网”一次？ 陪家人聊聊天。 陪孩子或读本书。 去户外走走，散散心。 没想到，过年断网，成了一种奢侈的愿望！ 最后一天假期，明天就要复工。 过年，你休息好了吗？ （明天发架构内容啦）]]></title>
       <description><![CDATA[<p>问个扎心的问题：过年期间，有手机完全静音、网络彻底关闭，心安理得地消失一两个小时吗？ 发现没有，我们可能是最懂网络，也最被网络绑架的一群人。 早上睁眼第一件事，摸手机。 睡前最后一件事，刷信息。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980562&amp;idx=1&amp;sn=fd91daeb2e23b7e012c232a46624b747&amp;chksm=bc69df3998e40350eb80e36663d18a468f590244b9ef539e64a90ee25fe6a63b53b0b0f6aef0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwGxRdfMkxoEbcLkeHRS2kX29M2Thpk9PY4g0llqYZ0Z2ImF8upC3qSDKGzvuibMzbpWibAPmODcuicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。谢谢大家，听我的故事。希望对大伙也有帮助。最近做了一个新产品：70天，每天30分钟，短视频行动营（第二曲线最佳选择）点击“阅读原文</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979878&amp;idx=1&amp;sn=3fa31b88449c919d94f07a307948306f&amp;chksm=bc61352aa5085ece87534b187273254661b1427ca1248a8e5ff1869bd6db22575ae1f5ea86da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 20:59:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖个InnoDB坑，出个题，答对有奖！（你以为DeepSeek说的就对？）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwsG5TuGwQ3Tia35YEunWribDNxNwhzeWLdxiaym6TwSewsAHI9FBGMyzfYPEtCrvSq3k8bahh6iaGsGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>准备系统性讲下MySQL InnoDB的锁机制，开讲之前，先挖个坑。讲完之后，这些坑就都很容易了。Case 1MySQL，InnoDB，默认的隔离级别(RR)，假设有数据表：t(id PK, name</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979819&amp;idx=1&amp;sn=c653bcee11b366e47304406040e21e96&amp;chksm=bc5d36156b4196d79332cfb4d7f0c806eaab0f9cb549a9876c2b9fb15fd82e5485ff9b553a8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

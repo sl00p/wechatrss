@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[逛逛的粉丝推荐的 GitHub 项目，收藏一波。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0pLz2GrtuMb7VZlicxRwF1GXaDz61QMYFgcLjSC8YL5MVZsgyISicw2TWqDXWMLlDVeZdpia4MUUv4GtDKcHnTBIWB3d9mUcCV64/640?wxtype=jpeg&amp;wxfrom=0"/><p>01论文配图自动生成：AutoFigure-Edit写论文最头疼的是什么？画图啊！尤其是那些流程图、架构图，画一张得折腾半天。最近在 GitHub 上发现一个叫 AutoFigure-Edit 的开源</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531608&amp;idx=1&amp;sn=fdd0808ec3ab2453028847f73c08a47e&amp;chksm=f8b9244dfe530703ffd37b7e494b974f2dfa4c55e248b4176a9623009477d2eb9fbc6bf1b0fa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Feb 2026 16:40:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 3 个 AI Agent 相关神级 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3EIxvyXNGcerDRKJnXAqdOnYsE2LKILSY3dxtjzicC0R6NUrEVia3asvaibia1Eq3f7ico0icVEODBvFsm7JvWfiaOuWIyS7ALJMIXo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让不懂代码的人也能玩转 AI 工作流说实话，n8n 这种工作流自动化工具虽然强大，但对于非技术用户来说，学习成本还是挺高的。光是要搞清楚各种节点怎么配置、怎么连接，就够折腾一阵子了。最近在 Git</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531596&amp;idx=1&amp;sn=e07802761573db606f43f74fd8e75999&amp;chksm=f8c2ab506b0751a86fbaac19ad1c6ce8d4079a57b919cf7783d1e827ebfdb86b5c52ec5efecf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz43ibGS2gecjK920TACYIamUX4l5lmPMGfTQeN0OY6KAvu4USZzq9rWibctticcUYObVfGiagRFo3CLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>国产 AI 大模型 Minimax M2.1 发布了。这次更新在 Multi-SWE 领域强势升级，它不仅让 Web 开发、App 开发以及 Rust、Go、Java 等核心技术栈的开发体验丝般顺滑，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529923&amp;idx=1&amp;sn=e433341275c3b64b9f8b681d83cc2ee7&amp;chksm=f8493dfeb5a0459f33cee28434591a2b9a583adb01d8d0172bbed4980faae515154f796c54e3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Dec 2025 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 5 个 yyds 的 AI 开源项目，给劲儿啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyo2jcJxRbK1RrVXnwG0LZnrH4HbcQfh0buF8cYK9ic7LnrB6R36XYLl5KkOEufxaiaJ0pIAy1csq5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>01智谱开源 GLM-4.7智谱 GLM-4.7 正式发布并官宣即将开源。LiveCodeBench 和 Code Arena 等多个权威榜单中，它直接拿下了国产第一、开源第一。综合 Coding 能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529912&amp;idx=1&amp;sn=d766f5c6e6d842bc6bfc13874a73efe5&amp;chksm=f82025e420ca73f85458c62f357a10d8e94b0db2c798c42f5cc5e74b3ccb307c4b6920633237&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
