@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0m0sGQT1KLhQV2LfYNAXAwydqEA1C1NpT5yW0yibeqcxISB8iaafEw5g0wclC3sN6z0zmicf4ZYUIFicULAF3NiaEmYE79QNjkF8EM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当手机开始自己“动手”，它就不再只是回答怎么点外卖更划算，而是会真的打开 App、比价、下单。操作权从人的手指，交给了一个能看屏、能规划、能执行的智能体。2025 年底推出的豆包手机助手（以下简称豆包</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611129&amp;idx=1&amp;sn=87a0b2fcb577ee962a43c2e453b62220&amp;chksm=b021ec2534d11415b9cf93bb7546e9d97913a34735d17464564d5861db4abc1a82a768283b1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache ActiveMQ漏洞遭利用，LockBit勒索软件批量入侵企业]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0NgZjxXAJCJo91jibDLu1OiawcTQ1wyV7ZGwfeX2orvSn0B4BLGcO75GF2cSuUw2GDxb5uicFQMOh8nQ98jXmrYx0u7AV1Yz5Dhc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，黑客利用Apache ActiveMQ服务器高危漏洞，入侵企业网络并部署LockBit勒索软件，从初始渗透到全面加密仅耗时约19天，风险极高。此次攻击的核心漏洞为Apache ActiveMQ的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611129&amp;idx=2&amp;sn=f70da9ce36978a9cc8c121f73a801b65&amp;chksm=b0242854280846e77c4fda321ec73071cb6bde8e130a79abef2f31ede00f7ff82f16d3831c0e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611129&amp;idx=3&amp;sn=d99d2d25c1de692e8fceae15dd42fa65&amp;chksm=b008a537f770b8ca160e4752013d2f6c3ba3819d1af513ff7bcaa26d9ea2636de1148f31e595&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[量子算法分析: 椭圆曲线密码学的量子破解方法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2ic5w5EibyX6G1ZcKDqY6JIQ5LTThKh65yPIuZEy3DiczgCE9LYpAJdzMshnFFMlbH2eKEic4x3eF8GnuUU8ibKY2rmKia6NaDB5nKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前写了篇RSA的量子算法分析的文章，在这篇文章里留了个离散对数问题的坑一直没填，借此机会把坑填了，ECC的shor算法破解除了少数几篇论文中简单地提及外，几乎没有系统而详细地资料，本文算是独一篇了。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611119&amp;idx=1&amp;sn=dae1055aa7be7a97a6080a42d547d354&amp;chksm=b0c239810b5eab0b4a39b64fef1c32f8f93f352c28ef591698a9933e88b3937a2886e8da0cd6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GW6Ctr763UFRXlYLpYZQ3iazubh3xGmxLBpiavkUNrSI1MRQPQ4UBSiaEcTFXJZo1HmJ9draX11sFUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一起涉及Instagram用户私密内容安全的高危漏洞近日浮出水面。安全研究人员指出，该漏洞源于服务器授权逻辑缺陷，而母公司Meta在修复过程中的模糊回应，引发了业界对科技巨头安全漏洞管理透明度和责任感</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608579&amp;idx=1&amp;sn=b2ea4f72fed798e5537bb1f1dd511cad&amp;chksm=b02d3f9dd3e98b888a4fd1d78bc704a42be0ad3c3246a642aa91bd63f56a0e0192bc6d6cda18&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 17:59:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hitcontraining_magicheap]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GW6Ctr763UFRXlYLpYZQ3iaeKPyMNRZf9icxknPzTGJStn2Sib0l5oSEmiao51YlHks22dpyAXLPkZyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这道题程序跟[ZJCTF 2019]EasyHeap其实是一样的，区别在于前者让magic大于0x1305就可以拿到shell，后者就需要改got表才行，因为最近我刚学了fastbin attack，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608579&amp;idx=2&amp;sn=52da49f3c30cc6f3a4adc6af17a7f41d&amp;chksm=b0ee40f9a36272c85a23338708cff2adf64acaed311d3de8381a2ab5c9954021f09220d5053a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 17:59:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【非虫新课】阶段二：安卓软件开发与逆向分析（工具篇）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608579&amp;idx=3&amp;sn=f733360a743a906ac9dd71026de76c3c&amp;chksm=b0109a7bfefc9005b025e764e28510e10f7c3d8be56d651a25292d09c0d2a87a6675613a7fce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 17:59:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第二届网络安全行业职业技能大赛-部分题解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GdwxLUFnHGKAXsskt3KflDhcyrQWC65SvshrSlCFMziaMgzFBsvG5kLp0fhdzibOxOy8jZOH89YCJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>由于相关题目稀缺难以收集，以下为部分题解。题目可能会缺失，欢迎也恳请有资源者补充相关题目。同时因为没法验证答案，可能存在错误，如有问题敬请批评指正。01t2_2 WebPHP反序列化。<?phpcla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608567&amp;idx=1&amp;sn=9025f834ec1c9494e96b7e08bbc1ff2c&amp;chksm=b0bb3e1171bf37f62577841a340320024043a2545568d372299f6bae259229bda785232455f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

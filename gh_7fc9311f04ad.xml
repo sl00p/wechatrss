@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Agent系列｜深入了解智能体工作流核心：Agent vs 传统编程 vs Workflow 的本质区别]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5iaVvfJqicERScicd5gI675yArCQwEAgWJAMiblibwwKTyJ3lNUVfG53HwNwZ5KMKXI8qJxiasgpTxI6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558448&amp;idx=1&amp;sn=c8e6b35103ed82f7e4689c8b5f910c68&amp;chksm=e8fd979ce5423b6ca0f4b7e3a550c8a6af01c15fb078fefd1008e07ecc22e301811bae5d0440&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent系列｜什么是 ReAct Agent？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKJn5oQFHtSnv6Vib6onSlDlVPWXl54DGaWPbM2ZYpPuakj1Phib9J1aWrxK8CvkFLETQKo7y87jBbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558441&amp;idx=1&amp;sn=f856bc1bf23341b6c7e1cf249d0f522e&amp;chksm=e89b33c6de544a1d360f5ce635a32e9cd898d7ed0e9923ac11402e5b37d0ff5eb2d0c1ccfddf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL3JFpC4wgqiatmujaVibO4W0nRkxgERb4eM8X4V7FLricjCBO6VRdH1RWj0WvaexTwfUo6vdWHrVx2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读在 AI 时代，若你还在紧盯代码量、执着于全栈工程师的招聘，或者仅凭技术贡献率来评判价值，执着于业务提效的比例而忽略产研价值，你很可能已经被所谓的“常识”困住了脚步。AI 时代，技术人如何自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555807&amp;idx=1&amp;sn=7d7b603c85e0f884d26598073c538bc3&amp;chksm=e8a4d249ed70e5fc2016ed6ce6b5d631a9de48082604fe7645b260773c13c55a23ca55edfe34&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个销售数据分析机器人的诞生：看 Dify 如何在 DMS 助力下实现自动化闭环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLVlicDnsqzrQ4Vc50JYqlFtUXvYRicOpsmcfNmGxtOmW0e3TzcHrnEICLyrdWoukPgypvBhlibsF8hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与挑战Dify 作为一款低代码 AI 应用开发平台，凭借其直观的可视化工作流编排能力，极大降低了大模型应用的开发门槛。然而，在实际企业级落地过程中，我们发现其原生能力仍存在两个关键瓶颈：代码执行能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555773&amp;idx=1&amp;sn=2297d0caead54312c29169792034489c&amp;chksm=e83e24d53cbc70531563621105dd0cfe5807ab84c1fae91c832b7ff04771bab032d3e0e3d295&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

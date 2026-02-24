@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[数据库允许空值(null)，往往是悲剧的开始（第15讲）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcLUzFHzTzPY10Sev2xW2Q3KswaiceszialjJzs2k26P5Osc9FYtN0MndnHkKsDuK2Dfz7eRvnN4oiaRib5yxHuhI7ZvDEXIpJj8WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》15.MySQL，索引技巧数据库字段允许空值(null)的问题，有可能有大坑。这样的场景，你遇到过吗？实验过程：create table user (id int,name va</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980567&amp;idx=1&amp;sn=24765e15837a5ca06d14b7b2abca51c0&amp;chksm=bcab09f4c6dfcaa0fc6ffb2f42b2ff84f28fbfd6879651a8a1b7c3cfac019b7d5a9d0b42fa21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 08:12:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[究竟什么才是程序员的核心竞争力？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcvtImfq2a2Du5qICoznQTlgMc4cfENYMw3GDfLaPXTTPhpibRu0EkLGwfgzDM4o9Fp7NAI1QDO3fHdt82IGrd2lBHTfaIG2cOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI时代，很多程序员陷入了职业瓶颈。有人说，真正能让程序员走得远、立得住的核心竞争力，从来都不只是代码能力，那到底什么才是程序员能长久立足的核心竞争力？主题：究竟什么才是程序员的核心竞争力？https</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980563&amp;idx=1&amp;sn=6cb42d7531b9792df6daacbd0156a2ae&amp;chksm=bc20571a5ffe3a248461bdcf93b61321ca91a11b7e7b9bc59acc4574ad6fb24804463645449b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzkwlLoKSicgaTtcJnq3Xp5zia8ia0dnInw1KsTO2bQ2nZmhwWGcJANEP9Uj2ib5nLcGXWeogGZJiaLSAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球9月份话题：跳槽这些年有不少小伙伴问我“我准备跳槽换工作，沈老师，简历要怎么写，才能快速通过HR的筛选？”。作为企业管理者，今天和大家聊聊，怎么样的简历，对我们来说是加分的。求职的你，是否清楚企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979849&amp;idx=1&amp;sn=dec65953437c10709a7926fca7df9834&amp;chksm=bce94d9a5b7dc9df8053ac4b53bc3018c5cc79a9260bd1aa4b8d9b7a5773d7637cc3747dfda2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Dec 2025 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我为什么要离开家乡，来北京打拼？（说说我自己的故事...）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwGxRdfMkxoEbcLkeHRS2kX29M2Thpk9PY4g0llqYZ0Z2ImF8upC3qSDKGzvuibMzbpWibAPmODcuicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>建了一个新号：1. 讲职场与第二曲线；2. 聊自己的故事，内心的感悟。谢谢大家，听我的故事。希望对大伙也有帮助。最近做了一个新产品：70天，每天30分钟，短视频行动营（第二曲线最佳选择）点击“阅读原文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979878&amp;idx=1&amp;sn=3fa31b88449c919d94f07a307948306f&amp;chksm=bc61352aa5085ece87534b187273254661b1427ca1248a8e5ff1869bd6db22575ae1f5ea86da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 20:59:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

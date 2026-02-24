@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 4 个 GitHub 上小众但实用的开源项目，收藏一波。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dlVo4qU2QNEprF7CKjTx1kQrAiadzMtCkKHr6UyGgtfhv1r1RsUsKE3ydLKbqEZnZIEna2SIKZzYQIQpH9l3EAgpSKHz4BLIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>015美元芯片上跑AI助理最近逛 GitHub 发现了一个挺有意思的项目，把 OpenClaw 塞进了一块 5 美元的芯片里。这个叫 MimiClaw 的开源项目，核心就是一颗 ESP32-S3 开发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531632&amp;idx=1&amp;sn=edfe01eb6144d3f1b935cf66504db95b&amp;chksm=f8bd33e1bea892a7b9407fa57e24e42491d16d892d818b94b4eb04f6fe3b04e3c7e02ce1f618&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Feb 2026 15:06:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[逛逛的粉丝推荐的 GitHub 项目，收藏一波。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0pLz2GrtuMb7VZlicxRwF1GXaDz61QMYFgcLjSC8YL5MVZsgyISicw2TWqDXWMLlDVeZdpia4MUUv4GtDKcHnTBIWB3d9mUcCV64/640?wxtype=jpeg&amp;wxfrom=0"/><p>01论文配图自动生成：AutoFigure-Edit写论文最头疼的是什么？画图啊！尤其是那些流程图、架构图，画一张得折腾半天。最近在 GitHub 上发现一个叫 AutoFigure-Edit 的开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531608&amp;idx=1&amp;sn=fdd0808ec3ab2453028847f73c08a47e&amp;chksm=f8b9244dfe530703ffd37b7e494b974f2dfa4c55e248b4176a9623009477d2eb9fbc6bf1b0fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy2p23rQIEGcP9K6z9TNPCRjBgvCK2Lw665tPbGFAQVuvurJKrDaiasbGD2KrZjAicPSyehF2IysZvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型狂飙突进的今天，高质量、结构化的数据已成为决定 AI 能力的核心基建。而现实中，海量知识却沉睡在PDF、扫描件、报告等非结构化文档中。如何将这座富矿高效、精准地转化为大模型可理解、可训练的数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529971&amp;idx=1&amp;sn=213d22243a5502e25d2d8fd91ba48832&amp;chksm=f87529934bd614640d559f1d9968cf5fe10e75f7ca9b949c19daf3687c229ff938301ef49d93&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Dec 2025 18:01:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用最新 MiniMax 2.1 复刻爆火人生 K 线图，真的给劲儿。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruz43ibGS2gecjK920TACYIamUX4l5lmPMGfTQeN0OY6KAvu4USZzq9rWibctticcUYObVfGiagRFo3CLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>国产 AI 大模型 Minimax M2.1 发布了。这次更新在 Multi-SWE 领域强势升级，它不仅让 Web 开发、App 开发以及 Rust、Go、Java 等核心技术栈的开发体验丝般顺滑，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529923&amp;idx=1&amp;sn=e433341275c3b64b9f8b681d83cc2ee7&amp;chksm=f8493dfeb5a0459f33cee28434591a2b9a583adb01d8d0172bbed4980faae515154f796c54e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Dec 2025 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
