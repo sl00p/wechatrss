@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[4 天狂揽 2 万 Star！带你从 0 到 1 手搓迷你 Claude Code。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1AgOFEXXbuM7ZfyUJJuADib0hsfFLX9woiaHPCPNChNYDRFZKhT2ticFmzicialz0q7PXUpIzFJ1ib1dGo3TZTHhdUjNZTufc3DBJ6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年刚用 Claude Code 时，确实被惊艳到了。 没上手前，以为它只是个命令行里的模型外壳，用过才发现，这分明是个通用的 Agent。 LLM 的文本处理属性与 TUI 的指令交互天然契合，加之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531659&amp;idx=1&amp;sn=2b7e497d7d58f668e92d04a39935f19b&amp;chksm=f88aed8d95198f3485f57766f5267694f00e3c1d7e6c6db1732098a841482a2a0a21f1f1c702&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 4 个 GitHub 上小众但实用的开源项目，收藏一波。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dlVo4qU2QNEprF7CKjTx1kQrAiadzMtCkKHr6UyGgtfhv1r1RsUsKE3ydLKbqEZnZIEna2SIKZzYQIQpH9l3EAgpSKHz4BLIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>015美元芯片上跑AI助理最近逛 GitHub 发现了一个挺有意思的项目，把 OpenClaw 塞进了一块 5 美元的芯片里。这个叫 MimiClaw 的开源项目，核心就是一颗 ESP32-S3 开发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531632&amp;idx=1&amp;sn=edfe01eb6144d3f1b935cf66504db95b&amp;chksm=f8bd33e1bea892a7b9407fa57e24e42491d16d892d818b94b4eb04f6fe3b04e3c7e02ce1f618&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzib6uAZIwnice3OuOOI6Kb8X6dFlWpZWiaKic2p2Jk4d5GicMaRbaAqvDEpOIH818qqAYKicNEo5voykBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vibe Coding 说白了就是开发个应用不再像程序员一样，苦哈哈地写每一行代码，而是化身为导演。只需要保持一种感觉，这种感觉可能是对产品逻辑、用户流程、审美和交互的把握，剩下的体力活全交给 Cur</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529972&amp;idx=1&amp;sn=f5f2730e197afee0df4dbc951e3d0ce5&amp;chksm=f8854487c7228bbb79c17f5b80e046a44e8048663195bfa12960e896c44a51a02b7040826424&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 27 Dec 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国产 OCR 开源神器官网上线了，相当给力。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy2p23rQIEGcP9K6z9TNPCRjBgvCK2Lw665tPbGFAQVuvurJKrDaiasbGD2KrZjAicPSyehF2IysZvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在大模型狂飙突进的今天，高质量、结构化的数据已成为决定 AI 能力的核心基建。而现实中，海量知识却沉睡在PDF、扫描件、报告等非结构化文档中。如何将这座富矿高效、精准地转化为大模型可理解、可训练的数据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529971&amp;idx=1&amp;sn=213d22243a5502e25d2d8fd91ba48832&amp;chksm=f87529934bd614640d559f1d9968cf5fe10e75f7ca9b949c19daf3687c229ff938301ef49d93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Dec 2025 18:01:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

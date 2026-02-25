@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhRK3awtMZLSrSkoIL5dbbbOoXrlictfWPxv1Zb5l3gH0udGklOIDbmD7xbQUqDWOWjoR9NvWOf7NibUZOL9ReUzFOl5R3gSH0aw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 此前，一些投资者开始担心，AI 硬件领域的大规模支出增长可能难以持续，从而引发对行业泡沫的忧虑。在这种情绪下，英伟达刚发布的财报不仅是公司自身的成绩单，也被市场视作整个 AI 资本开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276357&amp;idx=1&amp;sn=f4bb0ddaff9cff163b677d05a707001b&amp;chksm=bcefeb4c99af124198b8f720a68f4ab059cb20a1355041ae0524f36df126901edf9f2d1aa2ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 13:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[终端大模型操作系统的架构、优化与展望]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgdrSKneWlaUPLiarQKrh6pNWbznCI6xsFdzpDxEheGX1CDV4PK5km4Zf9FLNRAojayWaxBGJklzbkPps4LaINMVq5ybNJWqicTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>演讲嘉宾｜徐梦炜 博士 编辑｜Kitty 策划｜QCon 全球软件开发大会 通过本地化搭载大模型，终端设备的智能能力将获得飞跃式提升，铸造移动计算的下一个黄金时代，对学术界和产业界都是巨大的机遇。为了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276357&amp;idx=2&amp;sn=a74eb8bce0c3e2c2d571cd9af9748f79&amp;chksm=bc2b8299243ffbe605418dcdcec8cdd54d56835850c9db2f57e5b1475525469d4fb8fed38bce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 13:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 发布了 Codex 应用服务器架构，用于统一 AI 智能体表面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhPYKcibiaCXNUOXSQyZrzvCMv4CS6EohgNZw8a8iaulxm5KpTpEWNbWOqKmGSJWtA4Nb5aOgvAnzMGAEY3VK1gWxeUSracaZsBXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Eran Stiller 译者 | 刘雅梦OpenAI 最近发布了 Codex 应用服务器的详细架构描述，这是一个双向协议，它将 Codex 编码智能体的核心逻辑与其各种客户端界面解耦。应用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276357&amp;idx=3&amp;sn=cfeb3f8bfd1cec42c3e3c6511e51eea1&amp;chksm=bc49b28b8ddd9603b4f1a9dd68a7862fc034cb15cfcaeb463cc0f73792eb9c9570ecdd83f244&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 13:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WhatsApp 在 30 亿台设备上部署基于 Rust 的媒体解析器以阻止恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiafWKXyW32mMUqYELtWbQ51LgZsjn8GGPtlys6AIE5zq7FIboHYguNyKrYGlowibAmzjntWGzLdGsPHkpmiaogMgQGMYb8TFqKeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 马可薇 WhatsApp 的工程团队将其媒体处理库从 C++ 重写为 Rust，将代码规模从 16 万行减少至 9 万行，同时引入了内存安全保护</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276357&amp;idx=4&amp;sn=28f985ea9b7fc46067c89cf5ff1bf453&amp;chksm=bc648390e87a9cd6b428621638490ca9bed54a5ddb96e079cd2f0d880746e311558d3cc34a08&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 13:47:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4 压顶，Anthropic CEO 先动手了：一场漏洞百出的舆论战，从构陷到翻车]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjkibk9PX2gYZDRcMNFiaYovSVV2fczJPHFKmiboibb0shQPN8D8jHBaEibVDwClYhcnscibtMalIHEzeyLX8HtGIZeUpB8zNEH8dhlE/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 这段时间，华尔街造了“新神”Anthropic。过去一个月里，多次板块级波动都被市场解读为与 Anthropic 的产品发布直接相关：周一 IBM 股价大跌，有交易员将导火索归因于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276307&amp;idx=1&amp;sn=430643f1becaa3f062743d454da1d911&amp;chksm=bcdfb3142da8f4fd256f385775a7010aab5da9d2c3e265f950fa69990aa3544405fe2e1b1af1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgFibEJ2ibublMuhJiaUshElaTbK6vJsaK5KlKAnF2ibS8t5ckeVPicPFHXXj79LY3uZY1NfNBN7k1tKiczeHxyj7WMCicQEtAhXOyOVk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Michael Redlich 译者 | 刘雅梦 Cloudflare发表了一篇博客文章，展示了在 Workers 上运行的无服务器 Matrix 家庭服务器，引发了关于 AI 生成代码和技</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274735&amp;idx=3&amp;sn=8f0cd5f4cceabd87ee4440824ae2953f&amp;chksm=bc8bc939afeda5b36424f8fb53c9bc8ab7d1a197b01622d8bfe8c8ac432cbd1b9a8a12f99075&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Feb 2026 12:02:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再手动拼凑 Data Pipeline 了！这个新平台想让你彻底告别 Iceberg 运维噩梦]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQo1qMJdbQuzAj1pg3cJhOZLKPFEKic5jSLpzzR4O1On1PBWyAsibOskcugaFibiawZle8HBILaSWIcFGPpiaibIF2lsmp0G0uicibv9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Craig Risi 译者 | 田橙 近日，Etleap 正式发布了 Iceberg pipeline platform。作为一套全新的托管式数据流水线方案，该平台的核心价值在于：让企业摆脱</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274735&amp;idx=4&amp;sn=1f99ef6a41ab43aaf2024f671decb478&amp;chksm=bc319224d89f546293a3cd8a6452070049d5c18285509c637caac936b2d1faa7bbf14b34753a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Feb 2026 12:02:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代的分野与合流：什么才是算力选型的“版本答案”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgyexQ9MHVScsqur7H6sWrZnE3ezSrSgQAhF6938MSdqTa5zVeV6zo6TyvgjoJaM160cam3y4l8MjFWmrgEm8MhnoZ8C746OgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Potatooo当 AI 大模型从实验室冲向产业一线，企业的算力需求正经历一场前所未有的“撕裂式分化”：一边是 3A 游戏、AI 渲染等场景对极致性能的“军备竞赛”，一边是 Web 服务、视</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274673&amp;idx=1&amp;sn=c7559dbb6576b9fd45f68d138cccabe9&amp;chksm=bc6fc98c012e8fa2081c1fe4f4595d07bbfcf9158a2e5181ec02aa527117b608902738431dc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 16:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据混乱、人才招不起！AI“杀入”基层医院，是帮忙还是添乱？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjztibXJAZKXDicvpbjkiaXrQUiaCoNZgUFkWpdf44uHW4RH1pvJM7ia83nWBbNNYRmlLzmETnLNCg3zMk9fV50aShd8TTnCL0Q1S10/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 采访嘉宾｜陈逸聪，浪潮信息广东区副总经理；关紫云，佛山南海人民医院院长； 2024 年前后，几乎所有医院的信息科和院长办公室里，都弥漫着一种相似的情绪——焦虑。“DeepSeek 出来那段</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274673&amp;idx=2&amp;sn=e223263687dd100b2fc291ecd351fb2c&amp;chksm=bccdf6895946b611a075a7f0d75282213ee83fef06db2155c9574267db960422cf21e903988f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 16:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 开始写 80% 的代码，架构才是真正的护城河]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgF35hoyQfRsrRqGZukrPUlTiaaqGeMRGCLaeVGBDJPewmP5QxtmFp1jn6gQt0sibte7UcJc8yLJQHVhy26XiczF7gRadZYriaG1Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Patrick Farry 译者 | 田橙 GitHub CEO Thomas Dohmke 近日发出了一则措辞严厉的警告：“要么拥抱 AI，要么离开这个职业。”但所谓拥抱 AI，并不只是使</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274673&amp;idx=3&amp;sn=bb6a48babadfa14a9c5e6255b9764fbd&amp;chksm=bce13a4a5aa6a3162c5ce500d59f024fdd7a9a2f3c2d6151e066aecd96e1face75620f4ae603&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 16:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

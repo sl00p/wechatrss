@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[写代码能不能干一辈子，要不要提前为35+危机布局？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXeh6RSMwZ67Mru8DEibtz70sGAy0UBupOFsUXzKWdbIfPU0UlT3f1ics0HORYVLLmia6lzu6gz7BZpLqHoPaxMgn8TOiaKN4Bzyxpc/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题：程序员要不要提前为“35+危机”布局？https://zhuanlan.zhihu.com/p/720444356现大厂码农，很早就意识到程序员干不了一辈子，中年后有失业的可能。先说客观原因：程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980568&amp;idx=1&amp;sn=90e973f06919ba0d861eb617e2d365d3&amp;chksm=bcf464b01157dc3c6c9957a9554de633a86825af460b2d91195701ab3530fd39a089a2e47847&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 08:34:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[数据库允许空值(null)，往往是悲剧的开始（第15讲）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcLUzFHzTzPY10Sev2xW2Q3KswaiceszialjJzs2k26P5Osc9FYtN0MndnHkKsDuK2Dfz7eRvnN4oiaRib5yxHuhI7ZvDEXIpJj8WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》15.MySQL，索引技巧数据库字段允许空值(null)的问题，有可能有大坑。这样的场景，你遇到过吗？实验过程：create table user (id int,name va</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980567&amp;idx=1&amp;sn=24765e15837a5ca06d14b7b2abca51c0&amp;chksm=bcab09f4c6dfcaa0fc6ffb2f42b2ff84f28fbfd6879651a8a1b7c3cfac019b7d5a9d0b42fa21&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxIGuB5oVD7cbVXX7yfHdUJRP0ia3Cp2mLDWlsCGGCJ2HqdhDhakOE7k606DBvzQX1H7GQwfJMQ2aQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当我们把80%精力花在“证明工作”上，谁还剩力气真正工作？热情不是突然熄灭的。它是在每一次假笑点头中，每一场无效争论里，被悄悄磨成粉末的。职场年轻人为什么对工作失去了激情？谁偷走了我们最珍贵的东西？主</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980052&amp;idx=1&amp;sn=27c485adb90602e5e9b66748d8d46328&amp;chksm=bc986e8bb326447c42c208a2bb27b543d56cdcc0c234aab37118b0e08dde8db8efd7d15a4278&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Dec 2025 11:50:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[跳槽时，如何让我的简历快速通过HR筛选？（思路比结论更重要）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOzkwlLoKSicgaTtcJnq3Xp5zia8ia0dnInw1KsTO2bQ2nZmhwWGcJANEP9Uj2ib5nLcGXWeogGZJiaLSAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>星球9月份话题：跳槽这些年有不少小伙伴问我“我准备跳槽换工作，沈老师，简历要怎么写，才能快速通过HR的筛选？”。作为企业管理者，今天和大家聊聊，怎么样的简历，对我们来说是加分的。求职的你，是否清楚企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651979849&amp;idx=1&amp;sn=dec65953437c10709a7926fca7df9834&amp;chksm=bce94d9a5b7dc9df8053ac4b53bc3018c5cc79a9260bd1aa4b8d9b7a5773d7637cc3747dfda2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

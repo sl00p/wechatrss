@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Kali Linux通过MCP集成Claude AI实现渗透测试自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX24PLtepmVyRPU0bcTzEX6P2lTpdSBKX1k1GibG2r7raRuVniaPQ1vQz3CQMpNYpjrzmKAqcfJX1TOoSt39U4OcXVjA6SS4TD9DQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 已正式推出原生AI辅助渗透测试工作流，安全专家可通过Anthropic公司的Claude AI输入自然语言指令，这些指令将通过开源的模型上下文协议（Model Context P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=1&amp;sn=aa6cb0d69a88d29ad0c00c917bc49c3d&amp;chksm=bc0180b4285da1ab3027aa3ac218fd1d386ec045bceaf119479419f3e42fc40d82333f13c954&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软扩展Copilot数据防泄漏支持范围，阻止敏感文件处理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1sWUONlO8KnIG1VbqxEgG2GnP2wqnYjia3A5Zs7j51bS423DRsZsj4IicWnFACTpfZqUcB7LgSUJ3dkQiahWn5sTaS6aLficpFt9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软正在扩展 Purview 数据防泄漏（DLP）控制功能，将阻止 Microsoft 365 Copilot 处理所有存储位置（包括本地设备）中带有敏感标签的文件。这项变更旨在弥补企业AI部署中的关</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=2&amp;sn=d37e07d190412952f2b2c5992b33a3a0&amp;chksm=bcf5be3b39f7dd82b0791fe2d1ff187cefe36efbbcc7f1ac61816f3d3c3727c5417c39eff508&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何通过主动防护策略最大化提升DDoS防御能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3mbOLAMOKg7Nr6ZeFyicI0NLUCfxcGicFAV2quCKbziaPJfW4OWJHreibAemYmIIo1l2MysvUPp1hlfWjUcP271rkO3tlLzYSvDg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象经营一家餐厅时，有人故意堵住入口导致付费顾客无法进门。DDoS（分布式拒绝服务）攻击原理类似，只不过其目标是数字基础设施而非物理空间。网络安全情报显示，2025年DDoS攻击量级已从千兆字节跃升至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=3&amp;sn=8c74fc0e7557195abbd57cf897c9212d&amp;chksm=bc870e689f1de660b19c73757df7afe4ceaa68940ff20e2543d425ce0a3652d56f54bd44c87f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用Apache ActiveMQ漏洞获取RDP权限并部署LockBit勒索软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1VxySibFQE67y7ZtUIMrqWsP35No0SURj2PKxdDOroVyLMufx0cDKicd4hUONNeE19Tia2IsKKic2TVo7ibCz4MTbqNI1GPw32Djhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache ActiveMQ 存在一个已被攻击者积极利用的高危漏洞，导致企业网络全面感染 LockBit 勒索软件。攻击者利用 ActiveMQ 消息代理中的远程代码执行漏洞（CVE-2023-46</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=4&amp;sn=f7a94bc3eebc340c8b0f0c335ffb3a5f&amp;chksm=bc83d393fa699a12f98934fa74ad5966295f01618267a29c1cf7649b8308807ec6bf12b1ffa6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw最新版本发布，安全防护全面升级强化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TWDBW2m8eohPUycZraNiciaN7wt3WiatmhD03OknDC1WLZGV6BmzQICrem3I6icBSGBUrQRJ2uGYiaDy82wMkTUPL4ias6C8icDr4XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01安全强化升级开源个人AI助手OpenClaw（GitHub星标超21.5万）正式发布2026.2.23版本，重点强化安全防护并集成先进AI功能。本次更新修复了多个漏洞，新增Claude O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=1&amp;sn=cd5421bf0d81d2dbca5b0db3d4577a7c&amp;chksm=bc41cb769a28727f75896842966dabde177ac1a88ce1f4ce15e3367517cc40656a8e6171c256&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0xgcBayOOEFzDaof67szOwOgmQ8CWSPpo1MTywZF71j88yBx5Ps0c5jadjp0j9eeoiaPqvPhyva1jJNz6lwVP17Je6AxPqm3C4/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件与数据加密是否仍是现代网络攻击的标志性特征？网络安全行业是否过度关注表象威胁，而忽略了正在悄然发生的更危险趋势？Picus Labs最新发布的《2026年度红色报告》通过分析110万个恶意文件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335056&amp;idx=3&amp;sn=85d6df24c5d7fe2f3445e292695bd590&amp;chksm=bc5b415d5056eba0260288c39ee17bcd396e5b30af5e950ee5b308b10e7799096aefaaffd8f2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISO面临的首要网络攻击目标与新兴风险载体]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1GmMQz7OdgILaib9SicHHVMAfXdJib2mUzflG9icibyJ8QhLbmtRMgk4sBZbMhPx4TjQdM4GjpbgU92TTrKCViaVxSibeJSwPUibFpuu0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从技术入侵到AI驱动攻击，网络犯罪分子日益将软件开发者视为主要目标，这给CISO们带来了必须应对的系统性风险。针对企业软件开发者的威胁正呈现多样化增长态势，迫使安全领导者必须针对这一不断扩大的攻击面制</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335056&amp;idx=4&amp;sn=26f2fa8e86e51ddcedf4a9e6cfb0656b&amp;chksm=bcc4cea7a0ba28aef0e5b326c36aa9de5f3710bfc4b18539c4365494af27fee405630e376d15&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw成供应链投毒新目标，341个恶意Skills窃取用户数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3INxvj1YXzKHJM5ngFhftWOT37qmPpFXpcxx5Cy3SxGicMNqUnZMmpahlCibymjwI3uZK1WrRh4WrMq9XxhwXDgmmFfeUuHNUC4/640?wxtype=jpeg&amp;wxfrom=0"/><p>快速发展的开源AI Agent平台OpenClaw正面临严重的供应链风险，攻击者已在其ClawHub插件市场投放恶意Skills模块。安全公司SlowMist和Koi Security发现数百个遭篡改</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335002&amp;idx=1&amp;sn=1d24ddb971adec415f8550a79ed89ec1&amp;chksm=bc9f88ea4f33174846d05039c015d47b50d391b7384e1de84d879a750acc5eb388947dddd0ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gartner预测：2026年六大关键网络安全趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1rwjzA4GsTaRKCD9lcE4LFLAktpLNUbNBeRq0aZDzPdBCUQVkpfST7v0wk4zF5ofRib9pF44bz6r8sq7ljOM9dIon94T64hul4/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据Gartner最新研究，人工智能、地缘政治紧张局势和监管不确定性将成为影响网络安全格局的核心驱动因素。面对持续紧张的网络安全态势，企业决策者需要重点关注以下六大趋势：Part01趋势一：自主AI催</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335002&amp;idx=2&amp;sn=b5f30cab74c3da78b670af67f28fa653&amp;chksm=bce91cb5200894842e9a252719d8743dfa0e3c49e74981d93b4339c576caf2b90a9b140afdc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitLab网关RCE漏洞可致服务器沦陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3EvCRwIaj5StCSbDjbz7uPticcHWc6qkVDNzOEQLYT8mS17FNGVicN8nmP9zhOicvib5PWpN85CGk2m97c4pLaEY7thvfB3ibFJaUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitLab向运行自托管版AI Gateway的组织发布紧急安全警报，警告存在一个高危漏洞可能允许攻击者使服务崩溃或执行任意代码。该漏洞编号为CVE-2026-1868，CVSS评分高达9.9（接近满</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335002&amp;idx=3&amp;sn=001157b7c186750552dc00a2737a43da&amp;chksm=bc25b4663d07a84c1ce0f7989a317048cc4b81d9e070e68255ad3bdf575ac07b871367d93d0e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

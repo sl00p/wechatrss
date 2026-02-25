@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVE-2021-1732 内核提权详细分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1enjPer7RVxcXZUV0hDT54ma5LrhkyBPI0am3QVj4ibjvBTJWwT1zokHFd3ncto7zjichCMYuz21Ujsa8JJlD8S426qiczsDBB6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>对 Windows 内核一直挺感兴趣的，打算先复现CVE并熟悉各种模块。在CVE-2021-1732中，真正的高危点并非单纯的未初始化内存，而是win32k 通过KeUserModeCallback主</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=1&amp;sn=2059dce6296e9b4e376e9e6d2666c11e&amp;chksm=b0c4a81dca843c7338d477ecefa3a1618c99a36f5cd295b7a285a5cdaf939176f5b7e786df24&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[未来CSO训练营策马速报，五重豪礼祝你六六大顺！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8C1NLS8ickpcaW5JFsulCDJbLgs7DOTIia3yAXLHia4ydzPF1Bmia22ibUZ5tTDhNt2KeriaM3tiafyP1SVJrSFtEPsUxaBK7DxZKz90icMhdeJdtro/640?wxtype=jpeg&amp;wxfrom=0"/><p>文章来源于安在2026伊始，AI狂飙猛进。作为网安人，是被AI干？还是干AI？这不是选择题，而是励志篇！说干就干！关键是，怎么干？让前辈大咖牛人专家，马上来，上干货！安在助你致胜AI时代，成就职场未来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=2&amp;sn=665031b29a533570894e197bf934f279&amp;chksm=b0dd4feb7f8a964b8a139abcac2828dfe2745e49f3c7e4927f3df94691ced3907762416b188a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客破解 Claude AI 窃取墨西哥政府 150GB 敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0gyh4hg9UpZMjMyibuBse86OjuVO7dajapq76I61OOGyNVOXkg59MjeiaanOfBibI0AicTTxwichrc6mgnbHwiaAkdNQJt5oSeiaRyjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名网络安全公司Gambit Security披露，一名身份不明的黑客通过精心设计的"话术"，成功突破Anthropic Claude AI的安全防线，诱导其生成用于网络攻击的恶意代码。这场攻击从20</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=3&amp;sn=a7e939e9c010d15d93de6a4ee629f018&amp;chksm=b0c59cbe105baa59818ed6741cb2bcc29c486c8b7639c4712d75002af621ae779fd33aa11123&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新课上架！冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=4&amp;sn=8048cd00727af53a9010ba19743e53b4&amp;chksm=b0ca7d55505263efd70e5ae8d619ec1e2f596aac220f69209708d361a480990565677ee5a3ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0m0sGQT1KLhQV2LfYNAXAwydqEA1C1NpT5yW0yibeqcxISB8iaafEw5g0wclC3sN6z0zmicf4ZYUIFicULAF3NiaEmYE79QNjkF8EM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当手机开始自己“动手”，它就不再只是回答怎么点外卖更划算，而是会真的打开 App、比价、下单。操作权从人的手指，交给了一个能看屏、能规划、能执行的智能体。2025 年底推出的豆包手机助手（以下简称豆包</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611129&amp;idx=1&amp;sn=87a0b2fcb577ee962a43c2e453b62220&amp;chksm=b021ec2534d11415b9cf93bb7546e9d97913a34735d17464564d5861db4abc1a82a768283b1d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FJCHuX0Z3OYq0FMxTcEicp8uNTKHrEKK2lpJvV6ADMheI2oNIbBJEGl2QfUjrkzwXoc3NftiaxIsZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今晚7点，《系统0day安全-IOT设备漏洞挖掘（第6期）》系列直播聚焦经典路由设备——D-Link，带你深入设备内部，拆解那些被隐藏的致命漏洞。我们将从实战出发，解析认证绕过漏洞的多种技巧与精选案例</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=2&amp;sn=4ca0b40d05e4611144274a07a6e2bab1&amp;chksm=b06f3364512b563cec96025d240d5eac12f93859d567ab3c55b00f3453782475ba9072f791d5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 31 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[初识IO_FILE Exploitation]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRFBY7vAETgaCAV11G9BGNMcTDzulOLiaxaHJuj2exru8lw9T3YsHvUMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>记一次跟着ctiwiki学习IO_FILE Exploitation的过程，我会在有些地方调试看看，加深理解。大部分内容都是来自ctfwiki。01给libc文件加符号表我这里是为了链接libc2.2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=1&amp;sn=432dff90252a270f0d35e2d76e0e2b78&amp;chksm=b0c9e9f2a1d579935c786649490768dff9e2a86f5afb7caa5261ec6c286d39d9f28facaa3dc4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[极客无疆——2025京麒白帽大会暨JSRC年终盛典圆满落幕！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Z9MuUwaeeGJDtuOETGGPuK3FUVmd97fBM6ZZTO1dhsymITM41KiaxducWSE3R4hOPSZsyWbGleibtSosDsX4CC3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>新疆伊犁2025京麒白帽大会暨JSRC年终盛典1月21日～1月25日，2025京麒白帽大会暨JSRC年终盛典如期而至，来自五湖四海的白帽英雄齐聚一堂，以技术为媒，以热爱为名，共赴这场“极客无疆”的年度</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=2&amp;sn=44df121a87215e303d250f16d63b33bd&amp;chksm=b057bdad2af00045a9a1b6cd6b90aba000e24016f256feff51ed8ba848b65a816995ca3767d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[两款下载量超150万的VS Code扩展被曝窃取源代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRNco08u1kGvBAqM8dysUG2EQu7yQg0IKPnesoU22gZULJHAedshzBkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI编程助手日益普及的今天，开发者们享受着自动化补全、错误解释带来的效率提升。然而，近期曝出的一起安全事件，为这股热潮敲响了警钟：一些广受欢迎的AI编程扩展，竟在暗中扮演着数据窃取者的角色。壹伪装成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608741&amp;idx=3&amp;sn=4f7f220082ee8e8018fcd65e9bf83635&amp;chksm=b08c9384361c9db687a2b4ec68489f311546122a69621570c2e5f6b026c76f142682d39c2d13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 18:00:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta低调修复Instagram高危权限漏洞，安全社区质疑其响应透明度]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GW6Ctr763UFRXlYLpYZQ3iazubh3xGmxLBpiavkUNrSI1MRQPQ4UBSiaEcTFXJZo1HmJ9draX11sFUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一起涉及Instagram用户私密内容安全的高危漏洞近日浮出水面。安全研究人员指出，该漏洞源于服务器授权逻辑缺陷，而母公司Meta在修复过程中的模糊回应，引发了业界对科技巨头安全漏洞管理透明度和责任感</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608579&amp;idx=1&amp;sn=b2ea4f72fed798e5537bb1f1dd511cad&amp;chksm=b02d3f9dd3e98b888a4fd1d78bc704a42be0ad3c3246a642aa91bd63f56a0e0192bc6d6cda18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 17:59:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
