@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这 4 个 GitHub 开源项目，最近比较火。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU29BFcGATSBjekcuWXhhxuNjmaicC79jz5SmKibmNKloDDKk3BFAAic0PG78ibYjSKzsM3I25IU4sDoUFyxloCf1Z7Njib39Nq44iaicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>01写爬虫再也不怕网站改版了做爬虫的朋友应该都遇到过这种痛苦：好不容易写好的爬虫脚本，网站一更新，选择器全废，又得重新调试。最近在 GitHub 上发现了 Scrapling 这个项目，专门解决这个痛</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531694&amp;idx=1&amp;sn=e65efb15229469a1082827a90c737771&amp;chksm=f843b6dd69e7b5c5b6fef220a27e8716a3fd7196af69e8cca597427b19ddca65c5b017ec6c74&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 15:27:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[4 天狂揽 2 万 Star！带你从 0 到 1 手搓迷你 Claude Code。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1AgOFEXXbuM7ZfyUJJuADib0hsfFLX9woiaHPCPNChNYDRFZKhT2ticFmzicialz0q7PXUpIzFJ1ib1dGo3TZTHhdUjNZTufc3DBJ6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年刚用 Claude Code 时，确实被惊艳到了。 没上手前，以为它只是个命令行里的模型外壳，用过才发现，这分明是个通用的 Agent。 LLM 的文本处理属性与 TUI 的指令交互天然契合，加之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531659&amp;idx=1&amp;sn=2b7e497d7d58f668e92d04a39935f19b&amp;chksm=f88aed8d95198f3485f57766f5267694f00e3c1d7e6c6db1732098a841482a2a0a21f1f1c702&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7Ahknsfad8HKXaglaIV19ibjybO19p9lSrggicfXl35M1eaZJibLXXiaxbBDHyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Skills 的开源合集这个 28K Star 的开源项目由 Anthropic 发布维护，收集了很多 Skills 。Skills 是啥之前介绍过，感兴趣的也可以问 AI。本质上就是将复杂的提示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530027&amp;idx=1&amp;sn=51d12ff254c52af9c0d3a6c8e0d1b937&amp;chksm=f82198e68428f12058a7f2c86d1e128354762c21aa3c749b1c650972af9ac17544b3a5964d6b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 28 Dec 2025 15:29:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 5000 人收藏的 Vibe Coding 神级指南。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzib6uAZIwnice3OuOOI6Kb8X6dFlWpZWiaKic2p2Jk4d5GicMaRbaAqvDEpOIH818qqAYKicNEo5voykBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vibe Coding 说白了就是开发个应用不再像程序员一样，苦哈哈地写每一行代码，而是化身为导演。只需要保持一种感觉，这种感觉可能是对产品逻辑、用户流程、审美和交互的把握，剩下的体力活全交给 Cur</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247529972&amp;idx=1&amp;sn=f5f2730e197afee0df4dbc951e3d0ce5&amp;chksm=f8854487c7228bbb79c17f5b80e046a44e8048663195bfa12960e896c44a51a02b7040826424&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Dec 2025 15:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

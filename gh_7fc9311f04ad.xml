@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ABACI内核缺陷智能体：让模糊测试真正“自动化”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xcedSuoQcicJXeBBrh8IhmEp7yyIsF2QKXKtkia7jznKIs2ibnKhkluwrsQJz9jjg7O8hzEjy2iczzGFf14ciaK8fctROY3alcyhQ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了ABACI内核缺陷智能体如何通过自动化技术改进Linux内核的测试、分析和修复过程。一、内核缺陷智能体：测试-分析-修复全链路自动化传统的测试手段，如单元测试、静态分析和人工代码审</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558458&amp;idx=1&amp;sn=a35806880318fa898087fba186753d54&amp;chksm=e8e504ec7b0501a8b9d51012c79748acc0d83b5f782501790d0b3ae39f2671a15f1cc8870138&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent系列｜深入解析Function Calling、MCP和Skills的本质差异与最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4eQ2NdgmeW4llicnsQ2Hxxe5rBwBInvicBSDyiaic401Ac6qt0XMmYsytXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558457&amp;idx=1&amp;sn=088df2d9371481bb54961b09688c6796&amp;chksm=e8aff9c3d1611e909762af66eda67c28567154304b3d895f5db2b538cfa9fdce86d6ad320aa0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvicvSpe9bxCRZpPbyhtQj1MLibcO47DnAy3HUnMFial3q3adRutqbKdueb8DrbjSFg1ogl6iaLOjdaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统总结了在仅有 UI 图片、无设计稿和交互说明的情况下，如何通过 AI 技术实现高质量前端代码自动生成。一、需求图片开局一张图需求，前端先行！对于一个仅提供几张图片没有任何Sketch</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555902&amp;idx=1&amp;sn=a2489771a6b72690ea701508f6affa39&amp;chksm=e8ccfee79e9cf4469591fce7bb2a712d254d658d78ded46fe9fabdafbdb6cf7c2c3749d646fe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Java 正式进入 Agentic AI 时代：Spring AI Alibaba 1.1 发布背后的技术演进]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLlc4VK3D74sm8IcSGNQuZ1sTkWkLRn9yPfzZJ8hVicD8ssAzXK9hpVaTUYB6kdyicyW5lt22vicUxvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天 Java Agent 生态迎来重大发布，Spring AI 发布 1.1.0 GA 正式版本，紧接着，Spring AI Alibaba 1.1 版本正式发布。1.1 版本是在总结 1.0 版</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555883&amp;idx=1&amp;sn=a1b2999a43b1fa8cb41c81fddd933052&amp;chksm=e8319a219b54fa3cb84780ab885783e20ec5d27f5d243db42fe25aa5cb147f714632011b07c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

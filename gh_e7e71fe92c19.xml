@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重磅打造 | 0day系列——Web框架漏洞挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1WLX8ibFYiaoceyEzibNp7m8iaalzZUfCzmXIrCmkL0ffjF3pfzBBwv5nsby2djms3ibocxibWb4wkHL10FYA8MoJJ4VBIdTfUicSOvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>做网络安全、开发、运维的同行，几乎都有过这样的挫败感：✅ 记了一堆零散技巧，面对真实业务代码仍无从审计；✅ 懂漏洞概念，却不懂底层逻辑，遇WAF/RASP直接卡壳；✅ 学旧案例跟不上漏洞迭代，最新CV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=1&amp;sn=3f8c4b616b1d9d215bf5f202f4d8322a&amp;chksm=b0383a3e541ce2e54f3b50783ad40bd1a61809b09cc823d04a79ba7ca2d260ec8038db55b171&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用JADX-MCP高效反混淆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaPmK8R0NWTjDYvARnHeicF9Fa9cVK9ia12JIQzzYtvv0Jf9uGiaX0ibhsXAsmlLH3Y3ia8KsibQbHyXmT8YFLUbfSYkLdUevjLDTw4/640?wxtype=jpeg&amp;wxfrom=0"/><p>通过优化提示词，规范化agent的行为，从而得到一套高效率的java层反名称混淆方法。痛点在安卓逆向过程中，我们常遇到这样的混淆：总结起来可以分几类：1、unicode小语种类，比如阿拉伯语，类名竟然</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=2&amp;sn=cba2654f608936f4b165bff4a34d7a49&amp;chksm=b07164db91effde54d91d0318c0d834b41045829edfa63bfa789b5244e66d3a66b77a4a78f80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[300美元买下你的手机控制权？这款新型安卓木马能在你眼皮底下“隐形操控”一切]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K15UkYqxeeJuV47ia7b6o8mMTiaojdu5eqk56zJchL7WvYFAPiblut5qIS4PwxxMwWETkAQ99mzRznKJX9hGpWpSPqE5ySt0Rb2Ts/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你正在刷手机，屏幕突然弹出“系统更新”的提示，你的第一反应是什么？大概率会耐心等待它完成吧？安全研究人员发出警告：如果你看到这样的画面，手机可能已经被黑客完全接管了。一款名为 Oblivion 的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=3&amp;sn=b55cf16829c9e232b4b38d922db4f0cd&amp;chksm=b0520d544347ac2fdb0e85b631e489f3fac0d452a10736258cae188f0adf8e5418f20796a59d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVE-2021-1732 内核提权详细分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1enjPer7RVxcXZUV0hDT54ma5LrhkyBPI0am3QVj4ibjvBTJWwT1zokHFd3ncto7zjichCMYuz21Ujsa8JJlD8S426qiczsDBB6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>对 Windows 内核一直挺感兴趣的，打算先复现CVE并熟悉各种模块。在CVE-2021-1732中，真正的高危点并非单纯的未初始化内存，而是win32k 通过KeUserModeCallback主</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=1&amp;sn=2059dce6296e9b4e376e9e6d2666c11e&amp;chksm=b0c4a81dca843c7338d477ecefa3a1618c99a36f5cd295b7a285a5cdaf939176f5b7e786df24&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8suIScBN7OZW5XdbY0p55hZLIgESzF4icaTrCdbVArQUYicchREO7EyyAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一支名为Lab52的研究团队在暗网深处，发现了一款正在被大肆推广的、高度专业化的攻击框架。该工具并非针对普通电脑或手机，而是直指能源、电力等关键基础设施的控制系统。这款在暗网“黑市卡特尔”平台上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=2&amp;sn=78f264620dec14cc64ff5dae8fe43999&amp;chksm=b06007f9f21b9eb137e75816f29f413f437708fdf033c3f41c3587834020ffc45bf13ce3a16c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【招生中】无人机安全攻防入门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E4gvpb3vgYVWnRWiamTMSjXDiaLSMuwLnlWicGZoJfO1l002hM5kHL7hxtPOBS2EPK43pvlxQn9uZfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，无人机已经成为各行各业的重要工具，其应用场景日益广泛。例如从军事侦察到物流配送，从影视拍摄到农业监测。随着无人机技术的普及，其安全问题也逐渐凸显。例如无人机遭受黑客攻击、数据泄露、飞行失控等安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=3&amp;sn=6cfb0d195f3b606bab8e7be997c629bb&amp;chksm=b06db63e7239b73658627045543070d8d5b49ef20ea1c0ca009093a2e264f6bfc1002676e4c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[强网杯S9 Real World - monotint]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GqPJd2ssePqMrPRia8FoneRhhsHe4KVoiap3ndzSQ3MtzjiafX3bILX2SicDicxZf3r6Uh4fx0oHTyaNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次强网杯线下和0x300R的师傅们一起打了，其他师傅都太强啦。但最后一天的时间很短，我们最后demo的4题，基本都因为环境问题，没有成功，其中就包括了我这里demo 的monotint，一道浏览器的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=1&amp;sn=6847c40b551141a8d7a336c01ee7b5c7&amp;chksm=b09457ec0ab5a5b0a1a0e56c9d72e57a559dee0445a8f53b4fc893a6009f6abb0c402e86feff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 31 Jan 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今晚7点直播 | 如何绕过路由器的认证机制？D-Link设备漏洞挖掘实战直播]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FJCHuX0Z3OYq0FMxTcEicp8uNTKHrEKK2lpJvV6ADMheI2oNIbBJEGl2QfUjrkzwXoc3NftiaxIsZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今晚7点，《系统0day安全-IOT设备漏洞挖掘（第6期）》系列直播聚焦经典路由设备——D-Link，带你深入设备内部，拆解那些被隐藏的致命漏洞。我们将从实战出发，解析认证绕过漏洞的多种技巧与精选案例</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608873&amp;idx=2&amp;sn=4ca0b40d05e4611144274a07a6e2bab1&amp;chksm=b06f3364512b563cec96025d240d5eac12f93859d567ab3c55b00f3453782475ba9072f791d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 31 Jan 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

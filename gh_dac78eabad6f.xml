@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 工程化落地实践：推翻"完美架构"，回归提示词本质]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LheVUDjicaKDBxG7UDRY49ubyNIh2OaP6dKPdXms44GCVYaLnaX9zIaaZuwJBAibwV9WubHFmHnrMJPicdORHzHZqKWDO9Im0QQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01一个"完美"架构的诞生与死亡 1.1 我们最初的野心故事要从几周前说起。那时候，团队刚开始系统性地探索 AI 辅助开发。我们读了大量论文和博客，看到业界</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694655&amp;idx=1&amp;sn=63bbdd3d44df9dd42dc283f8c749d077&amp;chksm=eb1ecddd9db98c60cd39a7c95d36c395d00720630d4487b158f3f08dfa4cf0857c02c512d11d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Feb 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何从零开始实现一个 AI Agent 框架（理论+实践）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6pqsxldSleUGox0w35lhmH8ChK4mFia76XEBnibSQdc1I3aw7IJHic1EUa5rU4C1KDicYFzK0lHj0IFBT7sTAPnoaGS0ucakvXOcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇人类最重要的 affordance 是“手”，而 AI 最重要的 affordance 可能是“代码”。Shunyu Yao年初火爆现在热度依旧的OpenCla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694641&amp;idx=1&amp;sn=dff67991264624bf2e7615bd637f4cf6&amp;chksm=eb82a2d25f89b7e555654586bfe6402a1d2e22bf49c069d031da2f36ab8fb0342f5f98c15db9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[彻底爆了！一文了解LLM应用架构：从Prompt到Multi-Agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TGhibWoDzj1tW2og20PWyhwwwuESHibVw3P0MNBQwPxgZDNKvwEk38D5XCrmaXhm9C0BkjpY2GZVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 Agent是什么？2 为什么会有Agent出现？3 Agent要怎么实现？4 总结自 ChatGPT 问世以来，业内对于如何将LLM落地应用进行了各种探索。本文主要总结了LLM在应用落地中的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692785&amp;idx=1&amp;sn=3f7903c8e98ead5b81b3f3dd8ce97446&amp;chksm=eb99eafea4d1d5f8247f356d8b2603c0417ad49a90ee06f5b5ae208c3ffca94fa71df17712a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[沙龙推荐｜揭秘王者荣耀推荐系统：在线学习技术的落地应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TGhibWoDzj1tW2og20PWyhWibt5icNWNGC4j1tMJvtdNunrz8LrkCEFsWDTYsaEQ4xn4jFuKYiaC7Rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI 席卷各行各业的今天，数据不仅是 AI 的根基，更是智能进化的“燃料”。没有高质量、大规模的数据支撑，再先进的模型也难为“无米之炊”。然而随着 AI 应用场景的不断深化，数据瓶颈也逐渐凸显——</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692785&amp;idx=2&amp;sn=794fe0c3280667a4158a58cc43f0354b&amp;chksm=eb899184d9dcb59c13842abf83ce4a5d9bc6f9c95bbc8cd838ac15676bb2576ae14e4d8f99be&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
