@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1QBIcw2rASB4PUNTicVibCac1QeiaPVKcOhH9P0L1T0LR3bbnAq0aVlbeveSiayaH62XHNdcicwmvGsIFwGbI0NKpz9416Z6tD7iaZI/640?wxtype=jpeg&amp;wxfrom=0"/><p>!网络安全研究员请关注！当前，数字经济高速发展，网络空间已成为国家重要战略空间，与此同时，网络犯罪呈现出专业化、产业化、隐蔽化等新特征，对国家安全、社会公共利益及公民合法权益构成严重威胁，亟需专门立法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=1&amp;sn=8569dd2a39ebd324dc5e51c31af57c4c&amp;chksm=b003ee106e572354379f46b68a1f595630871e61626c4dd4d29e4b31d409657f7ed7cd727c84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 18:01:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[阿里CTF2026-license]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ruht6NPE4dof1bS9wAHLCtOuLtOmpGI9DBl1SxvOQFVeAUBhod2biaCsJy99AHHyZ0q3Q6w1P0JRuO7J94BGQ8f4UNFQFXict8/640?wxtype=jpeg&amp;wxfrom=0"/><p>记录下第一次搞协议逆向，很遗憾比赛过程中卡在最后一步了。总体协议流程如下：1.数据包=长度（4字节）+nonce（12字节）+数据流（长度-12字节）2.数据流做AES-GCM解密3.zstd解压缩4</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=2&amp;sn=1175d370b234c402a6652f7af8ef4b97&amp;chksm=b0d393f79a9ab9feef1ce353b716fb7b7ce8701a0dfab76f0bc417e65918dbeed6975bc13df2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 18:01:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[揭秘1Campaign：黑客如何利用“网页伪装”技术绕过谷歌广告审核]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2uibKk5l4yQG2LOLicRuqicSuhgq3Khias037LQRprQhWkw2icmjesAossaGric5EAHUHHtDyzN3UffpMWrVDI1iaViakpszThdK6iayzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近期发现，一套名为“1Campaign”的黑客工具包正在被恶意利用，专门用于绕过谷歌的广告审核系统，向普通用户投放危险的诈骗广告。伪装大师：同一网页，两种面孔1Campaign的核心技</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=3&amp;sn=a669a4e6628bd4a53ebc8cc5c44f7327&amp;chksm=b0eda2cc79c369e6fba30a7dc1577350fd294cc843c7f57d23d4fad7b8fd5e022dafd7aa0c87&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 18:01:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重磅打造 | 0day系列——Web框架漏洞挖掘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1WLX8ibFYiaoceyEzibNp7m8iaalzZUfCzmXIrCmkL0ffjF3pfzBBwv5nsby2djms3ibocxibWb4wkHL10FYA8MoJJ4VBIdTfUicSOvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>做网络安全、开发、运维的同行，几乎都有过这样的挫败感：✅ 记了一堆零散技巧，面对真实业务代码仍无从审计；✅ 懂漏洞概念，却不懂底层逻辑，遇WAF/RASP直接卡壳；✅ 学旧案例跟不上漏洞迭代，最新CV</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=1&amp;sn=3f8c4b616b1d9d215bf5f202f4d8322a&amp;chksm=b0383a3e541ce2e54f3b50783ad40bd1a61809b09cc823d04a79ba7ca2d260ec8038db55b171&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjga4hvpeXUlvCdJibSx1drWeWrBuOs5n81PTAhatGKVJgxDElzlnQ0rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一起利用 Microsoft Office 最新高危漏洞（CVE-2026-21509）的定向攻击活动被曝光。该漏洞在微软发布安全公告的次日便遭恶意利用，攻击目标直指乌克兰及欧盟国家的政府机构。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=2&amp;sn=e1ca0e9a1a5c81f2114d6194072f76fa&amp;chksm=b0bf9c9b3c4cf5652038beca37aac10fd2d35c6825908051985ab83b4a3e1448874df33b6bc9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突破 x86 局限！多架构 Linux Pwn 实战课，从用户态到内核提权全掌握]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjibIfheWx0e2rmO4r6icJmxQx6VnPn9AwEZlgp0LibjbPHmM9FlJpib4JKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，早已满足不了行业对复合型安全人才的需求。如果你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=3&amp;sn=5c358d94ca07fb5725fabce428325fc5&amp;chksm=b0d5b503adb419d138bee6c04991ac1119d9eba853a17baddda758b52cd80484eb267912705d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入浅出 Android Hook 技术：Frida 框架入门系列]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5NornKOMNVWj6cOjHZ8Aqj7Aw6NWMMzr3Il57tQlS7A4LqkoI5N609w/640?wxtype=jpeg&amp;wxfrom=0"/><p>PART 01一、Hook 框架概述Hook是一种在程序运行时动态修改或拦截函数调用、参数或返回值的技术。在 Android 安全研究、逆向分析以及自动化测试中，Hook 技术扮演着至关重要的角色。核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=1&amp;sn=1f40272488c196228ffd477b34e89d34&amp;chksm=b05d7a145f15ad4167c900dc80f0294cb70c54def639b0a933ead8774dc1b5d4ebdd334f4525&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[暗网市场出现新型OT攻击框架，可针对性破坏电力系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8suIScBN7OZW5XdbY0p55hZLIgESzF4icaTrCdbVArQUYicchREO7EyyAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一支名为Lab52的研究团队在暗网深处，发现了一款正在被大肆推广的、高度专业化的攻击框架。该工具并非针对普通电脑或手机，而是直指能源、电力等关键基础设施的控制系统。这款在暗网“黑市卡特尔”平台上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608939&amp;idx=2&amp;sn=78f264620dec14cc64ff5dae8fe43999&amp;chksm=b06007f9f21b9eb137e75816f29f413f437708fdf033c3f41c3587834020ffc45bf13ce3a16c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 17:58:54 +0800</pubDate>
     </item>
   </channel>
 </rss>

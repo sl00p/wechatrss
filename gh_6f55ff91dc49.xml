@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近群里讨论最多的 4 个 GitHub 开源项目，给劲儿。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU33o63jy3bFdvCGibXdeaNDS3OzXtrqQFUE7MmqtybiaD4qexpcs9zjprH9YWH2lAD43AAL4olfgH7w8ZfyuQnwprjJpN4dXWbZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 打工人经济测试框架港大最近开源了一个挺有意思的项目 ClawWork，把 AI Agent 放到真实的经济环境里去打工赚钱。说白了就是让 AI 不是帮你干活，而是自己出去接单子挣钱。每个 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531697&amp;idx=1&amp;sn=79a082f970052fac3846ebf4e3fa084f&amp;chksm=f807aa3fd28c8225c808aef8a8ab0d861b2709d8816f995994cbd8ca3b9e78355d9e4f2a4ae9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 14:45:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这 4 个 GitHub 开源项目，最近比较火。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU29BFcGATSBjekcuWXhhxuNjmaicC79jz5SmKibmNKloDDKk3BFAAic0PG78ibYjSKzsM3I25IU4sDoUFyxloCf1Z7Njib39Nq44iaicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>01写爬虫再也不怕网站改版了做爬虫的朋友应该都遇到过这种痛苦：好不容易写好的爬虫脚本，网站一更新，选择器全废，又得重新调试。最近在 GitHub 上发现了 Scrapling 这个项目，专门解决这个痛</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531694&amp;idx=1&amp;sn=e65efb15229469a1082827a90c737771&amp;chksm=f843b6dd69e7b5c5b6fef220a27e8716a3fd7196af69e8cca597427b19ddca65c5b017ec6c74&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7AhknvcdIHQqPoI3IicTEaVic2DPiabLm0fJeOgibtoNcDic6jlFtEofdGINB5BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AutoGPTAutoGPT 是 AI Agent 领域的鼻祖级项目，现在已经 18 万+的 Star 了。与聊天机器人不一样，AutoGPT 能够自主地将一个大目标拆解为子任务，并利用互联网搜索</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530086&amp;idx=1&amp;sn=256bf22f34ffea67b789e37cdd66abd7&amp;chksm=f88bb3fab464befe69137b37e6e642b364aa0c365916922aca6d3bdf68c1b564c2795ec0b2fc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Dec 2025 15:18:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 8 个本周 yyds 的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7Ahknsfad8HKXaglaIV19ibjybO19p9lSrggicfXl35M1eaZJibLXXiaxbBDHyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Skills 的开源合集这个 28K Star 的开源项目由 Anthropic 发布维护，收集了很多 Skills 。Skills 是啥之前介绍过，感兴趣的也可以问 AI。本质上就是将复杂的提示</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530027&amp;idx=1&amp;sn=51d12ff254c52af9c0d3a6c8e0d1b937&amp;chksm=f82198e68428f12058a7f2c86d1e128354762c21aa3c749b1c650972af9ac17544b3a5964d6b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Dec 2025 15:29:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把 320 个 Claude Code 实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQPsjkibs81HagBfMOMYHmOWZdjzN8mLyAoyDUE11M4UUSyiaCfbyOVWCOrLpkBhVjI4Dt4eU7JuE6gfvQVf67s0T5RF12CGibuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 核子可乐、Tina 当你把 AI 编程用到极致，它看起来就不再像“写代码”，而更像“带团队”。Steve Yegge 说自己刚关掉了机器上的 320 个 Claude Code 实例，每个实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=1&amp;sn=bb19d137d8204c014258c0051a401ed1&amp;chksm=bccd31803aeb58b5cb258420f612e14e25fc75bf85d0d00cd6adcc51cee86b1bfed688553cf3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[规范驱动开发落地经验谈：为什么 AI 编程的关键不在模型，而在协作方式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhIecPu9yvG4RT1rHo1kYY8oFpbj7oiau4GQGUyUsoWUvSPQU1GhZg5VBFeRk7ic2PJCY8SfQ7xTLfOJYTFfYFVXtmAfnuI5wukE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Hari Krishnan 译者 | 明知山 1 意图表达的演进：从指令到对话 过去一年，AI 辅助编程领域迎来了重大变革。我们已不再需要在 IDE 与聊天界面之间来回复制代码，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=2&amp;sn=939d8f02df9fb3fe2dfe9f01a785acc4&amp;chksm=bcf73a3e24cac302f4932c7bf5152890478ad2fb630e8923819ebe2a9af4ebd42565d19b7063&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[测试计划驱动开发模式 TPDD：一种比 TDD 更友好的开发模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgDYhib2oiaQ2K1fuoNSMciaFPQC8rHoibceMXIIUicuFjzuGuEeyPXPx7afjbnxQMibsvxZnoXSGJaZibe0w7tEsZCrKe6NFIDYHziaC8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 臧嘉玮你所在的开发团队使用 TDD 吗？——想必很多人的回答是肯定的，与此同时，还有很多开发团队都 对外声明 在使用 TDD 开发模式。之所以说是“对外声明”，是因为很多开发团队虽然号称使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=3&amp;sn=3d148e361305a72a648c1cf2ab223a07&amp;chksm=bc094c345e9c69a5b6e1b430e354632a8ae3a930855e3704e0f5483c27701166a192fa719a3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌推出 Conductor：一款面向 Gemini CLI 的上下文驱动开发扩展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgquKcc3u7QoVicbxISNIVWNvC5k4Gno6H0yrr9Rd4IYMPHkiaI2ScZRGerLbXzNxarFicntvSCtODsRNiaRLHOUJvwczYZibzibxaog/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 刘雅梦 策划 | 丁晓昀 谷歌发布了新的 Gemini CLI 预览扩展 Conductor，为 AI 辅助软件开发引入了结构化、上下文驱动的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=4&amp;sn=e35362aed052d70bf635feff4f5a4d28&amp;chksm=bc2416d62fec4253ebb584305b514dbcc8040cfda834b2f6ed11082996931f3af194a97490e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek联手清北发新论文，5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgBoIldjdOibxhicWu3wUAiaeP2UyibqKSrNA20JRKqLSv2IK4oLqBOt1clzLEPiczjp8MG3yRsu3zHOsnqde10bfx9ShU6xv7ZialZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 继 DeepSeek V4 Lite 信息泄露后，DeepSeek 团队刚刚放出重磅技术成果 —— 联合清华大学、北京大学计算机科学学院，发布一篇顶会级重磅论文《DualPath: Bre</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276519&amp;idx=1&amp;sn=4b4fb425f744235e11d59c7d55087969&amp;chksm=bc54cb1d9078ffdd347b0fc630b818a6e144f094ea3019ff219cccd2b2d6d05cadb7ddce0c7a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjeLjGeZiaKEYXh4trvh8BTZ59dviauEYqfM5kiaOYtwObv6BcYjCR8VrNrvzsYJhUWicE5FfMjM806icbpoqaibiawVxB9ibqMymLYYhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>采访嘉宾 | 白琳 策划 | 李忠良 在“人工智能 +”行动持续推进、人工智能被视为培育新质生产力重要引擎的背景下，企业级 AI 应用正迎来从探索走向深化的关键阶段。1 月 31 日，在雄安新区举办的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274822&amp;idx=3&amp;sn=a518a3a38844604539e5f7ecad845355&amp;chksm=bc8be0600c3ceb1cedf61651608558460f9e53bc13e401c983e61064520366b4bf73ea78d422&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Feb 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 智能体界的 npm 来了！Vercel 推出 Skills.sh，欲统一智能体指令集]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhuF6BZ944icpddwWdo3qoiab2vwtMZl4FiclXr2O4xyzDVmsWFBtWvMX48iaDKcbp9oBJSlnVqbmVEszxic7soqv3ZHlyYfpGDgIqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Dominguez 译者 | 田橙 Vercel 最近发布了开源项目 Skills.sh，想要给 AI 智能体（Agents）配上一套“标准动作库”。简单来说，它让智能体能通过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274822&amp;idx=4&amp;sn=3816018ecc04d95ec9ee0f181039f208&amp;chksm=bc3c87282ca799de3bbb5de4c37ef5081bc08fd42c9c8080aa2c0c010be81f48c6a2e76e8eba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在参与OpenAI、Google、Amazon的50个AI项目后，他们总结出了大多数AI产品失败的原因]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjbOgwnm4FQZgr2mcYHnOCcpseMMhVTf1f3FWby2xoQ3CbxW3IZ2piaTMTWNOTHMnEQlF8vL9LFe1xL3YIIcZuTowK6LZHglsMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 借助 Coding Agent 等工具，如今构建一个 AI 产品的技术门槛和启动成本已急剧降低。一夜之间，将想法变为可交互的原型变得前所未有的容易。但一个刺眼的矛盾也随之浮现：大多数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274764&amp;idx=1&amp;sn=390c4cb0eb24bdb55c47a66ecca9ea24&amp;chksm=bc033cf95c2e0b36749af6ba8a0ddb7368e7bd373fca61ba9e047a2cfa4cb3cd676a0eec48a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Feb 2026 10:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡 AI 开发者？不如给维护者打钱！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgPUAI89m04NnmibkZKhxTYVfIL80LmHaCvhIXLRjVfVjHeGxcMbgqIKNQVjV2XZ9OOGUUT0wbBxN7Zicznqj4PQricrib2jCD3FibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫 氛围编码（Vibe coding）是否会摧毁开源生态系统？近日，多位知名研究人员在一篇预印本论文中指出，从观测到的趋势及部分建模结果来看，情况可能确实如此。他们的警告主要集中在两</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274764&amp;idx=2&amp;sn=d03a41bf66bba6a72b2091eab11bcad1&amp;chksm=bc67e8b76f8a7a22fba784d5d375092806f86aa7268346c09544213ee1b2e56ca7ecc06e6c85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Feb 2026 10:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再卷RAG了，Agent才是「超级生产力」| 极客时间]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4ZFMuycwBI9GAhumNSYCT5aNbCXicttIBNFPr5aX3b68bk4lYvdY5icQ1xGeMicLSSoJDiaqwEQkFe0tOT2N0HZoTkxt4PnOIffQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年，注定是 Agent 从技术概念走向商业主流的转折点。无论是企业还是个人，若想在这场智能化浪潮中不被淘汰，拥抱 Agent 已不再是选择题，而是生存题。Agent 是什么？Agent 不是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274764&amp;idx=3&amp;sn=7a08b0d1d864881b1112186d221db6c6&amp;chksm=bca043f718bbcd6d4f85ce29b2fdea8b2a5efa48a6753962c3992bbf9b05e2f19269a9aedb3e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Feb 2026 10:18:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

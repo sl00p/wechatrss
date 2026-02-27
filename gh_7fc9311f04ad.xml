@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[揭秘 Claude Code 前沿技巧与 Qoder CLI 日常开发实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0kbBUR9XO3icnYymyw3wtBBMpJ1RibzmarrK2G4tQWeCjT9ib0vuTwVr2cXqRiaTFFMJLl0O0jPSiaGnspY3xuFdEribEonpej2upM/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在纠结 Claude Code 的各种“黑魔法”怎么玩？Command、Subagent、Skills 到底有什么区别，各自适合什么场景？新出来的 Programmatic Tool Calling</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558503&amp;idx=1&amp;sn=13829559963528253296ee8954cf7d0b&amp;chksm=e856167816f416e31d86e56eef8b691ca20aebaec4ba7345c565f7f7d1c4fa50860938f1597e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Feb 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ABACI内核缺陷智能体：让模糊测试真正“自动化”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xcedSuoQcicJXeBBrh8IhmEp7yyIsF2QKXKtkia7jznKIs2ibnKhkluwrsQJz9jjg7O8hzEjy2iczzGFf14ciaK8fctROY3alcyhQ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了ABACI内核缺陷智能体如何通过自动化技术改进Linux内核的测试、分析和修复过程。一、内核缺陷智能体：测试-分析-修复全链路自动化传统的测试手段，如单元测试、静态分析和人工代码审</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558458&amp;idx=1&amp;sn=a35806880318fa898087fba186753d54&amp;chksm=e8e504ec7b0501a8b9d51012c79748acc0d83b5f782501790d0b3ae39f2671a15f1cc8870138&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYk2ejgqZSAtpJbGWcXR4rYlfvMyU9AoOT2LlJuJNOZANv96nEbpibLQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型和算力的快速发展，促进了很多行业的变革，即使目前AI仍然处于“自主行动”的初级阶段，即“辅助人”的阶段，其巨大的潜力和演进路径却是相对明确的。客服领域，作为最早使用“智能能力”的领域，也随着LL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555905&amp;idx=1&amp;sn=334b37e5292774a97718d60f9b6d81dd&amp;chksm=e86e057d2fd6d9964953b7c7a1e3619e51d102e4176d36687e38203aa111670556c25052a44b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[仅凭几张图片，我们是如何让 AI 自动生成 70% 可用前端代码的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvicvSpe9bxCRZpPbyhtQj1MLibcO47DnAy3HUnMFial3q3adRutqbKdueb8DrbjSFg1ogl6iaLOjdaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统总结了在仅有 UI 图片、无设计稿和交互说明的情况下，如何通过 AI 技术实现高质量前端代码自动生成。一、需求图片开局一张图需求，前端先行！对于一个仅提供几张图片没有任何Sketch</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555902&amp;idx=1&amp;sn=a2489771a6b72690ea701508f6affa39&amp;chksm=e8ccfee79e9cf4469591fce7bb2a712d254d658d78ded46fe9fabdafbdb6cf7c2c3749d646fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
