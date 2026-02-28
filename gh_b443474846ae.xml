@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[老师讲 12 小时，不如 AI 教 2 小时？这所高中直接干掉了所有老师，Claude、ChatGPT 也成学生日常]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhg6h9yzP1WzFy6aWajrvL6ib1swVheXgib1kTiciaK46fdVwP0YiaImxTScEBGJiaE2bPfLqEx2rIFHwLiaOcA6bicvWmFwVTtoGia2jt4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜华卫 AI 对下一代来说，是最好的事、还是最坏的事？问不同的人，可能会得到完全不同的答案，但很少听到来自身处其中的年轻人自己的声音。在近日的一场播客中，曾做出 5 款产品的 AI 创业公司 Ev</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276696&amp;idx=1&amp;sn=c2f7fd8ee940f376f445f7b4ed75d705&amp;chksm=bcb91f6e8ccd96d1bd66fe61642076059227590361c404000faba3f1df44ad7d1b97b461f218&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别再谈“10 倍开发者”了：AI 智能体不是加速 SDLC，而是直接终结 SDLC]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNguzgOLP2rlJnV4iabDFWvVgy1xicZgng1YsU8I8lyPt2v1v6XFSnQm8CamvJZia4f0vXrLNmPskm4CqeKPeRSwcMEz4PR6BzAVEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨Boris Tane 译者丨明知山 策划丨Tina AI 智能体并不是让软件开发生命周期变得更快，而是直接终结了它。我经常听到人们把 AI 称为“10 倍开发者工具”，这种定位是错误的。这种观点</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276696&amp;idx=2&amp;sn=d8c3bd5cd6a2d3c96df4b87948831b24&amp;chksm=bc894d441c0f3b2c4fe96479cb9e3ccc71ac81d0e1ee83f4359305a3540bbc08dac40171a68e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[海量小文件 + 多云协同：地瓜机器人 JuiceFS 存储优化之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjmfyTmViamhC5rEhk8HZVaqQUBicLmfDUMFCjduIXxng7qtbzWJG9mKPXKcoOVpy1vMtajsxuNKYbSabggcXsWkvDz93ArJMUV8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 赵晗 地瓜科技成立于 2024 年，由地平线机器人事业部拆分组建，专注于消费级机器人底层计算平台的研发；此外，地瓜科技在 2025 年还发布了具身智能基座模型。在机器人数据管理和训练推理中，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276696&amp;idx=3&amp;sn=280d8b510ae01770a96903a5fc6b8ffa&amp;chksm=bc3e2debbe04fbf1b2bf842018c44e92843a67844ce437f75fb16001501f3f3df48008cc0e5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Copilot SDK 使开发人员可以将 Copilot CLI 的引擎集成到应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgqqwibpbrFIrVGb9HntMkJepyfudKZhHic03cs5mHH8MsibpEbAgticL5hDWMfWf2HVhnfyIy9ZhFmsG6jDvCqoFw0q99ibqibr4UBk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 平川 GitHub发布GitHub Copilot SDK 技术预览版，允许开发人员 将驱动 GitHub Copilot CLI 的引擎嵌入到他</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276696&amp;idx=4&amp;sn=5bdbd2813e87edbb886fedd9ecef39a3&amp;chksm=bc3464e34ac97b531bf31bfbc12591023751cca41c40ae95505ca7998fa3478b867402c55ce9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把 320 个 Claude Code 实例拉成一支“智能体团队”！Steve Yegge：年底前，写软件不再“敲代码”，而是像玩“策略调度”游戏]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQPsjkibs81HagBfMOMYHmOWZdjzN8mLyAoyDUE11M4UUSyiaCfbyOVWCOrLpkBhVjI4Dt4eU7JuE6gfvQVf67s0T5RF12CGibuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 核子可乐、Tina 当你把 AI 编程用到极致，它看起来就不再像“写代码”，而更像“带团队”。Steve Yegge 说自己刚关掉了机器上的 320 个 Claude Code 实例，每个实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=1&amp;sn=bb19d137d8204c014258c0051a401ed1&amp;chksm=bccd31803aeb58b5cb258420f612e14e25fc75bf85d0d00cd6adcc51cee86b1bfed688553cf3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqsuK7cIaOiaqViczmnlox8onuv4ufmGpaT15zkRTHg1icQUfiaic7iaicgiatROxWpibemUNAXLvIogbsI4qP7bmkXur00VTZwtNGAKqM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 木子OpenAI 和 Anthropic，这回真是贴脸对打。Claude Opus 4.6 发布还不到半小时，GPT-5.3-Codex 直接上线，没有铺垫，没有预热。这不是小修小补，而是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275013&amp;idx=3&amp;sn=ebc0a19fa9826b0d149e5d20acc8eefa&amp;chksm=bc5127270581bc88fed16f87d8f4597398af46baad2a5b28ddbfb26202d6260d965f56813d0c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Feb 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挑战 Claude Code，9.5 万星！又一款开源 AI 编程神器火了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjPN3fPZgDlaQJoicaSygufRVkvuzQDukqicE3hC9WgU3icYm5rFEa5CkzQSr9oukPdibO3pFHhDoiaDzukNP6qcObJ4Q0MmhHn7vg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 田橙 开源 AI 编程工具 OpenCode 正式亮相，其具备原生终端界面（Terminal UI）、多会话支持，并广泛兼容包括 Claude、O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651275013&amp;idx=4&amp;sn=da9414e5374523946fe00c0dc0ae84e0&amp;chksm=bcf0d26d60933591e12096fe98e3a809c297635c8c0223d08e717bc5cb9bd30c76149ba87324&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3年、1万人，快手技术团队首次系统披露AI研发范式升级历程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgicopYh8SCtRY0GXMzFugAagQgnzibhwnBocb6VxoibUbs1JdfI2THYfj2w8GtQV96VE8AWVGS6FswUa8TnRRunI0GicpasPyTZdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜快手技术团队审校 | 陈姚戈编者按以 ChatGPT 问世的 2022 年为起点，大模型技术进入公众视野已经超过三年。人们普遍见证了 AI 作为新型生产工具对生产力的重塑，但对科技企业而言，这远</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274822&amp;idx=1&amp;sn=b4b364a2e23df2beda37e877001ea4df&amp;chksm=bc5073e47fac195f4d5e93f420fd9b6657e4b4bca713e45d6301d2325bbd0dc7ca92141891d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[奥特曼重磅发声：全AI公司是未来！OpenAI官宣Frontier，让管理Agent像管人一样简单]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhCyFyLxkRFUVXumLJahNz9A1jsjfIKCBuJcI4Lib54bsuFpcJqbIRoQCL7TISdMeY4HDSSlC3ibcvujzicD7iay9o1CTlykgakYHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 高允毅在 OpenAI 与 Anthropic 对轰 AI Coding 新产品，争夺编程王座之际，Open AI 偷偷放大招，又推出 智能体中枢平台 Frontier。简单来说，Front</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274822&amp;idx=2&amp;sn=45e123e70bed4574b3c0acf55ddfd76a&amp;chksm=bc4f0289987715d34a822720405323e57e256d49f5e184c5ed38b53e3c9abb994f21b67d04ef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[彩讯股份 CEO 白琳：企业级AI正从技术热潮走向系统化落地]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjeLjGeZiaKEYXh4trvh8BTZ59dviauEYqfM5kiaOYtwObv6BcYjCR8VrNrvzsYJhUWicE5FfMjM806icbpoqaibiawVxB9ibqMymLYYhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>采访嘉宾 | 白琳 策划 | 李忠良 在“人工智能 +”行动持续推进、人工智能被视为培育新质生产力重要引擎的背景下，企业级 AI 应用正迎来从探索走向深化的关键阶段。1 月 31 日，在雄安新区举办的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651274822&amp;idx=3&amp;sn=a518a3a38844604539e5f7ecad845355&amp;chksm=bc8be0600c3ceb1cedf61651608558460f9e53bc13e401c983e61064520366b4bf73ea78d422&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 13:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

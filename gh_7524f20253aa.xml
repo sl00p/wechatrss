@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2IaEJWQaxhaGsfaH0ojo8bCLBQsm7kHL7hGfjzn2TKjuejKvjJ6JOsk5gedAbzGKNjOoBGcfTgb0ZSG3ROrxolz77YE1Azbiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis安全研究人员在OpenClaw中发现了一个关键的零交互漏洞。作为史上增长最快的开源AI Agent框架之一，该漏洞允许任何恶意网站无需插件、扩展或用户操作即可静默获取开发者AI Agent的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=1&amp;sn=d2489830619579b903e98e0e7f3472e4&amp;chksm=bcfbd73dd7a78bf15e319bcfb8f8aa0a14fdbdaf20145b7496f1ff41c1bd909f88f69320a05b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Vshell正取代Cobalt Strike成为威胁行为者首选C2工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Ao67gKSEZhjZjeM1P8aYISsYFibsPvQgv9ZV5uwIJOGJmZgFnLnZQnPa7MjtXQDeJj5B73t0cq5amysNUMhOUR74yuTfdDFHI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于Go语言的命令控制（C2）框架Vshell正悄然扩大其影响力，该工具最初在华语攻防安全社区推广，如今日益受到寻求灵活、经济型商业工具替代方案的威胁行为体关注。这款工具已从早期的基础远程访问工具</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=2&amp;sn=7ebcb5f7c7380d8c090ce8374a5614ee&amp;chksm=bc7a97271571d3f5221ba40d778f29bd54fcbd3ecf7c2405e0fc3adb1d755d6211e91831ad99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：AI红队工具箱BlackIce；保留因果关系的溯源图压缩方法；不用MimiKatz的情况下获取凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZkYvjOevriamWv1s9EGgcuVlnAt50JuuC8kFCgT6icW3OIP4Ltj1d3FnNsFlXBw8t627DSWP8ic0ZBrtXdX3y4ib0rsPpBM0z6ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2025-33073漏洞详解；深入浅出介绍SMx加密算法；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=3&amp;sn=b9043b75cda50495dad3cf0a7d32c20e&amp;chksm=bc6f8a2cab9ee83f2d5a34b9e6cd2b1b9551ba86e0a6f7cbd6083e94b1c0a0db475af705fc21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[首个区块链C2僵尸网络Aeternum问世，传统查封手段彻底失效]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3KTibagTNQEmS5icX3Rmp01f1H1SftXibu3NSW6HLpC1YictjVkWg0TW6eETk2hQNMcFXAbzqCjEBLPQKzTfuj2YibbjHY4vp34jmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>多年来，捣毁一个僵尸网络通常意味着找到它的命令与控制（C2）服务器、查封域名，然后看着这个网络彻底瘫痪。执法部门曾用这种方法成功摧毁了Emotet、TrickBot和QakBot等大型犯罪团伙。然而，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335552&amp;idx=1&amp;sn=4ada02df0628e7ec97f79c7d9393aec9&amp;chksm=bcfe58c9f3db625e1ee8b9fab0af9712c11aab76d864d22c405932ccae65d2a08f1ccf1b3d02&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖OpenClaw成供应链投毒新目标，341个恶意Skills窃取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335166&amp;idx=4&amp;sn=81e363f7b1a38ac9c8a13e021fc6a89e&amp;chksm=bc53a0e4318ff12de44ad04544e2d59c83ea566fea434303219549e1bff3e17ba2bfa24aa70c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用Gemini AI模型实施网络攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3VqIbANaBWPrjQgUwKTO0ukV7gL6O8FlPlR7Rdxk9yXzNRk5BELnptItUya5vp7UnnyGUpFOA6iclEBibfiaDxqWGd6IT0NclLdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者已开始利用Google的Gemini API动态生成C#代码，用于构建多阶段恶意软件，从而规避传统检测方法。Google威胁情报小组(GTIG)在2026年2月的AI威胁追踪报告中详细披露了这一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=1&amp;sn=b3eeb3cc0716e5887296164d95710e59&amp;chksm=bca7171960d00d868d65b5343fdff3c55677f5a2791b6166ac0e2d23ff72e73863847baa3df5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[程序员成黑客新靶点，供应链攻击威胁激增]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0DXynGsBfwOEibgqa5QTj8cPXulRPLhQTSZliaAUZpVlcKlLrjcQxpAoAYM3OpKbHKbo1XmLZLrtOWGib6afWSFvI1GNTuxmticLc/640?wxtype=jpeg&amp;wxfrom=0"/><p>程序员正日益成为网络犯罪分子的攻击目标，企业安全负责人需高度重视这一风险趋势。网络犯罪分子正在改变策略——他们不再局限于利用应用程序漏洞，而是将目标转向程序员日常依赖的工具和访问渠道。攻击者通过结合多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=2&amp;sn=ca80e8440282e00ec19a7fe0236ed4b2&amp;chksm=bc3557c16eec48fb87c55f45635d376a622f05b6cfcf6e8bf3e57a9566c61d1cc66871e6b4d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SSHStalker僵尸网络利用IRC实现C2并控制Linux系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1QOM2sGgoGRDCAAaHKBJSKAmGcaC4VS3aRM041lAETXpXicy4aXCHg0VamrZ1qTwl67iaWxNyePu1jKzVnBFQNogBcpGsSqJBGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了一个名为SSHStalker的新型僵尸网络攻击活动细节，该网络依赖互联网中继聊天（IRC）协议实现命令与控制（C2）功能。网络安全公司Flare表示："该工具集结合了隐蔽辅助程序</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335107&amp;idx=3&amp;sn=5d172a156f21110ef1b9d47cdfaf017c&amp;chksm=bc89b450ee6eb770e9e1b27b0f4c28af2c3076ea0f4f9321deb45f2f117f3a54f6bac066651d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
