@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 4 个让 AI Agent 变强的 Skills。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3wZnggM7733PGcOEjys7wTQrJqicYEKCMoIBo7QFtrhd9Djg7mIv0206ZNRUdyjGs3fOkQL7ZnLibIrSIz1I6OKEpcN2ibdicXicsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Vercel 官方的 Skills 搜索神器Skills 这么多，怎么找到适合自己的？ Vercel 官方出了个 find-skills，专门解决这个问题。它本质上是一个 Skills 包管理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531723&amp;idx=1&amp;sn=b6e3ea8752e949cebac7de93692bbb4f&amp;chksm=f8f553f974df3f17d35ab9ba52e6cf76d849d1f9aaf16fe300e44dcb5c6a1ac1d8ed02faca1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 01 Mar 2026 15:05:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近群里讨论最多的 4 个 GitHub 开源项目，给劲儿。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU33o63jy3bFdvCGibXdeaNDS3OzXtrqQFUE7MmqtybiaD4qexpcs9zjprH9YWH2lAD43AAL4olfgH7w8ZfyuQnwprjJpN4dXWbZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 打工人经济测试框架港大最近开源了一个挺有意思的项目 ClawWork，把 AI Agent 放到真实的经济环境里去打工赚钱。说白了就是让 AI 不是帮你干活，而是自己出去接单子挣钱。每个 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531697&amp;idx=1&amp;sn=79a082f970052fac3846ebf4e3fa084f&amp;chksm=f807aa3fd28c8225c808aef8a8ab0d861b2709d8816f995994cbd8ca3b9e78355d9e4f2a4ae9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7AhknslIdN7xsx5RzvQRh98MWXOzlQTx6NL8Wl8gJj06xV7icZqJCl3vQIvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛逛的童年被两种游戏机统治。第一种是小霸王。虽然「学习机」三个大字赫然展示在小霸王键盘上，但是右上角的卡槽更夺人眼球。配合下方这样的游戏卡，学习机也就变成了游戏机。每逢放学放假，几个小伙伴就抱着大大的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530139&amp;idx=1&amp;sn=847afb9698feeb6390dab1d7bbee2e07&amp;chksm=f833281b9cb4595c4ee37e2f84a835ab8a108596020f3818e048a07085dd2b5ee3c9b5657c19&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Dec 2025 16:01:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 10 个令人惊艳的 Agent 开发平台，太顶了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxic8L4xgA3agWibTlcb7AhknvcdIHQqPoI3IicTEaVic2DPiabLm0fJeOgibtoNcDic6jlFtEofdGINB5BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AutoGPTAutoGPT 是 AI Agent 领域的鼻祖级项目，现在已经 18 万+的 Star 了。与聊天机器人不一样，AutoGPT 能够自主地将一个大目标拆解为子任务，并利用互联网搜索</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530086&amp;idx=1&amp;sn=256bf22f34ffea67b789e37cdd66abd7&amp;chksm=f88bb3fab464befe69137b37e6e642b364aa0c365916922aca6d3bdf68c1b564c2795ec0b2fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Dec 2025 15:18:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
