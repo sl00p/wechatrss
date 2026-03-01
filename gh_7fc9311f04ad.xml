@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[打造高可靠 AI 助手：Skill 编排、Workflow 设计与 Spec Coding 的深度实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yG249f8MQNIjTKMicctW9W4riaGhlSibYcJLR4HwWujGxW3Arsccicf7xAWlPKw9YcnBRxewAjh9KkvE7q7qWvn6iaSkytVHHIctXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章首先拆解了上下文工程的五大最佳实践模式（状态管理、渐进式上下文、结构化输出、模版程序、多步处理），并深入对比了 Skill 与 Subagent 在上下文管理机制上的本质差异。背景202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558537&amp;idx=1&amp;sn=1130404dec68871f8d34de4e5168b29f&amp;chksm=e887851ef9465bab25525282e48f410d1bb3f73b75369a1718302eef4c981d70e18cf2421179&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[揭秘 Claude Code 前沿技巧与 Qoder CLI 日常开发实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0kbBUR9XO3icnYymyw3wtBBMpJ1RibzmarrK2G4tQWeCjT9ib0vuTwVr2cXqRiaTFFMJLl0O0jPSiaGnspY3xuFdEribEonpej2upM/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在纠结 Claude Code 的各种“黑魔法”怎么玩？Command、Subagent、Skills 到底有什么区别，各自适合什么场景？新出来的 Programmatic Tool Calling</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558503&amp;idx=1&amp;sn=13829559963528253296ee8954cf7d0b&amp;chksm=e856167816f416e31d86e56eef8b691ca20aebaec4ba7345c565f7f7d1c4fa50860938f1597e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYCGGpOoOXpJ1mzLIGCaCzB8gicibjMkZicQHQeaAuXkk7GkXKqCicR8iboTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地了一套基于大模型与民族文化知识库的民族品类智能识别与匹配方案，旨在解决跨境电商平台在服务穆斯林、印度裔等特定民族群体时面临的“供需错配”难题。一、概述跨境电商平台想要精准服务穆</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555953&amp;idx=1&amp;sn=7defa9d0b9a7073400cb0b14b1549c50&amp;chksm=e8ab355c8b2a3f9542e9746c76941ca1376c2ffe7242c18dee524b5c8a85027a675a4a52e53b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让AI评测AI：构建智能客服的自动化运营Agent体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYk2ejgqZSAtpJbGWcXR4rYlfvMyU9AoOT2LlJuJNOZANv96nEbpibLQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型和算力的快速发展，促进了很多行业的变革，即使目前AI仍然处于“自主行动”的初级阶段，即“辅助人”的阶段，其巨大的潜力和演进路径却是相对明确的。客服领域，作为最早使用“智能能力”的领域，也随着LL</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555905&amp;idx=1&amp;sn=334b37e5292774a97718d60f9b6d81dd&amp;chksm=e86e057d2fd6d9964953b7c7a1e3619e51d102e4176d36687e38203aa111670556c25052a44b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

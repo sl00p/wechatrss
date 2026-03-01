@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux 内核攻击 USMA 解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5v9h4O8VWjKxLh1wXjOkMRaYVJVPj4icKgOTUsd9dFiaM5aTy7rlMZmNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Pakcet SocketUSMA 利用的是 socket 的 pgv 数组,所以我们在这里先深入了解一下 PacketSocket 的数据结构,在这里我们还是主要关注 pgv 的创建和映射,关于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611640&amp;idx=1&amp;sn=6aaf58b00bafd9b86258f8b74647bf36&amp;chksm=b08e293b9bca2d03e9db5fc356e3872c1d214465af9ce4d8b777d92c422e7832986097a500a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Mar 2026 18:01:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code配置文件藏漏洞，API密钥秒泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K18HnQXqTV6dFXf3mQCz1oibnr4e39SgrsH84dBPBzI4wSwuge87hia78c8ibTsTNQZeibibK4FhvaDJdtdMqicc1cbPSrkDRkFm1Bfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic旗下Claude Code是开发者常用AI辅助工具，凭借终端便捷调用成为团队高效开发首选。近期Check Point Research（CPR）报告显示，其存在3个高危漏洞，可被攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611640&amp;idx=2&amp;sn=79acbf9f7b4c0a49f524eeb3135f9155&amp;chksm=b066da2c89410d8e0609b283a335ac864e8ec1bd087d7e8c7f53169c7735c3d9be21016654cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Mar 2026 18:01:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[跟无名侠7天啃透 IDA 9.0！从零基础到能独立分析软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611640&amp;idx=3&amp;sn=848683b0b5be59ea7fd2047257e4e42e&amp;chksm=b02ce8a77bd3af4c2b4394ad8bd276db4e58b5ada810c4fa95df90480abe0fe0a301999a4ca5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 02 Mar 2026 18:01:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[立法建言，聚力献策，《网络犯罪防治法》征求意见最后窗口期！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1QBIcw2rASB4PUNTicVibCac1QeiaPVKcOhH9P0L1T0LR3bbnAq0aVlbeveSiayaH62XHNdcicwmvGsIFwGbI0NKpz9416Z6tD7iaZI/640?wxtype=jpeg&amp;wxfrom=0"/><p>!网络安全研究员请关注！当前，数字经济高速发展，网络空间已成为国家重要战略空间，与此同时，网络犯罪呈现出专业化、产业化、隐蔽化等新特征，对国家安全、社会公共利益及公民合法权益构成严重威胁，亟需专门立法</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=1&amp;sn=8569dd2a39ebd324dc5e51c31af57c4c&amp;chksm=b003ee106e572354379f46b68a1f595630871e61626c4dd4d29e4b31d409657f7ed7cd727c84&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3Fw0ygK27ibFXId7BnzsiboGk2EwxvR2ZFGZf2HkOCVNs1tejjL3Bd3pXRvrl7LRwAE5mTw5cQ65rywUr0GiaT9yNovIDfQZwcDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>印度知名网络安全公司MicroWorld旗下的杀毒软件eScan，竟通过自家的更新系统向用户推送恶意软件。安全机构Morphisec调查发现，攻击者入侵了eScan的更新基础设施，利用其自动更新机制向</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=2&amp;sn=9a513a9a41b12f1530d472401654dc87&amp;chksm=b0a6fbf293c421fa1430e3e73ad8938cb5f2f9989fd6142f99c5e58dcef5ecd14dcaf46d8897&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[顶尖硕博战队亲授：30小时教你进阶CTF-密码学]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=3&amp;sn=d1abce10635a2d9d215f069a01044b1d&amp;chksm=b035d3b9fec60d6dd7310c432fe712201d1f9674cee6676445b752ef97e6c2a76540fc7a3c9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[fnOS路径穿越与命令执行漏洞利用分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjXb7iasviaO6kv104zlDOz2SWGxt4ZO9FKANf97j6hROt3CIlbDN0o0yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01安装环境下载历史版本镜像，以1.1.11为例，向https://fnnas.com/api/download-sign post 如下请求获得下载地址。安装完成之后即可访问web页面初始化之后成功</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=1&amp;sn=eb20b7a211d3d0a14aee4d810d146e57&amp;chksm=b0fdaa4dc852e29d76750c342e17f34879ee61eca30dbfa0f9e25c4528bf00a9f5cdceaac9a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Office 最新高危漏洞遭利用，多国政府机构被定向攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GUZnDjic4zBBiaj30Pib5FSfjga4hvpeXUlvCdJibSx1drWeWrBuOs5n81PTAhatGKVJgxDElzlnQ0rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一起利用 Microsoft Office 最新高危漏洞（CVE-2026-21509）的定向攻击活动被曝光。该漏洞在微软发布安全公告的次日便遭恶意利用，攻击目标直指乌克兰及欧盟国家的政府机构。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608987&amp;idx=2&amp;sn=e1ca0e9a1a5c81f2114d6194072f76fa&amp;chksm=b0bf9c9b3c4cf5652038beca37aac10fd2d35c6825908051985ab83b4a3e1448874df33b6bc9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
