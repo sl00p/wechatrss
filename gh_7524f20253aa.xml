@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1aHPT7IZAkIglRdDKWIQicJKseEatVu9H7Lpdw7NxCr5V8u32WicyTKCR2bDajpon8fE20Y09wf9qHgQe7gGZddosXt7dyjYPDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞曝光谷歌Chrome浏览器内置的Gemini AI助手被发现存在一个高危安全漏洞（CVE-2026-0628），攻击者无需用户任何额外操作，仅需用户启动浏览器内置的AI面板，即可实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335652&amp;idx=1&amp;sn=dc8529e3699733b5238ba026c6948e7f&amp;chksm=bc34e73d47102bac21298acebbd5711a4672eebc5ead9482d9e0ff7b90f886ad4a094220b890&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[APT28组织利用MSHTML框架0Day漏洞在微软补丁发布前实施攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX05jCq7Dibrfoa83y9w0mc6ABsn1QYdhOicwe31ib4XFw8Cwl5lKtr9O5NtWn9hia3glJ1QyCuhibXxDET5IsEdzykmng4RxTmuwkxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Akamai最新研究发现，与俄罗斯有关联的国家级威胁组织APT28可能已利用微软近期修补的一个安全漏洞实施攻击。该漏洞编号为CVE-2026-21513（CVSS评分：8.8），属于MSHTML框架安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335652&amp;idx=2&amp;sn=f62f50b2f0f7f6792ea2aca39246cf34&amp;chksm=bc885f3917dee672c82bc68c4e12fb3b75956cf1c3b3bd8f239af1621b6a60629e7e5cf5f962&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows错误报告服务ALPC提权漏洞，PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ibxxBz88QIb4LfFnFm3dyeZTdtKtiaArheRJaESmXbN8ssCJc2ppiaHC0GgZRQ7u8DxjuicFyK897h2Xbxf3MevaCShvpt0iapTb0/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着概念验证（PoC）利用代码的公开，微软 Windows 操作系统中的一个严重本地提权（LPE）漏洞（CVE-2026-20817）浮出水面。该漏洞存在于 Windows 错误报告（WER）服务中，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335652&amp;idx=3&amp;sn=210da9d1209c6d44798bcd0612157d08&amp;chksm=bced3b399146ba4b9f8625d0702d1e78ef4c845332f5edb82b92858705baeb51455cb52a59c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI如何助力事件响应：为何仅靠人力无法高效完成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1iaZBd6AoibLmldYVaRia7aMDqHydpqMw6WrIXSovmPEU0vj2JiaN8OUXV0aIOKePLxRGNUYLDUj08IlsAJhqbVZISPLmrSia0pQFc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件响应始终是一场与时间的赛跑。从警报触发的那一刻起，每一分钟的延误都可能导致收入损失、监管风险、声誉损害或客户流失。传统的事件响应依赖技术分析师手动切换工具、关联日志、验证警报、上报发现并撰写管理报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335652&amp;idx=4&amp;sn=3f626c0fa4f5f686b30b69ba5005a64b&amp;chksm=bcec4e0b5df69c4d6447e0a84b09a009d3f491e793d42447454efd044bb9813a9acd8b5c96dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 18:00:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent正在瓦解Office生态]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3UuBbQRHicCG7u8xpyfYziceD2NekTuWQEU6hmAFxjTYbIHWquIXia8Cn9PfiaCq6DrKzQiaLUPDaKtvAoKuTia4icsdicibJWwpmHrHTY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心矛盾：AI Agent正在解构微软生产力套件去年，微软公司首席执行官萨提亚·纳德拉曾断言："SaaS将溶解为运行在CRUD数据库之上的一系列Agent"。这番针对Salesforce</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335625&amp;idx=1&amp;sn=ef6d955ea81fcb70891021d23f80a3e5&amp;chksm=bcbd9deeb32301417cdf24cd079b599b2992f35308cd8d7c2ab84f57b64ba386ccf55db4df5a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0bIXDuPhDk7Tc8pGPcvAcDXJGCxIj656aIVzxDCJpicoibA7pMXLgc2j3ibz1iaw6JqlpojsxErOibiaQGEnDEYjyCRTicOp3wzrTZO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335208&amp;idx=1&amp;sn=2a1bbbe52f4be9b1405d044ffd15efeb&amp;chksm=bcfffbc1bf7bbde3ae6cfa789e91161cf267beb798488dd6c34e9e0b71647746164eb5caf853&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Feb 2026 08:56:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[齐守岁 共欢颜 | 骏马辞岁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0hia7PjuIA7uO7g2OgTA8KE1U5s7l8IVdAgZpibF68TiashVA3ibU9fU5sqvlIUMVpEQmv3tmHibq6A1NgwhUFWevNyJhIu1eYelibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335206&amp;idx=1&amp;sn=783f0150b0114531f214cbb72e7e23e7&amp;chksm=bcebcb1fcab676d68013cf04def16ed3e9a30696b6b7f43c1b08a0bcbda58f5e9a452f4e1f42&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 11:12:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI数据投毒呈现“平民化”趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3cYFovvo14o1hSREticbWf0HqYicic9kXFzaYU8ia0ial33LcM3RTKiaV1QtP6KWmicaTe9h6ba2rFaqpTWiclqJabRy2P201nCB5Jom0/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去三年间，明智的企业一直致力于保护其AI工具免受专业的提示注入攻击。传统观点认为，要毒化AI系统核心的基础模型，攻击者需要专业技术、特权访问权限或有组织的威胁团队协作。然而这一假设已被颠覆，标志着企</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335204&amp;idx=1&amp;sn=634470edf53564887403b0bcce0866b4&amp;chksm=bc1bddd0945fecdd1a7edc2710b0b2fa9f8df9d85aed83ea4fdd0d856c4dfea4617b24c3d106&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[德国BSI警告传统加密2031年淘汰，后量子密码成强制标准]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX00EvtzK35wJJLDcBbJ48TMpNEdqRle2WBz83Dia3TjYn1N2iaeGOpkh3bDygfP80N45GLpWvqfZhfRBTcuicMTA5QjMzMqibUZw6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>德国联邦信息安全办公室（BSI）在其更新的TR-02102技术指南中明确规定：传统非对称加密算法自2031年起不得单独使用，对高安全要求的系统则提前至2030年底实施该规定。Part01混合加密成为强</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335204&amp;idx=2&amp;sn=fb453c5720eefd323245f9a1e58a0345&amp;chksm=bc02b58052b445809be6416f86cf6435653311995c7364f089500aec547ff4ca697ad3eb16ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：2026 AI行业深度展望；自建安全分析智能体实践；AI支持的无缝保护转型；SIEM不是万能药]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZkYvjOevriamWv1s9EGgcuVlnAt50JuuC8kFCgT6icW3OIP4Ltj1d3FnNsFlXBw8t627DSWP8ic0ZBrtXdX3y4ib0rsPpBM0z6ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>双极进化与算力重构：2026 AI行业深度展望（海外篇）；当攻击自动化，溯源也必须自动化——自建安全分析智能体实践。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335204&amp;idx=3&amp;sn=2558a146e44b14b1f258d31fa2374bcf&amp;chksm=bc0dc8ebb5e10d1ebfd9ed278d9cdd955951f127c1bcf74d4bc9b2864bc5b1cf7aa16904c4f2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

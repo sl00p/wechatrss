@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Skills 真的可以帮我干活了：把工单分析变成一个可复用的 Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yicL9vTKmtVuIcO1GsQu6glM23KXdthUYoiac1XvPXWr09FFh0icZyEiaLvabO8Ll9w5c0jUDyq5BiatdWVQyEViaakyEOBktxl4acg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚推出 Skills [1]时，我非常兴奋。官方的态度也很明确：不要再执着于开发复杂 Agent，而是把精力放在 Skills 上。但在认真研究了一圈官方和社区的 Skills 示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558554&amp;idx=1&amp;sn=239e1d2c63c0a9a7eb0be1ced653db00&amp;chksm=e831b88fc992554e3a644a4ce20ef695420055bd7c3b319057f229c37f43b5d554a052cb5cd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[打造高可靠 AI 助手：Skill 编排、Workflow 设计与 Spec Coding 的深度实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yG249f8MQNIjTKMicctW9W4riaGhlSibYcJLR4HwWujGxW3Arsccicf7xAWlPKw9YcnBRxewAjh9KkvE7q7qWvn6iaSkytVHHIctXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章首先拆解了上下文工程的五大最佳实践模式（状态管理、渐进式上下文、结构化输出、模版程序、多步处理），并深入对比了 Skill 与 Subagent 在上下文管理机制上的本质差异。背景202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558537&amp;idx=1&amp;sn=1130404dec68871f8d34de4e5168b29f&amp;chksm=e887851ef9465bab25525282e48f410d1bb3f73b75369a1718302eef4c981d70e18cf2421179&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIKcwQOib5fj1X26XvmnCE0jahYW1Xh7aicKPP5hW4GlgibJW03AzncJzvnobGLI8RTWIYZLdJeJGkMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文探讨了在AI技术推动软件工程范式变革的新阶段，如何通过构建增强型AI编程系统（codefuse）实现从需求到代码的端到端自动生成。一、业务背景在AI技术重构软件工程范式的新阶段，大模型技</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555978&amp;idx=1&amp;sn=752499a95ad63de21e64f7198b5f40cb&amp;chksm=e833f6247037e1e1632a02451efb4807f242b870725028020afb806d5c620b3954213f319d15&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让跨境电商“懂文化”：AI内容生成在全球民族特色品类中的实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKEiaE8hyhq7Qv9fhmZuXlBYCGGpOoOXpJ1mzLIGCaCzB8gicibjMkZicQHQeaAuXkk7GkXKqCicR8iboTQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地了一套基于大模型与民族文化知识库的民族品类智能识别与匹配方案，旨在解决跨境电商平台在服务穆斯林、印度裔等特定民族群体时面临的“供需错配”难题。一、概述跨境电商平台想要精准服务穆</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555953&amp;idx=1&amp;sn=7defa9d0b9a7073400cb0b14b1549c50&amp;chksm=e8ab355c8b2a3f9542e9746c76941ca1376c2ffe7242c18dee524b5c8a85027a675a4a52e53b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

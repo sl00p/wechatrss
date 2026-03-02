@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[小尺寸也有高性能！千问3.5四连发，极致“以小胜大”引得马斯克火速点赞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhU2iblkNaqvSLTQWC6e8FxJGMrODz8heicKiaicBiaMRBjjbyZaePzVDy3eicBZzDmQLutFmOgFBH55Py4oOIiauhjF7JHzyrDlJ0Cr28/640?wxtype=jpeg&amp;wxfrom=0"/><p>3月3日消息，阿里巴巴昨晚再度开源千问3.5系列模型，这次是4款小尺寸模型。其中最小的0.8B 和2B两款，体积极小，推理速度极快，适合移动设备、IoT 边缘设备部署，以及低延时的实时交互场景。4B的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237596&amp;idx=1&amp;sn=eb2b440311d55767c21a1f8df7afa9b8&amp;chksm=bf695dc9895add4acc8b9ba2d04c8a0ec8ac1758fe1a4c304ab57345e92805c254049adc73e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 15:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模力方舟官方 Skills 开源！一句话让 OpenClaw 生图、OCR、文档提取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZE7iblzp7Jdlxt9lCjMcrFqbgobPg4Guw9frPsKbAq87GXL63opiaaicCfia9sr6yDUvIE4zvHOB3febXbgv7f4SjO1rs0UndJLIibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>模力方舟现已正式开源官方 Skills 仓库 Moark Skills，首批上线图像生成、OCR、文档内容提取和文本合规审查四个技能模块。开发者和用户只需将技能文件导入 OpenClaw，Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237596&amp;idx=2&amp;sn=1974ccab5a29a282b78d273e00676a07&amp;chksm=bf2ca1ca800b69b700863111e396919c95ff58d63d9561e31accfd6c4b5d46f45725991a43ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 15:26:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美团旗下光年之外团队发布AI原生浏览器：Tabbit]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhV3EUGkIkicrHl046UB2IaibLlibxI6aSIFkaKSjjzB14UTgfbTMibd5NRiatURcMiamKib3g3y0nLjficiaL0qKZoXib5JFEmsiaUQ8licD44/640?wxtype=jpeg&amp;wxfrom=0"/><p>美团旗下光年之外（GN06）团队宣布，其全新 AI 浏览器 Tabbit 已开启公测。公告称，Tabbit 的智能代理模式（Agent）能够根据用户的要求执行复杂的网页操作任务。它可以自动打开网页、提</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237588&amp;idx=1&amp;sn=4e5be2b0638b83a7e020724df6a2f893&amp;chksm=bfbfcb2eacccdb13feb56bc4b0e9646063b56f46d0efe938bf7b11b555b4098f794d40a9cb74&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicCOm8JiaV8ribibuxLZQDS3pWJp5q9jCQgNokPcGDVYHU0dIyWj5g5uRIGHg0OhbGibJ6zTeCkO37CHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据访问层（DAL）技术已经非常成熟，从最早的 JDBC 到 Hibernate、MyBatis，再到 Spring Data JPA。我们习惯了用这些框架处理数据。然而，当我们把目光投向“数据”本身</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236993&amp;idx=1&amp;sn=8c7fc9b7c614b5aecc4fcaafd5219120&amp;chksm=bfd623200d2e7fa2ebb84c5838b8f3b008235c433a26e2071dedc542572be79017c4425b6c91&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Jan 2026 15:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给腾讯点赞！FFmpeg再次感谢他们提交手写ARM汇编补丁，性能提升2倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicCOm8JiaV8ribibuxLZQDS3pWZ6E1KI6ly4rrWTCLBCkSPcGnXhlyKPEaJJ8mJ3IS6OO99IWIKndMBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名开源多媒体框架 FFmpeg 在社交媒体公开感谢了腾讯公司向项目提交的手写 ARM 汇编补丁，称比 C 快 5 倍：据介绍，这些补丁可以让 FFmpeg 在 ARM 处理器上执行速度比普通 C 代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236993&amp;idx=2&amp;sn=7f2e3111d642b5ff60e8ac3911dda621&amp;chksm=bfa1b90162e92f258498138224916b6d15f35f1af9d364ea02d05f9d00272186db132a5ec560&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 15:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[罗永浩向开源社区捐款累计约1200万]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8UbbNbaO9csfB8N0UGCwlTgv6jWHMG5MbBichdaXdJaWRdYTv0b1wOiapIk5DYJtoD9HTRialDkhtXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>12 月 30 日晚，罗永浩在上海市徐汇区西岸国际会展中心举行「十字路口之 2025 年度科技创新分享大会」活动，此举被外界普遍视为其标志性的“科技春晚”在阔别七年后的回归。罗永浩在现场宣布，大会的观</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650236897&amp;idx=1&amp;sn=42187482c90b6e80c568352c49791c78&amp;chksm=bffc420fccf72456937605aae81c59f22d1e534ee33188b853543a7c3b808c83fe62d93624d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 16:40:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

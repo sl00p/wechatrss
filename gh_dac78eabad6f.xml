@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[200行代码实现Claude Code青春版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr406CTCSelohMNmTMMXQHH3nxh61WwB9wwZAXV7z6wkOBeNEjgt0QWCibfREgReBD7lnOqSDnjMFOoDBOaaqIZNQfFSuryxdS2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01写在最前面的闲聊很早就开始尝试用AI辅助写代码，当时的感受是：对于一些不需要太多上下文的小需求（最终的产物是代码片段，直接复制粘贴改改输入一般就能用）还是非</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694667&amp;idx=1&amp;sn=e94235a2fcac22b57a48fc57c64e599c&amp;chksm=eb06a5b7dc8f6707ac8e48f614f1eaf8dd74c1c498aa627ae6028df8d1bfd9c071dbced02674&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 工程化落地实践：推翻"完美架构"，回归提示词本质]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LheVUDjicaKDBxG7UDRY49ubyNIh2OaP6dKPdXms44GCVYaLnaX9zIaaZuwJBAibwV9WubHFmHnrMJPicdORHzHZqKWDO9Im0QQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01一个"完美"架构的诞生与死亡 1.1 我们最初的野心故事要从几周前说起。那时候，团队刚开始系统性地探索 AI 辅助开发。我们读了大量论文和博客，看到业界</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694655&amp;idx=1&amp;sn=63bbdd3d44df9dd42dc283f8c749d077&amp;chksm=eb1ecddd9db98c60cd39a7c95d36c395d00720630d4487b158f3f08dfa4cf0857c02c512d11d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>过去十年，几乎所有架构演进的故事，都指向微服务，微服务几乎成了现代架构的代名词，单体被骂成毒瘤。 直到近几年，业界开始反思：微服务是不是新的毒瘤？ 越来越多团队发现，微服务带来的问题不比它解决</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692823&amp;idx=1&amp;sn=7c54847bf978f65b774a26469cb4d083&amp;chksm=eba2eff5089bed8f5aa3b51742bace8dbabdadf60c3dd614aad7cf4f02a195c0d4a19b6e3c7b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 08:15:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[彻底爆了！一文了解LLM应用架构：从Prompt到Multi-Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TGhibWoDzj1tW2og20PWyhwwwuESHibVw3P0MNBQwPxgZDNKvwEk38D5XCrmaXhm9C0BkjpY2GZVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 Agent是什么？2 为什么会有Agent出现？3 Agent要怎么实现？4 总结自 ChatGPT 问世以来，业内对于如何将LLM落地应用进行了各种探索。本文主要总结了LLM在应用落地中的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692785&amp;idx=1&amp;sn=3f7903c8e98ead5b81b3f3dd8ce97446&amp;chksm=eb99eafea4d1d5f8247f356d8b2603c0417ad49a90ee06f5b5ae208c3ffca94fa71df17712a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

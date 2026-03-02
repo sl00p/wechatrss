@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Egg Hunter 技术详解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1pZQdgbgVjIia2aaAGM8avfcfIqjw4bgxsqCGD4lOM9lacpHv8bpnApQoU40kndiaviant3gpibqsWNyhW9hDMsTgRuu8LJibZkUX0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概念这是一种技术，并非漏洞本身。可以用于大部分的二进制漏洞当中的技术，举个例子，写入shellcode的偏移量可能会因为系统原因而产生一些不同，但是漏洞确实存在，这个时候传统的通过偏移跳转shel</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=1&amp;sn=5c759563230cf3b1bc8c8ace86c6f78e&amp;chksm=b018b2629be7a1b490bdda6aba49169c954eabe94f7c12e9e28cbac38fe81d935ccd06d7b5a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别乱开网页！热门 AI 代理 OpenClaw 被曝可被一键劫持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2qmu3exo6qbEXeVe5qZAaxR6tOhibJ5EA2ictOaaavn2iawePRe5UwRWVjibicq2j39f4pb6vmeFJrr1CaC5YBXWD3Tl7PHllgicPiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis Security披露热门开源AI代理框架OpenClaw漏洞——无需用户操作，仅浏览恶意网页，攻击者即可悄无声息掌控开发者AI助手，获取设备全权限。OpenClaw曾用名Clawdbot、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=2&amp;sn=7595d5194725c2e978332750d52ad29f&amp;chksm=b0aed2a8aa61700ee7043eb4cdae6b0103717e18dec662397c664062663d4320126c785a9afc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[掌握无人机设备攻防思路——《无人机安全攻防入门》热售中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E4gvpb3vgYVWnRWiamTMSjXDiaLSMuwLnlWicGZoJfO1l002hM5kHL7hxtPOBS2EPK43pvlxQn9uZfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，无人机已经成为各行各业的重要工具，其应用场景日益广泛。例如从军事侦察到物流配送，从影视拍摄到农业监测。随着无人机技术的普及，其安全问题也逐渐凸显。例如无人机遭受黑客攻击、数据泄露、飞行失控等安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=3&amp;sn=c1cb1bb3a89df277920d98099876a84d&amp;chksm=b02430c0d56599f1d6e6afa8362fda2d900acb72956509c765344ca8629bdcdc5858be222a94&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux 内核攻击 USMA 解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5v9h4O8VWjKxLh1wXjOkMRaYVJVPj4icKgOTUsd9dFiaM5aTy7rlMZmNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Pakcet SocketUSMA 利用的是 socket 的 pgv 数组,所以我们在这里先深入了解一下 PacketSocket 的数据结构,在这里我们还是主要关注 pgv 的创建和映射,关于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611640&amp;idx=1&amp;sn=6aaf58b00bafd9b86258f8b74647bf36&amp;chksm=b08e293b9bca2d03e9db5fc356e3872c1d214465af9ce4d8b777d92c422e7832986097a500a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75USM1s9OfoSZHgy9HPo1sTcFdW9MFIIu7bicTRXNic2Bbpv5cgRB0ZAM2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司大家好，我是格小密。最近总有人问我：现在到处是智能助手、自动化程序，甚至还有能自己决策的“智能体”，它们需不需要“身份证”？怎么确认它是不是可信？今天，我就用最直白的话，和大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=2&amp;sn=ef1b7495d3c0aec423178f4089619006&amp;chksm=b06843ed04980eeb4a7bb6dac62835dcb4fff655a79307045bfdd88d0dc3ba46ef2b8694bbd0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拒付赎金！哈佛、宾大百万校友数据遭黑客公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K26UZvM0ua3wGDwVddVEAcyWxgLWNsRW9z1w6R9OaydN6iaibpwIOYSicpKWWx5KibGm0IyZtZsrymfibQCB3ob8VA1ROiajmJd7lnc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心提要：因据称高校拒绝支付赎金，黑客组织ShinyHunters近期公开了据称从哈佛大学和宾夕法尼亚大学窃取的超百万条校友数据，事件源于去年发生的两起社会工程学攻击。01事件回顾：黑客公然“撕票”一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=3&amp;sn=603eae227b6ebe05b740f78d55be1a26&amp;chksm=b00cdd7b568a465b9288d1bcb04cb7824cd5c829b76b5cafecec778ac51ae10da8d8710d4cf6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PageCache详细分析(读写/写回) 基于 Linux 6.12.32版本]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sYb4YrzQOWleDQCjsTERUMt7ULkC3tyRqjxO7SCStB9sN6OF6oHhS8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>01核心数据结构FGP Flags#define FGP_ACCESSED ((__force fgf_t)0x00000001)#define FGP_LOCK</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=1&amp;sn=4b7864d52ec24a4ac6a4a701a53b2c94&amp;chksm=b09ca9df70efbba3673934a7d1a84b63dcad73c36756a62e4941c75c560e6db80d4c529ab0c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[杀毒软件竟成“投毒”帮凶？印度eScan更新服务器遭黑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3Fw0ygK27ibFXId7BnzsiboGk2EwxvR2ZFGZf2HkOCVNs1tejjL3Bd3pXRvrl7LRwAE5mTw5cQ65rywUr0GiaT9yNovIDfQZwcDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>印度知名网络安全公司MicroWorld旗下的杀毒软件eScan，竟通过自家的更新系统向用户推送恶意软件。安全机构Morphisec调查发现，攻击者入侵了eScan的更新基础设施，利用其自动更新机制向</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458608994&amp;idx=2&amp;sn=9a513a9a41b12f1530d472401654dc87&amp;chksm=b0a6fbf293c421fa1430e3e73ad8938cb5f2f9989fd6142f99c5e58dcef5ecd14dcaf46d8897&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
