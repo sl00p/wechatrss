@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[给我的 OpenClaw 小龙虾装上声音，感觉它活了过来。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2AV5Ffjhra1d8xdesepMZJ5K02dvCceu0yJWm5Bctw2uI5Sw9HWtpZwibW91wG2cgwXWPzAiafYmLZwkBtyde0hL5GtCu9rUIcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天发点有意思的。我在 GitHub 上发现了一个刚刚开源的 Skill，它能让你的小龙虾 OpenClaw 开口说话，甚至克隆任何人的音色。我已经用上瘾了，一点停不下来了。一旦小龙虾拥有了声音，在心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531898&amp;idx=1&amp;sn=a1cccde9b88ffe677c510a67e37e001c&amp;chksm=f89f1ab6a48b8dc4698a062e7b84d00abb8cb61d44478706263f2e9ce69ceb2079474795d7f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33uKavlcyLam02ibfQckf70afsqKrWvyicQHpMXk5b7s8NVZz1tTicgEMq4icmoxqANkjlm7pdYjkIJ5qmNhicQGY80BajwAmNm3AY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 刚火的时候，OpenClaw 之父就在公开场合多次点名 MiniMax。他自己在实际跑 Agent 的时候，会使用成本更低、专为 Agent 设计的国产模型。而其中被点名频率最高的，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531831&amp;idx=1&amp;sn=a6e1e5211f8455fe1d91e1361abf4c9c&amp;chksm=f8ed4a4ff192b750177f832920cb3f7c24f2512494d0cd3bc62958fa837ae17bc0e4fd233b32&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxlrpzbEMgCw6LB32axFCWEHlSxhTBH3qicsLC0MbvAcasa7613NH0yXouAb6M8ZoDtox2v2sB4oHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClaudeCode Workflow Studio的开源项目是专为 Claude Code 设计的可视化工作流编辑器，有点意思。如果你是 Claude Code、Vs Code 的重度用户，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530482&amp;idx=1&amp;sn=80e975e2997f28dcbee2ab4a86d25189&amp;chksm=f839b8f61222ab262c0d91c145d358aab61080f2d93a68c9e3690984549d4b228de20874bffe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 10 Jan 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[发现了 4 个挺实用的 GitHub 开源项目，推荐给你。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzHhFMgJX87PAXeVVebRO9F6LV7VCfjEYWZJNIJQsQ7SyrKoQcypKibg2sduNpOxOcAfVJyibwKGwhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01远程桌面软件CrossDesk 是一款开源的远程桌面软件。现在在 GitHub 上有 3.3K 的 Star 了。它主打轻量级和跨平台，我看了一下它的代码仓库，主要使用 C++ 编写，占比很高，它</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530437&amp;idx=1&amp;sn=385e9fb4124190c72b566fe9fa7df586&amp;chksm=f8cf2cd0b7eb57882da3d6f787a2bebfcb8c8b596b07c56b38495b047401156a9ae6f1310230&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 16:52:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

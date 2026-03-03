@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让问题不过夜：交易领域“问诊”Agent实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ztvFnibRneYKAIEAd4whG5CZSGXHwdtibvFFibdngeDQ22t3a7ZicAlu3cWu6YJRIk5DCxyCichNbbyxSysUCteajzSJUP5ag2etxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读在日常研发支持中，工程师频繁穿梭于工单、群聊、舆情反馈与问题排查之间：一边解释业务规则与口径，一边追踪链路、查看日志、核对指标、执行补偿。这些工作高度碎片化、重复性强且严重依赖个人经验，导致</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558623&amp;idx=1&amp;sn=335f209f636161c2aabfe03e8894ab6f&amp;chksm=e8318f2261b2025ee2464aec09fe2fb842bed80f12f49af354eefb60a8382c30b188919f8e60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Skills 真的可以帮我干活了：把工单分析变成一个可复用的 Skill]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yicL9vTKmtVuIcO1GsQu6glM23KXdthUYoiac1XvPXWr09FFh0icZyEiaLvabO8Ll9w5c0jUDyq5BiatdWVQyEViaakyEOBktxl4acg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚推出 Skills [1]时，我非常兴奋。官方的态度也很明确：不要再执着于开发复杂 Agent，而是把精力放在 Skills 上。但在认真研究了一圈官方和社区的 Skills 示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558554&amp;idx=1&amp;sn=239e1d2c63c0a9a7eb0be1ced653db00&amp;chksm=e831b88fc992554e3a644a4ce20ef695420055bd7c3b319057f229c37f43b5d554a052cb5cd5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLrHKCWIpribCmicXHHHcwGVPCI8XwHKAyNNDjGXa5oabIpSYoNYnvicIic7ZU0mcW52PobeE9MxeK89g/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍一种基于开源 Higress 与 Nacos 的私有化 MCP 智能体网关架构，实现工具动态注册、Prompt 实时更新、多租户安全隔离，并支持在无外网、无 Helm 的生产环境中一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556038&amp;idx=1&amp;sn=f010debc506a2325678320a3a7593d26&amp;chksm=e832699adba6891afd4392ee372e5c18859976b1faff39995f80fbb89b2d0aa2dc1c6609db04&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AICoding实践：从Prd到代码生成]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIKcwQOib5fj1X26XvmnCE0jahYW1Xh7aicKPP5hW4GlgibJW03AzncJzvnobGLI8RTWIYZLdJeJGkMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文探讨了在AI技术推动软件工程范式变革的新阶段，如何通过构建增强型AI编程系统（codefuse）实现从需求到代码的端到端自动生成。一、业务背景在AI技术重构软件工程范式的新阶段，大模型技</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247555978&amp;idx=1&amp;sn=752499a95ad63de21e64f7198b5f40cb&amp;chksm=e833f6247037e1e1632a02451efb4807f242b870725028020afb806d5c620b3954213f319d15&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fflQsyZPNEs835j87frAy9ZEy7MjpUllITB6I8o1HZzE755LZINDRPjxMkFPWzyA2eziaCje1PWbWn9fpFZMvgjEspT281Qq8/640?wxtype=jpeg&amp;wxfrom=0"/><p>CNVD 最近公开了CNVD-2025-31165(CVE-2024-2986) 漏洞，漏洞描述为：Tenda FH1202是腾达品牌推出的一款双频无线路由器，专为大户型家庭、小型办公室或商务休闲区域</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=1&amp;sn=923c97232b245b602a3f1b917c769aa5&amp;chksm=b0f81659c4dac1b763a1ede48423f482c694466915d12ab037357c366f40756aee73af57e00f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1LsQoHQ7ISb7XZIIKUozhLLNAg3nUtW0FufWjVQ99qHE3DiaZnae3vGyHmpZKn4AY9IW6r0udiaWQjA0nKXPxwPQUO0nrTYHSuY/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，谷歌威胁情报集团（GTIG）披露了一个名为Coruna的尖端iOS攻击工具包，这个堪称“漏洞军火库”的框架，在2025年间席卷了从iOS 13.0到17.2.1几乎横跨四年的所有主流版本。不是单</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=2&amp;sn=2e5b777a8090e5207a891214ac4c89b3&amp;chksm=b04a84f81484136b1b184a43b765409b434b086d30cc60549e22cf30c82bd498cb95facffc0f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI+内核深度融合 | 冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=3&amp;sn=45f7e210b14835356d6d23d368497eaa&amp;chksm=b00f1642474a397f03427fee9857e0e52039b1ff89429c76c40d9e10d551a90af368a8a1326c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Egg Hunter 技术详解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1pZQdgbgVjIia2aaAGM8avfcfIqjw4bgxsqCGD4lOM9lacpHv8bpnApQoU40kndiaviant3gpibqsWNyhW9hDMsTgRuu8LJibZkUX0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概念这是一种技术，并非漏洞本身。可以用于大部分的二进制漏洞当中的技术，举个例子，写入shellcode的偏移量可能会因为系统原因而产生一些不同，但是漏洞确实存在，这个时候传统的通过偏移跳转shel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=1&amp;sn=5c759563230cf3b1bc8c8ace86c6f78e&amp;chksm=b018b2629be7a1b490bdda6aba49169c954eabe94f7c12e9e28cbac38fe81d935ccd06d7b5a0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75UKQyut3HaplrFU63zcVFOEALI7sKxxjloZLkN3uJLT5xgjHia9SANC1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司大家好，我是格小密。昨天我和大家聊了什么是智能体身份？今天我一直在想一个问题：当未来的世界充满了会思考、会协作的智能体，我们该怎样确认，每一个与我们打交道的“数字伙伴”，都值</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609245&amp;idx=2&amp;sn=433853cf1fa324300da16982acfc9ddd&amp;chksm=b0b00816be4ac6eed12c683695b532eb037d7effcd907c08f8df9da46eb9f3a8cc3f15874eee&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1j4glQg8FXeYIUvNhm7UvWZQBcRic707Q9kiaDFstlILhorXQmE2QiceWw5wVdzNxkhCbAdiaWmFqxKd99cDxrLvxrODO90Bc2p5A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，备受开发者欢迎的前端PDF生成库jsPDF被曝出两个高危安全漏洞。利用这些漏洞，攻击者可向PDF文档中注入恶意代码，或通过一张特殊图片导致应用程序或浏览器标签页崩溃。安全专家强烈建议所有使用该库</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609245&amp;idx=3&amp;sn=9c72500d0544dd0c5119aee9e839a325&amp;chksm=b0fb26da2736302a5939725b14ac2e2132dfd58c47596afca8e08f1269f5aee3d539c6fd3eab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[PWN] Linux中的pkeys安全机制及绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sNYr5jOY39bUdnuyJZwRGVib7l2r72xMvpGRd0bYWb5XTar2d5IHT65A/640?wxtype=jpeg&amp;wxfrom=0"/><p>简单介绍（Memory Protection Keys for Userspace，PKU，亦 即PKEYs）内存保护键提供了一种强制实施基于页的保护机制，可以快速调整某些内存区域的执行权限，而不是像</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=1&amp;sn=3e33084304fad678da056968ee8b950f&amp;chksm=b0add12d54d3875c097896f243cc75af2304e289e1e6b120bf705713a701deadbeee12dbff4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[格小密和你聊聊：给AI发“身份证”，到底是怎么回事？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GtHpHkJ41Ot6m58vzjs75USM1s9OfoSZHgy9HPo1sTcFdW9MFIIu7bicTRXNic2Bbpv5cgRB0ZAM2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>格小密格尔软件股份有限公司大家好，我是格小密。最近总有人问我：现在到处是智能助手、自动化程序，甚至还有能自己决策的“智能体”，它们需不需要“身份证”？怎么确认它是不是可信？今天，我就用最直白的话，和大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609014&amp;idx=2&amp;sn=ef1b7495d3c0aec423178f4089619006&amp;chksm=b06843ed04980eeb4a7bb6dac62835dcb4fff655a79307045bfdd88d0dc3ba46ef2b8694bbd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
