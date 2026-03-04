@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI正在研发可替代微软GitHub的代码托管平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVeWnITtUyjZELsAgESJW5PSMT3wicxUVoA1D4DXaDJPOjO4CdaN2ibr0M9qiarrgLpoUn32PeAYMSw9l2bQAJgVFgnjboSsX1AKo/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 The Information 的报道，人工智能公司 OpenAI 内部正在开发一款全新的代码托管与协作平台，目标是在研发流程中减少对微软旗下 GitHub 的依赖。据内部知情人士透露，Open</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=1&amp;sn=22fb6e4cf33cb3c62a69078e1fd7f7a6&amp;chksm=bff7dfb1ea5e7a947726413c680f794b62a1d4757a62a24210000cd19fec70586a9b9a688411&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 16:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gitee Go 流水线升级：新增 Rust 构建插件，全栈工具库大扩容]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/x0qaNQwt1tIacZV6VwxzyHP6ZP2u0ias0o9F6xsEOzL6LsXbSAfIt4LJbYAxCd9cNvzp06nKTwltTibkw7KYDIw1GicKq9Fsxeg0AABK7IMjH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 CI/CD 流水线中，构建环境的版本覆盖度和环境一致性是影响交付效率的关键因素。为了更好地支持开发者在不同技术栈下的构建需求，Gitee Go 近期完成了一次底层工具链的深度升级。本次更新重点补齐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=2&amp;sn=1f101fe7ad097a296b7237684b5934e5&amp;chksm=bfbcf915f4d6fac8eee9551571239ccc26ea106352dafe5b1419b56d10f47a50f450c7f24f6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 16:22:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里Qwen团队技术负责人林俊旸提出离职，团队或将调整。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXJb56DWvwqJOe5M2970j8p7MoDK0CZpibGweSaUbQWrHHIjjTvxD97emCVLkIoMYFRS7rXlynoaXIVZuexPvNpWqftJjObWMMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>相关报道指出，林俊旸离职的直接背景是通义实验室计划对Qwen团队进行分拆。团队将从覆盖训练全流程的“垂直整合”模式，被拆分为预训练、后训练、文本、多模态等独立的“水平分工”团队。这导致林俊旸的管理范围</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237604&amp;idx=1&amp;sn=1735105d5fd59ab4657de168bec3e984&amp;chksm=bffb639acc48e45c2dcad69953e7db07dc299dca61319abd5e1fc5138d47d41fc4a202c349ce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Vz2I2zunWwoEW4KI6ISdyWZ6McmXiau8kQlaOkvJEbyhZJsibzwLl4HGnn6G963UroD6s0CdeZzEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 宣布推出 Cowork —— 让 Claude 能像协作伙伴一样在用户设备上执行实际任务的新功能，目前作为“研究预览版”向 Claude Max 订阅用户开放，仅支持 macOS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237021&amp;idx=1&amp;sn=2cddf8a7719afb76f5b838b9dd0654df&amp;chksm=bff3065c44cfb0aada959468261b56f57ae1b6c8d0595ccfd6679edc109520696b907819e56c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Jan 2026 16:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【精校无错版】上周六，唐杰、杨强、林俊旸、姚顺雨真正说了什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8BDJWR2lRAbOdBVS3ZDuUTR9k645tzaZgLkxW2KKXGPKj0OVp44rWuP389G5JWxuJFUpibjUN7ALw/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载自：【精校无错版】上周六，唐杰、杨强、林俊旸、姚顺雨真正说了什么？2026 年开年的中国 AI 圈，简直不能再热闹了。“热闹”的点在于，大模型“开源四杰”中的三家核心人物——唐杰教授、杨植麟、林俊</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237010&amp;idx=1&amp;sn=4e96ae3d422f2254d35b9fbad64fe3d9&amp;chksm=bf28abfb365dc488ca15c5ff150915574d3645e28498314baf9a1a826022fdc99294a2970174&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 16:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌调整Android开源代码（AOSP）发布节奏，从每年四次改为仅两次]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8BDJWR2lRAbOdBVS3ZDuUTA4JgrXAzQnicYRcO5quhibe3SuKH2x9XYBYa6uECmNmIFHP8vsNrvjpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌发布了关于 Android 开源代码的最新调整：仅将在每年的第二季度和第四季度向 AOSP 发布 Android 源代码。AOSP 官网写道：自 2026 年起，为了与我们稳定的主干开发模式保持一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237010&amp;idx=2&amp;sn=b4ce271a11fd311b6d24a9664c52edcd&amp;chksm=bf2de95b2dfe6adcbbfb99165fa2de7c9eab41dedf0f299fc6472357caf03b6fc4c03b00fecf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 16:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

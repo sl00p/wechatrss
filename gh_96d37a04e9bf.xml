@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[LongCat 为 OpenClaw 装上效率引擎：你的自动化任务还能再快 30%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyLrmBmB8aFkn6yFEp3zZkTjPM8MUbKH6YWrNK9FdCUNmBo9zyypqutL7xRAD21IxeBUuib7NYiaubM6z792cdicjvZnAuMlqcTvM/640?wxtype=jpeg&amp;wxfrom=10000"/><p>OpenClaw 在开发者社区迅速获得 23万+ Stars，因其作为开源、本地优先的个人 AI Agent，能够将大语言模型的推理能力转化为对计算机的实际操作，为构建个人 AI 助手提供了系统级权限</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782250&amp;idx=1&amp;sn=82e74b41334aefc6d1b22a26695d52e6&amp;chksm=bca2565bd6f351e6150ef369f42afd168ae42741578e24e59369644ece8341a027233c5a36cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 19:58:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyrWibDXH7z3mYbuKnnzGAmGSU2WXLA9VdcSjRBjhhIsHFFyCdvE0miaa1ApnQB1mxFHEvpqzUGAzkQ8iceDMyIHVMgqxbUnrY0to/640?wxtype=jpeg&amp;wxfrom=10000"/><p>传统 MoE 架构通常通过增加专家数量来提升模型能力，但随着专家数量增加，会面临边际收益递减和系统通信开销上升等问题。美团 LongCat 团队通过全面的分析与实验发现：嵌入扩展相比专家扩展能获得更优</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782198&amp;idx=1&amp;sn=1fc74977fcd90d92f82c1f0709902df0&amp;chksm=bcaa4479742951337755a90eebe364402f85844fa3903f5586705250d9d43f4f6348f8c456e2&amp;scene=0&amp;xtrack=1#rd</link>

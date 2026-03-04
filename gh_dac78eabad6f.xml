@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[RAG优化字典：20种RAG优化方法全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5JuyjDrLGQ10o8orp8Hz7dfONicl1OibvUZ1zaLuQmEAHVFtJNgD9QVUu5C36GqECtAGGbPcuSdSq4hgV5a8XBmwp5xDNcIYiaaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文系统性地梳理了 RAG（Retrieval-Augmented Generation，检索增强生成）系统从基础到高级的 20 种优化方法，涵盖分块策略、检索</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=1&amp;sn=933681fb58bd38e6af584388def1516a&amp;chksm=ebb9edca7b62ddc885ce08dd7f742817f46cf08d25cc9493ed669044b59ea18a5dd5a40118ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5LBUmubyiaOggkOggO4GzPF5ZDgkxicTVwbjEGPUUoib1AH20BYeFvjvUmBMrpSNJiarPuShlv93MsnOWSXkA8LtUezDib6eNWZckk/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇以往大家习惯将 AI 能力依赖于公有云服务，而随着 OpenClaw 等智能体工具的快速普及，不管是个人开发者还是企业更需要一个 7×24 小时运行在本地、可直</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=2&amp;sn=c8885f24b1f1a95e018da38b34cc24b0&amp;chksm=eb6258db4183b74e8443da78c47cac1f08af55f04f52a27a990b0591df13243b833b21239b9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 05 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入解析OpenClaw上下文窗口压缩方案 ：一切都是为了效果与省钱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4y0fu7l90jDauM10BujxljzjvWox5iaWjTho8X5ia1H1fyYst8qGFswknu4G2xMHOuqgMzpdiaW5ZBMwm4c9ibCOyN4VTib8eRj1LY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇最近很火的 OpenClaw 的出镜率是越来越高了，内外网的技术文章，新产品的问世，Mac Mini 的涨价，自媒体的宣传层出不穷。作者是国外一个叫 Peter</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694674&amp;idx=1&amp;sn=acae1fec749562f39219e2b13af9f065&amp;chksm=ebe6a95b76b384606127f9651f855037575165a95ee2053ca289708af81bdac3d63248cc2dcb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Y2KynRCe6pgk5uOIg86uKWQI2wLHrWsQTHxCmmjDZ6niaJ3kpsFSMHh9jcvRsHZnhxfr9NGk1XaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 起源2 “多端统一”应用是什么3 常见的多端统一框架4 跨“八”端的真正跨端应用5 跨端框架优势：香6 跨端框架缺点：不香7 总结应用终端的种类越来越多，为了节省人力，提高开发效率，越来越多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692921&amp;idx=1&amp;sn=57ecce1e1e6730f53ab23f060e654519&amp;chksm=eb07929d56196e633536ad413fcf57e12bfc6fb55e1e9fa267b7e2d8c5b6514e23555161b7e6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[300万行代码精简到30万！腾讯新闻推荐架构重构复盘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94Oh0yls9hHHciaU24sx6jAQicob6MPpDDgm7Yf4JROCAF0Lo7nmgah5jlN0YVQacVnNLGkoZRtxE3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 “重构”的定义2 重构决策：什么时候该动手3 重构范围：平迁还是重建4 重构策略：绞杀者模式的实战应用5 风险控制：如何保证不翻车6 数据迁移：最难啃的硬骨头7 架构设计的底层原则8 复盘与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692879&amp;idx=1&amp;sn=eb4c051cd2adf792f32ab95497747918&amp;chksm=eb5acdd5598eac1695b8310b9e00cfbc22f866b5c31684fbe51eb3d8cc5c1cc6b6fcd2ac6ba5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[史诗级更新！国内首个支持Skills模式的编程助手，开启AI编程二阶段！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96NIQMDzXicPeibyYCUNFq23OvxaKKQjcgHJXibia9HstskrricSXrbzUpqDgXwjO8r6mBXncPB5IVeymg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 AI Coding 时代一线开发者的痛点2 Skills：为 AI 配备现实世界所需的"技能包"3 快速上手：从个人使用到团队协作4 实践案例：从单人智能到团队智能5 九大使用 Skills</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692871&amp;idx=1&amp;sn=e96dddf79b104100dd959ce07be9eee5&amp;chksm=eb117e975207471c32674ab3e0c1e63b352bc926b085c69230fd3b4ec510358dcb5fc833ac0c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
