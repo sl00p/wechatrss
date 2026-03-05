@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[揭秘！腾讯女程序员的上下班生活]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905AlVRibOyficmCjS87WkL1zfVlibQzl6C6Fib7ODTBicQ5bkGEWhM8MCwib7J1ramB1pTjngOLg4W1sjciaBuhOKENyIT10jWl7OI938/640?wxtype=jpeg&amp;wxfrom=0"/><p>“三八”国际妇女节要到了，作为一个程序员号，今天小编想真诚地对所有从事技术向的女生说一声：节日快乐，你们真的很了不起。每天对着电脑，写逻辑、改 bug、调接口、扛项目，认真又靠谱。不管是加班赶进度，还</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800595&amp;idx=1&amp;sn=1c00c2040ffcbd78745e6732daaf73fd&amp;chksm=bf91176efd767c1480a93bea6b5477769b80ac1ff66d604d0777a907817c7825ff20d4c04340&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 17:16:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工怎么看Agent自动持续进化？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905MQRIf4LmibiaK4u5G5xZeoqic2SjJ0USj2VFiaoO828a9XgZtvAbStxwZjgkOCYcDHZZb5zYxgtEQCbHTslvgS7n7onGIH7debhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景落地一个Agent容易，但通过一定机制自动持续优化Agent却很难，不知道大家当前自动优化agent的方式有哪些？今天不聊 Agent 怎么搭，来聊聊：让Agent 自己优化自己的方式。以下为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800512&amp;idx=1&amp;sn=39495794598597587bb783b651b1fe3e&amp;chksm=bf43289c2630d52c34c01889e484b1a6cd2c05b123f3c26791845df32537285f98412f178e0e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLYG19L5hvBCKMEYpoWnoZSA6kTNHiavTWqlGUwhRNZbnHJJ5YlDpGBmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语tRPC是腾讯内部覆盖最广的RPC开发框架，覆盖了腾讯大多数微服务，服务了如QQ，腾讯视频，腾讯音乐，QQ浏览器，腾讯新闻，元宝，电脑、手机管家，腾讯云等业务。其中tRPC-Go是使用最广的，累计</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=2&amp;sn=a16d5ea3c16157d41710a3f793b07b4a&amp;chksm=bfa90eb6fa863c590cf2ac9373598b0cb8506c6c1461539b2b0678ef6443b8b807a0f8f32cf4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯发布1.58Bit大模型量化新算法Tequila！突破"死区陷阱"，效果性能刷新SOTA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavoeTqBZiagIg0LhdiaqavQKYkDNaD9c0RQRFyH5YnPJ1ocCBwCsPmMr8R7zxc9vgk8WUYwm8nlbniag/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对大语言模型(LLM)的量化方法层出不穷，近期三值量化（1.58Bit）在LLM中使用的越来越广，比如BitNet等方法。腾讯近期发布了1.58Bit量化的新算法 Tequila，提出一种QAT阶段</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796078&amp;idx=1&amp;sn=7c19fcbb318fd27cd60c8cf7bb90db5f&amp;chksm=bf6a3eb8ee1c99312cabac0db82b01db89bdf61aaa4e453d7ed03bc441994200d5d3fb440b40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

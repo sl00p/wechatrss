@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[游戏数据分析Agent的全栈架构演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STrPPOOol3H6cRuB461hF6ab29kJMb8zgkPCZVaTBRdNzEatVDplwNHyaUicA4RZ5LeR79osetYcXLcfQBUiajHTGddHoHbUT2cM/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言写在前面，由于现在LLM生成内容千篇一律，作者尽量自行撰写核心内容，LLM仅限于润色优化，争取把整个开发迭代历程完整呈现出来供学习交流。一、背景与挑战游戏业务随着持续深化，各个岗位对数据的诉求也越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504028&amp;idx=1&amp;sn=cb78fb155cef1df7bc5447a34b74fab1&amp;chksm=ce74037e35e618457479846d2dbef35f5e50e054151f2dbd6304e1302695054f8361f5fc86f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[视频生成推理加速实践：基于全局时间索引的序列并行 3D 位置编码优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STPb7299rFf1defLpNpseJJf6WMHqPhicqyZFF6XGmposyt3UhxV8wtyNzJUmUFDZAz9C2tyov7keK5okYibpV1BPWdhhla5WCfc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、Self-Forcing：从 Wan2.1 到因果视频推理Wan2.1：全帧并行的视频扩散模型Wan2.1 是阿里巴巴团队开源的大规模视频生成基础模型，基于主流的扩散 Transformer（Di</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247503933&amp;idx=1&amp;sn=f9b7c2ebf85e78af4473ea0134835723&amp;chksm=ce499e9ea28179e091d57dadfbb3cbfd21cf19ce7c4c742315af9ff8f8a60edea8278bf31b19&amp;scene=0&amp;xtrack=1#rd</link>

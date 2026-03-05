@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个坏消息和一个好消息 坏消息是： 如果你只会写代码甚至只会CRUD，那么AI 100%可以取代你，AI在写局部代码方面已经超越了90%的程序员。写得快的没有AI写得好，写得好的没有AI写得快。 好消息是： AI目前还无法取代程序员的两类关键技能。 业务理解能力。AI对于特定公司的特定业务的理解程度远不如团队内的程序员。涉及到需求讨论和方案设计，AI无法准确判断合理性。形象点说：AI没法和产品经理PK需求合理性和实现细节。 架构设计能力。AI对于特定公司特定团队的利益关系网络无法正确理解。虽然AI可以给出很多可选方案，但是无法代替你做出多方利益相关的最终决策，无法理解不同利益优先级和重要程度。形象点说：AI不知道你做的架构设计项目，是你为了明年晋升而做的项目；还是为了让你的leader赶在绩效考核截止前一定要上线的KPI项目。 因此，对于程序员来说，在AI时代如果要避免被替代，需要扬长避短，朝业务和架构两个方向提升自己。不是和AI比谁写代码更好更快，而是向业务理解与系统架构两个高维方向跃迁。 这需要主动跳跃3重龙门：1重认知龙门，2重实践龙门，3重机会龙门。不要坐等机会降临，要以架构师的标准要求自己，从现在开始行动。 首先，系统学习架构设计方法论。 学习完整的架构设计方法论，掌握架构设计思路、架构设计原则、架构设计流程、架构设计原则和理论（CAP、FMEA、BASE等），在此基础上结合业界实践和经验，形成自己的架构设计技能体系。 其次，选择有架构设计机会的职位。 新业务有较多从0到1的机会；持续发展的业务有较多重构机会；快速发展的业务可能有架构演进的机会。在转岗、换岗的时候，如果目标是寻找架构设计的机会（刚开始不一定是主导，有机会参与也不错），可以优先考虑这些机会。 最后，创造自己的架构设计机会。 如果加入了成熟团队，合适时机也可以提出“架构重构”想法。关注这类系统问题：经常出线上问题/开发效率低/性能差/技术老旧等。 发生问题后思考是否可以通过架构重构来解决或者优化。 祝各位彦祖亦菲成功。延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693546&amp;idx=1&amp;sn=e86cf96fcd181c3926665c7ff9b3ed10&amp;scene=21#wechat_redirect">大厂P9：为什么大部分程序员成不了架构师？</a>]]></title>
+      <description><![CDATA[<p>一个坏消息和一个好消息 坏消息是： 如果你只会写代码甚至只会CRUD，那么AI 100%可以取代你，AI在写局部代码方面已经超越了90%的程序员。写得快的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694723&amp;idx=1&amp;sn=f9607e1ce1e647203830978b1fe44e3b&amp;chksm=ebc49c68ebbfc90b4ef1790b670dc11380dd079a1ab30589b7615183b46df97c362dac5cc136&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RAG优化字典：20种RAG优化方法全解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5JuyjDrLGQ10o8orp8Hz7dfONicl1OibvUZ1zaLuQmEAHVFtJNgD9QVUu5C36GqECtAGGbPcuSdSq4hgV5a8XBmwp5xDNcIYiaaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文系统性地梳理了 RAG（Retrieval-Augmented Generation，检索增强生成）系统从基础到高级的 20 种优化方法，涵盖分块策略、检索</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=1&amp;sn=933681fb58bd38e6af584388def1516a&amp;chksm=ebb9edca7b62ddc885ce08dd7f742817f46cf08d25cc9493ed669044b59ea18a5dd5a40118ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>晋升了！ 做晋升时，很多人把注意</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692947&amp;idx=1&amp;sn=b806d44963ce8dd2d3442d6bd4f68a25&amp;chksm=eb3b223deaa0fad0a028b99b3fcc4ee210ed80ae339abb4f5b646a0b79637fded8e3eb09f733&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一套代码跨8端，Vue3恐怖如斯？详解跨端框架到底香不香]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Y2KynRCe6pgk5uOIg86uKWQI2wLHrWsQTHxCmmjDZ6niaJ3kpsFSMHh9jcvRsHZnhxfr9NGk1XaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 起源2 “多端统一”应用是什么3 常见的多端统一框架4 跨“八”端的真正跨端应用5 跨端框架优势：香6 跨端框架缺点：不香7 总结应用终端的种类越来越多，为了节省人力，提高开发效率，越来越多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692921&amp;idx=1&amp;sn=57ecce1e1e6730f53ab23f060e654519&amp;chksm=eb07929d56196e633536ad413fcf57e12bfc6fb55e1e9fa267b7e2d8c5b6514e23555161b7e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

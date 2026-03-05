@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[算完这笔 ROI 账，我决定放弃「自建依赖源」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/x0qaNQwt1tKEVHgicBQbKpUEGXLwH9ZNpYTTzceeicagtVuvfKFDznCXVkomDibf28ZeaN2MA610NuPVkqbs3wABnsFfGfxyG224iaqDfExG5x4/640?wxtype=jpeg&amp;wxfrom=0"/><p>现有开源组件管理现状：有库无源+困难重重「有库无源」的尴尬现状如果你的企业目前已建设了制品库，这标志着企业内部已经具备了「存制品、管制品」的能力，但目前面临的核心矛盾是「内容供给侧」的缺失：空壳困境：</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237617&amp;idx=1&amp;sn=99dbab9b5f1593b349b704422ed7076a&amp;chksm=bf08c6844d13cf41ec2f668ed49c5b7aa372ca2f114df66b3c3faac83f7007d4b52fa35867d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 14:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Team版OpenClaw：HiClaw开源，5分钟完成本地安装]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUzMtx1638FC89rENlc9SnMLfPicC36ReibNybeica8bx9psnPibDW4g0wRicClMJDuxeMuX0jE7J9ObDRu0QuW3m2EbznW38piaa4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>HiClaw 是 OpenClaw 的升级版，基于 OpenClaw、Higress AI Gateway、Element IM 客户端+Tuwunel IM 服务器（均基于 Matrix 实时通信协</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237617&amp;idx=2&amp;sn=61e3c422f547cb3013dd5de200cd00c0&amp;chksm=bf9411f47c1d94130b3491dd020fa052064c2c4e36c88c8e002f293c2139d9dafd8c4d28fe99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Mar 2026 14:28:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI正在研发可替代微软GitHub的代码托管平台]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVeWnITtUyjZELsAgESJW5PSMT3wicxUVoA1D4DXaDJPOjO4CdaN2ibr0M9qiarrgLpoUn32PeAYMSw9l2bQAJgVFgnjboSsX1AKo/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 The Information 的报道，人工智能公司 OpenAI 内部正在开发一款全新的代码托管与协作平台，目标是在研发流程中减少对微软旗下 GitHub 的依赖。据内部知情人士透露，Open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=1&amp;sn=22fb6e4cf33cb3c62a69078e1fd7f7a6&amp;chksm=bff7dfb1ea5e7a947726413c680f794b62a1d4757a62a24210000cd19fec70586a9b9a688411&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Bop46314whkphxXEuM8HhcYvraia30IWRAd4jsDic56VOTTFre6BIibVdgBUzicCCDItpZxhAI1m1CQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux内核创始人近日开源了他在年假期间创建的全新项目——AudioNoise，该工具聚焦于数字音频效果处理，尤其是与吉他踏板相关的数字滤波算法，旨在为音频爱好者和开发者提供可扩展的效果生成工具。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237043&amp;idx=1&amp;sn=e73af761795f27a3f0a62952963c06ae&amp;chksm=bf9cc4419a37a9a76a9d64e4cfe61ac912e07bc21c2d98bfaef68cfb7ed16245481f27fe530c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 16:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI原生语言MoonBit遇上静态分析，迸发高性能、资源受限场景下的独特潜力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Bop46314whkphxXEuM8HhUVDpSrkq0dIcLes5gc6Clb55y1w3qibMiasnISSIvcX2icv6gfSzzkAiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：东灯原标题：用 MoonBit 做静态分析：从分析简单语言到 MCIL一、前言你是否曾在编写代码时，对那些能未卜先知的工具感到好奇？当C/C++编译器警告你“变量可能未初始化”，或TypeS</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237043&amp;idx=2&amp;sn=5b6876c4cc09128e9aea01b1d9e87fa0&amp;chksm=bfec8ae0f60630bbaff08101c5d3521128985f17d35af794e0c814c8dc2633d58d6fdb13e993&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 16:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic发布简化版“Claude Code”：Claude Cowork]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9Vz2I2zunWwoEW4KI6ISdyWZ6McmXiau8kQlaOkvJEbyhZJsibzwLl4HGnn6G963UroD6s0CdeZzEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 宣布推出 Cowork —— 让 Claude 能像协作伙伴一样在用户设备上执行实际任务的新功能，目前作为“研究预览版”向 Claude Max 订阅用户开放，仅支持 macOS</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237021&amp;idx=1&amp;sn=2cddf8a7719afb76f5b838b9dd0654df&amp;chksm=bff3065c44cfb0aada959468261b56f57ae1b6c8d0595ccfd6679edc109520696b907819e56c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 16:07:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
