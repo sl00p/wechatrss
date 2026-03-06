@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI推出Codex Security，AI自主修复软件漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0icHmBaVN6uXMicah9ktUcf9EGVbtWic2gecIib4xjLg15E7ibqlpwHx1gq9C0eCvZj2m3HUy39TMHyzDHHKlXwMUPV0Z8sNSxY4yQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Codex Security正式发布OpenAI Group PBC今日正式发布Codex Security，这是其编程助手Codex中的一项新功能，可帮助开发者发现并修复代码漏洞。此次发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=1&amp;sn=287680222254338abf4ea2941bc4a401&amp;chksm=bc827541995824aeab35b439a474d8610bea7134f101717842ace39b29acbc138beea9b520dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux rootkit滥用eBPF与io_uring技术，隐蔽性远超传统攻击手段]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3HfxczM4Zuhg7xn9T2Dn1gmNq33lTyRyP76mzbNW53Sxe8JOYu2fkSPJm58GqDhsCib8p1NzdUMo26T9LalYq1dN9gRWSKM2Ls/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux rootkit已悄然发展成为现代基础设施面临的最危险威胁之一。多年来攻击者主要针对Windows系统，但随着Linux在云环境、容器编排、物联网和高性能计算领域的普及，攻击态势已发生根本转</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=2&amp;sn=748890460a543f51571f5bfaf4086715&amp;chksm=bc11cb2e14e9adad4a85701f167c54f805fca983a45d43db388dfd49636b37c117158114e5e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenClaw 0-Click漏洞可致开发者AI Agent遭劫持；Telegram沦为黑客新总部 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖OpenClaw 0-Click漏洞致恶意网站可劫持开发者AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=3&amp;sn=e9f81554aa46d38f334ffb265208432a&amp;chksm=bc6970aa0c4f73cfc4e8e31bdac5569786a4a235dd9d8b9a8b638243fd26f49fd4a2a8e64ba6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[汽车胎压传感器或成隐私泄露隐患，可悄无声息追踪车主行程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2EGmcCtibWtTDR4Ts94zGD454YK1hD0Gbibt8N4LPJ05Dwr6QtcpkWEk3JywMp4LSGdEeHsfTFopfHEWEWZtpwIkboh1caicjMicU/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代汽车配备了大量安全功能，但这些实用工具可能泄露的远不止胎压数据。IMDEA Networks研究所与合作伙伴的最新研究表明，包括丰田、奔驰、雷诺和现代等主流品牌在内的数百万辆汽车搭载的胎压监测系统</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=1&amp;sn=fa2657dc8f4c3a6b8c0989da0a0d1b8c&amp;chksm=bc0a670ed38aad1b952e5c9ba656d0417202422847f5f3ed4672517cd46de4ca18224acad532&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39ibPF0icwEYmoA0iaib0BZuDvxtgk9Y4a7KBYWn0yC8ic9yxS4MpkpCqXHGpHtGvP2nySzVrIcSQia7UdUmh7pk88a62av9HYoAYlY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01大规模入侵事件概述2026年1月11日至2月18日期间，一个以经济利益为动机的威胁行为体利用多种商用生成式AI服务，成功入侵了55个国家超过600台FortiGate设备。此次攻击活动标志</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=1&amp;sn=ae34cb185e92fa2c29259d756c4602d6&amp;chksm=bc359fa896eb4456682283693795c5915d4d5ad32ae547bd1c1d383a36c5f34dcad8e940e46a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者借Microsoft365 OAuth令牌窃取数据，企业面临长期隐秘入侵风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX104mrr0niaF3OlibiclWjJZ6TNJg3pchAqueeA64hJnTb5Dmjx8ib0qLMZaYSbCiawr6TfmmibqmK7MdHBU7gdaibtmdgG1icMP4y0hicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项针对Microsoft365用户的钓鱼攻击活动正在持续进行，攻击者通过滥用OAuth令牌获取企业数据的长期访问权限。该活动主要针对北美地区的商业用户，旨在入侵Outlook、Teams和OneDr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=2&amp;sn=89430ca30c912a8f49038197ec1bf057&amp;chksm=bc4aff6f7722a81cbd2fd59fc3143744f0955419ea45581492f9444408ff34567af79f50a626&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows记事本RCE漏洞PoC已公开（CVE-2026-20841）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1RfTs7BUYYEXNvzbr7reiaias5msUjax8zUGj5Qg9WH2pH19Fkt2GmQvSRGTmj1qo4cFc4Y9fLVJF9G8rVb9fyqjYblxPYc2NdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已在 2026 年 2 月补丁星期二更新周期中修复了 Windows 记事本应用中的一个高危远程代码执行（RCE）漏洞（CVE-2026-20841）。该漏洞源于命令注入，最初由 Delta Ob</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335339&amp;idx=3&amp;sn=150a99960afd1e3c0abf4e734dfed4e9&amp;chksm=bc168d520354f084cc6221844f96fe30e7318fbcbdfd9afa6a24d0d4a516d8280d6a84e07aab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic发布Claude Code Security，全球网络安全股应声暴跌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX01q0e3E6FYsswQMFXAibdmibyhgsWrJyP7UfX8BVzLPtlIicic8rWUclo2ia0AibrhjrDkBLr3GaibXrPibmydeXnqfk1xV3RFcYYQykg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01主要网络安全公司股价下挫Anthropic 公司今日推出软件漏洞检测工具 Claude Code Security 后，多家网络安全供应商股价应声下跌。该工具目前作为研究预览版，面向 An</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335325&amp;idx=1&amp;sn=9ed0ec9935e791c0508c4ec1526dbf72&amp;chksm=bcfd7212fd791f562cea574fa323b5051bb0500f40a3f279d6ab23c199edeff1ef9d088917cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Feb 2026 12:30:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
