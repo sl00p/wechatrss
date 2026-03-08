@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[玩转OpenClaw，你需要了解的：核心架构、运作原理、Agent部署步骤]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9051SV2ogrkzwyymicymqlYvHYAA3Ga3giahhhlWavHuBgLk8NMCk8lsandnbA2ibDl7riaXtl2kmeoicT2n4hjCTtDVXTtRbA91Xc9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：冰以东建议有打算深入了解OpenClaw的同学优先看OpenClaw源码和官方文档，目前该项目正在高频迭代中。本文重点从核心框架、通信机制进行介绍，争取让你看完本文后知道OpenClaw是怎么运</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800637&amp;idx=1&amp;sn=ea01e0f19b2749deda2f6ff67ab6f104&amp;chksm=bf461d20108021478916cc468dd1d8d0cd037735d6ee329525ccbbbd7b71fb147f8d4c88c88c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 17:26:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[揭秘！腾讯女程序员的上下班生活]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905AlVRibOyficmCjS87WkL1zfVlibQzl6C6Fib7ODTBicQ5bkGEWhM8MCwib7J1ramB1pTjngOLg4W1sjciaBuhOKENyIT10jWl7OI938/640?wxtype=jpeg&amp;wxfrom=0"/><p>“三八”国际妇女节要到了，作为一个程序员号，今天小编想真诚地对所有从事技术向的女生说一声：节日快乐，你们真的很了不起。每天对着电脑，写逻辑、改 bug、调接口、扛项目，认真又靠谱。不管是加班赶进度，还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800595&amp;idx=1&amp;sn=1c00c2040ffcbd78745e6732daaf73fd&amp;chksm=bf91176efd767c1480a93bea6b5477769b80ac1ff66d604d0777a907817c7825ff20d4c04340&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[24小时快速入门大热语言Rust！学不会来找我]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLU1jZhesHYJTcC2KQVlABHYE0NicyQPFR4r3TQJZqzSXSuTicl0KrgU5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：richardyao最近几年，Rust在业界的使用越来越多，本篇文章从Rust核心语法等基础知识入手，进而详细的介绍Rust语言不同于其它语言的思维方式，最后通过一个实战的项目，带大家快速入门R</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=1&amp;sn=374bd0d6901ae1971b36dc106b4903e5&amp;chksm=bfee587f0da01b273bd99e9183f7662c4eda79626057a06f9f7795e526459622d92127b25582&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[tRPC-Agent-Go：构建智能AI应用的Go语言Agent框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLYG19L5hvBCKMEYpoWnoZSA6kTNHiavTWqlGUwhRNZbnHJJ5YlDpGBmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语tRPC是腾讯内部覆盖最广的RPC开发框架，覆盖了腾讯大多数微服务，服务了如QQ，腾讯视频，腾讯音乐，QQ浏览器，腾讯新闻，元宝，电脑、手机管家，腾讯云等业务。其中tRPC-Go是使用最广的，累计</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=2&amp;sn=a16d5ea3c16157d41710a3f793b07b4a&amp;chksm=bfa90eb6fa863c590cf2ac9373598b0cb8506c6c1461539b2b0678ef6443b8b807a0f8f32cf4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>

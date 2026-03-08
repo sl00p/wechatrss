@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux内核modprobe_path覆盖利用技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Rv62zibxYQyDMbEEYsIhO5Fqkpa73xibkVlgDHLJiczGm9g4deC05DABicLy91AbH5wVlWvBvVn8vCZib5fcIcibIaksypXlDBOcMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年的 ccb&amp;ciscn 初赛有一道 Linux 内核的 Pwn 题，让我这个内核菜鸡被直接“硬控”了，现在初赛都上内核了。赛后搞到了 WP，于是正好趁着元旦假期有时间好好复现一下，分析了一下这道题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=1&amp;sn=42714dd32f8e60e18b9206288004770d&amp;chksm=b09a83f5f018cda76dc8e82d870bd8429dcb3d64b7d6e95de1c7146ea1555c818f5d6c7067e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[效率封神！Claude Opus 4.6联合Mozilla，挖出Firefox 22个全新漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BYXFtecVXvKOib6JsOJ0tS868r1zpZ1SAQ485mv9gWgNHZTYiajTFekSTCLdVeddELbxbGian3mQ7MO7cTEXI97ZYgk6A70vicnk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能公司Anthropic宣布，在与Mozilla的安全合作中，其旗下Claude Opus 4.6大语言模型成功挖出Firefox浏览器22个全新安全漏洞，展现出远超传统检测方式的效率与精</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=2&amp;sn=42538345809533671f7986f4a6b83846&amp;chksm=b04ba6a0f9d1f0ad15c376976006d280170f295d84defe8438c74524eb830be74ce4250d5b34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[非虫重磅打造 | 阶段二：安卓软件开发与逆向分析（工具篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=3&amp;sn=04c149f36903056678f95865f47f1f78&amp;chksm=b0825c504b005d89cb81e74327f8c6b17c16729c3d2b8354ff314402ade2e86926ea895a17e8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CISCN-2025-初赛题解 NPUSEC]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0cR56ibId8LJx48t5ibUWh6kJkqbWI9nrRw9Q0GZIDJ6HmIuNPrFKuK425Wq80Jck8jGLFfZCWaqiaVknqIScrwN3kFwxJ8Z1pwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PWN 3/6ram_snoop（赛后解出）程序给了一个babydev.ko文件和eatFlag文件，一般来说babydev.ko文件就是存在漏洞的模块，查看init文件，发现将/proc/kal</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611852&amp;idx=1&amp;sn=34b98be534d0fa60724aadd9938ad62e&amp;chksm=b00db7049bed69cb888d8601489a7a604bcf750bf2d070a667504d16cbcf0c79f9e4803d1945&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0lPY0A31GdgCrTSiaOMDgGXaAHO4sFkDPCDvWFefwSib9W7Rwm9LKmD6oeibL52qcG8nibB2x8U6ekgC2vVNc2EsJSUVszOEmwsyY/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软于近日修补了 Windows 系统中的“记事本”（Notepad）应用中的一个高危漏洞。该漏洞可能允许攻击者通过网络，诱使用户打开特制的 Markdown 文件，从而在受害者计算机上远程执行恶意代</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=2&amp;sn=80d56bc5de67e2fddbdb31d16d97a8c6&amp;chksm=b0cdf4e9de8e17169911c2456ab225b94f241c0c2936d407eb11ecef50bcc391ff8f9a5a8d7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无名侠主讲 | 7天打造 IDA 9.0 大师：从零基础到逆向精英]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Eq5hSjesgvjI6HF8jTe0d8iaJGlLRaWD9fugIE8ylfQQKrz62wnOgIh9Ta2laBgiaKxgDiaoabOO9EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，逆向工程已成为技术领域的关键技能。无论是安全防护、软件优化，还是算法研究，IDA Pro 9.0都是不可或缺的利器。本课程聚焦核心技能，带你从零基础迅速成长为逆向精英。不仅能精准剖析AES变种算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610691&amp;idx=3&amp;sn=f8830ffeb61eef9a70791add28954008&amp;chksm=b08fddb93d1993eab97812bf99d8b1bc7147c54e3f0a836d10e97b1a798e85818f5a72928f6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【新课】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=1&amp;sn=17ea9d9c0fd30d1caa7e7e38bc17f96e&amp;chksm=b0749445b9b5ea2bc3f786166413d027288e0b1ff0b64aeef674b4803e38cd35929a6c1984d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[经典 Frida 检测 libmsaoaidsec.so 绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2icCQ5ru8upJVGkibdZZ8ibCQ6QByTibottNqQKtc1CNIEJWvsXNLKPNzkcHiaicQkSJwOfOCZx3mdvuNWlX9goDJu8cvw65dE5m5ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>01定位检测源：追踪 SO 加载流程在面对 Frida 检测导致的闪退时，首要任务是找到是哪个 SO 库触发了检测。通常，反调试逻辑会在JNI_OnLoad 或.init_array中执行。如果 Ap</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458609652&amp;idx=2&amp;sn=f950d89d8d9fceaee897996e349afddf&amp;chksm=b0f311083b1d89c6cc0c3b882cd75dfd0761de4d7451612538e1e0e9b8d0eef0fd7ec5fd15ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

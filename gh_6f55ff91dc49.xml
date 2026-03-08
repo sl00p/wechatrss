@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3u8YYz6f9wpj9qCfmic2vS7j66XZicYew6SwO4Zsacr8qu3gicXgugmXZ8icE6dwakchwR2kOt60yeMztvVX1d1hiciaic3SPkZUqfWU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了一个挺有意思的开源项目。也登上了目前的开源热榜。它叫 The Agency，说白了就是一个 AI 专家角色库。里面有 55 个专业 AI 角色，分成了 9 个部门，从</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532019&amp;idx=1&amp;sn=d9e52c2a283c6b4b361e506078173b7d&amp;chksm=f83106efc250a2377bc320b898b7cab648c7ba52114576616e9c741011ae43efd013cecc901f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[6 个今日登上 GitHub 热榜的开源项目，收藏。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1P1j5GmC0J3713s6gdjKb3sAYHcRa5GWGLibia6jKTkrT9nQNotlYR6ib0PboFa517hFR7GPxflq83ibECQBnczjHA4jiadBuVqbib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01交互式知识图谱神器这个开源项目今天涨了 1000 多个 Star，叫 GitNexus。这就是一个能在浏览器里直接跑的代码知识图谱引擎。你丢进去一个 GitHub 项目链接或者 ZIP 文件，它就</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531962&amp;idx=1&amp;sn=4a1dc067a3adc0e6064759df9bbd21c1&amp;chksm=f843361ef77d8c07b90634e1f36cfdfcd38be1626b01a621be0e5f9e81f0ca700bf76344218d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRrux0OJe6vJRLiczvNsAribicCMHrcnuvtO7TqX2YnTDOc6DzFia4ibic2IWegjfwcL1FV1ekdJzTdarzqkEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01科研类 Claude Skills 这个开源项目收集了一套针对 Claude 优化的科研类系统提示词。把这些设定喂给 AI 后，它在处理学术任务时的表现会有质的飞跃。无论是在解释晦涩的科学概念，还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530617&amp;idx=1&amp;sn=6b5bfc3e439a229f54e03afacbecba04&amp;chksm=f89dafe9e32bc1b3d5a0e1bb3dcca4287dcc563e2b24cb225c082ea2cd9c43999690d22d506c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Jan 2026 15:11:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 智能体模拟平行世界 推演未来，这个 GitHub 项目有意思。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwv7hpO0KQLqkVyCtn8tNgae65K9AA2TOKm2paXQ8acAYVILkS3FwibNUCTiclly0JTqdMMaKLkV60A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是一个非常有意思的 GitHub 开源项目，名叫 MiroFish。刚开源没多长时间，已经有 1000 多人 Star 了。它是一个基于多智能体技术的预测引擎，通过模拟群体行为来推演未来。啥意思呢？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530595&amp;idx=1&amp;sn=cee7ed7a207215f9fa630051ad12b27e&amp;chksm=f83a18a5aa86d2635e5b41ec7540c00a9da73ba80e3c802fd6342f36a33e76739a3bb07e2e04&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
