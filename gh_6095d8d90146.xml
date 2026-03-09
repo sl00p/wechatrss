@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/3/10)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• CVE-2026-0866：畸形ZIP头可能导致恶意软件逃避EDR检测https://securityonline.info/cve-2026-0866-malformed-zip-header</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960395&amp;idx=1&amp;sn=fda56bb3ee7ca2f53e5b3d1d1fc60bd1&amp;chksm=8af1a3e9986781c5edc46efaf74679f297114ec6cb181b0743ce7f7827295b36922efd799503&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 16:38:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/3/6)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• BlackBoxAI：AI编码代理的提示注入与远程入侵案例分析https://insinuator.net/2026/03/blackboxai-ai-agent-can-get-your-co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960392&amp;idx=1&amp;sn=74e4de38dc1b087909486bf7ae525c57&amp;chksm=8a544f2e097b47ae2f986d65e4641a93cbbce9e64c5de6146228d35a8e75f9740e208eda1435&amp;scene=0&amp;xtrack=1#rd</link>

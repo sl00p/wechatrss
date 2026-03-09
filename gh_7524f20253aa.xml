@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[伪装OpenClaw，恶意GhostClaw大肆洗劫开发者数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yrib1noJFKYiboQGUnh3Fk4DZUEgQRZyiaTK0AGc2CLDKHqwRibxIpHpaHCHnaMufFTsr8BZtowbLwfr9JibekGoep9A3CpY2eosU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意npm包伪装开发者工具近期出现针对软件开发者的高危恶意软件活动，一个名为@openclaw-ai/openclawai的恶意npm包伪装成可信开发者工具，暗中窃取凭证、加密钱包、SSH</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335912&amp;idx=1&amp;sn=f7c9c36f910a122eb9bb727adcf9e89d&amp;chksm=bc00ab074d1626a8f6101493ad15f600aa82645509becf5e134b5da6105bd5016e0af0ba2f2a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic推出高价AI代码审查工具，效率惊人但费用昂贵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yynCOyiah3Q1MUruLw0quhtXy4R6O8Jib9E130398kOoaUEpRRxTX7XxrsUOwIvUyZFibqvQibUGYRzwRA1CwFYZyrD1XHxzViatc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在软件开发过程中，获取代码反馈是确保新编写代码中的错误能在提交拉取请求（pull request）前被及时发现的关键环节。但随着AI编程机器人的兴起，开发者提交的代码量激增，已远超人工审查者的处理能力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335912&amp;idx=2&amp;sn=bddfd7ca2e118ddffa48add8aa6c3b4e&amp;chksm=bc74e2a8b0da8b906db63279012c280caec38bdd235ec2a7239600662a08634656e0de9fab6c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI诈骗工具ScamAgent可自主实施高成功率社会工程攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2aLRMj4gZD9V0jpHdqPY6qC7XCazp6SJaY13IGZpd4vlGpRsmicT65w38Zht7Y6AEibpldhGYrH9oDHPlPm8tfJSdpcwsKS1ByQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国罗格斯大学研究员Sanket Badhe开发的ScamAgent是一个自主多轮对话AI框架，展示了如何将大语言模型（LLM）武器化以实现全自动诈骗通话。该系统通过整合目标驱动规划、上下文记忆和实时</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335912&amp;idx=3&amp;sn=0fe6fd6d6fe3f37529facc11377ba6f4&amp;chksm=bc93d7c6ff070dbd2ae88d08edfd4e9515916d4231f618d06e6ae6430e027ece6c1f5793468f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于Graph API的微软365红队图形化攻击工具包M365Pwned发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3SeQbX72gVJblampK4yH3wuuJWicf0Diaq5sYNSphADOuZjgg6PXK3Lq2z6LFXWVW9tYGRnbYTt4ict2WianyPE80WUmuVEdIyiafA/640?wxtype=jpeg&amp;wxfrom=0"/><p>代号为 OtterHacker 的红队研究人员公开发布了 M365Pwned，这是一套 WinForms 图形界面工具，专为通过应用级 OAuth 令牌（无需用户交互）枚举、搜索和窃取 Microso</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335912&amp;idx=4&amp;sn=9618eefa6a3f3278412616dafe1f81a2&amp;chksm=bce80e2f4032ce5cb3a7a4647d05fee30311c142a26f9431799ce1a803b32cdc80c51832c3b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客在暗网高价兜售Windows远程桌面服务0Day漏洞利用程序]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX23zxsn6grE6qISGxUwaxO090ymJBF4tceknqp53RcLgVECmZsziajIkfAtMG0U7bDdsvtUTk19PNMzBYSoHByqVbBDibqzeWWac/640?wxtype=jpeg&amp;wxfrom=0"/><p>据称，某威胁行为者正在暗网论坛上以高达22万美元的价格出售Windows远程桌面服务权限提升漏洞（CVE-2026-21533）的0Day漏洞利用程序。该高价漏洞利用程序通过不当的权限管理机制，可使攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335871&amp;idx=1&amp;sn=93aaf8017268c6b89d3fc80ee9b4cc5c&amp;chksm=bc6523a0941da42a361b77e07ac230a3cfac8998c63bfa55116b57cd66972bd5c96a8f603297&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TWDBW2m8eohPUycZraNiciaN7wt3WiatmhD03OknDC1WLZGV6BmzQICrem3I6icBSGBUrQRJ2uGYiaDy82wMkTUPL4ias6C8icDr4XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01安全强化升级开源个人AI助手OpenClaw（GitHub星标超21.5万）正式发布2026.2.23版本，重点强化安全防护并集成先进AI功能。本次更新修复了多个漏洞，新增Claude O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=1&amp;sn=cd5421bf0d81d2dbca5b0db3d4577a7c&amp;chksm=bc41cb769a28727f75896842966dabde177ac1a88ce1f4ce15e3367517cc40656a8e6171c256&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Copilot漏洞可致代码库遭劫持，攻击者利用AI静默窃取敏感令牌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0naL3wXBfcSoKm1tIlIVuxs2I2t8We8iacVTMicicz5rAPIcw39R99vUBJPAOz1Z0nCickyu8aQaNPxeQKPW5yJribUKLQVibNmdTB4/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub Codespaces存在一个被命名为RoguePilot的漏洞，攻击者可通过在GitHub问题中注入恶意Copilot指令来获取代码库控制权。该漏洞由Orca Security发现，微软</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=2&amp;sn=158d37652523eaa275cfecf0e0619859&amp;chksm=bc4b5b31260a8abb063b6433d4644cb11d713451043193cbc0eba35ef4c9bc0d99d4a8ac3c97&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[俄黑客组织Diesel Vortex针对全球物流行业发起攻击并窃取1600余组凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0e5ypHoIoNqeusPMICGpfJvb1yGM6pEcAWo22gb3xue6jrKD7SXwv8787ib7QHsNRPRFIBwy1JUBHvGDOArQ1xHIQHpPvuHLB0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01大规模钓鱼攻击行动与俄罗斯有关联的网络犯罪团伙Diesel Vortex持续对美国及欧洲货运公司发起大规模钓鱼攻击。该行动自2025年9月持续至2026年2月，已从DAT Trucksto</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=3&amp;sn=ec6779286210fe68be1c8c823a60448a&amp;chksm=bc27f3274f8fef2ad3519c4b9d2f0eb513d8e98d7c5b4295877761652dfc0e3e7161b77e9b31&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ring门铃悬赏近8000美元，寻求切断亚马逊云端连接的本地控制方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2lo32mlJZl4gedatbKstlKRo9AnBv3ZF39Ouak5jxgWCgO5jlVG59uB3Pc94FWcjfajaMbuOI7jfLOCRic6jsncKZ1WNqdWqyk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01悬赏计划详情一项新推出的漏洞赏金计划承诺向任何能成功切断Ring可视门铃与亚马逊云服务器连接，同时保持设备完整功能的研究人员提供近8000美元奖金。该计划针对2021年及之后发布的Ring</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=4&amp;sn=723385192090edad99ba667e05858285&amp;chksm=bcaead8a1295cc5e068195193ecc555a7e91ffe73e1ea6119701308060a1c8f59f0e156bede7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[生成式AI系统的13种进攻手段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX31XBQCktINacBbA9pNibicmGQ4Z6skOq4O1E5SNXtEPkuxicGndq9egkL6ck9uZnc2s14BKo0k2I3XvaJrdFkq6ibNyhNTsCPEejQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01网络犯罪新趋势：生成式AI成为攻击利器人工智能正在重塑科技行业格局，网络犯罪生态亦不例外。当前网络犯罪分子正大规模采用生成式AI（gen AI）升级攻击手段，实现更快速、更强力且更隐蔽的侵</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335405&amp;idx=1&amp;sn=3a4013cb1f4613376027e070628c1133&amp;chksm=bcc957330c0445ee4d3f66bd65310cb9d5596e2ceae9c31fd947c73730acc20c04b501c3222f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

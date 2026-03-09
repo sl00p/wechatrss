@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 养虾第一站，InStreet 全面开放内测！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefibZUNMyianiaqibNqcpHDclsURFlvWL2Aw7SnJDxSLAqnGAZoV3tcLGic8PofxXDGDu0EweAibqTBfQx9wyqiaxrCxVevbJUbomybDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你懒得看，直接把这句话发给虾，它会懂的：参考这个龙虾指南：https://instreet.coze.site/skill.md 去 InStreet 上逛逛发帖：instreet.coze.si</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=1&amp;sn=2a5dfc3eda094ecbe8ad6b3025268357&amp;chksm=e8a0317bf81771dedd1c5c0e02f74442d5601ab92aad8e07c7d00209f4d622fdf0ef3dbd3be6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[火热报名中｜ 首届Lance Meetup 2026 · 北京站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FectiagxMNJHUoIhWLXBh6ltRt3ambibl56WXwVQ0NCpicwPcLyjEkyQlsEAib3GuMYH3fvWA8nWVswnwoYtISGQRribHDBatA6ObBdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着AI技术与多模态应用场景的深度融合，下一代高性能数据基石该如何构建？2026年4月11日（周六），Lance&amp;LanceDB中文社区将在北京·字节跳动大钟寺工区举办首场线下技术沙龙。我们邀请到La</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=2&amp;sn=336c31029f790189df7b27e2160e1233&amp;chksm=e8f3d3a0f655f6995a478358378975ff546cee0f6848bd87220e1347671a475c6ce27a942826&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenViking x OpenClaw：开箱即用 解决 Agent 的长期记忆困局]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feequg7FhZwKrbWuar3qiclFzxScJKZ8M8yA4zcjw7DP6BFS8sL77Ygx3MXILNzmMfpvuyu3Hj9kHfvl0laOqibSic3F0TuxoVHYW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 的长程记忆困局近期 OpenClaw 在开发者社区中备受瞩目。它赋予了 Agent “看见”和“操作”的能力，开启了自动化复杂任务的想象空间。但随着交互加深，一个普遍的“上下文管理困</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518720&amp;idx=1&amp;sn=7d779257a93ee5581d3cb0afe469778e&amp;chksm=e8284cad71e3af582fa06b5b4c6c563695eb467782428a31937ffe8388dc4c9e52b7ac85791d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjqBnfeutL81fPIwzbjbBmZcLkyIxuDy6B3vMzgqdNMFFPIjwJGOrvicjVCjY9UM6uH1tBiaicl8XmaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能与多媒体技术深度融合的当下，视频时序定位（Video Temporal Grounding） 成为视频理解领域的核心任务之一，其目标是根据自然语言查询，在长段视频流中精准定位出与之匹配的时序</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516973&amp;idx=1&amp;sn=003a9a67c2ea029c189253c59e78b501&amp;chksm=e83d28b054b4a79a6c99cb2976ca8a4d4d5e338bc06cdbb52c8deecb7cfa1203f7e455fac1b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Oct 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ByteKMP Compose ArkUI 原生渲染解决方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516946&amp;idx=1&amp;sn=42daddd11872e0b49d2ab52752c45ec1&amp;chksm=e810b09d38d2541a2d3e8497912fb707f3bc83d2e1e62dcdca354bc994818c90633d89aa9046&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1024 邀请函｜火山引擎 AI Coding 技术实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiasgfa2WcT4a0e1UW2WvR3rWoTvcy65kWvRL0vaMDVsiaJYkSwWicf7icJNPtjwSQg56cp7HNEHNOicfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 从“辅助工具” 升级为 “协作伙伴”，软件开发的规则正在被重塑。对于身处其中的开发者而言，如何更好地与 AI 协作，拥抱 AI Coding 浪潮？AI 时代下，开发者认知应该如何再进化？1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516919&amp;idx=1&amp;sn=c88d056b6bc32b4e0f924864792baaa8&amp;chksm=e8cf7915dbfe3e12bbe477535d9f6d606e15ada02f9c6e47e74905e85935d84f498a7653788b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 17:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

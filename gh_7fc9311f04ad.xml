@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我们做了比你更懂 Java 的 AI-Agent -- Arthas Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wCIYXjC8ibAYv0Pnpb0Oc6PeR3gzzKP7BHkiaYyhQnrZOqlsrMmqGPx1JunhXunQTtNA6XPDEuBib8fyN0YibGcVm0mMOYIWK0MDk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Arthas 是 alibaba/arthas 开源的 Java 诊断工具。它能在不重启应用的前提下，动态查看线程/CPU、反编译类、追踪方法耗时、观察入参返回值、执行 OGNL、查看类加载器、线上取</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558779&amp;idx=1&amp;sn=b528bc344afbf76933f5b1b13041ff67&amp;chksm=e85b80d1c6a1f650ea46ded4ca4b8370c3b23e85184a7e456f655e87c593d46a97f691ccfad8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给“氛围编程”系上安全带：阿里集团 AI 代码评审实践与 Benchmark 开源]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xlCBcCCia1BNdQWAKMiakjjByXyLPZBiaGh8HTeQ4HQFiaOChmKnP9pgeP8AGyTYDibJSzmIfZjopynS74xSxhjibuZMEicXoto9t2s8/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文将分享阿里集团在 AI 代码评审方向“历时一年半”、“数万亿 Token 真实场景打磨”的探索现状，以及我们联合南京大学研发效能实验室开源的、汇聚 80 多位资深工程师进行多轮交叉标注的业界首</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558718&amp;idx=1&amp;sn=cdc0820c4421c05351328a5a5e145619&amp;chksm=e896c609934fc8b22abbaa7446faed33d0d4fbbd936026045f4bfb4875f7b281c284607df2dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ3OU2P4vkwqfc1xr1gia8nhic9f51oXr46Oo6Yf2csibZjx6pBibNX9VTO9JcicngRM2EDJDNiaezyksJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言这里我为什么取名为“个人Agent助手养成计划”，可以理解为个人Agent助手相当于你新招的一个员工，开始他可能什么也不会，双方也不太了解，而在不断使用的过程中，你慢慢理解怎么使用它，它也更懂</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556095&amp;idx=1&amp;sn=92c7b049328c8c051b4b785c9213ebde&amp;chksm=e80c6a5c16575a71e5b85d15472457ff43cd6173fa0fc9ba325465ddce1327392cb5e5102ea3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LlamaIndex 深度实战：用《长安的荔枝》学会构建智能问答系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKrEswAVdP6X1W1Y1PpEibKPpHms3HucLm6FibrGjF2L9YKzxeDRxXx6dSELAAr7RdPWdpUeibeYPtdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>读者导航大家好！这篇文章兼顾了 RAG 的科普与 LlamaIndex 的实战。无论你处在哪个阶段，都能找到适合自己的阅读路径：1. 如果你是 RAG 或 AI 新手（👋 欢迎！）建议从第一部分：原理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556092&amp;idx=1&amp;sn=f1b4672bf5520d929f5370b413099830&amp;chksm=e86e965e496a7503faa143701a901012679f12f4a5679bdc0ac413d80ec05c49d4221ea62b8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
