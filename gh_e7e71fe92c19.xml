@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1B2glGoicDS1zpOHpz4Rx6b80qluJn0mHyVqicdEmg6j7ibrUBgnWt59q7YmP27Tic51PY9LicuymF1DLpZkXgmeS5RR8dEMnexWy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2023-32233 揭示了 Linux 内核 Netfilter (nf_tables) 子系统中一个关键的 Use-After-Free (UAF) 逻辑缺陷。该漏洞的核心在于内核在处理“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=1&amp;sn=128b33964750a5d037c8e6e5bdd61483&amp;chksm=b01762ab0226085506d1a17c6f45901b134d7916785a2d11b7d86f2408e9c1ee42f209725864&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[问境AIST首发｜以AI治理AI，悬镜原创多模态AIST新品发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/cC2m1em2riah3gvusJyZEMDKDMLXr9eicH0VtxS5NY2yAf6Pghy7U9mEKI1hHDbibic8nSq75Jy7AicRZLY5M4ba6Z2vdIekwe6mhIBcx8UTn9nU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型（LLM）加速从技术探索走向规模化应用，企业安全体系正面临一轮全新的挑战：AI 生成代码是否可能埋藏未知缺陷甚至潜在后门？第三方引入的基础模型、开源组件和数据集，是否存在投毒、篡改或供应链风</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=2&amp;sn=86f52dfce91bc5c8125a30ba96608633&amp;chksm=b04b0bc779c56d9bb73efa144152dbace73437104c807aa6d7359a094601d9674ba279e8b94d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型BeatBanker安卓恶意软件伪装Starlink应用，窃取资金并消耗设备算力挖矿]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3UAwpDWcODAkvx4ZibAic9vib4VFzdm06DrxicGsngoTfc14SstsDE1oGN5rpyeAzxFPiaSGNDZmZcDxNP6uwAsibw8Lic2gLaXibwye8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款名为 BeatBanker 的新型安卓恶意软件被曝光，它通过伪装成SpaceX的“星链”（Starlink）应用，诱导用户从伪造的谷歌应用商店（Google Play）页面下载安装，进而实现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=3&amp;sn=e8c8d277afdcd2d36c9540e0bdd54c66&amp;chksm=b0d0b92d73b8965e464f02232ea4401bd8c1513f610306df68f984853182d37c2cbf4966d28e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[26年春季招生中 | 系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，物联网(IoT)设备已经渗透到我们生活的方方面面，从智能家居到工业自动化，无一不依赖于这些智能设备。然而，随着IoT设备的普及，安全问题也日益凸显。IoT设备漏洞挖掘成为了保障网络安全的重</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=4&amp;sn=4ef13d019b611249d05604179064f5c9&amp;chksm=b01eb1534411c331b091c22206adb3a2583394754e87a27c8da313f0533b4e77e9e2b5e52fbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 辅助还原自定义 VMP 保护方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3siaxWKVlYBBd1fpmwN5V6xsJq73QoiaF860zGibP0QUydSmhuNIvFm9JDfVh30iaiculwFPxUr9yTZibRyOicw49iaQMm7MdWS0WelVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>VMP（Virtual Machine Protection）是当前移动端 SO 保护的主流方案。核心思路是将关键算法编译为自定义字节码，由嵌入 SO 中的解释器运行时执行。传统静态分析在这种保护下几</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611998&amp;idx=1&amp;sn=a33d501c7e3619333d8c851518627443&amp;chksm=b033e0b4ad8c99dd0ac08fe7443d91ae3cbaa9422c9453b8693e121cabd8497a3567f1c6f421&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3vjbSb3EnzjzswumR5VYddoP3gQg56tI6RfNSt9ln0Dy0z7daeIicVATBSKqRRdeWWXE7O64ricCoPfbF4POouEo4Te5pgw8LQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>间接跳转这个高级混淆，接触了unicorn，unidbg这种模拟执行脚本后，发现这种特别适合对抗反编译器无法分辨的一些混淆，本文记录学习过程以及以京麒2024的drillbeam为样本尝试去去除间接跳</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=1&amp;sn=fc44c27ffd6e4d0765228ba895da097e&amp;chksm=b0c474c3478251223f8bf744288b87c4b6f12b4ac16d28e13c4be4cfaad24c2328de0c1adedb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[春节谨防勒索病毒突袭！看雪勒索病毒应急响应服务为您保驾护航]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G88kyu8wwVwCKJmAibKNGlbULavJ8LibpuPKk539Sjb7kyWpeZBibCQVBJymV3XbKLz3WPtTgbyWB6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>新春佳节，本是阖家团圆、安心休憩的时刻，可勒索病毒的突袭却往往猝不及防！假期期间企业防护值守薄弱，成为勒索病毒攻击的高发期，一旦遭遇文件或服务器被加密、业务突然中断、赎金通知弹窗出现，不仅会让新春氛围</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=2&amp;sn=2ff74fb9bef3d4e31a6e4f2b468d01bc&amp;chksm=b0b6d59f1d4704cfc96881a38729e9d3a76b75056166bcd770d2c75693768999c0665d1de89e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪兼职讲师招募：这一次，我们谈名利双收]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3wB62oeGyvRQ6uoWAFLHIGtsOrUU0iarUBeNmS4OquPAuD4dgGspuEg05RPWMUI3BJqeibjlLgHLtDYMjVXnY6uEUXkReywH3Wo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，暗流涌动的0day、愈演愈烈的勒索攻击、动辄千万的数据泄露……我们比任何时候都更需要真正的技术派——那些能在代码废墟里找到漏洞入口，能在反汇编世界里读懂机器心跳的人。而你，正是其中之一。看</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611113&amp;idx=1&amp;sn=bca9a517096681a9d112e5457dcc51d4&amp;chksm=b013d9aa09ad263112b454678ba009bb3981a8b9d7ebd12b62180cb03a6d994d221197e59491&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个 ELF 文件的运行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0MGcopG06TMYC29LNib90D4AZZErLpsiaZiaCGyQk31fbha2YDiaqWWPaWJKsUAESEIFVDJKcI0w9IMl45cdtGYmbkLy5Rab1qBibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章会包含很多项目的源码阅读, 覆盖elf 的解析, elf 的加载, elf 的链接。只在代码关键地方做注释，并不会直接总结一个 elf 包含了哪些信息，只是纯粹的源码阅读的记录，看看在实际生产</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=1&amp;sn=8fac5f1d178e69a2a2d497409e600d54&amp;chksm=b0844356918ac75f8049637525de0b418dd15aec652d8a2086b2eb813733d4cc53878174d30b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI写病毒首次实战！React2Shell漏洞遭“代码代写”式攻击，91台服务器沦为矿机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2WpdskhmWVFaluDwLdtLsAUwotZWtFZkwo0uG54ca2Xystiar7aDHGb6QsbDDPIziadkYzvFen05RPgFvmwlNjOibUrtCac6rPpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>你可能听说过“Vibe Coding”——程序员靠AI辅助写代码，边听歌边“意念编程”。但今天，这套开发范式正式流向了暗网。Darktrace全球蜜网“CloudyPots”近日捕获一例代号React</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458610783&amp;idx=2&amp;sn=b22f07373e8540d85dd62682cc5b01af&amp;chksm=b089fd9ff2b2a7ef8a9a46088f634d57f05f6fedd7f36ed00c2e8f35a952ff66d6e499bbb766&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[全网最细！OpenClaw本地部署教程和常见问题汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GFlVeyx6ibibbvuBuHicA5xZOBicEKVkhryMibM3UjkGF27bcwZdQZXpIWS9g9CAib8zoxE2b2xiaImvcB2QXJ6Bo1F61X69LDaAH0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇周末花了一整天在我的 Mac 电脑上进行 OpenClaw 本地部署以及整理问题。作为非程序的出身，加上国内环境问题，实现本地部署一个满血版的 OpenClaw</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694782&amp;idx=1&amp;sn=d48ab6ac92c3558598ab8d7405280656&amp;chksm=ebbb8c484cfe9a8d6f1c5ebe92e0bda734e0563f6dd4699f271265dc53a4543af86a961ca215&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，腾讯云Coding Plan全新上架！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6tDmHW9HHKI03FoKy1ZuibheHPxOSjMrcAnCicOIFpcseziaXgmzDgzCIqx37t2EBphnILGeoPVccyhSqXVH90m9kMEiasicLG0vkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上新！腾讯云大模型 Coding Plan 订阅服务全新上架，现支持 Tencent HY 2.0 Instruct、GLM-5、Kimi-K2.5、MiniM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694776&amp;idx=1&amp;sn=050b6d416bd1f90ccd89dd1484a591c5&amp;chksm=eb669657952d5aa6b3ebbc0956743af4dc02a402226238e7582f28755546829847237c0a0122&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96Tw8Y5gEAlewFrGlDtoGZs7bx5XDQ8EHtSoIHfwtDATfhzjDicpfWLBbxW006hGgzVCCwrlDOuqzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 LangChain概述2 LangChain使用之环境准备3 LangChain核心组件之Model I/O4 LangChain核心组件之Chains5 LangChain核心组件之Mem</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693109&amp;idx=1&amp;sn=fa97420d453a5736db39937b725ca12b&amp;chksm=eb3962a83cdda355be3c6a729c063b63c288a8d9a88e483f530a1da3ab3782d5e89b3b258496&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent全面爆发！一文搞懂Agent开发核心链路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97xxBnxOESLsT50U66W2y6Ib55VScHe2gmfwMwkk3GX8CyiaEnIEzndTRanglUj1fOL0KBcGG32kHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 Agent介绍2 Agent 的核心演变和核心模块3 怎么基于大模型搭建一个Agent?【开发视角】4 Agent如何评估？当数据自己会思考，当代码拥有自主决策的能力——从Workflow到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693098&amp;idx=1&amp;sn=57f0ea666f7c32a829e72202d00f447f&amp;chksm=eb59fcd25d6cf0e284db6ba305dc0691fdea9b2241ade2d615ed40424a98453e4fd26b513aa6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

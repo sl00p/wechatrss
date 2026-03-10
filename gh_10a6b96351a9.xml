@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw安装后，必须先调教几件事： 1. 安全规范设置； 2. 人格系统设置； 3. 记忆系统设置； 今天来聊聊记忆系统。 什么是OpenClaw的记忆系统？ OpenClaw有三级记忆系统： 1. 会话记忆：存在内存里，会话结束就消失； 2. 短期记忆：存在磁盘里，定期归档； 3. 长期记忆：存在磁盘里，定期更新； 会话记忆存在哪里？ 在内存里，正常情况下我们看不到，但OpenClaw把session内容打印出来了，就像日志一样，放在sessions目录下。 这个session文件，存的什么内容呢？ 1. 我们发过去的消息； 2. OpenClaw的思考过程，工具调用，skill调用等任务的执行过程； 3. OpenClaw给我们回复的消息； 短期记忆存在哪里？ 在memory目录下，以日期为文件名的md文件，例如：2026-03-10.md 这个归档文件存了什么内容？ 记录了当天的重要事件，过程笔记，TODO等，基于她的人设，她认为重要的东西。 OpenClaw怎么知道，哪些是重要的事情呢？ 需要我们调教，告诉她，哪些是重要的。 长期记忆存在哪里？ 在工作空间的 MEMORY.md里。 这个文件存了什么内容？ 里面记录了OpenClaw最核心的认知，例如： 1. 我是谁，她是谁，我和她之间的关系； 2. 我们的偏好，风格； 3. 长期的目标； 4. 进行中的任务； 5. 我们希望她最核心记住的东西（重要事件，教训，决策等）； 长期记忆里的内容是最核心最机密的，它只在与主会话（就是与我聊天时）加载，在执行其他任务，例如：群聊时，不会加载，避免泄露私人机密信息。 长期记忆的更新机制如何？ 1. 放到心跳机制里更新； 2. 放入AGENTS.md作为核心流程更新； 3. 起一个定时任务cron更新； 更新流程是什么？ 1. 读取最近几天的短期记忆； 2. 选出值得长期记住的事情； 3. 提炼后写入MEMORY.md； OpenClaw怎么知道，哪些是值得长期记住的事情呢？ 需要我们调教，告诉她，哪些是长期要记住的。 安全，人设，记忆。 这三件重要的事情，你都做了吗？ OpenClaw破局，欢迎来玩。]]></title>
+      <description><![CDATA[<p>OpenClaw安装后，必须先调教几件事： 1. 安全规范设置； 2. 人格系统设置； 3. 记忆系统设置； 今天来聊聊记忆系统。 什么是OpenClaw的记忆系统？ OpenClaw有三级记忆系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980765&amp;idx=1&amp;sn=68a38f1c826c3bbe3f6d58e2e812e035&amp;chksm=bce816e0b1675be3d205374223417795c615547f4bf1a49e90f8396e6d39da8ebde41263c9a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 20:30:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[收到工资1002415.13元，爱你华为！！！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXf19jTx8dhhXJDibxxzW7hyDfOmgnu5tH2rshA84vakrnbMe1Qg8NHmwHttO1gpAnuZ4gYYliaoxHkialIxzUaeVBzh2M5NLHavY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨夜，一位华为员工从传统开发岗成功转岗到算法大模型岗，在网上晒出自己100w的工资条并大胆示“爱”，在行业内掀起了阵阵热潮。如今，这股强劲的AI之风，终究还是吹到了后端领域，既是风险，也是机遇。 传统</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980743&amp;idx=1&amp;sn=ad40de30c66446bb1dda058d8560e4c4&amp;chksm=bcbf2a3eb6ea4639da8f3c8c83363cb75b7a473f2c5f4af33a41609ac583892bcc1d7bfa8c76&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOwCFReRmaeeWQ4jxwLlN0CkC6jbjb1mjgHGPEamWiby9EVeub0bpT0CzFcoZ4rbPUmk0vfMOAYZ8zQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题：很多程序员都清楚，大厂干不长久，可为什么还要抢着去呢？https://www.zhihu.com/question/827750075【回答1】程序员有血条的，大厂被裁可以去中厂，中厂被裁可以去</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980325&amp;idx=1&amp;sn=ae07742454432e3e89f8e4e08fa517a4&amp;chksm=bc7fcadf068dc633965bfb77e010dfc9155dc04bfc0cbd21310a58be6870102c99601822b068&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[聊聊我们的故事1：稳哥的技术笔记]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOya58okKH68rq7icIDGXTFetHJCY4A5CGjlegJDtJlnGoO5YyPKntmRdTmy9Z73dew5iaPibN0JONxMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>稳哥的爆款，欢迎关注最近技术圈出了一条10W+，来自咱们行动营一期的优秀学员，稳哥。【1】名字的由来稳哥在星球里非常的活跃，半年下来，已经沉淀了好几万字。行动营一期内测，他是最早报名的一批。他最早给账</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980323&amp;idx=1&amp;sn=382bfad30e13636ff71c037ae7c4f266&amp;chksm=bc1fc2045f59a2525f6ddcd8d55bf787259b0b7409a1d598f75f87422291b611a15d80828330&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

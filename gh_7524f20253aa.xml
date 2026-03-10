@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw安全公告激增，暴露GitHub与CVE漏洞跟踪体系间的鸿沟]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX12ZOuxfpVaPYP3SunLOKdPczOT6Y1LQuS4h5fEDpEmrA5C2FSwyezyhwUTnn94ASN79WORjsOzDpRhdDOex3rolLEuMtkCfPc/640?wxtype=jpeg&amp;wxfrom=0"/><p>自托管AI Agent项目OpenClaw在发布数周后便成为GitHub星标最多的代码库，吸引了大量开发者社区和研究人员关注。但没人预料到，其快速增长很快成为全球漏洞跟踪体系的意外压力测试。Part0</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335951&amp;idx=1&amp;sn=6402bab4c396a2bc6ec0f20638a51070&amp;chksm=bc65955f8f0bb26a48eff90dc65e1bbe51b55098010e387e2a1fa134b86e596094aec2acd27c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:00:45 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[问境 AIST 首发：聚焦AI原生安全，悬镜原创多模态IAST 新品发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1gduT7iaicZWtO76OSkz4l5QT3v1u8nt9Hnpfz79EevHBsnj2jaM0uHickjzYFlb4sQ0MyJ4YZVvV4JedGTDaYcc1hmwREan4Eics/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型（LLM）加速从技术探索走向规模化应用，企业安全体系正面临一轮全新的挑战：AI 生成代码是否可能埋藏未知缺陷甚至潜在后门？第三方引入的基础模型、开源组件和数据集，是否存在投毒、篡改或供应链风</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335951&amp;idx=2&amp;sn=42fcef35c78cbe67dc3a84240024e9ed&amp;chksm=bc8576969de8038718555cabfb4799fc8c1f43de97ff170475b6f8cba19eb43df23f00f64b8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:00:45 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Kali Linux推出本地AI渗透测试方案，彻底摆脱云依赖]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX10WbMS2dKkYNJlQuEkwic6DicEicCUyycMspJs5dKia4ibUvLLJAFopbCP4TjaYjpuJWCBUMj9W7yFDU8VI2q34c5y1EGib7DY6OoMo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 团队在其不断增长的 LLM（大语言模型）驱动安全系列中发布了新内容，这次通过完全在本地硬件上运行大语言模型，消除了对第三方云服务的所有依赖。该指南展示了安全专业人员如何使用自然语</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335951&amp;idx=3&amp;sn=87c174b8c6d577c532f129fc6793fb63&amp;chksm=bc50495660ede1292d825d60c18c3231de60c8c26733b0e88f88d756255836d5a3759bc836c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:00:45 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI安全护栏对防御者的束缚远超攻击者，加剧攻防失衡]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0jAZv958Ln7mxTXliaUiaV6bmoe5IBiarcVnmDf1Se6GMoiaURicEutOGfnH5OBRp7uj5ziaPa5licsibkKttQBX399KKvOH37eok7ibKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01安全团队遭遇AI护栏困境当前安全团队正被敦促采用AI副驾驶进行威胁建模、钓鱼模拟和安全运营中心（SOC）工作流。然而，许多广泛部署的企业级AI系统在面对模拟真实攻击行为的提示时，往往难以支</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335951&amp;idx=4&amp;sn=a8148e067350bc9158e8f3d20e9eabfa&amp;chksm=bccde97c5050620364a6a8daa32ba9ae8cf629dc5e21a2bb0d846a3f3c64e7c53a5490e75bf0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 18:00:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[伪装OpenClaw，恶意GhostClaw大肆洗劫开发者数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yrib1noJFKYiboQGUnh3Fk4DZUEgQRZyiaTK0AGc2CLDKHqwRibxIpHpaHCHnaMufFTsr8BZtowbLwfr9JibekGoep9A3CpY2eosU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意npm包伪装开发者工具近期出现针对软件开发者的高危恶意软件活动，一个名为@openclaw-ai/openclawai的恶意npm包伪装成可信开发者工具，暗中窃取凭证、加密钱包、SSH</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335912&amp;idx=1&amp;sn=f7c9c36f910a122eb9bb727adcf9e89d&amp;chksm=bc00ab074d1626a8f6101493ad15f600aa82645509becf5e134b5da6105bd5016e0af0ba2f2a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX24PLtepmVyRPU0bcTzEX6P2lTpdSBKX1k1GibG2r7raRuVniaPQ1vQz3CQMpNYpjrzmKAqcfJX1TOoSt39U4OcXVjA6SS4TD9DQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 已正式推出原生AI辅助渗透测试工作流，安全专家可通过Anthropic公司的Claude AI输入自然语言指令，这些指令将通过开源的模型上下文协议（Model Context P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=1&amp;sn=aa6cb0d69a88d29ad0c00c917bc49c3d&amp;chksm=bc0180b4285da1ab3027aa3ac218fd1d386ec045bceaf119479419f3e42fc40d82333f13c954&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软扩展Copilot数据防泄漏支持范围，阻止敏感文件处理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1sWUONlO8KnIG1VbqxEgG2GnP2wqnYjia3A5Zs7j51bS423DRsZsj4IicWnFACTpfZqUcB7LgSUJ3dkQiahWn5sTaS6aLficpFt9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软正在扩展 Purview 数据防泄漏（DLP）控制功能，将阻止 Microsoft 365 Copilot 处理所有存储位置（包括本地设备）中带有敏感标签的文件。这项变更旨在弥补企业AI部署中的关</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=2&amp;sn=d37e07d190412952f2b2c5992b33a3a0&amp;chksm=bcf5be3b39f7dd82b0791fe2d1ff187cefe36efbbcc7f1ac61816f3d3c3727c5417c39eff508&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何通过主动防护策略最大化提升DDoS防御能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3mbOLAMOKg7Nr6ZeFyicI0NLUCfxcGicFAV2quCKbziaPJfW4OWJHreibAemYmIIo1l2MysvUPp1hlfWjUcP271rkO3tlLzYSvDg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象经营一家餐厅时，有人故意堵住入口导致付费顾客无法进门。DDoS（分布式拒绝服务）攻击原理类似，只不过其目标是数字基础设施而非物理空间。网络安全情报显示，2025年DDoS攻击量级已从千兆字节跃升至</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=3&amp;sn=8c74fc0e7557195abbd57cf897c9212d&amp;chksm=bc870e689f1de660b19c73757df7afe4ceaa68940ff20e2543d425ce0a3652d56f54bd44c87f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用Apache ActiveMQ漏洞获取RDP权限并部署LockBit勒索软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1VxySibFQE67y7ZtUIMrqWsP35No0SURj2PKxdDOroVyLMufx0cDKicd4hUONNeE19Tia2IsKKic2TVo7ibCz4MTbqNI1GPw32Djhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache ActiveMQ 存在一个已被攻击者积极利用的高危漏洞，导致企业网络全面感染 LockBit 勒索软件。攻击者利用 ActiveMQ 消息代理中的远程代码执行漏洞（CVE-2023-46</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=4&amp;sn=f7a94bc3eebc340c8b0f0c335ffb3a5f&amp;chksm=bc83d393fa699a12f98934fa74ad5966295f01618267a29c1cf7649b8308807ec6bf12b1ffa6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw最新版本发布，安全防护全面升级强化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TWDBW2m8eohPUycZraNiciaN7wt3WiatmhD03OknDC1WLZGV6BmzQICrem3I6icBSGBUrQRJ2uGYiaDy82wMkTUPL4ias6C8icDr4XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01安全强化升级开源个人AI助手OpenClaw（GitHub星标超21.5万）正式发布2026.2.23版本，重点强化安全防护并集成先进AI功能。本次更新修复了多个漏洞，新增Claude O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335430&amp;idx=1&amp;sn=cd5421bf0d81d2dbca5b0db3d4577a7c&amp;chksm=bc41cb769a28727f75896842966dabde177ac1a88ce1f4ce15e3367517cc40656a8e6171c256&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

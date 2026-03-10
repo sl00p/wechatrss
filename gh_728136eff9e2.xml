@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我用Claude Code搭了个四个AI的团队，居然真的能协作开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcOtoPrnX3SC5uTakmpVLTc13SuC0baOiaUAp6Oj4EP0cq8eOgdHpIUp2hKmhPnUlfqIN8T6trZ4pOyDV6r8ib1O6645abSuZCD0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝这是一个纯粹的技术探索项目——当我厌倦了在单个AI对话中切换项目经理、设计师、程序员角色时，我想：能不能用Claude Code搭建一个"虚拟团队"？让每个AI专门负责一个角色，通过文件共享来协作？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547795&amp;idx=1&amp;sn=43c9c2452cf13ebf4172743a4b736437&amp;chksm=fd7a94e87e1bfb044bffa5a8f20c597f1bcdb6f391dae7076a2b5ef0b5d38c47438c5d13a33b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当 OpenClaw 内置 LanceDB：为个人 AI 智能体打造超强长期记忆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcPic4PQKMpicNtPB4QFyWR1BNj6ThVcIZh1ShF2sJHF0k9naTBFMycWkMeia7InqCOoRDfOTSbYMTianhyWnpiaFDRB4CSOTQVXd5UQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw （原名 Clawdbot/Moltbot）是当下超级火爆的（截止目前Github Star数 161K）、开源、可自托管的个人 AI 智能体（Agent）框架。其官方唯一实现的第三方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547783&amp;idx=1&amp;sn=a3bbe44b4bc29e6a520b22b562df47f6&amp;chksm=fdea219f58e624a26a947d8ec884423f734442263407c840b25e9e9769c8b325feaadf3e393b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibubpo99dGwoYtVsX2RkBqDu5j5xy28Z94ldEganov6VfmVgmGic1y5dloY3HZ6czeh0bdKeOfNSOhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Konva.js 多维表格系统基于 「Konva.js」 实现的高性能「多维表格系统」，支持大规模渲染、分组管理、筛选与排序等复杂功能，旨在构建类似腾讯文档 / 飞书多维表格的交互体验。目录一、项目概</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546641&amp;idx=1&amp;sn=609efca91be326bc3bace88344d07001&amp;chksm=fdae6fa24586483637c2810490b4c28bd35f6985e5a387ecc607904e4be0532af451e0b93850&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[四年！！React 你知道我这四年怎么过的吗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtzoO50FdFP6yvicf56geOEdxUia4EibGaaU15BEia26JncTlzcJJo1ic9pVrbh8v19zKHRYap1n9MBBBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击关注公众号，“技术干货” 及时达！好事连连React 脱离 Facebook，成立基金会（以前 React 被 Vercel Nestjs 夺舍，更新的都是无用功能，对于开发体验毫无提升）Reac</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546627&amp;idx=1&amp;sn=4380b33c3c6378cff8e1a3bd85cc60f4&amp;chksm=fdfd4a9180ee3bdfc9d20438e11a06ac0df3ec0c4ecf0e37c3a73917d46c2c2e91233a80bb03&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[警惕！“养龙虾”风险，一键给你的Openclaw做安全体检]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906dgJicXh8SW6eL6FnKzHVPeGnme8N9U2a676LP1d7c4cQxysggZt3gudYE9ticV9mIibG6fJE4v0Wx6syoHIBF0LNdyS5eRmYkJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：朱雀实验室 nicky2026 年初，OpenClaw 在短短数周内狂揽超 30 万 Stars，迅速登顶 GitHub 开源榜首。越来越多的国内企业也很快跟进小龙虾快速部署，让更多用户第一时间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800667&amp;idx=1&amp;sn=829e2103ca6256fcb3dcec1936e84b74&amp;chksm=bf445b249417ec2a411f7de8b688e0197349c8a95f5694d1bacf72b40cbd9ab67bbe0682f4ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Mar 2026 19:46:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[玩转OpenClaw，你需要了解的：核心架构、运作原理、Agent部署步骤]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9051SV2ogrkzwyymicymqlYvHYAA3Ga3giahhhlWavHuBgLk8NMCk8lsandnbA2ibDl7riaXtl2kmeoicT2n4hjCTtDVXTtRbA91Xc9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：冰以东建议有打算深入了解OpenClaw的同学优先看OpenClaw源码和官方文档，目前该项目正在高频迭代中。本文重点从核心框架、通信机制进行介绍，争取让你看完本文后知道OpenClaw是怎么运</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800637&amp;idx=1&amp;sn=ea01e0f19b2749deda2f6ff67ab6f104&amp;chksm=bf461d20108021478916cc468dd1d8d0cd037735d6ee329525ccbbbd7b71fb147f8d4c88c88c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvav1t1pv3Xr47R5sEHwGEicKEFpwiatyPhxDKVPUOAic4rO0jYicpdju7VLryXumaJ7rY9xP8X0d2vIAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>原来改一行代码崩了整个项目不是段子，是日常！某宝上月销过万的DeepSeek本地部署，其实自己动动手指就能免费搞定！以为当了程序员后就能不怎么沟通了，结果发现最重要的就是沟通！大家还有哪些当了程序员之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796156&amp;idx=1&amp;sn=345ccdc94fb0228a1d892ca9daad0a7b&amp;chksm=bff7ceb37822ef114a2d346063f6bdf26f32fe93c14941f9371eaf0268bd5921782b2cacbb5d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Oct 2025 17:50:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[24小时快速入门大热语言Rust！学不会来找我]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvatvwLEbpbUjYCA91icp5YIWLU1jZhesHYJTcC2KQVlABHYE0NicyQPFR4r3TQJZqzSXSuTicl0KrgU5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：richardyao最近几年，Rust在业界的使用越来越多，本篇文章从Rust核心语法等基础知识入手，进而详细的介绍Rust语言不同于其它语言的思维方式，最后通过一个实战的项目，带大家快速入门R</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796130&amp;idx=1&amp;sn=374bd0d6901ae1971b36dc106b4903e5&amp;chksm=bfee587f0da01b273bd99e9183f7662c4eda79626057a06f9f7795e526459622d92127b25582&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
