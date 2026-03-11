@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从“截图大法”到真实交互：B站专栏视频卡的技术革命]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6STfBuAHx1VjysAsTFu6kkJFROQQcFEvmKgOwQs97O2H8YaHKiaVJwbIwTBfCfgAfQZLNeeibXDqUMd2fQZic3kpomjMSETfZTFt5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景：从“伪造”卡片到真实交互回望 B 站富文本编辑器的演进史，我们经历了一个从“无”到“有”，再从“有”到“优”的过程。在 UEditor 时代，我们解决了基本的文本编辑需求；在 Quill 时代，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504106&amp;idx=1&amp;sn=7aaeea54b277e360432ccdf05df2e274&amp;chksm=cece4614f7f473e736366716587be82d44526ae39bc12321a717dd6e5979a26f39955cce0b2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[游戏数据分析Agent的全栈架构演进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STrPPOOol3H6cRuB461hF6ab29kJMb8zgkPCZVaTBRdNzEatVDplwNHyaUicA4RZ5LeR79osetYcXLcfQBUiajHTGddHoHbUT2cM/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言写在前面，由于现在LLM生成内容千篇一律，作者尽量自行撰写核心内容，LLM仅限于润色优化，争取把整个开发迭代历程完整呈现出来供学习交流。一、背景与挑战游戏业务随着持续深化，各个岗位对数据的诉求也越</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504028&amp;idx=1&amp;sn=cb78fb155cef1df7bc5447a34b74fab1&amp;chksm=ce74037e35e618457479846d2dbef35f5e50e054151f2dbd6304e1302695054f8361f5fc86f3&amp;scene=0&amp;xtrack=1#rd</link>

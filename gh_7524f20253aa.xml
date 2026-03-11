@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[斗象发布首个跨平台安全Agent员工CowboyClaw（安全牛仔虾）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2zIicDjuPibC4XOZ5B48NtwjAJk8RTrxB5HgU56UcRibJFicLsuzrSO7MicEfOkq1HU7O5G3KRMibHDT2ibH3jqnKBw7ntj1e59vIvWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下安全运营工作日渐“牛马化”：白天当“漏洞筛子”，眼睛瞪得像铜铃，从一堆告警里扒真威胁；晚上变“服务器保安”，熬夜登服务器查配置，对着CVE详情熬到凌晨；更别提那些雷打不动的日报、周报、月报……这些</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=1&amp;sn=b14a8fac929c0d0941ffa8557afc257c&amp;chksm=bc526fb4369c5aec30ff88df2eedddcaf385416f964c41af4f8a2286cb2208c089d4d41265aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[恶意Rust组件与AI机器人劫持CI/CD管道窃取开发者密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ia9YtibXLQbXZKQXNmZiaUIltrfzRf5ElJBxic0Fzc0CWS1JogrXvhoA5JKrqh9DjogibYojs1NVFoZ2de63ictMBEm0wh7cagibuA8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意Rust组件伪装时间工具窃取密钥网络安全研究人员发现五个伪装成时间相关工具的恶意 Rust 组件（crate），这些组件会将 .env 文件数据传输给攻击者。这些通过 crates.i</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=2&amp;sn=fde29edd0f3535e045658d84058e484d&amp;chksm=bc9f13df7a64a26fe4dc122e9f2d747352a44f50a4a9f499bbe8c6ec5bfb118bcc595932c87b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MaaS VIP键盘记录器利用隐写术窃密，内存驻留攻击威胁企业数据安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Coia6Q5eB6WicF8wJdzpou4Ufib1dpD7oN1ulm5GpKf6f5w9Bgziblzuzxx0IbWIuR0pnkt6hlSsibpDpLS3Jw4xvWSmaW1qVloew/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型攻击活动浮出水面围绕VIP键盘记录器工具构建的复杂凭证窃取活动已对企业和个人构成严重威胁。与传统将文件写入受害者硬盘的恶意软件不同，该键盘记录器完全在内存中运行，使传统安全工具极难检测</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=3&amp;sn=67aa57b2cebf22ba902063f0d3e36b4b&amp;chksm=bcdbae3e7667e07ab55fbfa29934606cbbca916253f0d569fa5a1730b68991c858fb217c477f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVE项目资金危机解除，全球漏洞生态重获稳定]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1NSbQ79xcJ4BRXcqFdiaFOKPP5Zw1POecOz4HZKZRp99M7MgD2iaWWdmQToLwLxYXCu3B6epne45ic3marOMzM0iaMf8M8icIkkPXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01资金危机悄然化解去年险些导致全球漏洞追踪系统停摆的资金危机已悄然解决，网络安全生态系统的这一基石避免了再次突发中断的风险。网络安全和基础设施安全局（CISA）与MITRE公司重新谈判了支撑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=4&amp;sn=ebe09d1fa45ed7c691ce4aac04e7bce4&amp;chksm=bce430ecf75bb5cf41a9ed7766a27fc2dd34c989d3444387754e67d18e2bec70b2d24b50ec7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw安全公告激增，暴露GitHub与CVE漏洞跟踪体系间的鸿沟]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX12ZOuxfpVaPYP3SunLOKdPczOT6Y1LQuS4h5fEDpEmrA5C2FSwyezyhwUTnn94ASN79WORjsOzDpRhdDOex3rolLEuMtkCfPc/640?wxtype=jpeg&amp;wxfrom=0"/><p>自托管AI Agent项目OpenClaw在发布数周后便成为GitHub星标最多的代码库，吸引了大量开发者社区和研究人员关注。但没人预料到，其快速增长很快成为全球漏洞跟踪体系的意外压力测试。Part0</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335951&amp;idx=1&amp;sn=6402bab4c396a2bc6ec0f20638a51070&amp;chksm=bc65955f8f0bb26a48eff90dc65e1bbe51b55098010e387e2a1fa134b86e596094aec2acd27c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX03ib7tocQre1RPejwYdwSNyOYia68eKibzLoJ1SeR3qf5s6gyYuvu8g92DM3SMXPJIuUvMmeOhtan69dZQ47QL3xqcWiaeXzGQgj0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 公司开发的 AI 命令行开发工具 Claude Code 存在严重漏洞。攻击者可通过利用项目配置文件实现远程代码执行（RCE）并窃取 Anthropic API 密钥。Check</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335523&amp;idx=1&amp;sn=2d477c60015bdf46cdde7579411e8e36&amp;chksm=bce936f8908662dfe1d4f9dd7e77986b6c8e786b88a6c7be6d31ffd9e14c8c490a822534d95c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌API密钥通过Gemini静默泄露隐私数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3d3ibnia6xQYv2KlwEfOlWSMjFKz19t6EOLpgNP60MAKxiaDaVW5ibjRcmyntwqEiczbAFgtYLL4egwW4QzxX60R0UM4X5zK1nZyyk/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌云API密钥存在严重的权限提升漏洞——传统对外公开的密钥会静默授予攻击者对Gemini AI端点的未授权访问权限，导致私有文件、缓存数据和计费AI服务面临泄露风险。十余年来，谷歌一直明确要求开发者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335523&amp;idx=2&amp;sn=6278fb4f41a1d471c2cfc2db13bd51df&amp;chksm=bc4e6ed85df319c51027fed8cc020e9f0dc9453f871cffacd79c85a6408c4d932a58f650ae55&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025年1%的安全漏洞被实际利用，却造成绝大多数网络攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX13XvMJqZvr10a3gFWoQiaDnrfSZQX8yBqH2vTqqvU8DNQypBw85KHxUHPGOicI2eKqFic283nzmQf7mPTKckNczWibJnRZ7tFAxVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>虽然每年报告的安全漏洞数以万计，但最新调查发现绝大多数漏洞从未被实际利用。相反，一小部分"常规攻击目标"漏洞造成了几乎所有的破坏。研究机构VulnCheck今日发布的《2026漏洞利用情报报告》详细分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335523&amp;idx=3&amp;sn=0eb9db9b0d0a09803c993a405d7bc381&amp;chksm=bc97b6f557d2f7e9da6fea2aee8cc638363dce3b9a23a3a2bde4f50cd2180a93e0a3d9afbe17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网络犯罪组织SLH以每通电话500-1000美元招募女性进行语音钓鱼]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2fcRGD8eib2UZNia3kSjuPyzf1VTBzhAZfMhkrwMnmeqGoGsL1RtElVfC1bicb6aaQiaeS3y9OZortSRxQmvHL8xMhmQziblw1kiclk/640?wxtype=jpeg&amp;wxfrom=0"/><p>臭名昭著的网络犯罪组织Scattered LAPSUS$ Hunters（SLH）正通过经济激励手段招募女性实施社会工程攻击。威胁情报公司Dataminr最新报告披露，该组织以每通电话500至1000</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335523&amp;idx=4&amp;sn=a2001a58d40a04e16ef51a5a824099b8&amp;chksm=bc8ef06d6167850230640ee17ed778e46e6cc4cacaacd1e0c30adaa56b65080b9b92bfea7a44&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kali Linux通过MCP集成Claude AI实现渗透测试自动化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX24PLtepmVyRPU0bcTzEX6P2lTpdSBKX1k1GibG2r7raRuVniaPQ1vQz3CQMpNYpjrzmKAqcfJX1TOoSt39U4OcXVjA6SS4TD9DQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 已正式推出原生AI辅助渗透测试工作流，安全专家可通过Anthropic公司的Claude AI输入自然语言指令，这些指令将通过开源的模型上下文协议（Model Context P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335476&amp;idx=1&amp;sn=aa6cb0d69a88d29ad0c00c917bc49c3d&amp;chksm=bc0180b4285da1ab3027aa3ac218fd1d386ec045bceaf119479419f3e42fc40d82333f13c954&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

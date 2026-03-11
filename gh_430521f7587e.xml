@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当AI开始给Debian提交代码，开源社区突然不知道该怎么办了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXbI6CAiaNXbaY7aBqGzOCNQy18OH74ibUAnJw6tKlSsguwxG2g80qibSHy5vKEQIAcwdnpEt5JXGicdJC9icXxKrlGftG73yo7vVYo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，开源世界发生了一场非常有意思的讨论。全球最流行 Linux 发行版之一 Debian 背后社区开始认真讨论一个问题：AI 生成的代码，能不能提交到开源项目里？事情的起因是 Debian 开发者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237745&amp;idx=1&amp;sn=0e7db5fd28beb3446ae7507d41841b18&amp;chksm=bf0829f734ae3c7a0a988560132c4a24caf10cec143122552cacfeaaa1f06533dd3a88d92dbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 12:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenTeleDB 征文精选｜我花了一天时间，拆了一下 OpenTeleDB 的 XStore，到底解决了 PG 的哪根老筋？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUk4pOWGrzUx3VpOfUrguVdsCJnG95fLuialM7BJkgiaYvQaFKaduG4Q9erUibPvrTaFnVozTfxrGaCwjbGgCxbRp5fxt7SZEm6x8/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenTeleDB 数据库线上征文活动优秀作品来袭！本篇为精选文章，分享实战经验与技术感悟，敬请阅读。这两年数据库圈有点像 3 年前的云原生圈："分布式"、"新一代内核"、"重构存储引擎" 这些词突</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237745&amp;idx=2&amp;sn=cfea69b48c446d840c04f076f8e630fc&amp;chksm=bf2189338764ad9f277b3a04265bbeb827baa848dae204a4e994569ec96ef578903815275cc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 12:09:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今天你「养虾」了吗？5 分钟配好你的 Gitee 小龙虾，让它替你干活]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/yeVFdDfsr5gl5JR0Cpib9KZcC5UhTRTYqb8cuHHauMaKctz9whLjYaJ02kD4apfoDZqQhS4CEf7VP2yUhyEpkDnRJn19xMSicuY2xKFUJic8KY/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近开发者圈什么最火？99.99% 的开发者都会回答：「养虾 🦞」！在本地跑一个 OpenClaw ，给它装上各种 Skills，通过即时通讯工具指挥它，让它替你干活。OpenClaw 和普通 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237716&amp;idx=1&amp;sn=7b2f1117a1653dba61bc86f32d4f747b&amp;chksm=bf10975f6d8e0d0ca469515e56ce295cbe6f47b3d29d90f76363311a0900303f5f06a48d701e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLiaict4L9bRwGTxgc7R0F15LONBeHykDLLXRclp3PXqy5XdKltbWk6oUibgsIpHojJtBoOKITCoW20vw/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI 正加速改写各类学科研究范式的今天，如何让更多非计算机专业的学生也能走上 AI 工程实践之路，成为摆在教育者面前的关键课题。由北京中关村学院发起的AI 软件工程社区项目诸葛菜（以下简称诸葛菜社</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237273&amp;idx=2&amp;sn=6f982cb29351195aded7b02849c461bd&amp;chksm=bf5e1df6b8c57d896c010328449865f756ecc0e70076dd2c24297059add61ec395658beebcaa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 16:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code的代码安全困境：插件机制齐全，却绕不开模型幻觉]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/D8QwF5BXiaLhpaJicVgVLdzGuLCF1ObjJ9aDHzvFOJAS9dvafuNpeWYU8vREpepPCwU9NhQIykbauTZCNImic7wIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 正在尝试构建一个插件化的 AI 安全体系：钩子机制、技能加载、上下文集成协议（MCP）等模块一应俱全，结构复杂度在同类工具中颇为罕见。Gitee CodePecker 团队近期</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237237&amp;idx=1&amp;sn=1a0fe8e2de02fe995e84b914f3e18a2d&amp;chksm=bf7acc44fabcf28b6195a92102a0cf34bd45519511bf155d4f6abf86666b56e037d7a10fdc7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 16:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 平凯数据库新品分享会议程官宣]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/UpAsF3LicVxpz3abKBXksEKg1ebGgLF3Hia3oKdVBdibqUVeyllfIUmTbubWrzHhZPw47MZzSAtOzaKUwR4IEdlgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>「2026 平凯数据库新品分享会」议程来了 🎁 转发有奖 第一步：点击预约直播。第二步：转发上方议程海报或本条推文至朋友圈。第三步：点击阅读原文，将预约截图和转发截图发至活动帖评论区。即可参与【限量款</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237237&amp;idx=2&amp;sn=336e3e661dfdc246397cc0683b47a75c&amp;chksm=bf9c3a8b27d7bb62a6fd2892c824c3476bb6239c3fdb512bd48f67427ca15d6d62e3268bc1e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 16:06:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

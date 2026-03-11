@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[实战还原 V8 bytenode 保护 JS（V8 字节码分析记录）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3XAiaib14oJa5Llv5vT5qQeeKAazWqGwalov1C8KVSzoO4kksum8BHicwOLriadLE1DpTbntGYNicPTK7uSoplUSIlSEvgK2Qr1jxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>拿到一个需要逆向分析的 JSstart.js。目标环境：Node.js：16.14.0对应 V8：9.4.146.24-node.20（flag hashed0ab240）核心代码如下：const v</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=1&amp;sn=0a4bd1a14ff9503b9b8c48dfd91e7bb4&amp;chksm=b083f0b211e6d8367b5762cfcc69af92d8fbbbc0e42a9bb314280e9cea3db4ccb9b428a7669e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[招募 | 安全测试工程师（可兼职）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1NEbUgSPywN9gKrsB8zv9WHyWKiafChbbJaKZn3GicOFfoI7316VIaslTfRpglv2puyE5hREZPD2P5qkN9rLNQgibgsTx9rMjkcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>招募安全测试工程师（可兼职）很多人是从挖漏洞、做渗透测试进入安全行业的。有人下班研究漏洞，有人周末测试项目。慢慢地，就成为了安全工程师。我们在做什么我们正在开发一套企业级区块链多签钱包系统，主要用于团</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=2&amp;sn=3fc2a3da1b9878d618f323b760ecd9df&amp;chksm=b03b5d9463a0ec9922426b1d58d0cee00860a0e6682ec0a01fdacbdfc606f5011ed78285c986&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型“Zombie ZIP”：利用压缩格式歧义绕过杀毒引擎检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Egnbox6t29jmOtblrJHmibxIdX1RoTZicpdwaF9yB44pibb0TxYC9PFVMxEhFMBR50cZ0ibxiaWVJD0zA8Lhw9729iapEp0lcuGuZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一种名为“Zombie ZIP”（僵尸ZIP）的新型攻击技术引发关注。该技术通过精心构造压缩文件，能够有效规避杀毒软件和端点检测与响应系统的扫描，将恶意 payload 隐藏其中。安全研究人员发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=3&amp;sn=2e940fc163947c5553a684d0d372ba85&amp;chksm=b014905ba82f37f8ccc0c67e68ecc1de1ec5ae3ed6470d4d47292f922db0476b5d18bbc3093c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30小时玩转 CTF！竞赛通关技巧全掌握]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=4&amp;sn=7d69aac1763b6c13d730a008249a888b&amp;chksm=b073561de61d8bbbcc77430a3cf3e0238d7e06abb06435344cf9b9a0252dbe1cb1427cec0e91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1B2glGoicDS1zpOHpz4Rx6b80qluJn0mHyVqicdEmg6j7ibrUBgnWt59q7YmP27Tic51PY9LicuymF1DLpZkXgmeS5RR8dEMnexWy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2023-32233 揭示了 Linux 内核 Netfilter (nf_tables) 子系统中一个关键的 Use-After-Free (UAF) 逻辑缺陷。该漏洞的核心在于内核在处理“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=1&amp;sn=128b33964750a5d037c8e6e5bdd61483&amp;chksm=b01762ab0226085506d1a17c6f45901b134d7916785a2d11b7d86f2408e9c1ee42f209725864&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2VSlvt4hRoUibNxb0Emib5cQPEP3kZnKkoKAAD7e4M1sY0RCXnNiaiaGBnCPGHaP5iarrsBIGRMMgiay55LvTGGWYwKz02M9A5zRppM/640?wxtype=jpeg&amp;wxfrom=0"/><p>实际上我想研究的工作是借助符号执行来完成vmp虚拟机里各 handler 的语义识别，不使用以往传统上的指令特征识别方法（而且现在的vmp似乎实现了单个 handler 里集成多个虚拟机操作原语的特性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=2&amp;sn=92a2e9a7cef6100e9eaf3fc5eb991381&amp;chksm=b0da87fa27841cd3c39292683e849178f137e5d4aa41eafea66451bb92ce0149a9689e76c7d2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026新春致谢 | 礼承厚意，马跃新程共青云（留言点赞送新春礼盒）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Ro7VuicxpgMPvpuFwXicZw0orraozl05lDVNTGKKosKNu3bk9z7h31XyiblzKPXZKWMqlo0qPv7ngV9oZiaicfq3SfOujMEo54UAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大年初一，新春大吉！看雪给各位合作伙伴和社区会员们拜年啦🧨🧨🧨深耕网络安全领域二十余载，看雪始终坚信，技术的突破源于交流，行业的繁荣在于共生。值此新春佳节，我们陆续收到了来自安全厂商与合作伙伴的暖心贺</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611116&amp;idx=1&amp;sn=f1633e927af2bef9877647a7d917e099&amp;chksm=b0156921e864737b3823aea1f0faea1f55e2ebdc6d3362fc7c02d6802c76652ebafbee9a4f6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[QBDI原理详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3spRNsE9StbneXgyp38WOxGmWxZUM82icnfpKncsfUIbANG8e72icW57ghRqNLUfZtNNQdyyrG11fvUJ11JAKbibefNpqQAAqntg/640?wxtype=jpeg&amp;wxfrom=0"/><p>QBDI的代码位于: https://github.com/QBDI/QBDIQBDI的含义为: A Dynamic Binary Instrumentation framework based o</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611115&amp;idx=1&amp;sn=293899176e4090adb7cfc5878204988c&amp;chksm=b02779bdbf308f8c844f5d72f202ad578950ee4c6ddf4a923e0d7639c5af1da92b87a4bc005b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[除夕快乐 | 马年大吉]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3GktdPWpkRqkDeAia5icek4b98YFiaehkmBLWjCELbxIuMKSF6CwXBrBfyF3OuR9Ixiba7Ey0NuXic0cibOTrVjOUlGWrfh7bFnqNibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🐎希望大家新的一年平安·健康·好运</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611115&amp;idx=2&amp;sn=f86e72087a20f262d692d931b53e2e03&amp;chksm=b0e7198e99eac498145abc4f97bc657c6ab158160630a2766c9bf20b757d5fa0b9734ef66ba5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[去间接跳转/模拟执行学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3vjbSb3EnzjzswumR5VYddoP3gQg56tI6RfNSt9ln0Dy0z7daeIicVATBSKqRRdeWWXE7O64ricCoPfbF4POouEo4Te5pgw8LQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>间接跳转这个高级混淆，接触了unicorn，unidbg这种模拟执行脚本后，发现这种特别适合对抗反编译器无法分辨的一些混淆，本文记录学习过程以及以京麒2024的drillbeam为样本尝试去去除间接跳</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611114&amp;idx=1&amp;sn=fc44c27ffd6e4d0765228ba895da097e&amp;chksm=b0c474c3478251223f8bf744288b87c4b6f12b4ac16d28e13c4be4cfaad24c2328de0c1adedb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

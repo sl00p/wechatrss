@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Meta 删邮件事故背后，OpenClaw 为什么会“失忆”？代码库维护者拆解记忆架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjTC12xWYQxiaMYw89Nbw6KEdwV6bILDTVHWHutUfJJM2rzdUFrxe6JJM33ZiceS0uiaMyg2Cx2wyIDIymS41NZagES2cosJ39yibc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Radek Sienkiewicz 译者 | 平川 策划 | Tina “我是 OpenClaw 代码库的维护者，所以本文的深度超过大多数指南。” 每个 OpenClaw 用户可能都会遇到同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278059&amp;idx=1&amp;sn=1ac806426cea58f14f1e8da1b71bee1b&amp;chksm=bc506d3980d7a0780cd7300136c36fd8478a0e30a6fc07b8a9e6e65bd3f23395eba7b400c745&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 16:59:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无问芯穹曾书霖谈 AI 2.0 时代的大模型推理：从模型到硬件的协同优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaX6sia2dywj0vTibOhHxUNqHzvxYq3q82lQFF4bPZLuZFGq23icqiangL3UhQY8icMHdWZMBicd4AXKSRhcXBRxhCnLwGBkxVqhcTwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>演讲嘉宾｜曾书霖 博士 编辑｜Kitty 策划｜QCon 全球软件开发大会 AI 2.0 模型对算力和数据的需求激增，导致硬件系统的能耗开销逐渐“供不应求”，亟需软硬协同为 AI 行业提供高质量的 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278059&amp;idx=2&amp;sn=9ed0642aaa68b3c9efe8a28f182df804&amp;chksm=bca862a582e21b34de85736bd309518cb380f2eea21ab1e7f0bb2d2fb42e7051ddb95359beee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 16:59:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 SQL 到 OSI：当“数据是什么意思”也有了标准答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj6KC7KHkvLbYB4pZ6WvpCaaEj6ibVJESjfdnPgHfG3L2Pz8PHI97r8QbSxv6nbuqRnRnhG02FvMXouuZic9NOpFcib0L6EDmwibdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 周卫林，Aloudata 创始人 &amp; CEO 上一篇文章里，我从一个 OpenClaw Skill 聊起，讲了一个判断：个人认知正在被 .md 编译，企业认知需要语义层来编译，而 OSI 标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278059&amp;idx=3&amp;sn=e7b06a7e8f36a24f2a0b947b10b4e44a&amp;chksm=bc1d573cd2e7bb20a04efec78817cc8bed3354fe29f684bebafff3ffc65539c3151c1312b035&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 16:59:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过架构建议流程实现架构决策的去中心化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaRLe4TGyeYXRpWzb2hWaaO2Gu0SpP9Zoka9iaIraHbOTS53e5azWskibaqIPCryp5U4LMsdVbXGIibln0D70BctTFgupovM6cENY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 平川 我们的系统架构会随着技术和开发实践的发展而变化，但我们实践架构的方式并没有跟上这种变化。按照 Andrew Harmel-Law 的说法，架构需要去中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278059&amp;idx=4&amp;sn=a77754c4133f3eb7e0f982e72468badf&amp;chksm=bcdd110d39bdca610fb3205f44f13485f2ed9da8a9cf883326db00c0e919a53f8747b400d390&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Mar 2026 16:59:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[豆包19亿次互动背后的技术真相：春晚级体验是如何炼成的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjVS6S0Ttvic3R5NuCOw8yia8xEyBtZBViaf1Hq6lAa0ArJWRHad61BjlczQuc3o8hphUhuAD7LFpy9iawaOQ1bicRYnBrnbuXlibhz4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 凌敏 一代人有一代人的春晚记忆，今年的主旋律是 AI。从《贺花神》的唯美浪漫到《梦底》的亦真亦幻，从小品里机器人的高情商互动到抖音春晚直播间的 AI 实时字幕，再到 19 亿次全民豆包 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277916&amp;idx=1&amp;sn=b9244734066493db926cc0a1193b162c&amp;chksm=bc16203a212d5b169fa242cd2836103af322f74a8aa1ad3e43d34962807fa75879a49c7ee0ec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhIecPu9yvG4RT1rHo1kYY8oFpbj7oiau4GQGUyUsoWUvSPQU1GhZg5VBFeRk7ic2PJCY8SfQ7xTLfOJYTFfYFVXtmAfnuI5wukE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Hari Krishnan 译者 | 明知山 1 意图表达的演进：从指令到对话 过去一年，AI 辅助编程领域迎来了重大变革。我们已不再需要在 IDE 与聊天界面之间来回复制代码，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=2&amp;sn=939d8f02df9fb3fe2dfe9f01a785acc4&amp;chksm=bcf73a3e24cac302f4932c7bf5152890478ad2fb630e8923819ebe2a9af4ebd42565d19b7063&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[测试计划驱动开发模式 TPDD：一种比 TDD 更友好的开发模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgDYhib2oiaQ2K1fuoNSMciaFPQC8rHoibceMXIIUicuFjzuGuEeyPXPx7afjbnxQMibsvxZnoXSGJaZibe0w7tEsZCrKe6NFIDYHziaC8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 臧嘉玮你所在的开发团队使用 TDD 吗？——想必很多人的回答是肯定的，与此同时，还有很多开发团队都 对外声明 在使用 TDD 开发模式。之所以说是“对外声明”，是因为很多开发团队虽然号称使用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=3&amp;sn=3d148e361305a72a648c1cf2ab223a07&amp;chksm=bc094c345e9c69a5b6e1b430e354632a8ae3a930855e3704e0f5483c27701166a192fa719a3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌推出 Conductor：一款面向 Gemini CLI 的上下文驱动开发扩展]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgquKcc3u7QoVicbxISNIVWNvC5k4Gno6H0yrr9Rd4IYMPHkiaI2ScZRGerLbXzNxarFicntvSCtODsRNiaRLHOUJvwczYZibzibxaog/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 刘雅梦 策划 | 丁晓昀 谷歌发布了新的 Gemini CLI 预览扩展 Conductor，为 AI 辅助软件开发引入了结构化、上下文驱动的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276693&amp;idx=4&amp;sn=e35362aed052d70bf635feff4f5a4d28&amp;chksm=bc2416d62fec4253ebb584305b514dbcc8040cfda834b2f6ed11082996931f3af194a97490e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 14:38:15 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek联手清北发新论文，5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgBoIldjdOibxhicWu3wUAiaeP2UyibqKSrNA20JRKqLSv2IK4oLqBOt1clzLEPiczjp8MG3yRsu3zHOsnqde10bfx9ShU6xv7ZialZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 继 DeepSeek V4 Lite 信息泄露后，DeepSeek 团队刚刚放出重磅技术成果 —— 联合清华大学、北京大学计算机科学学院，发布一篇顶会级重磅论文《DualPath: Bre</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276519&amp;idx=1&amp;sn=4b4fb425f744235e11d59c7d55087969&amp;chksm=bc54cb1d9078ffdd347b0fc630b818a6e144f094ea3019ff219cccd2b2d6d05cadb7ddce0c7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 12:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[吴恩达、斯坦福、谷歌云罕见同频：AI 测评逻辑正被 Agent 颠覆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhWdKXJ1o4dW1tNzG1WoCx3zA0Oo031LtbsvR0ZYepMEPOfZnXLmsxjp82VfKAUjvruHXBuicl7BDx0doRd3dg0kVoiciaDXFGpZs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 木子 时至 2026 年初，AI 行业光靠“讲故事”（包括但不限于 AGI、颠覆一切、指数级跃迁......）已经开始不够用了。吴恩达、斯坦福、谷歌云团队接连抛出多份报告，都透露出一个共同信</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651276519&amp;idx=2&amp;sn=3a47cf61039e938e16c6ddf1cd53cdea&amp;chksm=bcae13beb41d38dd95cf771cad2bc726df029410932d60b92a202f2f7400899dbf8ba3c3c23a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 12:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
