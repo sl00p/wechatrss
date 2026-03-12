@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你的 AI Agent 真的在受控运行吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y8CjbwtAkt1Z0ZxXjWcRNsOGicRYSymYlqJHRELdHXd5PWNIVl88OibFMX1FhOxMGpnqJt3QMZ9VPye8ym71ta1yV1BPsWPGicXk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读以 OpenClaw 为案例，从行业威胁态势与运行时防护的固有局限出发，系统拆解 AI Agent 可观测体系的设计方法论：通过 Session 审计日志、应用日志与 OpenTelemet</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558894&amp;idx=1&amp;sn=66e97f3df165135113bc3ea000873f1b&amp;chksm=e82869db19da4ca7876f1d3c28e00701b992107b8b5543525419c5c75e86a3f811b46d0898a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[做AI产品三年复盘，我看到的变与不变]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y4nqibjK4QFTODuibpOsMiaLPnTMiaz35ibTSASjPMKysx1a5l2UQqbO4KdvlnQjjeia3qciaurWMDcaJWZoRRhlbO0BoFoIUV2ulX18/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言这篇文章由三个部分构成，希望可以从看自己、看行业、看世界三个视角，讲一讲我的思考，以及在这巨变的时代，不变的本质是什么。第一部分，我会从一名 AI 产品 Agent 工程师的视角，聊聊我亲身经历的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558816&amp;idx=1&amp;sn=87b815f28a6bb92939c83d7b84f42872&amp;chksm=e801ff9f6e0356cd8145573d4977cc2cc00dfd6e50ff1441b89b89b103aa0fac2e790ffa46b2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKopbGVcQoWFVLNFmmTic1evwux49adMJ9V3dYsl7Oh6oCGP4VTUW3hoiaHNCJsslxcmnIeTF309Snw/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务背景最近我们在尝试能否大幅提升 AI 或者 Agent 和用户的对话体验。现在市面上千篇一律的 Agent 对话， Agent 只是输出文本，高级一点就是输出 markdown 支持的一些图表来实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556258&amp;idx=1&amp;sn=3c24a4e8b9167b8839348cf00cbc2055&amp;chksm=e8d0539fa30bd3c53905290f4cf8cfcd45f4d3fd5910fd31e3108eef95d318d6e2d02ea8024b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 10 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Human In the Loop竟然可以是个MCP?]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKahRTlpm3GYyaauSblaX4AbXnXNSVJz3iaB3UibNaveFBL3NxkLvA4hTg9SggfVgpqbicoG1uDgYOSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们的实践，阐述了如何使用统一的工程方案在阿里的大模型研发平台（OpenLM）上，以及其他Agent平台上针对“Human In The Loop”场景进行大模型产品设计和研发工作。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556212&amp;idx=1&amp;sn=15730b7a525095559ec53fcd56b0b390&amp;chksm=e89402220db655043aff964db31f7d5c5847bc64bab967b12e557650d81966c9c76f362ec6d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

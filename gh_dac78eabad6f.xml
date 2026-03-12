@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文搞懂爆火的SKills原理及实践案例]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5Kb6tyrsqbX5psMOf3XA0QfAHUg99Hibiaicj2J9SXwp1ewBol8gXsMdu8C7Wk8sdcOB2WGuaQXGctlpJQIUGiakeUVAzxbj6ESvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01SKills的推导首先，我将谈谈我所理解的Skills形成的推导过程，我们需要跳出“结果”视角，从零开始思考Skills的由来。有趣的是：我们需要从另外一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694809&amp;idx=1&amp;sn=e42c180cf660e9d16b8a37c43c75b2ba&amp;chksm=ebe3a84b2f3b21eea5293dc6664628c5978fec7c24e11520680dea7cbef5e7ea389b71dd9279&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，腾讯发布OpenClaw办公网防护方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6O1FibibxxxpKzngu3euCvaofovk8ko8Ky6Dak1wR5YQAiaz20uASGcrVMp8sicvddvibwiawfFAyuDZtMtn7icRxsOYicIruzPiaTLJpM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇在企业数字化转型的浪潮中，AI 智能体正以前所未有的速度接管“双手”。“龙虾（OpenClaw）”爆火之下，数据泄露、恶意越权、权限失控、内网穿透等安全风险，也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694807&amp;idx=1&amp;sn=ab459c10a7ead719048aa1e30692d961&amp;chksm=eb6a85b44d55c4110932632885047248326f6a3a26243ddad0a31ec9ad7e35b2b8eb49f48e1b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693193&amp;idx=1&amp;sn=f4d9c7aa2441ff69dc083386d5e31182&amp;chksm=eb5ccc89531353165b6804c434a7487c7939459c4f2fdd47b8966e1d2cc6dd746056662e6d13&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97Y9TypxKLvYNl6se1GkJG9vunEyrnBLZLrO8GfvicLnEtmkmmdGIiaO4GiaEvfeFs2LIcVicFia1z3SYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 模型能力2 初步体验3 网友测试案例4 写在最后Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693189&amp;idx=1&amp;sn=4bec58ed888fd01965aaa30d46c12eb6&amp;chksm=eb3a82e249c350ee3f696d7159bab74a3bc8071da7627951793008f0ea058ed9b240e5db9b43&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

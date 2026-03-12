@@ -1,15 +1,21 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[瑞典马工]]></title>
+    <title><![CDATA[Agents特区]]></title>
     <link>https://mp.weixin.qq.com/</link>
-    <description><![CDATA[瑞典马工公众号]]></description>
+    <description><![CDATA[Agents特区公众号]]></description>
     <language>zh-cn</language>
     <image>
       <url>https://wx.qlogo.cn/mmhead/Q3auHgzwzM4ibGTaxs9sX48B5E3Se5aKeicqLwkcqicsAZFC5zI0YiaCOQ/132</url>
       <title>gh_f9cb1a185724</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[OpenClaw小龙虾实战分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Ivfnp2UbbU9ibJSlYv885FO0tqOsfBhe9BbNqf6iblfzugjJe4icoiaj1FCmzWGN6n4xTd7MdvBlNPCAZzibfZGQtOOoOjCtWlBuodbclOr5xk8s/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享预告 | OpenClaw小龙虾实战基础揭秘本次分享干货满满，主要涵盖以下三方面：差异剖析：对比OpenClaw小龙虾与传统编程工具ClaudeCode、Code X，深入解析它们在功能、性能、使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkwODMyMDE2NQ==&amp;mid=2247485061&amp;idx=1&amp;sn=8d20678281636bb22f106c12c78c509c&amp;chksm=c194374df7ae59094fb6a4faa858ea6232f310dd07c1610a9fb8cb97b1459cf36595f91a54b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 18:20:34 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[AI Coding: 确定性的边界 - Agent管理学论坛年度总结]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LohYAfgjWn9PLZRlplQOrvMFZ0bBToqickJw9fFm8ia0fhS6ib2H3qTlsSKflxUXCqpYroW76EbDECLfUQ9Crs6xU7YxtRDicFGia8SMghHPnnic8/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年，我们在 Agent 管理学论坛里和上百位开发者一起踩坑、复盘、迭代AI正确的使用方法。这篇文章是我们的阶段性总结。一、翻篇的争论"AI 写的代码根本不能用。"这句话从 2023 年底 Cha</p>]]></description>

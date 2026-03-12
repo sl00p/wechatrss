@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[狠狠的 Pua 你的 OpenClaw 小龙虾，这 2 个 GitHub 项目开源了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0XsBQ7LJsJg0xIRtHyYNzjZW0icSK40tccOOMO11lSc37ia1wm0kdiax8PLg6OCQQVlWY5avwtkfiaJicBvIogfaE2VRuWyBajjd3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家是不是还记得，去年这个时候有一个非常著名的系统提示词泄露事件。涉及的产品是 Windsurf（Cusor 的竞品）。这个提示词之所以引起轰动，是因为它使用了极其激进的情感勒索技巧来试图榨取大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532158&amp;idx=1&amp;sn=08e1d51a8adbfe443c808d85db726b3f&amp;chksm=f8a64125a22d5cc4509180cfa1ddc9f0519ac3cf4bcb672e20e9156313be2a62529f57a73336&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 10:31:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯版小龙虾 WorkBuddy 来了，在微信、QQ 内和它对话。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3oFCKsWce6XfiaFm0o7XQVVnrTOqVg2cD8GC7CCsbyot55IdUV5QKibvM4vEGk1PgpCEmbBtLdphgpLAn3jLvmnicILhWzgFSbj0/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，腾讯公司楼下排起长队。上千人排队找腾讯工程师帮忙安装部署 OpenClaw 小龙虾，老人、孩子齐上阵。场面相当壮观。果然没一代人都有自己的鸡蛋要领。。。没想到中国 AI 智能体普及，是靠一只小龙</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532127&amp;idx=1&amp;sn=35de49ddd5020153fd54283a4d2f1764&amp;chksm=f80166624c2d5fe1079d53c26e029406e90ceaae277dda0917d88b8f4cc1c040836c5bbb17cb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwgmdzox7XFrpicad42ib8iaE7HR0eqxLg8Re5BL56YjvibV5cS9Z2LsyPx1gDrgxPtd0y93y0LO42Nww/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天刚被路透 Claude 的「Knowledge Base + Memory」将进行更新，本质上解决的是同一个老问题：原生的 AI，每一次对话对模型来说都是第一次见你。模型不会记得你之前做过什么、怎</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530693&amp;idx=1&amp;sn=a231230a037f2fbe8b1c4cd51db85f29&amp;chksm=f879562f807365839a97e7484831d06f88f60b4fd292f0e84009ab17e768d9276cf584d8c093&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖到了 GitHub 上 3 个 Claude Cowork 的开源平替。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawK6oia0olWUKQRzkaL36Miaov7ALtXcvr42d6A2wjSa4V73E2ib6WiaWL6Rg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Cowork 是 Anthropic 推的一个新功能，它让 Claude 变成一个能操作你电脑文件的 AI Agent 。Cowork 不仅仅是陪你聊天，而是可以直接在你授权的电脑文件夹</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530692&amp;idx=1&amp;sn=8795eb4e922db924128c21c0aeb64b48&amp;chksm=f89d12765f03e399644e1ccf73e2a581fce9a2d9b2baaa0e5b00d5b78a493b818e924fd28953&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

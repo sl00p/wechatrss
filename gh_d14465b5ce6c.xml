@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Skills开发技能指南：OpenClaw也好，Skills也好，都别脱离具体场景谈方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906R2E1Thgn4iaHDCHFDExQPWeib78JX4hATBtbmmGRiaGlcEHVVqlKm1p0rCZCpaG8AQPRpaLiaFgiawZtHiaguqejVWGmZS5MJqKDn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吕昊俣这半年来，各种拥有几万个Skills的网站层出不穷，面对各种酷炫的Skills，我有些茫然！Skills虽强，但 “为何要用”是一个值得思考的问题，有时我们有了屠龙刀，但龙呢？带着这份困惑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800696&amp;idx=1&amp;sn=228bef9f5b56ee57f272dfb6204c9b41&amp;chksm=bf4c1eb1b26615110a5a87e863528f97215112bac0739516a4eca987a9f6f8a64df3a5493987&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[警惕！“养龙虾”风险，一键给你的Openclaw做安全体检]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906dgJicXh8SW6eL6FnKzHVPeGnme8N9U2a676LP1d7c4cQxysggZt3gudYE9ticV9mIibG6fJE4v0Wx6syoHIBF0LNdyS5eRmYkJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：朱雀实验室 nicky2026 年初，OpenClaw 在短短数周内狂揽超 30 万 Stars，迅速登顶 GitHub 开源榜首。越来越多的国内企业也很快跟进小龙虾快速部署，让更多用户第一时间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800667&amp;idx=1&amp;sn=829e2103ca6256fcb3dcec1936e84b74&amp;chksm=bf445b249417ec2a411f7de8b688e0197349c8a95f5694d1bacf72b40cbd9ab67bbe0682f4ac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauNZyziaHia56WajsqXbwHetmEJ8LgSnJm2ibFThTl9fcbqygr8u0vY6FNfOez6MnOypUMibm7ic1Ug7TQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>「Agent不稀奇，能“自己想、自己干、自己复盘”的才是好Agent」可一到落地，名词、框架和坑一起涌来：设计模式、强自治、可控流程、多代理协作.... 到底该不该用 Agent？该选哪一类框架？需要</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796189&amp;idx=1&amp;sn=edc8db54287983686dd354c0a2beb208&amp;chksm=bfe6ed2fba2cb956a2633879879eea667679a021d03545bdec706d77beb071281699e924645e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Oct 2025 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有什么事情是当了程序员之后才知道的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvav1t1pv3Xr47R5sEHwGEicKEFpwiatyPhxDKVPUOAic4rO0jYicpdju7VLryXumaJ7rY9xP8X0d2vIAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>原来改一行代码崩了整个项目不是段子，是日常！某宝上月销过万的DeepSeek本地部署，其实自己动动手指就能免费搞定！以为当了程序员后就能不怎么沟通了，结果发现最重要的就是沟通！大家还有哪些当了程序员之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796156&amp;idx=1&amp;sn=345ccdc94fb0228a1d892ca9daad0a7b&amp;chksm=bff7ceb37822ef114a2d346063f6bdf26f32fe93c14941f9371eaf0268bd5921782b2cacbb5d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 17:50:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

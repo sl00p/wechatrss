@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[上一讲分享了OpenClaw的记忆系统： 1. 会话记忆：存在内存里，session结束就消失； 2. 短期记忆：存在磁盘里，2026-03-11.md，定期归档； 3. 长期记忆：存在磁盘里，MEMORY.md，定期更新； 那么有人就要问了，在上下文有限的情况下，每次和OpenClaw聊天，她会把哪些信息加载到上下文里呢？ 首先，核心配置，一定会加载： 1. USER.md：我是谁，我希望龙虾帮我完成哪些工作，例如：架构师沈剑； 2. IDENTITY.md ：你是谁，例如：妩媚的运营小姐姐； 3. SOUL.md：你的核心人格是什么，例如：温柔，善解人衣； 4. AGENTS.md：你怎么帮我完成相关的工作，例如：帮我实现公众号OpenClaw选题。 这里的启示是：核心配置不要太长！否则有限的上下文，装太多核心数据，就没有空间装其他数据了。OpenClaw就会显得“很傻”，经常忘东西。 其次，长期记忆MEMORY.md，按需加载： 1. 主会话（就是与我聊天时）加载； 2. 非主会话，在执行其他任务，例如：群聊时，不会加载，避免泄露私人机密信息； 这里的启示是：可以定期整理MEMORY.md的记忆，不要让它越来越大。 第三，短期记忆，YYYY-MM-DD.md里的内容，按需加载。 通过指令显式控制，例如，“请回忆过去几天记忆的内容”，OpenClaw通过memory_search，回顾之前的记忆，并将相关的内容加入到上下文。 你去看下根目录下（不是workspace目录），memory目录里是不是有一些sqlite文件？这些，是系统启动时，将历史记忆（短期记忆+长期记忆），切成碎片之后，向量化之后存储在数据库里，以便在需要回忆时快速检索。 第四，即使会话一直不断开，内存里的session数据也不会全部加载。 还是那句话，上下文是有限的，加载完“必选项”之后，加载更多的，更相关的上下文。 第五，历史会话，默认不加载，以方便节省token，除非，用户通过指令显示控制，例如，“请回忆过去几天会话的内容”。 简单总结： 1. 核心人设配置，一定加载； 2. 长期记忆，按需加载（主会话加载，非主会话不加载）； 3. 短期记忆，按需加载（memory_search）； 4. 当前会话，未必全部加载，受上下文大小限制； 5. 历史会话，原则不加载，除非显示控制； 哎，小绿书只支持1000字，这一篇先到这里，未尽事宜： 1. 记忆压缩； 2. memory_search； 3. 有限上下文的上下文加载策略； 下一篇和大家聊。 组了一个专家团，开了一期OpenClaw大航海，31天，12场直播，30篇图文，10次动手作业（主打动手实操），欢迎来玩。]]></title>
+      <description><![CDATA[<p>上一讲分享了OpenClaw的记忆系统： 1. 会话记忆：存在内存里，session结束就消失； 2. 短期记忆：存在磁盘里，2026-03-11.md，定期归档； 3. 长期记忆：存在磁盘里，MEM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980775&amp;idx=1&amp;sn=2bc9cade4ca24cd52fbdefb8b08f797e&amp;chksm=bcf551f8bc1e19825dd4e46a4e3958ac738b2accbcc5fd35e51b4fd0ffada4e49a7f3a8e2f85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 13:37:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[31天，OpenClaw大航海，这次我下了血本！（逼自己一把）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXfT5dmbXGSqYYZibTPfV136pg5l0XBJ2SUgJMG065fNab4mlicHtCe3ddOML2FiamLV6eNblBSicrbKnAdGteBypCjEILBIsTfItEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两周不少OpenClaw相关的内容：OpenClaw，安全机制！（5）我用OpenClaw，5分钟写出一个skill（3）我用OpenClaw，5分钟写出一个程序（2）很多朋友在评论区里问我：1.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980774&amp;idx=1&amp;sn=5e46f0bd6c67688675beee418b094530&amp;chksm=bcc103b13b858588836653b48b6be08368971b665a8bbe30bb6a45afb8cc299364ac7c9f7ffc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1xxkWAE9iaVu8xGsRRT6bicg9iaEWvEGQvNOGIyliaMaRKES6WvS7meIPjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》10. InnoDB快照读先简单解释下快照读，读提交，可重复读。快照读(Snapshot Read)MySQL数据库，InnoDB存储引擎，为了提高并发，使用MVCC机制，在并发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980336&amp;idx=1&amp;sn=65091757d33f5ecf419bdb09a55e984f&amp;chksm=bcdcf766c132330d7cd2e637ec358f55a6166e3107f0a18b3350fcb8df71ded5a2d83d32b456&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 19:59:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[昨天去架构师同盟《打造架构师个人IP》的闭门交流专场，分享了一个《如何在70天建立自己的个人品牌》的话题。 前面几个老师，分别分享了建立个人品牌的几种方式：公众号，写书，开源项目。举办方希望我讲讲通过短视频建立个人品牌的一些经验。 这次分享，我用了一个比较新意新奇的形式讲解：抛出了10个问题，引导大家思考，并给出自己的观点与答案。 我发现，大家通过自我思考，都能够得到与我一样的答案。 “我告诉你”与“你想出来”，显然，后者对听众的收获能够更大一些。 由于是线下闭门交流，很多童鞋没法参加，我抛出这10个问题，看大伙是不是也能深度思考，得到自己的答案： 主题：《如何在70天建立自己的个人品牌》 分享人：沈剑 1. 你为什么想做个人品牌？ （先聊why） 2. 你觉得“架构师之路”是怎么做起来的？ （再聊how，5个核心要素） 3. 70天建立自己的个人品牌，是否有可能？ （消除妄念，分享建立个人品牌唯二的方法） 4. 现阶段，做个人品牌，哪个内容载体最合适？ （这还用说吗？） 5. 做短视频赚钱吗，有哪几种商业模式？ （四种很成熟的模式） 6. 普通人做短视频能做起来吗？ （答案显而易见） 7. 想做短视频，想做个人品牌，想做副业变现，但为什么大家都没有开始？卡在哪一步？ （很扎心的问题） 8. 决策-启动-持续-迭代，做个人品牌哪一个步骤最难？如何解决？ （启动最难，90%的人卡在启动） 9. 怎么证明，普通人能做起来？ （讲数据，讲事实） 10. 有什么捷径？ （不是鸡汤，是捷径） 其实，问对了问题，很多迷茫，真的自己就能解决。很多时候我欠缺的，就是自我的深度思考。 你，有多久没有深度思考了？]]></title>
-      <description><![CDATA[<p>昨天去架构师同盟《打造架构师个人IP》的闭门交流专场，分享了一个《如何在70天建立自己的个人品牌》的话题。 前面几个老师，分别分享了建立个人品牌的几种方式：公众号，写书，开源项目。举办方希望我讲讲通</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980327&amp;idx=1&amp;sn=2a54fc287b354364611b0d0025e7ea8f&amp;chksm=bc276003c0d639525a30df29ead3afb725dcc60c43fcb4ee6bfa7d20037a18a9bbc15c7c3a57&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 18 Jan 2026 12:14:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

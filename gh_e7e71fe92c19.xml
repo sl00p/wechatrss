@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一次由 DLL 静态依赖顺序引发的 Windows 7 崩溃排查]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K22M7Zo9xwOWA6U4pzUaltcw1DW1LlpJOBWL0edeQeGkHHeL9XmLnBFoFHqo8MK8wggFw97x1j04SRPc8lW9D5tBGg4zWUiaRJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在软件保护和授权校验场景中，对目标程序添加加密外壳（shell）是常见做法。然而，外壳处理可能引入某些操作系统版本上的兼容性问题。01前言本文记录了一起实际案例：某 Windows 应用程序在添加授权</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612076&amp;idx=1&amp;sn=67d19c2cab679ec12dfd1e12fcadb8ed&amp;chksm=b0f6fdac22b919600bb9a13c6cc4e40846546a9d66e4ae2ef4c1acc04b70b6c613ad62ec51af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[荣耀邀你「三月争锋」：提交漏洞，赢荣耀500手机！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Otnew9VEZBJtK5BgNCribdDrOKMKGN1Ngqk0RCe1sk9TTZtKzsGMrgSMUBUtiacCo7fkDic9loJA1O8uIapqEKXC1m4lWyEwDIY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这波福利你确定不冲？ 活动时间：3.15-3.20</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612076&amp;idx=2&amp;sn=e10cb17a3b4c4f65f0ef2746e748de1a&amp;chksm=b0553b9da970e7fe5cab3b695758294948c8f3958594b7ebc3b8ac0a399775600bf97793dfc9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[联发科芯片曝严重安全漏洞：45秒即可窃取手机PIN码与加密资产]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2ct8Q1JibOsrEbKniaLUR4Kh5GG8c19c1qrEAVtEuE3JD3VRqLNYtrPM2ynBwR5emVCrmdyeiaNK0LUoC7Xm1vwTZicPGUVicLHdcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一项针对联发科芯片的严重安全漏洞引发关注。研究团队发现，攻击者利用该漏洞，可在约45秒内物理接触手机的情况下，窃取设备PIN码、解密存储数据，并盗取加密货币钱包的助记词，直接威胁到约25%安卓用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612076&amp;idx=3&amp;sn=75fa9c5d8464253d56f4a60e18836228&amp;chksm=b003b19cc239029a1f3db52950347e85f3229fc10d78fa8144026ebf6cd4f1175e4a27463437&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[实战还原 V8 bytenode 保护 JS（V8 字节码分析记录）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3XAiaib14oJa5Llv5vT5qQeeKAazWqGwalov1C8KVSzoO4kksum8BHicwOLriadLE1DpTbntGYNicPTK7uSoplUSIlSEvgK2Qr1jxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>拿到一个需要逆向分析的 JSstart.js。目标环境：Node.js：16.14.0对应 V8：9.4.146.24-node.20（flag hashed0ab240）核心代码如下：const v</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=1&amp;sn=0a4bd1a14ff9503b9b8c48dfd91e7bb4&amp;chksm=b083f0b211e6d8367b5762cfcc69af92d8fbbbc0e42a9bb314280e9cea3db4ccb9b428a7669e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K162YP0p9ZKW1ZRibjE9hs7AZicRa9csO59rTX7iaB05Q2pdMVl0mGAq8MZFAjypsbRZia1Sz9ZDicUXFFHu3mJOicY5jW0veEdoK0XQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Windows 恶意软件开发和红队行动中，如何让恶意进程在系统中看起来“人畜无害”是一项重要技能。本文将探讨STARTUPINFOEX 结构体，揭示如何通过它来实现父进程 ID (PPID) 欺骗</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=1&amp;sn=a0d7e079f341eecb81c81823f459b9ff&amp;chksm=b04138e4565bfcf7ea3dcf080a7efcfcc578e5aec6ce3d0182e96eae52842ef8b61fddfcd3cf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 22 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【新课预售中】吃透 Windows 内核攻防！专家带练120h+ 生产级实战+AI工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=2&amp;sn=da2102a2b27f97a3cb31ecbf7ef31b97&amp;chksm=b0d0d6deceb20283d03e1e6cfbef0b66e1ad69df658eaae6317b9ca8ae879b28d0baf2b0581d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第十届安全开发者峰会（SDC2026）【议题火热征集中】]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EWlibLrznGWdJ9oTiaYicmK0GzIErjYL8bcIIzKHDj4hdAfTHMmeV7JmJo6icwMdfQ0Q4bhgwXrfHibag/640?wxtype=jpeg&amp;wxfrom=0"/><p>自首届安全开发者峰会举办以来，SDC已经走过了九个春秋。我们见证了安全行业的蓬勃兴起，也陪伴了一代开发者的成长与突破。2026年，SDC将迎来具有里程碑意义的第十届。我们将集结全球顶尖安全研究者、开发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=1&amp;sn=f063788f8971edf449fd09571d515ba7&amp;chksm=b01f20ebb58e1799ddf4500e9cbe16ff11fc5a9b3de432dd3101204ff9f16921cdeb874929db&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刺杀 VMP 3.9.4混淆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2VSlvt4hRoUibNxb0Emib5cQPEP3kZnKkoKAAD7e4M1sY0RCXnNiaiaGBnCPGHaP5iarrsBIGRMMgiay55LvTGGWYwKz02M9A5zRppM/640?wxtype=jpeg&amp;wxfrom=0"/><p>实际上我想研究的工作是借助符号执行来完成vmp虚拟机里各 handler 的语义识别，不使用以往传统上的指令特征识别方法（而且现在的vmp似乎实现了单个 handler 里集成多个虚拟机操作原语的特性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611117&amp;idx=2&amp;sn=92a2e9a7cef6100e9eaf3fc5eb991381&amp;chksm=b0da87fa27841cd3c39292683e849178f137e5d4aa41eafea66451bb92ce0149a9689e76c7d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
