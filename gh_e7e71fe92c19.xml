@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[HGAME 2026复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K34CsDywtL3YHnpYu4VGSTWPg6l8vK0PCRwj0URqVla78ibpATJoGicvQd6ITCwymeO7Va4TbmOudxO8yd2JWz5rDxEC1yM6V7ro/640?wxtype=jpeg&amp;wxfrom=0"/><p>week1-adrift看保护查看保护，发现栈有可执行权限，猜测跟ret2shellcode有关：逆源码mainint __fastcall main(int argc, constchar **ar</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612077&amp;idx=1&amp;sn=c66bc5a24d6fa102332f98f8c550be5e&amp;chksm=b017762649447ed91bf30f8e14072ed5a6c766566a1f74ce33b19bfc4b7e41bc015dab1b3658&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[招募课程讲师（兼职）！名利双收]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3wB62oeGyvRQ6uoWAFLHIGtsOrUU0iarUBeNmS4OquPAuD4dgGspuEg05RPWMUI3BJqeibjlLgHLtDYMjVXnY6uEUXkReywH3Wo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，暗流涌动的0day、愈演愈烈的勒索攻击、动辄千万的数据泄露……我们比任何时候都更需要真正的技术派——那些能在代码废墟里找到漏洞入口，能在反汇编世界里读懂机器心跳的人。而你，正是其中之一。看</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612077&amp;idx=2&amp;sn=5532a79564482da0fd9fb08f76a34c01&amp;chksm=b045a34b25531e8de430ac340b2a597a4d96e58c699fd5d5e047a69a2a34084b56ee097c1d24&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一次由 DLL 静态依赖顺序引发的 Windows 7 崩溃排查]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K22M7Zo9xwOWA6U4pzUaltcw1DW1LlpJOBWL0edeQeGkHHeL9XmLnBFoFHqo8MK8wggFw97x1j04SRPc8lW9D5tBGg4zWUiaRJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在软件保护和授权校验场景中，对目标程序添加加密外壳（shell）是常见做法。然而，外壳处理可能引入某些操作系统版本上的兼容性问题。01前言本文记录了一起实际案例：某 Windows 应用程序在添加授权</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612076&amp;idx=1&amp;sn=67d19c2cab679ec12dfd1e12fcadb8ed&amp;chksm=b0f6fdac22b919600bb9a13c6cc4e40846546a9d66e4ae2ef4c1acc04b70b6c613ad62ec51af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2ic5w5EibyX6G1ZcKDqY6JIQ5LTThKh65yPIuZEy3DiczgCE9LYpAJdzMshnFFMlbH2eKEic4x3eF8GnuUU8ibKY2rmKia6NaDB5nKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前写了篇RSA的量子算法分析的文章，在这篇文章里留了个离散对数问题的坑一直没填，借此机会把坑填了，ECC的shor算法破解除了少数几篇论文中简单地提及外，几乎没有系统而详细地资料，本文算是独一篇了。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611119&amp;idx=1&amp;sn=dae1055aa7be7a97a6080a42d547d354&amp;chksm=b0c239810b5eab0b4a39b64fef1c32f8f93f352c28ef591698a9933e88b3937a2886e8da0cd6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《Linux Pwn 番外篇》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JicqN6UnI5fb2vEaNA5PnOv81FNolqwruOxnLu1SxDvEp88N3TvcyvbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611119&amp;idx=2&amp;sn=909efecd770d7963f909ba59d8f7f1f2&amp;chksm=b0ea22e656643fcf40ce32b7d2b679b320cf729df82d445012b5a892fb90b8b287cfeecdf4d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入理解 Windows 进程属性：从 PPID 欺骗到句柄继承]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K162YP0p9ZKW1ZRibjE9hs7AZicRa9csO59rTX7iaB05Q2pdMVl0mGAq8MZFAjypsbRZia1Sz9ZDicUXFFHu3mJOicY5jW0veEdoK0XQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Windows 恶意软件开发和红队行动中，如何让恶意进程在系统中看起来“人畜无害”是一项重要技能。本文将探讨STARTUPINFOEX 结构体，揭示如何通过它来实现父进程 ID (PPID) 欺骗</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611118&amp;idx=1&amp;sn=a0d7e079f341eecb81c81823f459b9ff&amp;chksm=b04138e4565bfcf7ea3dcf080a7efcfcc578e5aec6ce3d0182e96eae52842ef8b61fddfcd3cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

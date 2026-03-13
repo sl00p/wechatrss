@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Metasploit Pro 5.0.0强化红队攻击能力，直击AD CS漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xXDyAL0e4fvO50oep54b5fNWkAvZHfCgGrJJxiabh3Rib3clKNiaicXGf22ibzhdaWia4y6oCdFR3J7VyGic3170LyiaIVmteI4KQyf8/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着网络犯罪分子不断利用新漏洞发动攻击，企业对持续红队演练和主动安全评估的需求达到历史新高。传统的年度渗透测试已无法满足现代复杂环境的安全需求。为帮助安全团队应对高级威胁，Metasploit Pro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=1&amp;sn=fca5b492c0cf982f0d06ca594a72f755&amp;chksm=bc9800463ef4b31beaf2539b9f0dd07b268f2f305ccf493ccce70f6c4258820a173cafdd2450&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果紧急发布iOS 15.8.7更新以防御“Coruna”漏洞利用工具包]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX06jPeUQLNSE0E5OCBFiaUVHpLCfEtd38m7GSY7D6dIbgvQ7uOsfq7AVb7SUQM4tbDHMXgNOnZDDwlEJN9NZ0ibbIIandC5GN0Kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果公司已紧急发布iOS 15.8.7和iPadOS 15.8.7安全更新，旨在保护旧款设备免受名为"Coruna"的漏洞利用工具包的严重威胁。Part01关键安全补丁回溯2026年3月11日发布的这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=2&amp;sn=f7392844806eb4bdd7ccf995542ed62c&amp;chksm=bc36f66feed2e47d143f26faa77f27fcbe0c060b729067aa86fb63cdb801501a73b2a98d619f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenClaw安全公告激增暴露GitHub与CVE体系鸿沟；OpenAI推出Codex Security | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖OpenClaw安全公告激增暴露GitHub与CVE漏洞跟踪体系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=3&amp;sn=a24524596819c5aa62076a8e599abfcd&amp;chksm=bc6e581dcd4ddb6784025b5935d26c1d151e1dd3067ceb3f88d46d5769109774b69a8ccf9ec3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX09wP34oC1m8BMV2Am7iaHayCgQcbpyldiaKtUmuUougESpERSZHGBuiaKMPicBLete5IInmciaibCM49NxMk2e3szu8PM0kf60OGSco/640?wxtype=jpeg&amp;wxfrom=0"/><p>当自主AI Agent被释放去攻击另一个自主AI Agent时会发生什么？CodeWall在最近的红队测试中发现，其AI Agent能够串联人类认为无害的漏洞，轻松绕过认证控制，甚至出人意料地伪装成美</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=1&amp;sn=204ce5241935e6987d2d10a9c28f906d&amp;chksm=bc9de8a86c94078b58df5c10deb61e508b902beae5718ab024065c3bd82b2122521ccb421b72&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2IaEJWQaxhaGsfaH0ojo8bCLBQsm7kHL7hGfjzn2TKjuejKvjJ6JOsk5gedAbzGKNjOoBGcfTgb0ZSG3ROrxolz77YE1Azbiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis安全研究人员在OpenClaw中发现了一个关键的零交互漏洞。作为史上增长最快的开源AI Agent框架之一，该漏洞允许任何恶意网站无需插件、扩展或用户操作即可静默获取开发者AI Agent的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=1&amp;sn=d2489830619579b903e98e0e7f3472e4&amp;chksm=bcfbd73dd7a78bf15e319bcfb8f8aa0a14fdbdaf20145b7496f1ff41c1bd909f88f69320a05b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vshell正取代Cobalt Strike成为威胁行为者首选C2工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Ao67gKSEZhjZjeM1P8aYISsYFibsPvQgv9ZV5uwIJOGJmZgFnLnZQnPa7MjtXQDeJj5B73t0cq5amysNUMhOUR74yuTfdDFHI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于Go语言的命令控制（C2）框架Vshell正悄然扩大其影响力，该工具最初在华语攻防安全社区推广，如今日益受到寻求灵活、经济型商业工具替代方案的威胁行为体关注。这款工具已从早期的基础远程访问工具</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=2&amp;sn=7ebcb5f7c7380d8c090ce8374a5614ee&amp;chksm=bc7a97271571d3f5221ba40d778f29bd54fcbd3ecf7c2405e0fc3adb1d755d6211e91831ad99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AI红队工具箱BlackIce；保留因果关系的溯源图压缩方法；不用MimiKatz的情况下获取凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZkYvjOevriamWv1s9EGgcuVlnAt50JuuC8kFCgT6icW3OIP4Ltj1d3FnNsFlXBw8t627DSWP8ic0ZBrtXdX3y4ib0rsPpBM0z6ZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2025-33073漏洞详解；深入浅出介绍SMx加密算法；</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=3&amp;sn=b9043b75cda50495dad3cf0a7d32c20e&amp;chksm=bc6f8a2cab9ee83f2d5a34b9e6cd2b1b9551ba86e0a6f7cbd6083e94b1c0a0db475af705fc21&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个区块链C2僵尸网络Aeternum问世，传统查封手段彻底失效]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3KTibagTNQEmS5icX3Rmp01f1H1SftXibu3NSW6HLpC1YictjVkWg0TW6eETk2hQNMcFXAbzqCjEBLPQKzTfuj2YibbjHY4vp34jmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>多年来，捣毁一个僵尸网络通常意味着找到它的命令与控制（C2）服务器、查封域名，然后看着这个网络彻底瘫痪。执法部门曾用这种方法成功摧毁了Emotet、TrickBot和QakBot等大型犯罪团伙。然而，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335552&amp;idx=1&amp;sn=4ada02df0628e7ec97f79c7d9393aec9&amp;chksm=bcfe58c9f3db625e1ee8b9fab0af9712c11aab76d864d22c405932ccae65d2a08f1ccf1b3d02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

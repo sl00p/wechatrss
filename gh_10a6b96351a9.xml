@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这几天分享了很多OponClaw的实践：安全设置，人格设置，记忆设置。写skill，写代码... 大伙猜，在评论区我被问的最多的问题是什么？ -> 沈老师，我装好了OpenClaw，怎么连飞书？ 连飞书，怎么说呢。 你说难吧，就简单几步： 1. 创建应用（基础配置信息）； 2. 添加应用能力（机器人）； 3. 批量设置权限（把一个json拷贝进去）； 4. 设置AppID和App Secret（改配置）； 5. 设置事件配置（长连接）； 6. 设置订阅模式（长连接）； 7. 添加事件（接受消息2.0）； 8. 发布应用； 9. 服务端授权（pairing approve）； 10. hello, world！开始养虾！ 你说容易吧，好多同学搞不定。 很多想玩龙虾的童鞋，就被卡在了这一步。 最近飞书官方发布了插件，一步连接飞书，简直是新手党天大的福音。 具体来说，在OpenClaw的服务器上执行： npx -y @larksuite/openclaw-lark-tools install 就可以了！ 上面的命令执行完以后，会弹出一个二维码，飞书扫码，机器人就创建成功了！可以立刻hello world开始养虾，帅气不帅气？ 有人要问了，OpenClaw内置的feishu插件，和飞书官方开发的插件，有什么区别？ 1. OponClaw社区维护 vs 飞书开放平台官方维护； 2. OpenClaw自带 vs 需要单独安装； 3. OponClaw背书 vs 飞书官方背书； 5. 适合多channel用户 vs 适合飞书深度用户； 6. 以机器人身份运行 vs 以用户身份运行； 上面第六点，经常收到“我没有飞书文档/消息/日历权限，请把内容发给我”的用户应该深有体会。 当然，要提醒的是，我们把自己的身份给了机器人，发消息，建文档，看日历，确实更方便了，但... 你授权他成为你，他做的事情，你可能要负责。 网上有个段子，我们给猴子设置了一系列规则，教他们开车，这样我们就能躺着，但猴子开车所带来的后果，需要我们自己承担。 无论如何，最好不要让OpenClaw脱离人工干预去“自动驾驶”，特别是当这个官方插件还处在早期阶的时候。 好了，没有连上飞书的童鞋，赶紧去试试吧： npx -y @larksuite/openclaw-lark-tools install #程序员#架构师#架构师之路#OpenClaw 另外，做个小调研： OpenClaw官方背书的feishu插件 vs 飞书开放平台背书的官方插件 你更相信谁？ 组了一个专家团，开了一期OpenClaw大航海，31天，12场直播，30篇图文，10次动手作业（主打动手实操），欢迎来玩。]]></title>
+      <description><![CDATA[<p>这几天分享了很多OponClaw的实践：安全设置，人格设置，记忆设置。写skill，写代码... 大伙猜，在评论区我被问的最多的问题是什么？ -> 沈老师，我装好了OpenClaw，怎么连飞书？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980777&amp;idx=1&amp;sn=ed9b1a53e9bce8be2665848e7751f685&amp;chksm=bc9e376cc2841327545af7a108e41590c2358ce3d62d25853c0df3b2fb6f019175ffb0c4a737&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 12:57:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[上一讲分享了OpenClaw的记忆系统： 1. 会话记忆：存在内存里，session结束就消失； 2. 短期记忆：存在磁盘里，2026-03-11.md，定期归档； 3. 长期记忆：存在磁盘里，MEMORY.md，定期更新； 那么有人就要问了，在上下文有限的情况下，每次和OpenClaw聊天，她会把哪些信息加载到上下文里呢？ 首先，核心配置，一定会加载： 1. USER.md：我是谁，我希望龙虾帮我完成哪些工作，例如：架构师沈剑； 2. IDENTITY.md ：你是谁，例如：妩媚的运营小姐姐； 3. SOUL.md：你的核心人格是什么，例如：温柔，善解人衣； 4. AGENTS.md：你怎么帮我完成相关的工作，例如：帮我实现公众号OpenClaw选题。 这里的启示是：核心配置不要太长！否则有限的上下文，装太多核心数据，就没有空间装其他数据了。OpenClaw就会显得“很傻”，经常忘东西。 其次，长期记忆MEMORY.md，按需加载： 1. 主会话（就是与我聊天时）加载； 2. 非主会话，在执行其他任务，例如：群聊时，不会加载，避免泄露私人机密信息； 这里的启示是：可以定期整理MEMORY.md的记忆，不要让它越来越大。 第三，短期记忆，YYYY-MM-DD.md里的内容，按需加载。 通过指令显式控制，例如，“请回忆过去几天记忆的内容”，OpenClaw通过memory_search，回顾之前的记忆，并将相关的内容加入到上下文。 你去看下根目录下（不是workspace目录），memory目录里是不是有一些sqlite文件？这些，是系统启动时，将历史记忆（短期记忆+长期记忆），切成碎片之后，向量化之后存储在数据库里，以便在需要回忆时快速检索。 第四，即使会话一直不断开，内存里的session数据也不会全部加载。 还是那句话，上下文是有限的，加载完“必选项”之后，加载更多的，更相关的上下文。 第五，历史会话，默认不加载，以方便节省token，除非，用户通过指令显示控制，例如，“请回忆过去几天会话的内容”。 简单总结： 1. 核心人设配置，一定加载； 2. 长期记忆，按需加载（主会话加载，非主会话不加载）； 3. 短期记忆，按需加载（memory_search）； 4. 当前会话，未必全部加载，受上下文大小限制； 5. 历史会话，原则不加载，除非显示控制； 哎，小绿书只支持1000字，这一篇先到这里，未尽事宜： 1. 记忆压缩； 2. memory_search； 3. 有限上下文的上下文加载策略； 下一篇和大家聊。 组了一个专家团，开了一期OpenClaw大航海，31天，12场直播，30篇图文，10次动手作业（主打动手实操），欢迎来玩。]]></title>
       <description><![CDATA[<p>上一讲分享了OpenClaw的记忆系统： 1. 会话记忆：存在内存里，session结束就消失； 2. 短期记忆：存在磁盘里，2026-03-11.md，定期归档； 3. 长期记忆：存在磁盘里，MEM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980775&amp;idx=1&amp;sn=2bc9cade4ca24cd52fbdefb8b08f797e&amp;chksm=bcf551f8bc1e19825dd4e46a4e3958ac738b2accbcc5fd35e51b4fd0ffada4e49a7f3a8e2f85&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1RrSbVZJZfsGMFJrCRhSVYQFUtxibReSb3yUnpbCEpyEAgwcrk4pqeZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有HR说：“招聘条件已经降到很低了，薪资也还不错，就是没人。”主题：为什么现在招聘C++程序员这么难？https://www.zhihu.com/question/491876804【回答1】要不是我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980366&amp;idx=1&amp;sn=2c9a490cfaf80fb538bf388bb960cb34&amp;chksm=bc8b9facf882c8d9d67efb7fc037478f65b08f6eeba5a3b8400a5bba9773acda25392222a80a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 18:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MySQL，InnoDB快照读，在RR和RC下有何差异？（第10讲，超硬核）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g1xxkWAE9iaVu8xGsRRT6bicg9iaEWvEGQvNOGIyliaMaRKES6WvS7meIPjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》10. InnoDB快照读先简单解释下快照读，读提交，可重复读。快照读(Snapshot Read)MySQL数据库，InnoDB存储引擎，为了提高并发，使用MVCC机制，在并发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980336&amp;idx=1&amp;sn=65091757d33f5ecf419bdb09a55e984f&amp;chksm=bcdcf766c132330d7cd2e637ec358f55a6166e3107f0a18b3350fcb8df71ded5a2d83d32b456&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 19:59:52 +0800</pubDate>
     </item>
   </channel>
 </rss>

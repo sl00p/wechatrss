@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安全版 OpenClaw 小龙虾也来了，支持 10000+ 的 SKills。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3dek4gibXHnJgOc3W0wMyDibhwkSgiakE9QRoNx3djgtiaibEgViaHpSW12pKQOwn1Wj5VibyZJ20ZC9KxJR7XvkBrz91UcEgNd3SbuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>周围朋友都在养虾，每个人都在用。但在大家忙着领虾的时候，安全问题却被很多人忽视了。就在前阵子，国家互联网应急中心专门发布了 OpenClaw 安全应用风险提示，明确指出了几大风险。其实不止 OpenC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532217&amp;idx=1&amp;sn=bedad71b9fd13e8f86bc3e872e372b63&amp;chksm=f8375177abd0535aa08aa0ee3383b7e554c8b42e06203ad683017e74534ea8de6375a1c36fc7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[狠狠的 Pua 你的 OpenClaw 小龙虾，这 2 个 GitHub 项目开源了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0XsBQ7LJsJg0xIRtHyYNzjZW0icSK40tccOOMO11lSc37ia1wm0kdiax8PLg6OCQQVlWY5avwtkfiaJicBvIogfaE2VRuWyBajjd3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家是不是还记得，去年这个时候有一个非常著名的系统提示词泄露事件。涉及的产品是 Windsurf（Cusor 的竞品）。这个提示词之所以引起轰动，是因为它使用了极其激进的情感勒索技巧来试图榨取大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532158&amp;idx=1&amp;sn=08e1d51a8adbfe443c808d85db726b3f&amp;chksm=f8a64125a22d5cc4509180cfa1ddc9f0519ac3cf4bcb672e20e9156313be2a62529f57a73336&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKQ5gqG4Xznc6HJ7tIL2uA4uSN9t1QJpI0eWYf9kHx1qadiaptVqMKLDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01SuperPowers这个 GitHub 项目在本周还挺火的，现在已经 2.7 万的 Star 了。它其实一个为 Claude Code 设计的 Skill 框架与工作流插件。改天会好好介绍一下这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530695&amp;idx=1&amp;sn=8fec94de00dd3805e01ac3540daa6b57&amp;chksm=f810674f3cf478e8491541e2ccc019d7617674739edbea0156be0105abe2d7963f0f26bd934f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 21 Jan 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3700+ Star 的 MemOS：在 Claude 之前，就把 AI 的记忆和知识库分清楚了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwgmdzox7XFrpicad42ib8iaE7HR0eqxLg8Re5BL56YjvibV5cS9Z2LsyPx1gDrgxPtd0y93y0LO42Nww/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天刚被路透 Claude 的「Knowledge Base + Memory」将进行更新，本质上解决的是同一个老问题：原生的 AI，每一次对话对模型来说都是第一次见你。模型不会记得你之前做过什么、怎</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530693&amp;idx=1&amp;sn=a231230a037f2fbe8b1c4cd51db85f29&amp;chksm=f879562f807365839a97e7484831d06f88f60b4fd292f0e84009ab17e768d9276cf584d8c093&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
