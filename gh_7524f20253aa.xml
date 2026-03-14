@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0k3jWkW0D4ePYZCdPfRUUR5rNibmkGXgcljkXQgboK9ciaxDNbvJhUlAOdibQibkiaG0jcia3xJgmP0UOf7L70Cx3KsSLrx3rdiaXunE/640?wxtype=jpeg&amp;wxfrom=0"/><p>中国国家计算机网络应急技术处理协调中心（CNCERT）近日发布安全警告，指出开源自主托管AI代理OpenClaw（前身为Clawdbot和Moltbot）存在严重安全隐患。该机构在微信公众号发文称，该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336056&amp;idx=1&amp;sn=e138cc3275032694f3acd90018a93cb2&amp;chksm=bccac532f8f5c83c949706962e4dfaa1c1a327634bcb5284a26d9c24a3fd3ebed272f6118000&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0tz9y4QxhQkfQqmHSYF3hUzicqLbmvFPz74dma0fMNL1whA7T8tyRnhlzONxRs6iaPvk4638pz5oxIag8Kt3lIWJgb8vaA2qMs0/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了 Linux 内核 AppArmor 模块中的多个安全漏洞，非特权用户可利用这些漏洞绕过内核保护机制、提升至 root 权限并破坏容器隔离保障。Qualys 威胁研究部门（TRU</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336056&amp;idx=2&amp;sn=2edb57b5a8793b9b7c5202c01a5462c5&amp;chksm=bc38e55a1c726cef142850e4d1a798b03f6c583b824227a2f50fc56baaf02c0f9058da8c669e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：网络安全情报和分析；APP风控参数分析和Frida绕过；从CTF中学习PHP反序列化的各种利用方式；]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ZlRHW1Rojtu5Orao6cbMTyCpuFTWxgo4KVMu2clWKibZicOzsphDY5N4aA1cfKb7df8Uclica2Hibz51GwEMDEstXMm4R3ibzgIcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>异步加载的JS文件分析；中央企业高质量数据集建设研究报告。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336056&amp;idx=3&amp;sn=01b9063d2ff190578f6c2a7735499e52&amp;chksm=bc10065cf595b8ed898ebd7943b2dd04bff8827ec62d285297c9ab2c39de79cc6ced4fd3b405&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Metasploit Pro 5.0.0强化红队攻击能力，直击AD CS漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xXDyAL0e4fvO50oep54b5fNWkAvZHfCgGrJJxiabh3Rib3clKNiaicXGf22ibzhdaWia4y6oCdFR3J7VyGic3170LyiaIVmteI4KQyf8/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着网络犯罪分子不断利用新漏洞发动攻击，企业对持续红队演练和主动安全评估的需求达到历史新高。传统的年度渗透测试已无法满足现代复杂环境的安全需求。为帮助安全团队应对高级威胁，Metasploit Pro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=1&amp;sn=fca5b492c0cf982f0d06ca594a72f755&amp;chksm=bc9800463ef4b31beaf2539b9f0dd07b268f2f305ccf493ccce70f6c4258820a173cafdd2450&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0qxNH5sSWppa0XibbcianofeZj3GKzLEkeQjhk40JFdtniaWfcyzIY1hG7xLgHQHEYPTOzQOP2uOy0ga5iceBat9aXKvrHZy108vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01集群安全形势日益严峻随着Kubernetes在企业软件开发领域的广泛应用，网络犯罪分子正越来越多地使用专门开发的漏洞利用工具攻击相关部署。威胁行为者如今更擅长隐藏恶意软件、绕过（基础）安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335625&amp;idx=2&amp;sn=c63fa2600de27753912d3204f255a1e3&amp;chksm=bc4a80de922cec09d06907b45557afd12997b78b2fa22d3c1aa1079b004dc4c5ff2e09691d1a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 02 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[五大致命物联网漏洞：项目上线前的隐形杀手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0kK4F8ZIx6HDnLaROogCRywibhDibruMH5hATJiaB4I54W6yKWQ7DNsKkewZqH5ZKMaG71YoUabmiaibMj6VnmYWK5Ve006wjTNs60/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台被入侵的摄像头或一组过期的虚拟专用网络（VPN）凭证，就可能导致您的物联网（IoT）应用开发进程无限期停滞。据统计，75%的物联网项目因性能不达标而无法进入生产阶段，其中76%的失败案例可追溯至设</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335625&amp;idx=3&amp;sn=7841dc7fb10ee55e20249a2f5dde6911&amp;chksm=bcf86d3879894286c65f166ba21041bdcc9a2ecdf1483be74b0c51fbc8cd8eb7159bedd2759b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[精密运作的“藏海花”后门攻击瞄准Web3钱包窃取助记词]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX18pUy3iatler22SCkSVaaAP8VKzEEaiaWicKUpwZhxRhuopVwOxcg5eMJicialhufZbOl7jQDldXzN0XKvWDW6kmhKYDwficuGibCXcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为"藏海花"(SeaFlower)的高度精密且此前未被披露的威胁活动正在针对主流Web3加密货币钱包用户发起攻击。攻击者通过篡改合法应用的克隆版本植入隐蔽后门，悄无声息地窃取助记词并转移受害者资</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335625&amp;idx=4&amp;sn=2746238c1cc6bbe9de3ec8c308c088d2&amp;chksm=bca34fd709231678e5f263c65f0bfeb8797de1bd9c1bfe040f5ef54200db30738a7ca8df2d32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2IaEJWQaxhaGsfaH0ojo8bCLBQsm7kHL7hGfjzn2TKjuejKvjJ6JOsk5gedAbzGKNjOoBGcfTgb0ZSG3ROrxolz77YE1Azbiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis安全研究人员在OpenClaw中发现了一个关键的零交互漏洞。作为史上增长最快的开源AI Agent框架之一，该漏洞允许任何恶意网站无需插件、扩展或用户操作即可静默获取开发者AI Agent的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335581&amp;idx=1&amp;sn=d2489830619579b903e98e0e7f3472e4&amp;chksm=bcfbd73dd7a78bf15e319bcfb8f8aa0a14fdbdaf20145b7496f1ff41c1bd909f88f69320a05b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 01 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
