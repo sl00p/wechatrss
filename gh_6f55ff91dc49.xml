@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yj0pIWibwBV1SJLpk9iab7mTAmwq8qK1JI5toImI0icm9NROmOcPCmEJrx7Xm815smIibrMn1iansAGiaNvczia5Sye93GJn8lZgU7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷到一篇文章挺有意思的，作者认为 OpenClaw 的核心机制不太对。OpenClaw 有个很知名的功能叫 Heartbeat，翻译过来就是心跳。顾名思义，让 AI Agent 定时醒来检查一下有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b&amp;chksm=f88f6f06d4441ba2c9a73b29cf28be4c9023e75442591f97e626f95819f2ab3e102e398e289c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这 6 个开源的 GitHub 项目，刚刚崭露头角。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3FE93JEQwib5Ch8QNrK60h5NlWY9SGDbuNMfiauuBSrgIYENQhw6ibmibLLop8x5HYznq9waRkxlhmv2UUQdicD3ZUP1uFHnC0EjR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 Mac 上跑真正的 iOS 系统这个叫 vphone-cli 刚开源，但是很火。这玩意儿能让你在 Mac 上直接引导启动一个虚拟 iPhone，注意不是模拟器，是真的 iOS 系统。目前这个项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532219&amp;idx=1&amp;sn=c5da357d5743e3dde42725777e47975e&amp;chksm=f866a892cda08d3ec1a9df48364aa4da80093a23d1df269f2d3198fed0a0d492b33d85dd93ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwqiavLE43HKoiaIGzr1MJHiamuqoAFuZ9R2X6aRPCQVMDjkKNlxtibsaqb18zTUHAl9C5IxLZ2okWgTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频剪辑 Skill这个开源项目是一个视频剪辑 Skill，叫 videocut-skills。它能够辅助你完成视频处理工作，比如识别视频中的口误、静音片段以及语气词啥的。通过简单的指令让 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530711&amp;idx=1&amp;sn=6114576066d4fe0ddbabd7cd6ee9654e&amp;chksm=f844ed05212369f84e017b02261ae76548735d504591cfada192360ef80b649a6ef40f7042a9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 15:13:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxnNFXx4BicdM4jHrVweHawKWwdg5SzyHmrxIeJ8VtnOljH4I7ZBBic3XYaS7b34HuEOVnxCER1VgDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>清华大学、中国人民大学、面壁智能与 OpenBMB 开源社区联合开源了一个智能体，叫做 AgentCPM，它重新定义了端侧智能体天花板。AgentCPM 最亮眼的是以小博大。仅 4B 参数的模型，在复</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530710&amp;idx=1&amp;sn=1ef6a9abecb2077c5c34d0201b2e676c&amp;chksm=f8d5144d04699565a16cebd59eee66d599bc679440fda8378e4e8ea591b719bbebc4a264a78c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 15:25:20 +0800</pubDate>
     </item>
   </channel>
 </rss>

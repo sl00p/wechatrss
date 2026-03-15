@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重磅！腾讯QQ机器人接入OpenClaw，官方“养虾”指南来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907ibek9TfmgEZ5lI9B2HlbUvtPRHCfb6o636bmLic25noA7o9YkYRvo92qKmLcUWStZnVd8NzhxEC86iaeGBxIstOZoyxsP6xZc34/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯QQ机器人团队快速注册一个 QQBotQQ 机器人开放平台提供了快捷创建 QQ 机器人的通道，三步即可创建一个可用的 QQBot，用于接入 OpenClaw。PC 端打开：https://q</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800749&amp;idx=1&amp;sn=81457fa979262f0a230b4ebba2a9aa7c&amp;chksm=bf066836050dff3121bd9b818fc0c5d5292087cdc5b097bb50bfc6f0e2ce48e44670cda5ea26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Skills开发技能指南：OpenClaw也好，Skills也好，都别脱离具体场景谈方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906R2E1Thgn4iaHDCHFDExQPWeib78JX4hATBtbmmGRiaGlcEHVVqlKm1p0rCZCpaG8AQPRpaLiaFgiawZtHiaguqejVWGmZS5MJqKDn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吕昊俣这半年来，各种拥有几万个Skills的网站层出不穷，面对各种酷炫的Skills，我有些茫然！Skills虽强，但 “为何要用”是一个值得思考的问题，有时我们有了屠龙刀，但龙呢？带着这份困惑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800696&amp;idx=1&amp;sn=228bef9f5b56ee57f272dfb6204c9b41&amp;chksm=bf4c1eb1b26615110a5a87e863528f97215112bac0739516a4eca987a9f6f8a64df3a5493987&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvau6s4qWae0Qc9StrYoFibUnJ5DO2UEdM3MuvyLHggnTbic9ukIo2KwJ1IJJpkcjzTb3f31OllWVt1cA/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景在技术的世界里，隔行如隔山的“认知偏差”无处不在。后端眼中简单的“页面渲染”，在前端看来却是一个需要应对无数复杂性的庞大系统；而前端想象中“主要就是写接口”的后端，其实构筑的是整个应用稳定、高</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796217&amp;idx=1&amp;sn=eedf30296c542ca1cfa50d36c55cbc2c&amp;chksm=bfe872c8edeaaafebae4fb1e9b9c679bd574070597200030153285f1256243b26aedd62e2564&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Oct 2025 17:55:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文讲懂Agent及其主流框架：自己想、自己干、自己复盘的才是好Agent！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauNZyziaHia56WajsqXbwHetmEJ8LgSnJm2ibFThTl9fcbqygr8u0vY6FNfOez6MnOypUMibm7ic1Ug7TQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>「Agent不稀奇，能“自己想、自己干、自己复盘”的才是好Agent」可一到落地，名词、框架和坑一起涌来：设计模式、强自治、可控流程、多代理协作.... 到底该不该用 Agent？该选哪一类框架？需要</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796189&amp;idx=1&amp;sn=edc8db54287983686dd354c0a2beb208&amp;chksm=bfe6ed2fba2cb956a2633879879eea667679a021d03545bdec706d77beb071281699e924645e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

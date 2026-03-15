@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/3/16)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Joe Sandbox 对 YuboAPP (4).exe 的自动化恶意软件分析报告https://www.joesandbox.com/analysis/1883901/0/html本文详细列</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960401&amp;idx=1&amp;sn=f902e6cfafc3f99a0177e87488e290f1&amp;chksm=8a7db6fc36ed96a447da34915c0091f0151b827dfd3f1eb63ee6c38deb6c0bc630312e443387&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 18:59:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/3/12)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Vim NFA 正则引擎中 NULL 指针解引用漏洞影响版本 < 9.2.0137https://seclists.org/oss-sec/2026/q1/296本文详细分析了 Vim 编辑器</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960398&amp;idx=1&amp;sn=d38cc6785cb2cefdc4c2d5435fecafb1&amp;chksm=8a640d0889da652d26aed177f9d4577b7a84a03227813d1a411ae4d44e7aa99321cc9a7daf9f&amp;scene=0&amp;xtrack=1#rd</link>

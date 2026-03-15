@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何定义“人味儿”？——HeartBench评测体系建设实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yyOoqe8yoT7DFspHxXQApoicD20FwPic9ictlgOC0QkRC3X0GicPnDqcGZ1iaT1D5QRGSLVu6Yq64ukS2B3FCCQIbmmOcjyzSExRgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景：AI下半场从解决问题到定义问题2025年，大模型的竞争格局正在发生微妙而深刻的变化。单纯的 Scaling Law开始遭遇边际效应递减。当Gemini、Claude等主流模型在 MMLU、H</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558896&amp;idx=1&amp;sn=f921e42175ae76b9a9e7771676c000b0&amp;chksm=e87f806c068e6f54b01d387dccf7295e39c9f64008efa48f74143a6fd826b9aadb5e79a50d26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的 AI Agent 真的在受控运行吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y8CjbwtAkt1Z0ZxXjWcRNsOGicRYSymYlqJHRELdHXd5PWNIVl88OibFMX1FhOxMGpnqJt3QMZ9VPye8ym71ta1yV1BPsWPGicXk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读以 OpenClaw 为案例，从行业威胁态势与运行时防护的固有局限出发，系统拆解 AI Agent 可观测体系的设计方法论：通过 Session 审计日志、应用日志与 OpenTelemet</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558894&amp;idx=1&amp;sn=66e97f3df165135113bc3ea000873f1b&amp;chksm=e82869db19da4ca7876f1d3c28e00701b992107b8b5543525419c5c75e86a3f811b46d0898a3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJOy3wosQA9wcrkuAmQ6YIuD58CHqFLicyZ6TtU0rLDHjIdfWXA6O5OGGm9sBliasF9RnmjYbAJfp6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言购物车作为手机淘宝连接用户需求与商品转化的核心桥梁，既是营销活动的关键触点，也是用户从浏览到购买的核心决策点。今年，购物车端侧团队为了避免发版限制、支持业务快速迭代与灵活扩展，完成了从Native</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556275&amp;idx=1&amp;sn=1fb660d55027c3efc763ac81e48fbee9&amp;chksm=e86c552c8723e1c099f094c2b8675c69e4ab2950b6c481afc56b462b06c438c1a7fe315d5949&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让 AI Agent 实时生成个性化交互式可视化体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKopbGVcQoWFVLNFmmTic1evwux49adMJ9V3dYsl7Oh6oCGP4VTUW3hoiaHNCJsslxcmnIeTF309Snw/640?wxtype=jpeg&amp;wxfrom=0"/><p>业务背景最近我们在尝试能否大幅提升 AI 或者 Agent 和用户的对话体验。现在市面上千篇一律的 Agent 对话， Agent 只是输出文本，高级一点就是输出 markdown 支持的一些图表来实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556258&amp;idx=1&amp;sn=3c24a4e8b9167b8839348cf00cbc2055&amp;chksm=e8d0539fa30bd3c53905290f4cf8cfcd45f4d3fd5910fd31e3108eef95d318d6e2d02ea8024b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

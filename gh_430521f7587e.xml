@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Rust年度报告出炉：开发者越来越多，但大家开始担心一件事。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWkZS8XX3N7yDBQ2IAKynSxDib5goYAiaARiaib5MpOont5d6BMvYD2LA4tbfgr4yKUv3Yxw4G6QXHVZBfeN7cofHuE9kO0yOjXJQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Rust 社区刚刚发布了 2025 年度 Rust 开发者调查报告。这是 Rust 连续第 10 年发布的官方年度调查，今年共有 7156 名开发者参与，数据覆盖全球 Rust 用户的使用习惯、开发体</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237974&amp;idx=1&amp;sn=8ccde052cdc2fac971acd0eeaa999526&amp;chksm=bf5154208cf5134f59cbfb2c5c5ac0b8dd76ef0b79ea2815b01930a8d00d721f1f408963a0da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 16:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenTeleDB 征文精选｜我用三个场景验证了 OpenTeleDB XStore 的"零膨胀"到底是不是真的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXUW4RzZ6AIWOHzU1lNWO1e5BDvQAFRdOf6OmU8jibTq6zrKlbib76kRFJMytmpqYysz1JTbz3MQcogmn5G7gTvbcT7ibp8Rdjgy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenTeleDB 数据库线上征文活动优秀作品来袭！本篇为精选文章，分享实战经验与技术感悟，敬请阅读。用过 PostgreSQL 的人都知道，MVCC 机制带来了优秀的并发性能，但也埋下了一个 "定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237974&amp;idx=2&amp;sn=554a70eece2b6b1eb7cca44807eaa22a&amp;chksm=bfe6a6b0f7378acfcae20395951712f01aec00800c2a4aa4a2a3ee0a67d4e27aaee65baea7a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Mar 2026 16:09:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“智绘桌搭，创享无限”桌面机器人应用开发挑战赛]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhW7ffgvIJeQUQalElQq3icFQBeUBZFVRvARQCAqr0GAfU0qouicsQByJa8tj9aufv3GTTpYYnoeHpwZY5hEpx1NHmN99L5hu0TVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>⬇️点击「阅读原文」了解活动详情。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237901&amp;idx=1&amp;sn=8742c5ff73ff304703a3287b73ec295a&amp;chksm=bf217f24c7807b8101ae5885becd369d30af17df49de1ae70999b987d395b2fde79d78c340c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9go1KUaOzy9GqSFSSvUErjUbakSLyqAJTCUuf6ER8P9zxfFRxdtWhxxksAtiaVeB1tVkRhpYGcicvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 宣布 Claude Code 的 VS Code 扩展已正式 GA。该扩展为 Claude Code 提供了一个原生图形界面，可直接集成到 IDE。这是在 VS Code 中使用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237301&amp;idx=1&amp;sn=f52403bc1c2ecd4d0ffa37b250794783&amp;chksm=bf5f3b6c4c924888b75cadd590493c1409722386fb91d8a579044dfd9689c4e59c24aa3bf2d6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 17:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gitee 软件工厂：以密级管理为底座，构建符合国家保密资质的安全研发体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/EaIX7kWQOG6RibaljIyVRSGQF3yvlLADuW5pjJZ2Hsicz96Bjic0KIPJ5gumiaibRDiaiaruAksXicnYGibXv2VE25SX2HA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在工业、科研、能源等高安全行业，软件研发已成为核心竞争力的一环。如何在高效协同中保障涉密信息「可分级、可防护、可审计」，已成为企业承接涉密项目的基本前提。Gitee 软件工厂以国家保密资质体系为标准，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237301&amp;idx=2&amp;sn=a1292af91c634a2f890403f2db9dd229&amp;chksm=bff683d6267892c7a51e5e6a597ddee4743e826d7818a8e1415f944011a9d27365b361af60a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 17:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[​DeepSeek工程师手误“点踩”，竟惹得程序员破防：以为自己很了不起吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRKicekkMiaztBFh0GA6EdSWdFwiaCAKr2DY4OJadiagGj7FwlZUsnc06YD5ibxCbIE7U6VL0aqezGkz9LVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，DeepSeek 团队工程师在 GitHub 向其核心推理内核 FlashMLA 推送了一系列更新，而在这些提交中，一个此前从未公开亮相的模型命名“MODEL1”引发了社区的高度关注。根据代码上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237273&amp;idx=1&amp;sn=80d5d1ab5fe22e273f42385b82527bb5&amp;chksm=bf25f160dabdef5863a5455c45ad5f8452b4b177e6e6ac6ea1c98b71a9d97188f8206440a5a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 16:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
