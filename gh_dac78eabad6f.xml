@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[兄弟！你真的懂 Skill 吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5UT7xULboqS745IPabH72G1ZYOYvCokcFXZo38U92nVmcKjkajuIiaYyWQ0KNLA9W1CRMukSgXVu6TmiajsfKlEeJUhvJVPliacM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言：Skill 到底怎么"跑起来"的？如果你关注过 Claude Code、Cursor 或 CodeBuddy 这类 AI 编程助手，大概率听说过"Sk</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694816&amp;idx=1&amp;sn=5d796cf823344314aa4dd99163ceef5c&amp;chksm=eb0c45a7503cb9c4cdf8d0dbd22f5d96bc10a047d92b72d1bcaf113281c521092d94e42c236b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文搞懂爆火的SKills原理及实践案例]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5Kb6tyrsqbX5psMOf3XA0QfAHUg99Hibiaicj2J9SXwp1ewBol8gXsMdu8C7Wk8sdcOB2WGuaQXGctlpJQIUGiakeUVAzxbj6ESvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01SKills的推导首先，我将谈谈我所理解的Skills形成的推导过程，我们需要跳出“结果”视角，从零开始思考Skills的由来。有趣的是：我们需要从另外一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694809&amp;idx=1&amp;sn=e42c180cf660e9d16b8a37c43c75b2ba&amp;chksm=ebe3a84b2f3b21eea5293dc6664628c5978fec7c24e11520680dea7cbef5e7ea389b71dd9279&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94kWiaSEKuGuEEufMCHlYUPYxzWsdcssGv5xAmKoW99Mnt46yHKM7FLyoxZiayXRdlp0Wh2nic1k1BEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 技术必须解决实际的问题，让安全真正落地2 在激烈的攻防对抗中，探索主动安全的边界3 追求极致的技术，做别人做不到的事4 写在最后有圣，就有盗。有高山，就有深渊。有天地悬殊，就有腥风血雨。有利</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693233&amp;idx=1&amp;sn=7697562be1ae2c0dfd117dec6c9496b6&amp;chksm=eb9bc7517cf95711585858df6e6c87277c0bb2a2fca520b618d6790a4bd12fc789845c9a8fea&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 16:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑、P0故障频繁登上热搜。表面原因看似多样，但这些因素往年也存在，并不会只在今年集中爆发。真正的问题，是高可用建设背后的结构性挑战。 系统质量难以稳定，首先来自熵增。赶工、堆需求、技术债累积、新技术不断加入，都在让系统变得更复杂。理论上通过规范和流程能改善，但现实中业务压力通常远大于质量压力，技术团队很难真正阻断系统滑向混乱。 第二是墨菲定律。只要系统在运行，意外就是必然：机房会坏，链路会断，软件和系统都有 bug。就算做了多活，真正需要切换时也可能失败。高可用是一场永远无法完全取胜的竞赛，只能尽可能延缓系统走向失控。 更麻烦的是，那些把隐患提前消灭的工作，往往看不见、量化不了；但系统一旦撑不住，重构、多活、混合云这些工程就会立刻成为重点。你一年修一堆细碎问题，年底材料并不好看；隔壁团队虽然出过P0，却因大刀阔斧做架构升级，轻松拿到亮眼结果。 高可用做得越早、越细，越难被证明，这也是行业里最吊诡的部分。公司层面也面临同样矛盾：平时的投入看起来琐碎；真正出事故，又觉得当初投入不够。于是形成普遍循环：系统退化 → 重大事故 → 大规模治理 → 阶段稳定 → 再次退化。 高可用像一场反复上演的运动式工程，谁撞上谁倒霉。有没有破局？从工程角度看，没有快速有效的解，很多团队能做的只是避免成为那个倒霉蛋。但如果希望系统长期更稳，关键不在技术，而在组织文化。 至少有三件事值得坚持： 第一，把高可用视为持续工程。 系统健康像身体健康，需要常态维护，而不是一次性升级。给团队留出质量时间，比突击式治理更可靠。 第二，接受高可用是慢变量。 隐患处理不会立刻带来收益，但能减少灾难级事故，也能让系统不至于一路滑向深渊。 第三，坚持体检。 一年小复盘，两年大盘点，即便无法避免事故，也能把12小时的损失降成2小时，这对业务影响是本质差异。 高可用的难点不在技术，在于组织能否给系统留出生长和修复的空间。 下次老板再问你高可用，就把这篇文章甩给他吧！]]></title>
-      <description><![CDATA[<p>浅谈降本增笑背后的高可用困局 2025年对技术团队不算平静。降本增笑</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693193&amp;idx=1&amp;sn=f4d9c7aa2441ff69dc083386d5e31182&amp;chksm=eb5ccc89531353165b6804c434a7487c7939459c4f2fdd47b8966e1d2cc6dd746056662e6d13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文了解｜火山引擎 OpenClaw 安全最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeVpToKtOt8cFkMz1KWLcR9wxib2xh0B9qF4CDib6N8tFZBfoquA4CsYq8sOQv29wWo5jyCbX0W6FUHib5EXamIquwyqNvjOibLIvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言OpenClaw 作为一个功能强大的开源 AI 代理与自动化平台，通过将大语言模型与本地环境及各类消息渠道深度集成，实现了从“被动问答”到“主动执行”的范式转变。然而，其强大的系统访问和自主决策能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518851&amp;idx=1&amp;sn=e2d623e2141c2635d10cce3a375c28de&amp;chksm=e86cb0c91149edf1d744d303c0934ec09b8f955c9a9acba01662c1cc29561bc88cee2d9babbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 20:11:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[看清 OpenClaw 每一步：扣子罗盘Trace 全新上线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec06ickVGQB5Yva2X0EUep5bhQhiaR2txpMjErGrpVkzCQnLicV1gejIyH46K46jNBicb03yNibvQMLPau9JY2UibbhB6bmuBtT4RYOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近很多朋友部署了OpenClaw，让虾来查资料、写代码、回消息...在解锁全新体验的同时，你可能也会遇到这些崩溃时刻：“我让它查个航班，它说搞定了，结果完全是编的——到底哪步出了问题？”“一次对话烧</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518757&amp;idx=1&amp;sn=a898e99aae18bb91aacdb7252c635c55&amp;chksm=e8e34e9635be0edb641c7c353beeaa8e7d24302075f107ab8caa565f93cf4cb5165d31052e76&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhibSSznYgDLKfJ5SukRtiaSF0Fic457qWWo9rEghlWkMTQncADNhHEuzQPlyoCKFXF8uUOQtciakL6Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Compose 官方对于 native 各平台的底层渲染接口由 Skia 提供，因此在 24 年我们率先实现了基于 Skia 的渲染链路。但在实际使用中，我们发现创建底层渲染通道会增加额外 G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516949&amp;idx=1&amp;sn=7520fb1b4eb8eccdfac9c031076293ee&amp;chksm=e87c6e3f0e3e6d9aca50818ebae7c052b7832db51a23452ef1fe396c0ddec4bc1309a6b8c68f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Oct 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎多媒体实验室画质理解大模型 Q-Insight 入选 NeurIPS 2025 Spotlight]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaAtqichBGwnKTVtiaLu4L0mFIcBGsic4WZFRKL55Tt7Wus2rhqZiauZr0RHneclsQvudEoOgnwTwGU1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景近日，NeurIPS 2025公布了录用结果，该会议是机器学习与人工智能领域最具影响力的国际顶级学术会议之一。据悉本次会议共有21575篇投稿进入审稿阶段，最终5290篇论文被录用，录用论文中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247516990&amp;idx=1&amp;sn=12203e0272f010f8ec3de09d8a98e247&amp;chksm=e8f50cf9a56516b2205bc69c6bc520c44d8e7a40eab756f86ace96df82fcac5bd40049111d93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Oct 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[清华团队开源！1 键生成多 Agent 智能体 AI 课堂。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1TeWnpOOTicgoPmDH4BhZ6bVNnaBZtHMSXOziagptZ9Cv3VwdrucBIYStHPL4ib8Z9icxgWFXIx7Wzg6JfdVzOS6YsBgkOX9Pibicib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 懂的比老师还多，教育会变成啥样。传统的课堂，老师在上面讲，几十个学生在下面听。讲得太快，有人跟不上。讲得太慢，有人坐不住。千人一面，效率堪忧。但如果每个学生都拥有一个专属的、不知疲倦的、还能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532259&amp;idx=1&amp;sn=26ba5941f3d0e70383861553027cf251&amp;chksm=f8ef962f947d52177e6db87591b3c7c64c5ae69a4bece2ad7e634be83e5253e941509d8c6c41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yj0pIWibwBV1SJLpk9iab7mTAmwq8qK1JI5toImI0icm9NROmOcPCmEJrx7Xm815smIibrMn1iansAGiaNvczia5Sye93GJn8lZgU7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷到一篇文章挺有意思的，作者认为 OpenClaw 的核心机制不太对。OpenClaw 有个很知名的功能叫 Heartbeat，翻译过来就是心跳。顾名思义，让 AI Agent 定时醒来检查一下有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b&amp;chksm=f88f6f06d4441ba2c9a73b29cf28be4c9023e75442591f97e626f95819f2ab3e102e398e289c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruy9aL7RYJDGiasnfnLEibqxuEmbvgRKOlvGObLxgPFPohgyFOUghqAU9GHPlqAjuPkhrMfibJ9esAZJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01文档协作平台Docs 开源项目的背景相当强悍，是由法国和德国政府联合发起的。现在已经在 GitHub 上获得 15.5K 的 Star 了。这一个支持实时协作的文档平台，主要用来做笔记、写文档或者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530746&amp;idx=1&amp;sn=80e4e5e273d5554c1a2beeae860df1bc&amp;chksm=f8c8c4a9f2d107791071485613aa0676e935b7a7a82712129c55552bdb1b827f33514113273a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 24 Jan 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[发现了 4 个好玩 SKills，已经在 GitHub 上开源了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwqiavLE43HKoiaIGzr1MJHiamuqoAFuZ9R2X6aRPCQVMDjkKNlxtibsaqb18zTUHAl9C5IxLZ2okWgTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频剪辑 Skill这个开源项目是一个视频剪辑 Skill，叫 videocut-skills。它能够辅助你完成视频处理工作，比如识别视频中的口误、静音片段以及语气词啥的。通过简单的指令让 AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530711&amp;idx=1&amp;sn=6114576066d4fe0ddbabd7cd6ee9654e&amp;chksm=f844ed05212369f84e017b02261ae76548735d504591cfada192360ef80b649a6ef40f7042a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 15:13:46 +0800</pubDate>
     </item>
   </channel>
 </rss>

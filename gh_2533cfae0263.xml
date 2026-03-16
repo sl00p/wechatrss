@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯云 x MiniMax：平稳运行百万级Agent RL沙箱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaD4fWtkgDkgWgPYGXKtdlGmpu0ctQPrJwiatBRPMiaAiaGXEKZWBKDUBpiaQmgnKgJiacVEM62cUhZrQoJerfZquNbNBQQlCmRPrjP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，MiniMax与腾讯云合作，成功完成一次Agent基建的重要实践。基于腾讯云，MiniMax开始部署百万级吞吐、十万级并发的Agent RL（智能体强化学习）沙箱，并在测试环境中实现全量平稳运行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906813&amp;idx=1&amp;sn=a695013e260994bfbc6468f0588015e3&amp;chksm=bcbb2d2dcf4b233816bc20feefc053ded3510442f320f8f37715434e4d84a7ba434192e09561&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 19:55:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，龙虾进入元宝派]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaDcB5S0nARDoEftLicQCnJRI6ArStmL07B9JsVEoibEG7uZfVGgOibXJaia4euugXdZraaUOjHwKrnZK0oxWyItjhJ7oolOIzhftn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>向各位虾友报告，养虾又多了一个好地方！刚刚，「元宝派」正式支持接入OpenClaw。简单配置后，你的OpenClaw无论本地还是云端部署的，都可以进入派里，以Bot的身份参与互动。「人类、元宝和龙虾」</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906806&amp;idx=1&amp;sn=1f2e5a2547cab8564e7a7be654919d8d&amp;chksm=bc4c011ba0b4ae9dd8b77d887c5908cc8a01746f6511b98baa1158e5158fda0d3d05901d99e3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/67ufDnLOiaDRtJvdpcogGiahnBs8ic3CwdrrzPxJkvb9OIswtIafAdyN8UF3sOcpRzibsjOia3lVd44y6dnoAGzIyJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>跟大家汇报一下——腾讯游戏云同时解锁「五连冠+五冠王」双料荣誉。先说「五连冠」：IDC发布的《中国游戏云市场跟踪报告，2025H1》显示，腾讯游戏云用量规模稳居第一，连庄五年。除了用量规模领先，腾讯游</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654905320&amp;idx=1&amp;sn=a517daff0f7f57fe5f539a89311f23a5&amp;chksm=bcbab65b1732b102e06da52391ee40fe12a16a1ae6f9dca2f1dcfb19b83a5b5300306652e70d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯和Dior「联合致电」，到店率提升7%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/67ufDnLOiaDTwZvYzRf8WgmHz7yWEcfNcGibGNUWGsRMCqA7f2A0m6oG22G2xTtbChQic2k3GNGGYkTcW7ASJp3HA/640?wxtype=jpeg&amp;wxfrom=0"/><p>说出来你可能不信，全球美妆顶流Dior，曾经为「打电话」这事儿烦恼。比如，导购说客户不接，是没打还是打错了？客户说「下次再说」，是客气还是真忙？为了消除这些烦恼，我们帮Dior打造了一套AI驱动的VI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654905302&amp;idx=1&amp;sn=d7b54138062a9ca11fdc8fe24e8591aa&amp;chksm=bc2b1d892a9387cd6a2f7cb1f728c00bb0ec3e04642a7c374780de50b3712a8b69e4cb31ab19&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 12:00:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

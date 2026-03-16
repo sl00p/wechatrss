@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[新课首发！VMProtect分析与调试器插件开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612118&amp;idx=1&amp;sn=5897293d6c1e2be53f49989ec20d897c&amp;chksm=b03da102e705c3c787db60ff539d99197e5728efd179d2839dc6f7335f423311a4c88c3c0f9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[某安全so库深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FH9qbxUX7a5MdiaGyR3WZ8sPHibg20XDQn7HIQ1Tib4xZ7o0DGzickz4hibBXcu14ibYdQUDwSrfGBNl4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>分析对象：sub_1B924及其完整调用链（so文件见附件）分析目标：还原代码逻辑、提取核心对抗算法、复现 Shellcode、制定防御策略分析深度：指令级/内核级技术标签：Anti-Frida, W</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612118&amp;idx=2&amp;sn=47fe8a55e77b2ca8f2f8d73c9a9d99d0&amp;chksm=b09898dc5ee2c03cb5f9cd52f04881e7714bc91400d6601bd7f9917c0f89e4bc8830b69f528b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型SaaS钓鱼攻击曝光：LiveChat这样的正规客服软件，如何成了帮凶？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3TsiatHicmGLE3R8u8zynZDctLfDucvVlVpGYSS8Xs7wUMtK51jnxN3kgRwtFOlu56Js6BXUTfz2ld91dAC6eHA3atxc6QJibC0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否收到过自称来自PayPal或亚马逊的退款或订单确认邮件？如果点开了邮件中的链接，你可能会进入一个看似官方的在线客服聊天窗口。但请注意，这很可能是一个精心布置的陷阱。网络安全研究机构Cofense</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612118&amp;idx=3&amp;sn=1f15ecc9baacd7a5edf2354eb4fb4cb0&amp;chksm=b0cf7fa4356f78d4252fe3fd187558e03af125fa1aad085b2fa3cbe19d41b7f464b1b2656e65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3·15晚会曝光“AI投毒”乱象：虚构产品如何被大模型列为推荐榜首]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GtibZaC0gNEl42IEickOiautOZ6vSBOjWZeiaeZQUPRsvPwPwibYslTeL1Qeia2walAahsU07EALsicISEtBgaTsOUz7rnhePGIia6rM/640?wxtype=jpeg&amp;wxfrom=0"/><p>你以为AI给你的答案是客观公正的“全网共识”？实际上，它可能只是一个被精心投喂了无数虚假软文、为你量身定制的“广告播放器”。2026年央视3・15晚会直击AI产业乱象，重磅曝光AI大模型被人为批量 “</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612100&amp;idx=1&amp;sn=5dad5f40fc15a9178446148105d4be8f&amp;chksm=b0e5e6da6c99935426d96b172800eeca501dbecbe2bf5195628c025ea292cfe6a71a1e3bc168&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8C1NLS8ickpcaW5JFsulCDJbLgs7DOTIia3yAXLHia4ydzPF1Bmia22ibUZ5tTDhNt2KeriaM3tiafyP1SVJrSFtEPsUxaBK7DxZKz90icMhdeJdtro/640?wxtype=jpeg&amp;wxfrom=0"/><p>文章来源于安在2026伊始，AI狂飙猛进。作为网安人，是被AI干？还是干AI？这不是选择题，而是励志篇！说干就干！关键是，怎么干？让前辈大咖牛人专家，马上来，上干货！安在助你致胜AI时代，成就职场未来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=2&amp;sn=665031b29a533570894e197bf934f279&amp;chksm=b0dd4feb7f8a964b8a139abcac2828dfe2745e49f3c7e4927f3df94691ced3907762416b188a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客破解 Claude AI 窃取墨西哥政府 150GB 敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0gyh4hg9UpZMjMyibuBse86OjuVO7dajapq76I61OOGyNVOXkg59MjeiaanOfBibI0AicTTxwichrc6mgnbHwiaAkdNQJt5oSeiaRyjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名网络安全公司Gambit Security披露，一名身份不明的黑客通过精心设计的"话术"，成功突破Anthropic Claude AI的安全防线，诱导其生成用于网络攻击的恶意代码。这场攻击从20</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=3&amp;sn=a7e939e9c010d15d93de6a4ee629f018&amp;chksm=b0c59cbe105baa59818ed6741cb2bcc29c486c8b7639c4712d75002af621ae779fd33aa11123&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新课上架！冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=4&amp;sn=8048cd00727af53a9010ba19743e53b4&amp;chksm=b0ca7d55505263efd70e5ae8d619ec1e2f596aac220f69209708d361a480990565677ee5a3ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 助手成为黑客攻击链的一环｜豆包手机安全分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0m0sGQT1KLhQV2LfYNAXAwydqEA1C1NpT5yW0yibeqcxISB8iaafEw5g0wclC3sN6z0zmicf4ZYUIFicULAF3NiaEmYE79QNjkF8EM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当手机开始自己“动手”，它就不再只是回答怎么点外卖更划算，而是会真的打开 App、比价、下单。操作权从人的手指，交给了一个能看屏、能规划、能执行的智能体。2025 年底推出的豆包手机助手（以下简称豆包</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611129&amp;idx=1&amp;sn=87a0b2fcb577ee962a43c2e453b62220&amp;chksm=b021ec2534d11415b9cf93bb7546e9d97913a34735d17464564d5861db4abc1a82a768283b1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

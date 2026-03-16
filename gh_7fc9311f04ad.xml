@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent/Skills/Teams 架构演进过程及技术选型之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yiakiaVicI8QGVYz8Pav0SzpCqR5Egwywh31ZniaNAcQ1eZcbPmKMy4IMwTHnNib2ON356Pq7iaZlPz7Lldj7MTBgR7JK99G1bq229k/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近几年，我一直从事于Agent领域的探索、应用与实践，也陆续沉淀了许多相关的技术文章，相信不少朋友都读过我之前那篇《如何构建和调优高可用性的Agent？浅谈阿里云服务领域Agent构建的方法论》。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558921&amp;idx=1&amp;sn=3fddd356f8f072b31742f0e8be772b63&amp;chksm=e852ea9d4f41be8d433615eb5e1d5acc1f1ea18352b908e0aaa963bced737c6fa9c851da6ac6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何定义“人味儿”？——HeartBench评测体系建设实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yyOoqe8yoT7DFspHxXQApoicD20FwPic9ictlgOC0QkRC3X0GicPnDqcGZ1iaT1D5QRGSLVu6Yq64ukS2B3FCCQIbmmOcjyzSExRgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景：AI下半场从解决问题到定义问题2025年，大模型的竞争格局正在发生微妙而深刻的变化。单纯的 Scaling Law开始遭遇边际效应递减。当Gemini、Claude等主流模型在 MMLU、H</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558896&amp;idx=1&amp;sn=f921e42175ae76b9a9e7771676c000b0&amp;chksm=e87f806c068e6f54b01d387dccf7295e39c9f64008efa48f74143a6fd826b9aadb5e79a50d26&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naItQ2e1ywzYAKuE6JERpR1oibzoL3rRSwGYmoS15HbR2pKibg69HkTb7TmKAv8icYBb6zulvxzScERTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景介绍随着 AI 技术的快速发展，越来越多的企业开始积极探索如何利用 AI 优化产品开发流程。从初期的产品需求文档（PRD）撰写、系统分析与设计，到高质量代码的生成，AI 正逐步渗透到开发全流程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556348&amp;idx=1&amp;sn=dd43334cba9e1b50e197edd709b11f9f&amp;chksm=e82022703f68c68c3a2cbb06f18c87b6c5f993a585804b52b37e43a815fb31a5cc90f9320188&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[极致体验无小事：Weex购物车基础优化实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJOy3wosQA9wcrkuAmQ6YIuD58CHqFLicyZ6TtU0rLDHjIdfWXA6O5OGGm9sBliasF9RnmjYbAJfp6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言购物车作为手机淘宝连接用户需求与商品转化的核心桥梁，既是营销活动的关键触点，也是用户从浏览到购买的核心决策点。今年，购物车端侧团队为了避免发版限制、支持业务快速迭代与灵活扩展，完成了从Native</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556275&amp;idx=1&amp;sn=1fb660d55027c3efc763ac81e48fbee9&amp;chksm=e86c552c8723e1c099f094c2b8675c69e4ab2950b6c481afc56b462b06c438c1a7fe315d5949&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2153天，315.7万...（2026，继续出发！）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXeLibqurR8RSwkibPpq4IP0e6b2zNahAvTrvN65JYIIqJf3wbMWw7dtNb4AcB0vTOlu3lqzBa05ZCvxib8cXicKt9oVlryMLGNEHac/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知不觉，架构师之路视频号，从20年内测开始，到现在已经和大家一起走过了2153天。我不知道，这算不算是长期主义？平台年终总结，在2025年里： - 发布150条作品 - 收获315.7W+观看202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980795&amp;idx=1&amp;sn=4ad7949cad128643ea169ef3e7f546ec&amp;chksm=bc71f9d8a8a3a87912b22d13d720602898285adc14cfdda4bfb40b6c63e30224a60a6bedd7ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Mar 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[首次开源！OpenClaw六大安全规范（第12讲，干货收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcMlv6VMT0vssAX5cgNYuAXa3VCIeuoGHzKhuAHF2IaBYedqMQdcUORlA0r8AaYoKwreMowGAeibG6mZTXdTgf6KFQPtlzDwibKk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》12. OpenClaw，安全规范之前，一直有小伙伴问我，装好OpenClaw后，如何在其人格中融入安全？答，加入6大安全规范：1. 修改前确认机制；2. 自动备份机制；3</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980783&amp;idx=1&amp;sn=d101b35538e24157572daa2a007799e6&amp;chksm=bc10355b5050a2d15586138586cb1332fc4497f2bb0697ce3f0af3e7609420cad1cfa2682bd9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyABu6Ot892TQL5icwFzCCEhorkrZFGG3X41p7VzH8cbDmMUIRw80DxUcmQS5BopEq0DQwsZToqoTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>程序员的世界，从来都是用数据说话、以逻辑决策。面对电车这一出行选项，我们抛开情怀与跟风，只算能耗账、看技术参数、评智能体验、测续航实感。从电池性能到车机交互，从使用成本到维保逻辑，每一个选择背后，都是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980376&amp;idx=1&amp;sn=99ac2cff9afcd4b475c5788ad3c61c02&amp;chksm=bcff58ed2d67a49c9c2f230cf1e19581f477300dfb8c563d61aed42e4416601c227de88c9de3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 21:16:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MySQL，InnoDB，如何调试死锁？（第11讲，超硬核）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOx0Hicx4ibbA45TEalW0KB6g15XiabyYlEd7t06tZfBZvWY9PePnX3icgSAd7d5FOhFYY6icgNQQe9w09Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》11. InnoDB死锁调试近期写了不少InnoDB锁相关的文章，不少小伙伴问，如何在MySQL终端模拟并发事务，今天，咱们一起动起手来，模拟并发事务的互斥与死锁。 【事前准备】</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980367&amp;idx=1&amp;sn=9ac1ea095e028d531f90984aaf665e2a&amp;chksm=bcc12ca7c34c06f27b6a1ea92c5120ec8265fecc268e27aaca72de36617a9f30b8fc4471d21a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
