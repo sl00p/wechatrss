@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源浏览器Firefox官宣最新吉祥物“Kit”，完全由人工设计，非AI生成。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhW5IfCgm0yjWbsIoialUdGibaxJ4XMibMjN8QF8j2oL3cejgr7uDZqTMicoaSjnqOJ0agQicYTOEAr1qDNgr7vtdScrjq8ylDOYiaNaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当所有科技公司都在疯狂给产品加 AI 助手的时候，Mozilla 正尝试用一种更“温和”的方式重塑浏览体验。最新发布的 Kit，是 Firefox 推出的全新品牌角色——一个陪伴用户上网的“数字伙伴”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238120&amp;idx=1&amp;sn=e27101852b532eb1261341a9fe11b281&amp;chksm=bf5269ab5002eb4e8f33282b962938f9341a09247b966919bddcf9cf7b8c7a2adf1252291100&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 16:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[蚂蚁集团全模态代码算法团队自研多模态Web GUI Agent：OpAgent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUA17GOQXcReNawDkmklrGIMlewNIegcicY1j270b8HduO2AEe7MhsF6ibFa6LicngBM3evErpxicEuABZ55pIE35ibu8jX2WKjo2Tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>为应对真实 Web 环境的非结构化复杂性、时序不稳定性与交互隐式逻辑等挑战，蚂蚁集团全模态代码算法团队提出了一套结合了多任务微调、在线强化学习与模块化协作的综合解决方案：OpAgent。OpAgent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238120&amp;idx=2&amp;sn=2c1c1251fae63ab1be473343f8818275&amp;chksm=bf4aec59bf26519b0f006800c10df6cf2ba01d9b4e375ea773afd01621511917fdc290dbf6b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 16:43:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用好你的jj - 重新思考Agent时代的版本控制]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVuaouCCYIueeY0XuG3dgLA7G5fKg8Zpje6v87hvYZ0DvicIS4QnfnPs5qdibNGqHf7H49qExyxoicV1prcBa5mibK7Dqlr7AsVkyc/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文转载自：《用好你的 jj - 重新思考 Agent 时代的版本控制》 作者：王巍 (onevcat) 原文链接：https://onevcat.com/2026/03/jj-for-agent-e</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238041&amp;idx=1&amp;sn=92b4ce9663f36a2d22cf17b0d2a87a65&amp;chksm=bfd85329637fb024484d10d6f395032875110293027b49ece2f1b4d1dc2f0795dd9c4fe8d468&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm28suibvTKNFxwxHQ46oVAGa48BF6ANIOOsFGOJSwqrlUSM8vjNib8EKWEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>距离天翼云 openTeleDB 正式开源已 2 月有余，在此期间，OSC 社区发起了第一期 OpenTeleDB 数据库线上征文活动，征集到了很多一线数据库从业者对于该产品的核心功能剖析与使用心得，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=2&amp;sn=d57d36d7bd01ae09cd67f981163fd053&amp;chksm=bfb99f4b7f9c5d665cbcb7e9769a3a1509f4f8ceddb151a7f0667094ba1fbaf266d85d2e93f5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 14:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码里的“和平协议”：用MoonBit实现无冲突的多人编辑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK96OLCyzjZicfekWmKfuwdfyRkoLpUHeoY3lCMKwgT2xLIJiaBBwwFcuc1tA4Ok1m4c396zordBMrDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：东灯原标题：用 MoonBit 实现 CRDTs 算法并构建实时协作应用‌一.引言当你在 Google Docs 中与同事同时编辑一份文档，或者在 Figma 中与设计师协作调整界面时，你有没有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237322&amp;idx=1&amp;sn=bb81ca2a48ccf7bd60745783018e57cb&amp;chksm=bf440606966c11c4495826bf306b318e9c6629aecab59d108fa8180c919123198731712c760a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 16:12:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic黑客马拉松比赛获胜者的Claude Code配置合集]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK96OLCyzjZicfekWmKfuwdfyDssuWXz1UhSAtvP5y9kgspV7dOevhQlcuuP4akThUAAhicR1GSDLqmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Everything Claude Code 是一个专门针对 Claude Code 的高级配置合集。该库开发者 Affaan Mustafa 曾利用这套配置在 Anthropic 的黑客马拉松比赛中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237322&amp;idx=2&amp;sn=35bd5eba11afade04a7493e9a6797ca5&amp;chksm=bf938dffe889dd391af9b2caa99e9c12184852a4506da046944bb64af5c779dcdcb84e192159&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 16:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[小册上新｜玩🦐吗？ai 编程全栈指南了解一下？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcOlgoBsibcDnHcbCbsoyOCvdXQSEY0VH6V8RdATDNyfTw50G2lAhbC2IG14fnhXgM22njBhJDVm88wQsgl9VkjZ8F7SLYaxUNiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>江湖传言：“只会写代码的分析师正在消失，掌握AI工作流程的‘数字指挥官’正在崛起。”新月异选择的技术浪潮，你是面对在旧战场肉搏，还是换上一身神装？打造金小册最新上线6部小册，覆盖OpenClaw、AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547826&amp;idx=1&amp;sn=4ec151be6a64598ae348ea87acc71c72&amp;chksm=fd1381d86d0358017f0b782d9d4f3c3fffea1e6ff54f6f764abdfe2d745894dd2e78241c61be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 11:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我用Claude Code搭了个四个AI的团队，居然真的能协作开发]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcOtoPrnX3SC5uTakmpVLTc13SuC0baOiaUAp6Oj4EP0cq8eOgdHpIUp2hKmhPnUlfqIN8T6trZ4pOyDV6r8ib1O6645abSuZCD0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>❝这是一个纯粹的技术探索项目——当我厌倦了在单个AI对话中切换项目经理、设计师、程序员角色时，我想：能不能用Claude Code搭建一个"虚拟团队"？让每个AI专门负责一个角色，通过文件共享来协作？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547795&amp;idx=1&amp;sn=43c9c2452cf13ebf4172743a4b736437&amp;chksm=fd7a94e87e1bfb044bffa5a8f20c597f1bcdb6f391dae7076a2b5ef0b5d38c47438c5d13a33b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibteuzpBdELgcYAAnjTic3G2ET5lzkniaRl908vE5WHpqAVBDic3ibCjPSsTIickiaf8XxH0VpXhQtLiaSHBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我又来了😁我得承认，我有个毛病，或者说洁癖吧。在Code Review的时候，当我点开一个*.js / *.ts文件，看到一个函数洋洋洒洒地写了50行、80行，甚至更多时，我的第一反应不是去读</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546646&amp;idx=1&amp;sn=d90dd287ca0b194ee4c4c20f566942c4&amp;chksm=fd7a4d0a2b3cf05c8336932770e42f3eb37a306af1a672e478d3c3ca68eca998addc96f23761&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Konva.js 实现 腾讯文档 多维表格]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibubpo99dGwoYtVsX2RkBqDu5j5xy28Z94ldEganov6VfmVgmGic1y5dloY3HZ6czeh0bdKeOfNSOhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Konva.js 多维表格系统基于 「Konva.js」 实现的高性能「多维表格系统」，支持大规模渲染、分组管理、筛选与排序等复杂功能，旨在构建类似腾讯文档 / 飞书多维表格的交互体验。目录一、项目概</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546641&amp;idx=1&amp;sn=609efca91be326bc3bace88344d07001&amp;chksm=fdae6fa24586483637c2810490b4c28bd35f6985e5a387ecc607904e4be0532af451e0b93850&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

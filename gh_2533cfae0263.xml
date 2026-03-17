@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯财报：云业务规模化盈利]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaC83ibroiamL0hszfuPiaUIib3cTaksicaRWGWZwBia79KFpA03tVia6korMZx2unGqVdBoaawMneqdUTjibydxunicY145Plg0RALdo6yo/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI驱动核心业务增长。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906846&amp;idx=1&amp;sn=d0b902bd8a92a784ea799ea51acc0c02&amp;chksm=bcee599267134d628a4468551ee7f27d254d7fa3edc84fb9f2c1295a17012afdb1c2cf8d1561&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 17:13:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯QClaw来了！微信入口全面升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaA6ibswJ1a2gtk84dnLVqwpTEu85nf5xLk44X1z0ryyj49Yibzx5xd7u83cXFJy5sjM0wdkDzlpYZEiaOuOdVnicWLuQSEjACKCf5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯QClaw宣布重大版本更新。微信入口升级为小程序，支持上传或接收电脑端文件；「灵感广场」全新上线，预置常用任务与 skills，用户无需编写指令即可一键使用。👉官网下载新版本QClaw 基于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906831&amp;idx=1&amp;sn=b1c4b18ac3fc99ac26095fadaefa6127&amp;chksm=bc7e839323866cf49ea90192d6f1b14bcf5a1af890ff46c06f060dcc76ba8db698b0864e6f1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 09:32:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯云 x MiniMax：平稳运行百万级Agent RL沙箱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaD4fWtkgDkgWgPYGXKtdlGmpu0ctQPrJwiatBRPMiaAiaGXEKZWBKDUBpiaQmgnKgJiacVEM62cUhZrQoJerfZquNbNBQQlCmRPrjP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，MiniMax与腾讯云合作，成功完成一次Agent基建的重要实践。基于腾讯云，MiniMax开始部署百万级吞吐、十万级并发的Agent RL（智能体强化学习）沙箱，并在测试环境中实现全量平稳运行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906813&amp;idx=1&amp;sn=a695013e260994bfbc6468f0588015e3&amp;chksm=bcbb2d2dcf4b233816bc20feefc053ded3510442f320f8f37715434e4d84a7ba434192e09561&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/67ufDnLOiaDT6dyoyKxcTMFhHYP9bQJoSu7p9aPkO6mtian4kP6b20ric1rIIVr4goJyNEiakXNYT6vpEswIxd613g/640?wxtype=jpeg&amp;wxfrom=0"/><p>汇报一下，最近整了个大活：腾讯优图实验室自研的AI搜索算法D-Search（Discourse），在「AI搜索智能体」领域的国际权威榜单Mind2Web2上，拿下了全球第一。Mind2Web2由美国俄</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654905384&amp;idx=1&amp;sn=963a7a5026cb8d13e72fd3cf39f2be7b&amp;chksm=bc647b13da0cb927cca354a9ba3e201325cab1dcb3bf001c90d8a108cf1d48f597f006f79085&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 11:14:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国内首个！CodeBuddy支持Skills，给AI写SOP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/67ufDnLOiaDT6dyoyKxcTMFhHYP9bQJoSOhImRKF0QySh18qrfE8YfHNiazg4wd8zDSZNbJdmAvgk4iaWP0mSwjibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>国内首个支持Skills的AI编程工具，来了——腾讯云CodeBuddy接入Skills标准化接口，成功集成这项新功能。这意味着，开发者可以为AI添加多样化技能（比如，智能处理PDF、自动生成PPT、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654905353&amp;idx=1&amp;sn=141ce12c39805a2493f8d97382ea43b9&amp;chksm=bcd048b269987cb0aebb353860f209a5f90b07a8be43809104b9aec223c21485bcb77f10f509&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Nov 2025 20:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯游戏云，五连冠！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/67ufDnLOiaDRtJvdpcogGiahnBs8ic3CwdrrzPxJkvb9OIswtIafAdyN8UF3sOcpRzibsjOia3lVd44y6dnoAGzIyJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>跟大家汇报一下——腾讯游戏云同时解锁「五连冠+五冠王」双料荣誉。先说「五连冠」：IDC发布的《中国游戏云市场跟踪报告，2025H1》显示，腾讯游戏云用量规模稳居第一，连庄五年。除了用量规模领先，腾讯游</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654905320&amp;idx=1&amp;sn=a517daff0f7f57fe5f539a89311f23a5&amp;chksm=bcbab65b1732b102e06da52391ee40fe12a16a1ae6f9dca2f1dcfb19b83a5b5300306652e70d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

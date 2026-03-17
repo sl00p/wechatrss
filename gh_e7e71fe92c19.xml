@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[特别预警｜开发者请注意：使用OpenAI Codex 可能被攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bjqkTYmGd1tsLIljtvKCa66hfIwGlG0udP7H6FhTyZ0vgVKSDvVIicZUpQZ0L2iap7OohuTnlqUxqscUqt4x8ZSjOc7YRuT6mo/640?wxtype=jpeg&amp;wxfrom=0"/><p>DARKNAVY 近日发现并报告了 OpenAI Codex 桌面端中一处严重的未授权代码执行漏洞。该漏洞绕过了 Codex 的默认权限限制，攻击者仅需诱导用户打开恶意构造的代码仓库/文件夹，即可在无</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612312&amp;idx=1&amp;sn=fbdcc7d2c5e82d2f8c263921066c0eec&amp;chksm=b0bdc98141a1705f57b61473fa0793efcede3594adb950da57b2e70d862bbdcb8953fc9f1746&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今晚7点！安全圈顶流 “养虾局”：AI Agent 安全养虾实战，教你敏捷落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0155BJeuNrK1GsKx9l1dfLagJ3vpTbMibS1Qpv65r88dMIVVPmslugnZS9ANicAIbC4spxOMm1iaPiajic94iauzUGF9P12TwFUCX54/640?wxtype=jpeg&amp;wxfrom=0"/><p>🦞安全圈“养虾”实战局，就等你了！预约直播间，一起来“捞干货”别让你的 AI Agent 变成“坑虾”——数据泄露、合规翻车、越权操作… 这些坑全给你排雷！腾讯云安全天团坐镇，教你怎么把 AI Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612312&amp;idx=2&amp;sn=4cb03698c61b1c40f5504246bd8a112c&amp;chksm=b09b34975391d730a87cb07c1209fe29c16926899e47dd10e451f60e97142f3f94f1fd1d4d1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果紧急发布WebKit安全修复，同源策略绕过漏洞影响iOS/macOS]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3wQweia6WEkbv4qVmYZRMtkG6IQoIeFCvFlUaofMQh5ib3cYzT8Zmx1ejqGPSAuict3zjyQZJdqq5LTyq8In8XMqdbYibHlCiaH2kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，苹果公司面向其操作系统发布了首轮“后台安全改进”，旨在修复一个存在于WebKit中的安全漏洞，该漏洞广泛影响iOS、iPadOS以及macOS设备。这个被追踪为CVE-2026-20643的漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612312&amp;idx=3&amp;sn=695fb5c7dad0f5c246b1676d8956efc9&amp;chksm=b06253a8a5141cdbf755872d4473ee70d2c7193289c4a9d0dd079a90ce95e05677de6b87ced4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[新课首发！VMProtect分析与调试器插件开发]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612118&amp;idx=1&amp;sn=5897293d6c1e2be53f49989ec20d897c&amp;chksm=b03da102e705c3c787db60ff539d99197e5728efd179d2839dc6f7335f423311a4c88c3c0f9e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaPmK8R0NWTjDYvARnHeicF9Fa9cVK9ia12JIQzzYtvv0Jf9uGiaX0ibhsXAsmlLH3Y3ia8KsibQbHyXmT8YFLUbfSYkLdUevjLDTw4/640?wxtype=jpeg&amp;wxfrom=0"/><p>通过优化提示词，规范化agent的行为，从而得到一套高效率的java层反名称混淆方法。痛点在安卓逆向过程中，我们常遇到这样的混淆：总结起来可以分几类：1、unicode小语种类，比如阿拉伯语，类名竟然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=2&amp;sn=cba2654f608936f4b165bff4a34d7a49&amp;chksm=b07164db91effde54d91d0318c0d834b41045829edfa63bfa789b5244e66d3a66b77a4a78f80&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[300美元买下你的手机控制权？这款新型安卓木马能在你眼皮底下“隐形操控”一切]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K15UkYqxeeJuV47ia7b6o8mMTiaojdu5eqk56zJchL7WvYFAPiblut5qIS4PwxxMwWETkAQ99mzRznKJX9hGpWpSPqE5ySt0Rb2Ts/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你正在刷手机，屏幕突然弹出“系统更新”的提示，你的第一反应是什么？大概率会耐心等待它完成吧？安全研究人员发出警告：如果你看到这样的画面，手机可能已经被黑客完全接管了。一款名为 Oblivion 的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=3&amp;sn=b55cf16829c9e232b4b38d922db4f0cd&amp;chksm=b0520d544347ac2fdb0e85b631e489f3fac0d452a10736258cae188f0adf8e5418f20796a59d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVE-2021-1732 内核提权详细分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1enjPer7RVxcXZUV0hDT54ma5LrhkyBPI0am3QVj4ibjvBTJWwT1zokHFd3ncto7zjichCMYuz21Ujsa8JJlD8S426qiczsDBB6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>对 Windows 内核一直挺感兴趣的，打算先复现CVE并熟悉各种模块。在CVE-2021-1732中，真正的高危点并非单纯的未初始化内存，而是win32k 通过KeUserModeCallback主</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=1&amp;sn=2059dce6296e9b4e376e9e6d2666c11e&amp;chksm=b0c4a81dca843c7338d477ecefa3a1618c99a36f5cd295b7a285a5cdaf939176f5b7e786df24&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[未来CSO训练营策马速报，五重豪礼祝你六六大顺！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/8C1NLS8ickpcaW5JFsulCDJbLgs7DOTIia3yAXLHia4ydzPF1Bmia22ibUZ5tTDhNt2KeriaM3tiafyP1SVJrSFtEPsUxaBK7DxZKz90icMhdeJdtro/640?wxtype=jpeg&amp;wxfrom=0"/><p>文章来源于安在2026伊始，AI狂飙猛进。作为网安人，是被AI干？还是干AI？这不是选择题，而是励志篇！说干就干！关键是，怎么干？让前辈大咖牛人专家，马上来，上干货！安在助你致胜AI时代，成就职场未来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611191&amp;idx=2&amp;sn=665031b29a533570894e197bf934f279&amp;chksm=b0dd4feb7f8a964b8a139abcac2828dfe2745e49f3c7e4927f3df94691ced3907762416b188a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 18:00:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
