@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI开始“接管”代码审查：谷歌工程师开源Sashiko，直指Linux内核]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUoZ10Uib8L0BKltHEFV7e1oVy5lAmFibMibSCcjVdX5KaArhSqxTHmeyVUUY3iaYBFlJGgu7Ll57jkd0EoEzMyEpWKibBW9xC3WCvk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI 编程席卷软件行业、代码产出指数级增长的当下，一个长期被忽视的瓶颈正在浮出水面——代码审查（Code Review）正在失效。就在这个背景下，谷歌工程师发布了一个颇具信号意义的开源项目：Sas</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238203&amp;idx=1&amp;sn=0a3fa07de5e3b6a14f58c80ec6c4b5e5&amp;chksm=bf75c9ac86e4aab28bbceb85a06c4c80b5994824780a82686535ac1b65b0e6fa3e1a64d2fedf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:18:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[燧原科技入驻 Gitee：国产 AI 芯片推理软件栈拥抱开源]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/yeVFdDfsr5iaxyIIK2ByrAbFYh0rsCn87bFv1VwT4zBlxzunySnm1N8ibYKbqhIWuFrLaa8q0Hu38xxEm7KM34XKcPF83YGYhZjSHoZLbs9tc/640?wxtype=jpeg&amp;wxfrom=0"/><p>国产 AI 芯片厂商燧原科技，近日以开源组织身份正式入驻 Gitee。燧原科技成立于 2018 年，总部位于上海张江，是国内同时具备高性能云端训练与推理能力的 AI 芯片企业。成立近 8 年来，公司自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238203&amp;idx=2&amp;sn=e5bbac2f315c88f77bf0d0b67c8ada30&amp;chksm=bf2664ca312f06fd12857e42d0df420c622a50e28498ee6493bad75f584b8cdf638698912885&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开源浏览器Firefox官宣最新吉祥物“Kit”，完全由人工设计，非AI生成。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhW5IfCgm0yjWbsIoialUdGibaxJ4XMibMjN8QF8j2oL3cejgr7uDZqTMicoaSjnqOJ0agQicYTOEAr1qDNgr7vtdScrjq8ylDOYiaNaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当所有科技公司都在疯狂给产品加 AI 助手的时候，Mozilla 正尝试用一种更“温和”的方式重塑浏览体验。最新发布的 Kit，是 Firefox 推出的全新品牌角色——一个陪伴用户上网的“数字伙伴”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238120&amp;idx=1&amp;sn=e27101852b532eb1261341a9fe11b281&amp;chksm=bf5269ab5002eb4e8f33282b962938f9341a09247b966919bddcf9cf7b8c7a2adf1252291100&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK9qDPic6crqyhK9Qhnxvy2pC1U7ALXUYibNk7e0N3oENnbYFlC9hibpCdLcUNES4zMy0rXiccgVM8c7uA/640?wxtype=jpeg&amp;wxfrom=0"/><p>📒使用教程 让Clawdbot接入模力方舟：本地Agent跑通国产大模型 🔗github.com/openclaw/openclaw #开源#AI#openclaw#助手#热门#项目#Macmini</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237437&amp;idx=2&amp;sn=38ac87720d06097848fb83008f12e030&amp;chksm=bff5dcdfcf84f2f0462ab21a2bcd65630e4fc954838e98cc878701239238be7458a083d494eb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 02 Feb 2026 16:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Skip正式开源：基于Swift构建原生iOS和Android应用的跨平台移动开发框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm280CSuqUmtIMmiaTzYtE6kNZn4kSpvJnB1mJ82VfTLRnEO2MCYxgoQMQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>跨平台移动开发工具 Skip宣布重大转向[1]：自 Skip 1.7 起，全面取消许可证与订阅限制，向所有开发者免费开放，并同步开源其核心构建引擎 skipstone。此举标志着 Skip 从商业授权</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=1&amp;sn=06c5c7baea7be5fe5db76b95751f77ab&amp;chksm=bfc7aec28d7f3b9fe73802a994952468931c5550d00d3a6a3f7c2692a5b0544843128db0bcad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 14:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从选型到部署 | OpenTeleDB 数据库线上征文活动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dkwuWwLoRK8YRdZOAGibklrPmKBgtDm28suibvTKNFxwxHQ46oVAGa48BF6ANIOOsFGOJSwqrlUSM8vjNib8EKWEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>距离天翼云 openTeleDB 正式开源已 2 月有余，在此期间，OSC 社区发起了第一期 OpenTeleDB 数据库线上征文活动，征集到了很多一线数据库从业者对于该产品的核心功能剖析与使用心得，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237341&amp;idx=2&amp;sn=d57d36d7bd01ae09cd67f981163fd053&amp;chksm=bfb99f4b7f9c5d665cbcb7e9769a3a1509f4f8ceddb151a7f0667094ba1fbaf266d85d2e93f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 14:32:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

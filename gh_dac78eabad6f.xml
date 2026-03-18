@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从架构到代码：深入理解 OpenClaw 的双源记忆系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7vNXrYkz2blMVcE542VXTUUibRibG6TmEggkIibISuUQDp9kxiand9QTiaxsUNwG1Gic9yUbFW7ATt7yte3xXIcG18FaDricdP5Iy9gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇使用完 OpenClaw 之后我最大的疑问是：一个 Agent 同时活跃在 Telegram、Slack、企微甚至本地 CLI 里，它是怎么“记住我是谁”的？这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694887&amp;idx=1&amp;sn=192feccb73717c5ecbd3a2c886c9a5e8&amp;chksm=ebc80787da02cf354c875efe3aec560fae9e82e7624143c63000add18292d28819e6ae4e5594&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[QClaw重磅来袭，微信入口全面升级，码管够！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6BP68icOAiaOf2icuf3jcE39fRV56KJT64tT7JWW2BiazoWDbgrQHdAVel96GCbnz03PSicR7weSiakztaR2fyqbp9WgqREL639eIibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇刚刚，腾讯QClaw宣布重大版本更新。微信入口升级为小程序，支持上传或接收电脑端文件；「灵感广场」全新上线，预置常用任务与 skills，用户无需编写指令即可一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694883&amp;idx=1&amp;sn=9d9622d647863336cbdba0a861f595c0&amp;chksm=eb470d2841ae4fe4d1f71d8b2df603237f3849d33e60a65dabd4961e8c832b52f9720ef4404d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[AI时代，架构师还有存在必要吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96cOwVhyzCmO9yLIokzT4QIwr6M38icIjbS0HjOhpkmqicpHdhba3bcxZAq56zgRKjjibRvf2Prib5IJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 从架构说起2 AI架构的演进3 未来世界一瞥4 人人都是“架构师”5 写在最后：每个人都要成为“架构师”AI 技术的飞速迭代，在极大增进各行各业工作效率的同时，也对一些工作岗位带来了被替代的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693261&amp;idx=1&amp;sn=bb0bff57fbba6cdc23a7a4080c2641be&amp;chksm=eb4db8c15b509bd46dd428d9cfaa22cab56596915a5c74bc34d7e80888151ea089966a65fd2b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[下一代 AI 底座，需要怎样的 OS？｜2025 OpenCloudOS 操作系统大会全日程发布，席位有限，速来报名！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96cOwVhyzCmO9yLIokzT4QIPdWkEfDNKkw5iaGia6ggaEgiafKmde3jsvyacCSiaQYTjVmM1RZL0G7daQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>12 月 6 日，北京 · 万达文华酒店，2025 OpenCloudOS 操作系统生态大会即将启幕！大会以“以生态之力，让 OS 更懂未来”为主题，聚焦 AI 时代下的 OS 生态协同、技术创新与应</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693261&amp;idx=2&amp;sn=758004c06afa1c908c7c6c7fc6a8ba33&amp;chksm=eb24a5009cff41c4c1b7d7b738c36849f00fbb1198bb5b581eb9a9ed69adb5c976568fe05220&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Nov 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DarkSword串联六漏洞攻破iOS，窃取四国用户敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1SP3RKLaZN4EgXn327Un1q9hrBiaRA8YCptIqh0m2WicImssKblpZOwKyib1Qr50VY9bPxbIkKtJZQJRzspVdUNENlcdr5HhnSew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自2025年11月以来，多个商业监控供应商和国家支持的黑客组织一直在使用名为DarkSword的复杂全链iOS漏洞利用工具包，从四个国家的iPhone用户处窃取敏感个人数据。DarkSword是一个全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=1&amp;sn=290e90fe0eba76c1518ecc3e63e94b78&amp;chksm=bcf0596f14ac28f615934a07edf58c0e90101669647409767f142286b8cee09e992d75ac53a2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直击阿里CTF2026：当AI成为“攻防新变量”，安全竞赛的底层逻辑正在重构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uXIC8Q2eZj0iaXLeoRr9rWjEMa9bawMMmzLUTWIkuDoic1yh0PpA4EcwAEgKA73oFibe4TWUf52zdSwWNrNpHriaUAJiaibWoIeKUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>三月的杭州，由阿里云先知与阿里安全响应中心联合主办的阿里CTF2026决赛现场，多支战队屏幕上同时闪烁着代码与AI对话的界面——选手们正熟练地调度着AI Agent，辅助分析二进制、寻找漏洞利用链。这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=2&amp;sn=77bd02d8dc52cd24cee602308893e368&amp;chksm=bc8eac04ba0df37f9297c377ac7a66d371dbfcad8433a4c361d7141baa3b96139e517d6ca48d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ubuntu桌面系统漏洞可使攻击者获取完整root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0exWJ9t2jibzynuL2MdTb04zCuaSmCrXvrUXfmQZRZmGgTVdKdm4Z3Lnho6dxHrIdFzjM7HtqjHUT4Ru1jJdWBDia5Yddic4h2qQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Ubuntu Desktop 24.04 及后续版本默认安装中存在本地提权（LPE）漏洞（CVE-2026-3888），允许非特权本地攻击者获取完整 root 权限。该漏洞由 Qu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=3&amp;sn=d332faea14a6836a8fecb60a617d3bca&amp;chksm=bcb81d8f4ef595a40fc38040bc7d29daffa4aacb60983cd070fb1d5fb2c00dc72937b21b5a69&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Angular XSS漏洞致数千个Web应用面临跨站脚本攻击风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0yBfojc7gd61gTSfBSYDicEA8RWrYs63WqW2GehYFLXEibLZy13uOvDicZUI6gefUVRc1f7wlcc3rGJ2glotVUvrBM7AfK7bBibIE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Angular框架中被发现存在一个高危跨站脚本（XSS）漏洞（CVE-2026-32635/CWE-79），影响@angular/compiler和@angular/core组件包</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=4&amp;sn=f5a3f0a148265fb23eb9003fec58ebbe&amp;chksm=bc56d81ed2e8723b0b2cfbed73c671f55912aec0e6bafb84abe09a89d74468806ddbae4dcbf5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[英伟达发布“安全版龙虾”NemoClaw]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0uo3xbByG6z1qBWcEImEP4DtuAHab6B92HAomcLdtjmmiaLardkQ2WzgkRnwD8CVqrQQZEYT19r3BnIQSL5MzzwKfdqayibNWibs/640?wxtype=jpeg&amp;wxfrom=0"/><p>自OpenClaw成为Agentic AI领域最受关注的技术以来，短短数周内，其企业级应用安全性不足的问题持续引发担忧。在英伟达GPU技术大会（GTC）上，CEO黄仁勋发布了解决方案：NemoClaw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336167&amp;idx=1&amp;sn=d043eb0783bd9c18b96374aa9566920d&amp;chksm=bcb09154d8d6779f677d1c7226b64487f76b1269a438169d973693165eb5251849d62c07da6c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PKibib8lf8fadY2vFBv4TeBIA39Wu3GWiaj2WJUNIwWLsFmJBsG6ykNVLns9c129xx5icevgKHI4mWj0dS5VHLQmemZicTMzJu7ib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢本期热门电报抢先看：1.从特朗普禁封Anthropic，谈谈AI的安全问题🗽2.Claude Code Security面临哪些安全编码问题🧑‍💻3.浅析OpenClaw在安全方面的危险🦐—————</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=2&amp;sn=00b645d0565208fdc15256cf1c890464&amp;chksm=bc5ab1fd8c17ce1bee1ed2e222267d1f18ac6369714550090be273a0ae4e88954fb5eb665c55&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业系统成0Day攻击新靶点，商业监控公司首超国家黑客]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3wZh3KlM93UQia7AxKDhmbITUpBCiaeWmFsDZgNUMXJRflAruDyPbpT7LMs7v33FFxnKY1VAqt9eGI9ichmHYopMmCic60KW7fs2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌公司威胁情报小组（Threat Intelligence Group）发布的最新报告显示，2025年0Day漏洞利用活动仍保持高位态势，攻击者越来越多地将目标转向企业基础设施和安全设备，而非传统的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=3&amp;sn=719bf99fb201f92f704d5c265d2341ef&amp;chksm=bc32e12dbf8da39c212fa0a968379cd2b3a2d7d15aaae178c07312e55e02e83205e14e898d13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cisco SD-WAN 0Day漏洞已被野外利用，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Hg3cmnsmtXpHbPiaumFhY0IKHorC1EcMFMzCicwNGeYOkfuquGhEq0N535RYPGz9oBSZLIMqB4YXDhibu3OyzfEpopygwOQBuDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对Cisco Catalyst SD-WAN控制器和SD-WAN管理器中的最高危0Day漏洞（CVE-2026-20127），研究人员已公开概念验证（PoC）漏洞利用代码。该漏洞自2023年起就已被</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=4&amp;sn=2e2c1b839f427f7f0600c829e2a1c282&amp;chksm=bca589f0bc8553aef15534b080700f5ee49493725c3e77d6496ba26e0c84001d41cdc6b39b28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Telegram沦为黑客新总部：暗网交易明面化，犯罪活动自动化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1KO7oAYX5JLdkCkNX1TicGfDaR98tSJs2rbaqnjRoJClTdrOQHxorhiaJNABGyQPLyAvSziaxCKZOOiclNgkM1NvP9U4Q4bcMjicFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>对大多数人而言，Telegram只是个人与群组聊天的便捷工具。但在网络安全领域，这款应用已演变成更令人担忧的存在。研究机构CYFIRMA的详细分析显示，该平台已成为黑客的主要"办公场所"，成功将暗网的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335724&amp;idx=1&amp;sn=2d144482a43dfe8583cb475e06c7dd4e&amp;chksm=bc6b85f8793042a9c760c69ea883b68f72319adec8364bd12579da0bc035ee19677795905d4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[iOS攻击工具包Coruna利用23个漏洞入侵数千台iPhone设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19LF6t3KAQ6UTWBQ7JafQuOVq3EuqPaIPzxU63GpX2ZLf1P54YHjog7mB1dgJacm2WT4ibRHswUbzHwLW0ia2O3fTibLgtoXJiajI/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌威胁情报小组（GTIG）近日曝光了Coruna——一个包含23个漏洞利用的复杂iOS攻击工具包，该工具包通过五条完整攻击链在2025年期间入侵了数千台运行iOS 13.0至17.2.1系统的iPh</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335724&amp;idx=2&amp;sn=8e1463622aa98865cf650d04178c02f7&amp;chksm=bca03495bd56ebd5c9a733aebe82054e119d20d762b6ee29c35b01594a65746def578a939bb8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美团 BI 在指标平台和分析引擎上的探索和实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz8BIwGLPr3ufKa2z6QxzzbhtAQH2jXngeyOSRibHVE2mtsnbh4fnGPWM6boQ0HlxEmeaks6KTO4uicuic68Td7iaOFX99Q8ic3u13s/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读在美团，我们构建了以指标平台为核心的新一代 BI 架构，通过自动语义和增强计算两种核心能力的建设，部分解决了传统 BI 平台在个性化数据集驱动下产生的数据口径</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782375&amp;idx=1&amp;sn=9fa8942b14abb27fb85b9fe2ca0ae957&amp;chksm=bc501c6d392944cd62c53dc87d1708fb9e3792323fb6798379356cb936a42640f2639d07458e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 19:58:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dy83beyvgV9CncPNbsDvCL8zMiaHv62sOXiaQLmSJJPClDG1pIhUDiazEVjP0W3GY8xTphKBTYyCg8uvCxKsqjCqDPqT8cm6PvRr8/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~为突破传统 Web 框架的性能瓶颈，大众点评增长团队引入 Qwik.js 重构 M 站核心页面架构，解决了重构前页面加载慢、维护成本高的难题。借助“可恢复性”能力，我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782334&amp;idx=1&amp;sn=33f1357d243060f9bdd511e7c7899139&amp;chksm=bcf668bb68396223745c6a82c43c960128b68236486e9e157d16d71a4382e4cd2ad8f5d75d76&amp;scene=0&amp;xtrack=1#rd</link>

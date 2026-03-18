@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[她终于来了，OpenClaw大航海，今晚开营！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXf6dGBSC8icMwZgI2WOyL2sOpoOv7tz60pOS6G5F6icr5UZup5QogicBSQvesocMF0tAibpnaUe7HlAaYLjq0hTsGJ1f43XVYQdusc/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两周不少OpenClaw相关的内容：OpenClaw，消息路由机制（13）OpenClaw，安全机制！（5）我用OpenClaw，5分钟写出一个skill（3）我用OpenClaw，5分钟写出一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980815&amp;idx=1&amp;sn=d17928f15d55270135c651a604537bd5&amp;chksm=bc61a444fad61d86560df405cc7b98cf264afcab2a97b0216369cb765c4cc011fe8485662982&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:58:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不用花几千买设备，只靠一部手机狂涨粉！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdu5jvseJfzIfWArytT6YicEARYooib7aaIEdwZxXNph8X2FhSMs2icBAKOlWL5dsDR6XPyW39Q0y0z8P3XqFibkJgibd35hF1rDeqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知不觉，架构师之路视频号，从20年内测开始，到现在已经和大家一起走过了2153天。在过去的一年里，我发布了150条作品，收获了315.7W+观看。2025年，视频号优秀创作者，感谢大家的认可。很多人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980815&amp;idx=2&amp;sn=bdae326a6f2c478a2c0ca63ac298fb29&amp;chksm=bca48355221ebbeb40ce3fd3cfccd228a1b1638d68de1aa789f252363ba82349c5d5149505cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:58:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从配置文件，去理解OpenClaw的消息路由（第13讲，干货收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcDrBJ559YiaOvcvJoHRLLxuA2eibJ0TWxDEI7f2slFPUJj4GNblzOw0LhCrFGdhXIvtV911mib8UAfbfkbdXMcDSSA2pibqRW1VFY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》12. OpenClaw，安全规范有童鞋说，OpenClaw的配置太麻烦了，除了模型，还要配置：1. channel：例如，飞书，企微，丁丁；2. account：例如，飞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980805&amp;idx=1&amp;sn=0837ea0d1f892127e277fa05293ac9b4&amp;chksm=bca307804006f9254128e088128263c9e1631dba14adf199a58a787bfea4e9918c17b8fd01f1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyJibIHtWcNYNzPRnOaWMP2UKLMHSYHHP89Il80NRkZQYuK9g4icofiasZFUlyDNWBDphOxtsIdq5dZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》12. InnoDB主键与唯一索引约束今天聊聊MySQL的主键与唯一索引约束：PRIMARY KEY and UNIQUE Index Constraints文章不长，保证有收获</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980379&amp;idx=1&amp;sn=4b45917c8626113f689e2dcca8b396a1&amp;chksm=bcc28599fb33c50cd06f22982a20f62235ffcf6123310ccae2b865aa3c0bc1af0349aac5af28&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有不少朋友想做短视频，问我意见，“沈老师，你觉得我究竟适不适合做短视频？” 问我这个问题的朋友，他们的特点是：都还没起步。还没开始拍几条视频，就开始担心做不做得成，有没有收入，适不适合等等问题。 我通常会回复，拍两条就知道了。 我也曾经是这样。 我适不适合写代码？ 我适不适合做架构？ 我适不适合带团队？ 其实，这些答案我不应该问别人，自己试一试就知道了。 拍短视频，如同敲代码一样，其实自己做一段时间就会有答案。 对我而言，看到自己做出的东西能有种正向激励，自己能提高，大伙有收获，个人品牌力有加强，所以就一直做下去了。写代码，做架构，带团队，写文章，拍短视频，都类似... 元认知，和自己对话，面对一个事情，我为什么会对自己提出这一类问题？ 我的内心回应：给自己找不开始找理由，本身是一种自我保护。毕竟，只要不开始，就不用学习，就不用行动，就不会失败，就不会是自己的问题，对吧？我果然就是这么想的。 温水里的青蛙，只有到痛的那一天，才悔恨当初没有启动... 坦诚面对自己，共勉！]]></title>
-      <description><![CDATA[<p>有不少朋友想做短视频，问我意见，“沈老师，你觉得我究竟适不适合做短视频？” 问我这个问题的朋友，他们的特点是：都还没起步。还没开始拍几条视频，就开始担心做不做得成，有没有收入，适不适合等等问题。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980381&amp;idx=1&amp;sn=b002ffa47ecf038a167f00673533e04b&amp;chksm=bc9115cd55317cdb49bde7de6faf65c8f5d66adeb6d251829581e6dc3e25e4713cfe6a9e3ab1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 18:56:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[年底晋升与涨薪，对于职场人来说，非常重要。 前段时间问卷的调研，有一些问题大家问得很多： 1. 评定标准透明吗？ 2. 评审流程公平公正吗？ 3. 有晋升名额与预算限制吗？ 4. 绩效评估与晋升的关联吗？ 5. 对未晋升者有反馈与发展计划吗？ 6. 跨部门/跨业务线的机会均等吗？ 7. 我要提前做好什么准备呢？ 8... 今晚21:00，和大家聊聊相关话题。 相关话题，大家还有哪些问题关注的？欢迎评论，晚上和大家一起聊。 21:00，欢迎预约，一起来玩。]]></title>
-      <description><![CDATA[<p>年底晋升与涨薪，对于职场人来说，非常重要。 前段时间问卷的调研，有一些问题大家问得很多： 1. 评定标准透明吗？ 2. 评审流程公平公正吗？ 3. 有晋升名额与预算限制吗？ 4. 绩效评估与晋升的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980378&amp;idx=1&amp;sn=3c7cf42c26846161f118b62d7f5460b4&amp;chksm=bc18675c908095c4c06953715e7d1219fe17df01cabe6dd2dcc2c01119c2c93dc51e4eee22f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Jan 2026 13:34:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI静态分析，内核模块隐藏 Frida 特征，绕过linker私有结构遍历崩溃链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1mQic9mIGbOXRMpFyHiawLF1skonK9BUoOiaSX2x1nwIGBjDRFnaROxrzyiczbTibjdAJ43dRDfoAQ5YXT0O5viaO7HIAYm1ZZ29F4s/640?wxtype=jpeg&amp;wxfrom=0"/><p>某sec.so反调试分析：AI静态分析+内核模块隐藏 Frida 特征+绕过linker私有结构遍历崩溃链。1.背景介绍跟随feicong大佬学习后，对某sec.so进行了反调试分析，发现其反调试手段</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612335&amp;idx=1&amp;sn=ca23336eef45a4993cc6e5b191e62a61&amp;chksm=b0f211dee4bc3e78882fe048e0315bd1ab8ded03a7a0b9aceaaddee671358c53a2f253a79cab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预约 | 顺丰SRC第四届白帽技术沙龙，干货抽奖全都有！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2jjb3NgmGDDEQeAbIS8ib8vDFUo77u0CFicC22FwQibu7iaybggrVHPqZhkaSwRKniaeyZViaibPtNQ5oxTWsyj8EQGGjQlnZBou5nnM/640?wxtype=jpeg&amp;wxfrom=0"/><p># 顺丰SRC第四届白帽技术沙龙暨2025年度白帽颁奖盛典白帽师傅集合！■ ■ ■03/28星期六各位白帽师傅集合啦！第四届顺丰SRC白帽技术沙龙暨2025年度白帽颁奖典礼一年一度，如约而至！邀请每一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612335&amp;idx=2&amp;sn=e2a25d958fadaad92956a11de1977d7c&amp;chksm=b035792edaad01b4569b0997a796cc218f2a42cbd381515e7be44da2c64f9b42d98582261525&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Mac用户注意：新攻击借ChatGPT之名，诱你亲手“安装”恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2lw1bX6sMAGLVxwjNvl5dDdLsGESGWria7HA3veJFyCX50zjykos8Fiat3hreAwI0icBW3cYctZMB2ia7HiaaSgoGDok6l9d5M2FicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，社会工程学攻击手法层出不穷，其中一种名为“ClickFix”的技术正悄然演变。攻击者不再仅仅瞄准Windows用户，而是将目标扩展到macOS平台，并借助ChatGPT等热门AI工具的名义，诱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612335&amp;idx=3&amp;sn=25c139304f7633801d34a58d3f3b6b37&amp;chksm=b0b8a9dd55b6b0e660959b6370b9ed2b81d5c25652cc75419e052b3f1d57c85c631ad7e679c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[特别预警｜开发者请注意：使用OpenAI Codex 可能被攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bjqkTYmGd1tsLIljtvKCa66hfIwGlG0udP7H6FhTyZ0vgVKSDvVIicZUpQZ0L2iap7OohuTnlqUxqscUqt4x8ZSjOc7YRuT6mo/640?wxtype=jpeg&amp;wxfrom=0"/><p>DARKNAVY 近日发现并报告了 OpenAI Codex 桌面端中一处严重的未授权代码执行漏洞。该漏洞绕过了 Codex 的默认权限限制，攻击者仅需诱导用户打开恶意构造的代码仓库/文件夹，即可在无</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612312&amp;idx=1&amp;sn=fbdcc7d2c5e82d2f8c263921066c0eec&amp;chksm=b0bdc98141a1705f57b61473fa0793efcede3594adb950da57b2e70d862bbdcb8953fc9f1746&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ruht6NPE4dof1bS9wAHLCtOuLtOmpGI9DBl1SxvOQFVeAUBhod2biaCsJy99AHHyZ0q3Q6w1P0JRuO7J94BGQ8f4UNFQFXict8/640?wxtype=jpeg&amp;wxfrom=0"/><p>记录下第一次搞协议逆向，很遗憾比赛过程中卡在最后一步了。总体协议流程如下：1.数据包=长度（4字节）+nonce（12字节）+数据流（长度-12字节）2.数据流做AES-GCM解密3.zstd解压缩4</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=2&amp;sn=1175d370b234c402a6652f7af8ef4b97&amp;chksm=b0d393f79a9ab9feef1ce353b716fb7b7ce8701a0dfab76f0bc417e65918dbeed6975bc13df2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Feb 2026 18:01:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭秘1Campaign：黑客如何利用“网页伪装”技术绕过谷歌广告审核]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2uibKk5l4yQG2LOLicRuqicSuhgq3Khias037LQRprQhWkw2icmjesAossaGric5EAHUHHtDyzN3UffpMWrVDI1iaViakpszThdK6iayzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近期发现，一套名为“1Campaign”的黑客工具包正在被恶意利用，专门用于绕过谷歌的广告审核系统，向普通用户投放危险的诈骗广告。伪装大师：同一网页，两种面孔1Campaign的核心技</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611491&amp;idx=3&amp;sn=a669a4e6628bd4a53ebc8cc5c44f7327&amp;chksm=b0eda2cc79c369e6fba30a7dc1577350fd294cc843c7f57d23d4fad7b8fd5e022dafd7aa0c87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 18:01:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅打造 | 0day系列——Web框架漏洞挖掘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1WLX8ibFYiaoceyEzibNp7m8iaalzZUfCzmXIrCmkL0ffjF3pfzBBwv5nsby2djms3ibocxibWb4wkHL10FYA8MoJJ4VBIdTfUicSOvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>做网络安全、开发、运维的同行，几乎都有过这样的挫败感：✅ 记了一堆零散技巧，面对真实业务代码仍无从审计；✅ 懂漏洞概念，却不懂底层逻辑，遇WAF/RASP直接卡壳；✅ 学旧案例跟不上漏洞迭代，最新CV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=1&amp;sn=3f8c4b616b1d9d215bf5f202f4d8322a&amp;chksm=b0383a3e541ce2e54f3b50783ad40bd1a61809b09cc823d04a79ba7ca2d260ec8038db55b171&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用JADX-MCP高效反混淆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaPmK8R0NWTjDYvARnHeicF9Fa9cVK9ia12JIQzzYtvv0Jf9uGiaX0ibhsXAsmlLH3Y3ia8KsibQbHyXmT8YFLUbfSYkLdUevjLDTw4/640?wxtype=jpeg&amp;wxfrom=0"/><p>通过优化提示词，规范化agent的行为，从而得到一套高效率的java层反名称混淆方法。痛点在安卓逆向过程中，我们常遇到这样的混淆：总结起来可以分几类：1、unicode小语种类，比如阿拉伯语，类名竟然</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611434&amp;idx=2&amp;sn=cba2654f608936f4b165bff4a34d7a49&amp;chksm=b07164db91effde54d91d0318c0d834b41045829edfa63bfa789b5244e66d3a66b77a4a78f80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

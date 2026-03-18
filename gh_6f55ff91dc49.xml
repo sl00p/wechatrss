@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[硅谷大佬把自己 Claude Code 武器库给开源了，1 周就 2 万点赞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2PMqGiclbsq51JvMvQdQ1hlyO2bUiaY7gEvCibYZ9ztxRfVKc6gIHqnPaTXAJvbIxUongmicuMoj2ozMm2BJGP7xKHNoibuh7HqTXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>上线 6 天拿下 2 万多 Star，这是一套给 Claude Code 用的 AI 编程工作流。这个开源项目的作者叫 Garry Tan。Y Combinator 总裁，投资了很多明星的公司，Twi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532288&amp;idx=1&amp;sn=4d6252412cc5aa0d7b8ea98730957ee1&amp;chksm=f828f765b2d1cc0c6199c39949f213f41da43e1f2f635cdf2e8cbb23d37e6e31775156e65932&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 搜索利器 MiroThinker 发布新模型！我接入小龙虾，太实用了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2NXG8Ywo3p5qnWtBszv1mwTBdy5mR1ia0BGDdTAmAibqMMaS4luNwXj1gE8o5qNHnRdgzoicksNC3ibRYrBfO9STFicIanQeRJ5WbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在，如果我遇到比较复杂的搜索场景：需要深度搜索、多方对比、交叉验证才能得出体系化结论的任务。我直接扔给 MiroThinker。它是一个开源的重型研究型 AI Agent。不同于豆包这种 AI 聊天</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532272&amp;idx=1&amp;sn=e4ea5c1fecc792467f63a79691a37359&amp;chksm=f867819e3b6d399356c149e6e6e6eb085684ab12bc0f18073efee75dcb7978d3f2152094ec36&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyoNQ0xnpg6m70QIgBzC0OoP3Ps8XiaknfSic85ia5VsE07rMujfufZIzplV3apcrNlSkudUzmofvlwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年，可能是会自己深思熟虑的智能体模型正式登场的一年。美团 LongCat 团队刚刚开源的 LongCat-Flash-Thinking-2601，就是这一波浪潮中的标志性模型。它不仅是一个大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530906&amp;idx=1&amp;sn=3ca8b7567391f2d01f5b4df0b2095309&amp;chksm=f8732bf67667b62b28f1f24f2282899dd89bbfc47fa6653f670a4a307363f45108cb824eb816&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 15:12:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4 个本周最火火火的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6QERU4KfLicBiave2CxrAg5d72LVqpZmqCSsjhruvwjjhicsNvMibFv4FVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01编程的方式做视频Remotion 最近因为他们推出了 Skill 又火了一波。Remotion 可以让你使用 React 来以代码的方式创建视频。不同于传统的视频剪辑软件，Remotion 将视频</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530782&amp;idx=1&amp;sn=c8d75db5c20ca31b06e20584c6a3dba3&amp;chksm=f8f9bd7ba99b370e34f80bd63b59999d03ac06ead58b48329e10b85602ad8e7d77cb4204f8e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Jan 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
