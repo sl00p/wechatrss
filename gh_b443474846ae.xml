@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一条被开发者踩出来的路：OpenClaw“涌进”飞书]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgyyJKFEO1QuJqLAgyxSicibrfteFIicREPbWGBcSCIDhJzsdjEEX0osiaQ12m2atjIXZ2A5fFtmkcBaze4FiaInsYYALl4ial70icGN0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 文朋 这几周里，只要在 AI 开发者社区多待一会儿，几乎都很难躲开扑面而来的“龙虾”热度。而一旦准备部署这只“龙虾”，一个绕不开的问题就会冒出来：到底把它落在哪个平台最合适？在中文社区里，一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279079&amp;idx=1&amp;sn=df9c9e62014f2e25a7c328ab188713cf&amp;chksm=bc6288cab626badb11c6a76e76fbed6b7b52551d508c2916dc0e267e340f552a61f0b1d7ab14&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 16:02:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从云原生到 AI 原生：模型引发的新一代基础设施构建]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhIzffJE4GEdqDkY8VtxGcrPzOeFUsicg5ficOv5kicx2y6Bjnk6xzFibHHXsD8hmI5HBBHibnByLlv2pd3cSYCSYx6QXHJiahkuT1L8/640?wxtype=jpeg&amp;wxfrom=0"/><p>演讲嘉宾｜余锋（褚霸） 编辑｜Kitty 策划｜QCon 全球软件开发大会 在过去近二十年，从云计算和基础设施代码化开始，到云原生和不可变基础设施的概念，IT 基础设施的可维护性和资源效能都取得了巨大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279079&amp;idx=2&amp;sn=6d8ba96895a96533341f323699885f02&amp;chksm=bcc67e60e803d15ff48fcad63462b2a8a09357aaac1fd9a8ebe409bd734f37d44c9f4a20984d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 16:02:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[360 如何用 AutoMQ 解决千亿级 Kafka 冷读难题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhh1ZSTKT8x5n7r6qemwKXleEG3psYDfo4HDkPAOr4ibvd8EabGRl5Qwvia490AoezwPrSgnQrU2gBarAuNGG7lrFO8XlmXtHIS4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王任义 360 云平台，基础架构部消息中间件研发 “我们运维上百套裸金属 Kafka 集群多年，最头疼的就是业务高峰期消费积压拖垮整个集群的写入。切换到 AutoMQ 后，日志检索平台的生产</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279079&amp;idx=3&amp;sn=2610b3295f8b649a95597d835a3ed90e&amp;chksm=bcd8461b28011d9dfb47f244c30d6b196b9e6e407992ac4fdb4836d940a705916c5a053fcc46&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 16:02:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgOYRTJs0bg22Us5aJibcya5xJPC9ZcM3vzwUUFicWwrkdK037ibreeYy8MwCNCGGNxibHM9cygqA6LozpSTHqUvB0sCLcaI6iaorics/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 田橙 为了改进 Android 应用中的图片缓存管理，Grab 的工程师将原有的 最近最少使用（Least Recently Used，LRU）缓</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279079&amp;idx=4&amp;sn=791744ee5c208deb7678d6aff8622997&amp;chksm=bcfa1e69822f884e5302fcf0cb39734ab5b99e63b62c989cd889d405ba7b84f9764589353b26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 16:02:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大模型记忆系统 MemOS 2.0：StarDust 技术演进与关键挑战｜QCon 北京]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhG6gxwzThnKBFBibRuIB5hiaib3k5eiaiaBao4icbwianYx0smAaWC2pic6z4k7Db8Ut1KNAZckuVCxYCBxxKWHzIs8CpibIB3uqWoT3m0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon 全球软件开发大会 将在北京举办。本届大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279079&amp;idx=5&amp;sn=178e43107ffbc0496c08f6da31e4c629&amp;chksm=bc9807739cbd3e14697d9491f330b69a63b2b05551581d67677badc2abd4df262eb0852660c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 16:02:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhlKnmr0nxNZoozX8ibYBp4LgXiavkBlaUnaxFsXXv7bqndtKoaIgAkT6xsscRjXOibNyeyb9GXMYzg8D1eAjic5oBiaUeVCNVDdVyE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 骆驼回看 2025 年 Q2 到 2026 年 Q1，AI 的发展路径清晰得惊人：上下文扩充、成本降低，最终催生了 Agent 的爆发。在这场狂奔中，MiniMax 仅用 270 余天就迭代</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279000&amp;idx=1&amp;sn=4a862bc2e0158a317c52206d63236e27&amp;chksm=bce980bdaaba5adf5fb107d6441cae036db975cc14dba75e3d994a83f9011717198826307789&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgLJmLeJP41I7APtpQjUhcf1zhFOPO5pUrF5Tu2CpibSl4Mo6Gac0F22WwHvMicibZricRpWJy43TXnmhLj7RtfibjKSWmAmxz3FSfo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 Steve Faulkner 译者丨明知山 策划丨 Tina 上周，一名工程师从零开始，用 AI 模型重构了当下最流行的前端框架，最终得到了 vinext（读作“vee-next”）。它可作为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277616&amp;idx=3&amp;sn=e3e44dc08b543636cdb026edca5b7689&amp;chksm=bc49318bf8e4160f8fc5759f2f986814599a9f443c80a38790cfd2a530d3bbc2caa28a798751&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 16:11:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjIWnVbpib1m7weibTUmAbhwQ0zfyic5MZOEbkDSyKhicznQ61IQy4cPYTvFtNFqDJTgib2XdJVULo8bxIbjh135xsIts3NQxw7OQ98/640?wxtype=jpeg&amp;wxfrom=0"/><p>3 月 5 日，十四届全国人大四次会议在京开幕。政府工作报告指出：一年来，我国发展向新向优、彰显蓬勃活力。新质生产力稳步发展，科技创新成果丰硕，人工智能、生物医药、机器人、量子科技等研发应用走在世界前</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277616&amp;idx=4&amp;sn=3baaa739704c2348acd982105adedadf&amp;chksm=bcecef89a7e9d0c0ef96e952d556e6031c834adea36147e300a6748072f2b1660f9acbc312f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 16:11:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code之父自曝刘慈欣铁粉！不写PRD、不设职称，Anthropic 如何连续推出两个AI 爆款？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhYLCq8PFXacRpMSkc7InJhRXXMezT5vsW1Y4hZ4BaNWdQftfHibd2mgFEaW5cWibDFI96v6RJsySiaFZR5AysibYzPibR9icPIYIiakk/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 Boris Cherny 近期访谈不断。他是 Anthropic 公司 Claude Code 的创始人兼负责人，他曾在 Meta 公司担任首席工程师五年，并著有《Programmi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277501&amp;idx=1&amp;sn=7badf6996890515e42ef23afc1763ec7&amp;chksm=bc7ad91b00e7ad7c4afa91125eb79f0982a9b4e390acc843e8b3bc1896111c0ce87d42a9174f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么现有的 Agent Infra 无法支撑生产级应用？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgicq8OCoKHNrmgJXP11Waa7YvKKm8kemU15NwhbqmPywqRPVA6r3A0qolj8ic4HTjDs7FrGcCZ0mEs1CicxgvfKmCTmoCiaetQibQ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 戴冠兰 编辑 | 李忠良 我们正在经历从“对话式 AI ”向“ Agentic AI ”的跃迁，2026 年的核心命题已经不是模型够不够聪明，而是 AI 能不能真正接管生产环境里的工作流。想</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277501&amp;idx=2&amp;sn=7b14643863ed5526b58b21aaab65df61&amp;chksm=bce31a7436da0ff36d66e220c59a0a53d4e4c5c77177c295341d190baa1bd09693eeda109fa8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智械盛宴下的孤岛：AI、资本与知识生态的隐秘危机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj4S6F8MyzgrO14F941uzu4U67wtByNGRFt4762cFgHTjffnBWXIwiays2PctbPkKCibM9E7f5DFubmnqluqlkwc8KVDSSeHAxj4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 臧嘉玮 审校 | 蔡芳芳 近年来，人工智能（AI）对就业、产业创新以及知识生态的影响成为社会热议话题。媒体和舆论常强调 AI 可能取代大量岗位，引发焦虑。然而，从实际观察来看，AI 对就业和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277501&amp;idx=3&amp;sn=ba486dfc64801c2ad85045e5d0605e06&amp;chksm=bcafee69aa9b4972a32d5524060b876775f5b2d69f3866ac87e46f3db146bb19f97e34ec64a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌将其开发者文档带入 AI 智能体时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjJtOkE3XwnARpTWb3s7pWWSQ7FiaH9BEWgLxpYurTicmcWqcsaWiafAyYQnbkjYNZdUnr4FX1uH5dwYWMIQJRUNoVtKVOdr44M0k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Claudio Masolo 译者 | 刘雅梦 谷歌宣布了开发者知识 API（Developer Knowledge API）的公开预览版。它附带了一个模型上下文协议（MCP）服务器。这为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651277501&amp;idx=4&amp;sn=182eacb64cda364c9127dcf92cafda2a&amp;chksm=bc0d8cdda697382c80f43330b6a677e1c40f4d51d011e8429432a3ff7c482c1ace447c49196d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Mar 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

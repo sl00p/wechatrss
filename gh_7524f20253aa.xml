@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[间谍活动闯入现实：当基础设施成为情报收集通道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0OV0B0HWnfwNIXGMggGiaKm0aFoZup2QvBrPo6XlNcbjhz4mnxicRZKMGP4rPRr3SxtvNW5C7HJntmmqFKDic8GhDibK8I5xWqaLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01共享服务带来的安全困境现代企业依赖的共享服务、统一身份认证层和互联服务提供商，正成为犯罪团伙和国家背景黑客组织的渗透路径。这种依赖关系的重叠已成为CISO（首席信息安全官）必须应对的核心安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=1&amp;sn=fa23efd356c0f87d675c49328d461e49&amp;chksm=bcbff6c453c24a01e40c3c019670d200a04a80259bf9f4ddb1cc26efb150dcbefbf7dc3ec322&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Betterleaks革新密钥扫描，比Gitleaks更快更准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX01rg4TsPSg9RE1ugjW3BrWNOkmLfv5tZT7O349kd9zz1wnKkco5VIKWESjrrK4Xg3UXh8YnsBYyTJtT92MOOA7Xukks6wkMLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01工具概述密钥扫描已成为工程组织的标准实践，而Gitleaks是该领域应用最广泛的工具之一。该项目作者近日发布了一款名为Betterleaks的新工具，专门用于扫描Git代码库、目录和标准输</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=2&amp;sn=393f933fedd96f91e54fe8e13ffc5228&amp;chksm=bc888b2343c53028f2954bee30f598c507168ac6449a9e5df0d2ab692273a872ea4fcb274f52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Amazon Bedrock、LangSmith和SGLang的AI漏洞可致数据泄露与远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2uibniaeeR6sWEvCsvWLLJC2l4Ea3ibicSuyH6iaSsjLrLC2au2icI9BxpMDic62GrYibvyAGO5kc8egOjPVxRkJiaY1a7fyk9yRlMM94I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Amazon Bedrock沙盒模式曝DNS数据窃取风险网络安全研究人员披露了一种通过域名系统（DNS）查询从AI代码执行环境窃取敏感数据的新方法。BeyondTrust周一发布的报告指出</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=3&amp;sn=1f70e65cb542b1ace2b123d385cb4cac&amp;chksm=bc4b7820fbaabe0c46df382d78f5e80becd6391467dbe1b70722a9659adfccc5e1255c00b4e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[键盘记录器全面解析：从工作原理到防御策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3AYnibaN0oRCnnEs9QicCXYUCnVwbI0QyJgj7fgKGlpTo9jt29yu55K5Kaw3R13WoHJcIaDqN1yicRcjqp1bS9kfTqcAMG22N3Rc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01键盘记录器基础概念键盘记录器（Keylogger）堪称最古老的恶意软件形式，其历史甚至可追溯至打字机时代。这种监控软件通过记录用户键盘输入来窃取数据，并将捕获的信息发送给第三方。网络犯罪分</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=4&amp;sn=70215a32709ec9df928967b71a94b8e2&amp;chksm=bc1250b2657ef930010a48d52c524ea7d2fc997c921b50e8c97699fb67f4cf3cef250ab0cb66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DarkSword串联六漏洞攻破iOS，窃取四国用户敏感数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1SP3RKLaZN4EgXn327Un1q9hrBiaRA8YCptIqh0m2WicImssKblpZOwKyib1Qr50VY9bPxbIkKtJZQJRzspVdUNENlcdr5HhnSew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自2025年11月以来，多个商业监控供应商和国家支持的黑客组织一直在使用名为DarkSword的复杂全链iOS漏洞利用工具包，从四个国家的iPhone用户处窃取敏感个人数据。DarkSword是一个全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=1&amp;sn=290e90fe0eba76c1518ecc3e63e94b78&amp;chksm=bcf0596f14ac28f615934a07edf58c0e90101669647409767f142286b8cee09e992d75ac53a2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0icHmBaVN6uXMicah9ktUcf9EGVbtWic2gecIib4xjLg15E7ibqlpwHx1gq9C0eCvZj2m3HUy39TMHyzDHHKlXwMUPV0Z8sNSxY4yQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Codex Security正式发布OpenAI Group PBC今日正式发布Codex Security，这是其编程助手Codex中的一项新功能，可帮助开发者发现并修复代码漏洞。此次发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=1&amp;sn=287680222254338abf4ea2941bc4a401&amp;chksm=bc827541995824aeab35b439a474d8610bea7134f101717842ace39b29acbc138beea9b520dc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux rootkit滥用eBPF与io_uring技术，隐蔽性远超传统攻击手段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3HfxczM4Zuhg7xn9T2Dn1gmNq33lTyRyP76mzbNW53Sxe8JOYu2fkSPJm58GqDhsCib8p1NzdUMo26T9LalYq1dN9gRWSKM2Ls/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux rootkit已悄然发展成为现代基础设施面临的最危险威胁之一。多年来攻击者主要针对Windows系统，但随着Linux在云环境、容器编排、物联网和高性能计算领域的普及，攻击态势已发生根本转</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=2&amp;sn=748890460a543f51571f5bfaf4086715&amp;chksm=bc11cb2e14e9adad4a85701f167c54f805fca983a45d43db388dfd49636b37c117158114e5e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 0-Click漏洞可致开发者AI Agent遭劫持；Telegram沦为黑客新总部 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖OpenClaw 0-Click漏洞致恶意网站可劫持开发者AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335833&amp;idx=3&amp;sn=e9f81554aa46d38f334ffb265208432a&amp;chksm=bc6970aa0c4f73cfc4e8e31bdac5569786a4a235dd9d8b9a8b638243fd26f49fd4a2a8e64ba6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Mar 2026 12:14:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[汽车胎压传感器或成隐私泄露隐患，可悄无声息追踪车主行程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2EGmcCtibWtTDR4Ts94zGD454YK1hD0Gbibt8N4LPJ05Dwr6QtcpkWEk3JywMp4LSGdEeHsfTFopfHEWEWZtpwIkboh1caicjMicU/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代汽车配备了大量安全功能，但这些实用工具可能泄露的远不止胎压数据。IMDEA Networks研究所与合作伙伴的最新研究表明，包括丰田、奔驰、雷诺和现代等主流品牌在内的数百万辆汽车搭载的胎压监测系统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=1&amp;sn=fa2657dc8f4c3a6b8c0989da0a0d1b8c&amp;chksm=bc0a670ed38aad1b952e5c9ba656d0417202422847f5f3ed4672517cd46de4ca18224acad532&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从特朗普禁封Anthropic谈AI安全；Claude Code Security的安全编码问题 | FreeBuf热门电报精选集第十九期]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PKibib8lf8fadY2vFBv4TeBIA39Wu3GWiaj2WJUNIwWLsFmJBsG6ykNVLns9c129xx5icevgKHI4mWj0dS5VHLQmemZicTMzJu7ib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>📢本期热门电报抢先看：1.从特朗普禁封Anthropic，谈谈AI的安全问题🗽2.Claude Code Security面临哪些安全编码问题🧑‍💻3.浅析OpenClaw在安全方面的危险🦐—————</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335778&amp;idx=2&amp;sn=00b645d0565208fdc15256cf1c890464&amp;chksm=bc5ab1fd8c17ce1bee1ed2e222267d1f18ac6369714550090be273a0ae4e88954fb5eb665c55&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

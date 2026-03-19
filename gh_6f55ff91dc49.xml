@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近用的贼多的 3 个 Claude Code 开源宝藏，感觉太爽了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3r7nux0WMNaWNRX7zpXXxdTKD3CX7xDaaBOHf1PJdIDEVqnx0icu2HoGGc7UR8Wksxo6vH09tXicFtdYBpGaxopO7ZLW1fJWeN8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个窗口搞定终端、文件和浏览器用 Claude Code 的时候，本地总会沉淀下来一堆 Markdown 文件。我有个习惯，在让 AI 写项目或者去做一些复杂任务的时候，一般都会让它本地去写一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532290&amp;idx=1&amp;sn=7882ad93e1e37a5394911398677c630a&amp;chksm=f8dc3073b91ef257db8137f8ea60a82f039a8dcad6c8849f9cc400f5f3dcba7ade3dc370658c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 15:43:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[硅谷大佬把自己 Claude Code 武器库给开源了，1 周就 2 万点赞。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2PMqGiclbsq51JvMvQdQ1hlyO2bUiaY7gEvCibYZ9ztxRfVKc6gIHqnPaTXAJvbIxUongmicuMoj2ozMm2BJGP7xKHNoibuh7HqTXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>上线 6 天拿下 2 万多 Star，这是一套给 Claude Code 用的 AI 编程工作流。这个开源项目的作者叫 Garry Tan。Y Combinator 总裁，投资了很多明星的公司，Twi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532288&amp;idx=1&amp;sn=4d6252412cc5aa0d7b8ea98730957ee1&amp;chksm=f828f765b2d1cc0c6199c39949f213f41da43e1f2f635cdf2e8cbb23d37e6e31775156e65932&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyMyTWQNTKAR6pn8yUJhIG0BzZLIeYlKAiafyWa1ia1bFkp5RwDo9jckoGlyib5zqPBchfiaFEWgUvXYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClawdBot 的开源项目，可能是最近最火的 GitHub 项目了。最近几天的 Star 从 5K 飙升到了 5W+ Star。它把主动型、本地 AI 助手做成了一个可跑的现实项目，而不是停</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530939&amp;idx=1&amp;sn=bbef18aa1025aea5e937facceafb9878&amp;chksm=f8b1108dbd7dc74eb4160d7938e3477a9f09a57ac653b157d4f6459466ca16807d98ddc5d245&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美团在 GitHub 上悄悄开源 AI 大模型？8 个大脑并行，绝了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyoNQ0xnpg6m70QIgBzC0OoP3Ps8XiaknfSic85ia5VsE07rMujfufZIzplV3apcrNlSkudUzmofvlwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年，可能是会自己深思熟虑的智能体模型正式登场的一年。美团 LongCat 团队刚刚开源的 LongCat-Flash-Thinking-2601，就是这一波浪潮中的标志性模型。它不仅是一个大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530906&amp;idx=1&amp;sn=3ca8b7567391f2d01f5b4df0b2095309&amp;chksm=f8732bf67667b62b28f1f24f2282899dd89bbfc47fa6653f670a4a307363f45108cb824eb816&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 15:12:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

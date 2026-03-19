@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenViking 实战教程：搭建多仓库代码语义检索系统，赋能 AI 助手 &amp; OpenClaw 记忆插件 2.0 升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedrEDsaMDUfJXakibfcGDujMLiaU4fC0C2Uic54cqkBFZTvFEB8As18cgCCWs95Xg6caZn6zttnhTlIWy7c3ySiaXx6V8BnuE7dUWI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与问题：为什么多仓库代码问答如此困难？在大型企业或复杂的开源项目中，代码库通常不会是单一的庞然大物。业务逻辑、基础库、中间件等往往分散在数十甚至上百个独立的 Git 仓库中。这种分布式代码管理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518946&amp;idx=1&amp;sn=71b64437c738c6dcda6ca2797465c743&amp;chksm=e8a3983121cdb2224b5a02c32433035630b8d4e30202ade1f95bee31585117d35e7fa7293678&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 18:31:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何让你的 Agent 更准确：MCP 工具设计技巧]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fee36tN2woNcJb8LVq30BCaVKheEUfnSpVZYrGTvlIEtPTNjrRnNVAZfw3pxzSiatJepBicLjKp9cvluibGibcVPiczv7IsEKsA8EwOI/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：小夏，TRAE 技术专家越来越多的开发者开始为 AI Agent 开发工具，无论是通过 MCP（Model Context Protocol）、Skills 脚本、还是直接使用 OpenAI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518900&amp;idx=1&amp;sn=59be28fe7297a2833af1d548464a899a&amp;chksm=e8383e46dc47cfde09524fae9bf79fa6b52319bf7ebee1a78177603dce272204cd20ec523339&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjMiaDEPwkhZBE9wQBvjJ5wDObxkMRkpSWlwgr3ibNuhticgicxtI7BsYiaLurGhm8OLYxCc2uu5ERXWQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、调度不准问题及修正方式局限性在字节跳动的业务生态中，HTTPDNS 承担着为抖音、今日头条、西瓜视频等核心应用提供域名解析服务的重任。但目前我们所采用的业界主流缓存机制（火山Cache1.0），却</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517155&amp;idx=1&amp;sn=d735ebf8bddda4047ac322a514c6d965&amp;chksm=e806a885417bcbd87691079fd0cba4c5bd08f884d90b100f12b729fefb417ee36b92aed582c8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Oct 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AIO Sandbox：为 AI Agent 打造的一体化、可定制的沙箱环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg1RicB7vlcW9XwvxkgeLia6ib0lO23Szk1xcRjpAtknBcf5VkETgibNZGiaG6Eh51DYAq10FGFyVXqSQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：AI Agent 在执行复杂任务时，常需在浏览器、代码执行、文件系统之间切换。传统多沙箱方案面临环境割裂、数据搬运、鉴权复杂等问题。AIO Sandbox 通过一个 Docker 镜像整合所有能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517104&amp;idx=1&amp;sn=ef0dc840f9133ed09b50f13440a13c76&amp;chksm=e8ff868bf23889a66e1dffad7b3d2afedbc46f7bba3803eb644f5e0657e84980dc36e06fc7b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 18:51:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

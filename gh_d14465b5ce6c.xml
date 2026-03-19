@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[英伟达GPU全系列硬核科普手册：一文读懂NVIDIA芯片的定位、规格与应用场景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907XeDof269zWCRZh5Izt92wuAqIAKllLzuAtEhTOKBPPujYYiaPCSLZ7ic8lPmKXFwdnNgzGSSdl4OkRwl36HFia36EdS5fU4Qic5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：nickycaoH20、L20、A800、RTX 50 系…… 英伟达 GPU 家族庞大又难记？游戏、设计、AI 训练、推理到底该选哪款？别再被型号绕晕！这篇全网最全图解指南，从入门到旗舰、从消</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=1&amp;sn=38323b9e55613e92145c904cb1eae74c&amp;chksm=bf51c732981f44a80369decf8fd953c8d9da6be7bc7ab8bec9c1505f7180e76c5b93076eddad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[探索 GPU 加速向量检索：NVDIA Cagra 在微信大规模推荐系统中的应用实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907J9UlLHsXCNg40kkibjTNVfz3pnicLdiciabxQibhtrr1TkQH8sSAerzVwhsz554nHndeCiaPpTaHffwj8XJ4LyLjiawWFWD0NfwicMdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者: yessitkong (微信基础架构 AI Infra 团队)引言在当今的互联网服务架构中，向量检索技术已成为推荐系统、搜索引擎、内容匹配等核心业务场景的关键组件。随着深度学习模型的广泛应用，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=2&amp;sn=1a1be219c59d8160d87b50d41cf27e5a&amp;chksm=bfcbaa90dd8ad0da6e55c66b5fa8731d43a14390608afab09db8166b5d02c26b71a3efcb0877&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工都Vibe Coding出了什么好玩的东西？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907BEu9sNy7mLhEdabZFPK9mwQ0zCy2icWJeD9qAQib04NRmNwnKuR2AGEiaPuMwaamAPET7ryzDhwP8ibuWrfNubMVGujE1QgPEloA/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景Vibe Coding，正在让“人人都是产品经理”成为可能。不需要代码基础，几句对话，一个念头，就能把“要是有这个工具就好了”的想法变成现实。在内部KM上看到有人纯Vibe Coding出了2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800857&amp;idx=1&amp;sn=3c347f08cdcc6e73a0c1cd8cd7de115d&amp;chksm=bf7371185749ba3ca625caf4c5425fcaf7d219e2e6b823ea6421cd426d1910c7ac6fa1d64529&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavxJic6p9uBmiaXUicP4tjAddXEhMde7LaP8AsP3teeJN9eCOXPV5icuMYt3PFIaKBR5cicwaLiba9TUMPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>以DeepSeek-R1等为代表的推理模型（Large Reasoning Models, LRMs），通过生成更长的思维链，在各类复杂任务中取得了更优的表现。但长思维链是推理模型的“双刃剑”，虽能提</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796334&amp;idx=1&amp;sn=c5741686d4324fc48f67305d8ee7e835&amp;chksm=bf18c93e968c7a1f519fd796224b5300f4692029b0aff9f2fc61fe360b4d4082ba63b5acddf8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂程序员的键盘都长什么样？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavIJ9NotvuFm3u1SYenMLUeBRZLkX9xjwd2PQ6k0lNy1eX9epohPZMJ1OHGlfQJEd63Cbp408e1Ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周1024，司内举办了一场乱序键盘挑战赛，把“键位”玩出了新花样，几十把乱序特制键盘让无数同事手指迷路，现场笑声不断！（乱序键盘图）也有不少同学晒出离谱但好用的神奇键盘，下面这些键盘你都见到过吗？p</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796333&amp;idx=1&amp;sn=d92b8d786aecd491c53bda4e98138c47&amp;chksm=bf3010ef399d43cef74c174bb14e2519a6d9c6ad26e3ee3cb6583afd1dd8e774ceb4cf689086&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 18:11:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编程上瘾指南，一天不用浑身难受]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavxJic6p9uBmiaXUicP4tjAddX6tAowW93T7jGUia85flHcseHsfOT0qaFmGbfMs11ZnYgiayonWvibHBqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：dickenslian 📝 导语还记得第一次听说AI编程时的反应吗？"这玩意儿能靠谱吗？""会不会把我的工作抢了？""代码质量能保证吗？"相信很多开发者都有过这样的疑虑。然而，当你真正开始使用A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796296&amp;idx=1&amp;sn=4b74759f507c184f7d371a1c9bad588b&amp;chksm=bf722623cc26006741b2e6206c9c8dac437a74a0bcfc18da37b238f571a34f7c525a54d571d4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

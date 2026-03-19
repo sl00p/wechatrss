@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[必知必会，OpenClaw工具调用的原理（第14讲，干货收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdYicufw9LmAKDrtbHMKAYFKuv9Hx1qQxhyklPGKDeDDucoK6L9IgU31eW0ewCpPjPIWica1HCpaCfEhxDesAicaNXJJ2ia10I9RBI/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》14. OpenClaw，工具调用有人问我，说OpenClaw和之前的AI工具，例如deepseek，豆包，有什么差异？不都是聊天，问问题，然后回复吗？这里面的差别可大了，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980822&amp;idx=1&amp;sn=65ed9aad7890a8dc125d45cc2c286bc8&amp;chksm=bcc11e48134e26695c55b78753a158356be51219804c611d59b6b1243541ba08af194bfc0280&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Mar 2026 15:41:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[她终于来了，OpenClaw大航海，今晚开营！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXf6dGBSC8icMwZgI2WOyL2sOpoOv7tz60pOS6G5F6icr5UZup5QogicBSQvesocMF0tAibpnaUe7HlAaYLjq0hTsGJ1f43XVYQdusc/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两周不少OpenClaw相关的内容：OpenClaw，消息路由机制（13）OpenClaw，安全机制！（5）我用OpenClaw，5分钟写出一个skill（3）我用OpenClaw，5分钟写出一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980815&amp;idx=1&amp;sn=d17928f15d55270135c651a604537bd5&amp;chksm=bc61a444fad61d86560df405cc7b98cf264afcab2a97b0216369cb765c4cc011fe8485662982&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxISMpiaLbtyJ1lCo38eQuH8OXYImK0icGPk14zuaRKJokrgkGLgKnW49Ric8fZ6axm0lrCWrywjiabyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>复制、粘贴、微调、运行…这或许是外界对程序员工作最深的误解，也是不少新入行朋友最大的困惑。当我们发现解决难题的“神奇代码”往往来自搜索引擎或开源项目时，一个扎心的问题便产生了：如果核心是“抄”，那程序</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980390&amp;idx=1&amp;sn=c523495877992da6deea77b5a9009f7f&amp;chksm=bcdea4cf530b068c72ef5c8e694f6109de8eba3709d8702e92bcd1ab20de259f5f6367ee12db&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MySQL，不为人知的主键与唯一索引约束？（第12讲，超硬核）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOyJibIHtWcNYNzPRnOaWMP2UKLMHSYHHP89Il80NRkZQYuK9g4icofiasZFUlyDNWBDphOxtsIdq5dZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》12. InnoDB主键与唯一索引约束今天聊聊MySQL的主键与唯一索引约束：PRIMARY KEY and UNIQUE Index Constraints文章不长，保证有收获</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980379&amp;idx=1&amp;sn=4b45917c8626113f689e2dcca8b396a1&amp;chksm=bcc28599fb33c50cd06f22982a20f62235ffcf6123310ccae2b865aa3c0bc1af0349aac5af28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
