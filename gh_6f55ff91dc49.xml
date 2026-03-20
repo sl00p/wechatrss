@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个爆火又被删掉的 GitHub 项目，告诉你 AI 会影响哪些工作？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1Cg99mxkjfl11GX7Xs6fSFiap3ut6Pncg8oMzbCobjEJKJSiaCu4EqWlddhEOyFlqm49101RHrYIf9yXKgXWic5khLXYWdy1UhWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 用 AI 给美国 342 个职业打了个分，看哪个职业受 AI 影响最大。然后这个项目太火，他就给删了。他从美国劳工统计局抓了 342 个职业的数据，然后用 Gemini Flash</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532307&amp;idx=1&amp;sn=677d709b52fc857c27c803483094f53a&amp;chksm=f8c477e1346c2e49dce2fa3e0cb78b9e6f0a60fb9d9777bab2654ab9f858cd1f5583c96a9a49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近用的贼多的 3 个 Claude Code 开源宝藏，感觉太爽了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3r7nux0WMNaWNRX7zpXXxdTKD3CX7xDaaBOHf1PJdIDEVqnx0icu2HoGGc7UR8Wksxo6vH09tXicFtdYBpGaxopO7ZLW1fJWeN8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个窗口搞定终端、文件和浏览器用 Claude Code 的时候，本地总会沉淀下来一堆 Markdown 文件。我有个习惯，在让 AI 写项目或者去做一些复杂任务的时候，一般都会让它本地去写一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532290&amp;idx=1&amp;sn=7882ad93e1e37a5394911398677c630a&amp;chksm=f8dc3073b91ef257db8137f8ea60a82f039a8dcad6c8849f9cc400f5f3dcba7ade3dc370658c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6EaEKplicjgic14j0rX6zxj3wXrcUP9GOmE15j2ExsGQe1mzeoj4qDr4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 everything-claude-code 的开源项目太顶了。开源没几天就 3.5 万的 Star 了。。。先看它的简介，上面写的是：完整的 Claude Code 配置合集——Agent、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530978&amp;idx=1&amp;sn=4ffda450408750872a52ddaeb808a2ff&amp;chksm=f8df89218419ccd66be931565f94032bd9a934b26e7924f5f85493973885775afae9467b7c0d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 31 Jan 2026 15:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 5 万 Star！26 年爆火的个人 AI 助手。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruyMyTWQNTKAR6pn8yUJhIG0BzZLIeYlKAiafyWa1ia1bFkp5RwDo9jckoGlyib5zqPBchfiaFEWgUvXYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 ClawdBot 的开源项目，可能是最近最火的 GitHub 项目了。最近几天的 Star 从 5K 飙升到了 5W+ Star。它把主动型、本地 AI 助手做成了一个可跑的现实项目，而不是停</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530939&amp;idx=1&amp;sn=bbef18aa1025aea5e937facceafb9878&amp;chksm=f8b1108dbd7dc74eb4160d7938e3477a9f09a57ac653b157d4f6459466ca16807d98ddc5d245&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

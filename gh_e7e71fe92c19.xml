@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2025 强网杯和强网拟态部分题解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWygicy7WIJD2Hkhv6rjpxMfdMy5sCWLfv5icLhcSgtzic4blCVUYibj9hTNXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1强网杯flag-market程序先是打开了/flag文件只有输入金额为0xff时才能进入下面的逻辑,否则关闭flag并清空token变量随后将flag的头打印出来,将内存中的flag清空,并允许我们</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612341&amp;idx=1&amp;sn=08f4b531105ec2b3a44360f66169db05&amp;chksm=b038129c048d8e34c3056e604bdfffde2379408147e13ae814e71cabe1b407839a367e6f2faa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30小时教你进阶CTF-密码学]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612341&amp;idx=2&amp;sn=3a91841acea634c8508608317df0dd7a&amp;chksm=b0c86bb8707933efc2a0c7915df3e7c961d07d4672f87f2b038b8838f5f5743c0f402e5afd09&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在逆向分析方面-unidbg真的适合 MCP 吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1ZFDomJSIUawThEsOaXSJ9IUEBIPOXtDXqFzGFc3kfQHGGIC0Uqq0OFZz1y3pP8P08xnpSJjbvymTBC2SlSAbuHK6YNniaickpo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言MCP（Model Context Protocol）是当下 AI 工具链的热门话题。当 unidbg 社区引入 MCP 功能后，不少人觉得这是个好方向——让 AI 直接操作调试器，下断点、读</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612340&amp;idx=1&amp;sn=0c799826addbc96801752a6c70938bf1&amp;chksm=b0b422fab5f2262460f89521690b75c4eaeb411c18d908ae2f97c77194a03a545bf37eac056c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2qmu3exo6qbEXeVe5qZAaxR6tOhibJ5EA2ictOaaavn2iawePRe5UwRWVjibicq2j39f4pb6vmeFJrr1CaC5YBXWD3Tl7PHllgicPiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis Security披露热门开源AI代理框架OpenClaw漏洞——无需用户操作，仅浏览恶意网页，攻击者即可悄无声息掌控开发者AI助手，获取设备全权限。OpenClaw曾用名Clawdbot、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=2&amp;sn=7595d5194725c2e978332750d52ad29f&amp;chksm=b0aed2a8aa61700ee7043eb4cdae6b0103717e18dec662397c664062663d4320126c785a9afc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[掌握无人机设备攻防思路——《无人机安全攻防入门》热售中]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8E4gvpb3vgYVWnRWiamTMSjXDiaLSMuwLnlWicGZoJfO1l002hM5kHL7hxtPOBS2EPK43pvlxQn9uZfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>如今，无人机已经成为各行各业的重要工具，其应用场景日益广泛。例如从军事侦察到物流配送，从影视拍摄到农业监测。随着无人机技术的普及，其安全问题也逐渐凸显。例如无人机遭受黑客攻击、数据泄露、飞行失控等安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=3&amp;sn=c1cb1bb3a89df277920d98099876a84d&amp;chksm=b02430c0d56599f1d6e6afa8362fda2d900acb72956509c765344ca8629bdcdc5858be222a94&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux 内核攻击 USMA 解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G0KwjfdJmjlH4Ttf7tDXz5v9h4O8VWjKxLh1wXjOkMRaYVJVPj4icKgOTUsd9dFiaM5aTy7rlMZmNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Pakcet SocketUSMA 利用的是 socket 的 pgv 数组,所以我们在这里先深入了解一下 PacketSocket 的数据结构,在这里我们还是主要关注 pgv 的创建和映射,关于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611640&amp;idx=1&amp;sn=6aaf58b00bafd9b86258f8b74647bf36&amp;chksm=b08e293b9bca2d03e9db5fc356e3872c1d214465af9ce4d8b777d92c422e7832986097a500a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 18:01:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
