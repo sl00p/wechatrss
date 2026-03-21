@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 0 到 1 微信接入 OpenClaw 小龙虾，图文教程来了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ONBA06PpC8yHe3VuI4eM2ejKLj8GZziaI7yrCKq4LNRBJohoOBukZia6HetpHkiaTrk6fiaRhib7Tfia6Rk0ZdicqQtp98zVBXRlB9U/640?wxtype=jpeg&amp;wxfrom=0"/><p>微信推出了一个 ClawBot 的插件，可以把你电脑上安装的小龙虾接入到微信里面。其实这个插件只是一个渠道。你使用的过程中不会帮你创建部署一个小龙虾的实例，就仅仅是把你的小龙虾 OpenClaw 接入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532383&amp;idx=1&amp;sn=fa95a6a8fbff7454c819f3eae40a9d5f&amp;chksm=f832b07bfc5dde9163a777ec423b401ed1949e6398a82f225068ad5bf1f9edddae953215e5a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Mar 2026 15:33:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个爆火又被删掉的 GitHub 项目，告诉你 AI 会影响哪些工作？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1Cg99mxkjfl11GX7Xs6fSFiap3ut6Pncg8oMzbCobjEJKJSiaCu4EqWlddhEOyFlqm49101RHrYIf9yXKgXWic5khLXYWdy1UhWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 用 AI 给美国 342 个职业打了个分，看哪个职业受 AI 影响最大。然后这个项目太火，他就给删了。他从美国劳工统计局抓了 342 个职业的数据，然后用 Gemini Flash</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532307&amp;idx=1&amp;sn=677d709b52fc857c27c803483094f53a&amp;chksm=f8c477e1346c2e49dce2fa3e0cb78b9e6f0a60fb9d9777bab2654ab9f858cd1f5583c96a9a49&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5I7AUbSJN0BOKNND7H6beJVhicyPWkvdv7nE4NbibtPllTibRWLFWECcQbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谁都没想到，26 年第一个现象级的 AI Agent 产品竟然是开源的 ClawdBot。可以用这个开源项目把 AI 接入国外聊天 APP 中，你直接在 WhatsAPP、Telegram 中和 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531052&amp;idx=1&amp;sn=b8908779a1624cf90982e0a4cefec03f&amp;chksm=f81dd78095af43a5ba45257139889074f6a1c5002be8c96889cee4a9eafa9f433fffb7b273ed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 01 Feb 2026 09:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[堪称外挂的 Claude Code 配置神器，在 GitHub 上杀疯了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6EaEKplicjgic14j0rX6zxj3wXrcUP9GOmE15j2ExsGQe1mzeoj4qDr4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 everything-claude-code 的开源项目太顶了。开源没几天就 3.5 万的 Star 了。。。先看它的简介，上面写的是：完整的 Claude Code 配置合集——Agent、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247530978&amp;idx=1&amp;sn=4ffda450408750872a52ddaeb808a2ff&amp;chksm=f8df89218419ccd66be931565f94032bd9a934b26e7924f5f85493973885775afae9467b7c0d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 31 Jan 2026 15:05:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

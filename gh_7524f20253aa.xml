@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[RSAC 2026前瞻：当AI热潮遭遇安全运营]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2GaFc7QYpb8SJJ0XZO3YTyibS765VDcib8bSVybPfjXxyXfmwic9siaBkuCZiawqfSuTgRz25Na51an45ZoRgQ422uCB0WOoPib8Rz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI应用现状普及度高但深度不足本周在旧金山举行的RSAC 2026网络安全大会将成为一场以人工智能为主题的盛会。尽管"AI将改变一切"的论调不绝于耳，但现实情况是：安全主管们正被要求在控制</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336333&amp;idx=1&amp;sn=3c448c6ab4d1bc3da25d97de1bb2fde9&amp;chksm=bcc9d2352f564161a2135105297aa81e6f8bdae089fc599f447c84f8f32857b8ef38aae3b1d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Mar 2026 18:08:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源漏扫工具Trivy遭供应链攻击植入恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2pzKvGnmZQk3cOFpADmUQUfat62hyuZwicVv3zqn1GEnLLj1443l4vTg2wUlhNbmibjkVJUcwgUBv54twhNuZTcbEicGicnjQQ6zI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，攻击者已入侵广受欢迎的开源漏洞扫描工具Trivy，在官方版本及数千个CI/CD工作流使用的GitHub Actions中植入了凭证窃取恶意软件。若受影响项目和组织未立即轮换密钥，此次入侵可能引发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336333&amp;idx=2&amp;sn=edfe2229f180c0a62aad341fcf58f03a&amp;chksm=bc7630c15a72a3c1d3aa58845239083710574bf16707167c60aff6be8bac3b0af599048ef5aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Mar 2026 18:08:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：支付逻辑漏洞思路集合；开源polymarket供应链投毒；敏感个人信息识别指南；]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3EKLDTGdicdpug8HUxXUapatrHSd9qfPUrwWiaqkzG71guRftIGQq6iasn89Nwkibev2NDWGa8DqNjLWgGRXVX7daqqvvVicnibao0s/640?wxtype=jpeg&amp;wxfrom=0"/><p>Loki+Promtail轻量级日志系统解析；全球通用智能体竞争研究报告；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336333&amp;idx=3&amp;sn=7104c4f92182a71bdc7d58e255bc9b4c&amp;chksm=bce1f26a14aaafaa7b901123e6a7ee3f4984c4819bbc50fff016a6a1a2a19e092bf7c7fa317e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Mar 2026 18:08:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[上海智算云原生基座生态集体下场“安全养虾”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3w6uYEoftOCL2UctGGgk9KhXaY9ib4zWRNOBVaxbYLBjjmsy7eMpDVadejgIjISGQic98YDJzx6OqwxVOGBkm4jVCVzddqZfiayU/640?wxtype=jpeg&amp;wxfrom=0"/><p>上海智算生态齐聚！斗象联合仪电、道客、南洋共建“上海安全养虾”。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336279&amp;idx=1&amp;sn=00a95a191a20a65b74b7239368b46483&amp;chksm=bc790b360c4b1c830e683d28c7354d9f76724629bb12800606c25a754de5579dd27fed560ae4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0JQvvlPbib91xTCTVML6K1Mhnb8eucj5Pd4VMDuTsRbxGU4EAw8uuZ3rDj4EyIkBVBib5A4duUOnn8mFia2Yh5fYcOuib51J0Jgaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国联邦调查局（FBI）已确认一起针对敏感内部网络的网络安全事件，该网络用于管理监听行动和外国情报监视令状。此事引发国家安全官员对机密执法数据可能泄露的严重担忧。FBI周四向CNN表示："我们已发现并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335871&amp;idx=2&amp;sn=d6efb0326df2c3dd6977d6118756e1bb&amp;chksm=bc83ef9c2603e7f08d6b1b9d8419ed92f673c8fdde740f50e4036125f95f746bc16e9f9ded11&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 18:31:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[十小时困境：可见性缺失如何拖垮安全运营中心]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0cTnmhAyAa1VmXicOvbPGLibrFE6YKKj4uRftZ0ve1qOhHnTS4WaAu1Q6icCegOuvibef5aicIBcQyhfNF2bz09mxI0fzUiazhiccQbE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01分析师疲于奔命的根源与可见性提升之道安全团队并非因威胁升级而不堪重负，真正压垮他们的是日益恶化的网络可见性。NETSCOUT委托弗雷斯特咨询公司开展的2025年10月调研揭示了一个业内共识</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335871&amp;idx=3&amp;sn=5905c4b4ea3bb490561ea00ce989e378&amp;chksm=bcae7891f2ef2c7565719191e807b3b38ec36f9d4ec3a358882bbff3464f81ff0e50b1b93548&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 18:31:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自动化还是编排？构建高效修复流程以缩短MTTR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1QhoPsYk12ibNkKiaYqpPP2VXsnHLOduGiad0PykQhOsYOftdQjQ3Kia1AiaNyzjuJdAvZugAMLLibse3DyibeBlYVp2MtOO5jiazewkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全团队追求更低MTTR，但问题依旧存在：如何运用自动化与编排有效降低风险？几乎所有安全团队都希望降低其平均修复时间（MTTR）。2024年研究显示，修复关键漏洞平均耗时4.5个月，这充分说明了降低M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335871&amp;idx=4&amp;sn=c81c31c240852e9329e8382e69aeff29&amp;chksm=bc54a89985c7fc0949ee40ecb3a5ebdb86b15022985cbba8bfcfd7abec8baf726196f8cced60&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 18:31:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业需要MSSP的七大信号]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0Zfc0aZnuHwWBb48kMDmbtHE9RXcWK2AtNEaXv2z0xCt9zfvXM2sAXcibKJJdb1uUmFFF5D24ibGSFGeOhOmaFhoLnKtwu6iboOg/640?wxtype=jpeg&amp;wxfrom=0"/><p>托管安全服务提供商（MSSP）能为客户提供全面的安全服务。作为第三方服务商，MSSP可显著减轻企业IT团队的工作负担，使其能专注于核心业务流程和战略规划。此外，MSSP还能帮助企业填补技术能力缺口，减</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335845&amp;idx=1&amp;sn=d65238f14544e2a302adeef1d83c6852&amp;chksm=bcbac5e8f7a272cb6836a9d05cc5831032270933198986063a1b5643c9570a2415f03ca5f8aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
