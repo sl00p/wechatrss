@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/3/23)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• DarkSword iOS 全链路漏洞利用事件https://sectoday.tencent.com/event/ZU9qDp0B5M25NX6P5_SOGoogle 威胁情报小组联合多家安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960407&amp;idx=1&amp;sn=3d88ddbd0b0da9bb2e0dcc1a748eb034&amp;chksm=8a20321d8ec4e30e209d14d65e5c57892fb64136202c06c4af0eda606c7266e9760dffc11dd8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 11:12:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/3/19)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 通过 snap-confine 与 systemd-tmpfiles 交互导致的 Root 权限提升漏洞分析 (CVE-2026-3888)https://seclists.org/oss-se</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960404&amp;idx=1&amp;sn=74f50c909929cc66f80760454e887963&amp;chksm=8ab8404d4c7618aa1a168c0c76b05564e589249bb5128b1edc3f78e797a69b2cbfc188240a70&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安卓逆向基础知识之frida Hook]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K24shFd5AVjxEyEtz5WeJTKib6fGBLt2wzBfRyWdJO6ibZfv1lt2874YsP37TibP8BsibVoDUtNaPd7rmWDhBWUfWwVvvib8wTH9Mfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Frida是一款基于JS代码编写的Hook框架，它是一款易用的、可跨平台的Hook框架，介绍我就不多做介绍了，我们直接讲这玩意该怎么用，frida的环境配置之类的也不多讲了。我们就直接步入正题，环境配</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=1&amp;sn=9b1f49187644981e264882dedfde45f9&amp;chksm=b02e3dda80bb11d57a8af52c94681da44d69664987f7292fc2076207544248f16e2bbf30412b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首届 PolarisCTF 招新赛正式启幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zzeFUpGQHcZlmLxiaicM1RuXrw2fDeadCibtTbIhuOkdYSwl1NoRyaGfXqckDJQwib5zkIObVXLgfP3IIkoKgibpLoKjKZu4TKUltlW3j5643k0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一届 Polaris CTF 招新赛官方章程一、赛事介绍第一届 Polaris CTF 是由星盟安全团队倾力打造并主办的全国性线上 CTF 招新解题赛，亦是战队年度核心招新赛事。赛事以「以星为引，以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=2&amp;sn=115d10e9f5b366363251139619b27011&amp;chksm=b078f979b892d6336aefad52a1767ae7d32bc8ce9ac258067567c54d9ff07f9b905b6157f11f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型木马绕过 Chrome 加密，无注入窃取浏览器主密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1cQBmQmwYqicGMrMibYIJq9MCsUsAptLwHgIue3BINfVKWMk5RmHDh48asGAdEf3GAL8uBuKyDmDaQqCQBPxNDtz0wTkWnsMvWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为VoidStealer的信息窃取恶意软件，近期被曝出采用了全新的手法，绕过了谷歌Chrome浏览器去年引入的“应用绑定加密”（ABE）保护机制。这种新方法不依赖传统的代码注入，而是通过调试器和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=3&amp;sn=e075770efbb884f2ca23dc0248dddbfc&amp;chksm=b0cc6393494aebc09eae461c4c764faed3b2f1e0869bf6dda198d9ac72cc5980b1ab820b654b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【非虫系列】打包更优惠！安卓软件开发与逆向分析（开发篇+工具篇）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>单独购买开发篇：999元单独购买工具篇：1299元2门课程打包价：1899元随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=4&amp;sn=09b5c6f4c49aa7f4a69b1321d95d1518&amp;chksm=b0910544bda749f3195d157f890dcee0c70ad7baac34c675c6f81ecc2b17aaba4f8eae73eb32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2025 强网杯和强网拟态部分题解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWygicy7WIJD2Hkhv6rjpxMfdMy5sCWLfv5icLhcSgtzic4blCVUYibj9hTNXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1强网杯flag-market程序先是打开了/flag文件只有输入金额为0xff时才能进入下面的逻辑,否则关闭flag并清空token变量随后将flag的头打印出来,将内存中的flag清空,并允许我们</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612341&amp;idx=1&amp;sn=08f4b531105ec2b3a44360f66169db05&amp;chksm=b038129c048d8e34c3056e604bdfffde2379408147e13ae814e71cabe1b407839a367e6f2faa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fflQsyZPNEs835j87frAy9ZEy7MjpUllITB6I8o1HZzE755LZINDRPjxMkFPWzyA2eziaCje1PWbWn9fpFZMvgjEspT281Qq8/640?wxtype=jpeg&amp;wxfrom=0"/><p>CNVD 最近公开了CNVD-2025-31165(CVE-2024-2986) 漏洞，漏洞描述为：Tenda FH1202是腾达品牌推出的一款双频无线路由器，专为大户型家庭、小型办公室或商务休闲区域</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=1&amp;sn=923c97232b245b602a3f1b917c769aa5&amp;chksm=b0f81659c4dac1b763a1ede48423f482c694466915d12ab037357c366f40756aee73af57e00f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1LsQoHQ7ISb7XZIIKUozhLLNAg3nUtW0FufWjVQ99qHE3DiaZnae3vGyHmpZKn4AY9IW6r0udiaWQjA0nKXPxwPQUO0nrTYHSuY/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，谷歌威胁情报集团（GTIG）披露了一个名为Coruna的尖端iOS攻击工具包，这个堪称“漏洞军火库”的框架，在2025年间席卷了从iOS 13.0到17.2.1几乎横跨四年的所有主流版本。不是单</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=2&amp;sn=2e5b777a8090e5207a891214ac4c89b3&amp;chksm=b04a84f81484136b1b184a43b765409b434b086d30cc60549e22cf30c82bd498cb95facffc0f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI+内核深度融合 | 冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0TXNmJ2Y0aNH1esFEPadEk7AUXQMf4hUMkusSSQvw6lpncgHZ3VY9BBbnicHibibsibjfYqk3D2GVb3UyxbgKa8RP7CPNZGrasGJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=3&amp;sn=45f7e210b14835356d6d23d368497eaa&amp;chksm=b00f1642474a397f03427fee9857e0e52039b1ff89429c76c40d9e10d551a90af368a8a1326c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Egg Hunter 技术详解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1pZQdgbgVjIia2aaAGM8avfcfIqjw4bgxsqCGD4lOM9lacpHv8bpnApQoU40kndiaviant3gpibqsWNyhW9hDMsTgRuu8LJibZkUX0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概念这是一种技术，并非漏洞本身。可以用于大部分的二进制漏洞当中的技术，举个例子，写入shellcode的偏移量可能会因为系统原因而产生一些不同，但是漏洞确实存在，这个时候传统的通过偏移跳转shel</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=1&amp;sn=5c759563230cf3b1bc8c8ace86c6f78e&amp;chksm=b018b2629be7a1b490bdda6aba49169c954eabe94f7c12e9e28cbac38fe81d935ccd06d7b5a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别乱开网页！热门 AI 代理 OpenClaw 被曝可被一键劫持]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2qmu3exo6qbEXeVe5qZAaxR6tOhibJ5EA2ictOaaavn2iawePRe5UwRWVjibicq2j39f4pb6vmeFJrr1CaC5YBXWD3Tl7PHllgicPiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Oasis Security披露热门开源AI代理框架OpenClaw漏洞——无需用户操作，仅浏览恶意网页，攻击者即可悄无声息掌控开发者AI助手，获取设备全权限。OpenClaw曾用名Clawdbot、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611833&amp;idx=2&amp;sn=7595d5194725c2e978332750d52ad29f&amp;chksm=b0aed2a8aa61700ee7043eb4cdae6b0103717e18dec662397c664062663d4320126c785a9afc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 17:59:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

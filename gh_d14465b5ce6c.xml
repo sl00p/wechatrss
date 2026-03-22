@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让AI变成Super员工的秘密：高效训练Skills]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9049lwanvDsJ9ico9OIl85iaibPv83azibF4wYEtnw3eiaiaP6zjF4pQSb9sx2aE3Y4IFjTGmulUE5cicxDoD2vywibZPTA1VpW9ALicv7Zs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：solonnliu为什么 AI 很聪明，却总干不好复杂任务？不是模型不行，而是欠缺“业务 SOP”！ 本文复盘了打造 web-testing Skill 时的 4 个真实翻车教训，分享一套极具实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800926&amp;idx=1&amp;sn=23e36dbedf9052459137075c7ef9733e&amp;chksm=bf9516f515340d76753625c744010190dd0c2bbcd6378607e836d29ecc2f825461d0230b9cb8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[英伟达GPU全系列硬核科普手册：一文读懂NVIDIA芯片的定位、规格与应用场景]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907XeDof269zWCRZh5Izt92wuAqIAKllLzuAtEhTOKBPPujYYiaPCSLZ7ic8lPmKXFwdnNgzGSSdl4OkRwl36HFia36EdS5fU4Qic5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：nickycaoH20、L20、A800、RTX 50 系…… 英伟达 GPU 家族庞大又难记？游戏、设计、AI 训练、推理到底该选哪款？别再被型号绕晕！这篇全网最全图解指南，从入门到旗舰、从消</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=1&amp;sn=38323b9e55613e92145c904cb1eae74c&amp;chksm=bf51c732981f44a80369decf8fd953c8d9da6be7bc7ab8bec9c1505f7180e76c5b93076eddad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavBw8mCHbRECRtA0yqicEKibm6X1h9MZIOx5H3pwzD8FbRnYSKpoNjhCLr6calcZVacQSN6pUmSzVCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796399&amp;idx=1&amp;sn=02bf4dddd7483cc99a40e2606c5d4112&amp;chksm=bf6340da06f6260d5da486b3ca0076106aaf9a98245de63be8f96ab1be68a2fad0488b7f4754&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Nov 2025 17:40:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯发布大模型思考早停算法SpecExit，效果无损，端到端加速2.5倍！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavxJic6p9uBmiaXUicP4tjAddXEhMde7LaP8AsP3teeJN9eCOXPV5icuMYt3PFIaKBR5cicwaLiba9TUMPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>以DeepSeek-R1等为代表的推理模型（Large Reasoning Models, LRMs），通过生成更长的思维链，在各类复杂任务中取得了更优的表现。但长思维链是推理模型的“双刃剑”，虽能提</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796334&amp;idx=1&amp;sn=c5741686d4324fc48f67305d8ee7e835&amp;chksm=bf18c93e968c7a1f519fd796224b5300f4692029b0aff9f2fc61fe360b4d4082ba63b5acddf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

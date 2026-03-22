@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[拒绝重复造轮子！抽象 80% 工作场景，打造可复用的"AI 助手工厂”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKIWKqblicyP2BsV2iczicvL2l3jYdVcEUWvnmMTcZyLK7r0EzFSWibPmFxPcRkrmB3cMza5jENEGnuo8W9crjkoGs7qTYfmVO2sU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当每个业务场景都需要一个AI助手时，我们是在埋头苦干、重复造轮子，还是选择打造一条“AI助手生产线”？本文深入探讨智空间团队如何将执行、答疑、排查、极简场景四大高频需求抽象为可复用的技术方案</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558977&amp;idx=1&amp;sn=dcf5e1258edd06e555cc9bff963f133a&amp;chksm=e83f028be5d85c068d132d43b5281a66460aa8d7b05dc0029539ab8e13fbea6b1d6c0ddd7499&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[企业级 Agent 多智能体架构与选型指南 -- 来自1000+行业应用实践积累]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xwl6nice7ctepOicVZterpIeMZiaS74lHFeDuDEhlxqn4lA9taoLU0ZiaFuT10fTNozw45zbNW8KNR4z8zcCaZRuI5PciavfYmziaBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们服务阿里巴巴多条业务线（淘天、闪购、爱橙、云智能、高德、饿了么、1688、蚂蚁、菜鸟等）、众多社区用户（如友邦、海尔、建设银行等）、超 1000+智能体应用实践经验积累。本文发表</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558948&amp;idx=1&amp;sn=91740771339567d7bbf31aa9b697a2c8&amp;chksm=e88c9249df65bb4ae3c98f69628eedc8fc66229c96722ba003b80fa5a40238185eb336290d89&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKlP2N1FlJ4nBic1tKfcDuwjbqhhVAW4ySHSYjDzxCAEljySJpTsxhicYJ3GbmDhUPFGBUHdDqV8cng/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读我们构建了一套“自动提取 → 智能泛化 → 增量更新 → 向量化同步”的全链路自动化 pipeline，将 Agent 知识库建设中的收集、提质与维护难题转化为简单易用的 Python 工具</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556720&amp;idx=1&amp;sn=e4883e7cd8c0239e233a8ff1a015ab88&amp;chksm=e8820c9321f24c7fd702a9f802e65e7f4a750a09fb26d1cea4aa2267c9315c4eb4bc1d5f4b28&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从一条慢SQL说起：交易订单表如何做索引优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVVIfApIhyPYCeSeIcHKick0GGiaenFy7oDvJkfj1Shw7tI1U8QViau1kog/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文首先以淘天电商交易订单表线上一条非典型慢 SQL 的深入剖析为切入点，示范如何系统地分析与排查慢 SQL；接着详尽归纳了索引分类、B+Tree 与 B‑Tree 的结构差异、B+Tree</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556693&amp;idx=1&amp;sn=b33166f9642e7a868ba5062ccfbd9d8a&amp;chksm=e862913941e9faf58f499925163a3ac331694dc88bb68f82ae5ae9575caabd5ac98d0621012b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

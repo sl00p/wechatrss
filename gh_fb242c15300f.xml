@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[春节解题领红包之九 {Web 中级题} 题解 - wasm逆向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwdU7P7Nx3ibcnIy2T0v3pcPsXSk8BNo9NN6HXOZic9GTebdCW3EiaquTWF55os10WKoNJZj2iabvL2ibshiaEDknYf14HYjMsM67wf4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：XaraMysteria初见https://www.52pojie.cn/home.php?mod=task&amp;do=view&amp;id=50第九题写着是 web 题，其实是纯静态，本地运行的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143829&amp;idx=1&amp;sn=3c2d8a67bec3f2ce6d77b00755e30f4a&amp;chksm=bcfadbfd56781f5b537cb8abaf0001c1ec01165e1b25721d9abcb75ab17d9519516adc883c15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Mar 2026 07:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[吾爱破解 2026 春节所有题 WP]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwdFsYpoFicLoianxHOAkaeTRWIt5BTSBV8cGTc4buszJLaIXsqicJG4LF2IjianQ8s2WCCcECoFQnD15uKib7MCLsp2wjc1x5cy208I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：LiuXing0327送分题这个就不多言了。Windows 初级题一直接把程序拖进 IDA 后查看字符串发现没有明文，查一下壳。查壳后发现真实程序被打包进了 Resource ，那么直接</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143823&amp;idx=1&amp;sn=57a9b6a177ee699784b31dec11599551&amp;chksm=bca87bc2503e8963b10904f9918e17159b83a0d586bbcb44479a5e5d84c0b31b882e1be5512a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LFPriaSjBUZIPtpTxfeCITsw1EpO3qicmtcuAOoGPfQWauqibG3ylYxLibjZGC2qC9UzkHIx76G9o06NIGuqQzLwNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位会员朋友：为更好地推动论坛技术氛围建设，鼓励优质内容创作与分享，吾爱破解论坛将对现有积分计算方案进行优化调整。本次调整将于即日起生效，可能会对部分用户的积分与等级产生影响，敬请知悉。一、调整背景与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143151&amp;idx=1&amp;sn=ec90f28e01eabf34e8bf45acc92caa91&amp;chksm=bc65540b53029db7f50d1d0e869422d5c333d0fbb17d4b074298941ca113900538987d44e309&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Nov 2025 17:36:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[光棍节开放注册微信抽奖活动，先送20个账号注册码或300论坛币，周四下午两点开奖，详见：<a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mhiyathn-zn7ayw" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143142&amp;idx=1&amp;sn=144f6488f76f87b3bf1f60ad23df4cb8&amp;scene=21#wechat_redirect">【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告</a>。]]></title>
-      <description><![CDATA[<p>光棍节开放注册微信抽奖活动，先送20个账号注册码或300论坛币，周四下午两点开奖，详见：【开放注册公告】吾爱破解论坛2025年11月11日光棍节开放注册公告。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143144&amp;idx=1&amp;sn=eff4690876ae5e80f67d67b6ab0aab35&amp;chksm=bca0dc4849d9efb0e1c14b6c09bf04e23ffbef7963a1f566cdcade3c52d1d2c8f89a437a4618&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
