@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[业务逻辑的“坍塌”：当应用层只剩下胶水代码，在 AI Agent 时代，我们该构建什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yZmrXxDOpn11lXuHTZfC00suBECiasoMVCiaoRTshHIbOBia5gXlYJiaib593FOFx2ZdemWwjiaauB4jcmvEpgic0bS41Q0iajP7P7Qbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读作者通过亲手编写代码、研究底层原理和对比传统架构，系统地梳理了从“怀疑 AI”到“理解并驾驭 AI”的心路历程。数学家高斯说过“工匠总是在建筑完成后，把脚手架拆除”一、前言下面几个问题，曾经</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559085&amp;idx=1&amp;sn=088f736a32f31c2b54a534886d492453&amp;chksm=e8e085a3d2961540f5e5704f8f115e6de09f5804dfbf67ac87941073ba5f96dd77311cb7de45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[拒绝重复造轮子！抽象 80% 工作场景，打造可复用的"AI 助手工厂”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKIWKqblicyP2BsV2iczicvL2l3jYdVcEUWvnmMTcZyLK7r0EzFSWibPmFxPcRkrmB3cMza5jENEGnuo8W9crjkoGs7qTYfmVO2sU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当每个业务场景都需要一个AI助手时，我们是在埋头苦干、重复造轮子，还是选择打造一条“AI助手生产线”？本文深入探讨智空间团队如何将执行、答疑、排查、极简场景四大高频需求抽象为可复用的技术方案</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558977&amp;idx=1&amp;sn=dcf5e1258edd06e555cc9bff963f133a&amp;chksm=e83f028be5d85c068d132d43b5281a66460aa8d7b05dc0029539ab8e13fbea6b1d6c0ddd7499&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naInDhJTqeCBJaW2ZQaw2hfIVSibqm4MvHR9ehywF34ABZZg0BZcXrmyjE2092icwJ8XO0f459fVCXHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>理解 AI coding 智能体的设计，可以帮助开发者更好地使用 AI coding 工具，实现开发提效。了解用户提示词预处理，帮助我们写出高效的用户提示词。例如：为什么在提示词中使用 @字符引入文件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556801&amp;idx=1&amp;sn=05c6adb69298f1bedfc53d047dd1ff67&amp;chksm=e84409bc30685cbf94eeb5f869969a1056d5db867025ecae6270f90fcb6e40f2d9471d15540e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从工单、文档到结构化知识库：一套可复用的 Agent 知识采集方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKlP2N1FlJ4nBic1tKfcDuwjbqhhVAW4ySHSYjDzxCAEljySJpTsxhicYJ3GbmDhUPFGBUHdDqV8cng/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读我们构建了一套“自动提取 → 智能泛化 → 增量更新 → 向量化同步”的全链路自动化 pipeline，将 Agent 知识库建设中的收集、提质与维护难题转化为简单易用的 Python 工具</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556720&amp;idx=1&amp;sn=e4883e7cd8c0239e233a8ff1a015ab88&amp;chksm=e8820c9321f24c7fd702a9f802e65e7f4a750a09fb26d1cea4aa2267c9315c4eb4bc1d5f4b28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[软件ollvm混淆登录参数分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaTlw0f72fK6VibzE3Ohel4TRhaVmhncboAU1Q6MRaIRDwAukgXDtZuG5CMiaV5LtnK6LZ6qyZKp2IS7ERnSCCXQcADNdCheic8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>抓包首先就是进行抓包了，下面是抓到的数据包：POST/mobile/login/pwd/v3 HTTP/2host: passportws.ximalaya.comcookie: 1&amp;_device=</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=1&amp;sn=ce846ffcfcbf3cc48919af7419e28e83&amp;chksm=b05793a5f4a84e872b4793cdfd12cfc81af9d22ab0c50e9af85b3f2f3289050f8d132cee548e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GEEKCON 2026 报名开启！AI干掉黑客，还是黑客干掉 AI？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/R5j52okPbe9icUrTf4G0240RRIETG4AwUIYM07AUWcXupVZE4d0WGibZI4dno6cmwWRpUljVJmoyBHnlNDIfFBwFGVPFtqCpwufl478iaNy0Eo/640?wxtype=jpeg&amp;wxfrom=0"/><p>0月24日 上海西岸 人类黑客 vs. AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=2&amp;sn=a6d0803218514d8f3a7460cba9d68e38&amp;chksm=b04c9fe641ee1494f11c641557b7d7537c4518b2a2a0e0be28a646fab463378fbebc4be39b26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[伪装成 ChatGPT 测试邀请！安卓用户遭遇账号接管攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2v11fnnrvDkSA5MSUM8K5iaLDNS8t9KBiab5LiaWpYKWiavaMxCG0zfZBYqmGzGhGwloSaP2Es7mOO9cc7vdHOdMZLg10Yloso8BI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，网络犯罪分子针对安卓用户发起了一场精心策划的钓鱼攻击——他们将恶意应用伪装成ChatGPT与Meta广告工具的测试版邀请，利用谷歌官方服务渠道降低用户警惕，最终窃取Facebook账号凭证，实现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=3&amp;sn=4223cd02cc353397e0853d9dd1acceda&amp;chksm=b056a20af9584ef81520027a88e8016db9f3aa9f3067601d474f526798867445183b743654e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【含试看】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=4&amp;sn=d65061702a160a1bb627d8897598a4c4&amp;chksm=b0fc34ab363e31d46075b9c51aecb6d2281ef3720196c53ac3dcbde0bb952270ee89ed4e9340&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[安卓逆向基础知识之frida Hook]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K24shFd5AVjxEyEtz5WeJTKib6fGBLt2wzBfRyWdJO6ibZfv1lt2874YsP37TibP8BsibVoDUtNaPd7rmWDhBWUfWwVvvib8wTH9Mfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Frida是一款基于JS代码编写的Hook框架，它是一款易用的、可跨平台的Hook框架，介绍我就不多做介绍了，我们直接讲这玩意该怎么用，frida的环境配置之类的也不多讲了。我们就直接步入正题，环境配</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=1&amp;sn=9b1f49187644981e264882dedfde45f9&amp;chksm=b02e3dda80bb11d57a8af52c94681da44d69664987f7292fc2076207544248f16e2bbf30412b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611851&amp;idx=3&amp;sn=15dc6f7abdf93a952281f974733ee8b7&amp;chksm=b0938d81bc4a884b32ad8709dc5d856734111efdd03174c50e7772004b5cd836b07f5a70bf0b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ClipSp.sys中的硬盘型号与序列号的写入逆向]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2k269hia5ibjSNIYqGwYiagVz0ukC3w4NXrdNz7wvhVelceMVsYV5WibHCK1QvezRO5EWEG0rBJ7BkibyDf7Q3gJuQcqOX1Ds6VFicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>虚拟机：WIN11 24H2一、前情回顾在之前的文章中通过Powershell使用CIM指令查询了硬盘的相关信息：# powershellGet-CimInstance -ClassName MSFT</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611846&amp;idx=1&amp;sn=8d71404b07eff28c6c91858a809599e8&amp;chksm=b0597ae834c97d59759c955da49611e1e9f67e9044a7d1d5d62574db8f7481632fabfbaa475f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当轮胎开始“泄密”：IMDEA研究证实，无线传感器成新一代追踪器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0vKOGtVVrvhh6GDlb1adr51jwYkZU7G8msNluxcopXTJ4Ab99NGKOXibWq4oXaHm0JpdD6dCJmrdibH1IvUprJwfm0bW5icHfQYc/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下，你每天开车上下班、接送孩子、周末出游，而这些行踪轨迹正被陌生人默默记录——不是通过GPS定位器，也不是通过手机窃听，而是通过你车里每个轮胎上那个不起眼的小传感器。轮胎里的“身份证”每辆现代汽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611846&amp;idx=2&amp;sn=3ec507aa336e8da1e3caf5b334507d5b&amp;chksm=b06dffc73f61a0974a466c4450c19bdccec5a24c830952b0ae8f4dedc0e7c5f494073eb0e72a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[要办CTF比赛没经验？看雪：专业CTF赛事承办平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8F2CB51F5tgyVL7ibibMVz3EicMhUUXOs2yLCwnKI1myuwsTevnm9uiayIIPqSVVpTGcx5etX6eQs9ZTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>看雪：专业CTF赛事承办平台网络安全，关乎国家、企业与个人的核心利益。在这一领域，CTF（Capture The Flag）夺旗赛已成为培养和选拔顶尖安全人才的重要竞技舞台。一场高质量CTF赛事，不仅</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611846&amp;idx=3&amp;sn=cf8fdcd9e0ad24e9e01711a36e7e84f2&amp;chksm=b05a790966fd4e65b8fb8942ac4bfcf30799dda2137b8dbd610b5071f1b2cc57337d216f9af5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fflQsyZPNEs835j87frAy9ZEy7MjpUllITB6I8o1HZzE755LZINDRPjxMkFPWzyA2eziaCje1PWbWn9fpFZMvgjEspT281Qq8/640?wxtype=jpeg&amp;wxfrom=0"/><p>CNVD 最近公开了CNVD-2025-31165(CVE-2024-2986) 漏洞，漏洞描述为：Tenda FH1202是腾达品牌推出的一款双频无线路由器，专为大户型家庭、小型办公室或商务休闲区域</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611838&amp;idx=1&amp;sn=923c97232b245b602a3f1b917c769aa5&amp;chksm=b0f81659c4dac1b763a1ede48423f482c694466915d12ab037357c366f40756aee73af57e00f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
