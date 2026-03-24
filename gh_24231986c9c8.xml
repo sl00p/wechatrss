@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文读懂：智能体身份权限治理演进实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecSNMkuNOuce3vA0uZVibJyDDc8zc61hYExA0bVTicibaTKdFibBXeJeMtfW0PZNk5ibR3wK9XibVlVSbeNlZ4YA0BzroTAnSnWibsBJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>序章当一个实验性的“咖啡外卖”智能体（BrewSense），从服务几位工程师的小工具，演变为数千人依赖的自动化伙伴时，会发生什么？这不仅仅是用户量和调用量的激增，更是一场关于身份、权限与信任的治理风暴</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519016&amp;idx=1&amp;sn=4a895e7318d251e077ba720dbf7e1cef&amp;chksm=e83eb54f2d661eca1b6334464294d77cdc31e9280d55016b8e6c803e028c17749fe510c30911&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Mar 2026 18:00:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenViking 实战教程：搭建多仓库代码语义检索系统，赋能 AI 助手 &amp; OpenClaw 记忆插件 2.0 升级]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedrEDsaMDUfJXakibfcGDujMLiaU4fC0C2Uic54cqkBFZTvFEB8As18cgCCWs95Xg6caZn6zttnhTlIWy7c3ySiaXx6V8BnuE7dUWI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与问题：为什么多仓库代码问答如此困难？在大型企业或复杂的开源项目中，代码库通常不会是单一的庞然大物。业务逻辑、基础库、中间件等往往分散在数十甚至上百个独立的 Git 仓库中。这种分布式代码管理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518946&amp;idx=1&amp;sn=71b64437c738c6dcda6ca2797465c743&amp;chksm=e8a3983121cdb2224b5a02c32433035630b8d4e30202ade1f95bee31585117d35e7fa7293678&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjLLx3WXAELOS1bia6Za19GdMT3E6oz6b6sJI5I4sQJqPZBXHn2J4fCkUsDXPFvAM7vFMicblicWGcYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月，火山引擎在 AI 创新巡展武汉站中正式发布《2025数据智能体实践指南——回归商业本质：数据智能体价值主张与务实路径》，同步推出国内首个融合国家级智库理论框架与大规模实战验证的数据智</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517270&amp;idx=1&amp;sn=cf2cbf25c44d4dc400847cd149dfb4db&amp;chksm=e8d054dc120e006bae3318ed206826071926d1c881bb74fde286ad02bbebac573ae5b5cfef73&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山 HTTPDNS Cache2.0：网段级精准调度驱动核心业务收益]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjMiaDEPwkhZBE9wQBvjJ5wDObxkMRkpSWlwgr3ibNuhticgicxtI7BsYiaLurGhm8OLYxCc2uu5ERXWQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、调度不准问题及修正方式局限性在字节跳动的业务生态中，HTTPDNS 承担着为抖音、今日头条、西瓜视频等核心应用提供域名解析服务的重任。但目前我们所采用的业界主流缓存机制（火山Cache1.0），却</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517155&amp;idx=1&amp;sn=d735ebf8bddda4047ac322a514c6d965&amp;chksm=e806a885417bcbd87691079fd0cba4c5bd08f884d90b100f12b729fefb417ee36b92aed582c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

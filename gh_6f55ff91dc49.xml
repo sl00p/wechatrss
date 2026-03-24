@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3FjDtmZSZk4N3vSHfHwRiaNXgI21o8yOw2373RxibgF8euVgr8t0T2Jia44ibB4u8H7NhkbkopmiazhHKIFU9JlPO93PNfawDaicq8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>港大刚开源了一个项目，干了一件挺猛的事儿。一条命令，把任何有源码的软件变成 AI Agent 可以直接操控的工具。不用你自己写 API 对接，不用搞浏览器自动化，把软件源码丢给它就行。它会自动扫描代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f&amp;chksm=f80d9e1a03362f204c15544c395cce61e3990890222d1a607725f713d01df9b318e51e246c39&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源 2 周 5 万 Star！AI 大佬开源了一个自己做实验的工具。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2EichBDx2Bb741aflSEyJDYp3MThyH5DgjFFkSLdIOzvsDX4BwDpUGRhvWbNwzp9yI3UuXvaVusGcyVxeeLSNcsgiczUUjRbacE/640?wxtype=jpeg&amp;wxfrom=0"/><p>几个月前 Karpathy 发了一条推文。讲他花 1 小时 vibe coding 了一个心率实验追踪仪表盘——超级定制化的东西，就是为了追踪自己 8 周内把静息心率从 50 降到 45 的进度。然后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=2&amp;sn=5f7aa069d2da91923ca2dddb3f98aeab&amp;chksm=f8098fea1987be414db83dd8ce93135cc9bb30d494c74ff0f661777f334bc87caf991655ebc4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个运维人写了 12 年的开源项目，Star 刚刚破了 3 万。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3q6a8bmjELGGpASKwbl8viaYd0bb6ibKicYPibZzBu77CAkaLghOhN1UNLBe2qDyibL5wI7wcfFaGPBNfr7V5nc2zY5TfI10uBCORA/640?wxtype=jpeg&amp;wxfrom=0"/><p>3 万 Star。在国内企业级开源项目里，一只手数得过来。今天推荐的开源项目叫 JumpServer。这是一个开源的堡垒机，也是一个特权访问管理平台（PAM）。通过浏览器给运维和开发团队提供安全的 S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532410&amp;idx=1&amp;sn=61dbed899ddea37d3b1bec24fcca4c1e&amp;chksm=f80817587e590ab3917ddf2c102d66637ac804708a635aea9b921f15d0e16fc4f183dec60763&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxl9qkTF3lpEhoTC4cK9m5IicnMAghGhzC8qYvMMRfaibbEFFVdJZTIjwnyA85xxh0ZFDosNTcCnkhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01地图海报生成器这是一个基于 Python 的开源工具，可以把城市地图数据转化为极简风格的艺术海报。该项目利用 OpenStreetMap 获取地理数据，并通过 Matplotlib 进行渲染，让你</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531079&amp;idx=1&amp;sn=4b718b1b0fcdcc2582a34318064b1080&amp;chksm=f8c024d3e41507d54009bf0612b24a472a0ed4f222539bc19fb95a3e3d596365b5f74731bb89&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 4 个 yyds 的 OpenClaw 相关 GitHub 项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5I8sSfUdLIql8SrqMAxJCT9ia6w6axg0OwIeM9UI5ic9xCAsLkxEzsTKIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01飞书接入 OpenClaw这个开源项目是为最近那个火出圈的 OpenClaw 做的一个飞书连接器。OpenClaw 虽然能让 AI 操控电脑、跑代码，但它官方支持的聊天软件大多是 Discord</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531078&amp;idx=1&amp;sn=91e40b7860b80bb5f1777a73d064dbfb&amp;chksm=f8f334633e90f65239ce6920053e2145efbe68974fce66ae90eb9e077c2b80da840808e9f570&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这 6 个超神的 SKills，在 GitHub 上杀疯了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruwh6d3dak64YsKicx7qYW3s6sALlibo6lh0UbdOZTQicTQubicw6NW7CKTjMSnewjxkOMaAHkyLQtyszg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01视频制作：Remotion Skill不知道大家有没有用过 Remotion 这个开源项目，现在也有 2.8 万的 Star 了。之前我想做视频生成自动化的时候，了解过 Remotion。它其实是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531077&amp;idx=1&amp;sn=6e2f73fdd3300d7dbb8990b06f80026a&amp;chksm=f8fd3e1522d5b207a949e807e0fa2e18eb2bcf07d0e8c7488e3ddfa2271e108e2572d061ea35&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

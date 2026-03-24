@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MySQL复制延迟终结者：AliSQL 高效AI诊断和四大内核级优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yrApZ2NNCZvQmNBXS2qySKDelG7qz1PBy7Qj7yWj2xNCyleRwR9NshvvOGpVukoVpsGs44S951gh9UcycRFWNuu1NnJmYib0sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读MySQL主从复制延迟严重损害实例可用性和只读实例时效性。AliSQL引入AI诊断能力，轻松定位延迟原因；针对线上最典型的四类场景，AliSQL 提供了内核级的优化，彻底消除复制延迟。复制延</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559101&amp;idx=1&amp;sn=00a250ea95a424a51f8d463ba1c59dfd&amp;chksm=e8184a22f97b43458347e13eb087abd859f8429bb7b4d956a90497200bfb26731ba75b588011&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[业务逻辑的“坍塌”：当应用层只剩下胶水代码，在 AI Agent 时代，我们该构建什么]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yZmrXxDOpn11lXuHTZfC00suBECiasoMVCiaoRTshHIbOBia5gXlYJiaib593FOFx2ZdemWwjiaauB4jcmvEpgic0bS41Q0iajP7P7Qbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读作者通过亲手编写代码、研究底层原理和对比传统架构，系统地梳理了从“怀疑 AI”到“理解并驾驭 AI”的心路历程。数学家高斯说过“工匠总是在建筑完成后，把脚手架拆除”一、前言下面几个问题，曾经</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559085&amp;idx=1&amp;sn=088f736a32f31c2b54a534886d492453&amp;chksm=e8e085a3d2961540f5e5704f8f115e6de09f5804dfbf67ac87941073ba5f96dd77311cb7de45&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJx6UGe7Mnq2EFIibxeMxxXVSspHj9CnNkd4FNM0D3xCQduPBDib9Z9iaIKqvPMCBxticDDXEicMibDsZyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文复盘该高优故障的根因、排查过程与应对策略，为新硬件平台上的混部稳定性提供关键经验。本文档分析工作由阿里控股-平台技术-基础设施与稳定性工程团队同学完成。一、问题发现从8月底开始，集团的a</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556836&amp;idx=1&amp;sn=1a9c1be1c7886c9b3d5e6d71a3eb8119&amp;chksm=e82b3388d32fbf3cf2e7a63a074b3341a92cbc693fe23c9f040203ad86b01dad8872a33d9396&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI coding 智能体设计]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naInDhJTqeCBJaW2ZQaw2hfIVSibqm4MvHR9ehywF34ABZZg0BZcXrmyjE2092icwJ8XO0f459fVCXHQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>理解 AI coding 智能体的设计，可以帮助开发者更好地使用 AI coding 工具，实现开发提效。了解用户提示词预处理，帮助我们写出高效的用户提示词。例如：为什么在提示词中使用 @字符引入文件</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556801&amp;idx=1&amp;sn=05c6adb69298f1bedfc53d047dd1ff67&amp;chksm=e84409bc30685cbf94eeb5f869969a1056d5db867025ecae6270f90fcb6e40f2d9471d15540e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
