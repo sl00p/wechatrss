@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上这 4 个抽象离谱的 Skill，看完直接笑掉大牙。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2qUIMWN9xH9j4AHibiaLwn1Tf44q3QQib0faTvlzMx4l9Wf9sibaia9iaAicQal1NdSBXW3XvL00A5jufVY8mGRSuDXzjInERzxozUJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用大厂 PUA 话术逼 AI 给你打工最近 GitHub 上冒出来一个离谱到不行的开源项目。之前也提到过，这个 SKill 核心思路就一个字：PUA。你没看错，就是把互联网大厂那套绩效考核体系原封</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532503&amp;idx=1&amp;sn=9901e0adfc35f7d7c491a0977ec442c4&amp;chksm=f83db92d9895c055382e5c1f8abb913ba5b6ee35d94f45cf2ad1dcdb7ee6f20c542095434c4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3FjDtmZSZk4N3vSHfHwRiaNXgI21o8yOw2373RxibgF8euVgr8t0T2Jia44ibB4u8H7NhkbkopmiazhHKIFU9JlPO93PNfawDaicq8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>港大刚开源了一个项目，干了一件挺猛的事儿。一条命令，把任何有源码的软件变成 AI Agent 可以直接操控的工具。不用你自己写 API 对接，不用搞浏览器自动化，把软件源码丢给它就行。它会自动扫描代码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f&amp;chksm=f80d9e1a03362f204c15544c395cce61e3990890222d1a607725f713d01df9b318e51e246c39&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5ItTt0wXRap9niaJ92XKEWE9kDPorx6yhynsRaWRlskiaBdGECCVibuic2TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PageLM：NotebookLM 开源平替PageLM 是又一个开源版的 Google NotebookLM。NotebookLM 最火的功能就是把一堆资料扔进去，它能给你生成播客对话、测验题或</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531080&amp;idx=1&amp;sn=4004c64c145d91fd681a9b96097bdc67&amp;chksm=f8db51a2b4d7aac5bf859b88d28970f0095aaeb928297adc8e38579b021d8ab9e15d8f6ed409&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 16:24:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 6 个 GitHub 上小众但实用的开源项目，收藏一波。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruxl9qkTF3lpEhoTC4cK9m5IicnMAghGhzC8qYvMMRfaibbEFFVdJZTIjwnyA85xxh0ZFDosNTcCnkhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01地图海报生成器这是一个基于 Python 的开源工具，可以把城市地图数据转化为极简风格的艺术海报。该项目利用 OpenStreetMap 获取地理数据，并通过 Matplotlib 进行渲染，让你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531079&amp;idx=1&amp;sn=4b718b1b0fcdcc2582a34318064b1080&amp;chksm=f8c024d3e41507d54009bf0612b24a472a0ed4f222539bc19fb95a3e3d596365b5f74731bb89&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

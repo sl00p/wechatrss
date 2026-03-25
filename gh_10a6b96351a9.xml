@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我是如何做到，4周做到62.96W的？（有真货！）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXeUFMOUdbd6r2H80rk3nF4vyrGyj0N9dcEHvSZThBt4BZ7DJjTRptM8EdUqkNwqOHlXlMB6M6ZG4cBLGzkics2YCmA6YZmfhul8/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是程序员亚哥，最近和沈老师一起在做流量联盟的商业产品，开了橱窗，也做起了直播（还是很有挑战的），今天和大家聊聊自己起号的历程。问：什么时候开始拍短视频的？10月22号发布的第一条短视频，其实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980897&amp;idx=1&amp;sn=642362bafc903eddaf3fba7dad9284d7&amp;chksm=bc522df3a89bb19d452558b0d02f629c30048824ae74de2d538281b48a4796fd9b247a4b359b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 11:50:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么我的OpenClaw，进化不过别人？（第15讲，干货收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXd9iabKYdfDTcOgicoqZjP5JHkz4QozOqyQdlIVy1VKJcfFdNibDOetlYL94hU3mrAcjjr2uHh0Kpm5ucWNicSrkJNEL6v0WpPicaD8/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》15. OpenClaw，光速进化有人问我，说为什么别人的OpenClaw进化得比较快，而我的OpenClaw进化得比较慢？你缺少了一个自我进化的skill，今天分享一个s</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980878&amp;idx=1&amp;sn=ed5e1e7e6f12e7e8f23919bef387680c&amp;chksm=bc7580ab8b4dad90c8ab07e46ddef2c040342d50caaddc27ac686300be74ff7b9e1b6740f4ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>技术人干着干着，都会面临一个抉择：到底是拼命卷上去做管理，还是继续深挖技术？ 我身边有无数案例：对于大多数不善沟通、天赋点都点在技术上的兄弟来说，那条看似光鲜的“管理”路，不是升职加薪，而是无尽的痛</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980438&amp;idx=1&amp;sn=60e7dd0de4e017e08c4e788de0c2178f&amp;chksm=bc4ec78f0705e04135bfa8197a59f1486151b351f64a7ee6747339ee0e5afd017bf23d41c880&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[两个小公举，调试MySQL死锁必备！（第13讲，超硬核）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxXjb9AEyTAcMgI4Tsx06pErtAfibo7iaHRQxvofVLXny9wB5aqJDl3rvKjGkRia48LJ1PTrncmuZQdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》13.MySQL，死锁调试工具数据库死锁，是最难调试与追踪的。场景如下：同一个表，事务内先插入一条记录，再更新这条记录，并发时会死锁。并且能够复现。可以通过什么工具模拟并发事务，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980435&amp;idx=1&amp;sn=6450e8b7c540f69d6681d840057d59ad&amp;chksm=bc568dec801fb8237bb5192a5f201b6ec25edeaed621180bf456c280b3e1a6189ee0753e78a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

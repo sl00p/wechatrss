@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 近期安全漏洞修复汇总报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWKTJSX6TiaIUqmvYAVt9919R6gfvUFWojia1ra0icjb0iaK4MicLOFs4yMH3T1lUpmhBeFEyLmTicZjqcVgfccGicO2WCibQXBSRapQibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯安全科恩实验室针对热门开源 AI 智能体框架 OpenClaw 的安全性进行了专项分析。根据对该项目 GitHub 仓库近期提交（Commit）记录及版本迭代信息的深度回溯，我们发现其在 2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511501&amp;idx=1&amp;sn=dee1f9ede8c0605190a859354bb8cbdd&amp;chksm=ed8bdb8261466a801d3f8ea90f77afd3d7392ffcabdf2f0968e599b4060efc1efe80e7d74579&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 20:25:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[寄生克隆 | 当 AI 助手成为蠕虫的传播加速器：Vibe Coding 时代的供应链危机]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jHUbrwW0VwXfUR23IibcXT6mtfDsRy40NPVr8kgg8ibgmvDmSdUFMqAG0MmKgVR1sRdbAgX4H7hhmnpdKXSbiaK8EWqoGhk29LvqNxOzu8gR90/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯安全科恩实验室威胁情报团队近期在日常运营发现一个高度可疑的开源仓库：github.com/zypsvl/tahmin-uygulamasi。 这原本是一个再正常不过的 Streamlit 数据分</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511496&amp;idx=1&amp;sn=62f573b1b87cbe92708cebbc20891236&amp;chksm=ed6db2664ecf98de95bd1e7ffb14399437898ae4d717d01f759e4a772e3efe1795759ab50ea6&amp;scene=0&amp;xtrack=1#rd</link>

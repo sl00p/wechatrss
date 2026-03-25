@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[高危风险提示｜Apifox 桌面客户端遭供应链攻击，请尽快排查更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6dKd3puQkLR4F4aTB0ZbwGGoqFKMCiaMBvuu39c5TzIaed1fh4DAZicNicicqWPOB1dRkGMPW3r0LnVoatey2jJ303ibARfEhQbQia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯iOA产品团队及腾讯云安全中心在日常安全监测中发现，知名API调试工具 Apifox 的公网 SaaS 版桌面客户端遭到供应链投毒攻击。攻击者通过篡改该客户端动态加载的外部 JavaScri</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529203&amp;idx=1&amp;sn=f8c78312519c42151761fe77e09de13d&amp;chksm=c10fc426a30bd3af9d04040558a8e1711991ec56eafb496138c4d4bd9ba341f5c839286ea33a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 19:30:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[信通院联合腾讯云发布《云上养虾（OpenClaw）安全指南》]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6zcJKcGt1Zyj0kdl2c57YUZ1s4mASYoHF6GpaE129vTeTkCVnAAwPVoPa1RI6G3UdAIp1JOvU7nLhkiaTZnpHEOpgQ9vIwfQuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告愿景及目标读者随着OpenClaw应用的不断深入，其安全风险隐患也逐渐凸显，安全防护能力成为保障“云上养虾”顺利推进的关键。在此背景下，系统梳理OpenClaw发展现状、完善风险防护与安全体系、展</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529182&amp;idx=1&amp;sn=b0ce72ba128fbdb1f857a1274aca2888&amp;chksm=c19584cfeb6b421da04e67f3ceae71d2fd85f71501f3732ec2104963fdc9a1a6fa46d52cd891&amp;scene=0&amp;xtrack=1#rd</link>

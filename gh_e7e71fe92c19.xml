@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Android 内核加载未签名驱动的一次实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2GKXQbeJ5RXIY6vmgJo6libE1zs1XF9ALlRIhXSiaxIomc0icgRu22ibmsEsJdl84yk3BOfUu3FgqSkibAMA6l4icMIYHEtWbw8DEFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>测试机型是Honor 50 SE，内核版本是4.14.186，已解锁 BootLoader，通过 Magisk 27 管理 root。前段时间需要测试 4 系内核的一个外设驱动，打算用这台机器,编译好</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612669&amp;idx=1&amp;sn=65a2b6f05bec21859650f8e99655337c&amp;chksm=b0306fb13072add330831fffe025a607029cffaac15a055ffdef172379f804722486f30f7813&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub上惊现“空投”骗局，5000美元诱饵背后是钱包清零陷阱]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K20E5yao6L5fSTG5rjUsnHQLlrXDia6jWCvEgj6YrMicWbaP20fydnd52zDcN2haSiasbU30ccFePLtQ3NsfgEPTtsNZpRTxoC1Es/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一个名为OpenClaw的AI项目在开发者圈子里备受关注，但与此同时，一场专门针对这些开发者的网络骗局也悄然展开。网络安全公司OX Security发现，有不法分子利用GitHub平台的功能，伪</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612669&amp;idx=2&amp;sn=f0517edf34122c07c37bab4c50c0eb9c&amp;chksm=b0c6cc5e56edd3f6c60b627df8bdaf53a2170e2a91cb9d8e7ba523c08daff505e23205f46f80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[报名中！Android逆向内核攻防实战进阶：以开源项目 APatch 为实战框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8ETJe7lMGMicXT2IQtrAVWiaTIzqdmHY73nywq8UibpeFVm6zyG4AIVlFWqjWXibWcsqr3zxHOdqY5JIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Android 安全与逆向领域，你是否还在为 Frida 被轻易检测而困扰？是否想掌握内核层面的隐藏技术，却又被复杂的编译流程劝退？《Android逆向内核攻防实战进阶课程》为你破局！本课程聚焦内</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612669&amp;idx=3&amp;sn=7ddf21776f52c3bddc8c5a469966dee7&amp;chksm=b016d4ddb976a8feb9c66fd9a3d79897cb7af1cd22efe2aafc81aa4f517376c09009900f981b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Polaris-Obfuscator中BogusControlFlow简要分析 反混淆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3TfPHH6nSQwD29CCzG8MKXod0waVbz4h9eOA3WSN5DpkBENN4NCWVUbB6esJwGDAH7pVsWaiabxTZ9TqJFEYV1WzlbfKibv6Y0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个混淆也算是从OLLVM继承下来的老玩意了；简单来说就是对于一个basic block，在它之前创建一个相同的basic block，这个新的basic block包含一个opaque predic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612529&amp;idx=1&amp;sn=141a6f2efed42c448a12d542a855250b&amp;chksm=b0d824309af823e6ac58d90e18e52c132831d9d83c1e3743c8065c9fa107272981280d7b7f99&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BYXFtecVXvKOib6JsOJ0tS868r1zpZ1SAQ485mv9gWgNHZTYiajTFekSTCLdVeddELbxbGian3mQ7MO7cTEXI97ZYgk6A70vicnk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能公司Anthropic宣布，在与Mozilla的安全合作中，其旗下Claude Opus 4.6大语言模型成功挖出Firefox浏览器22个全新安全漏洞，展现出远超传统检测方式的效率与精</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=2&amp;sn=42538345809533671f7986f4a6b83846&amp;chksm=b04ba6a0f9d1f0ad15c376976006d280170f295d84defe8438c74524eb830be74ce4250d5b34&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非虫重磅打造 | 阶段二：安卓软件开发与逆向分析（工具篇）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟化防护成为标配。2合规与检测困境：App上架审核趋严，隐私合规检测、安全扫描</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=3&amp;sn=04c149f36903056678f95865f47f1f78&amp;chksm=b0825c504b005d89cb81e74327f8c6b17c16729c3d2b8354ff314402ade2e86926ea895a17e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISCN-2025-初赛题解 NPUSEC]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0cR56ibId8LJx48t5ibUWh6kJkqbWI9nrRw9Q0GZIDJ6HmIuNPrFKuK425Wq80Jck8jGLFfZCWaqiaVknqIScrwN3kFwxJ8Z1pwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PWN 3/6ram_snoop（赛后解出）程序给了一个babydev.ko文件和eatFlag文件，一般来说babydev.ko文件就是存在漏洞的模块，查看init文件，发现将/proc/kal</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611852&amp;idx=1&amp;sn=34b98be534d0fa60724aadd9938ad62e&amp;chksm=b00db7049bed69cb888d8601489a7a604bcf750bf2d070a667504d16cbcf0c79f9e4803d1945&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Mar 2026 17:54:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux Pwn 番外篇 | 系统讲解从用户态堆栈利用到内核提权的完整攻击链路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8FnVAUNhyZYMD3ffhAGey7JicqN6UnI5fb2vEaNA5PnOv81FNolqwruOxnLu1SxDvEp88N3TvcyvbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在网安领域，“一招鲜吃遍天” 早已成为过去式。随着IoT、移动设备、嵌入式系统的爆发式增长，ARM、MIPS、RISC-V 等异构架构逐渐成为漏洞挖掘的核心场景，而传统 x86 架构的 Pwn 技能，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611852&amp;idx=2&amp;sn=19193170d64460db8c9128671f37b527&amp;chksm=b08a5874312454cacd5a6352fc67c04e3ccef035c94397f5b5ee8efab37ffc65db867e9a8f29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Mar 2026 17:54:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

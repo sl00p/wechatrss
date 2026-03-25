@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ClawHub漏洞可操纵排名，恶意skill登顶引发供应链攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0l42XGicSPg0mEMTdEZs9nc0P3icvZ1CIjAgCxazptYZ59zicy47tw6VQ7M5snVMnFH8UIp72SU0ZjeyaXKU2KRXGjy6qSPlqNeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述安全研究团队在OpenClaw智能体生态系统的公共skills注册平台ClawHub中发现了一个关键漏洞。该漏洞允许攻击者人为虚增恶意skills的下载量，从而绕过安全检查并操纵搜</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=1&amp;sn=98870e6eabca8a43fb372414b7f38e00&amp;chksm=bcf1d54d5c921bdd5b5ea827a7deb98bf802c82898421973877331f2cb10bdc7a87974a1ab05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客伪造OpenClaw代币赠礼，GitHub开发者钱包遭清空]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gNqPOCRRjoibDR2bPhIxqV60iat2wzPl1d7aFubLXicJeOeWYV9qRnJ0L84Lia17mbFK0PNSibqJ4aWWPhLO0NF6KlGmtbibUM2aRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>参与OpenClaw项目的软件开发人员正成为一场旨在清空其数字钱包的危险钓鱼活动的最新目标。安全研究公司OX Security最新发现，攻击者利用GitHub自身通知系统，将毫无戒心的用户诱导至欺诈网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=2&amp;sn=aff88b88e3c881fbc9063519f5c4344d&amp;chksm=bc8c88115199edbe45b43460c702fff9af1fba832dcaa2e04640eace4684c0930269383a0144&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[恶意LiteLLM版本与TeamPCP供应链攻击相关联]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XEISEqeu30QCzXYTWB5sqYJBaBWkGK1Y9dJjlOWT2V285GcuiczWsAw2ia2rSA9TKBhcFKrMTRyR8hJsMqkrRpON97uiaSPjPQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁组织TeamPCP疑似通过Trivy CI/CD漏洞入侵了LiteLLM的1.82.7和1.82.8版本。LiteLLM作为月下载量超9500万次的工具，可帮助开发者通过单一API路由大语言模型请</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=3&amp;sn=a6a0e078f77ce000456250a6ab3dd3dd&amp;chksm=bc00c56a2ad3c8b72793a598f3fc7d6e156c744ea04a0cf822b5032021a756badf1eed6f3fd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DarkSword漏洞利用工具遭泄露，超2.7亿iPhone面临风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1OWQJT5WF5qrI317yoQ3PVOfNgzia6L23ib6bBdo0icia6GtgHrPOohcP4lwIF2RYCyr0fLCcZnOjgUQ0cianolvhRAFZPZ0AVhMvk/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkSword漏洞利用链的泄露使多达2.7亿部iPhone面临风险，攻击者可通过Safari浏览器在用户无感知且无需交互的情况下窃取数据。研究人员表示该漏洞利用工具自2025年底就已活跃。全球iP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=4&amp;sn=7b28b9b7520d8c97fdf88d69ff5e4a24&amp;chksm=bcaa725f3a5f0c6e043fa640f9c1e97c85c2b0d224fed824f6b1094d58eb73e8d1196e19879f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全球顶流“龙虾OpenClaw”席卷而来，国内40+安全厂商集体打出“安全牌”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10XWcCo50ic9XBqAKPE1M0EfzBkiaMbI8icMep6UicOV3HC3ic68E7rwfiaGaeFlZ0kqI5zVibricF1GEa2BzszrBnOLAzc2liccqUFYdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🦞当“数字员工”开始操作你的电脑，谁来为它的行为负责？如果你还没听说过OpenClaw（中文昵称“龙虾AI”），那你可能已经错过了技术圈今年最火爆的话题。这个被誉为“真正能做事的AI”的开源智能体框架</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=1&amp;sn=b0d7de48eda134c17acfc3be5768bb19&amp;chksm=bc6c8542f3a95ff95b48d56fb4ed050cd9b44c2762931179a5ec86c770728c96b3f383cb200c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1BqSricSsWuUP2ghGrPayticia1GMEz8sIwbGEvbzicB5fnTU5IXicEgIbqsGLibL3Q0zjbrb0SSlckJfw9icQdSe4QIwCLL81icictxEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天很多企业其实并不缺安全工具。有 EDR。有邮件安全。有身份安全。有服务器安全。也有云侧监测能力。问题从来不是“没买”。而是每个系统都看到一点，但很少有系统能把整场攻击真正串起来。终端报一条。邮箱报</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=2&amp;sn=48295723665aafa81038663895b6d174&amp;chksm=bc0b050c416fe2e4d8bf8235c5394e70b9164f74a9f325343986e7e7e2ca3a569b29b070c506&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Splunk高危RCE漏洞可致服务器被完全控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0vBlBLo6pJynBNN7ibzRgaf4Rqz4VgX6Z994dcW00IGV6r9jn1zoPxVmVcvCumlAnxWvjZRUUvJeicMfUUsibF07gOPSfgicg7SvY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Splunk发布紧急安全公告，警告用户其Enterprise和Cloud平台存在一个高危漏洞（CVE-2026-20163），CVSS评分为8.0。该漏洞允许攻击者在目标系统上执行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=3&amp;sn=96bed2b17f356f36202370500a12458a&amp;chksm=bce2a328e2fdd138d22475f711e99a4f8d64b4c69bf1f89caf941f2ca17b3173748230614403&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自动化渗透测试替代人工，效能跃升颠覆安全认知]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pGKialXwDicnABib0z2ApPjicBQAWON7gLbcUwWb3AOTgGqDib9FP0jtMG5kzgGu33va21YxIFzRltYX1tQDe4T2aIeYiaAowjmHRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01自动化测试的双重价值：提升网络安全与团队效能随着网络安全事件频发，各类认证与合规要求不断增加。虽然这些框架在建立安全基线方面发挥着重要作用，但真正的安全防护远不止于获得完美的合规评分。正如</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=4&amp;sn=4fed997e85a73791a153798023e4e4f8&amp;chksm=bcc2eded6ddf956d6f5d02380ca92c700a08a1cc11154dd88c9a3f16b41fe9c2fb3654f77c4d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[斗象发布首个跨平台安全Agent员工CowboyClaw（安全牛仔虾）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2zIicDjuPibC4XOZ5B48NtwjAJk8RTrxB5HgU56UcRibJFicLsuzrSO7MicEfOkq1HU7O5G3KRMibHDT2ibH3jqnKBw7ntj1e59vIvWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下安全运营工作日渐“牛马化”：白天当“漏洞筛子”，眼睛瞪得像铜铃，从一堆告警里扒真威胁；晚上变“服务器保安”，熬夜登服务器查配置，对着CVE详情熬到凌晨；更别提那些雷打不动的日报、周报、月报……这些</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=1&amp;sn=b14a8fac929c0d0941ffa8557afc257c&amp;chksm=bc526fb4369c5aec30ff88df2eedddcaf385416f964c41af4f8a2286cb2208c089d4d41265aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意Rust组件与AI机器人劫持CI/CD管道窃取开发者密钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ia9YtibXLQbXZKQXNmZiaUIltrfzRf5ElJBxic0Fzc0CWS1JogrXvhoA5JKrqh9DjogibYojs1NVFoZ2de63ictMBEm0wh7cagibuA8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意Rust组件伪装时间工具窃取密钥网络安全研究人员发现五个伪装成时间相关工具的恶意 Rust 组件（crate），这些组件会将 .env 文件数据传输给攻击者。这些通过 crates.i</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651335989&amp;idx=2&amp;sn=fde29edd0f3535e045658d84058e484d&amp;chksm=bc9f13df7a64a26fe4dc122e9f2d747352a44f50a4a9f499bbe8c6ec5bfb118bcc595932c87b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 18:00:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
