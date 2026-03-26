@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[7 个最近 GitHub 上火火火的开源项目，推荐一哈。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1iaanZo9jNdGVN8DPgQicEOZWzTGEvSC0icN14GPTcmpYwabiaSsh9qXspgnXn6dGwAZK2pZq2znQ4JlxtYN4pFiaOOyxrpBpicWrIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01美团开源大模型上新美团龙猫团队开源了一个专门做数学定理证明的模型：LongCat-Flash-Prover。 数学定理证明不是算对答案就完事了 ，它要求每一步逻辑都能被严格验证，半点含糊都不行。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532504&amp;idx=1&amp;sn=caf0776d5777153444ed66019db4ac12&amp;chksm=f85c18eccbbbde19c3a7d1cc95f541d0a7e2b95b430012aec007eeda4a4ad5fa6001cd570722&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 16:19:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上这 4 个抽象离谱的 Skill，看完直接笑掉大牙。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2qUIMWN9xH9j4AHibiaLwn1Tf44q3QQib0faTvlzMx4l9Wf9sibaia9iaAicQal1NdSBXW3XvL00A5jufVY8mGRSuDXzjInERzxozUJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用大厂 PUA 话术逼 AI 给你打工最近 GitHub 上冒出来一个离谱到不行的开源项目。之前也提到过，这个 SKill 核心思路就一个字：PUA。你没看错，就是把互联网大厂那套绩效考核体系原封</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532503&amp;idx=1&amp;sn=9901e0adfc35f7d7c491a0977ec442c4&amp;chksm=f83db92d9895c055382e5c1f8abb913ba5b6ee35d94f45cf2ad1dcdb7ee6f20c542095434c4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IrwLZlcuu7vakCMN0PSzZzGM8P4hcvMhicQCnuE5BUZibQYOWdLBTjIpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AionUi 在 GitHub 上已经获得 12K 的 Star 了。它是本地、免费、开源的 AI Cowork 平台，对标 Anthropic 的 Cowork，但完全本地可部署、免费开源。Aion</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531081&amp;idx=1&amp;sn=d8eea566ee6444926dba4d85665cc350&amp;chksm=f8b3bbceb3c5d840bcadf2638bfc0a556caf16c055ed8c31d4f29f1ea63aa0686c2159328a9c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Feb 2026 15:08:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近看到的 3 个 GitHub 开源项目，分享一下。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5ItTt0wXRap9niaJ92XKEWE9kDPorx6yhynsRaWRlskiaBdGECCVibuic2TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01PageLM：NotebookLM 开源平替PageLM 是又一个开源版的 Google NotebookLM。NotebookLM 最火的功能就是把一堆资料扔进去，它能给你生成播客对话、测验题或</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531080&amp;idx=1&amp;sn=4004c64c145d91fd681a9b96097bdc67&amp;chksm=f8db51a2b4d7aac5bf859b88d28970f0095aaeb928297adc8e38579b021d8ab9e15d8f6ed409&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 16:24:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

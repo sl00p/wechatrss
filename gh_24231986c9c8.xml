@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenSearchCon China 2026：字节跳动在 OpenSearch 上的技术实践与前沿探索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeMBn1hQvQsxVQRE2XLoCRkYKSZIklERkb7yFkLENXkYyfkl0w8LPibme0K7Xq4HzAdWEMIymJ7GaHsEVI6Ly5wf4dycSWzzK48/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenSearchCon 是由 Linux 软件基金会旗下的 OpenSearch 软件基金会主办的年度技术大会，2026年首次来到中国！作为开源搜索与分析领域的一场“华山论剑”，从底层引擎 Apa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519046&amp;idx=1&amp;sn=45613e8c1ed787026f52292ded0e5acc&amp;chksm=e89044ce2de06ba75d65148e4321498bf254ef5758a80f8700aff490cc0c06177abbe2b53698&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 17:36:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文读懂：智能体身份权限治理演进实录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecSNMkuNOuce3vA0uZVibJyDDc8zc61hYExA0bVTicibaTKdFibBXeJeMtfW0PZNk5ibR3wK9XibVlVSbeNlZ4YA0BzroTAnSnWibsBJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>序章当一个实验性的“咖啡外卖”智能体（BrewSense），从服务几位工程师的小工具，演变为数千人依赖的自动化伙伴时，会发生什么？这不仅仅是用户量和调用量的激增，更是一场关于身份、权限与信任的治理风暴</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519016&amp;idx=1&amp;sn=4a895e7318d251e077ba720dbf7e1cef&amp;chksm=e83eb54f2d661eca1b6334464294d77cdc31e9280d55016b8e6c803e028c17749fe510c30911&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgxB7kHfb0ZrVibic0YKFD5iaibKicmr0vicAibFtyicxVzib28r0I800rBdFwdfZjgzdXonsnVPIMMiaPhrx0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言当大语言模型突破了“理解与生成”的瓶颈，Agent 迅速成为 AI 落地的主流形态。从智能客服到自动化办公，几乎所有场景都需要 Agent 来承接 LLM 能力、执行具体任务。但技术演进中痛点也随</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517292&amp;idx=1&amp;sn=bbecec7b8b9881dbd93c57ee04c3bf4e&amp;chksm=e891e2f225253daac63ab1f4dcf4b165ca1925cb4ea4faff8686dc1cbcf0b4db370f0b6e5213&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎推出数据智能体 Data Agent 评测体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjLLx3WXAELOS1bia6Za19GdMT3E6oz6b6sJI5I4sQJqPZBXHn2J4fCkUsDXPFvAM7vFMicblicWGcYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年10月，火山引擎在 AI 创新巡展武汉站中正式发布《2025数据智能体实践指南——回归商业本质：数据智能体价值主张与务实路径》，同步推出国内首个融合国家级智库理论框架与大规模实战验证的数据智</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517270&amp;idx=1&amp;sn=cf2cbf25c44d4dc400847cd149dfb4db&amp;chksm=e8d054dc120e006bae3318ed206826071926d1c881bb74fde286ad02bbebac573ae5b5cfef73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Oct 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

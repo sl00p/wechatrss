@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[手游逆向全流程复盘：从 IL2CPP Dump 到 TCP 握手协议还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0n9gpDkibbiaS7icz4rtWB9BDibeYbYJR4WOySMn8uiagbebR6icRVHfBq8DXkIEdZYtRq5opSfkwliaTS92MZguicY6DicCUkKpiaDZk1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了对某款基于 Unity 引擎（IL2CPP 编译）手游的完整逆向分析过程，涵盖运行时 Dump、网络协议识别、加密逻辑还原、握手流程分析，以及隐藏在脚本引擎中的业务逻辑挖掘。文章以过程复盘为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=1&amp;sn=a9bf902f18aadcaafe44d0ef6d6454b2&amp;chksm=b0c8f6770b50e233ed4c6d6476769108375e3055ca9416d39b24c3563845e1b3a94a002adabe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型“PXA”窃密木马来袭：专盯银行与加密货币，邮件是主要传播途径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K28iawDdGaa0NcX7Qib8QoQ4rWicRx574NZMGYJyOH6ibevd1bHb9yCFK6UmgwQtwZlPzrfLuWkgNib0k7MHZjD830kLlwiagKnvEjn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，一种名为“PXA”的新型恶意软件正悄然活跃，尤其针对金融行业用户和加密货币持有者发起攻击。网络安全公司CyberProof监测发现，2026年第一季度，与此木马相关的攻击事件激增了约10%。为什</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=2&amp;sn=f67d13c5b0fd10ec57440e1b5eac739b&amp;chksm=b02766ddac9653be494d9d610b09d0852e17159a80396cba115580e1ace983da761d083e737a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux pwn 探索篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HjZyhhjc5PkkiaFR5e7Z3ST4ibW0suV2NRw5vGdjp576BBSZwSibH3PCp3cywpT9ktETtPUwHkzg1LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>想要在CTF比赛中游刃有余地完成PWN赛题，带领团队独当一面吗？想在二进制安全领域打牢地基，为今后的安全生涯建立强有力的后盾支撑吗？热爱二进制安全的学生及安全从业者们有福啦！平台最新打造课程《CTF</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=3&amp;sn=2ecb67b436846cedbce3f2136190e96a&amp;chksm=b0fd87b9341db54ca69f0757dc1d45b69b65faa1c9915aed1d5a8bb26519cbad7e18355f3e52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android 内核加载未签名驱动的一次实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2GKXQbeJ5RXIY6vmgJo6libE1zs1XF9ALlRIhXSiaxIomc0icgRu22ibmsEsJdl84yk3BOfUu3FgqSkibAMA6l4icMIYHEtWbw8DEFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>测试机型是Honor 50 SE，内核版本是4.14.186，已解锁 BootLoader，通过 Magisk 27 管理 root。前段时间需要测试 4 系内核的一个外设驱动，打算用这台机器,编译好</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612669&amp;idx=1&amp;sn=65a2b6f05bec21859650f8e99655337c&amp;chksm=b0306fb13072add330831fffe025a607029cffaac15a055ffdef172379f804722486f30f7813&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K37DOA04QbAB0KYXu2jjBKVuy1tD5pjHeeZjiaZ0viaVWcRlT3SuW3GqeKXuXyodunbXuFwjmT7IOcRAAX7pwrd3oXLo0NHxibAbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你正打算下载CleanMyMac来给Mac“瘦身”，可要擦亮眼睛了。近日，网络安全研究人员发现一个冒充知名Mac清理工具CleanMyMac的欺诈网站，正通过一种名为ClickFix的攻击手法，诱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611998&amp;idx=2&amp;sn=8b124bb76ddb4fdddb0e898bdb490e9e&amp;chksm=b08f2449270da3165bcb03b9709925692485e9081bbefabcc7684e85ccac6b8fc4d94f033235&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火热招生中！系统0day安全-Web框架漏洞挖掘（第10期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1WLX8ibFYiaoceyEzibNp7m8iaalzZUfCzmXIrCmkL0ffjF3pfzBBwv5nsby2djms3ibocxibWb4wkHL10FYA8MoJJ4VBIdTfUicSOvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>做网络安全、开发、运维的同行，几乎都有过这样的挫败感：✅ 记了一堆零散技巧，面对真实业务代码仍无从审计；✅ 懂漏洞概念，却不懂底层逻辑，遇WAF/RASP直接卡壳；✅ 学旧案例跟不上漏洞迭代，最新CV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611998&amp;idx=3&amp;sn=89a9fa2d4af7c8994d25051cf5f8de6d&amp;chksm=b013359ac8a57b2c10fa9eec6dcb43017084d4ddd3d60b6068c9bdd1797730ea758133582677&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux内核modprobe_path覆盖利用技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Rv62zibxYQyDMbEEYsIhO5Fqkpa73xibkVlgDHLJiczGm9g4deC05DABicLy91AbH5wVlWvBvVn8vCZib5fcIcibIaksypXlDBOcMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年的 ccb&amp;ciscn 初赛有一道 Linux 内核的 Pwn 题，让我这个内核菜鸡被直接“硬控”了，现在初赛都上内核了。赛后搞到了 WP，于是正好趁着元旦假期有时间好好复现一下，分析了一下这道题</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=1&amp;sn=42714dd32f8e60e18b9206288004770d&amp;chksm=b09a83f5f018cda76dc8e82d870bd8429dcb3d64b7d6e95de1c7146ea1555c818f5d6c7067e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[效率封神！Claude Opus 4.6联合Mozilla，挖出Firefox 22个全新漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BYXFtecVXvKOib6JsOJ0tS868r1zpZ1SAQ485mv9gWgNHZTYiajTFekSTCLdVeddELbxbGian3mQ7MO7cTEXI97ZYgk6A70vicnk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，人工智能公司Anthropic宣布，在与Mozilla的安全合作中，其旗下Claude Opus 4.6大语言模型成功挖出Firefox浏览器22个全新安全漏洞，展现出远超传统检测方式的效率与精</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611860&amp;idx=2&amp;sn=42538345809533671f7986f4a6b83846&amp;chksm=b04ba6a0f9d1f0ad15c376976006d280170f295d84defe8438c74524eb830be74ce4250d5b34&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 17:58:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

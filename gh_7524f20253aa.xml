@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI重金悬赏AI滥用漏洞，50%复现即算有效]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0m0tKtdib0ImdjSoiaKAzredezwvsTSuHrghJPiaOdVPenFicU3ibnicuCFUzZ0JoqNcHn9xH5rA8icVJAzBjgpGCnwibFZCVBlfNE9gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI宣布启动一项公共安全漏洞赏金计划（Safety Bug Bounty），旨在识别其产品中存在的AI滥用行为和安全风险。该计划托管于Bugcrowd平台，标志着该公司在应对传统安全漏洞范畴之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=1&amp;sn=461fa672b80793ba929010a30401dc1f&amp;chksm=bc10efa818b0933e98790d385670e55c1e04b69b301df94e387012223b2fb0beb2edb8e46584&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2QnYvu5QtctQiciaFMQLveH9LhXjOickPJpUYZoxCYZek9ftXiasia60qniaQeCK10Zxu55tFQ3KFjhaylcibynbFtWwyVZ6icAEMdTo8/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了Anthropic公司Claude谷歌浏览器扩展中存在的一个漏洞，攻击者只需诱使用户访问特定网页即可触发恶意提示注入。Part01漏洞原理分析Koi Security研究员Ore</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=2&amp;sn=a17a7451244ff069465de8084aef89e4&amp;chksm=bccfcc21f6e8fb717854ca313164b8ea21949db953c22d4fd54506510a10e3ef92b5205ba2bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型开源供应链攻击，虚假npm安装日志暗藏RAT木马]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3icLg5tAmetHbJQNjibjge8hyNRJOhsswbEK6GAG9lqmwbBKUwZ8F5YOpOTwlbANXZOQ2puTCRlhTM4ibhhaNRrcLjbjO3kexJ2Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击概述安全研究人员发现一场精心策划的新型软件供应链攻击正通过 npm 包注册表针对开发者，攻击者利用虚假安装日志掩盖恶意活动。这项被命名为"幽灵行动"（Ghost campaign）的攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=3&amp;sn=1a81a2c524550c64a33d41e4d061797a&amp;chksm=bcc192b3b27ba563ff8a658d10ef420d41a8222da014c3f3685cb0e7dd92f4d6a1540212e43e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科安全防火墙漏洞可导致攻击者以root权限远程执行代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2b7qqicee66CrqvTaMaYuicEibjmPSlh4YpXl3oLDd3xF8CLGuxTh8XGJVLb33xZYNglFueo5I7oMqpbTAdqeYTW4SCb0e0scr3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科发布紧急安全公告，披露其安全防火墙管理中心（Secure Firewall Management Center，FMC）软件存在一个高危漏洞。该严重漏洞允许未经身份验证的远程攻击者以完整 root</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=4&amp;sn=af6cf6400814910b0f3099d87495d048&amp;chksm=bce50eaf5a2b2ba7c453f78aeaaa9b2b750070db3b5d671797df6eb80d195344d685e11fc2c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ClawHub漏洞可操纵排名，恶意skill登顶引发供应链攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0l42XGicSPg0mEMTdEZs9nc0P3icvZ1CIjAgCxazptYZ59zicy47tw6VQ7M5snVMnFH8UIp72SU0ZjeyaXKU2KRXGjy6qSPlqNeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述安全研究团队在OpenClaw智能体生态系统的公共skills注册平台ClawHub中发现了一个关键漏洞。该漏洞允许攻击者人为虚增恶意skills的下载量，从而绕过安全检查并操纵搜</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=1&amp;sn=98870e6eabca8a43fb372414b7f38e00&amp;chksm=bcf1d54d5c921bdd5b5ea827a7deb98bf802c82898421973877331f2cb10bdc7a87974a1ab05&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xXDyAL0e4fvO50oep54b5fNWkAvZHfCgGrJJxiabh3Rib3clKNiaicXGf22ibzhdaWia4y6oCdFR3J7VyGic3170LyiaIVmteI4KQyf8/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着网络犯罪分子不断利用新漏洞发动攻击，企业对持续红队演练和主动安全评估的需求达到历史新高。传统的年度渗透测试已无法满足现代复杂环境的安全需求。为帮助安全团队应对高级威胁，Metasploit Pro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=1&amp;sn=fca5b492c0cf982f0d06ca594a72f755&amp;chksm=bc9800463ef4b31beaf2539b9f0dd07b268f2f305ccf493ccce70f6c4258820a173cafdd2450&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果紧急发布iOS 15.8.7更新以防御“Coruna”漏洞利用工具包]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX06jPeUQLNSE0E5OCBFiaUVHpLCfEtd38m7GSY7D6dIbgvQ7uOsfq7AVb7SUQM4tbDHMXgNOnZDDwlEJN9NZ0ibbIIandC5GN0Kw/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果公司已紧急发布iOS 15.8.7和iPadOS 15.8.7安全更新，旨在保护旧款设备免受名为"Coruna"的漏洞利用工具包的严重威胁。Part01关键安全补丁回溯2026年3月11日发布的这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=2&amp;sn=f7392844806eb4bdd7ccf995542ed62c&amp;chksm=bc36f66feed2e47d143f26faa77f27fcbe0c060b729067aa86fb63cdb801501a73b2a98d619f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw安全公告激增暴露GitHub与CVE体系鸿沟；OpenAI推出Codex Security | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖OpenClaw安全公告激增暴露GitHub与CVE漏洞跟踪体系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336024&amp;idx=3&amp;sn=a24524596819c5aa62076a8e599abfcd&amp;chksm=bc6e581dcd4ddb6784025b5935d26c1d151e1dd3067ceb3f88d46d5769109774b69a8ccf9ec3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI串联漏洞攻陷招聘平台，伪装特朗普索要数据权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX09wP34oC1m8BMV2Am7iaHayCgQcbpyldiaKtUmuUougESpERSZHGBuiaKMPicBLete5IInmciaibCM49NxMk2e3szu8PM0kf60OGSco/640?wxtype=jpeg&amp;wxfrom=0"/><p>当自主AI Agent被释放去攻击另一个自主AI Agent时会发生什么？CodeWall在最近的红队测试中发现，其AI Agent能够串联人类认为无害的漏洞，轻松绕过认证控制，甚至出人意料地伪装成美</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=1&amp;sn=204ce5241935e6987d2d10a9c28f906d&amp;chksm=bc9de8a86c94078b58df5c10deb61e508b902beae5718ab024065c3bd82b2122521ccb421b72&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么越来越多的企业开始部署 XDR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1BqSricSsWuUP2ghGrPayticia1GMEz8sIwbGEvbzicB5fnTU5IXicEgIbqsGLibL3Q0zjbrb0SSlckJfw9icQdSe4QIwCLL81icictxEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天很多企业其实并不缺安全工具。有 EDR。有邮件安全。有身份安全。有服务器安全。也有云侧监测能力。问题从来不是“没买”。而是每个系统都看到一点，但很少有系统能把整场攻击真正串起来。终端报一条。邮箱报</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336004&amp;idx=2&amp;sn=48295723665aafa81038663895b6d174&amp;chksm=bc0b050c416fe2e4d8bf8235c5394e70b9164f74a9f325343986e7e7e2ca3a569b29b070c506&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

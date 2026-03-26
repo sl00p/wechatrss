@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj5gia70FqJ2kPW54rsEVeltDwRxjbq40Fia5ic8zpHViccOk3eiaWh4M6Fib9lvYojRhJC23oZ2dJACo6qJT42V11HHo4TMUoRibNB5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 黄东旭, TiDB 联合创始人 &amp; CTO ｜TiDB 工程师团队 1 一个让我们重新审视数据库的数字 过去一年，我们在 TiDB Cloud 上观察到一个趋势性变化：每天新创建的数据库集群</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=1&amp;sn=c97730f94cbbc6d32429d5722ce96935&amp;chksm=bca36077f1a1567a3454c430d77ee512c409478ffe73a4d6998a997c49ecfdf83e5da049131f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 一键生成网站之后，最残酷的差距出现了：代码不再值钱，审美决定生死]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjLnET0icvgdEKRbj48VX4NgoNy31RaUUPlza4mmE4GCv4iaVGP7efxyFDtyHvhw5YPmyL2bgmO7ZyyI9ibia7aHoIwicZAAfsviacU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | RedMonk 译者 | 平川 策划 | Tina 去年底，一个网站在开发者和设计圈同时刷屏——F1 车手 Lando Norris 的个人官网上线了。不是因为内容，而是因为体验：层层叠加的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=2&amp;sn=fe6b58af9559ac7a1c15878075b0ead7&amp;chksm=bc99a9d636463144fa0ed84485f607dd6cb1eb97f34590817019f0592984412357fd788f6c3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在边缘应用中，实现 Kubernetes 的主动扩缩容]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7JUic2jSEl3ZrVJk8VEKw8zsE5HdTRDegYqpW6VYA2mYfHDZsjpib9Hk3ehejicicdOR3JpRc2KbvRhvX3XwwXYeAOuzBfGZrDZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Rajeev Kallayil Ravi 译者 | 张卫滨 过去十年间，Kubernetes 已经演变为现代 IT 基础设施的核心平台之一。它通过可扩展的架构与声明式的资源定义模型，让企业能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=3&amp;sn=a7026918ba06464f237c02d66b08a063&amp;chksm=bc66e4a4b0690f80dc513949ccb6be97366b3d29ee03e70a05e75874e94e5e1f530200d1f206&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何塑造软件公司的工程文化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaY05epzLGtZPkHgxhOsPj9UTfGjPwe9M2Hb9xjBTJJk9BFzxaicT5IibYoLZGK5dFibNBRpLEaGDbUJOJgdGIr6v9tQMhzAnqsMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 明知山 David Grizzanti 在 InfoQ 波斯顿开发者峰会 的演讲中提到，可以通过观察人们留下的“痕迹”来了解一个组织的运作方式。在演讲 《S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=4&amp;sn=219f10bfec537b300f37bd96040f0998&amp;chksm=bca0ddf9d6aea72c8f13feaeeedb71a3c33a056966a0ef7511f93c8743d918664b054fd7faa7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多模态 +Agent 在培训与教育领域的应用｜QCon 北京]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhB2KxfETvlEff68Nib9iaa9ic60pnjJmCv3M2ds2qaEMfHlkb7ev9FfaWZejc8EAfc01uFVXH1DHXkdHrKicibjqVG9TdNHQSgFaxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=5&amp;sn=0fc6f983c943cfb60111fe3d734365d3&amp;chksm=bcae43533e7a767ebfec8b94bc30eace2d0a735b0e164965b04bccae3ed9d28fa3f668afa3e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI越强，企业越迷茫：顶尖CIO们的十大真实之问]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj3IJo5DKznHkuYU3AQslboAV3bxjLWpfqMGp4v0jLGX3hX9NbOZS1810ZcuFEls5MFZuC8t4uz4ibKBibjRHnNEa3k8w6Ayadjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 凌敏、籍云 AI 个人工具每天都在创造奇迹，企业 AI 落地却像陷入泥潭。阿里云 CIO 与十大行业 40 余家头部企业 CXO 深度碰撞数月，打捞出十个鲜少被公开讨论的真实之问。这不是一份</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651279895&amp;idx=1&amp;sn=846e72e969aee8e29474f39de17d5671&amp;chksm=bc6a959a2374be9555299cef07d5be572e0acb5806e66a4e5939aab5dd9af76b4f7072ed5a5b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj6VXuoZ7ygj9hao0oQpibJQT5vg4N3QpNupZL36DIA124urqCU1fP4LckdAZhBe9237NxvKbVePWicVIgYhCMuah14pXNfmfd8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫昨日，OpenAI 宣布收购了 Promptfoo 以保障其 AI 智能体的安全。这家成立于 2024 年的 AI 安全初创公司，专注于保护大语言模型免受网络攻击。OpenAI 在一篇</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278388&amp;idx=1&amp;sn=dd0405764dd251af789595ee5f2710ee&amp;chksm=bcc15f05a474c4ef25ace9a49d3481ff6d3d4776b1f4e1d68ba19ede7c0b651ee921d7987917&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 15 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 教父 Hinton 最新警告：AI 会撒谎、可能操纵人类，这比大规模失业更可怕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaIOfn9ugH2kCqqBB73icNLdaTuqSRiaYmNLIYvec0ZeTemCO49USvYdt2lgd4YFbz1b3wOp0EfeoIX6FKwNIf4hP5F4eMjfeQjI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 允毅 如果说这个世界上有一个人，能让你在听完他的话后，对当下的人工智能感到一种源自灵魂深处的战栗，那一定非 Geoffrey Hinton（杰弗里·辛顿） 莫属。最新一期播客中，图灵奖</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278388&amp;idx=2&amp;sn=b5685421ce110c35327893cbf2264291&amp;chksm=bc9ee794bd6bc26cd4242225d54564a030d49a813c0f62ec17b86cc80c860c7a9c262dc44856&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[变更即指标：用交付信号度量系统可靠性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNianVKkUNOCVFdE0V8m1ORcY3VrVZgAibzCSIBX9FcEmicxP72hmFsJ1SD6dRicm43DM4QggDdNjLzxG71PArSyBL2eEs3P92qa8Bk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Peihao Yuan 译者 | 明知山 系统变更是引发生产事故最主要的单一诱因。行业研究与实际事故复盘显示，60% 至 80% 的生产事故均可归因于代码、配置、数据或实验等形式</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278388&amp;idx=3&amp;sn=ddf862934585ce097c65211abd07f004&amp;chksm=bc178109336e07d60d0933cbb854e9b905a522ed3dc6902cba55abef03f73081a841be70a3cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[规模化人工判断：Dropbox 如何借助大语言模型优化 RAG 系统标注]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaiaOsia2vjXzZRIYjNgqlrb2SCMkjBbK3TZEyucfqxnNLAp2IgLaCZISUzVfK28icQI0ZzRRgiaMNG5qQXbbQBmUek8NEpybwpbiaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 为提升 Dropbox Dash 生成回复的相关性，Dropbox 工程师开始 采用大语言模型辅助人工标注，这一做法在识别用于生成回复的文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278388&amp;idx=4&amp;sn=3d9d968d3bde311ebff3b81df3f6073c&amp;chksm=bc586c1e27cdda400cad91c512111d4f67d2497b1271276f76009d711ab663ac3a0c98ad31a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiajeQWNWLlFLHib9QO55PyODZogd1GMGIp5gsYspzurGIEwjiaIhW075QB8V13Huia64mmoib2iaYwKt9YTCf7q6XFvGhXohshQfPCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 马斯克再次对 xAI 动刀了。据《金融时报》报道，马斯克已下令对 xAI 启动新一轮裁员。由于对公司编程产品的表现越来越不满，他不仅进一步清理了多位联合创始人，还从 SpaceX 和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278241&amp;idx=1&amp;sn=55f0c7346c4e840f314fd676245b712c&amp;chksm=bc1cde83ae00f768e20c38b3adcd30709cc6fad1fe485c6831971ad6f217cc6d54a7c76e5ca0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Mar 2026 12:20:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[采纳率从7.9%到54%：快手智能Code Review的三阶进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgT9zxFmZn7HJ9ciaDhq5pcsIbSIetWibT4ibibcZJYHS4Uaw8ibibY3pHpMZ8VNUz8engp3Xn3LlFChQBjcC1KTGlsxdZOL2wKjT7PE/640?wxtype=jpeg&amp;wxfrom=0"/><p>出品方 | 快手研发效能委员会 x 研发效能中心 概 况在快手全面推进“AI 研发范式升级”的进程中，如何将个人使用 AI 带来的效率提升，转化为组织整体的交付效能，是必须攻克的核心命题。智能代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278241&amp;idx=2&amp;sn=db1d5a2e7d33f9f8dbb60bc79a962815&amp;chksm=bc46a3b06b44710900368175f6c8cf25b62cd896e76e945992a1d01531944d779e0a8ba6d177&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Mar 2026 12:20:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

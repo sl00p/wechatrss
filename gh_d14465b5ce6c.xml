@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯广泛使用的跨端开发框架——Kuikly在搜狗输入法中的AI Coding实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907Kufs8bOp9W83yukWALsJTcdrHSWoBmVBQfn3SN2H2ib3EW6hPLpiaryO2jVaTib8FLKvMbM19p0nciaLexd2HXV5eFbCOXCrhZwc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：搜狗输入法 hesleyliang导语AI 以超乎预期的速度席卷开发领域，AI 工程化也成为各业务团队优先探讨的命题。输入法团队从实际需求出发，在Kuikly跨端项目中逐步探索并沉淀出一套 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800994&amp;idx=1&amp;sn=dca6eacb9cae1459e30a2b23d0ae758f&amp;chksm=bf56701f33e0cbdad878b2cfc7765449a856b7854d8c4e4ef6cf05c79e930179697c588fbd28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 17:35:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工的龙虾都长什么样？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907PE497KAxaoAxGGFicjvRTgtslf8ZK595fIpr4ZTqic7eyZVqfYGYmQ0AYIoXM0SEdrlkRM0Zje5STc8ibgE2kRMH45IQkXF4wfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景OpenClaw出现以来，有人 3 天用它建了个「第二大脑」，有人靠它改变了整个工作流……所以，你用OpenClaw 搞定了什么事？有哪些别人不知道的用法？不用写长文，不用做PPT，只需要一句</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800975&amp;idx=1&amp;sn=f4afc2d3a589e86f1641adbb3972bc17&amp;chksm=bf155714105233ce7e216d65315ca51ae40c996147a8e89e57dd145ca1eca4cc9024338a5b5f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauPEQ43Rjs4faltKgyPaB4Dj2S0WL5gmFygSRIQLzAgjkF93FdJoMmvIIDux8D5PfWOyt8vPBs6zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型开始“进化论”——一场静默却颠覆认知的技术跃迁。2025年已即将结束，开源大模型的演进速度，是否已让你感到“迭代焦虑”？半年多前我们还在解析DeepSeek的架构设计，而今天，新一轮模型爆发已</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796552&amp;idx=1&amp;sn=de05a82aeb33229752f5d3b8a7621378&amp;chksm=bff928e371a85b7f1f31ec87040e25a65066b70dcdc92233bef93dde6fc0940a1f68019992f2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 17:42:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[获NVIDIA致谢：悟空Agent的实践、复盘与迭代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasPIoguMrvgOia00y5n8fEMXOAR8KNg7JkYZeVXRZd1zRu594uqZcB55bSvLmdO5KnIaHgHJMbNQPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：悟空代码安全团队导语： 当代码复杂度爆炸，如何让代码安全审计回归高效与理性？本文以悟空 Agent 获得NVIDIA官方致谢为起点，介绍多智能体架构如何闭环，以及在实战中面临的真实挑战——上下文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796466&amp;idx=1&amp;sn=bde4c05e0548ed972aaed26ca85a8b28&amp;chksm=bf7fca9f64922743a9983b981b4f5c4aef276712d9dcb19bf0d09bd2402e99b0da253e29d4ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 17:37:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

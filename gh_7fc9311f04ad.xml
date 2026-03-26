@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw构建自我迭代AI助手笔记]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xo2g71x2icKd9MCdWxvePcCgemPGDxs9aKx1o3yC8ed3WV5jbWzWkeTQ0Pd5twRlScXXReicaibYSXmSdRwGku0VV0g5UobBEdTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>假期花了3天深度体验OpenClaw，尝试构建可自我迭代的银行客户经理助手的场景，验证通用智能体框架的可用性。重点只验证这个新形态带来的变化，暂未仔细核实每个测试场景的准确性。体验感触：通用智能体的迭</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559203&amp;idx=1&amp;sn=ab438f6cfddc61d0bf9c6048d9bb7616&amp;chksm=e8d74b615983808acbb8a528228442c269c33e8c1ddbc102c403f7a1c030a4ddf7244e48c94b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入理解OpenClaw技术架构与实现原理（下）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xhYqxo0xDm0DZ8qtPomrPes3bP3RU7OIC8JPTjfUaL3GMGMD5SCn8mfpR3UlCAm07FpNhzcxaAQ4wmTxVeZ8CBD9BHzDR4mmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是《深入理解OpenClaw技术架构与实现原理（上）》的续篇，主要讲述从沙箱隔离到企业级智能体演进。三、各系统模块讲解3.8 SandBox 沙箱系统Sandbox 是 OpenClaw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559102&amp;idx=1&amp;sn=ba40fd3db6ed2f61db180b25d72cd30b&amp;chksm=e83f3d19074e4b1726fc047a178b3d4c67c59d591fef7e7d9baaf2349d7f60a443877da89d5e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZ8nlibavuTcHsS4HAqmerSb55o2fxIiaWz6mn3qP4VhTUL4niaEdTJFxO9R2ibBCKe8mKNf3lLwPgIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本次 Memory 系统重构是一次面向 AI Agent 未来演进的上下文工程升级——通过结构化、压缩与抽象机制，让模型在有限上下文预算下更高效地维持任务理解、目标对齐与推理连贯性。上下文膨</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557330&amp;idx=1&amp;sn=782f98f8d7199b31d4fa2a192615bdff&amp;chksm=e8d2a8a97978999fbf07465e931edb526574b5a7563b3b8f91b577743b2bfd97ded922af4d9e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型在需求分析与设计中的提效实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKvTGzzFk5ibHxbZdVzl11HoQDLoy07e1DGzWWibicZQvv9HlhlWIdxl6icjpnGQHLf9qjfficuQRAaRUw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景介绍随着 AI 技术的快速发展，越来越多的企业开始积极探索如何利用 AI 优化产品开发流程。从初期的产品需求文档（PRD）撰写、系统分析与设计，到高质量代码的生成，AI 正逐步渗透到开发全流程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247556918&amp;idx=1&amp;sn=396bf83218b5b0c66696c006a64829c4&amp;chksm=e875ff73e2f7c6cb90513e822711d0dfa14f12cdf1df8c6513dfb522d35bfe2972570d9894df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
