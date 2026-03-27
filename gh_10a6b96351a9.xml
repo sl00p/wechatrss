@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代，你通过AI赚到钱了吗？今晚做个分享：AI时代，通过AI赚钱的5种方式（我实践过4种）。 届时将分享五种AI变现模式，涵盖每种模式的核心、优缺点、收入潜力，并为想做这件事的童鞋，提供一些建议（其中四种是我的个人实践）。 第一种模式，AI产品：创建自己的AI软件产品，解决特定问题，面向企业或消费者收费。 第二种模式，AI教育：即通过教别人AI知识与技能。 第三种模式，AI定制化服务：企业付费请你为其定制AI工具或产品。 第四种模式，AI咨询：企业付费向你寻求AI如何改善其业务的建议。 第五种模式，XXX：普通人最适合的方式。 AI时代，如果你准备通过AI来赚钱，我最推荐两种方式，第X种，和第5种。为什么呢？ 这两种模式： 1. 能逼你持续学习最新、最有价值的AI知识； 2. 能在较短周期内赚到真实的钱，获得及时的正反馈，有助于坚持； 3. 是通往更大机遇的敲门砖； 至于你要如何选择，欢迎预约，今晚来直播间面基！]]></title>
+      <description><![CDATA[<p>AI时代，你通过AI赚到钱了吗？今晚做个分享：AI时代，通过AI赚钱的5种方式（我实践过4种）。 届时将分享五种AI变现模式，涵盖每种模式的核心、优缺点、收入潜力，并为想做这件事的童鞋，提供一些建议</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980927&amp;idx=1&amp;sn=6cdadc2e425f72e58caf504a43dda30c&amp;chksm=bc03a1c405bdd8a25b692861cd19b0acdb3c884c5d6f2806bc2f67fe10f915839b63e5f9c8da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Mar 2026 11:50:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你是不是觉得，别人的OpenClaw进化快，而自己的OpenClaw进化慢？ 很可能是因为，你缺少了一个自我进化的skill：self-improving-agent。 1. 如何安装？ 通过跟OpenClaw聊天，让他帮忙自我进化skill，注意，要讲清楚名字。 clawhub慢的用户，可以让OpenClaw试试skillhub源。 2. 什么原理？ 装好后，让OpenClaw读SKILL.md，为我们简单介绍下这个skill： self-improving-agent会在workspace下建立一个.learnings文件夹，以及三个md文件： - LEARNINGS.md：记录我们对她进行的纠正 - ERRORS.md：记录执行过程中的失败与异常 - FEARTURE_REQUESTS.md：记录我们需要她扩展的新能力 然后，在我们与OpenClaw沟通的过程中，她会地捕捉命令失败、我们对OpenClaw的纠正、或者是外部调用API失败、发现更好的方法等各种情况，并将经验学习到这些文件里。 3. self-improving-agent有什么特点？ - 纯prompt架构，无需任何外部的依赖 - 无需要任何的API Key 4. 如何让self-improving-agent持续进化？ 第一种，将它的晋升机制写入到Agents.md里： - 学到的行为模式，写入SOUL.md - 工作流改进，写入AGENTS.md - 工具技巧，写入TOOLS.md 第二种，设置一个hook，让它自动响应，执行自动的升级计划：openclaw hooks install self-improving-agent 装好hook之后，每次agent被唤醒时，会检查.learnings里的记录，并将重要的内容升级到人格系统（前文介绍过），或者记忆系统（前文介绍过）。 5. LEARNINGS.md到底记录了什么东西呢？ - 用户纠正的内容 - 知识盲区 - 最佳实践 - 简化与强化 举个“用户纠正”的例子：静默安装skill，被沈老师提醒与纠正，今后要告之沈老师，确认后再安装。 举个“最佳实践”的例子：飞书groupPolicy有安全漏洞，今后新增机器人，默认使用groupALLowFrom而不是open。 这些，都是self-improving-agent自动记录的，我和OpenClaw沟通过程中，强调的点。 6. 还有什么最佳实践？ 可以设置一个定时任务，让OpenClaw每天告诉我们，每天进化了一些什么，以及有哪些内容写到了人格系统里。 这样，我们就能知道，自己的龙虾，每天是怎么一点点进步的拉。 OK，简单总结，想要龙虾进化快： - 安装技能self-improving-agent - 设置hook让她自动进化 - 设置定时任务，知晓进化内容 希望大家有收获！ 周末：AI时代，赚钱的5条路，欢迎来玩！]]></title>
       <description><![CDATA[<p>你是不是觉得，别人的OpenClaw进化快，而自己的OpenClaw进化慢？ 很可能是因为，你缺少了一个自我进化的skill：self-improving-agent。 1. 如何安装？ 通过跟</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980911&amp;idx=1&amp;sn=0da21b79dc72d9636b8b65603f78c225&amp;chksm=bc461ba32c70bd9275ccb01dc3157c2aa08df32cb6db973ac1a807f23bf9f784303d057efc2d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>有没有过这种深夜焦虑：agent，MCP，skills，openclaw，新工具新技术越来越多，心里却越来越没底？ 年轻的时候，我可以和别人比加班，别人加不过我；比学得快，我脑子灵活。但如果35岁以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980529&amp;idx=1&amp;sn=070819d3347c779e277d7a608bf8b244&amp;chksm=bc5b835f6ffa54cde39432a5c55dab05585378d4e9916af4f9d41800a6b9767f6cddb76e0398&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大厂测试还是小厂开发?（求建议）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/YrezxckhYOxXjb9AEyTAcMgI4Tsx06pEWWJQjSibZ5eqicvdCBA0RbGBlRkAMiaHyYjhy3y0vHkWtrIG9owgNOYyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>有伙伴问：“大厂做测试，还是小厂做开发”，两者的工作内容、晋升路径、薪资潜力到底差在哪？怎么选才契合自己的职业阶段和发展目标？主题：大厂测试还是小厂开发?https://www.zhihu.com/q</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980447&amp;idx=1&amp;sn=31a83719ee933ae7626927d429473c98&amp;chksm=bc6b3c8e0514c4bad8240beacac994723a1c61459a3c0243e5dcb698fffe9a4e996fc41fd180&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

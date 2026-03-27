@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1eWBTxkmyJCQPiaFHf7FfvhfccfgJqftBxX832Bj8umA7xxqFpk0sPHStt2orG3a7kzOkSzhwbuibFsqm70cDheJuby4Hv93bDU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 Claude Code 装上完整联网能力最近用 Claude Code 的朋友应该会发现让它上网查东西就经常翻车。要么死磕搜索工具不去看网页，要么遇到需要登录的网站直接罢工。有个开发者，6 天</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65&amp;chksm=f8387f059617f9b67ff2b260d3db4fc73320f4a5593e9cb657f81a5ae7b6c5cc4685d81e3407&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Mar 2026 15:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[7 个最近 GitHub 上火火火的开源项目，推荐一哈。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1iaanZo9jNdGVN8DPgQicEOZWzTGEvSC0icN14GPTcmpYwabiaSsh9qXspgnXn6dGwAZK2pZq2znQ4JlxtYN4pFiaOOyxrpBpicWrIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01美团开源大模型上新美团龙猫团队开源了一个专门做数学定理证明的模型：LongCat-Flash-Prover。 数学定理证明不是算对答案就完事了 ，它要求每一步逻辑都能被严格验证，半点含糊都不行。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532504&amp;idx=1&amp;sn=caf0776d5777153444ed66019db4ac12&amp;chksm=f85c18eccbbbde19c3a7d1cc95f541d0a7e2b95b430012aec007eeda4a4ad5fa6001cd570722&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1fNZiauz7cSp0M0lGfEgBx4GCXhVnRQrickp3kvse8iaxuIXVfGgibfzwzYOOPFQBCZ0bgl7knWL8ibaehUoicnORJ5dh5dllTnEeqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 记忆插件Claude-Mem 是一个专为 Claude Code 开发的持久化记忆插件。它能够自动捕获 Claude 在会话中的所有操作，对这些信息进行压缩处理，并将相关的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd&amp;chksm=f86678a8fdb868701036b26024f2c45b2dd68ff5dc25ddb98127ad1468ceb08db22f4604d73d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 08 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 12 Star！把 Claude Code、Gemini CLI 等聚到了一起。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ePw3ZeGRruzR5pDpuoicpAAeibGn6gQH5IrwLZlcuu7vakCMN0PSzZzGM8P4hcvMhicQCnuE5BUZibQYOWdLBTjIpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AionUi 在 GitHub 上已经获得 12K 的 Star 了。它是本地、免费、开源的 AI Cowork 平台，对标 Anthropic 的 Cowork，但完全本地可部署、免费开源。Aion</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531081&amp;idx=1&amp;sn=d8eea566ee6444926dba4d85665cc350&amp;chksm=f8b3bbceb3c5d840bcadf2638bfc0a556caf16c055ed8c31d4f29f1ea63aa0686c2159328a9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Feb 2026 15:08:19 +0800</pubDate>
     </item>
   </channel>
 </rss>

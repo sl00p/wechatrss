@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[APP frida 检测绕过详解：定位 JNI 动态注册 Native 函数，Hook 核心检测函数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0xwuOaqSAc5AycukFiblqYHBcZDl5S1OTJbqdPfJibmd6umEqrbxZ84WoKFBFocIWNvElBwAYhSyvvRxgEjqAAyGskibWJg7FTTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为 App frida加密检测流程的绕过思路与详细分析，纯属个人研究分享，关键对抗细节模糊化 分析过程中也遇到不少底层原理盲区，欢迎各位大佬指点。内容偏向新手向 SO 层逆向实战流程，希望能给同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612708&amp;idx=1&amp;sn=5afc9fc4907505c16a534e10fb762401&amp;chksm=b0fb3172f3afb776be69966741fc7fcba1819145a0f4b660eaf15437fb1baf8e04ebe5d628eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Mar 2026 18:14:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[招生中！2026春季高研班，专治技术内卷，冲3万月薪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、课程安排2w班课程计划表如下：3w班课程计划表如下：*注意2W班和3W班是完全独立噢，没有交集；二、开学礼包升级（1）3W班开学大礼包：orange pi 5 3588S 云手机套装*包含香橙派5</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612708&amp;idx=2&amp;sn=2bd4fdf947bc1a057095bd0ecaabdd8d&amp;chksm=b0e8f96a29b94432f4857425115930c38be5da3d4b3c3bc366d99534a63627eccff86ac8b904&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Mar 2026 18:14:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手游逆向全流程复盘：从 IL2CPP Dump 到 TCP 握手协议还原]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0n9gpDkibbiaS7icz4rtWB9BDibeYbYJR4WOySMn8uiagbebR6icRVHfBq8DXkIEdZYtRq5opSfkwliaTS92MZguicY6DicCUkKpiaDZk1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了对某款基于 Unity 引擎（IL2CPP 编译）手游的完整逆向分析过程，涵盖运行时 Dump、网络协议识别、加密逻辑还原、握手流程分析，以及隐藏在脚本引擎中的业务逻辑挖掘。文章以过程复盘为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=1&amp;sn=a9bf902f18aadcaafe44d0ef6d6454b2&amp;chksm=b0c8f6770b50e233ed4c6d6476769108375e3055ca9416d39b24c3563845e1b3a94a002adabe&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，物联网(IoT)设备已经渗透到我们生活的方方面面，从智能家居到工业自动化，无一不依赖于这些智能设备。然而，随着IoT设备的普及，安全问题也日益凸显。IoT设备漏洞挖掘成为了保障网络安全的重</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=4&amp;sn=4ef13d019b611249d05604179064f5c9&amp;chksm=b01eb1534411c331b091c22206adb3a2583394754e87a27c8da313f0533b4e77e9e2b5e52fbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 辅助还原自定义 VMP 保护方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3siaxWKVlYBBd1fpmwN5V6xsJq73QoiaF860zGibP0QUydSmhuNIvFm9JDfVh30iaiculwFPxUr9yTZibRyOicw49iaQMm7MdWS0WelVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>VMP（Virtual Machine Protection）是当前移动端 SO 保护的主流方案。核心思路是将关键算法编译为自定义字节码，由嵌入 SO 中的解释器运行时执行。传统静态分析在这种保护下几</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611998&amp;idx=1&amp;sn=a33d501c7e3619333d8c851518627443&amp;chksm=b033e0b4ad8c99dd0ac08fe7443d91ae3cbaa9422c9453b8693e121cabd8497a3567f1c6f421&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[假CleanMyMac网站诱导Mac用户运行命令，背后竟是偷密码的木马]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K37DOA04QbAB0KYXu2jjBKVuy1tD5pjHeeZjiaZ0viaVWcRlT3SuW3GqeKXuXyodunbXuFwjmT7IOcRAAX7pwrd3oXLo0NHxibAbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你正打算下载CleanMyMac来给Mac“瘦身”，可要擦亮眼睛了。近日，网络安全研究人员发现一个冒充知名Mac清理工具CleanMyMac的欺诈网站，正通过一种名为ClickFix的攻击手法，诱</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458611998&amp;idx=2&amp;sn=8b124bb76ddb4fdddb0e898bdb490e9e&amp;chksm=b08f2449270da3165bcb03b9709925692485e9081bbefabcc7684e85ccac6b8fc4d94f033235&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
