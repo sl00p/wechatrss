@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU01QZLyWTNcK9ZcibhS3iaFicyun2hTZcliabQ6L9Fpoib5p4cIHOSicw7AuticpAps9ibWkic5UzGo2OeqqwzsI0Iw0v5LHdQkB2BLTBBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01必装 SKill：Superpowers很多人用 Claude Code 啥的写代码的时候，直接把需求丢给 AI 就让它写。后来发现这种做法其实不太合理，AI 拿到需求就埋头写代码，缺少规划、缺少</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff&amp;chksm=f887bb27d0f09f46390ad2126391c1205020315624ecd9d5d67d398d762e620a1e3c9ffc2fc4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 29 Mar 2026 11:06:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1eWBTxkmyJCQPiaFHf7FfvhfccfgJqftBxX832Bj8umA7xxqFpk0sPHStt2orG3a7kzOkSzhwbuibFsqm70cDheJuby4Hv93bDU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 Claude Code 装上完整联网能力最近用 Claude Code 的朋友应该会发现让它上网查东西就经常翻车。要么死磕搜索工具不去看网页，要么遇到需要登录的网站直接罢工。有个开发者，6 天</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532505&amp;idx=1&amp;sn=d46d1565fb061ce152fefa35aa44ab65&amp;chksm=f8387f059617f9b67ff2b260d3db4fc73320f4a5593e9cb657f81a5ae7b6c5cc4685d81e3407&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0vyX7DiaCnvjoGoeB8Bh21lmyOLmGDOuKxDxI9jPVDUZQPmv1ibAtdOCJLdekdWX42WrvaFe1Y1tRQL2tyAkLkB3Ls81mibOJ2wI/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近开源项目 Clawdbot 很火，现在叫 OpenClaw 了。各路开发者通常把 OpenClaw 安装在家里的一台 24 小时开机的 Mac Mini 或者闲置电脑上。通过手机上的 WhatsA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531216&amp;idx=1&amp;sn=6e6433f6845e8ab424f7631c234c4729&amp;chksm=f814fd3ba385c63cba83ae45478a3271a51215641f1a2470edc338badf6d7f0ca9b87022e3b7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 8 个本周 yyds 的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1fNZiauz7cSp0M0lGfEgBx4GCXhVnRQrickp3kvse8iaxuIXVfGgibfzwzYOOPFQBCZ0bgl7knWL8ibaehUoicnORJ5dh5dllTnEeqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Claude Code 记忆插件Claude-Mem 是一个专为 Claude Code 开发的持久化记忆插件。它能够自动捕获 Claude 在会话中的所有操作，对这些信息进行压缩处理，并将相关的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531116&amp;idx=1&amp;sn=b21c42411c9c3b0990bedc31142d84bd&amp;chksm=f86678a8fdb868701036b26024f2c45b2dd68ff5dc25ddb98127ad1468ceb08db22f4604d73d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Feb 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code 过度设计，甚至不该给普通人用？OpenClaw 背后的Pi只留了 4 个工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj2dUlUuzUdqtjMLmSibQIJJgyxib7mV22cleia4RiaMNnHhADdvEHiaGck5sicMtuXk1fNQic7Rho7DS66vibaiatJibx3cjwu4GF3rz8Ik/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina OpenClaw 火了，支撑它运行的底层引擎 Pi 也随之进入了更多人的视野。它的作者是 libGDX 的创建者 Mario Zechner。一个写了 30 年代码的人，在被 Cl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=1&amp;sn=4ba4c2ab4cb2bef777168e8a605e0dda&amp;chksm=bc7a44cd0d398085ec0d2fc4533eda53cdd708925f4709ae3c854daa906b830178388d9b95d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AutoGenesis：基于 AI + MCP 的跨平台自动化测试实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiavPlffHMACu6jh0EXxv1QAIibu4fzG5pbE1OYunhoflkS9IvauDvbsicMkyswQRJ4mKia4yF2222ZbNXEOMpb1KdSuGpzGicAnibXs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 熊月，Microsoft Edge QA 审校 | Kitty 项目贡献成员：芈峮、佟玉、刘竞屏、王政达、熊月📂 开源地址：github.com/microsoft/AutoGenesis自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=2&amp;sn=d4fdbed74b0ceeb7f2697d04de17764a&amp;chksm=bc9f844e59eb5644f22a074f479f55f4d9ad624ebb882fd1256bc6a158a4865edf75db114bc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stripe 工程师部署了自主智能体 Minions，每周生成数千个拉取请求]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj87AVPKXWvjQsILQHjgjQanicTeXfquY9icsRiaQ2fIkvqcVOddZP1l5tcicuibf685LLiaaXB1AU4QOAyicWuZ0nr5pcExTvqhPb3EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 张卫滨 Stripe 的工程师开发了 Minions，这是一个自主编程的智能体，能够根据单条指令端到端地完成软件开发任务。该系统实现了大语言模型（LLM）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=3&amp;sn=cc73978b6d44573efb9a884432979c5c&amp;chksm=bcb0d1e55dcec6ec3224df3271c9dae035af304fdddbe66e344c050d759fe0bf637a7a9b6621&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果优化其基础模型的上下文窗口管理能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiag4oRlxxSwfMDZic9nO4U1eicXpnHickoV9AhS1rnBG15hOoGiaJanmWv5q5YTHIpLTDQZBtibR1cVa07Q5N5bRux3hdynqaBZqqaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 iOS 26.4 已推出候选版本，针对 Apple 基础模型优化了上下文窗口管理能力，帮助开发者应对 4096 Token 的上下文限制。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=4&amp;sn=a43e5eaf00a9ef3cd6061093fee4c918&amp;chksm=bcb362988309ca9c44fe2ddfe9f9e10cbad41e8b89bc1cacb7b5b35617e710cb4c6315113731&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjHxKRjtKz06h70xc0TvFuibfsogm0KgLuUfuzfePVFOhseGtDTLaqJJAyR5skib8aaBP52vcpU0VWrQwXenrNxPdHsWzA9zNzicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫即使你对生成式 AI 模型的内部运作了解不多，也大概率知道它们极其吃内存。正因如此，如今想买一根普通内存条都免不了被狠狠加价。最近，谷歌研究院发布了 TurboQuant 压缩算法，能够</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280138&amp;idx=1&amp;sn=81b519987f4126b84b39aabb302ee85c&amp;chksm=bc9822e7dba78a31ed7ec0a4f0cf3324b59c2a339c2a07aed3efff29487060b57220b6a95494&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjDLx6CBNpS6wAhlFPnn7FNkiapfMKGWZib3j12d5AooT90aeW1d8m2B0q3HI8JxZBIqFHiaBys0qSqTicq3icvgx3xkzTs1mzkERT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 北京时间 2026 年 3 月 17 日凌晨两点半，当英伟达 CEO 黄仁勋穿着那件标志性的黑色皮衣踏上 SAP 中心的舞台时，台下近万名开发者心里清楚：这一次，老黄要讲的不是某个单</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278712&amp;idx=1&amp;sn=5eb2cfd8dac5d0113d85959727def1b2&amp;chksm=bc8782c9fe2f834bde164f3f1661cd402f1050603f535fcb62396d137bb8d33199671e63804e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Mar 2026 07:20:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手工软件工程师的时代已经结束！一位连续创业CTO的判断]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgVVmzwFiaejA2xD4pvBlvsoHu958d6FSfn7b3zNw6tn9hJjWmqhJha1zp16EoAAeLfq4DjaY45RsmJk6NRPAbKibicw3QtFxrkHE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Michael Redlich 译者 | 刘雅梦 策划 | 丁晓昀 生成式 AI 正在改变软件工程的基本形态。代码生成能力变得越来越普遍，单纯依赖“写代码”的工程师价值正在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278712&amp;idx=2&amp;sn=ec8da20a8b7c92afab6a9f51ddf84dd7&amp;chksm=bcafc0c9efeb6eec48a3586d4e0b3d03fcaa698cac1c9538d00ff0c1709de25c809a111b000f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 07:20:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhxgdD78IzegexpN0FvC6WAVic7pegtz5mZZ5iasLpwABH4yVDyB7ian3TZa3H8LPl5yvQ8Uwxa9Y5vVoW8d8YuSXuNiaggsiaibRPpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 北京大学 DCAI 团队 在大模型（LLM）研发进入深水区的 2026 年，行业共识正经历从“模型中心（Model-Centric）”向“数据中心（Data-Centric）”的深刻演进。随</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278712&amp;idx=3&amp;sn=f373e7d32b1d8b121a31284cfddeab3d&amp;chksm=bc9a3e9fcf0d94ee2b2c17e2e28ff0556288c1bb8387054d9b06d2280ea7b3ca5ac59ead9420&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 07:20:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 可观测如何助力 Agentic 时代的确定性工程？| 直播预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg37ePlarJWnn3Y3icREcXSs7KlEpiaCw6VPjVjmbRDIxibjzar4K69JcaWwWSxpzINRxOgnFcBiaJ7fcrZfBicAjGLiamcD9tNLI908/640?wxtype=jpeg&amp;wxfrom=0"/><p>不敢把核心业务交给 Agent ？怕它不可控、怕出事找不到原因、怕团队天天救火？这场直播聊的就是怎么让 Agent 变得“可信赖”。欢迎预约直播，一同交流。直播介绍直播时间3 月 18 日 20:00</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278712&amp;idx=4&amp;sn=6b32d0f0577f2237469a7a391edc2909&amp;chksm=bce2a9f14e2627251d05fc2a9e83c95590e0b775affb6ede89493de23cd87e6b0ee0bbc48082&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 07:20:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一句prompt就是一个产品？“Agentic AI第一股”掌门人：软件正在变成快消品]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4AKicLkF8qdZxoIdrjRpTrj7oTdFBrYZicvtIMHzdfic9RFBJVKAseRkz6RUVkjeVm5l4MOlUX4vGgkbN4QoFvDlzJUqC9iasIA0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 木子 “你但凡真做 AI，就一定会觉得数据重要；不觉得数据重要的人，大概率就没真正做过 AI。” 北大数院校友、“全球 Agentic AI 第一股” 背后的创始人 吴明辉 语气平和却笃定。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651278678&amp;idx=1&amp;sn=fd5f52acfbacac3c5a3a2a139832ae7e&amp;chksm=bc23445079a591cbf94a263b5e0bf25a8b9f4787f3f3b7de0b2fe146bdd6766dd5d36d78daa7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 17:55:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
