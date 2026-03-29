@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SUCTF2026 Ez_Router]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1nHvQsR72HeWFlUKI3ZcoxoN24YQeWbD3NRQbKNWcTnEXGsD6KfgVWsEicHgGib3an2EYx0n6CnajmKQ46pe98AoD3WhaMqD4T4/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端越权通过抓包登录的报文, 我们可以发现如果先是随便输入一对账密。会抓到一个发向http的包：GET /www/http?auth=0&amp;action=login HTTP/1.1Host: 192.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612768&amp;idx=1&amp;sn=705aeb8b7ae7dcb9affa5470d88d2132&amp;chksm=b05db9e800d403a6b9d42e8875d0f7060f1094d127b8f4874dad1c8a7320e09bdc4bd616f570&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型“Infinity”恶意软件正在通过假验证页面疯狂传播]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K26xaYjgsrDCRnwppggTGZ5EERAqkHheI8xQlEFib9P0onU18d29EpZRdVLQbvic8ibtPWEHALGzLq1ib6ZCH7gNADAuic0L4S1libIE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一种名为“Infinity Stealer”的新型恶意软件正在专门针对Mac用户发起攻击，而且它的传播方式非常狡猾，让人防不胜防。如果你在浏览网页时，突然遇到一个看起来很像“Cloudflare</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612768&amp;idx=2&amp;sn=7e7083b23eb659baa047e16744af935d&amp;chksm=b08c032c45959ef4b2e28fad549e4da7602de1ab9117eeec2480683720a075af33176e33f025&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【更新2节】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>课程更新：1. 视频：1-7 “驾驭AI” 或 “被AI革命”https://www.kanxue.com/book-227-5997.htm2. 视频：1-6 WinDbg+AI 实现Dump自动分</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612768&amp;idx=3&amp;sn=94a8c33a9ace07b6cd75e080d335db7f&amp;chksm=b0196b118c8d726bf41909d56e1bdd4d035b969e601fa01096d02c7a25430fdade687b299b5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[APP frida 检测绕过详解：定位 JNI 动态注册 Native 函数，Hook 核心检测函数]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0xwuOaqSAc5AycukFiblqYHBcZDl5S1OTJbqdPfJibmd6umEqrbxZ84WoKFBFocIWNvElBwAYhSyvvRxgEjqAAyGskibWJg7FTTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为 App frida加密检测流程的绕过思路与详细分析，纯属个人研究分享，关键对抗细节模糊化 分析过程中也遇到不少底层原理盲区，欢迎各位大佬指点。内容偏向新手向 SO 层逆向实战流程，希望能给同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612708&amp;idx=1&amp;sn=5afc9fc4907505c16a534e10fb762401&amp;chksm=b0fb3172f3afb776be69966741fc7fcba1819145a0f4b660eaf15437fb1baf8e04ebe5d628eb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1B2glGoicDS1zpOHpz4Rx6b80qluJn0mHyVqicdEmg6j7ibrUBgnWt59q7YmP27Tic51PY9LicuymF1DLpZkXgmeS5RR8dEMnexWy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2023-32233 揭示了 Linux 内核 Netfilter (nf_tables) 子系统中一个关键的 Use-After-Free (UAF) 逻辑缺陷。该漏洞的核心在于内核在处理“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=1&amp;sn=128b33964750a5d037c8e6e5bdd61483&amp;chksm=b01762ab0226085506d1a17c6f45901b134d7916785a2d11b7d86f2408e9c1ee42f209725864&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[问境AIST首发｜以AI治理AI，悬镜原创多模态AIST新品发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/cC2m1em2riah3gvusJyZEMDKDMLXr9eicH0VtxS5NY2yAf6Pghy7U9mEKI1hHDbibic8nSq75Jy7AicRZLY5M4ba6Z2vdIekwe6mhIBcx8UTn9nU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型（LLM）加速从技术探索走向规模化应用，企业安全体系正面临一轮全新的挑战：AI 生成代码是否可能埋藏未知缺陷甚至潜在后门？第三方引入的基础模型、开源组件和数据集，是否存在投毒、篡改或供应链风</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=2&amp;sn=86f52dfce91bc5c8125a30ba96608633&amp;chksm=b04b0bc779c56d9bb73efa144152dbace73437104c807aa6d7359a094601d9674ba279e8b94d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型BeatBanker安卓恶意软件伪装Starlink应用，窃取资金并消耗设备算力挖矿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3UAwpDWcODAkvx4ZibAic9vib4VFzdm06DrxicGsngoTfc14SstsDE1oGN5rpyeAzxFPiaSGNDZmZcDxNP6uwAsibw8Lic2gLaXibwye8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一款名为 BeatBanker 的新型安卓恶意软件被曝光，它通过伪装成SpaceX的“星链”（Starlink）应用，诱导用户从伪造的谷歌应用商店（Google Play）页面下载安装，进而实现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=3&amp;sn=e8c8d277afdcd2d36c9540e0bdd54c66&amp;chksm=b0d0b92d73b8965e464f02232ea4401bd8c1513f610306df68f984853182d37c2cbf4966d28e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[26年春季招生中 | 系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，物联网(IoT)设备已经渗透到我们生活的方方面面，从智能家居到工业自动化，无一不依赖于这些智能设备。然而，随着IoT设备的普及，安全问题也日益凸显。IoT设备漏洞挖掘成为了保障网络安全的重</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=4&amp;sn=4ef13d019b611249d05604179064f5c9&amp;chksm=b01eb1534411c331b091c22206adb3a2583394754e87a27c8da313f0533b4e77e9e2b5e52fbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
     </item>
   </channel>

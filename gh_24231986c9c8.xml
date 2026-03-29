@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[PrivLLM 协变混淆：隐私保护的 LLM 推理高效实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedfTcmX6fjRVpn4pTPH3liceg9btj0DFW6wKAuYlkBVP4JCsUjclibS7uNzHGE7Hhjz20NNUYmYNMWZoDF4f8lwOOcTTicKE0yejU/640?wxtype=jpeg&amp;wxfrom=0"/><p>用户接入云上大模型（LLM）时，通常面临端-云数据交互如提示词上传等隐私泄露风险。常规脱敏和加密手段难以同时保障数据安全隐私和推理高效准确，陷入“安全”与“智能”不可兼得的困局。为此，字节跳动安全研究</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519070&amp;idx=1&amp;sn=618c4ef1446e49a86377277a9d200b4e&amp;chksm=e898728c7380abe6236d3e9ae153ff79234408fbeed201604b7089d5f98dea48080adf109596&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 30 Mar 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenSearchCon China 2026：字节跳动在 OpenSearch 上的技术实践与前沿探索]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeMBn1hQvQsxVQRE2XLoCRkYKSZIklERkb7yFkLENXkYyfkl0w8LPibme0K7Xq4HzAdWEMIymJ7GaHsEVI6Ly5wf4dycSWzzK48/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenSearchCon 是由 Linux 软件基金会旗下的 OpenSearch 软件基金会主办的年度技术大会，2026年首次来到中国！作为开源搜索与分析领域的一场“华山论剑”，从底层引擎 Apa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519046&amp;idx=1&amp;sn=45613e8c1ed787026f52292ded0e5acc&amp;chksm=e89044ce2de06ba75d65148e4321498bf254ef5758a80f8700aff490cc0c06177abbe2b53698&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgw63nR1fpX6yZWTZf2wCBkCS0zWvoxME5aIkTB8dggT2ewlia2jgSVtQLTcLFOppTIwNATTa3UW3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>活动详情扫码查看活动详情，立即报名！扫码加入交流群在 AI 日益强大的时代，人类的“Vibe”是无法被机器复制的，它关乎创造力、共情力、独特视角和生活态度。「Vibe Coze！扣子 AI 挑战赛」开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517322&amp;idx=2&amp;sn=e13fd0552a7cf8ac144a82d3b801f617&amp;chksm=e87b5fb00dcea3a49f6dad6b067d5ee7427a73a9f85605a1bbe1a972c1a266148d3323ff8e51&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Nov 2025 17:02:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Eino ADK：一文搞定 AI Agent 核心设计模式，从0到1搭建智能体系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgxB7kHfb0ZrVibic0YKFD5iaibKicmr0vicAibFtyicxVzib28r0I800rBdFwdfZjgzdXonsnVPIMMiaPhrx0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言当大语言模型突破了“理解与生成”的瓶颈，Agent 迅速成为 AI 落地的主流形态。从智能客服到自动化办公，几乎所有场景都需要 Agent 来承接 LLM 能力、执行具体任务。但技术演进中痛点也随</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517292&amp;idx=1&amp;sn=bbecec7b8b9881dbd93c57ee04c3bf4e&amp;chksm=e891e2f225253daac63ab1f4dcf4b165ca1925cb4ea4faff8686dc1cbcf0b4db370f0b6e5213&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
