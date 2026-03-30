@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude AI发现Vim和Emacs中的0Day RCE漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX03Tvibl726ia3gFXMw8udGicBBMV5q0iarBsXYLvvzvvnT7UNtzsYeZbHCIRDUCtkiab7OsdVCtFc6fz2alp7aFJicZhsdRgKviabNts/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 公司的 Claude AI 成功发现了 Vim 和 GNU Emacs 中存在的 0Day 远程代码执行（RCE）漏洞。这一发现标志着漏洞挖掘领域的重大范式转变，证明 AI 模型能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=1&amp;sn=77188379012661a2b0d833cc2d06ee96&amp;chksm=bc6dc7aac9bbe5a7f5276eae03f14d4d839b9ed4ba991e57c50b3afaa16d2f35c83fa769a92c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[34万星系统破防！360漏洞挖掘智能体揪出OpenClaw新高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3BdzMb5Oydf0gpArrNjrHs3dA80yj2iauMbdHw8xibRm8JQSMkFROxribvkug6ECJQpz6Wic6DRypKGoH9DlHXevOkpGywCybrZUE/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，360数字安全集团依托自主研发的360多智能体协同漏洞挖掘系统（简称：360漏洞挖掘智能体），在GitHub斩获34万星的OpenClaw平台中成功发现一处高危漏洞——MEDIA协议Prompt</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=2&amp;sn=9a41b7435ab69108fe6b82051d663d01&amp;chksm=bc8c902ff3805b19c3cd970fdf7f2b10e1783d46621d04aa004b0d3bb29f076ff8009e1662e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[俄APT组织利用DarkSword漏洞工具包针对iPhone用户发起钓鱼攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ic7Fob51QmZRXnue1TppPmia0wjASa0d9NVFwkQicX81tGC7YsqC2YRibRfIEOacw8qLHO42S7WZzfrFTzQWcgvAmppLplEwFXCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击活动技术分析与俄罗斯有关联的APT组织TA446（又名SEABORGIUM、ColdRiver、Callisto和Star Blizzard）正在针对iOS设备发起鱼叉式钓鱼攻击，使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=3&amp;sn=0b36460d17e21fd98bfa5766b1f77e34&amp;chksm=bc80ce23138d70caad348e82f78be99d4be83d7f10b3312bf68a846290eda03eec58603fc3a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Jira Work Management存储型XSS漏洞可导致组织完全沦陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3YRTDt4TmNwqGyVuIDbVF3xhLFp7RXBGialsmnicQIkGkUg2LXshv6ghc1JcPicZ4fkTBGZeNUIn3D8X51ibB821yKZRb5C0hrqQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Atlassian 生态系统中这款流行的协作工具被企业广泛用于项目跟踪、审批管理和日常任务处理。近期，Snapsec 安全研究人员在该平台发现了一个严重的存储型跨站脚本（XSS）漏洞。研究团队通过利用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=4&amp;sn=0cbb9bf7692f2b411506b2062662eb88&amp;chksm=bc1003a3c576c1939e2696d3778be8148c4e5248368ecf7fb97e8693ea295acd5f761c8890d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent颠覆传统安全模型，受控即跳过杀伤链直接攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3OEcYWupRIcGCbuMicE8B2I6Ud5NjIm0SIYGicMng5L61cHr5LzFUHjU1zNSDqtycicIp3iaHtQDAFXBfX2IeMibACzQWLTv3dyNXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年9月，Anthropic披露某国家背景的威胁组织利用AI编程Agent对30个全球目标实施自主网络间谍活动。该AI独立完成80-90%的战术操作，包括侦察、编写漏洞利用代码以及以机器速度尝试</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336566&amp;idx=1&amp;sn=b03fb5863d64a3895a0d9092c8c3a927&amp;chksm=bc20f3ee185a40dfbcca60eb3c4b85543629a208ca5fa2340a7a261ba1ec556e2fdc18cdfdcd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2nXOPlt8zco6RvJicOq8E3XaNAvrA8hClaNgbXRmsKsXJBnpAmHLGxmTfgpSJ017q5XtibINiboKPxu0F8hb1sGUDPKhMf588z0E/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 OpenClaw安全公告激增暴露GitHub与CVE漏洞跟踪体系间的鸿沟本期节目：OpenClaw项目爆红后暴露出漏洞跟踪体系的结构性问题。该项目三周内发布255份GitHub安全公告（GHSA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336167&amp;idx=2&amp;sn=aa9daa17c460b55f0bc57288ca08dc67&amp;chksm=bc434a0bb05822055b6509e5660578072e0828d5902b8669fd91f9a6490f02b4066a4c33c0a5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 18:00:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Windows转向macOS：ClickFix攻击利用ChatGPT诱饵升级战术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2jX5mKsrGMmy0DFqn0RaXJibXpBx4t9iaA4ibFw74LOzofOMXia4fiaEmgLxicquocmibJibqLBma1jibVCahcArHP7iblT2xfciaOn4lc9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sophos研究人员发现，ClickFix这种诱导用户手动执行恶意命令以绕过传统防护措施的社会工程技术正在演变。该技术最初主要针对Windows系统，如今正越来越多地影响macOS平台，近期攻击活动中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336167&amp;idx=3&amp;sn=0774ed5d730882826316a7de6b0688aa&amp;chksm=bc34a55c25941e9f9f1d91708ffbdda2b8db487553bac8e2a125fcd19d6c704f574904bdb0bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者入侵史赛克微软系统，远程擦除数万台设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2npmiaibeO8CfdN81xAz3EXqGYPZs2pCZzw726fvczVdga4psX78wR69hGHBKhz9wrYkvx3vfezlaJVOTba4lrZmnq8doYDOgkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击手法与影响范围医疗科技巨头史赛克（Stryker）近期遭遇网络攻击，攻击者通过入侵其内部微软环境，在未使用恶意软件的情况下远程擦除了数万台员工设备。该公司确认其医疗设备未受影响仍可安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336167&amp;idx=4&amp;sn=63261b664e30b70d5f61a69b0a87bb81&amp;chksm=bcad54d18df47de08d8a061e7f5a1151e01cd43fd13614139180e883ed545ac2573576ec05d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 18:00:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“上海安全养虾”云原生安全智能基座合作共建启动会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3iabiaXKUTwplT2CQhbCaVicCohIiaVrIVq1UWAtwh7lHUeVS0YA6aK0TvSaICCHjgiaFVwRXCVRicvS42QYraDOBVnwaG1ayKK2m8I/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336134&amp;idx=1&amp;sn=dea4004251fb569e2a07bdf1b2f45c0e&amp;chksm=bc1978ff845de6e479e7da6d92acd3d64dddb393bf3c8fc04cd83971abb4ba26d5b9b4997b6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 18:31:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agentic AI重塑安全验证，终结割裂防御实现持续智能防护]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0VWDyPjJD7wNexFDB2FKCqwolnZLAO2Rozo9fFGjNhiaIrqW3ZIAchDTGAw2xl7mfmR60qp3HttOhibpSFRJIacicQMwSlkoQmos/640?wxtype=jpeg&amp;wxfrom=0"/><p>在任何中等规模以上企业负责安全运营的人员，其验证技术栈通常呈现以下割裂状态：角落部署着BAS（入侵与攻击模拟）工具，另一处可能是渗透测试服务或自动化渗透测试产品，而漏洞扫描器则向攻击面管理平台单向输送</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336134&amp;idx=2&amp;sn=2ea3f59be10ea2397508995e835f6272&amp;chksm=bc810ad33d902fe6fb72f3bd17e03ea1cff04986860c3088b7f54045dd12d34654c588cc9524&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 18:31:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一年办20场活动，数据还在别人服务器上？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cFq9HxUWfyPGePS15H6PeQIbPLdqbPB6gzejQF7tzEvt0KTUA4WUqSN97TE9cUUxjNtR3uafotgxovODWqVVrID79iahkOLZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场会议筹备让团队重新思考数据应该放在哪里某大型企业准备举办一场重要的年度客户交流会。随着报名启动，系统中陆续沉淀了大量参会数据，包括姓名、手机号、单位、职务、报名记录，以及部分会议资料和嘉宾信息。筹</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612921&amp;idx=1&amp;sn=15cfd4061fcf889e2ad733fe5f6acc8a&amp;chksm=b0338f2a5dca6300db577df86de7adb4f65460d590c3c980fbf2d44b6cf7050ad5d0de3f3a2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:01:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Pixel 8a（akita:6.1-android16内核支持ebpf）AOSP/GKI内核源码获取、编译与刷机实战指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Blz7NQTciaogMEK5lGcsODk2oK9ybAnh5VHQxz2S6Rfqy2bcBE0V091HQzsXPL3Vu4QxrFkw6uI49WoPbDk3AutRia3uRubuvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章围绕Pixel 8a（akita），系统梳理 AOSP / GKI 内核源码的获取方式、编译方法、镜像含义、刷机步骤，以及后续源码阅读与调试的常见工作流。在付出一台Pixel 8a刷成砖的代价</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612921&amp;idx=2&amp;sn=0d3b728f453696c16359609bdf18be37&amp;chksm=b09828fbc229363f219ee896377638fccda08fcbef8540448a50f9a71838dd128ea72ce66335&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:01:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1wic4BYwft4IKYOBneGyJBYyNpMwQZVVxO5NVpkD53qlkQcfJde3xbC3HcKl2ZmXGia0MxEXGszJSd1fHPoh7ba33bfkbppGdMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，全球知名加密通讯软件Telegram被爆出一个可能影响数亿用户的零日漏洞，但戏剧性的是，Telegram官方对此全盘否认，称所谓漏洞根本不存在。这一消息在网络安全圈引发轩然大波，也让普通用户忧心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612921&amp;idx=3&amp;sn=645d2addefbbd1fa075e998b38bdb0dc&amp;chksm=b0b7344ac8e018fbb0de0ecb64b04905d282f8f75a5b87f735a4f1b9600af2a0808170d2c107&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 18:01:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SUCTF2026 Ez_Router]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1nHvQsR72HeWFlUKI3ZcoxoN24YQeWbD3NRQbKNWcTnEXGsD6KfgVWsEicHgGib3an2EYx0n6CnajmKQ46pe98AoD3WhaMqD4T4/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端越权通过抓包登录的报文, 我们可以发现如果先是随便输入一对账密。会抓到一个发向http的包：GET /www/http?auth=0&amp;action=login HTTP/1.1Host: 192.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612768&amp;idx=1&amp;sn=705aeb8b7ae7dcb9affa5470d88d2132&amp;chksm=b05db9e800d403a6b9d42e8875d0f7060f1094d127b8f4874dad1c8a7320e09bdc4bd616f570&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1NEbUgSPywN9gKrsB8zv9WHyWKiafChbbJaKZn3GicOFfoI7316VIaslTfRpglv2puyE5hREZPD2P5qkN9rLNQgibgsTx9rMjkcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>招募安全测试工程师（可兼职）很多人是从挖漏洞、做渗透测试进入安全行业的。有人下班研究漏洞，有人周末测试项目。慢慢地，就成为了安全工程师。我们在做什么我们正在开发一套企业级区块链多签钱包系统，主要用于团</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=2&amp;sn=3fc2a3da1b9878d618f323b760ecd9df&amp;chksm=b03b5d9463a0ec9922426b1d58d0cee00860a0e6682ec0a01fdacbdfc606f5011ed78285c986&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型“Zombie ZIP”：利用压缩格式歧义绕过杀毒引擎检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Egnbox6t29jmOtblrJHmibxIdX1RoTZicpdwaF9yB44pibb0TxYC9PFVMxEhFMBR50cZ0ibxiaWVJD0zA8Lhw9729iapEp0lcuGuZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一种名为“Zombie ZIP”（僵尸ZIP）的新型攻击技术引发关注。该技术通过精心构造压缩文件，能够有效规避杀毒软件和端点检测与响应系统的扫描，将恶意 payload 隐藏其中。安全研究人员发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=3&amp;sn=2e940fc163947c5553a684d0d372ba85&amp;chksm=b014905ba82f37f8ccc0c67e68ecc1de1ec5ae3ed6470d4d47292f922db0476b5d18bbc3093c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30小时玩转 CTF！竞赛通关技巧全掌握]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GO15LLymewzN5VhIsjTsJwtgJensZhQ10IZlhBfzzJiag7icicLSqWKvwRp8LJo4yysick5hCkWWR7ww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612044&amp;idx=4&amp;sn=7d69aac1763b6c13d730a008249a888b&amp;chksm=b073561de61d8bbbcc77430a3cf3e0238d7e06abb06435344cf9b9a0252dbe1cb1427cec0e91&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux Netfilter 匿名集合 UAF 漏洞 (CVE-2023-32233) 复现与利用分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1B2glGoicDS1zpOHpz4Rx6b80qluJn0mHyVqicdEmg6j7ibrUBgnWt59q7YmP27Tic51PY9LicuymF1DLpZkXgmeS5RR8dEMnexWy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE-2023-32233 揭示了 Linux 内核 Netfilter (nf_tables) 子系统中一个关键的 Use-After-Free (UAF) 逻辑缺陷。该漏洞的核心在于内核在处理“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612011&amp;idx=1&amp;sn=128b33964750a5d037c8e6e5bdd61483&amp;chksm=b01762ab0226085506d1a17c6f45901b134d7916785a2d11b7d86f2408e9c1ee42f209725864&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 18:01:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CoPaw深度解析：源码架构和功能实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zu8vcbBdzmdZ2z1NZ3JPicIEhykVZq0CibbcQZ90zWxw8d4xuH7icElXHricq7eSKQaE3qcepL0DWUnyQ1ojhQiaBJRusMLLAsVg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在最前面，2月28日通义实验室AgentScope团队发布了自研的独立部署开源桌面Agent工具：CoPawhttps://copaw.agentscope.io/CoPaw是整体架构上类似open</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559269&amp;idx=1&amp;sn=a87c6b0f00c2ccee4a25901df995c65b&amp;chksm=e8d6c457fcd4ec67f45c5e77b9fe52eca89be8a7673d4a1999ab9afe49d81d0462ea70f9d1a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 31 Mar 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[学习笔记：从 Agent 到 Skills — AI 智能体架构的范式转变]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1z71TXmibsevPia3VlqwNa3zLWBsVENGv1wFmefj2AcibSkXxXpod0SSyae8vfP9DcmyZhiatJRLd7UUNKDicVkeO1WOibaImGyIHLPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告日期：2026-02-28 关键词： Agent Skills, MCP, OpenClaw, A2A, Agentic AI, 模块化架构一、谁提出了从 Agent 到 Skills 的转变？1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559249&amp;idx=1&amp;sn=7cda1453a5f7f51c39f43b76027696a1&amp;chksm=e826ee762512f3cfc3205281b1d0b1c03ac1d84a551182a8d6940d34e681754b7a9b177fb218&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLR8ibrR7GHUqVSoB6kXUoqoiaIcInZ31T5wEygdib55KjcWjZ8KNBUZUq4AX9ho98ZLfXRtnIQibJgRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵雁松，周岩珏，李志强，周永康，刘军前言：AI 数据分析的“最后一公里”在企业数字化转型的浪潮中，我们发现很多公司依然面临着“数据深渊”：业务人员想看数据，却受限于复杂的 SQL 语法；开发者虽</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557400&amp;idx=1&amp;sn=60549eb6870e72c0d8130f6cbc01f5be&amp;chksm=e886e89a58f37609dbaf050e109e6aef40c679f48560e7ebc237e21e4f58ac1f9e7ebb7de294&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI工程vs传统工程 —「道法术」中的变与不变]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyia8LkH9jURmoazuxHIECMxodsbiaxQaJLNLQUQJDnwVAbibHfdFCTUxhZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文从“道、法、术”三个层面对比AI工程与传统软件工程的异同，指出AI工程并非推倒重来，而是在传统工程坚实基础上，为应对大模型带来的不确定性（如概率性输出、幻觉、高延迟等）所进行的架构升级：</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557348&amp;idx=1&amp;sn=b5f56806e4071ec21186d1829a020b50&amp;chksm=e87ee04439530cf9adaac7c3f015ef3e20e9ca601003692374212071a3964ec5801f875625e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
