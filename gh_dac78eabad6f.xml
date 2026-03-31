@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文讲透如何构建Harness——六大组件全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr46NKogpz9a2nhLUgmawgyvicGMqC5453iaFFrgaeH05NB5fmbCqcJcGFAkdKyWU3p3TpMPv2eWLQJ4Im5mF8NlXpw5VI2vzUXLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇裸模型有四大硬伤：无记忆、不能执行代码、知识过时、无工作环境。Harness 六大组件逐一补救——文件系统管存储与版本；沙箱赋予代码自验证；AGENTS.md</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695065&amp;idx=1&amp;sn=d5b7af6f4c96167e4a57ceb6065b9d5e&amp;chksm=ebb24e6f766a1a1bb7fd9cb6b25c0fd1e2eceee4eebfd777b6fa29b4f3a66ab39777882d0af6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness Engineering 来了，SDD 还有意义吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr42atq3VgmicyDqY4feye4jH4s6cImld7lwxRMPxJmeX46kC9sgLVZQQgf5QYYk3V7fySYcGWHeicNdLQYtEsn3hJ7CPaE3BXeDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇最近，「Harness Engineering」这个概念在 AI 工程圈里热了起来——Mitchell Hashimoto（HashiCorp 联合创始人、Te</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695017&amp;idx=1&amp;sn=e37650a0f3334a69646fea9959c0297e&amp;chksm=eb510a1e5a639f120752067be73506e3ba6d9abd76d3b5c91445c23882e2b171d28d514ce3fb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>回答我！Looking my eyes！ 探索AI、布局AI、All in AI了一年，作为普通开发者却陷入了前所未有的焦虑。 曾经看文章就能动手复现的踏实感消失了，取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693523&amp;idx=1&amp;sn=825d36e3f85c6872635a66cabe59d88c&amp;chksm=ebc22d416b9e02e1a468d16748ad49388e8b7d66208df7b77328f03472ab4b1b79b797bf510b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐系统三十年：从协同过滤到大模型时代的技术编年史]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe95R6t6pV5Ow8aNxScxMHX7ic8Tk8u7EjaAWGEwVSw1ZoWuvpkGJwrtbf2cL3cm2a3AK0O8NJPEHFEw/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 引言：推荐无处不在2 起源篇：协同过滤的黎明(1992-2005)3 发展篇：Netflix Prize与特征工程时代(2006-2015)4 成熟篇：深度学习的全面统治(2016-2022</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693496&amp;idx=1&amp;sn=9dfc0086b64a9d595772bf76de65f1c0&amp;chksm=eb6f78ff19471f6c0abac23d6a728da0ad4413f8aea04332db0cdecd5ff574d80000848454d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

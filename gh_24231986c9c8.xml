@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 的 “安全卫士”：Jeddak AgentArmor 运行时防护全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefOiaffftCz037ia65xb96ZUVWCuHbNP9WEVMKVFRSE7H0v9FBIg1wiaaneeoLIe6qkxBqN0zavTYO11pLzf3t8fIUlCMSFUqqicUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读某企业员工小李，正借助OpenClaw智能体处理日常工作——他仅要求智能体总结一份公开行业报告的核心内容，方便后续汇报使用。然而他未曾想到，这份看似简单的指令，却暗藏安全危机：恶意攻击者通过在报告</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519148&amp;idx=1&amp;sn=9ce8fff7bb8c5f2f6a8ca762a2fef2f4&amp;chksm=e82ff2f5ee4c8b4ee76763fae2def7754f2a4b6c37ee2dc2b5b8b4ff62f8a96a4246a020e5d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PrivLLM 协变混淆：隐私保护的 LLM 推理高效实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedfTcmX6fjRVpn4pTPH3liceg9btj0DFW6wKAuYlkBVP4JCsUjclibS7uNzHGE7Hhjz20NNUYmYNMWZoDF4f8lwOOcTTicKE0yejU/640?wxtype=jpeg&amp;wxfrom=0"/><p>用户接入云上大模型（LLM）时，通常面临端-云数据交互如提示词上传等隐私泄露风险。常规脱敏和加密手段难以同时保障数据安全隐私和推理高效准确，陷入“安全”与“智能”不可兼得的困局。为此，字节跳动安全研究</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519070&amp;idx=1&amp;sn=618c4ef1446e49a86377277a9d200b4e&amp;chksm=e898728c7380abe6236d3e9ae153ff79234408fbeed201604b7089d5f98dea48080adf109596&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[云端协同构建 VR 院线，加速 LBE 产业化与规模化发展]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgw63nR1fpX6yZWTZf2wCBkuEBjf490wPq7yWzY4n0DYR05w2v0hUt1QRRofcKslZLrZCTcYZzNibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言虚拟现实技术的成熟推动 VR 大空间，即基于位置的娱乐项目（Location based Entertainment， 简称 LBE）成为融合“文化+科技+互动娱乐”的新型大文娱业态，其沉浸式、强</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517322&amp;idx=1&amp;sn=3582abb25431189914f0fad6edd0c64b&amp;chksm=e885f84e9778d1df93a0d6a4890414aeadc1594ed4d008cf97e782186f8a1e559dee308203a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Nov 2025 17:02:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vibe Coze！扣子 AI 挑战赛邀你参赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgw63nR1fpX6yZWTZf2wCBkCS0zWvoxME5aIkTB8dggT2ewlia2jgSVtQLTcLFOppTIwNATTa3UW3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>活动详情扫码查看活动详情，立即报名！扫码加入交流群在 AI 日益强大的时代，人类的“Vibe”是无法被机器复制的，它关乎创造力、共情力、独特视角和生活态度。「Vibe Coze！扣子 AI 挑战赛」开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517322&amp;idx=2&amp;sn=e13fd0552a7cf8ac144a82d3b801f617&amp;chksm=e87b5fb00dcea3a49f6dad6b067d5ee7427a73a9f85605a1bbe1a972c1a266148d3323ff8e51&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Nov 2025 17:02:10 +0800</pubDate>
     </item>
   </channel>

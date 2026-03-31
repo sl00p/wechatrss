@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把 Claude Code 变成你的桌面宠物，这个开源项目好有创意啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0P3oY03HrxOMsWwWVyMBmSHduY2O6alpCymicRuTegicIdibWSupfZnC5UouW1qjvZp1Ty5VVV8iaKThlnnSsg0Da0iaL5Saesfk8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 的源码昨天泄露了。源码一出来，各路网友就开始疯狂翻代码，结果真翻出了好东西。源码里藏着一个代号叫 BUDDY 的完整宠物系统。内部盐值是 friend-2026-401，很明显</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532649&amp;idx=1&amp;sn=7b0807e1cdcb5be97954462e9bb64b92&amp;chksm=f825a9da452447e48af503be927dfd202deb5a4886064ef016723cc60d4b3f361ab3cfbcd98d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 11:06:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 神器太牛逼啦，2 周就狂揽 6000 多点赞。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2FfsMjqj8UMQ2icwVgWAF65MMdGL4hRljmA9lg1ibUwmxeicNXibgM9J5wzfx7IwEtohfAxg6ibYhrHPX7rQZ51Auzox2eAI9zp294/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 GitHub 的时候看到一个项目特别猛。3 月 14 号才开源，两天就 1.8K Star，一周破 4K，现在已经 6500+ 了。叫 OpenCLI，一句话说清楚它干的事：把任何网站、任何桌</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532626&amp;idx=1&amp;sn=b9d3a4d694c7fec3d9678dc0d1e7af3e&amp;chksm=f893b27398e4c0cf72e58584f234e36445b16b04abcc397a48f4fdf9cfd00a66ee768d32fbdc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU02icgxSpgZWFMUPDvl8H6TdgsR6GTA8zPcCVew20QXtkbyA94c3FEicBdauhVqsqRXCp5U5RRI2ODj9jKqhPphMhMBkvgpwNDHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前两天，整个外网集体陷入猜谜游戏，仿佛整个科技区进入了全员侦探的模型。这是因为一个叫 Pony Alpha 的匿名模型在海外各大评测榜单上横空出世。它没有发布会，甚至没有一家具体的公司认领。。。仅仅凭</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531253&amp;idx=1&amp;sn=80ea73ef5bf292b8a671c73f75cc33fc&amp;chksm=f89fb555f4fd6c0bf2064207df5d898824cc8b155bf8961cb4866873f38dc2044e2fb84871be&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Feb 2026 15:01:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 1.3 万 Star！港大开源的轻量版 Clawdbot。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1k1SzxNLDrPdUZbcYhkdIibglGpZx2tjWQretKLLrqZib21F8wnhF6d18CHeJOB84VmfJxSlWicaZ9P3pBibtRwYRIe8oVQQe01A4/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 nanobot 的项目是香港大学数据科学实验室开源的项目。既然 nano 开头，就说明这是一个超轻量级个人 AI 助手，非常注重可读性、研究友好、启动快、易集成多模型和多聊天通道。开源没多长时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531244&amp;idx=1&amp;sn=e7c7582cd88ec05a56c1df4068512cc8&amp;chksm=f8733186c01517f0cc363e5dfd4baa75d5b18d465e8bfb95b97a8779f33077be05a95ce3eb52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 15:08:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

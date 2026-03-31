@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Skills：打通可复用专业领域知识的最后一公里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0EkDaujiabfqJc6CPiaoZecEy1hnBcIibFAB6q9H4AE4mtoEJnjD3qDwuQ1zndMRfHk3ah26VDvOkduicUbs5VAWyxNTYPdkPNbE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：Anthropic Agent Skills的发展史起源：时间拨回2025年10月16日，Anthropic在 Claude 3.7 Sonnet / Opus 中正式推出 Claude S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559277&amp;idx=1&amp;sn=e52adeb87d78b837edc01fb1f6391f65&amp;chksm=e80c1d0c81ff1d68a39ffde4e93357e5e44519fd791586f0242d7a942ee92298b9d5c5164bd4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CoPaw深度解析：源码架构和功能实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zu8vcbBdzmdZ2z1NZ3JPicIEhykVZq0CibbcQZ90zWxw8d4xuH7icElXHricq7eSKQaE3qcepL0DWUnyQ1ojhQiaBJRusMLLAsVg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在最前面，2月28日通义实验室AgentScope团队发布了自研的独立部署开源桌面Agent工具：CoPawhttps://copaw.agentscope.io/CoPaw是整体架构上类似open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559269&amp;idx=1&amp;sn=a87c6b0f00c2ccee4a25901df995c65b&amp;chksm=e8d6c457fcd4ec67f45c5e77b9fe52eca89be8a7673d4a1999ab9afe49d81d0462ea70f9d1a6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyiaB84icI4xUwQgzyLxeWkibUkIPA0E5pAYiahUXHhRmhgldicZdYmf2HDYXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>更多具体定制接入与使用方式，可加入文末微信与钉钉群，与官方维护团队取得联系。简介Assistant Agent 是一个基于 Spring AI Alibaba 构建的企业级智能助手框架，采用代码即行动</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557465&amp;idx=1&amp;sn=76a5a8c192cf450955cea5c89dab32e9&amp;chksm=e89d1c75816f42249ce9e85a49c8d66238cb20121381d6f0a1b75343af87162b0b3bbed43776&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别传统 Text-to-SQL：基于 Spring AI Alibaba 的数据分析智能体 DataAgent 深度解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naLR8ibrR7GHUqVSoB6kXUoqoiaIcInZ31T5wEygdib55KjcWjZ8KNBUZUq4AX9ho98ZLfXRtnIQibJgRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：赵雁松，周岩珏，李志强，周永康，刘军前言：AI 数据分析的“最后一公里”在企业数字化转型的浪潮中，我们发现很多公司依然面临着“数据深渊”：业务人员想看数据，却受限于复杂的 SQL 语法；开发者虽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557400&amp;idx=1&amp;sn=60549eb6870e72c0d8130f6cbc01f5be&amp;chksm=e886e89a58f37609dbaf050e109e6aef40c679f48560e7ebc237e21e4f58ac1f9e7ebb7de294&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

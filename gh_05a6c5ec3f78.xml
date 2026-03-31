@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[高危风险提示｜又是供应链攻击！Axios npm包遭投毒，请尽快排查处置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWNGXYuPDfr3suDjpKATsML8z3q9nTChtLLp1xRibOZOwS1gc52VjzUPcUuiaZe7WCpc6XuUEibL3KgIB0kSlibbe7PicGPqXzOVV8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯安全团队在腾讯iOA产品上监测到 Axios 被被曝出存在供应链投毒风险，攻击者可利用该投毒包自动下载并执行远程后门脚本，实现远程控制、该木马可窃取开发环境中的各类密钥和凭据，并通过 C2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511532&amp;idx=1&amp;sn=a64a348704fcf6aa7289964294b7c0c9&amp;chksm=ed4a417f6bdb67133d68fa625675c8a5084d24c0dffb511cb69ff83da199c03fe6b16f17e494&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Apr 2026 12:36:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 近期安全漏洞修复汇总报告]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWKTJSX6TiaIUqmvYAVt9919R6gfvUFWojia1ra0icjb0iaK4MicLOFs4yMH3T1lUpmhBeFEyLmTicZjqcVgfccGicO2WCibQXBSRapQibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯安全科恩实验室针对热门开源 AI 智能体框架 OpenClaw 的安全性进行了专项分析。根据对该项目 GitHub 仓库近期提交（Commit）记录及版本迭代信息的深度回溯，我们发现其在 2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511501&amp;idx=1&amp;sn=dee1f9ede8c0605190a859354bb8cbdd&amp;chksm=ed8bdb8261466a801d3f8ea90f77afd3d7392ffcabdf2f0968e599b4060efc1efe80e7d74579&amp;scene=0&amp;xtrack=1#rd</link>
