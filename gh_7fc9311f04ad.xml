@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 年 AI 编码的“渐进式 Spec”实战指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ygDzwsqkvFShibqXSCIwBkJCEUXibNpaEWm1RQtbLiaczbPQuzOwvD23dlNsbBxoFkEQic7KjKh4e9Q3xzTsBn6fKebxJqlLuhxdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这次分享的内容来自作者在实际项目中落地 AI 编码的一些实践和思考。希望能给正在尝试或想要尝试 AI 编码的同学一些参考。一、背景聊 AI 编码之前，先对齐三个基础认知1.1 如何理解大模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559315&amp;idx=1&amp;sn=5c1f9df548e912354b5b5e25ec4bcbb5&amp;chksm=e83906d0ce121008b7c67eed3fe20230545d8e0018e6f5da14b45b2fcf4278033447460ecaaa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent Skills：打通可复用专业领域知识的最后一公里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0EkDaujiabfqJc6CPiaoZecEy1hnBcIibFAB6q9H4AE4mtoEJnjD3qDwuQ1zndMRfHk3ah26VDvOkduicUbs5VAWyxNTYPdkPNbE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：Anthropic Agent Skills的发展史起源：时间拨回2025年10月16日，Anthropic在 Claude 3.7 Sonnet / Opus 中正式推出 Claude S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559277&amp;idx=1&amp;sn=e52adeb87d78b837edc01fb1f6391f65&amp;chksm=e80c1d0c81ff1d68a39ffde4e93357e5e44519fd791586f0242d7a942ee92298b9d5c5164bd4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJmj8DwqI9vrpRq6NdpVowlT2hG24fJJliaQWINiayrphLq1gnbvgEc6tl5xr3KS2xl0mrjHQ9lwOvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>继 MCP（Model Context Protocol）之后，Anthropic 最近又推出了 Skill（技能）。因工作需要，我近期快速上手并实践开发了一个 Skill，过程中积累了一些经验，整理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557538&amp;idx=1&amp;sn=2ae6648085081892642b6bde75b5cc51&amp;chksm=e8f92eabdb06a9d138b0e677a237e92dd02db1d71b01213336a4b0dca8127861cf366903f8c2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里 Assistant Agent 开源，助力开发者快速构建答疑、诊断智能助手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyiaB84icI4xUwQgzyLxeWkibUkIPA0E5pAYiahUXHhRmhgldicZdYmf2HDYXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>更多具体定制接入与使用方式，可加入文末微信与钉钉群，与官方维护团队取得联系。简介Assistant Agent 是一个基于 Spring AI Alibaba 构建的企业级智能助手框架，采用代码即行动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557465&amp;idx=1&amp;sn=76a5a8c192cf450955cea5c89dab32e9&amp;chksm=e89d1c75816f42249ce9e85a49c8d66238cb20121381d6f0a1b75343af87162b0b3bbed43776&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

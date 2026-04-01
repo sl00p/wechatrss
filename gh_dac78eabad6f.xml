@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code是怎么知道你在骂他的？这 12 条发现值得关注]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gmpsKTLPE05R5fYckicibeF7Ir9KrwNZ5evDr9SarBKOaoG6g9qVpEaicChopMCs9EB9n45kDzgibWL5dhpwic7S5w4kbibibCHvvc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2026 年 3 月 31 日，Chaofan Shou 发现 Claude Code 的 NPM 包中包含了 source map，指向 R2 存储桶上的完整</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695116&amp;idx=1&amp;sn=aec392550a85ccd91bd8a9cae7221bb2&amp;chksm=eba35c8fe3d48084684095099fd61e216f3f9e4b1341f7eedcdb7e0a23f4410bc321b2617fbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文讲透如何构建Harness——六大组件全解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr46NKogpz9a2nhLUgmawgyvicGMqC5453iaFFrgaeH05NB5fmbCqcJcGFAkdKyWU3p3TpMPv2eWLQJ4Im5mF8NlXpw5VI2vzUXLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇裸模型有四大硬伤：无记忆、不能执行代码、知识过时、无工作环境。Harness 六大组件逐一补救——文件系统管存储与版本；沙箱赋予代码自验证；AGENTS.md</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695065&amp;idx=1&amp;sn=d5b7af6f4c96167e4a57ceb6065b9d5e&amp;chksm=ebb24e6f766a1a1bb7fd9cb6b25c0fd1e2eceee4eebfd777b6fa29b4f3a66ab39777882d0af6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96leXGDTpCw5s56vL0Il4W1iaeo7np6OrMIbRibTQ4mSAMdx2Tz9AMKaByKOQLVFqUkkm9UgoL6IV0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 输入：从用户提问到模型"看得懂"的矩阵2 Transformer架构与自注意力机制：模型如何“理解”上下文3 输出：从logits到人类语言的“翻译”4 位置编码和长文本外推5 实践与思考6</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693536&amp;idx=1&amp;sn=9ca79c1358a13b0906ac99c39807f282&amp;chksm=eb9367fa85be3dc560e08e30147613b0d83575a2181554e5ea0e692f741036683d1a55db3cf2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[回答我！Looking my eyes！ 探索AI、布局AI、All in AI了一年，作为普通开发者却陷入了前所未有的焦虑。 曾经看文章就能动手复现的踏实感消失了，取而代之的是对AI的三大核心困惑。 疑问一：为什么AI实践类文章总像空中楼阁？ 疑问二：AI入门知识与实际工作的断层从何而来？ 疑问三：我们对AI的期待是否用力过猛？ 作为一个从传统开发转型AI的人，我怎么找到： 1. 可落地的认知指引 2. 真实的实践参考 3. 业务结合的切入点 这是在鹅厂引发广泛讨论的AI入门迷思三连问，对于这个问题，鹅厂工程师是这么看的。 疑问一： 核心原因只有一个：数据不公开。LLM的真正壁垒是数据和算力，而数据属于公司资产，涉及隐私、合规、商业敏感。像OneRec端到端方案、DeepSeek基模，都只讲思路，不给数据。没有数据，你看到的大部分内容自然更像PR，而不是教程。 但PR也有价值。它至少告诉你行业怎么定义质量、怎么拆问题。能不能从里面挖出金子，取决于你的经验和实验能力。LLM做应用，本质就是从有限信息里提炼可复用的技巧。 疑问二： 简单粗暴的判断：如果不知道需不需要学模型结构，那就说明不需要。 先用最好的 API，把场景跑通再说。做AI应用的核心只有三点： 1 prompt调优 2 上下文管理 3 规则化评估 加业务数据就再多一个数据读取工具。 那些让你先学transformer 的，十有八九没做过真正规模化应用。最好的入门方式永远是做一个小闭环，比如自动周报。遇到问题再补知识。 疑问三： 是的。真正落地的团队，都非常依赖人工标注。测试集必须人工标，效果也必须人工判。通用评测工具有局限性，容易出现和人类预期相悖的情况。 因此，小团队应该选一个窄、具体、能闭环的场景，降低验证成本。行业里成熟玩法都是用最强模型，把一个垂类打深，能解决问题、能变现。 技术上，别一上来就搞LangChain。先用OpenAI SDK，把模型当苦力使唤，Python脚本一步步跑通流程。 最后提醒：没有落地经验时，1v1咨询帮助都有限；有了落地经验后，很多关键做法一句话就能确认。 彦祖亦菲们，你对这个AI入门迷思三连问是怎么看的？欢迎留言评论分享，有机会获得社区精美周边一份。]]></title>
-      <description><![CDATA[<p>回答我！Looking my eyes！ 探索AI、布局AI、All in AI了一年，作为普通开发者却陷入了前所未有的焦虑。 曾经看文章就能动手复现的踏实感消失了，取</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693523&amp;idx=1&amp;sn=825d36e3f85c6872635a66cabe59d88c&amp;chksm=ebc22d416b9e02e1a468d16748ad49388e8b7d66208df7b77328f03472ab4b1b79b797bf510b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

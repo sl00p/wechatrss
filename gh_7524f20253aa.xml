@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3LicgmWVOBnTo55TJR8MXkskVmvRrQ4RxibvUeVicypH4ZzpuBppU4NOiaJkk8jbZtTrmhGb8nhjcia8l7ecWrNYuXodP3m94xwrHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌已为其Chrome浏览器发布紧急安全更新，修复了一个正在被野外利用的0Day漏洞。Windows和Mac平台的稳定版已更新至146.0.7680.177/178版本，Linux平台更新至146.0</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=1&amp;sn=fcc7e75089260abf9b44030c8ebf44cb&amp;chksm=bc6a2e7ebb73669c1fe21917db14f426627bf17f6383f26bdf4f34efec7e6872f02209780dc3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Telegram零日漏洞可零点击接管设备，官方否认存在]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Yy5y0yrMbc0PWgCv1NPKlsMS9MNc8NhHQAPaIucpHw9QB5E6peBUw1Pzm8UupbAgaX66KZCyCiadH8jRkTRWiaUiaReT6wP0p5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞或致零点击远程代码执行官方坚称不存在趋势科技旗下Zero Day Initiative（ZDI）平台研究员Michael DePlante（@izobashi）披露了Telegra</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=2&amp;sn=7e104f000c0cab440d66db24318157ca&amp;chksm=bcbbf1ff98bd206f090d37899b972f712a3a0807889c659fcfbd3be32a5f0fba2765f6efe83a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Agent狂飙突进，数据安全断层成企业生死线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FaiaQtWzchwV99RHiaR3BurPdVWIBTvezZycxlibdbcSed9sPnBNIiaiaWqHBwiaUFm24Lm4WjN3RPicSfGNwz38OOFZNibXG4fT8w6c/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI Agent高速普及催生企业安全新鸿沟AI Agent正以机器速度涌入企业环境，但管控其访问行为所需的数据中心化安全措施尚未同步跟进，导致企业AI部署出现新的安全断层。Veeam软件公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=3&amp;sn=fe668727d3e68ba7c1fdcd540677bb96&amp;chksm=bcdc25ee264039a47fee6fde91303f6f4cd58fc348448f7adf8c999518a8361a088a4f38109e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ahjjH2ltibX2GFIvU259kU7FkS8Uia3HAsniatYGH9EIkUFQhId1wYHVXdaI2epicnlQND3nC9qopibne5xurP857HLrKniaXzHQrM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Nginx-UI 备份恢复机制中被披露存在一个高危安全漏洞（CVE-2026-33026）。该漏洞允许威胁攻击者在恢复过程中篡改加密备份文件并注入恶意配置。随着公开的 PoC 利用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=4&amp;sn=fa271bf683cae974dbfafdc497d70e09&amp;chksm=bceb3bd178be53a749e931fe128f5887cd93e6ba59ac1555e0173eb8983ae5ecfaa7b1588b8a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Axios“核武级”供应链投毒事件始末]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX345IGSnBrezeRQYF62ibIzXmxLAw0Dyp89NoW4NQW6icpvyFCryZn9QWuAicNLC0ZXgeVtWzkbTwmya5H9UpdOWiboauWX2CJkicyI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月31日凌晨，JavaScript生态遭遇了一场堪称“核武级”的供应链攻击。axios，这个每周下载量超过1亿次、被超过17万个项目直接依赖的HTTP客户端库，被黑客通过劫持维护者账号，注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=1&amp;sn=980bb90fbcbc3a4df630ccd700eefbcf&amp;chksm=bccf5604d37a842aa3532fd6f76eff88d357cf264e3c67db61b8dc159fd84f6b46a3be443a8d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX01rg4TsPSg9RE1ugjW3BrWNOkmLfv5tZT7O349kd9zz1wnKkco5VIKWESjrrK4Xg3UXh8YnsBYyTJtT92MOOA7Xukks6wkMLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01工具概述密钥扫描已成为工程组织的标准实践，而Gitleaks是该领域应用最广泛的工具之一。该项目作者近日发布了一款名为Betterleaks的新工具，专门用于扫描Git代码库、目录和标准输</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=2&amp;sn=393f933fedd96f91e54fe8e13ffc5228&amp;chksm=bc888b2343c53028f2954bee30f598c507168ac6449a9e5df0d2ab692273a872ea4fcb274f52&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Amazon Bedrock、LangSmith和SGLang的AI漏洞可致数据泄露与远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2uibniaeeR6sWEvCsvWLLJC2l4Ea3ibicSuyH6iaSsjLrLC2au2icI9BxpMDic62GrYibvyAGO5kc8egOjPVxRkJiaY1a7fyk9yRlMM94I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Amazon Bedrock沙盒模式曝DNS数据窃取风险网络安全研究人员披露了一种通过域名系统（DNS）查询从AI代码执行环境窃取敏感数据的新方法。BeyondTrust周一发布的报告指出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=3&amp;sn=1f70e65cb542b1ace2b123d385cb4cac&amp;chksm=bc4b7820fbaabe0c46df382d78f5e80becd6391467dbe1b70722a9659adfccc5e1255c00b4e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[键盘记录器全面解析：从工作原理到防御策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3AYnibaN0oRCnnEs9QicCXYUCnVwbI0QyJgj7fgKGlpTo9jt29yu55K5Kaw3R13WoHJcIaDqN1yicRcjqp1bS9kfTqcAMG22N3Rc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01键盘记录器基础概念键盘记录器（Keylogger）堪称最古老的恶意软件形式，其历史甚至可追溯至打字机时代。这种监控软件通过记录用户键盘输入来窃取数据，并将捕获的信息发送给第三方。网络犯罪分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=4&amp;sn=70215a32709ec9df928967b71a94b8e2&amp;chksm=bc1250b2657ef930010a48d52c524ea7d2fc997c921b50e8c97699fb67f4cf3cef250ab0cb66&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DarkSword串联六漏洞攻破iOS，窃取四国用户敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1SP3RKLaZN4EgXn327Un1q9hrBiaRA8YCptIqh0m2WicImssKblpZOwKyib1Qr50VY9bPxbIkKtJZQJRzspVdUNENlcdr5HhnSew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自2025年11月以来，多个商业监控供应商和国家支持的黑客组织一直在使用名为DarkSword的复杂全链iOS漏洞利用工具包，从四个国家的iPhone用户处窃取敏感个人数据。DarkSword是一个全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=1&amp;sn=290e90fe0eba76c1518ecc3e63e94b78&amp;chksm=bcf0596f14ac28f615934a07edf58c0e90101669647409767f142286b8cee09e992d75ac53a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直击阿里CTF2026：当AI成为“攻防新变量”，安全竞赛的底层逻辑正在重构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uXIC8Q2eZj0iaXLeoRr9rWjEMa9bawMMmzLUTWIkuDoic1yh0PpA4EcwAEgKA73oFibe4TWUf52zdSwWNrNpHriaUAJiaibWoIeKUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>三月的杭州，由阿里云先知与阿里安全响应中心联合主办的阿里CTF2026决赛现场，多支战队屏幕上同时闪烁着代码与AI对话的界面——选手们正熟练地调度着AI Agent，辅助分析二进制、寻找漏洞利用链。这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336215&amp;idx=2&amp;sn=77bd02d8dc52cd24cee602308893e368&amp;chksm=bc8eac04ba0df37f9297c377ac7a66d371dbfcad8433a4c361d7141baa3b96139e517d6ca48d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 18:00:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
