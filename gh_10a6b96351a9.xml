@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[上天是公平的，她真的会善待每一个踏出那一步的人...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXc3SicEviaToRfnNTLFs7qPeFgB7OyT0Meuo4ffz1VZKgkmK6ibEY09fKdOMUFsJfgloNa5m97reWdicnUr32ickxMov7xUe0fyxQ6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家好，我是征哥，一个普通的架构师。我以前从没有想过，短视频，直播，我居然真的可以成为一名博主...问：技术人拍短视频，你觉得最难的是哪一步？最难的？大概就是迈出第一步吧。怕同事刷到我的视频，尴尬到脚</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980943&amp;idx=1&amp;sn=4d5e092971006771a2741439e99c4d8e&amp;chksm=bc1bf2924470f64386083871afa97411448f152ff24a8da1eb0b4825a61dea185f095cbdaff7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic源码又泄露了，让你把这个瓜吃明白？（Claude Code被动开源）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcJxqia9EXHzqJMffV1qicGhClsKYedj5X9Hy7jPayGWk3a4rEwXzv4M6vibTicn7coTzeM3ibibHkiajC7LiadicNUEBwbOjzMZ8ecJVL0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic源码又，又，又，又泄露了...到底发生了什么事？简单说，Claude Code在发布npm包时，一不小心把一个调试50多M的.map文件给打包进去了。多了个文件而已，听上去，是不是没</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980959&amp;idx=1&amp;sn=4eb8a9b9a3e14e4c516280d4e5dd1906&amp;chksm=bce1ecd262503668165ed7cc45ddc316be165bdbdddd4445c6fe63df70cef7666150b0c2239f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>下了班，我筋疲力尽，但还有好多事想做：学AI新技术、看书、搞副业。于是我开始“管理时间”：把日程排得满满当当，一项一项计划好。 结果呢？ 根本执行不下去，愧疚，挫败，报复性刷手机。 时间，是我想管</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980531&amp;idx=1&amp;sn=55751093fe65e03071a5288861956b3f&amp;chksm=bca09837ae12d7625b0d5410bf7981969b6cd463091525221fcf88fc56632093c20ed7c29210&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Feb 2026 08:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[能不能靠维护老项目度过中年危机？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcbPx36hmGvsuMU9tHSjXTpuNibqJRn1l90JnItuy2XlicBazWicVAOO7KWppuZ301kdjDWcYJ264zNITwKX0X6XDPPZeMFib7VdyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>有伙伴问：“我是一名985院校科班出身Java程序员，关于中年危机的话题。难道大家不能靠维护老项目度过中年危机吗？”主题：程序员难道不能靠维护老项目度过中年危机吗？https://www.zhihu.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980533&amp;idx=1&amp;sn=1d5cbcf9b00aac28cdb658a6c1ce04d0&amp;chksm=bc54d8bf6e0aa41dcf1eca7c88a6cb681cdc50c4fe9c94607aa442ba3482766bee85a3d2e8dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 21:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

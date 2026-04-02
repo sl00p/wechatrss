@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[借"码"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwX3cshyG0Tphvd4Xl1DqyyBc66kKdyokEXRN3OWIibI9IXqjy7565ygCNvN1nF9PcvOGoia0tOXWafbkjib7kyNevK4OtmmIkTH1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述2026年3月31日，Anthropic 旗舰终端 AI 编程代理 Claude Code 因打包错误，意外泄露了约 51.3万行未混淆的 TypeScript 源代码。泄露代码迅速被镜像至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511607&amp;idx=1&amp;sn=67a18e00bf624c50e18463ca7ca4f5b5&amp;chksm=edbabacbcfca266c6428228c845d9c288c24096c305e7b76f82e35e74b6c41dbd491050b5370&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 14:29:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[高危风险提示｜又是供应链攻击！Axios npm包遭投毒，请尽快排查处置]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWNGXYuPDfr3suDjpKATsML8z3q9nTChtLLp1xRibOZOwS1gc52VjzUPcUuiaZe7WCpc6XuUEibL3KgIB0kSlibbe7PicGPqXzOVV8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯安全团队在腾讯iOA产品上监测到 Axios 被被曝出存在供应链投毒风险，攻击者可利用该投毒包自动下载并执行远程后门脚本，实现远程控制、该木马可窃取开发环境中的各类密钥和凭据，并通过 C2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511532&amp;idx=1&amp;sn=a64a348704fcf6aa7289964294b7c0c9&amp;chksm=ed4a417f6bdb67133d68fa625675c8a5084d24c0dffb511cb69ff83da199c03fe6b16f17e494&amp;scene=0&amp;xtrack=1#rd</link>

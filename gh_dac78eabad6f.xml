@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[赛博斗蛐蛐：9大模型决战三国志，天命在谁？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7vmmicFNPFqWqibK1IkbJBBtGUpa7qHE5icd659vlSTV1zKfOHvMDFUBafWjIJNo3Z0vzYW2ibekdSYWQPhRnJdYKBm82nTKicMCkM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇九个旗舰大模型决战中原，究竟谁才能问鼎天下，傲世群雄？ 最近vibe coding练手写了个简化版的三国志，并接入LLM让LLM来扮演各个势力的领主，最后的决赛</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695142&amp;idx=1&amp;sn=af2cfe933dd06f9e49243b5a957e3e1f&amp;chksm=eb5ee9ab3d0eb4afad43cbeb353e2d541d0e11355e6d22151aad85cf62961e5d633b2e6762c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[啃下 Linux 内核最难动的代码：腾讯工程师重构Swap子系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5mibMPF26HsuYl1mibzQjV5vg6vRlbz2wWDPO2LjTIQ7qQq5qzUBzSsk8AJM4owSBb1C1F3wbfhSuq8Bbt8dmVXVbxlxArcCZqc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Linux 内核的 Swap 子系统自诞生以来，数十年间代码复杂度持续累积，逐渐成为内存管理子系统中公认的复杂地带。然而，来自腾讯的内核工程师 Kairui S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695142&amp;idx=2&amp;sn=472a19c5c28b7e7f4581e5d36c4c9cf9&amp;chksm=ebf50c236ba61808bfc73ef59138d1e88b4b5ab3b5512dbaca2141bc27498abe2f9e84568410&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code是怎么知道你在骂他的？这 12 条发现值得关注]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gmpsKTLPE05R5fYckicibeF7Ir9KrwNZ5evDr9SarBKOaoG6g9qVpEaicChopMCs9EB9n45kDzgibWL5dhpwic7S5w4kbibibCHvvc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2026 年 3 月 31 日，Chaofan Shou 发现 Claude Code 的 NPM 包中包含了 source map，指向 R2 存储桶上的完整</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695116&amp;idx=1&amp;sn=aec392550a85ccd91bd8a9cae7221bb2&amp;chksm=eba35c8fe3d48084684095099fd61e216f3f9e4b1341f7eedcdb7e0a23f4410bc321b2617fbd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe946jWGncBrPibL9xC19SYXPBxgXMpCroZo4dQCAKy2e3j2x9JWxCluYaHPXEtib1jicWuX2ibEHgssQnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 认知龙门：架构师不是资深程序员2 教育龙门 – 缺乏架构设计体系教育3 机会龙门： 缺乏架构设计的实战机会4 破局之道5 后记不想当架构师的程序员不是好码农。成为架构师或许是在技术这条路上，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693546&amp;idx=1&amp;sn=e86cf96fcd181c3926665c7ff9b3ed10&amp;chksm=eb1ea65dbace09c91b55884368150684801d14837cc0c6d038085f7658e5204fec0c870bdf2f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 11 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SPEC 为什么会失败？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97MF1LoGxhpXnIRbN9kwVAthXkFicvsGsXWhMe0HwOia54IHSyhPJ81NXOkIwsP3icGJyOLwS6hic2PqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 失败点 1：背景缺失——缺少项目级指导原则的 SPEC2 失败点 2：评审缺位——对 AI 生成的 SPEC 缺乏严格审查3 查失败点 3: 过度设计——在 SPEC 阶段陷入“分析瘫痪”4</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693540&amp;idx=1&amp;sn=c452bcc648534d541443ee802bed7e1d&amp;chksm=eb711086c8d4be3ca095c0475de4058df1ddac0593ba07ee8fa12f9c1708682441d4049e35e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 10 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非专业也能看懂的AI大模型工作原理！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96leXGDTpCw5s56vL0Il4W1iaeo7np6OrMIbRibTQ4mSAMdx2Tz9AMKaByKOQLVFqUkkm9UgoL6IV0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 输入：从用户提问到模型"看得懂"的矩阵2 Transformer架构与自注意力机制：模型如何“理解”上下文3 输出：从logits到人类语言的“翻译”4 位置编码和长文本外推5 实践与思考6</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693536&amp;idx=1&amp;sn=9ca79c1358a13b0906ac99c39807f282&amp;chksm=eb9367fa85be3dc560e08e30147613b0d83575a2181554e5ea0e692f741036683d1a55db3cf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 09 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 为什么越用越好用？本质就是一堆 md 文件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zGiahOW6hM2hcibnOl8fVZlSyIrbCqVArTWYraibr6GAOA0WH9AZksaia9pyuLz9ZIWTvG1IIhATdK9jSmSndBxKQ7xPBv2RUB1aM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。最近深度使用了 OpenClaw，基本上每天都要跟它交流几个小时，也慢慢摸索出了一些经验。看到不少人说 OpenClaw 不好用，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559355&amp;idx=1&amp;sn=def05b645d71962cd938c20213fb5e12&amp;chksm=e81518ab04193d8c0638b85d413e737e7d22b11f070191ff861bc1fbf861b896d5479014da84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 年 AI 编码的“渐进式 Spec”实战指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ygDzwsqkvFShibqXSCIwBkJCEUXibNpaEWm1RQtbLiaczbPQuzOwvD23dlNsbBxoFkEQic7KjKh4e9Q3xzTsBn6fKebxJqlLuhxdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这次分享的内容来自作者在实际项目中落地 AI 编码的一些实践和思考。希望能给正在尝试或想要尝试 AI 编码的同学一些参考。一、背景聊 AI 编码之前，先对齐三个基础认知1.1 如何理解大模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559315&amp;idx=1&amp;sn=5c1f9df548e912354b5b5e25ec4bcbb5&amp;chksm=e83906d0ce121008b7c67eed3fe20230545d8e0018e6f5da14b45b2fcf4278033447460ecaaa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyianTTwY9twB1B8yviaicDsWtdoLpnsfmpAOsb9eRolRomiacTPvapJhf83Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>发展历史全称：spec-driven develop，spec 是 specification 的缩写，代表规范，我们以 OpenSpec 这个库为例。CLI 基础使用项目初始化 (Setup)ope</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557558&amp;idx=1&amp;sn=6e4699216ea6be3a5c2f784887a66ce1&amp;chksm=e85c0e6e006e6b05cd219af4871a02e62b5ff8fac3d904dcf9c49486c1b9548b2a2244c29981&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[极速开发出一个高质量 Claude Agent Skills 最佳实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJmj8DwqI9vrpRq6NdpVowlT2hG24fJJliaQWINiayrphLq1gnbvgEc6tl5xr3KS2xl0mrjHQ9lwOvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>继 MCP（Model Context Protocol）之后，Anthropic 最近又推出了 Skill（技能）。因工作需要，我近期快速上手并实践开发了一个 Skill，过程中积累了一些经验，整理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557538&amp;idx=1&amp;sn=2ae6648085081892642b6bde75b5cc51&amp;chksm=e8f92eabdb06a9d138b0e677a237e92dd02db1d71b01213336a4b0dca8127861cf366903f8c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

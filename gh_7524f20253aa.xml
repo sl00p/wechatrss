@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者窃取星巴克10GB核心源码，威胁公开勒索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39riaPwoyLatg8gDeejicNed7JUlLmVeSboz91WewLLkn28OgZtcjrToWMDUCZB8cJicibVZXFmezkP9jFicZULOFsTzSlK9kyIaRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全威胁组织ShadowByt3s宣称对星巴克发起新一轮网络攻击，声称窃取了10GB专有源代码和运营固件。据报道，这些数据是从一个名为"sbux-assets"的配置错误的亚马逊S3存储桶中获取的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=1&amp;sn=2dc0869d73f6cbdbd4223c9ac24f56dd&amp;chksm=bc55d3b5ca34f178d69ce83f6b050a28eda6566d172026b3f2c969dc6311750abf45edc762a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者宣称入侵Adobe，窃取1300万份支持工单及员工记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0V7UnhNZDqn9cAGnOUoZlY4osowiaBPIIiajbMgtyqJfetxSAVNhEvS1Xxds97UibyWkoK8zrLdDwXtvk0sERKQnPRf3icEXL81TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《国际网络文摘》报道，一名自称"Mr. Raccoon"的威胁攻击者宣称入侵了Adobe系统，窃取了大量敏感数据，包括：含个人信息的1300万份客户支持工单1.5万份员工档案所有HackerOne漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=2&amp;sn=906e0105624d0c3cf114286479595918&amp;chksm=bc1dd6621c752be60d737d2ab6ba63770c4f33bc99d4b46ac7f70642f3deb07aa4a49e5f4db5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型macOS窃密木马可规避检测，首次移植Windows式ClickFix攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0rGCA1GNwdiaMwQSyZtwricvian3ZtWY8VW8kTB8xLPFgHWkukHlYhFaXUvTianExWAQVp5f1oDYmaNNjmAeh2xr4EGmSnXRmyXV8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01首例针对macOS的ClickFix攻击活动Malwarebytes研究人员发现名为Infinity Stealer的新型macOS信息窃取木马，该木马使用Nuitka编译的Python载</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=3&amp;sn=9aa5962a752f6378d42b763e47b1a9a4&amp;chksm=bcd45176585fbaa083320fa4aa77ad25e7c5c9d1135813db1eae9cc679c078dce059fb86295b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者20小时内武器化Langflow关键RCE漏洞，CISA紧急拉响警报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2l5amB5y5ibC95zosib98JGVy0ATPRy0FIne0g4DlgTBoLAHyiaEZ3XatdlCS7f6fqn98bCbEbn5ZXwgZ91ruSpB7gGRoWIjzKV0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Langflow近期爆出关键远程代码执行（RCE）漏洞 CVE-2026-33017 ，漏洞披露后数小时内就遭到攻击者利用。因此，美国网络安全和基础设施安全局（CISA）紧急将其正式标记为需立刻修复的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=4&amp;sn=0002754edd6f9afaa6637ca37931b5ef&amp;chksm=bcfa2da98b930992273809a728d259ec750e7724e4937e24e31972f329369f692c8c1aaaa50d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Chrome 0Day漏洞遭野外利用，谷歌紧急更新修复21项高危漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3LicgmWVOBnTo55TJR8MXkskVmvRrQ4RxibvUeVicypH4ZzpuBppU4NOiaJkk8jbZtTrmhGb8nhjcia8l7ecWrNYuXodP3m94xwrHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌已为其Chrome浏览器发布紧急安全更新，修复了一个正在被野外利用的0Day漏洞。Windows和Mac平台的稳定版已更新至146.0.7680.177/178版本，Linux平台更新至146.0</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=1&amp;sn=fcc7e75089260abf9b44030c8ebf44cb&amp;chksm=bc6a2e7ebb73669c1fe21917db14f426627bf17f6383f26bdf4f34efec7e6872f02209780dc3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3w6uYEoftOCL2UctGGgk9KhXaY9ib4zWRNOBVaxbYLBjjmsy7eMpDVadejgIjISGQic98YDJzx6OqwxVOGBkm4jVCVzddqZfiayU/640?wxtype=jpeg&amp;wxfrom=0"/><p>上海智算生态齐聚！斗象联合仪电、道客、南洋共建“上海安全养虾”。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336279&amp;idx=1&amp;sn=00a95a191a20a65b74b7239368b46483&amp;chksm=bc790b360c4b1c830e683d28c7354d9f76724629bb12800606c25a754de5579dd27fed560ae4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 21 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI驱动的渗透测试工具Apex，以黑盒模式攻击应用程序发现漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0Q1K9b5Zs801Bo35UJdabWCFCQAPO6R7Ct9AyiaIDdic0oKn1pdVWENib0f1RYIrGsBvEsSfPbSf1mYLziczDoWLoMXHMS622CEJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI渗透测试Agent ApexApex是一款自主运行的AI驱动渗透测试Agent，专为针对实时应用程序的黑盒测试模式设计。该工具无需访问源代码、提示或预定义的攻击路径，就能以现代软件开发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336279&amp;idx=2&amp;sn=19f446e427a41bd7a1d5d69bc362f733&amp;chksm=bc394362050c696642543a9a18eba292fbd6ee9440f2f2e176e77d2c5ba41e44ad84ef8358a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达发布“安全版龙虾”NemoClaw；DarkSword串联六漏洞攻破iOS | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！💽英伟达发布“安全版龙虾”NemoClaw🍎DarkSword串联</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336279&amp;idx=3&amp;sn=efc3196ef3acb3ff0de9975f6b352fd2&amp;chksm=bcc868e8d304b0455bf1f8d2e911c628f509c296d69bc51addc7eda6d83c420e9486ca7eec09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[间谍活动闯入现实：当基础设施成为情报收集通道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0OV0B0HWnfwNIXGMggGiaKm0aFoZup2QvBrPo6XlNcbjhz4mnxicRZKMGP4rPRr3SxtvNW5C7HJntmmqFKDic8GhDibK8I5xWqaLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01共享服务带来的安全困境现代企业依赖的共享服务、统一身份认证层和互联服务提供商，正成为犯罪团伙和国家背景黑客组织的渗透路径。这种依赖关系的重叠已成为CISO（首席信息安全官）必须应对的核心安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=1&amp;sn=fa23efd356c0f87d675c49328d461e49&amp;chksm=bcbff6c453c24a01e40c3c019670d200a04a80259bf9f4ddb1cc26efb150dcbefbf7dc3ec322&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Betterleaks革新密钥扫描，比Gitleaks更快更准]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX01rg4TsPSg9RE1ugjW3BrWNOkmLfv5tZT7O349kd9zz1wnKkco5VIKWESjrrK4Xg3UXh8YnsBYyTJtT92MOOA7Xukks6wkMLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01工具概述密钥扫描已成为工程组织的标准实践，而Gitleaks是该领域应用最广泛的工具之一。该项目作者近日发布了一款名为Betterleaks的新工具，专门用于扫描Git代码库、目录和标准输</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336268&amp;idx=2&amp;sn=393f933fedd96f91e54fe8e13ffc5228&amp;chksm=bc888b2343c53028f2954bee30f598c507168ac6449a9e5df0d2ab692273a872ea4fcb274f52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 18:32:27 +0800</pubDate>
     </item>
   </channel>
 </rss>

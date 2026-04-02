@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Ingress Nginx已退役，Higress如何平滑替代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz58K79kkKqFZNG1MtMEWXgujsUCnzqX43bf3bdicibbDGwlltCjL9daeFHTFWiaxDnhG2Xcfv5gShUMo36Vibc9WrKRSzyTa87pjYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，Higress已正式通过TOC投票表决，加入云原生计算基金会（CNCF）Sandbox项目，成为CNCF生态的一员。01Higress是什么？Higress是一款基于Envoy和Istio构建的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509228&amp;idx=1&amp;sn=4476daa440189938b650711128ac5225&amp;chksm=ceea9a8b181f02dcb8c70813ba73b9e930ac74997e4ae80cf32b9a767fa3be281dcde49c5bd3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别让格式杀死思想：Logics-Parsing V2定义文档解析新边界]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5IkPkCROhTJlNuzKboDUqTmiaDIDiczhfuOTQV8Ix1AbrltlzvIK2WNRUWbXM9Q3Ow7QFZuJm0zVOJU4BmCIr6weZZF3WedcPhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们总以为拍下即留存，却常被“看得见、用不了”的内容困住：此前在图书馆里拍摄的重要书籍页面却因为当时光线不佳，现在转文字时无法识别；导师发来一份多年前的扫描版学术论文PDF，关键公式识别乱码，只能手动</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509201&amp;idx=1&amp;sn=39647c4f8adc9500be2db02d2102c7e0&amp;chksm=ceb891fef6124fe1efab738c124ec82cefbab7daf1bb90560af4cf0b67253fcbbccdc01d74bf&amp;scene=0&amp;xtrack=1#rd</link>

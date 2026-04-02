@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.03.27~04.02)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq88hdMsrHzy1icib7ibeZWkIsHNRoXicmD0u54cTBTPCQYmCBfaiboBhhMSUMibJSmFVCL9cWcm1aOTS2Om6MiaQ3ibHMPf1espCprZtzM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.03.27~04.02攻击团伙情报Lazarus是Axios供应链投毒幕后黑手UNC1069入侵广泛使用的Axios NPM软件包研究人员发现 Callisto 采用了 DarkSword</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518221&amp;idx=1&amp;sn=e9b865330e1af38784b1daa277fe74e9&amp;chksm=eb41b364b85c2fde5b8d89fba60940ad94e1d251ed78f994494df317089f9d24f3f2aea03e94&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Apr 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Axios npm 供应链攻击从TTP层面特征的归属分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicfuOWYqxYcxuOc8WLxfXx5aDMabvQLEXaaUhsibDT4dIqhHolzRfDO6vPcoL5AJdibY6vnEN9ZC1k1K74PfLYapLaYXgI3k7qpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述基本信息项目详情受影响包axios (最受欢迎的 JavaScript HTTP 客户端库，每周下载量超过1亿次)恶意版本axios@1.14.1 和 axios@0.30.4攻击向量劫持 a</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518195&amp;idx=1&amp;sn=e7faa2143413095439151fa827e9c28f&amp;chksm=ebfe0d41ebbce1274e3d4ee9f2d913aea8bbb1e466a3c19358989e0fac1bf68cf8adb813e7b4&amp;scene=0&amp;xtrack=1#rd</link>
