@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Axios证实遭入侵源自“社会工程学”欺骗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX35icQPu8biafM9CXeGSYMde5Caceeex73ibHgNfibCYOYjRYgSun3McgrsreYckBVuoRMpzp0AIOoic8uXTSlN26H1IUwIwVgKiczPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意包植入远程访问木马2026年3月31日，两个恶意版本的流行JavaScript HTTP库Axios被短暂发布到npm仓库。这两个版本均包含隐藏依赖项，可在macOS、Windows和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=1&amp;sn=7807ae2c1008e080e203c499b6037a7a&amp;chksm=bccedb91f76d88ef67753e311927f84248e1913e9d10f44591c39ea5a225f0d29618e1460164&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2zibt2GP3YicgmiaJjdaJJqzqP9lk2RmjzmGo7cV9wz0RvRARlNTsGicUlJicdGtxrmuVxKG2rUbBCvXDnr2PMd7FEdFXUaicUMdZMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5 BIG-IP访问策略管理器（APM）的关键安全漏洞正遭活跃利用，致使数以千计的企业网络面临风险。该漏洞被官方标记为（CVE-2025-53521），当其影响从标准拒绝服务（DoS）升级为严重远程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=2&amp;sn=c01494c486fea17c9e431617f4c2f24d&amp;chksm=bcaaf4dc6d804aeef1ab000bf83ff58d04df7389103b9373532e7121b352e77160bb9f7767b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：手机也能做攻防；AI代理安全；AI赋能的浏览器抓包与分析扩展；高级WebShell管理与后渗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3kic8CQBCaicoyGv6NUYMZr0iapK7pfvIDucPCfKpBIyTsMxxnz22pXB4xmicMNASmYKQWkiaaoHaAAyxQrR23AjqsE0icYJEkLqXBA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手机也能做攻防；AI代理安全；AI赋能的浏览器抓包与分析扩展；高级WebShell管理与后渗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=3&amp;sn=0eb6b56a6df08219f5c59fa1422a8407&amp;chksm=bcbdb86b18ac6a9cc3149a05743653a74de01d77dc4782e19117fc8d216bd6824a9b2e995fde&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RSAC 2026揭示12大网安行业趋势，AI重塑安全格局]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2z5qptL8c52aLNTQbTDRGJwmPFEgwrCaFgZW7VhHZsuVvibcqCN8K4t2HfeSS6Jeyf2QShiaGxKF6UvzmBgCID5s9Nic2WrFrKibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年RSA大会已落下帷幕。在这场充满厂商夸大宣传、用户焦虑情绪与实质性安全对话的活动中，AI技术成为绝对焦点。通过与数十位CISO、安全专家及技术供应商的深入交流，我总结了以下关键观察。Part</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336705&amp;idx=1&amp;sn=ec5f15cd1e42255ae31b0bf02d4a3f9d&amp;chksm=bcaf5df71bbe8e813526147091e5caed2e194c6e4e7333402f0474ea3c35da6aaecfbaace555&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Mc7pGB3ibeuriccjIyN0ftNiaIXwRvEKFGL9pTtp3KlhY8LJXAWJ3mX77XYhOVzHF3ibb7NTGCiaorEA8ugRyy69965iaSfFCPJZ9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球 AST（应用安全测试）市场持续扩张，中国增速领跑全球，代码安全技术正处于关键转折点。传统 SAST 工具依赖人工编写的静态规则，对业务逻辑层面的漏洞几乎无能为力；纯 LLM 审计方案虽具备语义理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336377&amp;idx=2&amp;sn=26757b80c0feae9de26744ea3ad13d82&amp;chksm=bcfb35826f6d758110b7a98b1ee2079462fcda095a169df896c8d3741aca1b0ba65a7d23cbb4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent运行安全亟待监控，防护体系建设成核心挑战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX04N79reWlH8JqmdbjHtVIibYSSqI8LSTxbtKic6prOytRtm3bslIEI847ZFefLELcibwTbdrPcskPwQiaNfPCahkrLDaoU3Fe7GD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 已悄然进驻企业网络，接手员工的部分工作——编写代码、起草邮件、检索文件、连接内部系统。但有时它们也会酿成重大失误。Meta曾有员工让AI助手管理收件箱，结果遭其清空所有邮件；亚马逊某</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336377&amp;idx=3&amp;sn=758fa0e9d203a2797d71e59811398e9f&amp;chksm=bc9dfb85364a492cbde7ec851be79d74cd6603742c2a7ddedd9c6996b43ceb8d25d5487b0307&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SCW Trust Agent：让AI代码贡献“有迹可循”，实现软件风险可量化控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX29f04N5Ok4W6AScA2AaE60m9AUgsaVozYxg5GibKSGJUiazdZEfUrp1aYtCFIwf1h6R0LbXqACbiakgt4khwyfVxsUgCLvOwurn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Secure Code Warrior公司近日发布了SCW Trust Agent: AI治理解决方案，该方案旨在提交代码时可视化、可归因且可强制执行AI对软件开发的影响，使企业能够在使用AI编码工具</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336377&amp;idx=4&amp;sn=01204e412bba3bd0a6b272c34c879512&amp;chksm=bcc3cc643385e614f6369aa5eef12c0525e15b693c0c0dd3e7c1bf2c35008ad36815937fb5b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RSAC 2026前瞻：当AI热潮遭遇安全运营]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2GaFc7QYpb8SJJ0XZO3YTyibS765VDcib8bSVybPfjXxyXfmwic9siaBkuCZiawqfSuTgRz25Na51an45ZoRgQ422uCB0WOoPib8Rz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI应用现状普及度高但深度不足本周在旧金山举行的RSAC 2026网络安全大会将成为一场以人工智能为主题的盛会。尽管"AI将改变一切"的论调不绝于耳，但现实情况是：安全主管们正被要求在控制</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336333&amp;idx=1&amp;sn=3c448c6ab4d1bc3da25d97de1bb2fde9&amp;chksm=bcc9d2352f564161a2135105297aa81e6f8bdae089fc599f447c84f8f32857b8ef38aae3b1d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 18:08:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
