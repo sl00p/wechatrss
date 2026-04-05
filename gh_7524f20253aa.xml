@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code代码泄露引发武器化攻击潮]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1hsTJhxDShaZcHI8zibXz9rytY1lpfibSMhWaSvQ7Gs108AeywkMoQncc62umMT7Ayib9Fjg0M55zlbZ1icI4dop5ibqosWVuU5kT0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 出现大规模源代码泄露事件后，网络安全界已处于高度警戒状态。2026 年 3 月 31 日，该公司意外泄露了其旗舰级终端编程助手 Claude Code 的完整源代码。此次泄露源于一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=1&amp;sn=408127059513eb158f86aa2cfc845a5b&amp;chksm=bc113265a215493e0d1f4e119119f8ba0bbee1b9f1490ec47932ae16703acce4706d2e1f8832&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FortiClient EMS 重大零日漏洞已被在野利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX344s1fXk4kj19IjWYsXUvv72NZUlKJBqPrWo3udkFpvtGrfKtAEsGXmbmprysvsZdhhMNZ2AjwPIVC6ElYD3XoYCx7KGFWniaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet在安全研究人员披露其 FortiClient EMS 存在重大零日漏洞后紧急发布了热修复程序，该漏洞目前已遭到威胁行为者的主动利用。 该漏洞编号为 CVE-2026-35616，C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=2&amp;sn=752efcca27ede9a7dd36a458a051d0d4&amp;chksm=bce8afd38b000eeb01802aced43cdbd757f68e048f15b0984aa379bf18cc1f0e5ffe3b8539d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软披露攻击者正通过利用HTTP cookie来触发执行、传递指令并激活恶意功能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2csJ9pry26JjKAsBLRchSLiaMdib3eAKgvt9lSBEwJYCrmeAKNfJva7oub8LlOg40bPxeunKDdELWg2mnYy7Vwtk2PDLOpID6iaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软Defender安全研究团队发现，攻击者正越来越多地利用HTTP cookie作为Linux服务器上PHP WebShell的控制通道，以实现远程代码执行。微软表示："这些WebShell不再通过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=3&amp;sn=13bc4ba4322e545c146f7b40bc31f12e&amp;chksm=bc35b58cbdaf9baaa5871369c269675725be40d1149529a5c77ba0453c587776cc0473c905ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Axios证实遭入侵源自“社会工程学”欺骗]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX35icQPu8biafM9CXeGSYMde5Caceeex73ibHgNfibCYOYjRYgSun3McgrsreYckBVuoRMpzp0AIOoic8uXTSlN26H1IUwIwVgKiczPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意包植入远程访问木马2026年3月31日，两个恶意版本的流行JavaScript HTTP库Axios被短暂发布到npm仓库。这两个版本均包含隐藏依赖项，可在macOS、Windows和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=1&amp;sn=7807ae2c1008e080e203c499b6037a7a&amp;chksm=bccedb91f76d88ef67753e311927f84248e1913e9d10f44591c39ea5a225f0d29618e1460164&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RkFfXB10JLhjqtejnxMPu7CGz5pKnfDLjkic5bpLQjo8wcibEB06mGPQ6ibsvqd5o0CnswFic6YA8kLxcOj000ibUeWe3zvk63pgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌云今日宣布大幅扩展其网络安全产品组合，核心聚焦于AI驱动安全（agentic AI）与深度威胁情报整合。在旧金山举行的RSAC大会上，谷歌展示了这套旨在以机器速度应对日益自动化、复杂化网络威胁的统</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336416&amp;idx=3&amp;sn=32dd9f250a2d82e2d1274b1ae5e65ef2&amp;chksm=bcbb282e80dddd64aa1accb0a1290cdd8409753e72c002b66dd6497ca0273f94db83334dd0c9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30美元IP-KVM设备漏洞可让攻击者获得企业网络BIOS级控制权]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX29IO4QDibND2asibcDic7UjDiaqJMaX1uMyTTnqW1etPfkJ0iaFbBcGsaRtLS9XeZ6BqeuL1cXektsmKQtjzLBJBBpXqanT918BUB8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述研究人员近期安全评估发现，四款主流低价IP-KVM设备存在九个高危漏洞。Eclypsium披露的这些漏洞可使攻击者获得对连接系统的完整BIOS级控制权，完全绕过操作系统安全控制及终</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336416&amp;idx=4&amp;sn=4d056be2fee08fec11d67b55cd8b638f&amp;chksm=bcbb3e7bcc5215c521a828e37e70968cafc65df4383a9ddbb74dd3b43e778177e17cb14f634e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LAPSUS$黑客组织宣称窃取阿斯利康核心数据，含源代码与云配置]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX11UdNuGGMHicibK7KqYnXiaKocctDxV8Djbr48sugkOEF9Wsxk1RnA49vJB1o1S5A3ZmicicpaeV3Y1n3QX89MkSk8lOav3A75aWicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>臭名昭著的黑客组织 LAPSUS$ 近日再度现身，宣称对跨国制药与生物技术公司阿斯利康（AstraZeneca）的重大数据泄露事件负责。目前，该威胁组织正试图出售一个 3GB 的压缩内部数据包，此举可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336377&amp;idx=1&amp;sn=b41e0e827faaa64104edf75fe4e1f47d&amp;chksm=bc4d669a17ae1475432189ee9162ae860b6291d311bda23c75324bcc929ef7e7f87723722798&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 18:00:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 重塑代码安全，Gitee CodePecker 新品发布会预约开启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Mc7pGB3ibeuriccjIyN0ftNiaIXwRvEKFGL9pTtp3KlhY8LJXAWJ3mX77XYhOVzHF3ibb7NTGCiaorEA8ugRyy69965iaSfFCPJZ9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球 AST（应用安全测试）市场持续扩张，中国增速领跑全球，代码安全技术正处于关键转折点。传统 SAST 工具依赖人工编写的静态规则，对业务逻辑层面的漏洞几乎无能为力；纯 LLM 审计方案虽具备语义理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336377&amp;idx=2&amp;sn=26757b80c0feae9de26744ea3ad13d82&amp;chksm=bcfb35826f6d758110b7a98b1ee2079462fcda095a169df896c8d3741aca1b0ba65a7d23cbb4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 18:00:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

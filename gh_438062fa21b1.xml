@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从多智能体编排到AI自主决策：资损防控体系的架构演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz7BmEZIXRR12yHhcl1YhEiaK6EJo2wObEQJ8nlUaWzzqaumiaDbg3OjBsiaa8upNPm4hAnFpn2MxvuBFX228AAbiaibXtta0TwvJug0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第11篇文章（ 本文阅读时间：30分钟 ）前言本文是《基于智能体的资损防控系统》的续篇，聚焦于我们在实践中发现的问题、架构演进的思考过程，以及新方案带来的核心突破。V2方案借鉴了Ope</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509229&amp;idx=1&amp;sn=5f7352bb8eec781aaa64d22d3ab0a23e&amp;chksm=ce9b94839e5b737c7c839ae9f4f4a3a47e62dd8ef92705dbeeb80591d32bf0f0832766669966&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Apr 2026 09:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Ingress Nginx已退役，Higress如何平滑替代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz58K79kkKqFZNG1MtMEWXgujsUCnzqX43bf3bdicibbDGwlltCjL9daeFHTFWiaxDnhG2Xcfv5gShUMo36Vibc9WrKRSzyTa87pjYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，Higress已正式通过TOC投票表决，加入云原生计算基金会（CNCF）Sandbox项目，成为CNCF生态的一员。01Higress是什么？Higress是一款基于Envoy和Istio构建的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509228&amp;idx=1&amp;sn=4476daa440189938b650711128ac5225&amp;chksm=ceea9a8b181f02dcb8c70813ba73b9e930ac74997e4ae80cf32b9a767fa3be281dcde49c5bd3&amp;scene=0&amp;xtrack=1#rd</link>

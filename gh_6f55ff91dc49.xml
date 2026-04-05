@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2KsicN8Rwpg8UJRicDMAxSa6mKa7a8Ouz90v2QjWlctfMCibexQ01nDtKVhCYaTUMk7OLDdiclQbE6uHicX2jFnWrG85XtLg3JyibMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Andrej Karpathy 前两天发了条推文，讲他最近用 LLM 管理个人知识库的一个新玩法。很多人非常受启发。然后他把这个思路整理成了一个 Gist，现在已经大几千的 Star 了。说实话这个思</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67&amp;chksm=f8403a2ac965683ad8a007187973df338e6af8e12005331e2c4b71b9244c4261ae9021233efb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Apr 2026 11:34:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[笑死，这个开源 skill 专门炼化你的离职同事。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0sJglwreGZNp1xc6IGrgiaKIfVxOVoq8D8YN2vticNeRiaG1oTpSxFyCeKjJhwRQDrsicQrgq7pGXRMHIiaGA3G6Gq5ibm3oC3lLVOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>笑死，这个开源 skill 专门“炼化”你的离职同事。最近逛 GitHub 发现一个特别离谱的项目。五天时间，7K 多 Star，还在疯涨。项目名叫 colleague-skill，翻译过来就是同事</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e&amp;chksm=f822af68fcddb8aec2a35d1c3942bdc9ee21ba668df3ad50d0950b2588f630aaecbbfcecad3b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gmSdT2NYiacZFpsxI0qF0jWD1AkTo35wX8AibQV75JIwb8eSe3XicUlgqheS1icfMpHcDeQicYCGuBIosDvcu1JGdOdjIrKnAwibkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>26 年开年最火的开源项目 OpenClaw，现在已经 20 万多的 Star 了。它 Star 的增长的诉求远超所有人的认知，估计也包括 OpenClaw 的作者。。。。在你自己电脑上运行 AI，并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531514&amp;idx=1&amp;sn=e06b9d70fa8289d77593dd7c027e030a&amp;chksm=f81a0b4ff7edff388ffbc434f796e42ea9b736e06403b487ce46cb948490a1af65eeeaa4a92c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Feb 2026 12:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0OKQq2yc7icgicbMBGMgBibHlc7hLpkkorzDjpKibrVtzpJUkIz153W8bos4hyxPGhWL0liaaD4osQm6I0g94fgjlTPGGwZm6ENic0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>打开 Kimi 的官网，你会发现刚刚上了一个 Kimi Claw 的能力。Kimi 版的 OpenClaw 来了。现在，你不用担心受限于硬件或者复杂的部署流程。用 Kimi Claw 就能实现云端一键</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531449&amp;idx=1&amp;sn=894beeca3897c7ba9b269b59e12cb649&amp;chksm=f857695d444fcfe071c119c7c8c47d255e88c7802e33106aab938205a91f3ebeb50cbde1e896&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 12:35:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
