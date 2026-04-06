@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX13Zb3wVqHibRNVE2riatBPmkzKbXg92pMK45bQNza7RLP7GHgqHzWqPTamHIFHEvsicWa3baGmIIe27VAaojBQEXA6hpWmeNadGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员Chaotic Eclipse（@ChaoticEclipse0）在GitHub上公开了一个名为BlueHammer的Windows本地提权（LPE）0Day漏洞利用程序，并附带了完整的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=1&amp;sn=44b3faed715a9c637fad34331c7f9d61&amp;chksm=bcc4bd2dd98b2b471854a01874ddceca9b04c4b92bd12a30ed6a954e6b07750db3d41fc1f6c9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者劫持AI工具链，LiteLLM沦为密钥提款机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX27HOT8YA6KQ3rdAqu1zDLDicdhbruTpAQonxRskqMWGwick3HJEiaJ7cAahwfPf6AGmI5Whfib957YtezykK1JC47gFgJ8gVUMbdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在企业基础设施中，开发者工作站是最活跃的组成部分。这些笔记本电脑不仅是创建、测试、缓存、复制凭证的场所，更是跨服务、机器人、构建工具乃至本地AI Agent重复使用凭证的核心节点。2026年3月，威胁</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=2&amp;sn=498309d7db411bd9ad74050569b3259a&amp;chksm=bc8d65fb79ea34e02f353859e75457455bd460fb31c48c3b71f078e21b11f697e6f892d97224&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客借美以伊冲突的导弹恐慌伪造警报，窃取微软账户凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dLOr4Afcibtvg5KN71HoITnNR5pT7QNEfFWku441aoMqibuWVUtr8gqcByHwGzQFkziaPDSlmic5Gd5OgwjpW2UDdo4CiayC6lNos/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代战争形态已发生改变，智能手机也成为了战场的一部分。黑客总是试图从政治或地区冲突中牟利，如今他们正将诈骗手段与美以伊最新局势相关联。研究表明，当人们因新闻事件感到焦虑时，更容易在现实生活中犯错。电子</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=3&amp;sn=66bd3ecb13756e8b5d5534acc4b38c04&amp;chksm=bc0f8858f84a260e7849acd5ecd40014d7d0a50398f51b181d185dd1e84706a51845d7f2ff14&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源AI渗透测试助手METATRON为Linux带来本地大语言模型分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3hTE4xYdibZe8ag2UwReOsOWJzTPsMhGeEMf9gF0fHylL9F78C14S5f6Rj9cCozLxj4Lb2g2Licqea3NnaQTXhNmwFNDBpwnKh0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为METATRON的新型开源渗透测试框架因其完全离线的AI驱动漏洞评估方法，正引起安全研究社区的广泛关注。该工具专为Parrot OS及其他基于Debian的Linux发行版设计，将自动化侦察工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=4&amp;sn=7eadffa64bfe64a81f08fb7ef01a429d&amp;chksm=bc4cc7f3f85a9fa39a1fa62ac2deb6e319d4f21317bc720260f407eb2ebba0e9382e4047af94&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code代码泄露引发武器化攻击潮]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1hsTJhxDShaZcHI8zibXz9rytY1lpfibSMhWaSvQ7Gs108AeywkMoQncc62umMT7Ayib9Fjg0M55zlbZ1icI4dop5ibqosWVuU5kT0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 出现大规模源代码泄露事件后，网络安全界已处于高度警戒状态。2026 年 3 月 31 日，该公司意外泄露了其旗舰级终端编程助手 Claude Code 的完整源代码。此次泄露源于一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=1&amp;sn=408127059513eb158f86aa2cfc845a5b&amp;chksm=bc113265a215493e0d1f4e119119f8ba0bbee1b9f1490ec47932ae16703acce4706d2e1f8832&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19gKX5a3tOlsxgzVEiaPfIkic9xhibDOxVaEFATIp9q7YZ7b3KRS5kLGYWg7Q1hfPS0GwNKueulhc9mSibh2DiaEicaxW0oTUz1GgicU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年2月25日，Gartner发布首份《守护型Agent市场指南》，标志着这一新兴领域的重要里程碑。该指南将守护型Agent定义为"监督AI Agent的系统，确保其行为符合目标与边界"。企业安</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=3&amp;sn=faa1766ca8a7f38e907126cfbdbc0168&amp;chksm=bc6407d26e4f046cf3f05f0a9e62a52f6f8167dbc1f1395ebb2f194bac33bca26791cfe3fe4b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 18:01:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球逾51.1万台停止更新的微软IIS服务器暴露在互联网上]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ZRpYg55AN85DNzWwJyd8icjoicwibjiaRV8MKBsdyQnbNibAfzuLCgV1mzddDVmorzS578bKJLLYbdRGKicAo7bDOSeXjdOS6Mfkzc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01过时系统构成重大攻击面2026年3月23日，Shadowserver基金会在例行网络扫描中发现超过51.1万台已终止支持（EOL）的微软Internet Information Servi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=4&amp;sn=58494004211dc7952646ecc4a2da3e3f&amp;chksm=bc2cedaaa8bebc50c5a3f3b62a9384ed42b6d579ddba008148f58b975585db7dcba32a163679&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 18:01:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[XDR+威胁情报10天精准猎杀朝鲜IT冒牌员工]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2Rc2FYZjEnEm4ngRafReRJ5OmOicH6g6Q3B9wRx45fibnBrdke6yG1455CA4vxb9rhOtUicAYmy0sFC9Xf7KsRMPthrG8PWopAJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜IT冒牌员工计划已成为跨行业重大威胁。尽管最佳实践强调招聘阶段的防范措施，但一旦这类人员入职，往往难以察觉。近期案例证明，行为分析、威胁情报等多维度信息融合正成为关键防御手段。LevelBlue</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336416&amp;idx=1&amp;sn=28efdf6a876c86afdfb87aac5a80d2a3&amp;chksm=bcb1dff16bb3a9e1c40211e2b0795731aba19a052dfcdc324fa79dbb46cfb8a28df3f6615706&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【限时免费】全系统加固体验月启动！别让任何一个系统成为安全短板！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0U51bFsCkibt84ibCvPic3qg8DVKXW2B8jZcvIooceHlFTrl9vmmIeybCNrmSnM54kmhgcQsfTJXnaHA803sQAo4ibdyz09ObGEYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>筑牢Android+iOS+鸿蒙NEXT安全防线</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336416&amp;idx=2&amp;sn=622ff8b12a9e50d1cb7203844eed3c97&amp;chksm=bcef5fd1be3cd51b6abaad753af27118f587c6ead5cd5c8196d77124b27ba1dc9c3de6d3a528&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌云发布AI驱动安全战略：整合Wiz技术并升级威胁情报能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RkFfXB10JLhjqtejnxMPu7CGz5pKnfDLjkic5bpLQjo8wcibEB06mGPQ6ibsvqd5o0CnswFic6YA8kLxcOj000ibUeWe3zvk63pgg/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌云今日宣布大幅扩展其网络安全产品组合，核心聚焦于AI驱动安全（agentic AI）与深度威胁情报整合。在旧金山举行的RSAC大会上，谷歌展示了这套旨在以机器速度应对日益自动化、复杂化网络威胁的统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336416&amp;idx=3&amp;sn=32dd9f250a2d82e2d1274b1ae5e65ef2&amp;chksm=bcbb282e80dddd64aa1accb0a1290cdd8409753e72c002b66dd6497ca0273f94db83334dd0c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

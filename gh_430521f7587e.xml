@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub Copilot被曝在PR中植入广告，微软紧急道歉并禁用功能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVcbHFLN0DZXChiccmjoE73hjia1gvScBticwRRcVZ5ludjkcM1JulVXNNjY0Mu0pVHA6nU2Jm0GMVBx5ryPThEI6Qgpd1hYFAMibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub Copilot编码助手的一项“产品提示”功能近日引发[1]开发者社区强烈反对。多名用户发现，Copilot在自动生成的Pull Request（PR）描述中插入了指向关于Raycast和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238838&amp;idx=1&amp;sn=55980a006e04b3fea866921cfe6db693&amp;chksm=bfeb3814823d7ba22c72a646a40d7ee63a5c454cadbae84cc554e9f4e866424b058945691a15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 16:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最开放的Gemma 4来了——谷歌：没人比我更懂“不作恶”。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWzMqzfYpG0oJsu6Z5TDYiaYS8FISxow1ibzL5ianAC5R1NRr5axnhDBf0ZbHAzKnCYGIn9CHVhScdptaicAUynll1KhdpHeh1Oib5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年 4 月 2 日，谷歌 DeepMind 发布了 Gemma 4 系列模型[1]。模型有四个规格——E2B、E4B、26B MoE、31B Dense——覆盖了从树莓派到单卡 H100 的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238809&amp;idx=1&amp;sn=2bce2ef36ce0245c50f819eea7b469e0&amp;chksm=bfcb6bbadc2e2a8c0472e000d178e39b5bdbcf71fd30184f049de5984a5c06b73a8dd8ad9cbf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXBRuRTebUibVf5hTPRu6GssNmiadE3awVnbSX3EpmPL26MVCmpAdo13pWk5kKic8kUJctZfNyiaCfqNcj3A3xMyFm5yx0YTbscrUM/640?wxtype=jpeg&amp;wxfrom=0"/><p>引子：无论是2026年伊始的AI应用入口争夺战，还是近期业内爆火OpenClaw（原Clawdbot/Moltbot）项目都预示着，AI技术正在进入广泛的生产性落地阶段。由此，行业的发展侧重点也将从过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237571&amp;idx=2&amp;sn=268940d6eefbbfbb142c1ee77a7081c5&amp;chksm=bf01e9c0d5b863728d129c71e38973464a993f5510a291a2590f077b88362188068569802be2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 16:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek V4发布在即：百万token上下文窗口、多模态升级与国产算力适配成焦点]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWMetoCiaGOibicweNvURsiaIeoqtdrCfiaM8SNteTYiafp204uDbjZRQgIZlbrQfzCQ4s1E1dXXBTZdIs035suWN9bicQIZrjlMLm7fE/640?wxtype=jpeg&amp;wxfrom=0"/><p>中国大模型公司 DeepSeek（深度求索） 的下一代旗舰模型 V4 已进入发布前关键阶段。多方消息显示，V4 正在进行硬件适配与灰度测试，正式版本预计将在 3 月初至中旬推出。与技术参数同样引发关注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237543&amp;idx=1&amp;sn=b547e5ba5efb2e4610914f28513a3fae&amp;chksm=bffe3e570933bd9082edac5693449ca021b1e176359f9240a2ec4edb5a9f8080236ff631c95b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 16:13:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

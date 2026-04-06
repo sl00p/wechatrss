@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[「纯干货」几万字都讲不明白的Memory架构与思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xt2HcC4N9kOiczS78tJwoEg4PCWOmwjicNgCISxHqiboGOuJlhp72q566NTZbNb8csib6fGItC3DfTsMjdfKt1IR7icSd0djgama8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述作者对 Memory 的一些理解与思考。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）Memory 的本质本文所讲的 Memory：指 Agent 在长期</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559363&amp;idx=1&amp;sn=461e525a0373ccfed0a7638cc1c51906&amp;chksm=e8ad0b2f080d61b3dcfabc6ad56f80eabc317910d3d7364db69adf19a1813c9e41dd308797ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 为什么越用越好用？本质就是一堆 md 文件]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zGiahOW6hM2hcibnOl8fVZlSyIrbCqVArTWYraibr6GAOA0WH9AZksaia9pyuLz9ZIWTvG1IIhATdK9jSmSndBxKQ7xPBv2RUB1aM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。最近深度使用了 OpenClaw，基本上每天都要跟它交流几个小时，也慢慢摸索出了一些经验。看到不少人说 OpenClaw 不好用，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559355&amp;idx=1&amp;sn=def05b645d71962cd938c20213fb5e12&amp;chksm=e81518ab04193d8c0638b85d413e737e7d22b11f070191ff861bc1fbf861b896d5479014da84&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKD7mnQMc2fMOGNBEPC3WyOPfItQ5dEKCWibsWlcoCdXhHQUe59hA9UO6zmCdaLDKtmjltjztHC9pQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据库是后端开发的灵魂。在 AI Coding 极度流行的今天，虽然生成 SQL 语句已不再是难事，但 AI 工具往往因拿不到准确的表结构而“乱写代码”。尤其在数据库Schema未保存在本地（如使用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557678&amp;idx=1&amp;sn=a295dee2a4bd58af957843591f763185&amp;chksm=e8ead21ca38ba03062e84f235e54c3744e1282c296f0bc980c028ab7f25a0d3308aa8a1c0c0f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDD 如何在复杂业务系统中真正落地？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKHqFAulcC2e7LGrC8ISQyianTTwY9twB1B8yviaicDsWtdoLpnsfmpAOsb9eRolRomiacTPvapJhf83Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>发展历史全称：spec-driven develop，spec 是 specification 的缩写，代表规范，我们以 OpenSpec 这个库为例。CLI 基础使用项目初始化 (Setup)ope</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557558&amp;idx=1&amp;sn=6e4699216ea6be3a5c2f784887a66ce1&amp;chksm=e85c0e6e006e6b05cd219af4871a02e62b5ff8fac3d904dcf9c49486c1b9548b2a2244c29981&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

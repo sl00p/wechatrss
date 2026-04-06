@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 项目很有意思啊，解了死磕 30 年的前端难题。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0lp2WFfPKX9csichwS1OwvibQHc7dpqaK8lFfdevqIy9g77D2icRYu1DY4UTlWiaRJCzRmGONXmpGdMrticQ59Dia9D0HYT5bdw9Hcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近前端圈被一个叫 Pretext 的开源项目刷屏了。它的作者是前 React 核心开发者，之前做过 react-motion 那个 21.9K Star 的项目。这次他搞了个新东西，发布 3 天 S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532874&amp;idx=1&amp;sn=4dbcb2152b26b8df773aa6ea9d991431&amp;chksm=f864074690550d33f79928d2c4fb337e3782bb2ce20eeacbcdcb63a9a5e410184da1fc573bbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 10:23:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2KsicN8Rwpg8UJRicDMAxSa6mKa7a8Ouz90v2QjWlctfMCibexQ01nDtKVhCYaTUMk7OLDdiclQbE6uHicX2jFnWrG85XtLg3JyibMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Andrej Karpathy 前两天发了条推文，讲他最近用 LLM 管理个人知识库的一个新玩法。很多人非常受启发。然后他把这个思路整理成了一个 Gist，现在已经大几千的 Star 了。说实话这个思</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67&amp;chksm=f8403a2ac965683ad8a007187973df338e6af8e12005331e2c4b71b9244c4261ae9021233efb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0nrCBibQwhj4AQxOjRyiaDIb6sVQGBqemiaR3qwQVzJpc2IwKWNibVp12mCSeuQDXPZXJULtmWHJs1iaD6zR04C50WibpBf6xw6ibVqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01营销人的 Claude Code 技能库这个是专门为营销同学准备的 skill 包，已经有 7.5k 的 Star 了。作者是个叫 Corey Haines 的营销大佬，他在 X 上说这是他发布过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531515&amp;idx=1&amp;sn=f248513e73e1bbfa3f125256176f7450&amp;chksm=f8dc704f228bdabcc803f38ee487c0940bf1579147e7395cc18007e524f55f1dcc8c35ff1fe2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Feb 2026 14:46:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 还没整明白，又来一个 ZeroClaw 开源神器。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gmSdT2NYiacZFpsxI0qF0jWD1AkTo35wX8AibQV75JIwb8eSe3XicUlgqheS1icfMpHcDeQicYCGuBIosDvcu1JGdOdjIrKnAwibkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>26 年开年最火的开源项目 OpenClaw，现在已经 20 万多的 Star 了。它 Star 的增长的诉求远超所有人的认知，估计也包括 OpenClaw 的作者。。。。在你自己电脑上运行 AI，并</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531514&amp;idx=1&amp;sn=e06b9d70fa8289d77593dd7c027e030a&amp;chksm=f81a0b4ff7edff388ffbc434f796e42ea9b736e06403b487ce46cb948490a1af65eeeaa4a92c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Feb 2026 12:04:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

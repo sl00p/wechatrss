@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[龙虾陷阱 | 伪装 OpenClaw 投递后门事件分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwVsHwSzpGXSYyRLohWhCttDAjLR9fria0qurl6zgdR3xrE4kCeKaP1pIYdt9h8EGLeqWROcd9M5TAT7amHlgge7TiaW3h6kInsPs/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件背景2026 年 3 月 ，腾讯安全科恩实验室威胁情报团队在日常威胁狩猎中捕获到一组可疑域名。它们无一例外地指向同一个目标——OpenClaw，一款近期热度飙升的开源 AI 智能体执行网关。Op</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511618&amp;idx=1&amp;sn=4ec6bbad9b2ae648bc29ebc53d0cb2ed&amp;chksm=ed09de395531887e45a889c54f09fcc8fd33ecda70ef38cbaa4c77b6ff9b31c2bf0339513cb0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Apr 2026 14:52:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[借"码"行凶 | Claude Code 源码泄露引爆供应链投毒，窃密木马暗度陈仓]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwX3cshyG0Tphvd4Xl1DqyyBc66kKdyokEXRN3OWIibI9IXqjy7565ygCNvN1nF9PcvOGoia0tOXWafbkjib7kyNevK4OtmmIkTH1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述2026年3月31日，Anthropic 旗舰终端 AI 编程代理 Claude Code 因打包错误，意外泄露了约 51.3万行未混淆的 TypeScript 源代码。泄露代码迅速被镜像至</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247511607&amp;idx=1&amp;sn=67a18e00bf624c50e18463ca7ca4f5b5&amp;chksm=edbabacbcfca266c6428228c845d9c288c24096c305e7b76f82e35e74b6c41dbd491050b5370&amp;scene=0&amp;xtrack=1#rd</link>
