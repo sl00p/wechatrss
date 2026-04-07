@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic拒美军AI武器化遭封杀，引爆企业自治与政府监管大战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0B2X7vJ1ibU1vqvQBV4wuFngqMQw38WfGQmzvbwRG1moibe3jmlQ05wk6eVQTObJRHfuq47fDUpuoiaX5jXYySFqgm68pW9u4zP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心矛盾：AI系统控制权归属Anthropic PBC与美国国防部不断升级的争端，揭示了人工智能市场的根本性矛盾：究竟谁该掌控强大AI系统的使用权。这场始于合同与政策分歧的冲突，已演变为涉</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=1&amp;sn=e35daf7ae12fedc1a10d652fe8d2944e&amp;chksm=bc4266160b9b8ace19d48b63fbcbf8f7e176e1d56fa31e4e2b8bdb3fd966616dd334fdd4138a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Agent时代，阿里云的安全养虾秘籍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX09T6VqA94HzBX9Hs03icrmO96tjTmdZmx55x3WZ0bZdUDF5a00TovDeYp7MDJdS01aeMcq90zZIbhF3ELRZ8uibtmiboRvlJTnc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月，AI圈最火的话题不是某个大模型的版本更新，而是一只“龙虾”——OpenClaw。这个开源AI Agent框架发布仅四个多月，便创造了GitHub历史上的增长奇迹。国内的热度更加强烈：“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=2&amp;sn=9b1d982d3809fe40f5c45017b4a902a9&amp;chksm=bc67fab5457a4c51af30dea7ce5fb8d32290dcc753ab9422ada79866a8ed26156a45cf2e407d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1.2万Flowise实例遭高危RCE漏洞攻击，AI平台面临沦陷风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1m6GTQhHazp1rwd4bRzJrppqjl3jrCU6merKq4rJSEebWKbvpPVEG3AiaicdRUKic8NFTkoIYEibX6Uyib00MeILyuR7l56aWoBvD0/640?wxtype=jpeg&amp;wxfrom=0"/><p>VulnCheck最新研究显示，威胁攻击者正在利用开源AI平台Flowise中一个最高危安全漏洞（CVE-2025-59528，CVSS评分：10.0）。该代码注入漏洞可导致远程代码执行（RCE）。P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=3&amp;sn=e76057f3449448c403a5f975caea98dc&amp;chksm=bcd310753ee7de74f1f6d66cfc4df7de1f6c1ecb9ad2dd672d6233af7e711fe437c2617b2cbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型GPUBreach攻击通过GDDR6位翻转实现CPU权限完全提权]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX14fVREw6LXnaI19zRjmtKSM76XPWrmrgHOUxfToDmZZYldKXcXqcq5xXXia2EhyoloAKia1WMN9ZgVx34BR13eSKmHmdcbS8UsI/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新学术研究发现了针对高性能图形处理器（GPU）的多重RowHammer攻击手段，攻击者可利用这些漏洞提升权限，在某些情况下甚至能完全控制主机系统。这些攻击技术被命名为GPUBreach、GDDRHa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=4&amp;sn=205a9fb61fc4bc64352eeefbc0dafe1a&amp;chksm=bc72479de6fd17834ce642278556e0435691909086329ea63b90112ed494e6ed0e134e3c75c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Windows Defender 0Day漏洞PoC曝光，攻击者可获取系统最高权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX13Zb3wVqHibRNVE2riatBPmkzKbXg92pMK45bQNza7RLP7GHgqHzWqPTamHIFHEvsicWa3baGmIIe27VAaojBQEXA6hpWmeNadGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究员Chaotic Eclipse（@ChaoticEclipse0）在GitHub上公开了一个名为BlueHammer的Windows本地提权（LPE）0Day漏洞利用程序，并附带了完整的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=1&amp;sn=44b3faed715a9c637fad34331c7f9d61&amp;chksm=bcc4bd2dd98b2b471854a01874ddceca9b04c4b92bd12a30ed6a954e6b07750db3d41fc1f6c9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XEISEqeu30QCzXYTWB5sqYJBaBWkGK1Y9dJjlOWT2V285GcuiczWsAw2ia2rSA9TKBhcFKrMTRyR8hJsMqkrRpON97uiaSPjPQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁组织TeamPCP疑似通过Trivy CI/CD漏洞入侵了LiteLLM的1.82.7和1.82.8版本。LiteLLM作为月下载量超9500万次的工具，可帮助开发者通过单一API路由大语言模型请</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=3&amp;sn=a6a0e078f77ce000456250a6ab3dd3dd&amp;chksm=bc00c56a2ad3c8b72793a598f3fc7d6e156c744ea04a0cf822b5032021a756badf1eed6f3fd5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DarkSword漏洞利用工具遭泄露，超2.7亿iPhone面临风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1OWQJT5WF5qrI317yoQ3PVOfNgzia6L23ib6bBdo0icia6GtgHrPOohcP4lwIF2RYCyr0fLCcZnOjgUQ0cianolvhRAFZPZ0AVhMvk/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkSword漏洞利用链的泄露使多达2.7亿部iPhone面临风险，攻击者可通过Safari浏览器在用户无感知且无需交互的情况下窃取数据。研究人员表示该漏洞利用工具自2025年底就已活跃。全球iP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=4&amp;sn=7b28b9b7520d8c97fdf88d69ff5e4a24&amp;chksm=bcaa725f3a5f0c6e043fa640f9c1e97c85c2b0d224fed824f6b1094d58eb73e8d1196e19879f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球顶流“龙虾OpenClaw”席卷而来，国内40+安全厂商集体打出“安全牌”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10XWcCo50ic9XBqAKPE1M0EfzBkiaMbI8icMep6UicOV3HC3ic68E7rwfiaGaeFlZ0kqI5zVibricF1GEa2BzszrBnOLAzc2liccqUFYdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🦞当“数字员工”开始操作你的电脑，谁来为它的行为负责？如果你还没听说过OpenClaw（中文昵称“龙虾AI”），那你可能已经错过了技术圈今年最火爆的话题。这个被誉为“真正能做事的AI”的开源智能体框架</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=1&amp;sn=b0d7de48eda134c17acfc3be5768bb19&amp;chksm=bc6c8542f3a95ff95b48d56fb4ed050cd9b44c2762931179a5ec86c770728c96b3f383cb200c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 18:01:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic为Claude Code解锁自动模式，AI可自主选择操作权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2UhA5QGjffRjRtapiccAlkEyRd4YehIpEbU88Vw5LtjTLvN6UuKsqODhcBktYTssfLCKsfRia00b5xGOLdEpb1yiaxaicdZyiamTG8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI自主化趋势Anthropic PBC正在为其广受欢迎的人工智能编码工具Claude Code解除限制，推出名为"自动模式"的新功能，允许AI自主决定可使用哪些操作权限。这一发布加速了A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=2&amp;sn=8781ccc815b6b4830ad455459990aa21&amp;chksm=bce364c60c804d0e7beafa3797d07fd2325d1b40ef354c9c9feeca0d5c0b91ae7a2139dab2dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 18:01:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首份Gartner守护型Agent市场指南的五大核心洞见]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19gKX5a3tOlsxgzVEiaPfIkic9xhibDOxVaEFATIp9q7YZ7b3KRS5kLGYWg7Q1hfPS0GwNKueulhc9mSibh2DiaEicaxW0oTUz1GgicU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年2月25日，Gartner发布首份《守护型Agent市场指南》，标志着这一新兴领域的重要里程碑。该指南将守护型Agent定义为"监督AI Agent的系统，确保其行为符合目标与边界"。企业安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336436&amp;idx=3&amp;sn=faa1766ca8a7f38e907126cfbdbc0168&amp;chksm=bc6407d26e4f046cf3f05f0a9e62a52f6f8167dbc1f1395ebb2f194bac33bca26791cfe3fe4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 18:01:36 +0800</pubDate>
     </item>
   </channel>
 </rss>

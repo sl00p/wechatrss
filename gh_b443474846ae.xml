@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Spec 退场，skills 上位：Codex 团队的产品方法论变了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjVxicFDPGrWjUzgo00Eic74zWgSnnvK4xx2DB1BHCOTeNnaiabIsBZIOU5iacelLI2S4jVicwGEYx5eTd9SdlvsszWCslIurYgibShc/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina 在 Codex 团队，spec 这件事已经变得很轻了。很多时候，文档里只有 10 条要点，后面就直接进入开发。这种变化，和模型能力抬升有很大关系。前几年，大家还在反复研究 Prom</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=1&amp;sn=abb28289c1f51b80e29a282e650f841c&amp;chksm=bce3d5778890711060f5061d52d98c89921fb8d8bd045cfda9bcd1e0a6446ac0ba761ecf7c11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiarRE6eP1NGSeDh8NTibicmSts6FtX9ABpRFIjgiblhCHrp7YIhWoSQVibFEL8p7oqBvudAnymPasvaV0hRP0YXG1LMSDKPsibCOSww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅编辑｜蔡芳芳在人工智能竞争持续升温的当下，围绕 DeepMind、OpenAI 与 Anthropic 的讨论，已经不再只是“谁的模型更强”的问题，而是逐渐演变为一个更深层的命题：顶级 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=2&amp;sn=22341a4f7351c8d5739ab67ec79bb7d5&amp;chksm=bc55171f22843bbdba1b9ab48b833c577138eca5b5e86c15ad15f0bd4fc223c089d491bd1d93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自动驾驶优化：从复杂性到实时工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaxOjhM8IRLsLman0KU6w8dyBmwHkN6EjmToOvicKQWrMG7N0Zn95iaMrGpJZFDvRwMib0NPnuBOIa9IasASK4fMMfh76lqc9wibnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Avraam Tolmidis 译者 | 平川 简 介 人们在讨论自动驾驶系统时，往往聚焦于其 AI 能力或高层次的伦理问题。然而，对于构建这些系统的软件架构师和工程师而言，现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=3&amp;sn=da169fe153bbd5c057195e0e64cae77a&amp;chksm=bce9a314b7cacdc19ed2fb7534cfc61cadeb2f2a94f61f93e5d0362c450a6e5c24719c249964&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ESLint v10 发布，但有开发者已经在考虑换 Biome 了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgNibKmDhRQZ7IbLoQWuOjofXwRnsWJRKYicXnzz02lo0Bicg6NGLP0HGL2ib9ViaVKJh3das3g5MFj5DWSlUMic4upynKSYQe208iaQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 田橙 广泛使用的 JavaScript 和 TypeScript 代码检查工具 ESLint 发布了 10 版本，这是自引入 flat config 配</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=4&amp;sn=5a3d00fb45346759f755b2c2c6c2da14&amp;chksm=bcc4428e4dd95d7e52a78bc936ec5b40a5d29c10d9d292dcafac85c22d3d06b69c0019d28ac3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjj9diaQoGtqzjQcHJRImBP4iaaCppASXfj1oZgMC9HNnkHf1icM5vdHxIPjcthEwMoPibVTGUmcPYxADkuyyAWZnzvUju1ib71f5g0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon 全球软件开发大会 将在北京举办。本届大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=5&amp;sn=106b5acc8c862431355cb5a51aadd74f&amp;chksm=bca5e1d12c0b36ea8e123119156cd0394ef14af4ee1e1f0edd1f4bac1569fc3ad0b1cc501e5c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Karpathy 亲手终结了RAG的草莽时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjYyqGTTvf6ZCEAIlERM7bX3HYXDibsIezbqwnRSnfE2N7K1N13MbEqotPR3Y9h6VTmeKsV3X09d7a9atUYNyBic56qCp6ibOttWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 在“每一枚 Token 都要精打细算”的共识下，AI 圈一度流行一种略带调侃的说法：真正的高手，不是把 Token 用在写代码上，而是用在更高杠杆的事情上。最近，这一理念被再次推向台前——</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281011&amp;idx=1&amp;sn=bfb28cca9dd167fb2b4497a4a5f1bd06&amp;chksm=bc458a1953cd7f1f0ec57296e646abfd67457c05a24fe49b93167680980a2ccbb29c0cafdaa8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjFkscKwZjvBrggPEx85MHX6TwjsGAeUxHibicth9gBRv7s0Tc47Cic5JY15aBicTBZGjBo0zNlllf8L1l5QjXldkgTQAtD6TGjfiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫现在，在越来越多的人看来，AI技术的进步预示着初级岗位的消亡，年轻职场人未来的求职之路将变得异常艰难，应届毕业生正身处一个十分微妙的就业环境。Anthropic首席执行官Dario Am</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280138&amp;idx=2&amp;sn=513a9fdf80bb5ce5395182341a97ed1c&amp;chksm=bc8fee79ef1b3c7d1a8ad1b76d0b4e62e828e060e028ae4323eb1b8759a1b36288def015b45e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaicsxe4Est19QVzGtMRjdCFrD2NI7auPkmxjD2ORyicwTypAc1lezYvNKp6DzYJSM1d56oCkjjBXwMFN2GPibsOfjo3XISbUdbIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Eran Stiller 译者 | 明知山 Agoda 近期发布的一篇观察文章指出，尽管 AI 编码工具确实提高了个人开发者的产出效率，但 在项目层面的整体开发速度提升却远不如预期。究其原因</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280138&amp;idx=3&amp;sn=fd930cbce93918c839b651212cec4649&amp;chksm=bcb992b02c79b49094e0563d6ceca696e4c471e33c4fbf70603c962b63df010515a8057336ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Netflix 图抽象架构解析：全球毫秒级处理 650TB 图数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiace2S7TqjK7eElIRyN2OjhV8S9ibdbWGul7haxSX9W0TgfZ6MprTFsP6GrWTrg1SicuY8hlPd1Vn8ljUleuOD4UABcJWeAx1mYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 明知山 Netflix 工程师搭建了一个高吞吐图抽象系统，用于实时管理大规模图数据。该平台支撑多项内部业务服务，包括 Netflix 游戏（Netflix</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280138&amp;idx=4&amp;sn=adb2f3d96229d8393fb79cac13d2cbe4&amp;chksm=bccf60ca594ba2b4bd60ce573f7ad4feb698f3fdc9e1864a766158e5ceed95f3867ab4469a5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj5gia70FqJ2kPW54rsEVeltDwRxjbq40Fia5ic8zpHViccOk3eiaWh4M6Fib9lvYojRhJC23oZ2dJACo6qJT42V11HHo4TMUoRibNB5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 黄东旭, TiDB 联合创始人 &amp; CTO ｜TiDB 工程师团队 1 一个让我们重新审视数据库的数字 过去一年，我们在 TiDB Cloud 上观察到一个趋势性变化：每天新创建的数据库集群</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=1&amp;sn=c97730f94cbbc6d32429d5722ce96935&amp;chksm=bca36077f1a1567a3454c430d77ee512c409478ffe73a4d6998a997c49ecfdf83e5da049131f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 一键生成网站之后，最残酷的差距出现了：代码不再值钱，审美决定生死]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjLnET0icvgdEKRbj48VX4NgoNy31RaUUPlza4mmE4GCv4iaVGP7efxyFDtyHvhw5YPmyL2bgmO7ZyyI9ibia7aHoIwicZAAfsviacU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | RedMonk 译者 | 平川 策划 | Tina 去年底，一个网站在开发者和设计圈同时刷屏——F1 车手 Lando Norris 的个人官网上线了。不是因为内容，而是因为体验：层层叠加的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=2&amp;sn=fe6b58af9559ac7a1c15878075b0ead7&amp;chksm=bc99a9d636463144fa0ed84485f607dd6cb1eb97f34590817019f0592984412357fd788f6c3e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在边缘应用中，实现 Kubernetes 的主动扩缩容]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7JUic2jSEl3ZrVJk8VEKw8zsE5HdTRDegYqpW6VYA2mYfHDZsjpib9Hk3ehejicicdOR3JpRc2KbvRhvX3XwwXYeAOuzBfGZrDZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Rajeev Kallayil Ravi 译者 | 张卫滨 过去十年间，Kubernetes 已经演变为现代 IT 基础设施的核心平台之一。它通过可扩展的架构与声明式的资源定义模型，让企业能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280103&amp;idx=3&amp;sn=a7026918ba06464f237c02d66b08a063&amp;chksm=bc66e4a4b0690f80dc513949ccb6be97366b3d29ee03e70a05e75874e94e5e1f530200d1f206&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 15:14:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
