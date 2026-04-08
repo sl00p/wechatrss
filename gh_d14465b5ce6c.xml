@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[技术教科书：顶级开发团队设计的Harness工程项目源码什么样]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904y0n7pJvVcPyyv3TX22VXklhmMwTYOFSVUuI5u2VMOAH6ibuwHmUrxUV340wBy2n0OwlBHACAOUZL5YEZpeeESKpaW8ibna6wL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charrli前言近期，某顶级 AI Agent 研究团队的一个工业级 Harness 项目源码在开发者社区中引起广泛关注。这个项目是一个基于 TypeScript 的 CLI 形态 AI Co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801110&amp;idx=1&amp;sn=27dac2e66ec72e89e07eeddcaa4614d8&amp;chksm=bf33178ad67b5811fc1d40c0faddd95d306761fcf76895355d5b077c4a015d1a90144ed6ec78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工那些“需求很大，却没人做”的小程序？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907SbPg5enMibmnAMRiavHliaTvQcXCu8icibfia5xGV2vmjRFrqebgSdnaI0IrH68Gz7IpWSEQlylgw3jySPa1LgUm2aQsee2tWWfV0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景鹅厂程序员，经手的需求千千万，但自己真正想做，需求很大却一直没做的小程序是什么？这一次，我们不写代码，只提需求！把你心中呼声很高、却一直没人做的小程序idea抛出来！好奇鹅厂的大佬们，都有什么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801069&amp;idx=1&amp;sn=dd51e63c10410fbfb0a5ce0f5a975cbd&amp;chksm=bfd62a7657edb7c732f0fd33458bb95dacd7c7ce1cfb0a3d49121a19c6ffec8898d8a4805c19&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvassJUicu9uictHibG8Ltvnwxq37NmicarkQbh7QtKbF3HuaRGsu5jEtLOksgEYJviaftXPOtsNdMGicnc2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wenconglin随着大语言模型与开发工具链的深度融合，命令行终端正被重塑为开发者的AI协作界面。本文以 Google gemini-cli 为范本，通过源码解构，系统性分析其 Agent 内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796877&amp;idx=1&amp;sn=b6783dda71ad93a9580dafa7c01e1921&amp;chksm=bf0e07c5c492cae6107499164bce5aae54072cfc847f4bf93178e225376460d661ab1791c8fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 17:38:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这大概是我见过最通俗易懂的AI发展历程科普详文了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavSZsbSmdnMumMXZibBPGboKFUhg4a6e73MSKU27z4P8erWWJibTVyZAib9pdwm2bicWZnPMOwicL7XsnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者： 丁亮亮/smallniding 本文将求根溯源，从历史时间线发展的角度一起来看看AI是如何诞生的，以及在诞生后这几十年的发展过程中经历了哪些变革和演进，在演进的过程中我会介绍大量涉及到的细分技</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796858&amp;idx=1&amp;sn=cb31a78a45462c790ab8f689d0e0e489&amp;chksm=bf97507ece341eaa40de5d5b8bc0a493643befc3ccf1fd2ae42011dcc27b0706a0042539ceba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

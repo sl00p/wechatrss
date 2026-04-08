@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos预览版，具备强大0Day漏洞发现与利用能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2BbnjB7rIdErnw2ehibS7WpTq7WxCUKr8ptWkibqyDFwpGhmiaCum3icZZRmy64wE6PYaJW8nsPT1WZnJljdIuvfrAZnRPemqf78E/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司近日推出Claude Mythos预览版，这款先进语言模型具备发现并自主利用未公开0Day漏洞的非凡能力。为确保这些强大工具被用于防御目的，该公司同步启动"Glasswing项目</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=1&amp;sn=66e5cde9adf2fb3cfdd6c8b83ed7081a&amp;chksm=bc0bc8986ebeb9f92be865736ce22a1714096b66aba39cb8af311a89d696ac900d7e3a0c9a13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软开源Agent治理工具包，直击OWASP十大AI Agent风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39vr7tz72zMFP6BJYV9BZ11aNEqV4Rb5EDgyibgoLNcSQ2R5wUN5IGVpU5u7bJSyEibywYNjD2BBt1Pty8RAllPvS82scUnfticQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软近日悄然推出Agent Governance Toolkit开源项目，旨在企业将AI Agent投入生产工作流时，对其执行过程进行监控与管理。该项目直接对标OWASP（开放全球应用安全项目）最新发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=2&amp;sn=ed2b4a8c95b5213c17c6186d966e548e&amp;chksm=bc53bfae510b3d6c074e0eb89d8b36080281bca9f28ea56d9c17624467a5171eb1543dfe64ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Docker漏洞可绕过授权机制并获取宿主机访问权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2zF8W1Ikw2Oslz7sf4U2tMcBXqWFAAqdFUnGEp4AFVECPBR7joYhqhRjVyrVicISbSFC3ZpZPvWolNUKJBN6mEMPSWsJcBL6ico/640?wxtype=jpeg&amp;wxfrom=0"/><p>Docker Engine 曝出一个高危安全漏洞，攻击者可在特定条件下绕过授权插件（AuthZ）的防护机制。该漏洞编号为 CVE-2026-34040（CVSS 评分：8.8），源于 2024 年 7</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=3&amp;sn=18d6c020aaf49b9b079a646343ad7d28&amp;chksm=bc4f5ec508a4944706f977aeb663f096819302af662a946c2844fb5ba8bb38c96655fc2a935d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Storm-1175黑客组织在漏洞披露24小时内部署Medusa勒索软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX38PhqNqiaM0GQy1gSAMTnEKrRqUBB38edT3zIsZBrWRDOP1INvWWeTiaMlqIvMEJLOFr27ECHMHJ1IlATUyRib2aNHVEY5cI3t3o/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个臭名昭著的黑客组织正在全球范围内通过部署破坏性极强的Medusa勒索软件制造大规模混乱。被微软威胁情报部门追踪为Storm-1175的这些黑客，已将安全漏洞发现与补丁安装之间的时间差变成了一场高速</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=4&amp;sn=1909ac3864a21b6064d80be9417d3a27&amp;chksm=bc73fdb7442093291de1260534af7b6b9dfa97e907fc08caf61caa3939349585253b5b74313b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic拒美军AI武器化遭封杀，引爆企业自治与政府监管大战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0B2X7vJ1ibU1vqvQBV4wuFngqMQw38WfGQmzvbwRG1moibe3jmlQ05wk6eVQTObJRHfuq47fDUpuoiaX5jXYySFqgm68pW9u4zP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心矛盾：AI系统控制权归属Anthropic PBC与美国国防部不断升级的争端，揭示了人工智能市场的根本性矛盾：究竟谁该掌控强大AI系统的使用权。这场始于合同与政策分歧的冲突，已演变为涉</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=1&amp;sn=e35daf7ae12fedc1a10d652fe8d2944e&amp;chksm=bc4266160b9b8ace19d48b63fbcbf8f7e176e1d56fa31e4e2b8bdb3fd966616dd334fdd4138a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3icLg5tAmetHbJQNjibjge8hyNRJOhsswbEK6GAG9lqmwbBKUwZ8F5YOpOTwlbANXZOQ2puTCRlhTM4ibhhaNRrcLjbjO3kexJ2Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击概述安全研究人员发现一场精心策划的新型软件供应链攻击正通过 npm 包注册表针对开发者，攻击者利用虚假安装日志掩盖恶意活动。这项被命名为"幽灵行动"（Ghost campaign）的攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=3&amp;sn=1a81a2c524550c64a33d41e4d061797a&amp;chksm=bcc192b3b27ba563ff8a658d10ef420d41a8222da014c3f3685cb0e7dd92f4d6a1540212e43e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[思科安全防火墙漏洞可导致攻击者以root权限远程执行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2b7qqicee66CrqvTaMaYuicEibjmPSlh4YpXl3oLDd3xF8CLGuxTh8XGJVLb33xZYNglFueo5I7oMqpbTAdqeYTW4SCb0e0scr3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科发布紧急安全公告，披露其安全防火墙管理中心（Secure Firewall Management Center，FMC）软件存在一个高危漏洞。该严重漏洞允许未经身份验证的远程攻击者以完整 root</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=4&amp;sn=af6cf6400814910b0f3099d87495d048&amp;chksm=bce50eaf5a2b2ba7c453f78aeaaa9b2b750070db3b5d671797df6eb80d195344d685e11fc2c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ClawHub漏洞可操纵排名，恶意skill登顶引发供应链攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0l42XGicSPg0mEMTdEZs9nc0P3icvZ1CIjAgCxazptYZ59zicy47tw6VQ7M5snVMnFH8UIp72SU0ZjeyaXKU2KRXGjy6qSPlqNeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述安全研究团队在OpenClaw智能体生态系统的公共skills注册平台ClawHub中发现了一个关键漏洞。该漏洞允许攻击者人为虚增恶意skills的下载量，从而绕过安全检查并操纵搜</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=1&amp;sn=98870e6eabca8a43fb372414b7f38e00&amp;chksm=bcf1d54d5c921bdd5b5ea827a7deb98bf802c82898421973877331f2cb10bdc7a87974a1ab05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客伪造OpenClaw代币赠礼，GitHub开发者钱包遭清空]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gNqPOCRRjoibDR2bPhIxqV60iat2wzPl1d7aFubLXicJeOeWYV9qRnJ0L84Lia17mbFK0PNSibqJ4aWWPhLO0NF6KlGmtbibUM2aRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>参与OpenClaw项目的软件开发人员正成为一场旨在清空其数字钱包的危险钓鱼活动的最新目标。安全研究公司OX Security最新发现，攻击者利用GitHub自身通知系统，将毫无戒心的用户诱导至欺诈网</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=2&amp;sn=aff88b88e3c881fbc9063519f5c4344d&amp;chksm=bc8c88115199edbe45b43460c702fff9af1fba832dcaa2e04640eace4684c0930269383a0144&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意LiteLLM版本与TeamPCP供应链攻击相关联]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XEISEqeu30QCzXYTWB5sqYJBaBWkGK1Y9dJjlOWT2V285GcuiczWsAw2ia2rSA9TKBhcFKrMTRyR8hJsMqkrRpON97uiaSPjPQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁组织TeamPCP疑似通过Trivy CI/CD漏洞入侵了LiteLLM的1.82.7和1.82.8版本。LiteLLM作为月下载量超9500万次的工具，可帮助开发者通过单一API路由大语言模型请</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336454&amp;idx=3&amp;sn=a6a0e078f77ce000456250a6ab3dd3dd&amp;chksm=bc00c56a2ad3c8b72793a598f3fc7d6e156c744ea04a0cf822b5032021a756badf1eed6f3fd5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

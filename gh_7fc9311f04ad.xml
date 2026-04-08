@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDD-RIPER 团队落地指南：如何让整个团队在一周内跑通大模型编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zSFEH7uUHcGfUg6XhdGO2hjHRmxd7o9vaMRHSrgBYstEnfmyG3icgOztRFiaFZNowFq6ubqLHcVw0BDrDsfrfxYRng7UaicYSuPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文给你一套可执行的团队落地方案：从安装到试点到全面推开，一周内让整个团队跑通大模型编程，并且质量可控、效果可量化。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559431&amp;idx=1&amp;sn=e62c3abeaf14878527e5afbd5ca86a30&amp;chksm=e8c74e532520bcb9198228f405efa18d0d6e0dd4300c5cb04dbf24db3d0716629a2212087064&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI数据工程师在应用中如何"返璞归真"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wTSuFz8aEia67kFibWd4KSU23YFxk2jtQtQ6McnDXCRMaAYNib1A5aUVyicibCK2I53zlicJ3As1CdWgtm4jv6ibpmzJD5f0OCyhl0no/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文反思了“知识库+Prompt工程+工具调用”这一轻量级Agent构建模式的局限性，指出其难以应对真实业务场景中的知识质量、语义理解与规模化维护挑战。（本文内容基于作者个人技术实践与独立思</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559430&amp;idx=1&amp;sn=73b361c0a8ad5623a48b67da01dae3fc&amp;chksm=e89d6b30cdc26226305e81bff1d6b68306e0292cdd8f8c710f1353a868a35185875ee0153a87&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKD7mnQMc2fMOGNBEPC3WyOl3HRQCUJaNQ8Bibb8XicicOjSkoqypIvQAianibB0XvIPBec8YZ3FhMzGaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、痛点当前用户撰写提示词存在很多难点：可能表达不清楚，存在遗漏、歧义；知道的提示词框架非常有限，很难挑选最适合的提示词框架；知道提示词框架自己套用非常浪费时间。当前很多提示词优化工具的主要缺点：缺乏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557769&amp;idx=1&amp;sn=25073739d70b5443176974b3925d4670&amp;chksm=e8b2719b025618fd8330a8119477a07d8771b6ca6e67a2719c2741caa3ba8e0e604ea72b804e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多 AI 协同 + SDD 编程实践：一个 AI 全流程交付实录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQA5RcIlKmJeR4uhyibz775jxjTYfj6P63oJ8ODR5rvlBwlqGUibhM6WxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言2025年以来，AI Coding技术正以前所未有的速度演进，在提升研发效能方面发挥着越来越重要的作用。Claude Code、CodeX、Gemini、Qwen Coder、Kimi K2等编码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557693&amp;idx=1&amp;sn=a904d94029bc877eb7319d096308fb7b&amp;chksm=e8e1c53532fc8fdd19d65eec924bdb7b099c363a34a8de47fa99d83bf782c2bc8c57139bcbfe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

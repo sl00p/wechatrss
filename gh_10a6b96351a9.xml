@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你是不是也觉得，让OpenClaw写个脚本、改个配置，甚至执行一条命令时，心里总是没底？生怕它写错参数，没控制好权限，等运行出问题，我们要回头“擦屁股”。 很可能是因为，你缺少了一位安全守门员skill：skill-vetter。 1. 如何安装？ 通过跟OpenClaw聊天，让她安装skill-vetter，注意，要讲清楚名字。clawhub慢的用户，可以试试skillhub源。 装好后，可以让OpenClaw读SKILL.md，为我们简单介绍下这个skill：简单来说，vetter是一个“执行前哨兵”。 2. 有什么特点？ skill-vetter特别像咱们上线前的“安全检查门禁”，它全自动、实时触发，共有四大特点： 特点一，自动拦截：我们给OpenClaw的任何指令，涉及到“执行”动作时——比如运行脚本、调用API、写入文件... vetter都会被自动唤醒，介入流程。 特点二，深度扫描：它会把要执行的内容（代码块、命令、配置片段）仔细“扫描”一遍。扫描规则包括语法错误、安全风险（像硬编码密码、危险命令）、逻辑缺陷，甚至是一些最佳实践（比如有没有用上更优的写法）。 特点三，出具报告：扫描完，它不会闷着，而是给我们一份清晰的“体检报告”，把问题、警告、优化建议分门别类列出来。 特点四，等我们拍板：这最关键的一步！vetter会拿着报告问我们：发现X个问题，分别是…… 请选择： A. 忽略，继续执行 B. 尝试自动修复 C. 只看看，不执行 最终决定权，永远在我们手里。 举个例子，我对OpenClaw说：帮我找出7天前的日志文件并删除。 OpenClaw执行命令之前，vetter会介入并发出警告：生成的命令 `find /path/to/logs -name "*.log" -mtime +7 -exec rm {} \;` 存在误删风险。建议先改为 `-ls` 或 `-print` 预览文件列表，确认无误后再执行删除。请选择： A. 直接执行（风险自担） B. 改为预览模式 C. 取消 以此，来让我们二次确认，提升执行的安全性。 最后，再分享一个高级技巧：vetter和之前介绍的self-improving-agent是绝配。self-improving-agent会去观察和学习我们对vetter提示的决策，来实现自我进化。 比如，我们每次都选择“修复”某一类安全警告。时间长了，OpenClaw自己在生成代码时，就会主动避免这类问题，实现“越用越聪明”。 限于1000字的篇幅，skill-vetter的其他特色，大家可以和她自行探索（详见SKILL.md）。 还是那句话，出来玩嘛，凡事，安全第一。 希望大家有收获！]]></title>
+      <description><![CDATA[<p>你是不是也觉得，让OpenClaw写个脚本、改个配置，甚至执行一条命令时，心里总是没底？生怕它写错参数，没控制好权限，等运行出问题，我们要回头“擦屁股”。 很可能是因为，你缺少了一位安全守门员ski</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980998&amp;idx=1&amp;sn=a872b0ce4aab3901a7cf29a9bff3bd1f&amp;chksm=bc1e4b4716bd79b0551fe66596d82fab85fb6586c1ca95b8ff3fad9013f842abde9d2ae26258&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 08:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw怎么知道要去调用哪个skill？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcsWESuib8wEIpwUbI1Lo9f0TJicbfVjcRR9ibaefYiaHM2tjGpMaMsiah9Vrd2xXqZG2s4tNuMxEOLt5W7qy7Ga1iaWfNcUDBqrAFsc/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980995&amp;idx=1&amp;sn=08cd0250e6de444290e6456e3a74acee&amp;chksm=bc6f076375118acd8cdca56d23e22cbf7fa6f03f4f2d0892e6bcf31e709ffd377316f554c131&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>裸辞这事儿，除了自己，最受影响的就是家人。很多人好奇，我家那位怎么看？会不会给我很大压力？实话实话，我这次能下定决心，一大半的底气，是老婆给的。 首先，我在职场最后几年的心力憔悴，老婆是门儿清的。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980543&amp;idx=1&amp;sn=12046f33aa6111726a90b668f9e659e6&amp;chksm=bccf058d2bcaba9e9a85ffb3f5023fb448ee949ab9ea02bcb36a8cf0f8d24d1193c5de34b090&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Feb 2026 11:50:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[25年，很多人问我这个问题。其实吧，没这么复杂，就是最近几年干得不开心。 怎么个不开心？ 整个人负面情绪很重。 怎么个负面情绪？ 就是一种说不出口的、全方位的“愧疚感”（愧疚是最负面的情绪之一，另一个是恐惧）。 怎么个愧疚法？ 内心充斥着三大愧疚。 第一层愧疚，是对公司，对业务的愧疚。 你有过那种感觉吗？带着团队拼命冲，但市场环境、竞争格局、行业周期摆在那里，业务就是摸到了天花板。感觉到有些仗可能打不赢，但肩上扛着责任，还得带着兄弟们一起冲锋。那种“明知不可为而为之”的无力感，特别耗人。​ 觉得自己对不起公司的信任，也对不起自己那份“要把事做成”的执念。 第二层愧疚，是对下属，对兄弟姐妹们的愧疚。 这是最扎心的。早些年，拍过胸脯要和大家一起“喝汤”。跟着我的兄弟姐妹，都盼着能升职加薪，但公司层面要降本增效，没有涨薪预算，人员还得精简。作为管理者，一边是公司的生存与发展，一边是兄弟们的饭碗和期待，被夹在中间。这种撕裂感，每天上班都是煎熬。 第三层愧疚，是对家人，对老婆孩子的愧疚。 那段时间，闺女问我：“爸爸，你什么时候能来接我放学？”就这么简单一个问题，我愣是给不出一个确定的答案。忽然发现，拼尽全力想守住的“事业”，正在让我失去更重要的东西。​ 这种本末倒置的感觉，让人特别心慌。 愧疚，不开心，疲惫。那种对业务、对团队、对家庭全方位的“愧疚感”，耗尽了我所有心力。我发现自己的状态，已经无法对任何一方负起真正的责任了。​ 继续耗着，是对所有人更大的辜负。 承认一个阶段、一种状态的终结，需要勇气。这不是什么潇洒，我觉得这是一种清醒的止损。 不知道你有没有过类似的状态？ 我想说的是，如果你的核心价值已经无法在当下的系统里兑现，离开不是失败，而是对自己和他人最大的负责。 无论如何，25年我按下重启键，重新出发。 自勉！共勉！]]></title>
-      <description><![CDATA[<p>25年，很多人问我这个问题。其实吧，没这么复杂，就是最近几年干得不开心。 怎么个不开心？ 整个人负面情绪很重。 怎么个负面情绪？ 就是一种说不出口的、全方位的“愧疚感”（愧疚是最负面的情绪之一，另</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980542&amp;idx=1&amp;sn=ba4a001bdb3220b6161b486b1a6c2c2e&amp;chksm=bcec43d94616129d20d33a59eb42e0f88bec7560f7bba9d815db9f2ce74453221d899298b940&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Feb 2026 11:50:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

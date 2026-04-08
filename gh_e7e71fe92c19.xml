@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=1&amp;sn=af97f110f6cd3563072ee349bb998914&amp;chksm=b011a1dcf4d7b1d952cbe2d6e62e1ff0f7d77ce626704a1c06d2d372c66fcf103aa870e81847&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[间接提示词注入和供应链投毒，正在威胁你的 AI Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3YUvsnh5LYE2h55kPJ0siczbSDPibbibP3z2icQNZWm9UeuiaRfmvcem6QNUq4P8z1o2A5N1QzD8toAl81lRcgicPLjhMibEUtOLHhqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、AI 是怎么学会"拒绝"的——安全对齐简介在聊攻击之前，我们先了解一下 AI 的"免疫系统"是怎么工作的。如果你直接问 ChatGPT "怎么造炸弹"，它会拒绝你。这不是因为它"不知道"，而是因为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=2&amp;sn=0c165669d97bf7e09c7e678481a87156&amp;chksm=b059cafe06157faee71c381f86737db66967bcd79545a8fc8af17c7dfe5bf997ecdb552f5ccf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[未完全修复旧漏洞！Docker Engine新漏洞可致容器逃逸与主机接管]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaoGYtvE8GVOPickX4tc02ntYTuMriaQM0uOrgLNTEAw1xqhGEkqNA3aNucXdICd8VEXqVDBClicTaxGv0EEk8ic6sgnicAZ8I2E9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Docker 官方披露了一枚高危安全漏洞（CVE-2026-34040），该漏洞存在于 Docker Engine 中，允许攻击者绕过授权插件（AuthZ）的访问控制，进而可能获得底层宿主机的非</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=3&amp;sn=6eb93ad2f08d3e6ef4629b8c9e5e0660&amp;chksm=b050bbe90db3e725a46e731b368fc0d1ba671a9e0409975f4374efebe524fa10599409f7f4e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从“用设备”到“造环境”：CVD正在改变整套玩法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613072&amp;idx=1&amp;sn=ea660a74bf715d0c9813657d6da83622&amp;chksm=b0d83ca65682a598be3b46192a24f3d4f51240b378bedfac5e4a45f730999a493065f97d5379&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳软牛科技集团股份有限公司 职位经验/学历薪资地点逆向开发工程师应届毕业生/本科面议深圳高级逆向开发工程师3-5年/本科面议深圳长按识别关于岗位详情及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612340&amp;idx=2&amp;sn=49a44bdf2219fe22c1e6d876f75adc43&amp;chksm=b047cfe63f0c4258d404ca297cba9a20b463e7aa83453ccd5ef067d0b3d7909507b6dfedeb10&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 17:58:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[顶级iPhone黑客工具“DarkSword”曝光：六连环漏洞，多国用户数据遭窃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EdkYYTB7v5FW8urI0ksicbOYXAJ4T94ZGM8SekjBvyytPCO1e5oQ9bib38AsmMKpyNePZC5zp7Afo5cfekibc0TDtONz6JFfcUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为“DarkSword”的高级漏洞利用套件，自2025年11月起被多个商业监控软件厂商及国家级黑客组织使用，已导致沙特阿拉伯、土耳其、马来西亚和乌克兰等地的用户成为目标，其个人数据面临严重泄露风</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612340&amp;idx=3&amp;sn=9fed8531874e9998ddb80e6c5fc54c8e&amp;chksm=b03274f5873d40db5b6fa888372cb899fab7d5f8cff524a038098791e8db755f71811894bd90&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 17:58:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新课火热报名中：效率提升10倍！高版本VMP逆向+插件开发全流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612340&amp;idx=4&amp;sn=d6208449cddc5adfdb594881b929ff75&amp;chksm=b0857a654baa3c32c9c3f9d5271bca4075bc2f938fe9956d21393318566a184e6c5660eac27f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 17:58:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI静态分析，内核模块隐藏 Frida 特征，绕过linker私有结构遍历崩溃链]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1mQic9mIGbOXRMpFyHiawLF1skonK9BUoOiaSX2x1nwIGBjDRFnaROxrzyiczbTibjdAJ43dRDfoAQ5YXT0O5viaO7HIAYm1ZZ29F4s/640?wxtype=jpeg&amp;wxfrom=0"/><p>某sec.so反调试分析：AI静态分析+内核模块隐藏 Frida 特征+绕过linker私有结构遍历崩溃链。1.背景介绍跟随feicong大佬学习后，对某sec.so进行了反调试分析，发现其反调试手段</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612335&amp;idx=1&amp;sn=ca23336eef45a4993cc6e5b191e62a61&amp;chksm=b0f211dee4bc3e78882fe048e0315bd1ab8ded03a7a0b9aceaaddee671358c53a2f253a79cab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 17:59:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
