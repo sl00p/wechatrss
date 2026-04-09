@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[自掏腰包一万元，拥抱AI这一年，我的工具、实践和思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6aVHeI8tnCnkWrGgDxovykgfuyHyrbWv5KlavygMxFhArHKY9qqUFDl7Fv6OIKk0YXSOsHmElxmb49x7XxS4vYC6rCQX2fnUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我应该是比较早就开始关注大模型，并且也蛮愿意积极拥抱 AI 的同学产品体验方面，付费使用过的产品就包括但不限于 claude code max、gpt pro/</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695194&amp;idx=1&amp;sn=030591ea76020210c5f06692fb30243f&amp;chksm=eb0c6f88453207f0a8a238dfed50445cd1d34bee36d216e0f3cd4ef517ce7361a301c69b7463&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[办公Agent的CI/CD时刻到来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4a7W9U3UxC9eMeKMEDpC8lTLgvYqYMNQhknwy8bolib6Xqr8UDbT1fibfZEQOYqibBAQTtu9nyib9LNvy2o3Ucq9slIuEa6KnH1F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇还记得手动部署的古早编程时代吗？代码写完，打个 tar 包，开 FTP 传到服务器上，SSH 进去解压，改配置文件，重启服务，刷一下页面祈祷别 500。有时候还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695184&amp;idx=1&amp;sn=f48d917721d119b4634ca01619b8bcd8&amp;chksm=eb6c814e73c86e9e132fb2512449b6104cd7a56c14a0eec73bbbc0d60a2a06974e05ece511dc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe964OWuyf3G2qRNUePu3hew2ibt3qetvbVpyBXcOck22yUD1WE7fdZg1Insd9bDnObIVl9Ck6U0icT4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 写在前面1 知识库是什么2 知识库核心业务流程3 知识库架构设计4 成果与业务价值5 总结6 体验ima，感受AI驱动的知识管理知识库作为IMA的核心功能，合理的架构设计是业务发展的重中之重</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693717&amp;idx=1&amp;sn=487033b658ab0d4bd077f36122cf056b&amp;chksm=ebf9c1d41955b7288c8c13789d26e7078d9ea47c4acc8e52460d55d13e17bf1d5006dfb81339&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent全面爆发！一文搞懂背后的核心范式ReAct！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96YjWnY38RLCrB8dyyJRsR8gJhQ55bKOBjkouVwFYgJMkBPPXtxngicT4Urf32Zp6Ge5DR02kjQvGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 什么是ReAct？2 核心思想与设计理念3 ReAct工作原理4 ReAct技术架构5 ReAct解决了什么问题？6 代码示例7 ReAct的应用场景8 ReAct的优势对比9 一些思考近一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693710&amp;idx=1&amp;sn=27fed3a8274bcc16764b1323d6c6981b&amp;chksm=eb352f664dc1c80eb9a96fe431c60a11bf47be29eca5c36854c7c3d8c632426c0bf6cf84fd07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

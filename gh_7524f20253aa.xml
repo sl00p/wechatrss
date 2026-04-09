@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude 10分钟揪出Apache ActiveMQ潜伏13年的高危RCE漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3v5ltfZkzYib49m04aR7Eibxn6HboiaergcZ4lmlOibFxiaB36agJibbFCib454S3cGFatKKq9aqfl6icVjwEBhYz1tDagHMMCFBjYZlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache ActiveMQ Classic 近日披露了一个存在十多年未被发现的严重远程代码执行（RCE）漏洞。值得注意的是，这个漏洞并非由人工代码审计发现，而是 Anthropic 公司的 Cla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=1&amp;sn=280cb179d42399e600f833a4ac4a9880&amp;chksm=bc2edc6ea89d03b9edb7ccf5eedcb2bce55a0504f74eefa0464a1899a5820ebaa051c38f7fa2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ISC.AI 2026全球议题征集：定义智能体时代，你的声音就是未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3eDUhI1ib1J84hvZ6jaJES7aRbrUxednIrEKDQG4zC07cWDKcOnCwd1vEbp4uV6dLu5oDVrsv5PStq1ffiaeNeXoJ3oicCltNgXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月9日，ISC.AI 2026大会正式开启全球议题征集。本届大会聚焦AI从大模型向智能体演进过程中的技术突破、安全挑战与产业重塑。即日起至5月15日，面向全球人工智能领域的专家学者、技术从业者、企业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=2&amp;sn=c35d7aed12222fd490106999fea4163a&amp;chksm=bc8a6bf7685aab3f265fdb522149ebc6cfd9b2cc81a2ec1337c227b26daef3515ba5bcb39532&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌预警量子威胁提前，Cloudflare紧急调整加密战略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2WAAicuTIu6XbEh9XWIyyxz4LYiaTF7RDtIUEYpVAzzhcz8LxDHic6AMMa5DpIBdzmlzNiaKawBE6Qltyib6VRdeibt66dBjoWgc4mw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌提前抗量子加密时间表的举措正在引发行业连锁反应，包括Cloudflare在内的科技巨头纷纷重新评估自身战略规划。美国国家标准与技术研究院（NIST）此前设定的传统加密算法淘汰路线图要求：2030年</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=3&amp;sn=b0b5a223bfc082e78b5693e72daeca19&amp;chksm=bcfcb8f3ed65c0c0a97d16629ccbdc4e86b17588e7e898e34ff1d3450ac5c81df1463b0336b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用Kubernetes配置错误从容器渗透至云账户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3xkHr7LDovobqZNticT0iaQRqXwywYbCyhIgCjaJ8RicqVL71KUeuy7l7lib3y4nfXnKyHkGsHCKMs4icbJfHMDIEMVoRR2TUjEBtc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Kubernetes成为攻击新目标Kubernetes已成为企业环境中管理容器化应用最广泛使用的平台之一。但随着其普及度提升，恶意行为者对其关注度也同步增长。威胁行为体正利用Kuberne</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=4&amp;sn=485fb362b9e62e08c991e7f05b96ee4f&amp;chksm=bc8047a53d712290e7204b5413f112b8ff4535992680a3d51f54656ac90b689df04ff8b06aae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Mythos预览版，具备强大0Day漏洞发现与利用能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2BbnjB7rIdErnw2ehibS7WpTq7WxCUKr8ptWkibqyDFwpGhmiaCum3icZZRmy64wE6PYaJW8nsPT1WZnJljdIuvfrAZnRPemqf78E/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司近日推出Claude Mythos预览版，这款先进语言模型具备发现并自主利用未公开0Day漏洞的非凡能力。为确保这些强大工具被用于防御目的，该公司同步启动"Glasswing项目</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=1&amp;sn=66e5cde9adf2fb3cfdd6c8b83ed7081a&amp;chksm=bc0bc8986ebeb9f92be865736ce22a1714096b66aba39cb8af311a89d696ac900d7e3a0c9a13&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2guROCpv1VGKGJSjohfrGsDfBm5oGo37Ox04NxzBHVXu2GkFqw5icpfRsTsiczAlkPQUueD7aOUaJoAu5n3blMiaoQVJkcmsqdXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>卡巴斯基研究人员发现，Coruna iOS漏洞利用工具包使用了2023年Triangulation行动中相同内核漏洞的更新版本。虽然早期证据未能明确关联两者，但代码相似性现在暗示了它们之间可能存在联系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336509&amp;idx=2&amp;sn=b36c1cce4e6b3882df5eb8e4b4b3fe42&amp;chksm=bcf01132c8fa17c0cab173a5fc79f181f21785b98f13d4b574e85338c30e9d2a0188abe4a2e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Mar 2026 12:13:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ClawHub漏洞可致恶意skill登顶；Claude Code允许AI自主选择操作权限 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🧑‍🔧ClawHub漏洞使攻击者可操纵排名使恶意skills登顶🤖</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336509&amp;idx=3&amp;sn=00179011cc231ee558b6c2140fe9d612&amp;chksm=bc45d7884e1ac8419df6713f7452e9d72ea7ec5a2b7d1eb8e0e8752435a57f39403830fe9b38&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 12:13:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI重金悬赏AI滥用漏洞，50%复现即算有效]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0m0tKtdib0ImdjSoiaKAzredezwvsTSuHrghJPiaOdVPenFicU3ibnicuCFUzZ0JoqNcHn9xH5rA8icVJAzBjgpGCnwibFZCVBlfNE9gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI宣布启动一项公共安全漏洞赏金计划（Safety Bug Bounty），旨在识别其产品中存在的AI滥用行为和安全风险。该计划托管于Bugcrowd平台，标志着该公司在应对传统安全漏洞范畴之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=1&amp;sn=461fa672b80793ba929010a30401dc1f&amp;chksm=bc10efa818b0933e98790d385670e55c1e04b69b301df94e387012223b2fb0beb2edb8e46584&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2QnYvu5QtctQiciaFMQLveH9LhXjOickPJpUYZoxCYZek9ftXiasia60qniaQeCK10Zxu55tFQ3KFjhaylcibynbFtWwyVZ6icAEMdTo8/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了Anthropic公司Claude谷歌浏览器扩展中存在的一个漏洞，攻击者只需诱使用户访问特定网页即可触发恶意提示注入。Part01漏洞原理分析Koi Security研究员Ore</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=2&amp;sn=a17a7451244ff069465de8084aef89e4&amp;chksm=bccfcc21f6e8fb717854ca313164b8ea21949db953c22d4fd54506510a10e3ef92b5205ba2bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型开源供应链攻击，虚假npm安装日志暗藏RAT木马]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3icLg5tAmetHbJQNjibjge8hyNRJOhsswbEK6GAG9lqmwbBKUwZ8F5YOpOTwlbANXZOQ2puTCRlhTM4ibhhaNRrcLjbjO3kexJ2Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击概述安全研究人员发现一场精心策划的新型软件供应链攻击正通过 npm 包注册表针对开发者，攻击者利用虚假安装日志掩盖恶意活动。这项被命名为"幽灵行动"（Ghost campaign）的攻</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336490&amp;idx=3&amp;sn=1a81a2c524550c64a33d41e4d061797a&amp;chksm=bcc192b3b27ba563ff8a658d10ef420d41a8222da014c3f3685cb0e7dd92f4d6a1540212e43e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

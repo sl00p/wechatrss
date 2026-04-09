@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当前的上下文方案，本质是暴力破解！DeepMind 创始人：忽强忽弱的 AI，才是真正的灾难，突破在记忆系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgUIYA3NtuswF6EcKfXfibq2PLkjibb1UORhLGbnngNuWcLicW3nQ6H4DG34PpiayJ3VVs8qWY4Ezib23dxQ3zmvsdRbkh6ial61qYHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 在人工智能狂飙突进的当下，一场关于 AI 技术未来走向的深度对话在知名播客《20VC》中拉开帷幕。主持人哈里·斯蒂宾斯（Harry Stebbings）邀请到了全球人工智能领域的泰斗级人物</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281304&amp;idx=1&amp;sn=773e8504910d737f6f7e3d4d5e08eb9d&amp;chksm=bc23842bd36c60d9f84b0ad07882996762fa672d9511dc46fdf21bf403d1c6d2315aef146039&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 14:10:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[生成率从8%到60%：快手智能测试用例生成系统的四阶进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhKib9BMjOrFK5sy51aQ1IYjXG9IRhiaptQIxicj7y0BCDhcNg5yNlRo3R1cfyoJbaVXubxMZcwqRtodJFYJzn110KfUEgevmr7fc/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载来源 | 快手技术 概 况在《采纳率从 7.9% 到 54%：快手智能 Code Review 的三阶进化》中，快手研发效能团队重点分享了智能代码审查系统如何通过质量过滤与知识沉淀，将 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281304&amp;idx=2&amp;sn=7bdc8ae5c433bfe39a9bf82c9ef95151&amp;chksm=bc5bc3d24df77e31f2a41fe08d90f3f13f850eabb9dbc7381a7db020fbbb2f961ddd2ee6d243&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 14:10:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[银行业云原生事件驱动架构实践：经验与教训]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhoNABbl0ibdic7vNJhkMWtCOIVJw7bLPNVibDAWLialMm6fRXoscpAZIuyzUW65ZcZh3QDjZfE3MxFQo9grGSKPd6BiaeWoib96gghk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Chris Tacey-Green 译者 | 明知山 在探讨云平台与强监管行业中的事件驱动架构时，先建立统一的认知基础十分必要。这一话题吸引着背景各异的人群：既有亲历过分布式系统实际挑战的工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281304&amp;idx=3&amp;sn=bf6e60b2849e9a416ec96b9b12f22fba&amp;chksm=bcda98937e5db39cd6d52d07ddf7d67a879ed7598f490f117c0dc6c4286de94458c179dbd085&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 14:10:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 如何用 AI 重构反馈处理机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj8aYRBnHgm7iapVa57Nhjib7ynUjQicEm2ibv0A1icr2Wjq8DWsicOaeGMB8FVOg7DTZnn9CsbrBZ1gNyLDCCq7xmtiaoibh6INV0IKUE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 田橙 GitHub 引入了一种自动化、持续的、由 AI 驱动的工作流，将无障碍反馈转化为跨产品团队跟踪和优先级排序的工程工作。该系统基于 GitHub A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281304&amp;idx=4&amp;sn=e911c7126a6a9a633939d0eb4da1ac0b&amp;chksm=bc2b5c7b2edddbeaf31c3ad158834b9be61bfe74b0098bd35e964ef841540fd3571f7e129a90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 14:10:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[杀死“流水线”： ColaOS（ListenHub）如何构建 AI 时代的液态超级团队 | QCon]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgzGupco0JkbsaxFnE4N55A2AiczzaEiaJY5v1W4w2v6cHYiaQeV6wiaR59bJtSYeOiacrRSDRyoz5OGV5ra7sS6455IuGkOkibSUOZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>从从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon 全球软件开发大会将在北京举办。本届大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281304&amp;idx=5&amp;sn=2a2a87a7718a98b44076184738394c6b&amp;chksm=bc5bb141eec3c7ced878bed2d36476eba1c87f99d3f7673851553fc7cba8597b2022c7463df2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 14:10:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从业务场景到组织体系，“龙虾” 如何走进企业]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgBqLR8hia2mfibzfq2eZwhQ5Hx5POn9eaabic2CEJJfrjRmVgLQRJ58kqbzOut7I53SpUMiazCnfNTJbeveKRgtFpqiaI5TC683TGE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 付秋伟 “龙虾” 火起来之后，最先被看到的，往往是它的执行能力：抓网页、写报告、调工具、跑任务，甚至在某些场景里接管一部分重复劳动。过去几个月里，围绕“养虾”的讨论不少，但很多讨论仍停留在个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281239&amp;idx=1&amp;sn=dd47cf37160cfd67faf5574269ffe61d&amp;chksm=bc959c7df6f8d925071be94d5f9ffb96b7033543ef7a3e70c22381c950cac342b5afeb3d1b73&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiar8BCYtiaRVcDpQZfRGiasPGUYqRgNKpLNPCotXWQpgrgXWqsvHDmSVAwYz1TqvCWA9GicstjhejbXINSqJ5UTNSq29erAz2llHY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 姚戈 过去几周，国内各大厂纷纷推出了自己的“龙虾”，而阿里云在这条赛道上的动作尤其引人注目。2026 年，阿里云通义实验室旗下 AgentScope 团队开源了 CoPaw，一款本地 / 云</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280425&amp;idx=1&amp;sn=0197a4b941a377b43cf57c8214c56e40&amp;chksm=bc630c4f9f026441b422862f11b12b7defbd2c2bc0280bde0fb0aff003bb1da2a6297dd1245d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 15:54:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhm9f6wx9t5E9fQ0dR8WuPmDNmaJ85tL1ScMRhV5WNPLjvdoOCbxQe08A8mqLNcicWXRWlNZKm01vHNefzibyciboFeXc8yRTdibQk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 策划 | Kitty 编辑 | 宇琪 随着大模型 Agent 从实验原型迈向核心业务生产，工程化的重心正经历从“验证可行性”向“追求确定性”的本质跃迁。Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280425&amp;idx=2&amp;sn=53bc9ca675780bdcfef972be1996bcd3&amp;chksm=bceca00586fca065e7f0fbc785ea20439b4a08365bb2700bbfc0e18e75930272fbe0edb8e9bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 15:54:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhsmY8oZEWvtS9SuOQr6mcQd11AcczDVjDtfuXvIPPhsH06GWrBGuzJxKaqU3hg1ic2sBiaMiaSyeppriaib82eO706QfP41kwYlXFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 允毅 2026 年 GTC 大会刚刚落幕，黄仁勋坐下来，接受了一场长达两个半小时的深度访谈。访谈中，黄仁勋以真诚分享的态度与极强的前瞻性，拆解了他如何看待产业拐点、如何做出判断。二十年前，黄</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280425&amp;idx=3&amp;sn=e0b587690ed2ce245ac5d644dfd7bceb&amp;chksm=bc4ef2e2959622410aa53702e8658e4bda712be74af6aefd60da94b4650d8e1c6e152a38e723&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 15:54:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Sonatype 推出 Guide，强化 AI 辅助代码生成的安全性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhSYw2zw8c96gQHxlicnDtY6Hqub2f3eLKiaOtYZapomGVCCOte2a8uCucaBgJaXKicvTIrQLRJHoCwgbUia6aSzaaV8wzSCSfrevQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 Sonatype Guide 是一个实时防护栏系统，部署在 AI 编程工具与开源生态之间，能够确保 AI 生成代码所使用的依赖项安全合规、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280425&amp;idx=4&amp;sn=10561c288f7329036c3a128e349a84e6&amp;chksm=bc979b863459cd1b99b1f6055335f4b9262a74d5b9d0ea822f6b1e13f6add29651a3abac6e07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 15:54:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 过度设计，甚至不该给普通人用？OpenClaw 背后的Pi只留了 4 个工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj2dUlUuzUdqtjMLmSibQIJJgyxib7mV22cleia4RiaMNnHhADdvEHiaGck5sicMtuXk1fNQic7Rho7DS66vibaiatJibx3cjwu4GF3rz8Ik/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina OpenClaw 火了，支撑它运行的底层引擎 Pi 也随之进入了更多人的视野。它的作者是 libGDX 的创建者 Mario Zechner。一个写了 30 年代码的人，在被 Cl</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=1&amp;sn=4ba4c2ab4cb2bef777168e8a605e0dda&amp;chksm=bc7a44cd0d398085ec0d2fc4533eda53cdd708925f4709ae3c854daa906b830178388d9b95d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AutoGenesis：基于 AI + MCP 的跨平台自动化测试实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiavPlffHMACu6jh0EXxv1QAIibu4fzG5pbE1OYunhoflkS9IvauDvbsicMkyswQRJ4mKia4yF2222ZbNXEOMpb1KdSuGpzGicAnibXs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 熊月，Microsoft Edge QA 审校 | Kitty 项目贡献成员：芈峮、佟玉、刘竞屏、王政达、熊月📂 开源地址：github.com/microsoft/AutoGenesis自</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280184&amp;idx=2&amp;sn=d4fdbed74b0ceeb7f2697d04de17764a&amp;chksm=bc9f844e59eb5644f22a074f479f55f4d9ad624ebb882fd1256bc6a158a4865edf75db114bc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

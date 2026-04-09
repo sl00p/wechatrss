@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“龙虾”也需要看病？一张旧病历，引出三个新确诊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9073unpausfqpiccgMK4HxulFcbsDydGCQ1vzGRIq7EF4zEUxqFy2xeICibgDqdOg1Y1RZjVeKhvg3JVzricrVMqpqqqf8mKKXWeuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：悟空代码安全团队本文是悟空Agent泛化能力系列的先导篇。我们不展开技术细节，只回答一个核心问题：为什么悟空Agent在漏洞挖掘中需要泛化能力。后续系列将深入拆解泛化体系的每个环节——感知、建模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801121&amp;idx=1&amp;sn=1ae8448fe401127fbe42090329d9339a&amp;chksm=bfd8892bf5bdb3499bf69c7ff32e2def1430182aec7c1430731f5be24ebe89c2a012d0a5a0a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 17:34:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[技术教科书：顶级开发团队设计的Harness工程项目源码什么样]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904y0n7pJvVcPyyv3TX22VXklhmMwTYOFSVUuI5u2VMOAH6ibuwHmUrxUV340wBy2n0OwlBHACAOUZL5YEZpeeESKpaW8ibna6wL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charrli前言近期，某顶级 AI Agent 研究团队的一个工业级 Harness 项目源码在开发者社区中引起广泛关注。这个项目是一个基于 TypeScript 的 CLI 形态 AI Co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801110&amp;idx=1&amp;sn=27dac2e66ec72e89e07eeddcaa4614d8&amp;chksm=bf33178ad67b5811fc1d40c0faddd95d306761fcf76895355d5b077c4a015d1a90144ed6ec78&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauTxGicHcQwCSLTK9l1GCUTTxfvFNJPwjePQgKEwTQskYIHrZAEMmEREysHhhZJnzPtIwib6GO0fHkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景某天你敲下一段代码，堪称“神之一手”：也许是一行把复杂度打穿的重构，也许是半夜排查后的关键Bug修复……多年以后，还让你回味无穷。所以，你还记得当初的代码片段吗？那段代码解决了什么问题？现在，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796930&amp;idx=1&amp;sn=03e5d9de2719b5d901623555d5eaa14a&amp;chksm=bf7a2c049dc7970f5960b429a822ac2fbf255f1ddb44d93453527c73642cc64e7a7ca4c8b28b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Nov 2025 17:38:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入AI Agent内核: Google gemini-cli 源码深度解构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvassJUicu9uictHibG8Ltvnwxq37NmicarkQbh7QtKbF3HuaRGsu5jEtLOksgEYJviaftXPOtsNdMGicnc2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：wenconglin随着大语言模型与开发工具链的深度融合，命令行终端正被重塑为开发者的AI协作界面。本文以 Google gemini-cli 为范本，通过源码解构，系统性分析其 Agent 内</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796877&amp;idx=1&amp;sn=b6783dda71ad93a9580dafa7c01e1921&amp;chksm=bf0e07c5c492cae6107499164bce5aae54072cfc847f4bf93178e225376460d661ab1791c8fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 17:38:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿里巴巴：腰斩102881人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXfxx3We7oY2vkNnqDTgA4hg89iacdGCOoz1U8lQeOevibPAy0jjOWqMIbmdwic17rESLsCN2TsabDghSzDdPJaBE2N1kwrrHibv8FU/640?wxtype=jpeg&amp;wxfrom=0"/><p>还记得阿里巴巴集团公布了财报，数据显示，截至25年12月31日，阿里的员工总数为128197人，而2021年12月31日，这一数字为259316人。这也意味着，过去5年阿里员工数减少了100000余人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980988&amp;idx=1&amp;sn=fadfe4f22bc59134476a650ab0604b1c&amp;chksm=bcba91250f9fb7e212a59489caafbaf9f059aa380babcefb104ca949e333688fe1d6fdd1d421&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 10 Apr 2026 11:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你是不是也觉得，让OpenClaw写个脚本、改个配置，甚至执行一条命令时，心里总是没底？生怕它写错参数，没控制好权限，等运行出问题，我们要回头“擦屁股”。 很可能是因为，你缺少了一位安全守门员skill：skill-vetter。 1. 如何安装？ 通过跟OpenClaw聊天，让她安装skill-vetter，注意，要讲清楚名字。clawhub慢的用户，可以试试skillhub源。 装好后，可以让OpenClaw读SKILL.md，为我们简单介绍下这个skill：简单来说，vetter是一个“执行前哨兵”。 2. 有什么特点？ skill-vetter特别像咱们上线前的“安全检查门禁”，它全自动、实时触发，共有四大特点： 特点一，自动拦截：我们给OpenClaw的任何指令，涉及到“执行”动作时——比如运行脚本、调用API、写入文件... vetter都会被自动唤醒，介入流程。 特点二，深度扫描：它会把要执行的内容（代码块、命令、配置片段）仔细“扫描”一遍。扫描规则包括语法错误、安全风险（像硬编码密码、危险命令）、逻辑缺陷，甚至是一些最佳实践（比如有没有用上更优的写法）。 特点三，出具报告：扫描完，它不会闷着，而是给我们一份清晰的“体检报告”，把问题、警告、优化建议分门别类列出来。 特点四，等我们拍板：这最关键的一步！vetter会拿着报告问我们：发现X个问题，分别是…… 请选择： A. 忽略，继续执行 B. 尝试自动修复 C. 只看看，不执行 最终决定权，永远在我们手里。 举个例子，我对OpenClaw说：帮我找出7天前的日志文件并删除。 OpenClaw执行命令之前，vetter会介入并发出警告：生成的命令 `find /path/to/logs -name "*.log" -mtime +7 -exec rm {} \;` 存在误删风险。建议先改为 `-ls` 或 `-print` 预览文件列表，确认无误后再执行删除。请选择： A. 直接执行（风险自担） B. 改为预览模式 C. 取消 以此，来让我们二次确认，提升执行的安全性。 最后，再分享一个高级技巧：vetter和之前介绍的self-improving-agent是绝配。self-improving-agent会去观察和学习我们对vetter提示的决策，来实现自我进化。 比如，我们每次都选择“修复”某一类安全警告。时间长了，OpenClaw自己在生成代码时，就会主动避免这类问题，实现“越用越聪明”。 限于1000字的篇幅，skill-vetter的其他特色，大家可以和她自行探索（详见SKILL.md）。 还是那句话，出来玩嘛，凡事，安全第一。 希望大家有收获！]]></title>
       <description><![CDATA[<p>你是不是也觉得，让OpenClaw写个脚本、改个配置，甚至执行一条命令时，心里总是没底？生怕它写错参数，没控制好权限，等运行出问题，我们要回头“擦屁股”。 很可能是因为，你缺少了一位安全守门员ski</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980998&amp;idx=1&amp;sn=a872b0ce4aab3901a7cf29a9bff3bd1f&amp;chksm=bc1e4b4716bd79b0551fe66596d82fab85fb6586c1ca95b8ff3fad9013f842abde9d2ae26258&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>评论里有人问我这个问题哈，关心的地方还真有点与众不同。 我这些年，在职场最有成就感的是什么？ 不是我自己在很短的时间内，从程序员到架构师，从技术主管到CTO。这些是我个人的成绩。我最有成就感的有两点</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980544&amp;idx=1&amp;sn=227d7bf46b149c46e805ddfdfed0f1f0&amp;chksm=bcf08f9db6bf624d0ba277a395192836be5e423ac6a52ee14199e537b979f33cf580ad733583&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Feb 2026 11:50:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[裸辞这事儿，除了自己，最受影响的就是家人。很多人好奇，我家那位怎么看？会不会给我很大压力？实话实话，我这次能下定决心，一大半的底气，是老婆给的。 首先，我在职场最后几年的心力憔悴，老婆是门儿清的。 那段时间我回家是什么状态？ 沉默，心不在焉。在下属面前，可以装作元气满满，但在家人眼里，就是满脸的“我不开心”。我老婆没问我细节，她只说“要不，你休息一段时间吧，家里没事。”​ 就这一句话，真的，那种被理解的感觉，比什么安慰都管用。 其次，家里有个能接住“下限”，支持“上限”的后盾，真是一种幸运。 我老婆从来没有抱怨“你怎么能没有下家就辞职”，而是和我一起重新规划开支（当然，房贷还完了，家里也没车，其实也没有什么巨大的开支）。正式她的支持，才让我有空间，去思考真正长远的事，做自己想做的事情。​ 当然，她也说了，不要为了创业把房子乱抵押。 最后，支持不是纵容，也正好是一个多陪陪孩子的机会。 我和我老婆之前是互联网“双职工”，工作都比较忙。裸辞后，她给的建议特别实在：“趁这机会，多陪陪娃，接送她上下学啊，陪陪她写作业啊，教教她写写程序。” 她没指责我过去的缺席，而是给了我一个能立刻获得价值感的新“岗位”：当个好爸爸。​既允许我职场探索自由，又给了我家庭责任的底线。​ 这是家人之间最高级的支持：托住底线，允许你去追寻上限。 所以，你问我家人怎么看？我的回答是，当我们做出一个重大的人生决定时，家人的态度像一面镜子，能照出这个家庭是不是真正的命运共同体。很多时候，那个能让我们心无旁骛去闯世界的底气，就来自身后那个对我们说“放心，没事儿”的人。 自勉！共勉！]]></title>
-      <description><![CDATA[<p>裸辞这事儿，除了自己，最受影响的就是家人。很多人好奇，我家那位怎么看？会不会给我很大压力？实话实话，我这次能下定决心，一大半的底气，是老婆给的。 首先，我在职场最后几年的心力憔悴，老婆是门儿清的。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980543&amp;idx=1&amp;sn=12046f33aa6111726a90b668f9e659e6&amp;chksm=bccf058d2bcaba9e9a85ffb3f5023fb448ee949ab9ea02bcb36a8cf0f8d24d1193c5de34b090&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 11:50:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
