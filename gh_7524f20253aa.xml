@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[通过CLAUDE.md文件可操控Claude Code实施SQL注入攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1EMaicyJp1Uy2QkKHxqPfUOrU77j0khiaJ0nOExgIicGXfzcz5TIMoKBiaKPZ6iaImtoO7rsicIaia1Pk3AqSH8WicxSEmHKiaWZCulynU/640?wxtype=jpeg&amp;wxfrom=0"/><p>LayerX研究人员发现，攻击者可以利用CLAUDE.md文件绕过Claude Code的安全规则。该漏洞使得任何人都能自动化实施SQL注入攻击并窃取用户凭证，而无需编写任何代码。Part01AI编程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336934&amp;idx=1&amp;sn=d333d00ec76660e83f0f64bb4a72e1b9&amp;chksm=bc92ad7e9e43ce056f12af231140d5ac0a06c98089a9882e1b1e6f6f1e5bc7a40e994d8927e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI路由漏洞可被利用注入恶意代码并窃取敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1CpMqcibg9m7w8vfDMn7PJLgEcKRyH36TBmfHhCRPOsSNDgeLEiajgCGsnP1ic86HVmuQZ5T0Wj4kzhOicjd52lSgKIx1xkZRVfjY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 AI Agent 生态系统中，第三方 API 路由正成为一个关键且长期被忽视的攻击面。攻击者可将其武器化，悄无声息地劫持工具调用、清空加密货币钱包，并大规模窃取敏感凭证。随着 AI Agent 越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336934&amp;idx=2&amp;sn=1ce183347a8e4e68b90666c7796c6b06&amp;chksm=bc68fa992e1491b327f5999c528c9afe5687e73b79d20211a31b85092b73b4580a29b3d5e63b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows Defender 0Day漏洞PoC曝光；Anthropic拒美军AI武器化遭封杀 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！💻Windows Defender 0Day漏洞PoC曝光，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336934&amp;idx=3&amp;sn=b5f752464d3c8c05a09017b4f8a62450&amp;chksm=bc2f4cf3afe60b5cce3295578a5584a1ef0be669307de9d7c01efc06c202a8d6532bcbcad6bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude 10分钟揪出Apache ActiveMQ潜伏13年的高危RCE漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3v5ltfZkzYib49m04aR7Eibxn6HboiaergcZ4lmlOibFxiaB36agJibbFCib454S3cGFatKKq9aqfl6icVjwEBhYz1tDagHMMCFBjYZlQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache ActiveMQ Classic 近日披露了一个存在十多年未被发现的严重远程代码执行（RCE）漏洞。值得注意的是，这个漏洞并非由人工代码审计发现，而是 Anthropic 公司的 Cla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=1&amp;sn=280cb179d42399e600f833a4ac4a9880&amp;chksm=bc2edc6ea89d03b9edb7ccf5eedcb2bce55a0504f74eefa0464a1899a5820ebaa051c38f7fa2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0Hga9DTVhDwFicOGG4vKAGl3HRCXx99fX5oRfzlp4h036MsuBTzzyicDCDxAAcDliboMc3CdBwpTnSDPoEk2yn8coD2DtM1Xmk4o/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）已将新披露的F5 BIG-IP系统漏洞纳入其已知已利用漏洞（KEV）目录，警告该漏洞正在真实攻击中被积极利用。该漏洞编号为CVE-2025-53521，于202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336544&amp;idx=2&amp;sn=5b3d5ce437605d9b17b5b733b5c00a74&amp;chksm=bc7586db397b1f5c8b47cb45f652b07413888fe67c3b4e66da633132476c67d299b8912399e5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 29 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：pozos.py木马全链路分析；红队攻防体系全攻略；Redis Lua沙盒逃逸漏洞分析；]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0Pe7QblyxG5C3RMMMlL9X4M7YBqotlYkyNffAeQNb1ialGFc2kTkpD9q2EgUOf8YiaNBA1DMHq693XS3zIIEQcKVR6ibRxomJzaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI智能体的安全挑战及应对建议；AI辅助漏洞挖掘的四种方法。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336544&amp;idx=3&amp;sn=78476b8c025e24b37bee4d56a56f7896&amp;chksm=bc8f88b2e1f4bee5fa0ec0eff1ca7af9efe46bc7b3e48f07b8fe5b047096ad11f170713261d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic泄露新一代Claude Mythos模型，网络安全市场再遭冲击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2zBFx56XUXxZTTxgibkytiaFruUsO9mSThMJRO1kJj1zdzBpRaBhFgvuib9E5pFUibefRxCAic3xoIekoPzjUhibGtfOLicXKpA1q0DA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01配置错误曝光新模型Anthropic PBC 内容管理系统的一处配置错误意外泄露了其正在测试的新型大语言模型 Claude Mythos。该公司周四向《财富》杂志证实，工程师已完成该模型的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336509&amp;idx=1&amp;sn=11ca58057f03edecbbf51c110228ca19&amp;chksm=bcf5fcf317693c6d0d657c8615aef2d1de04c6c71a508e4bfcf9b47795dcb4d80a594d5b55ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 12:13:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Coruna漏洞工具包升级攻击框架，威胁数百万未打补丁的iOS设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2guROCpv1VGKGJSjohfrGsDfBm5oGo37Ox04NxzBHVXu2GkFqw5icpfRsTsiczAlkPQUueD7aOUaJoAu5n3blMiaoQVJkcmsqdXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>卡巴斯基研究人员发现，Coruna iOS漏洞利用工具包使用了2023年Triangulation行动中相同内核漏洞的更新版本。虽然早期证据未能明确关联两者，但代码相似性现在暗示了它们之间可能存在联系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336509&amp;idx=2&amp;sn=b36c1cce4e6b3882df5eb8e4b4b3fe42&amp;chksm=bcf01132c8fa17c0cab173a5fc79f181f21785b98f13d4b574e85338c30e9d2a0188abe4a2e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 12:13:20 +0800</pubDate>
     </item>
   </channel>
 </rss>

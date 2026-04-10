@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[北邮附近的饺子馆，在 GitHub 上开源了自己的 Skill。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU35qr6yvuRlJZD7yQLGZTsKtVyYEAfaybSKIQ23cuyphdt4oE08kEKT1ZTKFjBHgscKiaB1mdV60VfysW1gVgwlBD2zKgsXZMWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个饺子馆在 GitHub 上开源了自己的 Skill。北京海淀，杏坛路，北京邮电大学旁边，有一家快 20 年的饺子馆——金谷园。好像几乎所有的北邮小伙伴都喜欢吃金谷园饺子馆。觉得它比别家好吃很多，好</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532947&amp;idx=1&amp;sn=560a0e6e87eb581dc489b2644602902e&amp;chksm=f83830197deaeb9a6d4311570e09245d85fddac8c335db327a237088b9acf4f74f44e1b9d91c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 11:54:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 3 万星的 Linux 管理面板，AI 应用单月下载破 10 万次。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0FD3UtYdslRnDz8pwfXYjt6VYHclibb1PiaIXic2qr0cDpicLqOc6VasKKWIibJfuKic0iclV9OaTdMY2Pxz0Fkw7G7qhuGKzobxYBGE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 在 1Panel 应用商店的近 30 天下载量突破了 10 万次。创下了商店开通以来的最高单月下载纪录。更值得注意的是，OpenClaw 的下载量，已经超过了传统的 OpenRest</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532897&amp;idx=1&amp;sn=b9f02dbc1e532a09163fbbcbca3db365&amp;chksm=f89e133a31b115ff819c67f1e839c19499f965241ea08bc5694f70433f7c412e9134ac3e0158&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2CVcoAQEjFKb6CznJDAnOmAlvDyLxEwJiccKPFTvg0vdvd1z3oXiaTaosCuY2vUyegfFia2oqKLaZ4A4tfPS1liakNY4Pj0wmNjgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了一个挺有意思的仓库，专门收集 OpenClaw 的 usecases。说实话，很多人装完 OpenClaw 之后的操作都是一样的：疯狂往里面塞各种 Skill，Cla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531567&amp;idx=1&amp;sn=45f174b7c7949d1dc95797729e340584&amp;chksm=f83244b171146c453e38202c25f34912d398f6921fa1dd1f5fe750ffceceb4e92d0dafcdeea1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 22 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖到 4 个很哇塞的 AI 开源项目，快来瞧瞧。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2HrxiakLxMkXXz9ESAwOm0xROGqNE10y8eHcKGnNZAr5ndPvlia7BDcbIv0ODuWl9ibNovuGdLqmDGwYH4NT5Bc2HuZny6uHQaeY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01图片、PDF转为可编辑这个叫 edit banana 的开源项目是北理工开发的。它能把不可编辑的图片或 PDF 格式的统计图表、流程图转换为可完全编辑的格式，比如 DrawIO 的 XML 或 P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531541&amp;idx=1&amp;sn=b3cea171daa3ae35bd34a021e175088a&amp;chksm=f821d3ec30cdb5d17bd914c356f8578e85cf44a48eed79b1f50be738f6367b8518a502e022e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Feb 2026 15:03:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

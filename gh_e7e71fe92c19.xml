@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Polaris-Obfuscator中AliasAccess简要分析-反混淆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K19ibCsRPZb6tQPsPzkssdjdwYicJtyHeFhZQqqPEZicIoVcqOJwiakfKEccaKldz8vP3bvfalFEicshYHdqicKYBwS7fhMx3XkM7jW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AliasAccess pass 的核心思路是：把函数里的局部变量（alloca）藏进随机生成的 struct 里，再通过一条多跳的间接指针链来访问它们，而不是直接引用。原本的代码：int x = 4</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=1&amp;sn=339f8a7fa83cab36c05aaae60966e541&amp;chksm=b07fd3d3b3e4600b1446ba2d1d508089aa49f595747464965ead05df4a43e7f51ba18bd68fbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[即客会 | 一站式活动管理系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cFq9HxUWfyPGePS15H6PeQIbPLdqbPB6gzejQF7tzEvt0KTUA4WUqSN97TE9cUUxjNtR3uafotgxovODWqVVrID79iahkOLZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场会议筹备让团队重新思考数据应该放在哪里某大型企业准备举办一场重要的年度客户交流会。随着报名启动，系统中陆续沉淀了大量参会数据，包括姓名、手机号、单位、职务、报名记录，以及部分会议资料和嘉宾信息。筹</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=2&amp;sn=f925643d2e468d55b16e9c3088137a78&amp;chksm=b058e950bb69903bc660fd0ae51a611cc0c4779beb850259030112ffdc2d1c5dfb6dac2925e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 11 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[D-Link 摄像头栈溢出漏洞复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2nhtjIjicJXKe3kPiacTiahb8M1QEN4Lgz9lVEibyJSmtKazXJQ0qEia8ZAFicIqS5VVjic8VtYh87tkfRWsV4gXricrKQ7wjnOibO11O8/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是对 D-Link DCS-935L 网络摄像头已知栈溢出漏洞的复现与学习记录。漏洞作者为某不愿意透露姓名的师傅，在此感谢原作者的分享。本文主要侧重于分析过程，如逐步追踪调用链，通过逆向分析手动推</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613208&amp;idx=1&amp;sn=96da0d35d2c028fe1709a7648f2e98aa&amp;chksm=b0e486a3c9d77c062cadc6fec70a5ef08eeba860da2eccf4d6db38a11a6034542c8b6e13f378&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1cQBmQmwYqicGMrMibYIJq9MCsUsAptLwHgIue3BINfVKWMk5RmHDh48asGAdEf3GAL8uBuKyDmDaQqCQBPxNDtz0wTkWnsMvWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为VoidStealer的信息窃取恶意软件，近期被曝出采用了全新的手法，绕过了谷歌Chrome浏览器去年引入的“应用绑定加密”（ABE）保护机制。这种新方法不依赖传统的代码注入，而是通过调试器和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=3&amp;sn=e075770efbb884f2ca23dc0248dddbfc&amp;chksm=b0cc6393494aebc09eae461c4c764faed3b2f1e0869bf6dda198d9ac72cc5980b1ab820b654b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【非虫系列】打包更优惠！安卓软件开发与逆向分析（开发篇+工具篇）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HpKY7CgVeuhc1hg7JA5pR9A6QVtaVa8sDdfFkXlB9CnlYomwicZNFnyGriclYt7ibKgaTdCqPa0jfNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>单独购买开发篇：999元单独购买工具篇：1299元2门课程打包价：1899元随着移动互联网进入深水区，企业正面临前所未有的安全挑战：1风控与对抗升级：金融、电商等行业面临黑产技术迭代，加固、混淆、虚拟</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=4&amp;sn=09b5c6f4c49aa7f4a69b1321d95d1518&amp;chksm=b0910544bda749f3195d157f890dcee0c70ad7baac34c675c6f81ecc2b17aaba4f8eae73eb32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2025 强网杯和强网拟态部分题解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ghzzib4axFFgFhricMnBPWygicy7WIJD2Hkhv6rjpxMfdMy5sCWLfv5icLhcSgtzic4blCVUYibj9hTNXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>1强网杯flag-market程序先是打开了/flag文件只有输入金额为0xff时才能进入下面的逻辑,否则关闭flag并清空token变量随后将flag的头打印出来,将内存中的flag清空,并允许我们</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612341&amp;idx=1&amp;sn=08f4b531105ec2b3a44360f66169db05&amp;chksm=b038129c048d8e34c3056e604bdfffde2379408147e13ae814e71cabe1b407839a367e6f2faa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 21 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
