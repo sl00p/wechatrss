@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“我开始失去写代码的能力”：开发者直面 AI 编程的真实代价]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhauoS83318bCm5vKhpXnKcCibGflsnXaKxmCO4zlc5HXC8N99sF8v1o2QElZAPPVXOIfOz0vX9wqY8gEbA5P08qKia4r1M89xns/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 David Cassel 译者丨明知山 策划丨 Tina AI 编程工具（如 Claude Code 及各类大语言模型）正在重塑软件开发流程，重新点燃了资深程序员的热情，同时也引发了人们对代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281378&amp;idx=1&amp;sn=4bda019e156ffe84cda505aa969c54fa&amp;chksm=bc668c0ec07c0d251f419143c12f1bf9ad6c7a7e71be15cff9675f955ae89c23827fed77fc52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiayfVY2iaicmEXEbOlDtszLBIMY5X8OHTpZNBSz0VtO6KicMx8YtibTAoxKqMQQ2xC2M7rhficXZosNu6M9LicnVLuzmsKRDODpg4sRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜华卫“我们团队在 2021 年成立时，就坚定对标英伟达。四年间，我们基本达到了英伟达 Omniverse 及 Isaac 的所有主流能力，产品成功落地几十家大型央国企、国家实验室和具身机器人厂商</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281378&amp;idx=2&amp;sn=28b25243da18ba52f236122663f8950f&amp;chksm=bc30dd9defed6a8ddbb0f2bb6841f8d2128a2009fd520c95d2c829b55c0726b665523060f46d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Istio 引入多集群、环境模式及推理功能，应对 AI 时代的不断发展]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaz2horIVTx1SNXHzWFq6gmWcYtwl7pqBiaOJT82O3u0ib2BRKGricBuUnLh7m5aTDW5ibhfsp20eEXdag93hxsbaZm17JBOQTEOss/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Craig Risi 译者 | 平川 云原生计算基金会（CNCF）宣布 了 Istio 的重大升级，引入了一些新功能，旨使这个服务网格能够适应未来需求以支持 AI 驱动的工作负载。本次更新于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281378&amp;idx=3&amp;sn=174e48b5f79c2f669c8bd9e685ac7d1e&amp;chksm=bcd172de7413c2c9f36b8e450790c1bff18140f9596ca13d8d96b8a9038dd357ea11c31cdd78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjwh2S67pPrWrAx30o8yTzzcLXlq8yiayReDj4PrRfHgTKIp87bMaCRWESibZakwz4TB7f7KicnCicqZbeApUUpvSFZQsa5t6h2EAA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 明知山 TigerFS 是一款全新的实验性文件系统，它可将数据库挂载为目录，并直接将文件存储在 PostgreSQL 中。该开源项目通过标准文件系统接口对</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281378&amp;idx=4&amp;sn=616b98d8f0c833e3a45e0d98745554d9&amp;chksm=bc5e5f6ce148915f3eb043704d2a601a425ba8eea1c7320a947d0dbcf7f0c47b85b460af457f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从拒绝AI到一切先问Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiayywib9MMianoLU3nrMLo8LIw1VkRjmhUFxCZYb3E94aYJMUtwJvfF479JcOK6z4UVLLYYNsPxjcMak7EnO2d4EZtuzIyEwAjJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 蔡芳芳 策划 | Tina 六个月前，Ruby on Rails 作者、37signals 联合创始人兼 CTO David Heinemeier Hansson（DHH） 还在访谈中明确表</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281357&amp;idx=1&amp;sn=e104684f202ebe7a2b2d11b5f06656f5&amp;chksm=bc62c9d7f8cc8e692a6abf6f1310a2070792b95588c844a3650ac55e782a7ee62df58f7a9235&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjuP1N9mhE5Gpovqic78aqNXfkqnTAgRibLtib5Yf9MmrUwgPpEUkEsTz5dljPmPsr6AhaHhsv5fAMRrcSxc0siajbnCGpIuDClnGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>微信和 QQ，终于开始开放它真正意义上的“Agent 入口”。过去十年，微信是内容分发平台，是社交网络，是支付工具，但始终不是“生产工具”。但随着腾讯把 Agent 能力逐步接入微信、QQ，一个更实质</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280604&amp;idx=3&amp;sn=cb1a3e473ac14be3cd1aff6041b4ad96&amp;chksm=bc08d685a4033f52816f9e2c6e3c47c67c24703eca8f9d78e9ab7247284a1f071100d0583373&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 12:51:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[干货 | 执行个 systemd 命令，竟然让容器CPU“打架”？一文看懂绑核错乱的根因]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhGfBtPR4MIlcqSRvPiaRPvYJticibViaOk4h200Q6jVhZhfic27NQJepib60xkgTJLFBmnKRdGkOVRHYj6m9CpHxIIZdhzkk90iaYTBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读：近期，我们遇到了一个棘手的线上故障：在 K8s 集群宿主机执行 systemd 相关发布操作时，会触发宿主机上的业务服务出现超时问题。 本文将完整复盘这一故障的排查全过程，从业务超时的异常现象切</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280604&amp;idx=4&amp;sn=9ed807c98b929742bffb868bf812334e&amp;chksm=bcde7d132db5f8d00e8af817776d47955330e1b0e141cc916df5ddf93fb8175b9a9b12fcc500&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 12:51:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[去哪儿旅行研发工程师刘洋确认出席 QCon 北京，分享智能体平台如何助力运营提效 1 万 PD]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjgibFhtBjiaeTjoMLib3yJIUDCGvY3iaAYziaibuPHSSFuT8as1hdRseOg0kt6JicEiaibB4nJ3oh5GbcjgWoxTrWqiaFyECy0ay1SJ2uNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon 全球软件开发大会 将在北京举办。本届大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280604&amp;idx=5&amp;sn=b97f89312886d551d5d7475d1a5aacce&amp;chksm=bc896a0cfc61ee3870f39846e4d29f5cb1b2ee41c46278898f3db948bff21311aa4e523322b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 12:51:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia7ZSfaaFwQ7SDfqhBjwhNgYTjVojXHHNic12BEI4wEicqC3WOGLtDXXpAAQxhNd3MRNeVGoA9SrBhiaPXP7PNkmgGpxf3iaSSPMZE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 付秋伟过去几个月，OpenClaw 如火如荼：有人把它当成个人助理，有人把它当成自动化新玩具，也有人关心它到底能替代多少重复劳动。热度背后，一个更现实的问题也开始浮出水面：当 Agent 不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280528&amp;idx=1&amp;sn=3ace2b4374f323fe50bf2efaf6df93a4&amp;chksm=bc7d1cd077056d9cc197539f79f484e30d943d95be54a55d2f366a8b8b8f24249d073dbac670&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[终于不用跟图表死磕了！这个 Skill 让 OpenClaw 直接封神]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7agSKuKb85rTnaCNqj7O4E5XkqFltAib0B9icnWGDXxnrCMf9gZeG19hWzMUInIB9kL3nw9ooRyAw2CgG5Uq3IUReWBgEia4yMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>审核 | 凌敏 随着 OpenClaw 等开源 AI Agent 框架的广泛应用，一个清晰的范式正在形成：复杂的任务正被拆解为由自然语言指令驱动的自动化工作流。 开发者们乐于见到，从代码生</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651280528&amp;idx=2&amp;sn=370dee86813e2ff49b207c44de23a7fb&amp;chksm=bcc4674ced6b322c74778adaae1a35a47aa3015bae05998b5a81db8d5aad90238d2360e834fd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 13:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客利用Claude和ChatGPT入侵多个政府机构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZPTatib0MSj3sBJ78Pps6HPXVOQnD4qRKnILF9oicfMrv6VWOLRBulqhKvoKARbibt4ZicdDMzUXjfxAIaPhiarbTbmlTbyYR9zY4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名威胁攻击者成功入侵了九家墨西哥政府机构，通过高度复杂的网络攻击窃取了数亿条公民记录。这场攻击活动从2025年12月下旬持续至2026年2月中旬，凸显出现代威胁态势的危险转变。Gambit Secu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336946&amp;idx=1&amp;sn=2b73181238f28a37f60e63b53abbcfcd&amp;chksm=bc39294b23eac8bce7c2e4dbadb06d3c240232f3b3bfc6f68e4efc4007f4dae4f192f669f619&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 12:41:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型BPFDoor变种采用无状态C2与ICMP中继技术规避检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3mT6RA3yBejP2GwEAZ4WVElouicgan5z8A4akZH6urcdXVJA5ljlRL0QsVL6C1kQtCicWK9zjOX0Rg4b5cPCRKzJC4GR3jRlic5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种名为BPFDoor的危险Linux后门程序已升级归来，研究人员发现其新变种专门设计用于在关键网络基础设施中保持隐形。这些更新版本主要针对全球电信网络深处的Linux服务器。与早期版本不同，新变种配</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336946&amp;idx=2&amp;sn=3c57025e5c8408ff73a09e8af1a9aab5&amp;chksm=bc94d502059cd42add673d2d312594215041770b973eda5f5ed8ec2906439505d1227ba3ecc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 12:41:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：生成式AI与下一代安全模式；AI代理安全风险远超预期；深解Go语言远控木马AGEWHEEZE]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16YvXhuJnC5m0F8nJKaluhU2Ijshk5AI0OuM7AfcAL8v201ibbzUyhOtRYFokdWMEg55icrMuqv2ibNmVBExGtCAHObuzmwWcs4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336946&amp;idx=3&amp;sn=6a5a3a33e470b87b5001cb516cf2aa24&amp;chksm=bc96ca8239f81b6f8f673f4b620252247c0cf57a4a95dd9f3a4cb4d99574de7a85adf98a66b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 12:41:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[通过CLAUDE.md文件可操控Claude Code实施SQL注入攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1EMaicyJp1Uy2QkKHxqPfUOrU77j0khiaJ0nOExgIicGXfzcz5TIMoKBiaKPZ6iaImtoO7rsicIaia1Pk3AqSH8WicxSEmHKiaWZCulynU/640?wxtype=jpeg&amp;wxfrom=0"/><p>LayerX研究人员发现，攻击者可以利用CLAUDE.md文件绕过Claude Code的安全规则。该漏洞使得任何人都能自动化实施SQL注入攻击并窃取用户凭证，而无需编写任何代码。Part01AI编程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336934&amp;idx=1&amp;sn=d333d00ec76660e83f0f64bb4a72e1b9&amp;chksm=bc92ad7e9e43ce056f12af231140d5ac0a06c98089a9882e1b1e6f6f1e5bc7a40e994d8927e4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2qQhZ3wayIwqXnmHZ35YZrk6EA3mJxmcqic8PrP8IMdC3u9JPeDvicqFnKkePXUHqBVgHU8f6icSiaUxXmO1WYk2iarsyoSFmJz9I0/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336566&amp;idx=3&amp;sn=fcd89fa8c1d182ce9035366c658269c2&amp;chksm=bc78f33d505116d8d9207eece082a9a1bf6f5e0cc655fb7babacce98a1b8f7425bb656eec71b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 18:00:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Langflow关键RCE漏洞曝光即遭利用，CISA紧急敦促企业修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2l5amB5y5ibC95zosib98JGVy0ATPRy0FIne0g4DlgTBoLAHyiaEZ3XatdlCS7f6fqn98bCbEbn5ZXwgZ91ruSpB7gGRoWIjzKV0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Langflow近期爆出关键远程代码执行（RCE）漏洞 CVE-2026-33017 ，漏洞披露后数小时内就遭到攻击者利用。因此，美国网络安全和基础设施安全局（CISA）紧急将其正式标记为需立刻修复的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336566&amp;idx=4&amp;sn=7e051099386f67c6c88fab4c2bc965f7&amp;chksm=bcbc2dd418660be8879f9c75246a9402198ce99c914e063670feac2ae6d8d54e2d75f5fad6c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 18:00:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI正颠覆传统企业安全工作模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX31riaDtjwtWPu7Dib1dL2spXTknBZViaYaaibLAC6tkgRpMETkQQ2ic7r2ZCKj4iaBeCOQOeCXdgGiag0xsg6GKSNGSuztWe9cJCcYkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01当AI将运营假设转化为压力会发生什么传统企业安全运营模型遵循固定周期：通过定期扫描发现问题，安全团队对结果进行分类，再通过工单流程进行修复。这种近乎标准操作流程的模式虽然存在责任机制，但往</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336544&amp;idx=1&amp;sn=1a24ae043b4f0c17e1fc920e3deb78de&amp;chksm=bcb7334c39b74bee16fa7ba3c6c33e3e9129a107542d2204bc831f496004344270725d67315a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISA警告F5 BIG-IP漏洞正遭攻击者积极利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0Hga9DTVhDwFicOGG4vKAGl3HRCXx99fX5oRfzlp4h036MsuBTzzyicDCDxAAcDliboMc3CdBwpTnSDPoEk2yn8coD2DtM1Xmk4o/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）已将新披露的F5 BIG-IP系统漏洞纳入其已知已利用漏洞（KEV）目录，警告该漏洞正在真实攻击中被积极利用。该漏洞编号为CVE-2025-53521，于202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336544&amp;idx=2&amp;sn=5b3d5ce437605d9b17b5b733b5c00a74&amp;chksm=bc7586db397b1f5c8b47cb45f652b07413888fe67c3b4e66da633132476c67d299b8912399e5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

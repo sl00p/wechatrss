@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这大概是我读过最硬核的一次 Linux 内核重构文章了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907JiaSAm6PnTrVE0A5Y1ZF3QyfuP9C4fZEMEicNlOohSKoBMMWU5bEzNsxicHoFCy6FziaL3S1ib1MDvMGGATiblS38gDBiaj2Z6EWpOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：TencentOS背景Linux 内核的 Swap 子系统自诞生以来，数十年间代码复杂度持续累积，逐渐成为内存管理子系统中公认的复杂地带。然而，来自腾讯的内核工程师 Kairui Song 以一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801153&amp;idx=1&amp;sn=4e89b5dd7a0f02f12a5f8b2536507b99&amp;chksm=bfbbff8a3d29d8004408e01a99cf7513250480ea7e968de0626f063675351d369fb5ba61fa99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Apr 2026 17:50:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“龙虾”也需要看病？一张旧病历，引出三个新确诊]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9073unpausfqpiccgMK4HxulFcbsDydGCQ1vzGRIq7EF4zEUxqFy2xeICibgDqdOg1Y1RZjVeKhvg3JVzricrVMqpqqqf8mKKXWeuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：悟空代码安全团队本文是悟空Agent泛化能力系列的先导篇。我们不展开技术细节，只回答一个核心问题：为什么悟空Agent在漏洞挖掘中需要泛化能力。后续系列将深入拆解泛化体系的每个环节——感知、建模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801121&amp;idx=1&amp;sn=1ae8448fe401127fbe42090329d9339a&amp;chksm=bfd8892bf5bdb3499bf69c7ff32e2def1430182aec7c1430731f5be24ebe89c2a012d0a5a0a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauTxGicHcQwCSLTK9l1GCUTTwF7o0NVCChibPUmiaotguWnibw2ibh6TE5onXtRRmcBTiaGaYz3nnUt3dvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：anthonyguo (郭沛)、 karolinaliu（刘恩婕）导语如果AI的终极使命是拓展人类认知的边界，那么“研究”——这项系统性探索未知的核心活动，无疑是其最重要的试金石。2024年，A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796931&amp;idx=1&amp;sn=442cd53a6dc24397f47b75d8008280aa&amp;chksm=bf1b4728751b68c2fad214a3441554ae3ef4fb19e075b30f886656c3538f7793d7df904bdda7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Nov 2025 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工的“神之一手”代码都长什么样？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauTxGicHcQwCSLTK9l1GCUTTxfvFNJPwjePQgKEwTQskYIHrZAEMmEREysHhhZJnzPtIwib6GO0fHkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景某天你敲下一段代码，堪称“神之一手”：也许是一行把复杂度打穿的重构，也许是半夜排查后的关键Bug修复……多年以后，还让你回味无穷。所以，你还记得当初的代码片段吗？那段代码解决了什么问题？现在，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796930&amp;idx=1&amp;sn=03e5d9de2719b5d901623555d5eaa14a&amp;chksm=bf7a2c049dc7970f5960b429a822ac2fbf255f1ddb44d93453527c73642cc64e7a7ca4c8b28b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:38:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
