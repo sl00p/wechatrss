@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVPR 2026 | 火山引擎多媒体实验室提出TempR1，显著增强多模态大模型视频时序理解能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedG5sVP3icUjKuI7LS5egLzMuYds9yZvS3zvcPBMDjbJndXTDzhyiaPDIibChnqQoa4DNjSTTGDJzSPP8fJibBUhQdQ68PSXBYaibvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在智能视频检索、人机交互、长视频分析等实际场景中，多模态大模型（MLLMs）对视频时序动态和语义的理解能力至关重要。然而现有方法要么局限于特定时序任务、泛化性差，要么因刚性监督导致过拟合，难以捕捉细粒</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519230&amp;idx=1&amp;sn=209fae1cf3181ef41ad3d6ed766ea077&amp;chksm=e841612d4be39bd94b385ca12880e95d49b7818118463136a011014c402bd5e35c79fe7d99ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[扣子2.5，开启全新 Agent World！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fefj1yw3swh6gU2gb9A4IyicmwkuGHe69CiaNgFzl3cAibp4UIferTdqPamqq1QkLiaJPEydVLict0TzKN3DHhfsXNerB1dVOLvGFPPE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，扣子2.5 正式上线，迎来全新升级。一句话理解升级后的扣子：让更强大的 Claw 帮你干活，在更广阔的 Agent World 里任你探索。在过去的一段时间中，Agent 逐渐成为更多人的生产力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519214&amp;idx=1&amp;sn=6098fd7a3aa2f47bd2c0b6687bd28084&amp;chksm=e8ee472772c3fa78e6cb98212127b9ed201c057de0faacf9286558a8ddbe8181429695de4c1a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjAnfPQX3e3ad6BRKoR3U9goIFm5N09GDByaz4o5oQuCsoSfXpJicJPtNfWmZ17r5MTFzdzgMoNocg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式人工智能和大模型迅猛发展的当下，数据已不再仅仅是「存储」对象，而是智能应用的核心资产。MongoDB 凭借灵活的数据模型、丰富且高性能的查询能力以及原生向量检索能力，成为构建 RAG 系统、智</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517486&amp;idx=1&amp;sn=d23f31af222e0a45f7b303a400a4bb6e&amp;chksm=e8be0c1da63c55bf6ff504809999bb0d91cc4fac22b6effdab5d93bd4a66b0abbfcec464a59e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Nov 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[veDB-HTAP 论文入选 VLDB'25 | 字节跳动高度集成、高效执行&amp;自适应的 HTAP（TP&amp;AP 融合）系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaKeFcJHs6ZmylmfB2mywWbpjpPV7vP69jB28sUXYjnaE6TDiazibd7CAwEicvEbj4qSKpd1dlbC93pA/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景2025年9月1日至9月5日，作为数据库顶会之一的 VLDB 2025在伦敦如期召开。在此次会议中，众多数据库领域的第一梯队科技公司纷纷投稿，展现其在 Analytic Processing（</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517430&amp;idx=1&amp;sn=c272e6bae7612905ac124eb9492335a3&amp;chksm=e8a201d237be399e6eb45bcbc5015bbdeacee88d1970f969c6cbd9aa57bd0a27c245abcd2747&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Nov 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

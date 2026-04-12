@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源 10 天就飙到 4 万星，这个项目收集了 58 个知名网站样式。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3O61Kvgk9nHFMpoDFhzbpsRfFemiaaibrV3LnIVxQctbHvs2KbuYhy2Am2OBiarBWWnlfaBoA3fQZviaeaxcKydDtzOuOhqic8ZImc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个开源项目有意思，解决你的 AI 生成的界面丑陋的问题。最近刷 X 的时候看到的这个开源项目，10 天不到就拿了 4 万 Star，火得一塌糊涂。它做的事情很简单但很精准：把 Nike 、Claud</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532964&amp;idx=1&amp;sn=4f387278f226dd4b85b19760a01f642c&amp;chksm=f879f9496521703f00d3d4b7ab2b6d25efeada83efeced33222b62d3457782e07a0aad151f02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 13:07:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0373PicbGAWNvicVFNCiapudqOIE0I3yLNoYOnAicicoz35UnEb9Gic4jK494CIoRM4dgSfxbzFzW9R5uLB00tFJ8kDiaK9tCebYUIU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源 5 天，5 万 Star。这个数据放在 GitHub 历史上都算比较顶的。最近如果你刷 X 或者小红书，大概率刷到过一个叫 GSD（Get Shit Done）的开源项目。评论区里有人叫它 Cl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532957&amp;idx=1&amp;sn=8f27a513c9db4fb19a2a432937c634b4&amp;chksm=f825cfacc585eaf3d110745099348c0c578beae2e37daee69287e47dc09c57ed0dbbddc3017b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0pLz2GrtuMb7VZlicxRwF1GXaDz61QMYFgcLjSC8YL5MVZsgyISicw2TWqDXWMLlDVeZdpia4MUUv4GtDKcHnTBIWB3d9mUcCV64/640?wxtype=jpeg&amp;wxfrom=0"/><p>01论文配图自动生成：AutoFigure-Edit写论文最头疼的是什么？画图啊！尤其是那些流程图、架构图，画一张得折腾半天。最近在 GitHub 上发现一个叫 AutoFigure-Edit 的开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531608&amp;idx=1&amp;sn=fdd0808ec3ab2453028847f73c08a47e&amp;chksm=f8b9244dfe530703ffd37b7e494b974f2dfa4c55e248b4176a9623009477d2eb9fbc6bf1b0fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Feb 2026 16:40:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 3 个 AI Agent 相关神级 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3EIxvyXNGcerDRKJnXAqdOnYsE2LKILSY3dxtjzicC0R6NUrEVia3asvaibia1Eq3f7ico0icVEODBvFsm7JvWfiaOuWIyS7ALJMIXo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让不懂代码的人也能玩转 AI 工作流说实话，n8n 这种工作流自动化工具虽然强大，但对于非技术用户来说，学习成本还是挺高的。光是要搞清楚各种节点怎么配置、怎么连接，就够折腾一阵子了。最近在 Git</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531596&amp;idx=1&amp;sn=e07802761573db606f43f74fd8e75999&amp;chksm=f8c2ab506b0751a86fbaac19ad1c6ce8d4079a57b919cf7783d1e827ebfdb86b5c52ec5efecf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Feb 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

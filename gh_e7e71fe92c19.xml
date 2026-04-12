@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux arm64 内核Hook实现与校验绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ibaFibrrNWYnSdk34KMIia5YCYxEOXHmibTy7FcCpF73NA9leSXS4ItNqCdeUJGd76qMmQEY1xcpUvia944jwfx2LXLJlFNkviaNiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>我手头有一台基于 Linux 的精简系统设备（BusyBox），在提取并修改 system 分区后，设备会出现开机约 5 分钟自动重启的问题。对 system 分区进行了全面排查，始终无法定位原因。经</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=1&amp;sn=a06f6c489372da6017fb6426da80ecc9&amp;chksm=b0386dfd2aedcdadc866d654dabb76835866502c8d0137f540031b324a6d935a076b963d7ee7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今晚8点直击 | 第二届智能渗透挑战赛·冠军之夜]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2HI2ACOEtIwBXxymqMaHavat2frE6WKBv7UZXMRtibchDqLaeVwNZySs42ichO0x6JaFib1ib1iazWFicHoEDZe2sxOULG1TdiaOvT5E/640?wxtype=jpeg&amp;wxfrom=0"/><p>扫码预约🔥第二届腾讯云黑客松-智能渗透挑战赛今日正式开赛！610 支顶尖战队、1345 名安全极客与 AI 研究者同台竞技，超大规模智能攻防靶场激战正酣。连续5晚8点，锁定赛事直播。看雪创始人段钢主持</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=2&amp;sn=e1e50ed859ae41fd1efc229526fa98a8&amp;chksm=b0d62e27d6e0ab338098fc9fddaf52ae08b8bd789a280199265c94c2b09894db96db41c6a29a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客借助 Claude Code 与 GPT-4.1，攻破墨西哥九家政府机构，窃取数亿公民数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0Hicbxvy3aMuQ6s7hnz7l4MNd8MSnGqmgibYxst0ZsiaPQXXz2PrS9oJ5mqEwQH4Zaofhe8KicdzHuUMWRicDkEvEdKqWYw1iaqO6ys/640?wxtype=jpeg&amp;wxfrom=0"/><p>据安全研究机构 Gambit Security 最新披露，在 2025 年 12 月至 2026 年 2 月期间，一名独立攻击者利用 Claude Code 和 GPT-4.1 两款 AI 编程辅助工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=3&amp;sn=fdae4b86e89d852bbfe93df7ef780460&amp;chksm=b0394b1554006c7de28d360ad28cabfbd77a63dc7656fdb6e984972da664e2798a55f6f56999&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Polaris-Obfuscator中AliasAccess简要分析-反混淆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K19ibCsRPZb6tQPsPzkssdjdwYicJtyHeFhZQqqPEZicIoVcqOJwiakfKEccaKldz8vP3bvfalFEicshYHdqicKYBwS7fhMx3XkM7jW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AliasAccess pass 的核心思路是：把函数里的局部变量（alloca）藏进随机生成的 struct 里，再通过一条多跳的间接指针链来访问它们，而不是直接引用。原本的代码：int x = 4</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=1&amp;sn=339f8a7fa83cab36c05aaae60966e541&amp;chksm=b07fd3d3b3e4600b1446ba2d1d508089aa49f595747464965ead05df4a43e7f51ba18bd68fbf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=4&amp;sn=d65061702a160a1bb627d8897598a4c4&amp;chksm=b0fc34ab363e31d46075b9c51aecb6d2281ef3720196c53ac3dcbde0bb952270ee89ed4e9340&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安卓逆向基础知识之frida Hook]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K24shFd5AVjxEyEtz5WeJTKib6fGBLt2wzBfRyWdJO6ibZfv1lt2874YsP37TibP8BsibVoDUtNaPd7rmWDhBWUfWwVvvib8wTH9Mfk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Frida是一款基于JS代码编写的Hook框架，它是一款易用的、可跨平台的Hook框架，介绍我就不多做介绍了，我们直接讲这玩意该怎么用，frida的环境配置之类的也不多讲了。我们就直接步入正题，环境配</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=1&amp;sn=9b1f49187644981e264882dedfde45f9&amp;chksm=b02e3dda80bb11d57a8af52c94681da44d69664987f7292fc2076207544248f16e2bbf30412b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首届 PolarisCTF 招新赛正式启幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zzeFUpGQHcZlmLxiaicM1RuXrw2fDeadCibtTbIhuOkdYSwl1NoRyaGfXqckDJQwib5zkIObVXLgfP3IIkoKgibpLoKjKZu4TKUltlW3j5643k0I/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一届 Polaris CTF 招新赛官方章程一、赛事介绍第一届 Polaris CTF 是由星盟安全团队倾力打造并主办的全国性线上 CTF 招新解题赛，亦是战队年度核心招新赛事。赛事以「以星为引，以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=2&amp;sn=115d10e9f5b366363251139619b27011&amp;chksm=b078f979b892d6336aefad52a1767ae7d32bc8ce9ac258067567c54d9ff07f9b905b6157f11f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型木马绕过 Chrome 加密，无注入窃取浏览器主密钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1cQBmQmwYqicGMrMibYIJq9MCsUsAptLwHgIue3BINfVKWMk5RmHDh48asGAdEf3GAL8uBuKyDmDaQqCQBPxNDtz0wTkWnsMvWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为VoidStealer的信息窃取恶意软件，近期被曝出采用了全新的手法，绕过了谷歌Chrome浏览器去年引入的“应用绑定加密”（ABE）保护机制。这种新方法不依赖传统的代码注入，而是通过调试器和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612348&amp;idx=3&amp;sn=e075770efbb884f2ca23dc0248dddbfc&amp;chksm=b0cc6393494aebc09eae461c4c764faed3b2f1e0869bf6dda198d9ac72cc5980b1ab820b654b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 17:59:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

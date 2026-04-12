@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yLU9xiaej6qkx44xlPqU4EL78IVhymmNbUnysmz3IkVgfZ7SNON1iaiaYBmbWgjoRKgrwFiba7SqYgicaXBKOTBzMZVPP5EpDueu74/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文的核心思路是从Prompt、Context和Harness这三个维度展开，分析OpenClaw的设计思路，提炼出其中可复用的方法论，来思考如何将这些精华的设计哲学应用到我们自己的Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559511&amp;idx=1&amp;sn=64e933b0264e47f0940e693e315e0c82&amp;chksm=e858978e815997d37ba9933ef407eada0e1dc73b0eef741c09381adb7cee18301ee42569faeb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 实战：一个人、一台 Mac、六个 AI Agent — 从"能聊天"到"能干活"的工程实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wonlztxSxbMWotK9GfgUW6iblXYqiaSue3Q5u6nsc0XNiaOPVxhPzhjIEQbe6x505QUFO5zTwlwfkaiaPxW1shVvkH0pGWTUKXxfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。你的一天被接管了你睡着的时候，交易蜘蛛已经出了股市收盘报告。你醒来之前，宏观分析师已经写完了 A 股晨报。你还没刷手机，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559481&amp;idx=1&amp;sn=ee2dd74d42080dcd8ae1024f3a46a480&amp;chksm=e8f0f01e936da6882d7d3d8c25b663a32fb5670685fa8fe9cb90f896cb4ecc3d197e9e0381f0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI9VWy9myiaeDv1vUHeRicZL1DdeOlyApTWTgOJnl1eQro1vxgPxAqF0Jh8Az0icr4PbhqibfjrqgGemQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景在淘宝搜索场景下，用户Query与候选商品(Item)之间的相关性判别是非常重要的一环，它筛选出该Query下最相关的商品， 是用户体验的基石。过去几年主搜在相关性场景上已经做了不少工作，并且</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557780&amp;idx=1&amp;sn=bbaf1e9d79687368594c706c1afd9f39&amp;chksm=e87e12a816e09c7a79ab27ff6a6baf6f346316baf9082c571832fd9cafe6fdb7502ac984e44f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编码实践：从Vibe Coding到SDD]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8eKp2jwdcpNFUiaicOicibiaZhpDWZKHhKS9ibPAv4dsLCdXiaKft5mfE4vGbeg8piaibRMcibeRMMIEaBUgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统回顾了淘特导购团队在AI编码实践中的演进历程，从初期的代码智能补全到Agent Coding再到引入Rules约束，最终探索SDD（Specification Driven Deve</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557778&amp;idx=1&amp;sn=fcacb22b8790b169d70a6eb56e643313&amp;chksm=e82b3a3d6ad0469347e2b4446a6cbf74c49fe5ab46d9d71af0aa172fc6e13d0449a11ef067ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
