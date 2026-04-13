@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[浏览器自动化：从GUI到OpenCLI]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w6D1eJhNmA2NPwTib7ciaTzxXZ8Tnf3VRzGQZVfKvibbqoVTlichNzaOjhgD3wibDnibd7bYvNcZJyIicOK0Y62USJKJKDfOcLVN0wsU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章讲述放弃不稳定的前端UI自动化操作，采用解析并复现底层API请求的方式，来解决浏览器自动化的效率与稳定性难题。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559535&amp;idx=1&amp;sn=8eb95438291e8594d674652f6bb7c1df&amp;chksm=e82b145e1ce595de6abc57acab72cb7d6227c0345685ef338cd90feee34c3b4c22019b33dc01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yLU9xiaej6qkx44xlPqU4EL78IVhymmNbUnysmz3IkVgfZ7SNON1iaiaYBmbWgjoRKgrwFiba7SqYgicaXBKOTBzMZVPP5EpDueu74/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文的核心思路是从Prompt、Context和Harness这三个维度展开，分析OpenClaw的设计思路，提炼出其中可复用的方法论，来思考如何将这些精华的设计哲学应用到我们自己的Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559511&amp;idx=1&amp;sn=64e933b0264e47f0940e693e315e0c82&amp;chksm=e858978e815997d37ba9933ef407eada0e1dc73b0eef741c09381adb7cee18301ee42569faeb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQuOSVEEia0XWibEf9XQXhzQfI1Mf1MvHiacAR91ukH1KBOk7b0fpbpExyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>痛点：AI 编程助手为何总是“半途而废”？在使用 AI 编程工具时，开发者经常遭遇以下困境：过早退出：AI 在它认为“足够好”时就停止工作，而非真正完成任务单次提示脆弱：复杂任务无法通过一次提示完成，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557988&amp;idx=1&amp;sn=b70b03f87eedda96f43a8dc7ec05047b&amp;chksm=e8b1bc94cc33bbaabb5f72bfee0e6f8815d8b0d0c4f5a8dfa2c1d00458d5dce78a21c943688f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RTP-LLM 在相关性大模型中的推理优化最佳实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naI9VWy9myiaeDv1vUHeRicZL1DdeOlyApTWTgOJnl1eQro1vxgPxAqF0Jh8Az0icr4PbhqibfjrqgGemQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景在淘宝搜索场景下，用户Query与候选商品(Item)之间的相关性判别是非常重要的一环，它筛选出该Query下最相关的商品， 是用户体验的基石。过去几年主搜在相关性场景上已经做了不少工作，并且</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557780&amp;idx=1&amp;sn=bbaf1e9d79687368594c706c1afd9f39&amp;chksm=e87e12a816e09c7a79ab27ff6a6baf6f346316baf9082c571832fd9cafe6fdb7502ac984e44f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯正式发布面向Agent设计的命令行工具：CloudBase CLI V3]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7K3fLIUedibt6cCQQaxRiaJ5icZ9YF1PjJQhVg0m65fhWVhgz0Bwepgqgpep7SO63st36dhJjXtUKqLf9mNWib5xiaFaQTqfBqenJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我们很荣幸地宣布 CloudBase CLI V3 正式上线，这是一个面向 AI Agent 重新设计的 CloudBase 命令行工具。这个版本新增了 15</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695216&amp;idx=1&amp;sn=5b7603357bed357d756bf908a59991d7&amp;chksm=eb94770a41d11476408913840100f12f6b08851f04dd6cd8700eaa1b91296d9043fd0c8a822c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自掏腰包一万元，拥抱AI这一年，我的工具、实践和思考]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6aVHeI8tnCnkWrGgDxovykgfuyHyrbWv5KlavygMxFhArHKY9qqUFDl7Fv6OIKk0YXSOsHmElxmb49x7XxS4vYC6rCQX2fnUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我应该是比较早就开始关注大模型，并且也蛮愿意积极拥抱 AI 的同学产品体验方面，付费使用过的产品就包括但不限于 claude code max、gpt pro/</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695194&amp;idx=1&amp;sn=030591ea76020210c5f06692fb30243f&amp;chksm=eb0c6f88453207f0a8a238dfed50445cd1d34bee36d216e0f3cd4ef517ce7361a301c69b7463&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97WpIoUY1gbFmF1UjKA1wBkUUuYMLcvaUOpWukdaHF1FPZ70oFkGIEsJ1PBtib2p6iaLHx75FwCH9vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 前言2 分层逻辑架构3 InnoDB存储引擎4 事务机制与并发控制5 主从复制原理6 分区策略与应用场景7 鱼骨图本文系统剖析了MySQL的核心技术架构，重点聚焦于分层逻辑结构、InnoDB</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693748&amp;idx=1&amp;sn=8d5d030cce11e371f80bc3492cfc7079&amp;chksm=eb5a2bcaaf3ccf0ddb0bcf8dcc6a194b6bb8f2dc78d91eea012c99967dae9073468a123f44ab&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[IMA知识库：从0到1的架构设计与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe964OWuyf3G2qRNUePu3hew2ibt3qetvbVpyBXcOck22yUD1WE7fdZg1Insd9bDnObIVl9Ck6U0icT4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录0 写在前面1 知识库是什么2 知识库核心业务流程3 知识库架构设计4 成果与业务价值5 总结6 体验ima，感受AI驱动的知识管理知识库作为IMA的核心功能，合理的架构设计是业务发展的重中之重</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693717&amp;idx=1&amp;sn=487033b658ab0d4bd077f36122cf056b&amp;chksm=ebf9c1d41955b7288c8c13789d26e7078d9ea47c4acc8e52460d55d13e17bf1d5006dfb81339&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

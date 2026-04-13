@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ICLR 2026 ｜用“信息增益-冲突惩罚”把数据选择做成可控的大模型微调加速器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STz1xUd8BV4DiaINxOBOsBKSwvv884lahl8LzX2qn1xmsqMstkyD2IfENoS96KczGltUZRTSeMtnrmEnPP596llNT9FUSVbiax4I/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言指令微调（Instruction Tuning）已经成为大语言模型落地前的“最后一公里”。在这一阶段，我们通常使用大量 (指令，回复) 样本对模型进行再训练，让模型更擅长对话、执行任务，并更符合人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504153&amp;idx=1&amp;sn=4ab9e661a84dd783d1ae89145c2d5723&amp;chksm=ce3f193cda155f14abb742300a2b692264323502ec1c4295d2dfe28f546c8dce9f04f199351c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[使用Compose Navigation3进行屏幕适配]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6SR7U8S9LCDjpVpIq56KPc2zQXnoiag5icaULl0Wv9d9O5mXWMyq7wnyC7WtKJpXZhImNmuQZo7fIibzZrz165gHN8nTlbDvlCEf30/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章将介绍B站是怎么使用 Compose Navigation3 进行页面的宽屏适配，并解决其中遇到的问题的。本文所涉及到的 Compose 页面均已完成了 CMP 跨平台化适配，内容中基于安卓习</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504142&amp;idx=1&amp;sn=305433f230b634c8b3d3215cd4b962d1&amp;chksm=cead65772719b09b365a8e3ed11d18b1f618c01aca874916c45f41459e089769e6aa2d0a9ed3&amp;scene=0&amp;xtrack=1#rd</link>

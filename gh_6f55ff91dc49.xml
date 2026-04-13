@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3RD4CWtnv2NKOXtHIv2Cmb7DlU5BWE2J3KVqToxsG9XMgX6iaaO1vh2XLiauRWs0vGPhFqNHCzu2VfIQDNKw3MRZTxhh4iaiau4ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Caveman 的开源项目，可能是最近全球开发者圈子里最有意思的 AI 省钱方案了。前几天看到一个帖子，标题大概是教 Claude 用原始人语言说话来省 token。我当时觉得这什么鬼，点进去</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4&amp;chksm=f8f7216986c2d231598a4fd771467521b0324c3edaf7aec02f6dc1bc6d4c24d8e1876aacf2cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 12:36:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开源 10 天就飙到 4 万星，这个项目收集了 58 个知名网站样式。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3O61Kvgk9nHFMpoDFhzbpsRfFemiaaibrV3LnIVxQctbHvs2KbuYhy2Am2OBiarBWWnlfaBoA3fQZviaeaxcKydDtzOuOhqic8ZImc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个开源项目有意思，解决你的 AI 生成的界面丑陋的问题。最近刷 X 的时候看到的这个开源项目，10 天不到就拿了 4 万 Star，火得一塌糊涂。它做的事情很简单但很精准：把 Nike 、Claud</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532964&amp;idx=1&amp;sn=4f387278f226dd4b85b19760a01f642c&amp;chksm=f879f9496521703f00d3d4b7ab2b6d25efeada83efeced33222b62d3457782e07a0aad151f02&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dlVo4qU2QNEprF7CKjTx1kQrAiadzMtCkKHr6UyGgtfhv1r1RsUsKE3ydLKbqEZnZIEna2SIKZzYQIQpH9l3EAgpSKHz4BLIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>015美元芯片上跑AI助理最近逛 GitHub 发现了一个挺有意思的项目，把 OpenClaw 塞进了一块 5 美元的芯片里。这个叫 MimiClaw 的开源项目，核心就是一颗 ESP32-S3 开发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531632&amp;idx=1&amp;sn=edfe01eb6144d3f1b935cf66504db95b&amp;chksm=f8bd33e1bea892a7b9407fa57e24e42491d16d892d818b94b4eb04f6fe3b04e3c7e02ce1f618&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Feb 2026 15:06:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逛逛的粉丝推荐的 GitHub 项目，收藏一波。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0pLz2GrtuMb7VZlicxRwF1GXaDz61QMYFgcLjSC8YL5MVZsgyISicw2TWqDXWMLlDVeZdpia4MUUv4GtDKcHnTBIWB3d9mUcCV64/640?wxtype=jpeg&amp;wxfrom=0"/><p>01论文配图自动生成：AutoFigure-Edit写论文最头疼的是什么？画图啊！尤其是那些流程图、架构图，画一张得折腾半天。最近在 GitHub 上发现一个叫 AutoFigure-Edit 的开源</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531608&amp;idx=1&amp;sn=fdd0808ec3ab2453028847f73c08a47e&amp;chksm=f8b9244dfe530703ffd37b7e494b974f2dfa4c55e248b4176a9623009477d2eb9fbc6bf1b0fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 16:40:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

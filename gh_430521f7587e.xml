@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[高德全量开源具身操作基座模型ABot-M0]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXgbxCoGR9NmjsIbpaqrPiciboBadXK2RKuT3GwYwKdJdT8HWeZPYkza7WqlFhOMmc2csiaBePgiaGP2W8pOqSDsN39RpysTonnmYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>高德宣布正式全量开源ABot-M0——全球首个基于统一架构的机器人具身操作基座模型，可实现一个“通用大脑”适配多种形态的具身机器人。据悉，该模型在Libero、Libero-Plus、RoboCasa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239107&amp;idx=1&amp;sn=1019c6ade58eaf8a8f8b70a1d934cddb&amp;chksm=bf6d37c7ac157ad41e378a40494b4768a96a4f694ea54af8b083f689ba32208154fc1c9c3b4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 15:46:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[中国半个具身圈都来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUYANDUGRc2WZTCbnmIW28fnTu0mLpQNWTHYSPN39uZkq9UnJJztTFuWTic7N8ibFEHktQkSMGglc1UG2lj1JYNfx101pfju98qA/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月22日-24日，FAIR plus2026机器人全产业链接会将在深圳会展中心（福田）9号馆重磅启幕。本届展会定位于“世界级机器人开发制造技术大会”，聚焦机器人全产业链技术与开发资源，以学术会议、标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239107&amp;idx=2&amp;sn=a7a5bf7655a1948df10e3ffe18fa763a&amp;chksm=bfa8c43317eebc0c8a5a841667d3509b0a8b6641b80b23270abaa1125e8aa3b7373aedb8e52f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 15:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[📅4月24日，OSC源创会 × FAIR plus 2026]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVoMc4n9fpVvLyuSJ85cO6B7dARQeGG9ibcSp0Im7P6ic5NxhXCOk6SdDDgiage1Pob31ZCPsAxicGkTOCu45qm0xwCguCIHRty5sI/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239040&amp;idx=1&amp;sn=b4af7b27c59730dea39b109eda7e1fe8&amp;chksm=bfbdf16c72cfc258d8e3d04a9f4e269bcb058d3836451f9d127786fe50a43f16bf145b9785e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVeWnITtUyjZELsAgESJW5PSMT3wicxUVoA1D4DXaDJPOjO4CdaN2ibr0M9qiarrgLpoUn32PeAYMSw9l2bQAJgVFgnjboSsX1AKo/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 The Information 的报道，人工智能公司 OpenAI 内部正在开发一款全新的代码托管与协作平台，目标是在研发流程中减少对微软旗下 GitHub 的依赖。据内部知情人士透露，Open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=1&amp;sn=22fb6e4cf33cb3c62a69078e1fd7f7a6&amp;chksm=bff7dfb1ea5e7a947726413c680f794b62a1d4757a62a24210000cd19fec70586a9b9a688411&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Mar 2026 16:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gitee Go 流水线升级：新增 Rust 构建插件，全栈工具库大扩容]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/x0qaNQwt1tIacZV6VwxzyHP6ZP2u0ias0o9F6xsEOzL6LsXbSAfIt4LJbYAxCd9cNvzp06nKTwltTibkw7KYDIw1GicKq9Fsxeg0AABK7IMjH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 CI/CD 流水线中，构建环境的版本覆盖度和环境一致性是影响交付效率的关键因素。为了更好地支持开发者在不同技术栈下的构建需求，Gitee Go 近期完成了一次底层工具链的深度升级。本次更新重点补齐</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=2&amp;sn=1f101fe7ad097a296b7237684b5934e5&amp;chksm=bfbcf915f4d6fac8eee9551571239ccc26ea106352dafe5b1419b56d10f47a50f450c7f24f6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 16:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里Qwen团队技术负责人林俊旸提出离职，团队或将调整。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXJb56DWvwqJOe5M2970j8p7MoDK0CZpibGweSaUbQWrHHIjjTvxD97emCVLkIoMYFRS7rXlynoaXIVZuexPvNpWqftJjObWMMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>相关报道指出，林俊旸离职的直接背景是通义实验室计划对Qwen团队进行分拆。团队将从覆盖训练全流程的“垂直整合”模式，被拆分为预训练、后训练、文本、多模态等独立的“水平分工”团队。这导致林俊旸的管理范围</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237604&amp;idx=1&amp;sn=1735105d5fd59ab4657de168bec3e984&amp;chksm=bffb639acc48e45c2dcad69953e7db07dc299dca61319abd5e1fc5138d47d41fc4a202c349ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Mar 2026 15:13:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

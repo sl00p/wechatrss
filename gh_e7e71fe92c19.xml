@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ivanti CVE-2025-0282 漏洞复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2za1qyUJicjy4FoU88GFEfWASzTkSNvthYfBJqLoNFzia26YJiaIpuIjsqy6UB4t2XVwMuUQTZmKMjaIjicdX3DLmwLrzbyc6vqHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建下载地址:https://pulsezta.blob.core.windows.net/gateway/nsa/ISA-V-VMWARE-ICS-22.7R2.3-3431.1.zip双击ov</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=1&amp;sn=30bf32e1f57fead35b98087dc646ed4d&amp;chksm=b055a4e92d37935fe6067b9ebbcf1e332416116bccc2388d5e0b2a48ecef54fc2d355ccf20ca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rockstar Games确认遭供应链攻击，第三方SaaS成数据泄漏跳板]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0uE7or2weQqeibbVZkO28T14jSibicBDm8WDpayWiaYEwn1zB5DdmK5b0941UOCH6xp2g6RsKEUNkXUsk3uzztRFLgZvZNkvwmjI0/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名游戏开发商Rockstar Games于近日确认一起重大数据泄漏事件。当地时间4月14日，黑客组织ShinyHunters公开了从Rockstar Games窃取的超过7860万条内部记录。值得注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=2&amp;sn=a698c9b0dcc0d6aef4d0971e0c2cac2a&amp;chksm=b06694a0e8ce671bb27b3f542e58083d3a70d5094a1fdcb748d12a1822247103f08a4cea51ac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=3&amp;sn=c5fc96050347797a9e72f11a01e8039e&amp;chksm=b05f0cdee6607bd74c0a9b1cc9c05869d3f2250aaa84bbe5833c249d30125d79d944d545ed20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux arm64 内核Hook实现与校验绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ibaFibrrNWYnSdk34KMIia5YCYxEOXHmibTy7FcCpF73NA9leSXS4ItNqCdeUJGd76qMmQEY1xcpUvia944jwfx2LXLJlFNkviaNiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>我手头有一台基于 Linux 的精简系统设备（BusyBox），在提取并修改 system 分区后，设备会出现开机约 5 分钟自动重启的问题。对 system 分区进行了全面排查，始终无法定位原因。经</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=1&amp;sn=a06f6c489372da6017fb6426da80ecc9&amp;chksm=b0386dfd2aedcdadc866d654dabb76835866502c8d0137f540031b324a6d935a076b963d7ee7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[软件ollvm混淆登录参数分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaTlw0f72fK6VibzE3Ohel4TRhaVmhncboAU1Q6MRaIRDwAukgXDtZuG5CMiaV5LtnK6LZ6qyZKp2IS7ERnSCCXQcADNdCheic8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>抓包首先就是进行抓包了，下面是抓到的数据包：POST/mobile/login/pwd/v3 HTTP/2host: passportws.ximalaya.comcookie: 1&amp;_device=</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=1&amp;sn=ce846ffcfcbf3cc48919af7419e28e83&amp;chksm=b05793a5f4a84e872b4793cdfd12cfc81af9d22ab0c50e9af85b3f2f3289050f8d132cee548e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GEEKCON 2026 报名开启！AI干掉黑客，还是黑客干掉 AI？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/R5j52okPbe9icUrTf4G0240RRIETG4AwUIYM07AUWcXupVZE4d0WGibZI4dno6cmwWRpUljVJmoyBHnlNDIfFBwFGVPFtqCpwufl478iaNy0Eo/640?wxtype=jpeg&amp;wxfrom=0"/><p>0月24日 上海西岸 人类黑客 vs. AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=2&amp;sn=a6d0803218514d8f3a7460cba9d68e38&amp;chksm=b04c9fe641ee1494f11c641557b7d7537c4518b2a2a0e0be28a646fab463378fbebc4be39b26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[伪装成 ChatGPT 测试邀请！安卓用户遭遇账号接管攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2v11fnnrvDkSA5MSUM8K5iaLDNS8t9KBiab5LiaWpYKWiavaMxCG0zfZBYqmGzGhGwloSaP2Es7mOO9cc7vdHOdMZLg10Yloso8BI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，网络犯罪分子针对安卓用户发起了一场精心策划的钓鱼攻击——他们将恶意应用伪装成ChatGPT与Meta广告工具的测试版邀请，利用谷歌官方服务渠道降低用户警惕，最终窃取Facebook账号凭证，实现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=3&amp;sn=4223cd02cc353397e0853d9dd1acceda&amp;chksm=b056a20af9584ef81520027a88e8016db9f3aa9f3067601d474f526798867445183b743654e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【含试看】冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=4&amp;sn=d65061702a160a1bb627d8897598a4c4&amp;chksm=b0fc34ab363e31d46075b9c51aecb6d2281ef3720196c53ac3dcbde0bb952270ee89ed4e9340&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>

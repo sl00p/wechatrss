@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Axios高危漏洞可致云环境沦陷，PoC已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2LXbvWBAyWJ5uYzuUfVc5icAyBZKNPHUE8PIJqMMoPjUo7BCUgtEgo71vqicia7C1u1QLo6u7fG0ibKd7CMe2Q5wWHmbPmMv2icDFc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全社区进入高度戒备状态。原因在于，Axios曝出了严重安全漏洞。Axios是一个广泛使用的HTTP客户端，基于Promise，适用于 Node.js和浏览器。安全研究员Jason Saay</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=1&amp;sn=72edd220630536952304d6c41684f668&amp;chksm=bc49a35bcdff4e6ce85bfd377e35e430fd19031b6065e7f664207c0b34697cd303a92f446e25&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Mythos Preview预示网络安全结构性变革]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1kV3Ff54QxfuWvjptTriaeBrnRHxnfKh1dfQVoJHMuBDaJicaF3sadlBVaw4cfL0ciabJMovItpdcGa8dbGvdWKB1VUtGiaosS7lY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Mythos Preview虽不会彻底颠覆网络安全，但两项最新分析揭示了它如何压缩漏洞利用窗口期，并暴露了漏洞管理中的缺陷。首席信息安全官们应为此做好准备。过去一周，业界对Anthrop</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=2&amp;sn=5cd545222e6e1757f1885ca590bb6ea7&amp;chksm=bcdcb2ccbba908aec1de2f3307c3028fdd0f50394bb3bb279a4088601ad56b00fd43cdeeae1a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI攻击22秒突破防线，警报后响应成致命短板]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3VV5rl6uTyUO89TbkPpaiayx7YsVspGnVSOgvLClpYiaXwsCLMBiaBM5PsOk7VN5zmuqeaPodLY6VrnYv2CYCGGBCO80ANE7GeZ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司上周紧急限制了其Mythos Preview模型，因为该模型能够自主发现并利用所有主流操作系统和浏览器中的0Day漏洞。Palo Alto Networks的Wendi Whit</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=3&amp;sn=5951b354f0f127a35e4bc4a44c00c477&amp;chksm=bcf74182a1b10fa9b092d758a65d198db8f78d5c0bbbc31bd9b1403e220c395b7ebeae704614&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Marimo Python笔记本曝关键漏洞 公开10小时内即遭利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ibfENL3c9ic29PFaMVvokdDhztkrJNkzXNY2zLmg3sAX6Bicgo58GIOynsXN4GONNUXeArRFibKvIZe3ps9iaSMiaeEU1yI3DlvCys/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者通过单次未认证连接即可获取完整系统控制权，蜜罐服务器上三分钟内即发生凭证窃取。Sysdig 威胁研究团队披露，AI 云服务商 CoreWeave 旗下的开源 Python 笔记本平台 Marim</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=4&amp;sn=4218b804e62da43ba33f9c20636ba2b8&amp;chksm=bcebd4f12af6dcd69974f93091d8dd39ff71e20636476f7cdc7da600eeab54c5539d53775222&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI生成的密码不堪一击，企业代码库或已埋下定时炸弹]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2mIutCWoCmPYrrE9LC0rIa06xhMf0pJ4oYJUkm7zGrSrxmzser8Ezo8q4kNZlD8DCMJXSSK8aKgFfrXwzM5EPUzu4EcRcgLKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01警惕AI生成的伪随机密码停止让AI为你选择密码。这些看似复杂的密码实则遵循可预测的模式，而非真正的随机生成，使得黑客能够轻易破解。AI安全公司Irregular与卡巴斯基的两项独立研究得出</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=1&amp;sn=0a77cc6c422f7dbc5a4a12e99b42cb45&amp;chksm=bcff4ac2c2064bb189245936fb5ec90dda971b644186de1f678fef40d8e86c6af36c1141ef18&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3LIfTOSGpWNmbjML3FOhrMOZbLKdOiaNM3LvQDRic4XygUkFicqf7m8ichtAgxuZw8RcRQia9sJbLzOapb1dM7am8vCXEicuwkIHkqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>图左为Joe Sullivan，图右为Joni Klippert随着AI技术推动软件产量激增，安全团队正承受着越来越大的压力，必须通过运行时测试来捕捉运行应用程序中的风险。StackHawk公司董事会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=3&amp;sn=f0719558fdafdd10fb3c3ceb03e889e1&amp;chksm=bc36f45c5d77b1604009f8e79c14e5154fff588968f9eaf38615ace86538c7aef8cfc203a0ad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 16:58:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业押注Agentic SOC，AI重塑安全运营新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1XmILhlsv3csCEg47ZibCMkqBukFccSmczicCpmI8zSBFPfru9CjpTo1oiboUwvCRFicDp3xPBwicrv1FRA3y5WVY3LBBjhfge1qF4/640?wxtype=jpeg&amp;wxfrom=0"/><p>图左为Daniel Bernard，图右为Mark Hughes随着AI将威胁响应时间压缩至秒级，安全运营中心（SOC）正经历根本性变革——一种融合自主机器速度调查处置与必要人工管控的Agentic</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=4&amp;sn=3002b1e7294fe27a62704dde19967b92&amp;chksm=bc5576b7b9fb233eaf4433e8d63e56abee6cddc88276b80aa52f7ed6984362b301f8f4180ac5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 16:58:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude AI发现Vim和Emacs中的0Day RCE漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX03Tvibl726ia3gFXMw8udGicBBMV5q0iarBsXYLvvzvvnT7UNtzsYeZbHCIRDUCtkiab7OsdVCtFc6fz2alp7aFJicZhsdRgKviabNts/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 公司的 Claude AI 成功发现了 Vim 和 GNU Emacs 中存在的 0Day 远程代码执行（RCE）漏洞。这一发现标志着漏洞挖掘领域的重大范式转变，证明 AI 模型能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=1&amp;sn=77188379012661a2b0d833cc2d06ee96&amp;chksm=bc6dc7aac9bbe5a7f5276eae03f14d4d839b9ed4ba991e57c50b3afaa16d2f35c83fa769a92c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[34万星系统破防！360漏洞挖掘智能体揪出OpenClaw新高危漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3BdzMb5Oydf0gpArrNjrHs3dA80yj2iauMbdHw8xibRm8JQSMkFROxribvkug6ECJQpz6Wic6DRypKGoH9DlHXevOkpGywCybrZUE/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，360数字安全集团依托自主研发的360多智能体协同漏洞挖掘系统（简称：360漏洞挖掘智能体），在GitHub斩获34万星的OpenClaw平台中成功发现一处高危漏洞——MEDIA协议Prompt</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=2&amp;sn=9a41b7435ab69108fe6b82051d663d01&amp;chksm=bc8c902ff3805b19c3cd970fdf7f2b10e1783d46621d04aa004b0d3bb29f076ff8009e1662e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[俄APT组织利用DarkSword漏洞工具包针对iPhone用户发起钓鱼攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ic7Fob51QmZRXnue1TppPmia0wjASa0d9NVFwkQicX81tGC7YsqC2YRibRfIEOacw8qLHO42S7WZzfrFTzQWcgvAmppLplEwFXCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击活动技术分析与俄罗斯有关联的APT组织TA446（又名SEABORGIUM、ColdRiver、Callisto和Star Blizzard）正在针对iOS设备发起鱼叉式钓鱼攻击，使用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336596&amp;idx=3&amp;sn=0b36460d17e21fd98bfa5766b1f77e34&amp;chksm=bc80ce23138d70caad348e82f78be99d4be83d7f10b3312bf68a846290eda03eec58603fc3a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 18:00:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
