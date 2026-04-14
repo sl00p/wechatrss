@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当 AI 默认生成 React，Vue 正在被大模型抛弃吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVCX2zQ7AUyeGhzAvibzic59fpnHttjYz7tUqGic3Fr2qy7ib8K7UVPAHeDsGanMYoPrO1atxbjrWfSGZA8cktmWHicfH5wuA5xdPmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在去年 1 月，Vibe Coding 概念被正式提出之前，Vue.js 官方在 GitHub 社区发起了一次不同寻常的讨论。帖子标题是“Official Vue.js AI Rules File</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239154&amp;idx=1&amp;sn=47e0cd15d305f87b66348235fd7b389e&amp;chksm=bfcc66ea27ba6d59c614692a05435957e3bf276747bef9e3a0e528c28b08090571f8e1ca4365&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 16:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[高德全量开源具身操作基座模型ABot-M0]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXgbxCoGR9NmjsIbpaqrPiciboBadXK2RKuT3GwYwKdJdT8HWeZPYkza7WqlFhOMmc2csiaBePgiaGP2W8pOqSDsN39RpysTonnmYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>高德宣布正式全量开源ABot-M0——全球首个基于统一架构的机器人具身操作基座模型，可实现一个“通用大脑”适配多种形态的具身机器人。据悉，该模型在Libero、Libero-Plus、RoboCasa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239107&amp;idx=1&amp;sn=1019c6ade58eaf8a8f8b70a1d934cddb&amp;chksm=bf6d37c7ac157ad41e378a40494b4768a96a4f694ea54af8b083f689ba32208154fc1c9c3b4a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUzMtx1638FC89rENlc9SnMLfPicC36ReibNybeica8bx9psnPibDW4g0wRicClMJDuxeMuX0jE7J9ObDRu0QuW3m2EbznW38piaa4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>HiClaw 是 OpenClaw 的升级版，基于 OpenClaw、Higress AI Gateway、Element IM 客户端+Tuwunel IM 服务器（均基于 Matrix 实时通信协</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237617&amp;idx=2&amp;sn=61e3c422f547cb3013dd5de200cd00c0&amp;chksm=bf9411f47c1d94130b3491dd020fa052064c2c4e36c88c8e002f293c2139d9dafd8c4d28fe99&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 14:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI正在研发可替代微软GitHub的代码托管平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVeWnITtUyjZELsAgESJW5PSMT3wicxUVoA1D4DXaDJPOjO4CdaN2ibr0M9qiarrgLpoUn32PeAYMSw9l2bQAJgVFgnjboSsX1AKo/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 The Information 的报道，人工智能公司 OpenAI 内部正在开发一款全新的代码托管与协作平台，目标是在研发流程中减少对微软旗下 GitHub 的依赖。据内部知情人士透露，Open</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237611&amp;idx=1&amp;sn=22fb6e4cf33cb3c62a69078e1fd7f7a6&amp;chksm=bff7dfb1ea5e7a947726413c680f794b62a1d4757a62a24210000cd19fec70586a9b9a688411&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 16:22:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

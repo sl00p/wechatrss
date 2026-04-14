@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[给你的 Claude Code 装上一个超酷的状态栏。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU25tqWCFeKNxKZXSibNBfZibicgn9fVBM0N4OJzw0DKVFOJoO8sVicULmBogXMlnZu5lbzW1aicEfN6yibs6IFwiawUXtAiax6S6BmvJz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 GitHub 上发现了一个叫 ccstatusline 的开源项目，6.7K 的Star。专门给 Claude Code CLI 加一个实时状态栏。用 Claude Code 的人都知道，默认</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532971&amp;idx=1&amp;sn=529a78c0e14922b380c6c88e4b62b66f&amp;chksm=f8cf659d247457f279113e9d8e4834cde881355ee941420a522fbec6eb231c6405af5a30c163&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 13:05:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3RD4CWtnv2NKOXtHIv2Cmb7DlU5BWE2J3KVqToxsG9XMgX6iaaO1vh2XLiauRWs0vGPhFqNHCzu2VfIQDNKw3MRZTxhh4iaiau4ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Caveman 的开源项目，可能是最近全球开发者圈子里最有意思的 AI 省钱方案了。前几天看到一个帖子，标题大概是教 Claude 用原始人语言说话来省 token。我当时觉得这什么鬼，点进去</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4&amp;chksm=f8f7216986c2d231598a4fd771467521b0324c3edaf7aec02f6dc1bc6d4c24d8e1876aacf2cb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1AgOFEXXbuM7ZfyUJJuADib0hsfFLX9woiaHPCPNChNYDRFZKhT2ticFmzicialz0q7PXUpIzFJ1ib1dGo3TZTHhdUjNZTufc3DBJ6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年刚用 Claude Code 时，确实被惊艳到了。 没上手前，以为它只是个命令行里的模型外壳，用过才发现，这分明是个通用的 Agent。 LLM 的文本处理属性与 TUI 的指令交互天然契合，加之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531659&amp;idx=1&amp;sn=2b7e497d7d58f668e92d04a39935f19b&amp;chksm=f88aed8d95198f3485f57766f5267694f00e3c1d7e6c6db1732098a841482a2a0a21f1f1c702&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 4 个 GitHub 上小众但实用的开源项目，收藏一波。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dlVo4qU2QNEprF7CKjTx1kQrAiadzMtCkKHr6UyGgtfhv1r1RsUsKE3ydLKbqEZnZIEna2SIKZzYQIQpH9l3EAgpSKHz4BLIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>015美元芯片上跑AI助理最近逛 GitHub 发现了一个挺有意思的项目，把 OpenClaw 塞进了一块 5 美元的芯片里。这个叫 MimiClaw 的开源项目，核心就是一颗 ESP32-S3 开发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531632&amp;idx=1&amp;sn=edfe01eb6144d3f1b935cf66504db95b&amp;chksm=f8bd33e1bea892a7b9407fa57e24e42491d16d892d818b94b4eb04f6fe3b04e3c7e02ce1f618&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 15:06:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

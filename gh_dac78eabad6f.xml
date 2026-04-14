@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文搞懂Hermes：新顶流Agent如何从经验中自我进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4WB4heXRs19fzAfn3bV7iaW4sqT1DAMS2Uibj9e2jRNzsJ4g67lKX5EjiamyoAzUrHG6FH7teNeSAPJyvbxXTTCb0wYQscks5Dt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Hermes Agent，重点聚焦其核心技术创新——Skills 闭环系统。该系统实现了从经验提取、知识存储到智能检索的完整链路，形成可复用、可迭代的“方法资产</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695259&amp;idx=1&amp;sn=30ef327bcbbb3e349abd812da627c5f2&amp;chksm=eb520b185facae3e79566ab8fab9c1302fd2acc290b575ac76a41c2c54e143038b101949dccc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯正式发布面向Agent设计的命令行工具：CloudBase CLI V3]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7K3fLIUedibt6cCQQaxRiaJ5icZ9YF1PjJQhVg0m65fhWVhgz0Bwepgqgpep7SO63st36dhJjXtUKqLf9mNWib5xiaFaQTqfBqenJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我们很荣幸地宣布 CloudBase CLI V3 正式上线，这是一个面向 AI Agent 重新设计的 CloudBase 命令行工具。这个版本新增了 15</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695216&amp;idx=1&amp;sn=5b7603357bed357d756bf908a59991d7&amp;chksm=eb94770a41d11476408913840100f12f6b08851f04dd6cd8700eaa1b91296d9043fd0c8a822c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>AI大神Andrej Karpathy发布了2025 LLM Year in Review年度报告，以下是我们总结的5个确定性变化。 一、 RLVR成为能力增长引擎 过去的主流训练流程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693750&amp;idx=1&amp;sn=0e63acfd2b297f9f1e19a93934d177b5&amp;chksm=eb80912c7a9a11ea4bf8b0d5b91a79dca5557d68b7c453379506781a7ffd31df04ae826cc8d7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯技术面：聊聊MySQL五大核心模块]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97WpIoUY1gbFmF1UjKA1wBkUUuYMLcvaUOpWukdaHF1FPZ70oFkGIEsJ1PBtib2p6iaLHx75FwCH9vg/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 前言2 分层逻辑架构3 InnoDB存储引擎4 事务机制与并发控制5 主从复制原理6 分区策略与应用场景7 鱼骨图本文系统剖析了MySQL的核心技术架构，重点聚焦于分层逻辑结构、InnoDB</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693748&amp;idx=1&amp;sn=8d5d030cce11e371f80bc3492cfc7079&amp;chksm=eb5a2bcaaf3ccf0ddb0bcf8dcc6a194b6bb8f2dc78d91eea012c99967dae9073468a123f44ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code 源码拆解：从启动到多 Agent 扩展层]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zdayicYGGBPkxxJicyAiacwaWoboQgc7zLibz0POcsPAPq30r9eQyHwVFdbCeicc3o1Psa4KrlXhpuSiaUFtCbriavnW9PBibvSpLB8PM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章只做一件事：把 Claude Code 拆成几个真正决定系统质量的核心模块，然后把几个最关键的问题讲透。它到底怎</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559548&amp;idx=1&amp;sn=e6a3f5d3b01eb32e14743130fb3a6d2a&amp;chksm=e8cfacfb5e0b405047ad7427575bfe04385baf4b4a58a005269dffa6e9132c7abbbf6ef498af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[浏览器自动化：从GUI到OpenCLI]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w6D1eJhNmA2NPwTib7ciaTzxXZ8Tnf3VRzGQZVfKvibbqoVTlichNzaOjhgD3wibDnibd7bYvNcZJyIicOK0Y62USJKJKDfOcLVN0wsU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章讲述放弃不稳定的前端UI自动化操作，采用解析并复现底层API请求的方式，来解决浏览器自动化的效率与稳定性难题。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559535&amp;idx=1&amp;sn=8eb95438291e8594d674652f6bb7c1df&amp;chksm=e82b145e1ce595de6abc57acab72cb7d6227c0345685ef338cd90feee34c3b4c22019b33dc01&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL9Dr7oLH85FMDI7ImRYhdPZHnk4xRQ3ISeGUghTQBKT1ydL1srpQCoAdNBn72jLuSHVxZ8LnuDgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在互联网流量竞争白热化的时代，A/B实验已成为产品迭代的标准决策工具。当实验数量从数十增长到数百甚至数千数万时，传统的人工巡检模式遭遇瓶颈：需要专业的同学每日投入4-6小时逐个检视实验数据，判</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558131&amp;idx=1&amp;sn=73317842c9c513c3bde07efac9cee952&amp;chksm=e8803e9872294de744a7980e25d7560f5f072bab71cdb3292a252c822da123f986719ccf3b95&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 02 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 ReAct 到 Ralph Loop：AI Agent 的持续迭代范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJZiaSgIdywJ6AArsUjzsTLQuOSVEEia0XWibEf9XQXhzQfI1Mf1MvHiacAR91ukH1KBOk7b0fpbpExyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>痛点：AI 编程助手为何总是“半途而废”？在使用 AI 编程工具时，开发者经常遭遇以下困境：过早退出：AI 在它认为“足够好”时就停止工作，而非真正完成任务单次提示脆弱：复杂任务无法通过一次提示完成，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247557988&amp;idx=1&amp;sn=b70b03f87eedda96f43a8dc7ec05047b&amp;chksm=e8b1bc94cc33bbaabb5f72bfee0e6f8815d8b0d0c4f5a8dfa2c1d00458d5dce78a21c943688f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

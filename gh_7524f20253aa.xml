@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0M6afRhgaRMPMU447rCbRFaJx9aEJ8T2jQ1Fc9hLgI1icRV7FtHMIHELnD30LwmdCwNGO07LwwVmXog4ttmZz2vQqYQTUNYhMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>像Anthropic旗下Mythos这样的AI模型，正以前所未有的速度发现软件漏洞，这不仅加大了小型开发者面临的风险，也让黑客能够更快地利用这些安全缺陷。Anthropic负责评估AI风险的Front</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337048&amp;idx=1&amp;sn=7238361cc36d8446dbd7c8ed85cb2f42&amp;chksm=bceef80676ef972f2f65445bc5234006f6f808b65750d71ebece390d044659ff80763fcfc03f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 12:52:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Codex利用全局可写驱动接口破解三星电视获取Root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1bU4xhurriacBuenQ0fvgWCMcA5Kibpt940R2dic6pf7GMQX2Wev6ZhNjRL7BlOSTJ2iaJD9L5Ar0hy1rOrX70dsOp9QydOSg9RXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 的 Codex AI 模型通过利用全局可写的内核驱动接口，成功在一台真实的三星智能电视上实现权限提升至 root。这一发现对硬件厂商如何处理消费电子设备的安全性提出了严峻质疑。这项由 C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337048&amp;idx=2&amp;sn=9c80224fdd29876191e8582916d00f80&amp;chksm=bcafb51fc7bd9a898335376987d215e143ca91ab0c879929bbe281305f9ba94680ddcf56c125&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 12:52:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[0Day漏洞可禁用CrowdStrike EDR，签名驱动成攻击利器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2N92Mon8iatyheJWq0l41XkbOJoSwFrdw6vC2dUOiaNiaRRetlEibw41pCqoOxshaWkG9ib4JI6ibaTAJmv4FcjnNaKCfNsgB0LgNj0/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现了一种新型的 BYOVD（自带漏洞驱动）攻击技术，能够关闭包括 CrowdStrike Falcon 在内的一流终端安全解决方案。通过逆向分析一个此前未知的 0Day 内核驱动，研</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337048&amp;idx=3&amp;sn=73ff083e0dce83870491bef3952f5c94&amp;chksm=bc03fb5922b9ef96d0c801057fbf07c31488a13ca96a7615d7cabdffd0f586523197a55380c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 12:52:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI技术拐点已至，安全领导者必须立即采取的行动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2fUHJkq9w2BTMKL3Jw09gVasLlaiaqFMtKJyfYyEZt7NloLKkvcro7P11locH4icwibeFU4AeeKEcpaCMW0oNOW0OLJRabX0t554/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客攻击已进入机器速度时代AI对安全领导者而言已不再是理论话题。这项技术正从实验阶段走向实际应用，并日益产生可衡量的生产影响。过去一年间，我与CISO们的对话主题已发生转变。核心问题不再是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337048&amp;idx=4&amp;sn=2857db2fbc60c553175bd3102270503d&amp;chksm=bc57bb3c0512c24ea15f323ddb09bb50d695c0fc94fb8e95eabd66fa8ecaadb0265f9f6dbc9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 12:52:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Axios高危漏洞可致云环境沦陷，PoC已公开]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2LXbvWBAyWJ5uYzuUfVc5icAyBZKNPHUE8PIJqMMoPjUo7BCUgtEgo71vqicia7C1u1QLo6u7fG0ibKd7CMe2Q5wWHmbPmMv2icDFc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全社区进入高度戒备状态。原因在于，Axios曝出了严重安全漏洞。Axios是一个广泛使用的HTTP客户端，基于Promise，适用于 Node.js和浏览器。安全研究员Jason Saay</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=1&amp;sn=72edd220630536952304d6c41684f668&amp;chksm=bc49a35bcdff4e6ce85bfd377e35e430fd19031b6065e7f664207c0b34697cd303a92f446e25&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FaiaQtWzchwV99RHiaR3BurPdVWIBTvezZycxlibdbcSed9sPnBNIiaiaWqHBwiaUFm24Lm4WjN3RPicSfGNwz38OOFZNibXG4fT8w6c/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI Agent高速普及催生企业安全新鸿沟AI Agent正以机器速度涌入企业环境，但管控其访问行为所需的数据中心化安全措施尚未同步跟进，导致企业AI部署出现新的安全断层。Veeam软件公</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=3&amp;sn=fe668727d3e68ba7c1fdcd540677bb96&amp;chksm=bcdc25ee264039a47fee6fde91303f6f4cd58fc348448f7adf8c999518a8361a088a4f38109e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ahjjH2ltibX2GFIvU259kU7FkS8Uia3HAsniatYGH9EIkUFQhId1wYHVXdaI2epicnlQND3nC9qopibne5xurP857HLrKniaXzHQrM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Nginx-UI 备份恢复机制中被披露存在一个高危安全漏洞（CVE-2026-33026）。该漏洞允许威胁攻击者在恢复过程中篡改加密备份文件并注入恶意配置。随着公开的 PoC 利用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336656&amp;idx=4&amp;sn=fa271bf683cae974dbfafdc497d70e09&amp;chksm=bceb3bd178be53a749e931fe128f5887cd93e6ba59ac1555e0173eb8983ae5ecfaa7b1588b8a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Axios“核武级”供应链投毒事件始末]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX345IGSnBrezeRQYF62ibIzXmxLAw0Dyp89NoW4NQW6icpvyFCryZn9QWuAicNLC0ZXgeVtWzkbTwmya5H9UpdOWiboauWX2CJkicyI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月31日凌晨，JavaScript生态遭遇了一场堪称“核武级”的供应链攻击。axios，这个每周下载量超过1亿次、被超过17万个项目直接依赖的HTTP客户端库，被黑客通过劫持维护者账号，注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=1&amp;sn=980bb90fbcbc3a4df630ccd700eefbcf&amp;chksm=bccf5604d37a842aa3532fd6f76eff88d357cf264e3c67db61b8dc159fd84f6b46a3be443a8d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 16:58:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从渔翁信息看量子产业生态现状及发展趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Y8pBpe4lia79qJxicaBvHWwz107aKPcaAOln6Iu3KRicwaOCLZGusk6KkWSomCakicDHYFZ1sGO2oib1jvVIFmZgjiaujbia7EHEP4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>渔翁信息深耕商用密码领域近三十年，是我国量子安全领先企业之一。2014 年起，渔翁信息作为国内老牌密码企业，先后参与京沪干线、武合干线等国家重点量子示范工程；在量子技术应用层面，与中国科学院、中国科学</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=2&amp;sn=def9bac42125142eaa97ac525ee37576&amp;chksm=bc8e0326daaa8cc1a76d1e3ab2c949c34abe634a51b13a63844f542afdece6b81e51e7e2746b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 16:58:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI代码爆炸时代，运行时测试成安全团队最后防线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3LIfTOSGpWNmbjML3FOhrMOZbLKdOiaNM3LvQDRic4XygUkFicqf7m8ichtAgxuZw8RcRQia9sJbLzOapb1dM7am8vCXEicuwkIHkqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>图左为Joe Sullivan，图右为Joni Klippert随着AI技术推动软件产量激增，安全团队正承受着越来越大的压力，必须通过运行时测试来捕捉运行应用程序中的风险。StackHawk公司董事会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336627&amp;idx=3&amp;sn=f0719558fdafdd10fb3c3ceb03e889e1&amp;chksm=bc36f45c5d77b1604009f8e79c14e5154fff588968f9eaf38615ace86538c7aef8cfc203a0ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 16:58:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

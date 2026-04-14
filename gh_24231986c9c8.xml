@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw的启示：身份权限管理是AI Agent时代的阿喀琉斯之踵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fecg7homcibehVP4ro7r0SGke8j0AHib47tfpNIFRl0Lfb0XssDsptc4IgHufNaRIMqYXVf0Pw8wVVq2QI0eepmVEOMZZLrspeErA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：现象级爆发与安全崩塌：OpenClaw 启示录2026年初，随着 OpenClaw 等自主智能体（Autonomous Agents）框架的病毒式爆发，人工智能领域经历了一场深刻的范式转移。从“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519254&amp;idx=1&amp;sn=59a6b003989511a6a221574c354b452f&amp;chksm=e87211ed4dc31c63185f0e091246a50f30f8d9738db2a4491b123c43450e449de9f19c9d6b21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 17:27:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVPR 2026 | 火山引擎多媒体实验室提出TempR1，显著增强多模态大模型视频时序理解能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedG5sVP3icUjKuI7LS5egLzMuYds9yZvS3zvcPBMDjbJndXTDzhyiaPDIibChnqQoa4DNjSTTGDJzSPP8fJibBUhQdQ68PSXBYaibvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在智能视频检索、人机交互、长视频分析等实际场景中，多模态大模型（MLLMs）对视频时序动态和语义的理解能力至关重要。然而现有方法要么局限于特定时序任务、泛化性差，要么因刚性监督导致过拟合，难以捕捉细粒</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519230&amp;idx=1&amp;sn=209fae1cf3181ef41ad3d6ed766ea077&amp;chksm=e841612d4be39bd94b385ca12880e95d49b7818118463136a011014c402bd5e35c79fe7d99ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjBB9eMD4Pd2lQf9PvIJiaPsicQHfXgmibOk5K0qzPsuNYK6xx9lVcCkML0espLFofPIPGt2BN98FI0w/640?wxtype=jpeg&amp;wxfrom=0"/><p>赛道详情参赛选手需从企业真实需求（如数据分析、办公助手、知识查询/管理、营销推广等场景）出发，基于扣子（coze.cn) /扣子空间的能力创建一个 H5 或其他可复现的成品项目，推荐结合使用豆包编程模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517574&amp;idx=2&amp;sn=eba80391ac451716001e85977c84ebb8&amp;chksm=e8a5f6f0f0b360b9478c5a19df2e2dd419bb146e2d94228af6df9ccd754d1b74fb82f9397446&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 17:47:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎 MongoDB 进化史：从扛住抖音流量洪峰到 AI 数据底座]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjAnfPQX3e3ad6BRKoR3U9goIFm5N09GDByaz4o5oQuCsoSfXpJicJPtNfWmZ17r5MTFzdzgMoNocg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在生成式人工智能和大模型迅猛发展的当下，数据已不再仅仅是「存储」对象，而是智能应用的核心资产。MongoDB 凭借灵活的数据模型、丰富且高性能的查询能力以及原生向量检索能力，成为构建 RAG 系统、智</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517486&amp;idx=1&amp;sn=d23f31af222e0a45f7b303a400a4bb6e&amp;chksm=e8be0c1da63c55bf6ff504809999bb0d91cc4fac22b6effdab5d93bd4a66b0abbfcec464a59e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Nov 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

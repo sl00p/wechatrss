@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[就业/积分/落户一步到位！上海重点急需工种——网络与信息安全管理员（三级/高级）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bia6F904wLk2UEqsiaCOrNiaibWghh378OrWJfhRPicNYcrusgkG1kz8eT5uk0SBt9ib7vSbzheibMUwUQWa8eVF7WYtlPl1X8eIIeo/640?wxtype=jpeg&amp;wxfrom=0"/><p>在数字时代，网络安全就是国家安全，网络与信息安全人才早已成为上海重点急需的技能人才！网络与信息安全管理员（三级/高级）证书，不仅是国家认可的正规技能等级证，更是上海居住证积分、就业求职、职称评定、落户</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=1&amp;sn=b07aa0550d5ee51da26ad96310dc6937&amp;chksm=b0dd147730d7db168d95bb1eac7672cfbb337db1ddee72abcdf686fd72f7d367f33e5e3b06ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无声的提权：Windows攻击链中的进程伪装与UAC绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MDpWT8drXlfgHLwItY0VWCGzgWbBZ6AsdI6kh7I7QDxFvmZ1zfuLIxKkSKFLek6objz92sbF3hFhTicLdRic31DSpJbyscTib74/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.引言在 Windows 攻击链中，许多看似基础的提权手段依然频繁奏效。在缺乏可用漏洞或需避免高风险内核操作时，攻击者会试图让提权看起来像系统应有的行为，以避免打断用户或触发告警。因此，“进程伪装”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=2&amp;sn=da477c224b836820e9225556a4d1a962&amp;chksm=b024d7ca1fb9ae52817dc54abd31d51ff952d1d888b55ed5b3bb77266e5722b15638b3852e16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0zmibOWtnrMN7cVh7YAIYL1BzcBy3awU41qr6VaTD03kJf0Gic9m5NQR8wtTaVsyGjP89x9SHaMxzpHQ3IbFINyep6iaVCl2kYKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月14日，微软在月度安全更新周期中正式确认，其SharePoint Server存在一个高危零日欺骗漏洞，该漏洞目前已在野外被威胁 actors 主动利用，对企业部署的SharePoint</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=3&amp;sn=d5076ce31c456b0a5d868670a8138e94&amp;chksm=b021dba38c222b11bcd725a588f879375ff9866dc6f150abc010f18ed6002a0222e6fe37de69&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ivanti CVE-2025-0282 漏洞复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2za1qyUJicjy4FoU88GFEfWASzTkSNvthYfBJqLoNFzia26YJiaIpuIjsqy6UB4t2XVwMuUQTZmKMjaIjicdX3DLmwLrzbyc6vqHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建下载地址:https://pulsezta.blob.core.windows.net/gateway/nsa/ISA-V-VMWARE-ICS-22.7R2.3-3431.1.zip双击ov</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=1&amp;sn=30bf32e1f57fead35b98087dc646ed4d&amp;chksm=b055a4e92d37935fe6067b9ebbcf1e332416116bccc2388d5e0b2a48ecef54fc2d355ccf20ca&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3TfPHH6nSQwD29CCzG8MKXod0waVbz4h9eOA3WSN5DpkBENN4NCWVUbB6esJwGDAH7pVsWaiabxTZ9TqJFEYV1WzlbfKibv6Y0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个混淆也算是从OLLVM继承下来的老玩意了；简单来说就是对于一个basic block，在它之前创建一个相同的basic block，这个新的basic block包含一个opaque predic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612529&amp;idx=1&amp;sn=141a6f2efed42c448a12d542a855250b&amp;chksm=b0d824309af823e6ac58d90e18e52c132831d9d83c1e3743c8065c9fa107272981280d7b7f99&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 17:59:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy紧急发声：日下载340万次的LiteLLM被投毒，黑客一个bug意外暴露危机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0ntQ8YbsoZSm37PcbmQicqINuQyBnEDOwnzqeh2TuvBO4SzXyZMIG2TY4X7OlYPHLXz8yQNopVXqQuXYiaRroh243MCbUtiagNiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一场悄然发生的“供应链”安全事故，可能已经波及了全球数十万开发者。一个名为 LiteLLM 的热门Python工具包被黑客植入后门，恶意版本虽然存活了不到一天就被下架，但在此期间，大量敏感信息可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612529&amp;idx=2&amp;sn=cc12ddc0315e3b33608ab6df6cb2b1b0&amp;chksm=b01ffb36dd37ad2ab8fbef1a48eccd608c7e59eef3faecee7e7a952d981337d2595b2a1eacde&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 17:59:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux pwn 探索篇]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HjZyhhjc5PkkiaFR5e7Z3ST4ibW0suV2NRw5vGdjp576BBSZwSibH3PCp3cywpT9ktETtPUwHkzg1LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>想要在CTF比赛中游刃有余地完成PWN赛题，带领团队独当一面吗？想在二进制安全领域打牢地基，为今后的安全生涯建立强有力的后盾支撑吗？热爱二进制安全的学生及安全从业者们有福啦！平台最新打造课程《CTF</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612529&amp;idx=3&amp;sn=7d79025a5151b4542f375b33b2ad8e19&amp;chksm=b09a71564b7711149e71c245a726d1836c272b9867351780107377f0038c89d5f12c864bb164&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 17:59:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[软件ollvm混淆登录参数分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaTlw0f72fK6VibzE3Ohel4TRhaVmhncboAU1Q6MRaIRDwAukgXDtZuG5CMiaV5LtnK6LZ6qyZKp2IS7ERnSCCXQcADNdCheic8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>抓包首先就是进行抓包了，下面是抓到的数据包：POST/mobile/login/pwd/v3 HTTP/2host: passportws.ximalaya.comcookie: 1&amp;_device=</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612391&amp;idx=1&amp;sn=ce846ffcfcbf3cc48919af7419e28e83&amp;chksm=b05793a5f4a84e872b4793cdfd12cfc81af9d22ab0c50e9af85b3f2f3289050f8d132cee548e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
