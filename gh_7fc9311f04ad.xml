@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从聊天窗口到多 Agent 控制台：一次 AI 编程协作范式的转移]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPIKvhiaIcTrDuWb76qMgZ6brrSwqICm8dHMN2JvJyDSnxFtJpEDltsFPr5QHVwdlib5BCLMr2rDQA4licXE6U7He2VYGc8FGrH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。过去一段时间，随着工作中 AI Coding 的占比越来越高，我逐渐感觉到当前 AI Coding 的协作范式已经不适合</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559601&amp;idx=1&amp;sn=dca715222390e89a63a45ad54b1c9d7d&amp;chksm=e8dd8449bde02eae42b2d37f3377c02e99e120ab2c1506611394b05b7793ceb6f02cb17413be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code 源码拆解：从启动到多 Agent 扩展层]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zdayicYGGBPkxxJicyAiacwaWoboQgc7zLibz0POcsPAPq30r9eQyHwVFdbCeicc3o1Psa4KrlXhpuSiaUFtCbriavnW9PBibvSpLB8PM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章只做一件事：把 Claude Code 拆成几个真正决定系统质量的核心模块，然后把几个最关键的问题讲透。它到底怎</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559548&amp;idx=1&amp;sn=e6a3f5d3b01eb32e14743130fb3a6d2a&amp;chksm=e8cfacfb5e0b405047ad7427575bfe04385baf4b4a58a005269dffa6e9132c7abbbf6ef498af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIY4eiaejicQ6Kh78NicqfpgWaXtgM3riag0rqxuyXKjfOsCjdHEZqG6f1tgeUUYUKjcwmDcwcsDzfzgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 核心目标：从“代码产出者”变成“文档定义者”这篇文档不是教你怎么把 Ctrl+C / Ctrl+V 换成“让 AI 写代码”，而是希望帮你完成一次根本性的角色转换：Code is generat</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558172&amp;idx=1&amp;sn=4352d94bba884ceac8f3f231a9074910&amp;chksm=e8ddb0f78363986a0e2f37f4f3667f341878c742eb22c532316b3f3c2e8a0336326af121fa30&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[生产级Prompt自动化推理评估A/B实验结果的工程实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL9Dr7oLH85FMDI7ImRYhdPZHnk4xRQ3ISeGUghTQBKT1ydL1srpQCoAdNBn72jLuSHVxZ8LnuDgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在互联网流量竞争白热化的时代，A/B实验已成为产品迭代的标准决策工具。当实验数量从数十增长到数百甚至数千数万时，传统的人工巡检模式遭遇瓶颈：需要专业的同学每日投入4-6小时逐个检视实验数据，判</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558131&amp;idx=1&amp;sn=73317842c9c513c3bde07efac9cee952&amp;chksm=e8803e9872294de744a7980e25d7560f5f072bab71cdb3292a252c822da123f986719ccf3b95&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

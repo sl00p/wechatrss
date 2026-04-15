@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[苹果紧急更新！腾讯云安全还原Plasma(烈焰)团伙攻击iOS过程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun50jX3mDtQhM90OsP0OvgsJdicorz4GibfoN7arFgkca8ts622HJPQxDXVrGyicVjhHpYZEaenGd3oXClty54t9QdyiaBiaf2iaPcNkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月16日，腾讯云安全团队捕获到iOS 漏洞完整攻击链样本，并发现在 iOS 高级漏洞利用工具包 Coruna 之上运行着一套名为 Plasma 的模块化恶意软件框架，其背后运营团伙以大规模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529328&amp;idx=1&amp;sn=b5070c832878090cb2f5a75c5ddde44a&amp;chksm=c1ad4893c0051bdd04f8c4bdd56307e3e8ea3ea840f71dbf4b261d815facd7ca15aec01da67a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 18:48:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯云发布 Token 防刷解决方案，精准狙击大模型黑产]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun6upUicggH7mWR2d3MaH3tkm2iaxYod7vUrFyhl8ictN2BMDxDfdKIrkiapqA5Apu9ypibbQDZdvZUMmOiaIvvs5sKlR92cEU0sj7YQI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor、Windsurf、Devin……这类 AI 编程助手扎堆上线，开发者写代码效率翻了好几倍。尤其是OpenClaw龙虾爆火之后，Token需求更是暴涨。目前，全行业日均调用量已经突破 14</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529320&amp;idx=1&amp;sn=1dc51329fac332d2774795a1c42bcc72&amp;chksm=c132c19795d3cc05386184a74e7a8132290a3c990a6eaa94f4f13587c10c036e52b7810f2512&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdemAqWlJTvprcvbapPUB3m2rqHxcm10nEIah7DheNic0iapn0PiaibAmMwpELVspZs8ApBKo5KcLibnzEdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯云、腾讯研究院联合国际权威研究机构Gartner，共同发布《企业级智能体产业落地研究报告》。报告系统提出智能体落地场景评估方法、深入剖析落地挑战，并结合腾讯云安全的核心能力，为企业构建“高可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528289&amp;idx=1&amp;sn=3ec50e7b780dc6085e0e824b480066e7&amp;chksm=c1d853c949b39e94f392a67a5a1d16027a000dc8079bf7cd3674bb2474cb6f39325ade4a3af5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 19:40:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯安全闪耀2025东京游戏展，ACE和WeTest双线发力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdenIzoPJrDiaLT3pDol72qog4ZNXtrhrFJs4683kq5x06dicz5BJ0ZHF8wm1fQMFRDH2yn7CEWTyafWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，日本最大规模的游戏盛会——东京游戏展（TOKYO GAME SHOW，简称“TGS”）在日本隆重开幕，在全球范围内引发高度高度关注。腾讯安全携两款自研游戏安全产品——腾讯游戏安全ACE与腾讯质量</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528243&amp;idx=1&amp;sn=0551aa4d9d6194d06e1063fec6834902&amp;chksm=c1c76f68bb679fcecf27704c2ace39145b5cb2411fdc3b8e00612e2120bcf95efe80d21ced5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Oct 2025 14:05:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

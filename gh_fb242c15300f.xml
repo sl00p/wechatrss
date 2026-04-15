@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[x64dbg插件无驱动过vmp3.9.4反调试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwc5TBib8eqedgwRpLJsjl7cM4KELQWfXJnbS6nrEFezo1yB96xJ0FrWYOjDHicQY9teJIZdqDK7KkTHjddLCC0NoO3IIA4Y7mV4s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：yoyoRev最近研究了一下vmp3.8 3.9两个版本的反调试，大差不差，有微小差异，过的手法都一致，在此给出3.9的大致流程高版本vmp使用rdtsc指令进行随机路径的syscall</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144264&amp;idx=1&amp;sn=189e58a7a9ec333be36e0093a5b77c92&amp;chksm=bc42785afbd474dc6073e640bf9b5f2f613c36772fa07a3957a4a48e224a2c447c11a9e5baf6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 12:09:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[心流鼠标手势 FlowMouse正式登陆 Edge扩展商店]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwd2Qg0BsTkZ6R0GjecfVqcTzh7OtFW7k3SMSTNRk8VuzC6yQZASC1OTf7JO8iaMFVgPoCp1NzA4ICZOdjKoWG6brfogR7HflzCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>吾爱破解论坛官方原创作品！心流鼠标手势是一款追求极致流畅与隐私保护的开源鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。上线不到4个月，迅速获得大量用户的认可，目</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144244&amp;idx=1&amp;sn=7a466d35733e347c9a9de66ccc14827e&amp;chksm=bcc2cfb283e8762d6b2dc7e9ca49f1285eb5ac43a70958742befed8252832fb90c183d022fd0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LFPriaSjBUZJOFSxVvmpIGdibIV3sNS2pGbVwjjmibnUphHMAzhMcSa8Tw7jlCULicEh5Yw0KnXt00UCBh441icKRicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果说论坛里有什么共同的记忆，那只出现在 404 页面上的小猫，一定算一个。总有那么一个瞬间会“偶遇”它，当帖子消失、链接失效，你便踏入了404的领地。而在这里静静等着你的，除了些许失落，还有那只熟悉</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143492&amp;idx=1&amp;sn=2b35e3524c10a82beb0003f7a79173c5&amp;chksm=bc57433c5915f73f46be591a176d26e8ee82df2cb3e84a55d0023bc41b738096b1174a7e8ecc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 12:39:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[某短视频指纹和纯算 sig3 逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LFPriaSjBUZIDUx5UTM5lFTcduAydTib45bR4fe6Oe7iaG4QJfiaUxcXiafozsfXfKBNbAz10chbAnPjobo28BaUgWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：Nulsec本文章内容仅用于逆向学习，请勿用于黑产行为，如有侵权，请联系本人删除，未经本人允许，不可转载。前言这是笔者第一篇关于APP逆向的文章，文笔过于青涩QwQ，还望海涵，属于入门系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143477&amp;idx=1&amp;sn=1b3920382e039bdba49d844aa0b0dd05&amp;chksm=bc78978677d5511568c540f6181b793f0207b7bd219e673948e05296d50cb32888977c4ac5b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Jan 2026 08:34:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

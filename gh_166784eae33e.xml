@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9RXVibRuIYQQ8Fs1TsGC0D9Va73o9pWBJ4l5HiaHPRstRp2pbsbnak4cxnKsBia66mk2J1hK2zpJkTstR9Pa2M4MGDumMr03XiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述nginx-ui 项目（一个开源的基于 Web 的 Nginx 管理界面）被披露存在严重安全漏洞 CVE-2026-33032（CVSS 9.8），该漏洞已被野外积极利用。Pluto Secu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518385&amp;idx=1&amp;sn=d58d026a8394e3b8a17a1409246d5653&amp;chksm=ebd5e25e37b2aa70aa7f053f42e72363845faaafa7cf967da4ae7b727190ddf234514fb366ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 11:52:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.04.03 ~04.09)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibqsPtDVVd4eIJgpXx3TTmP8MbJGHLE6fmAW7iaOxX2g2vdjHMuhc3apsWbAwtTpxeWSlMy1V1gib5gOrtuAJQIueYcfRFpAiac68/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.03 ~04.09攻击团伙情报CyberAv3ngers 利用美国关键基础设施中的可编程逻辑控制器进行攻击APT28 入侵的基础设施用于监视其他目标Kimsuky 组织已改变了恶意 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518318&amp;idx=1&amp;sn=16c8aadedaebd27f33769be4064e6416&amp;chksm=ebed4a3da49737762ad3a28580b012419b2e7a2836facc17af14a0834b005c4133533f9420ee&amp;scene=0&amp;xtrack=1#rd</link>

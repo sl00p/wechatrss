@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[在飞书操控你的 Claude Code，这个 GitHub 开源 SKill 好用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3SibGrSTOwCHNuD4OqTiaVBGXsBq4YibmR2llXlBMicBlvCJW7f4B2NkFMwcLFbyICe2NHsuiav4BS2RBg5CWNZWic7gqXUDfMWo4co/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛逛在自己一个老的 Mac 电脑上部署了 OpenClaw。我把老的 Mac 所有数据和配置都重置了，专门用来养龙虾。但是自己的主力电脑没有装龙虾，我很多工作流都是在我主力电脑的 Claude Cod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532986&amp;idx=1&amp;sn=d93844d4566df1b9a29ea273078d5151&amp;chksm=f8fe40284f3f9c4be1f935f339d57ea2430be5bcfcb580fb539b7b13737452765a1819b41c9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 16:05:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给你的 Claude Code 装上一个超酷的状态栏。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU25tqWCFeKNxKZXSibNBfZibicgn9fVBM0N4OJzw0DKVFOJoO8sVicULmBogXMlnZu5lbzW1aicEfN6yibs6IFwiawUXtAiax6S6BmvJz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 GitHub 上发现了一个叫 ccstatusline 的开源项目，6.7K 的Star。专门给 Claude Code CLI 加一个实时状态栏。用 Claude Code 的人都知道，默认</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532971&amp;idx=1&amp;sn=529a78c0e14922b380c6c88e4b62b66f&amp;chksm=f8cf659d247457f279113e9d8e4834cde881355ee941420a522fbec6eb231c6405af5a30c163&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU29BFcGATSBjekcuWXhhxuNjmaicC79jz5SmKibmNKloDDKk3BFAAic0PG78ibYjSKzsM3I25IU4sDoUFyxloCf1Z7Njib39Nq44iaicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>01写爬虫再也不怕网站改版了做爬虫的朋友应该都遇到过这种痛苦：好不容易写好的爬虫脚本，网站一更新，选择器全废，又得重新调试。最近在 GitHub 上发现了 Scrapling 这个项目，专门解决这个痛</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531694&amp;idx=1&amp;sn=e65efb15229469a1082827a90c737771&amp;chksm=f843b6dd69e7b5c5b6fef220a27e8716a3fd7196af69e8cca597427b19ddca65c5b017ec6c74&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 15:27:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4 天狂揽 2 万 Star！带你从 0 到 1 手搓迷你 Claude Code。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1AgOFEXXbuM7ZfyUJJuADib0hsfFLX9woiaHPCPNChNYDRFZKhT2ticFmzicialz0q7PXUpIzFJ1ib1dGo3TZTHhdUjNZTufc3DBJ6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年刚用 Claude Code 时，确实被惊艳到了。 没上手前，以为它只是个命令行里的模型外壳，用过才发现，这分明是个通用的 Agent。 LLM 的文本处理属性与 TUI 的指令交互天然契合，加之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531659&amp;idx=1&amp;sn=2b7e497d7d58f668e92d04a39935f19b&amp;chksm=f88aed8d95198f3485f57766f5267694f00e3c1d7e6c6db1732098a841482a2a0a21f1f1c702&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[神级开源插件！一句话让QClaw变3D小镇，Agent工作可视化，赛博云监工]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6lygRNulGvtwb0NMiakfZZaX4ysKmVJPDts8CUMVj44BG9LiaZ28k93czicxjPshibNbVrMzAJosgGAKHP7FBZNoxm5rqS0T8IB7E/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇15 天，我和 AI 吵了 185 次架， 4.5 万行代码，开发了一款 QClaw / OpenClaw 的UGC游戏插件，这可能是人类跟 Agents 交互</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695289&amp;idx=1&amp;sn=a2aed60923f784bde036f9b062f829ef&amp;chksm=eba205a990e62737a7177c25a50b1a3fcd21b9307cfb82f8f42149286db5d3385287880be1ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文搞懂Hermes：新顶流Agent如何从经验中自我进化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4WB4heXRs19fzAfn3bV7iaW4sqT1DAMS2Uibj9e2jRNzsJ4g67lKX5EjiamyoAzUrHG6FH7teNeSAPJyvbxXTTCb0wYQscks5Dt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Hermes Agent，重点聚焦其核心技术创新——Skills 闭环系统。该系统实现了从经验提取、知识存储到智能检索的完整链路，形成可复用、可迭代的“方法资产</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695259&amp;idx=1&amp;sn=30ef327bcbbb3e349abd812da627c5f2&amp;chksm=eb520b185facae3e79566ab8fab9c1302fd2acc290b575ac76a41c2c54e143038b101949dccc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96o7qtXzc7WNADDTbibcsCaNSkqUgvxWwDM24FcserEI5kjAOoqAjI4LhXrJhM4UEL12LCWRiaJfjVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>👉目录1 微服务2 演化式架构师3 如何建模服务4 集成5 分解单块系统6 康威定律和系统设计7 规模化微服务8 总结《Building Microservices》这本书是吃透微服务的大部头，本文基</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693773&amp;idx=1&amp;sn=f9771ae156e0f931785a597530ce6f67&amp;chksm=ebccf1a436c8ac44a4e6b83cbc2dbe830a3d7c1c3da12088e4f20a82d21aaac5a3b15c516285&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Dec 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI大神Andrej Karpathy发布了2025 LLM Year in Review年度报告，以下是我们总结的5个确定性变化。 一、 RLVR成为能力增长引擎 过去的主流训练流程包含预训练、监督微调、RLHF。今年，基于可验证奖励的强化学习（RLVR）成为新的核心阶段。模型在数学、代码等可自动判定对错的环境里长周期训练，逐步学会拆解问题、写出中间步骤、反复校正答案。由于奖励信号客观且可规模化，训练周期可以拉长，能力提升效率很高，算力预算开始向强化阶段倾斜。与此同时，推理阶段出现新的可调维度：推理轨迹更长，测试表现更强。o1 的公开亮相与 o3 的拐点效应，使这一变化被广泛感知。 二、智能呈现锯齿状特征 Karpathy用“召唤幽灵”来描述模型智能：它不遵循生物智能的进化路径，目标函数也不同。结果就是能力分布不均匀：在结构化领域表现尖锐，在常识、边界条件、安全问题上却脆弱。这个形态决定了模型不会自然变得稳定，只会在特定能力上长出锋利的尖峰。 三、基准测试可信度下降 可验证任务天然容易被RLVR与定向数据“覆盖”。当实验室围绕测试特征空间做针对性训练，榜单提升变成一种工程化操作。benchmark越来越像训练目标的一部分，参考价值随之下降。 四、应用层出现Cursor式新层级 Cursor的意义在于揭示了应用的新分工：围绕模型做组织与编排。包括上下文工程、调用链路编排、人机协同界面、自主权控制。基础模型更像通识型能力载体，应用层通过私有数据、工具与反馈闭环，把它组织成能干活的系统。垂直应用仍有清晰空间。 五、智能体本地化与Vibe Coding Claude Code展示了可长期运行的智能体形态，并强调本地化：智能体“栖息”在用户电脑里，直接利用本地环境、私有数据、密钥与低延迟交互，实用价值更强。与此同时，Vibe Coding让自然语言驱动开发成为常态，代码更廉价、更可弃、更适合快速试验，编程门槛进一步下沉。 总结 Karpathy认为行业对这一新计算范式的挖掘仍不足10%。随着RLVR普及，竞争焦点将转向如何让模型更高效地思考与求解，2026年的主战场会围绕这一点展开。 原文链接：https://karpathy.bearblog.dev/year-in-review-2025/ 彦祖亦菲，你怎么看？]]></title>
-      <description><![CDATA[<p>AI大神Andrej Karpathy发布了2025 LLM Year in Review年度报告，以下是我们总结的5个确定性变化。 一、 RLVR成为能力增长引擎 过去的主流训练流程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693750&amp;idx=1&amp;sn=0e63acfd2b297f9f1e19a93934d177b5&amp;chksm=eb80912c7a9a11ea4bf8b0d5b91a79dca5557d68b7c453379506781a7ffd31df04ae826cc8d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Dec 2025 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
