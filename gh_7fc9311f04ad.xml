@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[赛博鸡生蛋，7小时用Claude Vibe Coding一个Mini-Claude]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wgXia5cDJQF0Z3K9DcUq8R2OCWSM0bEEhMLCMFqvIZcOrH5fxQiceNicHxUJHcl4BlzjFpt6H5SyHnua31qtHk3pWVJ9x94xTicd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。本文章是小白向文章, 面向想要了解或者自己动手验证 Coding Agent 行为逻辑的技术/非技术同学, 使用Vibe</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559624&amp;idx=1&amp;sn=fc5df385231f0b0418ecfd127158faf2&amp;chksm=e8ecf5a5d0606358f0b9633bff342d68e17a7d7ed66fdb071b62d4aabc2144a4879ad2856850&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从聊天窗口到多 Agent 控制台：一次 AI 编程协作范式的转移]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPIKvhiaIcTrDuWb76qMgZ6brrSwqICm8dHMN2JvJyDSnxFtJpEDltsFPr5QHVwdlib5BCLMr2rDQA4licXE6U7He2VYGc8FGrH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。过去一段时间，随着工作中 AI Coding 的占比越来越高，我逐渐感觉到当前 AI Coding 的协作范式已经不适合</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559601&amp;idx=1&amp;sn=dca715222390e89a63a45ad54b1c9d7d&amp;chksm=e8dd8449bde02eae42b2d37f3377c02e99e120ab2c1506611394b05b7793ceb6f02cb17413be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlcjgiaxa7ls2GGBsOqmTOfDvmZarkuOsZJumkd1QzzvEbx8GmBnDNAFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述在 AI 编程时代，通过 SDD解决上下文腐烂、审查瘫痪、维护断层三大工程失序问题，并提供一套轻量、可落地的人机协作 SOP。0. 前言：让 Vibe Coding 可落地TL;DR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558173&amp;idx=1&amp;sn=a510f5608a758b601b342d7c8920af39&amp;chksm=e8f7631de2174f58a695d786ba5c37f1c019deeee30b60e25e72c08331ca1f1bcc8508fc99ea&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从传统编程转向大模型编程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIY4eiaejicQ6Kh78NicqfpgWaXtgM3riag0rqxuyXKjfOsCjdHEZqG6f1tgeUUYUKjcwmDcwcsDzfzgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>0. 核心目标：从“代码产出者”变成“文档定义者”这篇文档不是教你怎么把 Ctrl+C / Ctrl+V 换成“让 AI 写代码”，而是希望帮你完成一次根本性的角色转换：Code is generat</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558172&amp;idx=1&amp;sn=4352d94bba884ceac8f3f231a9074910&amp;chksm=e8ddb0f78363986a0e2f37f4f3667f341878c742eb22c532316b3f3c2e8a0336326af121fa30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

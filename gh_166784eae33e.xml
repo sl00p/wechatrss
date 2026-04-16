@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.04.10~04.16)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicISNPXOZJ4bAuK4CIAYW9ic8WNQNhx60zymIk7D8E89jiaibdjm0Ld3NeyibNBibmbMGaIFibZqrQ1EE3UUA5wm4c1tqIAnJPYown1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.10~04.16攻击团伙情报APT37 通过 Facebook 发起的有针对性入侵活动APT35组织在“史诗之怒”冲突前对目标进行系统性网络侦察Storm-2755 针对加拿大雇员进行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518448&amp;idx=1&amp;sn=216169f08223a886a191c4fa9c75aeeb&amp;chksm=ebdb74004f75e31bd5aa65bed2f1a8c61b45a113cbdd1e14aadba4d9688cb55362f4d9cb025d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9RXVibRuIYQQ8Fs1TsGC0D9Va73o9pWBJ4l5HiaHPRstRp2pbsbnak4cxnKsBia66mk2J1hK2zpJkTstR9Pa2M4MGDumMr03XiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述nginx-ui 项目（一个开源的基于 Web 的 Nginx 管理界面）被披露存在严重安全漏洞 CVE-2026-33032（CVSS 9.8），该漏洞已被野外积极利用。Pluto Secu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518385&amp;idx=1&amp;sn=d58d026a8394e3b8a17a1409246d5653&amp;chksm=ebd5e25e37b2aa70aa7f053f42e72363845faaafa7cf967da4ae7b727190ddf234514fb366ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic0cRPvDGEc963CnqU1QOC52E8ou8EM6QzL7UqyNTj3BHDWUOP8lSEvs3JFFXlI78p2VGLXhdmaSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>执行摘要本报告深入分析针对 Oracle E-Business Suite（EBS）的关键漏洞 CVE-2025-61882，以及其在大规模勒索活动中的实际利用情况。该漏洞 CVSS 评分为 9.8（</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516258&amp;idx=1&amp;sn=35067a93c015611f3492b7f989480289&amp;chksm=eb3d694c352f82cbbbbccc0bc8805ce101dca303f5066dab746a43d3299cfa476fc376de7745&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Oct 2025 10:46:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.09.26~10.09)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicRmiatQpbMCBz95Dx8bMIj3v7t0LiaJN0XLT7DTedicxEUdGAfsSzKbWAB43tWRR5s9ibrnLVhZ5xqzw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.09.26~10.09攻击团伙情报Cavalry Werewolf 利用信任关系攻击袭击俄罗斯公共部门Confucius 攻击工具从窃取器向模块化后门演进分析 DPRK IT Workers</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516252&amp;idx=1&amp;sn=51b593b738d783d8be5d07886f82ca3e&amp;chksm=ebeb01d3c0908cc3434e788ecc431e80c2f57d4b79a29e60de83e3fbcaf5c4d6de8f0d2a337a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Oct 2025 11:27:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

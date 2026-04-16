@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Opus 4.7发布，AI安全防护升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CKV6akiaCAfLY14ciaaJzfOAvm9iaCL1jPwyOXy0HiaAFtn7qASBYdiaQevQctoBuFHeMWUORIdgoOIPOuxhFK2RHR8ql3nAtAWbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>构建AI Agent工作流的软件团队正推动前沿模型向更长时间的无监督任务运行发展。Anthropic正式发布的Claude Opus 4.7正是针对这一需求设计，在软件工程、多模态处理以及模型自主执行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=1&amp;sn=da296ad4925fefd42a4baebd12008663&amp;chksm=bc2a5726720922658ecb19476fdb4acdba7948599a0262233ac09efaf3f37e1cf35ad4cb0e62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI升级Agents SDK，新增沙箱环境保障AI代码安全执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX27MGgk9O3AADl5VibS7F6icSdvUQX8LlvQy0RLuqfNkdcCKia0cc1DUFibqicdEnz4jnwNLibsCWSCicJkaPmRnibic7AZUbopvmkicPOWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 最新升级的 Agents SDK 可帮助开发者在受控沙箱环境中构建具备文件检查、命令执行、代码编辑及任务处理能力的 Agent。本次更新为 OpenAI 模型提供了标准化基础设施，包含让</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=2&amp;sn=e6d25cd2ed0ba06887b82d16645262fe&amp;chksm=bc3dc0031d48e0825f9225868cdbdb2292ac56be838537ad3921460207f77089608359993d47&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SpankRAT木马劫持Windows进程隐蔽攻击，VirusTotal检出率极低]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tZznt3b6zCYcE23fP5XxPS6qIsX98WylGrvo2oiciaiaVvk4DN2eIJPB3PSDgEtfcwRHicwmQqIBj3ACTh8AxO3wu1CPlecdEf8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现一款名为 SpankRAT 的新型双组件远程访问木马（RAT）工具包，该工具采用 Rust 语言编写，能够滥用合法 Windows 进程绕过基于信誉的安全防护机制，在 VirusT</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=3&amp;sn=dae6f1c953c6b64f3758554fb2b5386f&amp;chksm=bc4411592090566a23cdd5dee7ff1ffce176a30771735bbd8d25f2115dd3e4f101b6c2099016&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Splunk Enterprise与云平台漏洞可导致远程代码执行攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2bib7aiaQBm5YmYxicqLU45vEWQliaUXcXhOtMVABfxIwOBIgHg8XhwhXXqiaQMicAE7eicKVglYWZ7TRUQSDPsI2zElDmumt9SHsogQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概括一项影响 Splunk Enterprise 和云平台多个版本的关键安全漏洞（CVE-2026-20204）已被官方披露。该高危漏洞 CVSS 评分为 7.1，对企业网络构成严重威</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=4&amp;sn=8a6279d6009ee17a5603a42f2eeaa75e&amp;chksm=bc421fad6db332bc0a6c4d41f8f02b761c274f61af028e92f11c910781e0f12618621fd4f700&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI发布GPT-5.4-Cyber强化网安防御，与Anthropic展开AI攻防竞赛]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3icSBBRmlrLhFvVggfElJ2DXkmFc5ccdeCU1o7qmbfsFFXOl6Yy29Z1eGZXsOZKe4xp3vfq2m0709O1E7cjvEFbCJJHhFwkdZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI周二发布了GPT-5.4-Cyber，这是其最新旗舰模型GPT-5.4的专门优化版本，针对网络安全防御场景进行了特别优化。此次发布正值竞争对手Anthropic推出其前沿模型Mythos数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337086&amp;idx=1&amp;sn=00b094b61343af1bfa7c69f7bb731a9c&amp;chksm=bca28a6a5dbae89ebeb2b1a2578b97230a52488ff447fa2f938ed112f6de8cedc2a7fd84adab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！⛓️‍💥Axios“核武级”供应链投毒事件始末🧑‍🔧Anthrop</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336705&amp;idx=2&amp;sn=b486012f02a1cb0f89510eb9611c37d9&amp;chksm=bce786174c04eca1a26c7e43d30100f8062a48f3ed8b99bcd4c59ca4d790ce1425047220004a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[东南亚政府机构遭黑客组织USB蠕虫+RAT组合攻击，长期窃密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0TxHg2QvbxQBic6CxpHDZVRTUl6tBZsMQkx1iciaE3zrsa9vXJgm5efYY9Qg3Vt8IoRUlV2Cx8SzbhcWDX5aNNZrp2XCYkRia6mFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击活动概述网络安全研究人员发现一起针对东南亚政府机构的高度协同网络间谍活动。攻击者通过组合使用USB传播的恶意软件、远程访问木马（RAT）和数据窃取工具，长期潜伏在目标政府敏感系统中。该</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336705&amp;idx=3&amp;sn=b43c5b7c0c08cb400e455af580559f72&amp;chksm=bce06c4a0e504f91d7676afebd073a39ea564bbda20fbf7ca25b3ff595c031b81b1b3a605070&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者窃取星巴克10GB核心源码，威胁公开勒索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39riaPwoyLatg8gDeejicNed7JUlLmVeSboz91WewLLkn28OgZtcjrToWMDUCZB8cJicibVZXFmezkP9jFicZULOFsTzSlK9kyIaRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全威胁组织ShadowByt3s宣称对星巴克发起新一轮网络攻击，声称窃取了10GB专有源代码和运营固件。据报道，这些数据是从一个名为"sbux-assets"的配置错误的亚马逊S3存储桶中获取的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=1&amp;sn=2dc0869d73f6cbdbd4223c9ac24f56dd&amp;chksm=bc55d3b5ca34f178d69ce83f6b050a28eda6566d172026b3f2c969dc6311750abf45edc762a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者宣称入侵Adobe，窃取1300万份支持工单及员工记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0V7UnhNZDqn9cAGnOUoZlY4osowiaBPIIiajbMgtyqJfetxSAVNhEvS1Xxds97UibyWkoK8zrLdDwXtvk0sERKQnPRf3icEXL81TA/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《国际网络文摘》报道，一名自称"Mr. Raccoon"的威胁攻击者宣称入侵了Adobe系统，窃取了大量敏感数据，包括：含个人信息的1300万份客户支持工单1.5万份员工档案所有HackerOne漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=2&amp;sn=906e0105624d0c3cf114286479595918&amp;chksm=bc1dd6621c752be60d737d2ab6ba63770c4f33bc99d4b46ac7f70642f3deb07aa4a49e5f4db5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型macOS窃密木马可规避检测，首次移植Windows式ClickFix攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0rGCA1GNwdiaMwQSyZtwricvian3ZtWY8VW8kTB8xLPFgHWkukHlYhFaXUvTianExWAQVp5f1oDYmaNNjmAeh2xr4EGmSnXRmyXV8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01首例针对macOS的ClickFix攻击活动Malwarebytes研究人员发现名为Infinity Stealer的新型macOS信息窃取木马，该木马使用Nuitka编译的Python载</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336693&amp;idx=3&amp;sn=9aa5962a752f6378d42b763e47b1a9a4&amp;chksm=bcd45176585fbaa083320fa4aa77ad25e7c5c9d1135813db1eae9cc679c078dce059fb86295b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

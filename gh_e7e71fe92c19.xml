@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大模型落地必学！提示词越狱与防御，已成为AI安全从业者刚需技能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=1&amp;sn=6295d5114f197edfbdbd39ad5bb1b8aa&amp;chksm=b0f2de0bf4f2b25e1c54603f7f87df4f943f9511d5968648d5ab1ff2101935238c713126b3e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Polaris-Obfuscator中IndirectCall简要分析+反混淆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14WmweglSmfkcpLXLiczKxhtwkbh71ibMyYziaVjcNrIBe0qhIbOU4FRaaIJxFH7DdQG0nAardqoJeBQbUxLetMneycztUCiaeDJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>IndirectCall 简要介绍这个obfuscation pass简单来说就是把直接调用改成间接调用。比如：call func_1改成：; perform some operations to c</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=2&amp;sn=79f352435c823dbe3e29c0ce9dc8c39c&amp;chksm=b0e50ee1a9824a86c823ad2b8cf45726ace64735389726dcc573f003e98b9de76280f0449b3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[绕过杀毒软件！GitHub ZIP成为新型恶意软件传播新渠道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0CJtQkkEz0cXDhzgnhUicBnVZ2TnyrwmficmRynkZHQS5GyF3NVCz3G2ZliawvQxibleqjibqgiaXVT0q3hRy14m4QfiaXZl67Wia84E8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，暴露管理服务提供商Cyderes的研究人员发现一场隐蔽性极强的多阶段恶意软件攻击活动，攻击者借助GitHub ZIP文件分发两种全新恶意软件家族——Direct-Sys Loader（加载器）与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=3&amp;sn=3c11564698af024b827a1f21eab4a339&amp;chksm=b078197058022e2fc39cd0d948a59ef639bb4212a3cfc56928b2a002af56403e250dc2e89830&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[渗透测试练习——DarkHole_2靶场实践：涉及对.git文件的处理，sql注入及利用sudo提权]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uJut6vGDhcHtcGFhkcnPA6amsgrAmhmftcYrPzT0YLRva8CE18mROnhZuGiaqhA8f2KLomUXuAvLxZzXms7GJXHmOFzlrc9GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkHole_2通关思路1.启动靶机2.开启 kali 的 nmap 进行扫描，确定靶机 ipnamp -sn 192.168.5.0/243.扫描靶机开放的端口和服务nmap -sV 192.1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613420&amp;idx=1&amp;sn=fc54ff404c5347378b8105cd2c20656e&amp;chksm=b0c3b7b4286234a47a2bdf31f5b020ac03f260be3b0b067c32e915a9de9e811b37f70f0ac69f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0n9gpDkibbiaS7icz4rtWB9BDibeYbYJR4WOySMn8uiagbebR6icRVHfBq8DXkIEdZYtRq5opSfkwliaTS92MZguicY6DicCUkKpiaDZk1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了对某款基于 Unity 引擎（IL2CPP 编译）手游的完整逆向分析过程，涵盖运行时 Dump、网络协议识别、加密逻辑还原、握手流程分析，以及隐藏在脚本引擎中的业务逻辑挖掘。文章以过程复盘为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=1&amp;sn=a9bf902f18aadcaafe44d0ef6d6454b2&amp;chksm=b0c8f6770b50e233ed4c6d6476769108375e3055ca9416d39b24c3563845e1b3a94a002adabe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型“PXA”窃密木马来袭：专盯银行与加密货币，邮件是主要传播途径]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K28iawDdGaa0NcX7Qib8QoQ4rWicRx574NZMGYJyOH6ibevd1bHb9yCFK6UmgwQtwZlPzrfLuWkgNib0k7MHZjD830kLlwiagKnvEjn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，一种名为“PXA”的新型恶意软件正悄然活跃，尤其针对金融行业用户和加密货币持有者发起攻击。网络安全公司CyberProof监测发现，2026年第一季度，与此木马相关的攻击事件激增了约10%。为什</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=2&amp;sn=f67d13c5b0fd10ec57440e1b5eac739b&amp;chksm=b02766ddac9653be494d9d610b09d0852e17159a80396cba115580e1ace983da761d083e737a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux pwn 探索篇]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HjZyhhjc5PkkiaFR5e7Z3ST4ibW0suV2NRw5vGdjp576BBSZwSibH3PCp3cywpT9ktETtPUwHkzg1LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>想要在CTF比赛中游刃有余地完成PWN赛题，带领团队独当一面吗？想在二进制安全领域打牢地基，为今后的安全生涯建立强有力的后盾支撑吗？热爱二进制安全的学生及安全从业者们有福啦！平台最新打造课程《CTF</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=3&amp;sn=2ecb67b436846cedbce3f2136190e96a&amp;chksm=b0fd87b9341db54ca69f0757dc1d45b69b65faa1c9915aed1d5a8bb26519cbad7e18355f3e52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Android 内核加载未签名驱动的一次实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2GKXQbeJ5RXIY6vmgJo6libE1zs1XF9ALlRIhXSiaxIomc0icgRu22ibmsEsJdl84yk3BOfUu3FgqSkibAMA6l4icMIYHEtWbw8DEFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>测试机型是Honor 50 SE，内核版本是4.14.186，已解锁 BootLoader，通过 Magisk 27 管理 root。前段时间需要测试 4 系内核的一个外设驱动，打算用这台机器,编译好</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612669&amp;idx=1&amp;sn=65a2b6f05bec21859650f8e99655337c&amp;chksm=b0306fb13072add330831fffe025a607029cffaac15a055ffdef172379f804722486f30f7813&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

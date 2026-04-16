@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[字节跳动首创DisCoGC架构，重塑EB级分布式存储GC范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedYrYTQiaAHDzGZ5QX335bucWxf6ytdjaiaDibYoJ1o48L655nkMib6nFHxbkssdmKg8Zza60LP7uXzaVXlUu8g1m74aekwgcLONxs/640?wxtype=jpeg&amp;wxfrom=0"/><p>FAST（USENIX Conference on File and Storage Technologies）是全球计算机存储领域最权威的顶级学术会议，代表着国际存储技术的最高风向标。字节跳动基础设</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519246&amp;idx=1&amp;sn=42a80ee711fb0327f7c332154702497c&amp;chksm=e89c66a0ff9bb6612d2d822ec2297d7f7a551cabd508a12fc9745c96aa73e2c22c3b10b3d650&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[字节跳动前沿技术领域人才校招，正式启动！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedNuWutfsGZ7ctBctIk4Uo3UZqUguEgxR1Mq0CFBFbwsCL5n7ZWlGyec7ktsib9zdBAKjS1FjdqKRxSp27O5E1ic6zDt79bicz7tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“阅读原文”，一键投递，加入我们！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519286&amp;idx=1&amp;sn=2e35bdf1fdc03a5c1707e1be6a84cdeb&amp;chksm=e82ddc1f41ebf8666d7aad74e86cf6a77a5022e0f9190967bfcc3dfeb910a0a751cf6ea30094&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOg79Qia0FIUyKk1VibpaxCFkwicfvYdLhguL5ofR7QkJbrcy4p5r882icRrN5icFMEmh8yamjNlmlNNAcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文将会向您介绍如何利用 Eino ADK (Agent Development Kit) 构建一个强大的多智能体系统。往期链接：Eino ADK：一文搞定 AI Agent 核心设计模式，从0到1搭</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517592&amp;idx=1&amp;sn=5d0e53332bca103cbbf970cd504b76eb&amp;chksm=e8931f06364b9231b7eb6cee957268e8b782043646d1f4bc007ebb742727b6d061f7e0f7b30d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能体防御｜一文了解3种用户提示词加固方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjBB9eMD4Pd2lQf9PvIJiaPsnpK2tRxph929BzhC570l1yLLECreT1iaNOhn5orLCd9yBfXRibES2pKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述智能体的用户提示词加固是一种通过对用户提示词内容中追加安全标签后送到大模型研判的一种加固方案。该方案可以在传统系统提示词加固的基础上进一步增加智能体对安全规则的遵守性，从而进一步提升安全加固效果；</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517574&amp;idx=1&amp;sn=ab6e94ec1a131505920fe4c23e5184f3&amp;chksm=e80b3cbc06313db4c986620a82cfb1e5893aad1e3f751adb1080ec15ef1d8ef548ea40218a9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 17:47:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

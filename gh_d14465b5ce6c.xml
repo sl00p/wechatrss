@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Vibe Coding到Agentic Engineering：重构后台开发全流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904szngkJV1gTzqoZzdQGmaa8Qx62MQX7ERT1QZowzIIMSxFD4R7vwFWrrGAko0y159xrMWqsHibYuIqjcrsgN36WSJ4S5gJKCHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：seanguo引言做后台开发的同事应该都有这个体会：从接到需求到最终发布，我们要在 PM、GitPlatform、编辑器、DevOps 平台、Galileo 之间来回横跳。每次切换都在丢上下文—</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801233&amp;idx=1&amp;sn=6e6eaf8a0e94e8349bbbef4b734dc5c0&amp;chksm=bf2bda30349bfdbe3c8291b3a65108a3c4d3c2f3a43abda867f23c4ac1f01cc4d55d78179f2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Apr 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[装了N个skills之后，鹅厂员工觉得“最香”的是哪一个？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904F7mnzPcyicy857YWxhNzXOu2V7EibnYiaCboKxaic7lD3BTQVw0le8zJZ0O2iahqMptfHFu5kjK7wgS6iaXUe1hojoE4dlseDciaxRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景最近大家都在研究龙虾，装了好多skills，但最常用的好像还是那几个？那么装了N个skills之后，你们觉得"最香"的是哪一个：是每天都在用的那个？是某次救了急的那个？还是自己做的、越用越顺手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801199&amp;idx=1&amp;sn=6e8aaa294cae62786e1cd73e98e82ad6&amp;chksm=bf7c51dbb8c5db6de6aabeef48fe74457f1210d69dcc1984320826c86cf90dcfe73943db2db9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasNtAd1CJKCLbib4hz96KPGQqUkGcsrNu7bIIjbrNyficB7wrNxWOncVfAuaRrk8tbiaVLqQH41xIRjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：huaxing本系列的文章由浅入深介绍LLM的基础知识，从大模型的使用，到原理解析，再到LLM系统实战。 本文着重介绍LLM主流架构Transformer的原理，结合我近期阅读的几本大模型原理书</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649797188&amp;idx=1&amp;sn=04e4bc8bed0941633496109146edc392&amp;chksm=bf9a4fc4abc2bb24defc4fcf139601a89de7ebd0cf6b166e24e38e3b469050057e9fb0d89fe0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 21:03:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从CoT到AGI：深扒大模型LLM“深度思考”的技术演进]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvat0UhZ5qhkOia9OabBzC8YQAsS80h0qKicexV3lV8vib8P5bNxibuEJILBegtQSKv59cUyehgOM7qgqng/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chrisccai如今我们已经习惯了大模型处理复杂问题时，先进行深度思考再给出精心编排条理清晰的答案、惊叹于Agent在处理复杂任务时经过规划、执行、观察、反思的一系列处理复杂任务的通用能力。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649796995&amp;idx=1&amp;sn=0f1e7c8e001b1958ba4e95c79a6402fa&amp;chksm=bff64942c52b7195581aaf45e1b2d4ee375a0b6cc9cc2bc2352d95e227741b36f5bdbd1c20e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 17:52:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
