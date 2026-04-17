@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安全招聘避坑｜普通平台招不到人？看雪这波操作救了无数技术团队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uXrfS80ibxiaDvIvMrYGnsIgNj4xCMPIn1Qt2qEMbgSXvOIpJMfwdwa9xoh9AQgzO1icD5dml3sfib95UQ3ZxsMWYeYPfHHRGtvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>做安全项目的朋友，大概率都踩过这样的坑：A就因为招不到合适的人，项目节点一推再推，工期延误、成本增加，技术负责人急得团团转，甚至一度要压缩项目范围。而另一边的B公司，直接在看雪招聘平台（job.kan</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613822&amp;idx=1&amp;sn=16aee29288de524131ed71db8eb5b842&amp;chksm=b071b0426cdb94f80325ef8cc223cf647592e0c9888e2fd9380ddc7e61c7669f3edc6f7c8e8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从零自研ARM64虚拟机保护引擎（VMP），2.0版本已理论覆盖全部A64基础指令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FXEym65cAeU0Xop70bZf5E2RaKrnXQeAqf0vibYMS5pU8NyrQfIqeNqoqVFOvNsEL0ibXP9rnPa4OmRIIEF13Nx6Uib7h5akbrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>分享一个我最近开源的项目VMPacker—— 一套完整的 ARM64 Linux ELF 虚拟机代码保护系统。不同于动辄数万的商业 VMP 方案，这个项目完全开源适合学习和研究 VMP 保护的底层实现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613822&amp;idx=2&amp;sn=25bed60ebfda8d83ee3773949ee63c59&amp;chksm=b016d43d991a18be758d83d6b788867c4a7f8dd15fa10e9b9b63da7e9233f01da315357a4b03&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型落地必学！提示词越狱与防御，已成为AI安全从业者刚需技能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=1&amp;sn=6295d5114f197edfbdbd39ad5bb1b8aa&amp;chksm=b0f2de0bf4f2b25e1c54603f7f87df4f943f9511d5968648d5ab1ff2101935238c713126b3e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0xwuOaqSAc5AycukFiblqYHBcZDl5S1OTJbqdPfJibmd6umEqrbxZ84WoKFBFocIWNvElBwAYhSyvvRxgEjqAAyGskibWJg7FTTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文为 App frida加密检测流程的绕过思路与详细分析，纯属个人研究分享，关键对抗细节模糊化 分析过程中也遇到不少底层原理盲区，欢迎各位大佬指点。内容偏向新手向 SO 层逆向实战流程，希望能给同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612708&amp;idx=1&amp;sn=5afc9fc4907505c16a534e10fb762401&amp;chksm=b0fb3172f3afb776be69966741fc7fcba1819145a0f4b660eaf15437fb1baf8e04ebe5d628eb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Mar 2026 18:14:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[招生中！2026春季高研班，专治技术内卷，冲3万月薪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、课程安排2w班课程计划表如下：3w班课程计划表如下：*注意2W班和3W班是完全独立噢，没有交集；二、开学礼包升级（1）3W班开学大礼包：orange pi 5 3588S 云手机套装*包含香橙派5</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612708&amp;idx=2&amp;sn=2bd4fdf947bc1a057095bd0ecaabdd8d&amp;chksm=b0e8f96a29b94432f4857425115930c38be5da3d4b3c3bc366d99534a63627eccff86ac8b904&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Mar 2026 18:14:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手游逆向全流程复盘：从 IL2CPP Dump 到 TCP 握手协议还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0n9gpDkibbiaS7icz4rtWB9BDibeYbYJR4WOySMn8uiagbebR6icRVHfBq8DXkIEdZYtRq5opSfkwliaTS92MZguicY6DicCUkKpiaDZk1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了对某款基于 Unity 引擎（IL2CPP 编译）手游的完整逆向分析过程，涵盖运行时 Dump、网络协议识别、加密逻辑还原、握手流程分析，以及隐藏在脚本引擎中的业务逻辑挖掘。文章以过程复盘为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612683&amp;idx=1&amp;sn=a9bf902f18aadcaafe44d0ef6d6454b2&amp;chksm=b0c8f6770b50e233ed4c6d6476769108375e3055ca9416d39b24c3563845e1b3a94a002adabe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 18:00:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

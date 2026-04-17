@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[漏洞利用技术的“起源”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/StcNgRRgTbdhOsogFGEYtIvahYHtQ9pqslbeY1bUUDyfjWKDN89K9a0dBqfKia7mQCiaqr2fcd2now9S6GzV4eIZOumk2mNibZ47cf7o7D6bHE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文摘选自Halvar Flake的一篇文章，书评：《这就是他们告诉我世界将如何终结》。Halvar Flake于2021年2月写了一篇妮可所著《这就是他们告诉我世界将如何终结》一书的书评。该书试图揭</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486939&amp;idx=1&amp;sn=76178a09030df81e779d1f410234a65e&amp;chksm=fae0df628286efc4131a09fc0ebce8875903d47fe8a12c875e358d34fbf3a52e113e0024439e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Apr 2026 17:48:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“工匠”不想再谈Mythos]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/StcNgRRgTbcEIWs9BQgSbXs294w1oMkl8ElUl57n0ib72DXyg5gqwtYMywqJRv8s7btOQ8fiaM79iaUgDBDohK8qA60Z6icHfjLC9l4VSl82QRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我好奇 Mythos 是否擅长撰写关于 Mythos 自身的思想性文章，因为如果答案是肯定的，那么它很可能危及数以千计的生计。https://x.com/lcamtuf/status/20447826</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486934&amp;idx=1&amp;sn=58c1214cc8b7137b2aaf04ba15cdbdcb&amp;chksm=fa33f752d9da6a975847dadd2b74070d92836a6696a40018ebeca1d06d84e9c6deea2ac5e54f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBC3Venb4aRrV3OTnGGkV1QaLUeCzuLiaFMv5gzfnYpntITHuqC7FamJwAFH2YJ6aOjDvVWDWPRyyoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Peter Williams，39岁，澳大利亚国籍，现居美国华盛顿特区，是网络安全与情报领域的资深从业者。他最近因涉嫌窃取并出售商业秘密而面临美国司法部的指控，此事件涉及国防承包商L3Harris T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486579&amp;idx=1&amp;sn=a52ba78d18f8ae6ced974cec56213c48&amp;chksm=fa7505a798438c90e23d1cc91be678077d171131be485b9b78ec2af1b8a58016523b91ae59f3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Oct 2025 23:49:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[原计划在Pwn2Own上展示WhatsApp零点击的漏洞研究员疑似因国内压力取消]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hPq2VZ0zUBD34ictib0ugzXg5GmFbFVXb8XKP1xGcaCWLacdszYs4H0wUBibtaXIeZOgWONq8AjSBYfmRNwU6fflg/640?wxtype=jpeg&amp;wxfrom=0"/><p>在由趋势科技零日计划（ZDI）组织的2025年Pwn2Own爱尔兰黑客竞赛中，总计支付了1,024,750美元的奖金。然而，一位原定展示价值100万美元WhatsApp漏洞的研究人员在最后一刻退出，使</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&amp;mid=2247486575&amp;idx=1&amp;sn=d25ff0744b82c964d7b5dbaad1a5560e&amp;chksm=fa45cd778a4b5ac89a25adac9aca0d8a2a26b75e2d992b39eea088ede1b71af2883e47e7807a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Oct 2025 23:15:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

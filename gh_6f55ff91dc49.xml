@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 10 个本周 GitHub 上最火火火的开源项目，收藏一波。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1mPBNjdst8oN2FMdiaMM09LC8eCiaXHMicnY2fClRqFClziapX8eK64NKxHuvLfAAcGTs4bXj8cfPDvN9G53WaTynsrfhpuNWpy2o/640?wxtype=jpeg&amp;wxfrom=0"/><p>01多 Agent 系统的可视化 IDE之前在 Hacker News 上刷到过一个叫 Rowboat 的项目，说是多 agent 系统的 Cursor。看了一下，还挺有意思。Rowboat 是 YC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533024&amp;idx=1&amp;sn=1ee5f366af5eddd1b67ce633a2756480&amp;chksm=f8fa9825661090a653ea1ac9be71fd24cc99802c1f2fb3b5c23509737281416e38d6754ceb08&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Apr 2026 11:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上刚开源的 Skill ，一句话控制你电脑上的软件。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xCttZ4NTz4viaQd8PTKibdcyjW9g6ibcV7fCemLvXW2g3DnbLXhicAd4x4rtqNFBDicLPL8GCjL31VGSEBHJXCzx3XhzvILsib5Hbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>操控浏览器这件事，方案已经很成熟了。CDP、Playwright，随便挑一个都能把网页上的自动化操作安排得明明白白。但是操控电脑上的桌面软件，我一直没找到好的方案。桌面应用没有统一的协议可以调，没有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532987&amp;idx=1&amp;sn=28d075abf135fb945972a6b8e8a49b18&amp;chksm=f8531f005cca2d3d603ce2adb7423084b963b88f1095714f27f20e531552251edb2eed615a55&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3wZnggM7733PGcOEjys7wTQrJqicYEKCMoIBo7QFtrhd9Djg7mIv0206ZNRUdyjGs3fOkQL7ZnLibIrSIz1I6OKEpcN2ibdicXicsw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Vercel 官方的 Skills 搜索神器Skills 这么多，怎么找到适合自己的？ Vercel 官方出了个 find-skills，专门解决这个问题。它本质上是一个 Skills 包管理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531723&amp;idx=1&amp;sn=b6e3ea8752e949cebac7de93692bbb4f&amp;chksm=f8f553f974df3f17d35ab9ba52e6cf76d849d1f9aaf16fe300e44dcb5c6a1ac1d8ed02faca1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 01 Mar 2026 15:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近群里讨论最多的 4 个 GitHub 开源项目，给劲儿。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU33o63jy3bFdvCGibXdeaNDS3OzXtrqQFUE7MmqtybiaD4qexpcs9zjprH9YWH2lAD43AAL4olfgH7w8ZfyuQnwprjJpN4dXWbZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 打工人经济测试框架港大最近开源了一个挺有意思的项目 ClawWork，把 AI Agent 放到真实的经济环境里去打工赚钱。说白了就是让 AI 不是帮你干活，而是自己出去接单子挣钱。每个 A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531697&amp;idx=1&amp;sn=79a082f970052fac3846ebf4e3fa084f&amp;chksm=f807aa3fd28c8225c808aef8a8ab0d861b2709d8816f995994cbd8ca3b9e78355d9e4f2a4ae9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 14:45:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
