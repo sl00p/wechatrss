@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[消耗了上百亿 Token后， 对于 Agent 时代软件构建、软件形态及未来发展的思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjJiaqcGDdo5D5yoqJLic9NVKL9YOu3JkLlslvWoNC8p3IESxjAXDCOIehNNAB1pQJEyMpOWfUmrJC9Xn2Ojcg2nxjlpLkhT8icvE/640?wxtype=jpeg&amp;wxfrom=0"/><p>转载来源 | TiDB- 平凯数据库 2026 年 4 月 16 日，QCon 全球软件开发大会在北京开幕，2000 多名观众参会，现场座无虚席。TiDB 联合创始人兼 CTO 黄东旭结合自己在过去几</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282002&amp;idx=1&amp;sn=21add37f1b22301dba70e3f6989e9002&amp;chksm=bc0dd5be21ea753c014721bd14fd923cb03df75eb0abbc2b046e5bd53e94fa1cf27f78cf735f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaDsdpRTM0pjWQcO3eKAEvrIrDaPsuEyjz2188V3GWEZxicMXrS9Mnl4wJyd7VB3Fic0WSnlRP5DrnJWiawTgcyZbgJlUzrnuO7pg/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫近日，刚带着对标顶级闭源模型的强悍性能登场不久的 MiniMax M2.7 模型，悄悄变更了开源使用条款。尽管先前将权重公开在 Hugging Face，但当下已然收紧授权：商业用途需获</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282002&amp;idx=2&amp;sn=08a551d853323c94f132fe7adb71b583&amp;chksm=bcc96dc0eff1bb6ceafc0f544273ba4b245d95b9df646f5b343a77787ab813d8103d053791c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhT2VxylYmb9qspQZqib2RdDLqJJ0sVC05iaC3wncG1663uXWFwPPY9w3uOTdmKLlIWV980bsmFhibMrNu5FdrmpvahyV7C8sibdw0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 明知山最近，Etsy 的工程团队介绍了他们如何将长期运行的 MySQL 分片基础设施迁移至 Vitess。此次迁移将分片路由逻辑从 Etsy 内部系统迁移</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282002&amp;idx=3&amp;sn=625cba327ec74b897ed2740a55431bae&amp;chksm=bceefc279c65f4f4f6b49115bba0604664a54d307add020571abe5609ae543a051bcfbcaf576&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google Cloud 介绍了对 PostgreSQL 核心功能的工作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiam50CV2Veov3gaNwHSib9icIWiaExjtnGgFF6ic8kXqnZeJ2qxsRLpqYAxDWVnicuqBZTPEG38m9rx2ZgpDicVlQnmtT1qGxiauXqrIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 张卫滨 Google Cloud 介绍了他们近期对 PostgreSQL 的技术贡献，重点在逻辑复制、升级流程和整体系统稳定性方面进行改进。此</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282002&amp;idx=4&amp;sn=a87dd5149179def51f797dfc5227940a&amp;chksm=bc4f95989c9094841546ac16f6afd5924f9b45bfc37ad98be0c4123cbc385d6c374535b0a10d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic 深夜发布 Claude Design，一句话生成 UI，百亿美元市值 Figma 股价跌了 4.6%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgbqBk6OzCuk2RQpSAc5icsPEbuzQGzrtQuBK3sbWU4tL4aVFMgdOhORuP5jqjgJDeyr3a1m3lgZmckJwB25dDPMIZ5pWiaficN80/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 写代码、做表格、搞分析……大模型把这些活儿干完之后，终于腾出手来对付设计了。这个曾经最依赖专业工具和手艺的领域，终究没能逃掉被重做的命运。昨晚，Anthropic 宣布推出一款新产品——C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281875&amp;idx=1&amp;sn=4b895431c16296fa4ddbb16bda3ceb36&amp;chksm=bce32058d17a358300742a1b698e6f615818bcd39de14f51155739b9cd291e69ae9deb253820&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgNibKmDhRQZ7IbLoQWuOjofXwRnsWJRKYicXnzz02lo0Bicg6NGLP0HGL2ib9ViaVKJh3das3g5MFj5DWSlUMic4upynKSYQe208iaQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 田橙 广泛使用的 JavaScript 和 TypeScript 代码检查工具 ESLint 发布了 10 版本，这是自引入 flat config 配</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=4&amp;sn=5a3d00fb45346759f755b2c2c6c2da14&amp;chksm=bcc4428e4dd95d7e52a78bc936ec5b40a5d29c10d9d292dcafac85c22d3d06b69c0019d28ac3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenSandbox：重新思考 Agent 时代的 Runtime｜QCon 北京]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjj9diaQoGtqzjQcHJRImBP4iaaCppASXfj1oZgMC9HNnkHf1icM5vdHxIPjcthEwMoPibVTGUmcPYxADkuyyAWZnzvUju1ib71f5g0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「AI For What」到「Value From AI」，100+ 可落地实践案例打通 AI 实战最后一公里！4 月 16 日 -4 月 18 日，QCon 全球软件开发大会 将在北京举办。本届大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281130&amp;idx=5&amp;sn=106b5acc8c862431355cb5a51aadd74f&amp;chksm=bca5e1d12c0b36ea8e123119156cd0394ef14af4ee1e1f0edd1f4bac1569fc3ad0b1cc501e5c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 15:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy 亲手终结了RAG的草莽时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjYyqGTTvf6ZCEAIlERM7bX3HYXDibsIezbqwnRSnfE2N7K1N13MbEqotPR3Y9h6VTmeKsV3X09d7a9atUYNyBic56qCp6ibOttWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 在“每一枚 Token 都要精打细算”的共识下，AI 圈一度流行一种略带调侃的说法：真正的高手，不是把 Token 用在写代码上，而是用在更高杠杆的事情上。最近，这一理念被再次推向台前——</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281011&amp;idx=1&amp;sn=bfb28cca9dd167fb2b4497a4a5f1bd06&amp;chksm=bc458a1953cd7f1f0ec57296e646abfd67457c05a24fe49b93167680980a2ccbb29c0cafdaa8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 13:04:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从工具到生命形式：OpenClaw 引发的 Agent 再思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgWOkpAYrJJoWYKUHFFJHTfyMlMZxHaZ3ceBzOzo78rBgBxBBa41KaK6Cozn77aI0jpBrpicnHxUhqPLvcy664o3CoSXGf4wmGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 策划 | Kimmy 编辑 | 宇琪 随着 OpenClaw 强势出圈，自托管 AI Agent 迅速走进大众视野，多入口对话、持久记忆、Skills 工具链带来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281011&amp;idx=2&amp;sn=0e998ef33b0e1694bd78923176a43293&amp;chksm=bc92d97f65e3732dd157c95eb089fa5280156818e2146a73a531036fe4f9ec631d44d9f383ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 13:04:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 时代的架构治理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia4rkS2PluHib4vAia7QdSiaPBkH3yvqLXFnIYPrC6JtCwH11wC4fCVOn0X6Kdk94jiaK1YEIIL54IktT963TYexKJ2XNzDUEEwoLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Kyle Howard, Christian Johansen, Dana Katzenelson, Brian Rhot 译者 | 明知山 本文由 InfoQ 认证架构师在线课程的学员撰写</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281011&amp;idx=3&amp;sn=37a518d8c555d9a3d1d51f1a3a2be803&amp;chksm=bc4a9c89fde4c2077c70f8df67ea4b58285fcde0afc26d79c002ba941b9d4fd605818b045e3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 13:04:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicCZAfKpvTTsNq15lPqt4HV20klxwtjWtiaaVjblrUGKE0Rp4FmzyIuK3DG3l6t4rpcaVSbWSHYXh0uicuAY3WtmTqibWOGa8o8Qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁概览奇安信威胁情报中心监测发现，安全研究机构Ox Security于2026年4月披露了Anthropic公司Model Context Protocol（MCP）协议中存在的架构级设计缺陷。该漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518473&amp;idx=1&amp;sn=39cc2ea54cae3aee275196ef01298f3f&amp;chksm=eb43dd959d800deea670d3d41b0cf4482c55729f8f49289b494c6b4a1330294cfe50977aa26d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 09:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.04.10~04.16)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicISNPXOZJ4bAuK4CIAYW9ic8WNQNhx60zymIk7D8E89jiaibdjm0Ld3NeyibNBibmbMGaIFibZqrQ1EE3UUA5wm4c1tqIAnJPYown1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.10~04.16攻击团伙情报APT37 通过 Facebook 发起的有针对性入侵活动APT35组织在“史诗之怒”冲突前对目标进行系统性网络侦察Storm-2755 针对加拿大雇员进行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518448&amp;idx=1&amp;sn=216169f08223a886a191c4fa9c75aeeb&amp;chksm=ebdb74004f75e31bd5aa65bed2f1a8c61b45a113cbdd1e14aadba4d9688cb55362f4d9cb025d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORcucwr35b83jyF4rIycrELOx58jQYZQLTqWicFJIwF3R3Kn6CNJ4Cv2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2025 年 10 月 15 日，应用交付与安全领域巨头 F5 Networks 向美国证券交易委员会(SEC)提交了一份 8-K 表格，正式披露了一起重大网络安全事件。根据官方报告，一个被描</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516329&amp;idx=1&amp;sn=5a37291bef5900ba692652c16cbae592&amp;chksm=eb4bf0ccf17b3289e2eb5f9200d97679b5c652d2d18a31e547e805dff915044b7f4a6f703591&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Oct 2025 11:47:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用 Oracle EBS 漏洞（CVE-2025-61882）的勒索活动综合技术分析报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic0cRPvDGEc963CnqU1QOC52E8ou8EM6QzL7UqyNTj3BHDWUOP8lSEvs3JFFXlI78p2VGLXhdmaSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>执行摘要本报告深入分析针对 Oracle E-Business Suite（EBS）的关键漏洞 CVE-2025-61882，以及其在大规模勒索活动中的实际利用情况。该漏洞 CVSS 评分为 9.8（</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516258&amp;idx=1&amp;sn=35067a93c015611f3492b7f989480289&amp;chksm=eb3d694c352f82cbbbbccc0bc8805ce101dca303f5066dab746a43d3299cfa476fc376de7745&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Oct 2025 10:46:33 +0800</pubDate>
     </item>
   </channel>
 </rss>

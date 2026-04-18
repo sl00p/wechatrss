@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2icwacJ7K3P4q530L6UpplUj7jYFSEiavB4Q6ZgeCeHuJHQmic6lCbLjPnJmHaXb2cuERhTlIfLcfQ3wkImPqlG2uiaFLTLqltsIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Anthropic 公司发布 Mythos 和 Project Glasswing 模型引发激烈争论之际，一位安全研究人员展示了前沿 AI 技术对网络安全的实际影响。该研究突破了理论警告的局限，成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=1&amp;sn=f5ec0610579c31dc045ac7ec5ae4a7e2&amp;chksm=bc3adbcdffc12b4706fcd160dbe3891b81e096ab50a07351e7bb9d9eba67a1cc3aec9ecf478e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Azure Windows Admin Center现一键式RCE漏洞，攻击者可执行任意命令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0mUZgOVpJAuHjkEyfbFvIuDlk72FT0qiceQHwuPDmibhTkyBLOGPZaHicw8SjPfOEcwbemibN5QS81iaicFbCHLggPrh93gQuPjbdeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows Admin Center是一款本地部署的浏览器管理工具，IT管理员可通过其图形化集中界面管理Windows服务器、客户端及集群。Cymulate研究实验室新发现的这一高危漏洞可使攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=2&amp;sn=c475e4f59cf145077f23bebb5599fed9&amp;chksm=bcb34fed0023c85a77580145601102f59f53320a65045ea28e79ef20e5ed6a0080b677a430a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：OpenClaw与5款国产类Claw 智能体安全评测；2026全球AI安全治理趋势；AI技术拐点已至]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2VcicIc9aABur3Apkhco7ib1mLGLEwevCtic7bVApRBf8w1cdGdYlBZW1F6hMG0P8QURiclI36c67ibFc6SCMzeq0QzV8dIb0N2DQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=3&amp;sn=223155616f01e07588c2cc14a5f0b9d3&amp;chksm=bc1568591dbab81d78db43e63ebfd0707c6c5825fb502ee55cbf5c841a98797187f380bc3ac7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[白宫拟开放Claude漏洞挖掘AI，军方禁令与民用部署冲突激化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3SKFV0I6CrBibDVG2aj4Ydo1BC61laQOQXYYL3fTYxvqBcj6dC1X7jEN7ARsFQBCGibaIFaTgpF8cL6bb9zlYGu02obcl496GibY/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国政府正计划授权主要联邦机构使用Anthropic公司Claude Mythos模型的修改版本。该AI模型能够快速识别网络安全漏洞并具备漏洞利用能力，引发了广泛关注。据彭博社援引内部备忘录报道，白宫</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337140&amp;idx=1&amp;sn=134af642d92b85fc1076a8c83c09945c&amp;chksm=bc6d450c5dffe28b0448e7761420ef0ce6e0ea8afdb419398b221c1538c0324e947607cf0cab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX344s1fXk4kj19IjWYsXUvv72NZUlKJBqPrWo3udkFpvtGrfKtAEsGXmbmprysvsZdhhMNZ2AjwPIVC6ElYD3XoYCx7KGFWniaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet在安全研究人员披露其 FortiClient EMS 存在重大零日漏洞后紧急发布了热修复程序，该漏洞目前已遭到威胁行为者的主动利用。 该漏洞编号为 CVE-2026-35616，C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=2&amp;sn=752efcca27ede9a7dd36a458a051d0d4&amp;chksm=bce8afd38b000eeb01802aced43cdbd757f68e048f15b0984aa379bf18cc1f0e5ffe3b8539d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软披露攻击者正通过利用HTTP cookie来触发执行、传递指令并激活恶意功能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2csJ9pry26JjKAsBLRchSLiaMdib3eAKgvt9lSBEwJYCrmeAKNfJva7oub8LlOg40bPxeunKDdELWg2mnYy7Vwtk2PDLOpID6iaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软Defender安全研究团队发现，攻击者正越来越多地利用HTTP cookie作为Linux服务器上PHP WebShell的控制通道，以实现远程代码执行。微软表示："这些WebShell不再通过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=3&amp;sn=13bc4ba4322e545c146f7b40bc31f12e&amp;chksm=bc35b58cbdaf9baaa5871369c269675725be40d1149529a5c77ba0453c587776cc0473c905ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Axios证实遭入侵源自“社会工程学”欺骗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX35icQPu8biafM9CXeGSYMde5Caceeex73ibHgNfibCYOYjRYgSun3McgrsreYckBVuoRMpzp0AIOoic8uXTSlN26H1IUwIwVgKiczPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意包植入远程访问木马2026年3月31日，两个恶意版本的流行JavaScript HTTP库Axios被短暂发布到npm仓库。这两个版本均包含隐藏依赖项，可在macOS、Windows和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=1&amp;sn=7807ae2c1008e080e203c499b6037a7a&amp;chksm=bccedb91f76d88ef67753e311927f84248e1913e9d10f44591c39ea5a225f0d29618e1460164&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[14000余台F5 BIG-IP暴露，高危RCE漏洞正遭活跃利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2zibt2GP3YicgmiaJjdaJJqzqP9lk2RmjzmGo7cV9wz0RvRARlNTsGicUlJicdGtxrmuVxKG2rUbBCvXDnr2PMd7FEdFXUaicUMdZMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5 BIG-IP访问策略管理器（APM）的关键安全漏洞正遭活跃利用，致使数以千计的企业网络面临风险。该漏洞被官方标记为（CVE-2025-53521），当其影响从标准拒绝服务（DoS）升级为严重远程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336717&amp;idx=2&amp;sn=c01494c486fea17c9e431617f4c2f24d&amp;chksm=bcaaf4dc6d804aeef1ab000bf83ff58d04df7389103b9373532e7121b352e77160bb9f7767b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
