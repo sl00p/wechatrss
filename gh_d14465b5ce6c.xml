@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从提需求到部署发布，全AI全自动化后，研发效能全面跃升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905PHV0siarjfk84jgQXRMay8AZtt75gu2oWfWV1yLRLzzXnhDJcib6j8FKRBlWzEFRQxMBg6MPadFqws5xOboFYIO51ictUhU98FY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：jacksondeng、yuxuanlai、gcchaoguo1、背景与挑战1.1 背景当前从需求到交付的全链路中，大量人工仍耗费在方案设计、代码评审、测试验证等非编码环节，频繁的上下文切换与协</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801307&amp;idx=1&amp;sn=ca2c68447c2abe444b2bdda380b7c849&amp;chksm=bf40033ac88c9c3fd79c102665c024b41c32c6ce22e0ebf5c0731da992147347347dd18f270e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Vibe Coding到Agentic Engineering：重构后台开发全流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904szngkJV1gTzqoZzdQGmaa8Qx62MQX7ERT1QZowzIIMSxFD4R7vwFWrrGAko0y159xrMWqsHibYuIqjcrsgN36WSJ4S5gJKCHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：seanguo引言做后台开发的同事应该都有这个体会：从接到需求到最终发布，我们要在 PM、GitPlatform、编辑器、DevOps 平台、Galileo 之间来回横跳。每次切换都在丢上下文—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801233&amp;idx=1&amp;sn=6e6eaf8a0e94e8349bbbef4b734dc5c0&amp;chksm=bf2bda30349bfdbe3c8291b3a65108a3c4d3c2f3a43abda867f23c4ac1f01cc4d55d78179f2b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvaswlwfxHbicFLs0Yj50dwvoZwd0RbD44LEVZa5HMJerqeIXr2qzlOWhUUO1IqvncBUu7dgtxojC29w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hassonlin、davidpzxie难以查找海量库表、需求紧急复杂、重复性工作多、结果校验困难、追溯记录困难……数据分析时要如何破除这些痛点？QQ浏览器的信息流推荐架构团队基于CodeBud</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649797216&amp;idx=1&amp;sn=4a235b0c623a1e75e16677cf9ec47778&amp;chksm=bf70fa32d2b7f928812bc97610cde4b5e88a11f73d77737f583b7635fe7336eaa814284c8e98&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 17:30:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看懂这篇，你就能秒懂 LLM底层秘密—Transformer原理解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasNtAd1CJKCLbib4hz96KPGQqUkGcsrNu7bIIjbrNyficB7wrNxWOncVfAuaRrk8tbiaVLqQH41xIRjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：huaxing本系列的文章由浅入深介绍LLM的基础知识，从大模型的使用，到原理解析，再到LLM系统实战。 本文着重介绍LLM主流架构Transformer的原理，结合我近期阅读的几本大模型原理书</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649797188&amp;idx=1&amp;sn=04e4bc8bed0941633496109146edc392&amp;chksm=bf9a4fc4abc2bb24defc4fcf139601a89de7ebd0cf6b166e24e38e3b469050057e9fb0d89fe0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 03 Dec 2025 21:03:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

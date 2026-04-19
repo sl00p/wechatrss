@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[自主AI治理会失控吗？阿西莫夫机器人三定律的启示]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2S4zL0krXvLiafyfr5ibTjA5Z2lHEoj2AQ8pGPoAt4wYKlGLDibd0qrArSM6Dn3ZWnm4MygjBDyShLdOp4QXyvibsIk0j2tGhOJsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01阿西莫夫机器人三定律的深层启示阿西莫夫机器人三定律：第一定律：机器人不得伤害人类，或因不作为而使人类受到伤害。第二定律：机器人必须服从人类的命令，除非这些命令与第一定律相冲突。第三定律：机</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=1&amp;sn=aa96344fa272ee910a5bf2c3a792b8a2&amp;chksm=bc0d876df3df8626b8559d30ef31d48acf6a0be0acb44429640927f5aa01eabe1b891bea7ebe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RzZf6IvRgNkztTPOIR6dPAOzDpZIrgCKhw8OZr03ic8CMQP9cEIQLXz49Pu7Ydm2gzpo6xBEzQTODbKXK9ic3oBcuFFzrPJuCM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，近期泄露的三个Windows Defender提权漏洞正遭实际攻击利用。攻击者直接使用来自GitHub公开仓库的概念验证（PoC）漏洞利用代码，针对真实企业目标发起攻击。2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=2&amp;sn=d443a5ec77ac2f1381c169de4d25e727&amp;chksm=bc5fe978b61cd7cf1e48df654c16e4878a5b0f449460e22c1489ebaa3168d3bfd10a38b3874d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1jDB5mXkrV1u97EGo1strOJFRokBUSbcibOINaMlUVhfvpm6sKyjEOP3FEib4lpIVGzrNia4guGXyubmYUxd8cvbiatiaeBa9srCS0/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员已公开披露针对 Fortinet 旗下 FortiSandbox 产品高危漏洞（CVE-2026-39808）的概念验证（PoC）利用代码。该漏洞允许未经身份验证的攻击者以 root</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=3&amp;sn=b6e6f602e25bbd8ff00545860e586f40&amp;chksm=bcff32b2c86b6058d5484e0777afc63b4112b56e9667ad81803ba0b6cd8a36398c0bb6c23cf0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NIST放弃全面分析CVE，转向优先处理高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2lnoplzxMHZGQ0gQ4OexcvyOFibYSweG9WdLJekgbdd5uVbibfmZc2sBPz8L0dHXlrFzvqwtAqKZib1SF8Y0wtMLwOyZzWmkm58o/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国国家标准与技术研究院（NIST）宣布对其国家漏洞数据库（NVD）的网络安全漏洞处理机制进行全面改革，放弃对每个提交的通用漏洞披露（CVE）进行全面分析的长期目标，转而采用基于风险的分级评估模型，优</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=4&amp;sn=7612b179bf4861fac25865d1ba962af3&amp;chksm=bcaff5cbcb51db04bb37d4b5710a2b67772e42fd79551ab595d782a2e1fb81f8cb3fbb8d9d90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2icwacJ7K3P4q530L6UpplUj7jYFSEiavB4Q6ZgeCeHuJHQmic6lCbLjPnJmHaXb2cuERhTlIfLcfQ3wkImPqlG2uiaFLTLqltsIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Anthropic 公司发布 Mythos 和 Project Glasswing 模型引发激烈争论之际，一位安全研究人员展示了前沿 AI 技术对网络安全的实际影响。该研究突破了理论警告的局限，成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=1&amp;sn=f5ec0610579c31dc045ac7ec5ae4a7e2&amp;chksm=bc3adbcdffc12b4706fcd160dbe3891b81e096ab50a07351e7bb9d9eba67a1cc3aec9ecf478e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX27HOT8YA6KQ3rdAqu1zDLDicdhbruTpAQonxRskqMWGwick3HJEiaJ7cAahwfPf6AGmI5Whfib957YtezykK1JC47gFgJ8gVUMbdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在企业基础设施中，开发者工作站是最活跃的组成部分。这些笔记本电脑不仅是创建、测试、缓存、复制凭证的场所，更是跨服务、机器人、构建工具乃至本地AI Agent重复使用凭证的核心节点。2026年3月，威胁</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=2&amp;sn=498309d7db411bd9ad74050569b3259a&amp;chksm=bc8d65fb79ea34e02f353859e75457455bd460fb31c48c3b71f078e21b11f697e6f892d97224&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客借美以伊冲突的导弹恐慌伪造警报，窃取微软账户凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dLOr4Afcibtvg5KN71HoITnNR5pT7QNEfFWku441aoMqibuWVUtr8gqcByHwGzQFkziaPDSlmic5Gd5OgwjpW2UDdo4CiayC6lNos/640?wxtype=jpeg&amp;wxfrom=0"/><p>现代战争形态已发生改变，智能手机也成为了战场的一部分。黑客总是试图从政治或地区冲突中牟利，如今他们正将诈骗手段与美以伊最新局势相关联。研究表明，当人们因新闻事件感到焦虑时，更容易在现实生活中犯错。电子</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=3&amp;sn=66bd3ecb13756e8b5d5534acc4b38c04&amp;chksm=bc0f8858f84a260e7849acd5ecd40014d7d0a50398f51b181d185dd1e84706a51845d7f2ff14&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源AI渗透测试助手METATRON为Linux带来本地大语言模型分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3hTE4xYdibZe8ag2UwReOsOWJzTPsMhGeEMf9gF0fHylL9F78C14S5f6Rj9cCozLxj4Lb2g2Licqea3NnaQTXhNmwFNDBpwnKh0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为METATRON的新型开源渗透测试框架因其完全离线的AI驱动漏洞评估方法，正引起安全研究社区的广泛关注。该工具专为Parrot OS及其他基于Debian的Linux发行版设计，将自动化侦察工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336818&amp;idx=4&amp;sn=7eadffa64bfe64a81f08fb7ef01a429d&amp;chksm=bc4cc7f3f85a9fa39a1fa62ac2deb6e319d4f21317bc720260f407eb2ebba0e9382e4047af94&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code代码泄露引发武器化攻击潮]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1hsTJhxDShaZcHI8zibXz9rytY1lpfibSMhWaSvQ7Gs108AeywkMoQncc62umMT7Ayib9Fjg0M55zlbZ1icI4dop5ibqosWVuU5kT0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 出现大规模源代码泄露事件后，网络安全界已处于高度警戒状态。2026 年 3 月 31 日，该公司意外泄露了其旗舰级终端编程助手 Claude Code 的完整源代码。此次泄露源于一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=1&amp;sn=408127059513eb158f86aa2cfc845a5b&amp;chksm=bc113265a215493e0d1f4e119119f8ba0bbee1b9f1490ec47932ae16703acce4706d2e1f8832&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FortiClient EMS 重大零日漏洞已被在野利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX344s1fXk4kj19IjWYsXUvv72NZUlKJBqPrWo3udkFpvtGrfKtAEsGXmbmprysvsZdhhMNZ2AjwPIVC6ElYD3XoYCx7KGFWniaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet在安全研究人员披露其 FortiClient EMS 存在重大零日漏洞后紧急发布了热修复程序，该漏洞目前已遭到威胁行为者的主动利用。 该漏洞编号为 CVE-2026-35616，C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336774&amp;idx=2&amp;sn=752efcca27ede9a7dd36a458a051d0d4&amp;chksm=bce8afd38b000eeb01802aced43cdbd757f68e048f15b0984aa379bf18cc1f0e5ffe3b8539d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

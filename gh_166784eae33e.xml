@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9aqbrBCb7GFx0S9Tic3ErD5q7fSYDWddToIbtqbnjyw9WBmsFaFdw3ianNOaTgPsLa3fQYDD9DbvlTqjl3j5XKhkwYFJwbpn8J0/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月，微软在Patch Tuesday例行更新中修复了Microsoft Defender反恶意软件平台中的一个高危零日漏洞（CVE-2026-33825，又称BlueHammer）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518486&amp;idx=1&amp;sn=550ba4e79eec1f50c66aa188e04ad78e&amp;chksm=ebf5fd4e3fae987931de36a12474749b307e8ed5d9fe9b25f574cdde84c37a50fefe7a55933b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Apr 2026 14:31:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicCZAfKpvTTsNq15lPqt4HV20klxwtjWtiaaVjblrUGKE0Rp4FmzyIuK3DG3l6t4rpcaVSbWSHYXh0uicuAY3WtmTqibWOGa8o8Qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁概览奇安信威胁情报中心监测发现，安全研究机构Ox Security于2026年4月披露了Anthropic公司Model Context Protocol（MCP）协议中存在的架构级设计缺陷。该漏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518473&amp;idx=1&amp;sn=39cc2ea54cae3aee275196ef01298f3f&amp;chksm=eb43dd959d800deea670d3d41b0cf4482c55729f8f49289b494c6b4a1330294cfe50977aa26d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORHuhHf5TMIL1N4lsKFcWbbqGAqHQTuwv4N9icia2sGfibib3h9TqOwmLLYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.10~10.16攻击团伙情报海莲花组织Havoc远控木马分析TwoNet 黑客组织瞄准 OT/ICSAPT35组织泄露的内部文件分析Mysterious Elephant利用 What</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516358&amp;idx=2&amp;sn=4a524a0a3f679964479f9c2b49515d68&amp;chksm=ebfd7a3f6dca58d7b7cf1a12b3b4aee5239a1720217983acbdbad5cbd5690ddf0ae2a7aa45bc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 09:44:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[另一个 SolarWinds 事件？F5 被攻击渗透事件简要信息整理及影响分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORcucwr35b83jyF4rIycrELOx58jQYZQLTqWicFJIwF3R3Kn6CNJ4Cv2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2025 年 10 月 15 日，应用交付与安全领域巨头 F5 Networks 向美国证券交易委员会(SEC)提交了一份 8-K 表格，正式披露了一起重大网络安全事件。根据官方报告，一个被描</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516329&amp;idx=1&amp;sn=5a37291bef5900ba692652c16cbae592&amp;chksm=eb4bf0ccf17b3289e2eb5f9200d97679b5c652d2d18a31e547e805dff915044b7f4a6f703591&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Oct 2025 11:47:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
