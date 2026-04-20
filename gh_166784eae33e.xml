@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8amjdKC3lKNfntbVWHyWGNnAINOrxibkSv1uHiarcXc36HfFmRgGoaJDROQZT2bEibOS5dywh1GyAGKMo14qZibt0yIPtqB9s2EIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月19日，全球主流云部署平台Vercel发布官方安全公告，披露其内部系统遭受未授权访问。初步调查显示，攻击者通过攻陷一个拥有数百名用户的第三方AI工具（后确认为Context.ai</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518496&amp;idx=1&amp;sn=0c47ed4847403380fdfe3a8f80103b05&amp;chksm=ebcb649138fce5c2f05f017e18826d3fc5d57cfccf92cd898c5baa12909264dc7a2401b31d71&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Apr 2026 10:03:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9aqbrBCb7GFx0S9Tic3ErD5q7fSYDWddToIbtqbnjyw9WBmsFaFdw3ianNOaTgPsLa3fQYDD9DbvlTqjl3j5XKhkwYFJwbpn8J0/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月，微软在Patch Tuesday例行更新中修复了Microsoft Defender反恶意软件平台中的一个高危零日漏洞（CVE-2026-33825，又称BlueHammer）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518486&amp;idx=1&amp;sn=550ba4e79eec1f50c66aa188e04ad78e&amp;chksm=ebf5fd4e3fae987931de36a12474749b307e8ed5d9fe9b25f574cdde84c37a50fefe7a55933b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[软硬件产品供应链攻击分析报告]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicFBeSKs3UjwoshLULJcBSZQfbaFXyFJC9YI6zAfsiavTknIztUwibUap4neGarbQPnict2H5fddMpQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要2025 年 8 月，与勒索组织 ShinyHunters 有关联的攻击团伙 GRUB1（又称 UNC6395）通过入侵 Salesloft 的 Drift 应用程序，窃取 OAuth 令牌，然后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516358&amp;idx=1&amp;sn=3402f2dd396114d5d79f7b674106d3eb&amp;chksm=eb7508381f2afe7a9551e846233b8b2b196bca0e7dcdeb0924efc859fe61a9d52a294a5a27e3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 09:44:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.10.10~10.16)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8lDu7HVrtescTL1icq2dQORHuhHf5TMIL1N4lsKFcWbbqGAqHQTuwv4N9icia2sGfibib3h9TqOwmLLYA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.10~10.16攻击团伙情报海莲花组织Havoc远控木马分析TwoNet 黑客组织瞄准 OT/ICSAPT35组织泄露的内部文件分析Mysterious Elephant利用 What</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516358&amp;idx=2&amp;sn=4a524a0a3f679964479f9c2b49515d68&amp;chksm=ebfd7a3f6dca58d7b7cf1a12b3b4aee5239a1720217983acbdbad5cbd5690ddf0ae2a7aa45bc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 09:44:39 +0800</pubDate>
     </item>
   </channel>

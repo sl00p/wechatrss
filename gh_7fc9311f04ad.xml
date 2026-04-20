@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1x1KicIYiap6hZXcTZQOAjgA39iaVGN1SYoVSTW1U1gL5YGbiaWkUnezfJcoPic5u5K8XKhwhXHIHwYkRUc6D2gicPVnKPoicqLLiannfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章不讲 Prompt 技巧，也不推销某个 Skill，只想说清两件事——在企业工程环境里，如何把大模型 Harness（约束与治理）成一个能持续参与交付的协作者；以及大模型时代，程序员</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559631&amp;idx=1&amp;sn=13935cb98e1b389c3afa8a10a17e9c3a&amp;chksm=e8ca90f426f32d7757aa6a6171bb26bbb9992351ad3a36b5bfb1cbced35898e8080d196a6f15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 21 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析 Claude Code 在 Prompt / Context / Harness 的设计与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wYfMBAxOXIXTWL0tM1p0uMTamcibYvk2eLfKa2kcXqtBE0n2XibowsE9PYvRgAMv2xOKvBtJ4sBtft18sThYlm6XHN0YzgCibbsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景前几天写了一篇对OpenClaw的深度解析文章《深度解析 OpenClaw 在 Prompt / Context /</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559627&amp;idx=1&amp;sn=7847089f5135e5060953f013fa56fd4f&amp;chksm=e85c35206aa7bdd736313a4510a7da36aa60edbb8df213b89368a574c41b55ddac951a8646ad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40V1peVicVaYvxh5yrY1CFPh6woibiaCAahtCeLIl6vmjeKBjicyK3K8Gkiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：AI Coding 提升代码质量的关键——知识库的深度建设在当前 AI Coding 快速普及的背景下，业界普遍面临一个核心矛盾：模型“能写” ≠ “写得对”。尤其在高频迭代、强业务耦合的场</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558194&amp;idx=1&amp;sn=ece018ca2921b2d51176c37a91bd23f3&amp;chksm=e86e8ab0f12fe2b4689656750d1ee2bc7c221a1fdcbc2e79e767671e7b44bcbf5bbc88f73426&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自动化评测的九九归一——评测agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naIdpjEmcSeIuT3B1cFnT5mlQB1ExiaA6xhAu42GT3xoHE7gl16Wv0IrRGxmibhniasPiaf5z93Jv9ujHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文提出并落地统一评测Agent架构，通过让Agent自主学习业务标注标准（如语雀文档），实现评测集生成、自动打分、结果验收与Badcase分析的全链路自动化。背景去年我们围绕商家经营助理场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558178&amp;idx=1&amp;sn=eaa639c6255e7dd20e13f07bc9bf4670&amp;chksm=e85a7edca60782991dbfc7b2cbb91e6fabe38428aa6b68977d584b18b83b73e80020350aa6f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
