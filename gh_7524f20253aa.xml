@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从数月到分钟级：360智能体自动挖洞终结人工低效时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1MG5ZHib72yEoiaice43VwcOMQ07SrAIiaQkE1ICR60fnZUWaXia3reId2QiaYluO43W0DyH9K2u2Xj3sKjUhHKMbzFVvHMYzvLd5sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个让全球网络安全行业不得不重新审视现状的事实正在发生：360漏洞挖掘智能体通过代码自动扫描，在分钟级时间内精准定位了两个潜伏多年的全球级高危漏洞，一个是潜伏5年的Windows内核提权漏洞，另一个是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=1&amp;sn=6241ece47e150b188e8fe461b5e1b203&amp;chksm=bc7e7ce9e9c770b40123c3d930cda3c49755c206a23e10c2824c30cecf79ec3f7448275662ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic机密网络工具Mythos遭未授权组织入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3obXiaQbErjLCOnNc9ziauSFNInTeGmfXdbNOrD19xj61hGBl7eR9IQRViaRbMU2E1cGNEGyrbicibFD4IAZZLW1HeInYe7ialWl17E/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月7日，Anthropic公司正式发布其高度机密的AI驱动网络安全工具Claude Mythos Preview。这款被该公司自评为"危险程度过高不宜公开发布"的AI模型，能够自主发现主流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=2&amp;sn=364342d79d6edc8b968e222fe186346d&amp;chksm=bca98c67ea1cab60413b70805a4896094783054d9f1c72048d9ac5fa14f214cc85ae4b9491a6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows截图工具NTLM哈希泄露漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Tbk8o9PnYW7B5XIbicic1vGPEqAJvnNeQ1lvVfibtZ48McZiauaCRibPxC92oggnMJMNEQYx3kbWETGRL8NoPt4Q9ticYPZYGIBgOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员已公开针对微软截图工具（Snipping Tool）新漏洞的概念验证（PoC）利用代码，攻击者可通过诱导用户访问恶意网页，悄无声息地窃取其Net-NTLM凭证哈希值。该漏洞编号为CVE</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=3&amp;sn=8c774c1c1dd60205b511d98f3e43a087&amp;chksm=bcfdf662082448d2eacc0aa842d69a69388a0c2df806b4dbc8b7bd6708807eca31d96a7f5a54&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SGLang高危漏洞可通过恶意GGUF模型文件实现远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2OtOm8lJ6l4uR79N6nNd5ibGCUPgV5J9T2Mm43byliaqxf59GmqOLy5ItSdic8By1CpROOILhNxwbxq84rdUsibIU0WKnT8Dz4iap8/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 框架曝出严重安全漏洞，攻击者成功利用该漏洞可在受影响系统上实现远程代码执行。该漏洞编号为 CVE-2026-5760，CVSS 评分为 9.8 分（满分 10 分），属于可导致任意代码执</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=4&amp;sn=73d5d7c0ad1fd0eca3c03813767e1799&amp;chksm=bc2532fce68f63790826ce804c06f28f43135f10bb8175895eb33dfe30856137958d702e6fec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Mythos 安全神话：炒作还是名副其实？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3AvaqQ592MnTLuQrzsyVT6hicyBzjCm3Lw5eQmssn71dd1bQiayzuKIo8FRRvTXlCqBtSk7Pdy6tN5vtc5hAbgibOodUmaAobfpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01炒作遇冷：VulnCheck分析质疑实际成效当OpenAI正计划推出专注于网络安全的AI模型展开竞争时，VulnCheck安全专家最新研究对Claude Mythos（即"Project</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=1&amp;sn=460249f4101d706c05c482e9019690de&amp;chksm=bcd0699d23904a6d468e8f298005dd7cd4c1decfdafb4bf66a9a5e1c28f17341eeb76bd07cbf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39vr7tz72zMFP6BJYV9BZ11aNEqV4Rb5EDgyibgoLNcSQ2R5wUN5IGVpU5u7bJSyEibywYNjD2BBt1Pty8RAllPvS82scUnfticQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软近日悄然推出Agent Governance Toolkit开源项目，旨在企业将AI Agent投入生产工作流时，对其执行过程进行监控与管理。该项目直接对标OWASP（开放全球应用安全项目）最新发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=2&amp;sn=ed2b4a8c95b5213c17c6186d966e548e&amp;chksm=bc53bfae510b3d6c074e0eb89d8b36080281bca9f28ea56d9c17624467a5171eb1543dfe64ee&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Docker漏洞可绕过授权机制并获取宿主机访问权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2zF8W1Ikw2Oslz7sf4U2tMcBXqWFAAqdFUnGEp4AFVECPBR7joYhqhRjVyrVicISbSFC3ZpZPvWolNUKJBN6mEMPSWsJcBL6ico/640?wxtype=jpeg&amp;wxfrom=0"/><p>Docker Engine 曝出一个高危安全漏洞，攻击者可在特定条件下绕过授权插件（AuthZ）的防护机制。该漏洞编号为 CVE-2026-34040（CVSS 评分：8.8），源于 2024 年 7</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=3&amp;sn=18d6c020aaf49b9b079a646343ad7d28&amp;chksm=bc4f5ec508a4944706f977aeb663f096819302af662a946c2844fb5ba8bb38c96655fc2a935d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Storm-1175黑客组织在漏洞披露24小时内部署Medusa勒索软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX38PhqNqiaM0GQy1gSAMTnEKrRqUBB38edT3zIsZBrWRDOP1INvWWeTiaMlqIvMEJLOFr27ECHMHJ1IlATUyRib2aNHVEY5cI3t3o/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个臭名昭著的黑客组织正在全球范围内通过部署破坏性极强的Medusa勒索软件制造大规模混乱。被微软威胁情报部门追踪为Storm-1175的这些黑客，已将安全漏洞发现与补丁安装之间的时间差变成了一场高速</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=4&amp;sn=1909ac3864a21b6064d80be9417d3a27&amp;chksm=bc73fdb7442093291de1260534af7b6b9dfa97e907fc08caf61caa3939349585253b5b74313b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic拒美军AI武器化遭封杀，引爆企业自治与政府监管大战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0B2X7vJ1ibU1vqvQBV4wuFngqMQw38WfGQmzvbwRG1moibe3jmlQ05wk6eVQTObJRHfuq47fDUpuoiaX5jXYySFqgm68pW9u4zP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心矛盾：AI系统控制权归属Anthropic PBC与美国国防部不断升级的争端，揭示了人工智能市场的根本性矛盾：究竟谁该掌控强大AI系统的使用权。这场始于合同与政策分歧的冲突，已演变为涉</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=1&amp;sn=e35daf7ae12fedc1a10d652fe8d2944e&amp;chksm=bc4266160b9b8ace19d48b63fbcbf8f7e176e1d56fa31e4e2b8bdb3fd966616dd334fdd4138a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent时代，阿里云的安全养虾秘籍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX09T6VqA94HzBX9Hs03icrmO96tjTmdZmx55x3WZ0bZdUDF5a00TovDeYp7MDJdS01aeMcq90zZIbhF3ELRZ8uibtmiboRvlJTnc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月，AI圈最火的话题不是某个大模型的版本更新，而是一只“龙虾”——OpenClaw。这个开源AI Agent框架发布仅四个多月，便创造了GitHub历史上的增长奇迹。国内的热度更加强烈：“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336845&amp;idx=2&amp;sn=9b1d982d3809fe40f5c45017b4a902a9&amp;chksm=bc67fab5457a4c51af30dea7ce5fb8d32290dcc753ab9422ada79866a8ed26156a45cf2e407d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[YC 总裁开源了自己亲手写的 AI Agent 大脑，1 周就 1 万点赞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3c0JPVkJugRWo69kEkCykX0FlcHMcON7wnfhkfhtXvIHWDnyYdaGJF13eWIuXGxiab0R7J5UDAwibbQtNg2EibicWrdb5cHibURfOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>还记得之前那个特别火的 GStack 吗?我前几天也发过文章介绍过。就是 Y Combinator 现任总裁兼 CEO Garry Tan 开源的那套专门给 AI 写代码用的 Skill 工作流，目前</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533153&amp;idx=1&amp;sn=7fb7e3d5ab71dca60eefb98140cc7143&amp;chksm=f8183d7fd71762a55cd0f03533ea3d45468602148fad11d76a8637b729e2d5d21329112cc693&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 13:53:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU23jz7mJicwv2ZZBjGsoWRs9Dz1EyJqgqr6icaZDh90lzgVjOwAKNKWQqvyh9ZmmsCrnIHeCoQfj8PKHictWvCChmvVq1PuP1QK4c/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 2.6 来了。有了更强的 Coding、长程任务 Agent 执行能力和原生的视觉能力。在博士级难度的完整版人类最后的考试、考察模型真实软件工程能力、评估 Agent 深度检索能力的测试中均</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533152&amp;idx=1&amp;sn=904b7943e3e9a2fcf4dd4a925af34c27&amp;chksm=f88a1b51a16a33ec807a7be20b28da7251e31c58699f9a26c6b53e909c147f5fe534f4a02e3b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0umylibhVozHnNkK7R6JnflHuhvTgmv8qvMpIJPqEWYd7icHGg1DuB4iaibt4URibGfEEJvF8ia2qqqjM1cibCyDQDTmq5g75NXriasKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，发现一个叫 TuriX-CUA 的开源项目。这是一个 Computer-Use Agent，电脑使用智能体框架。它可以让 AI 大模型可以像人类一样，直接在桌面电脑上看屏幕</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531901&amp;idx=1&amp;sn=2bdc913f95cfa0523f715a29f8cdd687&amp;chksm=f858f1946584e620c2809965d0c6ccdd72aa8aba085c30452647975c812cee416b1c835a8607&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给我的 OpenClaw 小龙虾装上声音，感觉它活了过来。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2AV5Ffjhra1d8xdesepMZJ5K02dvCceu0yJWm5Bctw2uI5Sw9HWtpZwibW91wG2cgwXWPzAiafYmLZwkBtyde0hL5GtCu9rUIcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天发点有意思的。我在 GitHub 上发现了一个刚刚开源的 Skill，它能让你的小龙虾 OpenClaw 开口说话，甚至克隆任何人的音色。我已经用上瘾了，一点停不下来了。一旦小龙虾拥有了声音，在心</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247531898&amp;idx=1&amp;sn=a1cccde9b88ffe677c510a67e37e001c&amp;chksm=f89f1ab6a48b8dc4698a062e7b84d00abb8cb61d44478706263f2e9ce69ceb2079474795d7f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

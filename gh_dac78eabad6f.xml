@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[万字干货！Harness Engineering如何工程化落地？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5aCGXdbZjk76tu7Yp38YGEQCyIOIhWPAdgicJhZWJibwyKbqz7geAIyWdhpgB4IACF42HM5wYFofibso4proJVAdPlI0ntqyibbMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Harness Engineering 的概念已经火了有一阵了，全网很多文章基本都是在讲理念，讲为什么今天做 AI 开发，不能只靠一段提示词，也不能把模型当一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695342&amp;idx=1&amp;sn=9e3b38d4ea0d20c2ec1e46aa87a5fba3&amp;chksm=ebff017a41629ba301d1c7e40e722df36137f7f31bb7e5552d487c13e278e355d581e06e2ac7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 09:29:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯云开源OpenAI、Manus同款Agent底座]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gRVGedMspvvZWbT3mfibcbZTp2TkEZGlibK0lnJeuTib6D6E6Xb5QbEoYoQVrGJ6PjT0vg67VV9niaASn0nWtNolkMFJpQtNAauc/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，腾讯云宣布正式开源 Cube Sandbox。一套面向 AI Agent 的执行环境底座，也是业内首个兼顾硬件级隔离与亚百毫秒启动的开源沙箱服务。🌟项目主页：https://github.com</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695342&amp;idx=2&amp;sn=e20b805f235b3a75eee749714e9dccf5&amp;chksm=eb53b39f5a239b189b79afc66ba145912a0e1aaffc5510a46c5a85dee7457ea85c593db8b764&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 09:29:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全方位对比：Hermes VS OpenClaw]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4KEzjPDGPjdiapfxk5rOEXRjfD83bqxCupqbmRv5qZl51G6k7zdiaY41cIQMbRicaRlb8rnQ3MgZqoRp3yROp5r0UFnJichP728gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇为什么Hermes的爆炸性增长让整个行业重新审视Agent的发展方向？对于正在技术选型中摇摆不定的开发者们，又该如何在Hermes和OpenClaw之间做出正确</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695306&amp;idx=1&amp;sn=32df2774f14188f50ccfb9daf943d043&amp;chksm=eb5a659c22a1cce92e8e81d3e201b3895b481ea5fbbfa716648c10d4980dc6cd1b6a6e926b2c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDLiaMzrDnjb2ootgl9KgErxql48psl2aqHgRw0dl9JATCM560mdZ05xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=1&amp;sn=aab8bb5f9fd0084532812ccd50ca1907&amp;chksm=ebd39cb1ff72536b761aaa0da2b110a026bbf7a1bd2e529c7c752051af1845fabbf90d8bcf56&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微信小程序送补贴！手把手教你薅免费云开发资源+混元Token（附使用教程）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDlAO44O89swqWNZt9PhfUDNo32wayq4pmRcNiamd4iaBFFJ0FPYfYcumw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇每一个小程序都可以利用AI的能力，带来全新的产品体验，打造令人惊喜的应用。微信小程序最近推出了「AI小程序成长计划」，将为开发者补贴免费云开发资源和AI算力、商</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=2&amp;sn=95056524a61d0c686fb973815b10298e&amp;chksm=eb6865041d5f6d44624bb57d8aa35234c39d1d6384e4bb2beadb5202e6e83f8bc50a3a36f333&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型狂飙2025：一篇文理清从模型到智能体的架构演进]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96fA0ia1ELgMopG5BtukXv5iaYs2FIYkTZbJE9BPL8u30omRPK3ibkXHatdBHAjaUTJWXHDHgsUUO07w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01宏观生态概览：从随机生成到确定性工程 1.1 2025年 AI 工程化的范式转移在2023年至2025年的短短两年间，大语言模型（LLM）的工程生态经历</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693948&amp;idx=1&amp;sn=3e557a7e45c7f8cea9600a2373591d83&amp;chksm=eb384a6ea11172008a90b1b323de867ab56caf4cf2cb25b1a643ec746af29ca8abfa6ff4cd1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

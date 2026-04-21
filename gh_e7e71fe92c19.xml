@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[LLVM Pass编写及去除 —— 控制流平坦化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2Aib9nRcCqNQnV0jeyBB5Jz9AVnQnThmRc41r0azOGD8lgtibcfxun2BRYTIfic1BQZ4wqziaRrKeOREibkXmDiaT5I0U3Eqk2MMexo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part.1编写ollvm更改了原始代码块的跳转关系，将代码分割为基本块，由分发块统一控制，如下图基本块为由终结指令结尾的代码块，每个基本块都会跳转到返回块，返回块回到分发块进行下一次跳转。具体代码如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=1&amp;sn=836929710597a2b804d77c892d9401a7&amp;chksm=b0294b4b3979adb3fecb86cec949bbe940dacea63f320f0b9294e77bb3510e69607fff0bdf1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Lazarus黑客涉嫌窃取KelpDAO 2.9亿美元加密资产]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0xRZ2FW94YdmjkXopj8vBtQia77z7poBxUKqlIkGuuAqVXsud7wuLWohK5z4fjiarynZ5cN5brK4uNz10fo3efq9SvOAVnlwaiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>当地时间4月18日，以太坊网络上的去中心化金融（DeFi）项目KelpDAO遭遇重大加密资产盗窃事件，约11.65万枚rsETH代币被盗，折合美元约2.93亿美元。此次攻击还波及Compound、Eu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=2&amp;sn=c0122ded52f6e61689fcc4a1e5054421&amp;chksm=b06d65afa9c9ee3a8f3dca2b6ed63e0f9cc4db4038d8eaccb608a650974302d77ec1175704f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI安全新课 | 学会提示词越狱与防御，薪资直接翻倍！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=3&amp;sn=0debdea978560ed15a6a6b4045b1496c&amp;chksm=b0d1b17f97c800edff49dce7ce69cd736d7fef626e485ffc7b2d0572b009867500422d22d56a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯游戏安全初赛 Android 客户端分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2FVvibyeRibmWp7qHuparFzLF0U5Uww4gxxGxOl8uTfMvSiaarKkzZBWl5AkHpflo8BqyILz1l5zVNwZOLibVdv2v1n6YibbbGgVsM/640?wxtype=jpeg&amp;wxfrom=0"/><p>1逆向分析过程1.1 分析环境与真机条件1.2 刚接触题目时的初始分析刚拿到题目时，手上的信息其实已经足够构成三条候选路线。第一，APK 内能看到典型的 Godot 项目结构，这说明脚本、场景与扩展配</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614003&amp;idx=1&amp;sn=906e16d393e11f9526d5c1b42d4a7fc1&amp;chksm=b04c5d10a087fdab067bdd709423fd7817bb38625761df239a40858355b312c840c678cd92ce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K021KPsA19KGa5CAv44Xod9m9aSOJnjj81GJzXPN62TTET6kribaZ3XTke2OItrVTnTXfvU8blZB01mXvpbV8bYC1lYDqF6huD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>扫码预约免解锁BL、三绿全过、内核私钥重签...这套硬核刷机方案终于来了！本周四21:00，直播拆解Y700免解锁刷机全流程直通momo、Hunter、Luna检测这一次，我们不谈虚的，直击当下最棘手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612934&amp;idx=1&amp;sn=415e828b93bc960dbebe7750ff3bcede&amp;chksm=b0b320061f79c92d1385cce03a4e2a2553b0abc4543d3b218b802d91dafa829eaa9222bdf35c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一次尝试某APP签名算法逆向追踪：从抓包到SO层]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3sp9yPc17hGSibXhJQQd2nmThQ81vNmGEtNr0iau8fiaDbgBckFL2C7KuvcPBKhzUtxK4Khdv8BicPbrKqKhlHibc9eCLZfsM2c8w8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在逆向某App的登录接口，抓包发现请求头里有个签名，看起来挺有意思，决定完整追踪一下它的生成过程，下面是我一步步的记录。第一步：burp包上的证据痕迹 标出疑似加密authorization OA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612934&amp;idx=2&amp;sn=6a401c7e50c3bfaaa362c29042792db1&amp;chksm=b08e4266a1d6bc7e346c47571eab66bdcc26c290e8e8df1510132c76943925c691eb215d56ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[突发：热门工具Claude Code源代码泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K10twUQsnLJ4yyh6TAKM3XIYCFpgnZsBMgCXE5M809lIGBzrjl91Sc5ibdAZdShNffWIJpfCKsibpmSzL03849KTNLdHZEjaeh5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在昨天，热门AI编程工具 Claude Code 的完整源代码，竟被发现在网上“裸奔”，任何人都可以随意下载。这一下，可把开发者和安全圈炸开了锅。一个文件引发的“惨案”3月31日，一位名叫 Chao</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612934&amp;idx=3&amp;sn=8c6cd74eaee2da9efed0f5309b68bcbb&amp;chksm=b0998864b312f1b64873921e13658676600202712bd435821b722d9023f63484a4bc3be9012a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一年办20场活动，数据还在别人服务器上？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cFq9HxUWfyPGePS15H6PeQIbPLdqbPB6gzejQF7tzEvt0KTUA4WUqSN97TE9cUUxjNtR3uafotgxovODWqVVrID79iahkOLZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场会议筹备让团队重新思考数据应该放在哪里某大型企业准备举办一场重要的年度客户交流会。随着报名启动，系统中陆续沉淀了大量参会数据，包括姓名、手机号、单位、职务、报名记录，以及部分会议资料和嘉宾信息。筹</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458612921&amp;idx=1&amp;sn=15cfd4061fcf889e2ad733fe5f6acc8a&amp;chksm=b0338f2a5dca6300db577df86de7adb4f65460d590c3c980fbf2d44b6cf7050ad5d0de3f3a2f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 18:01:15 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI实践｜基于 Spring AI 从0到1构建 AI Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xGG3NTz5zZGm53cA7jwZBgYTm45w8zoibiaPJIFy7BUiaBSAESVgeqsNJwBaHGiarna6gGqgrpfQoZKfbuEcy8TKVjJxTYnFYYfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言Linux说过一句很经典的话：Talk is cheap, show me the code.最近在学习AI Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559646&amp;idx=1&amp;sn=1abc5788cfe44b9820e5a0f4dfb3a336&amp;chksm=e868a7b1d7710b72932c465a57110e26e971aa4426ff0a59ec4d4219088a73f2ad9958e9f2ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 22 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1x1KicIYiap6hZXcTZQOAjgA39iaVGN1SYoVSTW1U1gL5YGbiaWkUnezfJcoPic5u5K8XKhwhXHIHwYkRUc6D2gicPVnKPoicqLLiannfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章不讲 Prompt 技巧，也不推销某个 Skill，只想说清两件事——在企业工程环境里，如何把大模型 Harness（约束与治理）成一个能持续参与交付的协作者；以及大模型时代，程序员</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559631&amp;idx=1&amp;sn=13935cb98e1b389c3afa8a10a17e9c3a&amp;chksm=e8ca90f426f32d7757aa6a6171bb26bbb9992351ad3a36b5bfb1cbced35898e8080d196a6f15&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40jaC2rjR5Bt5wzsnhDvxHXKulVpDxwyrcL5XJFjdCcGEVq4jszicglCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在AI驱动的电商运营时代，如何让运营同学通过自然语言快速生成个性化购物场景，并自动关联优质商品搭建会场，成为提升运营效率的关键问题。购物场景生成AI Agent应运而生，通过智能化的场景生成和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558316&amp;idx=1&amp;sn=6a53c77fe9bdb8b35a1d513897c4a472&amp;chksm=e8c3325ad96be03a903d3273b57f73e21929e6fd0083169f37e1f03de45a93293e539dd867f4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别“伪智能”代码：用 Spec + RAG 打造真正懂你的AI程序员]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40V1peVicVaYvxh5yrY1CFPh6woibiaCAahtCeLIl6vmjeKBjicyK3K8Gkiaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：AI Coding 提升代码质量的关键——知识库的深度建设在当前 AI Coding 快速普及的背景下，业界普遍面临一个核心矛盾：模型“能写” ≠ “写得对”。尤其在高频迭代、强业务耦合的场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558194&amp;idx=1&amp;sn=ece018ca2921b2d51176c37a91bd23f3&amp;chksm=e86e8ab0f12fe2b4689656750d1ee2bc7c221a1fdcbc2e79e767671e7b44bcbf5bbc88f73426&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
