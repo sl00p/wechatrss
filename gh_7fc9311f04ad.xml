@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深入源码：Hermes Agent 如何实现 "Self-Improving"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xbb0Rf52bUcibrEUoQRSOrnqUSPAkTTTia8UiawPeelYNKiatwa9Gmq6znfpq2bW18ibicX45urhvh3mN5Ul0lIYibncURqCN0iaVfMMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景OpenRouter 排行榜上正在发生一场换代：Hermes Agent 增速 +204%，Top Coding Agents 排第一，Top Productivity 排第二。上线不到半年，Gi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559661&amp;idx=1&amp;sn=ca9426f948819f172ec44f671127aa29&amp;chksm=e8f120485b924e0cc44dcd85c8368ed208ab9de4ff36b9b65a4466ba5f371084a581273adb9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI实践｜基于 Spring AI 从0到1构建 AI Agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xGG3NTz5zZGm53cA7jwZBgYTm45w8zoibiaPJIFy7BUiaBSAESVgeqsNJwBaHGiarna6gGqgrpfQoZKfbuEcy8TKVjJxTYnFYYfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言Linux说过一句很经典的话：Talk is cheap, show me the code.最近在学习AI Age</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559646&amp;idx=1&amp;sn=1abc5788cfe44b9820e5a0f4dfb3a336&amp;chksm=e868a7b1d7710b72932c465a57110e26e971aa4426ff0a59ec4d4219088a73f2ad9958e9f2ef&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1VmsZnicicfz6xwf9v3cyiaD3iaCjibSadabD6juqhAQMbnSicfgrcmFcFiavZ4akgr72UswO0wF2KaQPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文围绕企业级任务型语音 Agent（如营销、催收、教培等场景）的核心挑战，提出：要让 AI 语音助手真正胜任“真人小二”角色，必须同步解决 “拟人化” 与 “专业化” 两大维度。背景AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558288&amp;idx=1&amp;sn=1e34f7eae3421e09e8f2f78baeb5f066&amp;chksm=e8b362a72bf70c710814f06afe264898e69e83bb631d25d437d07462de2ea6789d31ac8acf12&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[借助 AI Coding 快速打造 AI Agent 系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJCytQK39oxbFibwUibJx7K40jaC2rjR5Bt5wzsnhDvxHXKulVpDxwyrcL5XJFjdCcGEVq4jszicglCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言在AI驱动的电商运营时代，如何让运营同学通过自然语言快速生成个性化购物场景，并自动关联优质商品搭建会场，成为提升运营效率的关键问题。购物场景生成AI Agent应运而生，通过智能化的场景生成和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558316&amp;idx=1&amp;sn=6a53c77fe9bdb8b35a1d513897c4a472&amp;chksm=e8c3325ad96be03a903d3273b57f73e21929e6fd0083169f37e1f03de45a93293e539dd867f4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

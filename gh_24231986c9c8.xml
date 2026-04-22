@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[告别OpenClaw运维盲区：火山引擎日志服务TLS一键开启全景观测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedSiaqmR4vu0T19Fv6icQx3kO1eiaPzbBBVwg9svfEt8sHxGDmdBvZmVFp5C9IyYATibWtZWibWQU9yoBzh6pH66w2X6CjbiaBUfAGicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述当一个 OpenClaw 应用从本地 Demo 走向生产环境，Agent助手/xClaw企业的开发和运维团队面临的挑战便不再是“能不能跑”，而是“跑得稳不稳、贵不贵、出了事能不能查清”。Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519455&amp;idx=1&amp;sn=6e82259aa596557beefc85e20e90b7e5&amp;chksm=e8d8eb92e82bdac6529633061f4a7ef25eb7c49465e985a595b13e354d5e68447f180d6fabbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeVdUbavlZLG9BmdwYGRmeNEtngtEu0nDNpNp9ASLA9yghJibE8YNic6JkEibnGFA4CxIia2Hqr2SiblUSGf3jGiasyAPeibBdUiaibYicibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>从“单一 ChatBot”到“人与多 Agent 协同”，越来越多的系统开始将 Agent 组织起来，完成更复杂的任务。然而，缺少能够长期协同进化的记忆，协作起来像在经历“初恋 50 次”，它们记不住</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519457&amp;idx=1&amp;sn=6b6a878cf78d9364b77d1073de0e8655&amp;chksm=e80fb16e3da47ffaf034ebe79ec99ff13cc260785694157c32dd7be65c9fe4519168212a9946&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiagqJw94hZGMdn0NpIWfO335Id14FFehUEFbrNxS0X0Gqf1tPMeNOZPTcC39DY4vdtNn0iczB7XBmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景近期，AAAI 组委会发出2026论文录用通知，AI 圈年度顶会录用结果随之揭晓。AAAI 2026共收到23,680份论文投稿，创历史新高，其中4,167篇被录用，录用率仅为17.6%。作为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517712&amp;idx=1&amp;sn=8787a2731127760ee11e8d5785f2fee3&amp;chksm=e8f1e3af6482c08086514ede1ff5ab5a1c4ae837885b8431e1ca738c2282bbfbd3de2d87919b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 17:00:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎多媒体实验室 AIGC 视频画质理解大模型 VQ-Insight 入选 AAAI 2025 Oral]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhicglMPXBqELl0A3FXTIScCsKEL1W0Y2xXqMiblia2ibjEMsb9LccM0VpayBTwTHQZ3gZ2PaOnxhicMzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>会议背景近日，AAAI 2026公布了录用结果，该会议是是人工智能领域极具影响力的国际顶级学术会议之一。据悉本次会议共有23680篇投稿进入审稿阶段，最终4167篇论文被录用，录取率为17.6%。火山</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517631&amp;idx=1&amp;sn=c3251514392ea816c758b67cb5b443cc&amp;chksm=e81390f198a95a1b48000f58a12b4103764949fc573b2cefa4f84d54aeaaf8644cdf7f7de797&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Nov 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[斗象开源了个AI安全保险箱，思路有点不一样]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2vd5KltpcLpdiatyjMbyRV6DwWTPD9icjdtaAtmT4Hf3XPpuXEaKKVROloQ46gKa85yjrxmERvA6hC1eAgwDiannhZcyWp8ZH6pM/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent的安全问题，前面写了好几篇，基本都在讲"怎么发现问题"和"怎么拦截危险操作"。但有个维度一直没人认真做：AI Agent到底碰了你什么东西？你的密钥文件、合同PDF、数据库配置、SSH</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=1&amp;sn=9a9b4ba14b422bcc9c69d3f6f55ca19a&amp;chksm=bc37d8599910b8fdd07ca9fb6ea6a6c13e6a64a62c6e938bedc497388cf7b7c19d8b9b9d8a60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Mythos发现271个Firefox漏洞，0Day时代或将终结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3Aor5UBxvFBuD4bQyq3ESXiaIzAbWDlDkJO2bDlibUcmEHIlsMB13bITku9xYgSDHuFmag2cYtB3nK7q24rNF8ehiaF0jRicrs9ZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mozilla 基金会近期测试了 Anthropic 公司开发的 AI 模型 Claude Mythos，该模型在网络安全领域引发了广泛讨论。在授权 Mythos 访问权限前，Mozilla 使用 O</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=2&amp;sn=d4d0427f9badc714919ac4ab1261002b&amp;chksm=bc9813465e925e423232fee849483362695b8e4a05789f0a22199b9c860c3dd163c38e1c36a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibTYj6WDohGob0v0AbfZ9r8YsjgdIGAxSU4LcicjHl0x1IiaQ2y1R1OExcVL34ibn4hMShVJIhibmCRIsllv5Ifs1aytlSAysmvhk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型"评论控制"攻击手法曝光研究人员发现一类名为"Comment and Control"（评论控制）的跨厂商关键漏洞，这种新型提示注入攻击利用GitHub的拉取请求标题、议题正文和评论作</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=3&amp;sn=d23d64c8205b59a91369eb49da9ca472&amp;chksm=bc3a1c4b1ca527d20354d7aaffd9c7c9c8705ff44c47f5aa8590263cc27ef4283cb1ce4540dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3WUicsefoicsRGZicMx6ibafhibJYUm1Bhfdl0icdKldn1aceZNU1EVcMbzCylaOicHK0W8KutpvnnXWVdhTOm0BG1pQDbrzC4bJB8iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01服务架构设计苹果公司宣称，其操作系统内置的生成式AI服务Apple Intelligence通过采用匿名访问令牌的双阶段认证授权机制，特别注重用户安全与隐私保护。但俄亥俄州立大学研究人员在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=4&amp;sn=627469b08b958cdacaa020b0f2e9ce3b&amp;chksm=bc6d8817784805404922cb47262dbfbdd93541af5a25be852064ad99a21aa1e8e0fd81d725fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从数月到分钟级：360智能体自动挖洞终结人工低效时代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1MG5ZHib72yEoiaice43VwcOMQ07SrAIiaQkE1ICR60fnZUWaXia3reId2QiaYluO43W0DyH9K2u2Xj3sKjUhHKMbzFVvHMYzvLd5sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个让全球网络安全行业不得不重新审视现状的事实正在发生：360漏洞挖掘智能体通过代码自动扫描，在分钟级时间内精准定位了两个潜伏多年的全球级高危漏洞，一个是潜伏5年的Windows内核提权漏洞，另一个是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=1&amp;sn=6241ece47e150b188e8fe461b5e1b203&amp;chksm=bc7e7ce9e9c770b40123c3d930cda3c49755c206a23e10c2824c30cecf79ec3f7448275662ad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3eDUhI1ib1J84hvZ6jaJES7aRbrUxednIrEKDQG4zC07cWDKcOnCwd1vEbp4uV6dLu5oDVrsv5PStq1ffiaeNeXoJ3oicCltNgXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月9日，ISC.AI 2026大会正式开启全球议题征集。本届大会聚焦AI从大模型向智能体演进过程中的技术突破、安全挑战与产业重塑。即日起至5月15日，面向全球人工智能领域的专家学者、技术从业者、企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=2&amp;sn=c35d7aed12222fd490106999fea4163a&amp;chksm=bc8a6bf7685aab3f265fdb522149ebc6cfd9b2cc81a2ec1337c227b26daef3515ba5bcb39532&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌预警量子威胁提前，Cloudflare紧急调整加密战略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2WAAicuTIu6XbEh9XWIyyxz4LYiaTF7RDtIUEYpVAzzhcz8LxDHic6AMMa5DpIBdzmlzNiaKawBE6Qltyib6VRdeibt66dBjoWgc4mw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌提前抗量子加密时间表的举措正在引发行业连锁反应，包括Cloudflare在内的科技巨头纷纷重新评估自身战略规划。美国国家标准与技术研究院（NIST）此前设定的传统加密算法淘汰路线图要求：2030年</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=3&amp;sn=b0b5a223bfc082e78b5693e72daeca19&amp;chksm=bcfcb8f3ed65c0c0a97d16629ccbdc4e86b17588e7e898e34ff1d3450ac5c81df1463b0336b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用Kubernetes配置错误从容器渗透至云账户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3xkHr7LDovobqZNticT0iaQRqXwywYbCyhIgCjaJ8RicqVL71KUeuy7l7lib3y4nfXnKyHkGsHCKMs4icbJfHMDIEMVoRR2TUjEBtc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Kubernetes成为攻击新目标Kubernetes已成为企业环境中管理容器化应用最广泛使用的平台之一。但随着其普及度提升，恶意行为者对其关注度也同步增长。威胁行为体正利用Kuberne</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336913&amp;idx=4&amp;sn=485fb362b9e62e08c991e7f05b96ee4f&amp;chksm=bc8047a53d712290e7204b5413f112b8ff4535992680a3d51f54656ac90b689df04ff8b06aae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos预览版，具备强大0Day漏洞发现与利用能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2BbnjB7rIdErnw2ehibS7WpTq7WxCUKr8ptWkibqyDFwpGhmiaCum3icZZRmy64wE6PYaJW8nsPT1WZnJljdIuvfrAZnRPemqf78E/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司近日推出Claude Mythos预览版，这款先进语言模型具备发现并自主利用未公开0Day漏洞的非凡能力。为确保这些强大工具被用于防御目的，该公司同步启动"Glasswing项目</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=1&amp;sn=66e5cde9adf2fb3cfdd6c8b83ed7081a&amp;chksm=bc0bc8986ebeb9f92be865736ce22a1714096b66aba39cb8af311a89d696ac900d7e3a0c9a13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软开源Agent治理工具包，直击OWASP十大AI Agent风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX39vr7tz72zMFP6BJYV9BZ11aNEqV4Rb5EDgyibgoLNcSQ2R5wUN5IGVpU5u7bJSyEibywYNjD2BBt1Pty8RAllPvS82scUnfticQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软近日悄然推出Agent Governance Toolkit开源项目，旨在企业将AI Agent投入生产工作流时，对其执行过程进行监控与管理。该项目直接对标OWASP（开放全球应用安全项目）最新发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336873&amp;idx=2&amp;sn=ed2b4a8c95b5213c17c6186d966e548e&amp;chksm=bc53bfae510b3d6c074e0eb89d8b36080281bca9f28ea56d9c17624467a5171eb1543dfe64ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

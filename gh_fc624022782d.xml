@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9icASLQUQzvY9wFGwrJicMGT1wu49uGBPdY8WFCbccYIxicw4Z9WnQ3PBw0o9hEKHcEDcoFRc1N5JNMk2szgTUgYDc66icOwqlKcorAMFGicleLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯安全应急响应中心TSRC各位白帽师傅们：感谢大家一直以来对腾讯安全建设的贡献。随着大模型能力日益增强，利用AI工具辅助或自动化挖掘漏洞，已成为安全研究的新趋势。我们欣喜地看到，一些由AI协助发现的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208362&amp;idx=1&amp;sn=d023ab60dba98fa2e6d7f35d1f371664&amp;chksm=bc049cceacbb3296322d12cf5994ee762fc700179f525b365add69d6bbec7b0a7bed327fadb3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 19:51:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI安全，由攻入防｜腾讯广告AI专项众测正式启动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvZ7gYBk2q7NgFy1BKq57obc6M3KdvfHF1SpE3TVad9asgibibv0UFT3d4DniacfYFk3FxdUiaibdF2eEn5uqdwCXq5Kmbl9HSFclzNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型从对话框走进真实业务场景，每一行Prompt都可能成为攻防的新前线。TSRC联合腾讯广告发起首个AI安全专项众测——聚焦广告AI产品的安全攻防，邀请白帽师傅们一起， 在真实业务场景中检验AI的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208334&amp;idx=1&amp;sn=05b24e15082ec737dc9e101103715e3f&amp;chksm=bc8d2be2736874740e428e4d97ad1cc565ad33e7dae8098ef3f235c95c6aaf83d066b00c3be1&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从第一性原理思考 Agentic Engineering]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5dbst2PQb78eOw1JERIgLJHqic0WTgpSdjeRe2qXDLovetiahkIEVsSN0RUibAiaXQBOrtjabeo6CrQWUcf8mTwxrbawPib9RC5a0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文中的方法论已经落地为一个有真实项目使用经验的开源框架，欢迎大家 fork/contribute：agentic-engineering-framework（</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695386&amp;idx=1&amp;sn=7b4ec46bedf2b841680912d6be029a81&amp;chksm=ebd253e277c843be13005fe0d742a0c30b0356bf7f41e1a241d9b4fa01a08a8503e82207ad8c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9 大领域24 项能力：TencentOS AI增强版正式上线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5tniboKzB1iaIkZLTEPePyMVKT5A4kibibsbX6ljOzOOfxd3jeykhcHSV3KXOoRXwJjdrkB8FFPwdl6icX3ynzcpAzib3uCjTEVqZgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇TencentOS AI增强版预装了两个 AI 运维技能,全栈运维诊断专家覆盖 9 大领域 24 项日常运维能力，内核宕机分析专家专攻内核崩溃自动化分析，用自然</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695386&amp;idx=2&amp;sn=5e7bd0bbb3ea4f8f9171428eb763c29e&amp;chksm=eb9b64b36ada703fbb50845391465395c6dd7c73865648a524c72e5c0373f1235bc7194c9f88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 23 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[万字干货！Harness Engineering如何工程化落地？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5aCGXdbZjk76tu7Yp38YGEQCyIOIhWPAdgicJhZWJibwyKbqz7geAIyWdhpgB4IACF42HM5wYFofibso4proJVAdPlI0ntqyibbMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Harness Engineering 的概念已经火了有一阵了，全网很多文章基本都是在讲理念，讲为什么今天做 AI 开发，不能只靠一段提示词，也不能把模型当一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695342&amp;idx=1&amp;sn=9e3b38d4ea0d20c2ec1e46aa87a5fba3&amp;chksm=ebff017a41629ba301d1c7e40e722df36137f7f31bb7e5552d487c13e278e355d581e06e2ac7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<p>没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694037&amp;idx=1&amp;sn=bae63314ed696e5bac80052565cfa8b4&amp;chksm=eb894b805a26f9b961a2a440a09a65a384fadb08a92dc9a0d021a1b24636e23bfe8e7ad1293a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[什么是技术架构、数据架构、业务架构、应用架构和代码架构？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96TY5zEM1OvGic441w11zscxgbGJNEVFcu2NU69FfpFbrlkBbUJntzbIPm34AZeD9YxJrXLwNoossw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01关于架构的理解 1.1 分析与扩充维度架构，是对系统的描述。维基百科的定义是：软件架构是有关软件整体结构与组件的抽象描述，用于指导大型软件系统各个方面的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694025&amp;idx=1&amp;sn=a308b1c530baf655fff51886b1cf5261&amp;chksm=eb8f69dc480f02d0a26167bd43796f75a1d77d338a213de6db135f4238d2c8409d854eb5660b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[提示词技巧分享：一劳永逸版！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe97uDy3xY26McGJvMYDjAibUDLiaMzrDnjb2ootgl9KgErxql48psl2aqHgRw0dl9JATCM560mdZ05xA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693989&amp;idx=1&amp;sn=aab8bb5f9fd0084532812ccd50ca1907&amp;chksm=ebd39cb1ff72536b761aaa0da2b110a026bbf7a1bd2e529c7c752051af1845fabbf90d8bcf56&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
