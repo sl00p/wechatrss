@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[三体人都知道 AI 好用。 Agent 能写代码、做 PPT、搜资料、盯进度，一个顶三个用，属实省心。 但 token 烧起来，家里没矿真遭不住。 一次复杂的 Agent 工作流，几十甚至上百次 API 调用，账单一出来，心跳比跟对象第一次联调成功还快。 为什么 token 这么贵？说到底就一件事：全球算力紧缺。 高端 GPU 供不应求，推理成本居高不下。对开发者来说，我不用 AI 是因为我不想吗？有本事你拿货来卖呀！ 好消息是，混元这次把成本打下来了，骄傲脸。 混元团队在重建模型基础设施的时候，定过一条铁律：性价比追求。 具体怎么做到的？两个核心动作： 第一，MoE 架构压成本。 Hy3 preview 是快慢思考融合的混合专家模型，总参数 295B，但每次推理只激活 21B。换句话说，脑子大，但干活的时候只调用需要的部分，算力不浪费。 第二，模型架构和推理框架一起设计。 这是真正拉开差距的地方。大多数模型是"训完再想办法跑"，混元是把推理成本当架构问题来设计的——从训练阶段就考虑推理效率，不是事后优化。 结果就是：同样的能力水平，Hy3 的推理成本显著更低。 成本低了，计费模式也得跟上。腾讯云推出定制化 Hy Token Plan，个人版低至 28 元/月起，享有 3500 万Tokens，可执行约 70 轮问答！ 便宜不代表妥协。Hy3 preview 在 SWE-Bench Verified、Terminal-Bench 2.0等代码智能体基准，以及 BrowseComp、WideSearch 等搜索智能体基准中，都取得了强竞争力结果。 在 CodeBuddy / WorkBuddy 的实际运行中：首 token 延迟降低 54%、端到端时长降低 47%、成功率 99.99%+。 成本低，能力强，这才叫性价比。 谁说好用的 Token Plan 不能便宜？ 28元/月，一个能干活的数字员工。 让你收到账单后的心跳，像是跟对象联调十年后一样，波澜不惊。 各位彦祖亦菲，这边请👇 购买地址： https://cloud.tencent.com/act/pro/tokenplan 腾讯云大模型Token Plan_畅享龙虾和编码自由]]></title>
+      <description><![CDATA[<p>三体人都知道 AI 好用。 Agent 能写代码、做 PPT、搜资料、盯进度，一个顶三个用，属实省心。 但 token 烧起来，家里没矿真遭不住。 一次复杂的 Agent 工作流，几十甚至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695442&amp;idx=1&amp;sn=75ccd4bfd0bcb6da1121d4c63fcaed07&amp;chksm=eb5c819e3e280503e432e6203d44f7654472a10b4d4906299655202eecd3bdaa5085ed006292&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 17:35:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从第一性原理思考 Agentic Engineering]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5dbst2PQb78eOw1JERIgLJHqic0WTgpSdjeRe2qXDLovetiahkIEVsSN0RUibAiaXQBOrtjabeo6CrQWUcf8mTwxrbawPib9RC5a0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文中的方法论已经落地为一个有真实项目使用经验的开源框架，欢迎大家 fork/contribute：agentic-engineering-framework（</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695386&amp;idx=1&amp;sn=7b4ec46bedf2b841680912d6be029a81&amp;chksm=ebd253e277c843be13005fe0d742a0c30b0356bf7f41e1a241d9b4fa01a08a8503e82207ad8c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96ddQAfNdefjDDrKeQCvBWxNyv0n4VgBjYKqiaNWyEXSsialUMDJ1bfo28HHHeQnkJ3Wa3KXiboW9XwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01大语言模型发展历程摘要大语言模型的发展历程：2017年具有革命性的Transformer架构开始，解决了早期模型（诸如循环神经网络（RNN）和长短期记忆网络</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694097&amp;idx=1&amp;sn=26aa1b7ba79a8359af3d88642d246ea1&amp;chksm=eb9936eb80b6142f3497055601bda5c0051269c69daf58a2ef506bb1f93bb9b5bfc2dcffeb61&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域，通常也是公司为其客户提供的服务。 产品，通常是指对应的业务背景下为相关问题域提供的解决方案，即为用户/目标组织所提供的系统或服务。 产品是对解决方案的包装，支撑起解决方案的实现即系统（业务系统）。 业务开发，冠以“业务”前缀，要的是在技术通识的基础上，更要熟悉业务。 业务开发团队，要承接并交付出“好”的业务系统，挑战在两点： 从0到1阶段：洞察用户痛点，解决核心用户问题。 1到100阶段：业务系统能轻松、高质量地动态进化，在不断发展中支持业务攻城略地。 洞察痛点：本质在于理解业务，能够定义边界/聚焦重点 【面向需求】要开发什么样的产品？ 【面向业务】为什么要开发这个产品？要解决什么问题，达成什么目标？ 动态进化：本质依托于业务系统的设计和实现 【面向设计】如何做才能契合业务形态应对变化、减少制约以更好的达成目标？ 对于技术要承载的业务，要跳出单一代码视角，从两种视角拆开看： 问题空间：即问题域，探讨关注有什么问题要解决，存在什么痛点要消除，也即需求； 解空间：也称解决方案域，考虑有哪些方案去解决问题；最终用哪个方案做到了，称为实现。 提问题比解决问题更重要。 初识业务，或者成熟业务上扩展出新需求，需要主动思考： 业务现状，为谁服务？全景如何，上下游如何合作？核心价值，利润来源？最重要待解决问题？…… 有全局认识，才能建立足够的判断力，帮助高效对接/厘清业务，放大价值贡献。 业务建模是一个体系化主题，不同的场景有其合适的用法。只有当有更多角色直接参与，并有更多不同业务信息由该系统处理时，业务建模才会增加更多价值。例如，纯技术领域的问题中，与业务无关，可以无须业务建模，你的代码和数据结构就是你的模型抽象 当 LLM 掀起巨浪，Prompt Engineering的本质也是“如何理解业务并结构化陈述业务需求”，这与业务建模方法为业务开发赋予的理解问题域能力正好契合，“声明式的方法+结构化抽象并逐步分解问题”的思维不会过时，AI时代甚至有机会赋予业务开发新价值。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247667685&amp;idx=1&amp;sn=94959aefedb00fc4bf2d3393dd70e529&amp;scene=21#wechat_redirect">天天写业务代码，如何破局业务开发的本质？</a> 各位彦祖亦菲，你对本篇命题的答案是？]]></title>
-      <description><![CDATA[<p>没有业务的技术，犹如无源之水无根之木。成为技术大牛的前提，是搞懂业务的本质。 业务：一个组织、公司或个人所从事的商业活动、服务或工作，相应的流程和规则。 业务相关活动所涉及的问题范围，即问题域</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694037&amp;idx=1&amp;sn=bae63314ed696e5bac80052565cfa8b4&amp;chksm=eb894b805a26f9b961a2a440a09a65a384fadb08a92dc9a0d021a1b24636e23bfe8e7ad1293a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

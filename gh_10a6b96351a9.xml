@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek-V4出来了，今天你用了吗？（架构重大升级，一个字，干就完了）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXe5VfOGPNZSykVU8G0u0CG8E8WoxSae5XU0bFiakwRia0sNzet2iaO7kDrEDG0CzgYOOBlESqDOJb8uYUh88ic7icccgOn9nBJibPrib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今天， DeepSeek-V4腾空出世，宣告着AI正式迈入百万上下文普惠时代：DeepSeek-V4拥有100W超长上下文，在Agent能力、世界知识和推理性能上均有重大突破。deepseek延续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981117&amp;idx=1&amp;sn=9ec43d2cef08d56beeca520cf1f2bbb4&amp;chksm=bce4c206b5534468472c635269196b102d9bd712a2aaa0556272155f4ed41271c6c5c64e2813&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 17:24:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[写了一个APP，来治愈自己的焦虑...（上架ing）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXenjwWQ7eQdC6HfDtsB5SKmvm9f12kmBcbDicy7dhc8AYqiaSWg5ku0VVK5Raoxj9jcm3NDGEhSzAMTDRH2NowtKnPzMRXfq1pWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>《PEACE，我最内核的思维模式》分享了一个很底层的解题工具，PEACE：P - Permission to Feel：接纳情绪，认同而不是否定；E - Explore the Context：探究原</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981105&amp;idx=1&amp;sn=ba97ec28d5e3161a720e663a92c11c08&amp;chksm=bc7c890f397b386d8745567e0f405084ae8229c3e1a77917b5828a9e0b1398f6d51932004027&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXeh6RSMwZ67Mru8DEibtz70sGAy0UBupOFsUXzKWdbIfPU0UlT3f1ics0HORYVLLmia6lzu6gz7BZpLqHoPaxMgn8TOiaKN4Bzyxpc/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题：程序员要不要提前为“35+危机”布局？https://zhuanlan.zhihu.com/p/720444356现大厂码农，很早就意识到程序员干不了一辈子，中年后有失业的可能。先说客观原因：程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980568&amp;idx=1&amp;sn=90e973f06919ba0d861eb617e2d365d3&amp;chksm=bcf464b01157dc3c6c9957a9554de633a86825af460b2d91195701ab3530fd39a089a2e47847&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 08:34:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据库允许空值(null)，往往是悲剧的开始（第15讲）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcLUzFHzTzPY10Sev2xW2Q3KswaiceszialjJzs2k26P5Osc9FYtN0MndnHkKsDuK2Dfz7eRvnN4oiaRib5yxHuhI7ZvDEXIpJj8WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》15.MySQL，索引技巧数据库字段允许空值(null)的问题，有可能有大坑。这样的场景，你遇到过吗？实验过程：create table user (id int,name va</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980567&amp;idx=1&amp;sn=24765e15837a5ca06d14b7b2abca51c0&amp;chksm=bcab09f4c6dfcaa0fc6ffb2f42b2ff84f28fbfd6879651a8a1b7c3cfac019b7d5a9d0b42fa21&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 08:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

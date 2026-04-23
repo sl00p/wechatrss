@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深度解析 Hermes Agent 如何实现“自进化”及其 Prompt / Context / Harness 的设计实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ybxdBMXxx5O4Q977oia45zgIss5e2YnOxx2CybZN6Cs7ypNlZialicicC39FvlO479HMqz3VSyftJJUslZFZj0I1UBWoDzlmP1Oco/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是「项目深度解析」系列的第3篇，也欢迎阅读：《深度解析OpenClaw》《深度解析Claude Code》。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）背景</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559664&amp;idx=1&amp;sn=2c26ac0a4898e4c986d289a543808dd7&amp;chksm=e821fb37e67d394741b140846b2cfd2d47f3ad6ebd6d01ba881d355ca92e11f6bad1f01cc3d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入源码：Hermes Agent 如何实现 "Self-Improving"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xbb0Rf52bUcibrEUoQRSOrnqUSPAkTTTia8UiawPeelYNKiatwa9Gmq6znfpq2bW18ibicX45urhvh3mN5Ul0lIYibncURqCN0iaVfMMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景OpenRouter 排行榜上正在发生一场换代：Hermes Agent 增速 +204%，Top Coding Agents 排第一，Top Productivity 排第二。上线不到半年，Gi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559661&amp;idx=1&amp;sn=ca9426f948819f172ec44f671127aa29&amp;chksm=e8f120485b924e0cc44dcd85c8368ed208ab9de4ff36b9b65a4466ba5f371084a581273adb9e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2CfuylnMY692zUWUIY18kEbca2M1j0B8V7J3PSH0nXo0V1TCOKXWkhGYkMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文以《Attention Is All You Need》为起点，深入浅出地解析了 Transformer 架构的核心思想与技术细节。一、Attention Is All You Need</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558315&amp;idx=1&amp;sn=836e95d31ae6e6927b0fa829a7bfcc3d&amp;chksm=e88b5bef12f690c970d5e6ed2b41c9367c35753cb893fe4436cc4355af790a0e5d2f02a2e5a1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再让语音机器人“答非所问”：AI Force任务型语音对话技术总结]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL1VmsZnicicfz6xwf9v3cyiaD3iaCjibSadabD6juqhAQMbnSicfgrcmFcFiavZ4akgr72UswO0wF2KaQPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文围绕企业级任务型语音 Agent（如营销、催收、教培等场景）的核心挑战，提出：要让 AI 语音助手真正胜任“真人小二”角色，必须同步解决 “拟人化” 与 “专业化” 两大维度。背景AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558288&amp;idx=1&amp;sn=1e34f7eae3421e09e8f2f78baeb5f066&amp;chksm=e8b362a72bf70c710814f06afe264898e69e83bb631d25d437d07462de2ea6789d31ac8acf12&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

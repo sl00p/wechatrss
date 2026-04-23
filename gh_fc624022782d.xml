@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我们扫描了五万个 Skill，发现危险仍然存在]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvYgqmicBiazeku7vKVCIEJJAQAclFdZum9EuyJ9och9XwyfNBVLE6OricqPxicfHvicNJQ0bMQSkiaWvhibMvPV54MjFq4mFjmz7dVlAk/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于传统扫描器的防护体系已无法应对现状。当 25% 的 Skill 能读写文件、成百上千条路径指向私钥、远程控制通道被预埋进生态底层时，我们面对的不再是漏洞，而是一个已经完成"前置部署"的攻击面。AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208392&amp;idx=1&amp;sn=f05438543d60530d1f79dfe8cd4aed58&amp;chksm=bc98093a127b0368f45963f754d7c2cb9f4fa6af093956febe4dd7831b3879e4194a8d79a54d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 24 Apr 2026 17:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TSRC关于AI辅助漏洞挖掘报告的提交规范：每一份漏洞报告，都值得被认真对待]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9icASLQUQzvY9wFGwrJicMGT1wu49uGBPdY8WFCbccYIxicw4Z9WnQ3PBw0o9hEKHcEDcoFRc1N5JNMk2szgTUgYDc66icOwqlKcorAMFGicleLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯安全应急响应中心TSRC各位白帽师傅们：感谢大家一直以来对腾讯安全建设的贡献。随着大模型能力日益增强，利用AI工具辅助或自动化挖掘漏洞，已成为安全研究的新趋势。我们欣喜地看到，一些由AI协助发现的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208362&amp;idx=1&amp;sn=d023ab60dba98fa2e6d7f35d1f371664&amp;chksm=bc049cceacbb3296322d12cf5994ee762fc700179f525b365add69d6bbec7b0a7bed327fadb3&amp;scene=0&amp;xtrack=1#rd</link>
