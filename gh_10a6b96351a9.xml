@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[还在养虾的人，明显已经从OpenClaw中获得了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊：《学OpenClaw，究竟要学些什么？》 至于内容，会简单聊聊新手养虾人的学习路线： 1. 安装的四种方式 2. 四项核心原理（安全，人格，记忆，进化） 3. 两项特色（skills，多agent） 4. 六项实践（浏览器，多模态，知识管理，辅助编程harness，自媒体生成，爱马仕agent） 最重要的，还会聊聊，快速学习OpenClaw的三大要点，掌握三大要点，学起来速度能够快好几倍。 你还在养虾吗？进展到哪一步了？ A：还没装（有这一步的吗？） B：简单聊了下，不清楚原理 C：清楚原理，不知道用来干嘛 D：已经动手实践解决自己的问题 今晚直播间，欢迎来玩，不见不散！]]></title>
+      <description><![CDATA[<p>还在养虾的人，明显已经从OpenClaw中获得了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊：《学OpenClaw，究竟要学些什么？》 至于内容，会简单聊聊新手养虾人的学习路线： 1.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981121&amp;idx=1&amp;sn=8b27b50275d340e8d8e716ae77de343a&amp;chksm=bc0dfd1ddc55014405d47bed8f020332b7a35cdfe859b105af4a13d6dbad80229073c4a7f4b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 11:51:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek-V4出来了，今天你用了吗？（架构重大升级，一个字，干就完了）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXe5VfOGPNZSykVU8G0u0CG8E8WoxSae5XU0bFiakwRia0sNzet2iaO7kDrEDG0CzgYOOBlESqDOJb8uYUh88ic7icccgOn9nBJibPrib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今天， DeepSeek-V4腾空出世，宣告着AI正式迈入百万上下文普惠时代：DeepSeek-V4拥有100W超长上下文，在Agent能力、世界知识和推理性能上均有重大突破。deepseek延续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981117&amp;idx=1&amp;sn=9ec43d2cef08d56beeca520cf1f2bbb4&amp;chksm=bce4c206b5534468472c635269196b102d9bd712a2aaa0556272155f4ed41271c6c5c64e2813&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcLgTvSaMcoj3n1V38bj0RqBcwp4x2yDUJ6mFbicXEENbOUictGcq7J8mCSaI2Af764VJiaq42xtNhYiaPN6ibyKSP9ExHoRZF3giaRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>《数据库架构100讲》16.MySQL-explain《数据库允许空值(null)，往往是悲剧的开始（第15讲）》一文通过explain来分析SQL的执行计划，来分析null对索引命中情况的影响，有不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980578&amp;idx=1&amp;sn=5f9c8db75d4ce299cd7d0de62ef1bdf4&amp;chksm=bc8ca45b5f63985750d8832e515b0bbbee4c33b1bebd04c2a8077e77a3888c4d23dc92bf64a2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[写代码能不能干一辈子，要不要提前为35+危机布局？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXeh6RSMwZ67Mru8DEibtz70sGAy0UBupOFsUXzKWdbIfPU0UlT3f1ics0HORYVLLmia6lzu6gz7BZpLqHoPaxMgn8TOiaKN4Bzyxpc/640?wxtype=jpeg&amp;wxfrom=0"/><p>主题：程序员要不要提前为“35+危机”布局？https://zhuanlan.zhihu.com/p/720444356现大厂码农，很早就意识到程序员干不了一辈子，中年后有失业的可能。先说客观原因：程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980568&amp;idx=1&amp;sn=90e973f06919ba0d861eb617e2d365d3&amp;chksm=bcf464b01157dc3c6c9957a9554de633a86825af460b2d91195701ab3530fd39a089a2e47847&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 08:34:01 +0800</pubDate>
     </item>
   </channel>
 </rss>

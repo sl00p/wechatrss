@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“我把所有模型都换成了DeepSeek V4”：月账单降 90%，效果还更好]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjScffK0z8s65LK39wNibNxnnOJcK5MVqKyYf4rkKOr9nz6syvibq2SYoxC3rX2oElXr0UN6yS0Ef86gP0U7hyh33wncVRc86Pr8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 2026 年 4 月 23 日，OpenAI 做了两件事：发布了 GPT-5.5，并把价格翻了一倍。按常理，这应该是属于 OpenAI 的一天。全新预训练架构“Spud”的首个公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282643&amp;idx=1&amp;sn=05b180ee4aaddb166e7504e2861f162f&amp;chksm=bc8c34b32471887f65a6c9737d00da45932b60e482ca21689c814ee0a5578a2ebd2c8039d5ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 15:29:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 编程的失控临界点：理解债、上下文衰减与独立开发者的新天花板]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhbmPlr8eViaLErUWHuocsN1NvMoTAF03R31ibf23xbfEpQKGBOBLFULFnP0qF4e2p07DicAcqz0BSoV0YGpibt7SdNKawoDwzEMtU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 周云龙一个反直觉的开场2025 年 7 月，一份名为 METR 的独立研究机构发布了一项随机对照实验，结论震动了整个开发者社区：当允许资深开源开发者使用 AI 编程工具时，他们完成任务的时间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282643&amp;idx=2&amp;sn=d15bb636394cce964858a1cb559e6c7b&amp;chksm=bcd4e3aeba670c103627f465e40b007fcebf5fc6d9b4ff161f49e4e6315d4484ff7c599b2c38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 15:29:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AWS 新发布的 S3 Files 适合作为 Kafka 的存储吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh8ZRPNxqApGX7gxowR8ziaYdia62iaic9TtuaXHNcsjVYF9kKV8FELDz42fkGjsgBotx1X2AC4KQt4ZXYzLBJ4IAbCXmiaxOy7ibZpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kafka 社区对共享存储的兴趣由来已久：如果所有数据都放在 S3 这样的共享存储上，Broker 就不需要本地磁盘，副本复制可以省掉，跨 AZ 流量费也随之消失。但对象存储的延迟一直让这个想法停留在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282643&amp;idx=3&amp;sn=05aa00873928547ded115d48c35d028a&amp;chksm=bcc40628b885778b3cfd8bbd586f510333915e49253bfa4e3269c209ab997a54b3545b9d6070&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 15:29:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OPC的接单困境：10个需求同时来，敢让“龙虾”替你拍板吗？| 直播预告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiamiavYTYO7G1oyqsjcHBld37bttnTd7ydOjOJFuoBUiaib3aGSG1ojfSPy96Mb1ic0BZ6YVMeCWXT72rT4vcIWlmUmn6tw7ibjvmco/640?wxtype=jpeg&amp;wxfrom=0"/><p>你的OPC（一人公司）火了，一堆项目需求接踵而至，应该接哪些？拒哪些？精力有限、容错率极低，敢让龙虾帮你做决定吗？本次直播聚焦 OPC 接单真实场景，让“龙虾”帮你理性决策，守住效率与收益，真正实现一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282643&amp;idx=4&amp;sn=09de59b68d2c04c095ab19c206f74be3&amp;chksm=bcab24df4e43b29c1878dc29287727365157eea0a0a63127b63e826135c64986d484e61573e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 15:29:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjGORZCzrxBtv6Y2TB840IdM2G89kOIhtYnhic0axN1V4Bqt60ib1eI1plRDibvJ2r1DX1SluCLic26IXYa6jELMpdBfQKjVL6J83w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 刚刚，DeepSeek 在官方公众号发文宣布，全新系列模型 DeepSeek-V4 的预览版本正式上线，并同步开源！DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282476&amp;idx=1&amp;sn=d7d2f23cdba9f0f29ceec9e7dc119314&amp;chksm=bced1fedee26d4b013dc1c02c75db3a62ad162f3d51909151ee76801aa4dc26ab729beacf881&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeDsrxCqCRtlZZ4LUDg4bfzJobmP5lRXiayuxAeZG8xwRicyx7rul2ScQaIxfzJbU7wdQuyYnoP5wL8gmCCIBWEEvucRhupmzUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 最近，OpenAI 的 Ryan Lopopolo 前不久发了一篇很长的文章《Harness engineering》，成为圈子里的热门话题。 在那篇文章里，Ryan</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281521&amp;idx=1&amp;sn=229d3dcffd7af947680436b90f0529c3&amp;chksm=bce855e5603df06001bb7ca2ab57c8b525414dd14384864b9fad80ea08522c45a5a4d9591e63&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:17:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[明略科技吴明辉：企业级Agent的“精度陷阱”与人机协同重构之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgWoDk5wo9dR5GIdOEDU98ibdcHOu4QGwDP8TjgS6ufJ0dibiaS5bnfOH04wyO26ibBhBLGdnBlOWGQ5vZtiay4KtJGiagq5P6O0tfnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜吴明辉 编辑｜李忠良 策划｜AICon 全球人工智能开发与应用大会 2025 年 12 月 19 日，明略科技创始人吴明辉，在 AICon 全球人工智能开发与应用大会上，分享了《可信 Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281521&amp;idx=2&amp;sn=87ae0ef927588c2d107241bfeb10c64f&amp;chksm=bca22f1952bf95c7a5f492e95586efcb4c7e4bdaa0379d583a4e882747e168b0b03a90073bda&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:17:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招：新部门首作实锤，引爆股价拉升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjumnPzEl3MNibb2vbQU7cDbe8xpYqe2WicP6FFLEMIHOQLL4aCmicZAtRLYNcRVsHoUj744mh3jADgmq0d3ocUd2bicmcoYDGwRFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫没有团队、没有 API，连可下载权重都没有。近日，这样一款名为 HappyHorse-1.0 的神秘模型悄然登顶 Artificial Analysis 视频模型排行榜，排在了 Seed</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281521&amp;idx=3&amp;sn=4f65ea10d8257200ad6d3ea5a9797035&amp;chksm=bcf3d2aa8b9ab74e301b81c43437c9984e4eb38f403e3d8206fd04615ec6f470496441d05962&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:17:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌开源 Colab MCP Server，AI 智能体可云端运行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiacacb88w61IutgrgsV3HSw3C6WDxFwHgErLibDiaS2MJrwl6iawOUNjVeADibq3zwiaGAicwibpbmHyTd7w2icSCt3PkDqBIQnDTz2TZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 明知山 谷歌开源 Colab MCP Server，让 AI 智能体能够通过模型上下文协议（MCP）直接与谷歌 Colab 发生交互。该项目旨</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281521&amp;idx=4&amp;sn=155ed2db49cff486a6c351a96229c48e&amp;chksm=bc486b7af63b2417f663238c50cfef8c0412be7c9e748fd83992724825ba28469a7539013fee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:17:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“我开始失去写代码的能力”：开发者直面 AI 编程的真实代价]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhauoS83318bCm5vKhpXnKcCibGflsnXaKxmCO4zlc5HXC8N99sF8v1o2QElZAPPVXOIfOz0vX9wqY8gEbA5P08qKia4r1M89xns/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 David Cassel 译者丨明知山 策划丨 Tina AI 编程工具（如 Claude Code 及各类大语言模型）正在重塑软件开发流程，重新点燃了资深程序员的热情，同时也引发了人们对代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281378&amp;idx=1&amp;sn=4bda019e156ffe84cda505aa969c54fa&amp;chksm=bc668c0ec07c0d251f419143c12f1bf9ad6c7a7e71be15cff9675f955ae89c23827fed77fc52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

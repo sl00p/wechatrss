@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[浅谈梯度分析与样本对抗：以vlm和ddddocr为例]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2oLCedic85Fmn4iaPhoZe0ibbkWpjibY2V78hu1pVG1hJTFqW3EeDtJmzibUTchUrtnQJemyxiahFpwkQPU7qdmlbr8iaLibySgIfnkkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在2018年，便有学者（https://arxiv.org/abs/1808.07945）发现可以通过仅修改几个像素来干扰模型对输入的预测。作为一篇社区博客，本文将谈论如何构造验证码，而不是如何解决</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614097&amp;idx=1&amp;sn=d1d38a7c3c3ff32cbc9fb880310e6973&amp;chksm=b0b251c70b7bed28e1964d09126030047ecf3b44b02298fcae8dd30b00a9656c7f4bfa5539ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重磅新课！基于CVD的云手机定制与风控分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614097&amp;idx=2&amp;sn=c6d225753223a25b5e21f76289126f4d&amp;chksm=b021d887fc7d8b7d5a93b5b1e614b1976951a6d27777576edf9e7019f9d045d0285763361706&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 25 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ANDROID 黑科技 : 保活机制深度逆向]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2875rxwC6OrRTic61KrIVZT8jo7q0LQXp3BnqvyZ5icfgo2iccQYF4WiaE2fadvp9Zp3l6tnBMhK3GCxKAyfwD0nKTCtmqd5TPic8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Android 逆向与安全防护的博弈中，进程保活（Keep-Alive）始终是一个充满争议且技术密集的话题。随着 Android 系统的迭代，从早期的1 像素 Activity、JobSchedu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614096&amp;idx=1&amp;sn=60f571032ee9790a072fe23816df0b1c&amp;chksm=b0b56dace89c8d0cddbcb3598e74e9faf3a3863cb7fc5270d49111c3e002e2452b53dd0d348e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K00EyvEc5HycEvgr3AqAURB90fLmo8icIX9siaffGSBUlMoUwpzVglw6EZIARzlSmzPKBQMUDhApJYXGpiaJdPw5VlOxVATCVT62w/640?wxtype=jpeg&amp;wxfrom=0"/><p>说明输入一个unidbg trace日志codex + gpt5.4 xhighAI发现一个算法或者是一个规律的时候按照之前计算经验引导测试，所有中间脚本都是模型写的，并且没有保存，只有遇到算法的时生</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613034&amp;idx=1&amp;sn=7c92ad0714b3a8d23823556d90992a44&amp;chksm=b0ac389a011ad86a4fb4b074e5a507d02cb0bca223d4db3b679d2bc71eb0b511989def3249c3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30小时教你进阶CTF-密码学]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613034&amp;idx=2&amp;sn=ad5a9194675c2f37619735324b25ccff&amp;chksm=b0c85a84ca274ea6fc733d7e7aafad314f1e0d5c163f34697e30bdcae30743f5500e6c6eb64e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cocos2d-x iOS游戏逆向分析实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2IUOianAjUszB0ibPNdzxtm9CAib3iajBXMk7Ljc2e9BqGv65fBNTHpWrNiciaydBkZiaiaZR6z6uJL6oaHAjSrJUOpiaKLzd03lYfvmDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在移动游戏开发领域，Cocos2d-x 作为一款成熟的开源游戏引擎，被广泛应用于各类手游开发。然而，随着游戏安全需求的提升，对 Cocos2d-x 游戏的逆向分析也成为了安全研究人员和游戏开发者关注的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613033&amp;idx=1&amp;sn=252c03caeb98b3ac58c0bfe6b1980160&amp;chksm=b06ec31307f8459a13af2b37703c116fc6d261a17d72b273f880c372f4b5edf3c2581ef7f257&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 18:00:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
