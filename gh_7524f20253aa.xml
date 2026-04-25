@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NOuxqTb6D1Ra6zDJeRIZ5blZ39PLc9eLoP2gPEL3xt5uQZXK4TyQBbYAX2PCNerDc0kWfE3ORjQZWeLlfWunjnqjWuz5uGFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击行动曝光一台意外暴露在公网的服务器，揭开了近期一场大规模自动化攻击的真面目。在这场围绕名为「Bissa scanner」工具展开的攻击行动中，威胁攻击者利用自动化扫描、AI辅助编码与T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=1&amp;sn=e244959c54a24bae71c681ad07ba3edd&amp;chksm=bcddd5cefc26b3643e3ab1167be3bcaf632e8a540244d95ce8828deba9ff5faffb9282965447&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[间接提示注入攻击正悄然蔓延至真实网络环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX11DdZEobuKBj0PPJiaK3nNo2mDAUWUc0ce2Biaia4BryVEw6ydwrM6HFt7pjarviak3xW4y3zLM6bgnj74y42iaYKrWg3iatrxCrA00/640?wxtype=jpeg&amp;wxfrom=0"/><p>开放网络正在被一种针对大语言模型（LLM）驱动的AI Agent所设计的“陷阱”悄悄渗透。这种被称为间接提示注入（Indirect Prompt Injection，IPI） 的技术，通过在普通网页中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=2&amp;sn=80a8471d08d35ed20d1ea09b4120eaf8&amp;chksm=bc23b3ff952d6e3b23e73a51957920e337fe50839ba98b9ae8d6fa590f721b97e2a0725507ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：OpenClaw曝重大漏洞；2026高危漏洞TOP10盘点；黑客算改安卓NFC应用窃取支付数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=3&amp;sn=52faacfd6a12dd9640b43c12f2fb815a&amp;chksm=bc81486085f38fa9f950dcc17a98f214823b64750794d081e11ea5070f1d2f512cdef16c89c5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美国国安局无视国防部供应链风险强推Claude Mythos模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ujPAuGuZJlAzoWXMPYENQo3t2CMMVHxvIcCy2U8jKYiclSh3HGQdw16rGDPPfdoSHTT2pSgicrmwwicncrVjibksBgqqEIjiaxUOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01五角大楼担忧难阻国安局部署美国国家安全局（NSA）使用Anthropic公司Mythos模型的消息表明，人工智能作为防御工具与安全风险之间的界限正日益模糊。据Axios报道，尽管国防部已将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337326&amp;idx=1&amp;sn=4b4825de0e4f83e00dad9cfa560df6f2&amp;chksm=bccb60cc33b31956e2759b9c39a403c51fefab8f8f28154e308012317e8f853ed90eaa3a7466&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oso1kuPiaEXfcZbx6JsT0OFUNdovqp84TSHQIiahZJMibhUnia1fRib3lB5ptsV5afpbsExfe3zEicrwMwdD0FCW5QElKlauiae1cAM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正将全球最受信任的两大开发者平台——GitHub 和 GitLab——转变为传播恶意软件和窃取用户登录凭证的工具。由于企业日常运营高度依赖这些平台，多数安全工具不会拦截其域名，使得攻击者能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=2&amp;sn=dd73efc905b871d392d2d83890a44bf1&amp;chksm=bcb024e11dc025271b5c3250ff401c00d1f0a4d36fd6c2f3e042cd7e9562e592552a2fffaa5f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:46:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过身份可见性与智能平台（IVIP）缩小IAM攻击面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2KupmbaUliapEFE2Yyu0Kdv8mOlZ2kRGaTYMiaPQDfqB6ECU5e6ovVKhRSWT0PPnw2hB59Usicw3ibsdKDEA8s0icSotAbNGB1Sook/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01现代企业身份管理的碎片化现状企业身份与访问管理（IAM）正面临临界点。随着组织规模扩大，身份信息在数千个应用程序、分散团队、机器身份和自治系统中日益碎片化，形成"身份暗物质"——即存在于集</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=3&amp;sn=31a0a5908aebef86df585c0567e44158&amp;chksm=bc56c4f60b6974f97684a0fa9eedc6eda12e500f2997d671997e99ac3e294c934e524be2d20e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:46:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网络安全投入激增却难掩防御短板]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ERShFVvKL3rvpz72WwpnegicMmxlt3jX7qWYgrQ7R4RvGQKaCFfJWdlbSUoOGdrWzvyTxgO5tMLvZQicIaRBYnnPByQiaVlA4y4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在我担任安全职务之前，曾是一名软件工程师，负责为工业制造、仓库级输送网络、机器人物料搬运等场景实施垂直集成的自动化系统。早期经验让我深刻认识到：高度耦合的系统必然导致连锁式故障。当单个软件故障就能瘫痪</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=4&amp;sn=ca49bdf0378dcffbf7b7b79dd501ebac&amp;chksm=bcbe371372818c253dcc84736a80e9e66c4ef210dce538ea75b03664aa3714ea4121d9a909f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:46:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Claude和ChatGPT入侵多个政府机构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ZPTatib0MSj3sBJ78Pps6HPXVOQnD4qRKnILF9oicfMrv6VWOLRBulqhKvoKARbibt4ZicdDMzUXjfxAIaPhiarbTbmlTbyYR9zY4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名威胁攻击者成功入侵了九家墨西哥政府机构，通过高度复杂的网络攻击窃取了数亿条公民记录。这场攻击活动从2025年12月下旬持续至2026年2月中旬，凸显出现代威胁态势的危险转变。Gambit Secu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336946&amp;idx=1&amp;sn=2b73181238f28a37f60e63b53abbcfcd&amp;chksm=bc39294b23eac8bce7c2e4dbadb06d3c240232f3b3bfc6f68e4efc4007f4dae4f192f669f619&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 12:41:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
