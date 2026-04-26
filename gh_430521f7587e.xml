@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux全新NTFS驱动合并至7.1主线内核，Linus称之为“NTFS重生”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUbtB3Aia6ic9S1Xe3gdhF8GmnSiac7DnlbIBpWb4pbENxtXUnV04EeamKLmwu2p1CPceiaCCiaJoo6d97Tn9lAIa9xVTDp7W0LWCgU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 内核开发迎来重要里程碑。在 7.1 版本开发周期中，一套经过四年重构的全新 NTFS 内核驱动正式合入主线，被 Linux 之父 Linus Torvalds 形容为 "ntfs resu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239624&amp;idx=1&amp;sn=0d75e5ecff73a8b1eb2f1e71726ca0fd&amp;chksm=bf5db20d3aa91c49a9ffd417d831d4a8e2aecc8d71de57aff0e415fc076dff24c98cfc446f3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:13:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模力方舟上线 DeepSeek-V4：百万 Token 上下文，Pro 与 Flash 双版本在线体验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZFJdqFle2NueXujAGYEh01uBT6aibFUIIG6lkhyn2DdhFiamn3ibSTcXNIRMHoCaAmp4TLo6hRIWwcErqiaicLHTPvkDujGII0UibWT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当模型开始承担更复杂的任务，真正影响体验的因素已经不只在单轮问答。开发者会把更长的代码仓库、更完整的项目文档、更复杂的需求说明、更连续的工具调用流程交给模型处理。模型需要在长上下文中保持稳定理解，也需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239624&amp;idx=2&amp;sn=527ef53cb265d848a526656cc17a476c&amp;chksm=bfa48b31be1394472404859fe3fef8b9b808b402fe94e2156c4f3bafbbc2da51ca3715b2116f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:13:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[🔥OSC源创会【具身智能工程化实战沙龙】]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWdibvicYabDvV0SdXeVWDd92XyJGHusOJzUnPtgmd5JMYLaxsCsicNiaW5lcHpjsQOkUia74Va6nzPOPJykpd64iaEz4xQCCg6n05r0/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239552&amp;idx=1&amp;sn=70a2263e880752724651295337ff8af5&amp;chksm=bfc2c1a0b39563b2a2d382df7b8836f4bef5eb11be46d4a543ec2c5b5860bb01a3fa44b20884&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXbI6CAiaNXbaY7aBqGzOCNQy18OH74ibUAnJw6tKlSsguwxG2g80qibSHy5vKEQIAcwdnpEt5JXGicdJC9icXxKrlGftG73yo7vVYo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，开源世界发生了一场非常有意思的讨论。全球最流行 Linux 发行版之一 Debian 背后社区开始认真讨论一个问题：AI 生成的代码，能不能提交到开源项目里？事情的起因是 Debian 开发者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237745&amp;idx=1&amp;sn=0e7db5fd28beb3446ae7507d41841b18&amp;chksm=bf0829f734ae3c7a0a988560132c4a24caf10cec143122552cacfeaaa1f06533dd3a88d92dbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 12:09:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenTeleDB 征文精选｜我花了一天时间，拆了一下 OpenTeleDB 的 XStore，到底解决了 PG 的哪根老筋？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUk4pOWGrzUx3VpOfUrguVdsCJnG95fLuialM7BJkgiaYvQaFKaduG4Q9erUibPvrTaFnVozTfxrGaCwjbGgCxbRp5fxt7SZEm6x8/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenTeleDB 数据库线上征文活动优秀作品来袭！本篇为精选文章，分享实战经验与技术感悟，敬请阅读。这两年数据库圈有点像 3 年前的云原生圈："分布式"、"新一代内核"、"重构存储引擎" 这些词突</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237745&amp;idx=2&amp;sn=cfea69b48c446d840c04f076f8e630fc&amp;chksm=bf2189338764ad9f277b3a04265bbeb827baa848dae204a4e994569ec96ef578903815275cc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 12:09:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今天你「养虾」了吗？5 分钟配好你的 Gitee 小龙虾，让它替你干活]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/yeVFdDfsr5gl5JR0Cpib9KZcC5UhTRTYqb8cuHHauMaKctz9whLjYaJ02kD4apfoDZqQhS4CEf7VP2yUhyEpkDnRJn19xMSicuY2xKFUJic8KY/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近开发者圈什么最火？99.99% 的开发者都会回答：「养虾 🦞」！在本地跑一个 OpenClaw ，给它装上各种 Skills，通过即时通讯工具指挥它，让它替你干活。OpenClaw 和普通 AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237716&amp;idx=1&amp;sn=7b2f1117a1653dba61bc86f32d4f747b&amp;chksm=bf10975f6d8e0d0ca469515e56ce295cbe6f47b3d29d90f76363311a0900303f5f06a48d701e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 18:11:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

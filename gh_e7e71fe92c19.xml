@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Ptrace注入代码在不同平台的区别（ARM64、x86-64、MIPS64）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0QPib1NGh8jic51YekhkedTfib9msvGstXbaPKJibFKlWg9U9WjRhEtt6X1fYBFzNonU3cBoEkDHcGEQSAjKAxvepFa8dgPib7MCO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>免责声明：本文仅供学习和研究目的，介绍 ptrace 在 Linux 系统编程中的技术细节。ptrace 是 Linux 提供的标准系统调用，广泛用于调试器（如 gdb）开发。使用 ptrace 需要</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=1&amp;sn=86a613ea3b1ecfae8b66c1a54c4051c2&amp;chksm=b0381220fc79e240a05e414c1199f8d0bd673b833dbb5f036ca768728e388f39291c3a2368d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[「HG TALK」即将开播：第一期，和一位“追卫星的人”聊聊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lyhdRmkItUxIpA6XPdjBWlCgLHNgicWn6lomicRob8QzBmsxJNvVVibZcjPKmbv6Tu1e5M0KHbfV2XgCPUPbbmZjibaAt2IncLKhCOoicmgzZEiak/640?wxtype=jpeg&amp;wxfrom=0"/><p>StanApr.293 pm和一位“追卫星的人”聊聊我们有一个想法，酝酿了一阵子，现在可以跟大家说了。我们想和那些真正热爱技术的人，面对面坐下来，好好聊聊。没有提词器，没有“嘉宾”和“主持人”的距离感</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=2&amp;sn=629e42fb0c808f26f6d56d4746c4a32c&amp;chksm=b0e35a6c599eb137c1b4a25d829a0cb880ed6787c363febf59c35ea63e91648959cc33c25ab1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[务必升级！Nessus Agent Windows版曝高危提权漏洞，攻击者可获取SYSTEM权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2VUs1snQibZ1FHoeBV5eiaXQuM61f1hICAN30WShNmhmcLFmz0Woickd4zpSFUkZXIq4dgPppLaPibcgiakYy57AXicjSkNaRZ9budM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Tenable旗下广泛部署的漏洞评估平台Nessus Agent被披露存在一处严重安全缺陷，影响所有运行于Windows环境的代理程序。该漏洞允许本地攻击者利用NTFS文件系统的交接点（Junc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=3&amp;sn=c37e0a23d3aa9ff2095335f4f0207e29&amp;chksm=b0a5aa4d38587e418356ecff88cbcefd818278b22ba0173808bf0d567020b98809f9d6ce48c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今日更新！冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日更新：二、环境篇:知其然，知其所以然2-5 “规范驱动”开发原则详解https://www.kanxue.com/book-227-5890.htm在技术迭代如潮的今天，Windows内核依旧是系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=4&amp;sn=db50b70abe41382ed6b1832900e3d263&amp;chksm=b04a13781b427a3ec0d7b7ae7292d31281551b3c4aa0d50f050221965b736056578181d37a80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[浅谈梯度分析与样本对抗：以vlm和ddddocr为例]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2oLCedic85Fmn4iaPhoZe0ibbkWpjibY2V78hu1pVG1hJTFqW3EeDtJmzibUTchUrtnQJemyxiahFpwkQPU7qdmlbr8iaLibySgIfnkkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在2018年，便有学者（https://arxiv.org/abs/1808.07945）发现可以通过仅修改几个像素来干扰模型对输入的预测。作为一篇社区博客，本文将谈论如何构造验证码，而不是如何解决</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614097&amp;idx=1&amp;sn=d1d38a7c3c3ff32cbc9fb880310e6973&amp;chksm=b0b251c70b7bed28e1964d09126030047ecf3b44b02298fcae8dd30b00a9656c7f4bfa5539ba&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3kjcXIELeW521jWwWlYnrpI1b07jtvUmLIxiaalwicSRERWwGFPp5JS93beHQIneKJwTmhYVHwExdP4fskR84DTsny4yQQhOoPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员发现一起针对AI开发工具使用者的新型供应链攻击活动。2026年3月20日，一名攻击者在npm公共仓库中发布了名为gemini-ai-checker的软件包，声称其功能为“Google</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613072&amp;idx=3&amp;sn=2e9c73a23080909e350e15790e4c2bd9&amp;chksm=b0d7ea367d41def3786a81b921e67a45c115d7432476e584c562232adda2aa16c6a85473a20b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅析64位Windows的SEH机制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2x7ib0LZicGo3WRmtIuG4Aq4WB1besGaYQF7rdDyTEbxnhnKWVvmJ0rDAPad7CBM8iaOXNLriaKosBp89jWuY4Xq54ZAVc8wxFq4E/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是从逆向工程的角度分析64位Windows的SEH机制，阅读本文的前提是能够从程序员（开发）的角度理解SEH机制。如果读者从未了解过SEH机制，请先阅读以下文章：Windows SEH机制（一）h</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613046&amp;idx=1&amp;sn=73807d13afe4a99092568778bbcfd251&amp;chksm=b0d735d1a8c29e5695247ed1323b3524305916054fadd91c186169423639f6796d05b955abef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[先知安全沙龙 - 成都站 4月17日开启！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0JzibZJeZYouzJJUXPfYiaBBS1L2STm8YMtPjS9j8a2Cjiar8xAjm4mTiaKvHNDmmPS0lRvrGPTXhMCKr40thrEEW4aiacW1mHRZzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十三场-成都站将于4月17日在电子科技大学清水河校区光电楼报告厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中心、电子</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613046&amp;idx=2&amp;sn=a4d6b0efc59e337b6ea4b22ba8a847a9&amp;chksm=b03484f9040482fec48600c6192cb0f8c3fc04b194dabd693cb84a721bb88d809c96a2b29185&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows 提权 0-day 代码公开，SYSTEM 权限沦陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2JDk7zR1COHzXDWmy8hGjYzflibMnjtK8op1KUAmSMGfwnsU1Gbto8W2qPnxgAWA8aiaS3oKgZ7k7gW68E5DEiccAtMYoAIHkGvI/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员（@ChaoticEclipse0）日前在 GitHub 上公开发布了一个针对 Windows 系统的零日本地权限提升（Local Privilege Escalation, LPE）漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613046&amp;idx=3&amp;sn=60dceb41a5c9712d9cafd148607fed15&amp;chksm=b0ae8fd49dc5786af6affa8bf2c3bbd04def27228d3efe6f935cfabcafa216e323212752d953&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[X-Perseus AI初窥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K00EyvEc5HycEvgr3AqAURB90fLmo8icIX9siaffGSBUlMoUwpzVglw6EZIARzlSmzPKBQMUDhApJYXGpiaJdPw5VlOxVATCVT62w/640?wxtype=jpeg&amp;wxfrom=0"/><p>说明输入一个unidbg trace日志codex + gpt5.4 xhighAI发现一个算法或者是一个规律的时候按照之前计算经验引导测试，所有中间脚本都是模型写的，并且没有保存，只有遇到算法的时生</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613034&amp;idx=1&amp;sn=7c92ad0714b3a8d23823556d90992a44&amp;chksm=b0ac389a011ad86a4fb4b074e5a507d02cb0bca223d4db3b679d2bc71eb0b511989def3249c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

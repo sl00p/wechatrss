@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI重金悬赏GPT-5.5生物漏洞，严防AI被滥用于危险科研]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RCl2CNEgexo1xeVVibbOfLaM0mmBZ56cliaJSomdWWdoONCcyZNLsryVokBjFVj0YYXChcUViaQf1eJv6NEsuwGcTqvGuTrsnOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI宣布针对GPT-5.5推出新的生物漏洞赏金计划，旨在加强高级AI系统的安全控制并防范生物学领域的滥用风险。该计划邀请合格研究人员测试GPT-5.5是否可能通过通用越狱方式绕过生物安全防护。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=1&amp;sn=cf1b5199a23acc09e58a6ec965aa3f9b&amp;chksm=bc118b02d3b2e831e6d9c8e6f963a1380462905165d5ab9502784fe1b31dadf80ccd382a0458&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软引入Anthropic的Mythos模型强化安全软件开发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1C50icDZW07P6tceYQUsicdVA4PoRoMDjyVaRwleU6NQ908qqDZvlJnrUP6aOicR4U2lgP30h9HQNIS00CyJ1hXWbNMKkR6ta47g/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软计划将Anthropic的Mythos AI模型整合至其安全开发生命周期（SDL），此举意味着先进生成式AI开始直接参与大型软件厂商识别漏洞和强化代码防御的流程。该公司表示，将采用Mythos P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=2&amp;sn=c454ce5c325f3feeaa990f5a1d3bbfa8&amp;chksm=bc8b7e1e61d063b3525a045a171799e29a1c0731639b889b4f92bd506f800c303e452b90cfc6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[12年Linux漏洞Pack2TheRoot曝光，本地用户可提权至root]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3B0FvJf4q77P8N0DGYnEePJEeqMv7lwwFlwqKwbPG39WwQ5uaqzSUbmnElOXSo7euibGwPic0zvOhFxXScOwVYxWwrYfQb5hTak/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述编号为CVE-2026-41651（CVSS评分8.8）的Pack2TheRoot漏洞允许非特权用户未经授权安装或删除系统软件包，从而可能获得完整的root访问权限。该高危漏洞已存</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=3&amp;sn=401a3497cbb8a535207ab9404f7596c4&amp;chksm=bcc75d6df3c26ca858a623341f5e41bcb240420cccad750e730d983f1cd806edc78e049c0e60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客篡改安卓NFC应用窃取支付数据，克隆卡片盗刷账户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tKdow2ITzU4bg2DA4YRwiaLF3oLf0SoiaySqdYWeEhDevRNL2lF8pxINYibk9dd1wGeDT7uN8UUzQD1FlqmDxI3IEqxkgatUgRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正滥用一款被植入木马的安卓支付应用HandyPay，窃取近场通信（NFC）数据和个人识别码（PIN），进而克隆支付卡并清空受害者账户。ESET研究人员发现，NGate恶意软件的新变种已植入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=4&amp;sn=0991e3ff45859b1ec81df1f2791e51ee&amp;chksm=bc68dbe0e4db7b1bc81394377a327d3cdb517b5d3f067e2ff65c06a7d54cc733d80e39fa8e48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NOuxqTb6D1Ra6zDJeRIZ5blZ39PLc9eLoP2gPEL3xt5uQZXK4TyQBbYAX2PCNerDc0kWfE3ORjQZWeLlfWunjnqjWuz5uGFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击行动曝光一台意外暴露在公网的服务器，揭开了近期一场大规模自动化攻击的真面目。在这场围绕名为「Bissa scanner」工具展开的攻击行动中，威胁攻击者利用自动化扫描、AI辅助编码与T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=1&amp;sn=e244959c54a24bae71c681ad07ba3edd&amp;chksm=bcddd5cefc26b3643e3ab1167be3bcaf632e8a540244d95ce8828deba9ff5faffb9282965447&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1kV3Ff54QxfuWvjptTriaeBrnRHxnfKh1dfQVoJHMuBDaJicaF3sadlBVaw4cfL0ciabJMovItpdcGa8dbGvdWKB1VUtGiaosS7lY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Mythos Preview虽不会彻底颠覆网络安全，但两项最新分析揭示了它如何压缩漏洞利用窗口期，并暴露了漏洞管理中的缺陷。首席信息安全官们应为此做好准备。过去一周，业界对Anthrop</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=2&amp;sn=5cd545222e6e1757f1885ca590bb6ea7&amp;chksm=bcdcb2ccbba908aec1de2f3307c3028fdd0f50394bb3bb279a4088601ad56b00fd43cdeeae1a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI攻击22秒突破防线，警报后响应成致命短板]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3VV5rl6uTyUO89TbkPpaiayx7YsVspGnVSOgvLClpYiaXwsCLMBiaBM5PsOk7VN5zmuqeaPodLY6VrnYv2CYCGGBCO80ANE7GeZ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司上周紧急限制了其Mythos Preview模型，因为该模型能够自主发现并利用所有主流操作系统和浏览器中的0Day漏洞。Palo Alto Networks的Wendi Whit</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=3&amp;sn=5951b354f0f127a35e4bc4a44c00c477&amp;chksm=bcf74182a1b10fa9b092d758a65d198db8f78d5c0bbbc31bd9b1403e220c395b7ebeae704614&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Marimo Python笔记本曝关键漏洞 公开10小时内即遭利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ibfENL3c9ic29PFaMVvokdDhztkrJNkzXNY2zLmg3sAX6Bicgo58GIOynsXN4GONNUXeArRFibKvIZe3ps9iaSMiaeEU1yI3DlvCys/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者通过单次未认证连接即可获取完整系统控制权，蜜罐服务器上三分钟内即发生凭证窃取。Sysdig 威胁研究团队披露，AI 云服务商 CoreWeave 旗下的开源 Python 笔记本平台 Marim</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337007&amp;idx=4&amp;sn=4218b804e62da43ba33f9c20636ba2b8&amp;chksm=bcebd4f12af6dcd69974f93091d8dd39ff71e20636476f7cdc7da600eeab54c5539d53775222&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI生成的密码不堪一击，企业代码库或已埋下定时炸弹]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2mIutCWoCmPYrrE9LC0rIa06xhMf0pJ4oYJUkm7zGrSrxmzser8Ezo8q4kNZlD8DCMJXSSK8aKgFfrXwzM5EPUzu4EcRcgLKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01警惕AI生成的伪随机密码停止让AI为你选择密码。这些看似复杂的密码实则遵循可预测的模式，而非真正的随机生成，使得黑客能够轻易破解。AI安全公司Irregular与卡巴斯基的两项独立研究得出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=1&amp;sn=0a77cc6c422f7dbc5a4a12e99b42cb45&amp;chksm=bcff4ac2c2064bb189245936fb5ec90dda971b644186de1f678fef40d8e86c6af36c1141ef18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:46:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客滥用GitHub和GitLab托管恶意软件并实施凭证钓鱼攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oso1kuPiaEXfcZbx6JsT0OFUNdovqp84TSHQIiahZJMibhUnia1fRib3lB5ptsV5afpbsExfe3zEicrwMwdD0FCW5QElKlauiae1cAM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正将全球最受信任的两大开发者平台——GitHub 和 GitLab——转变为传播恶意软件和窃取用户登录凭证的工具。由于企业日常运营高度依赖这些平台，多数安全工具不会拦截其域名，使得攻击者能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651336987&amp;idx=2&amp;sn=dd73efc905b871d392d2d83890a44bf1&amp;chksm=bcb024e11dc025271b5c3250ff401c00d1f0a4d36fd6c2f3e042cd7e9562e592552a2fffaa5f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:46:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
