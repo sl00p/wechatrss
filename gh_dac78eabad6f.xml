@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness Engineering实践心得：如何高效驾驭AI？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4TAATrxaxs4cicWGh9JyUfpGbpsKlJ1gDCibrHKu2MzAnSIrfs6y66rEhwnMDLfIurQYwEOxQficjLyLUBib1uGmWL0T8bE0DLe34/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇先做个自我介绍。我是一名游戏客户端开发工程师，日常工作在 Unity 引擎开发。从去年开始高强度使用 AI 辅助开发，一开始只是让它帮我补补代码、查查 API，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=1&amp;sn=639d83e3bacb5cf2e040dad911bbde61&amp;chksm=eb5aa1a2fdee4a1c40ba86f8111170eff4234398d3dce4722b4df828028b6afe98893caff9d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5月10日·西安｜免费安装「能动手干活」的AI！名额有限，速速报名！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr71VZWxq4D92898lPKkl21AdB2mx4VC7ULqWwehLZCMdt8VP4HicjA3Yy9a85MIqgkamCeoK7SbcbnNOKjSWGcRGrzI2p3M4jLE/640?wxtype=jpeg&amp;wxfrom=0"/><p>5 月 10 日（周日），腾讯云开发者社区「AI 公开课」将落地西安。本次活动由腾讯云开发者社区主办，联合多方生态力量共同发起，聚焦一个最朴素、也最真实的问题——现在这么火的 AI，除了聊天，还能帮我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=2&amp;sn=a0b70e0e942475ed7de079c7e14fd7ad&amp;chksm=ebd03360b1c2d10328691e1b77f4844e6f48e185f0162aaff486a9d601722df1abc4973dd369&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三体人都知道 AI 好用。 Agent 能写代码、做 PPT、搜资料、盯进度，一个顶三个用，属实省心。 但 token 烧起来，家里没矿真遭不住。 一次复杂的 Agent 工作流，几十甚至上百次 API 调用，账单一出来，心跳比跟对象第一次联调成功还快。 为什么 token 这么贵？说到底就一件事：全球算力紧缺。 高端 GPU 供不应求，推理成本居高不下。对开发者来说，我不用 AI 是因为我不想吗？有本事你拿货来卖呀！ 好消息是，混元这次把成本打下来了，骄傲脸。 混元团队在重建模型基础设施的时候，定过一条铁律：性价比追求。 具体怎么做到的？两个核心动作： 第一，MoE 架构压成本。 Hy3 preview 是快慢思考融合的混合专家模型，总参数 295B，但每次推理只激活 21B。换句话说，脑子大，但干活的时候只调用需要的部分，算力不浪费。 第二，模型架构和推理框架一起设计。 这是真正拉开差距的地方。大多数模型是"训完再想办法跑"，混元是把推理成本当架构问题来设计的——从训练阶段就考虑推理效率，不是事后优化。 结果就是：同样的能力水平，Hy3 的推理成本显著更低。 成本低了，计费模式也得跟上。腾讯云推出定制化 Hy Token Plan，个人版低至 28 元/月起，享有 3500 万Tokens，可执行约 70 轮问答！ 便宜不代表妥协。Hy3 preview 在 SWE-Bench Verified、Terminal-Bench 2.0等代码智能体基准，以及 BrowseComp、WideSearch 等搜索智能体基准中，都取得了强竞争力结果。 在 CodeBuddy / WorkBuddy 的实际运行中：首 token 延迟降低 54%、端到端时长降低 47%、成功率 99.99%+。 成本低，能力强，这才叫性价比。 谁说好用的 Token Plan 不能便宜？ 28元/月，一个能干活的数字员工。 让你收到账单后的心跳，像是跟对象联调十年后一样，波澜不惊。 各位彦祖亦菲，这边请👇 购买地址： https://cloud.tencent.com/act/pro/tokenplan 腾讯云大模型Token Plan_畅享龙虾和编码自由]]></title>
       <description><![CDATA[<p>三体人都知道 AI 好用。 Agent 能写代码、做 PPT、搜资料、盯进度，一个顶三个用，属实省心。 但 token 烧起来，家里没矿真遭不住。 一次复杂的 Agent 工作流，几十甚至</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695442&amp;idx=1&amp;sn=75ccd4bfd0bcb6da1121d4c63fcaed07&amp;chksm=eb5c819e3e280503e432e6203d44f7654472a10b4d4906299655202eecd3bdaa5085ed006292&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94Iicc0vh7COSAndTibNY49cABviaB1k95HLibJVvOXb7Dra8NLv0nLhiac6kXNe8TibEEBSHotd2pkglvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景国内云厂商从2010年左右正式推出云服务开始，关系数据库作为核心产品，18年以前聚焦于传统关系型数据库如何更好的上云托管，提供开箱即用，以及企业级的高性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694140&amp;idx=1&amp;sn=fe8377e7d14a51c666b82568826c945a&amp;chksm=eb5340830aefc35bf9ad2c914aee4a68a0ea0755e7a0131e69a4e1547e7700f04c67f83c5800&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 22 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[反思软件工程，超越Vibe Coding]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94IdSibRiaTstKywK3pPhtCP0MpB8eHhflDoHQXBG5MCvdeic8l4R0Zyhu1ibYej9TKmrficRenzX8xiaHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01新范式转移—从 Vibe Coding 到 Vibe Engineering站在“上帝视角”审视软件开发的历史演变，我们实际上是在见证 “人类意图”与“机器</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694132&amp;idx=1&amp;sn=bf1650133e607135bd489be0bda27c24&amp;chksm=ebc63090f80e8365a21a75fd8c530d1a08c1dda2270230e282f2d7f8ff1b958cf30903f0aba6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 21 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字详解大模型应用发展：RAG、MCP、Agent的爆发之旅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe96ddQAfNdefjDDrKeQCvBWxNyv0n4VgBjYKqiaNWyEXSsialUMDJ1bfo28HHHeQnkJ3Wa3KXiboW9XwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01大语言模型发展历程摘要大语言模型的发展历程：2017年具有革命性的Transformer架构开始，解决了早期模型（诸如循环神经网络（RNN）和长短期记忆网络</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694097&amp;idx=1&amp;sn=26aa1b7ba79a8359af3d88642d246ea1&amp;chksm=eb9936eb80b6142f3497055601bda5c0051269c69daf58a2ef506bb1f93bb9b5bfc2dcffeb61&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

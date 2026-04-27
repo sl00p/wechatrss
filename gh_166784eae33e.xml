@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[良性首发-信任积累-更新投毒：GlassWorm 恶意软件通过 73 个 OpenVSX "沉睡者"扩展卷土重来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicics0rDQHDb4DH4wwVI7RaPjbZn9OdHqWW9x7KzgVQ1bzuX8fIwUVJpE7qbwPNp20M4icSsKQtQ0iaybdl1qhcZylupznoh4xo18/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件概述GlassWorm 威胁活动近期在 OpenVSX 开源扩展生态中爆发新一轮大规模供应链攻击。根据 Socket 安全团队及多方情报交叉验证，攻击者于 2026 年 4 月向 OpenVS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518560&amp;idx=1&amp;sn=36e375fceb1ea472bc6b4261b0d889fb&amp;chksm=ebb271e651623878385e2826c3b915e6041a524a5c9fd68d2831f6769d68e3c67c39f0eead27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 11:36:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Scattered Spider核心成员认罪：深度解析以英语母语为主的网络犯罪组织的战术演进与地缘关联]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8TVhea2Nrqaf2K7iaWh2HftkOEUVRSeZccL5T7eyzcOnr3wy80ZJgsDgy1A3L0icD5tCfyHNENRKnoOXF3YT9jiaLicN1R0TE9v2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2024年6月，苏格兰籍威胁行为体Tyler Robert Buchanan在西班牙被捕，后于2024年11月被美方正式起诉。2025年，美国司法部正式宣布该成员对参与Scattered Sp</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518549&amp;idx=1&amp;sn=2041f78684b77509a06560c6afd65c00&amp;chksm=eb9bcded0147ed4e2faabcb9de0dbc957a41864c7b01a258b9e4f705d139a04850a44ef07c32&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicUb7niaoyVVLwDt5nxAtAqP3icrjITyicUKwMEhcPpVIarP9ibckS2qoibuaW8HS1DgjiaTpAl5kpOzibEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.24~10.30攻击团伙情报SideWinder 采用基于 ClickOnce 的新型感染链Lazarus Group 利用 DreamLoader 恶意软件发起攻击Lazarus 以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516502&amp;idx=1&amp;sn=aadc73e9c3ea330c9943c51aa7cad5dd&amp;chksm=ebe211de4442a5f7cbf27590ad8b8e6a8969437b681c9df3c55fe7d4728392e8eb254ec6411d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Oct 2025 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[研发人员请注意：你克隆的代码，可能“带毒”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicichxNuDsuZfVP6EFQ8qgsI5zn1vzfJJzAs2cG6nibNgO4NAQAASm466W6xibiacjibsQSZ4ozZ12ibwTfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信网络安全部和威胁情报中心观察到有多个政企客户研发人员从 Github 上下载不可信的工具或安装包，从而导致开发终端被植入窃密或挖矿软件，可能会对公司核心数据造成潜在的影响。本文重点剖析</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516465&amp;idx=1&amp;sn=a3985a67f38de686f0d2d7e01f031d63&amp;chksm=eb61e39c6bd67762c5fc2ffc261767ff70bfe39ba0021ab225a5512fcdd24921de828d07bcce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Oct 2025 10:51:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

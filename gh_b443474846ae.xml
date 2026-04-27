@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[openJiuwen社区首发Team Skills，定义Coordination Engineering新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhy5NicIPE9F1x1jfdfsmF6adGbkSvtawuvUJe0jvfMUYRYibt9dAtdVQDCLiaR0zlAAQFI5Wh74xND6F0pJ3iaia7ZEoQgZHjQfKxk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 杨过Agent 应该如何协作？除了任务编排，一个理想的 Multi-Agent 系统还需要什么？今天，大多数多智能体系统给出的答案，仍然是任务编排：由开发者预先设计好角色、流程和交接方式，一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282949&amp;idx=1&amp;sn=72c78d37e246ad225e188630566d94f2&amp;chksm=bc4d35afa05f83a2f37211022a877734ec8740ebb4dee9474d9abc208732f0e90b4b76881ed3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 16:22:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深度访谈｜OpenClaw引爆Agent元年，AI Agent在企业内如何规模化应用？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgsUFzAINtBKgqlaYfkW8QRSdyyMFdWQr5Nc5rRicTeXNMd6Dxl7quODNkSCA4CZO5rogCNVebKcXNTCosQd13UyAZU26nC83Ig/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 文朋2026 年初，开源智能体项目 OpenClaw 风靡全球，迅速成为开发者社区的焦点。这场现象级爆发，也让行业关于“Agent 元年”的判断，第一次有了具象而清晰的参照。OpenClaw</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282949&amp;idx=2&amp;sn=06f6534999f2222fa0f189eb3e512855&amp;chksm=bc3a114402aecb01dc0aa5c963d46094084833620447d718ab556be2c58f4ba8a909840f692b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 16:22:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[浅析 Amazon S3 Files：工作机制、性能边界与选型思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj1qklcOVpIE0RF2ZLRq5snrkWDDA2r7N3TmHf2qK2x9og7VdKDIiaOUPvJyQsX4PLPiaO95JP8bjERPTpibSxGHCVAHuXZYehfQk/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月 7 日，AWS 官方发布了一项新服务——Amazon S3 Files，允许用户无需搬迁数据，即可将 S3 存储桶作为高性能共享文件系统挂载到计算节点上。这不是业界第一次尝试让 S3 以文件系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282949&amp;idx=3&amp;sn=11813cb7ec17e206830ea8bf615973f1&amp;chksm=bc6b437d8db5a43ca21ec5f04b46d8a23f668b33f81966841cbc54c54fe65b42ad00d277772b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 16:22:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Lyft 使用 AI 和人机协同扩展了全球范围内的本地化能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgtFexo4xwiaraExuTtoDNf6ob5rVsxfe6H73DYQSkrNBlnMWsgFmrDiclQxicmjv7IjPfXLTLsMeny8UWibbmyEt3rvgUdJxXqqpU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 张卫滨 Lyft 实现了一套 AI 驱动的本地化系统，用以加速其应用与网页内容的翻译工作，它能够在支撑全球化扩张的同时兼顾翻译质量与文化适配性。系统通过批</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282949&amp;idx=4&amp;sn=836a7a7d9d4aaf929915d7e562f3f027&amp;chksm=bcf62a3206befc54bb0f1e42a76ae78ef11ea80414a77dbae8c4b5b4c28a848d158ee4aea9c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 16:22:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhh6GrBqNu7miakctygKniamNsk1wXOY9g9VYbBRUtBawwJRtnhZEB8Pm99pSQ0nB0MhozQRDLs6sd0vAAnSrI7bxf3nRHJBIrZU/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 上周五，OpenAI 发布 GPT-5.5 与 DeepSeek 推出 V4 模型几乎同时上演，大模型市场的竞争正进入白热化阶段。面对竞争对手的快速迭代，谷歌生态的技术从业者正在积极寻找应</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282822&amp;idx=1&amp;sn=ab7b459ab3c73352f589347f06c92425&amp;chksm=bc64c95268e2b9fffd4fd634c42958f465c263236310e0b3e1f461dec0834a6f921df442bee8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhBU12TNPSNf46FJoVtE8HGGcpO2Zre2szicWHDXuIzEWlJl9Y0icP4LuUrMuPSqgZdIDR2ZdULG8yMicUG8ibudegs2WKIQtK3N3M/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜颜志杰 ，百度资深研发工程师 策划｜AICon 全球人工智能开发与应用大会 审核｜Kimmy 在生成式 AI 狂飙突进的当下，软件研发被公认为大模型落地最成熟的“试验田”。然而，当开发者试图将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281724&amp;idx=2&amp;sn=1f2f56a96b1af1fef24faa166f5ecdd7&amp;chksm=bc2fcfd8dd71ca8a421b13b2bad193e702ceb84d634610657301bacf35dba16ec58c1b605416&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 成为主流负载后，数据基础设施将如何演进？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhTicrEcStBpK61P6cqQCpX9wib4gDKmUMyydBZVguq2KCCkz5ibVzGa14JxzI5Sc0zyibYs9dsplKm2EiaV8rq6qyq70HkjfXrMOQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>在过去几年中，数据基础设施的演进始终围绕一个核心问题展开：如何更快地分析数据？但进入 2026 年，这个问题正在被重新定义。随着 AI 应用的爆发式增长，数据系统不再只是分析工具，而逐渐成为 智能系统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281724&amp;idx=3&amp;sn=1adde90718a3b747d2de271c628959bf&amp;chksm=bc1704e7df0f963cc4082aaf277cbaba860eb237f44d5727f1c262b8e34ffcb373e51ec09c26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首席工程师之路：培养领导力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4TRbj9VLc1DkHfeuUnOY97iay099GDguez0nwSKQs21WHrJhv0VQ5l2OUn0fZ4jyxcwEv4BMI5htzxVibVPbsN1Foofz5Xn9sg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 明知山 Sophie Weston 在 QCon 伦敦大会的演讲 “首席工程师之路” 中提到，工作并非培养宝贵领导技能的唯一场所。她建议大家思考在工作之外有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281724&amp;idx=4&amp;sn=78287db85bc073fcbecb50277a73d09d&amp;chksm=bc708f4f2a5a9a005412f090db098c9452a5404f38966c97ff1780a54ca27ace4c1fdbda82b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果疯狂狙击Vibe Coding App]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNheS5C16Jd6icuicbXQ8ZC9YISRwxTmJUVKHgRGennvygVnhBWgAYzXrBJYyrxwjDDyecpcP2Fu3dtL0upsdP4LQE4T5SUb39JHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 苹果 App Store 阻止多款 Vibe Coding 应用更新 在苹果创立五十周年之际，这家曾以“让每个人都能使用计算机”为使命的公司，正再次站在技术路线与平台治理的十字路口。近</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281663&amp;idx=1&amp;sn=1e53843bbdc4f5f89053931c512ac5d6&amp;chksm=bcc85347a526e834befd43d13ffa996b7528e6cec36d121b17c79180f7beec23ae88bd54d74e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 15:12:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiatlTQf2spohDRnonslCNIABB37t9QOg0W2icvic8L5HJJ7wJH4ibU3WRZHp4TwjibuVqjoKwJyWzPy2KNnTs3QlNSJ23IxBZ37PiaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 文朋 2026 年开年不久的 AI 圈，似乎比去年更加热闹。OpenClaw 在短短几个月里，成为开发者圈几乎“人手一只”的本地助手，甚至引得部委和协会出手预警潜在安全隐患；各类 AI Co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281663&amp;idx=2&amp;sn=b73be00f39409ca1bf6a046b24399516&amp;chksm=bc401950ae891dfd5549568865d6b4ada9cadba168f312efee15f36db36eaf2342f92a6de338&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 15:12:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

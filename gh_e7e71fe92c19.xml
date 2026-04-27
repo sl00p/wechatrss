@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Android从ELF-Loader到自定义Linker的实现及原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0yczmESZdE3zkc9ds7llb7ocW5WKJNepfUzKTXibib3hRdMoyYPGESsmBVcMSo8TetpNHeCO839VJwRcH0eibmibibl3LoSPTglrms/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.ELF 文件结构在学习自定义linker前, 先过一遍ELF文件结构相关知识点。Linux 的一个 .so 或可执行文件本质上是 ELF(Executable and Linkable Forma</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=1&amp;sn=4de73f4845683a4247c3f78c64f404e4&amp;chksm=b0f84c9680d64f98221f1ce16245cdaff0fa06564ae6345b5faa79fbea09c12abf10994c22aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9秒删库！Claude Opus 4.6 编程 Agent 误删生产数据库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3DqFp6ThyKpIxaGCxawTFFYvNGDCHpuic9yBY8JA0mynZajZx5O7qibJTU0eQoYd261NRLRzkibEb11lqyy793MxqvNrRIMibgtp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月25日，一场由AI引发的安全事件突袭美国租车行业——SaaS平台PocketOS的核心数据被AI编程Agent瞬间清空，业务中断超30小时，数千家租车企业客户受波及。突发：9秒删库！AI擅自操作引</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=2&amp;sn=9652f073b868cb466a755e580f2a21e2&amp;chksm=b09ec821e11fb582b84710a3ee04dd0388026658a846e51d8fbb9d7632933b34c2052faf2042&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播更新 | 系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播更新：课时6：自动化工具固件初步分析&amp;大模型视角下的IoT漏挖https://www.kanxue.com/book-7-6042.htm课时7：路由设备漏洞分析之NETGEARhttps://w</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=3&amp;sn=d861c4aebd91848548289ade30df70a1&amp;chksm=b00d27e46aaf321dea40567f75892484908bf0a1212e706f5f2134374f9d169fa55cf76200fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 17:59:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Ptrace注入代码在不同平台的区别（ARM64、x86-64、MIPS64）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0QPib1NGh8jic51YekhkedTfib9msvGstXbaPKJibFKlWg9U9WjRhEtt6X1fYBFzNonU3cBoEkDHcGEQSAjKAxvepFa8dgPib7MCO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>免责声明：本文仅供学习和研究目的，介绍 ptrace 在 Linux 系统编程中的技术细节。ptrace 是 Linux 提供的标准系统调用，广泛用于调试器（如 gdb）开发。使用 ptrace 需要</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=1&amp;sn=86a613ea3b1ecfae8b66c1a54c4051c2&amp;chksm=b0381220fc79e240a05e414c1199f8d0bd673b833dbb5f036ca768728e388f39291c3a2368d6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaoGYtvE8GVOPickX4tc02ntYTuMriaQM0uOrgLNTEAw1xqhGEkqNA3aNucXdICd8VEXqVDBClicTaxGv0EEk8ic6sgnicAZ8I2E9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Docker 官方披露了一枚高危安全漏洞（CVE-2026-34040），该漏洞存在于 Docker Engine 中，允许攻击者绕过授权插件（AuthZ）的访问控制，进而可能获得底层宿主机的非</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=3&amp;sn=6eb93ad2f08d3e6ef4629b8c9e5e0660&amp;chksm=b050bbe90db3e725a46e731b368fc0d1ba671a9e0409975f4374efebe524fa10599409f7f4e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“用设备”到“造环境”：CVD正在改变整套玩法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613072&amp;idx=1&amp;sn=ea660a74bf715d0c9813657d6da83622&amp;chksm=b0d83ca65682a598be3b46192a24f3d4f51240b378bedfac5e4a45f730999a493065f97d5379&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[软件安全赛-2026-writeup NPUSEC]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Zj8sEA2WhCl4iakerstanbiaWiaAaiaVfibRiakjmaPlYdOl3gmDHUiaTSo1BR3aWLv5n4IYRgweYQ66WMjUZ64IiaOgdTM28nickJpl4/640?wxtype=jpeg&amp;wxfrom=0"/><p>先来一张最终排名时截的：WEBthymeleaf新建新用户并计算出 admin 的密码，脚本如下：import reimport randomimport stringimport requestsi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613072&amp;idx=2&amp;sn=e0fa3ab1339d921f9f92780339f12c1a&amp;chksm=b0d5b3c55dfae9ec41263abf97624f2d818a224b6e09fec66619ece36101b1e19190a74a32ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[npm 惊现恶意 Gemini 工具包：专盯 AI 开发者数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3kjcXIELeW521jWwWlYnrpI1b07jtvUmLIxiaalwicSRERWwGFPp5JS93beHQIneKJwTmhYVHwExdP4fskR84DTsny4yQQhOoPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员发现一起针对AI开发工具使用者的新型供应链攻击活动。2026年3月20日，一名攻击者在npm公共仓库中发布了名为gemini-ai-checker的软件包，声称其功能为“Google</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613072&amp;idx=3&amp;sn=2e9c73a23080909e350e15790e4c2bd9&amp;chksm=b0d7ea367d41def3786a81b921e67a45c115d7432476e584c562232adda2aa16c6a85473a20b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

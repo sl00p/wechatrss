@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[读完这篇，你就搞懂 DeepSeek v4 了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904uESUeo0dS0pMoZEqT76c7ptwJQzibBHCZqibpgHDC5gpN3iaYykzm8Gic4pS130xpJ9V6L3H1DMqpicibiaMeibg7yLvqjoOOC11Ttqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：dorian丨 导语 2026 年 4 月 24 日上午，DeepSeek 又一次把"开源炸弹"丢进了大模型圈。没有预热，官微只有一句话：“今天，我们全新系列模型 DeepSeek-V4 的预览</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801469&amp;idx=1&amp;sn=6d9db2b546577d488b24c3a185d49d8f&amp;chksm=bf53968b9590109f2bf62ba035d93bdedff297f501555fad50b68f10ca0430a9309dd0a277e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 17:23:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907qYXA7DSJAF0P66wZBibP539hjJ3uEnmoAlrBYhD3UERy4fQUtfHGogibHicuupibSz5Ru01RQToJQ83vTupRicbHKBmCee5cfV4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenpxiao当 Harness Engineering 成为 2026 年最热门的 AI 工程话题，业界争论焦点集中在"该用多大的模型"还是"该搭多复杂的工作流"时，我们团队在落地实践</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801437&amp;idx=1&amp;sn=c5e13bae6cc04ef21f1ef819128e50e9&amp;chksm=bfdfcf744fb7998c3c7245969c76d6cd6b148985a8f98724e3e2c330b97d7d79c5eb6d527554&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasSvHwcic7ZCLqib5jr6ialAaEGxQdz2OSHgHL30kuE9GKic7eUhd7C9Yib4nxXDn4c4QbI6dOp3ve2iacg/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798033&amp;idx=1&amp;sn=12dbf67944c5172b8c7fe9743b9fd25a&amp;chksm=bf371db09f56c1cb7100e1f40d991760ddc7f79112074f271059d0d19ea983fffad00e334956&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Dec 2025 17:57:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[教你从零“手搓”一个大模型，别再只会调用API了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvau95iccWniaPo2Yzkib2pzjybiaMwK23p8ktuW64e3aSteiaVQoiaMP9bcPDdsiaYSnnSUmhEYL7hmGfdIlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：yongzheng，patrickguo在大模型满天飞的今天，我们是甘心做一个只会调用 OpenAI.chat.completions 的 API 搬运工，还是想真正弄懂那个黑盒子里到底发生了什</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649797931&amp;idx=1&amp;sn=baa328385c0d1ffb67ac8ee26b7e00fb&amp;chksm=bfc913ea8614435a840ce2c8c9d58e3915099de9423d3ca1f526d302eddd9f5d696838ea4379&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Dec 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

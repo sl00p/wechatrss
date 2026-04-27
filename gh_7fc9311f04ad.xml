@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你不知道的 Agent：原理、架构与工程实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJdxmIdf8tQZzdken0UwUJZMSZVg47ibJWlY2lMP1mAeCx03vVFapdc73fhpRmw4Pxoiav92iaUJHdbQcXNJDrcWMuowibTGaR2GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559745&amp;idx=1&amp;sn=31903f96e842d95a2fa2f6b5a5a012cc&amp;chksm=e8027e5db39516f489909a71fdc182626fc4dfcabdc09c007846341629d2bdd0b9aa8ddcc993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[工作流的 Skill 怎么写？从 7 个顶级 Skill 中提炼的模式与最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yYIo21qYDeheic8SmohXE9hGRLPvTwzxhiazZBCyZVRNCUa8z6xrnJzPljmX1WDxVHZrGPCKDbv1eAEiatZz16B3Z2iaBtglpoXhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、Skill 是什么Skill 是一个文件夹，核心是 SKILL.md 文件，使用 YAML frontmatter + Markdown 正文 的格式。当 LLM 判断需要某个 Skill 时，会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559690&amp;idx=1&amp;sn=fed34d2ade198ea8fb75ad5b768c9229&amp;chksm=e8af92ef7d0769584022bcbaff18e2f3f8724c44c2e03a9106a54847db981c318715ba3cd8bc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4zdsCZXIVkj0QofRkt8GGOib8jZ9ia7Nn4Q8h5pX1WglGZ9BGhAe9ibEAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言不久前，Spring AI和Spring AI Alibaba都迎来了新版本的发布，首次在框架层面支持了Multi-agent 编排能力，看到官方示例中的ReactAgent构建代码，以及其“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558373&amp;idx=1&amp;sn=edc6314dd8b386cb4d5f9d92985a1479&amp;chksm=e81095d09789d743b6015c0c266cc58e206370b93c118123de8d64e0601a42870d524314a68a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[灵码+Qwen3-Coder——使用Skill机制实现代码审核]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKcQ9P15cMx5ZCVuZz2Cfuyfa3BdvJaAK1AMdurOIAAx5DgibU2EJKzWOsAojpJpfXJeCC97Upu1icA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景Claude Skills是Anthropic推出的一套基于提示词的模块化能力扩展系统，它通过"渐进式披露"机制让AI在需要时动态加载特定领域的专业知识，实现从通用助手到领域专家的无缝切换，受</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558354&amp;idx=1&amp;sn=032b02687e785e2bf6468dfd61f7294c&amp;chksm=e840e2cdd12d6972957d7c99b05d9bcb48f4cb20bc217feb9129176c72825b80cb3758cbe48e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

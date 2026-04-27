@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Karpathy 的 AI 知识库 理念，已经有人开源在 GitHub 上了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU08oDLARoFqP9eRFyhUrzGMUNhbtX8Ey5kdmg7H1o1YNhkCo4ghtDr4gqng9JB1rrR3N5Wqmy1xQaNEEJeaEnAjYmpG8Ur1ibic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人把 Karpathy 的知识库构想变成了现实。前阵子写了一篇关于 Karpathy 的 LLM Wiki 理念的文章，讲的是用 LLM 当知识工程师，帮你持续维护一个 Markdown 知识库。当</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533334&amp;idx=1&amp;sn=1d33cc0d087234db8d0e20d839b04b97&amp;chksm=f8859ee00eb9f01e20319a550325961e0b7fdb3c3f30229ddff00e8a121113928018601a7ef1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 28 Apr 2026 11:58:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐搞 Agent 的把这个 4 万 Star 的 GitHub 项目研究透。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ib2lKSZx5TWdfDPWricnNhZ2xTJVMlz3NdZyvPbtIWTvdvSibsgyqPPJpb5hiaaZ87Cuaxe83uHiab3yzXXyHkQa6EXgLFW0dlXZs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年了，人人都想造一个自己的 AI Agent。不需要从零开始踩坑，不需要从头造轮子。今天推荐的开源项目已经把 Agent 底层架构打磨得非常干净了。如果你想开发属于自己的 Agent，这个项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533333&amp;idx=1&amp;sn=270032eb5b2d8c7dfa136d393e989754&amp;chksm=f89df111b31f09083d4a563ef33999659422b038ff482ef3bd41fa788c11eb1682ad919495f6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3WQkXVVXlfgsjoQ3HoOMCyDXVO53b4iamlU4UVn7kHwLFo2f6aytYAocia88JXMibFt9kdBvic8InYiaguvW0ZnRB2nBckHDGBOrtM/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 的热度还在持续的发酵。大家用惯了聊天搭子，每个人都想领养一个可以帮着干活的 Agent 智能体。Agent 很强，但是目前 99% 的人都被拦在了外面。春节前只是在开发者或极客圈内火</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532057&amp;idx=1&amp;sn=0b679d05d1ca7518f226e41ac3a82ee2&amp;chksm=f837232ddea0030ef69aad34ec51def05a465a9638147718879bb8539d47271545a44ba0a657&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 12:11:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[55 个 AI Agent 组成虚拟公司开源，2 天就 1 万星。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3u8YYz6f9wpj9qCfmic2vS7j66XZicYew6SwO4Zsacr8qu3gicXgugmXZ8icE6dwakchwR2kOt60yeMztvVX1d1hiciaic3SPkZUqfWU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了一个挺有意思的开源项目。也登上了目前的开源热榜。它叫 The Agency，说白了就是一个 AI 专家角色库。里面有 55 个专业 AI 角色，分成了 9 个部门，从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532019&amp;idx=1&amp;sn=d9e52c2a283c6b4b361e506078173b7d&amp;chksm=f83106efc250a2377bc320b898b7cab648c7ba52114576616e9c741011ae43efd013cecc901f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
