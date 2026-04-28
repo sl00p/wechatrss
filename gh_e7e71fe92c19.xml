@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[利用任意物理读写驱动来加载自己的驱动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3gBkTtu3CYiaeib2AJ5dOGCNGjkJaeoUXQ1reqic7ibWPUA4MU3xibVYib5Wo831C0KiaPkQoBJAylcqDrctJ22NUmF3TvOiaAmlyeJW8/640?wxtype=jpeg&amp;wxfrom=0"/><p>早期许多漏洞驱动未对MmMapIoSpace施加严格的用户态访问限制，导致攻击者可借此读写物理内存（如利用 PFN 页表可直接将物理内存转换为虚拟内存）。为此，Windows 后续封堵了这一利用路径，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614348&amp;idx=1&amp;sn=3ad065ac0bd0b6e152a887670ef1e5dd&amp;chksm=b09c3bbb87bcaba1faf43d0787d2f4c5cbd3dea8668c9b146e2d924afb0e0faf2f05e24285d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[单个Git Push就能攻陷GitHub？CVE-2026-3854高危漏洞曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ibia0qTZK928f1uPcagUCpkYfIKmr4deeMF0mLTDyYqyhIkoPzcC6JRyYDck9NRKWZoVcf65H6dkTjTTibibOJx8aSHfIHrVV84Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月4日，Wiz安全研究团队向GitHub提交了一份震撼的漏洞报告——一个编号为CVE-2026-3854的严重命令注入漏洞，让攻击者只需执行一次简单的git push操作，就能在GitHu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614348&amp;idx=2&amp;sn=ce07c53a847420a458cfab9e46207714&amp;chksm=b0e1339ec2803aff5802c56811063a8c2b21872070ff87d3fb0e8cd2ff91c7f7d64159ad1934&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[月薪3W定向培养！看雪安卓高级研修班『2026春季班』火热招生中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有问必答，知无不言，言无不尽，用心服务！更有职业推介服务，全方位简历指导/服务就业！1、开学大礼包现在购课，开学礼包升级3W班高研网课开学大礼包：orange pi 5 3588S 云手机套装*包含香</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614348&amp;idx=3&amp;sn=62e4bc182f8c27b9cd4fc1664da29b41&amp;chksm=b046926d71d0d2e9564aec597fc5dfb2ba7e94448c9acb1242378265595d1473546479dbf5f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android从ELF-Loader到自定义Linker的实现及原理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0yczmESZdE3zkc9ds7llb7ocW5WKJNepfUzKTXibib3hRdMoyYPGESsmBVcMSo8TetpNHeCO839VJwRcH0eibmibibl3LoSPTglrms/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.ELF 文件结构在学习自定义linker前, 先过一遍ELF文件结构相关知识点。Linux 的一个 .so 或可执行文件本质上是 ELF(Executable and Linkable Forma</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=1&amp;sn=4de73f4845683a4247c3f78c64f404e4&amp;chksm=b0f84c9680d64f98221f1ce16245cdaff0fa06564ae6345b5faa79fbea09c12abf10994c22aa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3RibWvvUaiagia7YRlLicD9kgOtqefxmGNEialyuzLjhz0ewQvsqCztJibD77nrRqqAehseJQAgm6v1nyjQM97DYf5mmbyWhf3r9OGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究机构 LayerX 披露了一项关于 Anthropic 公司 AI 编程助手 Claude Code 的安全风险：攻击者可通过项目中的 CLAUDE.md 配置文件，绕过模型内置的安全护</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613208&amp;idx=3&amp;sn=def236a2788dbdf51e47630a1cfb136b&amp;chksm=b0c5b0456ceae1955e65c424c5f7758f7031d8ec1105bbf0f8f8dea50a50a7515ec6965217bd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=1&amp;sn=af97f110f6cd3563072ee349bb998914&amp;chksm=b011a1dcf4d7b1d952cbe2d6e62e1ff0f7d77ce626704a1c06d2d372c66fcf103aa870e81847&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[间接提示词注入和供应链投毒，正在威胁你的 AI Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3YUvsnh5LYE2h55kPJ0siczbSDPibbibP3z2icQNZWm9UeuiaRfmvcem6QNUq4P8z1o2A5N1QzD8toAl81lRcgicPLjhMibEUtOLHhqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、AI 是怎么学会"拒绝"的——安全对齐简介在聊攻击之前，我们先了解一下 AI 的"免疫系统"是怎么工作的。如果你直接问 ChatGPT "怎么造炸弹"，它会拒绝你。这不是因为它"不知道"，而是因为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=2&amp;sn=0c165669d97bf7e09c7e678481a87156&amp;chksm=b059cafe06157faee71c381f86737db66967bcd79545a8fc8af17c7dfe5bf997ecdb552f5ccf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[未完全修复旧漏洞！Docker Engine新漏洞可致容器逃逸与主机接管]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaoGYtvE8GVOPickX4tc02ntYTuMriaQM0uOrgLNTEAw1xqhGEkqNA3aNucXdICd8VEXqVDBClicTaxGv0EEk8ic6sgnicAZ8I2E9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Docker 官方披露了一枚高危安全漏洞（CVE-2026-34040），该漏洞存在于 Docker Engine 中，允许攻击者绕过授权插件（AuthZ）的访问控制，进而可能获得底层宿主机的非</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613203&amp;idx=3&amp;sn=6eb93ad2f08d3e6ef4629b8c9e5e0660&amp;chksm=b050bbe90db3e725a46e731b368fc0d1ba671a9e0409975f4374efebe524fa10599409f7f4e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

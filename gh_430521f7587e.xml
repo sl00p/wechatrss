@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重生 1930，AI 能自己发明出计算机吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUt9vqjibZwQvPhtxb1cibS1PMdJ89WDQajSGPyolzibejum8Z8QhGJcziaOohs3tz9v99VibQEa4R95DjGdhOz6ZO512KgW2BwQ5y0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 到底是学会了推理，还是只是背下了互联网上的所有答案？现在有人试图验证这个问题。两天前， Hugging Face[1]上出现了一个特别的语言模型，参数量 13B，训练数据 2600 亿个 tok</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239767&amp;idx=1&amp;sn=762aad7692a57983d2f918f50745b713&amp;chksm=bf097c0b5c41a014980de5aeeaa97cede64353b80c5ed0ec40be3698b71540e782edde48a99a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 14:18:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/WdyVrOG9iatvyibI5zlJZ0g4YDI2ias05fRXTEuicOblpVrVep7FqfLpGE2YvIQDFe9DcgETSOLXvzTszk5cqLqw13Tjn9X1VyEyJMHLxQ5sGe0/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们正式发布并开源商汤日日新SenseNova U1 系列原生理解生成统一模型。它基于商汤于今年三月份自主研发的 NEO-unify架构，在单一模型架构上统一了多模态理解、推理与生成。NEO-u</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239767&amp;idx=2&amp;sn=608b09a72c915e463b839c7c281ba29f&amp;chksm=bf9a4b31d9d525395535f5ecec040b0e484b58920ece5d4407f000d7e4c99fc0ddbd30f2fc81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 14:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 年 4 月 27 日，国家发改委发布简短公告，宣布依法禁止外资收购 Manus 项目，并要求撤销交易]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVF43OIglx5ZgWTxEoPN6wPwkr8ueo9OcIIuuhia5cM1KzY7tywGPEOWn7a57Xt5QE6SlnSJJamPKXMjLRvu0Mib9wOFkLcHDtN8/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239663&amp;idx=1&amp;sn=4537090e77daf16294abc82f6e9102dc&amp;chksm=bf6031d3220fde54e93cb9488a1be7acc4526d91d529a7bc650fcdb055cb7d57a893e0265223&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWkZS8XX3N7yDBQ2IAKynSxDib5goYAiaARiaib5MpOont5d6BMvYD2LA4tbfgr4yKUv3Yxw4G6QXHVZBfeN7cofHuE9kO0yOjXJQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Rust 社区刚刚发布了 2025 年度 Rust 开发者调查报告。这是 Rust 连续第 10 年发布的官方年度调查，今年共有 7156 名开发者参与，数据覆盖全球 Rust 用户的使用习惯、开发体</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237974&amp;idx=1&amp;sn=8ccde052cdc2fac971acd0eeaa999526&amp;chksm=bf5154208cf5134f59cbfb2c5c5ac0b8dd76ef0b79ea2815b01930a8d00d721f1f408963a0da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 16:09:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenTeleDB 征文精选｜我用三个场景验证了 OpenTeleDB XStore 的"零膨胀"到底是不是真的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXUW4RzZ6AIWOHzU1lNWO1e5BDvQAFRdOf6OmU8jibTq6zrKlbib76kRFJMytmpqYysz1JTbz3MQcogmn5G7gTvbcT7ibp8Rdjgy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenTeleDB 数据库线上征文活动优秀作品来袭！本篇为精选文章，分享实战经验与技术感悟，敬请阅读。用过 PostgreSQL 的人都知道，MVCC 机制带来了优秀的并发性能，但也埋下了一个 "定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237974&amp;idx=2&amp;sn=554a70eece2b6b1eb7cca44807eaa22a&amp;chksm=bfe6a6b0f7378acfcae20395951712f01aec00800c2a4aa4a2a3ee0a67d4e27aaee65baea7a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 16:09:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“智绘桌搭，创享无限”桌面机器人应用开发挑战赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhW7ffgvIJeQUQalElQq3icFQBeUBZFVRvARQCAqr0GAfU0qouicsQByJa8tj9aufv3GTTpYYnoeHpwZY5hEpx1NHmN99L5hu0TVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>⬇️点击「阅读原文」了解活动详情。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650237901&amp;idx=1&amp;sn=8742c5ff73ff304703a3287b73ec295a&amp;chksm=bf217f24c7807b8101ae5885becd369d30af17df49de1ae70999b987d395b2fde79d78c340c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 17:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

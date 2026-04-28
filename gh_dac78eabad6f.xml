@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深入浅出Harness Engineerring之核心模式与理念]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4xy6anqaxiaEWlOEibCxwK4GWdhPceK9zuE7NkGnayicsJxg45xGGsjJMibxTKKmtyQXZuFGqFgtvuSZBMfUPpibmqzwC3dEZnuC5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Claude Code 1.1 持久化指令文件没有这个文件时，每次对话都像从头开始，相同的规则和错误可能反复出现。代价：文件需要随项目更新维护，否则可能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695469&amp;idx=1&amp;sn=9ba77be5cdb4a9031a708c7361d7a026&amp;chksm=eb16d18f4a0fbaa7ecfe6de18f3c425ab11ce95db6fd61e4c1c4c1203b9350c7bdd01a5c9235&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness Engineering实践心得：如何高效驾驭AI？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4TAATrxaxs4cicWGh9JyUfpGbpsKlJ1gDCibrHKu2MzAnSIrfs6y66rEhwnMDLfIurQYwEOxQficjLyLUBib1uGmWL0T8bE0DLe34/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇先做个自我介绍。我是一名游戏客户端开发工程师，日常工作在 Unity 引擎开发。从去年开始高强度使用 AI 辅助开发，一开始只是让它帮我补补代码、查查 API，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=1&amp;sn=639d83e3bacb5cf2e040dad911bbde61&amp;chksm=eb5aa1a2fdee4a1c40ba86f8111170eff4234398d3dce4722b4df828028b6afe98893caff9d5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>AI是开发忠实的合作伙伴：知识渊博（训练内化各类通用知识）、有一定的逻辑推理能力、效率惊人，但同时确定性不太好（概率本质，幻觉）。 我们大多数需求追求的是确定性的交付结果，所以要采用一些合适方法，让</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694142&amp;idx=1&amp;sn=cc3a6dc135f10855878dd9b7cb6a6db9&amp;chksm=ebba44cbdbb15abc6396192b73b37257a0a99cabc6151f9f3805436d3e372b059f8eeeb763ca&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯技术面：数据库核心八股终极典藏版]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94Iicc0vh7COSAndTibNY49cABviaB1k95HLibJVvOXb7Dra8NLv0nLhiac6kXNe8TibEEBSHotd2pkglvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景国内云厂商从2010年左右正式推出云服务开始，关系数据库作为核心产品，18年以前聚焦于传统关系型数据库如何更好的上云托管，提供开箱即用，以及企业级的高性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694140&amp;idx=1&amp;sn=fe8377e7d14a51c666b82568826c945a&amp;chksm=eb5340830aefc35bf9ad2c914aee4a68a0ea0755e7a0131e69a4e1547e7700f04c67f83c5800&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[供应链攻击永无眠：SAP CAP &amp; Cloud MTA npm 供应链攻击事件报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqic37lj6UrPXO2KA2C3Ziadwk9VGly31ZuiaQDYicus2o3cCIx2emY0jKyichjSZcRt0ib8MTDJVnoRW82T8ibe2yY5pIXuDlYnUWMqzc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述这是一起针对 SAP CAP（Cloud Application Programming Model）和 Cloud MTA（Multi-Target Application）生态的精准 n</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518567&amp;idx=1&amp;sn=e3b68204c27e714e7179801b1e91c9e3&amp;chksm=eb4e6c10063c5a8f8b35f604f8ba911d2d8cb48f98e8cf4150cd2af94a99da51312daed3fb7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 22:40:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[良性首发-信任积累-更新投毒：GlassWorm 恶意软件通过 73 个 OpenVSX "沉睡者"扩展卷土重来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicics0rDQHDb4DH4wwVI7RaPjbZn9OdHqWW9x7KzgVQ1bzuX8fIwUVJpE7qbwPNp20M4icSsKQtQ0iaybdl1qhcZylupznoh4xo18/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件概述GlassWorm 威胁活动近期在 OpenVSX 开源扩展生态中爆发新一轮大规模供应链攻击。根据 Socket 安全团队及多方情报交叉验证，攻击者于 2026 年 4 月向 OpenVS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518560&amp;idx=1&amp;sn=36e375fceb1ea472bc6b4261b0d889fb&amp;chksm=ebb271e651623878385e2826c3b915e6041a524a5c9fd68d2831f6769d68e3c67c39f0eead27&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8BhrvqSKmNI92iaJn6Fne9dV9jy53icN03FDibLoXx4gWqqaryONA1UclYUcRy6l9sfFzNaZHfInPMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述最近几年，奇安信威胁情报中心红雨滴团队在与东北亚地区的高级 APT 组织进行高强度对抗的过程中，发现了近 20 个涉及国产软件的 0day 漏洞，部分细节我们已经在 Operation Devil</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516542&amp;idx=1&amp;sn=55df9e8ef778a5aee6bd099276a381b2&amp;chksm=ebb1f5ec6f634d924552bee309f1ec8152cbbd4c402a4ae0cbf0b9c42b287b91d0d23cf72571&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Nov 2025 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.10.24~10.30)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicUb7niaoyVVLwDt5nxAtAqP3icrjITyicUKwMEhcPpVIarP9ibckS2qoibuaW8HS1DgjiaTpAl5kpOzibEg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.24~10.30攻击团伙情报SideWinder 采用基于 ClickOnce 的新型感染链Lazarus Group 利用 DreamLoader 恶意软件发起攻击Lazarus 以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516502&amp;idx=1&amp;sn=aadc73e9c3ea330c9943c51aa7cad5dd&amp;chksm=ebe211de4442a5f7cbf27590ad8b8e6a8969437b681c9df3c55fe7d4728392e8eb254ec6411d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

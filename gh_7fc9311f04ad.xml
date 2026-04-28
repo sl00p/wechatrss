@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness Engineering实践，做了一个平台让AI一晚上自动评测和优化你的系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y6GFkTUvzWCETWicIgwJicFXQsCJGMl9jOqCe1qTEMeKQmnNhcqdwX5DLMew8SOoBWicCJLUIb28pS28SNa0DfaNN8cFnoLgUhvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。本文介绍一个我近期做的一个实践流程，快速搭建了一个小平台，基于这个平台可以做全自动化的评测，乃至于整个系统的全自动化优化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559787&amp;idx=1&amp;sn=d17999288e104cfb22985cc29812bb0d&amp;chksm=e83e7689dccc8be777322f5f81d5e90df504000e18ca48de5478a29c17b1502fd7fb20866fc1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 29 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你不知道的 Agent：原理、架构与工程实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJdxmIdf8tQZzdken0UwUJZMSZVg47ibJWlY2lMP1mAeCx03vVFapdc73fhpRmw4Pxoiav92iaUJHdbQcXNJDrcWMuowibTGaR2GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559745&amp;idx=1&amp;sn=31903f96e842d95a2fa2f6b5a5a012cc&amp;chksm=e8027e5db39516f489909a71fdc182626fc4dfcabdc09c007846341629d2bdd0b9aa8ddcc993&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ9VUlHGU1AqQWWtjhZuN5hF9fibVQVVOg29SRzdS25yUibJve8ZcTWtMzj3qAhmyKbXTNnUfoOfiasA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里商旅是阿里巴巴旗下一站式数智化差旅服务平台。依托阿里巴巴生态强大的供应链及信息数字整合能力，帮助企业实现降本增效，增加合规透明度，全方位提升企业组织效率及员工差旅体验。其中AliGo阿里商旅的差旅</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558374&amp;idx=1&amp;sn=df986ec3bd155c4bdb0be357501c162f&amp;chksm=e8211dea831e8c1b69dc5d2cca9e5d7b4d0ac2d361b182c86c892e60afcf807d974bf6d39fad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用Spring AI Alibaba把MultiAgent实现从5天压到5小时]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4zdsCZXIVkj0QofRkt8GGOib8jZ9ia7Nn4Q8h5pX1WglGZ9BGhAe9ibEAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言不久前，Spring AI和Spring AI Alibaba都迎来了新版本的发布，首次在框架层面支持了Multi-agent 编排能力，看到官方示例中的ReactAgent构建代码，以及其“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558373&amp;idx=1&amp;sn=edc6314dd8b386cb4d5f9d92985a1479&amp;chksm=e81095d09789d743b6015c0c266cc58e206370b93c118123de8d64e0601a42870d524314a68a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
