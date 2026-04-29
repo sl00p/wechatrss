@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Linux“一键Root”0day漏洞，影响2017年以来所有发行版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX25O8JFkb2yBHvOTDDOMeibqCyeY2TZib7tNynAj7vaRtiaxDduK4QJqsPTI5AStTyKGaAOejAeSiaiajS5ssUhrHbNSxU6jGhO7ia9M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 内核中新近披露了一个名为 Copy Fail的高危漏洞（CVE-2026-31431），CVSS评分7.8。仅凭一个 732 字节的 Python 脚本，任何无特权的本地用户都能一举拿下</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=1&amp;sn=9ffad7730fdbd623cf083f218ab58c44&amp;chksm=bc1c835d501cdf04c47d179e46b34f8fb78cc01ed0b8de4d73a7d072b75bad142a03d908c639&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3DzcL0djprKTS8w493DdiajiaeeKM7QOiccb1FxTvZhlsuiafDPBA2m6jJmtcnv19icvwaeCiaWiagq5TZBZ0POm4P3wQe6zmVh5gHxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月25日，北京，第二届腾讯云黑客松智能渗透挑战赛决赛在极具极客氛围的场地中圆满落下帷幕。大赛以“铸刃止戈·以智御危”为主题，吸引了610支战队、1345名安全极客与AI研究者参赛，远超首届规模。经过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=2&amp;sn=ffda9034a47f79215cf0f556e5995c73&amp;chksm=bca8195f6139dce836d7e75edd91fe68d8a89226438c5a8eb204b503402d804fac1569a36a64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LiteLLM高危SQL注入漏洞遭利用，AI网关凭证被窃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1PgEmmlSeIMu1qBB0yWr084dXAKKazFxCiagOwkQYtZOGQNOBVl37XsxIpIBhic2ic9phOBANUIl4J2XJ5q2Kd4Hxic3kia8eV8icac/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款拥有超过22,000个GitHub星标的开源AI网关LiteLLM曝出严重漏洞，其预认证阶段的SQL注入漏洞（CVE-2026-42208）正被攻击者活跃利用。该漏洞使未经授权的攻击者能够直接从平</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=3&amp;sn=6c27e55b17cfb07f315d1188556bf6e9&amp;chksm=bc788156aec546dba44658deccbff9c51471b640a002d9942622bb14caeb9a1ff580e5537e32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub高危RCE漏洞可接管服务器，数百万代码库面临泄露风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX170gqKFEvScY7VQia7N8651P3ckyM74micRj8ETC952742uGrW3V7Ru1uZY5GHOuv5PjiaibNibnOgQibqYEFkSJ9MvJQdFLlGZbflA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub内部git基础设施中存在一个被追踪为（CVE-2026-3854）的严重远程代码执行（RCE）漏洞，该漏洞可能允许任何经过身份验证的用户入侵后端服务器、访问数百万私有代码库，对于GitHu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=4&amp;sn=26fabe87862f8d1a355f0457ee53276e&amp;chksm=bce3db0d73065f0f8bae550ef5712f1e822748ad5010291f95e32cdec8293d4dbf5aeab27714&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[28个Claude子Agent重构渗透测试，一键部署AI黑客军团]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX311Xd7t7iaWCGhHEMLMrbcQGuc25VhK2WVIRjtPFZNmmkzuw4ChOxcjW0wOd13IicjxgAOicibJmvbtj7aaK34VZTjeq2mzZVnh64/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为pentest-ai-agents的全新开源工具包正在重新定义安全专业人员如何在渗透测试工作流程中利用AI技术。该工具将Anthropic公司的Claude Code转变为完全专业化的攻防安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337545&amp;idx=1&amp;sn=772e37039accf79521a5b80e0032e89f&amp;chksm=bc435652cdab410c8958238389fcef9e2af0c6fb445d82428ca00b6ee9317edea0c612e734ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX27MGgk9O3AADl5VibS7F6icSdvUQX8LlvQy0RLuqfNkdcCKia0cc1DUFibqicdEnz4jnwNLibsCWSCicJkaPmRnibic7AZUbopvmkicPOWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 最新升级的 Agents SDK 可帮助开发者在受控沙箱环境中构建具备文件检查、命令执行、代码编辑及任务处理能力的 Agent。本次更新为 OpenAI 模型提供了标准化基础设施，包含让</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=2&amp;sn=e6d25cd2ed0ba06887b82d16645262fe&amp;chksm=bc3dc0031d48e0825f9225868cdbdb2292ac56be838537ad3921460207f77089608359993d47&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SpankRAT木马劫持Windows进程隐蔽攻击，VirusTotal检出率极低]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tZznt3b6zCYcE23fP5XxPS6qIsX98WylGrvo2oiciaiaVvk4DN2eIJPB3PSDgEtfcwRHicwmQqIBj3ACTh8AxO3wu1CPlecdEf8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现一款名为 SpankRAT 的新型双组件远程访问木马（RAT）工具包，该工具采用 Rust 语言编写，能够滥用合法 Windows 进程绕过基于信誉的安全防护机制，在 VirusT</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=3&amp;sn=dae6f1c953c6b64f3758554fb2b5386f&amp;chksm=bc4411592090566a23cdd5dee7ff1ffce176a30771735bbd8d25f2115dd3e4f101b6c2099016&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Splunk Enterprise与云平台漏洞可导致远程代码执行攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2bib7aiaQBm5YmYxicqLU45vEWQliaUXcXhOtMVABfxIwOBIgHg8XhwhXXqiaQMicAE7eicKVglYWZ7TRUQSDPsI2zElDmumt9SHsogQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概括一项影响 Splunk Enterprise 和云平台多个版本的关键安全漏洞（CVE-2026-20204）已被官方披露。该高危漏洞 CVSS 评分为 7.1，对企业网络构成严重威</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=4&amp;sn=8a6279d6009ee17a5603a42f2eeaa75e&amp;chksm=bc421fad6db332bc0a6c4d41f8f02b761c274f61af028e92f11c910781e0f12618621fd4f700&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布GPT-5.4-Cyber强化网安防御，与Anthropic展开AI攻防竞赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3icSBBRmlrLhFvVggfElJ2DXkmFc5ccdeCU1o7qmbfsFFXOl6Yy29Z1eGZXsOZKe4xp3vfq2m0709O1E7cjvEFbCJJHhFwkdZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI周二发布了GPT-5.4-Cyber，这是其最新旗舰模型GPT-5.4的专门优化版本，针对网络安全防御场景进行了特别优化。此次发布正值竞争对手Anthropic推出其前沿模型Mythos数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337086&amp;idx=1&amp;sn=00b094b61343af1bfa7c69f7bb731a9c&amp;chksm=bca28a6a5dbae89ebeb2b1a2578b97230a52488ff447fa2f938ed112f6de8cedc2a7fd84adab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026，网安行业看似冷清，但我们依然忙得很上头；AI安全警报：大国博弈下的新挑战 | 2026网安行业优质播客精选集⑯]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2XiaALNJB7RN9VaSmOq6Zra2KIFREHRBeJtphgAatgZAkiaZ7tUyKW8XkrNVRptGPqIPRxAQwDcPVxZg61MrbHag4cKnY2uJpg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 2026，网安行业看似冷清，但我们依然忙得很上头本期节目：从RSA Conference 出发，聊一聊美国的 AI 安全叙事与想象，以及全球范围内愈发多元的创新路径。中国从业者身处其中，既是参与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337086&amp;idx=2&amp;sn=e553756bb7001c975c6e60506b0808ff&amp;chksm=bc66cc40e8d7bd7426762a493eb4528e93ee4728450dac5565a3d6f2fa053101ec6b0f24b070&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

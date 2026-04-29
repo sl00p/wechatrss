@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qoder Skills 完全指南：从零开始，让 AI 按你的标准执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKDpSBmFFkefzN8X7zzjCmH4gXLe8icjtv2N9No1EZGiaDrS3I4ygm3yYkIuATONQwf142XFS09BhptdnmsojXse25uXj81QMe4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在 AI 原生工作流加速普及的今天，掌握 Skill 已不再是开发者的专属能力，而是产品、运营、设计乃至技术管理者提升人</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559803&amp;idx=1&amp;sn=b098d8dafccc26b9352b3f93edfbf292&amp;chksm=e8469bfc7e842857aa81061534e954d277c2864800f2d4e8398786576c1ea85982b49aabce78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness Engineering实践，做了一个平台让AI一晚上自动评测和优化你的系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y6GFkTUvzWCETWicIgwJicFXQsCJGMl9jOqCe1qTEMeKQmnNhcqdwX5DLMew8SOoBWicCJLUIb28pS28SNa0DfaNN8cFnoLgUhvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。本文介绍一个我近期做的一个实践流程，快速搭建了一个小平台，基于这个平台可以做全自动化的评测，乃至于整个系统的全自动化优化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559787&amp;idx=1&amp;sn=d17999288e104cfb22985cc29812bb0d&amp;chksm=e83e7689dccc8be777322f5f81d5e90df504000e18ca48de5478a29c17b1502fd7fb20866fc1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xt924w2EUD6fGDozFEK6Su6LYyluyhpOEPicQwo65Tu7tVicR7FHH0dGd8MI9icYfPgjeuIdfctylSlWzJgeHLYYpLugVk5uFibDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，登顶全球最强开源模型。该模型总参数为3970亿，激活仅170亿，以小胜大，性能超过万亿参数的Qwen3-Max模型，部署显存占用降低60%</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558440&amp;idx=1&amp;sn=f24285af4b6d915247e8124be8e766f1&amp;chksm=e86f167aebb057d650ec665df76ecaee74725e6f7cc6de8724643015bea46a9e56a5becebe6c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Feb 2026 19:40:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[准确率提升至 90%，阿里商旅基于 AgentScope 构建多智能体差旅助手最佳实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ9VUlHGU1AqQWWtjhZuN5hF9fibVQVVOg29SRzdS25yUibJve8ZcTWtMzj3qAhmyKbXTNnUfoOfiasA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里商旅是阿里巴巴旗下一站式数智化差旅服务平台。依托阿里巴巴生态强大的供应链及信息数字整合能力，帮助企业实现降本增效，增加合规透明度，全方位提升企业组织效率及员工差旅体验。其中AliGo阿里商旅的差旅</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558374&amp;idx=1&amp;sn=df986ec3bd155c4bdb0be357501c162f&amp;chksm=e8211dea831e8c1b69dc5d2cca9e5d7b4d0ac2d361b182c86c892e60afcf807d974bf6d39fad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

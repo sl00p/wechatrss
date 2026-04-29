@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[RAG已死？不，是Grep回归了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6DDmy645XWicSnOoaBoXyOy96MqBUHa66uZNzkVMgcYb5fcdib0j3HFQeqbmCtfNJ8vf3UicbS1BeQC8iaV9BHjnA4vRNjGEAls70/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇这一年“RAG 已死”的说法甚嚣尘上，比如《长上下文窗口、Agent 崛起，RAG 已死？》、《The RAG Obituary: Killed by Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695473&amp;idx=1&amp;sn=517ef2bad8a85f2f31c1ef309c1eae76&amp;chksm=eb597a27f480becf67e0fff700b330cf86fe3f02ef7203cf8f9b2dbbea155e7149599366c768&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深入浅出Harness Engineerring之核心模式与理念]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4xy6anqaxiaEWlOEibCxwK4GWdhPceK9zuE7NkGnayicsJxg45xGGsjJMibxTKKmtyQXZuFGqFgtvuSZBMfUPpibmqzwC3dEZnuC5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Claude Code 1.1 持久化指令文件没有这个文件时，每次对话都像从头开始，相同的规则和错误可能反复出现。代价：文件需要随项目更新维护，否则可能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695469&amp;idx=1&amp;sn=9ba77be5cdb4a9031a708c7361d7a026&amp;chksm=eb16d18f4a0fbaa7ecfe6de18f3c425ab11ce95db6fd61e4c1c4c1203b9350c7bdd01a5c9235&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94taMUlqOoGXJiccwDaEk6nEL0jdT5cSxekWzJR7J7kiaLMxibywfZiamvTShGD25P4ZehIR8FjAibrSVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇大模型推理性能优化比较复杂，千头万绪，涉及推理框架、模型特性、GPU硬件特性、算子优化、网络基础设施、通信协议、SLO等很多方面因素，优化的时候主要用工具分析T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694196&amp;idx=1&amp;sn=151b34f31e6a5cdfe4cc8600668b57cb&amp;chksm=eb649ca57032a0d3938f116d8b8b5fe621e42e0176f15508a249bf0bc3dd128b9fc646015eb9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Jan 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI是开发忠实的合作伙伴：知识渊博（训练内化各类通用知识）、有一定的逻辑推理能力、效率惊人，但同时确定性不太好（概率本质，幻觉）。 我们大多数需求追求的是确定性的交付结果，所以要采用一些合适方法，让AI扬长避短，在提效同时，保证结果稳定。 实践下来，PDCA是个高效方法： 戴明的 PDCA（也称“戴明环”）是持续改进的闭环方法。 定义：PDCA = Plan（计划）- Do（执行）- Check（检查）- Act（处理/标准化），循环往复实现持续改进。 目的：以数据驱动、低风险的小规模试验验证改进行动，沉淀为标准，再进入下一轮升级。 需求交付中，把目标拆到尽可能小的确定的独立任务，明确达成路径，再基于每个小任务和 AI 结对编程，如此循环，将AI的黑魔法变成稳定可靠的生产力。 Plan是单次循环中最重要的一步，类似CoT，但由人主导规划，AI辅助，以保证达成目标路径的确定性。 在每个循环中，通过D-C循环来确保符合预期。 Act是长期改善的关键： 从本次需求视角看，可以对不符合预期的结果调整指令、计划、上下文。 从全局视角看，可以识别和沉淀规则，分析模式抽象组件（例如：由专用Agent承载），持续改善开发环境。 典型案例：快速验证 Plan：拆 MVP 聚焦核心产品假设，拆解MVP，再基于MVP进一步拆解任务。 Check：收集反馈 小任务粒度，自己体验是否能跑通，体验是否顺畅。 MVP粒度，找产品经理或典型客户体验，收集反馈结果。 Act：产品迭代 基于反馈调整方案或者产品方向，并沉淀可复用的能力，为下轮迭代做准备。 提示词工程本质是好好说话，可以通过套模板的结构化表达组织，随着大模型推理能力的快速进化，提示词的技巧性会被逐渐抹平，最终还是会回归到上下文背景+目标的核心诉求。 AI深入应用，逐步带来业务开发的范式演进，对人的要求也会变化。 从经验驱动到知识工程，业务开发，逐渐演进为人 + Agent矩阵的协同生产。开发人员应当持续投入建设知识工程，在日常研发过程中逐步构建场景化 AI Agent，并持续提升稳定性，大步迈向 100x 大 AI 时代。 延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247692303&amp;idx=1&amp;sn=f574a69e187ac887a57ead6a912dff5d&amp;scene=21#wechat_redirect">与Cursor结对编程，掌握这个方法效率起飞！</a>]]></title>
-      <description><![CDATA[<p>AI是开发忠实的合作伙伴：知识渊博（训练内化各类通用知识）、有一定的逻辑推理能力、效率惊人，但同时确定性不太好（概率本质，幻觉）。 我们大多数需求追求的是确定性的交付结果，所以要采用一些合适方法，让</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694142&amp;idx=1&amp;sn=cc3a6dc135f10855878dd9b7cb6a6db9&amp;chksm=ebba44cbdbb15abc6396192b73b37257a0a99cabc6151f9f3805436d3e372b059f8eeeb763ca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

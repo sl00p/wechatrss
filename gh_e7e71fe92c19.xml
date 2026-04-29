@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[732字节，通杀所有Linux！一个潜伏十年的“隐形杀手”终曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3MAz8VZofrHzdpUQ27IhLibpgp0ibt4MicUACG9DVlu5ZJP6YfLA6qUBulSiaxOmetlhiaGNlsd2vS7q4YxCmlDId1tvQyI2d0svPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个仅有732字节的Python脚本，就能在几乎所有2017年后发布的Linux发行版上，以100%的成功率拿下root权限。这并非科幻情节，而是4月29日被公开的Linux内核漏洞CVE-2026-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=1&amp;sn=d11882328bfc4e427f1899a2a05cbb5a&amp;chksm=b021768381d795dad71ef25eb1ed1acfe1767f75b5a52b41ecdee26af3a509d8d492e31bb80e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用导入表劫持实现DLL注入以干掉杀毒软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3EJUbxek0zosNcX0cf0pcRgxBfqNDOEc2pqaMz49uzg6QPfsJW0n9KodrSs8jLTDf37arXtnicxCXI6Cib9YtP4ibzL3q6DQWFhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>利用安全软件的白名单进程进行敏感操作，是恶意软件的常见特征。在现代安全软件中，常会通过复杂的权限校验严格限制目标进程的权限。但一些安全软件在防止APC注入时只防止通过OpenProcess获取进程句柄</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=2&amp;sn=32ba6828c0749b23e39e2b802f151183&amp;chksm=b0179b3199024ab62a231def3809a50f2d1eedfc3810a366af21547d5af8b6ae047c123a4055&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你的大模型应用，真的安全上线了吗？一次提示词越狱，就能让所有合规审查白费]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=3&amp;sn=74de3a155f48b467a1a4fbf7540391f3&amp;chksm=b02d7e2841da3bfb0a3e189fc79c3f8fc2c4e54422b6d37c5d07208951ba15a02392e27d762a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 30 Apr 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[利用任意物理读写驱动来加载自己的驱动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3gBkTtu3CYiaeib2AJ5dOGCNGjkJaeoUXQ1reqic7ibWPUA4MU3xibVYib5Wo831C0KiaPkQoBJAylcqDrctJ22NUmF3TvOiaAmlyeJW8/640?wxtype=jpeg&amp;wxfrom=0"/><p>早期许多漏洞驱动未对MmMapIoSpace施加严格的用户态访问限制，导致攻击者可借此读写物理内存（如利用 PFN 页表可直接将物理内存转换为虚拟内存）。为此，Windows 后续封堵了这一利用路径，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614348&amp;idx=1&amp;sn=3ad065ac0bd0b6e152a887670ef1e5dd&amp;chksm=b09c3bbb87bcaba1faf43d0787d2f4c5cbd3dea8668c9b146e2d924afb0e0faf2f05e24285d2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cFq9HxUWfyPGePS15H6PeQIbPLdqbPB6gzejQF7tzEvt0KTUA4WUqSN97TE9cUUxjNtR3uafotgxovODWqVVrID79iahkOLZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场会议筹备让团队重新思考数据应该放在哪里某大型企业准备举办一场重要的年度客户交流会。随着报名启动，系统中陆续沉淀了大量参会数据，包括姓名、手机号、单位、职务、报名记录，以及部分会议资料和嘉宾信息。筹</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=2&amp;sn=f925643d2e468d55b16e9c3088137a78&amp;chksm=b058e950bb69903bc660fd0ae51a611cc0c4779beb850259030112ffdc2d1c5dfb6dac2925e2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[D-Link 摄像头栈溢出漏洞复现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2nhtjIjicJXKe3kPiacTiahb8M1QEN4Lgz9lVEibyJSmtKazXJQ0qEia8ZAFicIqS5VVjic8VtYh87tkfRWsV4gXricrKQ7wjnOibO11O8/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是对 D-Link DCS-935L 网络摄像头已知栈溢出漏洞的复现与学习记录。漏洞作者为某不愿意透露姓名的师傅，在此感谢原作者的分享。本文主要侧重于分析过程，如逐步追踪调用链，通过逆向分析手动推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613208&amp;idx=1&amp;sn=96da0d35d2c028fe1709a7648f2e98aa&amp;chksm=b0e486a3c9d77c062cadc6fec70a5ef08eeba860da2eccf4d6db38a11a6034542c8b6e13f378&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026春季招聘-点击投递]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HrvuOS4UZU49kpkicshiam0RFNcXgJ9Wu0QVib6ZQk64FEsUhLAdln7Zm6zybmrAaIJndibmoGib7e19w/640?wxtype=jpeg&amp;wxfrom=0"/><p>有意向者可点击文末【阅读原文】投递简历~职位更新深圳软牛科技集团股份有限公司 职位经验/学历薪资地点逆向开发工程师应届毕业生/本科面议深圳高级逆向开发工程师3-5年/本科面议深圳长按识别关于岗位详情及</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613208&amp;idx=2&amp;sn=9f6c8b34f3fc983d51168a71cc48ca6a&amp;chksm=b083d22c92b61adaf13f8d6d6f356dda5464f9d1e9bebf91904602ab78cf599d7cc700707e7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3行文本即可绕过护栏？Claude Code 被曝可被操纵实施数据库攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3RibWvvUaiagia7YRlLicD9kgOtqefxmGNEialyuzLjhz0ewQvsqCztJibD77nrRqqAehseJQAgm6v1nyjQM97DYf5mmbyWhf3r9OGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究机构 LayerX 披露了一项关于 Anthropic 公司 AI 编程助手 Claude Code 的安全风险：攻击者可通过项目中的 CLAUDE.md 配置文件，绕过模型内置的安全护</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613208&amp;idx=3&amp;sn=def236a2788dbdf51e47630a1cfb136b&amp;chksm=b0c5b0456ceae1955e65c424c5f7758f7031d8ec1105bbf0f8f8dea50a50a7515ec6965217bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
