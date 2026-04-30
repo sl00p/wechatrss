@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[测试环境正常，一上线就出问题：很多答案藏在Windows内核里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0RnalibNj4vInt5ic5Uw5IvKsozw06kicCQZLa1moRXpLBW6LlIxibWqvtFlUBfXgpE8icdIia6ZcUwAS0QXG2uCIeZTtTPHicV4emF8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在开发和安全防护工作中，最让人头疼的，往往不是“功能写不出来”。而是：内部测试一切正常，到了真实用户环境，问题才真正开始。同一套程序，在测试环境里运行稳定；换到用户机器上，却可能出现各种意想不到的问题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614421&amp;idx=1&amp;sn=e872bf1165b11acbd3e2114b541d8e69&amp;chksm=b0180aebb508f44656c7cd81ae9e810c9c666134e2167fb362b71724b4eff8a1317d9f6dbd38&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Frida源码分析之Hook原理篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3L4wBGyy7cW4AHKyibaQuZriclRGW0ic4u1HIiaZJNn8q5aljpwIezia6NJEEr6mDJcs13Q6S4s1uneHgt4r0Wt0JCTJTJQd8WicLSE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Frida-gum简介Frida Gum 是一个底层代码插桩库，可在多个平台和架构上提供动态二进制插桩功能。它支持通过函数钩子（fun hookingGumInterceptor）、指令级跟踪（inc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614421&amp;idx=2&amp;sn=836ac1f41987a9a27b12cd4bc32d374f&amp;chksm=b0c84d6128241ea1d38baf68785f66ed614d57afad5b4834439183176c2d14bb6a24ee8b8aed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[732字节，通杀所有Linux！一个潜伏十年的“隐形杀手”终曝光]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3MAz8VZofrHzdpUQ27IhLibpgp0ibt4MicUACG9DVlu5ZJP6YfLA6qUBulSiaxOmetlhiaGNlsd2vS7q4YxCmlDId1tvQyI2d0svPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个仅有732字节的Python脚本，就能在几乎所有2017年后发布的Linux发行版上，以100%的成功率拿下root权限。这并非科幻情节，而是4月29日被公开的Linux内核漏洞CVE-2026-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=1&amp;sn=d11882328bfc4e427f1899a2a05cbb5a&amp;chksm=b021768381d795dad71ef25eb1ed1acfe1767f75b5a52b41ecdee26af3a509d8d492e31bb80e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0Hicbxvy3aMuQ6s7hnz7l4MNd8MSnGqmgibYxst0ZsiaPQXXz2PrS9oJ5mqEwQH4Zaofhe8KicdzHuUMWRicDkEvEdKqWYw1iaqO6ys/640?wxtype=jpeg&amp;wxfrom=0"/><p>据安全研究机构 Gambit Security 最新披露，在 2025 年 12 月至 2026 年 2 月期间，一名独立攻击者利用 Claude Code 和 GPT-4.1 两款 AI 编程辅助工</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=3&amp;sn=fdae4b86e89d852bbfe93df7ef780460&amp;chksm=b0394b1554006c7de28d360ad28cabfbd77a63dc7656fdb6e984972da664e2798a55f6f56999&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Polaris-Obfuscator中AliasAccess简要分析-反混淆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K19ibCsRPZb6tQPsPzkssdjdwYicJtyHeFhZQqqPEZicIoVcqOJwiakfKEccaKldz8vP3bvfalFEicshYHdqicKYBwS7fhMx3XkM7jW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AliasAccess pass 的核心思路是：把函数里的局部变量（alloca）藏进随机生成的 struct 里，再通过一条多跳的间接指针链来访问它们，而不是直接引用。原本的代码：int x = 4</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=1&amp;sn=339f8a7fa83cab36c05aaae60966e541&amp;chksm=b07fd3d3b3e4600b1446ba2d1d508089aa49f595747464965ead05df4a43e7f51ba18bd68fbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[即客会 | 一站式活动管理系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cFq9HxUWfyPGePS15H6PeQIbPLdqbPB6gzejQF7tzEvt0KTUA4WUqSN97TE9cUUxjNtR3uafotgxovODWqVVrID79iahkOLZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场会议筹备让团队重新思考数据应该放在哪里某大型企业准备举办一场重要的年度客户交流会。随着报名启动，系统中陆续沉淀了大量参会数据，包括姓名、手机号、单位、职务、报名记录，以及部分会议资料和嘉宾信息。筹</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613209&amp;idx=2&amp;sn=f925643d2e468d55b16e9c3088137a78&amp;chksm=b058e950bb69903bc660fd0ae51a611cc0c4779beb850259030112ffdc2d1c5dfb6dac2925e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

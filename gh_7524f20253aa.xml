@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[后Mythos时代：零窗口期威胁应对新策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0gn3RxlDTUE4YWfML2PDTEIUXSEa4gtjqicDdrMWzCbChMVBCSghJtBY9JiamCTwWZMpUT3OL8qdQgJNA6LHBNeDMPLTtAy72IQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当补丁修复速度跟不上威胁时，NDR（网络检测与响应）技术成为遏制新一代威胁的关键。Part01AI加速漏洞利用窗口消失追踪AI技术进展的从业者都清楚，漏洞披露后企业赖以修补防护的缓冲期——即漏洞利用窗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=1&amp;sn=a81116f5bee6baa8207a60a3fa8a0e13&amp;chksm=bc7675b928f4cad986c4548c167ee09145a800ebd94e30b3c141ce0c1e014a3358e321f50a41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cursor AI 扩展可窃取开发者令牌导致凭证完全泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1iaMavK8IZoFGy71WVDhGGj5Gib6euyA1JchHMhSTic4PZuwdYpjCpbRtwuAnRCHynKWFZUWcvEBbicsOGDrrvOxhudYSPVSOic7yo/640?wxtype=jpeg&amp;wxfrom=0"/><p>广泛使用的 AI 编程环境 Cursor 曝出高危访问控制漏洞（CVSS 8.2）。安全公司 LayerX 发现，该漏洞允许任何已安装的扩展秘密获取开发者的 API 密钥和会话令牌，导致凭证完全泄露，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=2&amp;sn=42f1a0addc80e4ddf763bd1e206c81ee&amp;chksm=bcc165d9e49596fbad1b95906f33e3c3ae92880378609cfbe3c8c36f1c96b4ba22ce460a950a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[cPanel 0Day认证绕过漏洞遭野外利用，PoC已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1K2a8icJp3xk2I0TAWHmuLByKWCCiaEia5zeVEA6IkVnbGU6BJEzurxGcHEzsc9vAQYG6WWX0iabjicicBzt0o8Yt03QSFloqHN0Ups/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球网络托管行业正经历一场地震：cPanel &amp; WHM 中被证实存在一个关键认证绕过漏洞（CVE-2026-41940），且已遭野外利用。该漏洞允许未认证攻击者完全绕过登录机制，可能获取托管控制面板</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=3&amp;sn=f494c23dbaa139711b7ff32ec2942c02&amp;chksm=bcc3e32f0cdddcc0ced74be34dbe8910133d3f9e04d135ba8eaae46fea065ef1dde897b09dea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux“一键Root”0day漏洞，影响2017年以来所有发行版]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX25O8JFkb2yBHvOTDDOMeibqCyeY2TZib7tNynAj7vaRtiaxDduK4QJqsPTI5AStTyKGaAOejAeSiaiajS5ssUhrHbNSxU6jGhO7ia9M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 内核中新近披露了一个名为 Copy Fail的高危漏洞（CVE-2026-31431），CVSS评分7.8。仅凭一个 732 字节的 Python 脚本，任何无特权的本地用户都能一举拿下</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=1&amp;sn=9ffad7730fdbd623cf083f218ab58c44&amp;chksm=bc1c835d501cdf04c47d179e46b34f8fb78cc01ed0b8de4d73a7d072b75bad142a03d908c639&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0mCL5TRmVQ3LKylNh1CUiaVBHJeNrMic388cRwGriaNH7esmdWAPVMD0lC9toUsO6hptcwQY7C25eBiapkJpAd12olw2ibn6GCRzLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果AirTag本应通过周边苹果设备组成的庞大网络帮助用户追踪遗失物品，但最新研究表明，攻击者可以操纵该系统显示AirTag从未到过的虚假位置。Part01攻击原理剖析Find My网络依赖AirTa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337140&amp;idx=2&amp;sn=fa5a7f94c138e40bb1b47a09daccf3bd&amp;chksm=bce113d39b5a22e226895ef0ae4ee977b9e23b604f696e48982b2e4abcfebfbdcb3a34f971ad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞；OpenAI发布GPT-5.4-Cyber强化网安防御 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！💻“漏洞末日”警钟预警：AI批量发现黑客可利用的漏洞🤖OpenAI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337140&amp;idx=3&amp;sn=98d22a40350dffa4fefe79ecf6ca9bd5&amp;chksm=bc14cac922bb4a5a3845e0a94d392bfbb8d07e9ffc14e93b44d0a84870ca5409f6a0fdec4d9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Opus 4.7发布，AI安全防护升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CKV6akiaCAfLY14ciaaJzfOAvm9iaCL1jPwyOXy0HiaAFtn7qASBYdiaQevQctoBuFHeMWUORIdgoOIPOuxhFK2RHR8ql3nAtAWbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>构建AI Agent工作流的软件团队正推动前沿模型向更长时间的无监督任务运行发展。Anthropic正式发布的Claude Opus 4.7正是针对这一需求设计，在软件工程、多模态处理以及模型自主执行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=1&amp;sn=da296ad4925fefd42a4baebd12008663&amp;chksm=bc2a5726720922658ecb19476fdb4acdba7948599a0262233ac09efaf3f37e1cf35ad4cb0e62&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI升级Agents SDK，新增沙箱环境保障AI代码安全执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX27MGgk9O3AADl5VibS7F6icSdvUQX8LlvQy0RLuqfNkdcCKia0cc1DUFibqicdEnz4jnwNLibsCWSCicJkaPmRnibic7AZUbopvmkicPOWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 最新升级的 Agents SDK 可帮助开发者在受控沙箱环境中构建具备文件检查、命令执行、代码编辑及任务处理能力的 Agent。本次更新为 OpenAI 模型提供了标准化基础设施，包含让</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337117&amp;idx=2&amp;sn=e6d25cd2ed0ba06887b82d16645262fe&amp;chksm=bc3dc0031d48e0825f9225868cdbdb2292ac56be838537ad3921460207f77089608359993d47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

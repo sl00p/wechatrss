@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjZ0yO6mAZBJo2bwXXVrslOzYaTsUFNysVXRLA7CEjgvAb6HOCjORJCmjJrFRlApsBpKFmUH3J5hTqzzewg8LOAskjaC7gayk0/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 如果把过去两年的 AI 叙事拆开来看，一个趋势已经越来越清晰：真正的瓶颈，正在从“模型能力”转向“资源分配”。一边是推理成本持续下降、调用门槛几乎被抹平，另一边却是算力、带宽乃至组织内部认</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283248&amp;idx=1&amp;sn=740073808e2db9880300ecbf99bb64a0&amp;chksm=bcd4d50441aca79cdfaa39dd1390ab4d3ce1060734b94eb3da5960b2ac6e9ebd38d57dcb5581&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgJsPXOqN2dFXKIzpibSSvmib5y2gscO1hnZS1WFvMRsPS6xeXGuU5IpGx36iaEzx5UqtDBGBYsxe2lFAaavSXm29iaUEficlmZ0PyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 周云龙 编辑 | 蔡芳芳 编者按：过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283248&amp;idx=2&amp;sn=b17e226b2bdecbdfb34f9231832bbe6b&amp;chksm=bc212bd81b48d7a34fc569b178ba82c68a2b804702a87efe9ea68c046e4eafb6e55494e462a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“我可能不再建议学计算机”！图灵奖得主炮轰半个行业，并断言：AI Agent最后全是数据库问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgxB3gMcwomice8NpbLI6fEiasCfcNezibAiagPF6CqxPco68wBR7EWDA5odEkTPV0deXg4bGicIu3HNbOs2LrzHASejeF0ibSK8Qyu8/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina “如果今天重新开始，我不确定还会不会建议 18 岁的人去学计算机。”说这话的人，是数据库领域的图灵奖得主 Mike Stonebraker，中文常译作“石破天”。他是 Ingres</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283235&amp;idx=1&amp;sn=986ce685fa8a8e4abd685716e6c4aa05&amp;chksm=bc1d607af0bf8604e8344878b90ba37ee4f8f2d91a86f4a66d9361eed6fced64487927325961&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiam50CV2Veov3gaNwHSib9icIWiaExjtnGgFF6ic8kXqnZeJ2qxsRLpqYAxDWVnicuqBZTPEG38m9rx2ZgpDicVlQnmtT1qGxiauXqrIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 张卫滨 Google Cloud 介绍了他们近期对 PostgreSQL 的技术贡献，重点在逻辑复制、升级流程和整体系统稳定性方面进行改进。此</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282002&amp;idx=4&amp;sn=a87dd5149179def51f797dfc5227940a&amp;chksm=bc4f95989c9094841546ac16f6afd5924f9b45bfc37ad98be0c4123cbc385d6c374535b0a10d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 深夜发布 Claude Design，一句话生成 UI，百亿美元市值 Figma 股价跌了 4.6%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgbqBk6OzCuk2RQpSAc5icsPEbuzQGzrtQuBK3sbWU4tL4aVFMgdOhORuP5jqjgJDeyr3a1m3lgZmckJwB25dDPMIZ5pWiaficN80/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 写代码、做表格、搞分析……大模型把这些活儿干完之后，终于腾出手来对付设计了。这个曾经最依赖专业工具和手艺的领域，终究没能逃掉被重做的命运。昨晚，Anthropic 宣布推出一款新产品——C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281875&amp;idx=1&amp;sn=4b895431c16296fa4ddbb16bda3ceb36&amp;chksm=bce32058d17a358300742a1b698e6f615818bcd39de14f51155739b9cd291e69ae9deb253820&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 13:09:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[取消AI考核、零裁员！股价暴跌82%后，多邻国走出了一条反硅谷之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNja5eHJ04r1NgiaOQOKd8PBcOfgj1JicSpP13qq5MGgVJDaePjyB3J23tOtYRlYTO3sx1W9l24vQWKfbvTyiaWTF6vujr0X0GymYY/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫第一批吃到 AI 时代红利的公司里，多邻国是可谓是其中的转型标杆。早在 2023 初，他们就宣布 All in AI，股价暴涨了 666%，涨幅甚至远超谷歌。2024 年，多邻国火速裁掉</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651281875&amp;idx=2&amp;sn=06bbff210317331b58144e84c143c51b&amp;chksm=bc8d3870e8ee87306627c6f007a5ca8bc939c6364016f20368b9ab9556a2bb4c89ea2a87e2d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 13:09:02 +0800</pubDate>
     </item>
   </channel>
 </rss>

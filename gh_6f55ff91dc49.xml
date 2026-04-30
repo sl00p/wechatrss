@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3U1miaHoMR03Q8eibIC11DzWIToDl92cVYykr3n5hCbKp42V14QD69kPFKB3HQicArO7MQ0bz6n7NKnSLHttaHcuRQpjUGsoH8D8/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源不到 24 小时就冲上了 3.5 万 Star。现在总 Star 已经超过 5 万了，这个项目叫 Warp，是一个用 Rust 从零开发的 AI 终端。准确说，它已经不只是终端了，官方给它的定位是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533405&amp;idx=1&amp;sn=1ee7cfefd01d9fd9c666e5d4cf22dce0&amp;chksm=f851e17653225d014a559b5e144dec0b60803f0ce796d564a4647a1fcb8e4d5acd01315d1275&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 13:09:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 3 个 GitHub 画图 Skill，一句话生成流程图、架构图。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3G60g9VVlMcicEx3glNiau7R2OIFmOzJNtLb5yLibMNXYmsRupOD1TB6Tic9oX8j6pZEACrQAicyxjWPFFoibH5rjjRU5568Qlq9du8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一句话画出能直接发布的技术图最近在 GitHub 上翻到一个画图的 Skill，叫 fireworks-tech-graph，目前已经攒到了 3.6k Star。这个项目干的事情说白了就是：你用大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533360&amp;idx=1&amp;sn=1847cadb7dbb7224a9a692729b8db51e&amp;chksm=f868252afe5b1d59c3543cfa3ec8d338a702f44499f3c8ffd6964ea1c1505f288daf007f70c0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0XsBQ7LJsJg0xIRtHyYNzjZW0icSK40tccOOMO11lSc37ia1wm0kdiax8PLg6OCQQVlWY5avwtkfiaJicBvIogfaE2VRuWyBajjd3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家是不是还记得，去年这个时候有一个非常著名的系统提示词泄露事件。涉及的产品是 Windsurf（Cusor 的竞品）。这个提示词之所以引起轰动，是因为它使用了极其激进的情感勒索技巧来试图榨取大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532158&amp;idx=1&amp;sn=08e1d51a8adbfe443c808d85db726b3f&amp;chksm=f8a64125a22d5cc4509180cfa1ddc9f0519ac3cf4bcb672e20e9156313be2a62529f57a73336&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Mar 2026 10:31:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯版小龙虾 WorkBuddy 来了，在微信、QQ 内和它对话。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3oFCKsWce6XfiaFm0o7XQVVnrTOqVg2cD8GC7CCsbyot55IdUV5QKibvM4vEGk1PgpCEmbBtLdphgpLAn3jLvmnicILhWzgFSbj0/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，腾讯公司楼下排起长队。上千人排队找腾讯工程师帮忙安装部署 OpenClaw 小龙虾，老人、孩子齐上阵。场面相当壮观。果然没一代人都有自己的鸡蛋要领。。。没想到中国 AI 智能体普及，是靠一只小龙</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532127&amp;idx=1&amp;sn=35de49ddd5020153fd54283a4d2f1764&amp;chksm=f80166624c2d5fe1079d53c26e029406e90ceaae277dda0917d88b8f4cc1c040836c5bbb17cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 10:27:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.04.24~04.30)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8JhrnQTiaPnRmHJShr97oDxXZ63icrGicwQwteuziaPmKdvSY6rZKZT7ous4wS51GF2B15fAY6TrypibsibNOg2hkic7H5RuMs0ovQuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.24~04.30攻击团伙情报BlueNoroff 利用 ClickFix、无文件 PowerShell 和 AI 生成的虚假 Zoom 会议攻击 Web3 行业与Lazarus有关联的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518591&amp;idx=1&amp;sn=1f6824aab3a7d1d8efd041f9749d226e&amp;chksm=ebb1fac4ca9a7133258a1fcb71fdac811794987bce3e4b74114b29ac7931db14995f5e974405&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 01 May 2026 10:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[供应链攻击永无眠：SAP CAP &amp; Cloud MTA npm 供应链攻击事件报告]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqic37lj6UrPXO2KA2C3Ziadwk9VGly31ZuiaQDYicus2o3cCIx2emY0jKyichjSZcRt0ib8MTDJVnoRW82T8ibe2yY5pIXuDlYnUWMqzc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述这是一起针对 SAP CAP（Cloud Application Programming Model）和 Cloud MTA（Multi-Target Application）生态的精准 n</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518567&amp;idx=1&amp;sn=e3b68204c27e714e7179801b1e91c9e3&amp;chksm=eb4e6c10063c5a8f8b35f604f8ba911d2d8cb48f98e8cf4150cd2af94a99da51312daed3fb7b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8ZeZNIsF4ibDpic4eia0DRtxxaS7xWxNbhnqHSEy8bTOiaUbBnoveSica9ooquqDea4hNwiaZSkgXuJkqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.10.31~11.06攻击团伙情报Curly COMrades：通过隐藏的 Hyper-V 虚拟机实现规避和持久化研究人员披露 Silent Lynx 组织的 Peek-a-Baku 活动研</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516573&amp;idx=1&amp;sn=41e4287a07c23e992b7a7d5f13ebc09a&amp;chksm=eb1185a49f1de84f1cf3d1d4c79cfece0816783ee23d5d37470daf2745f6baf11e762b9d1d18&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Operation South Star:针对国产手机的 0day 间谍活动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8BhrvqSKmNI92iaJn6Fne9dV9jy53icN03FDibLoXx4gWqqaryONA1UclYUcRy6l9sfFzNaZHfInPMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述最近几年，奇安信威胁情报中心红雨滴团队在与东北亚地区的高级 APT 组织进行高强度对抗的过程中，发现了近 20 个涉及国产软件的 0day 漏洞，部分细节我们已经在 Operation Devil</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516542&amp;idx=1&amp;sn=55df9e8ef778a5aee6bd099276a381b2&amp;chksm=ebb1f5ec6f634d924552bee309f1ec8152cbbd4c402a4ae0cbf0b9c42b287b91d0d23cf72571&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Nov 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
