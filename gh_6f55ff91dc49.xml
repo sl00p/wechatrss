@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0DjZO7eY6PEV6S0E8k6dx380LYWgPNlFj76L8ibYskQNn0aZbP24PhoXe3pPZibrvejicuCuSlvNlmNEROlgIq1VnoP88z7sNCTY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个 Rust 写的省 token 神器如果你平时用 Claude Code，可能没注意到一个事情：每次执行 git status、npm test 这些命令的时候，AI 工具会把所有输出都塞进上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a&amp;chksm=f8d1ee8031b44fd03d5429b5cab48e8885f31189067534f85f603b034de04d0b78325d9c485a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 02 May 2026 11:13:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3U1miaHoMR03Q8eibIC11DzWIToDl92cVYykr3n5hCbKp42V14QD69kPFKB3HQicArO7MQ0bz6n7NKnSLHttaHcuRQpjUGsoH8D8/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源不到 24 小时就冲上了 3.5 万 Star。现在总 Star 已经超过 5 万了，这个项目叫 Warp，是一个用 Rust 从零开发的 AI 终端。准确说，它已经不只是终端了，官方给它的定位是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533405&amp;idx=1&amp;sn=1ee7cfefd01d9fd9c666e5d4cf22dce0&amp;chksm=f851e17653225d014a559b5e144dec0b60803f0ce796d564a4647a1fcb8e4d5acd01315d1275&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3dek4gibXHnJgOc3W0wMyDibhwkSgiakE9QRoNx3djgtiaibEgViaHpSW12pKQOwn1Wj5VibyZJ20ZC9KxJR7XvkBrz91UcEgNd3SbuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>周围朋友都在养虾，每个人都在用。但在大家忙着领虾的时候，安全问题却被很多人忽视了。就在前阵子，国家互联网应急中心专门发布了 OpenClaw 安全应用风险提示，明确指出了几大风险。其实不止 OpenC</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532217&amp;idx=1&amp;sn=bedad71b9fd13e8f86bc3e872e372b63&amp;chksm=f8375177abd0535aa08aa0ee3383b7e554c8b42e06203ad683017e74534ea8de6375a1c36fc7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[狠狠的 Pua 你的 OpenClaw 小龙虾，这 2 个 GitHub 项目开源了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0XsBQ7LJsJg0xIRtHyYNzjZW0icSK40tccOOMO11lSc37ia1wm0kdiax8PLg6OCQQVlWY5avwtkfiaJicBvIogfaE2VRuWyBajjd3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知道大家是不是还记得，去年这个时候有一个非常著名的系统提示词泄露事件。涉及的产品是 Windsurf（Cusor 的竞品）。这个提示词之所以引起轰动，是因为它使用了极其激进的情感勒索技巧来试图榨取大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532158&amp;idx=1&amp;sn=08e1d51a8adbfe443c808d85db726b3f&amp;chksm=f8a64125a22d5cc4509180cfa1ddc9f0519ac3cf4bcb672e20e9156313be2a62529f57a73336&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 10:31:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

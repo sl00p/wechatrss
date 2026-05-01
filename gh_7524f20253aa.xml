@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yOBzESmDNv2Wob53WuIKfjicRBmtbFicC8yhzu9E8yDEickl6ILJqr7enTr8lavSAmVibxWZOCXSSM3tmM4npeHFQgGwXSoNtfia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic已面向Claude Enterprise客户开放Claude Security公开测试版，该产品能将AI驱动的漏洞检测直接集成至生产代码库，无需定制工具或API对接。Part01端到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=1&amp;sn=be2ea2af3af6f99c44e660aa671d8e92&amp;chksm=bc2da4a77955d9a0cd713cdc13ebe4b1a6a3a1183e9ba343a2d993a895407d587a855c460b2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Python 新威胁：利用公开隧道服务，批量窃取浏览器与云凭据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3QpBdpgGFfDQibQHwUFcuwa61hhpicmia3bg8umMwTRu4EkZboF5W04rXicgSgVvGryuIeDWVVV2HBJbwlDSZA7KNQQud91KnGv84/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日披露了一款名为DEEP#DOOR的隐蔽Python后门框架，该工具能够建立持久化访问并从受感染主机窃取多种敏感信息。Securonix研究员Akshay Gaikwad、Shikh</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=2&amp;sn=ea2bfceab9bebf05aa79f9e76893e860&amp;chksm=bc130db1b676885bf6b8232262ac04b4d8366b4f39c155a6b1014d26995e5b24f4963ca98e5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Wireshark 曝出高危漏洞，畸形数据包可触发任意代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1fLkANeJlyCJCgrbmc7b58d95vBvY6m1Xs338lDAW0CSgfXEAUuFwxhfwHd7SDcQX32Dg9Eib0Uh3k1ibPNyayribfUE7MKJO7Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球使用最广泛的开源网络协议分析工具 Wireshark 近日发布重大安全更新，修复了 40 余个漏洞，其中多个漏洞允许攻击者通过注入畸形数据包或恶意抓包文件实现任意代码执行。依赖 Wireshark</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=3&amp;sn=320ca8e08f2d3ca1c2fea6f48ac046c3&amp;chksm=bc7942a0e99db59f632d916d3bfada576719806ef558c08d0f44df9ec6f877b56360987e7a87&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[后Mythos时代：零窗口期威胁应对新策略]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0gn3RxlDTUE4YWfML2PDTEIUXSEa4gtjqicDdrMWzCbChMVBCSghJtBY9JiamCTwWZMpUT3OL8qdQgJNA6LHBNeDMPLTtAy72IQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当补丁修复速度跟不上威胁时，NDR（网络检测与响应）技术成为遏制新一代威胁的关键。Part01AI加速漏洞利用窗口消失追踪AI技术进展的从业者都清楚，漏洞披露后企业赖以修补防护的缓冲期——即漏洞利用窗</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=1&amp;sn=a81116f5bee6baa8207a60a3fa8a0e13&amp;chksm=bc7675b928f4cad986c4548c167ee09145a800ebd94e30b3c141ce0c1e014a3358e321f50a41&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0mUZgOVpJAuHjkEyfbFvIuDlk72FT0qiceQHwuPDmibhTkyBLOGPZaHicw8SjPfOEcwbemibN5QS81iaicFbCHLggPrh93gQuPjbdeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows Admin Center是一款本地部署的浏览器管理工具，IT管理员可通过其图形化集中界面管理Windows服务器、客户端及集群。Cymulate研究实验室新发现的这一高危漏洞可使攻击者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=2&amp;sn=c475e4f59cf145077f23bebb5599fed9&amp;chksm=bcb34fed0023c85a77580145601102f59f53320a65045ea28e79ef20e5ed6a0080b677a430a3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：OpenClaw与5款国产类Claw 智能体安全评测；2026全球AI安全治理趋势；AI技术拐点已至]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2VcicIc9aABur3Apkhco7ib1mLGLEwevCtic7bVApRBf8w1cdGdYlBZW1F6hMG0P8QURiclI36c67ibFc6SCMzeq0QzV8dIb0N2DQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=3&amp;sn=223155616f01e07588c2cc14a5f0b9d3&amp;chksm=bc1568591dbab81d78db43e63ebfd0707c6c5825fb502ee55cbf5c841a98797187f380bc3ac7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白宫拟开放Claude漏洞挖掘AI，军方禁令与民用部署冲突激化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3SKFV0I6CrBibDVG2aj4Ydo1BC61laQOQXYYL3fTYxvqBcj6dC1X7jEN7ARsFQBCGibaIFaTgpF8cL6bb9zlYGu02obcl496GibY/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国政府正计划授权主要联邦机构使用Anthropic公司Claude Mythos模型的修改版本。该AI模型能够快速识别网络安全漏洞并具备漏洞利用能力，引发了广泛关注。据彭博社援引内部备忘录报道，白宫</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337140&amp;idx=1&amp;sn=134af642d92b85fc1076a8c83c09945c&amp;chksm=bc6d450c5dffe28b0448e7761420ef0ce6e0ea8afdb419398b221c1538c0324e947607cf0cab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果AirTag定位系统曝漏洞，攻击者可伪造位置误导追踪]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0mCL5TRmVQ3LKylNh1CUiaVBHJeNrMic388cRwGriaNH7esmdWAPVMD0lC9toUsO6hptcwQY7C25eBiapkJpAd12olw2ibn6GCRzLA/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果AirTag本应通过周边苹果设备组成的庞大网络帮助用户追踪遗失物品，但最新研究表明，攻击者可以操纵该系统显示AirTag从未到过的虚假位置。Part01攻击原理剖析Find My网络依赖AirTa</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337140&amp;idx=2&amp;sn=fa5a7f94c138e40bb1b47a09daccf3bd&amp;chksm=bce113d39b5a22e226895ef0ae4ee977b9e23b604f696e48982b2e4abcfebfbdcb3a34f971ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
