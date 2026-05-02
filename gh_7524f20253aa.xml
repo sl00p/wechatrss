@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Deep#Door新型RAT利用隐蔽与持久化技术攻击Windows系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pIKqVW4jf3cWvE8ISbJgXKn61UEtDGl7PibP5S5EYjPVJoNctBpSktdxPft9BPpvf09FvadRHpvNpicda1XJjQa52anxyDgGgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击特征分析Securonix安全研究人员发现名为Deep#Door的复杂恶意软件活动。攻击者使用基于Python的隐蔽后门，通过出人意料的简单投递方式实现对Windows系统的深度持久化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337671&amp;idx=1&amp;sn=b8c24a20d473d0ab05a5ea0291f2ed1f&amp;chksm=bc4c216cfdfccc0956233f8f08da811eb7e75f1814e91dd113a5ec0f509f8f0f0662cc23683a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVE MCP Server集成27种工具,赋能 Claude成为全能安全分析师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2jwYOneXaiaRCgLRebV4ZaicjTXtbRENt5ib3ApYe2j0Jc6YWhXuKz6lRibrtA7FxrHLQNoZLQ2nkdibmJcCB81IFlm4TZyX3o6kks/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞分析工作流的革命性突破名为 CVE MCP Server 的开源项目正在重新定义安全团队分析漏洞的方式。该项目通过单一自然语言查询，让 Anthropic 公司的 Claude AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337671&amp;idx=2&amp;sn=845038aa34ce812b35ad343bb36fcbbe&amp;chksm=bc8113803745a5eb4c12ceaedcf0a267b37ecf625b80995397b30e0e0543859d3a2674210977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：OpenAI重金悬赏GPT-5.5生物漏洞；黑客利用Telegram做“战报系统”；身份认证进入Agent时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337671&amp;idx=3&amp;sn=0ac5439cd7932ffb2247b978ae826830&amp;chksm=bcdf60c1ed549fa0d72c9b42d04d6ca241136e0536d214f7bfd951f0dabcc280c8de5b8dfb08&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yOBzESmDNv2Wob53WuIKfjicRBmtbFicC8yhzu9E8yDEickl6ILJqr7enTr8lavSAmVibxWZOCXSSM3tmM4npeHFQgGwXSoNtfia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic已面向Claude Enterprise客户开放Claude Security公开测试版，该产品能将AI驱动的漏洞检测直接集成至生产代码库，无需定制工具或API对接。Part01端到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=1&amp;sn=be2ea2af3af6f99c44e660aa671d8e92&amp;chksm=bc2da4a77955d9a0cd713cdc13ebe4b1a6a3a1183e9ba343a2d993a895407d587a855c460b2b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1jDB5mXkrV1u97EGo1strOJFRokBUSbcibOINaMlUVhfvpm6sKyjEOP3FEib4lpIVGzrNia4guGXyubmYUxd8cvbiatiaeBa9srCS0/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员已公开披露针对 Fortinet 旗下 FortiSandbox 产品高危漏洞（CVE-2026-39808）的概念验证（PoC）利用代码。该漏洞允许未经身份验证的攻击者以 root</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=3&amp;sn=b6e6f602e25bbd8ff00545860e586f40&amp;chksm=bcff32b2c86b6058d5484e0777afc63b4112b56e9667ad81803ba0b6cd8a36398c0bb6c23cf0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NIST放弃全面分析CVE，转向优先处理高危漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2lnoplzxMHZGQ0gQ4OexcvyOFibYSweG9WdLJekgbdd5uVbibfmZc2sBPz8L0dHXlrFzvqwtAqKZib1SF8Y0wtMLwOyZzWmkm58o/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国国家标准与技术研究院（NIST）宣布对其国家漏洞数据库（NVD）的网络安全漏洞处理机制进行全面改革，放弃对每个提交的通用漏洞披露（CVE）进行全面分析的长期目标，转而采用基于风险的分级评估模型，优</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=4&amp;sn=7612b179bf4861fac25865d1ba962af3&amp;chksm=bcaff5cbcb51db04bb37d4b5710a2b67772e42fd79551ab595d782a2e1fb81f8cb3fbb8d9d90&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[警惕AI全自动攻击！Claude Opus成功构建Chrome漏洞武器化链路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2icwacJ7K3P4q530L6UpplUj7jYFSEiavB4Q6ZgeCeHuJHQmic6lCbLjPnJmHaXb2cuERhTlIfLcfQ3wkImPqlG2uiaFLTLqltsIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 Anthropic 公司发布 Mythos 和 Project Glasswing 模型引发激烈争论之际，一位安全研究人员展示了前沿 AI 技术对网络安全的实际影响。该研究突破了理论警告的局限，成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=1&amp;sn=f5ec0610579c31dc045ac7ec5ae4a7e2&amp;chksm=bc3adbcdffc12b4706fcd160dbe3891b81e096ab50a07351e7bb9d9eba67a1cc3aec9ecf478e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Azure Windows Admin Center现一键式RCE漏洞，攻击者可执行任意命令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0mUZgOVpJAuHjkEyfbFvIuDlk72FT0qiceQHwuPDmibhTkyBLOGPZaHicw8SjPfOEcwbemibN5QS81iaicFbCHLggPrh93gQuPjbdeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows Admin Center是一款本地部署的浏览器管理工具，IT管理员可通过其图形化集中界面管理Windows服务器、客户端及集群。Cymulate研究实验室新发现的这一高危漏洞可使攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337154&amp;idx=2&amp;sn=c475e4f59cf145077f23bebb5599fed9&amp;chksm=bcb34fed0023c85a77580145601102f59f53320a65045ea28e79ef20e5ed6a0080b677a430a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Apr 2026 12:13:53 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 项目太缺德了，拿鞭子抽 Claude Code。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1uribia1ATn4HUakQfBvhNXmicYuUKzQ1qjkmQpVR3rXRibjapA4iaNG1MugJDSq6WkFnLdiaxdJM0BvBLpbMZ3ZvmliceTaOpoWKgoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>哈哈哈哈哈，发现了一个专门鞭策 Claude Code 的沙雕神器。用过 Claude Code 的都懂，它啥都好，就是偶尔会犯懒。一个简单的重构，转圈转个十几秒。一段本来五分钟能搞定的代码，它在那儿</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533407&amp;idx=1&amp;sn=9c458a0617106eb13679cf408a8db7a6&amp;chksm=f80ab9281db917fe41a9973a58c5d03eb88c8988d5f977083538689f84caa0bbb89d2b10729c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 03 May 2026 08:22:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0DjZO7eY6PEV6S0E8k6dx380LYWgPNlFj76L8ibYskQNn0aZbP24PhoXe3pPZibrvejicuCuSlvNlmNEROlgIq1VnoP88z7sNCTY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个 Rust 写的省 token 神器如果你平时用 Claude Code，可能没注意到一个事情：每次执行 git status、npm test 这些命令的时候，AI 工具会把所有输出都塞进上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a&amp;chksm=f8d1ee8031b44fd03d5429b5cab48e8885f31189067534f85f603b034de04d0b78325d9c485a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3FE93JEQwib5Ch8QNrK60h5NlWY9SGDbuNMfiauuBSrgIYENQhw6ibmibLLop8x5HYznq9waRkxlhmv2UUQdicD3ZUP1uFHnC0EjR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 Mac 上跑真正的 iOS 系统这个叫 vphone-cli 刚开源，但是很火。这玩意儿能让你在 Mac 上直接引导启动一个虚拟 iPhone，注意不是模拟器，是真的 iOS 系统。目前这个项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532219&amp;idx=1&amp;sn=c5da357d5743e3dde42725777e47975e&amp;chksm=f866a892cda08d3ec1a9df48364aa4da80093a23d1df269f2d3198fed0a0d492b33d85dd93ed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 15 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安全版 OpenClaw 小龙虾也来了，支持 10000+ 的 SKills。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3dek4gibXHnJgOc3W0wMyDibhwkSgiakE9QRoNx3djgtiaibEgViaHpSW12pKQOwn1Wj5VibyZJ20ZC9KxJR7XvkBrz91UcEgNd3SbuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>周围朋友都在养虾，每个人都在用。但在大家忙着领虾的时候，安全问题却被很多人忽视了。就在前阵子，国家互联网应急中心专门发布了 OpenClaw 安全应用风险提示，明确指出了几大风险。其实不止 OpenC</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532217&amp;idx=1&amp;sn=bedad71b9fd13e8f86bc3e872e372b63&amp;chksm=f8375177abd0535aa08aa0ee3383b7e554c8b42e06203ad683017e74534ea8de6375a1c36fc7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
