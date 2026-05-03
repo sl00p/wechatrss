@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI降低攻击者门槛，不应假定复杂攻击仅来自国家行为]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3sZocI7I1mPiciaRxlg9Mt6U77yJHRMbX5RI8saSoicwtO8g3lbLm1YOyvY1zicYQcZy1oIBiathqeQxQ6tEOYJZ4ArKK7HFuNC6tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软与美国网络安全和基础设施安全局（CISA）已就Windows Shell欺骗漏洞发出警告，该漏洞（CVE-2026-32202）目前已被攻击者利用。随着AI技术普及，攻击门槛显著降低，各类攻击者均</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337703&amp;idx=1&amp;sn=03743900f81cdc133cbc921783fae7c5&amp;chksm=bc0163bd45a088f8f85b93277e53c41cc4dfff5289bb66071df35970a02ecbe60a60aea08582&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Defender更新失误，误判DigiCert根证书为恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1jHKnvIaCD6QGxzDfniaCyOxOyHdYKInF9aEt8sXNPMqf9xSRcvalXgXkDKrmFW8anNhkNJJHzaq68MqAdFf47ybKyFj1POqUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>由于安全更新存在缺陷，微软 Defender 将两个合法的 DigiCert 根证书误判为恶意软件，触发了大规模误报警报，可能导致全球企业环境中的 SSL/TLS 验证和代码签名操作中断。2026 年</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337703&amp;idx=2&amp;sn=db6b76ee3b97241385a048d688eb6755&amp;chksm=bc6954c776760e840c26d90adcdbd11bc67ffb85b7f445504fb1151087511ab4294fced4144c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[传统安全检测失效，AI驱动攻击暴露系统性防护漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1RIUib81RwUd7iaqoTMZVxLORMrowyvhrVbRdvUblz3kI13WCsZR49xl2YZfZuzXbJXesFffX7mOTM7KBByPwXajKLTF4CO1aibM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关于人工智能安全的讨论大多聚焦于模型可能造成的危害，但更紧迫的问题在于现有检测系统仍存在大量盲区——旁路攻击正让这一缺陷暴露无遗。Part01旁路攻击的隐蔽特性旁路攻击通过监测功耗、电磁辐射、处理时长</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337703&amp;idx=3&amp;sn=c46838b3a934e894e74a59dab08cebfc&amp;chksm=bc1a437c40665daf21296941ecfcff452f1fe5cd7eaf04a3a31cb637736e612139c848c06ab9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Deep#Door新型RAT利用隐蔽与持久化技术攻击Windows系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pIKqVW4jf3cWvE8ISbJgXKn61UEtDGl7PibP5S5EYjPVJoNctBpSktdxPft9BPpvf09FvadRHpvNpicda1XJjQa52anxyDgGgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击特征分析Securonix安全研究人员发现名为Deep#Door的复杂恶意软件活动。攻击者使用基于Python的隐蔽后门，通过出人意料的简单投递方式实现对Windows系统的深度持久化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337671&amp;idx=1&amp;sn=b8c24a20d473d0ab05a5ea0291f2ed1f&amp;chksm=bc4c216cfdfccc0956233f8f08da811eb7e75f1814e91dd113a5ec0f509f8f0f0662cc23683a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1DKUXtrnLFh6d9LcKaoybic9bF3cyWVHpjPiaTU70wfhqG1WNYFWEVuJbibAMe3PAfVSuEtsrkMWzcasK7ODteibVrHSU0ogArImY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客渗透物流企业窃取货物转移资金Proofpoint研究人员发现，犯罪分子针对卡车运输和物流公司发起协同远程访问攻击，窃取货物并转移资金。这些攻击似乎与有组织犯罪有关。研究结果凸显了网络助</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=4&amp;sn=31a897172221c8d644952d2aaffadc48&amp;chksm=bcb3f07878e381fcbec3b2507f9b016c034b71d11f0d5123813cd1e515ab203f868d6bea37e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自主AI治理会失控吗？阿西莫夫机器人三定律的启示]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2S4zL0krXvLiafyfr5ibTjA5Z2lHEoj2AQ8pGPoAt4wYKlGLDibd0qrArSM6Dn3ZWnm4MygjBDyShLdOp4QXyvibsIk0j2tGhOJsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01阿西莫夫机器人三定律的深层启示阿西莫夫机器人三定律：第一定律：机器人不得伤害人类，或因不作为而使人类受到伤害。第二定律：机器人必须服从人类的命令，除非这些命令与第一定律相冲突。第三定律：机</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=1&amp;sn=aa96344fa272ee910a5bf2c3a792b8a2&amp;chksm=bc0d876df3df8626b8559d30ef31d48acf6a0be0acb44429640927f5aa01eabe1b891bea7ebe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RzZf6IvRgNkztTPOIR6dPAOzDpZIrgCKhw8OZr03ic8CMQP9cEIQLXz49Pu7Ydm2gzpo6xBEzQTODbKXK9ic3oBcuFFzrPJuCM/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，近期泄露的三个Windows Defender提权漏洞正遭实际攻击利用。攻击者直接使用来自GitHub公开仓库的概念验证（PoC）漏洞利用代码，针对真实企业目标发起攻击。2026</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=2&amp;sn=d443a5ec77ac2f1381c169de4d25e727&amp;chksm=bc5fe978b61cd7cf1e48df654c16e4878a5b0f449460e22c1489ebaa3168d3bfd10a38b3874d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1jDB5mXkrV1u97EGo1strOJFRokBUSbcibOINaMlUVhfvpm6sKyjEOP3FEib4lpIVGzrNia4guGXyubmYUxd8cvbiatiaeBa9srCS0/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员已公开披露针对 Fortinet 旗下 FortiSandbox 产品高危漏洞（CVE-2026-39808）的概念验证（PoC）利用代码。该漏洞允许未经身份验证的攻击者以 root</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337186&amp;idx=3&amp;sn=b6e6f602e25bbd8ff00545860e586f40&amp;chksm=bcff32b2c86b6058d5484e0777afc63b4112b56e9667ad81803ba0b6cd8a36398c0bb6c23cf0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

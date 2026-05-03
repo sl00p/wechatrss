@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上 3.7 万的 Star，终端里浏览文件的开源工具。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fZSEicNu16rs9rAYUAstvIVJANegnTyyRVsyic5LNYS7bPCQVYGiaG6KP0C2a0okicMicOTiaDhyPLLg2nxjyNlCA4gOgTYMQKjfZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我把终端文件管理换成了 yazi，效率起飞。最近这一两年工作方式变化挺大的。自从用上 Claude Code 这类工具之后，已经基本离不开了，每天大部分时间都泡在终端里。AI 能帮你搞的，几乎全在 t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533435&amp;idx=1&amp;sn=17a5ceb8d01d4249175e29d31cb8e4d8&amp;chksm=f8eda580a318cda49c58f9fd0f7ef8324fb1dbcd2fb52c05cfa82816d5e6580f2a3af0de43aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 12:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 项目太缺德了，拿鞭子抽 Claude Code。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1uribia1ATn4HUakQfBvhNXmicYuUKzQ1qjkmQpVR3rXRibjapA4iaNG1MugJDSq6WkFnLdiaxdJM0BvBLpbMZ3ZvmliceTaOpoWKgoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>哈哈哈哈哈，发现了一个专门鞭策 Claude Code 的沙雕神器。用过 Claude Code 的都懂，它啥都好，就是偶尔会犯懒。一个简单的重构，转圈转个十几秒。一段本来五分钟能搞定的代码，它在那儿</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533407&amp;idx=1&amp;sn=9c458a0617106eb13679cf408a8db7a6&amp;chksm=f80ab9281db917fe41a9973a58c5d03eb88c8988d5f977083538689f84caa0bbb89d2b10729c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yj0pIWibwBV1SJLpk9iab7mTAmwq8qK1JI5toImI0icm9NROmOcPCmEJrx7Xm815smIibrMn1iansAGiaNvczia5Sye93GJn8lZgU7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷到一篇文章挺有意思的，作者认为 OpenClaw 的核心机制不太对。OpenClaw 有个很知名的功能叫 Heartbeat，翻译过来就是心跳。顾名思义，让 AI Agent 定时醒来检查一下有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b&amp;chksm=f88f6f06d4441ba2c9a73b29cf28be4c9023e75442591f97e626f95819f2ab3e102e398e289c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这 6 个开源的 GitHub 项目，刚刚崭露头角。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3FE93JEQwib5Ch8QNrK60h5NlWY9SGDbuNMfiauuBSrgIYENQhw6ibmibLLop8x5HYznq9waRkxlhmv2UUQdicD3ZUP1uFHnC0EjR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 Mac 上跑真正的 iOS 系统这个叫 vphone-cli 刚开源，但是很火。这玩意儿能让你在 Mac 上直接引导启动一个虚拟 iPhone，注意不是模拟器，是真的 iOS 系统。目前这个项</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532219&amp;idx=1&amp;sn=c5da357d5743e3dde42725777e47975e&amp;chksm=f866a892cda08d3ec1a9df48364aa4da80093a23d1df269f2d3198fed0a0d492b33d85dd93ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

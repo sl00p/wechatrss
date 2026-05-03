@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[天命战队 DeSCTF Devil.exe 逆向思路分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2j5jUku0JOYUW4PdkjCOYW4SC9N2dwDFIEbDUlWWQ2iaksWJrictuhY6zlicM7ibncmaiamWJ0ZeBWZU7lzW30tHC3icMQGqQMI9Py4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次分享的题目已征得原作者同意，题目设计精巧、极具思考价值，也正因如此，我才在学习任务之余完成了相关代码编写，并整理思路发布此文。本文仅分享解题思路，不提供完整Writeup。题目核心分析程序为C++</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614422&amp;idx=1&amp;sn=1a3e0b02d7f510b2be50fbf080cd0b7c&amp;chksm=b0016fa88c352745292e1668b63aa9d34534a75d679cfcfab3af38100bf4de351b225d13673f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深入讲解RSA、AES、流密码等现代密码原理与典型攻击手法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8GMDXOBTBcJbBAIYF4dKsJh0C5iaAEiahdQdZu9qCSNgxWasicSYFzicBl3Fsic0fcjpWNtdmkY9TTsXqg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CTF30小时教你进阶CTF——密码学在CTF赛场上，你是否曾面对密码学题目束手无策？或是觉得密码学理论枯燥难啃，不知从何学起？ 希望有人能带你系统拆解RSA、AES、流密码……直至能独立解题？攻防</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614422&amp;idx=2&amp;sn=462b2b0db62170456fff31f5d18ec315&amp;chksm=b0cb9d51373b86545abd589dbdd0c7b609f4d796d61b978f41b9d7c57c532571b4b114be0205&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[测试环境正常，一上线就出问题：很多答案藏在Windows内核里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0RnalibNj4vInt5ic5Uw5IvKsozw06kicCQZLa1moRXpLBW6LlIxibWqvtFlUBfXgpE8icdIia6ZcUwAS0QXG2uCIeZTtTPHicV4emF8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在开发和安全防护工作中，最让人头疼的，往往不是“功能写不出来”。而是：内部测试一切正常，到了真实用户环境，问题才真正开始。同一套程序，在测试环境里运行稳定；换到用户机器上，却可能出现各种意想不到的问题</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614421&amp;idx=1&amp;sn=e872bf1165b11acbd3e2114b541d8e69&amp;chksm=b0180aebb508f44656c7cd81ae9e810c9c666134e2167fb362b71724b4eff8a1317d9f6dbd38&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[Linux arm64 内核Hook实现与校验绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ibaFibrrNWYnSdk34KMIia5YCYxEOXHmibTy7FcCpF73NA9leSXS4ItNqCdeUJGd76qMmQEY1xcpUvia944jwfx2LXLJlFNkviaNiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>我手头有一台基于 Linux 的精简系统设备（BusyBox），在提取并修改 system 分区后，设备会出现开机约 5 分钟自动重启的问题。对 system 分区进行了全面排查，始终无法定位原因。经</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=1&amp;sn=a06f6c489372da6017fb6426da80ecc9&amp;chksm=b0386dfd2aedcdadc866d654dabb76835866502c8d0137f540031b324a6d935a076b963d7ee7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今晚8点直击 | 第二届智能渗透挑战赛·冠军之夜]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2HI2ACOEtIwBXxymqMaHavat2frE6WKBv7UZXMRtibchDqLaeVwNZySs42ichO0x6JaFib1ib1iazWFicHoEDZe2sxOULG1TdiaOvT5E/640?wxtype=jpeg&amp;wxfrom=0"/><p>扫码预约🔥第二届腾讯云黑客松-智能渗透挑战赛今日正式开赛！610 支顶尖战队、1345 名安全极客与 AI 研究者同台竞技，超大规模智能攻防靶场激战正酣。连续5晚8点，锁定赛事直播。看雪创始人段钢主持</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=2&amp;sn=e1e50ed859ae41fd1efc229526fa98a8&amp;chksm=b0d62e27d6e0ab338098fc9fddaf52ae08b8bd789a280199265c94c2b09894db96db41c6a29a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客借助 Claude Code 与 GPT-4.1，攻破墨西哥九家政府机构，窃取数亿公民数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0Hicbxvy3aMuQ6s7hnz7l4MNd8MSnGqmgibYxst0ZsiaPQXXz2PrS9oJ5mqEwQH4Zaofhe8KicdzHuUMWRicDkEvEdKqWYw1iaqO6ys/640?wxtype=jpeg&amp;wxfrom=0"/><p>据安全研究机构 Gambit Security 最新披露，在 2025 年 12 月至 2026 年 2 月期间，一名独立攻击者利用 Claude Code 和 GPT-4.1 两款 AI 编程辅助工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=3&amp;sn=fdae4b86e89d852bbfe93df7ef780460&amp;chksm=b0394b1554006c7de28d360ad28cabfbd77a63dc7656fdb6e984972da664e2798a55f6f56999&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>

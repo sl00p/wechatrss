@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[骂谷歌干蠢事、炮轰甲骨文、AI在真实数据库测试得分为0！83岁图灵奖数据库教父的硅谷“狂人日记”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjExwiaiaCP6h6NA31Eto75hZjU10IrD1qW1OENtDJwj3SLMDJRjCL7Cmq4jWibLyq10uG5neJ1BHDOURozk4HAIOl927shmltCkic18/640?wxtype=jpeg&amp;wxfrom=0"/><p>计算机不再是朝阳产业？编译 | 王启隆出品丨AI 科技大本营（ID：rgznai100）过去这些年，数据库世界里最流行的几套说法，几乎都能在迈克·斯通布雷克这里撞上一堵墙。你跟他说大模型正在重写一切，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830711&amp;idx=1&amp;sn=018bda7e615e1b2696e7ea12335c7e3e&amp;chksm=c36d07e60bf0d3e485bead25933fcce1c8ff1f8891ef2711618ef1e56366f60c511e63f7c9e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 04 May 2026 13:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软开源DOS 1.0！当年用不到10万美元拿下的代码，改写了整个操作系统史]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjExk93RII4Cac4f06JAG3iaSGASFkK8ZjckvvJy9IkibqCvl3AiaQstibv52MY2ZsLKhRVQC13XzeXsW09ruexoa6y8jDKZia63tiaP2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）当一个系统彻底退出历史舞台，它的命运通常只有两个：被遗忘，或者被封存。但微软选了第三条路——把它开源出来。如今恰逢 86-DOS 1.00 诞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830702&amp;idx=1&amp;sn=52521d39315f53b733bd8ff46bc0f94b&amp;chksm=c37038f74f1d24388e0efa41137ce0e988a7c723f9d0953e80c40945afb0c5576faa1abbbdd9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[当 AI 主宰写代码，MoonBit 嵌入「形式化验证」让 Bug 清零]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzNE1GRYOvv3ibHJ7CaJRxic4pqFbkiad3rTwmbQ9zrM2otibPtBbjmOH1Zp3sroSkubaY1YqOaaFl1Tp2cEDkSdJmMB5xtxUqibU1E/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言AI 写代码越来越快，真正的问题却越来越尖锐：生成成本在下降，正确性却不会自动提升。代码能跑，不等于代码是对的；功能看起来完整，也不代表系统真的可靠。对于金融清算、操作系统内核、自动驾驶、航空航天</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247829961&amp;idx=1&amp;sn=d45062879f672deef968c2926b33348b&amp;chksm=c37ea95531cf7e532165d7a5824467685fe8aab24ac3daa918a87f3b496eef44478c98f92ba8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[耗时3个月，爆肝250小时！开发者用AI圆了8年「执念」：终于做出了一套“好用”的SQLite开发工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEyeTIlDuvXQAlu4ROylxzhbQ9LXcrgA1k1I5ficliboib2lFFkGlRTJzGnbxMVN7wzEl65tkIujFcMkicTTV4cRFVh3eGndBMBw5X4/640?wxtype=jpeg&amp;wxfrom=0"/><p>【CSDN 编者按】当 AI 编程从“噱头”走向“实用”，越来越多开发者开始探索它在真实项目中的边界——是万能助手，还是潜在陷阱？本文作者以 syntaqlite 的开发历程为切口，跳出“AI 神化”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247829961&amp;idx=2&amp;sn=64c46551e17b501c7ed099716698e65b&amp;chksm=c3047fea1bad59a02c88102ba831a7fd1d983ce68716320ecb06f43285f131194667b27a43bd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
