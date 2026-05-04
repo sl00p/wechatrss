@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX248n0XYt5MqrdnBtmN6mBSfFuIFtC4TCaZobajmZI8Kj96ZEbFlQ6ChIBfxaKB0tBIicVibVWZXnibMrzwAyBp6lC2Bgpug2GyYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Security（前身为 Claude Code Security）现已面向 Claude Enterprise 客户开放公测。该功能集成于 Claude.ai 平台，可扫描代码库中的安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337757&amp;idx=1&amp;sn=e8fc46fa8e69f67c262fca9a1f403fe5&amp;chksm=bcd0de4c1bff35a04f36ccfb53e019d4f7fb17c3e7880b7726363fcc4149ef7a8cfa122b7cc4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026：AI辅助攻击元年，网络攻击门槛断崖式下跌]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3J3kkicFxOmxQ0UuEGddFiarMqFkA4BEM0bmkib2NoAIzoIw0ibZkM0zbw3IeCTrKzHzJezpVwTyuYfQfbSjoZdmTgLko51NiauNIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年12月4日，日本大阪一名17岁少年因违反《禁止非法访问法》被捕。这名青少年通过运行恶意代码，窃取了日本最大连锁网吧Kaikatsu Club超过700万用户的个人数据。当被问及作案动机时，他</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337757&amp;idx=2&amp;sn=3c5795756ff9357e95dc392e953de9ae&amp;chksm=bc480b655afc95e721ba46ac033de940609ea12b5c6768192b40038d97723bd404cbf169b458&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic与OpenAI纷纷成立咨询公司，加速企业级AI应用落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uYB5BSgQnVl0OKa789hkrv9o8PJSTqFXC4D3932ymbQ7UlMoHHNdias5VlvLmM2rnaKwibtPCcB6FibT1PvHuRD8KQMMQ5hHbFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能巨头Anthropic PBC与OpenAI Group PBC正积极进军企业市场，宣布与美国顶级私募股权公司成立合资企业，共同创建新型AI服务公司。据彭博社报道，Anthropic今日宣布与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337757&amp;idx=3&amp;sn=d35c0040eaa87eae837c40031cb00138&amp;chksm=bc1cdaf3b1e5ffd67907756312416034b9e6fc356f4ab23994d6316e559cf9f48bbf25d060cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI降低攻击者门槛，不应假定复杂攻击仅来自国家行为]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3sZocI7I1mPiciaRxlg9Mt6U77yJHRMbX5RI8saSoicwtO8g3lbLm1YOyvY1zicYQcZy1oIBiathqeQxQ6tEOYJZ4ArKK7HFuNC6tQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软与美国网络安全和基础设施安全局（CISA）已就Windows Shell欺骗漏洞发出警告，该漏洞（CVE-2026-32202）目前已被攻击者利用。随着AI技术普及，攻击门槛显著降低，各类攻击者均</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337703&amp;idx=1&amp;sn=03743900f81cdc133cbc921783fae7c5&amp;chksm=bc0163bd45a088f8f85b93277e53c41cc4dfff5289bb66071df35970a02ecbe60a60aea08582&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[Claude Mythos 安全神话：炒作还是名副其实？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3AvaqQ592MnTLuQrzsyVT6hicyBzjCm3Lw5eQmssn71dd1bQiayzuKIo8FRRvTXlCqBtSk7Pdy6tN5vtc5hAbgibOodUmaAobfpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01炒作遇冷：VulnCheck分析质疑实际成效当OpenAI正计划推出专注于网络安全的AI模型展开竞争时，VulnCheck安全专家最新研究对Claude Mythos（即"Project</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=1&amp;sn=460249f4101d706c05c482e9019690de&amp;chksm=bcd0699d23904a6d468e8f298005dd7cd4c1decfdafb4bf66a9a5e1c28f17341eeb76bd07cbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年人工智能大模型安全众测活动公告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3675fyia3Mcj5fB2ZaebCbicXrxQooPGeBzXckDicgNicfygKADZhG1yKFdJ7ZFhUiaHkGLDCe2dWKx3lapCj1z0fqebKNKLyR9BTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>为做好2026年人工智能大模型安全众测活动，持续提升国内人工智能大模型产品安全防护水平，现面向社会征集测试产品，并诚邀高水平白帽子报名参与测试。一、组织单位指导单位：中央网信办网络安全协调局、国家发展</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=2&amp;sn=4596b021cd4f3e274d2e9fa4060611eb&amp;chksm=bcffd023e7fd706f1b893910b3a6adcae5e97ea22cdc723bef6b9b3e9ccc22d2820e6aab4443&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者持续一年攻击TP-Link路由器漏洞CVE-2023-33538仍未得逞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3OSJbQcyvVdhuZviaenYj4Aw6l5iaiaO2WI0mejraCMjEpgp4icVX8dt0C1JU60LqBN1gwdOOiaSEzSWUjLIbJiay1NWk1XQNakaxFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客针对旧款TP-Link路由器漏洞发起长达一年的攻击黑客持续一年多尝试利用TP-Link老旧路由器中的高危漏洞（CVE-2023-33538，CVSS评分8.8），但至今未发现成功案例。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=3&amp;sn=bfa50ef629440a2ccfed015f25047714&amp;chksm=bcebb8bddb287d577eee3efc3cfa06d10fbaea6c8630fc12ca2dd1142041530ba465ef51466f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网络攻击助推物流行业货物盗窃激增]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1DKUXtrnLFh6d9LcKaoybic9bF3cyWVHpjPiaTU70wfhqG1WNYFWEVuJbibAMe3PAfVSuEtsrkMWzcasK7ODteibVrHSU0ogArImY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客渗透物流企业窃取货物转移资金Proofpoint研究人员发现，犯罪分子针对卡车运输和物流公司发起协同远程访问攻击，窃取货物并转移资金。这些攻击似乎与有组织犯罪有关。研究结果凸显了网络助</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=4&amp;sn=31a897172221c8d644952d2aaffadc48&amp;chksm=bcb3f07878e381fcbec3b2507f9b016c034b71d11f0d5123813cd1e515ab203f868d6bea37e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>

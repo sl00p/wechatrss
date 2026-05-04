@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026年腾讯游戏安全初赛-PC方向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0WvRxWmG7ibff16ibfwJoIYicQnDBzVibguB3KmCTcibz4AW25SsZY8WHX4uQfBhy8KwL2Iic69ZwSzEibHfBkib3NzKfGPYRMSr9GndU/640?wxtype=jpeg&amp;wxfrom=0"/><p>仅为本人题解，并非参考答案不能保证正确，请参照官方公布题解。〇、得分点如何加载驱动关掉ACE预启动，随便签一个泄露签名，即可加载驱动，稳定性极高，就蓝屏了两次。Flagflag{SHAD0WNT_HY</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614423&amp;idx=1&amp;sn=8526e89b264b69a99591972be2130d0c&amp;chksm=b00f5e898a5e16fee4a08d8e85b15967a978e7f56b6fdab13e64925182cf5703cd3f60f18034&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 18:22:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安全招聘避坑｜普通平台招不到人？看雪这波操作救了无数技术团队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uXrfS80ibxiaDvIvMrYGnsIgNj4xCMPIn1Qt2qEMbgSXvOIpJMfwdwa9xoh9AQgzO1icD5dml3sfib95UQ3ZxsMWYeYPfHHRGtvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>做安全项目的朋友，大概率都踩过这样的坑：A就因为招不到合适的人，项目节点一推再推，工期延误、成本增加，技术负责人急得团团转，甚至一度要压缩项目范围。而另一边的B公司，直接在看雪招聘平台（job.kan</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614423&amp;idx=2&amp;sn=001775356c6e51c62d7f5d8db5529f0c&amp;chksm=b0adaeeb13d4c501648d4c1c5f44137a79bd43e20ca3a1116af591e865de2ed079e2f62527b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 18:22:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[天命战队 DeSCTF Devil.exe 逆向思路分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2j5jUku0JOYUW4PdkjCOYW4SC9N2dwDFIEbDUlWWQ2iaksWJrictuhY6zlicM7ibncmaiamWJ0ZeBWZU7lzW30tHC3icMQGqQMI9Py4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次分享的题目已征得原作者同意，题目设计精巧、极具思考价值，也正因如此，我才在学习任务之余完成了相关代码编写，并整理思路发布此文。本文仅分享解题思路，不提供完整Writeup。题目核心分析程序为C++</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614422&amp;idx=1&amp;sn=1a3e0b02d7f510b2be50fbf080cd0b7c&amp;chksm=b0016fa88c352745292e1668b63aa9d34534a75d679cfcfab3af38100bf4de351b225d13673f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0uE7or2weQqeibbVZkO28T14jSibicBDm8WDpayWiaYEwn1zB5DdmK5b0941UOCH6xp2g6RsKEUNkXUsk3uzztRFLgZvZNkvwmjI0/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名游戏开发商Rockstar Games于近日确认一起重大数据泄漏事件。当地时间4月14日，黑客组织ShinyHunters公开了从Rockstar Games窃取的超过7860万条内部记录。值得注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=2&amp;sn=a698c9b0dcc0d6aef4d0971e0c2cac2a&amp;chksm=b06694a0e8ce671bb27b3f542e58083d3a70d5094a1fdcb748d12a1822247103f08a4cea51ac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=3&amp;sn=c5fc96050347797a9e72f11a01e8039e&amp;chksm=b05f0cdee6607bd74c0a9b1cc9c05869d3f2250aaa84bbe5833c249d30125d79d944d545ed20&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux arm64 内核Hook实现与校验绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ibaFibrrNWYnSdk34KMIia5YCYxEOXHmibTy7FcCpF73NA9leSXS4ItNqCdeUJGd76qMmQEY1xcpUvia944jwfx2LXLJlFNkviaNiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>我手头有一台基于 Linux 的精简系统设备（BusyBox），在提取并修改 system 分区后，设备会出现开机约 5 分钟自动重启的问题。对 system 分区进行了全面排查，始终无法定位原因。经</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613330&amp;idx=1&amp;sn=a06f6c489372da6017fb6426da80ecc9&amp;chksm=b0386dfd2aedcdadc866d654dabb76835866502c8d0137f540031b324a6d935a076b963d7ee7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0qFkJjScYyjUxSsDm7E0wxvcbsFRB787qlk3AeicaVVRXYYeb3EXumjLSqGicZia4uYazbqIjKfloZBM586cicOo269HBHdCrrqsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Design 发布没多少天，GitHub 上就有人做了开源复刻版。4 月 17 日 Anthropic 上线 Claude Design，基于 Opus 4.7。输入一句话，直接出设计成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab&amp;chksm=f877028c1e93cc519da74631cadd2aafd64a5a6d1b0cd0b60bfc1e977190d839708cef405a7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 05 May 2026 12:24:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 3.7 万的 Star，终端里浏览文件的开源工具。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fZSEicNu16rs9rAYUAstvIVJANegnTyyRVsyic5LNYS7bPCQVYGiaG6KP0C2a0okicMicOTiaDhyPLLg2nxjyNlCA4gOgTYMQKjfZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我把终端文件管理换成了 yazi，效率起飞。最近这一两年工作方式变化挺大的。自从用上 Claude Code 这类工具之后，已经基本离不开了，每天大部分时间都泡在终端里。AI 能帮你搞的，几乎全在 t</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533435&amp;idx=1&amp;sn=17a5ceb8d01d4249175e29d31cb8e4d8&amp;chksm=f8eda580a318cda49c58f9fd0f7ef8324fb1dbcd2fb52c05cfa82816d5e6580f2a3af0de43aa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1TeWnpOOTicgoPmDH4BhZ6bVNnaBZtHMSXOziagptZ9Cv3VwdrucBIYStHPL4ib8Z9icxgWFXIx7Wzg6JfdVzOS6YsBgkOX9Pibicib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 懂的比老师还多，教育会变成啥样。传统的课堂，老师在上面讲，几十个学生在下面听。讲得太快，有人跟不上。讲得太慢，有人坐不住。千人一面，效率堪忧。但如果每个学生都拥有一个专属的、不知疲倦的、还能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532259&amp;idx=1&amp;sn=26ba5941f3d0e70383861553027cf251&amp;chksm=f8ef962f947d52177e6db87591b3c7c64c5ae69a4bece2ad7e634be83e5253e941509d8c6c41&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yj0pIWibwBV1SJLpk9iab7mTAmwq8qK1JI5toImI0icm9NROmOcPCmEJrx7Xm815smIibrMn1iansAGiaNvczia5Sye93GJn8lZgU7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷到一篇文章挺有意思的，作者认为 OpenClaw 的核心机制不太对。OpenClaw 有个很知名的功能叫 Heartbeat，翻译过来就是心跳。顾名思义，让 AI Agent 定时醒来检查一下有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b&amp;chksm=f88f6f06d4441ba2c9a73b29cf28be4c9023e75442591f97e626f95819f2ab3e102e398e289c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
