@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub上狂揽 1.1 万 Star，22 岁开发者逆向工程了 Claude Mythos。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rYjhrmTXh7Ieh5N2W7m5hWL6XZbyyE35YsI9JYr43nLNPYovNmho8u2dzJwVnCQfN8hnJc4KaooiaojwxOBFk3Vsg1L64JrMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>上个月 Anthropic 放出了一个叫 Claude Mythos Preview 的模型。这个模型强到离谱。英国 AI 安全研究所对它做了测试，发现它能自主完成一整套企业网络攻击：32 个步骤的攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533526&amp;idx=1&amp;sn=716bda7ad91edafbe1206ad84ba4843a&amp;chksm=f853f04c40e5983a3582c496dbfd66f4efd933db333504a08184f2c046068e80fb27a85a2f5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 14:48:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0qFkJjScYyjUxSsDm7E0wxvcbsFRB787qlk3AeicaVVRXYYeb3EXumjLSqGicZia4uYazbqIjKfloZBM586cicOo269HBHdCrrqsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Design 发布没多少天，GitHub 上就有人做了开源复刻版。4 月 17 日 Anthropic 上线 Claude Design，基于 Opus 4.7。输入一句话，直接出设计成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab&amp;chksm=f877028c1e93cc519da74631cadd2aafd64a5a6d1b0cd0b60bfc1e977190d839708cef405a7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2NXG8Ywo3p5qnWtBszv1mwTBdy5mR1ia0BGDdTAmAibqMMaS4luNwXj1gE8o5qNHnRdgzoicksNC3ibRYrBfO9STFicIanQeRJ5WbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在，如果我遇到比较复杂的搜索场景：需要深度搜索、多方对比、交叉验证才能得出体系化结论的任务。我直接扔给 MiroThinker。它是一个开源的重型研究型 AI Agent。不同于豆包这种 AI 聊天</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532272&amp;idx=1&amp;sn=e4ea5c1fecc792467f63a79691a37359&amp;chksm=f867819e3b6d399356c149e6e6e6eb085684ab12bc0f18073efee75dcb7978d3f2152094ec36&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 11:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[清华团队开源！1 键生成多 Agent 智能体 AI 课堂。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1TeWnpOOTicgoPmDH4BhZ6bVNnaBZtHMSXOziagptZ9Cv3VwdrucBIYStHPL4ib8Z9icxgWFXIx7Wzg6JfdVzOS6YsBgkOX9Pibicib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 懂的比老师还多，教育会变成啥样。传统的课堂，老师在上面讲，几十个学生在下面听。讲得太快，有人跟不上。讲得太慢，有人坐不住。千人一面，效率堪忧。但如果每个学生都拥有一个专属的、不知疲倦的、还能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532259&amp;idx=1&amp;sn=26ba5941f3d0e70383861553027cf251&amp;chksm=f8ef962f947d52177e6db87591b3c7c64c5ae69a4bece2ad7e634be83e5253e941509d8c6c41&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

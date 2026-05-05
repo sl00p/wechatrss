@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对话郝建业：Agent记忆、安全以及Harness框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX053ygDnGf5dqRxT2aD45DVbRY0En63yRT57TcS6B3RO4YRKnvicUKll06ZB82iauCTFqjPlmBR8FgCSobL2MaDkzX08KapFqgiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>离开华为后，郝建业创立MemoraX AI，出任斗象科技首席AI安全科学家，横跨学术界与产业界，可以被称为“学者型硬核创业者”。这位85后教授曾远赴麻省理工学院（MIT）从事博士后研究，是国内最早一批</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=1&amp;sn=53836611d72ccc90e3e0b834ce8cca9b&amp;chksm=bcb994551f1c4a389cba8f574e932ce8cef707fe72a7fb476b16f8fb64edbe91ed538de2e0c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 13:33:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[扫描百万暴露AI服务后，我们发现了触目惊心的安全现状]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0cwW0YOXTSbho6fft7ueBAoCJQ4cUIuJtc29a5MAZpeRzjGee8haxehmEsMYVb7Em4icvfn3L6yD3SB3PWRP7iafXWxjTmXM3e4/640?wxtype=jpeg&amp;wxfrom=0"/><p>尽管软件行业过去几十年在安全地交付产品方面取得了实质性进展，但AI应用的狂热浪潮正使这些成果岌岌可危。企业争相自建大语言模型（LLM）基础设施，既受AI作为生产力倍增器的诱惑驱使，又迫于快速交付价值的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=2&amp;sn=c890c856e93e127cc56195a110cfac4c&amp;chksm=bc831b9f300878f714fd119470bdb535fa65a578458a6e759a1210ce07f6cec4d492932493fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 13:33:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安卓高危0Day漏洞（CVE-2026-0073），可远程获取Shell访问权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Yu5oxbfwnjvNxibCJnAE2ZsuolfQ9u7HTPdWoVmXZUYicucX6icTUiaeXIdF7KmRnNtTqQicb689ticbib6trcjDtcsAgxM9ehcn6yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌于2026年5月发布安卓安全公告，向生态圈通报了一个极其严重的远程代码执行（RCE）漏洞。该漏洞编号为CVE-2026-0073，存在于安卓系统核心组件的深层。Part01漏洞技术细节这个高危漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=3&amp;sn=4d75cd3ff87f0507bd4e3ee7714eb5b0&amp;chksm=bc93e75ecfb8a7098faca1b1b0285aa926f122bbc2932dcce5cb77ec7178c7562ef7e000d5e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 13:33:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache HTTP Server 漏洞致数百万服务器面临远程代码执行风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2eqYeWWUNR048GRI5xSk37NJyCQeZXtuiaH8hWJVGqpTxCkeaLsVAbEZ22qVzibSV0D20PkzU9HO3ENbqpU1iaibVhicaQ2jicbgFgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache 软件基金会已发布针对 Apache HTTP Server 的关键安全更新，修复了五个漏洞。在 2026 年 5 月 4 日发布的 2.4.67 版本中，包含一个危险的双重释放漏洞，可导</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=4&amp;sn=927394d0052ef2873352e3c19c065d07&amp;chksm=bc81510791c1b412486ab3ad84834e32a915e968bce7ea7527b9fbb2a48d287025a90dc2905b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 13:33:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Security开放公测：Opus 4.7加持，一键实现代码漏洞扫描与补丁生成]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX248n0XYt5MqrdnBtmN6mBSfFuIFtC4TCaZobajmZI8Kj96ZEbFlQ6ChIBfxaKB0tBIicVibVWZXnibMrzwAyBp6lC2Bgpug2GyYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Security（前身为 Claude Code Security）现已面向 Claude Enterprise 客户开放公测。该功能集成于 Claude.ai 平台，可扫描代码库中的安</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337757&amp;idx=1&amp;sn=e8fc46fa8e69f67c262fca9a1f403fe5&amp;chksm=bcd0de4c1bff35a04f36ccfb53e019d4f7fb17c3e7880b7726363fcc4149ef7a8cfa122b7cc4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1MG5ZHib72yEoiaice43VwcOMQ07SrAIiaQkE1ICR60fnZUWaXia3reId2QiaYluO43W0DyH9K2u2Xj3sKjUhHKMbzFVvHMYzvLd5sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个让全球网络安全行业不得不重新审视现状的事实正在发生：360漏洞挖掘智能体通过代码自动扫描，在分钟级时间内精准定位了两个潜伏多年的全球级高危漏洞，一个是潜伏5年的Windows内核提权漏洞，另一个是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=1&amp;sn=6241ece47e150b188e8fe461b5e1b203&amp;chksm=bc7e7ce9e9c770b40123c3d930cda3c49755c206a23e10c2824c30cecf79ec3f7448275662ad&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic机密网络工具Mythos遭未授权组织入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3obXiaQbErjLCOnNc9ziauSFNInTeGmfXdbNOrD19xj61hGBl7eR9IQRViaRbMU2E1cGNEGyrbicibFD4IAZZLW1HeInYe7ialWl17E/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月7日，Anthropic公司正式发布其高度机密的AI驱动网络安全工具Claude Mythos Preview。这款被该公司自评为"危险程度过高不宜公开发布"的AI模型，能够自主发现主流</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=2&amp;sn=364342d79d6edc8b968e222fe186346d&amp;chksm=bca98c67ea1cab60413b70805a4896094783054d9f1c72048d9ac5fa14f214cc85ae4b9491a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows截图工具NTLM哈希泄露漏洞PoC利用代码公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Tbk8o9PnYW7B5XIbicic1vGPEqAJvnNeQ1lvVfibtZ48McZiauaCRibPxC92oggnMJMNEQYx3kbWETGRL8NoPt4Q9ticYPZYGIBgOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员已公开针对微软截图工具（Snipping Tool）新漏洞的概念验证（PoC）利用代码，攻击者可通过诱导用户访问恶意网页，悄无声息地窃取其Net-NTLM凭证哈希值。该漏洞编号为CVE</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=3&amp;sn=8c774c1c1dd60205b511d98f3e43a087&amp;chksm=bcfdf662082448d2eacc0aa842d69a69388a0c2df806b4dbc8b7bd6708807eca31d96a7f5a54&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SGLang高危漏洞可通过恶意GGUF模型文件实现远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2OtOm8lJ6l4uR79N6nNd5ibGCUPgV5J9T2Mm43byliaqxf59GmqOLy5ItSdic8By1CpROOILhNxwbxq84rdUsibIU0WKnT8Dz4iap8/640?wxtype=jpeg&amp;wxfrom=0"/><p>SGLang 框架曝出严重安全漏洞，攻击者成功利用该漏洞可在受影响系统上实现远程代码执行。该漏洞编号为 CVE-2026-5760，CVSS 评分为 9.8 分（满分 10 分），属于可导致任意代码执</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=4&amp;sn=73d5d7c0ad1fd0eca3c03813767e1799&amp;chksm=bc2532fce68f63790826ce804c06f28f43135f10bb8175895eb33dfe30856137958d702e6fec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos 安全神话：炒作还是名副其实？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3AvaqQ592MnTLuQrzsyVT6hicyBzjCm3Lw5eQmssn71dd1bQiayzuKIo8FRRvTXlCqBtSk7Pdy6tN5vtc5hAbgibOodUmaAobfpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01炒作遇冷：VulnCheck分析质疑实际成效当OpenAI正计划推出专注于网络安全的AI模型展开竞争时，VulnCheck安全专家最新研究对Claude Mythos（即"Project</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337227&amp;idx=1&amp;sn=460249f4101d706c05c482e9019690de&amp;chksm=bcd0699d23904a6d468e8f298005dd7cd4c1decfdafb4bf66a9a5e1c28f17341eeb76bd07cbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

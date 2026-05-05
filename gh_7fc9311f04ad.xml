@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y7ShIwk7zZgibNQGT91pNz4UCnTXCiaxQce6Og25MshlQe32SPzuyTBRiaF8QTMf9X9nOMVMg5mz0uTDib4Ia6QZ8Nmc0icpJbbd7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言本文主要围绕一个具体的问题展开：怎么写好一份 AGENTS.md？「在代码仓库中放一份上下文文件，告诉 AI 工具这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559836&amp;idx=1&amp;sn=7fa79653cd7704d663ab7afc7a4b8eed&amp;chksm=e8fd97b2711e7d30fc364d2f4dd17ca72394ed68bdc93150455d0f910ce18b47fd3439287b18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qoder Skills 完全指南：从零开始，让 AI 按你的标准执行]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKDpSBmFFkefzN8X7zzjCmH4gXLe8icjtv2N9No1EZGiaDrS3I4ygm3yYkIuATONQwf142XFS09BhptdnmsojXse25uXj81QMe4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在 AI 原生工作流加速普及的今天，掌握 Skill 已不再是开发者的专属能力，而是产品、运营、设计乃至技术管理者提升人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559803&amp;idx=1&amp;sn=b098d8dafccc26b9352b3f93edfbf292&amp;chksm=e8469bfc7e842857aa81061534e954d277c2864800f2d4e8398786576c1ea85982b49aabce78&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xCGMl15tEH9GqgV8m00O7RHmskdmRCMbtR9dt0gRwSEoHS0CPRJ2AkI84k8Re4ibyicvEW8JB4ogjA8HApIm1lUIRWM0cuqDn6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里云Coding Plan订阅服务上新Qwen 3.5-Plus、GLM-4.7、Kimi-K2.5等编程模型，用户订阅后即可自由切换模型。即日起，新用户首月首购享两折优惠，18000次请求额</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558445&amp;idx=1&amp;sn=9ad45971cfa80fa50a107452a2da68f1&amp;chksm=e8cfaf6c9062fa0affa61f263c22315838b617f8734ebb5c60649497f67c36d9e44479b22a4b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 22 Feb 2026 17:49:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[以小胜大！千问Qwen3.5重磅发布，每百万Token仅0.8元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xt924w2EUD6fGDozFEK6Su6LYyluyhpOEPicQwo65Tu7tVicR7FHH0dGd8MI9icYfPgjeuIdfctylSlWzJgeHLYYpLugVk5uFibDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，登顶全球最强开源模型。该模型总参数为3970亿，激活仅170亿，以小胜大，性能超过万亿参数的Qwen3-Max模型，部署显存占用降低60%</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558440&amp;idx=1&amp;sn=f24285af4b6d915247e8124be8e766f1&amp;chksm=e86f167aebb057d650ec665df76ecaee74725e6f7cc6de8724643015bea46a9e56a5becebe6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Feb 2026 19:40:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

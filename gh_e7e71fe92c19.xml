@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[VMProtect 3.8.1 混淆策略大揭秘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaeELsg9QbYxBcPuSMibn39aHv2ibKdQuQUkAiavReTgedOZrc1icRsVWIntowBKrgmbPMHMtEuhhHcV5406fGrficNegjfWDUPTew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自从VMProtect 3.5.1 被爆出源码泄露开始直到最后的那一两个最重要的源文件也被公之于众之后，VMProtect 3.5.1算是在所有的逆向开发人员面前裸奔了。有意思的是VMProtect并</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=1&amp;sn=e7e00532d3ef8803a5e4206d31b932ff&amp;chksm=b09c7d71b0f9b1c8010b90a2126047f6b70029af7311cbbcd1a59dc69ffcb9cfeacd4416dfbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Palo Alto PAN-OS 高危漏洞已遭在野利用：可获root权限，官方下周发补丁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1QUgSUicf6vP20pc2nIpdl0MabMpSF4u2B559hMDuiasZlX8LMoN3PaXneZ2rbIicVIJUEaZcxk03lEicafMGnE9x25OB3C378BI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks 本周发布紧急安全公告，确认旗下 PAN-OS 操作系统存在一处严重的缓冲区溢出漏洞，编号 CVE-2026-0300。该漏洞允许未经身份验证的远程攻击者向 PA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=2&amp;sn=ad625ae6a74ef9508c95bad9c6cea4ef&amp;chksm=b0f857ec14b91c3803057675929fbe7d77d60e27dfb98a5a447a9253fd55c2a42c9aa78e68cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[效率提升10倍！高版本VMP逆向+插件开发全流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=3&amp;sn=942fc47999e8b03d9c29f202cfdb76d6&amp;chksm=b05e21c42a83c3486e98a58196a8b41b0fc92addec685118b5bc5d2b148d5d5b33d95accdc17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026年腾讯游戏安全初赛-PC方向]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0WvRxWmG7ibff16ibfwJoIYicQnDBzVibguB3KmCTcibz4AW25SsZY8WHX4uQfBhy8KwL2Iic69ZwSzEibHfBkib3NzKfGPYRMSr9GndU/640?wxtype=jpeg&amp;wxfrom=0"/><p>仅为本人题解，并非参考答案不能保证正确，请参照官方公布题解。〇、得分点如何加载驱动关掉ACE预启动，随便签一个泄露签名，即可加载驱动，稳定性极高，就蓝屏了两次。Flagflag{SHAD0WNT_HY</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614423&amp;idx=1&amp;sn=8526e89b264b69a99591972be2130d0c&amp;chksm=b00f5e898a5e16fee4a08d8e85b15967a978e7f56b6fdab13e64925182cf5703cd3f60f18034&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MDpWT8drXlfgHLwItY0VWCGzgWbBZ6AsdI6kh7I7QDxFvmZ1zfuLIxKkSKFLek6objz92sbF3hFhTicLdRic31DSpJbyscTib74/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.引言在 Windows 攻击链中，许多看似基础的提权手段依然频繁奏效。在缺乏可用漏洞或需避免高风险内核操作时，攻击者会试图让提权看起来像系统应有的行为，以避免打断用户或触发告警。因此，“进程伪装”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=2&amp;sn=da477c224b836820e9225556a4d1a962&amp;chksm=b024d7ca1fb9ae52817dc54abd31d51ff952d1d888b55ed5b3bb77266e5722b15638b3852e16&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0zmibOWtnrMN7cVh7YAIYL1BzcBy3awU41qr6VaTD03kJf0Gic9m5NQR8wtTaVsyGjP89x9SHaMxzpHQ3IbFINyep6iaVCl2kYKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月14日，微软在月度安全更新周期中正式确认，其SharePoint Server存在一个高危零日欺骗漏洞，该漏洞目前已在野外被威胁 actors 主动利用，对企业部署的SharePoint</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=3&amp;sn=d5076ce31c456b0a5d868670a8138e94&amp;chksm=b021dba38c222b11bcd725a588f879375ff9866dc6f150abc010f18ed6002a0222e6fe37de69&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ivanti CVE-2025-0282 漏洞复现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2za1qyUJicjy4FoU88GFEfWASzTkSNvthYfBJqLoNFzia26YJiaIpuIjsqy6UB4t2XVwMuUQTZmKMjaIjicdX3DLmwLrzbyc6vqHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建下载地址:https://pulsezta.blob.core.windows.net/gateway/nsa/ISA-V-VMWARE-ICS-22.7R2.3-3431.1.zip双击ov</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=1&amp;sn=30bf32e1f57fead35b98087dc646ed4d&amp;chksm=b055a4e92d37935fe6067b9ebbcf1e332416116bccc2388d5e0b2a48ecef54fc2d355ccf20ca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Rockstar Games确认遭供应链攻击，第三方SaaS成数据泄漏跳板]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0uE7or2weQqeibbVZkO28T14jSibicBDm8WDpayWiaYEwn1zB5DdmK5b0941UOCH6xp2g6RsKEUNkXUsk3uzztRFLgZvZNkvwmjI0/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名游戏开发商Rockstar Games于近日确认一起重大数据泄漏事件。当地时间4月14日，黑客组织ShinyHunters公开了从Rockstar Games窃取的超过7860万条内部记录。值得注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613407&amp;idx=2&amp;sn=a698c9b0dcc0d6aef4d0971e0c2cac2a&amp;chksm=b06694a0e8ce671bb27b3f542e58083d3a70d5094a1fdcb748d12a1822247103f08a4cea51ac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
