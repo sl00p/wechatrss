@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic让Claude AI"做梦"优化工作，突破上下文限制实现持续进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19QDAxXaRudhw3SFORRWKtXLeaLmHZsEicvvJVC7iaKzx5L2cdic44Mrc6P1NDXJ3jrs2ibRZ37SQMBaWicrlia3C5PsRicWkMG6uaw0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic PBC宣布，其AI Agent将具备“做梦”能力，可记忆过往交互与工作内容，从而识别重复错误并实现持续改进。在Code with Claude开发者大会上公布的这项更新中，Anth</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=1&amp;sn=301cb44ab8341f825a5447f48abc01f3&amp;chksm=bc630c1675203173d1d2501d21edcb28d9c605c9de1d0f6bce8725ba1e5b21c381d14d1356f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Edge启动时明文存储所有密码，内存攻击可全盘窃取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3y9TR56aAkaNaKBehIFgKNtLx71lzBunp6icpBRDSseAibtWibhBhs1WafDW6FV2g74fD9A7vACYAHKvoK5DaaE2C3CZu5c4Q5EU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一位安全研究人员发现，微软Edge浏览器在启动瞬间会将所有已保存的密码解密并加载至进程内存，且以明文形式持续驻留——无论用户是否访问过相关网站。这项发现由PaloAltoNtwks Norway的研究</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=2&amp;sn=dc361404cf1d35e781d382a6300a7217&amp;chksm=bc0cf2bf3e1660bd0b00eb0844af23c141fec1f4a6b50f92febfee36495605cda736a650e613&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Palo Alto防火墙高危漏洞遭野外利用，攻击者可一键获取root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0tnCRkLQaeqmgBMWDekZAOiaql8tkA14FuwSE0qDvtOAcJQdZybmj397SznFnDxu3qnichbYsowHibNHmLORBBQq1O1qiabtvoc08/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks披露了PAN-OS软件中存在的一个关键缓冲区溢出漏洞（CVE-2026-0300），该漏洞目前已在野外遭到主动利用。该漏洞的CVSS 4.0评分为9.3（严重级别）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=3&amp;sn=a0b1c8a35d514f60ad04cd81d25bfaff&amp;chksm=bc5cf790622944dffae12b84f1e3ddc3f688fe3d4ae89bb6baa4508713df90257596d5740a0f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[暗网平台Darkhub公开兜售加密货币诈骗、信息拦截与监控服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3J2jqt88wLPxxXt0uBEic8A9qXnuYT1icrTyjOCiarSPQN4elExDVn6T1GUEOHhQoPKIwnj3V1Ul72MPf6YVmdfX2vLibXfotDBicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个自称Darkhub的暗网平台近日在Tor网络上现身，公然向付费用户提供黑客雇佣服务。该平台将自己包装成网络犯罪活动的“一站式商店”，业务范围涵盖社交媒体账号入侵、私人信息拦截以及财务记录篡改等非法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=4&amp;sn=bdd5b31369a64880a1ac03ec01098298&amp;chksm=bccc2253b8bb4816a745cb3e2b4dbf4b01b8717b319498ac8d1d4eabca815143d416920f4c5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对话郝建业：Agent记忆、安全以及Harness框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX053ygDnGf5dqRxT2aD45DVbRY0En63yRT57TcS6B3RO4YRKnvicUKll06ZB82iauCTFqjPlmBR8FgCSobL2MaDkzX08KapFqgiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>离开华为后，郝建业创立MemoraX AI，出任斗象科技首席AI安全科学家，横跨学术界与产业界，可以被称为“学者型硬核创业者”。这位85后教授曾远赴麻省理工学院（MIT）从事博士后研究，是国内最早一批</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=1&amp;sn=53836611d72ccc90e3e0b834ce8cca9b&amp;chksm=bcb994551f1c4a389cba8f574e932ce8cef707fe72a7fb476b16f8fb64edbe91ed538de2e0c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2vd5KltpcLpdiatyjMbyRV6DwWTPD9icjdtaAtmT4Hf3XPpuXEaKKVROloQ46gKa85yjrxmERvA6hC1eAgwDiannhZcyWp8ZH6pM/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent的安全问题，前面写了好几篇，基本都在讲"怎么发现问题"和"怎么拦截危险操作"。但有个维度一直没人认真做：AI Agent到底碰了你什么东西？你的密钥文件、合同PDF、数据库配置、SSH</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=1&amp;sn=9a9b4ba14b422bcc9c69d3f6f55ca19a&amp;chksm=bc37d8599910b8fdd07ca9fb6ea6a6c13e6a64a62c6e938bedc497388cf7b7c19d8b9b9d8a60&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos发现271个Firefox漏洞，0Day时代或将终结]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3Aor5UBxvFBuD4bQyq3ESXiaIzAbWDlDkJO2bDlibUcmEHIlsMB13bITku9xYgSDHuFmag2cYtB3nK7q24rNF8ehiaF0jRicrs9ZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mozilla 基金会近期测试了 Anthropic 公司开发的 AI 模型 Claude Mythos，该模型在网络安全领域引发了广泛讨论。在授权 Mythos 访问权限前，Mozilla 使用 O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=2&amp;sn=d4d0427f9badc714919ac4ab1261002b&amp;chksm=bc9813465e925e423232fee849483362695b8e4a05789f0a22199b9c860c3dd163c38e1c36a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub评论可触发Claude Code、Gemini CLI和GitHub Copilot的提示注入漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibTYj6WDohGob0v0AbfZ9r8YsjgdIGAxSU4LcicjHl0x1IiaQ2y1R1OExcVL34ibn4hMShVJIhibmCRIsllv5Ifs1aytlSAysmvhk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型"评论控制"攻击手法曝光研究人员发现一类名为"Comment and Control"（评论控制）的跨厂商关键漏洞，这种新型提示注入攻击利用GitHub的拉取请求标题、议题正文和评论作</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=3&amp;sn=d23d64c8205b59a91369eb49da9ca472&amp;chksm=bc3a1c4b1ca527d20354d7aaffd9c7c9c8705ff44c47f5aa8590263cc27ef4283cb1ce4540dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果AI令牌漏洞曝光，窃取者可跨设备滥用服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3WUicsefoicsRGZicMx6ibafhibJYUm1Bhfdl0icdKldn1aceZNU1EVcMbzCylaOicHK0W8KutpvnnXWVdhTOm0BG1pQDbrzC4bJB8iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01服务架构设计苹果公司宣称，其操作系统内置的生成式AI服务Apple Intelligence通过采用匿名访问令牌的双阶段认证授权机制，特别注重用户安全与隐私保护。但俄亥俄州立大学研究人员在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337295&amp;idx=4&amp;sn=627469b08b958cdacaa020b0f2e9ce3b&amp;chksm=bc6d8817784805404922cb47262dbfbdd93541af5a25be852064ad99a21aa1e8e0fd81d725fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 17:59:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从数月到分钟级：360智能体自动挖洞终结人工低效时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1MG5ZHib72yEoiaice43VwcOMQ07SrAIiaQkE1ICR60fnZUWaXia3reId2QiaYluO43W0DyH9K2u2Xj3sKjUhHKMbzFVvHMYzvLd5sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个让全球网络安全行业不得不重新审视现状的事实正在发生：360漏洞挖掘智能体通过代码自动扫描，在分钟级时间内精准定位了两个潜伏多年的全球级高危漏洞，一个是潜伏5年的Windows内核提权漏洞，另一个是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337251&amp;idx=1&amp;sn=6241ece47e150b188e8fe461b5e1b203&amp;chksm=bc7e7ce9e9c770b40123c3d930cda3c49755c206a23e10c2824c30cecf79ec3f7448275662ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

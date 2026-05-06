@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AppDomainManager 注入：从GAC 利用到无文件加载的多种实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BySrVGiaLNubqsXaXP23aQsrU7H357RFegJyDS2L150kfPTnuYX73YJ3A8qHk1e7C5LDI5VRrbibGzETWibGVN4oULAvFaBC6nY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、原理过去的注入技术（如跨进程注入）依赖底层的 Windows API（如 VirtualAllocEx、WriteProcessMemory、CreateRemoteThread），这些 API</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=1&amp;sn=f5927db0f7e8732f53878d2f5ca71129&amp;chksm=b0f17f35ca69dfb7db56ec83d157ce7feb4b8d67bc8948536bf45bc78023c5e560166b4886f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[先知安全沙龙 - 北京站 5月15日开启！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1nIZK2U5aS58QN7hC1Vvoatph9NUf7BXicPSJ5KQ87salRfyQzicWcGFOhpyE6xfrRqMq1pkArB9h7sicluSN3NAIRNoFjicxtAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十四场-北京站将于5月15日在北邮科技大厦4楼多功能厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中心、北京邮电大学网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=2&amp;sn=2e411e269dcfb8034fe7114819953acf&amp;chksm=b0d2cca2be438e2aaf2c0915f22676f64125e87afbe5c6eb2285a690e585ce687ad03f68ee48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者可执行任意代码！vm2 沙箱库曝12连杀漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1PrKdbAibBtWX6IjLJE1lNibLbvRPK06Ff0XmZbI6ibMtOM6340COE6uC7070Ftlk8Agae2NvhiajETH2Ffwsm3h8FbcLGIDKjsCk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，广泛使用的 Node.js 沙箱环境库 vm2 被安全研究人员接连揪出 12 个严重漏洞，编号从 CVE-2026-24118 到 CVE-2026-44009，绝大多数评分高达 9.8 甚至满</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=3&amp;sn=3c6bd50dafd56f3e109a00efc03687b1&amp;chksm=b0836f726820e813e90495e9600522c65a8266a7a11f5e5dd388962594ddf451ba19237c0761&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[速学！今日同步更新2门课程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3wb9G8CLyY0X74CDVaEouNW3CBib5njvRiaLU2Jxcwv9ovQQKNUYfia6RW6ZmBmznYTj5a7hoJDJIc98pI9wLnv0ptl6w3n1QtzE/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》2.12 集成GMShttps://www.kanxue.com/book-135-6050.htm4.4 apatchhttps://www.kanxue.com</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=4&amp;sn=298a2fdc8ed17b65e5944cda2cc1fd95&amp;chksm=b02532946a75073d31a275b819b225811d856a9adc3fe5f4ae71cc3f18c545e9b7db3b1749af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[VMProtect 3.8.1 混淆策略大揭秘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaeELsg9QbYxBcPuSMibn39aHv2ibKdQuQUkAiavReTgedOZrc1icRsVWIntowBKrgmbPMHMtEuhhHcV5406fGrficNegjfWDUPTew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自从VMProtect 3.5.1 被爆出源码泄露开始直到最后的那一两个最重要的源文件也被公之于众之后，VMProtect 3.5.1算是在所有的逆向开发人员面前裸奔了。有意思的是VMProtect并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=1&amp;sn=e7e00532d3ef8803a5e4206d31b932ff&amp;chksm=b09c7d71b0f9b1c8010b90a2126047f6b70029af7311cbbcd1a59dc69ffcb9cfeacd4416dfbf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uJut6vGDhcHtcGFhkcnPA6amsgrAmhmftcYrPzT0YLRva8CE18mROnhZuGiaqhA8f2KLomUXuAvLxZzXms7GJXHmOFzlrc9GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkHole_2通关思路1.启动靶机2.开启 kali 的 nmap 进行扫描，确定靶机 ipnamp -sn 192.168.5.0/243.扫描靶机开放的端口和服务nmap -sV 192.1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613420&amp;idx=1&amp;sn=fc54ff404c5347378b8105cd2c20656e&amp;chksm=b0c3b7b4286234a47a2bdf31f5b020ac03f260be3b0b067c32e915a9de9e811b37f70f0ac69f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 17:58:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex 如何利用三星电视内核漏洞实现权限越狱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2YLEEdf6jHjCv2FtqbZUz2tpe7DJtSBWEDGYGSMibGfKCJF4jicjGIIojicxMFSIib99sUjr35RrX1sbaKQm7iaOCjkzkFCbtG6bmM/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 旗下 Codex AI 模型近日成功在一台真实三星智能电视上实现权限提升至 root，引发对消费电子设备安全性的深度质疑。该实验由 CALIF 团队于 2026年4月14日披露，研究始于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613420&amp;idx=2&amp;sn=731c575f108348537ca001ef93c4a021&amp;chksm=b0fd9a943518c9ca16794dbe26440025a12fb3a8b0e1a10c5a2082fbe78efb6086d18f467a24&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 17:58:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅新课！基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613420&amp;idx=3&amp;sn=a47980125c62acd92bb8e8ca4192bdca&amp;chksm=b066be769dabf0c20ff55cd7a60e15356187ef2481e360947061fdfda3990f7bccc9df41114d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 17:58:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[就业/积分/落户一步到位！上海重点急需工种——网络与信息安全管理员（三级/高级）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bia6F904wLk2UEqsiaCOrNiaibWghh378OrWJfhRPicNYcrusgkG1kz8eT5uk0SBt9ib7vSbzheibMUwUQWa8eVF7WYtlPl1X8eIIeo/640?wxtype=jpeg&amp;wxfrom=0"/><p>在数字时代，网络安全就是国家安全，网络与信息安全人才早已成为上海重点急需的技能人才！网络与信息安全管理员（三级/高级）证书，不仅是国家认可的正规技能等级证，更是上海居住证积分、就业求职、职称评定、落户</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=1&amp;sn=b07aa0550d5ee51da26ad96310dc6937&amp;chksm=b0dd147730d7db168d95bb1eac7672cfbb337db1ddee72abcdf686fd72f7d367f33e5e3b06ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无声的提权：Windows攻击链中的进程伪装与UAC绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MDpWT8drXlfgHLwItY0VWCGzgWbBZ6AsdI6kh7I7QDxFvmZ1zfuLIxKkSKFLek6objz92sbF3hFhTicLdRic31DSpJbyscTib74/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.引言在 Windows 攻击链中，许多看似基础的提权手段依然频繁奏效。在缺乏可用漏洞或需避免高风险内核操作时，攻击者会试图让提权看起来像系统应有的行为，以避免打断用户或触发告警。因此，“进程伪装”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613414&amp;idx=2&amp;sn=da477c224b836820e9225556a4d1a962&amp;chksm=b024d7ca1fb9ae52817dc54abd31d51ff952d1d888b55ed5b3bb77266e5722b15638b3852e16&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 17:59:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

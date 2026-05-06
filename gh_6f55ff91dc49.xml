@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你的 Mac 就是一个 AI Agent，4B 模型本地操控电脑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0eep9VoZVKwJkvicm6PoszAyialtO4osic4RYXtcn6uCISWXmOsmz3ibibgABghdVeoicLrT6ibQpBNsPaCWpKoZ5ZOP9MIK2zLszyJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间介绍了一个开源的 Skill，可以让 Agent 控制你的 Mac。纯视觉理解桌面上的任何软件界面，像人一样去操作，而且全程跑在你自己电脑上，数据不上云。继 Skill 开源之后，最近他的端侧</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533529&amp;idx=1&amp;sn=cb5c3b295b802b594f045376f79e2a8a&amp;chksm=f8bde3016999999469545111a98b52d57226065ca92770f88683c4c90f5381bad9999c0c6ce7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 12:53:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub上狂揽 1.1 万 Star，22 岁开发者逆向工程了 Claude Mythos。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rYjhrmTXh7Ieh5N2W7m5hWL6XZbyyE35YsI9JYr43nLNPYovNmho8u2dzJwVnCQfN8hnJc4KaooiaojwxOBFk3Vsg1L64JrMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>上个月 Anthropic 放出了一个叫 Claude Mythos Preview 的模型。这个模型强到离谱。英国 AI 安全研究所对它做了测试，发现它能自主完成一整套企业网络攻击：32 个步骤的攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533526&amp;idx=1&amp;sn=716bda7ad91edafbe1206ad84ba4843a&amp;chksm=f853f04c40e5983a3582c496dbfd66f4efd933db333504a08184f2c046068e80fb27a85a2f5d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2PMqGiclbsq51JvMvQdQ1hlyO2bUiaY7gEvCibYZ9ztxRfVKc6gIHqnPaTXAJvbIxUongmicuMoj2ozMm2BJGP7xKHNoibuh7HqTXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>上线 6 天拿下 2 万多 Star，这是一套给 Claude Code 用的 AI 编程工作流。这个开源项目的作者叫 Garry Tan。Y Combinator 总裁，投资了很多明星的公司，Twi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532288&amp;idx=1&amp;sn=4d6252412cc5aa0d7b8ea98730957ee1&amp;chksm=f828f765b2d1cc0c6199c39949f213f41da43e1f2f635cdf2e8cbb23d37e6e31775156e65932&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 19 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 搜索利器 MiroThinker 发布新模型！我接入小龙虾，太实用了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2NXG8Ywo3p5qnWtBszv1mwTBdy5mR1ia0BGDdTAmAibqMMaS4luNwXj1gE8o5qNHnRdgzoicksNC3ibRYrBfO9STFicIanQeRJ5WbA/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在，如果我遇到比较复杂的搜索场景：需要深度搜索、多方对比、交叉验证才能得出体系化结论的任务。我直接扔给 MiroThinker。它是一个开源的重型研究型 AI Agent。不同于豆包这种 AI 聊天</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532272&amp;idx=1&amp;sn=e4ea5c1fecc792467f63a79691a37359&amp;chksm=f867819e3b6d399356c149e6e6e6eb085684ab12bc0f18073efee75dcb7978d3f2152094ec36&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 11:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

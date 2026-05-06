@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness Engineering：耗时一周，我是如何将应用的AI Coding率提升至90%的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zSXic4jKX07UjNuHW0XhMmklvrlIXSvNIJ5ArxW9TU0fuR3LvjF0HRlKJeYonfQfQUFYQ3X2zyPicdHOhg3rvM0jUOs4ALc3icDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。从 Prompt Engineering 到 Context Engineering 再到 Harness Engine</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559842&amp;idx=1&amp;sn=71ee08bf0421ad2f1aa4dd7a58901c5f&amp;chksm=e846ee26b4c5f9b0ecf09461225b29097f9ba1ee3e04ce43adbab7ad44f4fdcf80e06eb90949&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y7ShIwk7zZgibNQGT91pNz4UCnTXCiaxQce6Og25MshlQe32SPzuyTBRiaF8QTMf9X9nOMVMg5mz0uTDib4Ia6QZ8Nmc0icpJbbd7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言本文主要围绕一个具体的问题展开：怎么写好一份 AGENTS.md？「在代码仓库中放一份上下文文件，告诉 AI 工具这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559836&amp;idx=1&amp;sn=7fa79653cd7704d663ab7afc7a4b8eed&amp;chksm=e8fd97b2711e7d30fc364d2f4dd17ca72394ed68bdc93150455d0f910ce18b47fd3439287b18&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKJn5oQFHtSnv6Vib6onSlDlVPWXl54DGaWPbM2ZYpPuakj1Phib9J1aWrxK8CvkFLETQKo7y87jBbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558441&amp;idx=1&amp;sn=f856bc1bf23341b6c7e1cf249d0f522e&amp;chksm=e89b33c6de544a1d360f5ce635a32e9cd898d7ed0e9923ac11402e5b37d0ff5eb2d0c1ccfddf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上新！阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xCGMl15tEH9GqgV8m00O7RHmskdmRCMbtR9dt0gRwSEoHS0CPRJ2AkI84k8Re4ibyicvEW8JB4ogjA8HApIm1lUIRWM0cuqDn6I/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里云Coding Plan订阅服务上新Qwen 3.5-Plus、GLM-4.7、Kimi-K2.5等编程模型，用户订阅后即可自由切换模型。即日起，新用户首月首购享两折优惠，18000次请求额</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558445&amp;idx=1&amp;sn=9ad45971cfa80fa50a107452a2da68f1&amp;chksm=e8cfaf6c9062fa0affa61f263c22315838b617f8734ebb5c60649497f67c36d9e44479b22a4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Feb 2026 17:49:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

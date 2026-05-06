@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[程序员越早想通这些越好]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7VWx9U3zdicMhk2DC0iapzTTeUVthh6aCqSHWYrdf5I9NfdBG41qbH3RhqwBErs8Q8Yz5kYSHjnX3ialHcsRPKSc3HLFZd4zELWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇很多人衡量程序员的产出，看的是代码行数。但写了这么多年代码之后，我发现一个反直觉的事实：删掉一行代码带来的成就感，远大于写出一行代码。因为每一行新代码都是负债—</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695482&amp;idx=1&amp;sn=7f8b7e7f9a759e5b5d95eea286fd6a71&amp;chksm=eb8c4e049d021f72220278896e34e12fc1f985c0188e375c2b1110803e6fa64c849619588d30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 07 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[RAG已死？不，是Grep回归了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6DDmy645XWicSnOoaBoXyOy96MqBUHa66uZNzkVMgcYb5fcdib0j3HFQeqbmCtfNJ8vf3UicbS1BeQC8iaV9BHjnA4vRNjGEAls70/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇这一年“RAG 已死”的说法甚嚣尘上，比如《长上下文窗口、Agent 崛起，RAG 已死？》、《The RAG Obituary: Killed by Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695473&amp;idx=1&amp;sn=517ef2bad8a85f2f31c1ef309c1eae76&amp;chksm=eb597a27f480becf67e0fff700b330cf86fe3f02ef7203cf8f9b2dbbea155e7149599366c768&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkGxA7o3gSrJicBFwov4TZQ4KfQ8PV5sKbphLBFicK3lfpn2nYOoEAyIMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Clawdbot 技术方案Clawdbot（现名 OpenClaw） 是一个 Local-First (本地优先) 的 AI Agent 运行时环境，旨在将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694343&amp;idx=1&amp;sn=8974e62e0c74a0011c6fdf6d037f957c&amp;chksm=eb90ae37ee7a95285ad05cd124ebafa408483bf2a3fa47b56ec8eb79efa52325a79c44e0b2ec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字详解大模型推理加速核心原理：分形规律与资源计算公式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe94taMUlqOoGXJiccwDaEk6nEL0jdT5cSxekWzJR7J7kiaLMxibywfZiamvTShGD25P4ZehIR8FjAibrSVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇大模型推理性能优化比较复杂，千头万绪，涉及推理框架、模型特性、GPU硬件特性、算子优化、网络基础设施、通信协议、SLO等很多方面因素，优化的时候主要用工具分析T</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694196&amp;idx=1&amp;sn=151b34f31e6a5cdfe4cc8600668b57cb&amp;chksm=eb649ca57032a0d3938f116d8b8b5fe621e42e0176f15508a249bf0bc3dd128b9fc646015eb9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Jan 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
