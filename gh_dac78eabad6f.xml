@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Infra 其实没有多少新东西]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6Yf22xjhCibSicrBjM0MKXVrQ2nX0fJelw8DXeWBP4kprjEEazMAWxcMCbd4cEtaqsOk3SnYofeTpPAuTS0LAC3iaz0ZRslrYyKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇随着大模型技术的爆发，AI Infra 已成为基础设施领域的核心战场。过去1年多的时间，我们团队落地了多个大模型应用，包括语音合成大模型、内容理解多模态大模型、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695494&amp;idx=1&amp;sn=85ccbd62f18105968a195314e86ece43&amp;chksm=eb5e51949ff4eb5be2a4e36bfef4cdcde0487356e5c9ace239a32ea762483572f14f0e1d6916&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[程序员越早想通这些越好]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7VWx9U3zdicMhk2DC0iapzTTeUVthh6aCqSHWYrdf5I9NfdBG41qbH3RhqwBErs8Q8Yz5kYSHjnX3ialHcsRPKSc3HLFZd4zELWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇很多人衡量程序员的产出，看的是代码行数。但写了这么多年代码之后，我发现一个反直觉的事实：删掉一行代码带来的成就感，远大于写出一行代码。因为每一行新代码都是负债—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695482&amp;idx=1&amp;sn=7f8b7e7f9a759e5b5d95eea286fd6a71&amp;chksm=eb8c4e049d021f72220278896e34e12fc1f985c0188e375c2b1110803e6fa64c849619588d30&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkeujyTACWib2F16icvUiajSOibdbG83tQuXqDO0Z7M0acNX6b0FDbXmHx1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作为程序员，幸幸苦苦忙碌一年，春节回家也未必轻松，赶火车回家团圆，参加爸妈安排的相亲，同学的婚礼随份子， 被七大姑问候工资，然而最恐怖的却是突如其来的 -- 「</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=2&amp;sn=688269877d325a9b032e387d98ab7cb9&amp;chksm=ebbd7f393d039ec1118bbb3fb0e095963bb398cef3ceee61178871725f3a4b9d4ed6e412377c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkGxA7o3gSrJicBFwov4TZQ4KfQ8PV5sKbphLBFicK3lfpn2nYOoEAyIMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Clawdbot 技术方案Clawdbot（现名 OpenClaw） 是一个 Local-First (本地优先) 的 AI Agent 运行时环境，旨在将</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694343&amp;idx=1&amp;sn=8974e62e0c74a0011c6fdf6d037f957c&amp;chksm=eb90ae37ee7a95285ad05cd124ebafa408483bf2a3fa47b56ec8eb79efa52325a79c44e0b2ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

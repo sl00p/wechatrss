@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你是不是觉得，每天要啃的技术文档、会议记录、调研报告长得让人头皮发麻？很可能，你的龙虾缺了一个信息提炼引擎skill：summarize。 1. 是什么原理？ 简单来说，summarize不是什么复杂的算法模型，而是一个基于强大理解能力的蒸馏器，其执行步骤为： - 内容识别：不管是粘贴的文本、上传的文件，还是扔给她一个网页链接，她都能进行识别； - 结构解析：她不是机械地截取前几句或后几句。而是深度理解内容的逻辑结构，哪里是问题背景，哪里是论点论据，哪里是核心结论，哪里是关键逻辑； - 要点提取：同时，她会根据内容类型和我们的指令（如果有），自动判断什么才是“核心”，什么是“问题与解决方案”，什么是“架构决策与理由”，什么是“执行步骤与风险点”； - 浓缩输出：最后，她会用清晰、连贯的语言，将提取出的核心要点重新组织，生成一份高度浓缩的摘要。 2. 有什么优点？ 首先，summarize是纯提示词架构，无需外部API。 其次，summarize支持“多模态”输入，我们完全可以把油管链接丢个她，让她帮忙总结。 第三，summarize能实现摘要“可定制”，我们得到的不是千篇一律的总结。我们可以下达精确指令，例如：“请忽略背景，只总结其中提到的三个技术挑战和对应的解决方案，用不超过500字概括”。 我们想要什么，她就能给我们什么，开心不开心？ 3. 我的实践经验 最经典，且最基础的用法：总结并提炼长文。 我会把DeepSeekV4文档给她：这是DeepSeekV4设计思路，有点长，请帮我总结出架构创新，技术创新，以及它是如何实现百万超长上写文的。 更高级的技巧：summarize 和之前介绍的 Agent Browser 是“黄金搭档”，我们可以组合使用：看一下xxx知乎链接，阅读楼主的问题和所有回复，然后总结出大家公认的Top 3解决方案以及各自的优缺点，500个字以内。 一条指令，就能完成“信息获取+深度加工”的全流程。 OpenClaw必装skill，summarize，你装了吗？ 今晚有个直播活动，和大家一起聊聊：OpenClaw究竟能做哪些事情？我是如何用龙虾提效的？她对谁最利好？如何最快速学习龙虾？以及，究竟要学些什么？ 欢迎来玩！直播间不见不散！]]></title>
+      <description><![CDATA[<p>你是不是觉得，每天要啃的技术文档、会议记录、调研报告长得让人头皮发麻？很可能，你的龙虾缺了一个信息提炼引擎skill：summarize。 1. 是什么原理？ 简单来说，summarize不是什么</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981150&amp;idx=1&amp;sn=9bcb5c67bc8ab94aba2c5a4bee908ae3&amp;chksm=bc616fe6457772d476ad96c62fca58ebc1b1c49e9279592e8284e937b487cf69a9e6ffa9d5de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 11:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你有没有发现，坚持养虾的人，大部分是普通人，而不是程序媛？ OpenClaw之于程序员，无非是一个新的工具。程序员每天的工作就是编程，本身就具备很强的自动化能力，用了一段时间，不顺手，程序员会说：压根没有Claude code好用，没有Codex好用，没有Cursor好用。 OpenClaw对程序员来说，更多是“锦上添花”。 OpenClaw之于普通人，意义就完全不一样了：她是一次彻底的技术平权。龙虾打破了技术壁垒。从此代码能力，自动化能力，不再是程序员的特权。 普通人的工作与生活中，充斥着大量重复，琐碎，逻辑又相对清晰的任务：办公自动化，内容创作自动化，信息处理自动化，运营自动化... 此类种种，通过OpenClaw来提效，都非常容易。 而且，龙虾的学习曲线极低（不像学写代码），是错成本几乎为0。非程序员岗位通过OpenClaw提效，能创造巨大的同岗位不对称优势。 OpenClaw对普通人来说，就是“雪中送炭”。 明晚21:00直播，和大家聊聊，普通人学如何快速上手OpenClaw？ 届时，会简单聊聊以下话题： 1. OpenClaw，究竟能做哪些事情？ 2. OpenClaw，我是如何用龙虾提效的？ 3. OpenClaw，对谁最利好？ 4. OpenClaw，普通人学习3大卡点？ 5. OpenClaw，如何最快速学习？ 6. OpenClaw，究竟要学些什么？ 其中，第5和6两个模块，应该能帮到不少想学习OpenClaw的人。 多说一句哈，内容是针对普通人： 1. 0基础0技术经验的好学者； 2. 还没有安装OpenClaw的门外汉； 3. 安装了OpenClaw，不知道怎么聊的新人； 4. 了解原理与应用，想要进阶实践（自动化操作，自动化开发等）的技术人； 各路Claude Code玩家，Codex/Cursor代码大神，并不太适合哈。 你上手OpenClaw了吗？进展到哪一步了？ A：不知道怎么安装 B：不清楚基本原理 C：不清楚怎么聊 D：不知道能做什么，尚未动手实践 E：已经动手实践解决自己的问题 明晚直播间，欢迎来看我跳舞，不见不散！]]></title>
       <description><![CDATA[<p>你有没有发现，坚持养虾的人，大部分是普通人，而不是程序媛？ OpenClaw之于程序员，无非是一个新的工具。程序员每天的工作就是编程，本身就具备很强的自动化能力，用了一段时间，不顺手，程序员会说：压</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981146&amp;idx=1&amp;sn=3528cbb2b90676f4b7039aef9e193ab9&amp;chksm=bcf72b33f9e52fcf0209eb329a3e9ff0e866717a46e78f5d18afa1cc2f0774652afaa7a31f8d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcSRHHVGOib8Itmd87FE5OG8oqcXSRnCzcZfyOX41LwZ3RhGic2IYaKp7ytYgnUCNhkwwgiaicLicsZochIeicvPlApdavlZFqfQGrbc/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》3. 应用篇：提issue最近养龙虾有一些心得，准备持续分享出来，暂定100讲。昨天用OpenClaw的过程中，发现一个OpenClaw的bug，于是给OpenClaw提交</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980670&amp;idx=1&amp;sn=8be9f0a718a0a6dc34b0495667bbef14&amp;chksm=bc051ba654e217155426f4b24949a6be66e04b0057153ddb36e19e025aa97f070313389cc7ff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 09:53:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我用OpenClaw，5分钟写出一个skill的7个步骤（第三讲，思路通用）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXet2XTjOQo5tfJhDryZV79yFw1kfnnI57B7420J3GEUjfXibRk1VibZ5jyGRdiaFOXSU58SAIiaRVPPqwX7wjm42l54YQXHf72sRu0/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》3. 应用篇：skill例子最近养龙虾有一些心得，准备都输出出来。讲什么？从评论里选大家想听的，暂定100讲。昨天一个11年的老粉留言，说想听skill，那我就接着上一个C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980646&amp;idx=1&amp;sn=6802aa2dee88a0ebfd5a6606c1cf3c92&amp;chksm=bc5def3bdf4afe1241a10f3599f41d6bf0cfc007bcfb0933596ee08e7fa0a95527e3da96cde9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 20:36:25 +0800</pubDate>
     </item>
   </channel>
 </rss>

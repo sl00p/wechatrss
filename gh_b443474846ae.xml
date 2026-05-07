@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiak2pYH4HCjdYl3wIDFlpsRfaSVl2pSMNXrHwWs1KHJ7alLAmNfMALPTFLz9BGE3dPPCz0KicE7mNSN21HtlO7ePTPsNye7POjI/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina Chrome 正在把你的电脑变成它的 AI 算力节点，没问过你，没通知你，而且删了还会自动重下。安全研究员 Alexander Hanff（网名 ThatPrivacyGuy）报告</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283627&amp;idx=1&amp;sn=f9f44222cc187328ca9546e23b16a988&amp;chksm=bca9b6abb52d9b307e0f7e4200e82c4ecf40b09495dced6c292a123482f3edaf8c659f277bea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 15:32:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 Prompt 到 Context：易点天下 Agentic AI 工程化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgzbcw1Xa2tKwSsVc8yMGE0YKYXmG8gCAKjmq0CAYQBxqxFCtOlxHd1RqOw1IPBb9GhAvUicSnufuAJpbKZEpNkic4qjKFfnS7T0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 何宇航 随着 2026 年的到来，生成式 AI 已经彻底告别了"Demo 满天飞"的狂热期，正式步入工程化落地的深水区。当大模型的能力边界不再神秘，企业架构师们面临的核心命题已经发生转移：如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283627&amp;idx=2&amp;sn=13343e3bf6df70fef4ff47eadf3bace3&amp;chksm=bc553e8f7e8ed0a4c1dba167740389cd6eeb438b54b28242ab947171e3696a8fe96e9a954c63&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 15:32:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大公司也这样？改完系统：先上线，再看哪儿炸]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjWZJ9uwe2SEMenhUwvOMs8NBvMiaNn3gCOk9Fb7Lf960xtCibLqjLLXPKd6WyHA9082UHk3qR2JjA9e2wZLLabxz8xBlchia6z6c/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 田橙 Dropbox 近日介绍了其如何通过重新设计压缩策略，提高 Magic Pocket 的存储效率。Magic Pocket 是公司用于大规模存储用户</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283627&amp;idx=3&amp;sn=beb43bf93d686bf198fd96e5f3d5b7aa&amp;chksm=bc53a1688e2a049b36a7214e428f8ba92ec0395271e60293952ddd34fcf1071ec384c1014f3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 15:32:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[写代码的人都懂：GitHub 开始解决“大 PR 地狱”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjqM44CW24ibN9d1AueQQPccic1NbE9icSCAGJOmXLTwR6o58P9FehlCYib8B56LPREBKq9yQ8aPB9MvmatWpR27ic7NaZWANdVBLT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Matt Saunders 译者 | 田橙 GitHub 已通过一个名为 gh-stack 的新 CLI 扩展推出原生的堆叠式拉取请求工作流，填补了多年来一直由第三方工具弥补的空白。该方案的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283627&amp;idx=4&amp;sn=d3b94117213763c51cf5e9731f460ff6&amp;chksm=bc7b60c4a29eebf03ad14d70fd9824455fcb1199f71b6c075a7f2ef5f27edb1ece0400ddcce5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 15:32:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaffFZebgr1cchs2foUzo1XKfOwR3ZZ7OfyhhYp5OyOwfdmicib1RQwfts5ppOicia39JPrG65Q3AJSgXgiaRQhU74vS9qfiaNbeOD5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 Anthropic 时不时限制用户使用速率的问题终于迎来一次大的改善。当地时间 5 月 6 日，Anthropic 宣布，将使用马斯克旗下 SpaceX 的计算资源。根据协议，Ant</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283587&amp;idx=1&amp;sn=78b640d4bb76642ba23275cd36f54b0e&amp;chksm=bcda901915e7d9d48e1f0f10aa8269ab038636293c81202c603c45242650c8dfae838a99c083&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4np1ib73ejicWLTv57qpx2iaZR2Jvj9kJqxniaYnQ1jo0KWPa86FibejcWokURCMyOKEMKWruCNgkB9GxuruO9mYvUoPXAicUAXK1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我想认真聊一件事——为什么你的 Agent 总是不听话？我想先与你分享一个近乎每天都在我，或许也在你身边上演的场景：你在用某个框架（比如 LangChain）写一个代码审查 Agent，现在代码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282400&amp;idx=3&amp;sn=275c0236b9c1b060f489dee82c5a1e3e&amp;chksm=bcb21300aea9c597dfed15e3efaefeb34189f67e1e34894f6fe378cdf724f0e8ea50cbc490fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Apr 2026 20:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Copilot CLI 正式进入全面可用阶段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgDlI9PLBGicg6RIAhpgicJwgOGrRJSB2LHKb1Dviapy3RE2Dhr0yBibvAib9LHpafEWMHIHt0DKL1Y9xHByTt1avOfS1ycicZ4DVkU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Mark Silvester 译者 | 马可薇 GitHub 已正式将 Copilot CLI 推向全面可用，这标志着其在将生成式 AI 融入整个软件开发生命周期方面迈出了重要一步。这一举措</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282400&amp;idx=4&amp;sn=2929addd7768f97c62176597e10f632e&amp;chksm=bc13c19e5dbac2b641f325e11521251a54e2a508819b1ee4fbe08571f2b65d5cd785bf732814&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 20:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在AK大神爆火的任务里，摸清国产AI真实水平]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgaYSdbYsf5Hc8rdtW3xpuSHvAaNOa5vctM1qy7Jyxb29RJibq9BmlV34NXiaIpmfAGtp5d1a8s0Goh34y7l091IOw4r8fUvByRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 4 月 20 日深夜，Kimi K2.6 发布并开源。它最值得被探讨的，并非又赢了几个 Benchmark，跑分逼平乃至反超海外三巨头。这些数字反映的更多是理论上限，而非你我实际上手时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282240&amp;idx=1&amp;sn=87537ab21d8b3cd5677df45d2ae75512&amp;chksm=bc888cc918ad9704e4e6a00616e23a0e24ced015244ae55dc40436bef0fafae218af13667c52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 14:31:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“守成者”库克卸任CEO：除了离开，他再没有什么能留给苹果了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj1xkEJSf0bt1s5BcT65juFffyok0O3CYib5mpz7hBk27uwiaeUE3WDTK0To4X5grZYCdo9NKL6vhEngYIytz2UAjMHt1c6hoGfY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅4月20日晚，总部位于加州库比蒂诺的 Apple 公司宣布，现任首席执行官 Tim Cook 将于 2026 年 9 月 1 日起转任董事会执行主席；现任硬件工程高级副总裁 John Ter</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282240&amp;idx=2&amp;sn=bfd0735ceb9c164212a251e6dd633caa&amp;chksm=bc4698c332cd42a060b06c73f3ca11b4fd660ef323a2107924bf3f2c222fc8bbea755aadd120&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 14:31:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OPC的接单困境：10个需求同时来，敢让“龙虾”替你拍板吗？| 直播预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhDO7vwezu94BKox6hnURQ8btSoUGupmOibJGjglZzK1IwNhIpD4BBtOLF8NDHPicu9VnxaZDiaiauAwCXEYHJJSAlocW3G9grEs6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>老板临时抛来紧急需求？GitHub 热点项目要实时抓取、翻译、生成中文专题页，还要求中午前同步给产品中心？面对琐碎又耗时的小需求，“龙虾”能救命吗？本次直播将聚焦真实职场高频场景，实测如何用 ArkC</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282240&amp;idx=3&amp;sn=466b2e500b63afcedf35c7f3cc221b03&amp;chksm=bcf4f65f4c6f8d282260f4322a9da5cf5d6d6e3b81328dfa405f46ca8afdb3956a9fb16941e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 14:31:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

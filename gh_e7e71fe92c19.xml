@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一条命令就能提权！Copy Fail 还没补完，Linux 内核又曝 Dirty Frag 漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2tk405JV3z5YCibUbPcsVXFU2WSZWVAwEkooVDcxD2G93BwZeeT9zVQYicJmibsiajl2hUnBzIOjS48GvH4tkHNnEqzhia1eFT1micc/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在 Copy Fail 漏洞的补丁还在陆续推送时，一个名为 Dirty Frag 的全新本地提权零日漏洞又被公开。攻击者只需一条命令，就能在绝大多数主流 Linux 发行版上从普通用户直接拿到 ro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=1&amp;sn=364bd9c47201a3c4b46f3ab61839a403&amp;chksm=b09f3489617c7d48e7708dac9d7f18c269a6857876b92902673cb4df575d3207efd8530d4f13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[夯爆了！薪资最高70k，企业直招一键投递]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K38DALkxBgp5ziabjNMnhtcicFBh1rpOfdoZfK2opkZ0xbvZLtk7Aunia5txwPrUdqDib7eat9G16S9y8aExWN6r6nictVOvDdFkG7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01吉利汽车研究院（宁波）有限公司传感器物理安全专家薪资：60-70k就职地点：宁波岗位职责：研究针</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=2&amp;sn=faeae0a3c965268c65cc294ccdf7c81b&amp;chksm=b0858db9830605040b4fbdde87c5e2bd19fbc8effd35f2037a97b6cf41b2f79e2dc80b262a73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RiskEngine 开源设备指纹和风险监测SDK]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0boWjsNRJtCCsh3NwwibZBBYxv67RqYRw3rkUfpZvJ90b97KoYjHWj5FuJAcTrysbguzWA41Tbq28IoBsjeicBTpWwcZ8DJWXcM/640?wxtype=jpeg&amp;wxfrom=0"/><p>RiskEngine是我开源在 GitHub 上的一个 Android 端设备指纹采集 + 风险检测 SDK。Java + C++17 双层结构，纯离线，进 App 之后调一次RiskEngine.c</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=3&amp;sn=090bb02a3e7953bad8d45f2d15d8aefe&amp;chksm=b089bf891f567a1fa1685b8726b744a52177cb6beba50825627853aa01bd8f86852374506bd7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AppDomainManager 注入：从GAC 利用到无文件加载的多种实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BySrVGiaLNubqsXaXP23aQsrU7H357RFegJyDS2L150kfPTnuYX73YJ3A8qHk1e7C5LDI5VRrbibGzETWibGVN4oULAvFaBC6nY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、原理过去的注入技术（如跨进程注入）依赖底层的 Windows API（如 VirtualAllocEx、WriteProcessMemory、CreateRemoteThread），这些 API</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=1&amp;sn=f5927db0f7e8732f53878d2f5ca71129&amp;chksm=b0f17f35ca69dfb7db56ec83d157ce7feb4b8d67bc8948536bf45bc78023c5e560166b4886f1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=1&amp;sn=6295d5114f197edfbdbd39ad5bb1b8aa&amp;chksm=b0f2de0bf4f2b25e1c54603f7f87df4f943f9511d5968648d5ab1ff2101935238c713126b3e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Polaris-Obfuscator中IndirectCall简要分析+反混淆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14WmweglSmfkcpLXLiczKxhtwkbh71ibMyYziaVjcNrIBe0qhIbOU4FRaaIJxFH7DdQG0nAardqoJeBQbUxLetMneycztUCiaeDJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>IndirectCall 简要介绍这个obfuscation pass简单来说就是把直接调用改成间接调用。比如：call func_1改成：; perform some operations to c</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=2&amp;sn=79f352435c823dbe3e29c0ce9dc8c39c&amp;chksm=b0e50ee1a9824a86c823ad2b8cf45726ace64735389726dcc573f003e98b9de76280f0449b3f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[绕过杀毒软件！GitHub ZIP成为新型恶意软件传播新渠道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0CJtQkkEz0cXDhzgnhUicBnVZ2TnyrwmficmRynkZHQS5GyF3NVCz3G2ZliawvQxibleqjibqgiaXVT0q3hRy14m4QfiaXZl67Wia84E8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，暴露管理服务提供商Cyderes的研究人员发现一场隐蔽性极强的多阶段恶意软件攻击活动，攻击者借助GitHub ZIP文件分发两种全新恶意软件家族——Direct-Sys Loader（加载器）与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613821&amp;idx=3&amp;sn=3c11564698af024b827a1f21eab4a339&amp;chksm=b078197058022e2fc39cd0d948a59ef639bb4212a3cfc56928b2a002af56403e250dc2e89830&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 17:59:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[渗透测试练习——DarkHole_2靶场实践：涉及对.git文件的处理，sql注入及利用sudo提权]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uJut6vGDhcHtcGFhkcnPA6amsgrAmhmftcYrPzT0YLRva8CE18mROnhZuGiaqhA8f2KLomUXuAvLxZzXms7GJXHmOFzlrc9GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkHole_2通关思路1.启动靶机2.开启 kali 的 nmap 进行扫描，确定靶机 ipnamp -sn 192.168.5.0/243.扫描靶机开放的端口和服务nmap -sV 192.1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613420&amp;idx=1&amp;sn=fc54ff404c5347378b8105cd2c20656e&amp;chksm=b0c3b7b4286234a47a2bdf31f5b020ac03f260be3b0b067c32e915a9de9e811b37f70f0ac69f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 17:58:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
