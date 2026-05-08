@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一次银狐样本分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwcX3GlJ2Cze9uDnxpicZ08bkqRianp3Fx5fJIfEPGnYYaaTkHMfwibvuVJ5kb3ic2tOZv6QZzzlhmWSP0PlUr3P9IelfHJ05D7l4lc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：soma200x00 前言最近突然心血来潮，想找个样本来分析一下，顺便学习了解一下免杀以及恶意样本的手法，在网上冲浪的时候找到了一个银狐样本，于是拿来分析一下样本地址：WindowsEv</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144327&amp;idx=1&amp;sn=4871e7042c007272603dcc984f360a27&amp;chksm=bcfdd7aaaf7d71fbaacaf4da3c9497cbe8482a27fcf001a6e5016e85aa50489b6c501ee324e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 16:29:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[解开 Windows 微信 4.0 版本的主数据库]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwfXzxLaxMU9UtEIUsJfVZ0rCUj0QdrNSbuyicpxVFLoIqCTXoWhHIs8P20VgDF46AM4jvf9C4QCibjTKx9LFmxPhQLJC1vaOEI4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：xuxinhang我之前写的文章(解开Windows微信4.0版本的手机聊天记录备份文件) 讨论了在Windows微信4.0版本中手机备份文件的解密方法，但是新版备份文件的密钥只存在于手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144290&amp;idx=1&amp;sn=8800d7eb92dae5dd9347e52b91a8abdd&amp;chksm=bc9b1c38ebc6aa533a71bf61e768fe867eea2141c1cee977eb1946f16cde76eb8f8b19454be4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwd9Rz0sibPgz2OSk0Xic8BWd4C1tp9cBlDP5nNb1Bvr8QboIIcsvguPaoTsQ6A48jzYic8QYibsDyazibticyeadtGf9plbRZEostCYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>吾爱破解论坛原创作品这不是广告！！！心流鼠标手势自上线以来，迅速获得大量用户的认可，并荣获谷歌商店精选认证，随着@Coxxs 大佬的加入下，FlowMouse 在最新版本中不仅完成了绝大部分用户期待的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143524&amp;idx=1&amp;sn=1905d60bc33e23853aceed6b2f7a78ee&amp;chksm=bcd6fcec73290c08d0b0da22a01792e4c6992e88c87d2bd93795506222d72bbc565ad3aa935f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 14:57:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【权威发布】吾爱破解论坛2025年原创区、悬赏值TOP榜（下）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/LFPriaSjBUZJJrB8dHxeflFCYsL9XaFyEm52KwYL1nB3twcqtQLppPWNROcB70OSBozV7nyfpvxn99ibhJNzX8NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>精彩纷呈的2025已经落下帷幕，回顾这一年，吾爱破解论坛佳作频出，新秀崭露头角，老将宝刀不老，一篇篇技术文章鞭辟入里、深入浅出，络绎登场，令人目不暇接。独看2025年，论坛的拳头版块『原创发布区』 收</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143516&amp;idx=1&amp;sn=f8b2b5eb7ddd35b03c76e81079e12cfd&amp;chksm=bc6e44f281d962030a89f9f9ba90346028ba8a0b500aac24adfd70edeb4005d6551f6ecfa84c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 16:50:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

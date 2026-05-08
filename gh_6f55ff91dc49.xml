@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 6 个小众但实用的 GitHub 开源项目，有点意思啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0x6Xx8RjabG5RiciaVHUgY76TnKokbwsgegJ5cCgytPNGK7rwkeUGHDXUPnCU1KBt06Nmp1wIjWfZpia8wYNIy6xO9ZBnR4c86sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>01旧手机别扔，当麦克风用这个开源项目可以让 Android 手机变成电脑的无线麦克风。支持 Wi-Fi、USB 和蓝牙三种连接方式。Wi-Fi 最方便，手机和电脑在同一网络下就能用；USB 通过 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533533&amp;idx=1&amp;sn=82ee2499a6553977afe6de590a9b7942&amp;chksm=f853a9e9f8734073cfcf9d1967d31ea22bf3455865f8f18239c4766fc8325ca8ff375e23e993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 12:01:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这款 DeepSeek V4 终端编程神器，在 GitHub 上火了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1stDVza6EibnC9N8N2sdPO3a5t3dB7qzI3by5P7yoiaKQS3nBPRoPP1xicamrs1wds2I0FhEJXDbuE1GKuMxiaMMLKMvPm5VLEBbY/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V4 还是挺顶的。100 万 token 上下文、思维链推理、价格打到骨折，模型本身的实力没得说。你用网页版聊天，V4 的编程能力根本发挥不出来。你不能让它直接改文件、跑命令、Git</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533532&amp;idx=1&amp;sn=311891bc2e17d02f132090f4197eb1da&amp;chksm=f809bf5b325e488baea7eff84b4dab05475b1f37a7248b7a73f1abf525814220bde0a5e61fb4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1Cg99mxkjfl11GX7Xs6fSFiap3ut6Pncg8oMzbCobjEJKJSiaCu4EqWlddhEOyFlqm49101RHrYIf9yXKgXWic5khLXYWdy1UhWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 用 AI 给美国 342 个职业打了个分，看哪个职业受 AI 影响最大。然后这个项目太火，他就给删了。他从美国劳工统计局抓了 342 个职业的数据，然后用 Gemini Flash</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532307&amp;idx=1&amp;sn=677d709b52fc857c27c803483094f53a&amp;chksm=f8c477e1346c2e49dce2fa3e0cb78b9e6f0a60fb9d9777bab2654ab9f858cd1f5583c96a9a49&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 21 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近用的贼多的 3 个 Claude Code 开源宝藏，感觉太爽了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3r7nux0WMNaWNRX7zpXXxdTKD3CX7xDaaBOHf1PJdIDEVqnx0icu2HoGGc7UR8Wksxo6vH09tXicFtdYBpGaxopO7ZLW1fJWeN8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个窗口搞定终端、文件和浏览器用 Claude Code 的时候，本地总会沉淀下来一堆 Markdown 文件。我有个习惯，在让 AI 写项目或者去做一些复杂任务的时候，一般都会让它本地去写一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532290&amp;idx=1&amp;sn=7882ad93e1e37a5394911398677c630a&amp;chksm=f8dc3073b91ef257db8137f8ea60a82f039a8dcad6c8849f9cc400f5f3dcba7ade3dc370658c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 15:43:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

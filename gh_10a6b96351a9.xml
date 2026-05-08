@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从程序员，到架构师。 从技术主观，到CTO。 从在企业负责业务，到OPC。 ... 这些路，我走了20年。 最近，我有个感触很深，我越来越发现，这世上有些东西，是超越我们的岗位、我们的专业而存在的。这是一个人最底层的思维模式，就像武侠小说里的“内功心法”，无论我们练的是拳法、剑法、刀法还是枪法，深厚的内力都是让我们事倍功半的基础。 那这些底层的思维模式，究竟是什么？ 我在过去20年职业生涯里，磕磕碰碰、反复琢磨，才悟出一些边角： 1. 元认知，那种能跳出来审视自己的能力； 2. 我反复使用的解题框架“PEACE”； 3. 那个让我立刻行动的“最小化行动法”。 我曾经以为，这是我独有的、宝贵的“私房心得”。但当我走得越远，见的高手越多，我发现：这些自己视若珍宝的“内功”，竟然只是一流高手们呼吸般的日常。 这个发现，没有让我沮丧，反而让我无比兴奋。它意味着，成长真的有“捷径”。 这条捷径，就是去识别、学习和打磨这些底层的、可迁移的“元能力”。它们不会过时，不受行业限制，能武装我进入任何一个新领域。 我知道，无论世界怎么变，问题怎么新，我都有拆解它、攻克它的“心法”。 这，或许才是我应对这个不确定时代，最深刻的自由和底气。 一个笃信终生学习，终生成长的小伙伴（就是我啦），直播和大家分享自己最底层的思维模式，欢迎大伙面基。 直播主要包含四部分内容： 1. 思考工具：元认知（回顾，10-15min） 2. 解题工具：PEACE（重点，30-40min） 3. 行动工具：最小化行动法（预告，5-10min） 4. OPC产品广告（5-10min） 5. Q&amp;A（infinite） 明晚直播间，欢迎面基，不见不散！]]></title>
+      <description><![CDATA[<p>从程序员，到架构师。 从技术主观，到CTO。 从在企业负责业务，到OPC。 ... 这些路，我走了20年。 最近，我有个感触很深，我越来越发现，这世上有些东西，是超越我们的岗位、我们的专业而存在的。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981152&amp;idx=1&amp;sn=62c604666db4d5ce92cd98e22b918442&amp;chksm=bc1e98a9c5d78c97939135cef21ebe7091310829a2961dde2d15b0dd815cb6c5987b12edb1c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 12:19:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你是不是觉得，每天要啃的技术文档、会议记录、调研报告长得让人头皮发麻？很可能，你的龙虾缺了一个信息提炼引擎skill：summarize。 1. 是什么原理？ 简单来说，summarize不是什么复杂的算法模型，而是一个基于强大理解能力的蒸馏器，其执行步骤为： - 内容识别：不管是粘贴的文本、上传的文件，还是扔给她一个网页链接，她都能进行识别； - 结构解析：她不是机械地截取前几句或后几句。而是深度理解内容的逻辑结构，哪里是问题背景，哪里是论点论据，哪里是核心结论，哪里是关键逻辑； - 要点提取：同时，她会根据内容类型和我们的指令（如果有），自动判断什么才是“核心”，什么是“问题与解决方案”，什么是“架构决策与理由”，什么是“执行步骤与风险点”； - 浓缩输出：最后，她会用清晰、连贯的语言，将提取出的核心要点重新组织，生成一份高度浓缩的摘要。 2. 有什么优点？ 首先，summarize是纯提示词架构，无需外部API。 其次，summarize支持“多模态”输入，我们完全可以把油管链接丢个她，让她帮忙总结。 第三，summarize能实现摘要“可定制”，我们得到的不是千篇一律的总结。我们可以下达精确指令，例如：“请忽略背景，只总结其中提到的三个技术挑战和对应的解决方案，用不超过500字概括”。 我们想要什么，她就能给我们什么，开心不开心？ 3. 我的实践经验 最经典，且最基础的用法：总结并提炼长文。 我会把DeepSeekV4文档给她：这是DeepSeekV4设计思路，有点长，请帮我总结出架构创新，技术创新，以及它是如何实现百万超长上写文的。 更高级的技巧：summarize 和之前介绍的 Agent Browser 是“黄金搭档”，我们可以组合使用：看一下xxx知乎链接，阅读楼主的问题和所有回复，然后总结出大家公认的Top 3解决方案以及各自的优缺点，500个字以内。 一条指令，就能完成“信息获取+深度加工”的全流程。 OpenClaw必装skill，summarize，你装了吗？ 今晚有个直播活动，和大家一起聊聊：OpenClaw究竟能做哪些事情？我是如何用龙虾提效的？她对谁最利好？如何最快速学习龙虾？以及，究竟要学些什么？ 欢迎来玩！直播间不见不散！]]></title>
       <description><![CDATA[<p>你是不是觉得，每天要啃的技术文档、会议记录、调研报告长得让人头皮发麻？很可能，你的龙虾缺了一个信息提炼引擎skill：summarize。 1. 是什么原理？ 简单来说，summarize不是什么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981150&amp;idx=1&amp;sn=9bcb5c67bc8ab94aba2c5a4bee908ae3&amp;chksm=bc616fe6457772d476ad96c62fca58ebc1b1c49e9279592e8284e937b487cf69a9e6ffa9d5de&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcR90icz8X8mhKSUdflianyug7rrcjQ7Ds95uZR6rvYf2WXoxlgP9UAow5knFcYOBBibP0mm3RWicfDkibwVjQMeLCRbO9UnEibn8ft8/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980684&amp;idx=1&amp;sn=a0f2f400e5c8f9032eb65f68aa755700&amp;chksm=bccbd586a1165efc943687aaa18171da524f3c6b7f5f93c0fec2187918d700a38387f41b7e6d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Mar 2026 20:54:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我用OpenClaw，5分钟给OpenClaw提了一个issue，你猜怎么着？（第四讲）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcSRHHVGOib8Itmd87FE5OG8oqcXSRnCzcZfyOX41LwZ3RhGic2IYaKp7ytYgnUCNhkwwgiaicLicsZochIeicvPlApdavlZFqfQGrbc/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》3. 应用篇：提issue最近养龙虾有一些心得，准备持续分享出来，暂定100讲。昨天用OpenClaw的过程中，发现一个OpenClaw的bug，于是给OpenClaw提交</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980670&amp;idx=1&amp;sn=8be9f0a718a0a6dc34b0495667bbef14&amp;chksm=bc051ba654e217155426f4b24949a6be66e04b0057153ddb36e19e025aa97f070313389cc7ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 09:53:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[5 人 7 天干完 20 人数周的活：Spec-Driven Development 如何重新定义 AI 编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wW4iaH2hXWgcclzGicmRMqaw0NbCQ2KIXxBz0zfzZro51FNgMGBo6NaOqC16Kiblic5Kw1t1s6ldF0oWEgZjhexv6gdx3x7SZzSvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。"5 人 7 天" 震撼实验本文分享一个让人震撼的案例："5人、7天，用 Qoder 开发 QoderWork"——完成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559877&amp;idx=1&amp;sn=bc1f8fef9cb91d8e52aece383040d265&amp;chksm=e837dda62d98ee1d7d732d07edea57d8e1ab3f9aa29079cb66fe66b3cc8f6eba9f5d35dfef2c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 09 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 时代的生产力悖论：当协作本身成为最大的瓶颈]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xTAy1lNAwksiaZKZa41w4C9tGzkyhDbalF5iaJoU0hFrDeF0QKTibHgNdlOfTtdFgQnwUnHlia3QrcrYxWIAZH3TIF3ricquYWv47A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。19世纪末，美国的工厂纷纷将蒸汽动力替换为电力驱动，以为从此效率飞涨，结果却让人大跌眼镜——此后近三十年，生产力几乎毫无</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559869&amp;idx=1&amp;sn=090e317702f999b3b4b50f8582d2a453&amp;chksm=e8765e43aefb5aca15572b1ff85459a66d838b98b3a332ebbaf62aa9249dc3b1b4e96384accc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naL8w6rChibB6YgLMeWnrMHv4eQ2NdgmeW4llicnsQ2Hxxe5rBwBInvicBSDyiaic401Ac6qt0XMmYsytXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558457&amp;idx=1&amp;sn=088df2d9371481bb54961b09688c6796&amp;chksm=e8aff9c3d1611e909762af66eda67c28567154304b3d895f5db2b538cfa9fdce86d6ad320aa0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent系列｜深入了解智能体工作流核心：Agent vs 传统编程 vs Workflow 的本质区别]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naJ5iaVvfJqicERScicd5gI675yArCQwEAgWJAMiblibwwKTyJ3lNUVfG53HwNwZ5KMKXI8qJxiasgpTxI6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本系列文章基于 Lynxe 作者沈询的实战经验，深入浅出解析 ReAct Agent 的核心原理与工程价值，帮助开发者快速掌握从“写流程”到“造智能体”的关键跃迁。关于这个系列作为 Lynx</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558448&amp;idx=1&amp;sn=c8e6b35103ed82f7e4689c8b5f910c68&amp;chksm=e8fd979ce5423b6ca0f4b7e3a550c8a6af01c15fb078fefd1008e07ecc22e301811bae5d0440&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
