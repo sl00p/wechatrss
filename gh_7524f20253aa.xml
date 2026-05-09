@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[针对Linux的隐形杀手：QLNX无文件化RAT，七种持久化机制直击企业服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0HH6byZZa0gRc7QdL9UWqEEc9aEIDojnPSCHItpqFbTHABlcia7n7naILia1JCt4HtTZlrZEX2cEMtHgJoCQicGicPZWH1FcHWpNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现一种名为Quasar Linux RAT（QLNX）的新型Linux恶意软件，主要针对开发者与DevOps环境。该恶意代码能窃取凭证、记录键盘输入、操控文件、监控剪贴板活动，并创建用于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=1&amp;sn=61eebcacb6d048ae248e5e10b7a4b8fe&amp;chksm=bc396b5f6b587e6c91538f06831b0e349cfb89699d25a0a3f8743792f31395315dcd6b9d36be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 10 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ollama漏洞暴露AI框架无限制访问风险：30万台服务器面临敏感数据泄露威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ECNPFQTddWP9PItNCPxbSTzDicMwRBzUibcKcYqNEHficrFBQJCLQmq4tuuEUqV2zicNXuQT68jzib6pPYwRfuFEic6yUuUrwp3iaTo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，Ollama框架中存在一个被追踪为（CVE-2026-7482）的关键漏洞，可能导致超过30万台暴露在互联网上的服务器面临敏感信息泄露风险。该漏洞由Cyera研究团队发现并命名为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=2&amp;sn=4769bcb85d9f885ee1a0f5adaf8c13cc&amp;chksm=bc9d66da90b66af16c5107adadc9b042463b63a6475301794e53b6121884fa43b40e13102a1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 10 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：OpenAI重金悬赏GPT-5.5生物漏洞；黑客利用Telegram做“战报系统”；身份认证进入Agent时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=3&amp;sn=724bbb4ba501379b21c5843770aab2e4&amp;chksm=bcb74cd60150f3762c51f5788ab464cbc6608e6f1dd80ab56604ad2a411097f46f0108c0ca08&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 10 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI推出专攻网络安全研究的GPT-5.5-Cyber模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0RDcxn3lLKDic1qb7hh3JDNC7VHkfzM3Sry58fPQSIZW06FV7DC4QbbjyKfD9Q0zwUUomqeyD3VONia1mXXuLZcmjibdAVGkqOZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI开发了一款专门针对网络安全研究优化的GPT-5.5版本。这款名为GPT-5.5-Cyber的模型于本周四首次亮相，目前通过“网络安全可信访问计划”（TAC）提供有限预览。该计划于今年二月启</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=1&amp;sn=15ead6db4f391428bf57531011e9e893&amp;chksm=bc2560dce34f108d719860fc7523e412a9ee28f5bb399b303138205270cfe61cdcc7faa1252b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tKdow2ITzU4bg2DA4YRwiaLF3oLf0SoiaySqdYWeEhDevRNL2lF8pxINYibk9dd1wGeDT7uN8UUzQD1FlqmDxI3IEqxkgatUgRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正滥用一款被植入木马的安卓支付应用HandyPay，窃取近场通信（NFC）数据和个人识别码（PIN），进而克隆支付卡并清空受害者账户。ESET研究人员发现，NGate恶意软件的新变种已植入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=4&amp;sn=0991e3ff45859b1ec81df1f2791e51ee&amp;chksm=bc68dbe0e4db7b1bc81394377a327d3cdb517b5d3f067e2ff65c06a7d54cc733d80e39fa8e48&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NOuxqTb6D1Ra6zDJeRIZ5blZ39PLc9eLoP2gPEL3xt5uQZXK4TyQBbYAX2PCNerDc0kWfE3ORjQZWeLlfWunjnqjWuz5uGFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击行动曝光一台意外暴露在公网的服务器，揭开了近期一场大规模自动化攻击的真面目。在这场围绕名为「Bissa scanner」工具展开的攻击行动中，威胁攻击者利用自动化扫描、AI辅助编码与T</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=1&amp;sn=e244959c54a24bae71c681ad07ba3edd&amp;chksm=bcddd5cefc26b3643e3ab1167be3bcaf632e8a540244d95ce8828deba9ff5faffb9282965447&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[间接提示注入攻击正悄然蔓延至真实网络环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX11DdZEobuKBj0PPJiaK3nNo2mDAUWUc0ce2Biaia4BryVEw6ydwrM6HFt7pjarviak3xW4y3zLM6bgnj74y42iaYKrWg3iatrxCrA00/640?wxtype=jpeg&amp;wxfrom=0"/><p>开放网络正在被一种针对大语言模型（LLM）驱动的AI Agent所设计的“陷阱”悄悄渗透。这种被称为间接提示注入（Indirect Prompt Injection，IPI） 的技术，通过在普通网页中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=2&amp;sn=80a8471d08d35ed20d1ea09b4120eaf8&amp;chksm=bc23b3ff952d6e3b23e73a51957920e337fe50839ba98b9ae8d6fa590f721b97e2a0725507ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：OpenClaw曝重大漏洞；2026高危漏洞TOP10盘点；黑客算改安卓NFC应用窃取支付数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337355&amp;idx=3&amp;sn=52faacfd6a12dd9640b43c12f2fb815a&amp;chksm=bc81486085f38fa9f950dcc17a98f214823b64750794d081e11ea5070f1d2f512cdef16c89c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

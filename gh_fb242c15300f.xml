@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[谈谈我对VMProtect代码保护”通解”的一点看法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwcx4tEdv4nH8zCIMOIYFibIy4MhasFf1akNp7PSE56dksiasx3j7JL2eVRJ3qz2Lbt8vOVPf9J5xt5UOWgeeya6heBwupyWguPkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：lifeengines偶然一阵醒意袭来，偶然进到论坛看到有两篇关于VMProtect的技术文章让我想起了多年以前我也曾花了一段时间研究过VMProtect还写了不少相关的代码，于是惊坐起</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144335&amp;idx=1&amp;sn=da3d7245aa70c203711ef1025677b2a0&amp;chksm=bc8728e9334cc291837fd4d9b2069b897e906f852283ea14d4cf185bd158298f8e36728b61ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 10 May 2026 08:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一次银狐样本分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwcX3GlJ2Cze9uDnxpicZ08bkqRianp3Fx5fJIfEPGnYYaaTkHMfwibvuVJ5kb3ic2tOZv6QZzzlhmWSP0PlUr3P9IelfHJ05D7l4lc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：soma200x00 前言最近突然心血来潮，想找个样本来分析一下，顺便学习了解一下免杀以及恶意样本的手法，在网上冲浪的时候找到了一个银狐样本，于是拿来分析一下样本地址：WindowsEv</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144327&amp;idx=1&amp;sn=4871e7042c007272603dcc984f360a27&amp;chksm=bcfdd7aaaf7d71fbaacaf4da3c9497cbe8482a27fcf001a6e5016e85aa50489b6c501ee324e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwftygdzR77oJBk1ZEqQmOujCRLNibFdSZkloJFBqANf7hykLyBibriaOI1qyzPvyPyqDFW9ojiam105RzNAauIQpmmhs3MdIFfrF0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>致不凡的平凡人：感动吾爱2025优秀会员名单公布过去一年，吾爱破解论坛始终活跃着一批热爱技术、乐于分享的伙伴。大家潜心钻研，产出了一大批高质量的原创教程、漏洞分析、逆向研究以及竞赛题解。这些内容不断沉</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143533&amp;idx=1&amp;sn=f76a1315da56bd335d802070eab5352c&amp;chksm=bcf7f58f2f3c2cb6c4911903d4200d04eddefb36787776d20a478181bee348acbdb01aada3b8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 10:54:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[心流鼠标手势 FlowMouse v1.2强势来袭！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwd9Rz0sibPgz2OSk0Xic8BWd4C1tp9cBlDP5nNb1Bvr8QboIIcsvguPaoTsQ6A48jzYic8QYibsDyazibticyeadtGf9plbRZEostCYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>吾爱破解论坛原创作品这不是广告！！！心流鼠标手势自上线以来，迅速获得大量用户的认可，并荣获谷歌商店精选认证，随着@Coxxs 大佬的加入下，FlowMouse 在最新版本中不仅完成了绝大部分用户期待的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143524&amp;idx=1&amp;sn=1905d60bc33e23853aceed6b2f7a78ee&amp;chksm=bcd6fcec73290c08d0b0da22a01792e4c6992e88c87d2bd93795506222d72bbc565ad3aa935f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 14:57:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
