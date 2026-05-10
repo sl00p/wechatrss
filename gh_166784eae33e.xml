@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hugging Face惊现供应链投毒：仿冒OpenAI仓库窃取开发者敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Rp8WFv2sIHZZg2qDcUxArG6OyTlXK9SKWUzTZvopBznwEoWldARo9SITFx1NzALrudk3LDSnMNggqjM7UdZgWKSeXRBHMXhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年5月7日，安全研究机构 HiddenLayer 披露了一起针对 AI 开发社区的供应链投毒攻击事件。攻击者在 Hugging Face 平台创建恶意仓库 Open-OSS/priva</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518656&amp;idx=1&amp;sn=86b04c00b27101115ddbf8aa955ba6b5&amp;chksm=ebeb9665471f2b739cf86c461d69951741f84a5a0f973f92ba555aa6d0d470e7bdd9979ed87a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 10:36:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI软件仿冒攻击再现，DeepSeek TUI成伪装诱饵]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibGP9VflbpCQlNDosCfuAbibic3RiclhX6G1iay2Uj1jeMCA3NXoAlAZDYFLDnWiaPF9MmslibB68hYOPfMT3OQaPYtVMIGHpWmALxdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述开源项目DeepSeek TUI是一个为DeepSeek大模型创造的在终端中运行的编码智能体，近期随着DeepSeek v4的发布和开发者Hunter Bown的中文扩散帖，让该项目吸引到大量关注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518651&amp;idx=1&amp;sn=08ac9790bae6de954481639889be019b&amp;chksm=ebf9c2f83a982788ea121b68dc03cdf9198ff3383ce24513c1b350ed546bb0b21a12b64f4488&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicicy3oTa9OaibMN0akf7a5vRicEfUJ8oVia889KHMQyDbcDOztKxSAUAAsycSFMOEVrx5Y8AK0LeXtzsQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信威胁情报中心红雨滴团队在运营私有情报生产流程过程中发现一款此前从未被披露过的特种木马，正在中文地区大规模传播，我们将其命名为“SetcodeRat”。该木马内置针对Telegram的定</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516773&amp;idx=1&amp;sn=a4d99b46312e0ae944d5f8e550e89a4d&amp;chksm=eb69bb4a0a0d69cc9564d98204506d7579d78c0a7fad87616bea27fdb0d49b5a13fc9c1e57c2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 11:21:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.11.14~11.20)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicibnvX0erAj3BoWpos60FRSnPuPTf1Y94xB114Ka2FLSvsfhVeiaYo6UoAUa4XXicOoibXXqdAiaY260tw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.14~11.20攻击团伙情报UNC1549 针对航空航天和国防生态系统发起攻击Dragon Breath 使用 RONINGLOADER 部署新的 gh0st RAT 变种APT42组</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516700&amp;idx=1&amp;sn=e4e97fa247350ee2a4c4872173c13a75&amp;chksm=eb5ad6019577342098ff6104218a65da04f21274939d467d196e16dd396124ab75212b2c6092&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

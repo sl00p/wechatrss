@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Copy Fail 深度研究：Linux 页缓存漏洞的根因、利用与检测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Rtsa2hEuTOFm6SuhHor7Xpzk2krg5Fxau0B77licWcCzC8DEicQg4InficA25yHgDibKmUP3tQOL1aXhKib2QjJzPgzGX8VDTB6F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 Crypto 子系统的一个优化 commit，到 9 年后的任意文件页缓存覆写一、引言2026 年 4 月底，安全研究员Taeyang Lee公开披露了一个编号为CVE-2026-31431的 L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=1&amp;sn=fe3114822b287b4d43b6eb503c2682ca&amp;chksm=b04c81b3df6df9e162a62914eecdd0cd9b9e0f22faefb7178626e527f0d74379618992acfae0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ollama惊曝高危漏洞：远程即可窃取全部进程内存，Windows版后门风险更高]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0aCgXuhNyXGWhJukQv276oYnGLaywbbBzSiasiaXnN2dqLGQCR1tJuCs8fibZTucJQrsgTG4RP0w9QsOwaj0RYOz9zcpJYTZWaJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名本地大模型运行框架 Ollama 近日被披露一个严重安全漏洞，攻击者只需上传一个精心构造的模型文件，就能远程读取服务器进程内存中的敏感信息，包括环境变量、API 密钥以及同一进程内其他用户的对话数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=2&amp;sn=de29a1fa63bf7c372893b84f4aae2906&amp;chksm=b08f2ff6a1ca286339ed1e004191f27586fc1e0a6f833288a1a1a70ebe28dec5b1920be24cf2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你的大模型应用，真的安全上线了吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=3&amp;sn=73a6c0476434988ac8b288a8d04e1554&amp;chksm=b015131478b48a7e5a56f4286486450820a066b46c7e5699f0181ed78840233d2d81630dbbca&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 绕过 ios 越狱检测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2XA6ATyo4Tz9TMpGN7YxCE3eeXict233drM2Ea3EpFc8KnCScRZ25NLIwY7LvXTV8ebibJuvXYk5ZwsDmGo7L5o06oAt25461us/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：让com.fanduel.sportsbook在 palera1n rootless 越狱 (iOS 16 / arm64) 的 iPhone 上能通过 Frida spawn/attach 且</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614768&amp;idx=1&amp;sn=20de81c1868c6e23fb49ed760d4470de&amp;chksm=b03b4fa3de6de77ab82881b431642c8bf4ea2fb997ccf406aee5138cdf61e234fabc379d782f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614003&amp;idx=3&amp;sn=993f2e1aa2b4afeb84cd42554f34bc88&amp;chksm=b0685b2e643435ac79908df19c61efe8a909f9070dd0e24869cb297c505184a23ba5c4dce0e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前沿观察 赛事纪实：从腾讯云黑客松，洞见智能体时代的攻防新格局]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2223yqEia8QCHichnBfJ1AXoicOfQvJ4fwAfxcNVRTj0nfUSa33tstpO0NHsbMGUtGCRqMS8n2icfhXaXbcVOKH5Aic5KRbkkP9dibI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 破界，攻防无拘。初赛收官，锋芒尽显。*文末留言赠书2026年4月17日，第二届腾讯云黑客松智能渗透挑战赛初赛圆满落幕。610支战队、1345名安全极客与AI研究者集结出征，历经5天激烈角逐，累计</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613891&amp;idx=1&amp;sn=fc5294877d8a53d858a79d2dbb0b9432&amp;chksm=b02acbe53e37b62b25e539654aa96f82904307da3542e509596a511c73d5ab2da67492e879f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅谈梯度分析与权重编辑：以Qwen-3为例]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2UGgUhlafG3RB0WWDE08yxXtDCNEQTmibfDh3exs0icc5yWEn7qwXAZQN3M8DmEdWV3sFOpv4yiaiaCwaGoJPrdsN8iaCCZfHGFSCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在2024年，便有学者(https://arxiv.org/abs/2406.11717)发现LLMs的拒绝回答往往由单一梯度方向介导。作为一篇社区博客，本文将谈论如何让Qwen3-4B-Instr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613891&amp;idx=2&amp;sn=4ce949078304bc923d5f4419be902ab2&amp;chksm=b00617410a42a55841e6e13969649bb09b8b45357285bd1e11db7294bd5894b618d91ca8ca9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vercel 确认遭第三方 OAuth 劫持入侵，内部访问令牌与部分环境变量暴露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3nlLHQ5iaWC4vW5E8csxc5uo7771NnqIZykbGaQmuWibbib7BYN5hgUB96URpcse2kiaJ5hviaYmcTXA36Hlp4hPhUkSnoER0jyqc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>云开发平台 Vercel 于2026年4月19日披露一起安全事件，攻击者利用第三方 AI 服务 Context.ai 的 Google Workspace OAuth 应用漏洞，成功劫持一名 Verc</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458613891&amp;idx=3&amp;sn=4f85df835c3f694eadf42864731ae502&amp;chksm=b041c6ff9d275cae2a1b6b0eb9d0c32d29deea28727fb18c067f4fb09bbc3e6bf411bba50240&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 2.4 万 Star！输入一个用户名，就能查遍 3000+ 网站。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0WUhsfoehe9pS8zfUkzCvDxiasOsmsCL9zK6bk3utBA6Fo9TKjBZhKy5YbAtYpJatNlI456r4Sallz6fdXTtMsvIKJaL26xbqE/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有没有想过，自己在网上到底注册过多少账号？大多数人就那几个用户名换来换去，用久了你会发现，各个平台都能找到你的影子。如果有人拿你的常用用户名去系统性地搜一圈，你的数字画像可能比你想象的要完整得多。。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533562&amp;idx=1&amp;sn=b1b939773a8a7b7b75c97ddd7d3c4b42&amp;chksm=f851264eef0c67c06e601f5cc5fccec5f868fce613e6b0c99749fc95accb85a011e3327fb848&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 14:25:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 7 个本周火火火的 GitHub 项目，尤其是第一个。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU20EKIACfG9iac7YibpX8ugxliaddOJbUdQsa4UBhF6rb7Q6Nic4vxr8QBwMeyeJGjeXuNtU6Mb84ldCBOQiaXrmqkO2DBWEFFTnlUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01开免费白嫖 AI Coding 的路由用 Claude Code、Cursor、Copilot 这些工具写代码，最心疼的就是 API 额度。用着用着就提示限额了，要么掏钱，要么干等着。9route</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533561&amp;idx=1&amp;sn=d904e88426e300ddd2055e0d9b66da07&amp;chksm=f8cdeb9a988e090ccd7b1f1aa1af9fa72c0396039fb7edbbdb1f192b31c2765cf04a041e5099&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ia5qUvCEujNnn87zicYIiaE96b6os6c1JPziaAW95ibT62XmdZU4mEib3ls0ug2AhYn8S2iblGzQ9bcjFU5Mh2ZqysB4x4GRh0We3qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 GitHub，发现了清华、人大、面壁智能等一起开源了一个项目，叫 EdgeClaw。让你在本地部署「小龙虾」，数据完全不出门。市面上主流的小龙虾 OpenClaw，本身是部署在你本地电脑上的，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532399&amp;idx=1&amp;sn=3938b43db8698af9daf95ae22c20eb13&amp;chksm=f81880be8e2025846b53d752116ca6c3b66e0cec9eb5bef4501cf6184d1dae8004db4a206668&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 10:41:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 0 到 1 微信接入 OpenClaw 小龙虾，图文教程来了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ONBA06PpC8yHe3VuI4eM2ejKLj8GZziaI7yrCKq4LNRBJohoOBukZia6HetpHkiaTrk6fiaRhib7Tfia6Rk0ZdicqQtp98zVBXRlB9U/640?wxtype=jpeg&amp;wxfrom=0"/><p>微信推出了一个 ClawBot 的插件，可以把你电脑上安装的小龙虾接入到微信里面。其实这个插件只是一个渠道。你使用的过程中不会帮你创建部署一个小龙虾的实例，就仅仅是把你的小龙虾 OpenClaw 接入</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532383&amp;idx=1&amp;sn=fa95a6a8fbff7454c819f3eae40a9d5f&amp;chksm=f832b07bfc5dde9163a777ec423b401ed1949e6398a82f225068ad5bf1f9edddae953215e5a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 15:33:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

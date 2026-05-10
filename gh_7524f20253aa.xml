@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI中转站的黑与白]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0b0WtYLckPZ3wcfJY9HuuibibQbrlAd3OjVcfibjicmsByW7KdeOE14moB5bT0qty5OS9zWtfqSQUlFWxsCRbmwjgeUraDDic7RFRc/640?wxtype=jpeg&amp;wxfrom=0"/><p>海外大模型厂商对中国大陆IP的封锁，叠加信用卡绑定的支付壁垒，催生了一条特殊的灰色产业链——AI中转站。它们套上海外服务器的马甲，用人民币结算替代外币支付，把受限的顶尖算力打包成“代购”服务，悄然渗透</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337890&amp;idx=1&amp;sn=a54368de3a894072a01286d31ee89fae&amp;chksm=bc96293c527387181884b649ff4d07022a511f82eae21f45380f70daf10b13268b2e5deb6c95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 19:47:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[JDownloader 下载器遭入侵，用户被植入新型 Python 远控木马]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2bTY736ErP0fqVFtjET8UXFoVoClvz7J3kjqUjibRVWvgJXbZniaOKCnSnU5FR28SlYl26Ydms7gFspr7JBjvYTT7YHdVuKN90g/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月初，全球数百万用户信赖的知名开源下载管理器 JDownloader 遭遇严重供应链攻击。攻击者暗中入侵了官方网站 jdownloader.org，将正版安装程序下载链接替换为携带全功能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337890&amp;idx=2&amp;sn=1ff1ffad549e3609da29bd6a0000fed1&amp;chksm=bccf685fb80f76c8e9342c092389ddadd7648a013d2a96aca9e718f0e2f8dedb79ac64716355&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 19:47:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[cPanel高危漏洞可致文件泄露与远程代码执行，数千服务器面临风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ibHg6MoxsmyWuzkVeiax5xTpd3RINsI6GEX3WPKlwQYP53XOx1ib0q8niaC7snEoT3Wib2TciaAm5ibcbgC4BaZJpYyDy92f7jP9ccM/640?wxtype=jpeg&amp;wxfrom=0"/><p>cPanel已发布安全更新，修复了cPanel &amp; WHM系统中三个可能允许攻击者读取文件、执行代码或提升权限的漏洞。Part01漏洞详情CVE-2026-29201（CVSS评分4.3）：featu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337890&amp;idx=3&amp;sn=7065bb1c5a83b86444783db3c9e7b9d3&amp;chksm=bc0867c84768eb0df3b3d29fedc284f2e3b16b0a007aa7e3d9f0d61f7e07e1c63401cefaed0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 19:47:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Next.js高危漏洞可致SSRF攻击、DoS瘫痪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WH07F0IWFH7icEkWrsnCTrUL1XqtVAMkHEVicaj3ypcnb45oJJACQFLywuQBr5HsOKIP9zicnDzhrNPRg3F28c4d6gLHyQVpUmo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vercel 发布了针对 Next.js 的一系列安全公告，修复了十余个漏洞，包括拒绝服务、中间件绕过、服务端请求伪造（SSRF）和跨站脚本（XSS）等安全问题。这些漏洞影响使用 App Router</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337890&amp;idx=4&amp;sn=533dadefa23c54d3728ec9d4949dac55&amp;chksm=bc158a2413f0c5c541b5caec1b55b73ba8ac4edc7f85731b9aaecfe38f2c279d93b1c29c46ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 19:47:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[针对Linux的隐形杀手：QLNX无文件化RAT，七种持久化机制直击企业服务器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0HH6byZZa0gRc7QdL9UWqEEc9aEIDojnPSCHItpqFbTHABlcia7n7naILia1JCt4HtTZlrZEX2cEMtHgJoCQicGicPZWH1FcHWpNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现一种名为Quasar Linux RAT（QLNX）的新型Linux恶意软件，主要针对开发者与DevOps环境。该恶意代码能窃取凭证、记录键盘输入、操控文件、监控剪贴板活动，并创建用于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=1&amp;sn=61eebcacb6d048ae248e5e10b7a4b8fe&amp;chksm=bc396b5f6b587e6c91538f06831b0e349cfb89699d25a0a3f8743792f31395315dcd6b9d36be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0nLS21fUqWqPFIpbHrORcy5EibnPJWyicicV2wZ3zh1ffHXSiauiclnlStV4JcUhib5ibMOU2W6ZukF6rjWtlVeGvI6kEo6bKYOOYUek/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜政府支持的黑客组织Kimsuky近期针对处方药制药企业发起定向攻击，使用名为"White Life Science ERP Specification"的精心伪装恶意文件。攻击者通过伪造Excel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337412&amp;idx=4&amp;sn=c17b16db4b016e5577a207c7276d15da&amp;chksm=bcb7f8abd80bb6f85609cddea28c65595a13e8a5204866b44276cbf8088547d555b32f56a7d6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI重金悬赏GPT-5.5生物漏洞，严防AI被滥用于危险科研]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RCl2CNEgexo1xeVVibbOfLaM0mmBZ56cliaJSomdWWdoONCcyZNLsryVokBjFVj0YYXChcUViaQf1eJv6NEsuwGcTqvGuTrsnOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI宣布针对GPT-5.5推出新的生物漏洞赏金计划，旨在加强高级AI系统的安全控制并防范生物学领域的滥用风险。该计划邀请合格研究人员测试GPT-5.5是否可能通过通用越狱方式绕过生物安全防护。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=1&amp;sn=cf1b5199a23acc09e58a6ec965aa3f9b&amp;chksm=bc118b02d3b2e831e6d9c8e6f963a1380462905165d5ab9502784fe1b31dadf80ccd382a0458&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软引入Anthropic的Mythos模型强化安全软件开发]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1C50icDZW07P6tceYQUsicdVA4PoRoMDjyVaRwleU6NQ908qqDZvlJnrUP6aOicR4U2lgP30h9HQNIS00CyJ1hXWbNMKkR6ta47g/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软计划将Anthropic的Mythos AI模型整合至其安全开发生命周期（SDL），此举意味着先进生成式AI开始直接参与大型软件厂商识别漏洞和强化代码防御的流程。该公司表示，将采用Mythos P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=2&amp;sn=c454ce5c325f3feeaa990f5a1d3bbfa8&amp;chksm=bc8b7e1e61d063b3525a045a171799e29a1c0731639b889b4f92bd506f800c303e452b90cfc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[12年Linux漏洞Pack2TheRoot曝光，本地用户可提权至root]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3B0FvJf4q77P8N0DGYnEePJEeqMv7lwwFlwqKwbPG39WwQ5uaqzSUbmnElOXSo7euibGwPic0zvOhFxXScOwVYxWwrYfQb5hTak/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述编号为CVE-2026-41651（CVSS评分8.8）的Pack2TheRoot漏洞允许非特权用户未经授权安装或删除系统软件包，从而可能获得完整的root访问权限。该高危漏洞已存</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=3&amp;sn=401a3497cbb8a535207ab9404f7596c4&amp;chksm=bcc75d6df3c26ca858a623341f5e41bcb240420cccad750e730d983f1cd806edc78e049c0e60&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客篡改安卓NFC应用窃取支付数据，克隆卡片盗刷账户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tKdow2ITzU4bg2DA4YRwiaLF3oLf0SoiaySqdYWeEhDevRNL2lF8pxINYibk9dd1wGeDT7uN8UUzQD1FlqmDxI3IEqxkgatUgRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正滥用一款被植入木马的安卓支付应用HandyPay，窃取近场通信（NFC）数据和个人识别码（PIN），进而克隆支付卡并清空受害者账户。ESET研究人员发现，NGate恶意软件的新变种已植入</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337379&amp;idx=4&amp;sn=0991e3ff45859b1ec81df1f2791e51ee&amp;chksm=bc68dbe0e4db7b1bc81394377a327d3cdb517b5d3f067e2ff65c06a7d54cc733d80e39fa8e48&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

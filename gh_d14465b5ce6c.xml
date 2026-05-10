@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907qYXA7DSJAF0P66wZBibP539hjJ3uEnmoAlrBYhD3UERy4fQUtfHGogibHicuupibSz5Ru01RQToJQ83vTupRicbHKBmCee5cfV4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenpxiao当 Harness Engineering 成为 2026 年最热门的 AI 工程话题，业界争论焦点集中在"该用多大的模型"还是"该搭多复杂的工作流"时，我们团队在落地实践</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801507&amp;idx=1&amp;sn=c4ac5ce38024ade94b8bfa1fdc0062ad&amp;chksm=bfd0339d6a31f30682b69c4e962990941769006650ff624338a8737fd6303781266b780deb43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 11 May 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工觉得好的code模型应该具备什么能力？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906m5SJwWtOgkibVNax7jGia0uh530ZQ4sHFczRntRzgicffrI9r8uJ4oVuFzPAAIoEeQpqXt8OGx35ia3UGUlRUpZZvNd3pdQqMBd0/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景假如让你给代码模型提需求，你会说什么？鹅厂程序员，在日常开发和工作提效中，越来越多的同学开始借助代码模型来辅助工作。我们邀请了9名鹅厂同事来聊聊：👉 一个好的code模型应该具备什么能力？下面</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801505&amp;idx=1&amp;sn=ff1a96f9cd216cbafdafa8d4df45130b&amp;chksm=bfbd09837f09fb3fe0eb8217c20ebe91ffc72aad2b15096b766956760ccdc4738783e76353d2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvav6wfXh1kfXq9vTvXILia18ce7uHuLibq47UKXMde3wJTN54fJynlZ1ztzAEZyL2FTBnlPtuHo1Fweg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，大模型正从能力竞赛走向工程落地，推理阶段的成本、时延与稳定性逐渐成为制约规模化应用的核心因素。在长上下文、高并发与多模态场景下，解码过程受限于算力与显存带宽，单纯依赖模型压缩或硬件堆叠的优化路</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798429&amp;idx=1&amp;sn=da961ed5b12ae12e685ce2fee7767ae8&amp;chksm=bff987a6426acf9b097a6f39bb480a792e3913af15bef9a959f7ec0496a5fc9eadde0c0c3306&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Jan 2026 16:55:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavevkItlahhJWjePLECp6S0R4mqibXRPOXhjOKm1OpNibiagib9OfndFIsjS1M00OXwDdwStCrzoHDbJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：rickyshou2025 年 AI 编程工具遍地开花，但一个尴尬的现实是：工具越来越强，预期越来越高，落地却越来越难——speckit 的规范流程在企业需求的"千层套路"、海量代码面前显得理想</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798388&amp;idx=1&amp;sn=e0312f3b4b60675a40411281e86c4469&amp;chksm=bfa053934524a6ad2e78d01603ba5806af80529a6323f5dac0bb34baa15ee831512dd31d82aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Jan 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
