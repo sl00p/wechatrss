@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 10 个刚刚开源，但 Star 攀升很快的 GitHub 项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2NQliadLPUQq4rlxv2Vnsjz8ibJqhnN4UushNw8oIz072hMlShXU0c7z1RklLs4TiaGKzMrxyntxv1Vu5xPficnURqv7Hr2caURP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让你的 Mac 本地跑 DeepSeek V4antirez 是 Redis 的创造者，开源界的传奇人物。最近他又搞了个新项目 ds4，上线 4 天就拿了 7000 多 Star。ds4 是一个专</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533594&amp;idx=1&amp;sn=4116733fa584c8c3b10f5308499d4023&amp;chksm=f86748b82c2a41b07efdeb35c977800016f6d5e432640ffa1c694b9d2c3a3f2a7ccd855d057d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 12:48:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 2.4 万 Star！输入一个用户名，就能查遍 3000+ 网站。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0WUhsfoehe9pS8zfUkzCvDxiasOsmsCL9zK6bk3utBA6Fo9TKjBZhKy5YbAtYpJatNlI456r4Sallz6fdXTtMsvIKJaL26xbqE/640?wxtype=jpeg&amp;wxfrom=0"/><p>你有没有想过，自己在网上到底注册过多少账号？大多数人就那几个用户名换来换去，用久了你会发现，各个平台都能找到你的影子。如果有人拿你的常用用户名去系统性地搜一圈，你的数字画像可能比你想象的要完整得多。。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533562&amp;idx=1&amp;sn=b1b939773a8a7b7b75c97ddd7d3c4b42&amp;chksm=f851264eef0c67c06e601f5cc5fccec5f868fce613e6b0c99749fc95accb85a011e3327fb848&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3q6a8bmjELGGpASKwbl8viaYd0bb6ibKicYPibZzBu77CAkaLghOhN1UNLBe2qDyibL5wI7wcfFaGPBNfr7V5nc2zY5TfI10uBCORA/640?wxtype=jpeg&amp;wxfrom=0"/><p>3 万 Star。在国内企业级开源项目里，一只手数得过来。今天推荐的开源项目叫 JumpServer。这是一个开源的堡垒机，也是一个特权访问管理平台（PAM）。通过浏览器给运维和开发团队提供安全的 S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532410&amp;idx=1&amp;sn=61dbed899ddea37d3b1bec24fcca4c1e&amp;chksm=f80817587e590ab3917ddf2c102d66637ac804708a635aea9b921f15d0e16fc4f183dec60763&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 15:12:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[断网也能跑的小龙虾，EdgeClaw 在 GitHub 上开源了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ia5qUvCEujNnn87zicYIiaE96b6os6c1JPziaAW95ibT62XmdZU4mEib3ls0ug2AhYn8S2iblGzQ9bcjFU5Mh2ZqysB4x4GRh0We3qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 GitHub，发现了清华、人大、面壁智能等一起开源了一个项目，叫 EdgeClaw。让你在本地部署「小龙虾」，数据完全不出门。市面上主流的小龙虾 OpenClaw，本身是部署在你本地电脑上的，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532399&amp;idx=1&amp;sn=3938b43db8698af9daf95ae22c20eb13&amp;chksm=f81880be8e2025846b53d752116ca6c3b66e0cec9eb5bef4501cf6184d1dae8004db4a206668&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 10:41:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

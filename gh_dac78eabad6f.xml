@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[拆完Hermes源码，我发现Agent的"自我进化"根本不需要训练模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4oiamTCsUdTXg2c4FnJ8iavCFwdpG1cvZ9O3ZaTSTbib26PPR89vW0jTicQRRcEH7sJxc67RgkBeAI7g6PMWJDDgTicQoHdgukLWo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。两个月 5.2 万 Star，Hermes Agent 用一个"LLM 审判官"机制实现了 Agent 的自我进化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695500&amp;idx=1&amp;sn=57de8c7c4889ace8c6c1e15ab460447a&amp;chksm=eb8a364d05e8ca74e355aba5dc6cdbdac29058da01848657b0fe3ff2a3070c7d81bd15ef82cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Infra 其实没有多少新东西]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6Yf22xjhCibSicrBjM0MKXVrQ2nX0fJelw8DXeWBP4kprjEEazMAWxcMCbd4cEtaqsOk3SnYofeTpPAuTS0LAC3iaz0ZRslrYyKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇随着大模型技术的爆发，AI Infra 已成为基础设施领域的核心战场。过去1年多的时间，我们团队落地了多个大模型应用，包括语音合成大模型、内容理解多模态大模型、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695494&amp;idx=1&amp;sn=85ccbd62f18105968a195314e86ece43&amp;chksm=eb5e51949ff4eb5be2a4e36bfef4cdcde0487356e5c9ace239a32ea762483572f14f0e1d6916&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[用Go重构C++老系统，一次降本82%的极致之旅]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe9579g8JGNNUMjiaG36BicUxhjpzLTJNR4vRjOicfwVPd8dibVLLAHibMkkrkG2pIrsqhR0f7FNoQjqUibibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景：当“大力”不再“出奇迹”该服务是 QQ 游戏生态中的核心基础设施之一，具有极高的并发写特性，直接关系到用户成就的实时展示与游戏权益的即时到账。重构前规</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=1&amp;sn=9e955e9aec449ec3245339142575cd1e&amp;chksm=eb24e81d394812c48f6e4070478fcfb5f9e0064ab656fdb98f0f26228a6e3d3ab8539bd1b73d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[言出法随 -- Chaterm如何通过ASR精准操作K8S]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe950nADYJpLoPoZ1nmGFWHNkeujyTACWib2F16icvUiajSOibdbG83tQuXqDO0Z7M0acNX6b0FDbXmHx1w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作为程序员，幸幸苦苦忙碌一年，春节回家也未必轻松，赶火车回家团圆，参加爸妈安排的相亲，同学的婚礼随份子， 被七大姑问候工资，然而最恐怖的却是突如其来的 -- 「</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=2&amp;sn=688269877d325a9b032e387d98ab7cb9&amp;chksm=ebbd7f393d039ec1118bbb3fb0e095963bb398cef3ceee61178871725f3a4b9d4ed6e412377c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>

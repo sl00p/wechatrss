@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[看雪·2026 KCTF 防守方规则出炉！全网火热征题进行中（新增AI赛道）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K31cLdDUO79k46E7EW3b2ic46dSd58SQu6nzuKPab0pQU0iaYpwd54AV7AtL6dNXm98Nq7Y8xy48xqdCLLibVdhlRgIYzKNUia7laU/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月5日征题截止 *文末抽奖福利别错过永夜十二时辰，破壁智竞启新章！看雪・2026 KCTF 重磅来袭，作为国内安全圈积淀深厚、口碑载道的顶级攻防竞技赛事，本届大赛紧跟 AI 技术浪潮全面革新，新增</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=1&amp;sn=6836c87fff9b825a3d068bb98dd2a8fe&amp;chksm=b039240386963abdee5da0078e7279dc91415b08fe5972d5d0394dca186452e292631c554869&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于LLVM的通用自包含化(Shellcode)编译器开发思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0s6v5Kg70mqV6x4j7xqPKh3wP49uiaAQHOeHB5D6sDawxNpkZKxndsZ4MNUhLhOhlvp9aZf3RTBbNoic67O1CQicz1fhO5Y8gKXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章旨在帮助想要开发自己shellcode编译器的朋友，为你们提供思路与解决方案。由于文章产物的特殊性本文将不会提供代码，请各位读者在阅读完文章之后自行实现。在x64系统的时代shellcode的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=2&amp;sn=78d6f9684285c9b2f339ab01f3ca37f0&amp;chksm=b0c16343837bb327f5f9c398b738497809d6ed63ab3c34a12d29f387ca785987986bbe6b99be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Jg9M7tXtx8JpVW2PtK8ROKoegMHwEJLq6e0G3S8q1VjAicfER96ZshdocnJqZrEyvv0fQJlOpJbkWl2Yj0PHFyxj6pteYb3Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月，谷歌发布的Android安全公告中，曝光了一个零点击高危漏洞（CVE-2026-0073），该漏洞存在于安卓系统核心的adbd守护进程中，已被BARGHEST安全研究团队披露并公开了完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=3&amp;sn=0de81f82941d24d10b76da58cb08c893&amp;chksm=b0e39d1b23290ca9f3d366aa2be4c2895ed95cb25413741d27314b7082fdd155013e9b3d6bfb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Copy Fail 深度研究：Linux 页缓存漏洞的根因、利用与检测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Rtsa2hEuTOFm6SuhHor7Xpzk2krg5Fxau0B77licWcCzC8DEicQg4InficA25yHgDibKmUP3tQOL1aXhKib2QjJzPgzGX8VDTB6F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 Crypto 子系统的一个优化 commit，到 9 年后的任意文件页缓存覆写一、引言2026 年 4 月底，安全研究员Taeyang Lee公开披露了一个编号为CVE-2026-31431的 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=1&amp;sn=fe3114822b287b4d43b6eb503c2682ca&amp;chksm=b04c81b3df6df9e162a62914eecdd0cd9b9e0f22faefb7178626e527f0d74379618992acfae0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=3&amp;sn=0debdea978560ed15a6a6b4045b1496c&amp;chksm=b0d1b17f97c800edff49dce7ce69cd736d7fef626e485ffc7b2d0572b009867500422d22d56a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯游戏安全初赛 Android 客户端分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2FVvibyeRibmWp7qHuparFzLF0U5Uww4gxxGxOl8uTfMvSiaarKkzZBWl5AkHpflo8BqyILz1l5zVNwZOLibVdv2v1n6YibbbGgVsM/640?wxtype=jpeg&amp;wxfrom=0"/><p>1逆向分析过程1.1 分析环境与真机条件1.2 刚接触题目时的初始分析刚拿到题目时，手上的信息其实已经足够构成三条候选路线。第一，APK 内能看到典型的 Godot 项目结构，这说明脚本、场景与扩展配</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614003&amp;idx=1&amp;sn=906e16d393e11f9526d5c1b42d4a7fc1&amp;chksm=b04c5d10a087fdab067bdd709423fd7817bb38625761df239a40858355b312c840c678cd92ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows截图工具漏洞PoC公开，NTLM哈希可静默窃取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1WGrNXiaeVtibpCtsbuddU7XaMlXKOmCv70licDzwPsugQc9EqzJMjp9wb00iatVQf6Q7KmKQwrOticGibPwb5AjibNeicLwKKTrWGT1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞编号：CVE-2026-33829漏洞类型：NTLM凭据哈希泄露披露方：Black Arrow安全研究团队近日，Windows自带截图工具（Snipping Tool）被披露存在安全漏洞（CVE-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614003&amp;idx=2&amp;sn=00f7fd3b236ff69a40d15b75a8604bc2&amp;chksm=b0b99160c6b1947545e5a9586cee9b65e3702ae9a11e3b4946c72704eabcbeb2fd2040cead17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614003&amp;idx=3&amp;sn=993f2e1aa2b4afeb84cd42554f34bc88&amp;chksm=b0685b2e643435ac79908df19c61efe8a909f9070dd0e24869cb297c505184a23ba5c4dce0e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

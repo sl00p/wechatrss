@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI 狂砸40亿美刀下场抢FDE，软件工程师的尽头原来是驻场啊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaPnzCWRFlUnCm57HVzlThQM3aUoWbFc0Dtxe0NvsTlYUIzib4ibQkvYOiatR6TlE0F31ojib3IIs3tKs681aciaJXvbTKicA1iaGrxU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 当地时间 5 月 11 日，OpenAI 宣布成立一家名为 OpenAI Deployment Company （OpenAI 部署公司）的新公司，初始投资超过 40 亿美元，专注于帮助企</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284014&amp;idx=1&amp;sn=b2a2df7984825df17ed945d51482d025&amp;chksm=bc42e16e3864528af0237c778268a291059b1135d1f2918c44034a87f03f67f80306a363a995&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 15:31:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgNOTQ6JUibzHH8iaXp8gtiaJwBEcMfwT3U4Ip0aFQu114ntSRnsF455t7g7OjB6ia5pxadvkyj1jqZS6Fv8yvDjC15LxMwQC0icjF0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜黄兆嵩 编辑｜Kitty 策划｜QCon 全球软件开发大会 本文来自 QCon 全球软件开发大会·2026（北京站）明星讲师、蚂蚁集团支付宝体验技术部前端工程师黄兆嵩带来的演讲分享《把 UI 生</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284014&amp;idx=2&amp;sn=99bac3e07d9ead6b1afafda93e04a4ac&amp;chksm=bcb4e65e83452350b6f463b12ff862b64d273f1bb00d8c625143eaeb9436f778bfb94c56be62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 15:31:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 Redis 到 Valkey，开源社区如何快速创新？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg9Pt3Hhmv66aWGG9dShV22dUAwmTGWjdxRvddOibUB4Tia0IWZKQ6o8Dia3vkCVC9dyQFeJkhp4BuGN9Y7tibojiaIRrzvAH9RFHxo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 朱彬彬本文转载于Valkey China的公众号写在前面你好，我是朱彬彬（GitHub ID：@enjoy-binbin），来自腾讯云。在 Redis 时代，我曾是项目 Committer</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284014&amp;idx=3&amp;sn=6eb5460f7d6b2cbc9d196ce192e4f996&amp;chksm=bc9d705fd4818906ab4c9de4af7beb1eb54a40ebda16b42c7306af88bf508f53628e04394f77&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 15:31:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 构建了面向 LLM 的高性能基础设施]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhglfkfh7G8d2MIKLqnSYh0Cx9O18vFHPMFqUjTq2xscaoqY0oqtUs8ia2jGbt9LowVqpcibZuUI7GibdCGG9cQacHD13Ntt47Zto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Renato Losio 译者 ｜ 张卫滨 Cloudflare 最近发布了全新的 基础设施，可以在其全球边缘网络上运行大型的 AI 大语言模型。由于这类模型依赖昂贵的硬件，并且需要处理海量</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284014&amp;idx=4&amp;sn=2da7c773e6c99e76987b9a737a59d975&amp;chksm=bc990121e3832837168a1bddc884e9e692d3065d448fb5c8ad8b28080dd6187d47ac209b02f7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 15:31:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia0WibU06CHpB3ztUWn59n615t9ptoe9fulNQnpYyK4ojAXSMKbKqVoVdbpOdpqowRJUq7zUUUd1WccwqVwI534q05fibRIrzqb0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 青和 大模型爆发后，所有 AI 公司都陷入了同一种竞争模式：争抢数据、比拼算力、内卷模型。但真正能拉开差距的，往往不是这些资源本身，而是谁能把这三者整合起来，形成一条持续运转的完整生产线。这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283867&amp;idx=1&amp;sn=f908af783d642efe2c947930ddf1dd2c&amp;chksm=bc75c837b2a990f31141e238e335e4b35a04d536d863f1cce295dc18d3e891ddd0b56da464e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhXqIVjzFzeGQAOZibRBLEbORjElFtuZsOvKt9KR6nyyPdorsVJnG15AfkIvpRhazX3engibIYuV4US1SJUtf2j5dPRJXQdhfwbc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王玮 当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？Snowflake 在亚太地区举办的「Data and AI Fast</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282822&amp;idx=3&amp;sn=01d4df1152e59c9ea8c2262d49447387&amp;chksm=bc99d02105a90ca78b3493994453dbcd3a058d32c59a0e4f3fafb5b3ce00a3523ddff95e4c5d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 14:32:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为 AI 智能体设计记忆机制：揭秘 LinkedIn 的认知记忆智能体]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhSshK4Zu2R0XA9Qn6SUQ7goqvA9cmYmMSQAD2PtVX8xv6SEoDeR5RXxrbVQpO5dsWXqpLB7F4wyj7nSiaKKzOFhnzoNaaLeWbk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 明知山 LinkedIn 推出认知记忆智能体（Cognitive Memory Agent，CMA），作为其生成式 AI 技术栈的组成部分，旨在构建具备状</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282822&amp;idx=4&amp;sn=bdb1dc68f1f6b485e4f54abb06f620fc&amp;chksm=bc3fc9f85480eb1474f61bebc92e3ee9129a4e19dfea3afab901f4143f2a93e0334189927d52&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 14:32:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1850 亿美元天价支出、75% 代码由 AI 生成！谷歌正式宣告：全面转向智能体工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiapvQRGXBsPJ1RlUtiabr2JWq8nTibbI370O6yF1U2AOyMBkFvd9GGZaiakYE1xlQ1wwhH5b5MpKoMLBmtNNYgicaHCaTObKpV5THs/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫 今天，谷歌正在对 AI 押下其史上规模最大的赌注之一。在美国拉斯维加斯刚刚举办的 Google Cloud Next 大会上，谷歌云正式宣告 “智能体时代”来临。谷歌 CEO Sund</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282718&amp;idx=1&amp;sn=392bfc3bbb60cb19cb4876292cabe13d&amp;chksm=bc032d8b981322ecf8d3a16573388f3e7e7bbb69cd58b440ffcb438757638222e38db60a2124&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能体工程的隐形技术债：10分钟造出一个 Agent，公司却要为它养一个平台团队]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjVXxdLVe8SviaoC81P2t9Hs4YvNy0HeNaC848fSeoOZELMOPopEUyLw2OuEXfFZjoXMPapjDQvlFTvLoGYd5XUytF7qhR6h6Ho/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Zohar Einy 译者 | 平川 策划 | Tina 本文最初发布于 THENEWSTACK 博客。Milhad 为 Unsplash+ 供稿如今，任何人都可以很容易地在本地构建一个智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282718&amp;idx=2&amp;sn=1ac4808104c740971206faa71bc4cde7&amp;chksm=bc957a5062a836cbc1d89889c01dba3ec436fcd7f3215630a08a19ab0364bdde2b6d6233d90c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg66l8IYxN7UEjVIy7Su4Qb0hV9a0dhjCNicfDicQLvJbdEHvmTMEMvRYsvy57yycJaCTgKdlrqfmaoExJDZyR7sjqsxZ0DzBicU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Syed Danish Ali 译者 | 马可薇 摘要检索增强生成（RAG）可以有效将大语言模型的输出与外部知识对齐，但它并不会建模运行时上下文，例如用户身份、会话状态或业务约束，而这些正是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651282718&amp;idx=3&amp;sn=ca22b6b28e5eb50c4443153ee18d5282&amp;chksm=bcb10ffff96cf473a9214b20b20933aaa8c02a5c126cd63b8486228481dca9baac4225be9cb9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

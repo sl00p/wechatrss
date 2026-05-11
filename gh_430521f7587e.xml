@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[curl轻松扛住了最强安全模型Mythos“拷打”——17.6万行C代码仅发现1个低危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVdBOXPy9DVLh10yU43XsXFGJoQUzibg6XsfRxoVvTPnqg3CA55fJs2CQH7aOtWkoOgc2Ml2Wn6A3BwmI3Rk4eUPk78etlIvEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic最新推出的AI安全分析模型Mythos近期引发广泛关注，该公司称其在发现源代码安全漏洞方面表现异常出色而具有高危险性，甚至因此暂缓公开发布。然而，当Mythos被用于扫描全球最广泛使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240077&amp;idx=1&amp;sn=6c375e8740a2d8cd9239e391915a95b7&amp;chksm=bf615d9756e94b58a02cb802a4eae65c46a5d6c1681061bca88f5f812dac276a36bb43ddab4e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 17:41:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全球首个免费开源模拟器项目RPCS3：十几年逆向工程，差点输给“AI Slop”PR。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXXcziaXibyWhYKj5ltYXp2UEveVwc1pibkeykxJGQOT3LuUibzckXU927szW77tXicCbhTRKrvnErR33Kq3icrmsQGxSgJ7Az4dbd2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源PlayStation 3模拟器RPCS3的开发团队在X平台公开发声，呼吁贡献者停止向GitHub仓库提交AI生成的Pull Request，并警告将对未披露AI参与的贡献者实施封禁。RPCS3并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240035&amp;idx=1&amp;sn=18480c90e01698ebdd20e7d20cbaacdf&amp;chksm=bff6ed0f788fec8cb425b91c4220ee712eab77374fde14b4c0cb9fb1df7b9aa42da0a060b52b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVibaibibzv9Udq3TeZMQ0tNXEIHicfoNCYCuiaSM0tCRcmYTW9XZVxr17Vm1zQRibia1AH8ngX6siaAarNHewnwnlcuWQRWHPRIprpiass/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI应用不断落地的当下，开发者不仅要“会用模型”，更要“会养技能”。为了帮助大家更轻松掌握“养虾”（技能构建与部署）能力，一场有趣又有料的开发挑战正式开启——讯飞AstronClaw养虾挑战赛重磅来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238342&amp;idx=1&amp;sn=2fe481509ac54d7405c296d04f5520dd&amp;chksm=bf4cfa5fce935bd85326302ccbecff5685a52ff8603d1894df1d8c7ca0c369eebecdbe331c5b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 17:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当龙虾成为OPC一人公司的合伙人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhX39RiaPaVThn8NqPqph2zm6rOzNE9VUcQNKcWiboayicia8tVQiauhOIgpjwM0cFIAdG3xbEvdyJHibp2Qlziau1BvxHnQ90qsLLRZYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI不再是工具，而是员工、合伙人。3月20日，北京亦庄国家信创园，OSCHINA联合极新举办的"龙虾夜校"第二期座无虚席。这一次，讨论焦点从"如何安装"转向了"如何经营"——当AI能写代码、做视频、管</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238320&amp;idx=1&amp;sn=066b0d601ec36941437a01b439cdb737&amp;chksm=bf8432185db95ab239f01367a5114669aae25d195298770ab1e897a6b1e5b6ad0ca38865617f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 15:55:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

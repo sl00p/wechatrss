@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Skill规范、构建与设计模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wrnrnwfN753A1J7oFLiaLVLFhWgNdXMrybZVKI82FiaFD4t4fB3HsDF7h2OMIQCThqRU2QP59wYicic6QWYibjqDTibGcBIFWGqRveM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章从 Skill 的规范格式、三层渐进式加载机制、模型驱动触发逻辑出发，深入解析 Skill-Creator 的工程化开发范式。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559942&amp;idx=1&amp;sn=08953bb9fff5a3594e80a381157c5c11&amp;chksm=e807d64b89e58509ec1dbcac245d084b2c07f1dbf879086258b7f01d4b80bec8bb747245c46b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[0.07% 的"幽灵"丢包：一次 LB VIP 访问超时排查实录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wu3Gz9wK0FCHhnK0ZsbXtFKBvosfSnhSickOs9ykO2zItGiaC6ibye2RnrgYTIZm4msesJbOxSgsfm4nnsldsk9DM6CCmiar1aibg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。"ping 正常，但业务偶发 telnet 不通，概率大概是 0.07%。"当业务方抛出这句话时，任何有经验的网络工程师</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559921&amp;idx=1&amp;sn=dd4fa1ac94912766389bea15cfd4c1d0&amp;chksm=e862aae707e2e504f5a20d8cf29848968faa4e1448f7ada7ffe2e2c1bcf272ab2581588fcbb3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0kbBUR9XO3icnYymyw3wtBBMpJ1RibzmarrK2G4tQWeCjT9ib0vuTwVr2cXqRiaTFFMJLl0O0jPSiaGnspY3xuFdEribEonpej2upM/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在纠结 Claude Code 的各种“黑魔法”怎么玩？Command、Subagent、Skills 到底有什么区别，各自适合什么场景？新出来的 Programmatic Tool Calling</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558503&amp;idx=1&amp;sn=13829559963528253296ee8954cf7d0b&amp;chksm=e856167816f416e31d86e56eef8b691ca20aebaec4ba7345c565f7f7d1c4fa50860938f1597e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 28 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ABACI内核缺陷智能体：让模糊测试真正“自动化”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xcedSuoQcicJXeBBrh8IhmEp7yyIsF2QKXKtkia7jznKIs2ibnKhkluwrsQJz9jjg7O8hzEjy2iczzGFf14ciaK8fctROY3alcyhQ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了ABACI内核缺陷智能体如何通过自动化技术改进Linux内核的测试、分析和修复过程。一、内核缺陷智能体：测试-分析-修复全链路自动化传统的测试手段，如单元测试、静态分析和人工代码审</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558458&amp;idx=1&amp;sn=a35806880318fa898087fba186753d54&amp;chksm=e8e504ec7b0501a8b9d51012c79748acc0d83b5f782501790d0b3ae39f2671a15f1cc8870138&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

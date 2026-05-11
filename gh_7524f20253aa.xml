@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI推出Daybreak全新网络安全计划]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TCDS8rYSz1SHrnGLvgboEM02gCRQExFDwFufyI2ia6SX9aNHlYY4bicaHDf3J9Aic1mnfIjItNq7QDynmwaWqGu3o2uibtrfDnNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI近日推出名为Daybreak的全新网络安全计划，该计划整合前沿人工智能（AI）模型能力与Codex Security技术，旨在帮助企业在攻击者利用相同漏洞入侵前完成漏洞识别与修复。Part</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=1&amp;sn=16d72590d8ba7b2ad65ddad436198064&amp;chksm=bc8bfb23aa70bc2d69d513f60b9ec42b73d291872ceaf9ba63ac426e5c13382f6c08fda89a10&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3pibHBrOYR8rtZ9AlHKIpPPAJfHPHVGwoDkltecvm2vFaQaAvqgia1e1Wt1T9RUdn5Miajy0cho5jn0nYEKJ6BvHXVP8sqNBwa2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 服务器管理员或将获得在操作系统内核中临时禁用漏洞功能的能力——前提是开源社区采纳内核开发者提出的这项建议。该机制可在 0Day 漏洞补丁发布前作为临时防护措施。Part01内核级防护新思路</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=2&amp;sn=70855748fce9c2e3d0ba8f7bb722dd98&amp;chksm=bc07d62e847d3134898bfe7cf15a852f6eb791e681a2e1104caaf28fd75cdfe64098d1df9a30&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你的紫队并非真正融合——只是红蓝队共处一室]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0I2803e6eehJCLezlJoHYic4yBzVUkkQoUibRMvwCCGFroEq7XUzInibdkuZOBVozGSWibVqIW5cs5yb579Ld21RkhS2sDooCLR1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>凌晨两点的网络防御场景往往如此：分析员将PDF中的哈希值复制粘贴到SIEM查询中；红队脚本被手工重写以供蓝队使用；补丁等待审批的时间窗口比漏洞利用窗口还要长。这条链条上的每个人都并非无能，问题在于系统</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=3&amp;sn=c50e691105e42581196b07d973108587&amp;chksm=bcff1c81d20321f4f3e2ce29e819862e54e101dc57509ba15a1a24172858f8489c837075f43f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用伪造DeepSeek TUI GitHub仓库传播恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1f3CIslWVVGdicvWanFpzW7ib17RTj5ib7Ymt9p6MG9XoE8f28Wafsaega9hWl1QU2D02DsY9yx09kWxicCBpUibFsw6KIoZ6f5YYk/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI供应商宣称的"最强防护"实际上只能降低大语言模型被恶意提示词攻击的概率，无法完全杜绝；攻击者开始利用AI工具生成虚假漏洞报告，对漏洞赏金平台造成冲击；此外，xAI开发者在GitHub泄露了特斯拉等</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=4&amp;sn=e6d018c47fd32506fd9e0beb06bcc45a&amp;chksm=bcf43ac24444fc589896983a36804687e348e7b6f8b3eb94610ad7aca42ed650c7d7964e5277&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI中转站的黑与白]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0b0WtYLckPZ3wcfJY9HuuibibQbrlAd3OjVcfibjicmsByW7KdeOE14moB5bT0qty5OS9zWtfqSQUlFWxsCRbmwjgeUraDDic7RFRc/640?wxtype=jpeg&amp;wxfrom=0"/><p>海外大模型厂商对中国大陆IP的封锁，叠加信用卡绑定的支付壁垒，催生了一条特殊的灰色产业链——AI中转站。它们套上海外服务器的马甲，用人民币结算替代外币支付，把受限的顶尖算力打包成“代购”服务，悄然渗透</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337890&amp;idx=1&amp;sn=a54368de3a894072a01286d31ee89fae&amp;chksm=bc96293c527387181884b649ff4d07022a511f82eae21f45380f70daf10b13268b2e5deb6c95&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2icaZBiaK4fKgLcB9ricGiaIr8qcziay4oWCaavm4ve05ZM2SCaAvNI0sQAickO9tj08Awia5h3UOlAeYXnFsiaLLe0rAztSXF1xMc8ZE/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球广泛采用的基于软件的可编程逻辑控制器（Soft PLC）平台CODESYS Control运行时系统存在多个安全漏洞。Nozomi Networks实验室研究人员发现，攻击者通过组合利用这些漏洞，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337545&amp;idx=4&amp;sn=0f8d95376e6313e78a0db74391d0b4e9&amp;chksm=bc89467eec51734e1d69fdebc0c596ae47922a832346f65330defaa83f817fcc373e0bd176d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你敢信，他们都来了！HPW白帽世界大会2026全议程发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0tLxQNfdr7xnWgb2CIaoyzB2KkCHibYW9VAHFyia1qgicSpECibFExk2ia1fJeazIaZbe4WFyQqeo3apnp2RtAK9gEouHMLibWubWic8/640?wxtype=jpeg&amp;wxfrom=0"/><p>顶尖AI安全红队亲自传授秘籍，HPW2026，所有议题一次解锁！</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337412&amp;idx=1&amp;sn=c7b0be46a893a0da3bd5480ac0e70d83&amp;chksm=bc6f3d31fa7cd1f77dff88c4b20f9ad805f15b7c1cd9e48523ec122dcee8ce32c47f21041c5f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于Claude Opus 4.6的AI编程Agent在9秒内删除了生产数据库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX36mddoKfygTSt7fZ2nh0xqoXEUqn9LHb4TGMTiciaGvw0K2N0PV1fAvTHUTzdFzd8fK5x6K2hadhmHo9zdj9HnJ3A5l4ZHpOP2Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年4月25日周五，由Anthropic公司Claude Opus 4.6驱动的Cursor AI编程Agent通过一次未经授权的API调用，删除了全国性汽车租赁SaaS平台PocketOS的整</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337412&amp;idx=2&amp;sn=8ddbc1a5f5a3de60b7f19e430bd3abd4&amp;chksm=bc4f851976604961fc900ccfc0dbcc19b0810436783a31d86cb13814710d6a2f54505a9422a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌Gemini CLI高危漏洞可致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0sbuv3oPOYf5nZ6O1t1kYyvbOaoiahgcTfDk2TjfgVAcxAG1Oc68tgTwmHiad6OWibbecLDHZv255pWFcqOY3a1amulSo2kQd0qI/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌已修复 Gemini CLI 中的一个高危安全漏洞，该漏洞可能允许攻击者在某些自动化工作流中执行远程代码。该问题影响 npm 软件包 @google/gemini-cli 和 google-git</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337412&amp;idx=3&amp;sn=7a42791b8862a9506987327517001c22&amp;chksm=bc60adf0d6164e4e3ec0ea3823ec44175c7695ea09a53bc2c17f07706987cb289a8c9b6656cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜黑客通过伪装Excel文件攻击药企，窃取机密数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0nLS21fUqWqPFIpbHrORcy5EibnPJWyicicV2wZ3zh1ffHXSiauiclnlStV4JcUhib5ibMOU2W6ZukF6rjWtlVeGvI6kEo6bKYOOYUek/640?wxtype=jpeg&amp;wxfrom=0"/><p>朝鲜政府支持的黑客组织Kimsuky近期针对处方药制药企业发起定向攻击，使用名为"White Life Science ERP Specification"的精心伪装恶意文件。攻击者通过伪造Excel</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337412&amp;idx=4&amp;sn=c17b16db4b016e5577a207c7276d15da&amp;chksm=bcb7f8abd80bb6f85609cddea28c65595a13e8a5204866b44276cbf8088547d555b32f56a7d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
