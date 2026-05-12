@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7cF35geWMKnNnMOgkSkBHDwRT71Mz9mhPv9cvkJgic7hyibMUmdPs3YWxSRWHjsybOEj45yZa71hjyia8LNoobWIkFqtnjkPeHkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：Agent 很热闹，生产现场很骨感过去一年，几乎每个团队都做过 AI Agent。一个输入框，一个大模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695544&amp;idx=1&amp;sn=865fb183130b2851900b9f4eda62da9c&amp;chksm=eb09d81cfd317b9b09d3b9eec610c6c3f318d9c323a53bc3cd0af7d6501e1d3c1d86ec6d5e11&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[拆完Hermes源码，我发现Agent的"自我进化"根本不需要训练模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4oiamTCsUdTXg2c4FnJ8iavCFwdpG1cvZ9O3ZaTSTbib26PPR89vW0jTicQRRcEH7sJxc67RgkBeAI7g6PMWJDDgTicQoHdgukLWo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。两个月 5.2 万 Star，Hermes Agent 用一个"LLM 审判官"机制实现了 Agent 的自我进化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695500&amp;idx=1&amp;sn=57de8c7c4889ace8c6c1e15ab460447a&amp;chksm=eb8a364d05e8ca74e355aba5dc6cdbdac29058da01848657b0fe3ff2a3070c7d81bd15ef82cd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5KYdsibZd32MHwXRTQpcIknN8uWHEqnfTGk9Kg67jeaxAHBGZZibPVCRrhadZOMSiaic0Dqvszcz5uFic50waAlUhyAolkA0oZJ8jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇OpenClaw 发布至今，相信很多感兴趣的同学已经尝鲜过了。腾讯云开发者社区联合腾讯云轻量云 Lighthouse 也带来了可能是全网最详细的一键部署教程和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694374&amp;idx=1&amp;sn=dde9f8bab936caa961e6cf8546e190a1&amp;chksm=eb92a9966d181f5a86e3ba347b825124ecad8ff38f353b3da750bbb303ebb71d645c22607c95&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用Go重构C++老系统，一次降本82%的极致之旅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VY8SELNGe9579g8JGNNUMjiaG36BicUxhjpzLTJNR4vRjOicfwVPd8dibVLLAHibMkkrkG2pIrsqhR0f7FNoQjqUibibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01背景：当“大力”不再“出奇迹”该服务是 QQ 游戏生态中的核心基础设施之一，具有极高的并发写特性，直接关系到用户成就的实时展示与游戏权益的即时到账。重构前规</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694348&amp;idx=1&amp;sn=9e955e9aec449ec3245339142575cd1e&amp;chksm=eb24e81d394812c48f6e4070478fcfb5f9e0064ab656fdb98f0f26228a6e3d3ab8539bd1b73d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

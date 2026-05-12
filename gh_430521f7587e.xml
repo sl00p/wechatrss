@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Kit 实战到开源案例，今年的鸿蒙创新赛 · 极客赛道在鼓励什么样的创新？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVIoyZVFwUAKBbQoALEy3c1eeAShqLddm96MsiaicNaRLCIwsVFXOBeicoBLyGeN2aXHTMKgEMP0prksv14cA6UVibaHQOmfdpIDK0/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能设备形态的多元化与用户场景的深度碎片化，移动应用开发正经历从“单点功能”向“全场景服务”的范式转变。登录转化率低、分享渠道适配成本高、高频任务需反复唤醒应用等痛点，持续消耗着开发者精力与用户耐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240111&amp;idx=1&amp;sn=d36246d56385c159ea333ad046b1e3c3&amp;chksm=bf663b43c68f742065c70cd341cddbd84449ab5ba0f4af07c726cfc1dbe79b2058d29803eb06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 14:48:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[curl轻松扛住了最强安全模型Mythos“拷打”——17.6万行C代码仅发现1个低危漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVdBOXPy9DVLh10yU43XsXFGJoQUzibg6XsfRxoVvTPnqg3CA55fJs2CQH7aOtWkoOgc2Ml2Wn6A3BwmI3Rk4eUPk78etlIvEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic最新推出的AI安全分析模型Mythos近期引发广泛关注，该公司称其在发现源代码安全漏洞方面表现异常出色而具有高危险性，甚至因此暂缓公开发布。然而，当Mythos被用于扫描全球最广泛使</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240077&amp;idx=1&amp;sn=6c375e8740a2d8cd9239e391915a95b7&amp;chksm=bf615d9756e94b58a02cb802a4eae65c46a5d6c1681061bca88f5f812dac276a36bb43ddab4e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhWlrgT81JHcvMpU5vZcHdINopl4u5ibn1eb7nhJBHNYLppfWFIF7n6HxrF1pSCcI3uqf6vUUicdDquB8s6jSOiczDMK0zpHyHNUas/640?wxtype=jpeg&amp;wxfrom=0"/><p>摸鱼时间网上冲浪刷到一个帖子，大意是B站前端工程师被裁员，怒而开源B站源码评论区一片沸腾，有人感叹技术平权，有人点赞开源精神，还有人已经开始部署体验。但说实话，现在我看到这类项目就一个反应：直接关掉页</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238396&amp;idx=1&amp;sn=475bd1306ac5cae52997eb23a6b23ce6&amp;chksm=bfca3f009f47d9118474ac4459013f0c4325588a4dd2b64b370d8730437dfce59916ada79232&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 16:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[讯飞AstronClaw养虾挑战赛来了！全网寻找冠军“小龙虾”！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVibaibibzv9Udq3TeZMQ0tNXEIHicfoNCYCuiaSM0tCRcmYTW9XZVxr17Vm1zQRibia1AH8ngX6siaAarNHewnwnlcuWQRWHPRIprpiass/640?wxtype=jpeg&amp;wxfrom=0"/><p>在AI应用不断落地的当下，开发者不仅要“会用模型”，更要“会养技能”。为了帮助大家更轻松掌握“养虾”（技能构建与部署）能力，一场有趣又有料的开发挑战正式开启——讯飞AstronClaw养虾挑战赛重磅来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238342&amp;idx=1&amp;sn=2fe481509ac54d7405c296d04f5520dd&amp;chksm=bf4cfa5fce935bd85326302ccbecff5685a52ff8603d1894df1d8c7ca0c369eebecdbe331c5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

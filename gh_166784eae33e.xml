@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[秘密活动6年的神秘黑客组织Mr_Rot13正在利用cPanel高危漏洞部署后门木马]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicPwQLR0Pf7EViba4XkgfGMbYH7fk0fZrD0pzQHoZsicK9MYfcaxXmjjg20gF5T7jGQyrHt1ah6xll36ficPIFtLmSOmceQkYficaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景CVE-2026-41940 是一个影响 cPanel &amp; WHM 的高危未授权认证绕过漏洞。该产品广泛应用于 Linux 服务器运维与虚拟主机管理。漏洞 CVSS 评分高达 9.8（Critic</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518785&amp;idx=1&amp;sn=8777ef11aef31d8aa6472fc48d7a53c2&amp;chksm=eb018e908b496c5191629b57a696aba5d934c8f7ce98c4339f0f8de0db163a8322772ad87401&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【原创】某加密IM官网供应链事件，“离岸”爱国者卷土重来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiceM5c6Ip4DoR47Pwv8RQ8jHY9uiajDibAo1yCSQrkPdMgQ3JMBUw1LWCSbA2EMEP0BVSSrDjPKiauJe4lGh7MqnddfqmHumeZJib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述奇安信威胁情报中心红雨滴团队私有情报生产流程发现一家面向中文用户提供私密IM的软件官网上的安装包被替换，下载信息如下：字段名称 (Field)详细信息 (Details)Referrerhxxps</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518784&amp;idx=1&amp;sn=16b5fe101414c690ae21f811f931791d&amp;chksm=ebc2ccef7724d611e19bdb3578c01aa1606d2d2ba8452af26cc8b3777e86a70b3743d31efd98&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8NltQkJoOqbCsL9V72DEYfxa1JbJ4Cs56TYl3R3FBDY6GfnZYHSicrZp5qH1EBpcicwO5BNgDKD0SA/640?wxtype=jpeg&amp;wxfrom=0"/><p>团伙背景摩诃草，又名 Patchwork、白象、Hangover、Dropping Elephant 等，奇安信内部跟踪编号 APT-Q-36。该组织被普遍认为具有南亚地区背景，其最早攻击活动可追溯到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516879&amp;idx=1&amp;sn=45c8e73b57bf480cbc95aad6dce7cf55&amp;chksm=eb19edbf5891ef9438280d1e193b6eaedd75d740beeca323de7f017454b818d5db1523a446ec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 15:12:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.11.21~11.27)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic90v3nrJ4ibTUhlIvWbZFChh5ibrIyAg8shclCqqoV5fjIZpUev71lpHL7HBiaic8hWXjPKNkfXhreOgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.21~11.27攻击团伙情报RomCom组织利用SocGholish向美国公司部署恶意软件Kimsuky 通过钓鱼邮件分发imJongRAT 变种第40部门曝光：伊朗伊斯兰革命卫队内部</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516804&amp;idx=1&amp;sn=d9d99a2f3d63b283f7882b5baa4b1c0c&amp;chksm=eb96b857d74f0cefe497e666397514d4d684e1b2ba6643b4c6df80d82b4633479eb3e7d582f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 09:53:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

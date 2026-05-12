@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深度解析LLM Wiki / Obsidian-Wiki / GBrain：Agent时代知识的“自组织”与“自进化”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wAH6wQYzncia6Y6pQOwGbtyIzQaQBukC2G8kOSL0XmGflJniarz5O2bbicDyjic3HCLiaZIIE2S6clEL5PS6uOmDeuBD2ReqJk0Tuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是「项目深度解析」系列的第4篇，系列文章为《深度解析OpenClaw》、《深度解析Claude Code》、《深度解析Hermes Agent》。（文章内容基于作者个人技术实践与独立思考</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559971&amp;idx=1&amp;sn=e93c802829515223ad1dbb15de073b59&amp;chksm=e8fb95c7fe1a5d494d518d635551b531b97c4f8cbf1f8fb002a90a59fe928b7e0ff00115b175&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent Skill规范、构建与设计模式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wrnrnwfN753A1J7oFLiaLVLFhWgNdXMrybZVKI82FiaFD4t4fB3HsDF7h2OMIQCThqRU2QP59wYicic6QWYibjqDTibGcBIFWGqRveM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章从 Skill 的规范格式、三层渐进式加载机制、模型驱动触发逻辑出发，深入解析 Skill-Creator 的工程化开发范式。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559942&amp;idx=1&amp;sn=08953bb9fff5a3594e80a381157c5c11&amp;chksm=e807d64b89e58509ec1dbcac245d084b2c07f1dbf879086258b7f01d4b80bec8bb747245c46b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yG249f8MQNIjTKMicctW9W4riaGhlSibYcJLR4HwWujGxW3Arsccicf7xAWlPKw9YcnBRxewAjh9KkvE7q7qWvn6iaSkytVHHIctXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章首先拆解了上下文工程的五大最佳实践模式（状态管理、渐进式上下文、结构化输出、模版程序、多步处理），并深入对比了 Skill 与 Subagent 在上下文管理机制上的本质差异。背景202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558537&amp;idx=1&amp;sn=1130404dec68871f8d34de4e5168b29f&amp;chksm=e887851ef9465bab25525282e48f410d1bb3f73b75369a1718302eef4c981d70e18cf2421179&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 02 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭秘 Claude Code 前沿技巧与 Qoder CLI 日常开发实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0kbBUR9XO3icnYymyw3wtBBMpJ1RibzmarrK2G4tQWeCjT9ib0vuTwVr2cXqRiaTFFMJLl0O0jPSiaGnspY3xuFdEribEonpej2upM/640?wxtype=jpeg&amp;wxfrom=0"/><p>还在纠结 Claude Code 的各种“黑魔法”怎么玩？Command、Subagent、Skills 到底有什么区别，各自适合什么场景？新出来的 Programmatic Tool Calling</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558503&amp;idx=1&amp;sn=13829559963528253296ee8954cf7d0b&amp;chksm=e856167816f416e31d86e56eef8b691ca20aebaec4ba7345c565f7f7d1c4fa50860938f1597e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 28 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

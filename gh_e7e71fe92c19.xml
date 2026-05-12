@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[逆向手的锋刃：IDA Hook从入门到实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Jydw1u7FDv5J9JiaOr15aGIae6sgtAo2bG0hr4Cy34AmkIOtiaSIIXZxlbGWRCzKxK3gZddTtbFCvHBHNwWaDL40Q9UibI5ruIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一次接触 IDA Hook，是从“我想在断点命中时自动打印某些信息”开始的，再往后会发现，Hook 真正的价值并不只是“输出些信息”，而是它能把调试器事件统一交给脚本处理。对逆向来说，这个能力很实用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=1&amp;sn=79c099e0ec100935324f543ad6ce93f2&amp;chksm=b0bcfb03ed2c257eea6fa2aa22e08746c4885441d843b7ea5649fe20edab1999cd48ce501bfb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[打了补丁也没用？一张旧证书，让BitLocker加密5分钟沦陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K23PCs2I0ZwueQwBWewek3qVmJ2o6B2iaGKbGicma2aRibB6pcDu6239XqWrfmjAdVEIZEhA8JdOJtTM5h6dL5VQ8vtUhEnicEV8hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞曝光：5分钟绕过BitLocker加密防线安全研究机构Intrinsec近日发布重磅研究，一款名为BitUnlocker的工具可在5分钟内突破Windows 11的BitLocker全盘加密保护，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=2&amp;sn=5053ac937efd151db9375b7813b86c9f&amp;chksm=b0efbcf6836c4842c0963474e941bb956d9322af74204abf14dda6b416eedc7898252fcb4825&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在应用层开启“上帝模式” ，实现加密数据的解密和自动化测试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ea2W9U8R21NfF9OK3Yck3qMYsMRRstujTTgErxkXFJxLUtjOw5YSibchQaSRpiclFTh8ZQ1UFTZ5RA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Android 应用开发如火如荼，而深入了解其底层原理和掌握强大的工具，能让你在开发、测试以及安全分析等领域如虎添翼。你想了解Android应用的实现原理吗？你想掌握应用层加密数据的解密方法吗？亦或是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=3&amp;sn=43b3c9ad34feb2302a954a372971e74e&amp;chksm=b0b6f89951b2a8b05153c4203b1f9dca471b6eb433884b33c21cfee37012dc0c0729de282d02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[看雪·2026 KCTF 防守方规则出炉！全网火热征题进行中（新增AI赛道）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K31cLdDUO79k46E7EW3b2ic46dSd58SQu6nzuKPab0pQU0iaYpwd54AV7AtL6dNXm98Nq7Y8xy48xqdCLLibVdhlRgIYzKNUia7laU/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月5日征题截止 *文末抽奖福利别错过永夜十二时辰，破壁智竞启新章！看雪・2026 KCTF 重磅来袭，作为国内安全圈积淀深厚、口碑载道的顶级攻防竞技赛事，本届大赛紧跟 AI 技术浪潮全面革新，新增</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=1&amp;sn=6836c87fff9b825a3d068bb98dd2a8fe&amp;chksm=b039240386963abdee5da0078e7279dc91415b08fe5972d5d0394dca186452e292631c554869&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8EpPrOpMMuJl5ucQyyj2w9De9oO0KKodBrK02ia0VWmLjwZG5hLyv3tvb4treQxBq87sCywDaVLeicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>逆向圈里流传着一句话：「Frida 玩得溜，逆向少走一半路」。但现实是，80% 的人学 Frida，都卡在了 “入门容易精通难” 的坎上：Hook 成功了不知道原理，失败了不会排查；Java 层还能凑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614046&amp;idx=3&amp;sn=2b92c3e13ac62948ead75f8318dd708f&amp;chksm=b0147b4a32ace3722497c5f7253acb98c623ad55c32fe72a2d1e7b7ceeadac826c4409fae32d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LLVM Pass编写及去除 —— 控制流平坦化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2Aib9nRcCqNQnV0jeyBB5Jz9AVnQnThmRc41r0azOGD8lgtibcfxun2BRYTIfic1BQZ4wqziaRrKeOREibkXmDiaT5I0U3Eqk2MMexo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part.1编写ollvm更改了原始代码块的跳转关系，将代码分割为基本块，由分发块统一控制，如下图基本块为由终结指令结尾的代码块，每个基本块都会跳转到返回块，返回块回到分发块进行下一次跳转。具体代码如</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=1&amp;sn=836929710597a2b804d77c892d9401a7&amp;chksm=b0294b4b3979adb3fecb86cec949bbe940dacea63f320f0b9294e77bb3510e69607fff0bdf1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Lazarus黑客涉嫌窃取KelpDAO 2.9亿美元加密资产]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0xRZ2FW94YdmjkXopj8vBtQia77z7poBxUKqlIkGuuAqVXsud7wuLWohK5z4fjiarynZ5cN5brK4uNz10fo3efq9SvOAVnlwaiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>当地时间4月18日，以太坊网络上的去中心化金融（DeFi）项目KelpDAO遭遇重大加密资产盗窃事件，约11.65万枚rsETH代币被盗，折合美元约2.93亿美元。此次攻击还波及Compound、Eu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=2&amp;sn=c0122ded52f6e61689fcc4a1e5054421&amp;chksm=b06d65afa9c9ee3a8f3dca2b6ed63e0f9cc4db4038d8eaccb608a650974302d77ec1175704f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI安全新课 | 学会提示词越狱与防御，薪资直接翻倍！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614010&amp;idx=3&amp;sn=0debdea978560ed15a6a6b4045b1496c&amp;chksm=b0d1b17f97c800edff49dce7ce69cd736d7fef626e485ffc7b2d0572b009867500422d22d56a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 17:59:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1EbAoFAQAAdicwiaHkPiagsSfCr3QSWdB26lfR3kKxJ17S2M0BdiaCvGEPubSJOmXYYyvDvS4Yib4ib9jEGdMglWxgdDEkUPSSLqA84/640?wxtype=jpeg&amp;wxfrom=0"/><p>面壁智能又开源了一个 1B 的多模态模型：MiniCPM-V 4.6，所有手机都能跑。这是 MiniCPM-V 系列有史以来参数几乎最小的模型，只有 1.3B。但多模态综合能力，打败了阿里的 Qwen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f&amp;chksm=f8400141610666803121432d804b583eaa68eff2d5c7d2e68f82a4e8d4fa7789c6d8588caf34&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 13:50:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 10 个刚刚开源，但 Star 攀升很快的 GitHub 项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2NQliadLPUQq4rlxv2Vnsjz8ibJqhnN4UushNw8oIz072hMlShXU0c7z1RklLs4TiaGKzMrxyntxv1Vu5xPficnURqv7Hr2caURP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让你的 Mac 本地跑 DeepSeek V4antirez 是 Redis 的创造者，开源界的传奇人物。最近他又搞了个新项目 ds4，上线 4 天就拿了 7000 多 Star。ds4 是一个专</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533594&amp;idx=1&amp;sn=4116733fa584c8c3b10f5308499d4023&amp;chksm=f86748b82c2a41b07efdeb35c977800016f6d5e432640ffa1c694b9d2c3a3f2a7ccd855d057d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2EichBDx2Bb741aflSEyJDYp3MThyH5DgjFFkSLdIOzvsDX4BwDpUGRhvWbNwzp9yI3UuXvaVusGcyVxeeLSNcsgiczUUjRbacE/640?wxtype=jpeg&amp;wxfrom=0"/><p>几个月前 Karpathy 发了一条推文。讲他花 1 小时 vibe coding 了一个心率实验追踪仪表盘——超级定制化的东西，就是为了追踪自己 8 周内把静息心率从 50 降到 45 的进度。然后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=2&amp;sn=5f7aa069d2da91923ca2dddb3f98aeab&amp;chksm=f8098fea1987be414db83dd8ce93135cc9bb30d494c74ff0f661777f334bc87caf991655ebc4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个运维人写了 12 年的开源项目，Star 刚刚破了 3 万。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3q6a8bmjELGGpASKwbl8viaYd0bb6ibKicYPibZzBu77CAkaLghOhN1UNLBe2qDyibL5wI7wcfFaGPBNfr7V5nc2zY5TfI10uBCORA/640?wxtype=jpeg&amp;wxfrom=0"/><p>3 万 Star。在国内企业级开源项目里，一只手数得过来。今天推荐的开源项目叫 JumpServer。这是一个开源的堡垒机，也是一个特权访问管理平台（PAM）。通过浏览器给运维和开发团队提供安全的 S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532410&amp;idx=1&amp;sn=61dbed899ddea37d3b1bec24fcca4c1e&amp;chksm=f80817587e590ab3917ddf2c102d66637ac804708a635aea9b921f15d0e16fc4f183dec60763&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 15:12:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

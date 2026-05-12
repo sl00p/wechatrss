@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwCDicH5Dw3nOyriaMqCOVOEbWQKWnCylAt5fiapWCibkic1veJSxhxnbxxiaVkqtBywILXzMrMkDLeyHARwaCMkDgDQzrjBKclH6rUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>出品丨AI 科技大本营（ID：rgznai100）如果你错过了几天前 Anthropic 最新举办的 “Code w/ Claude” 开发者大会，那你可能正在错过软件工程史上最大的一次范式转移。整场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831012&amp;idx=1&amp;sn=bf0ab51ba85d26d3dd62ac781062460a&amp;chksm=c377f5c5691a355427be7aa6f3384c41e72bbb2a23e4936958032d53f15d0acfdef2e4ca5038&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 17:50:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[欠给智能体的技术债，新全栈AI云如何救场？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEziblVbHIX0sZq3LN3zb40NYdGp2EtCeFdDRNu5fpFtzwbJgTc5xXN9kujHLKiaflLzBM9PFz94nhVlPMvagSt755Vfe17uD5ygA/640?wxtype=jpeg&amp;wxfrom=0"/><p>某电力公司，一位AI开发者尝试把视觉智能体落地到工厂巡检场景。他把模型、算力、调度框架分别拉进来，精心拼装调试。可一到真实环境，长上下文推理让内存迅速膨胀，高并发任务又导致资源调度频繁卡顿，智能体决策</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831012&amp;idx=2&amp;sn=8279e94a9f413b7e467262996abee472&amp;chksm=c3fe93f3bb431c5c8b29f33c051a749ddb5145d9788866ae6dae446bb45ad59890a8d35be9f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 17:50:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Python统治时代结束：当 AI 成为程序员，为什么Rust、Go成了首选！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwSa8hoTqD33xKZskwtHkDg0rKDMhoyrVp1ZfWcrfRQEveXfM5zjU34atVNCQUZAkgkjBV94vyqkdvDwLHJQc7jISh46Z8hibMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>【CSDN 编者按】如果代码都让 AI 写了，你为什么还在死磕 Python？过去十年，我们为了“写得快”妥协了性能。如今，AI 抹平了语言门槛，编程范式正经历一场从“对人类友好”到“对 AI 友好”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831012&amp;idx=3&amp;sn=105a5f3bc3e12ceda7391a100d633128&amp;chksm=c35d9f68f599b2436eb12816ba3ccb7cde663239aeb74b6a89b8fd7d3253b7206feee32640e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 13 May 2026 17:50:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 都会写代码了，我们还需要一门国产编程语言吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwUIDAhyurYtpsYV9oWa8yRKibNQjfVvacXg0dMuGvUPn0wGsyHn2ut5ricoAtAfGF1RyLXvgiaBWhibNjUqBfJLlGao99HcV2tMUk/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 写代码已经不稀奇了。今天，Kimi、DeepSeek 等国产大模型正在进入真实开发场景。写函数、改 bug、读文档、生成脚手架，甚至参与更长链条的开发任务，都已经不再只是演示里的能力。但开发者都</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830950&amp;idx=1&amp;sn=8fb02732ecdcb384893891871516da7a&amp;chksm=c39f4d9629364c95dd77c020a035c65dfd81489c6b06e017144612a1df67ebbc5c9994e7f2a9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwm1C4ep33CCRKOhty4nLfQSNwhiafxNKyxBHTUxiaqeHP4owiaE4blnQJJ0hrichviaUQcsKUYP1xdciagPetJInxOQgF71MN7wrib4o/640?wxtype=jpeg&amp;wxfrom=0"/><p>撞了 3 年墙才上线 Custom Agents，Notion 的两位负责人认为，AI 真正替代的不是人，而是流程。编译 | 王启隆出品丨AI 科技大本营（ID：rgznai100）很多人现在做 Ag</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830309&amp;idx=3&amp;sn=d1953f7850543140e3ec368f4d372117&amp;chksm=c307760e3744ec64f8a0fd9f7e955a1ceb48a97fdc5ecc366d18f73a2cde0090f2697d8c0970&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 17:48:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjExtbkp6lvV7Eib7c0Pq8VsicWIS4k3lnUbbicX3aTSeNgy0N3sfGHCxXJzia6gGCFYLALCvvP3dF6caFwCPMEXKJSsb6DFv0ia9sLicM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 屠敏、郑丽媛出品 | CSDN（ID：CSDNnews）传统的软件开发范式，正在被 AI 一点点“拆掉重来”。从一键拉起环境、自动生成代码的工具链，到像 OpenClaw 这样的 Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830287&amp;idx=1&amp;sn=3e1cf690867a03c940c2491648740ff0&amp;chksm=c3f6e463e31b38206572fd31258c2d0ddc418869f1ecd37ff688b6d2aaefb74c320766a0c22c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 19:14:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“养虾”热潮下，专家帮你拆解Agent如何重写软件逻辑 | 奇点智能技术大会首日精彩回顾]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEyh3js9E4KsZ58YibxIQKhb5z131ticuL0NeqKUePrqjT8JwvIeIeGJSGUiaq1pJRjhVPXVJfJrAfRq7NQdkcJVSWsvBCuFuPMKro/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 屠敏、郑丽媛出品 | CSDN（ID：CSDNnews）2026 年，关于人工智能的讨论，已经明显进入了一个新的阶段：从全民“养虾”式的工具热潮，到围绕 skills 与真实任务执行的再定义</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830257&amp;idx=1&amp;sn=e846fe06c11a05ed0c18fb3eb0a636cc&amp;chksm=c337d091bbcdb508b951d54a4fcba82c01e24214f5884901db062209c7f837a2164dcedffc71&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 20:28:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源5年后突然“关门”？融资3000万的Cal.com宣布闭源：因为“AI找Bug太快了”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEyVxicTqAribOR6VwLmSGiaWOYUUxq6mge9MbZvVicdTInXcLIuaVPTUyvpIWSP4NyXZntsUSzH8RpaqKWWTTbhWwvathD20QjlCuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）开源五年，一夜“关门”。本周，曾被称为“开源版 Calendly”的 Cal.com 突然宣布：核心代码正式转向闭源。没有融资压力、没有商业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247830257&amp;idx=2&amp;sn=e3f9ece1514d5a1b0940387d33842709&amp;chksm=c3be9d25d92f45a52f5101d406e3ee5b699c16d3a83bfbcc04201beec7ce299ccb887a45f2af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 20:28:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
