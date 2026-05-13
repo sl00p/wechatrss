@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重构大模型通信架构：火山引擎 RocketMQ For AI 解决方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeduDCyicoXldXUf9E3IGbvic8eXD9o01HUOpRQJQiaOfSd6JV7wfohvOaZw3MzJGKB0cKYQo36x8eia9wLNZIpFibetIeI5KpzYTwCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC 技术爆发促使大模型从实验阶段迈向企业级大规模应用，但它任务耗时久、算力成本高、流量波动大、智能体协作复杂这些核心特点，给底层通信和调度基础设施带来了严峻挑战，企业通常会遇到长会话连续性不佳、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519789&amp;idx=1&amp;sn=8d19584eda2d9d6dddfdd0d55dc70da7&amp;chksm=e8fad00a94812bce2682db25aeb2b91d245f441172f2396e54693b8a59701eaf6cce842b5c7e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 11:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[业务团队也能“手搓”应用？火山 Supabase 助力猿辅导对话式 Agent 落地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefUn36ATtewrM3WJicsfU4aSCO9Jmy9a0LBg5nL2otvbOeOc15bKkFibPIxfDDZiaJ8MMiaiazhXiakyGEN3O5vGBdRvFwdyhqmJR7Bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>客户介绍在快速变化的在线教育市场，内容和活动的迭代速度，直接决定了用户增长和留存的生命线。当一位教学教研老师可能需要一个工具来快速追踪新课程的学员反馈时、当一位市场运营同学希望能迅速搭建一个招生季的活</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519770&amp;idx=1&amp;sn=f9593f3795dbc93e14a1d54941874a89&amp;chksm=e84ff683b1280bd3cf0c28d18ddc565a54ca5a7792f74b03c88bfbcae10c3160de3e45b9a20b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgYKUYIBPqCI8WRukpVicyhjrRwdTAjkxj6icQAM1cqBjPW9EDOJBCdhHH2GetLCDhHYQicYRicGHO5Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：Jacob Jiang，TRAE Cue 技术负责人AI 编程提效背后：我们真的需要更“聪明”的代码补全吗？你是否也有过这样的经历：在使用 AI 编程助手时，它给出的建议虽然技术上没错，甚至</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517928&amp;idx=2&amp;sn=3afe9925ee8cbaec09fde49360a9faec&amp;chksm=e8365e0c412063eebc9c41470cf7d750b4db4058000a8b16d3ef3389f16db0cc76da08de3bc6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎发布系列《AI 安全白皮书》，构筑AI云原生可信基座]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjpssf2el8aJicPQs4HxwCHlsy2e40QWBrRFMaI3UwGcEbGgTp9CnOU2UwmmuOnwDTckdYhNzppsMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年，生成式 AI 技术正从单点试验全面跃迁至企业核心业务流程，火山引擎一直认为，安全是使用AI的最基础条件。2025火山引擎 FORCE 大会，火山引擎正式发布《生成式 AI 安全白皮书》《火</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517886&amp;idx=1&amp;sn=715ec4740886415bd5863fa33746d1a6&amp;chksm=e82997827b9fd06cff0d5759a2f28e4c382fc6663fdcfcaeb33c58fb3bf2741acead71712517&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 13:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

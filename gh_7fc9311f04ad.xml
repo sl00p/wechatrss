@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zdM3LdaH4n9OVraedBWISX0oeibp9RVAT2nAw1be0d8T2EcoTcONENSLoYMHFQNQ3s9KwlticlBZVObSj3TkMqK0oPia5S3w9NJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、出发点最近深度体验了一把从产品设计、UI/UX，到前后端开发，再到核心算法落地的全流程闭环。目前终于成功把流程 Ru</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560012&amp;idx=1&amp;sn=82fc5e59d725c31336c928586d5f2e8e&amp;chksm=e8490bbfc8e45489df6b2cd9d419ac0903e2fb50622e888fee13c7d8d5c5c81e3c0c737bfbe6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析LLM Wiki / Obsidian-Wiki / GBrain：Agent时代知识的“自组织”与“自进化”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wAH6wQYzncia6Y6pQOwGbtyIzQaQBukC2G8kOSL0XmGflJniarz5O2bbicDyjic3HCLiaZIIE2S6clEL5PS6uOmDeuBD2ReqJk0Tuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是「项目深度解析」系列的第4篇，系列文章为《深度解析OpenClaw》、《深度解析Claude Code》、《深度解析Hermes Agent》。（文章内容基于作者个人技术实践与独立思考</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559971&amp;idx=1&amp;sn=e93c802829515223ad1dbb15de073b59&amp;chksm=e8fb95c7fe1a5d494d518d635551b531b97c4f8cbf1f8fb002a90a59fe928b7e0ff00115b175&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yicL9vTKmtVuIcO1GsQu6glM23KXdthUYoiac1XvPXWr09FFh0icZyEiaLvabO8Ll9w5c0jUDyq5BiatdWVQyEViaakyEOBktxl4acg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚推出 Skills [1]时，我非常兴奋。官方的态度也很明确：不要再执着于开发复杂 Agent，而是把精力放在 Skills 上。但在认真研究了一圈官方和社区的 Skills 示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558554&amp;idx=1&amp;sn=239e1d2c63c0a9a7eb0be1ced653db00&amp;chksm=e831b88fc992554e3a644a4ce20ef695420055bd7c3b319057f229c37f43b5d554a052cb5cd5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[打造高可靠 AI 助手：Skill 编排、Workflow 设计与 Spec Coding 的深度实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yG249f8MQNIjTKMicctW9W4riaGhlSibYcJLR4HwWujGxW3Arsccicf7xAWlPKw9YcnBRxewAjh9KkvE7q7qWvn6iaSkytVHHIctXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章首先拆解了上下文工程的五大最佳实践模式（状态管理、渐进式上下文、结构化输出、模版程序、多步处理），并深入对比了 Skill 与 Subagent 在上下文管理机制上的本质差异。背景202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558537&amp;idx=1&amp;sn=1130404dec68871f8d34de4e5168b29f&amp;chksm=e887851ef9465bab25525282e48f410d1bb3f73b75369a1718302eef4c981d70e18cf2421179&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

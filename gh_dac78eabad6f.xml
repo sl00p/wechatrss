@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[只加两行代码，为什么要两天？一文深度理解业务系统的复杂性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7lEfXicXNTjXSms2hSIgDG7vwdC3ZLANkib0Fe94RPMADefX6J1LP3PpkG1qribRbgOexCLTErvoniboJ4MgO5Qj9g3DauBcDOxH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇业务系统复杂性一直是令开发者头痛的问题。复杂的不是增加一个需求需要耗费多少时间，而是在增加一个需求后带来的蝴蝶效应：其它功能会不会受到影响、要如何去找到这些影响</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695552&amp;idx=1&amp;sn=aed9efb35983a89194ea583074ee8dcc&amp;chksm=ebca280a8f78a8a68aad7c683583093a77c73baddde689db2948e8a24352e9bcec6a2eca0e17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7cF35geWMKnNnMOgkSkBHDwRT71Mz9mhPv9cvkJgic7hyibMUmdPs3YWxSRWHjsybOEj45yZa71hjyia8LNoobWIkFqtnjkPeHkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：Agent 很热闹，生产现场很骨感过去一年，几乎每个团队都做过 AI Agent。一个输入框，一个大模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695544&amp;idx=1&amp;sn=865fb183130b2851900b9f4eda62da9c&amp;chksm=eb09d81cfd317b9b09d3b9eec610c6c3f318d9c323a53bc3cd0af7d6501e1d3c1d86ec6d5e11&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7PXOibSLOR74DSN0681deRu3oTkvLYf0uXTTUGs0iaic8FYOicLAnibbZhLe9eqnZJL3JMIFEYPMYue5PgWCWVbQGwagsAN2kRxJk4/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694505&amp;idx=1&amp;sn=e655f47b4b8ffd53c019345b7cc12a4d&amp;chksm=eb9ff07fdd7f2ec76d18d0acb83a298acf6ffae52e29c2bb15dc88148ee8358a4574a6551c39&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[王炸组合！OpenClaw+Skills可以做什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5KYdsibZd32MHwXRTQpcIknN8uWHEqnfTGk9Kg67jeaxAHBGZZibPVCRrhadZOMSiaic0Dqvszcz5uFic50waAlUhyAolkA0oZJ8jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇OpenClaw 发布至今，相信很多感兴趣的同学已经尝鲜过了。腾讯云开发者社区联合腾讯云轻量云 Lighthouse 也带来了可能是全网最详细的一键部署教程和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694374&amp;idx=1&amp;sn=dde9f8bab936caa961e6cf8546e190a1&amp;chksm=eb92a9966d181f5a86e3ba347b825124ecad8ff38f353b3da750bbb303ebb71d645c22607c95&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

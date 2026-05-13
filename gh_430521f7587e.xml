@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大型军工组织的软件工厂总分厂设计模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/waPVkHfLDdiatzDHqG9ruoUSicGJDLJzPWeA99lPYqibcvCOFpWG86KDzOrFF90j1wQ9ED80VGSq7hPElX4hNpJ14ITQYXru5fiaX87Lt6ndyBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文2025年4月完成，发表在《指挥信息系统与技术》2026年第1期以下是论文正文：0 引言软件开发的演进历程反映了人类对复杂性管理的不懈追求。20世纪60年代，“软件危机”首次凸显[1]：大型系统开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240130&amp;idx=1&amp;sn=2f0ac04015c92358eb2d14231b31b76c&amp;chksm=bfbc718487b1f73836ca6655a31a1b5586a17eca80af2812c7466fb01797321762b2c51667aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 14 May 2026 09:38:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 Kit 实战到开源案例，今年的鸿蒙创新赛 · 极客赛道在鼓励什么样的创新？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVIoyZVFwUAKBbQoALEy3c1eeAShqLddm96MsiaicNaRLCIwsVFXOBeicoBLyGeN2aXHTMKgEMP0prksv14cA6UVibaHQOmfdpIDK0/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着智能设备形态的多元化与用户场景的深度碎片化，移动应用开发正经历从“单点功能”向“全场景服务”的范式转变。登录转化率低、分享渠道适配成本高、高频任务需反复唤醒应用等痛点，持续消耗着开发者精力与用户耐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240111&amp;idx=1&amp;sn=d36246d56385c159ea333ad046b1e3c3&amp;chksm=bf663b43c68f742065c70cd341cddbd84449ab5ba0f4af07c726cfc1dbe79b2058d29803eb06&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/Bia7kibD59pa3X5mwDTXiavBKicYGicQk2I6bXCibSklvpSEocibSQaE0XlSzicKjLVtgWBTjAtcw0BQ4fJITqEh3yb1JOVzjaGCL0ofV01JVcv5AE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Rebebuca 重生：从桌面应用到一条命令我们把整个 Rebebuca 推翻重写了。不是小修小补，是从 Rust + Tauri 到 Node.js 的彻底重构。现在，你只需要一行：npx rebe</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238515&amp;idx=2&amp;sn=9db4d1847df72e893ea44a709bdba777&amp;chksm=bf0a74e95cf5e30bf9751b0f049a14346ce9a8dba5060f28867865e2c145a93d57bfe313f224&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 14:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“被裁员工开源B站源码”？这种项目我一眼就拉黑]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhWlrgT81JHcvMpU5vZcHdINopl4u5ibn1eb7nhJBHNYLppfWFIF7n6HxrF1pSCcI3uqf6vUUicdDquB8s6jSOiczDMK0zpHyHNUas/640?wxtype=jpeg&amp;wxfrom=0"/><p>摸鱼时间网上冲浪刷到一个帖子，大意是B站前端工程师被裁员，怒而开源B站源码评论区一片沸腾，有人感叹技术平权，有人点赞开源精神，还有人已经开始部署体验。但说实话，现在我看到这类项目就一个反应：直接关掉页</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238396&amp;idx=1&amp;sn=475bd1306ac5cae52997eb23a6b23ce6&amp;chksm=bfca3f009f47d9118474ac4459013f0c4325588a4dd2b64b370d8730437dfce59916ada79232&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Mar 2026 16:28:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
