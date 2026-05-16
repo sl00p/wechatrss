@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯混元推出轻量翻译大模型，无需联网，手机直接运行！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907EKeqSHpm6AcsysWCU4rDmpuvpPWsic368X03BPJtemBO5CruTINJguWFkpHvicicoWfVpVyZEdOIgPqibVoibSmWcictM3YmT0WOias/640?wxtype=jpeg&amp;wxfrom=0"/><p>你可能用过各种翻译工具，但是大部分的应用，如果要实现好的翻译效果都有一个共同的条件：必须联网。设想一下：你在异国自驾，警笛声骤然响起。还没回过神，警察就在窗边用陌生的语言严厉发问。你心跳漏了半拍：是我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801544&amp;idx=1&amp;sn=2577b3e0d9118e271227e5bfd3e76f8a&amp;chksm=bfc6575ccb4b8e285384e04e40ea6847cc38966087d50e86c3dda583175f644fd8cbaa1b8d3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当我把 AI 变成一个"算法"：Skill 工程化设计的心路历程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907icGqAdbI5DqE8TBbibxdXkYVNhgun7emOOiaWOTD3ATY8I2Q7bsn2K9mjJH8Mrdoe1N33qORhwxw7yfL363pmVny9wRibGicqHzto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：peihanyu引言你有没有这样的经历——给 AI 写了一大堆规则，越写越长，它反而越来越不听话？这篇文章讲的是：我如何从"写提示词"走向"造执行环境"，让 Agent 从一个不可控的对话机器人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801516&amp;idx=1&amp;sn=673c6ef9bc4022d29f48f753a3f1509a&amp;chksm=bfb030116624adb561dec34963c20684e6e3616b3d72ee0a8619c15fda1e53da54d8681e8c8b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasR9cFFj0qAOwW0yRvic7cYhVPsOxgPCGnXibElnebzWNYBQKZJWibRtKRsGIBmyME6eHLRINbpoPHfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：zishanshi随着通用大模型向着agentic以及GUI理解增强的方向发展，现在Gemini 3 Flash等通用大模型已经可以直接用来搭建一个效果还不错的GUI Agent，并且实践难度大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798478&amp;idx=1&amp;sn=6bfaffaee1d5aec526aa33e3879cd6bc&amp;chksm=bf47330d996f85ebafd56c435a5ada3ef42d7a541ee359f009449ca378b17a4fcebe517f5b05&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工都用AI Coding捅过多少篓子？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavqRKGib9NzdN6A6G7elJWrbRWg5xvZic6xpGSxNicu4vBDrW59JS4nCNiahtfmgQGpY8vH7vxB5qT0ibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景当AI帮你敲下那一行行“完美”代码时，有些悄悄埋下的坑是否让你倒吸凉气！今天，我们盘点那些AI Coding令人扶额的翻车现场，以及一些防坑指南，让你在AI编程时代，少走弯路，多些从容。以下为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798448&amp;idx=1&amp;sn=bd059dce01c08ee5a81773852877b25a&amp;chksm=bf90242e0133cdfe9ada6c394b5194cb3caad8cf5f57871ed84886b0d70b29b9f29dd4a2fe81&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Jan 2026 17:51:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,48 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AFibxhnQaOFlqnwkYZEzlND4vQr58IPxlu2ibxcfZ3zN7wL4MPvSb8CaVWmlNMYF0cAFGdvor6Wznzm0xTE5A1noxuRMGt9Ueo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了 OpenClaw 中四个可被串联利用的安全漏洞，攻击者能够借此实现数据窃取、权限提升和持久化控制。Cyera 将这组漏洞统称为 Claw Chain，攻击者可利用其建立初始立足</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338096&amp;idx=1&amp;sn=06f17977eb2e4c358af71b5bf94b4a1f&amp;chksm=bcea1aa3f9733db693622fb49050d8ac0eebc8346c1c287236c0bcd964d02c022ff4c6181d59&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首日狂揽 52.3 万刀！Pwn2Own 柏林拿下 Edge/Win11/LiteLLM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0GHcDbYGfUR7vaoqh30Tl4sMV15a1okIqBYVSiaZghGmrFoaibVDiaqlz4GHL9WS4GVnLnvPss3bIPuaiaicXlos54V9vBKAYBHFmY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pwn2Own柏林2026赛事首日即掀起针对现代浏览器、操作系统和新兴AI平台的0Day漏洞利用浪潮。安全研究人员在首日就成功攻破微软Edge、Windows 11和LiteLLM，通过24个独特漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338096&amp;idx=2&amp;sn=20c08209ee2263363936670b6630dafc&amp;chksm=bc18fc9ca9f6251ad894bb5d356d71afe6c1796b0d65521646d2145ef69c37f5b2c932f27ef0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI中转站的黑与白；OpenAI推出Daybreak全新网络安全计划 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖AI中转站的黑与白🗽OpenAI推出Daybreak全新网络安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338096&amp;idx=3&amp;sn=11a1165f5c3a0239f8b2f0538e53cdf4&amp;chksm=bc2ab3da5af7f47e6b9a7ea981c85667b4db1245489242fb4a8200f1a800a9258e5d379da5dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个月内第三起！Linux内核再曝Fragnesia高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0cnvKopR5aLE5LicBqOKeic8q65xUlnjsx6cm2AOazGXP3Tdye7YLHfxgdE0eaQ9icv0jduKT6WNdmALqtunRuX1YW9eGlkcEPuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>继上月的CopyFail漏洞和上周的Dirty Frag漏洞之后，Linux系统管理员又面临新的安全威胁——被专家称为“重大漏洞”的Fragnesia（CVE-2026-46300）。该漏洞与Dirt</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338068&amp;idx=1&amp;sn=9335c92eddc331359b463b05680c15c0&amp;chksm=bc83250961441bccd182367e5422d4e09f64ad06db20f8b7364217744fbffa0f4e02dd2b555b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 18:31:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告：AI重塑白帽圈，暴富还是出局？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1dgwnTMZ2JRTfzYQsDeZnnoEgPaKx0Bia1KicVXQePFoibNQpNF1B4rTMvVsZ1e0vQK4IY5cMh1m3kPz7PmswTdmuxpqpzoBjI68/640?wxtype=jpeg&amp;wxfrom=0"/><p>澳门世界白帽大会即将开始，各路消息铺天盖地。但热闹归热闹，真正让师傅们心里打鼓的问题，一个也没少——AI到底在帮谁赚钱，又在淘汰哪类人？5月20日20：00，我们把这次要去到大会现场的AI大模型高手，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338068&amp;idx=2&amp;sn=522ca2e5a8758538fa7714e9b6c93348&amp;chksm=bc6d03f1da61516d55cbeb3a499e3ec5a2be41c3f35ef7c2bc67081b8beb6ffb21204478cd95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 18:31:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0bo11TdaG7MOHVVue0N3hAhCV5VFtT70c0UyHIdz8eBRqDG63ey0iciaHHfbPXkd7xelaBhMsX86Hs9DmA3PSkpaEibSmrM1nQB4/640?wxtype=jpeg&amp;wxfrom=0"/><p>位于帕洛阿尔托的网络安全公司Calif的研究人员，运用了源自Anthropic秘密研发的Mythos AI早期版本的技术，发现了macOS系统中两个此前未记录的漏洞。这两个漏洞被串联成一条权限提升攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338068&amp;idx=3&amp;sn=ec852c0555a28937b0484b3f02289f2a&amp;chksm=bcdc8dc582d7d5fe99ac73dce0d663ec1bd7280edc1714cc60a62f260b2de0c63f4e0c6eb389&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 18:31:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows DNS客户端漏洞可导致远程代码执行攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX25VFBpgiaQpahV9Sh9XFjT8MGrxy3wUmVNe9tAPIfLQZbxqrCA1G5mYNCxEj5sLUzrgfCLP94RLsEpyjrfzFvbnzOqia56P9Z7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软Windows DNS客户端中新披露的一个漏洞可能让攻击者悄无声息地在企业网络中执行恶意代码，暴露出巨大的攻击面。该漏洞被正式编号为CVE-2026-41096，CVSS严重性评分高达9.8分（满</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338068&amp;idx=4&amp;sn=563d9960f8b7d6d2db2cd92b5c82c67e&amp;chksm=bc30fccacda346b384729e184c04eca7522775b823969f67ec89cc3973efa2bbaac97adb8865&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 18:31:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[号称全球最“危险”的AI，Anthropic Mythos实测curl仅找到一个真实漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3fdgM4XtVwopfyVDXsWxbWRPibGrGL5rIFX4dPxVFLMYYcfWwt7MJDQchEY8jvdBI8zj77ibtEibyViaRiaWOia7lG7tc8wt3MDyKibE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年四月，Anthropic公司高调发布新型AI模型Mythos，宣称其代码漏洞检测能力"危险地强大"。出于安全考虑，该公司决定暂不向公众开放，仅向少数大型机构提供访问权限，使其能优先修复关键漏洞。业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337950&amp;idx=1&amp;sn=12d64571335d50c1b93389447dfb8ef1&amp;chksm=bcdfaf18ec0e9c06103c27122ac4200525741089a0afb253bbe3298edd6d50d13c3094993388&amp;scene=0&amp;xtrack=1#rd</link>
@@ -267,48 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1fLkANeJlyCJCgrbmc7b58d95vBvY6m1Xs338lDAW0CSgfXEAUuFwxhfwHd7SDcQX32Dg9Eib0Uh3k1ibPNyayribfUE7MKJO7Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球使用最广泛的开源网络协议分析工具 Wireshark 近日发布重大安全更新，修复了 40 余个漏洞，其中多个漏洞允许攻击者通过注入畸形数据包或恶意抓包文件实现任意代码执行。依赖 Wireshark</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=3&amp;sn=320ca8e08f2d3ca1c2fea6f48ac046c3&amp;chksm=bc7942a0e99db59f632d916d3bfada576719806ef558c08d0f44df9ec6f877b56360987e7a87&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[后Mythos时代：零窗口期威胁应对新策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0gn3RxlDTUE4YWfML2PDTEIUXSEa4gtjqicDdrMWzCbChMVBCSghJtBY9JiamCTwWZMpUT3OL8qdQgJNA6LHBNeDMPLTtAy72IQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当补丁修复速度跟不上威胁时，NDR（网络检测与响应）技术成为遏制新一代威胁的关键。Part01AI加速漏洞利用窗口消失追踪AI技术进展的从业者都清楚，漏洞披露后企业赖以修补防护的缓冲期——即漏洞利用窗</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=1&amp;sn=a81116f5bee6baa8207a60a3fa8a0e13&amp;chksm=bc7675b928f4cad986c4548c167ee09145a800ebd94e30b3c141ce0c1e014a3358e321f50a41&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor AI 扩展可窃取开发者令牌导致凭证完全泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1iaMavK8IZoFGy71WVDhGGj5Gib6euyA1JchHMhSTic4PZuwdYpjCpbRtwuAnRCHynKWFZUWcvEBbicsOGDrrvOxhudYSPVSOic7yo/640?wxtype=jpeg&amp;wxfrom=0"/><p>广泛使用的 AI 编程环境 Cursor 曝出高危访问控制漏洞（CVSS 8.2）。安全公司 LayerX 发现，该漏洞允许任何已安装的扩展秘密获取开发者的 API 密钥和会话令牌，导致凭证完全泄露，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=2&amp;sn=42f1a0addc80e4ddf763bd1e206c81ee&amp;chksm=bcc165d9e49596fbad1b95906f33e3c3ae92880378609cfbe3c8c36f1c96b4ba22ce460a950a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[cPanel 0Day认证绕过漏洞遭野外利用，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1K2a8icJp3xk2I0TAWHmuLByKWCCiaEia5zeVEA6IkVnbGU6BJEzurxGcHEzsc9vAQYG6WWX0iabjicicBzt0o8Yt03QSFloqHN0Ups/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球网络托管行业正经历一场地震：cPanel &amp; WHM 中被证实存在一个关键认证绕过漏洞（CVE-2026-41940），且已遭野外利用。该漏洞允许未认证攻击者完全绕过登录机制，可能获取托管控制面板</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337612&amp;idx=3&amp;sn=f494c23dbaa139711b7ff32ec2942c02&amp;chksm=bcc3e32f0cdddcc0ced74be34dbe8910133d3f9e04d135ba8eaae46fea065ef1dde897b09dea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux“一键Root”0day漏洞，影响2017年以来所有发行版]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX25O8JFkb2yBHvOTDDOMeibqCyeY2TZib7tNynAj7vaRtiaxDduK4QJqsPTI5AStTyKGaAOejAeSiaiajS5ssUhrHbNSxU6jGhO7ia9M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 内核中新近披露了一个名为 Copy Fail的高危漏洞（CVE-2026-31431），CVSS评分7.8。仅凭一个 732 字节的 Python 脚本，任何无特权的本地用户都能一举拿下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=1&amp;sn=9ffad7730fdbd623cf083f218ab58c44&amp;chksm=bc1c835d501cdf04c47d179e46b34f8fb78cc01ed0b8de4d73a7d072b75bad142a03d908c639&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能攻防元年：渗透测试Agent迎来大考，AI如何从“能打”走向“可控”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3DzcL0djprKTS8w493DdiajiaeeKM7QOiccb1FxTvZhlsuiafDPBA2m6jJmtcnv19icvwaeCiaWiagq5TZBZ0POm4P3wQe6zmVh5gHxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月25日，北京，第二届腾讯云黑客松智能渗透挑战赛决赛在极具极客氛围的场地中圆满落下帷幕。大赛以“铸刃止戈·以智御危”为主题，吸引了610支战队、1345名安全极客与AI研究者参赛，远超首届规模。经过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=2&amp;sn=ffda9034a47f79215cf0f556e5995c73&amp;chksm=bca8195f6139dce836d7e75edd91fe68d8a89226438c5a8eb204b503402d804fac1569a36a64&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LiteLLM高危SQL注入漏洞遭利用，AI网关凭证被窃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1PgEmmlSeIMu1qBB0yWr084dXAKKazFxCiagOwkQYtZOGQNOBVl37XsxIpIBhic2ic9phOBANUIl4J2XJ5q2Kd4Hxic3kia8eV8icac/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款拥有超过22,000个GitHub星标的开源AI网关LiteLLM曝出严重漏洞，其预认证阶段的SQL注入漏洞（CVE-2026-42208）正被攻击者活跃利用。该漏洞使未经授权的攻击者能够直接从平</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=3&amp;sn=6c27e55b17cfb07f315d1188556bf6e9&amp;chksm=bc788156aec546dba44658deccbff9c51471b640a002d9942622bb14caeb9a1ff580e5537e32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub高危RCE漏洞可接管服务器，数百万代码库面临泄露风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX170gqKFEvScY7VQia7N8651P3ckyM74micRj8ETC952742uGrW3V7Ru1uZY5GHOuv5PjiaibNibnOgQibqYEFkSJ9MvJQdFLlGZbflA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub内部git基础设施中存在一个被追踪为（CVE-2026-3854）的严重远程代码执行（RCE）漏洞，该漏洞可能允许任何经过身份验证的用户入侵后端服务器、访问数百万私有代码库，对于GitHu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337597&amp;idx=4&amp;sn=26fabe87862f8d1a355f0457ee53276e&amp;chksm=bce3db0d73065f0f8bae550ef5712f1e822748ad5010291f95e32cdec8293d4dbf5aeab27714&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

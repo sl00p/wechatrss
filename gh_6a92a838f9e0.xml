@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[bili-fe-workflow —商业化智能开发工作流实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6SSoo2I4ltK0E0q0jibickEszQl1ibAbvTM5MHoaGegRo3SjrqOFO9kcibUxlMVTZlt5bxDTZGvicoSKkLguPyYngHn1mMOyiaJeEXuZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景AI发展迅速，曾经 AI 只能帮我们补全下一行代码，到现在 AI 几乎已经可以在我们工作的各个阶段都提供帮助。创建需求、分析需求、分析技术方案、编写代码、调试bug、测试、性能优化 等等，几乎都有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504231&amp;idx=1&amp;sn=bea903410681034074d405e4c8ac6aa2&amp;chksm=ce367eddea1290ba0596d645c4772f45861fc3867932d47899f1799c2269956d9812186646e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPU隔离技术的分析与改进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6SQ92KqoeGPiaq5EWrJuF1D1yokOngqC4FXzMOJMtPoHuJiaPpsjFDiaWia8brUTuCHQF6INDgNJ58Zb5mmgzfib4icenuLdoQaCpnJ5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>一 背景随着AI技术的快速发展，对GPU的需求也日益增加；但是，在实际生产环境中，受限于业务的模型特点及SLA等，GPU利用率普遍比较低，硬件算力被严重浪费。在这种情况下，GPU隔离能力对于最大化利用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504182&amp;idx=1&amp;sn=bc1a7cd1fca0ef7a0525423120a531bf&amp;chksm=ce75726a2739410d4b6033c12c3b466eac49f137dcd6c317e412bd94a83039267bb7f48ddf8c&amp;scene=0&amp;xtrack=1#rd</link>

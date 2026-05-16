@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.05.08~05.14)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiclsCqfgNg3RpGFcX4XwcS2ZvnDD9t73Q3bVYQsxmSibjHs7LSVQZRZ8mQlMf9WicT82xxmIibau1YWsjucTW8yJC9hU5YfrzeRNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.08~05.14攻击团伙情报EasterBunny：归因于 APT29 的高级间谍工具Kimsuky组织依托GitHub+Dropbox分发恶意载荷的攻击活动分析Lazarus Gro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518815&amp;idx=1&amp;sn=bc9a60ac5943fb9a8e839c9be78483f8&amp;chksm=eba3aaa702afa9bd3fbb51f368757ae5a4e9ba88905d97cc829b51fa650ee699c4ab7132ffe3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 10:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[秘密活动6年的神秘黑客组织Mr_Rot13正在利用cPanel高危漏洞部署后门木马]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicPwQLR0Pf7EViba4XkgfGMbYH7fk0fZrD0pzQHoZsicK9MYfcaxXmjjg20gF5T7jGQyrHt1ah6xll36ficPIFtLmSOmceQkYficaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景CVE-2026-41940 是一个影响 cPanel &amp; WHM 的高危未授权认证绕过漏洞。该产品广泛应用于 Linux 服务器运维与虚拟主机管理。漏洞 CVSS 评分高达 9.8（Critic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518785&amp;idx=1&amp;sn=8777ef11aef31d8aa6472fc48d7a53c2&amp;chksm=eb018e908b496c5191629b57a696aba5d934c8f7ce98c4339f0f8de0db163a8322772ad87401&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic80Upy254ZlHChqCWZxV9Eiacd5icT6IicvLg4gdCBnyXGyom5OqxiciaUqiaq7iaodkmmrp07VtJyiap3L1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一章 安全通告尊敬的客户：近日，奇安信CERT监测到官方修复React Server Components 远程代码执行漏洞(CVE-2025-55182)和Next.js 远程代码执行漏洞(CVE</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516887&amp;idx=1&amp;sn=37159cfcf5788326fd194b5cad50c4c2&amp;chksm=eb966019388f1ed305ebbb234eb4447d7370debc1740c3442c0fe1a538147d813826c226242a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 04 Dec 2025 09:22:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[摩诃草（APT-Q-36）利用 WebSocket 的新木马 StreamSpy 分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic8NltQkJoOqbCsL9V72DEYfxa1JbJ4Cs56TYl3R3FBDY6GfnZYHSicrZp5qH1EBpcicwO5BNgDKD0SA/640?wxtype=jpeg&amp;wxfrom=0"/><p>团伙背景摩诃草，又名 Patchwork、白象、Hangover、Dropping Elephant 等，奇安信内部跟踪编号 APT-Q-36。该组织被普遍认为具有南亚地区背景，其最早攻击活动可追溯到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516879&amp;idx=1&amp;sn=45c8e73b57bf480cbc95aad6dce7cf55&amp;chksm=eb19edbf5891ef9438280d1e193b6eaedd75d740beeca323de7f017454b818d5db1523a446ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 15:12:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

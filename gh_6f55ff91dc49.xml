@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 上 1.6 万人点赞 AI PPT 工具，生成的 PPT 能编辑。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fbq7v7a2icrbnHtjpRLBewIewxuunTVySK2h4CU9FcuqegHANTLaGqx38Qn8wwqk2d1CIvjhAwaUpxA6sSn9ltWYO7OiclzhSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 PPT Master 的开源项目，是一个让你拿到手真正能改的 AI PPT 方案。AI 生成 PPT 这件事，折腾了快两年了，说来说去大概有四条路线。第一条：套模板。 换换文字、换换图标，效率</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533700&amp;idx=1&amp;sn=c2ec1dc4e0b48c74944aa7117558a1ce&amp;chksm=f87f2baad92cd8e2b4116d46279da3795e48996a3fbb8fd9b6ba7027c2b24e135ed02650dfc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 16 May 2026 12:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 上狂揽 1 万 Star！这个飞书命令行 CLI 开源项目起飞了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1QezkAdJiawQ0U1WrwYqibgm1EIiaa9eTBnWdyORT0804bDIOULh0DibDzrrRLWFrTOiceW1ucOo9xmjD17fSsMCrKRiaqCNEr9HAI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GItHub 的时候，看到一个熟悉的项目冲上了新里程碑：飞书 CLI（lark-cli）Star 破万了。从 3 月底开源到现在，不到两个月，10000+ Star。在所有办公软件 CLI 里增速</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533685&amp;idx=1&amp;sn=17ada2c23cc8647278202e8fab3508ee&amp;chksm=f871d89e3f62d3a7e45c74a96bcfe4ee5aaf038f10c13f61248019d1dd63307bbd7a3c6202d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 15 May 2026 11:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1EbAoFAQAAdicwiaHkPiagsSfCr3QSWdB26lfR3kKxJ17S2M0BdiaCvGEPubSJOmXYYyvDvS4Yib4ib9jEGdMglWxgdDEkUPSSLqA84/640?wxtype=jpeg&amp;wxfrom=0"/><p>面壁智能又开源了一个 1B 的多模态模型：MiniCPM-V 4.6，所有手机都能跑。这是 MiniCPM-V 系列有史以来参数几乎最小的模型，只有 1.3B。但多模态综合能力，打败了阿里的 Qwen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f&amp;chksm=f8400141610666803121432d804b583eaa68eff2d5c7d2e68f82a4e8d4fa7789c6d8588caf34&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2qUIMWN9xH9j4AHibiaLwn1Tf44q3QQib0faTvlzMx4l9Wf9sibaia9iaAicQal1NdSBXW3XvL00A5jufVY8mGRSuDXzjInERzxozUJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用大厂 PUA 话术逼 AI 给你打工最近 GitHub 上冒出来一个离谱到不行的开源项目。之前也提到过，这个 SKill 核心思路就一个字：PUA。你没看错，就是把互联网大厂那套绩效考核体系原封</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532503&amp;idx=1&amp;sn=9901e0adfc35f7d7c491a0977ec442c4&amp;chksm=f83db92d9895c055382e5c1f8abb913ba5b6ee35d94f45cf2ad1dcdb7ee6f20c542095434c4b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3FjDtmZSZk4N3vSHfHwRiaNXgI21o8yOw2373RxibgF8euVgr8t0T2Jia44ibB4u8H7NhkbkopmiazhHKIFU9JlPO93PNfawDaicq8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>港大刚开源了一个项目，干了一件挺猛的事儿。一条命令，把任何有源码的软件变成 AI Agent 可以直接操控的工具。不用你自己写 API 对接，不用搞浏览器自动化，把软件源码丢给它就行。它会自动扫描代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f&amp;chksm=f80d9e1a03362f204c15544c395cce61e3990890222d1a607725f713d01df9b318e51e246c39&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 15:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源 2 周 5 万 Star！AI 大佬开源了一个自己做实验的工具。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2EichBDx2Bb741aflSEyJDYp3MThyH5DgjFFkSLdIOzvsDX4BwDpUGRhvWbNwzp9yI3UuXvaVusGcyVxeeLSNcsgiczUUjRbacE/640?wxtype=jpeg&amp;wxfrom=0"/><p>几个月前 Karpathy 发了一条推文。讲他花 1 小时 vibe coding 了一个心率实验追踪仪表盘——超级定制化的东西，就是为了追踪自己 8 周内把静息心率从 50 降到 45 的进度。然后</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=2&amp;sn=5f7aa069d2da91923ca2dddb3f98aeab&amp;chksm=f8098fea1987be414db83dd8ce93135cc9bb30d494c74ff0f661777f334bc87caf991655ebc4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

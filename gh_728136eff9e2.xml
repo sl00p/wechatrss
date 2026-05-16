@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[回家的时候用车，不回家感觉又没啥用，这车还要不要买 | 沸点周刊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcP4WUxypJcFwyV8MyZSohmXG5FNlPuf2kyFYMgMqia9jib5krHOgXcV6z4y8BoShNHkibxHkibebIvuz5d12gz11uTvTyJ8zd26iaJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周话题推荐TRAE移动生产力拯救通勤党、出差党的神器来啦——TRAE SOLO 移动端正式上线，不用带电脑，手机就能搞定高效办公，直接把碎片时间焊死在效率上～妈，我真不是修电脑的我妈眼中，我≈修电脑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547917&amp;idx=1&amp;sn=45d940d72133c88cac0845951f591ed4&amp;chksm=fd9a0d57ca6dcc0ccbbd5571f8a03643a6a671fa3beba946db818e54ab3eddf3441879ff67b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 16 May 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TRAE SOLO 移动端正式上线，不用带电脑，手机就能搞定高效办公 | 沸点周刊]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcPvDrAyWBbDVaAjMR0sKZ27hlFpBzmsDrzibiabHuH6XibRWkR8jHLibTEJnw2koE0gib1GkUu7FhvgbiboiaeAibCxqYGlRjTXIUpJT6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨ TRAE 征文火热进行中，速戳上图了解详情🔍）本周话题推荐❝TRAE移动生产力拯救通勤党、出差党的神器来啦——TRAE SOLO 移动端正式上线，不用带电脑，手机就能搞定高效办公，直接把碎片时间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547906&amp;idx=1&amp;sn=2f19802b3b4a9cc92a5b992f33e9cc2e&amp;chksm=fd6f1ca0a8733bf1adc003e455f1ec61a5273a65a0e0a265f33117d117a778feecfb8e1fbd91&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvEtSnY40Vaq7ng2zR4Ve1ahOq2WABNtnZGZzFcCzHsiaAWgZXxhx2ljdu6S72ydicgyqib4EN0hw4kQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在前端开发中，我们经常会遇到接口返回的文本内容过长，无法完全显示的问题。为了处理这一问题，通常会设置固定的宽度并使用省略号样式（text-overflow: ellipsis）来隐藏超出的文本。然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546917&amp;idx=1&amp;sn=9e42133faab02eb9a5b09af2f022b774&amp;chksm=fdeb0af165a138d3ac6f9c86320c1d53cd04207cb6c7c55ce2e5403c799ce8229e3645c5cd76&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 16 Nov 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 58MB 到 2.6MB：我是如何将 React 官网性能提升 95% 的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtOd9Dx3wWv9qk5BaQY3HJo3icxurBnqmFiaoxe8pyJAjTsS8hYJJccxatbiaxg9C1vjAXGqdpOxtKmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 58MB 到 2.6MB：React 官网性能优化实战全记录❝一次完整的 React + Vite 项目性能优化之旅，将首屏加载时间从 4 分钟降到 13 秒，节省 95% 流量成本。❞📖 目录引</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546906&amp;idx=1&amp;sn=d2a66d7a5de6ab4bacb238ef85edd381&amp;chksm=fd671a66523b837994e7fba4cef2df446d53f43e23c4292abd6ec5a261a883e3d4a5983ba7dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
