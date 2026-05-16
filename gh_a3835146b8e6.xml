@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[马斯克彻底把X平台给开源了，但是我却复刻不出来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQHSJGVAlnoAp47FeKNdcRsCOQNuEo5cexnRTKUSkick1lSVzPDVOqovEuPibc7o5KGOPsCaUUztR62qChD0DDWfkgeGE4wM3kw48/640?wxtype=jpeg&amp;wxfrom=0"/><p>马斯克把X的推荐算法全开源了——从候选召回到排序框架，甚至连迷你版模型都打包放上了GitHub。但别急着造第二个X：训练数据、生产级模型权重、广告竞价策略这些核心机密依然锁死。这场"透明"更像是一场精</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651927323&amp;idx=1&amp;sn=959c2d7c4a27fecd0aaba0bd9b674845&amp;chksm=bc10f20c63f309db60167d188551dc7fbdf54eac767a3f0f231fb7d49a6d9738365017268722&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[写给产品经理的"AI工程"指南：提示词工程、上下文工程、Harness 工程到底是啥？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQEOIg9t3ibQPSUibnboJ5cANribABgLpUreGg1waXc1LAWYRNez0rvic1PyZHCKPCFZztWK6Skec3ibKZKUZ45ibaM2JB6CCfkTmOLC0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近直播和社群里，被问到频率最高的一个问题：提示词工程、上下文工程、Harness 工程……这些「XXX工程」到底啥区别？产品经理要学哪个？先回答：所谓「XXX工程」，就是更规范做 XXX 的方式。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651927323&amp;idx=2&amp;sn=be26bb365733db4897315a87abfea2fd&amp;chksm=bc0d0ce070755259e44d5c3603f6dcecb25f960ef973d4292a7a047dc6613e974832d8ed932a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[我用2000篇文档蒸馏了自己，结果只得到了一个低质RAG]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQHA3WqgyXr4n4yNIKurEswlHicBUjibXnAdpKyCaAFOVBib4sZIW5lqXKUsAiaHvFu0QgzWIAsaIFkf5EfRkmN8bJsAunjicNh9ce9E/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 Codex 与飞书文档碰撞，数字分身计划却暴露了 AI 的认知鸿沟。本文作者将 2000 多份工作文档喂给 AI，试图打造能替代决策的'数字分身'，最终得到的却只是低质 RAG 系统——它能检索显</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651927323&amp;idx=3&amp;sn=aad043f513861be428bc02c16d432f32&amp;chksm=bcf066a9953f93c2ac68318df291201a43fec096a9339bfc6cc3ddfd9dccfba4a8ac363df2de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[小红书重塑肉身]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQHPIjWBKTwpXaRVN1NsPiaxn4ZLmMpXoib8oLKOzXJy8tK9DCHwHk9EyYPOiap25dNZx4huemQVmWBVyxgxfIP3bdRSiboz4JuruVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>从创始人公开炮轰算法机制，到整合三大业务成立AI一级部门，这家估值310亿美元的平台正在用组织变革回应核心矛盾。本文将深度剖析其如何通过流量机制改革、电商战略调整与AI技术融合，在IPO前夜寻找商业化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651927292&amp;idx=1&amp;sn=54cccd951c6a4091d3522e69048cf009&amp;chksm=bc6b7e6cec50d733d0a7e3dc5d6d5c1e7f1b548c40bc3e49cfb742424a5cf6dd7a5d3e07957a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQFJa9eVia3LqSvXolO2ysGxaTiaictP9PtTF0jPzBT7ib3WTxzKF1R3icLQG50Bfx6k1tLSgeXZxo1NQMKpiamh4UgZeJgSZUTjz7ib6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 正彻底改变产品经理的工作逻辑，消解开发、设计、运营等诸多等待节点，让产品思维无需依赖复杂组织即可兑现，真正实现 “自己说了算”，这正是超级个体的核心内涵。上周团队在讨论AI对产品经理的影响，有个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651926872&amp;idx=2&amp;sn=28fc768f64835964caf2b445f898acf5&amp;chksm=bc7a6feb351834b73204c429602650c5048d15ce493d76999179d2dbd08f0c63565da9905711&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Apr 2026 07:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有人发育有人失速，木鸟途家美团正在分化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQE2moq7whA1HLz7ByiaoibFdaETgHZvbHnVzYjmk0LqvrhLgpqXOlZZNLnCwxhl2yIoRiaWrc4eFKmEHNsiaWKsGWKyeEFXaqKNuH0/640?wxtype=jpeg&amp;wxfrom=0"/><p>五一假期临近，三大民宿平台竞争格局逐渐清晰：木鸟民宿凭借网红民宿定位和下沉市场布局持续领跑，途家深陷自营模式转型之痛，美团则受困于流量依赖与低质房源困局。本文深度拆解行业从速度战转向耐力赛的关键转折点</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651926872&amp;idx=3&amp;sn=3a8f7a4669ac18648701c3d65062d5e1&amp;chksm=bc53ca49be17b8bc60b83c81bf2dddf31670f9ab979d78e4fd6346bff54f31596d81f7d9ecba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 07:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[20万字不到1分钱，梁文锋把token价格打骨折了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQHrpqvCKxmCUWcVQGpuibO0am2yz52gk0CESwDAMicib0pYjKILzMuJpDLL2joXQFQCmbnxibdofaJibcl0ylXuFMkHdYVnsicic6ftG4/640?wxtype=jpeg&amp;wxfrom=0"/><p>当同行还在涨价保利润时，DeepSeek两天连降两次价，把百万tokens成本砍到2分5厘——读一本《挪威的森林》花不到1分钱。梁文锋不是在打价格战，他是在重新定义"AI基础设施"的定价权。更隐秘的棋</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651926852&amp;idx=1&amp;sn=ffaaa01b0ce055f5f03df8bdf1264ba9&amp;chksm=bcd923eb05d8924607cff58e57133c48f0217c3467564af7705efb3e379824efe68cb7437b3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 07:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[五一5天AI编程共学小组——做真实项目]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQFamclwibcoTC1H4JQ1sBlcicvBNEKbqUrG3yOntTT1dPdPJ0J4rFtIxnqmeiay6yWmIic3IwYjSf9DxafTPsZMumkxwszW9ydO6dU/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年五一，如果你没有出游计划，我真心建议你把这 5 天拿来干一件事：把 AI 编程真正学会一遍。不是从 HTML、CSS、JavaScript、Python 开始背概念。也不是对着收藏的那一堆“零基础</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651926852&amp;idx=2&amp;sn=8dd92b37fbca9e7a94ebe8ffadd34c52&amp;chksm=bc90db517ba1b2ab9f5d273ee9b339b2025aaa45afe1c8eaf62edf000cd14f8195df9a18f1b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 07:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

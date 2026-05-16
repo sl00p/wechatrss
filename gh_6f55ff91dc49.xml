@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 8 个本周 YYDS 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2uWPn2grdmibQ0iaDoYUTdqM1JOENd19AWVBdoDstCXfRy0oYz4KgzH5TPsSbB94IdKFIYmftEaFyAh1GvWXUvbsjvbE2AlZTVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01本地深度研究工具OpenAI 的 Deep Research 很强，但数据得经过他们的服务器。对于隐私敏感的场景，可能需要一个本地运行的替代方案。Local Deep Research 就是干这个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533773&amp;idx=1&amp;sn=2453c3940c24a3ada6fac1b362070b4e&amp;chksm=f890c127510be519051d7b0d9b47c8bdbf3941dc3f78e0539d915ea2df6887d5d265cafcad26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 16:59:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 上 1.6 万人点赞 AI PPT 工具，生成的 PPT 能编辑。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fbq7v7a2icrbnHtjpRLBewIewxuunTVySK2h4CU9FcuqegHANTLaGqx38Qn8wwqk2d1CIvjhAwaUpxA6sSn9ltWYO7OiclzhSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 PPT Master 的开源项目，是一个让你拿到手真正能改的 AI PPT 方案。AI 生成 PPT 这件事，折腾了快两年了，说来说去大概有四条路线。第一条：套模板。 换换文字、换换图标，效率</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533700&amp;idx=1&amp;sn=c2ec1dc4e0b48c74944aa7117558a1ce&amp;chksm=f87f2baad92cd8e2b4116d46279da3795e48996a3fbb8fd9b6ba7027c2b24e135ed02650dfc8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1iaanZo9jNdGVN8DPgQicEOZWzTGEvSC0icN14GPTcmpYwabiaSsh9qXspgnXn6dGwAZK2pZq2znQ4JlxtYN4pFiaOOyxrpBpicWrIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01美团开源大模型上新美团龙猫团队开源了一个专门做数学定理证明的模型：LongCat-Flash-Prover。 数学定理证明不是算对答案就完事了 ，它要求每一步逻辑都能被严格验证，半点含糊都不行。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532504&amp;idx=1&amp;sn=caf0776d5777153444ed66019db4ac12&amp;chksm=f85c18eccbbbde19c3a7d1cc95f541d0a7e2b95b430012aec007eeda4a4ad5fa6001cd570722&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 16:19:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上这 4 个抽象离谱的 Skill，看完直接笑掉大牙。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2qUIMWN9xH9j4AHibiaLwn1Tf44q3QQib0faTvlzMx4l9Wf9sibaia9iaAicQal1NdSBXW3XvL00A5jufVY8mGRSuDXzjInERzxozUJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用大厂 PUA 话术逼 AI 给你打工最近 GitHub 上冒出来一个离谱到不行的开源项目。之前也提到过，这个 SKill 核心思路就一个字：PUA。你没看错，就是把互联网大厂那套绩效考核体系原封</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532503&amp;idx=1&amp;sn=9901e0adfc35f7d7c491a0977ec442c4&amp;chksm=f83db92d9895c055382e5c1f8abb913ba5b6ee35d94f45cf2ad1dcdb7ee6f20c542095434c4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 15:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

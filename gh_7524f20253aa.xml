@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos 5天攻破最强硬件，20亿台苹果设备的安全逻辑正在被改写]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FlNCicibiavCiayGl06tLgngD4oDopbVIAyyhyLscjgKhQ949paLKicjG4rribCDR0IDyXBkObQic41MhEDZO9XNt7XrNiaC5LFYLcI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，苹果M5芯片首次在公开的macOS内核内存破坏攻击中被成功利用，成功绕过了该公司著名的硬件级内存保护机制。来自Calif的研究人员Bruce Dang、Dion Blazakis和Josh M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338157&amp;idx=1&amp;sn=8b718edde6818a21125c9dbe463ed7c1&amp;chksm=bc155eccd2e7348b1a3bc88527c0741db1096dad3efacdbc95a501335de59d43c8e01073b49d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核高危漏洞曝光，可窃取SSH密钥及影子密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0OU7jguY8WNFt2Yia8MU5aBgodwZwyPCEACv7iaBBvmWEGJc2gq07qpkqtAAXmAxOlwvKzVjhUc09WoBB0E0kIatUyZejeicGFL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新披露的Linux内核高危漏洞引发全网安全领域关注，该漏洞可让攻击者在受影响系统中非法获取SSH私钥、用户密码哈希等核心敏感数据。此漏洞编号为CVE-2026-46333，定名ssh-keysign</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338157&amp;idx=2&amp;sn=20e90b5cc53be97a19d7345f6c4d5fbc&amp;chksm=bcf938c3e7674932e372102780b0fdab1305bacad2b1fa66fe4ab14e05bd848963f9a0c5100b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：自动化信息收集 ；Linux 史诗漏洞 ；热门神库漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338157&amp;idx=3&amp;sn=730200903c75de6259fe0bdde32fbbfc&amp;chksm=bcf23e0edfc423ff12793c1ca65e84f66a0b18078551be2e5760d7a690cedfe227330a3de057&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 17 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 曝出四大漏洞，可导致数据窃取、权限提升与持久化攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AFibxhnQaOFlqnwkYZEzlND4vQr58IPxlu2ibxcfZ3zN7wL4MPvSb8CaVWmlNMYF0cAFGdvor6Wznzm0xTE5A1noxuRMGt9Ueo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了 OpenClaw 中四个可被串联利用的安全漏洞，攻击者能够借此实现数据窃取、权限提升和持久化控制。Cyera 将这组漏洞统称为 Claw Chain，攻击者可利用其建立初始立足</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338096&amp;idx=1&amp;sn=06f17977eb2e4c358af71b5bf94b4a1f&amp;chksm=bcea1aa3f9733db693622fb49050d8ac0eebc8346c1c287236c0bcd964d02c022ff4c6181d59&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337671&amp;idx=3&amp;sn=0ac5439cd7932ffb2247b978ae826830&amp;chksm=bcdf60c1ed549fa0d72c9b42d04d6ca241136e0536d214f7bfd951f0dabcc280c8de5b8dfb08&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 03 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic推出Claude Security公开测试版，AI直接扫描生产代码漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yOBzESmDNv2Wob53WuIKfjicRBmtbFicC8yhzu9E8yDEickl6ILJqr7enTr8lavSAmVibxWZOCXSSM3tmM4npeHFQgGwXSoNtfia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic已面向Claude Enterprise客户开放Claude Security公开测试版，该产品能将AI驱动的漏洞检测直接集成至生产代码库，无需定制工具或API对接。Part01端到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=1&amp;sn=be2ea2af3af6f99c44e660aa671d8e92&amp;chksm=bc2da4a77955d9a0cd713cdc13ebe4b1a6a3a1183e9ba343a2d993a895407d587a855c460b2b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Python 新威胁：利用公开隧道服务，批量窃取浏览器与云凭据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3QpBdpgGFfDQibQHwUFcuwa61hhpicmia3bg8umMwTRu4EkZboF5W04rXicgSgVvGryuIeDWVVV2HBJbwlDSZA7KNQQud91KnGv84/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日披露了一款名为DEEP#DOOR的隐蔽Python后门框架，该工具能够建立持久化访问并从受感染主机窃取多种敏感信息。Securonix研究员Akshay Gaikwad、Shikh</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=2&amp;sn=ea2bfceab9bebf05aa79f9e76893e860&amp;chksm=bc130db1b676885bf6b8232262ac04b4d8366b4f39c155a6b1014d26995e5b24f4963ca98e5f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Wireshark 曝出高危漏洞，畸形数据包可触发任意代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1fLkANeJlyCJCgrbmc7b58d95vBvY6m1Xs338lDAW0CSgfXEAUuFwxhfwHd7SDcQX32Dg9Eib0Uh3k1ibPNyayribfUE7MKJO7Tg/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球使用最广泛的开源网络协议分析工具 Wireshark 近日发布重大安全更新，修复了 40 余个漏洞，其中多个漏洞允许攻击者通过注入畸形数据包或恶意抓包文件实现任意代码执行。依赖 Wireshark</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337648&amp;idx=3&amp;sn=320ca8e08f2d3ca1c2fea6f48ac046c3&amp;chksm=bc7942a0e99db59f632d916d3bfada576719806ef558c08d0f44df9ec6f877b56360987e7a87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
