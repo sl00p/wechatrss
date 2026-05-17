@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从0开发大模型的17种Agent架构演进详细拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904mlTY41PcTKqibOktmnEticzGIQAtZMZx9an3pjAYjmhRvIeG5iapPDc7vAEtDlVDkFTFYJlyvrfibicopCq5vQ1YfbOibMO34l1NjM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：linkxzhou，公众号《周末程序猿》在 github 看到一个项目 all-agentic-architectures，实现的是关于 17 种 Agent 模式大全，我把 all-agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801545&amp;idx=1&amp;sn=b2d15c583715f519cbec484e8b10abdf&amp;chksm=bfedbc187c8d1294f6081a7097f0109e0be6a31a8e8f522ec968c32d5b06b5353386b3304dbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 17:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元推出轻量翻译大模型，无需联网，手机直接运行！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907EKeqSHpm6AcsysWCU4rDmpuvpPWsic368X03BPJtemBO5CruTINJguWFkpHvicicoWfVpVyZEdOIgPqibVoibSmWcictM3YmT0WOias/640?wxtype=jpeg&amp;wxfrom=0"/><p>你可能用过各种翻译工具，但是大部分的应用，如果要实现好的翻译效果都有一个共同的条件：必须联网。设想一下：你在异国自驾，警笛声骤然响起。还没回过神，警察就在窗边用陌生的语言严厉发问。你心跳漏了半拍：是我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801544&amp;idx=1&amp;sn=2577b3e0d9118e271227e5bfd3e76f8a&amp;chksm=bfc6575ccb4b8e285384e04e40ea6847cc38966087d50e86c3dda583175f644fd8cbaa1b8d3e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvavSNUKbtNzCJf3cutkicHCHA9gfib6I7icfuHOBiaZm46cexXUeLTJ2tHDKVNC7X3RerhwECRBoRZwtyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景当技术掌握在手里，有些“随手一试”的操作，真让人倒吸凉气。今天，我们不聊前沿 AI，也不聊深度架构，而是来盘点那些——鹅厂员工“玩”过的技术恶作剧现场。它们可能代码很短，但后劲很大，以下为 9</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798510&amp;idx=1&amp;sn=e972410ab6e9ba093861d25f80e0e008&amp;chksm=bf682f524800c7b89f2e8ab6554117690585cf71003cb3939a1516b86a84d5e90c944e98f730&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 21 Jan 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有手就行，教你从0到1快速手搓搭建个GUI Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvasR9cFFj0qAOwW0yRvic7cYhVPsOxgPCGnXibElnebzWNYBQKZJWibRtKRsGIBmyME6eHLRINbpoPHfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：zishanshi随着通用大模型向着agentic以及GUI理解增强的方向发展，现在Gemini 3 Flash等通用大模型已经可以直接用来搭建一个效果还不错的GUI Agent，并且实践难度大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798478&amp;idx=1&amp;sn=6bfaffaee1d5aec526aa33e3879cd6bc&amp;chksm=bf47330d996f85ebafd56c435a5ada3ef42d7a541ee359f009449ca378b17a4fcebe517f5b05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Jan 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

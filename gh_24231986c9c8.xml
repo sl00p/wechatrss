@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火山引擎联合中科院声学所在 ICASSP 首届低资源音频编解码器挑战赛中取得佳绩]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedIRq4rlXyPTzaCCsrajyrLQkUuEt1GxXle0sO5y64RfZkn7hvFbmYZnnjxvWIIdzicTX3c8BjhVvMhQ7DdicjuS8zCXbEJD7icdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语作为全球首届低资源音频编解码器专项赛事，ICASSP 2026 低资源音频编解码器比赛（2025 Low-Resource Audio Codec Challenge，LRAC Challenge</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519820&amp;idx=1&amp;sn=5077b3def6dc3ab363d7f3c9b0a97462&amp;chksm=e856e64d0f7c05172e6a50b7179795c032096e435e199bd7c21e28c746c4df418660ce05b80a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 18:19:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重构大模型通信架构：火山引擎 RocketMQ For AI 解决方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeduDCyicoXldXUf9E3IGbvic8eXD9o01HUOpRQJQiaOfSd6JV7wfohvOaZw3MzJGKB0cKYQo36x8eia9wLNZIpFibetIeI5KpzYTwCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC 技术爆发促使大模型从实验阶段迈向企业级大规模应用，但它任务耗时久、算力成本高、流量波动大、智能体协作复杂这些核心特点，给底层通信和调度基础设施带来了严峻挑战，企业通常会遇到长会话连续性不佳、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519789&amp;idx=1&amp;sn=8d19584eda2d9d6dddfdd0d55dc70da7&amp;chksm=e8fad00a94812bce2682db25aeb2b91d245f441172f2396e54693b8a59701eaf6cce842b5c7e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[用第一性原理拆解 Agentic Coding：从理论到实操]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgYKUYIBPqCI8WRukpVicyhjbb8iaN9srTvRBaN9iaz19vU67rnADoxdcef4axtCgPNKmJn5ibm5sJdhA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：小夏，TRAE 技术专家在 Agentic Coding 实践中，提升效率的关键在于优化与 AI 的协作方式，而非寄望于无限的上下文窗口。核心策略是采用“短对话、精简上下文”的模式，将复杂任</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517928&amp;idx=1&amp;sn=67a360ce0119faa8d37d81678eb376a5&amp;chksm=e8368aba201cd3aba0f7a6bb6e5fa02aee9ae5b0d0dab2e6627ba05272d92fe44cbcf80d10e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Jan 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cue-Pro：让 AI 编程助手真正理解你的“心流”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOgYKUYIBPqCI8WRukpVicyhjrRwdTAjkxj6icQAM1cqBjPW9EDOJBCdhHH2GetLCDhHYQicYRicGHO5Lw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文作者：Jacob Jiang，TRAE Cue 技术负责人AI 编程提效背后：我们真的需要更“聪明”的代码补全吗？你是否也有过这样的经历：在使用 AI 编程助手时，它给出的建议虽然技术上没错，甚至</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517928&amp;idx=2&amp;sn=3afe9925ee8cbaec09fde49360a9faec&amp;chksm=e8365e0c412063eebc9c41470cf7d750b4db4058000a8b16d3ef3389f16db0cc76da08de3bc6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Jan 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>

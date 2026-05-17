@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNho6VHxzsPFPnc5sY9kCYWM7pVX8u6JPuNPicLiaichcndK3icGnWozNWBxARm3anEAF30gjDDxqTbqchP7MkaaMYwhmSDBPCmmYo4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王玮、籍云 研发效能，规模化已成2026 财年对比 2025 财年，阿里云 CIO 线的产研效能呈现出一组清晰的跃升：前端人均有效代码量提升至 3 倍，后端提升至 2 倍；千行代码缺陷率，前</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284581&amp;idx=1&amp;sn=14fdab712501627cd59e8a24854c08d9&amp;chksm=bcdbb753da5892bb333c261c06112ff1404baef27eeb6c7b23a3fcd782f88a56f34b438c3bfb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 15:36:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgtq22DiaZ9hUWT4sEIL3RibpLB3K9NuiclIicM9pOzAPoG49gIew6JSZz2xLcOKLc4b9TMYOCPhmialBUwt8PuN8A3iaoCqfvYhgbgY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜openJiuwen 编辑｜杨过 刚刚，华为支持的开源 AI Agent 平台社区 openJiuwen 发布并开源了 JiuwenSwarm。这是一个面向多智能体协作的蜂群智能体。它的出现，指</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284581&amp;idx=2&amp;sn=6e26954b6ccc0cb3ae13789db2f2334a&amp;chksm=bca2b77e42190d392e058194195634d1ee1d51d45b374aa94937c9a50b18efc6b55e87d06f1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 15:36:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNje5Wod3cAeJB58vqtwAFPp7IjyiaGvYsHo34P0bgq7TfFM5KibSEicr3WsfXALU3SaZO8rJ9xk8ev8gw7cNicoCmWQL4tTXiccynVI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Matt Saunders 译者 | 平川 在一周内，两处 Linux 内核本地权限提升漏洞相继被公开披露。其中，由安全公司 Theori 于 2026 年 4 月 29 日披露的“复制失败</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284581&amp;idx=3&amp;sn=b9c948d41e758a1b1d9b49635f638d45&amp;chksm=bc142f38efd1ab7b97c45bfc76e60f66c3d587d6c3ffd31fb4438fdee09572b01aae17c7eb2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 15:36:06 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgnbaplQB9sW0JibAUDibMDbe6LI5bTI4UJb2ByUFv3HdbtF7dnT2Kas4rTq9ibkAC7kfdE0o6WI0iaDVGHIUqSFMppYA5FxGzicAu8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Craig Risi 译者 | 平川 GitHub 宣布，其 MCP Server 现在已经全面支持 机密扫描 功能，将自动凭证检测和修复能力扩展至 AI 辅助和代理驱动的开发工作流。此次更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284581&amp;idx=4&amp;sn=87fe46fd6166bf942de05ec4b0e6c0e5&amp;chksm=bc618064da6d1b33e305bde25f2068801fb78231896146cb1314717d0f2096aed14cedd5a02d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 15:36:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hermes团队改写预训练：算力成本降六成，DeepSeek之后提效新路径]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm6vSGh1H2G7icWbSiaibeSiahpia55qaeVXQxovNgQdKCOzZO5diaCPich6fDN0uZCkeoYQHKpDs5Gs3Nicq61IIpb40gb2wJUMkPHnXNo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 模型能力还需往上走，但训练成本却不能再无止境堆砌了——这可能是当前 AI 行业最强烈的共识。从开发者到模型公司，大家关心的焦点已经 不只是“谁家的模型更强”，而是一个更务实的问题：“同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284462&amp;idx=1&amp;sn=bc472ab2f14733ca974e5599b457af7e&amp;chksm=bc362d418e19214af03dd87e6d4ea8cad7cb0d3b3a49b9a1522233cf69ea2e86af85c29c5d2a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgGAxNkNIyjhePFpIpgEib4fRHX86N7SfU0ffTxxDLOXk6hkgKWhMJ9Smp5KR4ZTgk1pWuh6G4zEhBRRM94PAPuriaEOqyBK1sVM/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪 策划 | 褚杏娟 随着 AI 浪潮的席卷，产品经理（PM）这个职业正经历着一场前所未有的“角色重定义”。现在的 PM 必须成为一名“builder”：放弃对头衔和职级的执着，跨过心理门</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283402&amp;idx=1&amp;sn=6ad76f53f4d33b3463669189fda999e8&amp;chksm=bc3e0d783d36aa1f1c721f406fa668f47881a3c0e03626366e89a0fe5cd949e069bdef1802e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 04 May 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgA2AvDPY1w0hKkSliagic6lqdgwqrZKHZwtvF4h9iavK21JHKms1ef2vVC3AbdBib48rRiaPQaibuMjibZ9nXDLPxZjBV7hXYpAQgm5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪 策划 | Tina 8 岁自学编程，12 岁成功越狱 iPhone，14 岁靠一款 App 赚到了 30 万美元。在还没到法定饮酒年龄之前，就打造了巴西最大的支付公司之一，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283374&amp;idx=1&amp;sn=18909e4814c4a8b3cd6610da3277fb2b&amp;chksm=bc5d9ea13e58a1d337f4a5c95924dce4ac5a185f437cfb1e4a83af58c0c17d7572fa339a370f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 03 May 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在大厂，token用少了不“健康”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiahyVwKlhaXA5KdrJicfUtNbbHUSkibMo6puVL3veDYVTWricjicxLmeRblRtibVN3TiaBYb85s7KCaJk7ich5EP1DjvvEmW3Www3ibmdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 “今年，AI 提效比去年更‘卷’了。”这恐怕是现在无数个身在职场的人共同的感受。如今，算力补贴变成了科技大厂标配的新型福利。不少头部企业都在密集推出面向全员的 AI 资源支持计划，阿里</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283262&amp;idx=1&amp;sn=987f181784df9d8ab5487c4f3b17d719&amp;chksm=bcd37fb2c86ebc147d83bcdf5add3c7a4e3dc08b5ac36b6f21217e91126479df63e0a8e74e62&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lYDricib2fsm55N2wfGawia3ro7X4QWSxsYHKWuTzNlEUdMuiazLxRrLuF3ZL1BZ9rRapmMlcq7xDVSVNxInW8Ypb3ySuBDficH3Gd44XvxpcEIQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 几天前，宇树科技创始人王兴兴坐进了宝马刚刚全球首发的新世代 i3，并亲自体验了其最新一代智能座舱。这更像一场临时起意的特别“面试”：他在对话中不断抛出复杂需求与路线规划，都被妥善解决且</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283262&amp;idx=2&amp;sn=8ea53f02c0b62df1e147d04b51f6615a&amp;chksm=bced99e51cc86c0c53e304fb5d0106c281c4b982affdc6d4a142acd696fc967e846210a72054&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjZ0yO6mAZBJo2bwXXVrslOzYaTsUFNysVXRLA7CEjgvAb6HOCjORJCmjJrFRlApsBpKFmUH3J5hTqzzewg8LOAskjaC7gayk0/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 如果把过去两年的 AI 叙事拆开来看，一个趋势已经越来越清晰：真正的瓶颈，正在从“模型能力”转向“资源分配”。一边是推理成本持续下降、调用门槛几乎被抹平，另一边却是算力、带宽乃至组织内部认</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283248&amp;idx=1&amp;sn=740073808e2db9880300ecbf99bb64a0&amp;chksm=bcd4d50441aca79cdfaa39dd1390ab4d3ce1060734b94eb3da5960b2ac6e9ebd38d57dcb5581&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 May 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,10 +6,16 @@
     <description><![CDATA[阿里云开发者公众号]]></description>
     <language>zh-cn</language>
     <image>
-      <url>https://wx.qlogo.cn/mmhead/ver_1/amQwx1NEl7OSF2gM0mXw9SaFJTo4VJrOUnvdR0DJ8icOVsIksF1AWuxiatPNR5VW5eHWHics7b59jJym8ywAEtuQJxxvpeEIeeOZGPNKBgvtq0/132</url>
+      <url>https://wx.qlogo.cn/mmhead/ylRhrSjQb8hgLeJ2HmFwFLWNLDvecdIcSOh1nEB21HGXNE6vnTZt97eCYeqnqZMpYKxlNMfokLs/132</url>
       <title>gh_7fc9311f04ad</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[重新定义Skill开发：保姆级教程&amp;一站式开发助手发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1z4sTBnvl7lcVq8KhtBq1Q3mrrWoNcvuBpvsmP6Xt51gZxN1IqNHd2je1laibsjZ3RtEueK3Mnvic0jQbHKruj7lvib4iaBfMpGF9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读从入门到蒸馏，20 分钟以内学会创建、管理和发布你的第一个 Skill —— 让 AI Agent 真正成为你的超级助手。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560111&amp;idx=1&amp;sn=d90140ce9a63a953c990c1696a01beef&amp;chksm=e8ab3a399c2528276d181aa70180ea0d2fff533a3583e4e9759e5d3d05ba147cb9342cd08b0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 08:30:00 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[Skill Factory：三天手搓面向Harness设计的技能工厂（附AI coding实践）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zdM3LdaH4n9OVraedBWISX0oeibp9RVAT2nAw1be0d8T2EcoTcONENSLoYMHFQNQ3s9KwlticlBZVObSj3TkMqK0oPia5S3w9NJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、出发点最近深度体验了一把从产品设计、UI/UX，到前后端开发，再到核心算法落地的全流程闭环。目前终于成功把流程 Ru</p>]]></description>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ztvFnibRneYKAIEAd4whG5CZSGXHwdtibvFFibdngeDQ22t3a7ZicAlu3cWu6YJRIk5DCxyCichNbbyxSysUCteajzSJUP5ag2etxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读在日常研发支持中，工程师频繁穿梭于工单、群聊、舆情反馈与问题排查之间：一边解释业务规则与口径，一边追踪链路、查看日志、核对指标、执行补偿。这些工作高度碎片化、重复性强且严重依赖个人经验，导致</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558623&amp;idx=1&amp;sn=335f209f636161c2aabfe03e8894ab6f&amp;chksm=e8318f2261b2025ee2464aec09fe2fb842bed80f12f49af354eefb60a8382c30b188919f8e60&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Skills 真的可以帮我干活了：把工单分析变成一个可复用的 Skill]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yicL9vTKmtVuIcO1GsQu6glM23KXdthUYoiac1XvPXWr09FFh0icZyEiaLvabO8Ll9w5c0jUDyq5BiatdWVQyEViaakyEOBktxl4acg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 刚推出 Skills [1]时，我非常兴奋。官方的态度也很明确：不要再执着于开发复杂 Agent，而是把精力放在 Skills 上。但在认真研究了一圈官方和社区的 Skills 示</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558554&amp;idx=1&amp;sn=239e1d2c63c0a9a7eb0be1ced653db00&amp;chksm=e831b88fc992554e3a644a4ce20ef695420055bd7c3b319057f229c37f43b5d554a052cb5cd5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 03 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

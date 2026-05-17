@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[紧急！微软Exchange Server新高危XSS漏洞（CVE-2026-42897）已被利用执行攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq856YXUsm4nrXicmUEIg2A3PngLkialEib1ngpPG6kuL1KolaqjzYCKw37ibdG109WqoKfDaAo9B58khqF6KKE1mfkiboDukBLgKcrc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述微软于近期披露了一个影响广泛的高危零日漏洞CVE-2026-42897，该漏洞已被确认在野外被积极利用。这个漏洞来得猝不及防——就在微软发布包含137个漏洞修复的补丁星期二更新后仅仅两天，安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518833&amp;idx=1&amp;sn=2a77ea8001191d2debe33540842c66e4&amp;chksm=eb7c1e16189accceb08d1da99b0aef3973044d6e91abcc19b05faab1794657e99819b7b8dca5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 18 May 2026 11:31:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.05.08~05.14)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiclsCqfgNg3RpGFcX4XwcS2ZvnDD9t73Q3bVYQsxmSibjHs7LSVQZRZ8mQlMf9WicT82xxmIibau1YWsjucTW8yJC9hU5YfrzeRNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.08~05.14攻击团伙情报EasterBunny：归因于 APT29 的高级间谍工具Kimsuky组织依托GitHub+Dropbox分发恶意载荷的攻击活动分析Lazarus Gro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518815&amp;idx=1&amp;sn=bc9a60ac5943fb9a8e839c9be78483f8&amp;chksm=eba3aaa702afa9bd3fbb51f368757ae5a4e9ba88905d97cc829b51fa650ee699c4ab7132ffe3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic80Upy254ZlHChqCWZxV9Eia0PjaeUhfic8RaPLLIhJxkOVJPMRA1GSCc7R5FCrq4nibVnsaj5psrF1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.28~12.04攻击团伙情报摩诃草（APT-Q-36）利用 WebSocket 的新木马 StreamSpy 分析APT36利用ELF恶意软件瞄准印度政府机构Bloody Wolf组织</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516916&amp;idx=1&amp;sn=76ed787924d79ebc8b7d5b73e7dd9451&amp;chksm=ebd89e3acc7d803b3c9d88b7c1c70fa3ed0d3256d5e86d52b5482c098a10e21ac4414d8e5ef7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【严重！已复现】React Server Components (CVE-2025-55182)远程代码执行漏洞安全风险通告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic80Upy254ZlHChqCWZxV9Eiacd5icT6IicvLg4gdCBnyXGyom5OqxiciaUqiaq7iaodkmmrp07VtJyiap3L1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一章 安全通告尊敬的客户：近日，奇安信CERT监测到官方修复React Server Components 远程代码执行漏洞(CVE-2025-55182)和Next.js 远程代码执行漏洞(CVE</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516887&amp;idx=1&amp;sn=37159cfcf5788326fd194b5cad50c4c2&amp;chksm=eb966019388f1ed305ebbb234eb4447d7370debc1740c3442c0fe1a538147d813826c226242a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 04 Dec 2025 09:22:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
