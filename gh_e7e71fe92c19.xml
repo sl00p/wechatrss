@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K18SsvQ1d0m98hRY1rgpRdVjw9wyFSA6rKBEcoKQdnD3sQcicJib175oMJ6iccEl4Sm8rg7wssDThLHzoHjrIibpuWp1RQS91M5C6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Flag 速查表输入屏幕左上角 8 位 hex Token，输出 3 个 flag。完整工具：flag_tool.exe encrypt <token>以 Tokena2d576a6为例：产物：fla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615341&amp;idx=1&amp;sn=d0b17757daca91bb53c55ff62f8422dd&amp;chksm=b0b21e5acf6af80c1bf920540ceb8b20d2e6ee9d241a968b89fec822634b659ead12d67c2e66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 19 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AntV生态npm包遭投毒，百万级组件沦为窃密木马载体]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0JabVG9ee9V7DiaicX6hN6kBmQxNLIiaKCM4uic7xsyzjiaYHLK58AxbNDjdODEdeseuTZMlFRX1LJosTroAgHicOk9e3spZFaPVBv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，一场代号为Mini Shai-Hulud的蠕虫式供应链攻击持续升级，知名数据可视化生态AntV旗下多款npm包遭恶意投毒，波及echarts-for-react等周下载量超百万的热门组件。事件直</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615341&amp;idx=2&amp;sn=42593e25d84048a1ed6d7e3244b1afb5&amp;chksm=b02a845bb26459edd7598ec3e31b93e56dcfa147562f40bffc723f6eb3f7339538b5907a803d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 19 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周更新3节！冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周内容更新在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615341&amp;idx=3&amp;sn=53570b3da178d29b39052a4b5e06cb72&amp;chksm=b03cae9f0d237e82aabfaa194877402eee34bca5258106ee44ade8d7a1e888ac90e8d0b1304f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 19 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“无痕”驱动的检测与分析：重映射驱动靶场构造、扫描与特征剥离，附源码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K01mxhknSHFlNvic74lIVRLsbLGDzict0jRSEgr1mIHKo404quU0wk4BtY0J9rdy4pS4juHxXpaiamBEJaswkvDK6ibicE1fLVDH5wU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文定位为抛砖引玉，分享一系列实验性质思路、代码实现方法，并非一整套体系化、成熟化的商业对抗方案。文中涉及的内容，均基于自建靶场环境下的模拟分析与验证，仅用于技术研究和交流。若文中有表述不够准确、理解</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615215&amp;idx=1&amp;sn=8ce76c362659b689776966f45324a215&amp;chksm=b0fc416c5933357bfaa79e086b672889494150318fd849f08463d64efe89710bcc6fdfb7f3fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lyhdRmkItUxIpA6XPdjBWlCgLHNgicWn6lomicRob8QzBmsxJNvVVibZcjPKmbv6Tu1e5M0KHbfV2XgCPUPbbmZjibaAt2IncLKhCOoicmgzZEiak/640?wxtype=jpeg&amp;wxfrom=0"/><p>StanApr.293 pm和一位“追卫星的人”聊聊我们有一个想法，酝酿了一阵子，现在可以跟大家说了。我们想和那些真正热爱技术的人，面对面坐下来，好好聊聊。没有提词器，没有“嘉宾”和“主持人”的距离感</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=2&amp;sn=629e42fb0c808f26f6d56d4746c4a32c&amp;chksm=b0e35a6c599eb137c1b4a25d829a0cb880ed6787c363febf59c35ea63e91648959cc33c25ab1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[务必升级！Nessus Agent Windows版曝高危提权漏洞，攻击者可获取SYSTEM权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2VUs1snQibZ1FHoeBV5eiaXQuM61f1hICAN30WShNmhmcLFmz0Woickd4zpSFUkZXIq4dgPppLaPibcgiakYy57AXicjSkNaRZ9budM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Tenable旗下广泛部署的漏洞评估平台Nessus Agent被披露存在一处严重安全缺陷，影响所有运行于Windows环境的代理程序。该漏洞允许本地攻击者利用NTFS文件系统的交接点（Junc</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=3&amp;sn=c37e0a23d3aa9ff2095335f4f0207e29&amp;chksm=b0a5aa4d38587e418356ecff88cbcefd818278b22ba0173808bf0d567020b98809f9d6ce48c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日更新！冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日更新：二、环境篇:知其然，知其所以然2-5 “规范驱动”开发原则详解https://www.kanxue.com/book-227-5890.htm在技术迭代如潮的今天，Windows内核依旧是系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=4&amp;sn=db50b70abe41382ed6b1832900e3d263&amp;chksm=b04a13781b427a3ec0d7b7ae7292d31281551b3c4aa0d50f050221965b736056578181d37a80&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅谈梯度分析与样本对抗：以vlm和ddddocr为例]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2oLCedic85Fmn4iaPhoZe0ibbkWpjibY2V78hu1pVG1hJTFqW3EeDtJmzibUTchUrtnQJemyxiahFpwkQPU7qdmlbr8iaLibySgIfnkkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在2018年，便有学者（https://arxiv.org/abs/1808.07945）发现可以通过仅修改几个像素来干扰模型对输入的预测。作为一篇社区博客，本文将谈论如何构造验证码，而不是如何解决</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614097&amp;idx=1&amp;sn=d1d38a7c3c3ff32cbc9fb880310e6973&amp;chksm=b0b251c70b7bed28e1964d09126030047ecf3b44b02298fcae8dd30b00a9656c7f4bfa5539ba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8Epu0VBVz9jxmz9Ye3efD4C3FOdOKCMF2QHSG4ecvVyzibq0vTmTxcXqh0lopzic4z9xhrTVW6CIMwhI98kN03S7TOJbJIekicKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述n8n 作为一款开源工作流程自动化平台，近年来在 DevOps 团队、SaaS 集成商以及中大型企业中迅速普及。其架构设计允许用户通过可视化方式串联 API、数据库、云服务和内部工具，构建高度</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518838&amp;idx=1&amp;sn=a33e7f05cd5a946c51b0ff0fe8caa3eb&amp;chksm=ebe19422f0805b71cb56aa0fc6d87a060c2d0f756ceb86f4b14903f212b666f2c6185605162e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 19 May 2026 10:50:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[紧急！微软Exchange Server新高危XSS漏洞（CVE-2026-42897）已被利用执行攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq856YXUsm4nrXicmUEIg2A3PngLkialEib1ngpPG6kuL1KolaqjzYCKw37ibdG109WqoKfDaAo9B58khqF6KKE1mfkiboDukBLgKcrc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述微软于近期披露了一个影响广泛的高危零日漏洞CVE-2026-42897，该漏洞已被确认在野外被积极利用。这个漏洞来得猝不及防——就在微软发布包含137个漏洞修复的补丁星期二更新后仅仅两天，安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518833&amp;idx=1&amp;sn=2a77ea8001191d2debe33540842c66e4&amp;chksm=eb7c1e16189accceb08d1da99b0aef3973044d6e91abcc19b05faab1794657e99819b7b8dca5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic9YReFEiakeCs47YhhQIruoCkKxqbuGJqofUCbPSk4RtAwrTfYhafscPoWA07Ad2sZ3hotog16YZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述2022 年，奇安信威胁情报中心红雨滴团队在 Operation Typhoon[1] 报告中首次披露了海莲花组织针对国产化系统的攻击案例。鉴于当时信创终端普及率较低，且该类设备多存储政府敏感信息</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517171&amp;idx=1&amp;sn=4fd41b2cd38ccbf69d8a983db8aff150&amp;chksm=eba050c980cb3d03a4c5bcedb83154c20517ce8c23a5b9bcf4fce1f51313d0449f298596d69c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 08 Dec 2025 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.11.28~12.04)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic80Upy254ZlHChqCWZxV9Eia0PjaeUhfic8RaPLLIhJxkOVJPMRA1GSCc7R5FCrq4nibVnsaj5psrF1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.11.28~12.04攻击团伙情报摩诃草（APT-Q-36）利用 WebSocket 的新木马 StreamSpy 分析APT36利用ELF恶意软件瞄准印度政府机构Bloody Wolf组织</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247516916&amp;idx=1&amp;sn=76ed787924d79ebc8b7d5b73e7dd9451&amp;chksm=ebd89e3acc7d803b3c9d88b7c1c70fa3ed0d3256d5e86d52b5482c098a10e21ac4414d8e5ef7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
