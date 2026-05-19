@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[第三方MiniFilter中常见的一种TOCTOU漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2icCth4IOjjQfzwQQqZP3a8ic2H4CXv4NzASSXCKscT9Rv6lbCodkaicKId6mBTAPJjw31TEIslyxfMJlAensKQu1DIibUaCvTF2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>TOCTOU作为一种广泛存在的漏洞类型，在第三方Windows MiniFilter中也存在，本文介绍一种典型的第三方MiniFilter TOCTOU漏洞。01MiniFilter 架构为了了解为什</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=1&amp;sn=772e8df0c2ce473468d1a0880f4548e4&amp;chksm=b02c499d3effa64b3ed2f896c622e98bae10b121db1daa5a18201e74099218fed82d9e94550f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub遭恶意VSCode插件入侵！3800个内部仓库被盗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Xu5icgOswJBB9LmF0R6na4J18skRias3ZLv9stO8sYtbhSDb2Itr1Js2s3tjWJNkBSh3x1IHSvS1OqKY2iccF9fhBk2fIYSX124/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，全球最大代码托管平台GitHub，因员工安装恶意VSCode插件，约3800个内部代码仓库被非法窃取。事件核心：恶意插件“潜伏”，员工设备成突破口GitHub官方通报显示，此次入侵的源头的是一款</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=2&amp;sn=498a7e58c1777449829abaacddd0a255&amp;chksm=b09cedc594e983c765d299c5b2b8efd3b1c67a3768ebd6fd03c273b784d0587b33ffce403909&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大模型落地必学！提示词越狱与防御，已成为AI安全从业者刚需技能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=3&amp;sn=97c6162c13d4865a152d9f574bc682ca&amp;chksm=b08c0942c075de0ada3b094c47157282d5d6fcbf23009f3f134fb47beb221f7952bbe326ddd1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K18SsvQ1d0m98hRY1rgpRdVjw9wyFSA6rKBEcoKQdnD3sQcicJib175oMJ6iccEl4Sm8rg7wssDThLHzoHjrIibpuWp1RQS91M5C6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Flag 速查表输入屏幕左上角 8 位 hex Token，输出 3 个 flag。完整工具：flag_tool.exe encrypt <token>以 Tokena2d576a6为例：产物：fla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615341&amp;idx=1&amp;sn=d0b17757daca91bb53c55ff62f8422dd&amp;chksm=b0b21e5acf6af80c1bf920540ceb8b20d2e6ee9d241a968b89fec822634b659ead12d67c2e66&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3DqFp6ThyKpIxaGCxawTFFYvNGDCHpuic9yBY8JA0mynZajZx5O7qibJTU0eQoYd261NRLRzkibEb11lqyy793MxqvNrRIMibgtp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月25日，一场由AI引发的安全事件突袭美国租车行业——SaaS平台PocketOS的核心数据被AI编程Agent瞬间清空，业务中断超30小时，数千家租车企业客户受波及。突发：9秒删库！AI擅自操作引</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=2&amp;sn=9652f073b868cb466a755e580f2a21e2&amp;chksm=b09ec821e11fb582b84710a3ee04dd0388026658a846e51d8fbb9d7632933b34c2052faf2042&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 17:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播更新 | 系统0day安全-IOT设备漏洞挖掘（第6期）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8G7kLAQgl6iaRSJ9TXg76l0lGwpZ9IRvCCrz4G9WTiaWDp1qUPg42svNZJfcM9LAjUcziaTViaC8B5Picg/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播更新：课时6：自动化工具固件初步分析&amp;大模型视角下的IoT漏挖https://www.kanxue.com/book-7-6042.htm课时7：路由设备漏洞分析之NETGEARhttps://w</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614238&amp;idx=3&amp;sn=d861c4aebd91848548289ade30df70a1&amp;chksm=b00d27e46aaf321dea40567f75892484908bf0a1212e706f5f2134374f9d169fa55cf76200fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 17:59:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ptrace注入代码在不同平台的区别（ARM64、x86-64、MIPS64）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0QPib1NGh8jic51YekhkedTfib9msvGstXbaPKJibFKlWg9U9WjRhEtt6X1fYBFzNonU3cBoEkDHcGEQSAjKAxvepFa8dgPib7MCO0/640?wxtype=jpeg&amp;wxfrom=0"/><p>免责声明：本文仅供学习和研究目的，介绍 ptrace 在 Linux 系统编程中的技术细节。ptrace 是 Linux 提供的标准系统调用，广泛用于调试器（如 gdb）开发。使用 ptrace 需要</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=1&amp;sn=86a613ea3b1ecfae8b66c1a54c4051c2&amp;chksm=b0381220fc79e240a05e414c1199f8d0bd673b833dbb5f036ca768728e388f39291c3a2368d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[「HG TALK」即将开播：第一期，和一位“追卫星的人”聊聊]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lyhdRmkItUxIpA6XPdjBWlCgLHNgicWn6lomicRob8QzBmsxJNvVVibZcjPKmbv6Tu1e5M0KHbfV2XgCPUPbbmZjibaAt2IncLKhCOoicmgzZEiak/640?wxtype=jpeg&amp;wxfrom=0"/><p>StanApr.293 pm和一位“追卫星的人”聊聊我们有一个想法，酝酿了一阵子，现在可以跟大家说了。我们想和那些真正热爱技术的人，面对面坐下来，好好聊聊。没有提词器，没有“嘉宾”和“主持人”的距离感</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614166&amp;idx=2&amp;sn=629e42fb0c808f26f6d56d4746c4a32c&amp;chksm=b0e35a6c599eb137c1b4a25d829a0cb880ed6787c363febf59c35ea63e91648959cc33c25ab1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

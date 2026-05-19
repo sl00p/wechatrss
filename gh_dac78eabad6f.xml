@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Prompt、Context到Harness，工程的三次进化与终局之战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4NnVFIjKMcr3XaL0fq2HeeDg5ZSxL8Y9BIYWwZXg2qNpOuCZngGVdvYlD4IPVELiakLwhLMBMHfkBelibicyjibssZiaglDhtXdibs8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：一个令人不安的问题OpenAI 内部的一支 3 到 7 人小团队，在短短五个月内，让 AI 生成了将近</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695574&amp;idx=1&amp;sn=5a72299143649e58cc510ab1b50480b4&amp;chksm=eb306324d9bf100c2ba7d4e7a1a936649abbadec327c9b491a16bef256b1df91035948beb08e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让Skill自己训练自己：8阶段Loop、3层评测、5维AND门控，从此实现自进化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7lJR2CnzQoESZxrpWibNaicYsk3Jf8EhBtwYUiboicmCjz67LzrTa1g5mXAvm37IXoao7A7y6IicMuuhhTX5tkM0uSSl3qlyRKSibro/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇你是否想过，Skill 其实也可以像神经元参数一样被训练。你总想着授它以鱼，像个训斥孩子的妈妈，一遍一遍对着它苦口婆心地说教——你给我记住！你不许这样！这样不对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695568&amp;idx=1&amp;sn=492ca1e98155a9fea668213173cab654&amp;chksm=ebddaaf08e573644328aa2f250f07b3e5736ce631dfc71a4bfaf114af55478cbb11f8a70cf59&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6pqsxldSleUGox0w35lhmH8ChK4mFia76XEBnibSQdc1I3aw7IJHic1EUa5rU4C1KDicYFzK0lHj0IFBT7sTAPnoaGS0ucakvXOcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇人类最重要的 affordance 是“手”，而 AI 最重要的 affordance 可能是“代码”。Shunyu Yao年初火爆现在热度依旧的OpenCla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694641&amp;idx=1&amp;sn=dff67991264624bf2e7615bd637f4cf6&amp;chksm=eb82a2d25f89b7e555654586bfe6402a1d2e22bf49c069d031da2f36ab8fb0342f5f98c15db9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 AI趋势预测，全球科技巨头与顶尖机构研判]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5JiaNbJYzN6wETNACLmdvYIMTfmCJDzgjEVLibhtg17zvKtVvDv8M8AI3fSNhCB9dJ0A09UTM9BDKQ6ibTia4ibIkeibhMux3OJWlCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言2025 年是人工智能从 “技术实验” 迈向 “规模化落地” 的关键一年。经过一年的快速迭代，AI 不再局限于 “回答问题” 或 “生成内容”，而是向“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694634&amp;idx=1&amp;sn=1cc86d5e6ac59df5b73303e1f1a4a8f6&amp;chksm=eb37f2cc97f5a06e0b1e85d29fc1d4fd7aae04e469afcd858b99203791647179edc7b524d6c7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Feb 2026 09:10:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

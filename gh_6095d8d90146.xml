@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/5/20)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 从暴露的 OLT 到 ISP 全面沦陷：VSOL GPON 设备与 Cloud EMS 中的未认证 RCE 漏洞http://blog.quarkslab.com/how-olts-may-ha</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960475&amp;idx=1&amp;sn=12298632569d31a6a7148aa2f9d27bf4&amp;chksm=8a4d07c9107f78a0072cef5212f4681322e852cd8050979c79765ff57780abba38687776ece0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 11:52:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/5/15)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• CVE-2025-68670：xrdp 中通过 UTF-8 缓冲区溢出实现的认证前 RCE 漏洞https://securelist.com/cve-2025-68670/119742/本文深入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960472&amp;idx=1&amp;sn=52bd5b4e6049817c0dfc9446df2a7c72&amp;chksm=8a17dc1d733cf3cecbb6626e1caf1f6d5e9833d1dcefac0a8df55d4e14af09712f11d58e7c81&amp;scene=0&amp;xtrack=1#rd</link>

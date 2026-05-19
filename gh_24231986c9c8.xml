@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 字节跳动奖学金申请启动！首次开放全球申请，增加奖励名额]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedryKDGHe30oMat0Kkj4yDMe4L71eklZlaw6y7Y1AjPZZM70JFWv9H9BaJAF8DSb3PBEo68iczvA7V9kbdnK4HpT0W1wMMRIvlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>向未至处，探索智能边界</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519841&amp;idx=1&amp;sn=7b907b12752cfbbb8539bb9589d7fe5c&amp;chksm=e8b5e18f4e30a99313d40a59d2fab22f2fe6034a6a206918a7ebf15da4cee9f1ac2794885f9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 11:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[veRL 推出开源 Uni-Agent：为通用 Agent 训练打造统一框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecjdhvwicnicHxqHFFicAseWwrdhYo0FptH9qZYqS1bNGYFyB98XIHXKgzAO5I9wynDOubNQfXMcaB2cfmkeibwePTck8UUVFBANg0/640?wxtype=jpeg&amp;wxfrom=0"/><p>仓库地址：Uni-Agent：https://github.com/verl-project/uni-agent最近，OpenClaw 等开源 Agent 项目的爆火，释放出一个很强的信号：Agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519822&amp;idx=1&amp;sn=593c83efeaade641f9ab13166dbce953&amp;chksm=e89590c73c74969d77795b6d9d1e8df6c42c48e8f07fd4c1b74fd0df38ae974a6e148a7889a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOjFXb7uaGd2UeBbteiabfqvcqKmZkrQ6WfUxuRVUVib7Jvsxw8iazJwbEDJPcYA2JNjgmolkET0OicBiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在现代软件工程架构实践中，工程师普遍面临一个挑战：如何在海量的请求中精确捕捉异常链路，同时避免数据成本的快速增长。本文将探讨分布式链路追踪（Distributed Tracing）中的采样（Sam</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517976&amp;idx=1&amp;sn=148268f951f01fbc00c5e77526da1a6e&amp;chksm=e873f04914bf40bf8736e6086cfccbc22f4dd2b8148a1427c6bdc3e2be47d4f61d6c9f1dfbf9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 18:25:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火山引擎日志服务-AI时代的数据存储分析底座]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOiaer0oMoktPuZOgzy9vGKwwNpDTebImHmpmdJ1hOH0zEJGPk5yiaHS7r3to2nUkl8MzEDHtJEP012g/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言火山引擎日志服务（TLS）是 Log、Trace、Metric、Event 等泛文本数据的一站式存储分析平台，包含采集、存储、检索分析、加工、消费、投递、监控告警、可视化等功能。围绕企业在云原生服</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247517962&amp;idx=1&amp;sn=931e2c5cebbe272ce3ba186307a457a9&amp;chksm=e8e39249a2af1ab15d2262078e3c4c0bc74e658508f97f2725dce82922dbd021d18ac6f9009c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Jan 2026 17:12:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub Actions供应链遭精准狙击：攻击者用"移花接木"术掏空CI/CD管道凭据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibjeXDpKswSPklt1icDJ9UJjz3nF57I7L3wuDOYeXeIEEO9cbLCzQUnjhqzkcAtia0ne1auhE5VUFh1w1GnIbqPx828AzbxWbia3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述近日，安全研究人员StepSecurity披露了一起针对GitHub Actions生态的严重供应链攻击事件。攻击者瞄上了GitHub Actions市场中的热门工作流项目——actions-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518843&amp;idx=1&amp;sn=d7623b89ab25eabcf7fdc16a16fbf0b9&amp;chksm=eb508434d1132c4d5b5af27f4b7103a394a2dfc50c531c2b0a8e1b64d350720d1aec1df4a2b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 17:24:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8Epu0VBVz9jxmz9Ye3efD4C3FOdOKCMF2QHSG4ecvVyzibq0vTmTxcXqh0lopzic4z9xhrTVW6CIMwhI98kN03S7TOJbJIekicKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述n8n 作为一款开源工作流程自动化平台，近年来在 DevOps 团队、SaaS 集成商以及中大型企业中迅速普及。其架构设计允许用户通过可视化方式串联 API、数据库、云服务和内部工具，构建高度</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518838&amp;idx=1&amp;sn=a33e7f05cd5a946c51b0ff0fe8caa3eb&amp;chksm=ebe19422f0805b71cb56aa0fc6d87a060c2d0f756ceb86f4b14903f212b666f2c6185605162e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic9JIduREQdm8896icaZbiaRpARiaDCwpGN3pp5C6iapjGcMQMdtUdv88BM1QGWYkgysYibcujpAP1kD82A/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近期，奇安信威胁情报中心红雨滴团队在私有情报生产流程发现最近披露的Next.js RCE(CVE-2025-55182)正在被海量黑客团伙利用，攻击者通过RCE漏洞启动反向shell，随后执行cu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517208&amp;idx=1&amp;sn=92ee1ae869f212bb8cec41dc715ac438&amp;chksm=eb2ba64c4b2c1af0906f8240e7c15dd2b8a23c7d84657765e7d8c9c42f81c5246e833bc88481&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 09 Dec 2025 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Operation Tornado:针对国产信创平台的网络间谍活动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicic9YReFEiakeCs47YhhQIruoCkKxqbuGJqofUCbPSk4RtAwrTfYhafscPoWA07Ad2sZ3hotog16YZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述2022 年，奇安信威胁情报中心红雨滴团队在 Operation Typhoon[1] 报告中首次披露了海莲花组织针对国产化系统的攻击案例。鉴于当时信创终端普及率较低，且该类设备多存储政府敏感信息</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517171&amp;idx=1&amp;sn=4fd41b2cd38ccbf69d8a983db8aff150&amp;chksm=eba050c980cb3d03a4c5bcedb83154c20517ce8c23a5b9bcf4fce1f51313d0449f298596d69c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 08 Dec 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

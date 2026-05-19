@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[什么叫攻击者黑进GitHub是为了帮忙解决可用性问题？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXdLHcgu0lWRApGwUN5ic2uaRIuRFdm1gibHWfAUDWwPvMWF9oZnrwZFGooye1F9NPsqibhB9IOlPbQSxh2TKv94lJ1sDgRPyMUJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月19日，GitHub官方确认正在调查一起严重的内部仓库入侵事件。臭名昭著的威胁组织TeamPCP在暗网论坛声称窃取了约4000个GitHub内部仓库的私有代码，并开价至少5万美元出售。G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240358&amp;idx=1&amp;sn=843c8e8f005c0a488f327b47faba8bf8&amp;chksm=bfbb24300be3438967ea3449c033faa75500c42c034220bdcdc8557f4d5f8fc067672ab225d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 17:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Greg爽用，Linus气疯，AI到底给内核社区带来了什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXkGC89ONcZphPu3ahGjV1v0TzQGmuNyoPBpCuCFg8o9l44SXN0sdcLk2sibJbTsaAibmjOkmlSlMLibMJmOzaqjXImyVMPHtDvWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>5 月 17 日，Linus Torvalds 在 Linux 内核邮件列表（LKML）上发布了 7.1-rc4。每周发一个 RC 是他的惯例，过去三十多年从未间断。但这一次，公告的后半段不是代码变更</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240328&amp;idx=1&amp;sn=708ff0220ac3a64e1679c0181686de01&amp;chksm=bf12f669ce5ed3b776b88daf857d4cce3997089324e43fc8833e1b0140e38f3752a3f9c7fa38&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWFDR4pBVXYCSo6g4ffAyRibNFA8qZsfhejP1ZCpZB9UXXKNCHNDoAyXPotTVhkwx5vVHyluia4EwRoXicnphIXVOG74G33hwQk9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 在 GitHub 开源了 codex-plugin-cc 项目 —— 一个专为 Anthropic 旗下 Claude Code 设计的插件。这一举动标志着 AI 编程工具领域两大巨头之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238620&amp;idx=1&amp;sn=f3fc8c036fb651b35165d70bc0db1568&amp;chksm=bf3f1e1fb59e395f17a0f3c2b17ada7a4787f241ffc7d24ab1de9a7fce73857df0f601c62b9c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 31 Mar 2026 16:34:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[以天为单位革新的AI圈，Harness早已不算什么新词]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhV0iaeYUiaDDTjZw2eIVnP92ejDQ1x2yoiayobbSFzTJ20K431dzz0mTPvA3Cwms2OGUiaydYwqJEfvuv3tlpOkxh7KXl8Sw7IAOY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年2月，OpenAI 在官方博客发表了一篇名为《Harness Engineering: Leveraging Codex in an Agent-First World》的文章。核心内容只有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238592&amp;idx=1&amp;sn=2ed3483ffca93e4c0d48f065f50affd1&amp;chksm=bfca76c96d769657c4368e7c2850c6314c9b5a2d2ce13166b42d074f0dcb763fdc861ba0f5cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 16:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

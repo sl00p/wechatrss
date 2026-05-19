@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0efp8zq1Sic1oSYsHzictzbZafwmxqKOANVbN2Tkb04hhAA6hOyBkms4QiaUd0BZkIFicGF3ibCgMGc6JqHdZMRTU33ibYfwp7u7L6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天 Karpathy 发了一条推，说自己正式加入 Anthropic 了。OpenAI 联合创始人，特斯拉前 AI 总监，斯坦福 CS231n 主讲人，Eureka Labs 创始人。兜兜转转，最后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6&amp;chksm=f8c1692a339cb644df1e2639e5b11e7e4aa39e0e6f743583b63c995e349bc01654b034a846e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 20 May 2026 13:19:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[有人花 3 天做了个开源工具，一句话生成各种场景的 HTML。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU15XyghegiaKJCNiaPp5AclrnFShzdx6ThcRCpdUq3l4crlIUol7KCqwsMrKuz25JDQjQtClGOZtpkUffETT8iaho9ibaFB8z8LIEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文回顾，可以直接看我之前发的文章。大概就是前段时间 Claude Code 工程师在 X 上发了一篇文章，核心观点就一句话：HTML is the new markdown。他已经不再写 Markd</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533794&amp;idx=1&amp;sn=fdfd8d2964aad1c68bc9d48bae56eb74&amp;chksm=f8c28b755311a531f405d0318610aae261f0048ceae785ae12e35c8512dba0aec86597c4e0a6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3q2azGPvHdsucx7uoFoz3zvFhm5lLXgxicFJKh8mze11nbIu6cbJ4Q8hLKFk2IjT2sdNTrwv2Ms42FKeSabmoAFErjoJhM2kKE/640?wxtype=jpeg&amp;wxfrom=0"/><p>同样是用 Claude Code，有些人只是在终端里敲指令，跑完任务关掉。但我发现大部分人其实并没有把它用到位。Claude Code 不只是一个编程工具，它更像是目前最吊的生产力神器。前提是你要给它</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532619&amp;idx=1&amp;sn=1a9095f540844befdb12b4e1e284e92b&amp;chksm=f88f71e7e8e6dbc71f4c9792fb9c0626626f9e7aa8cb8aea1cac9c2045b6cec589a4b7e43e65&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 11:53:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU01QZLyWTNcK9ZcibhS3iaFicyun2hTZcliabQ6L9Fpoib5p4cIHOSicw7AuticpAps9ibWkic5UzGo2OeqqwzsI0Iw0v5LHdQkB2BLTBBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01必装 SKill：Superpowers很多人用 Claude Code 啥的写代码的时候，直接把需求丢给 AI 就让它写。后来发现这种做法其实不太合理，AI 拿到需求就埋头写代码，缺少规划、缺少</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532554&amp;idx=1&amp;sn=f2df86423107972a43379890bb5e94ff&amp;chksm=f887bb27d0f09f46390ad2126391c1205020315624ecd9d5d67d398d762e620a1e3c9ffc2fc4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 29 Mar 2026 11:06:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
