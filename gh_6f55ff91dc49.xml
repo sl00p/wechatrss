@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 神级 Skill，一句话把你开发的网站发布到线上。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1CtlO3q0VOok2micpN4EOZQiaryuhib5zxcdWlzAtLWzKHbZFkz70zqabGpGj3NF9h4fa54mBjy0VgyMHmiay6TLafibxOk1BiavHIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前给大家介绍过一个开源项目叫 PinMe。它能把你做好的一个静态网页、一张图片、或者任何本地文件，快速变成一个谁都能访问的公网链接。对于自己做好的可视化网页，想分享给其它人看，用这个特别方便。最近它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533854&amp;idx=1&amp;sn=6995478769c7e6d65f5db5d87a77e81f&amp;chksm=f832a9827a3b5a0c398baf9ed5ed91f03631ea9d291771e93e29d254a7f399d8c0abbc44bbb0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 14:51:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0efp8zq1Sic1oSYsHzictzbZafwmxqKOANVbN2Tkb04hhAA6hOyBkms4QiaUd0BZkIFicGF3ibCgMGc6JqHdZMRTU33ibYfwp7u7L6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天 Karpathy 发了一条推，说自己正式加入 Anthropic 了。OpenAI 联合创始人，特斯拉前 AI 总监，斯坦福 CS231n 主讲人，Eureka Labs 创始人。兜兜转转，最后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6&amp;chksm=f8c1692a339cb644df1e2639e5b11e7e4aa39e0e6f743583b63c995e349bc01654b034a846e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2FfsMjqj8UMQ2icwVgWAF65MMdGL4hRljmA9lg1ibUwmxeicNXibgM9J5wzfx7IwEtohfAxg6ibYhrHPX7rQZ51Auzox2eAI9zp294/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 GitHub 的时候看到一个项目特别猛。3 月 14 号才开源，两天就 1.8K Star，一周破 4K，现在已经 6500+ 了。叫 OpenCLI，一句话说清楚它干的事：把任何网站、任何桌</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532626&amp;idx=1&amp;sn=b9d3a4d694c7fec3d9678dc0d1e7af3e&amp;chksm=f893b27398e4c0cf72e58584f234e36445b16b04abcc397a48f4fdf9cfd00a66ee768d32fbdc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 31 Mar 2026 11:37:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让你的 Claude Code 起飞的 5 个小技巧，我用的很爽。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3q2azGPvHdsucx7uoFoz3zvFhm5lLXgxicFJKh8mze11nbIu6cbJ4Q8hLKFk2IjT2sdNTrwv2Ms42FKeSabmoAFErjoJhM2kKE/640?wxtype=jpeg&amp;wxfrom=0"/><p>同样是用 Claude Code，有些人只是在终端里敲指令，跑完任务关掉。但我发现大部分人其实并没有把它用到位。Claude Code 不只是一个编程工具，它更像是目前最吊的生产力神器。前提是你要给它</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532619&amp;idx=1&amp;sn=1a9095f540844befdb12b4e1e284e92b&amp;chksm=f88f71e7e8e6dbc71f4c9792fb9c0626626f9e7aa8cb8aea1cac9c2045b6cec589a4b7e43e65&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 11:53:52 +0800</pubDate>
     </item>
   </channel>
 </rss>

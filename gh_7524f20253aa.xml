@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code沙箱漏洞5个月未修复，攻击者可窃取凭证与源码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2UTRC9laF49q5aVoBCQpxIXPk5fpZcQCyFIOhmiblSaOtc9DeVYfdm4NNGgGuHCQ1sQmEY1ObawLx8DkdLmGycAl10ljQrMmPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司的Claude Code AI编程助手存在一个关键的网络沙箱绕过漏洞，持续时间长达五个多月。攻击者可借此窃取开发者系统中的凭证、源代码和环境变量，而该公司未就这两起事件发布任何公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=1&amp;sn=22dae0f2845a5f1a47a57995a41c3d7c&amp;chksm=bcc009ef6f9f936972a0b1006c96546564a990c7761e243825e02ae0bee5d45bc90df7369cfe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用单字母拼写错误的Go模块潜伏3年，植入隐蔽DNS后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CBbp9b1E15H2d9X5gwfMyqcrxsyBicBuCltjZEYUobvmasJeaakhDqK4SkUxic210bia0A3NdicaL8HFibpp1xwLLErgKSPILxBO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个看似无害的Go模块拼写错误已悄然充当活跃后门近三年。安全研究人员发现名为github.com/shopsprint/decimal的恶意软件包，该包通过名称中仅一个字母的差异仿冒了流行的githu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=2&amp;sn=29987c980bfb73db9161b0cb8f1ebe82&amp;chksm=bccddcbc2f35c3e49f83fc097cbfaab22135108aca70da36a55130581f866f7b88ddb4b8fb13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高危ExifTool漏洞可致Mac遭恶意图片入侵，攻击者能执行任意命令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0wBE1uJNT0ho5UJkf3ia8FrnP7niaRaHGRfkcGnjia610bO5iaVbwzPa1ZF5trXfVm1Ynq6U3tGOhvLK5s4vVEatnaQ2X04R42ibHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>广泛使用的开源文件元数据读写工具 ExifTool 曝出影响 macOS 环境的严重安全漏洞。卡巴斯基全球研究与分析团队（GReAT）于 2026 年 2 月发现的（CVE-2026-3102）漏洞，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=3&amp;sn=b0bfeea1343e25609b5447e48217dbef&amp;chksm=bc171d3a138ca7b72a8038f3bd27aa21e4458eb7da03981ad6b5350421327e3f91be532a9fe9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源工具CVE Lite CLI让依赖漏洞扫描提前到开发终端，秒级定位高危风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FA2fJIOGRtSt6acZzJoYYNf6Oee9vVkolic0fBmarFlK2vcWt1Hc2kTx3QIvUOViaH9yZSHhucDm5BMc2YicnGjnHNek4vbwZuA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 JavaScript 和 TypeScript 项目中，依赖项漏洞扫描长期以来都处于开发管道的末端。开发者提交拉取请求后，持续集成系统开始运行，安全扫描器返回一系列 CVE 编号，而此时开发者往往</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=4&amp;sn=9a545ba3bf4fc96177895c37320d4f98&amp;chksm=bc1cf0ba23921f72caa9a69d2421ce89746d5e0156de97d9928993212b814564dc77a8f44d75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub证实被入侵，4000个私有仓库被窃取]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2OgdWfhCfkOImeJkxb95AIl8ZNU8dibX6V6fpQibx7mwybwOg4XJWrzDeSN51zxYRrEGWfqFJgUJNjm77TcR95SzrxH5Y1gn1eE/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub在5月20日发布的一系列官方声明中披露，公司已确认其内部代码仓库遭到未经授权的访问。事件起因是一名员工的设备被恶意的 Visual Studio Code 扩展感染。微软旗下的代码托管平台</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338385&amp;idx=1&amp;sn=a442efc5bf8726e3e4239bc246e2976b&amp;chksm=bc7a3736a74a03c9f3df97c210b3ca72809f3794742987022543ff3b0dbf59e1eca3e5d86a07&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19QDAxXaRudhw3SFORRWKtXLeaLmHZsEicvvJVC7iaKzx5L2cdic44Mrc6P1NDXJ3jrs2ibRZ37SQMBaWicrlia3C5PsRicWkMG6uaw0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic PBC宣布，其AI Agent将具备“做梦”能力，可记忆过往交互与工作内容，从而识别重复错误并实现持续改进。在Code with Claude开发者大会上公布的这项更新中，Anth</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=1&amp;sn=301cb44ab8341f825a5447f48abc01f3&amp;chksm=bc630c1675203173d1d2501d21edcb28d9c605c9de1d0f6bce8725ba1e5b21c381d14d1356f5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Edge启动时明文存储所有密码，内存攻击可全盘窃取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3y9TR56aAkaNaKBehIFgKNtLx71lzBunp6icpBRDSseAibtWibhBhs1WafDW6FV2g74fD9A7vACYAHKvoK5DaaE2C3CZu5c4Q5EU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一位安全研究人员发现，微软Edge浏览器在启动瞬间会将所有已保存的密码解密并加载至进程内存，且以明文形式持续驻留——无论用户是否访问过相关网站。这项发现由PaloAltoNtwks Norway的研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=2&amp;sn=dc361404cf1d35e781d382a6300a7217&amp;chksm=bc0cf2bf3e1660bd0b00eb0844af23c141fec1f4a6b50f92febfee36495605cda736a650e613&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Palo Alto防火墙高危漏洞遭野外利用，攻击者可一键获取root权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0tnCRkLQaeqmgBMWDekZAOiaql8tkA14FuwSE0qDvtOAcJQdZybmj397SznFnDxu3qnichbYsowHibNHmLORBBQq1O1qiabtvoc08/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks披露了PAN-OS软件中存在的一个关键缓冲区溢出漏洞（CVE-2026-0300），该漏洞目前已在野外遭到主动利用。该漏洞的CVSS 4.0评分为9.3（严重级别）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=3&amp;sn=a0b1c8a35d514f60ad04cd81d25bfaff&amp;chksm=bc5cf790622944dffae12b84f1e3ddc3f688fe3d4ae89bb6baa4508713df90257596d5740a0f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[暗网平台Darkhub公开兜售加密货币诈骗、信息拦截与监控服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3J2jqt88wLPxxXt0uBEic8A9qXnuYT1icrTyjOCiarSPQN4elExDVn6T1GUEOHhQoPKIwnj3V1Ul72MPf6YVmdfX2vLibXfotDBicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个自称Darkhub的暗网平台近日在Tor网络上现身，公然向付费用户提供黑客雇佣服务。该平台将自己包装成网络犯罪活动的“一站式商店”，业务范围涵盖社交媒体账号入侵、私人信息拦截以及财务记录篡改等非法</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=4&amp;sn=bdd5b31369a64880a1ac03ec01098298&amp;chksm=bccc2253b8bb4816a745cb3e2b4dbf4b01b8717b319498ac8d1d4eabca815143d416920f4c5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对话郝建业：Agent记忆、安全以及Harness框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX053ygDnGf5dqRxT2aD45DVbRY0En63yRT57TcS6B3RO4YRKnvicUKll06ZB82iauCTFqjPlmBR8FgCSobL2MaDkzX08KapFqgiaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>离开华为后，郝建业创立MemoraX AI，出任斗象科技首席AI安全科学家，横跨学术界与产业界，可以被称为“学者型硬核创业者”。这位85后教授曾远赴麻省理工学院（MIT）从事博士后研究，是国内最早一批</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337774&amp;idx=1&amp;sn=53836611d72ccc90e3e0b834ce8cca9b&amp;chksm=bcb994551f1c4a389cba8f574e932ce8cef707fe72a7fb476b16f8fb64edbe91ed538de2e0c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 13:33:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

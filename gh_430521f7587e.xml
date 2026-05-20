@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源项目的N种“死法”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXoTJAhLN92q6a1Sq1noKB0lqpbiacDTpvtmiaJfw3CnRSO5KkTtib9QGgS99ibrNLHaibPGU8KaMibQTMRvJkUBkmBWf5e7Bjnfv2p8/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源软件支撑着现代互联网的运转，但这些项目并非总能健康存活。研究者 Andrew Nesbitt 日前发表文章，指出大量被高度依赖的开源软件包，其实已经“死了”，而项目走向死亡的方式有很多种。维护者离</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240406&amp;idx=1&amp;sn=ed2eb8e10a81464d1ed88adcdb615f66&amp;chksm=bfeb35b793102e03b9647ed30eb3a1358c8bab3ce071c9b91f6a975e113180eea45365c6f419&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 17:40:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[什么叫攻击者黑进GitHub是为了帮忙解决可用性问题？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXdLHcgu0lWRApGwUN5ic2uaRIuRFdm1gibHWfAUDWwPvMWF9oZnrwZFGooye1F9NPsqibhB9IOlPbQSxh2TKv94lJ1sDgRPyMUJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月19日，GitHub官方确认正在调查一起严重的内部仓库入侵事件。臭名昭著的威胁组织TeamPCP在暗网论坛声称窃取了约4000个GitHub内部仓库的私有代码，并开价至少5万美元出售。G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240358&amp;idx=1&amp;sn=843c8e8f005c0a488f327b47faba8bf8&amp;chksm=bfbb24300be3438967ea3449c033faa75500c42c034220bdcdc8557f4d5f8fc067672ab225d7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZGEdnzibmEIay9yCkv9AFlHRaFbL2a0vqOlR1QM9DmYcD55VHpgm4sRIrUHVFexN1ATPPwP9bIgHnfhuOXJRicfY3zDY83SlGkibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>从把小龙虾跑起来，到把它长期用起来，真正拉开差距的往往不是功能，而是成本、部署和安全。选择云端方案，需要持续支付订阅费用，数据也要经过第三方服务。选择本地部署，Mac mini 或独立主机的硬件投入通</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238717&amp;idx=1&amp;sn=bb9d9fc76d242ef664ccd180fd36d73e&amp;chksm=bfc746390277cf4b147000106d5a2be53ea9357cfbbb15ac5e90fcc1c13e50fada67e67592e6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 16:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布面向Claude Code的开源Codex插件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWFDR4pBVXYCSo6g4ffAyRibNFA8qZsfhejP1ZCpZB9UXXKNCHNDoAyXPotTVhkwx5vVHyluia4EwRoXicnphIXVOG74G33hwQk9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 在 GitHub 开源了 codex-plugin-cc 项目 —— 一个专为 Anthropic 旗下 Claude Code 设计的插件。这一举动标志着 AI 编程工具领域两大巨头之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238620&amp;idx=1&amp;sn=f3fc8c036fb651b35165d70bc0db1568&amp;chksm=bf3f1e1fb59e395f17a0f3c2b17ada7a4787f241ffc7d24ab1de9a7fce73857df0f601c62b9c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 16:34:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

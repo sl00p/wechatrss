@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[QQ音乐Harness Engineering实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7wandkL2W3LQibaLnroO5yDLuhh9oJFnsvvdSLKfeQoQYeMeorfeMeWKdictibGpu7LfrK497ES9ny0NvDPuwHFCVKI7wgmuRiaPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇当 AI 开始快速生成大量代码，真正的瓶颈就不再是"写不出来"，而是"看不完、想不清、管不住"。 本文基于一个落地在大仓多服务（Monorepo Microse</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695581&amp;idx=1&amp;sn=08aacd344637c9eba04e75e9fae2354c&amp;chksm=eb1b28bafe62578aece7ae9b794d4ad2060fc0e91ea5d133165fe5cdf13a96579b29fa2da59a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 21 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Prompt、Context到Harness，工程的三次进化与终局之战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4NnVFIjKMcr3XaL0fq2HeeDg5ZSxL8Y9BIYWwZXg2qNpOuCZngGVdvYlD4IPVELiakLwhLMBMHfkBelibicyjibssZiaglDhtXdibs8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：一个令人不安的问题OpenAI 内部的一支 3 到 7 人小团队，在短短五个月内，让 AI 生成了将近</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695574&amp;idx=1&amp;sn=5a72299143649e58cc510ab1b50480b4&amp;chksm=eb306324d9bf100c2ba7d4e7a1a936649abbadec327c9b491a16bef256b1df91035948beb08e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LheVUDjicaKDBxG7UDRY49ubyNIh2OaP6dKPdXms44GCVYaLnaX9zIaaZuwJBAibwV9WubHFmHnrMJPicdORHzHZqKWDO9Im0QQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01一个"完美"架构的诞生与死亡 1.1 我们最初的野心故事要从几周前说起。那时候，团队刚开始系统性地探索 AI 辅助开发。我们读了大量论文和博客，看到业界</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694655&amp;idx=1&amp;sn=63bbdd3d44df9dd42dc283f8c749d077&amp;chksm=eb1ecddd9db98c60cd39a7c95d36c395d00720630d4487b158f3f08dfa4cf0857c02c512d11d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何从零开始实现一个 AI Agent 框架（理论+实践）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6pqsxldSleUGox0w35lhmH8ChK4mFia76XEBnibSQdc1I3aw7IJHic1EUa5rU4C1KDicYFzK0lHj0IFBT7sTAPnoaGS0ucakvXOcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇人类最重要的 affordance 是“手”，而 AI 最重要的 affordance 可能是“代码”。Shunyu Yao年初火爆现在热度依旧的OpenCla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694641&amp;idx=1&amp;sn=dff67991264624bf2e7615bd637f4cf6&amp;chksm=eb82a2d25f89b7e555654586bfe6402a1d2e22bf49c069d031da2f36ab8fb0342f5f98c15db9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
