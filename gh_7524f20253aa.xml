@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA["巨齿鲨"恶意软件6小时攻陷5500+GitHub仓库，窃取云凭证与密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0cia6EVpayLg2lvOayxRH5nmiatWyvfeNcDAhibIKha6ibr6cqQZV8ypfnUxjNIMenBvzjOJVQz058Jac4XiaQaJD7Xia9rQncgHXfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月18日，代号"巨齿鲨"（Megalodon）的大规模自动化供应链攻击席卷GitHub平台，在不到六小时内向超过5,500个代码库注入了恶意CI/CD后门，创下GitHub Actions</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=1&amp;sn=dd66d976ba859ff0e6e9bc87cf508605&amp;chksm=bc71bd659a12f5ee135ac03120ebe805f9052e7532d33fb8bee22934dc8f49b49f86061dc68a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1lcuKeHMr2MAaJ1yVhpV8ayh8icJCgr63hKnrU4vPAFNbMLAibo3l3FicPHyYZ25eLqCsxlicvsMC7vMTuRRtNAePHUgaF7qicgclQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在零窗口期成为常态的今天，"更快打补丁"或"更好打补丁"已不足够。安全团队需要基于**预设失陷模型（assume-breach model）**的新策略：默认入侵必然发生，关键在于实时检测和快速遏制。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=2&amp;sn=95204e4a1beb949598be3dfdb69eb67c&amp;chksm=bceadfdc256820e4c4c38688adf3a1d701b44c461a2ad9119f6e8de2a2d8f8a8aab2083c33b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache Flink 高危漏洞可导致远程代码执行攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX03TVttpzlv12wxicYKeUN2bicEYib6RXQCRLK6c0Rkrib88iaNyeGhDKth2f2dLIWZIPHmP9TRaJu5IMibwZ5O51D07bicBZSECIaHuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache Flink近日披露一个编号为CVE-2026-35194的高危漏洞，该漏洞通过平台代码生成引擎中的SQL注入缺陷，使分布式数据处理环境面临远程代码执行（RCE）攻击风险。Part01漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=3&amp;sn=07818886fec26f891e566b3e19fc4bbb&amp;chksm=bc73217ac31f753db549a504ff9d617366b9299443fa8e54b827cb2011135cf2f2cec9b33fa3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Orchid Security安全报告：三分之二非人类账户处于失控状态]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2H6TxlkAISFuyuhJaTUaneomGdkaBq7yc9vJqWkJdFH7B1JiaWicqP3Sk8Sas9kLwSkib2uiafF7iaR3IyTIsVTM2ia6owozZDXcKX8/640?wxtype=jpeg&amp;wxfrom=0"/><p>致力于解决核心身份安全问题的Orchid Security 今日发布《身份鸿沟：2026年现状报告》，揭示当前大多数企业身份信息实际游离于身份与访问管理系统（IAM）的监管范围之外。报告发现，企业环境</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=4&amp;sn=79a445e3f8b55fe7deb5856b8ae031b8&amp;chksm=bccb87b588c30db02425103e90eceb0806222b537cc90b4e6a0ed662a96defc188081e28c115&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code沙箱漏洞5个月未修复，攻击者可窃取凭证与源码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2UTRC9laF49q5aVoBCQpxIXPk5fpZcQCyFIOhmiblSaOtc9DeVYfdm4NNGgGuHCQ1sQmEY1ObawLx8DkdLmGycAl10ljQrMmPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司的Claude Code AI编程助手存在一个关键的网络沙箱绕过漏洞，持续时间长达五个多月。攻击者可借此窃取开发者系统中的凭证、源代码和环境变量，而该公司未就这两起事件发布任何公</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=1&amp;sn=22dae0f2845a5f1a47a57995a41c3d7c&amp;chksm=bcc009ef6f9f936972a0b1006c96546564a990c7761e243825e02ae0bee5d45bc90df7369cfe&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0edmHWcQDOkr6dw91u1tpOaz6iczrEAXbkhDxN494YyVrIKbtiaM59WMlBeAmm514dYycLCFZ9WIias5L8TuyQ0oVbibNepvvCPFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>当各种大模型卷生卷死，对话型AI早已在网安“上桌”，然而再权威的AI面对复杂挖洞实操prompt时总降智、幻觉强烈真正决定长期竞争力的，不只模型能力本身，而是模型之上，是否有一套能够持续吸收实战经验、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337816&amp;idx=1&amp;sn=63c7a27abca9a3d812047b5ce3418742&amp;chksm=bc86237f7dc07c86ffcc64d12dd0b1973dca0bf8ad6b9ec9e55898b1761237a86d9cf9301f24&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深度剖析AI网络攻击｜Bitdefender 5.13 实战研讨会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1RLc3BLsRKvVrtVqEVibQu2v1OpnxFyogicWu8Jb0Mer9ImWnIJZDw28iagTQoTykwFamwRrG0QAicbLMgJStYPSbf9kDf9U3XiaQ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当攻击者开始借助 AI 批量生成钓鱼内容、自动化编排攻击链、快速找寻企业薄弱点时，安全防护就必须从“被动响应”走向“智能化、体系化、可闭环”。“面对 AI 驱动的自动化攻击，企业需要的是一套从风险收敛</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337816&amp;idx=2&amp;sn=8fdfa018a6dbb4dbb76a71efd208ccbd&amp;chksm=bcb3f17b66ef77a931b30959c342647a645e9f5ee47fcd26ee395ea8f690680064e4be25748d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国家级黑客利用Palo Alto零日漏洞长期潜伏，部署隧道工具窃取凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX01ibWMzdIuN2vRLeLAUxJpPfQXBwcQ78Wly1xzpk3icYY6o3Zno4lQxUNuoDkhS92LrtL6ZOXcQ5FbUxElqXa6AR830vosCBzak/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks警告称，疑似国家支持的黑客组织持续数周利用PAN-OS关键0Day漏洞（CVE-2026-0300）。攻击者利用该漏洞部署了EarthWorm和ReverseSoc</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337816&amp;idx=3&amp;sn=faf67ba330a78f7855dd63fc137d12af&amp;chksm=bcafcc01d4b01d363d2877ad0e293c4b9855c6afbdb61a6b26cd20b969f8aa0608bec6cd81a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[泛微E-cology高危漏洞遭活跃利用，攻击者可远程执行任意命令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0O5wedFn1iba73Rs9cibicQJk7w9DqFmaiaCIGwXAqUeIdFB1ycAmu297ejvtmbDHtOUk8gibBCoZdSeg5JbjnDBVZibJsbuwkV9XdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>企业办公自动化（OA）与协作平台泛微E-cology存在一个高危安全漏洞，目前已在野外遭到活跃利用。该漏洞（CVE-2026-22679，CVSS评分：9.8）属于未经身份验证的远程代码执行问题，影响</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337816&amp;idx=4&amp;sn=e0438f4ec6ada0e7cef8bb8682c06fea&amp;chksm=bcd7474e5975f2d778ec099718a96806b8cfbf379e87e9dac3e121e54f3936512f0520becb26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic让Claude AI"做梦"优化工作，突破上下文限制实现持续进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19QDAxXaRudhw3SFORRWKtXLeaLmHZsEicvvJVC7iaKzx5L2cdic44Mrc6P1NDXJ3jrs2ibRZ37SQMBaWicrlia3C5PsRicWkMG6uaw0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic PBC宣布，其AI Agent将具备“做梦”能力，可记忆过往交互与工作内容，从而识别重复错误并实现持续改进。在Code with Claude开发者大会上公布的这项更新中，Anth</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337798&amp;idx=1&amp;sn=301cb44ab8341f825a5447f48abc01f3&amp;chksm=bc630c1675203173d1d2501d21edcb28d9c605c9de1d0f6bce8725ba1e5b21c381d14d1356f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

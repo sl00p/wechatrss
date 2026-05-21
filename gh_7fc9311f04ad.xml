@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent核心技术概念与范式发生了哪些演变以及背后的思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wABibWs648qezQhuntUNB12XWOa4iabcDqOewteK1RO9puPEOickklyEFU8gGayVSnLpsYvrW9Fqv9nr4juhk0abiaYeyIIialeGkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景近几年，随着基模能力的快速升级与迭代，Agent 领域迎来了爆发式的增长。特别是近期，像 Cloud Code、Co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560220&amp;idx=1&amp;sn=72a83c5317c93a91f78daf6b203d308d&amp;chksm=e85d76db484664ed86605f0b27cd220bd255410a11bfd54b42797c1421294e48c338fce14967&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wDYYTaaia9CGMrad0GTItRmezib90ICl5ALVHQbpiczqb6Be7pphhxB2J7iacHHHQVpvibuC6xIWRicTXlYJly8WnyMAc5bcLia22ibF0/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 体验差距到底在哪在依赖比较轻的项目里（比如前端、CLI 工具、纯本地的 Python 脚本），AI Coding 的体验是这样的：编辑代码 → 本地运行 → 测试验证 → AI 读取结果 → 自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560145&amp;idx=1&amp;sn=ae14d8af22600c85a92201ef28517016&amp;chksm=e87ff453619eff7114f9475d933bbe11c98c3496d069269378dbc3e43d00a11b5720bf9dce3a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xlCBcCCia1BNdQWAKMiakjjByXyLPZBiaGh8HTeQ4HQFiaOChmKnP9pgeP8AGyTYDibJSzmIfZjopynS74xSxhjibuZMEicXoto9t2s8/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文将分享阿里集团在 AI 代码评审方向“历时一年半”、“数万亿 Token 真实场景打磨”的探索现状，以及我们联合南京大学研发效能实验室开源的、汇聚 80 多位资深工程师进行多轮交叉标注的业界首</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558718&amp;idx=1&amp;sn=cdc0820c4421c05351328a5a5e145619&amp;chksm=e896c609934fc8b22abbaa7446faed33d0d4fbbd936026045f4bfb4875f7b281c284607df2dd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里开源 Team 版 OpenClaw，5分钟完成本地安装]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yAicXcdnaWHMAhz57Y4P39tKuH29q0nbggU8kpOQ9MYqdGib9uxD5klc0ia3tIU2yYhb8ILiawgP60C4kJp2dwtbanY66md3fLYUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读HiClaw 是 OpenClaw 的升级版，通过引入 Manager Agent 架构和分布式设计，解决了 OpenClaw 在安全性、多任务协作、移动端体验、记忆管理等方面的核心痛点。作</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558717&amp;idx=1&amp;sn=f0da24160b18a384f21eba5e9bd8b85f&amp;chksm=e8567b2eae62fca9afa1a04bdf96eb4b5cf4b2d471b53bfa4604adb239e83dc138c4ccd2b3e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

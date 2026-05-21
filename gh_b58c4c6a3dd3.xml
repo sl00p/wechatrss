@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[97.7% 告警降噪：腾讯云安全运营Agent实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4gADwDQgctQlkmqOdibUoJ0ySVn5JbkzI9icYv80azKJBzgVIRCIxdXorWCsA4Uf7tTu7pKWeke8ljaTRDvY5jG7JwNYF0yhx3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>以下案例源自腾讯云鼎实验室使用Agent进行告警研判的实践。“一条本应被忽略的"攻击失败"告警，Agent却从中发现了2个月前的入侵。”做了什么？针对于腾讯云的安全告警，云鼎引入Agent自动研判安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529738&amp;idx=1&amp;sn=7932b5e4c35eaa2161d39a7206819540&amp;chksm=c159cb7e678274820489e590a77364855f5fc39ea96cb12187a38f703d221484031a3b325159&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 17:02:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯云网页防篡改解决方案：把攻击拦截在篡改之前]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun7DePvickxxgPVmic4JH62OWrLhVZefic2eGyROV3BribhTRyTTFbzAUkzvAPtoW0BWDMgElr5elbIicIIzMbqYqxiacUt0ZA1dbPpibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一直以来，诸多网站运营者深受官方网站被篡改的困扰，权威数据显示，2025 年仿冒假冒网站平台同比增长 1.7 倍。网页被篡改，不只是企业形象受影响，还需承担《网络安全法》等合规责任。因此，做好网页防篡</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529738&amp;idx=2&amp;sn=45f53407523cfe2bd3d132b83ac8f808&amp;chksm=c1c77daf9d14b3f0b8e9ea41dd078118bdfc6e16a17f4f9b27af48d1b0e40bb0e7a9ac937f28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 17:02:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开放报名！2026游戏安全行业峰会即将开启]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun76V77r2BMDpx8ayvY1xds5GrBolke4a3F8RtGVpDmJqnM2b1iafHJpBoHa3CZgAyDwaGGp55BTHcMdz08mvGaicVNf1G1OQwIfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月8日，2026（第八届）游戏安全行业峰会将在深圳康莱德酒店开启。腾讯游戏安全、腾讯云携手 Riot Games、高通等全球游戏厂商，《无畏契约》《三角洲行动》等游戏负责人和安全攻防专家，共同探讨</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529572&amp;idx=1&amp;sn=5cee5a40a2f53fcf5535744c113b9132&amp;chksm=c108eafef7e124bc8d253828a3eb14212acf076ac59f2138d48fde4d1603902767ad23c727f8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdek5bR1yCVbOujshpl3kdYA39v0TqdJTkvia4JWibtMTxnrx0NYCdgdCVUtcPQgXI5oegTklNeAfgYjw/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月29日，由腾讯云与腾讯安全联合主办的2025腾讯云大模型安全攻防沙龙将在广州拉开帷幕！众多行业领袖、技术大咖、资深学者、顶尖攻防团队将齐聚羊城，围绕大模型安全攻防前沿议题、产业最佳实践进行思维碰</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528558&amp;idx=1&amp;sn=0b233c8096645c2d7064cfee377bdb8d&amp;chksm=c175f21afb9a2eb72fe931a97a2f95f3ce7edeca060b6924659f4ec8498b012b9281b0fcb2d7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 17:59:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[餐饮不止关注食品安全，老乡鸡3步搭起“全域安全壁垒”，守护千万消费者权益]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdek5bR1yCVbOujshpl3kdYA3k0IRAIkickoodpex0mdCWSWRU2sCNQEibuXE3X7wmT94O3KgicGnowa9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔐做餐饮，不止关注消费者用餐安全，还有背后的“业务安全”。选择数智化，是知名连锁餐饮品牌@老乡鸡 构建“全域安全壁垒”的最优解💡守护业务安全，老乡鸡选择用腾讯云安全解决方案：🚀小程序加载提速20%，黑</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528558&amp;idx=2&amp;sn=4f54e5e32c1f34f899462c8f94f6f022&amp;chksm=c12ac08a5538e090b32d414d1dda8cd42f64aff6888109acfbfa2db176c7860ca6e8186fda84&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 17:59:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云领跑亚太反欺诈领域，获评Forrester Wave™“领导者”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdempS84eicIqsnZO8EYRlA8nfJYlCXdkrPN7fDlibAGiaRNFOIiamQQZPEzk3DiaMJribTfVoR4z9yjgIhXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，国际权威研究机构Forrester发布《The Forrester Wave™: Enterprise Fraud Management Solutions In Asia Pacific, Q</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528472&amp;idx=1&amp;sn=b6dfc53eefeb796fafed452a3a8619d1&amp;chksm=c14e575b8fdd04602bb0fa2fbb8a2922773b5697a38efe487b0c5fef5a7adc80ce799a8d48f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 17:11:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[别再骂 Claude 限速了，Boris 亲口承认：最挑剔的用户，反而最离不开我们]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 在硅谷，越来越多开发者开始形成一种奇怪的工作状态：白天，他们像项目经理一样给 AI 分配任务，到了晚上，他们则像云计算调度员一样，同时运行数百个 Agent。而这，正在成为 Anthrop</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=1&amp;sn=654a8dbfb7a95af6aa865cd2f78d7929&amp;chksm=bc441946f01aca9f3a50ea934a97dbb00df3584c4d1f6cd292e577d7318c0692b6d78fa39c95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agent“记忆断片”如何破局？Memory正成为AI的新战场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhbjtrRdqFCpbprLOHAQ5LByicbk8p4ib8Cia1YnWwQ9iaoIajH8K7RvtSfqgDU10TVRlIK1ItfAQE3P94LzGzibw90nVaiafPy9aStk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | AICon 全球人工智能开发与应用大会 策划 | 李忠良 编辑 | 宇琪 你是否也遇到过这种尴尬：在 ChatGPT 里刚定好的方案，换到 Cursor 写代码时，一切又要重头说起。Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=2&amp;sn=26f078b1748651209808458963178fa0&amp;chksm=bc90815d02bdba0d265204aba49cc499ce406da919bd490177cc93be1645b7a26a2b79e13729&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小米 Data + AI 存储架构演进：EB 级统一文件基座实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhdxQcD3l786nvwRRzVKx5ib9V6KMdQgygbD46tdZiaJteQEl0em7nib5yTzs5W98NjcUXdChOkl8fy2MiccGHFnfeyRhk2U7fZ6G4/640?wxtype=jpeg&amp;wxfrom=0"/><p>小米存储团队自 2021 年起推进基于 JuiceFS 的文件存储平台建设，最初主要面向云原生及部分业务场景提供文件存储能力。2024 年，小米提出全面 AI 战略后，原有异构存储体系在选型接入、数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=3&amp;sn=b163411e20be723a72750f96151a8109&amp;chksm=bccde1d10220cd39d0e85cb0767a51fd1a77aa8bbe75f1c9211a490f081cd5608182431cfc10&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[时序存储：影响成本与性能的设计选择]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgwX6vbvawHJ2ib9eQf18c5bbdF1Vmh0eoDWuvllHLqW6ia5IgKBtLgyST4Fw9dHQoPAzZMoXbScOpHgmaRNAqxT7DBwCdiclpyRw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Nirmesh Khandelwal 译者 | 平川 使用任何时序数据库都需要做出一系列的存储设计决策：如何布局行、何时进行压缩、基于什么进行分区。这些决策对成本和查询性能的影响，甚至比数据</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=4&amp;sn=c12a9fd2c8ab187c38da080b7704f953&amp;chksm=bc0355c927e3ef18313051d23773e38b092fb41dfad64eee19d11149a7da449bc53c6d76ffef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiae5B5xVL0CicULuLaAeSibq4gFSGiaicL85yy9MBccEicibicWJnCWrwqxwz8GR4ZlGZQbSbc50vNDKA0EjP1jwNDnH6dYg5j9TibUIwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 今天，马斯克终于亮出了 SpaceX 招股书。其目标估值高达 1.75 万亿至 2 万亿美元，融资规模最高可达 750 亿至 800 亿美元。截至 2026 年 3 月 31 日，S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284918&amp;idx=1&amp;sn=58b5e107fa84ba6dcc3a487f8297a3c9&amp;chksm=bc9916787ce1506662282e42f86890397ea2257ba1c67d71de1534df8793be744775edee6011&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaRwXc0koIAcxeB4CauIbcbRjUf94ZUmQBibSgrTwtokGrC1R9Z3eh1U6JfHibKYiacUxhRC82dWLQJv235v4N2x0dwsFDTKFOoWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 AI 时代最大的笑话莫过于，大模型夸你很行，你自己当真了。过去一年，“一个人顶一个团队”正在从硅谷口号变成现实。今年 3 月，在《No Priors》播客中，Andrej Karpathy</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283711&amp;idx=1&amp;sn=12ff2e003d1fefca543d746d51d70b91&amp;chksm=bcd76a1c9f83f800af1fbea41c5eb45fd601642656b0b668c2953e2adee06a185afcfa7c3f24&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 09 May 2026 16:53:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 把编程这件事接管之后，作为程序员的我该何去何从？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjYGbmgSZYJgVEWG77415XbTakxx784OzpatlrI1kmRBnmMSMIVuhhnd4VibVCTElhRDloG3EusUMztYU2rCSmjPSicrwj2Eq8a4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 周云龙 编辑 | 蔡芳芳 编者按：当“AI 正在接管编程”成为技术圈最热门、也最容易被情绪化传播的话题之一时，真正值得追问的，或许并不是“程序员会不会消失”，而是：当代码生成越来越廉价之后，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283711&amp;idx=2&amp;sn=a842285c4977693bb9bd6918197d4cb2&amp;chksm=bcb388f6e1523b39d09f803f71b5dd9c59f4e6ca076b839dfa5c1970d025b78d8726f83e0784&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 16:53:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaZGjsVjsyA9yx5Ey8aNicBMvUxFxIqDUQVAwKFLgcRfcSrfIr5zLsjYtekbmfbwoVysE4o90npicmFw5sE7WM5g9RHERzHjTVJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 明知山 Cloudflare 在 Agents Week 期间宣布 Agent Memory 已开启私人测试。这是一项托管服务，可为 AI 智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283711&amp;idx=3&amp;sn=cbc38e970c50536e629ef6ca8c31c721&amp;chksm=bc0f387b6d84f1df9121009ff6983654e9e6592339ecca888291228c104e382feed2bf9bed43&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 16:53:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia65dN8fzD6xxODZyfzHBEUHD5SIOYY0EKV9nBAGPUr2ZibkSDwsib7DgMVynaIDauicA4thudWTw593wuWSo2NG2hY23pREqKPMg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Michael Redlich 译者 | 平川 OpenJDKJEP 532（模式、instanceof 和 switch 中的基本类型第五轮预览）已从候选状态提升至 Propo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283711&amp;idx=4&amp;sn=fa9a67520147049b659c9cf4c34d0ebd&amp;chksm=bc4c42842dc6e52b58a90694bb65340cada9d21f80119c76c77822414b9844d37e7d6413fa63&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 16:53:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiak2pYH4HCjdYl3wIDFlpsRfaSVl2pSMNXrHwWs1KHJ7alLAmNfMALPTFLz9BGE3dPPCz0KicE7mNSN21HtlO7ePTPsNye7POjI/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | Tina Chrome 正在把你的电脑变成它的 AI 算力节点，没问过你，没通知你，而且删了还会自动重下。安全研究员 Alexander Hanff（网名 ThatPrivacyGuy）报告</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283627&amp;idx=1&amp;sn=f9f44222cc187328ca9546e23b16a988&amp;chksm=bca9b6abb52d9b307e0f7e4200e82c4ecf40b09495dced6c292a123482f3edaf8c659f277bea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 15:32:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

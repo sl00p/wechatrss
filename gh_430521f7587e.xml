@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[花4.8万美元自建GPU服务器，值不值？看看这位独立研究者的真实算力账本]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWL20GD92CVFntKYnYrDyrAdjz9MC1ibgNCAeD6eZHuVsSqaVkIeHABtLLf7SU3BT1MpLaQWQK3kJZNUGuibIcCRniaFicdEpYbxr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024 年，一位前 FAANG 工程师决定辞职，成为独立 AI 研究者。要做研究就需要算力，于是他花 4.8 万美元亲手组装了一台搭载 6 张 RTX 6000 Ada GPU 的服务器——取名"g</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240423&amp;idx=1&amp;sn=e5d3a180683729e346a994cee863b118&amp;chksm=bf00963d5d7e03596cf9c7c6d39ae90b05fc42f823070b2e173293ead509b1fe5db84ffa8eb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 16:04:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开源项目的N种“死法”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXoTJAhLN92q6a1Sq1noKB0lqpbiacDTpvtmiaJfw3CnRSO5KkTtib9QGgS99ibrNLHaibPGU8KaMibQTMRvJkUBkmBWf5e7Bjnfv2p8/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源软件支撑着现代互联网的运转，但这些项目并非总能健康存活。研究者 Andrew Nesbitt 日前发表文章，指出大量被高度依赖的开源软件包，其实已经“死了”，而项目走向死亡的方式有很多种。维护者离</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240406&amp;idx=1&amp;sn=ed2eb8e10a81464d1ed88adcdb615f66&amp;chksm=bfeb35b793102e03b9647ed30eb3a1358c8bab3ce071c9b91f6a975e113180eea45365c6f419&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXoYQqnxUdCmZmlibu1Nibric7BX1eJ1qEnEwhXC4FwjENGDLH5fz9DRKslWmdkKkg8Rib5oj7O9jApoCumcDAvayPAaYzOic0ko9bI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Seedance 2.0 的 API，正式全面开放了。字节跳动 Seed 团队打造的这个模型，可能是目前最强的 AI 视频生成模型——多模态输入、多镜头叙事、原生音画同步、2K 电影画质。发布以来，全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238749&amp;idx=1&amp;sn=1f328f83bc16287a1012bd1195db3c66&amp;chksm=bf9cdc72b4d527d7e13b237b85738a0532cd5353faeae6ff7d07f8d13d08143a3d4c668db7d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Apr 2026 12:12:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[装进口袋的小龙虾：PocketClaw 迷你主机现已开启预售]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZGEdnzibmEIay9yCkv9AFlHRaFbL2a0vqOlR1QM9DmYcD55VHpgm4sRIrUHVFexN1ATPPwP9bIgHnfhuOXJRicfY3zDY83SlGkibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>从把小龙虾跑起来，到把它长期用起来，真正拉开差距的往往不是功能，而是成本、部署和安全。选择云端方案，需要持续支付订阅费用，数据也要经过第三方服务。选择本地部署，Mac mini 或独立主机的硬件投入通</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238717&amp;idx=1&amp;sn=bb9d9fc76d242ef664ccd180fd36d73e&amp;chksm=bfc746390277cf4b147000106d5a2be53ea9357cfbbb15ac5e90fcc1c13e50fada67e67592e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 16:48:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.05.15~05.21)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicib8aDTXgyVeXltcxDc1XazrxhK5hBrpckHLRhLicrXPw2rojNaf2wpndsmqia8o8zKRNutERSI8qwiaAEEzoGkxLPfO8PJMg2fdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.15~05.21攻击团伙情报VELVET CHOLLIMA 利用交易应用程序作为诱饵进行信息窃取活动FrostyNeighbor：新鲜的恶作剧和数字恶作剧Kazuar：国家级僵尸网络的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518880&amp;idx=1&amp;sn=d7cf1fd2bcdfd883a6394d86b8875e39&amp;chksm=eb1f69423033f1f16e932f8a050a434e7a216edb5fbb1a5c6eb61a051b23398bf728939d1f07&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 14:49:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibicDrCCTeuB52iarqgUPlG7h7ulPKhxaBhl2bX7CupXhkHFa2k2mZCaKBq9J33FIh6BzZh7kKzhFIzibZNk9bLZUXSWfDzicHNxWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述奇安信威胁情报中心监测到2026年5月20日Socket威胁研究团队披露一起针对JavaScript生态系统的严重供应链投毒事件。攻击者通过伪装成“接手维护”的方式获取开源项目art-temp</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518848&amp;idx=1&amp;sn=90b15138b9f9cc9e7698039e29fbcdce&amp;chksm=eb56bd2f0233212e976b4ce58b46ec7aef486da66434c8119721820bffdfd5beecad45d150d6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicib34XEpBANFZbFwaUQvR8zsbUg0lwUiatn8thWsft4UWhvyPJpUstuS7bxuEgnKBKxSlyE1VzNS7Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.12.05~12.11攻击团伙情报Operation Tornado:针对国产信创平台的网络间谍活动Gamaredon 利用 CVE-2025-8088 进行网络钓鱼攻击活动Lazarus组</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517242&amp;idx=1&amp;sn=ce6e21e4bb920362e5046ec311cb1a8c&amp;chksm=ebb0e6d79345a1f6aa374e7919762c4a6f459d1c5d8aee1fad2e07453c948f2346cfae50e2e6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 12 Dec 2025 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[威胁情报“三连冠”：奇安信再获赛迪权威认证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicibvI7wFemSXl6bV9HZn9BQPnBXg20g76kWFPxzJiaSvgjKB8Gq9p5hkdWvocFAAk9Vc7EHoVEXVJFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，赛迪顾问正式发布《中国威胁情报市场研究报告（2025）》（以下简称《报告》）。数据显示，奇安信集团在威胁情报领域持续领跑，已连续三年斩获国内市场份额第一，其核心产品服务矩阵、技术创新能力及行业落</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517215&amp;idx=1&amp;sn=57366baf6ee66344fe8c3e6671219658&amp;chksm=ebdfd7b39c20127d3db816c6cf374d810097c66e378f56506ed73167ba31abb9cd139a62dd29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 11 Dec 2025 10:03:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

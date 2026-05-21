@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness 时代，程序员干的事情本质上属于一种元工程：不在工程本身上做加法，在工程的运转环境上做加法。 实践过程中，AI翻车的问题基本可以归为五类，每类对应不同的Harness 改进动作。 第一类：编码规范违反（Rule + Script） AI用了MessageBox.Show、写了C# 8.0语法、XAML 里出现中文，都属于"有明确对错、可以用正则匹配"的问题。对应的处理方式是Rule 保留核心要点做事前提醒，Script 做事后兜底检测。好处是，流程 Rule 保证 AI 不会忘记要验证（解决注意力衰减的问题），Skill 告诉AI验证怎么操作（封装步骤），Script执行实际的验证（机械化检测）。 第二类：操作流程遗漏（Skill） AI改完代码忘了编译、编译完忘了跑测试、或者不知道MSBuild装在哪条路径上。解决方案是封装成 Skill：一个SKILL.md文件描述"做什么、怎么做、看哪个输出文件判断结果"，配一个 .bat脚本做实际执行。AI读完SKILL.md就知道该跑什么命令、去哪看结果。 第三类：流程交互混乱（SubAgent 定义） 根因是Agent之间的交互规则没定义清楚。修复手段是改SubAgent的定义文档：加回退路由、细化操作流程、明确禁止事项。比如在Code Reviewer的定义里加了"需求实现 Review"维度以后，"主流程做完但边界场景漏了"问题就几乎消失了。 第四类：外部能力缺失（MCP 集成） 这类问题的解决方式是接入 MCP，通过MCP Server把外部能力暴露给AI。MCP本质上是在扩展AI的"感知范围"，在实际的业务开发中，如果AI拿不到足够的上下文，基本上等于一个聪明的傻福。 第五类：系统性的流程缺失（新阶段 / 新 Agent） 最少见但影响最大的一类。比如最初没加事后验证，想着编译测试都通过就够了，后来发现并不够，于是加东西。这类问题需要的不是修补现有的某个Rule或Skill，而是往Harness里加一个全新的组件。 这个循环跑得越多，系统越健壮。护栏越多，AI能自主完成的任务范围就越大，人需要介入的频率就越低。 Harness这件事本身，其实是一种高度压缩的知识传递。一个资深工程师十年的经验，不可能用一次对话传给AI。但如果这些经验被拆成完善的Rule、Skill、Script检查，AI 就能在秒级时间里"吸收"十年的踩坑经验。 如果你想了解更多落地细节，请点击：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=1&amp;sn=639d83e3bacb5cf2e040dad911bbde61&amp;scene=21#wechat_redirect">Harness Engineering实践心得：如何高效驾驭AI？</a> 各位彦祖亦菲，你们是怎么实践的？欢迎评论区一起讨论，送周边一个。]]></title>
+      <description><![CDATA[<p>Harness 时代，程序员干的事情本质上属于一种元工程：不在工程本身上做加法，在工程的运转环境上做加法。 实践过程中，AI翻车的问题基本可以归为五类，每类对应不同的Harness 改进动作。 第</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695583&amp;idx=1&amp;sn=f3a8dfc305392e781837363f6bc17a37&amp;chksm=eb0f2935d1ac8cd3bd622c4e483a74993263971c678b5586ec414eeb2bfdf3e0ea419e5686c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 22 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[QQ音乐Harness Engineering实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7wandkL2W3LQibaLnroO5yDLuhh9oJFnsvvdSLKfeQoQYeMeorfeMeWKdictibGpu7LfrK497ES9ny0NvDPuwHFCVKI7wgmuRiaPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇当 AI 开始快速生成大量代码，真正的瓶颈就不再是"写不出来"，而是"看不完、想不清、管不住"。 本文基于一个落地在大仓多服务（Monorepo Microse</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695581&amp;idx=1&amp;sn=08aacd344637c9eba04e75e9fae2354c&amp;chksm=eb1b28bafe62578aece7ae9b794d4ad2060fc0e91ea5d133165fe5cdf13a96579b29fa2da59a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr406CTCSelohMNmTMMXQHH3nxh61WwB9wwZAXV7z6wkOBeNEjgt0QWCibfREgReBD7lnOqSDnjMFOoDBOaaqIZNQfFSuryxdS2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01写在最前面的闲聊很早就开始尝试用AI辅助写代码，当时的感受是：对于一些不需要太多上下文的小需求（最终的产物是代码片段，直接复制粘贴改改输入一般就能用）还是非</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694667&amp;idx=1&amp;sn=e94235a2fcac22b57a48fc57c64e599c&amp;chksm=eb06a5b7dc8f6707ac8e48f614f1eaf8dd74c1c498aa627ae6028df8d1bfd9c071dbced02674&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 工程化落地实践：推翻"完美架构"，回归提示词本质]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LheVUDjicaKDBxG7UDRY49ubyNIh2OaP6dKPdXms44GCVYaLnaX9zIaaZuwJBAibwV9WubHFmHnrMJPicdORHzHZqKWDO9Im0QQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01一个"完美"架构的诞生与死亡 1.1 我们最初的野心故事要从几周前说起。那时候，团队刚开始系统性地探索 AI 辅助开发。我们读了大量论文和博客，看到业界</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694655&amp;idx=1&amp;sn=63bbdd3d44df9dd42dc283f8c749d077&amp;chksm=eb1ecddd9db98c60cd39a7c95d36c395d00720630d4487b158f3f08dfa4cf0857c02c512d11d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
