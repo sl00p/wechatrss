@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[想换一辆电车，JYM有什么推荐 | 沸点周刊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcMKS3ck8w4TRJiawu6FXt3GRj6LJRXBGOc4ssn3OpCmLoHibfHrQKcpjkxv4fplCzveOWsm8JF82ibEiaaIP6XleOzD7DttKp5Cgiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>（✨ TRAE 征文火热进行中，速戳上图了解详情🔍）本周话题推荐❝技术er迷惑行为大赏技术er迷惑行为大赏正式开始！变量名从a1编到z99，注释写着“别动我也看不懂”，git commit永远只有“f</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547921&amp;idx=1&amp;sn=e77cf7e58f5dd1487530d3f382aecd20&amp;chksm=fd5244023951c46489f3e42aaea4dad8696626a77e770eb171d7386e620f1c8ac17ef798f884&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[回家的时候用车，不回家感觉又没啥用，这车还要不要买 | 沸点周刊]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcP4WUxypJcFwyV8MyZSohmXG5FNlPuf2kyFYMgMqia9jib5krHOgXcV6z4y8BoShNHkibxHkibebIvuz5d12gz11uTvTyJ8zd26iaJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周话题推荐TRAE移动生产力拯救通勤党、出差党的神器来啦——TRAE SOLO 移动端正式上线，不用带电脑，手机就能搞定高效办公，直接把碎片时间焊死在效率上～妈，我真不是修电脑的我妈眼中，我≈修电脑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547917&amp;idx=1&amp;sn=45d940d72133c88cac0845951f591ed4&amp;chksm=fd9a0d57ca6dcc0ccbbd5571f8a03643a6a671fa3beba946db818e54ab3eddf3441879ff67b2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtrfa7keX8Qe4OO2sYArpbPDqR0ZFkGWkIwqYURPh4ib1cBLn2xmzvCF49r0icBLlCHianT8bw4Gngxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端出了问题，但总是“查无此人”之前在一家体量不算大的公司，我们团队负责维护一个面向 C 端用户的 「SaaS 系统」。产品双周迭代，每次上线后，我们也会定期从客服那边收集用户的反馈。但很快，我们就遇</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546918&amp;idx=1&amp;sn=b5b1380fc0ab0b9e37cb2fe62ebc7767&amp;chksm=fd70a7fd6413c6f57d29789246bdce1b0af2c9abecfe5fb526aef05300efc464bdcc929817c7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 17 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前端技巧：检测到省略号文本自动显示 Tooltip]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvEtSnY40Vaq7ng2zR4Ve1ahOq2WABNtnZGZzFcCzHsiaAWgZXxhx2ljdu6S72ydicgyqib4EN0hw4kQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言在前端开发中，我们经常会遇到接口返回的文本内容过长，无法完全显示的问题。为了处理这一问题，通常会设置固定的宽度并使用省略号样式（text-overflow: ellipsis）来隐藏超出的文本。然</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247546917&amp;idx=1&amp;sn=9e42133faab02eb9a5b09af2f022b774&amp;chksm=fdeb0af165a138d3ac6f9c86320c1d53cd04207cb6c7c55ce2e5403c799ce8229e3645c5cd76&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

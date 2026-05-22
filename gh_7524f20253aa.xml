@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos Preview首月发现超万个0Day漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1nQwdPU8B4C0JgbMFKP6s5ZiaPyR88H8YwudMe64ic7JWOJuiaiaUP4SY6qtpwf1J0CKm7fibHMksP75cyYR3icUlDaL6xiaBsnU1KxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公布了Project Glasswing项目的惊人初期成果，这项协作式网络安全计划旨在利用先进AI技术，在恶意攻击者利用之前保护关键基础设施安全。在项目启动的首月，团队借助尚未发布的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338613&amp;idx=1&amp;sn=d0ae0c38319293b058cc4ff73b9319ae&amp;chksm=bc995a91b2775d7a0b7c6b4d878fa26822a3603d491a017a13ca3f5e2934a6edef829b5c7be0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[联想签名驱动被黑客用来终止安全进程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ukyRwN8CVU3DemEFsca520UdicrZWHEBS9qPBWLLic1LRgO3ZB8RBOvQ9vqJelKWcgp7IZn5Gu5fkWHSEMUkxMLOOORofXM0icg/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现，黑客可利用联想公司合法签名的驱动程序BootRepair.sys强制终止安全进程，这揭示了一种危险的BYOVD（自带漏洞驱动）攻击载体，可绕过端点防护机制。Part01驱动漏洞技术分</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338613&amp;idx=2&amp;sn=bde114d6929182306e136f42552723af&amp;chksm=bcec9be84e0db80b7645fff9601fe969dcc3783aa343d01f047d7813444cf916a30105826116&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub 4000个私有仓库被窃取；Claude Code深度链接解析漏洞可被武器化 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位Buffer周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🖥️GitHub证实被入侵，4000个私有仓库被窃取⚠️Claude</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338613&amp;idx=3&amp;sn=7b997541abd8261d9f03f56b5e625886&amp;chksm=bc66653391ccdbe525ad25147ecbab7b5930cb11cf6405a63d1df302c9cebab11b1d69d036fa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA["巨齿鲨"恶意软件6小时攻陷5500+GitHub仓库，窃取云凭证与密钥]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0cia6EVpayLg2lvOayxRH5nmiatWyvfeNcDAhibIKha6ibr6cqQZV8ypfnUxjNIMenBvzjOJVQz058Jac4XiaQaJD7Xia9rQncgHXfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月18日，代号"巨齿鲨"（Megalodon）的大规模自动化供应链攻击席卷GitHub平台，在不到六小时内向超过5,500个代码库注入了恶意CI/CD后门，创下GitHub Actions</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=1&amp;sn=dd66d976ba859ff0e6e9bc87cf508605&amp;chksm=bc71bd659a12f5ee135ac03120ebe805f9052e7532d33fb8bee22934dc8f49b49f86061dc68a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ZKiaKY9UMvkIF6G4JI5gkQFViaZiazsFmicIwu4mugD4Fl3icPdv5YXDTJHLocZQ2GEl1H0kOxwQpVaaXV8KxuFOEia1Eh4jzBUJLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Topic Preview议题关键词随着企业从单一AI模型向多智能体系统演进，数据开始在多个智能体之间逐级流转，并频繁跨越不同的信任边界。然而，当前的安全防护仍主要依赖传统的输入验证与隔离机制，忽</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=2&amp;sn=2bce7bdd9d9a0d72737127042fc38f20&amp;chksm=bc633b590768757ecaf9ecf168f04661266f8d1c42c04bdd2234499fc023cc34e8bb27cce877&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 09 May 2026 12:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高危Linux内核漏洞Dirty Frag已遭利用，可稳定提权至root]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ibPVibtLUY17c6HrGLHAcbedH96BTjvBRnqlBmAGRZsSIwhBibiafsN9XEqHkO88P9T6KVwGACLLb5POAmuXnBW00yBGAROz3K84/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员披露了 Linux 内核中一个未修复的高危漏洞（代号 Dirty Frag），该漏洞允许本地低权限用户在全系主流 Linux 发行版（包括 Ubuntu、RHEL、Fedora、AlmaL</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=3&amp;sn=f0f37f36e9093d299f1b971359078571&amp;chksm=bc3bb26e6d840fed9a1fe1725c56a1f4cde39a80d00c8d5b44ad35f5793903d32b8d7cc01df7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 12:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Trellix 遭入侵，RansomHouse 宣称获取部分源代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3wicQr4Z7wuH0QdCIxgS3128bR0zLSdOEBibNL9cOQYVmb7ibQGylCb8VBiaEpvTqGvjw2KHAm9XpaJdM8eayvsqwrL7g5WHxGuyk/640?wxtype=jpeg&amp;wxfrom=0"/><p>由 McAfee Enterprise 与 FireEye 合并组建的全球网络安全公司 Trellix 确认其部分源代码仓库遭遇未授权访问，勒索组织 RansomHouse 已正式宣称对此次攻击负责。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=4&amp;sn=30e92badfcc62b06c605935b70feef83&amp;chksm=bc002d9aa6b9c6f0d927791e297d0a7a81891b75bc76fcd1f4e5badd9edb7ab2f53cfd5a4ba8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 12:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[蛙池AI国际版DigPool AI，5月16日将在中国澳门·全球首发]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0edmHWcQDOkr6dw91u1tpOaz6iczrEAXbkhDxN494YyVrIKbtiaM59WMlBeAmm514dYycLCFZ9WIias5L8TuyQ0oVbibNepvvCPFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>当各种大模型卷生卷死，对话型AI早已在网安“上桌”，然而再权威的AI面对复杂挖洞实操prompt时总降智、幻觉强烈真正决定长期竞争力的，不只模型能力本身，而是模型之上，是否有一套能够持续吸收实战经验、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337816&amp;idx=1&amp;sn=63c7a27abca9a3d812047b5ce3418742&amp;chksm=bc86237f7dc07c86ffcc64d12dd0b1973dca0bf8ad6b9ec9e55898b1761237a86d9cf9301f24&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

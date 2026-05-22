@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[PANDA 2026 官宣定档深圳：全球硬件安全年度盛会重磅回归]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cs09Tz2jcrd767ZnuuKzbB3kebRHJrJ0LYKVCcKichl35yBiayHV4iboZON3ctnh49JSJek1b7awx31ADOfNLhdObsLa59fic3cYSIzwA9cvqkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI重塑计算范式、后量子时代加速到来，硬件安全已成为数字世界的核心防线。历经一年筹备，第九届PANDA大会将于2026年7月13—14日在深圳举办。本届峰会汇聚国内外密码、芯片安全、硬件测评及产业实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615450&amp;idx=1&amp;sn=10c330347e262210615048ea8ed2da29&amp;chksm=b05ec2c9119aa8666d8dc30010da8bf601bfba3088302e2c12dee7b8d2b8173fab8094f20a5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026腾讯游戏安全竞赛决赛安卓客户端安全分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3xFAuvRw9NFrzLic8HaFhtkIiagc8yGl0r4qpXCR9lAjWCRKWXsCiaEONh3eh0GQfLvIvfjGUKdaQery5jqibxxibZUotoA20akDZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>1分析过程1.1 前置工作与总体判断1.1.1 初赛经验第一，Godot 安卓题不能先押单线。初赛已经证明，只要一上来就认定“脚本一定是主线”或者“native 一定才是真核心”，后面就很容易在错误方</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615450&amp;idx=2&amp;sn=5b372737248ca9dbc68c515e055e3636&amp;chksm=b0f44b9078fe966c44ae2a74ff9bed5979c8137c617e1d1315fd479a8a93da3ef711f9f9e1b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【AI自动逆向算法】Binary Analysis Agent：构建AI驱动的二进制分析系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2oaAMocjnicic3O72dyvdHLibZyDEO4nyYJBx52IQ4Yic1NpyV6JGP6g6bfIpHzia7AhLyHEdMJF5MRVEiaTkY2YRpxbUyAVYyRIO8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>创建他的思维模式：我将 AI 当做人，我告诉他方法论、文档、规范、知识库、总结、经验。AI智能的分析出用什么工具、手头有什么工具，如果我提供的工具不满足它的需求，要么它去安装，要么它基于基于已有工具写</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615448&amp;idx=1&amp;sn=f2f4134e17a716043a6501277a1d78fb&amp;chksm=b010ac04673b8a364b3453dc0fb5647bff8ecabdb603e22930fb9e0f9165c27351bafbc2a45d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3L4wBGyy7cW4AHKyibaQuZriclRGW0ic4u1HIiaZJNn8q5aljpwIezia6NJEEr6mDJcs13Q6S4s1uneHgt4r0Wt0JCTJTJQd8WicLSE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Frida-gum简介Frida Gum 是一个底层代码插桩库，可在多个平台和架构上提供动态二进制插桩功能。它支持通过函数钩子（fun hookingGumInterceptor）、指令级跟踪（inc</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614421&amp;idx=2&amp;sn=836ac1f41987a9a27b12cd4bc32d374f&amp;chksm=b0c84d6128241ea1d38baf68785f66ed614d57afad5b4834439183176c2d14bb6a24ee8b8aed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 01 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[732字节，通杀所有Linux！一个潜伏十年的“隐形杀手”终曝光]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3MAz8VZofrHzdpUQ27IhLibpgp0ibt4MicUACG9DVlu5ZJP6YfLA6qUBulSiaxOmetlhiaGNlsd2vS7q4YxCmlDId1tvQyI2d0svPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个仅有732字节的Python脚本，就能在几乎所有2017年后发布的Linux发行版上，以100%的成功率拿下root权限。这并非科幻情节，而是4月29日被公开的Linux内核漏洞CVE-2026-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=1&amp;sn=d11882328bfc4e427f1899a2a05cbb5a&amp;chksm=b021768381d795dad71ef25eb1ed1acfe1767f75b5a52b41ecdee26af3a509d8d492e31bb80e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用导入表劫持实现DLL注入以干掉杀毒软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3EJUbxek0zosNcX0cf0pcRgxBfqNDOEc2pqaMz49uzg6QPfsJW0n9KodrSs8jLTDf37arXtnicxCXI6Cib9YtP4ibzL3q6DQWFhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>利用安全软件的白名单进程进行敏感操作，是恶意软件的常见特征。在现代安全软件中，常会通过复杂的权限校验严格限制目标进程的权限。但一些安全软件在防止APC注入时只防止通过OpenProcess获取进程句柄</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614410&amp;idx=2&amp;sn=32ba6828c0749b23e39e2b802f151183&amp;chksm=b0179b3199024ab62a231def3809a50f2d1eedfc3810a366af21547d5af8b6ae047c123a4055&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

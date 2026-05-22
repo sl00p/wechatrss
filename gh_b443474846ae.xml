@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhKYHib25OWTTF9MicibIzSCbRaOWaUtK2zFYBiaIBnvOUuq2doy69KK0lB2RGDu08LAAPc3AIHca9bfH57hnPTJ76qAwayvgMibj2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜Tina “我已经看到一些高级开发者开始退休了——因为他们不想再处理这种验证工作：你每次改代码、改提示词，生成出来的东西都会变。”75 岁的 C++ 之父 Bjarne Strous</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=1&amp;sn=8def52cd5134d0d7d63c11d8082d50bb&amp;chksm=bc3a9348cf0a56c249d4603df97eb44a41713dac026c3df3000c81588ef90dad6ebae5e3704a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[未来十年的数据工程：从 Modern Data Stack 到 Data Engineering Harness]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj9P8UdUwiaIK04tTzWh71ZufAekWRqoTdDzibE2ukqLicTA40icw8fHhMaXSiaa2wVG5QpmFBk0mNafjCZib8SttPAwl7RwIrCPcIKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 郭炜 过去十年，数据工程的主线，是 Modern Data Stack 对传统数仓体系的一次拆解与重组。我们把数据采集从数据库里拆出来，形成了 Data Ingestion，用 FiveTr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=2&amp;sn=5c23074f3af5947257ff7433f0aefc08&amp;chksm=bcd119fe27550acb86a97067364d2737413663611770f4b62d9c65e06dc495cd8a8a86f27a6f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从批处理迁移到微批次流式处理的实战经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhSA9hw5BSflZp0ibNKWGxtZCiaITwXBhQeh7txILiaF6TE4BjgBhWmDpZ9OsXsVAj3GibYiaibBUhkiaU2RQAsfyDv6jF49hMl1k40EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Parveen Saini 译者 ｜ 平川 简介许多被描述为批处理系统的数据管道，实际上都已经是以近乎不间断的方式运行。它们频繁地处理增量数据——通常采用重叠窗口机制，其主要作用是缩小两次大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=3&amp;sn=65e243d1f8b07f17841e2f279a06d9d2&amp;chksm=bc0cb83259a38a8652e70474d536f3c60671aa8199ae13805e360d5f89ac9efc8bcac460f43f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基准测试表明：AI 智能体可修复独立漏洞，却难以理解系统范围影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh2AcNpHicxANsPlz3luVOgyHRI6gY9TfRAIDCeU702Su1n3axckYeMmyre9HZsHCibgsoiaZuawiaQ163L6yIxbfxib2gRyDabB8WE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Claudio Masolo 译者 ｜ 明知山 Brandon Foley 在 CNCF 博客上发布 了一项基准测试研究，证实 AI 编码智能体能够发现并修复孤立的漏洞，但它们通常难以理解系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=4&amp;sn=f508904645cafe31ab98c092375036a0&amp;chksm=bcb5fe98dd62cd569682a2d85bf82de6cc6d41abf6bdc6a04ba24182ed50702c2c12084f045b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[别再骂 Claude 限速了，Boris 亲口承认：最挑剔的用户，反而最离不开我们]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 在硅谷，越来越多开发者开始形成一种奇怪的工作状态：白天，他们像项目经理一样给 AI 分配任务，到了晚上，他们则像云计算调度员一样，同时运行数百个 Agent。而这，正在成为 Anthrop</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=1&amp;sn=654a8dbfb7a95af6aa865cd2f78d7929&amp;chksm=bc441946f01aca9f3a50ea934a97dbb00df3584c4d1f6cd292e577d7318c0692b6d78fa39c95&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiahgg1Sm5PFOgicZibASxN6k2xYWNJT8C4ZXxMH3EK6OYTEJT2kE0WobaULAP9lezsm2Oicw1YgZHKzibynkBibb0jiaTUHnk46QTvTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 2025 年春天，Manus 靠一段“AI 代替人类干活”的视频爆火，邀请码被炒到 1.4 万美元；同年底，Meta 抛出 20 亿美元的收购橄榄枝，神话达到顶峰。然而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283806&amp;idx=1&amp;sn=cbb47a11d0e6b097134ca10e9aa93fa7&amp;chksm=bc4ee01e6f83067c7641cf3a60bff6b28e30462d2ab312b950896bae048f89cf900c2fb6dfd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 10 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent 时代需要怎样的分布式基础设施]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhfr2v8ib0icAwtpxQlvyvHxIAc9O1gjYZ7P5uEUJQrHJTxg5Pqd1K69eiaoFpJxJMY2KFbVRBFuz2gbEySicQSmWCPf5DxsJpQXDU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 梁义策划 ｜ Kitty Agent 应用时代已呼之欲出自本轮大模型技术爆发以来，Agent 得到了广泛关注。进入 2026 年后，伴随 OpenClaw 的现象级爆火，Agent 更是彻底</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283806&amp;idx=2&amp;sn=d8afb1af0f17cacdb8e32cf0d4c57e7c&amp;chksm=bcd056b114ea3acf1b9a06ce8f1e894537b64439ab3b9cd0ab57474fe82b6ea3bec6e36364cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 10 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[布隆过滤器：理论、工程权衡与 Go 语言实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj5g6PJhGbrnpZadtGasRcicvDtkaMbkEdozIiagqZ8qMk89fH9CNpqhzStiamb2olFvoaHVuk4kR9XYgozbiarLnGwy0bhlRmKNWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Gabor Koos 译者 ｜ 张卫滨 引 言在我们的一条推荐流水线中，有一个简单的需求，那就是不能向用户展示他们已经浏览过的文章。在流量峰值时，Feed 服务每秒处理约 18000</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283806&amp;idx=3&amp;sn=dd115aa34f4b508d46273b5e032578ad&amp;chksm=bc42f9141458fe0ac10c497d9fdb33983c61d6284faa6ef3a809a75716d8f72baa60fdfbc1be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 10 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播出问题，AI 不一定救得了：Netflix 的新解法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhpOiar3ibicCAQpFicv9atIZOpFomTR3Md8wIcpZy7MwgyficrzE1ZZ1mAn4Wrm7fib7sC6vpyNldtMAqoricYoYF2errOWSqRTe2Ias/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Mark Silvester 译者 ｜ 田橙 Netflix 已从传统的视频点播平台迈向直播平台，通过将自动化技术系统与结构化的人类运营层相结合来实现这一转型，相关内容在其最新发布的 Net</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283806&amp;idx=4&amp;sn=cd082e077b82ec1d80a08b0227c1cd55&amp;chksm=bc0539bf104e35047625e46e555f8ca09ef8f68e0faf386640651b72f82a001d54c59c105f51&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 10 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从0到10万Star只需一个周末：开源项目的信任危机，也许是那群“以为自己会写代码”的资本大佬造成的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaRwXc0koIAcxeB4CauIbcbRjUf94ZUmQBibSgrTwtokGrC1R9Z3eh1U6JfHibKYiacUxhRC82dWLQJv235v4N2x0dwsFDTKFOoWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜冬梅 AI 时代最大的笑话莫过于，大模型夸你很行，你自己当真了。过去一年，“一个人顶一个团队”正在从硅谷口号变成现实。今年 3 月，在《No Priors》播客中，Andrej Karpathy</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651283711&amp;idx=1&amp;sn=12ff2e003d1fefca543d746d51d70b91&amp;chksm=bcd76a1c9f83f800af1fbea41c5eb45fd601642656b0b668c2953e2adee06a185afcfa7c3f24&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 16:53:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

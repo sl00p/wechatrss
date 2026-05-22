@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2YeiaM4T2icaTOje1A49GwKP5p5Z3fBs3qRaCfemMwymicyrLMd7rzuGuOwlynrQrUN6Mnk6lj8AeedoSD0FHicdPmfqics5jGcuHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01几分钟就认识你的 AI 桌面助手AI Agent 现在都有一个冷启动问题。你装完之后，它对你一无所知，得花好几天甚至几周慢慢教它你是谁、你用什么工具、你的工作流是什么。OpenHuman 是一个开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6&amp;chksm=f81f5657e772d4004e589298025f06761d48df1c477a97cf05de693eeb8fa8770d9af8d6d186&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 23 May 2026 14:22:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚， GLM-5.1 高速版来了，真的太快快快快快了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3etMU961IBKfFccfxLK1XFgwkws9MibQtYR7Enfll89h061UyrIgXgjyM0icoxKYngrQ6VqWObmECjQbZR70qU2PW1tzQ42nM8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-5.1-HighSpeed 来了，每秒 400 token。很快的同时还很强，太顶了。。。一手测评，先来看看效果。我在 Claude Code 里面配置了 GLM-5.1 和 GLM-5.1-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533878&amp;idx=1&amp;sn=c8ecc5c7d91dda9355eda9c51c87f2b0&amp;chksm=f838b8b1d4996f44b123e8825b39dccc7ecbbf2f1a5a591b5cf7e7e47f22f43ecd05b13612b0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0OCJKib7qudaCMicltzY8tu4aibibn67GCLvHfvDYuDAmcDB1nVuMSGudXzFbj2G6VO3GOn9DQbAJmYiaBbpDWOGx61YLDyJqqDicog/640?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-5.1-Turbo 刚用上没几天。就收到一条短信，智谱 Coding Plan 支持 GLM-5.1 模型了。马上给我的 Claude Code 切换上，狂用了两天，烧了几亿 token。我发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532660&amp;idx=1&amp;sn=4c795eba24abdbacf3b4515b096c6bd3&amp;chksm=f80fd622ab8464616a8027685599a0abe18562472258e9a3022ffaea3d4212387739b65e0ff6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Apr 2026 10:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[把 Claude Code 变成你的桌面宠物，这个开源项目好有创意啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0P3oY03HrxOMsWwWVyMBmSHduY2O6alpCymicRuTegicIdibWSupfZnC5UouW1qjvZp1Ty5VVV8iaKThlnnSsg0Da0iaL5Saesfk8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code 的源码昨天泄露了。源码一出来，各路网友就开始疯狂翻代码，结果真翻出了好东西。源码里藏着一个代号叫 BUDDY 的完整宠物系统。内部盐值是 friend-2026-401，很明显</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532649&amp;idx=1&amp;sn=7b0807e1cdcb5be97954462e9bb64b92&amp;chksm=f825a9da452447e48af503be927dfd202deb5a4886064ef016723cc60d4b3f361ab3cfbcd98d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 11:06:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
