@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[万级漏洞AI：Anthropic秘密"Mythos"模型如何重塑网络韧性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2tYvuGPUvJKFMwVvVWiaBwvXuMpHj3mgia8pKaxc6pqwgvC0bBVSJROn6HmzAoh5mibTZwfsGyEYQkBSia8EmwPmpdQicH6qrV3P6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能安全隐忧日益加剧的背景下，行业先驱者正采取战略逆转——主动将AI武器化以强化防御边界。Anthropic最新发布的专项报告详细披露了其网络安全计划"Project Glasswing"的最新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=1&amp;sn=c8d998f977b56548da3526b36532a8e2&amp;chksm=bccc76dfe71ee7a9a1138ea273c0d3bee8e8923620be2d0cb0d01066e8b225389b7321c37973&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型SHub"Reaper"变种利用AppleScript窃取macOS终端数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX06dF51otibuvSQic66VKrexZ2F34dhCHyUcW7KDRq72tIj9Z66yD0EbicpCltsZERycPnbLqFZEiaEpgtfulMFL3j0BcrUibeadzH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年间，针对macOS系统的信息窃取恶意软件持续激增，威胁行为者不断在相关恶意软件家族中迭代成功技术。最新升级来自新发现的SHub窃密框架变种，其构建标签被追踪为"Reaper"。Part01多阶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=2&amp;sn=11c94a54492e59fe26c0943c64f58ee9&amp;chksm=bc0852860fffa9d1fce99a80f44308b20aa89cb9db94ab5b269a080cb43aa4faba2a2e994f3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：OpenClaw安全危机警示录；Linux 内核暴雷；代码审计使用技巧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=3&amp;sn=6498051e1171e9fd690821f195bb4aaf&amp;chksm=bc782f6dae897fd9588ff43d6fa8758565b44a793ffee095de50a5791b0769a9c68f8ba52a8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Mythos Preview首月发现超万个0Day漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1nQwdPU8B4C0JgbMFKP6s5ZiaPyR88H8YwudMe64ic7JWOJuiaiaUP4SY6qtpwf1J0CKm7fibHMksP75cyYR3icUlDaL6xiaBsnU1KxM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公布了Project Glasswing项目的惊人初期成果，这项协作式网络安全计划旨在利用先进AI技术，在恶意攻击者利用之前保护关键基础设施安全。在项目启动的首月，团队借助尚未发布的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338613&amp;idx=1&amp;sn=d0ae0c38319293b058cc4ff73b9319ae&amp;chksm=bc995a91b2775d7a0b7c6b4d878fa26822a3603d491a017a13ca3f5e2934a6edef829b5c7be0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ECNPFQTddWP9PItNCPxbSTzDicMwRBzUibcKcYqNEHficrFBQJCLQmq4tuuEUqV2zicNXuQT68jzib6pPYwRfuFEic6yUuUrwp3iaTo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现，Ollama框架中存在一个被追踪为（CVE-2026-7482）的关键漏洞，可能导致超过30万台暴露在互联网上的服务器面临敏感信息泄露风险。该漏洞由Cyera研究团队发现并命名为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=2&amp;sn=4769bcb85d9f885ee1a0f5adaf8c13cc&amp;chksm=bc9d66da90b66af16c5107adadc9b042463b63a6475301794e53b6121884fa43b40e13102a1f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 10 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：OpenAI重金悬赏GPT-5.5生物漏洞；黑客利用Telegram做“战报系统”；身份认证进入Agent时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337869&amp;idx=3&amp;sn=724bbb4ba501379b21c5843770aab2e4&amp;chksm=bcb74cd60150f3762c51f5788ab464cbc6608e6f1dd80ab56604ad2a411097f46f0108c0ca08&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 10 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI推出专攻网络安全研究的GPT-5.5-Cyber模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0RDcxn3lLKDic1qb7hh3JDNC7VHkfzM3Sry58fPQSIZW06FV7DC4QbbjyKfD9Q0zwUUomqeyD3VONia1mXXuLZcmjibdAVGkqOZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI开发了一款专门针对网络安全研究优化的GPT-5.5版本。这款名为GPT-5.5-Cyber的模型于本周四首次亮相，目前通过“网络安全可信访问计划”（TAC）提供有限预览。该计划于今年二月启</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=1&amp;sn=15ead6db4f391428bf57531011e9e893&amp;chksm=bc2560dce34f108d719860fc7523e412a9ee28f5bb399b303138205270cfe61cdcc7faa1252b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 12:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“我没黑进去，智能体自己干的” - Meta安全工程师Aditya Om @2026白帽世界大会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ZKiaKY9UMvkIF6G4JI5gkQFViaZiazsFmicIwu4mugD4Fl3icPdv5YXDTJHLocZQ2GEl1H0kOxwQpVaaXV8KxuFOEia1Eh4jzBUJLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Topic Preview议题关键词随着企业从单一AI模型向多智能体系统演进，数据开始在多个智能体之间逐级流转，并频繁跨越不同的信任边界。然而，当前的安全防护仍主要依赖传统的输入验证与隔离机制，忽</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337834&amp;idx=2&amp;sn=2bce7bdd9d9a0d72737127042fc38f20&amp;chksm=bc633b590768757ecaf9ecf168f04661266f8d1c42c04bdd2234499fc023cc34e8bb27cce877&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 12:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
