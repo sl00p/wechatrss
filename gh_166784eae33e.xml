@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 定向注入攻击：加密货币窃取供应链攻击新邪招]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqib3DJM0p4KxictOk19ibIOCj5wIMFVP6OJJoyncNEsXwxCX7aY7WsF4iaKloeZCg5BLYvVqQeetvrHVLPUbd7RpfEhic2FWeVEib31U/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件概述奇安信威胁情报中心监测到2026年5月22日至5月24日，Socket研究团队发现并披露了一场代号为 "TrapDoor" 的大规模跨生态系统供应链攻击活动。该攻击同时针对 npm、PyP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518885&amp;idx=1&amp;sn=2b936557ad35aca9d49d04dba256b222&amp;chksm=eb819c676d6bd94b8c99dc7d87443f5b140062cba4e31f7a138d702663c443fdf0d9d49138e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 13:03:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.05.15~05.21)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicib8aDTXgyVeXltcxDc1XazrxhK5hBrpckHLRhLicrXPw2rojNaf2wpndsmqia8o8zKRNutERSI8qwiaAEEzoGkxLPfO8PJMg2fdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.15~05.21攻击团伙情报VELVET CHOLLIMA 利用交易应用程序作为诱饵进行信息窃取活动FrostyNeighbor：新鲜的恶作剧和数字恶作剧Kazuar：国家级僵尸网络的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518880&amp;idx=1&amp;sn=d7cf1fd2bcdfd883a6394d86b8875e39&amp;chksm=eb1f69423033f1f16e932f8a050a434e7a216edb5fbb1a5c6eb61a051b23398bf728939d1f07&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehiciclibewsrSE3vjJYvhyicDSmS7uOxKS8NWsTZnr4pdrTTGMF6LbbcaoXP9RpJJX4Y9Tic8tAiatfsJQGQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景2025 年 12 月 23 日，著名文档编辑器 EmEditor 官方发布公告，称 12 月份 19 日至 22 日期间官网安装包被供应链攻击，MSI 安装包被替换成带有非官方签名《WALSHA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517340&amp;idx=1&amp;sn=1bd4846cc50ddd39287c038755c6f6ab&amp;chksm=ebc4dee47f1970e56d8c2c49a3b1f69a072ecdd1ca3a7a4211583d7716273eab5fa293a7f66b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Dec 2025 17:08:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2025.12.05~12.11)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehicib34XEpBANFZbFwaUQvR8zsbUg0lwUiatn8thWsft4UWhvyPJpUstuS7bxuEgnKBKxSlyE1VzNS7Hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025.12.05~12.11攻击团伙情报Operation Tornado:针对国产信创平台的网络间谍活动Gamaredon 利用 CVE-2025-8088 进行网络钓鱼攻击活动Lazarus组</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517242&amp;idx=1&amp;sn=ce6e21e4bb920362e5046ec311cb1a8c&amp;chksm=ebb0e6d79345a1f6aa374e7919762c4a6f459d1c5d8aee1fad2e07453c948f2346cfae50e2e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

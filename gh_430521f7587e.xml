@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AMD也干了！Vivado免费版砍掉Linux，仅支持Windows]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWknWhsOnka1c6giaQ2ME8ib7ibIicep9Tj3WbO04QmDn3h8WZNicb0DwIUxtgcnwic5jmOJWMibs5pfHfGIiaEqxr137tYYVeRficicJicMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>5 月中旬，一些高校数字电路实验室的助教打开 Vivado 下载页面，准备为新学期的 Zynq 开发板实验课配置环境，他们选好 Linux 版本，往下找 Basic 许可，却发现那个「免费支持」的勾选</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240435&amp;idx=1&amp;sn=2915dbf568053aaf6d3207ada2feaa44&amp;chksm=bf3595d3e7af2846171a8a3f532d761c4d53db18c4088b850bfd7f7bda14f725940d3555b596&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 17:08:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[花4.8万美元自建GPU服务器，值不值？看看这位独立研究者的真实算力账本]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhWL20GD92CVFntKYnYrDyrAdjz9MC1ibgNCAeD6eZHuVsSqaVkIeHABtLLf7SU3BT1MpLaQWQK3kJZNUGuibIcCRniaFicdEpYbxr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024 年，一位前 FAANG 工程师决定辞职，成为独立 AI 研究者。要做研究就需要算力，于是他花 4.8 万美元亲手组装了一台搭载 6 张 RTX 6000 Ada GPU 的服务器——取名"g</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650240423&amp;idx=1&amp;sn=e5d3a180683729e346a994cee863b118&amp;chksm=bf00963d5d7e03596cf9c7c6d39ae90b05fc42f823070b2e173293ead509b1fe5db84ffa8eb9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/x0qaNQwt1tKhMpKI9pAQSdKia3icNXJCU2m1TLf1rtk8yd4ia5jOHepCGbM0QicLE7kYmxsT6y6m4c2fRDvs0mDbgCMtAdVicdL8pQKzuFZZtoMQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI Skill 陷入「手工作坊」困局随着大模型应用走向深水区，AI Agent 正从单纯的「对话者」进化为能操作工具的「行动者」。在这个生态中，Skill 拓展了也规范了智能体的行动边界。Cla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238809&amp;idx=2&amp;sn=821ee787948dc0940fcd255009fe0dac&amp;chksm=bfc628b5f3aab5a3f9b1cd1d366b69e5bcdde81260ab56c81a5e89f6b5784cb3a6fd371acb1e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Apr 2026 16:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[炸裂！Seedance 2.0 免费用！全网第一只接入的开源龙虾，效果离谱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXoYQqnxUdCmZmlibu1Nibric7BX1eJ1qEnEwhXC4FwjENGDLH5fz9DRKslWmdkKkg8Rib5oj7O9jApoCumcDAvayPAaYzOic0ko9bI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Seedance 2.0 的 API，正式全面开放了。字节跳动 Seed 团队打造的这个模型，可能是目前最强的 AI 视频生成模型——多模态输入、多镜头叙事、原生音画同步、2K 电影画质。发布以来，全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238749&amp;idx=1&amp;sn=1f328f83bc16287a1012bd1195db3c66&amp;chksm=bf9cdc72b4d527d7e13b237b85738a0532cd5353faeae6ff7d07f8d13d08143a3d4c668db7d8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 12:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

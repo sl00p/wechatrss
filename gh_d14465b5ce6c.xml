@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Infra入门干货总结：大模型是如何高效推理的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu看了很多的文章和视频，我以为我理解大模型的工作原理了，直到看了vLLM的代码，我发现很多地方理解的太过表面。因此花了大概2个月的业余时间，深入阅读了vLLM的源码，本文算是对于学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801625&amp;idx=1&amp;sn=7c7a7d2148c6907f65c9f747717b3197&amp;chksm=bf205263f59e82ee21a41655290b105a9f2005ff9f17abb5720223dbcb878152a90c9e26272a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斩获冠军！清华 x 腾讯混元登顶 MLSys 2026 MoE 模型推理优化竞赛]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战。近日，在国际顶级机器学习系统会议 MLSys 2026 的MoE推理优化挑战赛中，清华</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801607&amp;idx=1&amp;sn=568d1ea0afab3bf69ac123852cadea3f&amp;chksm=bf752516057d4c9ba76f8c018018db799df836f21327f328c811dc380f0aa7e037e24e42b556&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907aLlzkJA54kuhHicfcJAGZSx0vfD7e3INOADV2I3U4H3qVdvxbUrSicWsp1OwW10KPyib4V3FZBRD0RzukVDEzYEOjwia8QJj4H6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649799502&amp;idx=1&amp;sn=f9819d0b7d93397e36b15cca1758575b&amp;chksm=bf229f74fc15d55606fa3280d61584015017e7b48163528b98759fddaa46515a9c7bf66aaa10&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 18:44:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这大概是我读过关于AI大模型最全面、好读又易懂的文章了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j3gficicyOvauyO0khlvYZOoa4CFYmAJX2k4s21R4oOibXTkpWQfDp1vQa0cQOmTI5IxJJ79Uw7NebflibnhgqW4mg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：白玉光正如李飞飞在她的自传中的说的：人工智能算法不是像传统算法那样，被告知该做什么，而是通过数据来学习该做什么，这也是本文想要表达的核心内容。导读：推开AI的门，你是站在门外怕迟到的人。很多人害</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649798683&amp;idx=1&amp;sn=8319ed2ef27f74711c611c72f7a0e2ec&amp;chksm=bf249dc211cb13964d368b67eca6a307eaf30c35bb02211eaad3e76d789cc13f955ce59d9d40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 17:40:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

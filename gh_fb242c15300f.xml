@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[API公益中转站建议还是先了解后再用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwfib9P1u7m9gOiaKqib3ygkHtmXcmPnfK00GIe4JImZDomCUOgib9WdB8LSvDfj1o1ZuH7XOkRo9GbOSrMKCGBxPoib2f6sUreuvhhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：Lkkxi【聊聊 本地 Agent 接第三方API中转后的一个危险问题】很多人现在已经默认：本地Agent + 中转站也是属于日常玩法了。发现这里其实有个被很多人忽略的风险：AI Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144341&amp;idx=1&amp;sn=a7a8df4f5847a4961b3eb72124f08882&amp;chksm=bc7c7ef22e32f25bb653f2384b9f22c6caaecfb27a687443495a38961811de6b194e1bfe116f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 10:51:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谈谈我对VMProtect代码保护”通解”的一点看法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwcx4tEdv4nH8zCIMOIYFibIy4MhasFf1akNp7PSE56dksiasx3j7JL2eVRJ3qz2Lbt8vOVPf9J5xt5UOWgeeya6heBwupyWguPkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：lifeengines偶然一阵醒意袭来，偶然进到论坛看到有两篇关于VMProtect的技术文章让我想起了多年以前我也曾花了一段时间研究过VMProtect还写了不少相关的代码，于是惊坐起</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651144335&amp;idx=1&amp;sn=da3d7245aa70c203711ef1025677b2a0&amp;chksm=bc8728e9334cc291837fd4d9b2069b897e906f852283ea14d4cf185bd158298f8e36728b61ce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/aV8UF5rUbwehZDfLbAjibgaLHvelDke8aUkficM6blU1iaCEyFaxAzLLYXpEXlyrLppqQZRGEAE19QrsUvnN3La9HpwxXIC4peP24rNc20lWdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者论坛账号：ahov持续演进的银狐——不断增加脆弱驱动通过BYOVD结束防病毒软件一、背景在日常样本狩猎中，我们发现捕获的一枚银狐样本尝试加载了先前未曾出现过的可疑驱动STProcessMonito</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143625&amp;idx=1&amp;sn=8de7ee53ed89f9754dcf2fdf47bc5966&amp;chksm=bc50476d7087f4aa20b054391355586fd84a530b32bee4399d1ff2702d577b7050b2c5dad10d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Feb 2026 16:58:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【公告】感动吾爱2025优秀会员名单公布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/aV8UF5rUbwftygdzR77oJBk1ZEqQmOujCRLNibFdSZkloJFBqANf7hykLyBibriaOI1qyzPvyPyqDFW9ojiam105RzNAauIQpmmhs3MdIFfrF0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>致不凡的平凡人：感动吾爱2025优秀会员名单公布过去一年，吾爱破解论坛始终活跃着一批热爱技术、乐于分享的伙伴。大家潜心钻研，产出了一大批高质量的原创教程、漏洞分析、逆向研究以及竞赛题解。这些内容不断沉</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651143533&amp;idx=1&amp;sn=f76a1315da56bd335d802070eab5352c&amp;chksm=bcf7f58f2f3c2cb6c4911903d4200d04eddefb36787776d20a478181bee348acbdb01aada3b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Feb 2026 10:54:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

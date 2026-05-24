@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让 AI 自己做增长：基于OPC和Harness思想的自主增长系统探索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wjFYxqL3WtHqk4KFrmRpcccmDrbRjZvzgicd6kY7q2JNEcNf51vwoZ3fibicQqhF8oAd8JpUqQWic8beTLXZCVVPJtntcqrSo7ncg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、做这个系统的背景故事的起点是我们持续在围绕高德地图PC站做SEO优化，在探索各个方向上能带来增长的可能。偶然在某社媒</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560242&amp;idx=1&amp;sn=37875b95003fe7c3c95e2966e48878f7&amp;chksm=e83a4895a9781f8261a79869fc08e8c9f42f8f73c1fc7bf50273d9e6d1a32c5919a5e822f0d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent核心技术概念与范式发生了哪些演变以及背后的思考]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wABibWs648qezQhuntUNB12XWOa4iabcDqOewteK1RO9puPEOickklyEFU8gGayVSnLpsYvrW9Fqv9nr4juhk0abiaYeyIIialeGkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景近几年，随着基模能力的快速升级与迭代，Agent 领域迎来了爆发式的增长。特别是近期，像 Cloud Code、Co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560220&amp;idx=1&amp;sn=72a83c5317c93a91f78daf6b203d308d&amp;chksm=e85d76db484664ed86605f0b27cd220bd255410a11bfd54b42797c1421294e48c338fce14967&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wCIYXjC8ibAYv0Pnpb0Oc6PeR3gzzKP7BHkiaYyhQnrZOqlsrMmqGPx1JunhXunQTtNA6XPDEuBib8fyN0YibGcVm0mMOYIWK0MDk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Arthas 是 alibaba/arthas 开源的 Java 诊断工具。它能在不重启应用的前提下，动态查看线程/CPU、反编译类、追踪方法耗时、观察入参返回值、执行 OGNL、查看类加载器、线上取</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558779&amp;idx=1&amp;sn=b528bc344afbf76933f5b1b13041ff67&amp;chksm=e85b80d1c6a1f650ea46ded4ca4b8370c3b23e85184a7e456f655e87c593d46a97f691ccfad8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给“氛围编程”系上安全带：阿里集团 AI 代码评审实践与 Benchmark 开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xlCBcCCia1BNdQWAKMiakjjByXyLPZBiaGh8HTeQ4HQFiaOChmKnP9pgeP8AGyTYDibJSzmIfZjopynS74xSxhjibuZMEicXoto9t2s8/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言本文将分享阿里集团在 AI 代码评审方向“历时一年半”、“数万亿 Token 真实场景打磨”的探索现状，以及我们联合南京大学研发效能实验室开源的、汇聚 80 多位资深工程师进行多轮交叉标注的业界首</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558718&amp;idx=1&amp;sn=cdc0820c4421c05351328a5a5e145619&amp;chksm=e896c609934fc8b22abbaa7446faed33d0d4fbbd936026045f4bfb4875f7b281c284607df2dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

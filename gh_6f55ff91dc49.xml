@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1VTmNd2dEOXibzJoBmGsorA5qht97IRxnbdnNHV5Omsnbggv4G7hfdffH8YTqCsIkDrIkrQ40IWHY1KjgG0EtZFfHJrs28hofU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 X 的时候，发现一条推文被疯狂转发：Anthropic 悄悄发布了一个官方插件，叫 claude-code-setup，装上后你的 Claude Code 的体验会完全不一样。然后顺藤摸瓜，发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533995&amp;idx=1&amp;sn=b91dec98b97f0cd58f89f7cd3a6f68b2&amp;chksm=f8e0e1888df91ea6750483c5adc4c9950ecbdcde5989d843ba8d3132ce46721d1052b1a8e14e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 25 May 2026 13:02:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不要错过这 10 个本周火火火的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3vbgSlWeDBwZRotKza3vYicmttEPxE9pxp2MnJBTJkB07TKMLP3vibwuu0nt3QXoIJzUxxc0uXW4N7tJ2p2BJHGTXribPCuB9Vok/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 AI 装一套科研全家桶现在逛 GitHub 一眼望过去半屏都是 Skill。scientific-agent-skills 就是刚刚破 2.5 万 Star 的 Skill，本周还在涨。它是一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533989&amp;idx=1&amp;sn=9e1ad46fdd67c5d0dec4b7fe4f46b765&amp;chksm=f80751e50457c3439b34d651893451dbbb2976caa563f4705aeeb9513ce8babff47ea8fd9ea1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0U5B6LyUYgRtXwUovWsF1GKsJuwdsl37Umq9cp4r4RVh1V3a0VlVFDtU4uESkXdjhliaicibQZ7D6fthRr0WqneOgKsicCcGicFlw8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AI 自动做科研写论文Sakana AI 联合几所大学搞了个 AI-Scientist-v2。从提出研究想法、搜索文献、设计实验、写代码跑实验到最终写出完整论文，全程不需要人插手。最猛的是它生成的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532788&amp;idx=1&amp;sn=1ec138e556e9f630179a6c539b0870a0&amp;chksm=f8b7c7ca6eb773c0449d49f3139f05a842a563baa4984ad238fecff677be9f5d92c2f6d9e143&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Apr 2026 09:45:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[下载到本地的 Claude Code 源码，用这个 CLI 工具解读太香了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ZbcAanrweIvPG3yASiccn6jkUQjg16C7Sic5ibVrl0tmkicbfBfFnpgRubaqhbjqE57nW1maDZnlxT7tjKicnAklK2eHpVDLKxIOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间 Claude Code 源码泄露。目前 Anthropic 在疯狂封杀泄露源码，我感觉泄露当天应该很多人都 clone 了一份到本地吧51 万行 TypeScript 代码，拿到手了怎么快速</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532690&amp;idx=1&amp;sn=aab67b46905b4219088b3d88f6f40ddb&amp;chksm=f817e0eb2e3702d0ffcd08843ed407bb22348a7b858ce3af6165755a245cf0d04081290145b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 13:44:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
