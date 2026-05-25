@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从3632个漏洞看AI时代的评测基准重构！VulnGym基准发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯悟空代码安全团队导语随着 Claude Security、Codex Security 等新一代漏洞检测工具出现，漏洞检测正在从"发现代码缺陷"走向"理解项目上下文并检测业务风险"。我们分析</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801631&amp;idx=1&amp;sn=4d1c5bb6cd33aa8f38f6b902f5231065&amp;chksm=bf4f00fe20b89e6867d73ffa4959bba63b525003c54abfa466560866ec1aa8138a7c2af3ea5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 17:31:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Infra入门干货总结：大模型是如何高效推理的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu看了很多的文章和视频，我以为我理解大模型的工作原理了，直到看了vLLM的代码，我发现很多地方理解的太过表面。因此花了大概2个月的业余时间，深入阅读了vLLM的源码，本文算是对于学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801625&amp;idx=1&amp;sn=7c7a7d2148c6907f65c9f747717b3197&amp;chksm=bf205263f59e82ee21a41655290b105a9f2005ff9f17abb5720223dbcb878152a90c9e26272a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907RwFYqAwJS9iaCj6fPiac14Frj6JzJvicNpeicwxMel66dibKGrgbqTF2s1MllvyecOY9sS95FBTnaZYyT0oCSzl1aXIV4ot6amP74/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李裕东 庞雲升 刘子健导语在信息流、短视频、电商等推荐场景中，用户真正感知的并非某一条内容的相关性，而是一整屏列表带来的「整体体验」。 为此，腾讯TRS团队在论文《HiGR: Efficient</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649799848&amp;idx=1&amp;sn=bc1dd78dbea5b89c5e778b9f0b83f213&amp;chksm=bf0d9b24864be5d7ef122b387aed854513f745c7c028ded5ddde1e1a92655a539c1e2108cd73&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 17:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[元宝派七大热门玩法！赠大波专属邀请码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907aLlzkJA54kuhHicfcJAGZSx0vfD7e3INOADV2I3U4H3qVdvxbUrSicWsp1OwW10KPyib4V3FZBRD0RzukVDEzYEOjwia8QJj4H6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649799502&amp;idx=1&amp;sn=f9819d0b7d93397e36b15cca1758575b&amp;chksm=bf229f74fc15d55606fa3280d61584015017e7b48163528b98759fddaa46515a9c7bf66aaa10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 18:44:46 +0800</pubDate>
     </item>
   </channel>
 </rss>

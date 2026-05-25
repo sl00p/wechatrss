@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[近9倍训练加速：DiT里的残差流，正在成为收敛瓶颈]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5KzfdibZicd9TkAywHOoDgiafdtgO4jSy1WA8bLYFlicaYTGZuNPxDolhNO0YfAssOvkQvTD0OIRhN36KpX8SpKpAiaA6uV28de4s4/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第16篇文章（ 本文阅读时间：约20分钟 ）前言近年来，基于Diffusion Transformer（DiT）的视觉生成模型几乎每一个关键部件都被重新审视过：tokenizer、at</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509566&amp;idx=1&amp;sn=ace75be905d15523692f57dcd02142a4&amp;chksm=ce164165c8b28be8d0b2e3f6d182d412dacc0d03e7f0ff2822be5179702baa0d5ead92d11afb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 18:50:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Codex 的 /goal 为什么能让 Agent 稳定做长任务？本质就是一张状态表]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4eibNnYGRpGMQn2m7mniaYrywagISeDl6wuhbsgedXj9kvx0fTiaIm5NeD7nfLgKKIIngx21gvCI6eU92tibMgmMJK532VDyUabicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第16篇文章（ 本文阅读时间：15分钟 ）前言最近在看 Codex 里 /goal 的实现，越看越觉得这个功能被低估了。很多人一聊起 Agent 长任务，就会说：让它自己规划、自己执行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509534&amp;idx=1&amp;sn=ce44055bdd33016cb7de0c200b36a8fc&amp;chksm=cea3df3ea5b15e0bfbc58313e3a8ed438c7ea9a33de64950c52f2bf4aa0cfbc4b581302afdff&amp;scene=0&amp;xtrack=1#rd</link>

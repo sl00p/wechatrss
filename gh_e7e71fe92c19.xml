@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从“会用AI”到“会造AI”：360 智能体工程师（ADEA）认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0eJpeEwY3NdgIZYvWnk1d13GO8p0Gq9QHFO1CKAaC3FFgD5icrHzNicAzUm72j0UPQlyWLOLeuPRQMNoalU1phVP96ezahGJazA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=1&amp;sn=cd6f67b920187a61b0e6c8d86f1f481e&amp;chksm=b062f9c959c668ea4991102e4c708df280494072e4105f636d41fb256e591412711ac908ba3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源通讯软件view once图片的调用逻辑分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0oq2qPrg4B0YYFAVqCYm7PRK3afzamIQetf0c5gvar1jAy2HLoynHMjJYOLN6gmA8BPzJCGlfP3k1E0X4MibjuhTc78iaqgKvyc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、传输协议一开始直接用了burpsuit抓包，但是什么东西都没抓到，于是用netstat看了一下，再结合资料，发现用的是私有协议mtproto，所以burp抓不到东西。直接用frida开始hook，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=2&amp;sn=8404f4623766fce9aca6ff5fc790428b&amp;chksm=b014b01f1311b57d84c5d26c0d6afca46911100541c96035bb84c958b3d76bc8cd7a3d615b02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2PnhQu4aS6kA4pothdtAbXBwtkRnQPgyxaAMRBNhdxaxOysFtWkVoUCk1gAngAb0D8DRoqYByWeLG1aeiaFlYerVrDEgcvFCjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，知名开源压缩工具7-Zip被曝出一枚高危安全漏洞，攻击者可构造恶意文件发起攻击，最终实现任意代码执行，完全控制受害设备。该漏洞覆盖多个正式版本，且攻击方式极具迷惑性，对广大个人用户、运维及安全从</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=3&amp;sn=deeb3affeda9640dfd6f5bea564a46b5&amp;chksm=b0891b8438bffea13860a1c6b4ee3d9fc511b2b33a12f1eb725f8b1cbaa745fdc2bcc37bf259&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[硬啃反封号 dylib：OLLVM CFF/MBA 混淆拆解与167 Hook 深度分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRoeL8bbXXa4tziaLLjvtL5I3BjBYnlw00xw6b4qVLrbTibTpkQ1y4xx5N64fMOYCxRuAia62ADPJx3GuiaT8U0JJhJdY8qFAOf4/640?wxtype=jpeg&amp;wxfrom=0"/><p>好不容易得到样本，上来一看：看着就像ollvm 都是些sub函数，逻辑肯定都在sub函数里面了，希望是ollvm标准版，打开插件准备一把梭哈。没用，说明标准ollvm 变体服了，开始正篇：1. 第一锤</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615455&amp;idx=1&amp;sn=86932f09204eb52a339f06b4e66678e9&amp;chksm=b027c2715e72a1f8321735d7770a27132e5b4db510bd13a159730940bbe0dcc9c3ce9735c49a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=3&amp;sn=942fc47999e8b03d9c29f202cfdb76d6&amp;chksm=b05e21c42a83c3486e98a58196a8b41b0fc92addec685118b5bc5d2b148d5d5b33d95accdc17&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年腾讯游戏安全初赛-PC方向]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0WvRxWmG7ibff16ibfwJoIYicQnDBzVibguB3KmCTcibz4AW25SsZY8WHX4uQfBhy8KwL2Iic69ZwSzEibHfBkib3NzKfGPYRMSr9GndU/640?wxtype=jpeg&amp;wxfrom=0"/><p>仅为本人题解，并非参考答案不能保证正确，请参照官方公布题解。〇、得分点如何加载驱动关掉ACE预启动，随便签一个泄露签名，即可加载驱动，稳定性极高，就蓝屏了两次。Flagflag{SHAD0WNT_HY</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614423&amp;idx=1&amp;sn=8526e89b264b69a99591972be2130d0c&amp;chksm=b00f5e898a5e16fee4a08d8e85b15967a978e7f56b6fdab13e64925182cf5703cd3f60f18034&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 05 May 2026 18:22:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安全招聘避坑｜普通平台招不到人？看雪这波操作救了无数技术团队]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3uXrfS80ibxiaDvIvMrYGnsIgNj4xCMPIn1Qt2qEMbgSXvOIpJMfwdwa9xoh9AQgzO1icD5dml3sfib95UQ3ZxsMWYeYPfHHRGtvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>做安全项目的朋友，大概率都踩过这样的坑：A就因为招不到合适的人，项目节点一推再推，工期延误、成本增加，技术负责人急得团团转，甚至一度要压缩项目范围。而另一边的B公司，直接在看雪招聘平台（job.kan</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614423&amp;idx=2&amp;sn=001775356c6e51c62d7f5d8db5529f0c&amp;chksm=b0adaeeb13d4c501648d4c1c5f44137a79bd43e20ca3a1116af591e865de2ed079e2f62527b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 05 May 2026 18:22:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天命战队 DeSCTF Devil.exe 逆向思路分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2j5jUku0JOYUW4PdkjCOYW4SC9N2dwDFIEbDUlWWQ2iaksWJrictuhY6zlicM7ibncmaiamWJ0ZeBWZU7lzW30tHC3icMQGqQMI9Py4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次分享的题目已征得原作者同意，题目设计精巧、极具思考价值，也正因如此，我才在学习任务之余完成了相关代码编写，并整理思路发布此文。本文仅分享解题思路，不提供完整Writeup。题目核心分析程序为C++</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614422&amp;idx=1&amp;sn=1a3e0b02d7f510b2be50fbf080cd0b7c&amp;chksm=b0016fa88c352745292e1668b63aa9d34534a75d679cfcfab3af38100bf4de351b225d13673f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

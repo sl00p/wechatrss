@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[编程 Agent 可能是软件开发史上最昂贵的错误之一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhYNa5LPDcJm4hVMVJJFzgmbDXpia0bocibcRUZSNlibQrxIb4Bicia0CcC0kzZqC81UosVibh1k18IHPcqPCIT46l418vtwdshLhZpY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina“我敢断言：把 AI Agent 引入软件开发，将会成为这个领域历史上代价最惨重的错误之一。”说出这句话的人是 George Hotz。17 岁那年他第一个破解了 iPhone，后来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285679&amp;idx=1&amp;sn=f05065413bcdb7a5f64e37a0989bcc5b&amp;chksm=bcf1b53ff969d32944300e09b3963a9cc4d20d98b53f77b8b70bef5b0c4ef653394320a24702&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 14:04:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Coding Agent 在百度的落地实践：从反馈闭环到工程范式重构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjYScMibS9v8LyGLlwfNYvTMqaLicbKBYeOrOh91aaHuMvJTlBcRRzOicYMzyvDfzerVFDjClzApf1ibicHmqJWBvyoicicP3NGF4OyAE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 牛万鹏，百度文心快码研发经理审核｜罗燕珊策划 | QCon 全球软件开发大会在 AI 编程助手赛道持续升温的当下，模型层的能力跃迁几乎以周为单位迭代——从 Claude Opus 到 GLM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285679&amp;idx=2&amp;sn=0448723f500d7d46ba6c03dd92e178fb&amp;chksm=bc90a67c822dc63fb41c17ae507080e45cc2f69de75a7dbe9b404b95232889bc8eb176dc40a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 14:04:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiauQcyrWtWPr5X5TziczCCiax7anviaQrxEDPW2et37yJMZ0vrjELOxwUWn8K4iacehkXWfq010ThFxvl3LQia4ePsUwtwysy4G3E8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Frederic Lardinois 译者 | 平川 策划 | Tina 本文最初发布于 THENEWSTACK。2026 年，每个前沿模型都在宣传，至少提供 100 万 Token 的上下</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285679&amp;idx=3&amp;sn=f8b1bc49ba3c60e0b1eaf13137f7f5d3&amp;chksm=bc070f3983a44161136b3103fb81eb22a8832ce3edf137c7a9c3aa98ae34de511a7d73af70ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 14:04:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh8GABPicWx9CA2VCUfNR5EBQYKrlvUfbwZQJTXJNTYdX2MRedjiaXJRIlFibH2EmY6icice7OOoXYwjias5EicUAHd9dJ2bpESUtwibUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Eran Stiller 译者 | 明知山 OpenAI 近期介绍了 如何为全球规模的低延迟语音 AI 调整 WebRTC。新的架构将传统的媒体终结模型替换为更适合 Kubernetes 和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285679&amp;idx=4&amp;sn=a1d3ae046495a8e18a4e9ab60f2674dd&amp;chksm=bcb080afe75ddd8c8710e651fb3a60e413b104162fd943c88b555c623e75df6cafb2f7b5189e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 14:04:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软将弃用Claude：太贵了还是薅明白了？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjwIqB5d1G12UARZGictFYXBUFn57WLUYmXTyEiaTM44QGwYMCFNaUXkkbo8BgrDibcPy3tNRItXwMM1pN23p4OmrOXebicbSE9sxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 微软也用不起 Claude Code 了 谁敢想，微软——那个曾经给 OpenAI 累计投了 100 多亿美元的科技巨头，最近也因为 Claude“太贵了，用不起”而在内部叫停。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=1&amp;sn=e72656c650d71e707fc9801043555033&amp;chksm=bcd5860a9f63b4787c52860f8e699a7a8f815e33410e967f656d1f4fb6ca002a1929bb920e47&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjZugGwuoKHuXPHVvr9nq8WIib0mWYndxqSd4muYTcJGxD6ZAm1rTP74NDdBK8AGsLR1maErUU6AXMic0FvvQBbRpd8ODBTja1rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 骆驼 今天大部分企业看待 Token 经济的心情十分复杂——一方面，Token 的价格已经打到了地板；另一方面，Agent 燃烧积分 /Token ，生产账单的速度仍然很快。尤其是当这些企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284084&amp;idx=1&amp;sn=d8f659bd46c1b4e69144e1e557157acb&amp;chksm=bc08ea2bd465a51c5a6499725f0c7d2f894ab140df321f4d6d6162137915746db37845d2f37c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 18:52:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi K2.6背后的Agent Database：Agent-native 时代的数据 Infra 竞争，跟过去 30 年有何不同]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjE1UdPj51QLEDyxQQGBvP8RBOM2zK4ame29gK0k1jkUzJOWRjQ6ufGXdibQUribiahoibOxQNUnriakKn4cynIIXT8nsLDmxUUYULE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 黄东旭 我前几个月写了几篇关于 Agent 需要什么样的 infrastructure 的文章：如何做 AI Agent 喜欢的基础软件，当我们在谈论 Agent Infra 时我们在谈论什</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284084&amp;idx=2&amp;sn=3eee6e7bd84077c193b9a457d2716dd7&amp;chksm=bc663e52447abde001179163da17272de53b12f9afaad61b4183fd5c7d57ff24a57ada9c99b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:52:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能体时代，我们到底需要什么样的AI人才？｜2026 培训年会X极客时间专场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjGhCovHo2qGeicic4cXD69no5BlvsGBWmZ3q3TvhTTFGv0sTohgSpzjtMiaiavaD1yl6ticFrFUHFDibLlIH17qPlcadYEYVBw42MHc/640?wxtype=jpeg&amp;wxfrom=0"/><p>本期为您介绍 极客时间企业版 与主办方联袂呈现的 DTDS 全球数智人才发展大会 - 锚定智能体时代 AI 人才新航标专场。时间： 2026 年 5 月 14 日 14:00-17:10地点： 北京·</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284084&amp;idx=3&amp;sn=31140221c03d6e396e96ef006e408477&amp;chksm=bcc024deb3b7e2cb8da13c7aca8045a4719421f98d48a89c2774f67841a123b636dd6286fdb2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:52:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Mistral 为 Le Chat 新增远程智能体与 Work 模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh1eej153MwTRXoy4hU71tsialoaqt7YM3ewMLS0TdFvkbbocI7MlXYIQk7Y3mf2PRibx1vogKWsFfTpfJkLV2Rdk1ib6eIatNicnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Dominguez 译者 | 张卫滨 Mistral 发布了 Mistral Medium 3.5，这是一款 1280 亿参数的模型，其目标是在单一系统内同时处理指令遵循、推理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284084&amp;idx=4&amp;sn=6ed11e6b9ba9d93c22b0d84f44fe5f66&amp;chksm=bc6100a7f008bbbd24afeebd579313a4231401101fb813bbd3e5b1493c19605569d64bf3ffd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:52:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 狂砸40亿美刀下场抢FDE，软件工程师的尽头原来是驻场啊]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaPnzCWRFlUnCm57HVzlThQM3aUoWbFc0Dtxe0NvsTlYUIzib4ibQkvYOiatR6TlE0F31ojib3IIs3tKs681aciaJXvbTKicA1iaGrxU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 当地时间 5 月 11 日，OpenAI 宣布成立一家名为 OpenAI Deployment Company （OpenAI 部署公司）的新公司，初始投资超过 40 亿美元，专注于帮助企</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284014&amp;idx=1&amp;sn=b2a2df7984825df17ed945d51482d025&amp;chksm=bc42e16e3864528af0237c778268a291059b1135d1f2918c44034a87f03f67f80306a363a995&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 15:31:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

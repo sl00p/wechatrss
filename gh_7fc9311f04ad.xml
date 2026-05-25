@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness Engineering: C 端 AIGC 内容生产自优化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xoYf7gQmJF6bUMh8LslEVjNseP8o8nfbiad03nAquYBHo5yCMtymfBzuYm5vc11cAj5oM2pluUEAveApAd35SVqNs4AC5fqfTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在前一篇 《Harness Engineering:为 AI 打造可持续迭代环境的实践》 中,我们讲了 HelixVer</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560353&amp;idx=1&amp;sn=939768570beeacd145b5c1c91ae7827b&amp;chksm=e884afd7b73d0b11ed126e8b17165839be920afc88b71757100b4ecba9a9f4572e8da70fbbe1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 26 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让 AI 自己做增长：基于OPC和Harness思想的自主增长系统探索]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wjFYxqL3WtHqk4KFrmRpcccmDrbRjZvzgicd6kY7q2JNEcNf51vwoZ3fibicQqhF8oAd8JpUqQWic8beTLXZCVVPJtntcqrSo7ncg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、做这个系统的背景故事的起点是我们持续在围绕高德地图PC站做SEO优化，在探索各个方向上能带来增长的可能。偶然在某社媒</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560242&amp;idx=1&amp;sn=37875b95003fe7c3c95e2966e48878f7&amp;chksm=e83a4895a9781f8261a79869fc08e8c9f42f8f73c1fc7bf50273d9e6d1a32c5919a5e822f0d7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zItn7CibKC5SwEzuamjOFo5u90YAS4Nic0SNsdJpQL12XRhb1q3XhRMYIvosDxOU2qibxs9QQMibOBv2YpACCKJV9uTDSw1nJAaNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍一种面向企业级软件测试领域的质量数字人系统，通过将大语言模型（LLM）、多Agent协同架构与Skill Engine技能框架相结合，实现了从传统自动化测试向自主智能测试的跨越。系统核心能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558791&amp;idx=1&amp;sn=1c17fc2013bd157f9816e401a853679a&amp;chksm=e824528b485a23211558367b6bf920b41d3655065b62f760f80de8b9675ea3e0291df7a0645f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我们做了比你更懂 Java 的 AI-Agent -- Arthas Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wCIYXjC8ibAYv0Pnpb0Oc6PeR3gzzKP7BHkiaYyhQnrZOqlsrMmqGPx1JunhXunQTtNA6XPDEuBib8fyN0YibGcVm0mMOYIWK0MDk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Arthas 是 alibaba/arthas 开源的 Java 诊断工具。它能在不重启应用的前提下，动态查看线程/CPU、反编译类、追踪方法耗时、观察入参返回值、执行 OGNL、查看类加载器、线上取</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558779&amp;idx=1&amp;sn=b528bc344afbf76933f5b1b13041ff67&amp;chksm=e85b80d1c6a1f650ea46ded4ca4b8370c3b23e85184a7e456f655e87c593d46a97f691ccfad8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
