@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[无文件攻击开发者，Linux恶意软件QLNX窃密+Rootkit威胁云环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1l9T8eJdq0ibBbTUicIGj7jZms4sicVlFAFSBQ9lMRW6dqy12jSDhx7pn30qAgW4FoJ2U5VItrby2GPF60dKDia2hed2LYviciaXAibM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一种名为 Quasar Linux（简称 QLNX）的新型 Linux 恶意软件，正以罕见的复杂手段针对软件开发者和 DevOps 工程师发起攻击。与大多数依赖磁盘文件的恶意软件不同，QLNX 几乎完</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338914&amp;idx=1&amp;sn=7d51cdc7444c68d6b9ea20f5c29dafa5&amp;chksm=bc711b52dbe0aa798b2a106926897720085f9d22e22f86a6d161195a9e3113fae41b14235d72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[那个AI白帽，蛙池AI D2.5来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1e8kSsMzmOsqlAZicmuZiazG2Kaws2ZAh4G0YBdCbWsnicPmuBJcxsGEbvZRPLaUbUCp3OpdBx6o1hWATC5IcuflHXicAowbeGczQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>蛙池AI D2.5的核心，就是对Harness工程的系统性重构。目标是让蛙池AI从“能听懂话”，进一步变成“能办成事”。这次升级，我们重点做了以下五件事：在安全实战中，最宝贵的不是单次成功的经验，而是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338914&amp;idx=2&amp;sn=b6b1acfaaf572d1a021e4e34576c0978&amp;chksm=bce64e0c820278da070144acd426ede59400c1bac1ecfdd3898b21f4b67386f598f645f6aa54&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PuTTY 0.84 版本发布：修复 SSH 密钥交换崩溃与 Telnet 提示欺骗漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2eZVukmAVDexyycIlGXkWDTMGWI5Bia770prhkVDwknl5CcJUcqBDMQ4upv0KOoHbpp7QPGkTE2lQQiaib0DKBnpw6lPdPCbF3LI/640?wxtype=jpeg&amp;wxfrom=0"/><p>PuTTY 0.84 版本已发布，修复了多个低危安全漏洞，包括可能触发 SSH 密钥交换崩溃的问题以及 Telnet 提示欺骗缺陷。虽然这些漏洞的严重性较低，但它们表明：即使加密处理和会话逻辑中的微小</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338914&amp;idx=3&amp;sn=8296522973b2379bcefb699eec639c1b&amp;chksm=bc24aa385d4abecfab7a12a57fe2663db6bff7d4ccb45cded68d2be7759fe5d4eaaaadc1d1e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[传统防护措施失效：AI Agent更像操作系统环境而非软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1V2g9q2xiahVMicYKvLAdfY9DnIOUicXrapPJEicibOpR2POCAZ01SiaIGk8ic78kwovtoAnB9yEWtoicD7icweibQIGPAvjB7k9TkrRy2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>图片来源：Gorodenkoff | shutterstock.com最新研究论文指出，企业无法通过增强底层模型的鲁棒性来保护 AI Agent 安全，而必须在系统层面实施安全控制。研究人员警告称，传</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338914&amp;idx=4&amp;sn=9e35a76ad9b392e044f797cbddec2587&amp;chksm=bc0fc03f3a1bdcb88b0a3b22fc7ffa47edf87bb685d5ae2416df04152bd26816b8170de58a61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 18:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic将开放Claude Mythos，企业版已发现超1万高危漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1lUp2U4iapGLsOCEgGLKY8UokJlicbHfRlmdNmN8BGhSSZgMp6n4Kbzfo4YWn5RgicVxcZGp2LCPuqahYwQ4pNfTic0ydppfibicadk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 公司正逐步放宽对其最强大 AI 模型 Claude Mythos 的限制。最新迹象表明，该模型将以 Mythos 1（claude-mythos-1-preview） 作为商用版本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338764&amp;idx=1&amp;sn=dfc39a58edd1dfe8b3dfa0820c2bbb9e&amp;chksm=bc237da5e85b7fa1a13beaa04ca45401081c63bad22bbc53c58d0aa7a1d2864a9234c24638b6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0jIndkCBibudT6rmQrx8gvch0TPpvIj0asmN4knkHespBqLv2fg7XUmY8Uuwz8ZUcPvY8d7xWavuTP85icBicQ9xicshQemlaiaqTc/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球最著名的黑客竞赛正面临始料未及的危机。据报告，由趋势科技旗下Zero Day Initiative（ZDI）主办的Pwn2Own Berlin 2026赛事在举办19年来首次出现名额爆满情况。这项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337950&amp;idx=2&amp;sn=3764aab0f2861f79bec71e7f513d962a&amp;chksm=bc2dcdfacb5b4f89046cd633f2fc4df0cdea352710e9bca1380ddb1f24561ef88b44e139f48d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 19:02:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌推出AI驱动的Android移动安全增强方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0icwibpmfribCXicvicEhe17APYicic0w11EyiaaWiaEXzzq91icYY9hWss5QP0tACq9OkjqlVNyWibWQMiaibbpgSJ4stp9cbdwltD9ian0iaTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Android面临日益复杂的威胁态势Android智能手机已成为全球数十亿用户的首选设备，从银行业务、即时通讯到存储个人照片和敏感文件，人们几乎将所有重要事务都托付给手机。这种依赖性也使移</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337950&amp;idx=3&amp;sn=de82beead0a6fd8248dd1c7236ca423a&amp;chksm=bc490485b160cad85736f66ebf1181d094316f36a32056a8baf10dbd23e1d3435e3b6a428f96&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 19:02:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft Teams 漏洞可导致黑客实施欺骗攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1TInZrajxHaanYluVhM8LACTRUvq0RQlSHHWZYF7vvzTozicpQsS0RdvOb34FHVicTu3NhTz348hHwFW6gpNGicXz40U2sUSxOvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软 Teams 近日披露的安全漏洞可能允许攻击者伪造本地设备，这对依赖该平台进行日常通信的企业和个人用户构成安全隐患。2026年5月12日，微软通过协调披露机制在其月度补丁日公告中公开了该漏洞（CV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337950&amp;idx=4&amp;sn=460048f044dd59d36e4597096f374541&amp;chksm=bc2fd40240e036d3d70eecf3f0e6844bc8a8c245a1ffd4e2395bef580c0e11bbd705c3008b3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 19:02:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI推出Daybreak全新网络安全计划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TCDS8rYSz1SHrnGLvgboEM02gCRQExFDwFufyI2ia6SX9aNHlYY4bicaHDf3J9Aic1mnfIjItNq7QDynmwaWqGu3o2uibtrfDnNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI近日推出名为Daybreak的全新网络安全计划，该计划整合前沿人工智能（AI）模型能力与Codex Security技术，旨在帮助企业在攻击者利用相同漏洞入侵前完成漏洞识别与修复。Part</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=1&amp;sn=16d72590d8ba7b2ad65ddad436198064&amp;chksm=bc8bfb23aa70bc2d69d513f60b9ec42b73d291872ceaf9ba63ac426e5c13382f6c08fda89a10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux 内核新增紧急开关，填补 0Day 漏洞修复空窗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3pibHBrOYR8rtZ9AlHKIpPPAJfHPHVGwoDkltecvm2vFaQaAvqgia1e1Wt1T9RUdn5Miajy0cho5jn0nYEKJ6BvHXVP8sqNBwa2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 服务器管理员或将获得在操作系统内核中临时禁用漏洞功能的能力——前提是开源社区采纳内核开发者提出的这项建议。该机制可在 0Day 漏洞补丁发布前作为临时防护措施。Part01内核级防护新思路</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651337925&amp;idx=2&amp;sn=70855748fce9c2e3d0ba8f7bb722dd98&amp;chksm=bc07d62e847d3134898bfe7cf15a852f6eb791e681a2e1104caaf28fd75cdfe64098d1df9a30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 20:50:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

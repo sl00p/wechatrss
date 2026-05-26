@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Android内核无痕Hook理解和感悟]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaJfaurib6P1rxe0FpOHBLQ0OX8jSOO7kcjICeeic9a1SYvSgY5aU2GUtLv2MwCeNhicsPmI12E8zJOffjThxlibPf2eqWshAIn9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>1、前言这篇文章主要是我自己近年来在攻防对抗中，对 Hook 检测与反检测的一些理解和心得。随着各路安全SDK和反作弊引擎的不断进化，传统的 Hook 手段早已千疮百孔。我们目前面临的常规 Hook</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=1&amp;sn=770311965b1a5c85320ce70f6b6a0dc7&amp;chksm=b0e75cf0b790bfca5d316081b4de5df4683241b97227ded106a759e119886dbf361084448364&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[报名开启 | 游戏安全行业峰会来了！共探AI时代游戏安全新范式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ZTo9EDuOibgDicyOKBn9NJuYibRj5Dib5Uvesw9gxL29kXAcDVwbUF5bIxiaGKzz8njNkPcMWPj0oOXHXY5TKCxIGiaYeYlo6genx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10大议题，20位嘉宾与你共话AI时代游戏安全攻防！</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=2&amp;sn=e2a48c2bdbcedc745a607e568198d72f&amp;chksm=b0c3854598ee58e5764d5a3317203f9ff38b6a0cf8bd773e12d8d99ebd8aebb3e6bb7e6cdcf9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI聊天机器人沦为病毒帮凶，高配电脑惨遭精准入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K09mwxt76CC6gaRlLaBwC5Z2fE1EibE0570Umk7pkZYiaqN75icd8ZJFKsnWNJXK4cqJscUSRV3kFG6fJacIKGHDXQssUZDT2NUd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，微软安全团队发出警告，一个活跃的加密货币劫持活动正将恶意软件推荐悄悄塞进AI聊天机器人的回复中。这种攻击不再是搜索引擎投毒，而是通过诱导对话。AI助手在带路当你习惯性地问“推荐个好用的显卡测试工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=3&amp;sn=b3c7eb22fe2b01acc44d2a9398fc7efe&amp;chksm=b0d51eca49c04ea0912a034b9cebae3113516d8cfd990322cb96b9703053490de46b8a33f999&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从“会用AI”到“会造AI”：360 智能体工程师（ADEA）认证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0eJpeEwY3NdgIZYvWnk1d13GO8p0Gq9QHFO1CKAaC3FFgD5icrHzNicAzUm72j0UPQlyWLOLeuPRQMNoalU1phVP96ezahGJazA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=1&amp;sn=cd6f67b920187a61b0e6c8d86f1f481e&amp;chksm=b062f9c959c668ea4991102e4c708df280494072e4105f636d41fb256e591412711ac908ba3d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3wb9G8CLyY0X74CDVaEouNW3CBib5njvRiaLU2Jxcwv9ovQQKNUYfia6RW6ZmBmznYTj5a7hoJDJIc98pI9wLnv0ptl6w3n1QtzE/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》2.12 集成GMShttps://www.kanxue.com/book-135-6050.htm4.4 apatchhttps://www.kanxue.com</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=4&amp;sn=298a2fdc8ed17b65e5944cda2cc1fd95&amp;chksm=b02532946a75073d31a275b819b225811d856a9adc3fe5f4ae71cc3f18c545e9b7db3b1749af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VMProtect 3.8.1 混淆策略大揭秘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3iaeELsg9QbYxBcPuSMibn39aHv2ibKdQuQUkAiavReTgedOZrc1icRsVWIntowBKrgmbPMHMtEuhhHcV5406fGrficNegjfWDUPTew/640?wxtype=jpeg&amp;wxfrom=0"/><p>自从VMProtect 3.5.1 被爆出源码泄露开始直到最后的那一两个最重要的源文件也被公之于众之后，VMProtect 3.5.1算是在所有的逆向开发人员面前裸奔了。有意思的是VMProtect并</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=1&amp;sn=e7e00532d3ef8803a5e4206d31b932ff&amp;chksm=b09c7d71b0f9b1c8010b90a2126047f6b70029af7311cbbcd1a59dc69ffcb9cfeacd4416dfbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Palo Alto PAN-OS 高危漏洞已遭在野利用：可获root权限，官方下周发补丁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1QUgSUicf6vP20pc2nIpdl0MabMpSF4u2B559hMDuiasZlX8LMoN3PaXneZ2rbIicVIJUEaZcxk03lEicafMGnE9x25OB3C378BI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks 本周发布紧急安全公告，确认旗下 PAN-OS 操作系统存在一处严重的缓冲区溢出漏洞，编号 CVE-2026-0300。该漏洞允许未经身份验证的远程攻击者向 PA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=2&amp;sn=ad625ae6a74ef9508c95bad9c6cea4ef&amp;chksm=b0f857ec14b91c3803057675929fbe7d77d60e27dfb98a5a447a9253fd55c2a42c9aa78e68cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[效率提升10倍！高版本VMP逆向+插件开发全流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0OaibDFIibx55efxDYTZwMTLHXqTa8UKHqoBhXeLXmeWSu31JbNBibDoyM3aM7GQTgCYicF5IdyD8JanRAP6gfq5Y7cKnYuSBfgg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>做逆向的朋友，你是不是也遇到过这种情况：拿到一个加了壳的程序，一眼认出是VMProtect，心里瞬间咯噔一下——低版本还能靠着经验手动扒一扒，碰到3.5以上的新版本，直接无从下手。handler藏得深</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614579&amp;idx=3&amp;sn=942fc47999e8b03d9c29f202cfdb76d6&amp;chksm=b05e21c42a83c3486e98a58196a8b41b0fc92addec685118b5bc5d2b148d5d5b33d95accdc17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

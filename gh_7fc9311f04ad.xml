@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[verify-data：一个端到端的数据验数 Agent Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zkTPQL2WnmVUc0Cxy7VxoH0EnXCnHSG0F4BK45OkSFv8sVAHxJIxGWtduFaJUPLAnnnp3JT4kMaRMlYGg3ICVe1wCnzRXlttU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了一个面向数据开发团队的端到端数据验证 Agent Skill——verify-data。该技能通过自然语言交互，自动完成从表结构获取、基准表发现、代码逻辑分析、验数 SQL 生成、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560354&amp;idx=1&amp;sn=7f27739c5166be3e08890a75756e5811&amp;chksm=e8b465f2220f7cd637bfc9507609275b2c5c0e7642d3cf29022b5a473d3bf2b0eea1af025802&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness Engineering: C 端 AIGC 内容生产自优化实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xoYf7gQmJF6bUMh8LslEVjNseP8o8nfbiad03nAquYBHo5yCMtymfBzuYm5vc11cAj5oM2pluUEAveApAd35SVqNs4AC5fqfTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在前一篇 《Harness Engineering:为 AI 打造可持续迭代环境的实践》 中,我们讲了 HelixVer</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560353&amp;idx=1&amp;sn=939768570beeacd145b5c1c91ae7827b&amp;chksm=e884afd7b73d0b11ed126e8b17165839be920afc88b71757100b4ecba9a9f4572e8da70fbbe1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y4nqibjK4QFTODuibpOsMiaLPnTMiaz35ibTSASjPMKysx1a5l2UQqbO4KdvlnQjjeia3qciaurWMDcaJWZoRRhlbO0BoFoIUV2ulX18/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言这篇文章由三个部分构成，希望可以从看自己、看行业、看世界三个视角，讲一讲我的思考，以及在这巨变的时代，不变的本质是什么。第一部分，我会从一名 AI 产品 Agent 工程师的视角，聊聊我亲身经历的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558816&amp;idx=1&amp;sn=87b815f28a6bb92939c83d7b84f42872&amp;chksm=e801ff9f6e0356cd8145573d4977cc2cc00dfd6e50ff1441b89b89b103aa0fac2e790ffa46b2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[构建会思考的测试Agent：从自动化到自主智能的演进]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zItn7CibKC5SwEzuamjOFo5u90YAS4Nic0SNsdJpQL12XRhb1q3XhRMYIvosDxOU2qibxs9QQMibOBv2YpACCKJV9uTDSw1nJAaNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要本文介绍一种面向企业级软件测试领域的质量数字人系统，通过将大语言模型（LLM）、多Agent协同架构与Skill Engine技能框架相结合，实现了从传统自动化测试向自主智能测试的跨越。系统核心能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558791&amp;idx=1&amp;sn=1c17fc2013bd157f9816e401a853679a&amp;chksm=e824528b485a23211558367b6bf920b41d3655065b62f760f80de8b9675ea3e0291df7a0645f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

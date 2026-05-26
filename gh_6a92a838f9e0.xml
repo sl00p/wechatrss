@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我们如何用 A2UI + Vue，让大模型长出“可交互界面”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6SSIn38vZdKHAVHueWA7o8L3AbkGhZrZlSU4ic1cZsWzWKvQHy5FnBPvliahGXxSV4qtibNq9AOOtRngnlIxrOYKs8iajEHG8iaoficrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读本文围绕一个核心问题展开：如何让AI助手从“输出文字”进化到“生成界面”？我们基于Google A2UI协议，自研了Vue渲染器和 Agent 完整工具链，形成了一套完整的生成式UI体系。文章将详</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504267&amp;idx=1&amp;sn=e3163144d913971f97fb015c3b791e1d&amp;chksm=ce8faed5c5104d55e5c3aecccfc3550337bf64d708dd6d2d4c0734aae402eb6caced7c1b4bf0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[bili-fe-workflow —商业化智能开发工作流实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/tY0ozQev6SSoo2I4ltK0E0q0jibickEszQl1ibAbvTM5MHoaGegRo3SjrqOFO9kcibUxlMVTZlt5bxDTZGvicoSKkLguPyYngHn1mMOyiaJeEXuZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景AI发展迅速，曾经 AI 只能帮我们补全下一行代码，到现在 AI 几乎已经可以在我们工作的各个阶段都提供帮助。创建需求、分析需求、分析技术方案、编写代码、调试bug、测试、性能优化 等等，几乎都有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504231&amp;idx=1&amp;sn=bea903410681034074d405e4c8ac6aa2&amp;chksm=ce367eddea1290ba0596d645c4772f45861fc3867932d47899f1799c2269956d9812186646e5&amp;scene=0&amp;xtrack=1#rd</link>

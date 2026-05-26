@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Marvis 实测：6 个 AI“牛马”扎根桌面之后]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905flA1sKFfwhF1tlyF1aH9sxezJHNRwIHnicmbIAAsbHFJ4IETEBRIanibDibp5te6z9nGKDwibpaaFNQmf61H14GiamwicL79HsJkm8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：marineMarvis 是少数几个让我重新兴奋起来的——不是因为它技术多前沿，而是因为它把前沿技术做成了一个普通用户能直接上手、敢放心用的东西。与 Marvis 的缘分始于上周刷到的一篇推文。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801679&amp;idx=1&amp;sn=2970beaa578390610e3f2271ab4efba6&amp;chksm=bfe21ac32e2b4f383a6965062b106e645dcc8e379dba7e06e5cf596e69aaf9aad4bb2e958d2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 18:00:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从3632个漏洞看AI时代的评测基准重构！VulnGym基准发布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯悟空代码安全团队导语随着 Claude Security、Codex Security 等新一代漏洞检测工具出现，漏洞检测正在从"发现代码缺陷"走向"理解项目上下文并检测业务风险"。我们分析</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801631&amp;idx=1&amp;sn=4d1c5bb6cd33aa8f38f6b902f5231065&amp;chksm=bf4f00fe20b89e6867d73ffa4959bba63b525003c54abfa466560866ec1aa8138a7c2af3ea5a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904Kk7t5D0OQRHRjhBjic3ibVBDmHSlcnobld8iaHZPibcntpLLrvaVP3hg1a7QF6xBc7WCFFeI7iagDbjLmzibu1fBRXvY7r8Zuuxzbg/640?wxtype=jpeg&amp;wxfrom=0"/><p>10000+份免费送！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800037&amp;idx=1&amp;sn=9d0113b949c2f6a83bd200c8e79bd295&amp;chksm=bfc57be781e84c1197149917e49b1bf7120ed5447dadc2c9277b1920f0de35d4ffb2d3f87093&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Feb 2026 16:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推理速度提升5倍+：腾讯TRS团队首创列表级生成式推荐HiGR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907RwFYqAwJS9iaCj6fPiac14Frj6JzJvicNpeicwxMel66dibKGrgbqTF2s1MllvyecOY9sS95FBTnaZYyT0oCSzl1aXIV4ot6amP74/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：李裕东 庞雲升 刘子健导语在信息流、短视频、电商等推荐场景中，用户真正感知的并非某一条内容的相关性，而是一整屏列表带来的「整体体验」。 为此，腾讯TRS团队在论文《HiGR: Efficient</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649799848&amp;idx=1&amp;sn=bc1dd78dbea5b89c5e778b9f0b83f213&amp;chksm=bf0d9b24864be5d7ef122b387aed854513f745c7c028ded5ddde1e1a92655a539c1e2108cd73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 17:35:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上刚开源的国产 3D 高斯浏览器，杭州六小龙给力啊。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0mp3NAwibGKtc0kmvuSXicl7QKfNRKkCAUoxc3Td0kmglTbibk7oJkzIKbxHibNY77lfvveQFMib6Ro12C9cJ2zkf7ciaITqctLTkvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月中旬，李飞飞创办的 World Labs 开源了 3D 高斯泼溅渲染引擎 Spark 2.0，全球开发者一片沸腾。能在浏览器里流畅渲染上亿个 3D 高斯点的场景，手机也能跑，这事确实够震撼。时隔</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534078&amp;idx=1&amp;sn=6b87a91a35598f424c35358613ac63ea&amp;chksm=f836d3f3340f323863a5dae82ad7a1b7b0ec804cee45916499e4eb5181154ef939693774bcd9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 12:02:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[同时拿下 Office 文件和飞书、钉钉、企微，办公小浣熊 2.0 来了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2VIHk9vINUQCx7wZeBmUsmR9guuqD1neDE2MeO9JiaYiaiaiaCF2hs9WWpK1mHMcib6jDAvpBN0hI8Rt2fyU66yMBIic87XibaMER98U/640?wxtype=jpeg&amp;wxfrom=0"/><p>在国内想做好 AI 办公，要在两个场景下发力。第一个就是本地 Office 文件的处理。因为要 AI 处理的文件大概率在你电脑里。如果通过你手动上传给 AI，AI 生成结果，你再下载下来的方式，就很蠢</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534059&amp;idx=1&amp;sn=8ae85fde6113e5d180c28ca0cefd292d&amp;chksm=f8bd75c12b18fe005b53182677abd2fe8ea6be9bfe83381e4272b3babbddd7f80b3663462cee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2KsicN8Rwpg8UJRicDMAxSa6mKa7a8Ouz90v2QjWlctfMCibexQ01nDtKVhCYaTUMk7OLDdiclQbE6uHicX2jFnWrG85XtLg3JyibMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Andrej Karpathy 前两天发了条推文，讲他最近用 LLM 管理个人知识库的一个新玩法。很多人非常受启发。然后他把这个思路整理成了一个 Gist，现在已经大几千的 Star 了。说实话这个思</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67&amp;chksm=f8403a2ac965683ad8a007187973df338e6af8e12005331e2c4b71b9244c4261ae9021233efb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Apr 2026 11:34:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[笑死，这个开源 skill 专门炼化你的离职同事。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0sJglwreGZNp1xc6IGrgiaKIfVxOVoq8D8YN2vticNeRiaG1oTpSxFyCeKjJhwRQDrsicQrgq7pGXRMHIiaGA3G6Gq5ibm3oC3lLVOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>笑死，这个开源 skill 专门“炼化”你的离职同事。最近逛 GitHub 发现一个特别离谱的项目。五天时间，7K 多 Star，还在疯涨。项目名叫 colleague-skill，翻译过来就是同事</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532806&amp;idx=1&amp;sn=6e4666b2eef514f3f053794b36cc031e&amp;chksm=f822af68fcddb8aec2a35d1c3942bdc9ee21ba668df3ad50d0950b2588f630aaecbbfcecad3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Apr 2026 10:13:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

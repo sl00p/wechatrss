@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[万字入门AI Infra：深入理解大模型中的数学与Infra优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4xBic05XPIwicsfF5K65ToRVgqia40XWoApx5vT9zR9XLwnQU4xHrBFuk98nyicMKfz2WYQFLH2CvqtJKANWdGn4g9DHGPlzGmnjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇AI Infra科普、入门或者进阶 ～～ 不到 5 万字，带你融会贯通理解大模型的数学、算法、硬件到系统工程。任何问题欢迎沟通交流。"AI不需要脑子！本科生就能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695676&amp;idx=1&amp;sn=6c01642b9eaa5ee518ce99c355522ec3&amp;chksm=eb64cd28623c2b52bb9edd0504ff68732f27fda70785b2a74580c9bf32afcf734080f3b9036f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 27 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[平平无奇的源码，竟藏着Agent的核心秘密？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7KxIR7qbt37B51OTiaNq0xDDbHHlqxNr1mMshI2iaWYkSZoEljgny0uwy0LQZ0ukKGbWNCx8LBGpVCa29iakkibu0C0NhlZibVabao/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01整体架构：三件套用户消息 ↓【System Prompt】 ← 告诉 LLM "你是谁、有什么工具、有什么 Skill" ↓【Agent 运行循</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695603&amp;idx=1&amp;sn=1753f7e5a63067c16db284bc22fbe238&amp;chksm=eb7a17e953a1b7d76cabfc2b9539de2969fae0c3a65e534defa4b2a180bfb9d2f9ac13deefee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[RAG优化字典：20种RAG优化方法全解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5JuyjDrLGQ10o8orp8Hz7dfONicl1OibvUZ1zaLuQmEAHVFtJNgD9QVUu5C36GqECtAGGbPcuSdSq4hgV5a8XBmwp5xDNcIYiaaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文系统性地梳理了 RAG（Retrieval-Augmented Generation，检索增强生成）系统从基础到高级的 20 种优化方法，涵盖分块策略、检索</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=1&amp;sn=933681fb58bd38e6af584388def1516a&amp;chksm=ebb9edca7b62ddc885ce08dd7f742817f46cf08d25cc9493ed669044b59ea18a5dd5a40118ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5LBUmubyiaOggkOggO4GzPF5ZDgkxicTVwbjEGPUUoib1AH20BYeFvjvUmBMrpSNJiarPuShlv93MsnOWSXkA8LtUezDib6eNWZckk/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇以往大家习惯将 AI 能力依赖于公有云服务，而随着 OpenClaw 等智能体工具的快速普及，不管是个人开发者还是企业更需要一个 7×24 小时运行在本地、可直</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=2&amp;sn=c8885f24b1f1a95e018da38b34cc24b0&amp;chksm=eb6258db4183b74e8443da78c47cac1f08af55f04f52a27a990b0591df13243b833b21239b9c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
