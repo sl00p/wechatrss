@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude code云端部署 &amp; 魔改sdk实现http流式调用保姆级教程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPQibCfKZyyicvt3fey2MZ2PXSmXDa5gFmR8yI06P49MfA7QqaKFia0OAzmBhVuPrs1ziaP8oktXwia9HicoewBso5xRArcReOLgqPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景在 OpenClaw、Claude Code 等产品出现之前，开发同学实现一个 Agent 的基本思路是：基于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560355&amp;idx=1&amp;sn=c7c83c7bf352322ee7221ca404468fb6&amp;chksm=e8cb870413635a7f3537c858d0a7cda7ffbd2ad59dae8eee3b79a303079ba60fa35e7839045c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 28 May 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[verify-data：一个端到端的数据验数 Agent Skill]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zkTPQL2WnmVUc0Cxy7VxoH0EnXCnHSG0F4BK45OkSFv8sVAHxJIxGWtduFaJUPLAnnnp3JT4kMaRMlYGg3ICVe1wCnzRXlttU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了一个面向数据开发团队的端到端数据验证 Agent Skill——verify-data。该技能通过自然语言交互，自动完成从表结构获取、基准表发现、代码逻辑分析、验数 SQL 生成、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560354&amp;idx=1&amp;sn=7f27739c5166be3e08890a75756e5811&amp;chksm=e8b465f2220f7cd637bfc9507609275b2c5c0e7642d3cf29022b5a473d3bf2b0eea1af025802&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y8CjbwtAkt1Z0ZxXjWcRNsOGicRYSymYlqJHRELdHXd5PWNIVl88OibFMX1FhOxMGpnqJt3QMZ9VPye8ym71ta1yV1BPsWPGicXk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读以 OpenClaw 为案例，从行业威胁态势与运行时防护的固有局限出发，系统拆解 AI Agent 可观测体系的设计方法论：通过 Session 审计日志、应用日志与 OpenTelemet</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558894&amp;idx=1&amp;sn=66e97f3df165135113bc3ea000873f1b&amp;chksm=e82869db19da4ca7876f1d3c28e00701b992107b8b5543525419c5c75e86a3f811b46d0898a3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做AI产品三年复盘，我看到的变与不变]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y4nqibjK4QFTODuibpOsMiaLPnTMiaz35ibTSASjPMKysx1a5l2UQqbO4KdvlnQjjeia3qciaurWMDcaJWZoRRhlbO0BoFoIUV2ulX18/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言这篇文章由三个部分构成，希望可以从看自己、看行业、看世界三个视角，讲一讲我的思考，以及在这巨变的时代，不变的本质是什么。第一部分，我会从一名 AI 产品 Agent 工程师的视角，聊聊我亲身经历的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558816&amp;idx=1&amp;sn=87b815f28a6bb92939c83d7b84f42872&amp;chksm=e801ff9f6e0356cd8145573d4977cc2cc00dfd6e50ff1441b89b89b103aa0fac2e790ffa46b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

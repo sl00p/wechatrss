@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1BmiaVkw6z2CvEG26QXYe8VR4OIZEXalZBVamdtUibJqdXlF0sFXMPIvc7jLnoqVaNHLPZhaiaSkslk5PX7zuBrOE6NQ5iadO4Lpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天逛 GitHub 的时候，发现了一个刚刚开源的项目。有点意思。但如果你再找一个多项目并行互不干扰、离开电脑活还能推进、花的每一分钱都知道去哪了、AI 记错了你能打开它脑子改过来：可以试试这个刚开源</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e&amp;chksm=f8cc55d65f878e03fb062b1ba42204ec20268d2ab8c34536380389e065ece927de3cd5134f41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 28 May 2026 12:14:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上刚开源的国产 3D 高斯浏览器，杭州六小龙给力啊。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0mp3NAwibGKtc0kmvuSXicl7QKfNRKkCAUoxc3Td0kmglTbibk7oJkzIKbxHibNY77lfvveQFMib6Ro12C9cJ2zkf7ciaITqctLTkvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月中旬，李飞飞创办的 World Labs 开源了 3D 高斯泼溅渲染引擎 Spark 2.0，全球开发者一片沸腾。能在浏览器里流畅渲染上亿个 3D 高斯点的场景，手机也能跑，这事确实够震撼。时隔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534078&amp;idx=1&amp;sn=6b87a91a35598f424c35358613ac63ea&amp;chksm=f836d3f3340f323863a5dae82ad7a1b7b0ec804cee45916499e4eb5181154ef939693774bcd9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0lp2WFfPKX9csichwS1OwvibQHc7dpqaK8lFfdevqIy9g77D2icRYu1DY4UTlWiaRJCzRmGONXmpGdMrticQ59Dia9D0HYT5bdw9Hcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近前端圈被一个叫 Pretext 的开源项目刷屏了。它的作者是前 React 核心开发者，之前做过 react-motion 那个 21.9K Star 的项目。这次他搞了个新东西，发布 3 天 S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532874&amp;idx=1&amp;sn=4dbcb2152b26b8df773aa6ea9d991431&amp;chksm=f864074690550d33f79928d2c4fb337e3782bb2ce20eeacbcdcb63a9a5e410184da1fc573bbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Apr 2026 10:23:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2KsicN8Rwpg8UJRicDMAxSa6mKa7a8Ouz90v2QjWlctfMCibexQ01nDtKVhCYaTUMk7OLDdiclQbE6uHicX2jFnWrG85XtLg3JyibMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Andrej Karpathy 前两天发了条推文，讲他最近用 LLM 管理个人知识库的一个新玩法。很多人非常受启发。然后他把这个思路整理成了一个 Gist，现在已经大几千的 Star 了。说实话这个思</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532844&amp;idx=1&amp;sn=899a7e5cd40cec6d6ff9d9a4fa197f67&amp;chksm=f8403a2ac965683ad8a007187973df338e6af8e12005331e2c4b71b9244c4261ae9021233efb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Apr 2026 11:34:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

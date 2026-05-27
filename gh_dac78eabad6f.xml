@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大模型的Agent Skill功能，在LLM HTTP底层交互流中是怎么承载的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6adupbkJP0zmdvH34qK7JQ0rBJ8Io5b40c8HibWGkSXI7Jk1OibOhHWpcDVmMnzmNZzIRZib4KI0SEDqWelnqPTkpcic9jyvkzRl8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言前几天我在司内论坛的一个问答中提到了要写一个拉取网络文章文本的 skill，昨天我实现了之后也就开始好奇起 Skills 的底层原理了——相比起各种花里</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695701&amp;idx=1&amp;sn=a8b5dfd8cee58567104bcccc39af6947&amp;chksm=eb929eda503b74fbdce70b9ffdc4d5e247f8e5b0ba427e0754276fc52b0fb242d903eeb91037&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 28 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[5月30日·腾讯AI公开课到杭州！0基础也能拥有「能动手干活」的AI！名额有限，全程免费！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4JGWoJ75SON6KUaHAXDnKSOxab90f8WQBaib37k4jvW2DTqzV8wROGcGRWjlp5mhwduFfM2PVxUkhgakCZPkAdNoKvO3yKxYdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大多数人对 AI 的认识，还停在那个对话框里——它在框里说话，你在框外打字。但 AI 早已不甘于做一个「会说话的搜索引擎」。它可以替你接管微信里那些来不及回的消息； 它可以钻进一座你没时间读完的文档库</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695701&amp;idx=2&amp;sn=301af26601a74df0ee689fc198061b72&amp;chksm=eb5ea0ccfdbe574538d86f65dc45998ef83b0d6fa2df002baeb2c91e2add584898dec501cb00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 28 May 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[万字入门AI Infra：深入理解大模型中的数学与Infra优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4xBic05XPIwicsfF5K65ToRVgqia40XWoApx5vT9zR9XLwnQU4xHrBFuk98nyicMKfz2WYQFLH2CvqtJKANWdGn4g9DHGPlzGmnjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇AI Infra科普、入门或者进阶 ～～ 不到 5 万字，带你融会贯通理解大模型的数学、算法、硬件到系统工程。任何问题欢迎沟通交流。"AI不需要脑子！本科生就能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695676&amp;idx=1&amp;sn=6c01642b9eaa5ee518ce99c355522ec3&amp;chksm=eb64cd28623c2b52bb9edd0504ff68732f27fda70785b2a74580c9bf32afcf734080f3b9036f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6tDmHW9HHKI03FoKy1ZuibheHPxOSjMrcAnCicOIFpcseziaXgmzDgzCIqx37t2EBphnILGeoPVccyhSqXVH90m9kMEiasicLG0vkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上新！腾讯云大模型 Coding Plan 订阅服务全新上架，现支持 Tencent HY 2.0 Instruct、GLM-5、Kimi-K2.5、MiniM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694776&amp;idx=1&amp;sn=050b6d416bd1f90ccd89dd1484a591c5&amp;chksm=eb669657952d5aa6b3ebbc0956743af4dc02a402226238e7582f28755546829847237c0a0122&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 14:47:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个坏消息和一个好消息 坏消息是： 如果你只会写代码甚至只会CRUD，那么AI 100%可以取代你，AI在写局部代码方面已经超越了90%的程序员。写得快的没有AI写得好，写得好的没有AI写得快。 好消息是： AI目前还无法取代程序员的两类关键技能。 业务理解能力。AI对于特定公司的特定业务的理解程度远不如团队内的程序员。涉及到需求讨论和方案设计，AI无法准确判断合理性。形象点说：AI没法和产品经理PK需求合理性和实现细节。 架构设计能力。AI对于特定公司特定团队的利益关系网络无法正确理解。虽然AI可以给出很多可选方案，但是无法代替你做出多方利益相关的最终决策，无法理解不同利益优先级和重要程度。形象点说：AI不知道你做的架构设计项目，是你为了明年晋升而做的项目；还是为了让你的leader赶在绩效考核截止前一定要上线的KPI项目。 因此，对于程序员来说，在AI时代如果要避免被替代，需要扬长避短，朝业务和架构两个方向提升自己。不是和AI比谁写代码更好更快，而是向业务理解与系统架构两个高维方向跃迁。 这需要主动跳跃3重龙门：1重认知龙门，2重实践龙门，3重机会龙门。不要坐等机会降临，要以架构师的标准要求自己，从现在开始行动。 首先，系统学习架构设计方法论。 学习完整的架构设计方法论，掌握架构设计思路、架构设计原则、架构设计流程、架构设计原则和理论（CAP、FMEA、BASE等），在此基础上结合业界实践和经验，形成自己的架构设计技能体系。 其次，选择有架构设计机会的职位。 新业务有较多从0到1的机会；持续发展的业务有较多重构机会；快速发展的业务可能有架构演进的机会。在转岗、换岗的时候，如果目标是寻找架构设计的机会（刚开始不一定是主导，有机会参与也不错），可以优先考虑这些机会。 最后，创造自己的架构设计机会。 如果加入了成熟团队，合适时机也可以提出“架构重构”想法。关注这类系统问题：经常出线上问题/开发效率低/性能差/技术老旧等。 发生问题后思考是否可以通过架构重构来解决或者优化。 祝各位彦祖亦菲成功。延展阅读：<a class="normal_text_link mp_article_text_link" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247693546&amp;idx=1&amp;sn=e86cf96fcd181c3926665c7ff9b3ed10&amp;scene=21#wechat_redirect">大厂P9：为什么大部分程序员成不了架构师？</a>]]></title>
-      <description><![CDATA[<p>一个坏消息和一个好消息 坏消息是： 如果你只会写代码甚至只会CRUD，那么AI 100%可以取代你，AI在写局部代码方面已经超越了90%的程序员。写得快的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694723&amp;idx=1&amp;sn=f9607e1ce1e647203830978b1fe44e3b&amp;chksm=ebc49c68ebbfc90b4ef1790b670dc11380dd079a1ab30589b7615183b46df97c362dac5cc136&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RAG优化字典：20种RAG优化方法全解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5JuyjDrLGQ10o8orp8Hz7dfONicl1OibvUZ1zaLuQmEAHVFtJNgD9QVUu5C36GqECtAGGbPcuSdSq4hgV5a8XBmwp5xDNcIYiaaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文系统性地梳理了 RAG（Retrieval-Augmented Generation，检索增强生成）系统从基础到高级的 20 种优化方法，涵盖分块策略、检索</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694687&amp;idx=1&amp;sn=933681fb58bd38e6af584388def1516a&amp;chksm=ebb9edca7b62ddc885ce08dd7f742817f46cf08d25cc9493ed669044b59ea18a5dd5a40118ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 05 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
