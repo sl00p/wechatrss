@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于 Seccomp-notify 的 Binder 事务级无 Hook 代理机制研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1VMFO1HLiaY9Npv9Ty7v6KykladE32rT0GyKQleotKT2ynfYWzB0Sxzk7fbkKNhicQjRojukibYdOFsQGBQvJI938yzLH61DKicL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍一种基于 Seccomp-notify 的 Binder 服务代理实现方案，作为对既有 Syscall 与 Binder 运行时代理思路的一种扩展与重构。早期方案通过 GotHook 拦截 B</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=1&amp;sn=8b6277f3ca925b58dc4d1a71e9862296&amp;chksm=b06b3424b114c385fc6a8dc57665dc6b4d0a29995cf15153861cdade93a9a1c05d8be0f9a3ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[看雪科技获评【华为终端安全2025年度优秀合作伙伴】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GH7nBX7dlY2Y2eVXxw8FXoHKzYMjmianb5Vl8Bh3ulcvRe1Q3laSrlNhHHmtq9pGb22SSSibFV5Felmmlc6Y1wAFmWosUIglK8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年6月13日，华为安全应急响应中心正式发布2025年度华为终端安全奖励计划榜单。上海看雪科技有限公司凭借过去一年为华为终端安全提供的优质技术支持与深度协作贡献，成功获评【华为终端安全2025年</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=2&amp;sn=04f68e72e71fb28cb722e50cbeb90c7d&amp;chksm=b0270a788b669236266d4d4ee20be3977ab6df2187775b7206943ed1be32fb4079dd3d64af23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客盯上Arch Linux用户：超20个AUR软件包被植入了后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3xRlDxXMMaLNl0rYwTurSulicpgyMjryA9Ece7Bqfs0IwtIRRKzLqK8yo2QuedRgshibIriaiaib8mfsSrqFcYJIvZhzAJhd53Ugv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究公司Sonatype近日披露了一起代号为“Atomic Arch”的恶意攻击活动。黑客没有直接攻击Linux内核，也没有爆破用户密码，而是选择了一条更隐蔽的路——钻了开源社区“软件包所有权转移</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=3&amp;sn=29fa920831813a37d28efaa959d7b53e&amp;chksm=b0ad2433958a7547312006da0d8faf1d96afc6556c698a829e07c52a9d6ad3f6bb52a5aba58b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今日课时更新 | 基于CVD的云手机定制与风控分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=4&amp;sn=772b5054fafe6bdeb7a5ac43d5113cac&amp;chksm=b05c26638e8c9ff36b044a7334118682710aabdb88fa77669a2f9a627477fbfae23562e0bb3b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 辅助分析｜CyberGame 高分 Web 题：缓存投毒攻击链路拆解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K30p7w2djWysl6NOP0Nibsn8Kf7mcbo3gCytfibDnsatSric1fcvuJzZmpicO7ATQVsicDJNxTZ3uXQibiaKaWwA9ONjJ8icC8IcxWhsRk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本题属于 Web 类型 CTF，不是 PWN（二进制利用）。Web CTF 的攻击发生在 HTTP 协议层——伪造请求头、投毒缓存、利用应用逻辑漏洞；PWN CTF 的攻击发生在内存层——缓冲区溢出、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=1&amp;sn=98be421b813114a5093f90ee6c636a23&amp;chksm=b03f60749df320dbb2888116a7a2c021ed0d6c047f0c14e895c467dbdc162df1c4959e51cbe5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2tk405JV3z5YCibUbPcsVXFU2WSZWVAwEkooVDcxD2G93BwZeeT9zVQYicJmibsiajl2hUnBzIOjS48GvH4tkHNnEqzhia1eFT1micc/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在 Copy Fail 漏洞的补丁还在陆续推送时，一个名为 Dirty Frag 的全新本地提权零日漏洞又被公开。攻击者只需一条命令，就能在绝大多数主流 Linux 发行版上从普通用户直接拿到 ro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=1&amp;sn=364bd9c47201a3c4b46f3ab61839a403&amp;chksm=b09f3489617c7d48e7708dac9d7f18c269a6857876b92902673cb4df575d3207efd8530d4f13&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[夯爆了！薪资最高70k，企业直招一键投递]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K38DALkxBgp5ziabjNMnhtcicFBh1rpOfdoZfK2opkZ0xbvZLtk7Aunia5txwPrUdqDib7eat9G16S9y8aExWN6r6nictVOvDdFkG7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01吉利汽车研究院（宁波）有限公司传感器物理安全专家薪资：60-70k就职地点：宁波岗位职责：研究针</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=2&amp;sn=faeae0a3c965268c65cc294ccdf7c81b&amp;chksm=b0858db9830605040b4fbdde87c5e2bd19fbc8effd35f2037a97b6cf41b2f79e2dc80b262a73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RiskEngine 开源设备指纹和风险监测SDK]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0boWjsNRJtCCsh3NwwibZBBYxv67RqYRw3rkUfpZvJ90b97KoYjHWj5FuJAcTrysbguzWA41Tbq28IoBsjeicBTpWwcZ8DJWXcM/640?wxtype=jpeg&amp;wxfrom=0"/><p>RiskEngine是我开源在 GitHub 上的一个 Android 端设备指纹采集 + 风险检测 SDK。Java + C++17 双层结构，纯离线，进 App 之后调一次RiskEngine.c</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614670&amp;idx=3&amp;sn=090bb02a3e7953bad8d45f2d15d8aefe&amp;chksm=b089bf891f567a1fa1685b8726b744a52177cb6beba50825627853aa01bd8f86852374506bd7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AppDomainManager 注入：从GAC 利用到无文件加载的多种实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BySrVGiaLNubqsXaXP23aQsrU7H357RFegJyDS2L150kfPTnuYX73YJ3A8qHk1e7C5LDI5VRrbibGzETWibGVN4oULAvFaBC6nY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、原理过去的注入技术（如跨进程注入）依赖底层的 Windows API（如 VirtualAllocEx、WriteProcessMemory、CreateRemoteThread），这些 API</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=1&amp;sn=f5927db0f7e8732f53878d2f5ca71129&amp;chksm=b0f17f35ca69dfb7db56ec83d157ce7feb4b8d67bc8948536bf45bc78023c5e560166b4886f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[先知安全沙龙 - 北京站 5月15日开启！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1nIZK2U5aS58QN7hC1Vvoatph9NUf7BXicPSJ5KQ87salRfyQzicWcGFOhpyE6xfrRqMq1pkArB9h7sicluSN3NAIRNoFjicxtAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十四场-北京站将于5月15日在北邮科技大厦4楼多功能厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中心、北京邮电大学网</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=2&amp;sn=2e411e269dcfb8034fe7114819953acf&amp;chksm=b0d2cca2be438e2aaf2c0915f22676f64125e87afbe5c6eb2285a690e585ce687ad03f68ee48&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

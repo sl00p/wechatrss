@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我曾经坚定的认为：这辈子，我可能就这样了。为什么会有这种想法？自我剖析，来一场深刻的元认知。 站在更高的视角俯瞰自己，和内心深处的我做一次坦诚的对话，我发现自己给自己套了四层“人性”枷锁。 第一层枷锁：风险厌恶。 我内心认为：不变=安全。就像我们团队拒绝升级MySQL 5.7一样，潜意识里有一个等式：不变 = 零风险，变 = 有风险。 然而，它忽略了一个致命问题：不变本身，就是最大的风险。MySQL 5.6，迟早会停止维护。我的能力结构，也迟早会被时代抛下。 我以为自己在避险，其实是在累积更大的险。 第二层枷锁：责任逃避。 我内心认为：不变=免责。“出了问题谁负责？”不改变，失败了可以说“是环境的问题”；改变了还失败，就只能怪自己。 所以，不变只是一种“免责声明”。但这本质上是用“免责权”交换了“掌控权”。我看似保住了安全感，却交出了人生的方向盘。 第三层枷锁：自我催眠。 我经常和自己说：“古人都说了……”“别人也躺平……”“我年纪大了……”。 这些不是事实，是我为了维护“不变”这个决定，而精心挑选的“证据”。 心理学上，这叫确认偏误：只看见支持自己决定的证据，忽略所有反对的声音。我用这些理由，把自己的牢笼装修得越来越舒服。 第四层枷锁：温水煮蛙。 渐变而不自知。最可怕的是，这个过程不是一夜发生的。 我今天找一个小理由，明天找一个小理由，慢慢地，那个曾经雄心勃勃的自己，就被“合理化”成了一只安于温水的青蛙。 回到最初的问题：我到底能不能改变？ 我最终的答案是：能。 但改变的第一步，不是学习新技能，而是打破自己给自己套上的那四层“人性”枷锁。 我是怎么做到的？ 我是怎么系统性思考的？ 改变的过程？ 改变的工具？ 付诸的行动？ 今晚直播，和大家聊聊我的故事，这些年，我是怎么改变的。]]></title>
+      <description><![CDATA[<p>我曾经坚定的认为：这辈子，我可能就这样了。为什么会有这种想法？自我剖析，来一场深刻的元认知。 站在更高的视角俯瞰自己，和内心深处的我做一次坦诚的对话，我发现自己给自己套了四层“人性”枷锁。 第一层</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981263&amp;idx=1&amp;sn=252e8f8812a671dbb3fd4908b8a972b8&amp;chksm=bc7b22c526b92914a13988bd57963bd58bee80734c6e3ca4e987d3b0c068ee7f3d5de5a8ce7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 15:10:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[很多人觉得，AI来了，咱们这些35+40+的老架构师，要更快的被淘汰了。而我认为哈，AI工具的平权，对咱们这群资深的架构师，是百年不遇的利好。 为什么这么说呢？ 你想想看哈，AI提升了什么？AI干掉了最耗咱们精力的“重复劳动”。以前写个CRUD、调个接口，是不是要花多少时间？现在，一个prompt，AI就搞定了。它把咱们从“编码体力活”里解放出来了，这才是最关键的。 再想想看，AI最缺的是什么？是“架构审美”，是“经验判断”。给它一堆需求，它可能写出无数种代码，但哪个架构更稳定？哪个设计未来更好扩展？哪个方案能扛住明年的流量洪峰？这些经验，是咱们大龄架构师的优势，那些架构直觉，AI短时间内学不会。 还有，我觉得对大龄架构师最利好的一点是什么？ 以前，架构的价值容易被“技术熟练度”掩盖。年轻人学新框架快，我们有危机感。但现在，AI把“技术应用”的门槛打平了。 大家都能快速用新技术。这时候比拼的是什么？是技术选型的眼光，是权衡利弊的决策能力，是知道哪个坑不能踩的“历史记忆”。这些，这全是大龄架构师的绝对优势。 那么话说回来，那为什么很多大龄架构师还是这么焦虑呢？ 我们自己的思维，也要升级，不能停留在“拼体力、拼学习速度”的旧赛道里，那个赛道太卷了，我们也没有优势。 但AI把赛道升级了，新赛道叫“拼洞察、拼决策、拼系统思维，拼经验”。这才是咱们资深架构师真正的主场。 你看哈，原来大家都在搞提示词工程，后来搞上下文工程，现在各家是不是在搞harness工程？ harness工程是什么？ 不就是用资深架构师脑中那些经验，来驾驭AI吗？ 难道这还不是咱们大龄资深架构师的利好？ 以上，一个大龄架构师，也就是我的一些观点。 我始终认为：AI不是来取代我的 我始终认为：方向盘和目的地，永远在咱们自己的手里。 能驾驭新技术、解决系统问题，业务问题的架构师，永远不会被淘汰。 （opc中，AI编程真是太上瘾了） 共勉！]]></title>
       <description><![CDATA[<p>很多人觉得，AI来了，咱们这些35+40+的老架构师，要更快的被淘汰了。而我认为哈，AI工具的平权，对咱们这群资深的架构师，是百年不遇的利好。 为什么这么说呢？ 你想想看哈，AI提升了什么？AI干</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981227&amp;idx=1&amp;sn=3124da4c74a1ca4b53d90057bf139329&amp;chksm=bccd158954cbd535e04538bfda58d3045a6673f01dd05f2baaf6359d95e1840f6763486b5ab9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfibv49yAIGibmPQt2FQIbowRcBkUEE8k7RVgEI0RFicTXMw2RV4JUibWia1o0fEaQSVtNRZ1d2P2oyKU59ABVEFUQpP9ZFskv712Go/640?wxtype=jpeg&amp;wxfrom=0"/><p>40来岁创业，复制自己的个人品牌经验，73天短视频行动营，三期它来了！画外音：一期二期效果好，三期加大投入，配备1对1导师。有些人说，普通人没法做个人品牌，真是这样吗？程序员亚哥稳哥的技术笔记程序员加</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980842&amp;idx=1&amp;sn=6aa6e0517825aa4bffdca29c07f38dcf&amp;chksm=bceb878b3aa00b761d8db69994adb0fb11604c5063ac462dfe334fe890d8b436f8f0ae584076&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 21 Mar 2026 13:03:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[必知必会，OpenClaw工具调用的原理（第14讲，干货收藏）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdYicufw9LmAKDrtbHMKAYFKuv9Hx1qQxhyklPGKDeDDucoK6L9IgU31eW0ewCpPjPIWica1HCpaCfEhxDesAicaNXJJ2ia10I9RBI/640?wxtype=jpeg&amp;wxfrom=0"/><p>《OpenClaw100讲》14. OpenClaw，工具调用有人问我，说OpenClaw和之前的AI工具，例如deepseek，豆包，有什么差异？不都是聊天，问问题，然后回复吗？这里面的差别可大了，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980822&amp;idx=1&amp;sn=65ed9aad7890a8dc125d45cc2c286bc8&amp;chksm=bcc11e48134e26695c55b78753a158356be51219804c611d59b6b1243541ba08af194bfc0280&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 15:41:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

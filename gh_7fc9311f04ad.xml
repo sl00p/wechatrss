@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何搭建一个端到端业务需求专家 Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zENWWKPF1Fic78MKkCPhs98qIQnXT0DdswRAticVJdaMwAMzm1kNyWfUrs2aoJbvlGSx0n6uzZVkicicLfT22GN5HSGiccxpGj128M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读如何把业务需求从进入、澄清、方案、实现、CR 协同、验收、发布到结项沉淀，组织成一套能减少人工干预、能自我验收、能吸收反馈并持续成长的 Agent 研发闭环。（文章内容基于作者个人技术实践与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561033&amp;idx=1&amp;sn=a9f9a3ac3dce5aee757e0033f55dfd3f&amp;chksm=e8dc95d1269be1e3997c1c266005a2dcbe35537f16d8460e492fc448137877053f3f7ea5a4ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude code云端部署 &amp; 魔改sdk实现http流式调用保姆级教程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPQibCfKZyyicvt3fey2MZ2PXSmXDa5gFmR8yI06P49MfA7QqaKFia0OAzmBhVuPrs1ziaP8oktXwia9HicoewBso5xRArcReOLgqPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景在 OpenClaw、Claude Code 等产品出现之前，开发同学实现一个 Agent 的基本思路是：基于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560355&amp;idx=1&amp;sn=c7c83c7bf352322ee7221ca404468fb6&amp;chksm=e8cb870413635a7f3537c858d0a7cda7ffbd2ad59dae8eee3b79a303079ba60fa35e7839045c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yyOoqe8yoT7DFspHxXQApoicD20FwPic9ictlgOC0QkRC3X0GicPnDqcGZ1iaT1D5QRGSLVu6Yq64ukS2B3FCCQIbmmOcjyzSExRgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景：AI下半场从解决问题到定义问题2025年，大模型的竞争格局正在发生微妙而深刻的变化。单纯的 Scaling Law开始遭遇边际效应递减。当Gemini、Claude等主流模型在 MMLU、H</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558896&amp;idx=1&amp;sn=f921e42175ae76b9a9e7771676c000b0&amp;chksm=e87f806c068e6f54b01d387dccf7295e39c9f64008efa48f74143a6fd826b9aadb5e79a50d26&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你的 AI Agent 真的在受控运行吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y8CjbwtAkt1Z0ZxXjWcRNsOGicRYSymYlqJHRELdHXd5PWNIVl88OibFMX1FhOxMGpnqJt3QMZ9VPye8ym71ta1yV1BPsWPGicXk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读以 OpenClaw 为案例，从行业威胁态势与运行时防护的固有局限出发，系统拆解 AI Agent 可观测体系的设计方法论：通过 Session 审计日志、应用日志与 OpenTelemet</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558894&amp;idx=1&amp;sn=66e97f3df165135113bc3ea000873f1b&amp;chksm=e82869db19da4ca7876f1d3c28e00701b992107b8b5543525419c5c75e86a3f811b46d0898a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

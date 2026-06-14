@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[在 Kimi Code 中用上最新的 Kimi K2.7 Code 模型，太爽了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gClRKXegunE29xSEhEdpdAfdX8Tk3shdYN1fc1DVyia7LUI1eCNkiaZlY94RvHITjJh7L3WGLaGsYPmMv7kIqiaBP9mhUFpaET8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 自家编程模型更新， Kimi K2.7 Code 发布了。它是个专为编程场景做特化的模型，不是通用模型的常规迭代。总结下来有 5 个亮点。① 长上下文编程场景的指令遵循能力题提升了② 长程编</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534592&amp;idx=1&amp;sn=111ded134f8f79316d8954428e3f5c7f&amp;chksm=f824010704a9066e5f6b48562daacdb660c8298ed3d3126df3b968a7406a9c9607a032c3b2c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 15 Jun 2026 14:15:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把 3 个免费模型接入到 Claude Code ，Token 随便用。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2lmD5GbJXAWyNM1sq6qeAUs6ecmGu7TcafwCQrSmjncDhlDe0alnEQn5qwxJIP9zeiaqMwicdpSCCLntCbmMDCMgSe8sBabzuicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Agnes AI 的全模态模型，从 6 月 1 号开始免费了。它把自己家的文本、图片、视频三个核心模型 API，全部免费开放。而且是无限期免费。然后第一周，Agnes-2.0-Flash 这个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534527&amp;idx=1&amp;sn=63980e0d2e1a81599c85b53e681629b6&amp;chksm=f819f724b8ce5a34f8c7a32354ed219e8a99e445d1d9fb31246f7d884bdcdb8de2b7d9b12f6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0FD3UtYdslRnDz8pwfXYjt6VYHclibb1PiaIXic2qr0cDpicLqOc6VasKKWIibJfuKic0iclV9OaTdMY2Pxz0Fkw7G7qhuGKzobxYBGE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 在 1Panel 应用商店的近 30 天下载量突破了 10 万次。创下了商店开通以来的最高单月下载纪录。更值得注意的是，OpenClaw 的下载量，已经超过了传统的 OpenRest</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532897&amp;idx=1&amp;sn=b9f02dbc1e532a09163fbbcbca3db365&amp;chksm=f89e133a31b115ff819c67f1e839c19499f965241ea08bc5694f70433f7c412e9134ac3e0158&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Apr 2026 11:30:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上一路飙到 3.2 万 Star 的 Claude Code 最佳实践，开源了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3IGk3rcNttzeoWw71hBbibic1hdnO8Dr8vHiauS8ArnO6t3oQZpnhqvH9q3HwYOicBtX2a29iba8rVaibu3psicsCHuBhYoDtkIcSpP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 GitHub 上有个仓库一路飙到 3.2 万 Star，叫 claude-code-best-practice。专门整理 Claude Code 的各种使用技巧和工作流，从入门到进阶全覆盖。还拿</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532896&amp;idx=1&amp;sn=c169336edc44c424818ad55c3dd46138&amp;chksm=f88f3613cb2d149520a06e3a6400a09079272583223c34011a34812660aa008318eb1048272f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 16:15:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
