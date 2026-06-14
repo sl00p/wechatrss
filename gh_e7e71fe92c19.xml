@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 辅助分析｜CyberGame 高分 Web 题：缓存投毒攻击链路拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K30p7w2djWysl6NOP0Nibsn8Kf7mcbo3gCytfibDnsatSric1fcvuJzZmpicO7ATQVsicDJNxTZ3uXQibiaKaWwA9ONjJ8icC8IcxWhsRk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本题属于 Web 类型 CTF，不是 PWN（二进制利用）。Web CTF 的攻击发生在 HTTP 协议层——伪造请求头、投毒缓存、利用应用逻辑漏洞；PWN CTF 的攻击发生在内存层——缓冲区溢出、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=1&amp;sn=98be421b813114a5093f90ee6c636a23&amp;chksm=b03f60749df320dbb2888116a7a2c021ed0d6c047f0c14e895c467dbdc162df1c4959e51cbe5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【叠加618优惠更划算】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=2&amp;sn=ce97d044e06b3f07545cbf8eb906c4a5&amp;chksm=b0896e07364bdb40eee858ed356730c501f025f1580d36e65fc34c90fb6d45efa0eef9d0d140&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android内核无痕Hook理解和感悟]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaJfaurib6P1rxe0FpOHBLQ0OX8jSOO7kcjICeeic9a1SYvSgY5aU2GUtLv2MwCeNhicsPmI12E8zJOffjThxlibPf2eqWshAIn9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>1、前言这篇文章主要是我自己近年来在攻防对抗中，对 Hook 检测与反检测的一些理解和心得。随着各路安全SDK和反作弊引擎的不断进化，传统的 Hook 手段早已千疮百孔。我们目前面临的常规 Hook</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=1&amp;sn=770311965b1a5c85320ce70f6b6a0dc7&amp;chksm=b0e75cf0b790bfca5d316081b4de5df4683241b97227ded106a759e119886dbf361084448364&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[先知安全沙龙 - 北京站 5月15日开启！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1nIZK2U5aS58QN7hC1Vvoatph9NUf7BXicPSJ5KQ87salRfyQzicWcGFOhpyE6xfrRqMq1pkArB9h7sicluSN3NAIRNoFjicxtAKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云先知灯塔系列城市安全沙龙第十四场-北京站将于5月15日在北邮科技大厦4楼多功能厅举办。本次沙龙在中国互联网协会网络与信息安全工作委员会的指导下，由阿里云先知平台、阿里安全响应中心、北京邮电大学网</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=2&amp;sn=2e411e269dcfb8034fe7114819953acf&amp;chksm=b0d2cca2be438e2aaf2c0915f22676f64125e87afbe5c6eb2285a690e585ce687ad03f68ee48&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者可执行任意代码！vm2 沙箱库曝12连杀漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1PrKdbAibBtWX6IjLJE1lNibLbvRPK06Ff0XmZbI6ibMtOM6340COE6uC7070Ftlk8Agae2NvhiajETH2Ffwsm3h8FbcLGIDKjsCk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，广泛使用的 Node.js 沙箱环境库 vm2 被安全研究人员接连揪出 12 个严重漏洞，编号从 CVE-2026-24118 到 CVE-2026-44009，绝大多数评分高达 9.8 甚至满</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=3&amp;sn=3c6bd50dafd56f3e109a00efc03687b1&amp;chksm=b0836f726820e813e90495e9600522c65a8266a7a11f5e5dd388962594ddf451ba19237c0761&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[速学！今日同步更新2门课程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3wb9G8CLyY0X74CDVaEouNW3CBib5njvRiaLU2Jxcwv9ovQQKNUYfia6RW6ZmBmznYTj5a7hoJDJIc98pI9wLnv0ptl6w3n1QtzE/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》2.12 集成GMShttps://www.kanxue.com/book-135-6050.htm4.4 apatchhttps://www.kanxue.com</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614619&amp;idx=4&amp;sn=298a2fdc8ed17b65e5944cda2cc1fd95&amp;chksm=b02532946a75073d31a275b819b225811d856a9adc3fe5f4ae71cc3f18c545e9b7db3b1749af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>

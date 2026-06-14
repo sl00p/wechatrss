@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用了几天 iOS 27，我发现 Siri 进化成了「小 Gemini」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLZGZC97jHqu7pe3OnnSgnhM2iacMdY4oiceouLC8epFFPo2819CibejnfvQicfzqrBJcicQLMiblOPzo1d06xCqOhABMwLrSFPHdEHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>周四晚上，我在床上举着 iPhone Air，在 Siri 对话框里打下了一个从来没问过的问题：Siri, what do you think of me?（Siri，你觉得我怎么样？）iOS 27</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651094064&amp;idx=1&amp;sn=225083ed89122ee7fc08700d64925e71&amp;chksm=bc09ca2652ca05dfc2da45cf5ace5a5012e19048c70b282ac6145c2ac9dc5114a4d0b1143b0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 17:39:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Codex和Claude Code负责人都不写提示词了，AI 圈爆火的Loop到底是什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJfludQd7VUQSGhVrQw0q8SYE57AqP0fIZZibgiaFySCHickdrz7pB7QaBkKY14cdSssMicW5ibyibQnXqfona2cHviaNRTVTVF2NSkLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>要不说 AI 圈都是造词大师呢，回看过去这一年，都已经造出了多少个新词了。提示词工程火了，火完之后 Harness 工程，现在又轮到了循环工程。以前是把提示词写好最重要，模型的能力体现在我们喂给它什么</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651093980&amp;idx=1&amp;sn=584cffe93687aa98455948d216ca0025&amp;chksm=bcdd5531b2cb37cfb611e52626eb50a2835757d752e7a90cca89547c07742d47ba18fae12739&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[就在刚刚，Anthropic 发布声明称，美国政府以国家安全为由，下达出口管制指令，要求暂停所有外国公民访问 Fable 5 和 Mythos 5。 这项限制的范围相当宽。无论用户人在美国境内还是境外，只要不是美国公民，都不能继续使用这两款模型。 即便是 Anthropic 内部的外籍员工，也被纳入限制范围。 按照 Anthropic 的说法，美国政府目前担心的是，Fable 5 可能存在一种绕过安全机制的方法，也就是所谓的 jailbreak（越狱）。 Anthropic 也已经查看了相关技术演示，演示内容是用特定方法识别出少量此前已知的轻微漏洞。 在 Anthropic 看来，这些漏洞相对简单，其他公开可用的模型即便不绕过安全机制，也能发现类似问题。 尴尬之处在于，Anthropic 并没有办法快速、可靠地只屏蔽非美国公民。为了满足合规要求，它只能先把 Fable 5 和 Mythos 5 对所有客户的访问权限全部关掉。而其他模型暂时不受影响。 且据 APPSO 观察，Fable 5 虽然仍保留在模型选择器上，但已经无法调用。 对此，官方推文评论区骂声一片，Anthropic 也在博客中表示对客户受到影响表示歉意，称正在沟通恢复访问。 事件的讽刺之处在于，Anthropic 一直是最积极兜售 AI 安全风险叙事的公司之一，也是反复主张应该对高风险模型部署拥有干预能力。 结果最先被按下暂停键的，恰恰是 Anthropic 自己的模型。]]></title>
+      <description><![CDATA[<p>就在刚刚，Anthropic 发布声明称，美国政府以国家安全为由，下达出口管制指令，要求暂停所有外国公民访问 Fable 5 和 Mythos 5。 这项限制的范围相当宽。无论用户人在美国境内还是境</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651094058&amp;idx=1&amp;sn=91eeddd909e2a02310a1605630c60f48&amp;chksm=bc1e2083f02d564aa51227761e76220b72e693a735ee3807f22649cf4b86375a856f57b1924e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 10:16:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[刚刚，黄仁勋加入清华大学]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfJmjcZiaKTriayT3BQRibaeaEHUeHR0GZCcxl41IxIcnQzoK0hIZiaBnaoo7JKJT9hpZvfPVhziccGDCKxWia8o7OJLuYkP5eUicE3qLk/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651092643&amp;idx=1&amp;sn=8a5b43fc06e752967e6d7f43d4042794&amp;chksm=bcf2266133358abf42b2600e049796021d3c6eefe28b40eb2d062fe9b85637caf4245a654b75&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLuJ8BN2FkSepyYc6sPwcaz4baAbv73L7TPfbg1bn35l7Gla9UFQ4gF0BWBc3wticfAtOzG4UnkUSoiaUyAYNxrmUCicoYticwApMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2013 年的科幻电影《Her》中，操作系统 Samantha（萨曼莎）让观众首次具象化了理想的 AI 存在方式：不等你说完即可开口、能感知语气迟疑，且始终「在场」，而非被动等待唤醒。十三年后，由 O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651090867&amp;idx=1&amp;sn=025c5e4320082212a4abc6e4a91d33fc&amp;chksm=bcdda38002e745c08f22eb086c7a019ed8554a1c3eded1c9ad9b872a041b97a8014a18af7765&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 May 2026 12:02:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微信状态灰测「访客记录」/快手计划分拆可灵AI/360向全体员工发放1亿Token]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLGJhX95p8I8qFCUs5xK8BnMtQicFLFgbpYQ7iaJUsM5xzgkBxGejHibCooiarT73cmNVUGicdvnPMchDahZtUsHG6bconRYZ4ZlDiak/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥Mark Gurman：苹果 Vision Pro 团队已被拆分重组📱微信状态要推出「访客记录」了🚀曝 AMD 下代 CPU 将使用三星 2nm 打造⛽总量承压、结构分化：4 月燃油车零售同比跌 3</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651090788&amp;idx=1&amp;sn=154b77da97004dd6deb3b8069dd20561&amp;chksm=bc17fd5b5cead67b40405ae9cbdb70dee001a6ac2d32bf4ed3822f14851b62692bc6772fa969&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 08:34:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大厂让程序员卷 AI，4 个月烧掉全年预算，CTO 懵了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKDqr7ZiaC0hsfckP8hsJMf10AQHribOibibeo0VTuwYnOm7ySCvm9uEvWP48Xial7uutjnnG7W9MA3ZO6C2ic69HaboD4CnWUgzHmbI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 12 月，Uber 给工程师们部署了 Claude Code。这不是什么大事，硅谷的科技公司，几乎每个季度都会往工程师的工具链里塞进新东西，更何况还是 AI，降本增效的武器。四个月后，U</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651090760&amp;idx=1&amp;sn=33cf990e097d7bc7aa91525c2ba9fbb5&amp;chksm=bcd7d91dd1fcec2d337a5e70d6b5ea1226bb891a79b237e64da198f663b2fc692f126908a7f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 18:23:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[中国拿下这届 AI 顶会半壁江山，清华一家单挑斯坦福加 MIT]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIr3Akt0gICvqG5po7ttAJM6qmQCTv9veRprxN7NmN0DIkSGQCbanSRSC1YM7iacjlZ8B1qnicT5Lh2JIuiaic7yyjuQElx6C5icicqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球 AI 顶会，快成中国卷王的专场了。每年 AI 顶会放榜，各大机构都会暗戳戳地发喜报，比拼谁家被收录的论文多。但今年 ICLR（国际学习表征会议）放榜后，一位名叫 Dmytro Lopushans</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651090743&amp;idx=1&amp;sn=afd9178af2f624164f365ec99ebeb353&amp;chksm=bce863f177ee781a1d01d183a25c0559cb6aa8522dad4a94b2488d0bb70bbe3323b8565050a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 15:47:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

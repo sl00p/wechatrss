@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把 3 个免费模型接入到 Claude Code ，Token 随便用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2lmD5GbJXAWyNM1sq6qeAUs6ecmGu7TcafwCQrSmjncDhlDe0alnEQn5qwxJIP9zeiaqMwicdpSCCLntCbmMDCMgSe8sBabzuicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Agnes AI 的全模态模型，从 6 月 1 号开始免费了。它把自己家的文本、图片、视频三个核心模型 API，全部免费开放。而且是无限期免费。然后第一周，Agnes-2.0-Flash 这个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534527&amp;idx=1&amp;sn=63980e0d2e1a81599c85b53e681629b6&amp;chksm=f819f724b8ce5a34f8c7a32354ed219e8a99e445d1d9fb31246f7d884bdcdb8de2b7d9b12f6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 11:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不要错过这 18 个本周 YYDS 的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3TYp7oN6xgD70U9KL6hFibNicXmb7bzp36DbFkpzeGfImJZicibSwewfkXq7N8vl8socVmMTn1Y21rgyK4g8Ed5ibDkNn3ayoqkDmY/640?wxtype=jpeg&amp;wxfrom=0"/><p>打开本周的 GitHub Trending，AI Agent 生态几乎把前几名霸占了。这次挑了 10 个值得好好聊的项目，剩下的几个之前已经推荐过了，一句话带过。last30days-skill：让</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534521&amp;idx=1&amp;sn=fca1a7af773d97bc168b518c0106fb87&amp;chksm=f828408f6641758cd0a3526895e0abcce63b54498a07f059bdef6c1c61a023dcf93ac8478fb9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 14:31:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐 1 个刚开源的 Agent 神器，一个人指挥一支智能体军队。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1BmiaVkw6z2CvEG26QXYe8VR4OIZEXalZBVamdtUibJqdXlF0sFXMPIvc7jLnoqVaNHLPZhaiaSkslk5PX7zuBrOE6NQ5iadO4Lpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天逛 GitHub 的时候，发现了一个刚刚开源的项目。有点意思。但如果你再找一个多项目并行互不干扰、离开电脑活还能推进、花的每一分钱都知道去哪了、AI 记错了你能打开它脑子改过来：可以试试这个刚开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e&amp;chksm=f8cc55d65f878e03fb062b1ba42204ec20268d2ab8c34536380389e065ece927de3cd5134f41&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3IGk3rcNttzeoWw71hBbibic1hdnO8Dr8vHiauS8ArnO6t3oQZpnhqvH9q3HwYOicBtX2a29iba8rVaibu3psicsCHuBhYoDtkIcSpP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 GitHub 上有个仓库一路飙到 3.2 万 Star，叫 claude-code-best-practice。专门整理 Claude Code 的各种使用技巧和工作流，从入门到进阶全覆盖。还拿</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532896&amp;idx=1&amp;sn=c169336edc44c424818ad55c3dd46138&amp;chksm=f88f3613cb2d149520a06e3a6400a09079272583223c34011a34812660aa008318eb1048272f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 16:15:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[面壁智能开源了个狠的！支持音色设计、克隆、30 语言 + 9 种方言的语音大模型。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ta8sXv7s5tJMm7QXjz7tDlaIhOAuqqC0djH2P5NMruh3KmGxcadDxibgGY9N9Aico7InzlSuy77Lk7qmiaeQMpYupFLJBqHB24k/640?wxtype=jpeg&amp;wxfrom=0"/><p>面壁和清华团队又开源了个狠的。继去年接连开源 VoxCPM 和 VoxCPM 1.5 之后。面壁智能联合清华大学人机语音交互实验室，这次直接把参数量拉到了 2B，推出了新一代语音大模型 VoxCPM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532890&amp;idx=1&amp;sn=9c90ac284f2424ca8f676121beecbc0c&amp;chksm=f8b3bb710f4ecd783d5fffaf2ca463ce87b1bef1bf3fee650e7915666a21e771fe1cbc0fd3d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 16:01:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 项目很有意思啊，解了死磕 30 年的前端难题。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0lp2WFfPKX9csichwS1OwvibQHc7dpqaK8lFfdevqIy9g77D2icRYu1DY4UTlWiaRJCzRmGONXmpGdMrticQ59Dia9D0HYT5bdw9Hcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近前端圈被一个叫 Pretext 的开源项目刷屏了。它的作者是前 React 核心开发者，之前做过 react-motion 那个 21.9K Star 的项目。这次他搞了个新东西，发布 3 天 S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532874&amp;idx=1&amp;sn=4dbcb2152b26b8df773aa6ea9d991431&amp;chksm=f864074690550d33f79928d2c4fb337e3782bb2ce20eeacbcdcb63a9a5e410184da1fc573bbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 10:23:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

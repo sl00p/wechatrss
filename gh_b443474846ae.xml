@@ -11,6 +11,54 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm6oDZZU4pJuKUp7qIoneUtarB24woGUL6w06XBPBmR1FpWAn0OepzoPjLh630ViaO9qAOOroZVwxnlWG4NJyicic1icp0aKQgURT6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 距离正式上线华为云还有两个月，华为的最新 AI 芯片昇腾 950DT，已经被提前放到了显微镜下。近日，华尔街知名半导体研究机构 SemiAnalysis 已经率先拿到样机，围绕 950</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286966&amp;idx=1&amp;sn=33044df3c1d2b3664baf784d61cca573&amp;chksm=bc3d65c72381dd496e8ce2d3229959e22729c6bdf547fc63cc2553f51d00bb2aa4cdfd54f196&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自主智能体遇阻：数据库成最大挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhgno0SWibNicKZtcvMZkziaauurjO2UhicXnpZVwuKLP6vtc151UGFrq0WLiaxFh9KX4Zz8wiatQocEp9vMff33WcW3pazWKp6Btiaes/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 Chris J. Preimesberger 译者丨明知山 策划丨 Tina 随着大语言模型从单纯的聊天机器人逐步进化为具备推理、规划与行动能力的自主智能体，它们已经能够自主编排复杂的应用栈。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286966&amp;idx=2&amp;sn=66c6a43ee91dca691395c664568f0407&amp;chksm=bc6f8d1f40edce759de05e6d167a279faca7424c76af1b3dd701f178ec03d0e7b1a149c65824&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 驱动的网络钓鱼：技术演变与实施方式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjkpnE7ZvySLn7wTXMsvEP6mXvia6ibnvwSrPZLFmaOqAu04xJ0Sibc56EeNibiaQ97JuicYfd9icMBmHaAwbGSEHh9sULdcOL0OzdK8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Marco Rizzi 译者 ｜ 明知山 AI 对网络钓鱼安全威胁的影响：新态势《2025 年微软数字防御报告》 梳理了网络钓鱼的最新态势。近年来，此类攻击的规模和效率均显著增加，这一现象很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286966&amp;idx=3&amp;sn=c581788f8e8e12501f59854e6846725c&amp;chksm=bca067d9d726b1bfc26ff0b78da149ea2fb6446b3244e3ecd469e8c2cffadb66431661035131&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Uber 如何通过批处理实现单账户每秒 30+ 次更新]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhlMpzJfkc3EhROWmMeDFGuEfhfUHOy7pCtiaic7EywNsKOKibsJ8HiaowFI6HFbRTrR0rsAv2spAUnDZlolhkaPJ16saOPBPTSsas/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 马可薇 Uber 近日介绍了一套 高吞吐量账本处理系统，用于解决其分布式账务基础设施中单个账户持续遭遇高并发写入的问题。这类问题通常出现在大量更新请求集中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286966&amp;idx=4&amp;sn=f895b338df56a0a3bce75d7b866eeaec&amp;chksm=bcf7e781d50647b74a8a25bcb104f6e2ccfd6c411260551e819fb120e6b790273fceda2ebc81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 14 Jun 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[严禁手写代码、一天烧不完 10 亿 Token 就是失职：OpenAI 工程师揭秘“零人类编码”的激进实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjFaE45rQdHqicnHDE9yBjOwdpSvaBMf0aGoO0w6lmN6Xeic0uSttzbqAMjRXzvUy60a8aTlcjIV0Dq9plsyMr1QIh8wtuzYyAug/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜冬梅 Harness Engineering，这个词最近在开发者圈子里引发了激烈讨论，因为它触及了一个核心问题：当 AI Agent 能写出大量代码时，我们如何确保这些代码是可信任、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286939&amp;idx=1&amp;sn=4c7b1d2d31e85c97537dbdf4f421bebb&amp;chksm=bc855f99f3ab186b639a404653f0c5d47b594398179080a04fe710b468f3302a727952de02cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 秘密递表！三巨头一起“抢钱”：AI 史上最贵一轮融资要来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjxmIXiaEQyUuicuG0fibvdDibhUlGCEYkycRP4IuuQmJJLw1sdGkLqgSg4o2gxUNiamOqER1tL52xxyzL9GuKwVSwUT4dYjI8JCmJ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫 近日，OpenAI 已向美国证券交易委员会（SEC）秘密提交了 IPO（首次公开募股）申请。所谓“秘密提交”，允许公司在向公众和潜在投资者披露财务数据之前，先将其提交给监管机构进行审查</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286939&amp;idx=2&amp;sn=a72aed1686b7568356047e3caccd3a3e&amp;chksm=bc4d9ad13dfb170ee2d0340a3090a23f9520176f2afab5af85418a7c3f40f9fca974fd4867d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Arm 神经技术与虚幻引擎 MegaLights 首登移动端，手游画质跨入电影时代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhJdYapToiaQZYEgCAR3VRhiawSia7qD4uAiadHjsbBdOH8265bzVmMvibIcUrDZCvrnyzRVWO7u8KgV5Hic9Egz30LeVFviaTeZ4iaicjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 冬梅 长期以来，移动游戏图形技术的发展始终受制于一个核心矛盾：开发者希望获得接近 PC 和主机平台的画面表现，但手机的功耗、散热和电池容量决定了其无法简单复制桌面端的渲染方案。近日，Arm</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286939&amp;idx=3&amp;sn=aa541a2c4db0abd507b0dca9a708d0bc&amp;chksm=bc6f35eefb9a3ca10dc5a837852d7949d3d933830e1db160e079734fc154006eb0d0fd8ecac4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Zero 1.0 发布，Rocicorp Web 同步引擎迎来首个稳定版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiajuM7Ymw1A1pOibr7SqgegaG7vJeyVCAWcWuj6VVlCAic07N1QeZoAGeEAOADiblWJ8PokXgOicTibddmdMfj1DpXNNvLrrInW5skc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 明知山 Rocicorp 发布 Zero 1.0，这是其通用 Web 同步引擎的首个稳定版本。经过近两年的开发、50 多个版本迭代、数千次提交以及数百个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651286939&amp;idx=4&amp;sn=0152b51992e4690840e069f65cab254f&amp;chksm=bcc092686392bb9ec620845574705c4dd843aee368f44cd658d01554b29b184174e278ceb4c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 13 Jun 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三星按下一场史上最长罢工，但揭下了AI时代贫富差距的遮羞布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNghickB9phs15iadlM0gc6QX1Ygkpgic15h3AJXBxmTRllBY9glJsJFXI1ibhNLX8zxnGHHLEU9zejLq9Qib0bmtYQiaHm1uduYicbyYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 引发全球热议的三星罢工，还没开始就结束了没人想到，全球 AI 算力狂潮最先引爆的，不是芯片短缺，是一场规模空前的大罢工。近期，韩国媒体密集报道了三星员工拟集体罢工的消息。导火索是三星电</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285743&amp;idx=1&amp;sn=4974e47d0c23b22acc4c9be67fb55ad4&amp;chksm=bca5386d253e58a33dd27fd50abfb53a742118ba7174a68f6ab83db197be04ae77cbd4861c53&amp;scene=0&amp;xtrack=1#rd</link>
@@ -261,54 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm6vSGh1H2G7icWbSiaibeSiahpia55qaeVXQxovNgQdKCOzZO5diaCPich6fDN0uZCkeoYQHKpDs5Gs3Nicq61IIpb40gb2wJUMkPHnXNo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 模型能力还需往上走，但训练成本却不能再无止境堆砌了——这可能是当前 AI 行业最强烈的共识。从开发者到模型公司，大家关心的焦点已经 不只是“谁家的模型更强”，而是一个更务实的问题：“同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284462&amp;idx=1&amp;sn=bc472ab2f14733ca974e5599b457af7e&amp;chksm=bc362d418e19214af03dd87e6d4ea8cad7cb0d3b3a49b9a1522233cf69ea2e86af85c29c5d2a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 17 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[38万应用暴露、2000+应用泄密！AI编程把“内网”变公网]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjCHJ4NERAVibSqpHSzPv9P38KXgK8edB8sCCkvCpVRg7ALt5pbUSPMTibIzRKwQzMphxarQC1djrGSbibdOqRsoV2zyj54bAz3tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫“vibe coding 工具正在泄露大量个人和企业数据。”近日，以色列一家网络安全初创公司 RedAccess 的研究人员在研究“影子 AI”（shadow AI）趋势时发现，开发者用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284462&amp;idx=2&amp;sn=56ee508033ab77599ef3cdded4ba354f&amp;chksm=bc4b7f317609bfe0129727fc4f4674551aed80f9788c87186066eb41a91b940f95c05408f46c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 17 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鼠标每动一下都在训练AI，Meta员工“造反”：不想在“员工数据提取工厂”工作]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhRcqv8up3aP4mJDFdMne2oiaqDJgHEG2JOpOdDKGs4XKdEpjYCGc4oticAfA5SCZHjjePkAE6yQgU7Q4gJYnOFYXKiagtUJgCdz4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫 近日，Meta 员工周二在美国多个办公室分发了传单，抗议公司最近在他们电脑上安装鼠标追踪软件。路透社看到的传单照片显示了这一情况。这些传单出现在会议室、自动售货机上方以及这家 Face</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284462&amp;idx=3&amp;sn=59d10f7bbddb981f37d1ac6aff201cda&amp;chksm=bc08f7e1ef29b75c913764ffcf917eb1cc26bd7b16f330ed69609a16aab53ec7be6510c3705d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 17 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhnFTX5zYIeu94MY12GY7m67eTUW9q7wwp2jyoMQZEEQpibEqxib4bo0bH54exHGYAEaQibiaqCWDmaJF221Wh2SkoVKwPicPBg0LPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Matt Saunders 译者 ｜ 明知山 谷歌云 DORA 团队发布了一份更新报告——《AI 辅助软件开发的 ROI（2026.01）》，为测算 AI 在软件开发领域的财务回报提供了一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284462&amp;idx=4&amp;sn=0f4945bb9084b47477e1f937a831403f&amp;chksm=bc4f03b3b29ef820bbd606dfbe4e7ffea6b5c45ccecf850d5aee99898e8c9ecd804743625b28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 17 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI把手伸进你的钱包了！ChatGPT 打通银行 API，全网炸锅：这是给黑客发年终奖？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjskTQz7Jg91tv82WH9DqcUt8kAV41656y8ciaAwibw3QMM5nuNBIyRsVMniahuo5zmBwzSukHdQK7BbP9zV4AEOFNoAcibLvCxzM4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 ChatGPT 可以帮你理财了，但也用你的数据训练模型 昨晚，OpenAI 正式面向美国地区的 ChatGPT Pro 用户推出全新个人理财体验预览版。该功能允许用户安全连接个人金融账</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284432&amp;idx=1&amp;sn=a86f3d6f9a9f3d8ac0ff6dda35060862&amp;chksm=bc63e73241e41a0a188913c60bc2faefd22168eda8e5037bc3314281272019129257dd67bad5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 13:00:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjlRapQHlPXhJKCSwN4ab9jVqic9pRXxRnWo5dfEFoG3hw2TFTtF78y48avBCmIJbfpTBJ9eSANF4TibE5YibZoj89hS2zpP9y6G0/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫AI 是否正在结束“回合制”聊天的时代？所有在工作或日常生活中经常使用 AI 模型的人都知道，在文本、图像、音频和视频等各种模态下，现在基本的交互模式仍然是一样的：人类用户先提供输入，然</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284432&amp;idx=2&amp;sn=ee5ecdff65e8f2c23302ea3b07ba1a73&amp;chksm=bc15ef829a06623b453456c28ffb814be5751a56b22a8cc4f559388c330fbfd7ec34558ab502&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 13:00:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AutoMQ x StarRocks: 英国美容健康领导者 Fresha 如何构建现代化实时分析数据栈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh8nUy9MUMzvuEJTgvEJaxPkfAbdMiclQbfnRwJgqibicjo1eP0GQoSkqT0WFvRgtsQFzMphqQgNnLWicAWw9mRI5pZYRj5vPHpeEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>每天早晨，全球数十万美容与健康服务商家打开 Fresha 首页，第一时间查看昨天的营收、当天预约和员工表现。几个看似简单的数字背后，是每日 60 万笔预约、数十亿条数据库变更事件，以及峰值每秒 3,0</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284432&amp;idx=3&amp;sn=0175b7ee4e1627354451b4dff3f4c753&amp;chksm=bc23acc7b9da137b42c2b881fe3861c8ec35d76d2325de146044de7e28909dab5541efc1f872&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 13:00:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Netflix 推出“模型生命周期图”，扩展企业级机器学习]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaqb4CCs2icP7QnN915nHsvXiaPr0keDDp3FAheicwPxibQZiczNpByic9ub0wuS8HJY4EeDEgaHR9zUcAdicUBKVVY1RoWkyJ5EYPytA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Matt Foster 译者 ｜ 平川 Netflix 概述 了一种用于管理企业级机器学习系统的、基于图的架构，并阐述了其内部的“模型生命周期图”如何映射数据集、模型、特征、评估、工作流和生</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284432&amp;idx=4&amp;sn=bbcba848e095ac647a3099e2a7c56af5&amp;chksm=bcdf1fd48edadc52a81786c99a4ddb92123d3530fa211a56e71c6698b89241ffc20e3ffefa3f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 13:00:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgZt2lyDmAYP2gDtZ5MOuLpmusTjqgoLH95Nh6SsiaW8wz6GGprmj358a2ib2g148z5DR1MrpAj9mU0xyz2aDDNC5jsu5HNIDn3o/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 当地时间 5 月 14 日，Anthropic 以中美 AI 竞争为由发布长文，呼吁进一步收紧芯片出口限制。同一天稍早时候，路透社报道称，美国已批准约 10 家中国公司购买英伟达专为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651284341&amp;idx=1&amp;sn=bcaad2ddfdaf1f760f459ffe584b675c&amp;chksm=bcb92764b112b23a23083cc44887240790075062b9c66f4aee10938cbd47381b2de314e4f174&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 17:07:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
