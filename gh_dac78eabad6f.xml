@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[读完Agent Loop工程手册，我有8个还没想明白的问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7pnmiaHPPGNvmZOMJcW8g8zel1dfHz6r0g7h6AMftwx3sDcRLztxGib03QkS6ibeRpqvvEKHgmrRiaXH58DQtm9y7m2SnAssGcLI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 来源说明文中提到的 Agent Loop：来源 = Peter Steinberger（OpenClaw创始人）近期提出的"从写 Prompt 到设计 L</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695921&amp;idx=1&amp;sn=05cbb8d43adefc7b95ba859a02de3145&amp;chksm=eb3d6bdd6760f12ab16b6ca19f48d833fcf4764450e1781a9e4ea5947c27b437c60e2749a71c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 16 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大模型的Agent Skill功能，在LLM HTTP底层交互流中是怎么承载的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6adupbkJP0zmdvH34qK7JQ0rBJ8Io5b40c8HibWGkSXI7Jk1OibOhHWpcDVmMnzmNZzIRZib4KI0SEDqWelnqPTkpcic9jyvkzRl8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言前几天我在司内论坛的一个问答中提到了要写一个拉取网络文章文本的 skill，昨天我实现了之后也就开始好奇起 Skills 的底层原理了——相比起各种花里</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695701&amp;idx=1&amp;sn=a8b5dfd8cee58567104bcccc39af6947&amp;chksm=eb929eda503b74fbdce70b9ffdc4d5e247f8e5b0ba427e0754276fc52b0fb242d903eeb91037&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GFlVeyx6ibibbvuBuHicA5xZOBicEKVkhryMibM3UjkGF27bcwZdQZXpIWS9g9CAib8zoxE2b2xiaImvcB2QXJ6Bo1F61X69LDaAH0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇周末花了一整天在我的 Mac 电脑上进行 OpenClaw 本地部署以及整理问题。作为非程序的出身，加上国内环境问题，实现本地部署一个满血版的 OpenClaw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694782&amp;idx=1&amp;sn=d48ab6ac92c3558598ab8d7405280656&amp;chksm=ebbb8c484cfe9a8d6f1c5ebe92e0bda734e0563f6dd4699f271265dc53a4543af86a961ca215&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，腾讯云Coding Plan全新上架！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6tDmHW9HHKI03FoKy1ZuibheHPxOSjMrcAnCicOIFpcseziaXgmzDgzCIqx37t2EBphnILGeoPVccyhSqXVH90m9kMEiasicLG0vkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上新！腾讯云大模型 Coding Plan 订阅服务全新上架，现支持 Tencent HY 2.0 Instruct、GLM-5、Kimi-K2.5、MiniM</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694776&amp;idx=1&amp;sn=050b6d416bd1f90ccd89dd1484a591c5&amp;chksm=eb669657952d5aa6b3ebbc0956743af4dc02a402226238e7582f28755546829847237c0a0122&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 14:47:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

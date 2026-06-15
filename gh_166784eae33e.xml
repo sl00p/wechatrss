@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI网关LiteLLM遭漏洞链攻击，默认账户致全面接管风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8kgSK5doz99Hxt4ib0VwxHrouWSuAFXR7V8xbHqf05vOibSLD6GeX2GkSFn4N31kDCvZxUpspRIKV9wIOpG8tEfkO86xicnH17Zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件全景2026年6月15日，Obsidian Security公开披露了一组针对开源AI网关LiteLLM的漏洞链。攻击起点很不起眼：LiteLLM默认的低权限账户（internal_user）。终</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519104&amp;idx=1&amp;sn=52df3a70d32c3b6abe3418a28ad8b110&amp;chksm=ebe729136f6a0699cdd9e7187cd0ebfa8bcaf5738b59805f63d82a06d4bcb85700b037c02d83&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 16 Jun 2026 10:33:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI开发工具链遭SEO精准围猎：针对Claude/Gemini开发者的供应链投毒]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicm4zPI8icaic5YNSwnp15YrYJVQEadgkPHn1VRbkvJx6fSyibMMcKEtSYiaKunWeic1a0e1JPljKoa0ibxVp3sdrUnsUO6sgApNfGgE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与事件概述2026年初，一个针对软件开发者的精准SEO投毒攻击行动浮出水面。EclecticIQ安全研究团队率先披露了这一活动：攻击者通过搜索引擎优化技术，将仿冒的Gemini CLI和Claud</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518903&amp;idx=1&amp;sn=6a8ef8ccdfa55eefe7e901d05c8f041d&amp;chksm=ebf0a080af9918ea0d63f29a2c15c280756d250f463034516c9549de83fdf964f659220fe1a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8rw7CtbTneaEdvDEXBNibMicF0kelwSIH9HvF3icDqVSOXzHZ5MY99a3SjWpfGVfzunXcuR1CoibUKufMG8Zjqyt1jnOCnwRVS4dk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，中国信息安全测评中心旗下的国家网络威胁信息汇聚共享技术平台（CNTISP） 正式揭晓表彰结果 —— 奇安信凭借过去一年在威胁情报的贡献与APT（高级持续性威胁）追踪领域的卓越表现，荣膺 “202</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517604&amp;idx=1&amp;sn=73dad2050ebb2357d383d352eec01b64&amp;chksm=eb5b53f508a634c7bd2a9e1914a211c9c8ea2e36321dc9c4ebcb374e08b2b925708cfe9fb9d7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 05 Feb 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.01.16~01.22)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/2AqAgxkehic9nlA9p9EmibaicMLRHJBPHjqoicRa6S7egWVniaicyavutkpnIF2bXpEQATZJuHs7ibyEoMib9wmHyKE2QQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.01.16~01.22攻击团伙情报Turla 的 Kazuar v3 装载机分析Konni组织利用谷歌广告重定向机制发起鱼叉式网络钓鱼攻击一场“假面试官”的WebSocket RAT实战复盘</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517564&amp;idx=1&amp;sn=a43c498f21c39e059449cc7db220daef&amp;chksm=eb2ae83127a80f270c4ce83cd7b354320407523cbb295c3c1103ced6e655ccbb4bf001f185ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Jan 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

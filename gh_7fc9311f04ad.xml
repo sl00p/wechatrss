@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 不缺智商缺纪律：我的 Harness 工程化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xMhXkFhncYweAjjLibxxnJa1zvq8atcoonh8wtP7Viazs02gO5p28TDDVjKLBe53WU8yHuLsuxQlibWYY2Aia2BDbiaicGmIFsG0IkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读核心观点：AI Coding 的瓶颈正从"模型能力"转移到"流程工程"——模型已经足够聪明，但不稳定，而稳定性必须由外部框架供给。读完你能带走：一套可抄的 harness 分层结构、一个把"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561121&amp;idx=1&amp;sn=82faa885d7d73f4e398dd1e186325b3d&amp;chksm=e8e71a3c482aa94ec70af97cbc96e90d9477b6db2381fc88b8a9ee072978e6b6a3bcd77884f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 16 Jun 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何搭建一个端到端业务需求专家 Agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zENWWKPF1Fic78MKkCPhs98qIQnXT0DdswRAticVJdaMwAMzm1kNyWfUrs2aoJbvlGSx0n6uzZVkicicLfT22GN5HSGiccxpGj128M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读如何把业务需求从进入、澄清、方案、实现、CR 协同、验收、发布到结项沉淀，组织成一套能减少人工干预、能自我验收、能吸收反馈并持续成长的 Agent 研发闭环。（文章内容基于作者个人技术实践与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561033&amp;idx=1&amp;sn=a9f9a3ac3dce5aee757e0033f55dfd3f&amp;chksm=e8dc95d1269be1e3997c1c266005a2dcbe35537f16d8460e492fc448137877053f3f7ea5a4ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yiakiaVicI8QGVYz8Pav0SzpCqR5Egwywh31ZniaNAcQ1eZcbPmKMy4IMwTHnNib2ON356Pq7iaZlPz7Lldj7MTBgR7JK99G1bq229k/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近几年，我一直从事于Agent领域的探索、应用与实践，也陆续沉淀了许多相关的技术文章，相信不少朋友都读过我之前那篇《如何构建和调优高可用性的Agent？浅谈阿里云服务领域Agent构建的方法论》。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558921&amp;idx=1&amp;sn=3fddd356f8f072b31742f0e8be772b63&amp;chksm=e852ea9d4f41be8d433615eb5e1d5acc1f1ea18352b908e0aaa963bced737c6fa9c851da6ac6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何定义“人味儿”？——HeartBench评测体系建设实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yyOoqe8yoT7DFspHxXQApoicD20FwPic9ictlgOC0QkRC3X0GicPnDqcGZ1iaT1D5QRGSLVu6Yq64ukS2B3FCCQIbmmOcjyzSExRgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景：AI下半场从解决问题到定义问题2025年，大模型的竞争格局正在发生微妙而深刻的变化。单纯的 Scaling Law开始遭遇边际效应递减。当Gemini、Claude等主流模型在 MMLU、H</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558896&amp;idx=1&amp;sn=f921e42175ae76b9a9e7771676c000b0&amp;chksm=e87f806c068e6f54b01d387dccf7295e39c9f64008efa48f74143a6fd826b9aadb5e79a50d26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
