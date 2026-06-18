@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[诈骗网络年入近400亿美元，AI深伪正在重塑亚太网络犯罪]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0wgqrf0KR4AYkLFDyicUFmibA5PxEqXFqE8bmevgMzGuKkHEjW8yZX4RkQDGRW3ibF5j4CBtXHHgEdTVFYeia8aFTxrs1lWWxVCOI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01网络犯罪占比国际刑警组织《2025/2026年亚洲及南太平洋网络威胁评估报告》显示,网络犯罪在亚太地区刑事犯罪中的占比持续扩大。超过半数的受访司法管辖区报告称,网络犯罪已占其全国记录犯罪总</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340831&amp;idx=1&amp;sn=79dc27b5e66c7c756f422e7906ad4858&amp;chksm=bc6428e58c99f8ae11d60a7d751062021c06f7069fbb6413d770f2bcb4e2c397ee7762e3446a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 19:17:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Splunk AI Toolkit漏洞可导致任意操作系统命令执行攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XmV0ia8F9nuZNuZuTY5E2QibcBYtgp5AEqr7eCFicmTUSX4diaibW6TOTRxL24w2DZgh66ibR3LILlfO8lsdnzBciaYxbFIGibtXbXlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Splunk公司披露了其AI Toolkit中存在的一个高危安全漏洞,攻击者可利用该漏洞在受影响系统上执行任意操作系统命令。该漏洞编号为(CVE-2026-20266),CVSS评分为9.1分,表明其</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340831&amp;idx=2&amp;sn=dad358020056a1d3b798452af64fc119&amp;chksm=bc696c18f78e47aa363a7f6d8c6fc5835989b6a5fc3d47d0b0bc103d4544b6df9dab38828f93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 19:17:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache HTTP/2炸弹漏洞PoC公开，可远程耗尽服务器内存]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3TLkXxOmAesy3MWQiadDmUPUFdW8evzwQqNGXruWiaPWAjibyvYM5fGADhPVTmCk1MlQYOd8JJTZdrGgX7j6nyBlcyuyyzj1tB3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache HTTP服务器中发现一个被命名为"HTTP/2炸弹"的关键拒绝服务漏洞(CVE-2026-49975),目前概念验证(PoC)利用代码已公开。该漏洞允许远程攻击者在无需认证的情况下耗尽服</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340831&amp;idx=3&amp;sn=95261d0248c08249a6e4b070dbbb9056&amp;chksm=bc7636c29e59917aff9c179d5400dc0c2de4438c7e44661649a1edeb624bde10d50c0769fe60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 19:17:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026年漏洞预测：AI推动CVE数量激增至6.6万]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1mIKMze7HCE7EibBPQ7kUbiatBNAksQYhRJlbUbcnqpCoJEM1TIibu46Blv8kpicLQ8Ia8B7oRCcTUOuDiakffuTzILXGQ5Lgpbb7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>初步数据令人警觉。根据事件响应与安全团队论坛（FIRST）发布的2026年漏洞预测，今年公开的CVE数量可能达到约6.6万个。这一修正后的数字较最初预测高出46.3%，超出6400余个CVE。但FIR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340742&amp;idx=1&amp;sn=4ea6c14e845f4f1efa48c5005052a53c&amp;chksm=bc38bdee224e935a29a3289b8f51f5b31412b2469a296b4f55dec989ee2c75c00196e4295e82&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3X899kUaGO7vUWlpiaysMf0UtVkiaIGvyTJRUL42ibUhXL9TrJvbaPgGVhdHJgjl6vib4AYibXXTlnSibbb8E3AAgt5OzaibF43wYqME/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员发现一个名为"MiniPlasma"的关键Windows权限提升0Day漏洞，其公开的概念验证（PoC）利用代码可使攻击者在完全打补丁的Windows系统上获取SYSTEM级权限。20</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338306&amp;idx=3&amp;sn=a7cad676a025d823ef15934c9b605776&amp;chksm=bcc83c8e734cabf1cced2b5f5f83666003a3c6ad5e40e53ee3f04a6f0559787da3f4e5d12c71&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Grafana遭勒索组织入侵，源代码泄露但拒付赎金]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1zVEKq9Hntmeu9ibW5E2ZibhZ6oIYD1xico9Shygp5ALImgtuNxnGbHdKUic2eF1ezQq98RjJJKvlNSSicXINwWXKkGic0EzQf78Mh0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Grafana Labs 确认了一起安全事件，此前勒索组织 Coinbase Cartel 于 5 月 15 日将其列入泄露网站并声称窃取了数据。此次入侵由遭泄露的令牌触发，攻击者借此获得了访问该公司</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338306&amp;idx=4&amp;sn=5f9ad26b324b1c68cdfb44317cf911ca&amp;chksm=bc04e508c1b964be2458628782ba45032caf875f87c38c58081f180f462d38795dda32efcc4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code深度链接解析漏洞可被武器化，无需额外交互即可RCE]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2LH0CdrW2wBsthE5IPPpCXick3lJ2j1mibnibmsokSsVsPzTfKeAibSxU7Ak4eMxyGVzbsxQHZZicf9x1ocUxP4auAqAibqicn05IFXE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司的Claude Code CLI工具中发现了一个严重的远程代码执行（RCE）漏洞。攻击者可诱骗受害者点击特制的深度链接，从而在其计算机上执行任意命令。该漏洞现已在Claude C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338213&amp;idx=1&amp;sn=61596f5076c6c1fac1c402b712ea2d31&amp;chksm=bc8b7a80f0d290e9f512bbe6afc0c255e28f9d58e5536bdd9a090cac60aeedf91f853fc6b955&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NGINX高危漏洞（CVE-2026-42945）遭野外利用，可致RCE或服务崩溃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0rVtmn7KWEiaK6WKfxoP51ibCBCFXSCDd2c6TZyZFGHvfIQeQ4aW7BcZLryxQjw7huLWGgkqQbdJoNkgoicib7LOv87dp1FtMIDtI/640?wxtype=jpeg&amp;wxfrom=0"/><p>VulnCheck报告显示，NGINX Plus和NGINX开源版本中新披露的安全漏洞（CVE-2026-42945）在公开披露数日后已遭野外利用。该堆缓冲区溢出漏洞存在于 ngx_http_rewr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338213&amp;idx=2&amp;sn=a89f015453b5d147e00a9c8f8e6740c3&amp;chksm=bccb22fbe68409fb70e2afd53408ff6aa481f156eda65401b7b7456a577321183fb0db9e3d5c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

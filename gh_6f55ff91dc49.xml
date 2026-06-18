@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1hsaG9SW6Cpib9lkysbFL1vwKnynvkgaUIaicsy2Xjg6jYYXUG8CRXs8ZrHF1dluaOmmsu6okZTu0s1zCxNI9toiavNOpLtj5NQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想调研一下，大家是不是同时在深度使用 Claude Code 和 CodeX 等其它 Agent 工具。还是以一个为主，其余为辅啊？我先盲猜大多数人会选一个为主。因为自己配置的很多插件，Skill 、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534647&amp;idx=1&amp;sn=b6ba158e574eb2a32d11f3cabb1fa46f&amp;chksm=f874473d0ac41125a6fb63ae6fb2eea4c56aceaddab6995daba97d353365bad506639fcc516a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 13:52:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个爆红的 GitHub 项目让 token 直接省 60–95%。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0q1ZrR5wT6p8ia9Rv8w1VFLZGYwVbbgJk3rJp48KtDZpDyc1X2ibPUgTkRgKiaF7x8KicP7POia814GUdhlu7d5WYib109yangpqSVM/640?wxtype=jpeg&amp;wxfrom=0"/><p>跑 Claude Code 改个稍大的项目，一个长任务下来几万 token 没了。Codex 调试一段日志，光日志本身就把上下文吃掉一大半。再赶上月底限流、超额警告，那种感觉就很不爽。更难受的是，这些</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534620&amp;idx=1&amp;sn=fb26dc3b155501d8c39b371aaea31959&amp;chksm=f85bd51c7d8f1b3bcecbd953e4c698cb7ac4b3417d7e2f23779c834c67a95c14f1f29a42a5bd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0373PicbGAWNvicVFNCiapudqOIE0I3yLNoYOnAicicoz35UnEb9Gic4jK494CIoRM4dgSfxbzFzW9R5uLB00tFJ8kDiaK9tCebYUIU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源 5 天，5 万 Star。这个数据放在 GitHub 历史上都算比较顶的。最近如果你刷 X 或者小红书，大概率刷到过一个叫 GSD（Get Shit Done）的开源项目。评论区里有人叫它 Cl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532957&amp;idx=1&amp;sn=8f27a513c9db4fb19a2a432937c634b4&amp;chksm=f825cfacc585eaf3d110745099348c0c578beae2e37daee69287e47dc09c57ed0dbbddc3017b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Apr 2026 12:38:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[北邮附近的饺子馆，在 GitHub 上开源了自己的 Skill。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU35qr6yvuRlJZD7yQLGZTsKtVyYEAfaybSKIQ23cuyphdt4oE08kEKT1ZTKFjBHgscKiaB1mdV60VfysW1gVgwlBD2zKgsXZMWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个饺子馆在 GitHub 上开源了自己的 Skill。北京海淀，杏坛路，北京邮电大学旁边，有一家快 20 年的饺子馆——金谷园。好像几乎所有的北邮小伙伴都喜欢吃金谷园饺子馆。觉得它比别家好吃很多，好</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532947&amp;idx=1&amp;sn=560a0e6e87eb581dc489b2644602902e&amp;chksm=f83830197deaeb9a6d4311570e09245d85fddac8c335db327a237088b9acf4f74f44e1b9d91c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 11:54:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

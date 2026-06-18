@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.06.12~06.18)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqib5LpS2EuEJUv7xQpFL1tibOXRQLzXATocbwlS5zpnqlSD5k9icxBY1Afd3sTh1kJZyxmAcPROoWCaowwRrPBdLHgXMNEAdzbspU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.06.12~06.18攻击团伙情报APT37 利用微软主题钓鱼与Dead-drop C2攻击韩国用户Ghostwriter 针对 Gmail 帐户的网络钓鱼活动ShinyHunters 利用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519174&amp;idx=1&amp;sn=0b59a708b5f42ce1331707af08787fe0&amp;chksm=eb75ecc236fbf1da8a897c7c597e82b4213a1efa6d52cb335d7c165c8b1753597866be5ee899&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 10:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一场88分钟的猎杀：Mastra作用域接管事件深度剖析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq81ABIb6yrwqJcSNVDVic6ibSH38Udu8tibBt1yjevaa46d5r5DDj3xhr530BiaJqxRb9onl95hCn7FicVYfn3XLI0ibTyprPOWUvwKk/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心发现2026年6月17日，我们盯上了一场针对AI开发框架Mastra的供应链攻击。攻击者劫持了前贡献者“ehindero”的npm账户，在88分钟内对@mastra命名空间下的144个软件包进行了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519114&amp;idx=1&amp;sn=a77289b85be94df6e9efcc98e0badc7b&amp;chksm=eba3eb5a2e45709b23fe3c30c26c139af7a745f6c7c9f2c4783690821b8b2554936e3d401f01&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[奇安信获“一级支撑单位”和“特殊贡献奖”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8rw7CtbTneaEdvDEXBNibMicF0kelwSIH9HvF3icDqVSOXzHZ5MY99a3SjWpfGVfzunXcuR1CoibUKufMG8Zjqyt1jnOCnwRVS4dk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，中国信息安全测评中心旗下的国家网络威胁信息汇聚共享技术平台（CNTISP） 2025年度工作总结暨表彰大会召开 —— 奇安信凭借过去一年在威胁情报领域的贡献与APT（高级持续性威胁）追踪领域的卓</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517751&amp;idx=1&amp;sn=1869d4a09d3da5e18f59dc2498f7e5c3&amp;chksm=eb07eef1bb802848e76d44a44892c9bb24c56caef301f73970befbd1ebf31583990a2382a6bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 18:21:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.01.30~02.05)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8ib6Hl1KhgglaPNyDwlX6Cww2NHtjN33AlRP0ZWVQqfyOtOM5tiaibV37JsCJSYV1CSFQh04diaZC2Miao4bH3DQoubpV574JaP1eY/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.01.30~02.05攻击团伙情报深入分析APT42组织的PowerShell后门程序TAMECAT追踪 Lazarus 更先进的 OtterCookie 恶意软件APT28 利用 CVE-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517751&amp;idx=2&amp;sn=536757760d170af0838680d052361930&amp;chksm=eb93ca3822e14a7896b92052dd767d181b052691a9449df794cf54a5b7f0be41cb960acff58c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Feb 2026 18:21:48 +0800</pubDate>
     </item>
   </channel>

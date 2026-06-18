@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026端午致谢 | 端午安康，致敬每一位并肩的安全伙伴（文末活动赢礼品）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1mTghMHiaDydlQECdRwWlXKiaRCCjojxicLdLWUKEoM6A9Zn2iaLQa3BJuHFJs0jqZgEDcV0LSSyicDvQrszXrTJE81fIaqICIPJHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>端午安康致谢一叶香草，一岁端阳。风调雨顺，吉祥安康。近日，多家合作伙伴送来暖心端午节日礼，感谢各位的厚爱，未来期待继续并肩前行。在此，看雪祝大家端午安康！下面一起来拆箱～*以下厂商排名不分先后，按首字</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=1&amp;sn=06605c74092850057f6dd4f9ce1ae2aa&amp;chksm=b04afe0a560d26bd8ad455ac084c336a13c114296148ba7aa9e221ecf5e5ba905ac331a9e49e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[把 .o 变成 .ko：GKI 安全特性的铁幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0r2f3Tj1jqXiaOsnXMicPPY4icXC1jicNy3wJQCIorgMBibJoC9XnmV8Trs1WjMxQbOJFB80fI4icCqIGHBiabjDEllPu35vENQusprU/640?wxtype=jpeg&amp;wxfrom=0"/><p>ARM64 Android GKI 内核模块实战：SELinux、vermagic、BTI、PAC、SCS、CFI 与 mrdump本文是系列第二篇。第一篇讲述了如何通过 ELF 格式转换，将用户空间</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=2&amp;sn=bef4d5e72317a35c94b6d9a35359930f&amp;chksm=b0c60f834b3ea2d0ad82259d794ae934fd6843f172bb4f0982e9024f7204a0e242d69cd793f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 19 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[打破传统AI逆向的新思路：多Agent、自主管理上下文 - 逆向思路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bA8XvolGgEAHBxL0dGcT9picGGmUJpcT6jmXhGwm75LTiaq28fLCmbGIolOJZ4OCcQibAW1syRAGiaUk2ehBc4ngBjTO7cwu2D6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本人使用AI逆向和AI开发已经两年时间（目前是在做Agent开发），从纯粹网页时代的GPT辅助逆向到Claude3.5，到后面的AI爆发时代的GLM5.1，Claude4.7等等。看到很多人用ai逆向</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=1&amp;sn=da033ac7ab96ce635d060973a467e970&amp;chksm=b01291e6ade98c412fc5ec62f2340a0a93a07d082ccfde75431a3c32bb7b2d122f102541d951&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0aCgXuhNyXGWhJukQv276oYnGLaywbbBzSiasiaXnN2dqLGQCR1tJuCs8fibZTucJQrsgTG4RP0w9QsOwaj0RYOz9zcpJYTZWaJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名本地大模型运行框架 Ollama 近日被披露一个严重安全漏洞，攻击者只需上传一个精心构造的模型文件，就能远程读取服务器进程内存中的敏感信息，包括环境变量、API 密钥以及同一进程内其他用户的对话数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=2&amp;sn=de29a1fa63bf7c372893b84f4aae2906&amp;chksm=b08f2ff6a1ca286339ed1e004191f27586fc1e0a6f833288a1a1a70ebe28dec5b1920be24cf2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你的大模型应用，真的安全上线了吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K14IzZCkbIwibbt0BthMBmlkTKSnm8I8BAeDshQNcRBicfkQQPF5A6qUBYYTSWqcZGeOQ58K8EF1eaM0Rv8HibMzl3hbcIaaMQribQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践大模型安全攻防，已是AI赛道薪资涨幅最快的方向。但90%的人还在零散学习、被动防御？CVE专家亲授，体系化掌握提示词越狱与防御首发特惠1499元，永久有效！你的AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=3&amp;sn=73a6c0476434988ac8b288a8d04e1554&amp;chksm=b015131478b48a7e5a56f4286486450820a066b46c7e5699f0181ed78840233d2d81630dbbca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 绕过 ios 越狱检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2XA6ATyo4Tz9TMpGN7YxCE3eeXict233drM2Ea3EpFc8KnCScRZ25NLIwY7LvXTV8ebibJuvXYk5ZwsDmGo7L5o06oAt25461us/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：让com.fanduel.sportsbook在 palera1n rootless 越狱 (iOS 16 / arm64) 的 iPhone 上能通过 Frida spawn/attach 且</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614768&amp;idx=1&amp;sn=20de81c1868c6e23fb49ed760d4470de&amp;chksm=b03b4fa3de6de77ab82881b431642c8bf4ea2fb997ccf406aee5138cdf61e234fabc379d782f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 17:59:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
