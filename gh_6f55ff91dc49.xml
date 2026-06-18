@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个爆红的 GitHub 项目让 token 直接省 60–95%。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0q1ZrR5wT6p8ia9Rv8w1VFLZGYwVbbgJk3rJp48KtDZpDyc1X2ibPUgTkRgKiaF7x8KicP7POia814GUdhlu7d5WYib109yangpqSVM/640?wxtype=jpeg&amp;wxfrom=0"/><p>跑 Claude Code 改个稍大的项目，一个长任务下来几万 token 没了。Codex 调试一段日志，光日志本身就把上下文吃掉一大半。再赶上月底限流、超额警告，那种感觉就很不爽。更难受的是，这些</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534620&amp;idx=1&amp;sn=fb26dc3b155501d8c39b371aaea31959&amp;chksm=f85bd51c7d8f1b3bcecbd953e4c698cb7ac4b3417d7e2f23779c834c67a95c14f1f29a42a5bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 13:53:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[在 Kimi Code 中用上最新的 Kimi K2.7 Code 模型，太爽了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gClRKXegunE29xSEhEdpdAfdX8Tk3shdYN1fc1DVyia7LUI1eCNkiaZlY94RvHITjJh7L3WGLaGsYPmMv7kIqiaBP9mhUFpaET8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 自家编程模型更新， Kimi K2.7 Code 发布了。它是个专为编程场景做特化的模型，不是通用模型的常规迭代。总结下来有 5 个亮点。① 长上下文编程场景的指令遵循能力题提升了② 长程编</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534592&amp;idx=1&amp;sn=111ded134f8f79316d8954428e3f5c7f&amp;chksm=f824010704a9066e5f6b48562daacdb660c8298ed3d3126df3b968a7406a9c9607a032c3b2c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU35qr6yvuRlJZD7yQLGZTsKtVyYEAfaybSKIQ23cuyphdt4oE08kEKT1ZTKFjBHgscKiaB1mdV60VfysW1gVgwlBD2zKgsXZMWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个饺子馆在 GitHub 上开源了自己的 Skill。北京海淀，杏坛路，北京邮电大学旁边，有一家快 20 年的饺子馆——金谷园。好像几乎所有的北邮小伙伴都喜欢吃金谷园饺子馆。觉得它比别家好吃很多，好</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532947&amp;idx=1&amp;sn=560a0e6e87eb581dc489b2644602902e&amp;chksm=f83830197deaeb9a6d4311570e09245d85fddac8c335db327a237088b9acf4f74f44e1b9d91c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 11 Apr 2026 11:54:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 3 万星的 Linux 管理面板，AI 应用单月下载破 10 万次。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0FD3UtYdslRnDz8pwfXYjt6VYHclibb1PiaIXic2qr0cDpicLqOc6VasKKWIibJfuKic0iclV9OaTdMY2Pxz0Fkw7G7qhuGKzobxYBGE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 在 1Panel 应用商店的近 30 天下载量突破了 10 万次。创下了商店开通以来的最高单月下载纪录。更值得注意的是，OpenClaw 的下载量，已经超过了传统的 OpenRest</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532897&amp;idx=1&amp;sn=b9f02dbc1e532a09163fbbcbca3db365&amp;chksm=f89e133a31b115ff819c67f1e839c19499f965241ea08bc5694f70433f7c412e9134ac3e0158&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 11:30:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

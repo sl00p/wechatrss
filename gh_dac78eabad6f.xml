@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[20年架构老兵的AI探索，让WorkBuddy帮你超越身边的人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4fGMuKibXrja6GcF09aV0QficFHTicTGjmkyU1ibD57OgxicgrF9VgKD3qTQGqf4TaTTqC7XIib19lbhlIibBvSyvJmiaVs5TnYH41ozo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇李伟山是一位有着 20年从业经验的架构师，也是腾讯云架构师同盟的明星成员，此前曾在腾讯云开发者账号上分享了多篇 AI Agent爆款文章：一文讲透如何构建Har</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695957&amp;idx=1&amp;sn=9b0b6956f078f79196bd515d301d56ec&amp;chksm=eb093b9dc6d5620b0b3f9681b81d30ee5bcc345c8b29ddf6c9ecd62d568f7fbd8aa2af2285cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[读完Agent Loop工程手册，我有8个还没想明白的问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7pnmiaHPPGNvmZOMJcW8g8zel1dfHz6r0g7h6AMftwx3sDcRLztxGib03QkS6ibeRpqvvEKHgmrRiaXH58DQtm9y7m2SnAssGcLI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 来源说明文中提到的 Agent Loop：来源 = Peter Steinberger（OpenClaw创始人）近期提出的"从写 Prompt 到设计 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695921&amp;idx=1&amp;sn=05cbb8d43adefc7b95ba859a02de3145&amp;chksm=eb3d6bdd6760f12ab16b6ca19f48d833fcf4764450e1781a9e4ea5947c27b437c60e2749a71c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6O1FibibxxxpKzngu3euCvaofovk8ko8Ky6Dak1wR5YQAiaz20uASGcrVMp8sicvddvibwiawfFAyuDZtMtn7icRxsOYicIruzPiaTLJpM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇在企业数字化转型的浪潮中，AI 智能体正以前所未有的速度接管“双手”。“龙虾（OpenClaw）”爆火之下，数据泄露、恶意越权、权限失控、内网穿透等安全风险，也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694807&amp;idx=1&amp;sn=ab459c10a7ead719048aa1e30692d961&amp;chksm=eb6a85b44d55c4110932632885047248326f6a3a26243ddad0a31ec9ad7e35b2b8eb49f48e1b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全网最细！OpenClaw本地部署教程和常见问题汇总]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GFlVeyx6ibibbvuBuHicA5xZOBicEKVkhryMibM3UjkGF27bcwZdQZXpIWS9g9CAib8zoxE2b2xiaImvcB2QXJ6Bo1F61X69LDaAH0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇周末花了一整天在我的 Mac 电脑上进行 OpenClaw 本地部署以及整理问题。作为非程序的出身，加上国内环境问题，实现本地部署一个满血版的 OpenClaw</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694782&amp;idx=1&amp;sn=d48ab6ac92c3558598ab8d7405280656&amp;chksm=ebbb8c484cfe9a8d6f1c5ebe92e0bda734e0563f6dd4699f271265dc53a4543af86a961ca215&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

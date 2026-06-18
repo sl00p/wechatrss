@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xg2ExNQ9CUKSibXdCPFcuwyaicnpxaVUaA66ON0M35DBzSceJ9mn3Cwb8HxlGMyhephph4ibqGuBomCfZndUNeLFDONCJGibYic4JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。摘要在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。Kafka、Ic</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561192&amp;idx=1&amp;sn=125069c1fabd3e8d3295c00eb13f8236&amp;chksm=e8afa6720fd72997e5a4946c0994fce4dac133ec20c90cc498f7156dd3964e547c8d9bd82928&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 14:32:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 不缺智商缺纪律：我的 Harness 工程化实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xMhXkFhncYweAjjLibxxnJa1zvq8atcoonh8wtP7Viazs02gO5p28TDDVjKLBe53WU8yHuLsuxQlibWYY2Aia2BDbiaicGmIFsG0IkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读核心观点：AI Coding 的瓶颈正从"模型能力"转移到"流程工程"——模型已经足够聪明，但不稳定，而稳定性必须由外部框架供给。读完你能带走：一套可抄的 harness 分层结构、一个把"</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561121&amp;idx=1&amp;sn=82faa885d7d73f4e398dd1e186325b3d&amp;chksm=e8e71a3c482aa94ec70af97cbc96e90d9477b6db2381fc88b8a9ee072978e6b6a3bcd77884f6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y3HS5MZgbYgVfNqQqDBicicpUsWyq05eKsrZHSdU75XvuYlywPYicrTrsXtTdzE98I2bMniaKc2DLWFgsCoQGoqwWFHML6TGsic480/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文导读吐槽了部署和二开OpenClaw踩过的坑吐槽了钉钉通道集成的问题探究了OpenClaw为啥火对比了本地模式和云上沙箱反思了Skill 与传统Agent 工程反思了AI 交付产品的局限性Gate</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558931&amp;idx=1&amp;sn=daa49b88ccebc097b00b35d91c730667&amp;chksm=e8f75600e76354f7146eeaa7dbcdbe80ee0685757d1cdb3bcad3d5d38b512aef063db7b0b008&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent/Skills/Teams 架构演进过程及技术选型之道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yiakiaVicI8QGVYz8Pav0SzpCqR5Egwywh31ZniaNAcQ1eZcbPmKMy4IMwTHnNib2ON356Pq7iaZlPz7Lldj7MTBgR7JK99G1bq229k/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景近几年，我一直从事于Agent领域的探索、应用与实践，也陆续沉淀了许多相关的技术文章，相信不少朋友都读过我之前那篇《如何构建和调优高可用性的Agent？浅谈阿里云服务领域Agent构建的方法论》。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558921&amp;idx=1&amp;sn=3fddd356f8f072b31742f0e8be772b63&amp;chksm=e852ea9d4f41be8d433615eb5e1d5acc1f1ea18352b908e0aaa963bced737c6fa9c851da6ac6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

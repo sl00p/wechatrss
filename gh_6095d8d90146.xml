@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/6/18)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• ITScape KVM 逃逸漏洞：公开 PoC 利用代码威胁云主机安全 | CN-SEC 中文网https://cn-sec.com/archives/5278449.html本文揭示了针对 K</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960493&amp;idx=1&amp;sn=8741f64e02c3986a95ff6c7a40544c98&amp;chksm=8a85b262a2e06a3886dd32633818f9ce9ce2631c77c542fcb09ee635ad8d2eebe531d92019c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 18 Jun 2026 15:41:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/5/26)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• MuddyWater 利用 Langflow 漏洞入侵事件https://sectoday.tencent.com/event/EDxbYJ4B5M25NX6Pwq3A美国网络安全和基础设施安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960478&amp;idx=1&amp;sn=1765e1bf754c819976147ba9ac81575a&amp;chksm=8ab667a2bce4438dceda4e137cc4c2a69471142654147e6c3e7e3ae23e01a0a3a37155396f61&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Operation Zero Disco攻击行动https://sectoday.tencent.com/event/3xLT85kBDgvMcds_eB3OOperation Zero Dis</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960234&amp;idx=1&amp;sn=6ef321df60235e4a2c736f8751650397&amp;chksm=8a4c344e75eec8a9175d300abcdc5386f9336d870e9028518dfb5ba2166b05c1d32915531204&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Oct 2025 11:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/10/13)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 数字签名伪造攻击：理解CVE-2025-29774和SIGHASH_SINGLE漏洞对多重签名钱包的影响https://github.com/demining/Digital-Signature</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960231&amp;idx=1&amp;sn=8954f0a1ad24c412e206569cb8788697&amp;chksm=8a4786cf28d91e2c45c02e6cbc0df865f0382e0936549f5faf5fb95ca52b5bc749a02248784e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Oct 2025 18:27:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
