@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 14 个本周牛哄哄的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3WD96rNnoeDp9MUt19zD9qzjR3p1Uhmk7nhGCd90iaMAkZwKjEh44uumHHNqoibgAzXoWDiaMd2tjhoLs7c1UIJNmSIicdVrBoNo4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Windows 用户的瑞士军刀PowerToys 是微软官方开源的工具箱，目前累计了 13.5 万 Star，是微软最热门的开源仓库之一。这个工具集合里面塞了 30 多个独立小工具，你可以单独开关</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534704&amp;idx=1&amp;sn=2878190d06b1e5b9616ce86ca80d04c5&amp;chksm=f8e9587f6389f46d468ef5be945b8f9e0d78e370ffc73788dace7e782432a3b092894c94624f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Jun 2026 11:17:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1hsaG9SW6Cpib9lkysbFL1vwKnynvkgaUIaicsy2Xjg6jYYXUG8CRXs8ZrHF1dluaOmmsu6okZTu0s1zCxNI9toiavNOpLtj5NQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想调研一下，大家是不是同时在深度使用 Claude Code 和 CodeX 等其它 Agent 工具。还是以一个为主，其余为辅啊？我先盲猜大多数人会选一个为主。因为自己配置的很多插件，Skill 、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534647&amp;idx=1&amp;sn=b6ba158e574eb2a32d11f3cabb1fa46f&amp;chksm=f874473d0ac41125a6fb63ae6fb2eea4c56aceaddab6995daba97d353365bad506639fcc516a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3O61Kvgk9nHFMpoDFhzbpsRfFemiaaibrV3LnIVxQctbHvs2KbuYhy2Am2OBiarBWWnlfaBoA3fQZviaeaxcKydDtzOuOhqic8ZImc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个开源项目有意思，解决你的 AI 生成的界面丑陋的问题。最近刷 X 的时候看到的这个开源项目，10 天不到就拿了 4 万 Star，火得一塌糊涂。它做的事情很简单但很精准：把 Nike 、Claud</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532964&amp;idx=1&amp;sn=4f387278f226dd4b85b19760a01f642c&amp;chksm=f879f9496521703f00d3d4b7ab2b6d25efeada83efeced33222b62d3457782e07a0aad151f02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 13:07:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0373PicbGAWNvicVFNCiapudqOIE0I3yLNoYOnAicicoz35UnEb9Gic4jK494CIoRM4dgSfxbzFzW9R5uLB00tFJ8kDiaK9tCebYUIU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源 5 天，5 万 Star。这个数据放在 GitHub 历史上都算比较顶的。最近如果你刷 X 或者小红书，大概率刷到过一个叫 GSD（Get Shit Done）的开源项目。评论区里有人叫它 Cl</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532957&amp;idx=1&amp;sn=8f27a513c9db4fb19a2a432937c634b4&amp;chksm=f825cfacc585eaf3d110745099348c0c578beae2e37daee69287e47dc09c57ed0dbbddc3017b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 12:38:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

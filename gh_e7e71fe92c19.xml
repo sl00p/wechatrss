@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1HMTk7pL8kfeM1smnyCvpUBlDfxlX0Wvfckxeic6vGSfdibXf2hRfa7Dkk6Xsib8ER72WiczchvSovqR0SK1XNicHcPcSeHJoq1be4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hermes 是一个 CLI AI Agent，能自主执行复杂的工程任务。但它的真正可怕之处不在于「自动化」，而在于自动进化——每一次执行都在学习，每一次错误都在积累经验，每一次成功都在固化最优路径。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=1&amp;sn=219d3d357722602c80071a048c05a2b7&amp;chksm=b01d4e73bc99b374e055a831f28d5618e2d997a7b9d6b4a6a2da4e373a12b1ab63f01da9d47e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[距看雪618活动截止，还有1天！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2RwMxc3L84aoO4qPuLwRxribP1G9k8hnGsFnwzv23bbDWGgWBowblHWnib2w5aV0P8absTUGXBY6k6Us9qzMlqvLqJX31EIYF74/640?wxtype=jpeg&amp;wxfrom=0"/><p>1活动时间：6月10日 - 6月21日立即扫码加购2最高直降2000元？是的，你没看错！这一次，我们不讲虚的！全场课程参与满减，阶梯优惠层层加码，买得越多，省得越爽：- 满 299 减 30- 满 5</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=2&amp;sn=075e6a687be9184851b1b5661754c98c&amp;chksm=b0fa120ed4be7f760aef1994d0328f5de32550f63b6664a598ec2a0690260cc887671fa9a298&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 20 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026端午致谢 | 端午安康，致敬每一位并肩的安全伙伴（文末活动赢礼品）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1mTghMHiaDydlQECdRwWlXKiaRCCjojxicLdLWUKEoM6A9Zn2iaLQa3BJuHFJs0jqZgEDcV0LSSyicDvQrszXrTJE81fIaqICIPJHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>端午安康致谢一叶香草，一岁端阳。风调雨顺，吉祥安康。近日，多家合作伙伴送来暖心端午节日礼，感谢各位的厚爱，未来期待继续并肩前行。在此，看雪祝大家端午安康！下面一起来拆箱～*以下厂商排名不分先后，按首字</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=1&amp;sn=06605c74092850057f6dd4f9ce1ae2aa&amp;chksm=b04afe0a560d26bd8ad455ac084c336a13c114296148ba7aa9e221ecf5e5ba905ac331a9e49e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Jg9M7tXtx8JpVW2PtK8ROKoegMHwEJLq6e0G3S8q1VjAicfER96ZshdocnJqZrEyvv0fQJlOpJbkWl2Yj0PHFyxj6pteYb3Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月，谷歌发布的Android安全公告中，曝光了一个零点击高危漏洞（CVE-2026-0073），该漏洞存在于安卓系统核心的adbd守护进程中，已被BARGHEST安全研究团队披露并公开了完</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=3&amp;sn=0de81f82941d24d10b76da58cb08c893&amp;chksm=b0e39d1b23290ca9f3d366aa2be4c2895ed95cb25413741d27314b7082fdd155013e9b3d6bfb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Copy Fail 深度研究：Linux 页缓存漏洞的根因、利用与检测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Rtsa2hEuTOFm6SuhHor7Xpzk2krg5Fxau0B77licWcCzC8DEicQg4InficA25yHgDibKmUP3tQOL1aXhKib2QjJzPgzGX8VDTB6F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 Crypto 子系统的一个优化 commit，到 9 年后的任意文件页缓存覆写一、引言2026 年 4 月底，安全研究员Taeyang Lee公开披露了一个编号为CVE-2026-31431的 L</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=1&amp;sn=fe3114822b287b4d43b6eb503c2682ca&amp;chksm=b04c81b3df6df9e162a62914eecdd0cd9b9e0f22faefb7178626e527f0d74379618992acfae0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ollama惊曝高危漏洞：远程即可窃取全部进程内存，Windows版后门风险更高]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0aCgXuhNyXGWhJukQv276oYnGLaywbbBzSiasiaXnN2dqLGQCR1tJuCs8fibZTucJQrsgTG4RP0w9QsOwaj0RYOz9zcpJYTZWaJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>知名本地大模型运行框架 Ollama 近日被披露一个严重安全漏洞，攻击者只需上传一个精心构造的模型文件，就能远程读取服务器进程内存中的敏感信息，包括环境变量、API 密钥以及同一进程内其他用户的对话数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614849&amp;idx=2&amp;sn=de29a1fa63bf7c372893b84f4aae2906&amp;chksm=b08f2ff6a1ca286339ed1e004191f27586fc1e0a6f833288a1a1a70ebe28dec5b1920be24cf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
