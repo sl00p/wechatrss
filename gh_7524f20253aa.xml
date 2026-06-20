@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GentleKiller 深度解析：The Gentlemen 团伙的 EDR 杀手工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0107TCFvQiaJETyw2UKTL3DwqJZB6Oa3FQhmdRQG6lRZNc8Xq0fibgAVKMqft8uNxOdQh7IPedbFD2BZwmosve7Nfl5iaG9W8ZV8/640?wxtype=jpeg&amp;wxfrom=0"/><p>The Gentlemen为旗下分支机构提供了一套集中化的EDR（终端检测与响应）清除工具套件，能够快速利用BYOVD（自带漏洞驱动程序）攻击手段在勒索软件攻击前禁用安全防护工具。2026年6月18日</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=1&amp;sn=25613d9435a24b385e23ba1de6d98371&amp;chksm=bc913afd9187fddc1aa996bc679c3dfe2ce1dcafbca9e3004ed1392fa83160e52f281102c567&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[任天堂美国员工数据遭泄露，第三方HR平台被勒索组织攻破]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PJ2V4ZxQDlqDHAo5DQPWFK19zmticM8lj04ByGtzHBibuPqyVGibZxhRIefiaI7gQW7V5FGibOgBCC00TYXlGc3JiaIEzAMAzeQ0EI/640?wxtype=jpeg&amp;wxfrom=0"/><p>第三方人力资源平台TinyPulse遭遇供应链攻击，导致任天堂美国分公司员工记录遭窃。在臭名昭著的Shadowbyt3$勒索组织发布声明后，任天堂已确认此次数据泄露事件。攻击者并未突破任天堂自身网络边</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=2&amp;sn=758344ea2d838b71b5f868a504ab32f7&amp;chksm=bcc5d4d8f51b75646e439449151c07ae452119681ea1a284b9f65590c9bb3cbc46492bb8742f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：Yakit与Claude全链路AI渗透；潜伏三年的云秘钥收割机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3yicrqosIg3z3MjLMaBOUMpk04Kp96icQas9mcmjvmHIwqONBiatnCfXVK8AwB2aBf5fWxeXW9OsnJNog5l1bnGEicIib0WlzIZcUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=3&amp;sn=75b2ff2fcac35ab89dbbb64dbf184df4&amp;chksm=bc9d15e937b2774c2f34921309450fe91a82adbae73275f859d529707c1bf3151bbd713f7dce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0eGMO2Ug5r4Ezewk5F45Yx6FZwicW7AzDabo4UVxyhsR5FlOdnibU63icTHwHk92ZSL5KZrQqxvc8SC9dITMNY0bT4d1f0MpNDt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项名为usbliter8的新型BootROM漏洞影响搭载A12、S4/S5和A13芯片的苹果设备。该漏洞利用Synopsys DWC2 USB控制器中的硬件级缺陷与固件配置缺陷形成攻击链，由于Boo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340862&amp;idx=1&amp;sn=2ec041455a63ce67db2cc8ff362a0653&amp;chksm=bcc0ed2c610c7f4279fbb90db763644f6575035d07f1173cc039a9f5ec0f134ce485a752a82a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[GitHub证实被入侵，4000个私有仓库被窃取]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2OgdWfhCfkOImeJkxb95AIl8ZNU8dibX6V6fpQibx7mwybwOg4XJWrzDeSN51zxYRrEGWfqFJgUJNjm77TcR95SzrxH5Y1gn1eE/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub在5月20日发布的一系列官方声明中披露，公司已确认其内部代码仓库遭到未经授权的访问。事件起因是一名员工的设备被恶意的 Visual Studio Code 扩展感染。微软旗下的代码托管平台</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338385&amp;idx=1&amp;sn=a442efc5bf8726e3e4239bc246e2976b&amp;chksm=bc7a3736a74a03c9f3df97c210b3ca72809f3794742987022543ff3b0dbf59e1eca3e5d86a07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DirtyDecrypt Linux内核漏洞PoC利用代码公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX29rVqLXgFTuh8X5sIYEu43z8j8ryW68JiaBlG7qQk1vLehjQ3DWvhzXfNn3ot0iayVYz8eVYYibvXgGMNuFfyPlE09icR3aRj5dj8/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对一个被命名为DirtyDecrypt（亦被追踪为DirtyCBC）的高危Linux内核本地提权漏洞的概念验证（PoC）利用代码已公开。该漏洞允许本地攻击者在受影响系统上获取完整的root权限。安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338385&amp;idx=2&amp;sn=e328758f1c45101a9217ed6243eae03d&amp;chksm=bce5dff183c25efc40612906a55fc23515daef329bfc5dac3f4b7c142b553b5dd57bda712d58&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OAuth钓鱼攻击绕过MFA窃取企业数据，刷新令牌成黑客新武器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3JN3B9XAgM0Ohm6gT6E5rZRNjVtSELuNbMKpUKDfkOfwvVKd8MBRSTwsOCXgpFAcSbezQAo0arxj9szdKt9ia0xbHjUHlqx4vY/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年2月，名为EvilTokens的钓鱼即服务（PhaaS）平台开始运作。短短五周内，该平台就成功入侵了五个国家超过340家微软365企业用户。受害者会收到要求他们在microsoft.com/</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338385&amp;idx=3&amp;sn=b2ebb2834b2d3a19920de25cd64c401e&amp;chksm=bc3be010ad4ec7c0d71e925c1bc7a5fde75e1efc6b35f32112b02eb587265bdfeae68d9d246c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent 安全：自动化工作流时如何规避提示注入与数据泄露风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Z3454ldeMspSiaONWdCQCycznrGv8kwia7SYl9yKbWrOVHvZjhQe0hSbicqXjGODbXf4JkicIibic8R2VCuncWAGZibkPQZAUrzJbcs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 安全始于一个简单事实：Agent 权限越大，其访问控制就需越严格。仅能总结文档的 AI Agent 存在基础风险，而具备读取客户记录、更新 CRM 数据、发送邮件及对接内部系统等权限</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338385&amp;idx=4&amp;sn=7d38222e688f025fafb3a8784e8e310f&amp;chksm=bce7dd005953acdb4f73b240d4d635c4ba4e65a63ed2fa0108191a73a9c34fee0bb6d6bce599&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>

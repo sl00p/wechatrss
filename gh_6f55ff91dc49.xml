@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[慢慢吃掉你的 Claude Code，在终端里养一只黑洞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2IFic2sgzhHlKXQnibNRswMUrsrY2eia0Ab7icakGwzgjpChdBQqZBUjQ8RswqltQLZ4KGyOvp7y9yfwmsRFfq4u7oQW4HrORV6XA/640?wxtype=jpeg&amp;wxfrom=0"/><p>刷推的时候看到一张动图：Ghostty 终端里飘着一只黑洞，慢慢长大，把屏幕里的字一点点吃掉。这只黑洞的食量，是 Claude Code 的上下文窗口。你和 Claude Code 聊天的时候，聊着聊</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534710&amp;idx=1&amp;sn=bc6942a274888a111c0b69d23f2fa1e7&amp;chksm=f88dff06309a125c82cd509a6bb1145de5d779be106d5610801df304c3af1ae53698e44b05e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 21 Jun 2026 15:20:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 14 个本周牛哄哄的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3WD96rNnoeDp9MUt19zD9qzjR3p1Uhmk7nhGCd90iaMAkZwKjEh44uumHHNqoibgAzXoWDiaMd2tjhoLs7c1UIJNmSIicdVrBoNo4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Windows 用户的瑞士军刀PowerToys 是微软官方开源的工具箱，目前累计了 13.5 万 Star，是微软最热门的开源仓库之一。这个工具集合里面塞了 30 多个独立小工具，你可以单独开关</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534704&amp;idx=1&amp;sn=2878190d06b1e5b9616ce86ca80d04c5&amp;chksm=f8e9587f6389f46d468ef5be945b8f9e0d78e370ffc73788dace7e782432a3b092894c94624f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3RD4CWtnv2NKOXtHIv2Cmb7DlU5BWE2J3KVqToxsG9XMgX6iaaO1vh2XLiauRWs0vGPhFqNHCzu2VfIQDNKw3MRZTxhh4iaiau4ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Caveman 的开源项目，可能是最近全球开发者圈子里最有意思的 AI 省钱方案了。前几天看到一个帖子，标题大概是教 Claude 用原始人语言说话来省 token。我当时觉得这什么鬼，点进去</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4&amp;chksm=f8f7216986c2d231598a4fd771467521b0324c3edaf7aec02f6dc1bc6d4c24d8e1876aacf2cb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Apr 2026 12:36:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源 10 天就飙到 4 万星，这个项目收集了 58 个知名网站样式。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3O61Kvgk9nHFMpoDFhzbpsRfFemiaaibrV3LnIVxQctbHvs2KbuYhy2Am2OBiarBWWnlfaBoA3fQZviaeaxcKydDtzOuOhqic8ZImc/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个开源项目有意思，解决你的 AI 生成的界面丑陋的问题。最近刷 X 的时候看到的这个开源项目，10 天不到就拿了 4 万 Star，火得一塌糊涂。它做的事情很简单但很精准：把 Nike 、Claud</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532964&amp;idx=1&amp;sn=4f387278f226dd4b85b19760a01f642c&amp;chksm=f879f9496521703f00d3d4b7ab2b6d25efeada83efeced33222b62d3457782e07a0aad151f02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 13:07:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
