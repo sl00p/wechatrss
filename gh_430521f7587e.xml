@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Zed宣布正在开发DeltaDB，一次“去Git化”的版本控制实验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUmJAf5yKZvC4RKiakwe598a8mGMgh3FXYYXnsic8tvjXxsbIfdNY3gMj4dP0ttiatY8nK0tsRQwxOWMOaodFSEiciaTDy8ibBCX75EQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码的真正来源是代码本身，还是产生代码的那段对话？Zed团队在官方博客上发表了一篇文章，宣布正在开发一个名为DeltaDB的新版本控制系统，其核心理念是：代码变更应该与产生这段变更的对话绑定在一起，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241152&amp;idx=1&amp;sn=c75ed7963ac813dc2777964e3e57e554&amp;chksm=bf64cbca5312dc3f5dc97047f780df9212ec663182dc8d3e7aa084e26348c3829d65c3ced16e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 16:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[中国开源云原生 Kafka 走向全球：AutoMQ 突破 10K GitHub Star]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/0WAjnRPBwEibMycAMhcNO9Tic8qjOKqiaGON65VEMTspuuENhqf3z62EsLzeV43pz70oOF9iaDG2kRfL8dx1ubtIsQGiaKSYib3Q3BxWtQX7SEC48/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年 6 月，AutoMQ 开源仓库突破 10K GitHub Star。写下这句话的时候，我们很开心，也很感谢一路关注、试用、提 issue、给反馈的开发者和用户。基础软件的 Star 通常</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241152&amp;idx=2&amp;sn=83ada7f421a39ddd1b109c65e8c41586&amp;chksm=bf86efae62f4f96385172b2737c9024ab2a351be5736e969b3a30cc88c5a34da965ed7d4713c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 16:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[扎根亦庄聚力新质生产力，模数开源主理人学院首届学员顺利结业]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXAKds9RJtBmwkh4fYgwnKNa2kg2oicTiay8cf7fw3qWbMcYpvQr1FYbpY20pciaGGdFh2nqfQWCI9fGm9jr8E75VJd8oSYkXZslk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年 6 月 18 日，「开源·生长」模数开源主理人学院首届毕业典礼在北京亦庄国家信创园举行。来自全国各地的 OPC 创业者完成 8 周系统课程与实操演练，带着可量化的项目进展，正式从这座“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241146&amp;idx=1&amp;sn=e845d60ff6a3610262735200829a3455&amp;chksm=bfc11968ecfc83b20ba7ac164d508ae8e733ac4e8457723a634f5d2f3fec93e75f8757467460&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVoMc4n9fpVvLyuSJ85cO6B7dARQeGG9ibcSp0Im7P6ic5NxhXCOk6SdDDgiage1Pob31ZCPsAxicGkTOCu45qm0xwCguCIHRty5sI/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239040&amp;idx=1&amp;sn=b4af7b27c59730dea39b109eda7e1fe8&amp;chksm=bfbdf16c72cfc258d8e3d04a9f4e269bcb058d3836451f9d127786fe50a43f16bf145b9785e0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:12:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI，最终幻想]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXBUOlvgFDZszFVlWaB0ltk79Le4g43SlrNWqeiclQzhrZDV75CL1alt4dRUQ4x1UyTryVib3qgW3KY3INsQNYOYdZeDaWnPZ7ZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>距离当前服务器 500 公里外，某处废墟里有一块 1980 年代德国产的精密钢片，因特定的晶体结构和氧化程度，能发出最纯净的中音 C。ClaudeDot，一个挂在 macOS 菜单栏里的小圆点，当 C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239006&amp;idx=1&amp;sn=135f99e4bad03807967ef6a5872c2671&amp;chksm=bf252ffacfa6a03dc06e4c61d319b8c1a1261cdc4f30bff7257075460dd8e7534ce8e3c9504d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 11 Apr 2026 11:23:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[红帽撤离中国，一个时代的落幕。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXT3CZbcpJyW1CFPSDb8aooaT42nh5EKaI9zGAHc9mEYKtiasMiamTwE4IVSRv7N9ibsMribzgudP6RyScA3yzqejI0RMXO1picEmwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在每天人声鼎沸的 AI 声浪中，一条突发消息让我们恍惚了一下： 红帽（Red Hat）宣布停止在中国的全部工程活动，仅保留销售和支持职能，裁撤 419 名研发员工，雇佣关系统一于 2026 年 7 月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650238986&amp;idx=1&amp;sn=d3aa5babb9149734bb6349ab89ddab7d&amp;chksm=bff47334add0cacca95244aec0e203b34f637249a57991b77fd33f8f645d9a87422b5caff8e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 15:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

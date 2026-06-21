@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ELF GOT Hook 实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3HtoYdNFWYqUeyLrCwd4lvBibPHoY5SiaiafdicFHOBKt57g4d60icIpvHzLz0gF0VViaLQ70M5c4HVb3LTRXZUEFuKMxTicjR6Ibiccg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近沉迷某游戏，排位连跪，手机正好有 root，于是开始研究内核G。找到一个好用的G，但卡密高达 一天 8 元。本着「能动手就别动钱包」的原则，决定研究如何破解卡密验证。初步分析第一步：识别文件格式拿</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616803&amp;idx=1&amp;sn=169a63cd320c405cc6f793cb0611de1d&amp;chksm=b00ac21fa60a205d5ac8922d33d3c6a731d1ff583b6829c689167c5d519527003025141a2a28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic最强AI数小时攻破NSA全密级系统，美国次日紧急封杀模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1S5iajIZc0EKkRVO2AgLsyxm99zic1Ct8zGdSPLm2PCfd9GavkicM64QNPtWgViavWrfqUSDOtHwTo44OP77hS1A9YnICeLKxric9E/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨夜，一则来自美国参议院情报委员会副主席的爆料，瞬间点燃了全球科技与安全圈。 Anthropic 的旗舰模型 Mythos，在一次授权的安全演练中，竟然在短短几小时内，就渗透了美国国家安全局（NSA）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616803&amp;idx=2&amp;sn=2da1a6091197c3cf2616f3c9f507b251&amp;chksm=b00c175444e6c46629192e7079642a5729355643f39db5fd8ac51cee61e42982ac3190ff74fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大模型落地必学！提示词越狱与防御]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616803&amp;idx=3&amp;sn=73bff545f301784c953e5a54ec67cda1&amp;chksm=b088c2fc7fb398e501fa49195629f5b7048af489ebc8a3aa98b87b1e5add67792867ea77887c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[面向复现的逆向工程实践：Hermes 在设备刷写、提权与 Frida 魔改中的自动化能力验证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1HMTk7pL8kfeM1smnyCvpUBlDfxlX0Wvfckxeic6vGSfdibXf2hRfa7Dkk6Xsib8ER72WiczchvSovqR0SK1XNicHcPcSeHJoq1be4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hermes 是一个 CLI AI Agent，能自主执行复杂的工程任务。但它的真正可怕之处不在于「自动化」，而在于自动进化——每一次执行都在学习，每一次错误都在积累经验，每一次成功都在固化最优路径。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=1&amp;sn=219d3d357722602c80071a048c05a2b7&amp;chksm=b01d4e73bc99b374e055a831f28d5618e2d997a7b9d6b4a6a2da4e373a12b1ab63f01da9d47e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ea2W9U8R21NfF9OK3Yck3qMYsMRRstujTTgErxkXFJxLUtjOw5YSibchQaSRpiclFTh8ZQ1UFTZ5RA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Android 应用开发如火如荼，而深入了解其底层原理和掌握强大的工具，能让你在开发、测试以及安全分析等领域如虎添翼。你想了解Android应用的实现原理吗？你想掌握应用层加密数据的解密方法吗？亦或是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=3&amp;sn=43b3c9ad34feb2302a954a372971e74e&amp;chksm=b0b6f89951b2a8b05153c4203b1f9dca471b6eb433884b33c21cfee37012dc0c0729de282d02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪·2026 KCTF 防守方规则出炉！全网火热征题进行中（新增AI赛道）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K31cLdDUO79k46E7EW3b2ic46dSd58SQu6nzuKPab0pQU0iaYpwd54AV7AtL6dNXm98Nq7Y8xy48xqdCLLibVdhlRgIYzKNUia7laU/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月5日征题截止 *文末抽奖福利别错过永夜十二时辰，破壁智竞启新章！看雪・2026 KCTF 重磅来袭，作为国内安全圈积淀深厚、口碑载道的顶级攻防竞技赛事，本届大赛紧跟 AI 技术浪潮全面革新，新增</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=1&amp;sn=6836c87fff9b825a3d068bb98dd2a8fe&amp;chksm=b039240386963abdee5da0078e7279dc91415b08fe5972d5d0394dca186452e292631c554869&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于LLVM的通用自包含化(Shellcode)编译器开发思路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0s6v5Kg70mqV6x4j7xqPKh3wP49uiaAQHOeHB5D6sDawxNpkZKxndsZ4MNUhLhOhlvp9aZf3RTBbNoic67O1CQicz1fhO5Y8gKXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章旨在帮助想要开发自己shellcode编译器的朋友，为你们提供思路与解决方案。由于文章产物的特殊性本文将不会提供代码，请各位读者在阅读完文章之后自行实现。在x64系统的时代shellcode的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=2&amp;sn=78d6f9684285c9b2f339ab01f3ca37f0&amp;chksm=b0c16343837bb327f5f9c398b738497809d6ed63ab3c34a12d29f387ca785987986bbe6b99be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安卓惊现零点击核弹漏洞！远程Shell权限被轻易窃取，PoC已公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Jg9M7tXtx8JpVW2PtK8ROKoegMHwEJLq6e0G3S8q1VjAicfER96ZshdocnJqZrEyvv0fQJlOpJbkWl2Yj0PHFyxj6pteYb3Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月，谷歌发布的Android安全公告中，曝光了一个零点击高危漏洞（CVE-2026-0073），该漏洞存在于安卓系统核心的adbd守护进程中，已被BARGHEST安全研究团队披露并公开了完</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614891&amp;idx=3&amp;sn=0de81f82941d24d10b76da58cb08c893&amp;chksm=b0e39d1b23290ca9f3d366aa2be4c2895ed95cb25413741d27314b7082fdd155013e9b3d6bfb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 17:59:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

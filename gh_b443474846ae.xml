@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNglejF3tPVviaGX0nPYNa8DBy4hAJgWciaH7oxgQ9ecmibOYOsjibJzwbgLcXlicT8Q2xArL5iav0v35g9kpOJY6BwAXJzNnAxZfMwbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 &amp; 编辑 | Jun采访嘉宾 | 邱锡鹏 人工智能正在经历从"文本优先"向"深度融入物理世界"的范式转移。过去三年，行业竞争长期聚焦于大模型的参数规模与文本窗口的绝对长度，但当大模型开始走向真实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=1&amp;sn=5bbce67700d93c8c3ece905011bd64a7&amp;chksm=bcea52a567152dc5ce08de311bb5c86dc37b0f3ed1a63022694b0c5bdcc75899f84443a0e485&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 12:53:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaOQJhHoyQtLmXW5WEgRAaOrk9twEo95GuFwdDYflVbyarYibicA7mmcbuibDPpSqZzqERbO9awWCr6jDpSWxTkbTCMWZDiazn4j4k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Paul Sawers 译者 | 平川 策划 | Tina 本文最初发布于博客 TheNewStack。初创公司 Lindy 将其全部 AI 代理流量从 Anthropic 转移到了 Dee</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=2&amp;sn=cde599d579c02a1339cc36f183039487&amp;chksm=bcb4294799515418bb4e75c01c896ccad3c50c1d3f93c374a623a5ba273ecd20b85d687fcbc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 12:53:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjhNmR2szKP2HEBTv8ia1akv29l3HCicuicU3adpqs9Bia5v72Cyl5ibhiax1s6X5qTXibrfRYgrvEFIWcEzgFCicQ7bzZ3nq6gBM8EQ0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 平川 谷歌表示，Gemma 4 12B 旨在“将具有自主性的多模态智能直接带入到你的笔记本电脑”，并进一步指出，该新模型可以与 Google AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=3&amp;sn=f06146e3f8420e3c4175eab95514c426&amp;chksm=bca802f96a284ee20173ef4f6398eb5275d533e0371a7f7190f362d2f2e002428e15bb2e6a5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 12:53:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhM6PYiceS2XM4Tq406hIzMuSvqF2sG1hCGFdG2YnXDABd2LcRibicZUGxHIMos6D95ZwAOMsiaozrfnTgVjKYPibzTFricISu2S9Sxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Bruno Couriol 译者 | 平川 近日，Vercel Labs 开源了 zero-native，这是一个用于原生桌面应用的跨平台框架（未来版本计划支持移动应用）。Zero-nati</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=4&amp;sn=93eb12b4bdea16b6ec153670a165bd4d&amp;chksm=bcb5a85c9de30bfed78124247098b0492021c5da864cc987b1d7100f24acce445c1f7062c848&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 12:53:53 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[阿里云智能集团高级技术专家刘少伟已确认出席 AICon 上海站，并分享如何构建企业 Agent 的自动化行动架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiawibCsvp2lK7MbicGxGiblwefogbHYRBZKaRaMmx1sibRVfBpKrx8eRP8Fv5fiaX1iaUeZECKvGvSCnD7ZiaUAG65o79ksMgj4NNVo0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？6 月 26 日 -6 月 27 日，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=5&amp;sn=dfb8839b5f12eee2e70bdb8197f02908&amp;chksm=bcec3537c978a89a7221de50b02d859e9ab8ee4a24f48e4e2dfa0bb2a752d8fe024afb1a6cc2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 12:53:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm41xWsOeyQTT1uFmCkvSR5y7yIFbaBsc9PyutIxhLCxASM6BoNH5YoLCAX3icHspr94ic8neKIYkLf41gsa0ehB2I5a0cBia7icSF4/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜冬梅 近期，在 LangChain 举办的智能体大会 Interrupt 上，吴恩达与 LangChain 创始人 Harrison Chase 进行了一场关于 AI Agent 的对谈。整场交</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287454&amp;idx=1&amp;sn=9de7ef2850b77e5f02b4864387d74121&amp;chksm=bca106d768e9a84f91f0fd07a2d566716574d9e006d46f6623702887b68b1aa469ed44622d6d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhKYHib25OWTTF9MicibIzSCbRaOWaUtK2zFYBiaIBnvOUuq2doy69KK0lB2RGDu08LAAPc3AIHca9bfH57hnPTJ76qAwayvgMibj2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜Tina “我已经看到一些高级开发者开始退休了——因为他们不想再处理这种验证工作：你每次改代码、改提示词，生成出来的东西都会变。”75 岁的 C++ 之父 Bjarne Strous</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=1&amp;sn=8def52cd5134d0d7d63c11d8082d50bb&amp;chksm=bc3a9348cf0a56c249d4603df97eb44a41713dac026c3df3000c81588ef90dad6ebae5e3704a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[未来十年的数据工程：从 Modern Data Stack 到 Data Engineering Harness]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj9P8UdUwiaIK04tTzWh71ZufAekWRqoTdDzibE2ukqLicTA40icw8fHhMaXSiaa2wVG5QpmFBk0mNafjCZib8SttPAwl7RwIrCPcIKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 郭炜 过去十年，数据工程的主线，是 Modern Data Stack 对传统数仓体系的一次拆解与重组。我们把数据采集从数据库里拆出来，形成了 Data Ingestion，用 FiveTr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=2&amp;sn=5c23074f3af5947257ff7433f0aefc08&amp;chksm=bcd119fe27550acb86a97067364d2737413663611770f4b62d9c65e06dc495cd8a8a86f27a6f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从批处理迁移到微批次流式处理的实战经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhSA9hw5BSflZp0ibNKWGxtZCiaITwXBhQeh7txILiaF6TE4BjgBhWmDpZ9OsXsVAj3GibYiaibBUhkiaU2RQAsfyDv6jF49hMl1k40EA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Parveen Saini 译者 ｜ 平川 简介许多被描述为批处理系统的数据管道，实际上都已经是以近乎不间断的方式运行。它们频繁地处理增量数据——通常采用重叠窗口机制，其主要作用是缩小两次大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=3&amp;sn=65e243d1f8b07f17841e2f279a06d9d2&amp;chksm=bc0cb83259a38a8652e70474d536f3c60671aa8199ae13805e360d5f89ac9efc8bcac460f43f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基准测试表明：AI 智能体可修复独立漏洞，却难以理解系统范围影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh2AcNpHicxANsPlz3luVOgyHRI6gY9TfRAIDCeU702Su1n3axckYeMmyre9HZsHCibgsoiaZuawiaQ163L6yIxbfxib2gRyDabB8WE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Claudio Masolo 译者 ｜ 明知山 Brandon Foley 在 CNCF 博客上发布 了一项基准测试研究，证实 AI 编码智能体能够发现并修复孤立的漏洞，但它们通常难以理解系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=4&amp;sn=f508904645cafe31ab98c092375036a0&amp;chksm=bcb5fe98dd62cd569682a2d85bf82de6cc6d41abf6bdc6a04ba24182ed50702c2c12084f045b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别再骂 Claude 限速了，Boris 亲口承认：最挑剔的用户，反而最离不开我们]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaeVGpUYgxZ5T8G9YAjATf0ZOyA0sjRKnJcwuB5AlQmNAJGZqZTRg4ial6zXpa61S4XkeU9y9HHf59RENIkmQPAuDm6Lj6gruZY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 在硅谷，越来越多开发者开始形成一种奇怪的工作状态：白天，他们像项目经理一样给 AI 分配任务，到了晚上，他们则像云计算调度员一样，同时运行数百个 Agent。而这，正在成为 Anthrop</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=1&amp;sn=654a8dbfb7a95af6aa865cd2f78d7929&amp;chksm=bc441946f01aca9f3a50ea934a97dbb00df3584c4d1f6cd292e577d7318c0692b6d78fa39c95&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent“记忆断片”如何破局？Memory正成为AI的新战场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhbjtrRdqFCpbprLOHAQ5LByicbk8p4ib8Cia1YnWwQ9iaoIajH8K7RvtSfqgDU10TVRlIK1ItfAQE3P94LzGzibw90nVaiafPy9aStk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | AICon 全球人工智能开发与应用大会 策划 | 李忠良 编辑 | 宇琪 你是否也遇到过这种尴尬：在 ChatGPT 里刚定好的方案，换到 Cursor 写代码时，一切又要重头说起。Agen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285054&amp;idx=2&amp;sn=26f078b1748651209808458963178fa0&amp;chksm=bc90815d02bdba0d265204aba49cc499ce406da919bd490177cc93be1645b7a26a2b79e13729&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 16:41:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

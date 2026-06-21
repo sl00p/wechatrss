@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 开源的音频生成大模型太惊艳了，有意思。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU21Lco77ic8c5ZJesVT1KapGyUdqET0eBFJn2TmF5upAB5f0U5NEE5MfsCGNRmQVmqfDYjRO29yqibNUic4lvQFiciaXFmPN2HVsvrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>先来看下面这个视频。主要是听听每一个场景的配音。这个视频中，风刮玻璃、狂野感的森林环境音和鸟叫声、火球发射后爆炸声音、布鞋踩在松软草原的声音。这些一系列场景的配音都是 AI 生成的。也就是通过今天要推</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534781&amp;idx=1&amp;sn=7e0d30b3b621dc9af8fe7491d6964898&amp;chksm=f82b5bce24413410c668dcafca5377d93fb6a33db6de1c1287cc7bb05bd91d62e98a0649cc7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 14:59:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[慢慢吃掉你的 Claude Code，在终端里养一只黑洞。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2IFic2sgzhHlKXQnibNRswMUrsrY2eia0Ab7icakGwzgjpChdBQqZBUjQ8RswqltQLZ4KGyOvp7y9yfwmsRFfq4u7oQW4HrORV6XA/640?wxtype=jpeg&amp;wxfrom=0"/><p>刷推的时候看到一张动图：Ghostty 终端里飘着一只黑洞，慢慢长大，把屏幕里的字一点点吃掉。这只黑洞的食量，是 Claude Code 的上下文窗口。你和 Claude Code 聊天的时候，聊着聊</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534710&amp;idx=1&amp;sn=bc6942a274888a111c0b69d23f2fa1e7&amp;chksm=f88dff06309a125c82cd509a6bb1145de5d779be106d5610801df304c3af1ae53698e44b05e7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU25tqWCFeKNxKZXSibNBfZibicgn9fVBM0N4OJzw0DKVFOJoO8sVicULmBogXMlnZu5lbzW1aicEfN6yibs6IFwiawUXtAiax6S6BmvJz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 GitHub 上发现了一个叫 ccstatusline 的开源项目，6.7K 的Star。专门给 Claude Code CLI 加一个实时状态栏。用 Claude Code 的人都知道，默认</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532971&amp;idx=1&amp;sn=529a78c0e14922b380c6c88e4b62b66f&amp;chksm=f8cf659d247457f279113e9d8e4834cde881355ee941420a522fbec6eb231c6405af5a30c163&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Apr 2026 13:05:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[帮你节省 65% 的 token，这个 GitHub 项目让 Claude 模仿原始人。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3RD4CWtnv2NKOXtHIv2Cmb7DlU5BWE2J3KVqToxsG9XMgX6iaaO1vh2XLiauRWs0vGPhFqNHCzu2VfIQDNKw3MRZTxhh4iaiau4ow/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 Caveman 的开源项目，可能是最近全球开发者圈子里最有意思的 AI 省钱方案了。前几天看到一个帖子，标题大概是教 Claude 用原始人语言说话来省 token。我当时觉得这什么鬼，点进去</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532965&amp;idx=1&amp;sn=20af71b5883c8ce5d6714179cd8871f4&amp;chksm=f8f7216986c2d231598a4fd771467521b0324c3edaf7aec02f6dc1bc6d4c24d8e1876aacf2cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 12:36:54 +0800</pubDate>
     </item>
   </channel>
 </rss>

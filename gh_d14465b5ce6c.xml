@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：eliqiao一、什么是 Loop EngineeringLoop Engineering 是由谷歌工程师 Addy Osmani 提出的 AI 编程新范式。其核心理念是：围绕大模型构建自主循环</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802117&amp;idx=1&amp;sn=a91a32e0b00305c1a30f4a6684c3c6b2&amp;chksm=bfae1a14301dc6b28e18035a124a239020fdd3f3d3ea26af1b044f631a22e9ec81b30ca8c0a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 22 Jun 2026 17:21:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906yLicFicu38vURmYibn0aoFY0z3QeEuk0iax3gwD67K3OiclCLQUaypAm7iaHV9GtulAnGJUl7wRlvvyIAeCEwen9BdicCw4HHUPx4mk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chaserenHarness Eval：一套面向 Harness 工作流的、轻量的、可回归的闭环评测系统。一、一个让人不安的事实：你的Harness工作流可能一直在“裸奔”你有没有这样的经历？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802116&amp;idx=1&amp;sn=8886f8c0078cc85a39ac97fa2deff22a&amp;chksm=bf6379cb706dbd76feb06b0ddd058acaa25d2cd98b56ca5ccd31209d49418d355e3410e5456d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904ltSQfLBtWicKTws3FG9gibjhjKvC3jqRzGJDz73Uibq34eoJMpV4eyIo8XyGdka8WAN0Y6VNAxAdeZtln1BfWN3T2PEMWl1pnFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>开工大吉！粉丝抽奖福利</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800436&amp;idx=1&amp;sn=550e1b614d8d8223de94ae2d4c45d469&amp;chksm=bf8544905398ebdb3255abdca3cbf9c0cc19ab53154b00925565ff7730e3eb629342d55c7288&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Feb 2026 09:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[马斯克说到做到：开源X平台核心推荐算法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905YPpWlDvQhFMAgoVsBIe9WObNCYxPOnNILrFbsf4m5c2Nff92icgwWVCa1kUZ6VV5IHaQfDdYWJN1ZOGzE4tqFkEcEgvhvviaOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯广告推荐技术团队，周超博士1，X开源内容推荐Feed on X召回、精排推理、策略代码。参数配置小应是简化版本。 2，召回是双塔模型，用户塔输入是【用户特征，S长度的行为序列】，内容塔是帖子</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800086&amp;idx=1&amp;sn=ecf2702e487f771cf5470dc74d94032e&amp;chksm=bf8226707afb4d6bb8b56c9296e28a746b2bd5166e504f5f9412db6ff8d27a10721929324e7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 17:39:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
