@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当 Agent 替你值班：基于 Devix 构建 7x24 自动化运维 Harness Engineering]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xfcFrqWibOhJia74icEG1KjkU3Nj2viak6CG1noSmS0og5XZZyCJGgpOqYvhmP59UW8ze4ia6pPjXsnhbictCkRTNjuMJx4WibHMibRdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章记录了我们如何在 Devix 上构建一套 7x24 自动化运维系统——通过 Harness Engineering 为 AI Agent 建立可控的工程框架，使其能诊断故障、分级决策</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561199&amp;idx=1&amp;sn=c62b6db6dcc2bd3e63bc8bc4aa7498bf&amp;chksm=e82ba5a11394ec70acfc2ab55f2d85926edcf7301124a00e4704749618c83f611d33b6d78769&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 09:46:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xg2ExNQ9CUKSibXdCPFcuwyaicnpxaVUaA66ON0M35DBzSceJ9mn3Cwb8HxlGMyhephph4ibqGuBomCfZndUNeLFDONCJGibYic4JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。摘要在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。Kafka、Ic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561192&amp;idx=1&amp;sn=125069c1fabd3e8d3295c00eb13f8236&amp;chksm=e8afa6720fd72997e5a4946c0994fce4dac133ec20c90cc498f7156dd3964e547c8d9bd82928&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wZyjxLzP85ouqDZA0ZxaCvJuTBOCiaibDVMJNZlnr3ufHUUFwpkq1JmPMZticBG67vtkAzwLGL7IDickqUSdjLTl3nkh0dhVcN5GU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景最近OpenClaw如日中天，俨然已经是当下最热门并实用的个人助理。OpenClaw已经是我每日深度使用的效率工具，作为技术人，忍不住想系统性扒一下其技术架构与实现细节。当然了，本文也是通过与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558933&amp;idx=1&amp;sn=926e244c855c44c818d83c6c7d57d4d3&amp;chksm=e8c1d410dd50be597dc5b6b519825c71928bea8746629a552ad5fc769db6b9611f7078e24916&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 19 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我给 OpenClaw 杀了 47 次僵尸进程，终于想明白了一些事]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y3HS5MZgbYgVfNqQqDBicicpUsWyq05eKsrZHSdU75XvuYlywPYicrTrsXtTdzE98I2bMniaKc2DLWFgsCoQGoqwWFHML6TGsic480/640?wxtype=jpeg&amp;wxfrom=0"/><p>全文导读吐槽了部署和二开OpenClaw踩过的坑吐槽了钉钉通道集成的问题探究了OpenClaw为啥火对比了本地模式和云上沙箱反思了Skill 与传统Agent 工程反思了AI 交付产品的局限性Gate</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558931&amp;idx=1&amp;sn=daa49b88ccebc097b00b35d91c730667&amp;chksm=e8f75600e76354f7146eeaa7dbcdbe80ee0685757d1cdb3bcad3d5d38b512aef063db7b0b008&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

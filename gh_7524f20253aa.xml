@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI推出"修补地球"项目，以AI维护开源供应链安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX38bWIxspeT1W0l0QnPQNfW0xeT6yV86IhjYQpf3XUFxTu9MgcvcMOCYvSarGypApbKic1jtkXtm9IYiaiaY2t12AbTNkqSAjhqZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，OpenAI发布Daybreak（破晓）网络安全计划，一口气甩出三张牌：满血版GPT-5.5-Cyber、更新版Codex Security、以及一个听起来就很燃的项目——Patch the P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341079&amp;idx=1&amp;sn=6817c4fd4ad9af8393f63e2fbc249b7e&amp;chksm=bc5a9a40fc98bf5d3e1e52a20d579d92ae2e4b550cb32c7feb740bbb82841b3d7d2c16ef6c9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Mythos Preview发现潜藏29年的“Squidbleed”漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2K3yvU4BAgS7WjVXQh6qtyp2XT31fRgSvibhG3tzTDm5upg5Cgd87wh8Bt7sRZ54XGnobWTWLgZZF5FcicT5z4Vf78avr7qmGvY/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员在Squid代理软件中发现了一个类似Heartbleed的堆缓冲区越界读取漏洞，该漏洞自1997年以来一直存在，可悄无声息地泄露同一代理上其他用户的HTTP头信息（包括密码和API密钥）。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341079&amp;idx=2&amp;sn=0787223af3c9a1ff28668160b775a0d7&amp;chksm=bce17f2ad9ac169c9549647c1547a07b59c9d19785ab4af8d79038a8742a686fce19c3f1b3eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客入侵GitHub上万个代码库植入恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xfDNgR97DsIj8ibuVzCFl2Ff2Nrozyzps2j34FKrTEYs9m1TDZic5fCMgY5xTChIfibASAtUQDfnJEbJxoxMZtz2JEB5ezYu7Ro/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现 GitHub 平台上存在大规模恶意软件传播活动，超过 10,000 个代码库分发含有木马的压缩包，这引发了对平台信任模型滥用及自动化检测局限性的担忧。Part01恶意活动发现过程调查始于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341079&amp;idx=3&amp;sn=974eb4ee75af6fd1071fdf5dcc2ab270&amp;chksm=bc9fc08be36b0d73e2d6303c3fa492ba487909692f2801022fd45bf02d75b075d4e667a05c92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[俄罗斯FortiBleed行动窃取1.1亿凭证，43万台设备沦陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1BbpknUFseYgt3SqQA2icohaYhDj80ibsoWrFnaicibr3SS79AppibLe4rnGicJM33azKTyoKbLLs1Az4mdMugQGWRWYfpaVglSycUI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击概况FortiBleed行动已针对43万台以上FortiGate设备发起攻击，窃取1.1亿组凭证，通过大规模凭证窃取实施入侵。SOCRadar威胁研究团队（STRU）发布的最新威胁情报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341079&amp;idx=4&amp;sn=210670e7cd7728314ce8886bd7cbfe41&amp;chksm=bcf94ef56df317f8efcc55c9f3ce57a3f2e09cb73e206b128b9f782baeb7234898b97a6194d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic Mythos可在数小时内攻破美国国安局机密系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1NQ4Nw8IKOjkt2osY6Vw5cu96UjlsShU3ZT4hUibVibiadAkgb9oUFLgMPs6VIIOHlT2uNNgVR3yjOlCm6w1lWwj0Hk12ibamVoSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，在6月11日进行的授权红队评估中，Anthropic旗舰产品Mythos AI模型在数小时内就渗透了美国国家安全局（NSA）几乎所有机密系统。这一事件似乎成为次日美国政府发布广泛出口管制指令的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340988&amp;idx=1&amp;sn=0937f2692c838e2a62e89dde8d9dbe41&amp;chksm=bc9228296877078c4e87812aeeef33545d0b33fa50626039d1a3898e2ba37450e373ef55f70b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0cia6EVpayLg2lvOayxRH5nmiatWyvfeNcDAhibIKha6ibr6cqQZV8ypfnUxjNIMenBvzjOJVQz058Jac4XiaQaJD7Xia9rQncgHXfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月18日，代号"巨齿鲨"（Megalodon）的大规模自动化供应链攻击席卷GitHub平台，在不到六小时内向超过5,500个代码库注入了恶意CI/CD后门，创下GitHub Actions</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=1&amp;sn=dd66d976ba859ff0e6e9bc87cf508605&amp;chksm=bc71bd659a12f5ee135ac03120ebe805f9052e7532d33fb8bee22934dc8f49b49f86061dc68a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[潜伏九年的Linux内核漏洞可致攻击者窃取SSH私钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1lcuKeHMr2MAaJ1yVhpV8ayh8icJCgr63hKnrU4vPAFNbMLAibo3l3FicPHyYZ25eLqCsxlicvsMC7vMTuRRtNAePHUgaF7qicgclQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在零窗口期成为常态的今天，"更快打补丁"或"更好打补丁"已不足够。安全团队需要基于**预设失陷模型（assume-breach model）**的新策略：默认入侵必然发生，关键在于实时检测和快速遏制。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=2&amp;sn=95204e4a1beb949598be3dfdb69eb67c&amp;chksm=bceadfdc256820e4c4c38688adf3a1d701b44c461a2ad9119f6e8de2a2d8f8a8aab2083c33b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Apache Flink 高危漏洞可导致远程代码执行攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX03TVttpzlv12wxicYKeUN2bicEYib6RXQCRLK6c0Rkrib88iaNyeGhDKth2f2dLIWZIPHmP9TRaJu5IMibwZ5O51D07bicBZSECIaHuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Apache Flink近日披露一个编号为CVE-2026-35194的高危漏洞，该漏洞通过平台代码生成引擎中的SQL注入缺陷，使分布式数据处理环境面临远程代码执行（RCE）攻击风险。Part01漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=3&amp;sn=07818886fec26f891e566b3e19fc4bbb&amp;chksm=bc73217ac31f753db549a504ff9d617366b9299443fa8e54b827cb2011135cf2f2cec9b33fa3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Orchid Security安全报告：三分之二非人类账户处于失控状态]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2H6TxlkAISFuyuhJaTUaneomGdkaBq7yc9vJqWkJdFH7B1JiaWicqP3Sk8Sas9kLwSkib2uiafF7iaR3IyTIsVTM2ia6owozZDXcKX8/640?wxtype=jpeg&amp;wxfrom=0"/><p>致力于解决核心身份安全问题的Orchid Security 今日发布《身份鸿沟：2026年现状报告》，揭示当前大多数企业身份信息实际游离于身份与访问管理系统（IAM）的监管范围之外。报告发现，企业环境</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338571&amp;idx=4&amp;sn=79a445e3f8b55fe7deb5856b8ae031b8&amp;chksm=bccb87b588c30db02425103e90eceb0806222b537cc90b4e6a0ed662a96defc188081e28c115&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 19:51:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code沙箱漏洞5个月未修复，攻击者可窃取凭证与源码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2UTRC9laF49q5aVoBCQpxIXPk5fpZcQCyFIOhmiblSaOtc9DeVYfdm4NNGgGuHCQ1sQmEY1ObawLx8DkdLmGycAl10ljQrMmPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司的Claude Code AI编程助手存在一个关键的网络沙箱绕过漏洞，持续时间长达五个多月。攻击者可借此窃取开发者系统中的凭证、源代码和环境变量，而该公司未就这两起事件发布任何公</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338501&amp;idx=1&amp;sn=22dae0f2845a5f1a47a57995a41c3d7c&amp;chksm=bcc009ef6f9f936972a0b1006c96546564a990c7761e243825e02ae0bee5d45bc90df7369cfe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

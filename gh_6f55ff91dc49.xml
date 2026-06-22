@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 GitHub 有意思啊，Claude Code + Obsidian = 知识库王炸。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2ibUTwJgfc0zTqdjuUWJrjf29I2nxQDdww8nAibPKDjYdt3tibG3FSFYtQFT62KdicKDNZFeDRXbzWpPOIaXeFEL9uwefj3DgeYLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 2026 年 4 月在 GitHub 上贴过一条 gist，标题叫 LLM Wiki。不详细介绍了， 之前提过。大意是说，理想的知识库就该让 LLM 自己来读、自己来链接、自己来维护</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534782&amp;idx=1&amp;sn=68b619e09e4e00e7b1d78a925a778d3a&amp;chksm=f86dc6989f1209773e73d033068d9d59b838dffa6a3c559e183fe1cee13092463609668636a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 13:08:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 开源的音频生成大模型太惊艳了，有意思。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU21Lco77ic8c5ZJesVT1KapGyUdqET0eBFJn2TmF5upAB5f0U5NEE5MfsCGNRmQVmqfDYjRO29yqibNUic4lvQFiciaXFmPN2HVsvrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>先来看下面这个视频。主要是听听每一个场景的配音。这个视频中，风刮玻璃、狂野感的森林环境音和鸟叫声、火球发射后爆炸声音、布鞋踩在松软草原的声音。这些一系列场景的配音都是 AI 生成的。也就是通过今天要推</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534781&amp;idx=1&amp;sn=7e0d30b3b621dc9af8fe7491d6964898&amp;chksm=f82b5bce24413410c668dcafca5377d93fb6a33db6de1c1287cc7bb05bd91d62e98a0649cc7b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3SibGrSTOwCHNuD4OqTiaVBGXsBq4YibmR2llXlBMicBlvCJW7f4B2NkFMwcLFbyICe2NHsuiav4BS2RBg5CWNZWic7gqXUDfMWo4co/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛逛在自己一个老的 Mac 电脑上部署了 OpenClaw。我把老的 Mac 所有数据和配置都重置了，专门用来养龙虾。但是自己的主力电脑没有装龙虾，我很多工作流都是在我主力电脑的 Claude Cod</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532986&amp;idx=1&amp;sn=d93844d4566df1b9a29ea273078d5151&amp;chksm=f8fe40284f3f9c4be1f935f339d57ea2430be5bcfcb580fb539b7b13737452765a1819b41c9d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 16:05:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给你的 Claude Code 装上一个超酷的状态栏。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU25tqWCFeKNxKZXSibNBfZibicgn9fVBM0N4OJzw0DKVFOJoO8sVicULmBogXMlnZu5lbzW1aicEfN6yibs6IFwiawUXtAiax6S6BmvJz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 GitHub 上发现了一个叫 ccstatusline 的开源项目，6.7K 的Star。专门给 Claude Code CLI 加一个实时状态栏。用 Claude Code 的人都知道，默认</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532971&amp;idx=1&amp;sn=529a78c0e14922b380c6c88e4b62b66f&amp;chksm=f8cf659d247457f279113e9d8e4834cde881355ee941420a522fbec6eb231c6405af5a30c163&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 13:05:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

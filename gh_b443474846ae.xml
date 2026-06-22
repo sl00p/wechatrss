@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[人人都是 Builder 的时代，企业的真正挑战是“怎么管”？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgDNBY4qoUEIQib7m6Fy67rECjALs9vWuibHpMHgwFYChMWhic9XDnsH4ucQvZ6iaOpibmK2Ys7qHqaevU432BDkVlOL5VwE03Ixzfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>撰稿 ｜ 150 克 先看两个数字。第一个：用 Vibe Coding 做出应用的人里，有 63% 此前从未当过开发者。第二个：安克创新只用了十二个月，就把零星几个智能体扩成 600 多个流程 Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=1&amp;sn=01ea72d3a308f0b8583909f81913a56e&amp;chksm=bc95b75f9eef3d65f73acf44a24cb557223f818e19c32338639fe35a6f6cd31affe0511d6145&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:55:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Dashboard 和 Alert 走到尽头，可观测性正在被 AI 接管]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjko8Qh0NMTbCWcchKXicCN6ViaUiaARUevibE2k7veQE97aOgA9dhSIwj39JicnPadW2g0HXJFTXxRNhT0mNUq5wJtOHygiaqfIhaRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪 策划 | Tina 你可能已经习惯了用 dashboard 看系统、用 alert 发现问题，但问题是，当一个系统有成百上千个服务、每天产生海量数据时，你真的还能看见它吗？作为领先的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=2&amp;sn=f6c2230d2726894419aeed93dfd5ef2d&amp;chksm=bcbd255ef2d8854df7b6726d92afdbd09b826af5d2cf2bf8c5a7403d15c1b0bc756e7925a84b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:55:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[数据库到底该怎么选？TDSQL 用一套内核给出了三个答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj815azWkWrLcickib8lZ8VR26eTqb6O66Pdjcad56g5j2Rxhica0otcE9icPnwhicnz0hug1d5JJTYAdw9HTqsGDRGB2jyLSKKYWNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去几年，企业对数据库的需求分化越来越明显。一类场景需要数据库足够轻量、部署简单、成本可控—中小型业务、SaaS 被集成、行业垂直应用，追求"开箱即用、一台服务器就能跑起来"；另一类场景持续追求更强的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=3&amp;sn=a40f03ed52fdaec9fe8725a23bd4e7e4&amp;chksm=bc8e35258f735e0235050971bb0fe01ee49fad24fb7dd0cb0ac158c6f6cc5ea04d7ed80b97ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:55:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Terraform MCP Server 发布，助力 AI 助手对接 Terraform 基础设施]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaROFd60CUk2GB08t0bhI15JQSqWxciacxmkPSE6ibe4jf49Qia5ia2nJ3DCkem9XBhvxDjpHXDxCsmeHkX6IrmOLLTWAGHfL2k4MU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 在大模型能力如此强大的当下，模型背后智能的生产和交付，仍远没有实现工业化。九章云极副总裁胡宗星给出了一个直观的数据对比：顶级 8 卡 GP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=4&amp;sn=552eee133dd1d60c4aec3f7bf8300b59&amp;chksm=bc4c37c40392beb18ba9005b9b5b578c89806d8f34f7d94fadddd66968a2ebf5475f9bf9a048&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:55:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQtK3rbIXuRygSTnKWClL6F75tk5PJtJ6aEZXiaNzIvdGvTEJneRmwicRdEhoy7KD6clI2tX2XibtxoppYQiaWXKFbosnPRQmiayOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？6 月 26 日 -6 月 27 日，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=5&amp;sn=2d53a40e939de6419ee3bd24820f5a40&amp;chksm=bcafde5f5b95ce515d1de4e19a1d5acf47d4ba055e41e9ab27c26790508c8c68a859d237e238&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 20:55:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MOSS 全模态技术体系全解析：统一离散化建模、推理优化与情境数据构建路径]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNglejF3tPVviaGX0nPYNa8DBy4hAJgWciaH7oxgQ9ecmibOYOsjibJzwbgLcXlicT8Q2xArL5iav0v35g9kpOJY6BwAXJzNnAxZfMwbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 &amp; 编辑 | Jun采访嘉宾 | 邱锡鹏 人工智能正在经历从"文本优先"向"深度融入物理世界"的范式转移。过去三年，行业竞争长期聚焦于大模型的参数规模与文本窗口的绝对长度，但当大模型开始走向真实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287490&amp;idx=1&amp;sn=5bbce67700d93c8c3ece905011bd64a7&amp;chksm=bcea52a567152dc5ce08de311bb5c86dc37b0f3ed1a63022694b0c5bdcc75899f84443a0e485&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgBQbWH1XOt15sD63UibxoFCa5Bd3HxT425t6HegPHGrliaWheZ7nHsJXmQuCyJiaNtur47NsGPt6tDCsXnlx50CVtAKpmQRTianpY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 平川 Anthropic 通过两项面向企业的功能 扩展 了其 Claude Managed Agents 平台：自托管沙箱和 MCP 隧道（t</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=4&amp;sn=8d615360a54bf818f7a3b4ff4f426110&amp;chksm=bc4fb408858869a44126c91cc298befe96234587c3bd5ace65ac77e4c485659af57869635be6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 16:36:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[硅谷深陷算力荒：H200一夜涨价30%，H100抢到缺货，Karpathy也未能幸免]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaqmq84dapQwVyWq8wibJqicXhb0RIp2ibZCda1NEKL0Y8nTsaoZeefpUoKndBOBmThJ4jEm8bMnmtsPhWjjOEiblMcl4y84mlDWLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 四月 2026 年 5 月的硅谷，对于 AI 算力的“饥荒”和焦虑，正达到一个前所未有的高度。哪怕那些站在算力中心的人，也不得不开始为算力排队。在英伟达，负责应用深度学习研究团队的 Brya</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285214&amp;idx=1&amp;sn=2a56c4c18ce8de4a44d10a4b9b0ca2bb&amp;chksm=bc60cd94cd0720d92751d08f3aa841928b8a718fcf4bb7fff2d1eb3a31e28ac2c14e00483317&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgNsZRia3lWRcVIiaLXZcskrDsjMGjQ9QaYKAV6SbmugRREhRUGBiaFwdhmKDcrRDLWfZjass5oVSOXPTfHAT4n3MeicCqUrSYNSys/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 在微软内部，如今的 GitHub 正在遭遇一场生存级别的危机。当微软在 2018 年宣布以 75 亿美元收购 GitHub 时，开发者们曾感到不安。一些人担心微软会控制这家全球最大的代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285214&amp;idx=2&amp;sn=6d10cfe59192e76a301883ac5166ad7b&amp;chksm=bce7b2fe3572a12d668c2c740e4f0a78afe32396017e0adf9bac04e8e80d77516b19f4193e6c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[消息积压方面的数学知识：用于队列恢复的容量规划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaicOlJNXdI61bUzTNOEbNkXvIlC5XicYwn5XeiaLvwoHEliaAsicIdOZXqeVicuH3qBGQSMfS1EMl4iablKvicIYKWCGVMcDPAa4QN2Ps/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Rajesh Kumar Pandey 译者 ｜ 张卫滨 引 言去年，我在辅导的一个团队遇到过一个你们很多人可能都经历过的场景。某个下游依赖（一张在写入突发下被限流的 DynamoDB</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285214&amp;idx=3&amp;sn=f5a257b10f607c92f5b8c07d7b1c488c&amp;chksm=bca9fa484e43282ef2bc8e238b792298a6cb89bc186705e8cd37edf9d1e56e32aa8a40bb5170&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 开源 Symphony：面向自主编码智能体编排的 SPEC 规范文档]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaLGsXiakVHaaWMCaRCJwBAlu3jKJ75a5ndsVYlJcsKc1JHjEtcTtxVeWC2cANc9MLuPByJHgZzbJey61F16ylpUf5qucmxjQKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Sergio De Simone 译者 ｜ 明知山 OpenAI Symphony 是一个智能体编排器，它使用项目管理工具（如问题追踪器）作为控制平面来协调多个编码智能体。开发者不再需要管理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285214&amp;idx=4&amp;sn=9ea4923fc5f63239cd948d52f06043ef&amp;chksm=bcbabf5ef3c3eaebef6c6763f84b8f9f2dc8db0d6c16ce1afd3b649ddc9a789e8658d0a9901f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhKYHib25OWTTF9MicibIzSCbRaOWaUtK2zFYBiaIBnvOUuq2doy69KK0lB2RGDu08LAAPc3AIHca9bfH57hnPTJ76qAwayvgMibj2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜Tina “我已经看到一些高级开发者开始退休了——因为他们不想再处理这种验证工作：你每次改代码、改提示词，生成出来的东西都会变。”75 岁的 C++ 之父 Bjarne Strous</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285134&amp;idx=1&amp;sn=8def52cd5134d0d7d63c11d8082d50bb&amp;chksm=bc3a9348cf0a56c249d4603df97eb44a41713dac026c3df3000c81588ef90dad6ebae5e3704a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

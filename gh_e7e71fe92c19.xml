@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ret2dlresolve分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1lOGnxkKLSRVX8Eoiau6wcopNaBmy0QZtHIiahd0ro2l2kCbqDejBaP74zteq8E0LBcfTLNwE65wRsvNKhjnJCWIGquYU0xF2uY/640?wxtype=jpeg&amp;wxfrom=0"/><p>该方法最大的作用在无法泄露libc时可以调用libc中的函数，其本质是向一个地址，写入一个值，而这两个部分都可以在一定程度上被控制的。分析源码前，先看一些相关的结构体与宏。结构体.dynamic该节存</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=1&amp;sn=6754cf279a5824193e7817edc480ca63&amp;chksm=b0c5da44626e2481731078e9b3db348535555984408bf4b51cc57b5ad9de483f8354827cbbbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[移动的边界｜HG TALK 第三期：对话非克]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K37oNh7lzebiahny3CWXoub76HKgzEp3vGCKpsWcFGqdwpEntuJsf4fv5V6xUue55Yfl6FLibx8txZutsdQ4SFy0S8Puw5cHfyY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术不分咖位，热爱才是一切。上一期，我们把噪音变成了信号。这一期，我们坐进一辆“看不见的车”里——和一位在移动边界上找漏洞的人，聊聊密码、车轮与机器的安全感。非克，奇车安全战队队长，车联网与具身智能安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=2&amp;sn=69b7ee6ba44d741518ab9d60150708fe&amp;chksm=b0f46de39dbf9842e09015f223e16b39af79786088d458f69e5eb607b0e3c8ebbb3178b3c974&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[潜伏29年！Squidbleed 漏洞曝光，明文账号 Cookie 直接泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1elAicMSeIqicgbOCKssFGIWicYa2ynbbNKphJialjalN3NUsaordJxPPZibyMI48iaYEs8UPwQy7gFJhI49WwWS0uTtrKtto2zW9WM/640?wxtype=jpeg&amp;wxfrom=0"/><p>0129年前埋下的定时炸弹来自Calif.io的安全研究人员近日披露了一个存在于Squid代理服务器中长达29年的严重内存泄露漏洞，因其攻击方式与当年臭名昭著的Heartbleed极为相似，被命名为S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=3&amp;sn=5ef5283583b302e88636f5228fd3b47b&amp;chksm=b09144fe43e89f06c2d500490886e6c982470d1397bd199869b76e5acacb00a78cc7494de443&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ELF GOT Hook 实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3HtoYdNFWYqUeyLrCwd4lvBibPHoY5SiaiafdicFHOBKt57g4d60icIpvHzLz0gF0VViaLQ70M5c4HVb3LTRXZUEFuKMxTicjR6Ibiccg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近沉迷某游戏，排位连跪，手机正好有 root，于是开始研究内核G。找到一个好用的G，但卡密高达 一天 8 元。本着「能动手就别动钱包」的原则，决定研究如何破解卡密验证。初步分析第一步：识别文件格式拿</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616803&amp;idx=1&amp;sn=169a63cd320c405cc6f793cb0611de1d&amp;chksm=b00ac21fa60a205d5ac8922d33d3c6a731d1ff583b6829c689167c5d519527003025141a2a28&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K38DALkxBgp5ziabjNMnhtcicFBh1rpOfdoZfK2opkZ0xbvZLtk7Aunia5txwPrUdqDib7eat9G16S9y8aExWN6r6nictVOvDdFkG7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01北京嘀嘀无限科技发展有限公司移动端逆向工程师薪资面议就职地点：北京弘源新时代B座岗位职责1. 负</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615201&amp;idx=3&amp;sn=8e54f348219b624f501a5c13224b853a&amp;chksm=b00e1815acd4fe37fc23d7ce509e1dccbd382f7f74ff577534df520d42db93db38fd8a1b7726&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 18:01:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逆向手的锋刃：IDA Hook从入门到实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Jydw1u7FDv5J9JiaOr15aGIae6sgtAo2bG0hr4Cy34AmkIOtiaSIIXZxlbGWRCzKxK3gZddTtbFCvHBHNwWaDL40Q9UibI5ruIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>第一次接触 IDA Hook，是从“我想在断点命中时自动打印某些信息”开始的，再往后会发现，Hook 真正的价值并不只是“输出些信息”，而是它能把调试器事件统一交给脚本处理。对逆向来说，这个能力很实用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=1&amp;sn=79c099e0ec100935324f543ad6ce93f2&amp;chksm=b0bcfb03ed2c257eea6fa2aa22e08746c4885441d843b7ea5649fe20edab1999cd48ce501bfb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[打了补丁也没用？一张旧证书，让BitLocker加密5分钟沦陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K23PCs2I0ZwueQwBWewek3qVmJ2o6B2iaGKbGicma2aRibB6pcDu6239XqWrfmjAdVEIZEhA8JdOJtTM5h6dL5VQ8vtUhEnicEV8hg/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞曝光：5分钟绕过BitLocker加密防线安全研究机构Intrinsec近日发布重磅研究，一款名为BitUnlocker的工具可在5分钟内突破Windows 11的BitLocker全盘加密保护，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=2&amp;sn=5053ac937efd151db9375b7813b86c9f&amp;chksm=b0efbcf6836c4842c0963474e941bb956d9322af74204abf14dda6b416eedc7898252fcb4825&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在应用层开启“上帝模式” ，实现加密数据的解密和自动化测试]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8Ea2W9U8R21NfF9OK3Yck3qMYsMRRstujTTgErxkXFJxLUtjOw5YSibchQaSRpiclFTh8ZQ1UFTZ5RA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Android 应用开发如火如荼，而深入了解其底层原理和掌握强大的工具，能让你在开发、测试以及安全分析等领域如虎添翼。你想了解Android应用的实现原理吗？你想掌握应用层加密数据的解密方法吗？亦或是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458614900&amp;idx=3&amp;sn=43b3c9ad34feb2302a954a372971e74e&amp;chksm=b0b6f89951b2a8b05153c4203b1f9dca471b6eb433884b33c21cfee37012dc0c0729de282d02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 18:03:43 +0800</pubDate>
     </item>
   </channel>
 </rss>

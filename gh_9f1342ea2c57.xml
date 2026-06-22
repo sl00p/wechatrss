@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[提示词：排查 ~/.codex/logs_2.sqlite 是否因为 TRACE 日志导致持续高频磁盘写入 修复提示词：先备份，再用 SQLite trigger 拦截 logs 表, 并 checkpoint/truncate WAL,最后采样确认 MAX(id) 和 WAL 不再增长 官方已经回复：这个问题现已修复！ 但还是有人反应官方修复的不行，需要的可以自己根据上面提示词修复一下。]]></title>
+      <description><![CDATA[<p>提示词：排查 ~/.codex/logs_2.sqlite 是否因为 TRACE 日志导致持续高频磁盘写入 修复提示词：先备份，再用 SQLite trigger 拦截 logs 表, 并 chec</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535328&amp;idx=1&amp;sn=de185a17cc699f6363ac2039b4f811a9&amp;chksm=eb4657b7a01a999e55f9ebb23451e04b78e8245e58cc3d9c18550ec45f56a9e800c93f01db97&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[雷军路边吃面被指模仿黄仁勋，官方晒多年素材澄清：出差边走边拍早已是常态]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0Miau5C28rTHhBrT5aB8WBicTkwicf7BIvzjZTs17DPJa5sHOicGAuOo5sdbU36bicDGs6Up0YljuoupH285wWgTHyl4BG09FXyc158JXxGaedicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年6月15日清晨，雷军回到武汉，在大成路老字号丽华早点，坐在街边塑料小板凳吃热干面、面窝、绿豆汤，当场发微博分享，迅速冲上热搜。 现场多名摄像、工作人员全程跟拍，路过小学生一句“吃个早饭还要这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535324&amp;idx=1&amp;sn=74a727206b975817965e61146c96c459&amp;chksm=eb7ad0b705dedf8dce7bbac2acec7e1a4748fa7907a3fba6c199eea311c49f372771480aa96e&amp;scene=0&amp;xtrack=1#rd</link>

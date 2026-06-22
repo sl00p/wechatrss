@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你讲卫生吗？ Enri，一位腾讯AI产品工程师， 过去半年Enri和大模型打交道，最大收获就两个字：卫生。 不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决策带宽不会。脏活干多了，模型变傻，脑子也跟着乱。 以下七条实战经验： 一、锁死模型配置 很多工具默认"自适应思考"，实际上它会让Token 消耗失控。正确做法是固定配置：推理档位锁死 high，关掉自适应，思考预算设上限 32K，关掉超长上下文，设定 200K 自动压缩。降智是你没把档位锁死，不是模型变笨。 二、固定内容别动，利用缓存 模型对完全相同的输入前缀有缓存命中机制，重复使用只需十分之一的费用。长期不变的内容（如身份、业务、输出偏好、原则、约束）固定下来，不要每次重新组织语言。临时放本次任务、材料、目标、截止时间。变动的成本远高于你想象。 三、别喂 PPT PPT、Word 这类复杂格式文件包含大量排版控制信息，喂给模型会消耗 80% 以上的无效 Token。先转成 Markdown 再喂。格式是给人看的，Markdown 是给模型看的。 四、别让会话变垃圾桶 超长会话堆积历史日志和工具调用记录，模型翻旧账，又贵又慢。换任务就开新对话，跑偏了重开重说背景，距上一条超一小时也重开。只有同一任务连续推进且不足一小时，留原对话才划算。 五、让 AI 看一段，别扫一片 用 @ 精准指定文件或函数，别让 AI 自己扫描整个项目。@文件名引用文件，@函数名引用函数，选中代码直接改。改一个验证规则从扫几十个文件降到几百 Token，差距是几十倍。能 @ 函数不 @ 文件，能 @ 文件不靠扫描。 六、让模型先问 告诉模型"你一次问我一个问题，帮我把思路理清"，等它问完再整理成文档，产出的 AI 感会弱很多。或先问"你需要我给你什么信息才能完成得更好？"，让模型主动暴露你的盲区。让模型先问，比让模型先猜便宜。 七、把想和干拆开 用顶配模型讨论方案，只出方案不动文件；然后交给便宜模型机械执行。顶配模型不需要读取整个项目，消耗降 3-5 倍；便宜模型不思考只管干，Token 极便宜。机械的活交给机器，思考留给最贵的脑子。 这些习惯不是为了省钱。Token 会继续变便宜，但你的思考带宽和注意力不会。AI 太便宜反而容易滥用——一十个 Agent 全开，扫整个项目，无限试错无限返工。 你的决策带宽有限。对自己前额叶好点，注意 AI 时代的工作卫生。]]></title>
+      <description><![CDATA[<p>你讲卫生吗？ Enri，一位腾讯AI产品工程师， 过去半年Enri和大模型打交道，最大收获就两个字：卫生。 不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802164&amp;idx=1&amp;sn=cbd6e39ed31765be87a5a97846dab9a8&amp;chksm=bfb237901f607d3eddef8e21ee26e5b952ab705eb43837516c156014cc60ee9d8ebe45163b1a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 18:44:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Loop Engineering 实践指南：在 Code Buddy 中构建自主循环系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906NjWbW9fb7bSyM329L0VtXtibAaEsAzl5aAMf0Mj5A9obCPqicVC6yVZrIJQky0yfR91DWicOlLCkjvumZfNZklmvBXNrmI5CAWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：eliqiao一、什么是 Loop EngineeringLoop Engineering 是由谷歌工程师 Addy Osmani 提出的 AI 编程新范式。其核心理念是：围绕大模型构建自主循环</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802117&amp;idx=1&amp;sn=a91a32e0b00305c1a30f4a6684c3c6b2&amp;chksm=bfae1a14301dc6b28e18035a124a239020fdd3f3d3ea26af1b044f631a22e9ec81b30ca8c0a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906TFEm6gABpIIUPLcDRnhnTMIPZic6iaurYf0B0vlMDLCFUVfWHfrkPryUZhjECJeKs2KwWibicssxicKSVgV5TRd8Sjfuqx8eKaxEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：bingbingxu近期包括Anthropic / Google / 微软 在内的科技巨头 发布了对2026年AI发展的预测，本文收集8家大厂预测报告，看看他们是怎么看2026年AI发展趋势的。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800448&amp;idx=1&amp;sn=5de78e382a2029bd8a8d31813f2f1e90&amp;chksm=bf61e919481961431b56b83c579d3f43e19f82a3b205f15cb735d7dcffd498ffb3a9cbb20c11&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Feb 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刮！刮！刮！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904ltSQfLBtWicKTws3FG9gibjhjKvC3jqRzGJDz73Uibq34eoJMpV4eyIo8XyGdka8WAN0Y6VNAxAdeZtln1BfWN3T2PEMWl1pnFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>开工大吉！粉丝抽奖福利</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800436&amp;idx=1&amp;sn=550e1b614d8d8223de94ae2d4c45d469&amp;chksm=bf8544905398ebdb3255abdca3cbf9c0cc19ab53154b00925565ff7730e3eb629342d55c7288&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 24 Feb 2026 09:49:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

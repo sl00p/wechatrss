@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Harness架构到Token经济学的探索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr65fXIHicgLN7OW5gac2arJ0WEZF1UJrNfsLrK6kIaE6j2Oiaa32UmFNXXKa6BuXDamyREkHtJYrW5o7GhxZHjtyibhvicx9g2CROU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文基于真实工程实践，结合 Harness Engineering 领域的学术论文，分享 AI 辅助编程的架构思考、工程落地与 Token 成本优化。01Par</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695963&amp;idx=1&amp;sn=29f18a2db784e1ddb56796af76543688&amp;chksm=ebf8802f43fa1a287579360a5b869b34193c8cc73b61256c0de5c789d61fe1818cd8dd6a50ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 23 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[20年架构老兵的AI探索，让WorkBuddy帮你超越身边的人]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4fGMuKibXrja6GcF09aV0QficFHTicTGjmkyU1ibD57OgxicgrF9VgKD3qTQGqf4TaTTqC7XIib19lbhlIibBvSyvJmiaVs5TnYH41ozo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇李伟山是一位有着 20年从业经验的架构师，也是腾讯云架构师同盟的明星成员，此前曾在腾讯云开发者账号上分享了多篇 AI Agent爆款文章：一文讲透如何构建Har</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695957&amp;idx=1&amp;sn=9b0b6956f078f79196bd515d301d56ec&amp;chksm=eb093b9dc6d5620b0b3f9681b81d30ee5bcc345c8b29ddf6c9ecd62d568f7fbd8aa2af2285cd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5Kb6tyrsqbX5psMOf3XA0QfAHUg99Hibiaicj2J9SXwp1ewBol8gXsMdu8C7Wk8sdcOB2WGuaQXGctlpJQIUGiakeUVAzxbj6ESvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01SKills的推导首先，我将谈谈我所理解的Skills形成的推导过程，我们需要跳出“结果”视角，从零开始思考Skills的由来。有趣的是：我们需要从另外一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694809&amp;idx=1&amp;sn=e42c180cf660e9d16b8a37c43c75b2ba&amp;chksm=ebe3a84b2f3b21eea5293dc6664628c5978fec7c24e11520680dea7cbef5e7ea389b71dd9279&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，腾讯发布OpenClaw办公网防护方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6O1FibibxxxpKzngu3euCvaofovk8ko8Ky6Dak1wR5YQAiaz20uASGcrVMp8sicvddvibwiawfFAyuDZtMtn7icRxsOYicIruzPiaTLJpM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇在企业数字化转型的浪潮中，AI 智能体正以前所未有的速度接管“双手”。“龙虾（OpenClaw）”爆火之下，数据泄露、恶意越权、权限失控、内网穿透等安全风险，也</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694807&amp;idx=1&amp;sn=ab459c10a7ead719048aa1e30692d961&amp;chksm=eb6a85b44d55c4110932632885047248326f6a3a26243ddad0a31ec9ad7e35b2b8eb49f48e1b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
