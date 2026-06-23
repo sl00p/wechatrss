@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从0到1带你速通 Marvis马维斯]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：蟹钳AI技术飞速发展的今天，能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。很多非技术出身的朋友看完很多Agent 之后的第一反应都是：东西确实厉害，但我用不上。这句话其实挺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802248&amp;idx=1&amp;sn=5091aa9c4be79a49c871a5503386135f&amp;chksm=bf9c418d31388fa72034bca2fbd6e18e06e1be5d72d0c022861731def6f7329ab8fddedac249&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 20:19:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026腾讯犀牛鸟开源人才培养计划正式开启]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906nehQfE12pShMK1sXRuhz2R8b4npVzK7Ro2yzj96YICftPZkTm8uc7EoHA7By6hVINJqxcS5CN1AWpEuVkc39tLcvOossiaa6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、腾讯犀牛鸟开源人才培养计划自2021年以来，腾讯持续开展“犀牛鸟开源人才培养计划”，响应国家开源政策，打造面向高校学生的开源课程和开源实践培养方案。该计划由教育部计算机类专业教学指导委员会、教育部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802248&amp;idx=2&amp;sn=192920746656c75f76d8fc634989642c&amp;chksm=bfdb6dedc834c20f88bc3cb2e6bbaef2e0c66e02646b4316328a52883ee8af13c5000697543b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 20:19:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你讲卫生吗？ Enri，一位腾讯AI产品工程师， 过去半年Enri和大模型打交道，最大收获就两个字：卫生。 不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决策带宽不会。脏活干多了，模型变傻，脑子也跟着乱。 以下七条实战经验： 一、锁死模型配置 很多工具默认"自适应思考"，实际上它会让Token 消耗失控。正确做法是固定配置：推理档位锁死 high，关掉自适应，思考预算设上限 32K，关掉超长上下文，设定 200K 自动压缩。降智是你没把档位锁死，不是模型变笨。 二、固定内容别动，利用缓存 模型对完全相同的输入前缀有缓存命中机制，重复使用只需十分之一的费用。长期不变的内容（如身份、业务、输出偏好、原则、约束）固定下来，不要每次重新组织语言。临时放本次任务、材料、目标、截止时间。变动的成本远高于你想象。 三、别喂 PPT PPT、Word 这类复杂格式文件包含大量排版控制信息，喂给模型会消耗 80% 以上的无效 Token。先转成 Markdown 再喂。格式是给人看的，Markdown 是给模型看的。 四、别让会话变垃圾桶 超长会话堆积历史日志和工具调用记录，模型翻旧账，又贵又慢。换任务就开新对话，跑偏了重开重说背景，距上一条超一小时也重开。只有同一任务连续推进且不足一小时，留原对话才划算。 五、让 AI 看一段，别扫一片 用 @ 精准指定文件或函数，别让 AI 自己扫描整个项目。@文件名引用文件，@函数名引用函数，选中代码直接改。改一个验证规则从扫几十个文件降到几百 Token，差距是几十倍。能 @ 函数不 @ 文件，能 @ 文件不靠扫描。 六、让模型先问 告诉模型"你一次问我一个问题，帮我把思路理清"，等它问完再整理成文档，产出的 AI 感会弱很多。或先问"你需要我给你什么信息才能完成得更好？"，让模型主动暴露你的盲区。让模型先问，比让模型先猜便宜。 七、把想和干拆开 用顶配模型讨论方案，只出方案不动文件；然后交给便宜模型机械执行。顶配模型不需要读取整个项目，消耗降 3-5 倍；便宜模型不思考只管干，Token 极便宜。机械的活交给机器，思考留给最贵的脑子。 这些习惯不是为了省钱。Token 会继续变便宜，但你的思考带宽和注意力不会。AI 太便宜反而容易滥用——一十个 Agent 全开，扫整个项目，无限试错无限返工。 你的决策带宽有限。对自己前额叶好点，注意 AI 时代的工作卫生。]]></title>
       <description><![CDATA[<p>你讲卫生吗？ Enri，一位腾讯AI产品工程师， 过去半年Enri和大模型打交道，最大收获就两个字：卫生。 不是物理卫生，是交互习惯的卫生。Token 越来越便宜，但你的注意力和决</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802164&amp;idx=1&amp;sn=cbd6e39ed31765be87a5a97846dab9a8&amp;chksm=bfb237901f607d3eddef8e21ee26e5b952ab705eb43837516c156014cc60ee9d8ebe45163b1a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905MQRIf4LmibiaK4u5G5xZeoqic2SjJ0USj2VFiaoO828a9XgZtvAbStxwZjgkOCYcDHZZb5zYxgtEQCbHTslvgS7n7onGIH7debhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景落地一个Agent容易，但通过一定机制自动持续优化Agent却很难，不知道大家当前自动优化agent的方式有哪些？今天不聊 Agent 怎么搭，来聊聊：让Agent 自己优化自己的方式。以下为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800512&amp;idx=1&amp;sn=39495794598597587bb783b651b1fe3e&amp;chksm=bf43289c2630d52c34c01889e484b1a6cd2c05b123f3c26791845df32537285f98412f178e0e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Mar 2026 17:59:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编程的下半场来了？学会用Agent Skill解决编程的痛点问题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905pBfYrkib0GGibXKXiaessaOGiaia9Ln4L7v8ccuGwBdQ2iciaghR5JI1MlbvOTxEYI7PIY6wN0tomKtreAWmIYhFHp7ZzUuOE4HGO7k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：bookerzhao如何把 8 年云端经验装进你的 AI 开发工具，让AI从"实习生"变成"持证上岗的专家"。分享如何用 Agent Skill 解决 AI Coding 领域的痛点问题，也分享</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800483&amp;idx=1&amp;sn=080b2791ddb9b01088722831fc04acdc&amp;chksm=bf06445a81241f8ac601216dfaa89a401aa1cd165b876d7329d5c35f79f9102286f74d54550e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年AI趋势全面预测，全球科技巨头与顶尖机构研判]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906TFEm6gABpIIUPLcDRnhnTMIPZic6iaurYf0B0vlMDLCFUVfWHfrkPryUZhjECJeKs2KwWibicssxicKSVgV5TRd8Sjfuqx8eKaxEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：bingbingxu近期包括Anthropic / Google / 微软 在内的科技巨头 发布了对2026年AI发展的预测，本文收集8家大厂预测报告，看看他们是怎么看2026年AI发展趋势的。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800448&amp;idx=1&amp;sn=5de78e382a2029bd8a8d31813f2f1e90&amp;chksm=bf61e919481961431b56b83c579d3f43e19f82a3b205f15cb735d7dcffd498ffb3a9cbb20c11&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

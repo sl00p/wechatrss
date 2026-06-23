@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿里重磅开源！Open Code Review：一周 5k star，为你的代码保驾护航]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zhvoBOlnREXicSRic9qicv9bBeEvlnu0uEIazNw5UXibHmS2VqUVugOdBB3U25k55ZVueHIQtp2t950QCeAjvQXq3RdlKicic9Ttofc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言AI 每天生成的代码量已经远超人工评审的上限 —— 以前每天 review 几百行，现在动辄几千、几万行。代码评审，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561229&amp;idx=1&amp;sn=edf43caeaaf1f167136b9c5c25359fa2&amp;chksm=e8e0e55a833f677ce1885a5099b8fd5f60bea21f4485c332fac45a2ae4ddcb858a639f1e3b2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当 Agent 替你值班：基于 Devix 构建 7x24 自动化运维 Harness Engineering]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xfcFrqWibOhJia74icEG1KjkU3Nj2viak6CG1noSmS0og5XZZyCJGgpOqYvhmP59UW8ze4ia6pPjXsnhbictCkRTNjuMJx4WibHMibRdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章记录了我们如何在 Devix 上构建一套 7x24 自动化运维系统——通过 Harness Engineering 为 AI Agent 建立可控的工程框架，使其能诊断故障、分级决策</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561199&amp;idx=1&amp;sn=c62b6db6dcc2bd3e63bc8bc4aa7498bf&amp;chksm=e82ba5a11394ec70acfc2ab55f2d85926edcf7301124a00e4704749618c83f611d33b6d78769&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xwl6nice7ctepOicVZterpIeMZiaS74lHFeDuDEhlxqn4lA9taoLU0ZiaFuT10fTNozw45zbNW8KNR4z8zcCaZRuI5PciavfYmziaBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们服务阿里巴巴多条业务线（淘天、闪购、爱橙、云智能、高德、饿了么、1688、蚂蚁、菜鸟等）、众多社区用户（如友邦、海尔、建设银行等）、超 1000+智能体应用实践经验积累。本文发表</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558948&amp;idx=1&amp;sn=91740771339567d7bbf31aa9b697a2c8&amp;chksm=e88c9249df65bb4ae3c98f69628eedc8fc66229c96722ba003b80fa5a40238185eb336290d89&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入理解OpenClaw技术架构与实现原理（上）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wZyjxLzP85ouqDZA0ZxaCvJuTBOCiaibDVMJNZlnr3ufHUUFwpkq1JmPMZticBG67vtkAzwLGL7IDickqUSdjLTl3nkh0dhVcN5GU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景最近OpenClaw如日中天，俨然已经是当下最热门并实用的个人助理。OpenClaw已经是我每日深度使用的效率工具，作为技术人，忍不住想系统性扒一下其技术架构与实现细节。当然了，本文也是通过与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558933&amp;idx=1&amp;sn=926e244c855c44c818d83c6c7d57d4d3&amp;chksm=e8c1d410dd50be597dc5b6b519825c71928bea8746629a552ad5fc769db6b9611f7078e24916&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

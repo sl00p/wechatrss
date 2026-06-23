@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘（覆盖10+厂商、30+高危CVE）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=1&amp;sn=dca56c624bc3cea8fc248b38a91b560f&amp;chksm=b005befe85f159322a9431f901d232958bcffe8dd1b4951aa86c563eeb672925c7247a55cdcf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cocos2d-x Lua 手游多层加固与协议签名逆向实战记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1dFYLtnopVVcwSUmibsbOicXORHRBDP9yibju40ocXr2P8IAVfhRpvVgrNKQkI75k7BgH4iaOQhUX8iaroYfLk6xkjNcLAI0YgRlws/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概况这次拿到的是一个 Cocos2d-x + Lua 写的棋牌马甲包，目标很明确：把它的请求签名 sign 还原出来，方便后续做接口分析。但这个app主要难在两点：壳套了好几层，Java 壳里套</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=2&amp;sn=749fa2c21ffc456f8293a4a016481219&amp;chksm=b02ec715b62a34d04a36aa541349e5b594d8263adfb34fa0072299fad294d0bc7bd9bd62b708&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[43万台防火墙被集体“窃听”，1.1亿账号密码遭洗劫！FortiGate用户紧急自查]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0I3ZfiaIAVzfZcbju5WA0gGzmyKKfSzliaCwCdsRD5dhLfEct0JCvuJ2B5iajbqtEphs2KPxNOHtib6bJ83Eo22iaqN3zicR43bn4So/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场隐秘而凶猛的大规模凭证窃取行动，正在全球范围内撕开企业网络的安全边界。被命名为 FortiBleed 的攻击活动，已经悄无声息地攻陷了超过43万台 FortiGate 防火墙，直接从实时网络流量中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=3&amp;sn=ba3179089abb26c3e85d151c8bb85db4&amp;chksm=b0c502ab86b33704e6724b469ffe02f73231d37c6db442e15ec9b6e2af83eff55b4547e5c0af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ret2dlresolve分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1lOGnxkKLSRVX8Eoiau6wcopNaBmy0QZtHIiahd0ro2l2kCbqDejBaP74zteq8E0LBcfTLNwE65wRsvNKhjnJCWIGquYU0xF2uY/640?wxtype=jpeg&amp;wxfrom=0"/><p>该方法最大的作用在无法泄露libc时可以调用libc中的函数，其本质是向一个地址，写入一个值，而这两个部分都可以在一定程度上被控制的。分析源码前，先看一些相关的结构体与宏。结构体.dynamic该节存</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=1&amp;sn=6754cf279a5824193e7817edc480ca63&amp;chksm=b0c5da44626e2481731078e9b3db348535555984408bf4b51cc57b5ad9de483f8354827cbbbd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有问必答，知无不言，言无不尽，用心服务！更有职业推介服务，全方位简历指导/服务就业！1、开学大礼包现在购课，可获开学礼包3W班高研网课开学大礼包：测试手机pixel62W班高研网课开学大礼包：测试手机</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615202&amp;idx=2&amp;sn=5c80b9f8f8e820562225aaa39105a622&amp;chksm=b0783dd832f56d4f01959a23164f5025b1b61b59867f106d26d7115842ad2443b1f9576080f6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 16 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果耗时5年、耗资10亿打造M5终极防线，竟被 3人+Mythos 在5天内击穿]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3TNvq686LgYsplTpBv9ODvZy4BjvQPGUNg29sa04ia53XO9BEffD0y2SF2tiaHBL8WGwHiaqKaiclkG1AuSYZ55so0EkngicekFTBI/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，一场足以改写全球安全格局的“闪电战”在硅谷悄悄落幕。加州帕洛阿尔托的安全研究公司Calif，借助Anthropic的超强AI模型Mythos，仅用5天就彻底绕过了苹果为M5芯片量身打造的硬件级内</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615201&amp;idx=1&amp;sn=da9a2a7a270713481a130e70a2c58de9&amp;chksm=b07f8d744dbdb3f375708af3f7584816ca33d03b9adcc6f2cb20ac0e2fe74f8aa65a4ec281cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 18:01:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026腾讯游戏安全PC初赛：新手使用IDAPRO+AI结合参赛分析复盘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3qNInw2Cnt0V5jsX8zpTRvjfiaxMWwmbNWicRDXwrara91PAq3saDKIsQGEonHkDhksmNKN4B8NvtFlTYiaicIicktQhPgK5KcWM4Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章是我对 ShadowGate 题目的完整复盘整理版。和之前的阶段性记录不同，这一版的目标不是只写“我已经做到哪”，而是尽可能把整道题的分析链路整理完整。不过我想把边界说清楚：文中有一部分内容，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615201&amp;idx=2&amp;sn=f2c10c689bfe9244953152b299ff9e8a&amp;chksm=b049bf17244cb275722ddbc09cdf736579fa4e5c3cda66abde4123bc936dd7338300fa05d57b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 18:01:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周更新职位：薪资最高70k，企业直招一键投递]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K38DALkxBgp5ziabjNMnhtcicFBh1rpOfdoZfK2opkZ0xbvZLtk7Aunia5txwPrUdqDib7eat9G16S9y8aExWN6r6nictVOvDdFkG7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01北京嘀嘀无限科技发展有限公司移动端逆向工程师薪资面议就职地点：北京弘源新时代B座岗位职责1. 负</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615201&amp;idx=3&amp;sn=8e54f348219b624f501a5c13224b853a&amp;chksm=b00e1815acd4fe37fc23d7ce509e1dccbd382f7f74ff577534df520d42db93db38fd8a1b7726&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 18:01:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

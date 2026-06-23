@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Deno Desktop入场，TypeScript桌面应用开发的第四种选择]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhX83yyib2T9BG1Ue2YCxsReMeGfQ10qEBibRZhNERz2rLFgFBHpAMhbCMPtBWoTY5PxZEbks28pvT56IicgbW4kibUKqmsKdr0ibOk4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 2026 年的桌面应用开发领域，如果你用 JavaScript 或 TypeScript 写一个带 UI 的程序并想分发给用户，摆在你面前的选择本质上是三选一：• Electron，功能全但打包</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241253&amp;idx=1&amp;sn=4ca565a62e4043d852ea73326a9a7aa4&amp;chksm=bf32afcc3f0042db9f13e5f3cd6d201fdd80651269ef6c1a0a98a226891fb94f30a95fb456a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 15:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯云Makers Agent重磅升级：新增对 AI Agent 的原生支持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVAGgWLG2pzL3yVcN0MSWUuqATpFOC8SNCzae2J1tmLosIgicnbZMxVFxKB8iaznDbcBmZicGrLX20wQicjiapjOE7gxKZzYBDm5SAY/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月23日，腾讯云发布了EdgeOne Makers的Agent开发托管能力。 这件事本身不意外，Makers自去年12月正式上线，已经吸引了30万用户，60万个站点，靠3200多个边缘节点做全球分发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241253&amp;idx=2&amp;sn=58bf072a2740a2182c9f9c9eca7b5c3c&amp;chksm=bfcb26da161d19a778213153e9ef5531a1541e98ba462e8bbc5e7bd9be50d3a9bc13764e6f45&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 15:49:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 高调“入股”，Rust 党可以开香槟了？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhWaqr7rgbcUDOOtu0QhePICpPa9B3HSpUeChH4FXfALYXjkQxLzbUeqDlmNzXERTa7DUQPrbOWCwJvd5IHaxiaibJTibQ6pFnYlyc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日 Rust 基金会官宣 OpenAI 成为新的白金会员。这家估值近万亿美元的硅谷大模型巨头承诺掏出 60 万美元，这笔钱包括首期会员费和额外用于生态维护的捐赠。与此同时，Predrag Grue</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241178&amp;idx=1&amp;sn=917022ff40e092957371d04346c63f61&amp;chksm=bf9179d994e25d4ff15432a19f5a913faac62baa9beb90b2dde144260326eabe935d90467401&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUUbmOO8FcZrGYK93OHg1BruI3EI3GymbHtwJDjtlm9DN2uiaKddRibsAAXjn3VFMNjUoYXnBtKJC2licYU8WRcuZOyia0qRyAyCWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这段视频揭示了机器人领域一个非常直接的现实：让机器在真实世界中学会行动，依然代价高昂。这个乍看有些反乌托邦的场景，其实也指向了一个关键瓶颈。机器人无法像语言模型那样，从海量互联网文本中学习到有用的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239242&amp;idx=1&amp;sn=ab779c284a213297a8bd31da46389f1e&amp;chksm=bfb143853d6a008ca8c2d57ce25ca63236ad7c47b065b4c636bd5345966f2f2bd8966084b4de&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 15:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 默认生成 React，Vue 正在被大模型抛弃吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVCX2zQ7AUyeGhzAvibzic59fpnHttjYz7tUqGic3Fr2qy7ib8K7UVPAHeDsGanMYoPrO1atxbjrWfSGZA8cktmWHicfH5wuA5xdPmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>早在去年 1 月，Vibe Coding 概念被正式提出之前，Vue.js 官方在 GitHub 社区发起了一次不同寻常的讨论。帖子标题是“Official Vue.js AI Rules File</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239154&amp;idx=1&amp;sn=47e0cd15d305f87b66348235fd7b389e&amp;chksm=bfcc66ea27ba6d59c614692a05435957e3bf276747bef9e3a0e528c28b08090571f8e1ca4365&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 16:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高德全量开源具身操作基座模型ABot-M0]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXgbxCoGR9NmjsIbpaqrPiciboBadXK2RKuT3GwYwKdJdT8HWeZPYkza7WqlFhOMmc2csiaBePgiaGP2W8pOqSDsN39RpysTonnmYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>高德宣布正式全量开源ABot-M0——全球首个基于统一架构的机器人具身操作基座模型，可实现一个“通用大脑”适配多种形态的具身机器人。据悉，该模型在Libero、Libero-Plus、RoboCasa</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239107&amp;idx=1&amp;sn=1019c6ade58eaf8a8f8b70a1d934cddb&amp;chksm=bf6d37c7ac157ad41e378a40494b4768a96a4f694ea54af8b083f689ba32208154fc1c9c3b4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 15:46:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

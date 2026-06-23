@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当防火墙成为后门：FortiBleed如何用"合法登录"攻陷8.6万台企业边界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Fr082Wibe8LlGA7zMWNCVaKa97U2HJnyFicj8MwkOPkec9iboziaib6GJVVQ6caW4BrMCKAcaxcCeXpib8z6iaYnpgonm2czsrWbTdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场持续八年的"慢性"收割2026年6月，安全研究员Bob Diachenko做例行扫描时，发现了一个暴露在公网上的开放目录。里面是一份数据库，装着来自194个国家、约8.6万台FortiGate防火</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519220&amp;idx=1&amp;sn=ea4698059a50bc49756135a03c3215f6&amp;chksm=eb06e838a814c87188ed86c7f28ffd48a7a97034be4f9238bec7eb371f149994e651320d3d58&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 09:24:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[奇安信发布威胁分析数字专家，全行业免费公测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicdsq8ep5xbQcnicCodKR75uL4M42CmBfvVxe0iaViaprsWmseMBOZ1j49n5Du74AteCKp6U4tBP6uZAxAebHg9W6hiaQp9UzBXy9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>> 以"对话即研判"重塑威胁分析新范式6月22日，奇安信人工智能公司正式启动为期5天的“AI时代，攻防先行——奇安信AI安全系列新品发布周”，当日发布首款新品——奇安信威胁分析数字专家（威胁分析智能体</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519214&amp;idx=1&amp;sn=7e1e6af40847083e0c9fea4e751847a9&amp;chksm=eb1af0a37efaac3a3cd5413cedf0bfadfb5a43ca0583f6e9f786285ed41e2a842a26b39511fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibh1BxqLQI21F0qa3dMmY2T5ibJqLeM9VUwBqQjgiaMyPYFJdrMSsQM8HuVM4bc6nwvav9ia6qGHhxdYwPeKN3XnCZA1tL0JqKCGM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.02.27~03.05攻击团伙情报SloppyLemming 组织针对巴基斯坦和孟加拉国发起大规模网络间谍活动Dust Specter APT攻击伊拉克政府官员深入分析 Hydra Saig</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517859&amp;idx=1&amp;sn=9cf225bd172c3c9bf47c21374b994970&amp;chksm=ebda004fcce53fb7e8d19e2a59a6811075c35e3bea59e7e026badc84b19a80b02b8393ef1d64&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Mar 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.02.13~02.26)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqic1LL9JOtKiaJ9nFgo5ZbdEBfWcNJ9iaic4ejYGkUCnbn0IrmU8U2bRbVRpH09P2wV0NaeCLm5vicMibcNticE9WOgNHNK6UTcAjzk5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.02.13~02.26攻击团伙情报Muddled Libra组织在受害者网络中创建虚拟机建立据点MuddyWater APT 攻击中东事件大事记Lazarus Group 正在与 Medus</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517832&amp;idx=1&amp;sn=b632ef82886e87f3a9a9405f53d03a29&amp;chksm=eb789e75f7d8cfc355ef8a1698f5c95ac079dba608fa33a8f7c82c4eb6a7af4ce540d4bc439c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

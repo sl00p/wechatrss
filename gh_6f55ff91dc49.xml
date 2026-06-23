@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 2.1 万 Star 的 AI 工作流开源项目，有一波更新。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3HpUJibAZib0Pbo5XEicbDs6AXlqKBmxhJ6D59NzbuZj9unsLtMficA9JjlE2PaEYHyMwndjXYicq5ibg5SibS4Xbme293GIAARy9Cqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年之前推荐过一个开源项目，叫 MaxKB。那时候它靠开箱即用的 RAG 能力，在 GitHub 上拿了 17k Star，定位是企业的最强大脑。一年过去，这个开源项目全网累计下载正式突破 100 万</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534784&amp;idx=1&amp;sn=da4ec9562147de22465cdc387d3770f1&amp;chksm=f8492d18fc4a9d082d81897bb3f3a3289d87644bdc0ff64e133b6d58100f2c2f985740f13d05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 19:21:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 GitHub 有意思啊，Claude Code + Obsidian = 知识库王炸。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2ibUTwJgfc0zTqdjuUWJrjf29I2nxQDdww8nAibPKDjYdt3tibG3FSFYtQFT62KdicKDNZFeDRXbzWpPOIaXeFEL9uwefj3DgeYLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 2026 年 4 月在 GitHub 上贴过一条 gist，标题叫 LLM Wiki。不详细介绍了， 之前提过。大意是说，理想的知识库就该让 LLM 自己来读、自己来链接、自己来维护</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534782&amp;idx=1&amp;sn=68b619e09e4e00e7b1d78a925a778d3a&amp;chksm=f86dc6989f1209773e73d033068d9d59b838dffa6a3c559e183fe1cee13092463609668636a9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xCttZ4NTz4viaQd8PTKibdcyjW9g6ibcV7fCemLvXW2g3DnbLXhicAd4x4rtqNFBDicLPL8GCjL31VGSEBHJXCzx3XhzvILsib5Hbw/640?wxtype=jpeg&amp;wxfrom=0"/><p>操控浏览器这件事，方案已经很成熟了。CDP、Playwright，随便挑一个都能把网页上的自动化操作安排得明明白白。但是操控电脑上的桌面软件，我一直没找到好的方案。桌面应用没有统一的协议可以调，没有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532987&amp;idx=1&amp;sn=28d075abf135fb945972a6b8e8a49b18&amp;chksm=f8531f005cca2d3d603ce2adb7423084b963b88f1095714f27f20e531552251edb2eed615a55&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 11:48:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在飞书操控你的 Claude Code，这个 GitHub 开源 SKill 好用。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3SibGrSTOwCHNuD4OqTiaVBGXsBq4YibmR2llXlBMicBlvCJW7f4B2NkFMwcLFbyICe2NHsuiav4BS2RBg5CWNZWic7gqXUDfMWo4co/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛逛在自己一个老的 Mac 电脑上部署了 OpenClaw。我把老的 Mac 所有数据和配置都重置了，专门用来养龙虾。但是自己的主力电脑没有装龙虾，我很多工作流都是在我主力电脑的 Claude Cod</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532986&amp;idx=1&amp;sn=d93844d4566df1b9a29ea273078d5151&amp;chksm=f8fe40284f3f9c4be1f935f339d57ea2430be5bcfcb580fb539b7b13737452765a1819b41c9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 16:05:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

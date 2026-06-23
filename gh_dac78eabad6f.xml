@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每天10万行AI代码，人肉Code Review的崩塌是Infra工程的范式拐点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5t0zdMEGPRbw6npibm6QBttqicavGjiboe0IMiakLOkJZC70E32jdN8OG7U7Nefed4fH3pQVn9Qy5bnHeUhGQSxZXvWOu28ZaeoMo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文初稿成文于 2026 年 2 月。Coding Agent 只能降低每一行“代码生成”的成本，却无法降低每一行“代码上线并长期服役”的成本。Vibe 编程关</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696004&amp;idx=1&amp;sn=ad92d5f29ad82113916c858524a618eb&amp;chksm=ebb3bed4bcf1b7d2f2ecd08e704d41870cf6c371bedf8e0f51310c2fa1955df28e436ec747fb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026腾讯犀牛鸟开源人才培养计划正式开启]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5B7piaSgd40nOeooPj0qw7iberVQ94aibIr99libtR76L6iaVtnJuNEIPfyCWhkwgpepFFicn8zUBJBALDWcO1AHiaLffwuksTLniaLjI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇一、腾讯犀牛鸟开源人才培养计划自2021年以来，腾讯持续开展“犀牛鸟开源人才培养计划”，响应国家开源政策，打造面向高校学生的开源课程和开源实践培养方案。该计划由</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696004&amp;idx=2&amp;sn=ff41712086d53d162e16a735c12aec83&amp;chksm=eb70d555e63de34926ac7ca616628eae63ab6670e203291bfbd0714c6e7fd3d82f2ea820816b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Harness架构到Token经济学的探索]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr65fXIHicgLN7OW5gac2arJ0WEZF1UJrNfsLrK6kIaE6j2Oiaa32UmFNXXKa6BuXDamyREkHtJYrW5o7GhxZHjtyibhvicx9g2CROU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文基于真实工程实践，结合 Harness Engineering 领域的学术论文，分享 AI 辅助编程的架构思考、工程落地与 Token 成本优化。01Par</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695963&amp;idx=1&amp;sn=29f18a2db784e1ddb56796af76543688&amp;chksm=ebf8802f43fa1a287579360a5b869b34193c8cc73b61256c0de5c789d61fe1818cd8dd6a50ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6BP68icOAiaOf2icuf3jcE39fRV56KJT64tT7JWW2BiazoWDbgrQHdAVel96GCbnz03PSicR7weSiakztaR2fyqbp9WgqREL639eIibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇刚刚，腾讯QClaw宣布重大版本更新。微信入口升级为小程序，支持上传或接收电脑端文件；「灵感广场」全新上线，预置常用任务与 skills，用户无需编写指令即可一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694883&amp;idx=1&amp;sn=9d9622d647863336cbdba0a861f595c0&amp;chksm=eb470d2841ae4fe4d1f71d8b2df603237f3849d33e60a65dabd4961e8c832b52f9720ef4404d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 11:13:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[兄弟！你真的懂 Skill 吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5UT7xULboqS745IPabH72G1ZYOYvCokcFXZo38U92nVmcKjkajuIiaYyWQ0KNLA9W1CRMukSgXVu6TmiajsfKlEeJUhvJVPliacM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言：Skill 到底怎么"跑起来"的？如果你关注过 Claude Code、Cursor 或 CodeBuddy 这类 AI 编程助手，大概率听说过"Sk</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694816&amp;idx=1&amp;sn=5d796cf823344314aa4dd99163ceef5c&amp;chksm=eb0c45a7503cb9c4cdf8d0dbd22f5d96bc10a047d92b72d1bcaf113281c521092d94e42c236b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文搞懂爆火的SKills原理及实践案例]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5Kb6tyrsqbX5psMOf3XA0QfAHUg99Hibiaicj2J9SXwp1ewBol8gXsMdu8C7Wk8sdcOB2WGuaQXGctlpJQIUGiakeUVAzxbj6ESvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01SKills的推导首先，我将谈谈我所理解的Skills形成的推导过程，我们需要跳出“结果”视角，从零开始思考Skills的由来。有趣的是：我们需要从另外一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694809&amp;idx=1&amp;sn=e42c180cf660e9d16b8a37c43c75b2ba&amp;chksm=ebe3a84b2f3b21eea5293dc6664628c5978fec7c24e11520680dea7cbef5e7ea389b71dd9279&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

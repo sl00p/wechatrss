@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI可以用任何手段、写任何东西，但你得是个“中年老登”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhNwFxIAAesEXT2Td0q5NxEwklw9Re5AuQ4ibkiafiaicEpiaS5jbkicT7lT471gC63w5siakwJQGApFolJu1DR7mkxggjecglQknuEPM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜Tina 采访嘉宾｜黄东旭、徐昊、滕昱（按文中出场顺序） “我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”PingCAP 联合创始人兼 CTO 黄东旭在完成 db9 项目后这样说。做 d</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=1&amp;sn=08140f6d5bd0137872f8a8bda5e55e12&amp;chksm=bc3e873b4f4fce281274f2da52240cfe0b379416534b318428df473310733f0722c0f3ea9bcf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[对话蚂蚁吴伟：训推一体池化调度，如何把GPU用到极限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjRhdYWMUwIBabjaPMT0ggb2zibqxu9VFBYyqhTYOdUyiciaBBrVQUoxibCojviaZPsuIllkcEibzOwoZrT5oEjXffp2tJZhVZNG56iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 吴伟审核｜李忠良策划 | AICon 全球人工智能开发与应用大会当 GPU 成为大模型时代最稀缺的生产资料，如何把每一张卡用到极致，已经不是一个成本优化问题，而是一个生存问题。今年 AICo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=2&amp;sn=e7ba685b72669645851d105c1910bc24&amp;chksm=bcea3bdf6f98150299c7fa25acd737654d5efcfbf46ec615766604a4f03ed955a29da4181f9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 大模型热潮的第三年，这场直播给出了 4 个值得参考的判断 | 极客时间企业版]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgPzTM0YzuEg7K0OJ1MZPu6XS7h63q8qJ7qNvWicHicibYNESkd6OT9nDibT1Wvhj2LKdINuicCLPJ7cqf4lB2dEn9icj1oGwYlZiaic5U/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型的热潮进入第三年，企业最关心的问题已经从"要不要做 AI"变成了"怎么把 AI 做进组织里"。工具、场景、人才、KPI……每一个问题的背后，都是一次组织能力的重塑。AI 原生组织不是把 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=3&amp;sn=27a38ab673396cf17e4b0df5190432d3&amp;chksm=bcfbbd48c6ca9fa853f926849860cf3ce6518502dc8e0592b63de577e6b6573d0a11aeae8964&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh6nWq5vSuy5unFlibpR32qVSlMJBKeuDqcUuGSokx2w9sC8R82Cc8uFK5dM7pPoeYicTic5dHySOmBr7K2qkNiaj4PpXbweKZ6q8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 马可薇 Slack 近期完成了一项大规模数据平台改造：将其 Amazon EMR 数据处理流程中的 SSH 作业执行模式全面替换为基于 REST API</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=4&amp;sn=c4be36752b8771fee12c280885f567bf&amp;chksm=bc54739b00192c230210a2c05a0a6c3e663c05c2abcfbe8b27a257d2b63857f661d87edf2a9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人人都是 Builder 的时代，企业的真正挑战是“怎么管”？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgDNBY4qoUEIQib7m6Fy67rECjALs9vWuibHpMHgwFYChMWhic9XDnsH4ucQvZ6iaOpibmK2Ys7qHqaevU432BDkVlOL5VwE03Ixzfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>撰稿 ｜ 150 克 先看两个数字。第一个：用 Vibe Coding 做出应用的人里，有 63% 此前从未当过开发者。第二个：安克创新只用了十二个月，就把零星几个智能体扩成 600 多个流程 Age</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287603&amp;idx=1&amp;sn=01ea72d3a308f0b8583909f81913a56e&amp;chksm=bc95b75f9eef3d65f73acf44a24cb557223f818e19c32338639fe35a6f6cd31affe0511d6145&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh8GABPicWx9CA2VCUfNR5EBQYKrlvUfbwZQJTXJNTYdX2MRedjiaXJRIlFibH2EmY6icice7OOoXYwjias5EicUAHd9dJ2bpESUtwibUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Eran Stiller 译者 | 明知山 OpenAI 近期介绍了 如何为全球规模的低延迟语音 AI 调整 WebRTC。新的架构将传统的媒体终结模型替换为更适合 Kubernetes 和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285679&amp;idx=4&amp;sn=a1d3ae046495a8e18a4e9ab60f2674dd&amp;chksm=bcb080afe75ddd8c8710e651fb3a60e413b104162fd943c88b555c623e75df6cafb2f7b5189e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 14:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软将弃用Claude：太贵了还是薅明白了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjwIqB5d1G12UARZGictFYXBUFn57WLUYmXTyEiaTM44QGwYMCFNaUXkkbo8BgrDibcPy3tNRItXwMM1pN23p4OmrOXebicbSE9sxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 微软也用不起 Claude Code 了 谁敢想，微软——那个曾经给 OpenAI 累计投了 100 多亿美元的科技巨头，最近也因为 Claude“太贵了，用不起”而在内部叫停。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=1&amp;sn=e72656c650d71e707fc9801043555033&amp;chksm=bcd5860a9f63b4787c52860f8e699a7a8f815e33410e967f656d1f4fb6ca002a1929bb920e47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 16:36:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia5YIENiaGnrKrJJlZLbkKMiazmZIKR5qPE9L7CsNAHo9ib2m0B8AcnFPcvEInlmX7Yfrw8sH8Bdp3AJvicb7OECW3gTC3KBbWdfs8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 Darryl K. Taft 译者丨明知山 策划丨 Tina GitHub Copilot 创始工程师 Neel Sundaresan 正在构建 IBM Bob——一款智能编</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=2&amp;sn=a79ef03e7c871dfdff0e8093d9fe9504&amp;chksm=bca36e54d9b0557bc39eff5cca93e1046f53ce8512b58d3087e101d2f24ebbb676cdd53ae31e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 16:36:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大规模工程支撑场景下的多智能体系统设计：Grab 实践案例]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjYhKoJbW8G8fFnhCibXNrpF1MdgwNQVJqMpl9oUTAxcslmrx8nmKuJibnywDmLCf64Ps13ZteOjTNeZWl1Ikwe2SKnX1xppZHFk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Grab 分析数据仓库（ADW）团队推出了一套 多智能体 AI 系统，用于自动化大规模数据平台中的工程支持工作流，目标是减少重复性运维工作并提升问题解决效率。这套系统主要处理内部的工程请求，包括数据仓</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=3&amp;sn=97076f465c8b7eb3be988b414327cadd&amp;chksm=bc02a043c8f5f887ea9357494cf04b84325cea05770d5e86ab8915e5d30924f88236f3c671f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 16:36:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 推出 MCP 隧道，供私有代理访问内部系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgBQbWH1XOt15sD63UibxoFCa5Bd3HxT425t6HegPHGrliaWheZ7nHsJXmQuCyJiaNtur47NsGPt6tDCsXnlx50CVtAKpmQRTianpY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robert Krzaczyński 译者 | 平川 Anthropic 通过两项面向企业的功能 扩展 了其 Claude Managed Agents 平台：自托管沙箱和 MCP 隧道（t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651285633&amp;idx=4&amp;sn=8d615360a54bf818f7a3b4ff4f426110&amp;chksm=bc4fb408858869a44126c91cc298befe96234587c3bd5ace65ac77e4c485659af57869635be6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 16:36:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
