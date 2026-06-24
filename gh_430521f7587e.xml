@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TypeScript 7.0采用Go语言重写编译器，类型检查提速10倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVqQF7owbfsttGsEE1x1w64ZLEsskMdrIIH5RsP241IPsZj781oIlWqOIuxI3Upia2cGn3hlj5WlCu0YwX7EIoVw9nXN5Dc6zIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软发布了 TypeScript 7.0 的首个候选版本（RC），其核心变化是编译器完全采用 Go 语言进行重写，效果也十分显著：类型检查比 TypeScript 6.0 快了大约 10 倍。💡推荐阅</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241282&amp;idx=1&amp;sn=9fb6ba60d3e9c2972cbf3e66146e14cd&amp;chksm=bf971ae73796980ab61db531e0f813a9e620ddd228da6037b1b646a7f01ebe77db505c674bb1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 17:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拒绝只做“AI聊天”，这场高校实战工作坊把「AI Agent」讲透了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhVwHrJm4bEKCECV03cbh3p3ich6xcnTJdgFWHDjAg4YPSWxU4qD33fGA8jeqH37kNuFGrL5IeyOSmia9n8xWOO8ics9ba9G6Tv5q0/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人第一次接触AI，都是从一句话开始的：“帮我写一段文案”、“帮我总结一篇文章”...但在真实工作里，问题往往不是「AI会不会回答」，而是它能不能真的开展工作流，把一件具体的事从头到尾推进下去 。比</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241282&amp;idx=2&amp;sn=0aa13194d6d4965e898f901381a73209&amp;chksm=bfc32d9b3679e71c2aa79484b611f3bf55f194e14d0ccc70750755e109b27e7d5360a3aa8429&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 17:22:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Deno Desktop入场，TypeScript桌面应用开发的第四种选择]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhX83yyib2T9BG1Ue2YCxsReMeGfQ10qEBibRZhNERz2rLFgFBHpAMhbCMPtBWoTY5PxZEbks28pvT56IicgbW4kibUKqmsKdr0ibOk4/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 2026 年的桌面应用开发领域，如果你用 JavaScript 或 TypeScript 写一个带 UI 的程序并想分发给用户，摆在你面前的选择本质上是三选一：• Electron，功能全但打包</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241253&amp;idx=1&amp;sn=4ca565a62e4043d852ea73326a9a7aa4&amp;chksm=bf32afcc3f0042db9f13e5f3cd6d201fdd80651269ef6c1a0a98a226891fb94f30a95fb456a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXBxGBH1cuQryzlcK93NtIOA3y35L3RLlsKp5203LgOJrwibwrtDwsqiccYxSqGnzkCoT0X3fgtVEsuRp0CoR7icfygIwm6t2lcxk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，GitHub上一个名为AERIS-10的开源相控阵雷达项目引发科技社区广泛关注，该项目已累计获得超过12,000个Star。这套系统基于10.5 GHz频段，采用脉冲线性频率调制（PLFM）技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239376&amp;idx=1&amp;sn=f61808aafcf9a58497e79b28be880ffe&amp;chksm=bfccf7fd405563f53403ca4fb1edc450d957670e21a15d93a863604ffdf9407d71483fca5cc9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 16:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4月24日，OSC源创会 × FAIR plus2026【具身智能工程化实战沙龙】，深圳福田会展中心等你！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhWn7GibiawHNOGMpr16171Jj04jibSka2PdoKia3wgAvYI3KwiawKBqNLj6nkslQB7tpsnmQvNvDic9epDs4Ca74iaLNjnttD2mwnEia4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，随着越来越多的国产人形机器人登上万众瞩目的大舞台，引发国内外主流媒体争相报道，「具身智能」从学术名词变成了产业热词。但实验室里的 Demo 和工厂里的稳定运行，中间隔着一道工程化的鸿沟。怎么</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239376&amp;idx=2&amp;sn=53fc475767ff489e7136b3afab10cc6b&amp;chksm=bfc83a5af3abee891a1cfd89e0ed3f89c84a7714a6c44a06b62c34644f3682329d34856d399e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 16:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[印度工厂工人佩戴头戴式摄像头，用于采集数据以训练机器人AI模型。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhUUbmOO8FcZrGYK93OHg1BruI3EI3GymbHtwJDjtlm9DN2uiaKddRibsAAXjn3VFMNjUoYXnBtKJC2licYU8WRcuZOyia0qRyAyCWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这段视频揭示了机器人领域一个非常直接的现实：让机器在真实世界中学会行动，依然代价高昂。这个乍看有些反乌托邦的场景，其实也指向了一个关键瓶颈。机器人无法像语言模型那样，从海量互联网文本中学习到有用的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239242&amp;idx=1&amp;sn=ab779c284a213297a8bd31da46389f1e&amp;chksm=bfb143853d6a008ca8c2d57ce25ca63236ad7c47b065b4c636bd5345966f2f2bd8966084b4de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

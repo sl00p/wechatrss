@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[斗象发布国内首个针对AI的攻击测试套件（社区版开放下载）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1laYSzbbgibM9NpggQMvLFGPwEVpdyEezkgaUQxcNnC8iczm01ZoEOztxdVkozxbwGGEJbgSGoibdIQYicw7m2HRhGmcRb2FarmRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型和Agent快速落地，企业AI应用从简单问答扩展到工具调用、知识库检索、自动化执行，安全风险也随之升级。 过去主要盯着模型输出是否违规、泄露🔍，如今风险更多藏在Agent行为过程里：越权取数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=1&amp;sn=c6e8c1255eb9b51ca8d59822442f95aa&amp;chksm=bce430c24625303db2ff736a9690c877279fc9592c6aecdaf1b5356eaa7c48bcd8d48b251652&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Exchange服务器权限提升漏洞PoC利用代码公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3Rkvs0sdibMOan1vjQm94Ry1CialWsFKibgUltkyHlypm3t9bHbk6HRv954YckaN0DlAibLd2qJ1BUDDKHmwo660NqLjetmRZIadM/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对CVE-2026-45504漏洞的公开概念验证（PoC）利用代码已发布，该高危级服务器端请求伪造（SSRF）漏洞存在于微软Exchange Server中，攻击者可通过任意文件读取实现权限提升。该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=2&amp;sn=fc69653601deaf68677811a4a5590b0b&amp;chksm=bc33d922fccc6ab07e7dd85b2629d5de6b37771ebc0613ead3ccf985a7a63e1283d1c0d78ddc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[红队AI工具漏洞致攻击者可窃取API密钥并入侵操作者系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2bU4Vu7GxphpkibgR2ncGiasLb3tulR5I154IvFx7hrL8mct7UQS4KJrz0nmu5XEt3nAmO4AKT24ib3U63p19HXaKP3f1UoDbh9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cracken安全研究人员首次对12款广泛部署的自主式红队系统（AI驱动的自动化渗透测试工具）进行了深度安全分析。研究发现这些工具存在重大架构缺陷，可使攻击者窃取LLM API密钥、建立持久控制，甚至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=3&amp;sn=4b1e25bcaf5740ad3bbee6b182acc735&amp;chksm=bc328815a85ab80eb3a84a655c748452ea58379e1d56c67adee75736441cb6367ddc8e2ca4cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[libssh2高危RCE漏洞可致未打补丁系统遭攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2p3Qj7nc4KVZjQF9hzXbJfkza1KGSnGctnKMaTRugm22gAJWdVVBiaNOBxB9yHLn63EZ0amsLTRRwYGK42GmMS6cmB8fBXhosE/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对关键 libssh2 远程代码执行漏洞（CVE-2026-55200）的概念验证（PoC）利用代码已公开，这将显著增加未打补丁系统遭受实际攻击的风险。Part01漏洞技术分析该漏洞影响 libss</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=4&amp;sn=7ae16553f47d00776bb3270dc0cae79f&amp;chksm=bc8db277acfc5db2a77f078d6a522ecc253cd169feca04de24fb05d4b8b67815b0d15810c40e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Dify漏洞可致攻击者跨租户窃听AI数据，超百万应用受影响]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ia6nKxibDbals4LsO0DB2cj8PyEl0nd6awahXD9CwDl5qauRGB2OzIouicex2ZAbj3o6biaiaJmrXYxbViaLyopBrNujoCazF2ZaKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Dify平台存在的多个高危漏洞可能导致敏感AI数据在租户间泄露，潜在影响超过100万个应用程序。该平台为AI工作流、聊天机器人和检索增强生成（RAG）管道提供支持，已被沃尔沃、马士基、松下和赛默飞世尔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341130&amp;idx=1&amp;sn=ee8a4e49273c82da52f6a74578a39477&amp;chksm=bc6e357170728e812cf53a9a781d0f899aa3b00717bcc376bd52f52d036eb9ef0e9cfc4ba75f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX010RFGCc0VT6Dkmgg6QpibDNePnrcYwY1suQ5azue4iapLdcFBRtDXNiaRibkjsjiab0fjVL0ichGdNsseEhPWyXYBDpBibtH1RxMDBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新发现的 TrapDoor 供应链攻击活动正在活跃，攻击者通过 npm、PyPI 和 Crates.io 平台部署了 34 个恶意软件包及 384 个相关版本，旨在窃取开发者凭证和加密货币钱包。Pa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338691&amp;idx=3&amp;sn=45857f55761fa76575360a0166431529&amp;chksm=bcac70cdcb1c871f746782b68934b707f491cd2020d8b0fb7419762d263777f3e21eb03d0cbb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WantToCry勒索软件利用暴露的SMB服务实现远程加密闭环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0spXWrQhrRuSCjg58uc1VyKwfCJOro4sStBgnrYBT10emey0Zq2mOXgJPHERacTeCNXxzUSHJVZ0CXvHD4Wia8qTsU4VtK3kxY/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新分析的勒索软件攻击活动彻底颠覆了传统终端防御策略——其整个加密过程无需在本地执行任何恶意代码。Sophos反威胁研究团队深入调查发现，WantToCry对传统终端检测与响应（EDR）平台构成了独特</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338691&amp;idx=4&amp;sn=07fc8d15fef73595c387d97ce8312350&amp;chksm=bc3c779f9ad9ac003d335337da7b09f258676609b9904177220513dfbf8194dc83a098d50786&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万级漏洞AI：Anthropic秘密"Mythos"模型如何重塑网络韧性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2tYvuGPUvJKFMwVvVWiaBwvXuMpHj3mgia8pKaxc6pqwgvC0bBVSJROn6HmzAoh5mibTZwfsGyEYQkBSia8EmwPmpdQicH6qrV3P6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>在人工智能安全隐忧日益加剧的背景下，行业先驱者正采取战略逆转——主动将AI武器化以强化防御边界。Anthropic最新发布的专项报告详细披露了其网络安全计划"Project Glasswing"的最新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=1&amp;sn=c8d998f977b56548da3526b36532a8e2&amp;chksm=bccc76dfe71ee7a9a1138ea273c0d3bee8e8923620be2d0cb0d01066e8b225389b7321c37973&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型SHub"Reaper"变种利用AppleScript窃取macOS终端数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX06dF51otibuvSQic66VKrexZ2F34dhCHyUcW7KDRq72tIj9Z66yD0EbicpCltsZERycPnbLqFZEiaEpgtfulMFL3j0BcrUibeadzH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年间，针对macOS系统的信息窃取恶意软件持续激增，威胁行为者不断在相关恶意软件家族中迭代成功技术。最新升级来自新发现的SHub窃密框架变种，其构建标签被追踪为"Reaper"。Part01多阶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=2&amp;sn=11c94a54492e59fe26c0943c64f58ee9&amp;chksm=bc0852860fffa9d1fce99a80f44308b20aa89cb9db94ab5b269a080cb43aa4faba2a2e994f3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：OpenClaw安全危机警示录；Linux 内核暴雷；代码审计使用技巧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fko7BqJdv9p5NI3pSRIUibBic9sccHTXb5P39WLhmjyKjNKzib4q3jx1u6PCfw4Cic1iaEBicTDTBJXRxhyvgEjoqEpNSjLZQQjANA/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338643&amp;idx=3&amp;sn=6498051e1171e9fd690821f195bb4aaf&amp;chksm=bc782f6dae897fd9588ff43d6fa8758565b44a793ffee095de50a5791b0769a9c68f8ba52a8e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

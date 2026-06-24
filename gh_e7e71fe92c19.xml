@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 复杂 VM 算法还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2HaxBSfdVCW0DqhRzVVWeIaXTVJJHrwXnnQFvDv06mUP6PkjWv9MBrrSGjJfiaLEMfKZiajXpWOxZHZOClSQsza0vhVYAL4LRJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>pc模拟执行指令，jni libc svc转发到真实设备实现急速trace，以前在手机上跑要几个小时，现在只需要几分钟，使用llvm做指令解析，收集足够的信息，存入自定义的数据库格式，即使几十G的文件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=1&amp;sn=9e1214ec18e64cbbbfe7df07de8a3842&amp;chksm=b071d1ef9a37676d4fc9f27cea48b57917b781070179180325bb0fbdc899ebf18617ab86a6f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[冒充税务局投毒！下载一份 “税单”，电脑直接被黑客远程掌控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1M3YQ8Fibsn2eh3VzyuU4GvTorBPTIxicyRW0MribRd2AeicmcOtcib8buqnAUoxLrQVXsw0mQsQ3ZqV28qU0siafdPXM8OT12DtLPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>税务合规季向来是网络钓鱼的高发窗口期，而今年的攻击手段又完成了新一轮升级——打着官方税务通知的幌子，点开就给设备植入远控木马，迷惑性极强。网络安全厂商Cyfirma最新披露了一项针对印度地区的恶意攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=2&amp;sn=4e397f4ff2b9e3878be41114d91678cb&amp;chksm=b0d4fb0d70f86e943a36fe45c1fcfe0273abe2dca99b88fc3bb9c3d399c264f655121bbe9308&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[频繁被封、环境不稳定、设备成本高？基于CVD的云手机定制与风控分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=3&amp;sn=edfdac627878a7fd121d0834340ccd32&amp;chksm=b041690a5c7840f50f01e40d4eb477017fb19203c1229135359e8f7ea6119ba334cdbb2c866e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘（覆盖10+厂商、30+高危CVE）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=1&amp;sn=dca56c624bc3cea8fc248b38a91b560f&amp;chksm=b005befe85f159322a9431f901d232958bcffe8dd1b4951aa86c563eeb672925c7247a55cdcf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K05ek4lN72VRveNxQP7JmfMTnDxGWZEdr5Bk3T246xvAphSNlyOq8aHJhsia0g3ZMh4o7VuibiashrOVz3Xf3Nr0MXHictwibMiayBRM/640?wxtype=jpeg&amp;wxfrom=0"/><p>按时打补丁就能高枕无忧？近日，研究员 Chaotic Eclipse 公开了一个名为 MiniPlasma 的 Windows 本地提权 0day 漏洞完整利用代码（PoC）。即使你的系统已经安装了2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615215&amp;idx=2&amp;sn=b23cac49b2b1df3cf65ff41e031c4987&amp;chksm=b048befe0cc161b521a46fb0da96b19779f765862d89c8fc3c99154f727572b4ec7cae8ac429&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[天才程序员上线：AI 逆向与安全开发全栈实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/zxuXxbLaCLBf3ibKCiaxxviaBIu7szBz8NM84x3HxsDvU2p3Ypod0QQVlLHoun1236TYZ0lMzDEm35ePyzCwftQhKzxOZzfziaibSEISzJssX2Bc/640?wxtype=jpeg&amp;wxfrom=0"/><p>“天才程序员”上线：AI 逆向与安全开发全栈实战—— 告别体力劳动，实现安全工程生产力的质变提升逆向工程正在进入一个新的阶段。过去，逆向工程师的核心竞争力更多来自于工具熟练度、经验积累和长时间的手工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615215&amp;idx=3&amp;sn=eb211eb06e343f9c4ebc45464c189689&amp;chksm=b0b75423cf8fc74a5639d535452c9f58ad603d55dee1268962621d16e2ce91dfb991c2b29ed4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从0到1构建一个Hook工具之PLT Hook篇]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K09ICAXtQHMbbLK2wzewQxXJIKyySvuNGWsEse8Fibcz3ShU9BWI1UqBDZNAO2WkJdmbQpBnfIurLFRjibpfdCFSS1zmLd0ribVTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>在前面的几篇文章里，我们已经把注入器和 Java Hook 这两部分大致梳理了一遍。继续往下走，一个比较自然的问题就是：如果目标不再是 Java 方法，而是 so 里的 native 函数，那 Hoo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615202&amp;idx=1&amp;sn=355b26ceef06ae59406282bfce822ca6&amp;chksm=b04a4fde3f9b57cc65f55513a2ec70af18b31a52bc4a09c50f77e9c8f88cbf2f7545392dd1a2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[赠开学礼包！2026看雪·安卓高级研修班（2w/3w计划-夏季班）招生中]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HmicG4QOgUE2R8KmDMTmBntNYyWsXBWA6N3ALqWTaRkF8JicjFVRDqfACqtfRpc5Z3ha5Qk35APmVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>有问必答，知无不言，言无不尽，用心服务！更有职业推介服务，全方位简历指导/服务就业！1、开学大礼包现在购课，可获开学礼包3W班高研网课开学大礼包：测试手机pixel62W班高研网课开学大礼包：测试手机</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615202&amp;idx=2&amp;sn=5c80b9f8f8e820562225aaa39105a622&amp;chksm=b0783dd832f56d4f01959a23164f5025b1b61b59867f106d26d7115842ad2443b1f9576080f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
