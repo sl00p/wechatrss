@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[构建 AI 时代的知识底座：直播数据 LLM Wiki 实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zmtY0ttBsSOQriaMZpMf9oaLR1WdcNE6gcia00zJv3aFZ1OFMyR2icpicsmcrltj3ic1Z3TNpckIlHVc9YdDqte44fxicU2yFH4icrvc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、为什么要知识库领域知识决定了 AI 在业务中能发挥多大的价值和作用。任何 AI 系统都由模型、知识、架构三部分组成。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561257&amp;idx=1&amp;sn=d664dbf2543b9d4b772b4b3d87c3def7&amp;chksm=e83994287c961a5067875098c165e50d6caa806601ea40743469bcdcad048ad8c2fa4bad266b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 10:47:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里重磅开源！Open Code Review：一周 5k star，为你的代码保驾护航]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zhvoBOlnREXicSRic9qicv9bBeEvlnu0uEIazNw5UXibHmS2VqUVugOdBB3U25k55ZVueHIQtp2t950QCeAjvQXq3RdlKicic9Ttofc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言AI 每天生成的代码量已经远超人工评审的上限 —— 以前每天 review 几百行，现在动辄几千、几万行。代码评审，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561229&amp;idx=1&amp;sn=edf43caeaaf1f167136b9c5c25359fa2&amp;chksm=e8e0e55a833f677ce1885a5099b8fd5f60bea21f4485c332fac45a2ae4ddcb858a639f1e3b2e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKIWKqblicyP2BsV2iczicvL2l3jYdVcEUWvnmMTcZyLK7r0EzFSWibPmFxPcRkrmB3cMza5jENEGnuo8W9crjkoGs7qTYfmVO2sU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当每个业务场景都需要一个AI助手时，我们是在埋头苦干、重复造轮子，还是选择打造一条“AI助手生产线”？本文深入探讨智空间团队如何将执行、答疑、排查、极简场景四大高频需求抽象为可复用的技术方案</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558977&amp;idx=1&amp;sn=dcf5e1258edd06e555cc9bff963f133a&amp;chksm=e83f028be5d85c068d132d43b5281a66460aa8d7b05dc0029539ab8e13fbea6b1d6c0ddd7499&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业级 Agent 多智能体架构与选型指南 -- 来自1000+行业应用实践积累]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xwl6nice7ctepOicVZterpIeMZiaS74lHFeDuDEhlxqn4lA9taoLU0ZiaFuT10fTNozw45zbNW8KNR4z8zcCaZRuI5PciavfYmziaBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文基于我们服务阿里巴巴多条业务线（淘天、闪购、爱橙、云智能、高德、饿了么、1688、蚂蚁、菜鸟等）、众多社区用户（如友邦、海尔、建设银行等）、超 1000+智能体应用实践经验积累。本文发表</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558948&amp;idx=1&amp;sn=91740771339567d7bbf31aa9b697a2c8&amp;chksm=e88c9249df65bb4ae3c98f69628eedc8fc66229c96722ba003b80fa5a40238185eb336290d89&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯混元AI Infra如何优化Hy3 Preview：一次大模型推理性能提升的技术拆解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905w9BuUXrAicj6gpIyNy7sGAibAIkQwO8LXQ9xibZP5PcP1nJicrjWPTQpYuX7U5FQp93p2G5loL9rbKhVP6iaPJhxeSI0nMOPB9yf4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：混元AI Infra推理团队本文将从算子优化与融合、并行策略、多级缓存、MTP和异步调度优化、量化与稀疏五大维度，逐一剖析各项技术的设计思路、核心算法与实测收益，全面揭示 Hy3 preview</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802370&amp;idx=1&amp;sn=933bed02fa58d278084e12946d3fa8ce&amp;chksm=bf68c3df9a0f8f565f1ee5581601c729624c2f36fcb2e86a5c94ff2173a436c86b30a8faf5b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工当年高考都考了多少分？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907U0RGibEEmngoefzCE98NOTribmCqyhHibpTNyaMZoiaCzVxOldPBPA74cmLD5rRQscUycfFz6xupoaSe3ACnGbw7k5jYS9yFd5RY/640?wxtype=jpeg&amp;wxfrom=0"/><p>快问快答视频速览！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802369&amp;idx=1&amp;sn=15cfdd4bef27d2bc08bf0af8d44eac5b&amp;chksm=bffc89c5714fdc28de4ecbaf52257133879fbbd1ee05c789f4d3319f79a3a31cedccd15b8424&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9051SV2ogrkzwyymicymqlYvHYAA3Ga3giahhhlWavHuBgLk8NMCk8lsandnbA2ibDl7riaXtl2kmeoicT2n4hjCTtDVXTtRbA91Xc9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：冰以东建议有打算深入了解OpenClaw的同学优先看OpenClaw源码和官方文档，目前该项目正在高频迭代中。本文重点从核心框架、通信机制进行介绍，争取让你看完本文后知道OpenClaw是怎么运</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800637&amp;idx=1&amp;sn=ea01e0f19b2749deda2f6ff67ab6f104&amp;chksm=bf461d20108021478916cc468dd1d8d0cd037735d6ee329525ccbbbd7b71fb147f8d4c88c88c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 17:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[揭秘！腾讯女程序员的上下班生活]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905AlVRibOyficmCjS87WkL1zfVlibQzl6C6Fib7ODTBicQ5bkGEWhM8MCwib7J1ramB1pTjngOLg4W1sjciaBuhOKENyIT10jWl7OI938/640?wxtype=jpeg&amp;wxfrom=0"/><p>“三八”国际妇女节要到了，作为一个程序员号，今天小编想真诚地对所有从事技术向的女生说一声：节日快乐，你们真的很了不起。每天对着电脑，写逻辑、改 bug、调接口、扛项目，认真又靠谱。不管是加班赶进度，还</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800595&amp;idx=1&amp;sn=1c00c2040ffcbd78745e6732daaf73fd&amp;chksm=bf91176efd767c1480a93bea6b5477769b80ac1ff66d604d0777a907817c7825ff20d4c04340&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 17:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

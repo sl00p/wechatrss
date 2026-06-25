@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xmM3UG0z5ZR4dPyEHdB91FIfVekSpocLSgmVPAXdG9KPVYFAqYp04bZrBcS5o9MktrvX9diaBLjvMsGsrKmhPLPFhP8zCa7VQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上有一个在浏览器上能用的 Figma 平替。也就是在浏览器就能画设计稿的开源工具。而且它能让 AI 直接读取。有很多人画原型都想生成的原型尽可能和原本的设计稿样式逼近一些。如果你只是把之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d&amp;chksm=f89ec95cf25f8654d71d337b4dd7f373b339398cc11bd6b44c1e09b23d0dfc0a93a86b16eb9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 13:07:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近这 4 个 GitHub 开源项目讨论较多，推荐一哈。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0kb8veBL5cLzBXz2sejLbTiaLlDWCVN3T9yDiaeYdZdxVOU82ibySenYBkJSOiaNYwDxfianGqPXykFAqcqFQqOuylckF5UtqQzWx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 AI Agent 配个不爱写代码的搭档让 AI 写代码大家都有个体会。让它做个日期选择器，它能给你装个 flatpickr，写个 wrapper 组件，再纠结半天时区问题，五十行起步。Pony</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534791&amp;idx=1&amp;sn=4bd76595f21d621e9680fc0738bf1c83&amp;chksm=f8c351d9370f500e8ce715ce8a476a67dc459bd1af1848db79ead48812e0e7f70b80d13ae70a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0Afymy35g86RX0HQmtCK0aqKuj4nu4X69RhhlAdIT5pydWibicF5TblCJgaWWdh7Giandial53mXaZaqIm0e1H1fyolsMur1ZywMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 今年在疯狂输出。打开 Claude 的更新日志，你会看到一条密集得令人窒息的时间线：1 月 12 日，Claude Cowork 上线：一个能直接操作你文件系统的桌面级 Agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533076&amp;idx=1&amp;sn=245937e8333920bde9c4cf5900282618&amp;chksm=f8370d6e56a8d5a2d9b0fa7b26063e7c45d981415394776993fee98c688064dd4e50ad215c64&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Apr 2026 11:27:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 10 个本周 GitHub 上最火火火的开源项目，收藏一波。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1mPBNjdst8oN2FMdiaMM09LC8eCiaXHMicnY2fClRqFClziapX8eK64NKxHuvLfAAcGTs4bXj8cfPDvN9G53WaTynsrfhpuNWpy2o/640?wxtype=jpeg&amp;wxfrom=0"/><p>01多 Agent 系统的可视化 IDE之前在 Hacker News 上刷到过一个叫 Rowboat 的项目，说是多 agent 系统的 Cursor。看了一下，还挺有意思。Rowboat 是 YC</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533024&amp;idx=1&amp;sn=1ee5f366af5eddd1b67ce633a2756480&amp;chksm=f8fa9825661090a653ea1ac9be71fd24cc99802c1f2fb3b5c23509737281416e38d6754ceb08&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Apr 2026 11:18:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

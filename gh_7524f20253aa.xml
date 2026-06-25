@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当智能体开始"动手"：AI安全如何兜住风险？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ZerO9GSnvp9p0MB6ica4ibHN0LmqiaUtyjbnlJnPe6tsxFnuYlRADn2oe8TaOnKsKm6E2V1ZbEWia2Idsa5PqMibtjic9LlIpOSjn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年，AI不再是实验室里的技术玩具，正以超出预期的速度涌入企业生产环境。随着开发框架与API的成熟，工具调用、文件操作、系统执行变得前所未有地容易。企业不再满足于让智能体"聊聊天"，而是将其投入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341243&amp;idx=1&amp;sn=a74785a08e5cf84ab62fe49964cfc773&amp;chksm=bca0716fd133b46584704fbfe886352b92c056e5bd107c0fd09bbbfd09d4e8e20d6bd23512c8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 12:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenClaw Skill市场暴露AI Agent供应链恶意软件与金融欺诈风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1jb41x8c3ZNxy8jSVwHiaOIEjHYmbTQyLmY93MEtziam8SVuL5F5B9mXdWhd229J9OzAeMCRJ4FCgOrEWlRP6Q1hYY3WVLe5dAM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型供应链威胁浮出水面针对OpenClaw AI Agent市场的恶意 skills 浪潮暴露出软件供应链安全的新威胁前沿。攻击者正利用 ClawHub skill 市场向 AI Agen</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341243&amp;idx=2&amp;sn=73fb127f112432ccd13c34229f854803&amp;chksm=bc2220664d361b25f583ed14acb89fe47be9bc678ebd3e739178c29bf2014317058065b28b37&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 12:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斗象发布国内首个针对AI的攻击测试套件（社区版开放下载）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1laYSzbbgibM9NpggQMvLFGPwEVpdyEezkgaUQxcNnC8iczm01ZoEOztxdVkozxbwGGEJbgSGoibdIQYicw7m2HRhGmcRb2FarmRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型和Agent快速落地，企业AI应用从简单问答扩展到工具调用、知识库检索、自动化执行，安全风险也随之升级。 过去主要盯着模型输出是否违规、泄露🔍，如今风险更多藏在Agent行为过程里：越权取数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=1&amp;sn=c6e8c1255eb9b51ca8d59822442f95aa&amp;chksm=bce430c24625303db2ff736a9690c877279fc9592c6aecdaf1b5356eaa7c48bcd8d48b251652&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[黑客拼凑旧数据冒充OnlyFans新泄露，7.6万美元叫卖3.4亿用户隐私]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1yviaGicBzDw9rNgQeaL1hqJfRuL53Smq8Jk23CRzVlPCVANnXjujUqoI6HicRFEtwEyEjWbxpISD4qKia66V4d5RImogt2p3iaeCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名威胁行为者正在兜售其宣称包含数亿OnlyFans用户（包括内容创作者和订阅者）关联信息的庞大数据库。但通过与卖家的对话及样本数据审查发现，这些数据并非来自OnlyFans系统的直接入侵或爬取。本周</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338691&amp;idx=1&amp;sn=a92de7612809a5cc44571e4b7837fe24&amp;chksm=bc462408e672d435a8c07310f03d6c786b10b95f4891f5c7408ca95ff008cb8e531117c0c321&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Google 42个月未修复的Chromium漏洞被公开 可劫持浏览器变"僵尸节点"]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2bQGZQXRTGIqpA5lSpmvRsv1S18af0oSaA6Tiboghsoc4a5aGaeY6YrwFw0Dn4WJ1BfbjIXzJgvXsacZY7gWmxos6YNWLO2ialo/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌近日公开了Chromium代码库中一个严重未修复漏洞的概念验证（PoC）利用代码，可能导致全球数百万使用Chrome、Microsoft Edge及其他基于Chromium的浏览器用户遭受隐蔽的僵</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338691&amp;idx=2&amp;sn=7c3fbd42e15f6b303f8e1e62508ac2a7&amp;chksm=bc59aa8719ba0e8e3496780be36262e4160f20f04cd5f77851f44671980bc9519c34d62ee56a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客入侵三大代码平台，34个恶意包窃取开发者密钥与加密货币]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX010RFGCc0VT6Dkmgg6QpibDNePnrcYwY1suQ5azue4iapLdcFBRtDXNiaRibkjsjiab0fjVL0ichGdNsseEhPWyXYBDpBibtH1RxMDBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新发现的 TrapDoor 供应链攻击活动正在活跃，攻击者通过 npm、PyPI 和 Crates.io 平台部署了 34 个恶意软件包及 384 个相关版本，旨在窃取开发者凭证和加密货币钱包。Pa</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651338691&amp;idx=3&amp;sn=45857f55761fa76575360a0166431529&amp;chksm=bcac70cdcb1c871f746782b68934b707f491cd2020d8b0fb7419762d263777f3e21eb03d0cbb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这次我们试试整点不一样的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhXGIUOdPUJptibdoIibXbbnrnaSuCB5lJbMWdsKCibwz13gx8iaDjEwzPnl1WCpWVBcCjG6G2nKfnNEraib4NFI4d04Picej5A0DpnHI/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源中国做了很多年技术社区，办过严肃的技术沙龙，也搞过万人的开发者大会。你可能也不是第一次参加我们的源创会，但你大概也发现了——这期源创会和以往有些不一样。AI 时代有个有意思的变化：技术门槛在降低，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241307&amp;idx=1&amp;sn=2a97ec45feba32351c5750d1f4428722&amp;chksm=bf18b07a112bfa868ab04abb5fee7f6c5196e19d9505455de23214af9a401df90abab2934491&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 09:51:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TypeScript 7.0采用Go语言重写编译器，类型检查提速10倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhVqQF7owbfsttGsEE1x1w64ZLEsskMdrIIH5RsP241IPsZj781oIlWqOIuxI3Upia2cGn3hlj5WlCu0YwX7EIoVw9nXN5Dc6zIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软发布了 TypeScript 7.0 的首个候选版本（RC），其核心变化是编译器完全采用 Go 语言进行重写，效果也十分显著：类型检查比 TypeScript 6.0 快了大约 10 倍。💡推荐阅</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241282&amp;idx=1&amp;sn=9fb6ba60d3e9c2972cbf3e66146e14cd&amp;chksm=bf971ae73796980ab61db531e0f813a9e620ddd228da6037b1b646a7f01ebe77db505c674bb1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>🎭Claude 背刺用户，国产大模型谁能顶上？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239378&amp;idx=1&amp;sn=85d9851f7cfa2967e039ff80b5c04a4b&amp;chksm=bfb58e8aca7bf93244dea04e3927d9e515967771a9ff983c274b2fea4da74cb01a9c82ce88de&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Apr 2026 10:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[硬核开源相控阵雷达系统AERIS-10爆火：低成本即可搭建、已在GitHub斩获1万多star]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhXBxGBH1cuQryzlcK93NtIOA3y35L3RLlsKp5203LgOJrwibwrtDwsqiccYxSqGnzkCoT0X3fgtVEsuRp0CoR7icfygIwm6t2lcxk/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，GitHub上一个名为AERIS-10的开源相控阵雷达项目引发科技社区广泛关注，该项目已累计获得超过12,000个Star。这套系统基于10.5 GHz频段，采用脉冲线性频率调制（PLFM）技术</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239376&amp;idx=1&amp;sn=f61808aafcf9a58497e79b28be880ffe&amp;chksm=bfccf7fd405563f53403ca4fb1edc450d957670e21a15d93a863604ffdf9407d71483fca5cc9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 16:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

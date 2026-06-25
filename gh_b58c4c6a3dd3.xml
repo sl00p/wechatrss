@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻击者正在从键盘前消失：腾讯云捕获多个由Agent驱动的AI攻击案例]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4IglCOkq7EIP4fCUfmOmth15c9IkkibpbFNdQMgrjEmicVgVdWgLQ0ACQ6sGSNdCjrXNNlNk8nDZPuckeQAv7g1ZWJSPPC9Gccw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关于AI Agent攻击的讨论，从来不缺Demo和概念验证，但它们很难证明一件事：这件事是否已经出现在真实攻击中。过去几年，自动化渗透一直在向前发展。从漏洞扫描器、自动化利用框架，到能够串联攻击链的编</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530073&amp;idx=1&amp;sn=d7aadd324b12138e5078191263e8af5a&amp;chksm=c133bd93bf39795bb4c8386067af8c141d7d19067e93cb741f3d5af0d848911447c615440f9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 16:12:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当黑客用了AI，一场真实的全球攻防战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun5V8chicurBNxA1AGfmqhGiblkTMvsq7QBhLjZaNmYJiaFBvw8yo82PtEwZa9wA6aqUfStoFaHsm4D7plL7Wqk6VI1EzzicE3wJvJo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年3月，一场悄无声息的供应链攻击席卷全球开源生态。攻击者渗透GitHub Actions、npm、PyPI、Docker Hub等10多条分发渠道，在Trivy、LiteLLM、SAP、Tan</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530019&amp;idx=1&amp;sn=55cedc829a73c546b796e1a70807492b&amp;chksm=c1e13ce863e3df486bbe008883f910deb45a5417b02824362345e460f5abf70ea6bc2ca57dfb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdekpOQ08gp3s0pHHYb15cgpRaO63eCs6qYib4wTxgK6xaD52F6ia5LdRWc2oQz3QTVAtuvZgwx72McAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528646&amp;idx=1&amp;sn=adcbbec63747a9caa703b84971f32827&amp;chksm=c15c675fa49c82fbabbb9c029e8e5ab955c1a4f356f9f301594b0ea77ef1ca47dccbe34fd050&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Nov 2025 18:19:16 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第五次问鼎！腾讯eee战队荣获第九届“强网杯”全国网络安全挑战赛线下赛冠军！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdemiaCqqQM3Ek8MicG79jUcde299IibjuS7p4eiaj9jXA2iaJ3rKLicgekUxIEicmITc7f70kibfDoHBvxuf9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>11月23日，在刚刚落幕的第九届“强网杯”全国网络安全挑战赛线下总决赛中，腾讯云安全科恩实验室eee战队以总分901.4位列榜首，强势夺得线下赛冠军。这也是腾讯eee战队在九届“强网杯”赛事中第五次问</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528610&amp;idx=1&amp;sn=7312978dae1b878bee05155e8394a836&amp;chksm=c1cd4ef129a02139eca5fa7d70ff73b79dc2a631a1dbbf23a1e03b3423ab2ab8933dce01cf22&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Nov 2025 14:39:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

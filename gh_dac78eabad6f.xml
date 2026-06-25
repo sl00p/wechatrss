@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[写了十几年代码，发现有些道理越早想明白，后面的路才能走得越顺。 代码是负债 每行新代码都意味着维护成本。删掉一行比写一行更值得骄傲，少即是多。 追问真需求 用户给的永远是方案而非问题。追问为什么，找到本质需求，往往有更优解。 简单即美 控制复杂度是编程总则。好方案=满足需求的最简方案。 不过度设计 只解决当下确实存在的问题，扩展性留在接口层就够了。 为故障设计 别幻想消灭故障，为故障准备对策：限流、熔断、降级。 追查根因 不治表面症状，多问几层为什么。追查过程才是成长最快的时候。 观察用户 别猜用户想要什么，直接看操作轨迹。一条反馈背后是上千沉默用户。 设计两次 第一方案几乎不会最优。多做备选对比，设计多两小时省实现两周。 命名即文档 好命名胜过注释。精确一致词达意，长度与作用域成正比。 注释写为什么 不写显而易见的，只揭示代码无法表达的意图。 早部署常交付 别堆到最后梭哈，越早暴露问题修复成本越低。 勇于重构 系统病了就治。测试保驾护航，重构投入会在生命周期中数倍回报。 DRY 一切重复都是膨胀的种子，消除重复代码，将重复流程自动化。 学会提问 带上下文、带日志、用对方能懂的词。别问浪费彼此时间的问题。 保持节奏 编程是马拉松不是冲刺，留出时间学习和休息。 数据为王 系统核心是数据。代码可以将就，数据结构必须清晰合理。 ROI思维 先MVP后迭代，投入与收益匹配。 软素质决定评价 做问题终结者，事事有回应，及时同步风险，把事做完。 先怀疑自己 出bug先查自己代码，广泛使用的框架几乎不会错。 测试改善设计 不好测=结构不好。单测不只防回归，更倒逼更好的架构。 接受腐化 没有完美架构，让腐化慢些，做好隔离留有余地就够了。 持续学习 读源码、找导师、多分享。学能改变行为的东西，别在舒适区重复。 接口服务使用者 好用比好实现重要，复杂性封装内部，对外暴露最简接口。 善用AI但别依赖AI AI能写代码不代表你可以不懂代码。把AI当加速器，审查输出比写prompt更重要。 像负责一辈子那样写代码 如果每行代码都会公开到朋友圈，你一定写得更好。]]></title>
+      <description><![CDATA[<p>写了十几年代码，发现有些道理越早想明白，后面的路才能走得越顺。 代码是负债 每行新代码都意味着维护成本。删掉一行比写一行更值得骄傲，少即是多。 追问真需求 用户给的永远是方案而非问题。追问为什么，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696058&amp;idx=1&amp;sn=56a4b24526926c90b6e5c786b3c94753&amp;chksm=eb8fe60c7a4e38a7c936a02414ef3a5e8d0c41d6a82fab3a3916faa7d8379df9ceb84afe63b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 26 Jun 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[8本醍醐灌顶的AI好书！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr77rzBXXDicjO1xhUQsvasNzdJiaw6QgWlFAmiaaDXqhd2qoq7jzPDbHYXkiaZ7N3FhSdYdlDbqAE2WMrJUMv9LVr69NyT6egVCMQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统程序员就业形式正在下滑，AI 相关岗位走势一片大好，渲染一个 AI 实习生等于 10 个外卖员的焦虑并不可取，忽视 AI 这房间里的大象也是鸵鸟行径。 程序员在 AI 时代需要想清楚三件事：怎么驾</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696043&amp;idx=1&amp;sn=2a0c21bfdb2bd232e3c2c7f308092e66&amp;chksm=eb7824a005da516c77b60c6ee7b8d64a488d0959d0c926c83c384e20d5aa458bea04a1df509c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>又被偷家了！ 2022年：ChatGPT将在未来取代很多人的工作 2023年：ChatGPT将</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694890&amp;idx=1&amp;sn=db831cef1638c6b4fe8e70a4bf619770&amp;chksm=eb254216ef9a083bacd5cca184f863819079abbd9a275af86fb72511faa43adb6df72c767c7d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从架构到代码：深入理解 OpenClaw 的双源记忆系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7vNXrYkz2blMVcE542VXTUUibRibG6TmEggkIibISuUQDp9kxiand9QTiaxsUNwG1Gic9yUbFW7ATt7yte3xXIcG18FaDricdP5Iy9gA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇使用完 OpenClaw 之后我最大的疑问是：一个 Agent 同时活跃在 Telegram、Slack、企微甚至本地 CLI 里，它是怎么“记住我是谁”的？这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694887&amp;idx=1&amp;sn=192feccb73717c5ecbd3a2c886c9a5e8&amp;chksm=ebc80787da02cf354c875efe3aec560fae9e82e7624143c63000add18292d28819e6ae4e5594&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
