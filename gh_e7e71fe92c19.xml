@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[探索CVE-2026-31431的热补丁修复方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1RF5zIhDlAEae2Wge4Wic1ss9rNW4lsIwoavVzBsXrFmbUDakJsNEYoVxoUN0hI03MUicdqibBhYgcMicc5lXHB3Xw2wfBDjNBR3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在修复CVE-2026-31431的过程中，同事希望能有一个热补丁方案，减少对现有业务的影响。该方案不仅要防御攻击，还要避免影响现在和未来的业务。所以就有了下面对热补丁方案的探索。一、漏洞原理解析具体</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617012&amp;idx=1&amp;sn=7807b0af5bbb8bd7d1a6b67e998cf678&amp;chksm=b093fed07d4b66d0a6046b68786c0de25accefe313aea488ed4d3c51e557760aaa65a23e8d7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617012&amp;idx=2&amp;sn=1b98a307ca4be3e02485dd2f2f897a75&amp;chksm=b0e878192e0446e749a46db730d090e5048867755d45fe13edb7a8a963638d2e0f896f4aff7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【新课首发】从网关、检测引擎到可视化大屏，交付完整企业级 AI 安全运营平台]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617011&amp;idx=1&amp;sn=a654d81a09cd1101a19028a18971bec5&amp;chksm=b0127a0c44dc98b6442361899a507ff507462188e3b93becdd51ac7b504c059b6fcd9367d906&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Xu5icgOswJBB9LmF0R6na4J18skRias3ZLv9stO8sYtbhSDb2Itr1Js2s3tjWJNkBSh3x1IHSvS1OqKY2iccF9fhBk2fIYSX124/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，全球最大代码托管平台GitHub，因员工安装恶意VSCode插件，约3800个内部代码仓库被非法窃取。事件核心：恶意插件“潜伏”，员工设备成突破口GitHub官方通报显示，此次入侵的源头的是一款</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=2&amp;sn=498a7e58c1777449829abaacddd0a255&amp;chksm=b09cedc594e983c765d299c5b2b8efd3b1c67a3768ebd6fd03c273b784d0587b33ffce403909&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型落地必学！提示词越狱与防御，已成为AI安全从业者刚需技能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1I13hfAs2USV2iaicR0EMWumetXjqZ4vPyLNQXv5kXXhiab2yh16zmKWIRBReqOqdC6sfcMAdk91MhfwAkBYHFibOv6Z2LoPehEqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>提示词越狱系统指南：从原理到防御实践AI 应用落地越快，安全隐患就越突出。提示词越狱作为大模型最常见的攻击入口，轻则导致模型违规输出，重则引发数据泄露、合规风险，甚至让整个 AI 系统失控。对于安全工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=3&amp;sn=97c6162c13d4865a152d9f574bc682ca&amp;chksm=b08c0942c075de0ada3b094c47157282d5d6fcbf23009f3f134fb47beb221f7952bbe326ddd1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026腾讯游戏安全技术竞赛-安卓决赛VM分析与还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K18SsvQ1d0m98hRY1rgpRdVjw9wyFSA6rKBEcoKQdnD3sQcicJib175oMJ6iccEl4Sm8rg7wssDThLHzoHjrIibpuWp1RQS91M5C6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>Flag 速查表输入屏幕左上角 8 位 hex Token，输出 3 个 flag。完整工具：flag_tool.exe encrypt <token>以 Tokena2d576a6为例：产物：fla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615341&amp;idx=1&amp;sn=d0b17757daca91bb53c55ff62f8422dd&amp;chksm=b0b21e5acf6af80c1bf920540ceb8b20d2e6ee9d241a968b89fec822634b659ead12d67c2e66&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

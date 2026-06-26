@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[10 个本周 yyds 的 GitHub 开源项目，推荐给你。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1oS9KA8qPU0t5eZgGGqrWoCrYECpBEibabpfNAsYnYoB6hQknqSZV0B7VJOiahT6Y6G3JEFsSxX7gwln7LtaP4e5ecyFZYcA8icg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一行命令，克隆任意网站看到一个特别好看的网站，想做类似的设计，怎么办？现在只要把链接丢给你的 AI Coding Agent，就行了。ai-website-cloner-template 就是为这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534885&amp;idx=1&amp;sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f&amp;chksm=f84a43ecf52ff00307e44775acfd6d1b72821124521e1aa061fa08c7e34b458c0a1fc8192754&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 27 Jun 2026 15:54:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xmM3UG0z5ZR4dPyEHdB91FIfVekSpocLSgmVPAXdG9KPVYFAqYp04bZrBcS5o9MktrvX9diaBLjvMsGsrKmhPLPFhP8zCa7VQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上有一个在浏览器上能用的 Figma 平替。也就是在浏览器就能画设计稿的开源工具。而且它能让 AI 直接读取。有很多人画原型都想生成的原型尽可能和原本的设计稿样式逼近一些。如果你只是把之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d&amp;chksm=f89ec95cf25f8654d71d337b4dd7f373b339398cc11bd6b44c1e09b23d0dfc0a93a86b16eb9d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU12l5oIMpBmfEiaxEYUYnj2qaBvBd6D0GP6KqIYZiasvgqu1IWKTXyLLcWgk8rZZsDIja7Ig3ib2WXpt0Oh6QoELQCRKQ1kdaafdc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Milla Jovovich 这个名字你可能不熟，但你一定看过她的电影。生化危机里的女主爱丽丝，第五元素里的莉露，好莱坞硬核动作女星。但 2026 年 4 月，她刷屏的方式不太一样：她在 GitHub</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533127&amp;idx=1&amp;sn=4959cde12f835de2b9bfeb86a78b1ecc&amp;chksm=f897aac3e49d5ccc8c341bb735529463874521737765b1190aa7cf41f54e64c839b3ef376a76&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 15:01:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0Afymy35g86RX0HQmtCK0aqKuj4nu4X69RhhlAdIT5pydWibicF5TblCJgaWWdh7Giandial53mXaZaqIm0e1H1fyolsMur1ZywMA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 今年在疯狂输出。打开 Claude 的更新日志，你会看到一条密集得令人窒息的时间线：1 月 12 日，Claude Cowork 上线：一个能直接操作你文件系统的桌面级 Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533076&amp;idx=1&amp;sn=245937e8333920bde9c4cf5900282618&amp;chksm=f8370d6e56a8d5a2d9b0fa7b26063e7c45d981415394776993fee98c688064dd4e50ad215c64&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Apr 2026 11:27:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
