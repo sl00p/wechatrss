@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1tVCosU5h7bKyd82uyxF73kIpO5tQVnVRsibicWDMt5icPEs6r6m2jOgMZeM1Piaj4bZnM3sWWQLVvDnIfnsrbyOkh3yjgjtyPkSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了在 ARM64 Android 平台上，构建一个完整的内核驱动内存读写检测 Demo 的全过程。项目包含两个独立运行的程序——仅使用用户层权限的防御端和拥有 root 权限对接内核驱动进行读</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617083&amp;idx=1&amp;sn=25328f992c00f12f2a64147433951b89&amp;chksm=b0f442910513a84ec05f2189abd4397dc6b32e78ecb7bface04437c8efe470ec3ade3829df9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[对外开放听课｜科锐交流机制全新优化！随时到访、无需老师陪同]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3S4fzz6WkKR7NLm1IeyRlAp2LjFaPOJWvJpCt1ziaib5N1gOEbIiaMN8B3tUpLSAZ82e4CbiacekfqmGAXy5BNTopF6ejXNlR8s30/640?wxtype=jpeg&amp;wxfrom=0"/><p>对外开放听课｜科锐交流机制全新优化！随时到访、无需老师陪同为搭建开放互通的行业学习平台，促进技术交流与经验共享，科锐正式升级对外听课交流机制！校外人员可在校区工作时段到校入校，沉浸式观摩课堂、与在校学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617083&amp;idx=2&amp;sn=5723c80ed7ed0b3642c01be2c0c2ef08&amp;chksm=b06b56f48599ed46511a0aaeae52915fdfda40a7b54c5c85f096944aa9dcd5a0050f040a3120&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SSH客户端库曝高危0day：libssh2 PoC公开，或影响大量基础设施组件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1V9StfOHWFcHpna6FDCM0IwVN7zXh6UTvcQ3BLxWOQY3b8N676IQw1BNnJ33qyedibScmOpIibp32jfm5YPItRjaFiaSX9PZwfyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，SSH客户端库 libssh2 被披露存在高危内存破坏漏洞（CVE-2026-55200），并且已有公开PoC流出。该漏洞允许恶意SSH服务器在客户端建立连接的过程中触发内存破坏，极端情况下可导</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617083&amp;idx=3&amp;sn=0e7fd8aa645c5a5735b64692d3b16f01&amp;chksm=b0aaf09d6437f3668e35fd98068d7bf88e0f5470590ef442dc83f264cbdd47cda9f0f497b153&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[探索CVE-2026-31431的热补丁修复方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1RF5zIhDlAEae2Wge4Wic1ss9rNW4lsIwoavVzBsXrFmbUDakJsNEYoVxoUN0hI03MUicdqibBhYgcMicc5lXHB3Xw2wfBDjNBR3Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>在修复CVE-2026-31431的过程中，同事希望能有一个热补丁方案，减少对现有业务的影响。该方案不仅要防御攻击，还要避免影响现在和未来的业务。所以就有了下面对热补丁方案的探索。一、漏洞原理解析具体</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617012&amp;idx=1&amp;sn=7807b0af5bbb8bd7d1a6b67e998cf678&amp;chksm=b093fed07d4b66d0a6046b68786c0de25accefe313aea488ed4d3c51e557760aaa65a23e8d7f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0zpibZppWe86KU0DkXmKLicwmj1EJ3wZg9znSPdlTNb7gEIVPMke5Pj6KxfpvRfXAsibw6eHTPCF7ydFMSQGbJJQH9icMltR1mXPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01程序分析Arch: amd64-64-littleRELRO: Full RELROStack: Canary foundNX: NX enabledPIE:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615386&amp;idx=2&amp;sn=cc5edcd65f3d277ba25629b95a5071f2&amp;chksm=b0885039eb6b88a2d98eb2061bfaef20a504e573e931d1e8539610d40a2d88d107249387d7f7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 17:59:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“银狐”木马新变种爆发！伪装人事文件定向攻击国内用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3wwfda6DMDdLFkFy1icyXcGvnrPqkdXTMkE84hdSAAyPGbM2VB8OUUO6hjhXhyLYFZgpPtAqpqcEZvHeUic1N8fQWFrpbo64vIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月21日，国家计算机病毒应急处理中心正式发布预警：“银狐”（又名“游蛇”“谷堕大盗”“UTG－Q－1000”“Silver Fox”等）木马家族出现最新变种，正以人事敏感话题为诱饵，通过企业微信、微</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615386&amp;idx=3&amp;sn=a0b34129d4be3e55433eaf7ab28456be&amp;chksm=b04929e043e47cd3c3cfe11f820b4513e2d9615334f812404bdfdabd37c6a7a6170cf02d8108&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 17:59:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第三方MiniFilter中常见的一种TOCTOU漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2icCth4IOjjQfzwQQqZP3a8ic2H4CXv4NzASSXCKscT9Rv6lbCodkaicKId6mBTAPJjw31TEIslyxfMJlAensKQu1DIibUaCvTF2c/640?wxtype=jpeg&amp;wxfrom=0"/><p>TOCTOU作为一种广泛存在的漏洞类型，在第三方Windows MiniFilter中也存在，本文介绍一种典型的第三方MiniFilter TOCTOU漏洞。01MiniFilter 架构为了了解为什</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=1&amp;sn=772e8df0c2ce473468d1a0880f4548e4&amp;chksm=b02c499d3effa64b3ed2f896c622e98bae10b121db1daa5a18201e74099218fed82d9e94550f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub遭恶意VSCode插件入侵！3800个内部仓库被盗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Xu5icgOswJBB9LmF0R6na4J18skRias3ZLv9stO8sYtbhSDb2Itr1Js2s3tjWJNkBSh3x1IHSvS1OqKY2iccF9fhBk2fIYSX124/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，全球最大代码托管平台GitHub，因员工安装恶意VSCode插件，约3800个内部代码仓库被非法窃取。事件核心：恶意插件“潜伏”，员工设备成突破口GitHub官方通报显示，此次入侵的源头的是一款</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615353&amp;idx=2&amp;sn=498a7e58c1777449829abaacddd0a255&amp;chksm=b09cedc594e983c765d299c5b2b8efd3b1c67a3768ebd6fd03c273b784d0587b33ffce403909&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

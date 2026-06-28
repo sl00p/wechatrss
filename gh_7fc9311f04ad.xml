@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火种&amp;起源：一个运营从0到1搭建CI自动化流水线的实战记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w8YBELxtoGR6yxBSvW9xXLbWL1wKaVblMUJqN2lUvrjicaMhHNhvbktUib5ELE6f6D31BHVJYfMutT8ic03iauotoZ6Fz4IIVFVyE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。摘要作为一名高德打车的区域运营同学，和常规运营同学一样，日常工作中需要大量时间和精力在盯数据、写日报、做分析上。半年前，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561273&amp;idx=1&amp;sn=83a787fddc51bbd9a0b2b268a9f3f00d&amp;chksm=e8702877de39ef1e1b6790cbf5e2297567eeed9cd5540332a459d3ea674cdbac50c48ec98463&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[构建 AI 时代的知识底座：直播数据 LLM Wiki 实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zmtY0ttBsSOQriaMZpMf9oaLR1WdcNE6gcia00zJv3aFZ1OFMyR2icpicsmcrltj3ic1Z3TNpckIlHVc9YdDqte44fxicU2yFH4icrvc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、为什么要知识库领域知识决定了 AI 在业务中能发挥多大的价值和作用。任何 AI 系统都由模型、知识、架构三部分组成。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561257&amp;idx=1&amp;sn=d664dbf2543b9d4b772b4b3d87c3def7&amp;chksm=e83994287c961a5067875098c165e50d6caa806601ea40743469bcdcad048ad8c2fa4bad266b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yZmrXxDOpn11lXuHTZfC00suBECiasoMVCiaoRTshHIbOBia5gXlYJiaib593FOFx2ZdemWwjiaauB4jcmvEpgic0bS41Q0iajP7P7Qbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读作者通过亲手编写代码、研究底层原理和对比传统架构，系统地梳理了从“怀疑 AI”到“理解并驾驭 AI”的心路历程。数学家高斯说过“工匠总是在建筑完成后，把脚手架拆除”一、前言下面几个问题，曾经</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559085&amp;idx=1&amp;sn=088f736a32f31c2b54a534886d492453&amp;chksm=e8e085a3d2961540f5e5704f8f115e6de09f5804dfbf67ac87941073ba5f96dd77311cb7de45&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拒绝重复造轮子！抽象 80% 工作场景，打造可复用的"AI 助手工厂”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKIWKqblicyP2BsV2iczicvL2l3jYdVcEUWvnmMTcZyLK7r0EzFSWibPmFxPcRkrmB3cMza5jENEGnuo8W9crjkoGs7qTYfmVO2sU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当每个业务场景都需要一个AI助手时，我们是在埋头苦干、重复造轮子，还是选择打造一条“AI助手生产线”？本文深入探讨智空间团队如何将执行、答疑、排查、极简场景四大高频需求抽象为可复用的技术方案</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247558977&amp;idx=1&amp;sn=dcf5e1258edd06e555cc9bff963f133a&amp;chksm=e83f028be5d85c068d132d43b5281a66460aa8d7b05dc0029539ab8e13fbea6b1d6c0ddd7499&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

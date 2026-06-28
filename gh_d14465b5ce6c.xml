@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开启Harness Engineering探索之旅]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz90626sjIWc4PZhyeC3xI7IYTVgKY73LM0BJa9ZRu7SoFicsAK9ZGOMlgyX4bXmvBZxBicSlfUJiaWlE2Qq47iagN5ZJiabovnChkyOsY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：fanniemeng过去两年，AI Coding 从"能写出能跑的代码"走到"能放手让它写一整段功能"。但把这个能力放进真实业务、放进多人协作、放进存量系统里跑时我们发现一件怪事——AI 写得越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802377&amp;idx=1&amp;sn=ac71d992c0feeea2d7611a2e1cc6f9dc&amp;chksm=bfed4e7b79de45c11ed9f8c831a309efab3f7c97fd14ed277633f0b44788c1b97c64652e24fa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元AI Infra如何优化Hy3 Preview：一次大模型推理性能提升的技术拆解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905w9BuUXrAicj6gpIyNy7sGAibAIkQwO8LXQ9xibZP5PcP1nJicrjWPTQpYuX7U5FQp93p2G5loL9rbKhVP6iaPJhxeSI0nMOPB9yf4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：混元AI Infra推理团队本文将从算子优化与融合、并行策略、多级缓存、MTP和异步调度优化、量化与稀疏五大维度，逐一剖析各项技术的设计思路、核心算法与实测收益，全面揭示 Hy3 preview</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802370&amp;idx=1&amp;sn=933bed02fa58d278084e12946d3fa8ce&amp;chksm=bf68c3df9a0f8f565f1ee5581601c729624c2f36fcb2e86a5c94ff2173a436c86b30a8faf5b9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906dgJicXh8SW6eL6FnKzHVPeGnme8N9U2a676LP1d7c4cQxysggZt3gudYE9ticV9mIibG6fJE4v0Wx6syoHIBF0LNdyS5eRmYkJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：朱雀实验室 nicky2026 年初，OpenClaw 在短短数周内狂揽超 30 万 Stars，迅速登顶 GitHub 开源榜首。越来越多的国内企业也很快跟进小龙虾快速部署，让更多用户第一时间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800667&amp;idx=1&amp;sn=829e2103ca6256fcb3dcec1936e84b74&amp;chksm=bf445b249417ec2a411f7de8b688e0197349c8a95f5694d1bacf72b40cbd9ab67bbe0682f4ac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Mar 2026 19:46:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[玩转OpenClaw，你需要了解的：核心架构、运作原理、Agent部署步骤]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9051SV2ogrkzwyymicymqlYvHYAA3Ga3giahhhlWavHuBgLk8NMCk8lsandnbA2ibDl7riaXtl2kmeoicT2n4hjCTtDVXTtRbA91Xc9I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：冰以东建议有打算深入了解OpenClaw的同学优先看OpenClaw源码和官方文档，目前该项目正在高频迭代中。本文重点从核心框架、通信机制进行介绍，争取让你看完本文后知道OpenClaw是怎么运</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800637&amp;idx=1&amp;sn=ea01e0f19b2749deda2f6ff67ab6f104&amp;chksm=bf461d20108021478916cc468dd1d8d0cd037735d6ee329525ccbbbd7b71fb147f8d4c88c88c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 17:26:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

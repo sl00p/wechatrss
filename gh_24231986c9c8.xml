@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[拒绝被剧透！解密大型赛事直播背后的超低延迟黑科技]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeQq1IZzBfBeVNHnOtO6VtH8WarUPuxiaZhYdGTPPPN8hJRNa1tYRpqNqkw0GKsQ3HeGW2fwOdLxLyvsg4mDOiblBcafLKeEq1P0/640?wxtype=jpeg&amp;wxfrom=0"/><p>隔壁已经欢呼，自己的直播还在回传球——这是无数球迷在大型赛事中最怕遇到的瞬间。一、大型赛事最怕的不是卡顿，是慢那一秒进球、绝杀、点球大战，每个关键时刻都只有一次情绪爆发机会。越是热门比赛，观众越追求实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520583&amp;idx=1&amp;sn=a8fba97c653fa599633609fc7af090eb&amp;chksm=e8c968ab19474212c4396bb2343b867fa322a02a1a63f8235c442fa7aca5365671ae01f2f114&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 29 Jun 2026 17:42:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火山引擎 AI 搜索千万级 Agent 架构演进与实践：从 ReAct 三节点到 Unified Policy]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeaoxDrhp1DYX5ZEqMer5o4huQDC8VhmwLZKHxiaYgnibcVEjKBc3efd25FkmRKgkO8oO2dkdR3HbDiaDECbDAicrRDI8glzY7tRDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读：当 Agent 技术彻底跨越 Demo 玩具阶段，真正挺进千万级并发的企业级生产环境时，传统的 ReAct 架构开始暴露出节点臃肿、延迟极高、状态管理混乱的致命缺陷。本文深度拆解火山引擎 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520575&amp;idx=1&amp;sn=6d3a2d35f06bf57d763e1a41c5e00a6f&amp;chksm=e8bafbfb4a0abed3e87de94c7675bf68f50c5c99fcfb77d94d383306c638747b89620fd6227e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhu0qvRAqIRIXhAiauRVYH38gVpR9KibhVlJKHpK1ZCWpA8HFiav0q54bQCnOaIHONqLAHYUj5zO570Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>—— NTIRE Workshop &amp; Challenges @ CVPR 2026一、竞赛背景：从“好看”到“可信”的UGC图像增强在短视频与社交平台高度发达的今天，图像增强与修复技术已经深度融入各</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518404&amp;idx=1&amp;sn=826ab72ad0672794efb01ff65acbc512&amp;chksm=e8288e0bdb9feafe41797890f4c142c527fe15681e6ee4028cd22a61ca5d3ba3d078399c4b2e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 18:11:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenViking：面向 Agent 的上下文数据库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/5EcwYhllQOhPgCJ4RmV1MegakjPibk1amHKrcm3fqlmpztic6uv4boicKala1GFELauN0sbalrcyDSxV3QGJibR6Fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>挣脱上下文的枷锁：OpenViking，为 AI Agent 而生的开源上下文数据库“We are swimming in a sea of information, and we need to l</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518398&amp;idx=1&amp;sn=2ab5285d4fd04d77905ae027e393849f&amp;chksm=e8b581d5da0691361d609e20ac82faee8069623b6fe42930e3bf5ebd3d3edb04dc9f352d9163&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
