@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[四步接入微信支付，从头疼「写后端」到轻松「填配置」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbcxosolsfic5NcqV3R6IdEqM9icUv5XHj0NmfibGibicpXwoCKviatRfYAJQfU3NnsAkZpNaHNicpe7QZ6xPHIvXlz37ibJSv4Jib0c3MI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前要在小程序里接微信支付，开发者要做的事可不止"调一下接口"，需要存商户密钥、实现请求签名、申请回调域名配 HTTPS、写验签解密、处理重试风控。一套完整逻辑，写下来通常占整个项目工程量的 30%。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539830&amp;idx=1&amp;sn=e434de79c2f5195c2bbb4b7a867770b1&amp;chksm=cf618a4f5d24683d319dc4465b9c8ce0fb41ece02122911c18015f7fdb0fa047e27e77a9b565&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Jun 2026 17:09:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[云存储上新：存、改、审、找，一个桶就能搞定]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfFAXPrWjiaSiaaNGnpZLHLvD4qtIbfrYbmygkhefFWwFyR9KZjoSj9UB2vdW4K3lygDicm8sJ7icYr28aWxumYmGSX5HPdibibiabZso/640?wxtype=jpeg&amp;wxfrom=0"/><p>做一个有用户上传场景的小程序或 Web 应用，UGC 社区、电商买家秀、AI 表情包、文档分享，光是把图存进云存储远远不够。存完还要做压缩、要做格式转换、要审违规内容、要支持搜索。云开发云存储现已集成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539819&amp;idx=1&amp;sn=6ae316edb70bace49b1721de73d06b53&amp;chksm=cfd760881a84a0e9bcba53522b1d043d124766aed64cbc54fbced94dff18388916fc050d3528&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[手搓 JniForward：Unidbg JNI 转发真实 Android ART 的探索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2YuaS6vOm2U70IXeRJTsRicPbbH59qRgqVy1BxcxlO3RQgKvK3jQBicacek48RVhbWSAehzpaWznmQYDZQTUwUqR4yKMcZ2ias6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>论坛里偶尔能看到「SO 在 PC 模拟、JNI 丢真机跑」的说法，当时没看太懂中间怎么接。后来手写补环境补烦了，自己撸了一版。Unidbg 跑 SO，Native 一般没问题，一回调 JNI 就卡：T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=1&amp;sn=2d02e4eeb41fbfddfd1c3d4438f42582&amp;chksm=b004660ad497897d5047480335b181f57b3cd3337a105be6eb83f43c7f40a3c8c6fb381c0459&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果紧急推送超30项安全更新，Safari/WebKit曝多重高危缺陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3hIIIGyB0W1xqsjutnxgDIQicFMrmJm5YDkGcC306YFlkyN6rB7UXtaDPbhXAYdvPm3hzuFAqqVYIW9n4y6THHuowU3ZvJiaEhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果公司近日面向 iOS、iPadOS、macOS 以及 Safari 浏览器发布了一轮重要安全更新，一口气修复了超过30个安全漏洞。其中，WebKit 浏览器引擎成为本轮修复的“重灾区”，多达数个高</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=2&amp;sn=ca52e8ec86fbf0d7444c639939e4b1c7&amp;chksm=b090ac988fa50fa7437ed49dd797f7edb73da8a952ce3fef3a64d1a96ccef83e3e95d56a63a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=3&amp;sn=18432103dc762bac8fda66d695a25548&amp;chksm=b0613dec9f2290d0cd06d50187304051316409a9c76d1c957410a20fd3cbb81cabbd89618ba2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[内核驱动级内存读写的用户层检测与绕过：一次攻防对抗实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1tVCosU5h7bKyd82uyxF73kIpO5tQVnVRsibicWDMt5icPEs6r6m2jOgMZeM1Piaj4bZnM3sWWQLVvDnIfnsrbyOkh3yjgjtyPkSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了在 ARM64 Android 平台上，构建一个完整的内核驱动内存读写检测 Demo 的全过程。项目包含两个独立运行的程序——仅使用用户层权限的防御端和拥有 root 权限对接内核驱动进行读</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617083&amp;idx=1&amp;sn=25328f992c00f12f2a64147433951b89&amp;chksm=b0f442910513a84ec05f2189abd4397dc6b32e78ecb7bface04437c8efe470ec3ade3829df9c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3SVTqOibUPdENibsLUtJOlfCg3OnaSicIUictw7Ee1fX3PnF2tiadNwWGFOBialg64BicXrRHeKwb3PX2oJaqNSj67aBkrgjiaHZgEGxU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01吉利汽车研究院（宁波）有限公司密码技术研究员薪资：60-70k就职地点：宁波岗位职责1. 密码算</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615448&amp;idx=2&amp;sn=8c4399f2f477b59bcf4827a08e94facd&amp;chksm=b0fc66eacec39138bc03dd347a34c7430210697c046374acf436414f90f7ce5b7d4ab3a67b47&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[vm2 沙箱曝5大高危漏洞：最高 CVSS 10.0，波及所有3.11.3及以下版本]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K21ncBYjWv7jv9to7Vhftncoj0zBEv8P7OnNpuFVoFFcy3GLic4kr6n3RnnpmUHFsRU2r0c4OW20Bk0icg3xd1SqyrINrBOeO5ibM/640?wxtype=jpeg&amp;wxfrom=0"/><p>在Node.js生态中，vm2一直是开发者依赖的“安全沙箱”：它通过限制内置模块，为用户提交的不可信JavaScript代码提供隔离执行环境，被广泛用于在线IDE、低代码平台、AI代码助手等场景，被视</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615448&amp;idx=3&amp;sn=818c2d9d2813d32261998d80b1c601c2&amp;chksm=b07ddaf7c1d8697c0afb7a4e022d5765228365be29790f51b3c9a8809453893cf8e8e482c7ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上海急缺的“人工智能训练师”到底是个什么职业？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K35wj3gkey5GG6icNr5hufOC1WQEPmGibmEW0pbI1XdTYMKXfL9icFDKWHGgQMSJq80aLB0LMraWVX2pNmVNWlXaok1ibdb9XKrePU/640?wxtype=jpeg&amp;wxfrom=0"/><p>早晨被语音助手叫醒，它准确地报出今天的温度和降雨概率；上班路上打开导航，系统预判了前方十五分钟的拥堵；到了公司，你对着DeepSeek输入一段模糊的指令，它能生成一份像模像样的会议纪要。我们早已习惯A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615386&amp;idx=1&amp;sn=0e02f3e64820631685e0080a6ebdf9d3&amp;chksm=b0cce96e40cf5378949a51fbb1ae4a2db5c4ecf659ae6566b6c0260a916ba22ab43fcb8a288d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 17:59:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第二届软件系统安全赛 robo_admin 题解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0zpibZppWe86KU0DkXmKLicwmj1EJ3wZg9znSPdlTNb7gEIVPMke5Pj6KxfpvRfXAsibw6eHTPCF7ydFMSQGbJJQH9icMltR1mXPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01程序分析Arch: amd64-64-littleRELRO: Full RELROStack: Canary foundNX: NX enabledPIE:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615386&amp;idx=2&amp;sn=cc5edcd65f3d277ba25629b95a5071f2&amp;chksm=b0885039eb6b88a2d98eb2061bfaef20a504e573e931d1e8539610d40a2d88d107249387d7f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 17:59:34 +0800</pubDate>
     </item>
   </channel>
 </rss>

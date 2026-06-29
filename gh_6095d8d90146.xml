@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/6/30)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Bucket Hijacking：利用全局名称唯一性劫持云数据流https://cybersecuritynews.com/bucket-hijacking-attack/本文揭示了名为“存储桶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960502&amp;idx=1&amp;sn=d92028f468420b002207c49d6d256fdd&amp;chksm=8af1269fc9787fcd9f926da508226dc12cf8e249e91e2bce2725800041171a7322aa4871cbcd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 30 Jun 2026 19:08:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/6/25)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• libssh2 严重远程代码执行漏洞 CVE-2026-55200https://sectoday.tencent.com/event/c6ps-p4B5M25NX6P0DcOlibssh2 开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960499&amp;idx=1&amp;sn=119241df8ff8da5bc65c583a1145d0b6&amp;chksm=8ab19d13336e14bc03959bbe9bc0c70758bc1c07bf7262f3fb227406ddab504c8ba6f340644e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• NVIDIA nvdisasm 堆溢出漏洞分析（CVE-2025-23271）https://hackyboiz.github.io/2025/11/05/ogu123/cve-2025-232</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960246&amp;idx=1&amp;sn=39b0d9f440cdf13d99db1e8af6e3905b&amp;chksm=8a1ab55fcc80a7af03c0cb81cb1997bed6c46e86146575258967c295d2aea2d92ddb877830bc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Nov 2025 17:22:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/10/31)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 研究人员开发Linux内核rootkit绕过Elastic Security EDR检测https://cybersecuritynews.com/linux-rootkit-evades-el</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960243&amp;idx=1&amp;sn=368135d0fe07b731b331fd58024f3353&amp;chksm=8a20eb6367c8b8a2dc87dc0e9d6119f3347b879a40d5db47bf3c3bfb6fcbec1556b87f039729&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Oct 2025 18:58:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
