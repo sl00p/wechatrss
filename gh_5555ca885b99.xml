@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[邮箱登录新增支持 Magic Link：点一下链接就登录，不用再敲验证码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfzTLS4AY3cL1YEkWEtiaMuXVXGphP3Iz93toicJmEzaLf5FJYAEbpLQib8UkqT6FUAhcpEcH9K3kGiaJibUrMnvgywnp4CBALoqk7M/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多产品里"邮箱登录"是用户进来的第一步，但您可能也观察到：用户输入邮箱后，要等几秒收到邮件、打开邮件、复制 6 位数字、切回页面、粘贴、提交——一连串步骤里任何一步出问题都可能让人放弃。CloudB</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539847&amp;idx=1&amp;sn=7fa4a4c4b68d8a683facc6d3b801635c&amp;chksm=cf0df9af9ad49a72e58979fecb7b21a2447eafa67d0bcd4acd0fb16fbb8e209220b5422ba376&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 16:47:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[四步接入微信支付，从头疼「写后端」到轻松「填配置」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbcxosolsfic5NcqV3R6IdEqM9icUv5XHj0NmfibGibicpXwoCKviatRfYAJQfU3NnsAkZpNaHNicpe7QZ6xPHIvXlz37ibJSv4Jib0c3MI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前要在小程序里接微信支付，开发者要做的事可不止"调一下接口"，需要存商户密钥、实现请求签名、申请回调域名配 HTTPS、写验签解密、处理重试风控。一套完整逻辑，写下来通常占整个项目工程量的 30%。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539830&amp;idx=1&amp;sn=e434de79c2f5195c2bbb4b7a867770b1&amp;chksm=cf618a4f5d24683d319dc4465b9c8ce0fb41ece02122911c18015f7fdb0fa047e27e77a9b565&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[五块钱如何花三天... horsley，一位腾讯应用开发高级工程师 从token 焦虑到系统化治理，horsley这次想分享的不是几个省 token 小技巧，而是额度收紧后，团队怎样更稳定、更可持续地使用 Agent。 要真正管住 Token 成本，不能只靠临时节流，关键是先把这四件事看清楚： 一，真正的问题是浪费不可见 很多 token 不是花在难题上，而是花在黑盒里的绕路上。尤其在 IDE vibe 里，外部只看到结果，却看不到 agent 有没有选错模型、反复读旧上下文、工具失败后重试，或因为环境问题绕远路。 所以第一步不是让每个人更克制，而是先把浪费看清楚。 常见的四类浪费： （1）任务和模型不匹配：低复杂度任务也默认上顶级模型。 （2）上下文越来越厚：长对话里旧信息、工具输出、历史判断不断累积。 （3）工具和 MCP 太吵：日志、测试、命令输出里大量噪音被原样塞进上下文。 （4）失败反复重来：依赖缺失、参数错误、工具失败导致 agent 一轮轮尝试。 这些单次看都不大，但每天反复发生，就会成为账单上的大头。 二，值得花和该治理要分开 复杂设计、关键判断、疑难排障、探索新 workflow，这些 token 花得值，因为它们换来真实进展。 真正该治理的是模型错配、上下文膨胀、工具噪音和失败重试这些低质量消耗。 三，个人经验&amp;平台能力 现在很多节省方式都靠个人经验：谁知道该用便宜模型，谁记得哪个 prompt 稳，谁的机器工具链更顺。但换个人、换机器、换一轮会话，经验就容易归零。团队不能长期靠个人自觉控成本。 长期看，省 token 应该从个人技巧变成系统能力。平台至少要做到：过程可见，能看到 tool call、失败重试和 token 花费位置；经验可沉淀，记录任务适合什么模型、prompt、skill；实验可回放，在同一状态下比较不同方案；环境可统一，减少本地差异带来的绕路。 四，两个启发 caveman 说明输出也是上下文，少寒暄、少复述、结论优先，可以减少后续语言垃圾。 RTK 说明工具输出不该原样喂给模型，而应先过滤、聚合、截断和去重。 它们共同证明：真正有效的 token 优化，不靠人临场克制，而要做进 workflow。 最后共识 先把不同浪费拆开看，再承认只靠个人兜底不可持续，最后再把可观测、经验沉淀、模型分层和工具治理做成平台能力。这样，Token 成本管理才不是一场临时省钱运动，而是一次真正的工程化治理。 五块钱未必能花三天，但至少要让每一块钱花得更明白。]]></title>
+      <description><![CDATA[<p>五块钱如何花三天... horsley，一位腾讯应用开发高级工程师 从token 焦虑到系统化治理，horsley这次想分享的不是几个省 token 小技巧，而是额度收紧后，团队怎样更稳定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802390&amp;idx=1&amp;sn=509449770a62d5427b3154525c1a9445&amp;chksm=bfadf3e4bf4c0ce8fc01099888dc4950e4905a1e68478e5a623f03f5ca7d5737eaafc1efc286&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 17:53:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI+ Kuikly：7.5小时落地三端「多模态聊天 App」实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907VkBvjUSiazedaEa0CQH9eTB0qALAKR5ffWGU5TKqOygHIw9n0IOD8hF1NNCYiaUgBMIh6zDHz9xIliaVUfj8sm0N01CPjmJvaJQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kuikly 是腾讯开源的高性能跨端框架，基于 Kotlin Multiplatform 技术，覆盖 Android、iOS、HarmonyOS、H5、微信小程序、Mac 六大平台，支撑业务日活用户超</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802388&amp;idx=1&amp;sn=de0a692908a858fefb435599a9476a42&amp;chksm=bf9ba2de3a76486d0b07e90b40cc712fac7ce20f2debf6719c52464e3e81ac0a83a74e57ef4f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907ibek9TfmgEZ5lI9B2HlbUvtPRHCfb6o636bmLic25noA7o9YkYRvo92qKmLcUWStZnVd8NzhxEC86iaeGBxIstOZoyxsP6xZc34/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯QQ机器人团队快速注册一个 QQBotQQ 机器人开放平台提供了快捷创建 QQ 机器人的通道，三步即可创建一个可用的 QQBot，用于接入 OpenClaw。PC 端打开：https://q</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800749&amp;idx=1&amp;sn=81457fa979262f0a230b4ebba2a9aa7c&amp;chksm=bf066836050dff3121bd9b818fc0c5d5292087cdc5b097bb50bfc6f0e2ce48e44670cda5ea26&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Skills开发技能指南：OpenClaw也好，Skills也好，都别脱离具体场景谈方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906R2E1Thgn4iaHDCHFDExQPWeib78JX4hATBtbmmGRiaGlcEHVVqlKm1p0rCZCpaG8AQPRpaLiaFgiawZtHiaguqejVWGmZS5MJqKDn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吕昊俣这半年来，各种拥有几万个Skills的网站层出不穷，面对各种酷炫的Skills，我有些茫然！Skills虽强，但 “为何要用”是一个值得思考的问题，有时我们有了屠龙刀，但龙呢？带着这份困惑</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800696&amp;idx=1&amp;sn=228bef9f5b56ee57f272dfb6204c9b41&amp;chksm=bf4c1eb1b26615110a5a87e863528f97215112bac0739516a4eca987a9f6f8a64df3a5493987&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

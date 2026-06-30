@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness 工程之道：Skill 原理与最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wNDrAYQd3HzQIn8exv9hpMNr0JNKu7VTVIleRiaYUiamo5pgichu5ib3ibaRRuiaxdAnhmXBRoSdqk5yOWdpoibvQ7CUQjLonxolcyicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读Agent Skills 是一种轻量、开放的能力扩展规范，用于为 AI Agent 扩展专业知识和工作流。本文从概念原理出发，结合真实的工程化项目 trade-ab-skill，系统性地讲解</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561307&amp;idx=1&amp;sn=db2094d35c1d7e91bee65acb69a3bbb9&amp;chksm=e8f3536cb55f9859bbf31ce6aa95b4f1ef778f7bdffa63c29092365dbbecb07c59f74e1b5ac6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给野马套上缰绳：Agent Harness 工程实践 ——从范式理论到钉钉AI招聘的真实落地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xJqDIL1ftg8nZoBhcdicTgTwcwT27MNhSfNEHgEGp7HWy6RCNZicdr0OclcAU4kVklVZlRLV2q9SD1720K5DDSCAT3ANctwbdNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读写在前面：这不是一篇"概念科普文"。它是写给所有正在被 Agent 折磨、又离不开 Agent 的开发者——那些一边惊叹于一晚上跑出一个像样的 PR、一边在凌晨三点回滚生产事故的人。关于引用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561292&amp;idx=1&amp;sn=2998894f7f2c9e845adc7bb4912b53b3&amp;chksm=e892e7065940d4533c057073815284fe254ab43e3bbc373837e91084de5a3c192e11563d5cf1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xhYqxo0xDm0DZ8qtPomrPes3bP3RU7OIC8JPTjfUaL3GMGMD5SCn8mfpR3UlCAm07FpNhzcxaAQ4wmTxVeZ8CBD9BHzDR4mmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是《深入理解OpenClaw技术架构与实现原理（上）》的续篇，主要讲述从沙箱隔离到企业级智能体演进。三、各系统模块讲解3.8 SandBox 沙箱系统Sandbox 是 OpenClaw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559102&amp;idx=1&amp;sn=ba40fd3db6ed2f61db180b25d72cd30b&amp;chksm=e83f3d19074e4b1726fc047a178b3d4c67c59d591fef7e7d9baaf2349d7f60a443877da89d5e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MySQL复制延迟终结者：AliSQL 高效AI诊断和四大内核级优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yrApZ2NNCZvQmNBXS2qySKDelG7qz1PBy7Qj7yWj2xNCyleRwR9NshvvOGpVukoVpsGs44S951gh9UcycRFWNuu1NnJmYib0sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读MySQL主从复制延迟严重损害实例可用性和只读实例时效性。AliSQL引入AI诊断能力，轻松定位延迟原因；针对线上最典型的四类场景，AliSQL 提供了内核级的优化，彻底消除复制延迟。复制延</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559101&amp;idx=1&amp;sn=00a250ea95a424a51f8d463ba1c59dfd&amp;chksm=e8184a22f97b43458347e13eb087abd859f8429bb7b4d956a90497200bfb26731ba75b588011&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[匿名登顶中国第一，拆招“扫地僧”Agent记忆中心漏洞挖掘法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uep7mRgsfPIouLFLLIibJwwvgbqdibv6LLBrJChWB3swdAiahrxHqj3uWKvZ33u5heTiacBpibEWzfICZSzSj0bSwydng1eXZzul8/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月29日，CyberGym榜单刷新。一个带有浓厚中文武侠色彩的代号MopMonk（扫地僧），突然出现在微软、OpenAI、Anthropic等全球顶级AI玩家齐聚的这张榜单上，以73.1%的成功率空</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=1&amp;sn=143eea4ad3ad8b489c8b0df7b18ef5d2&amp;chksm=bcb208b5eacf140f519d348d95705db75778715c449da90e17a73d87c86b33fe86d675fc747b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub安全公告数据库处理量创新高，漏洞报告数量远超审核能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX36NibljlM3cdNwFYL64BxbUazjchNBUckalao53rCNwmGSHbjUBNLfvfbFLuRfTYQfAT68wviaJ1YkcFPTVUqkVdSmiaOZbqfBibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月，GitHub安全公告数据库创下历史新高，发布了1560份经过审核的安全公告，达到月均处理量的五倍以上。尽管取得这一里程碑式进展，该平台仍难以应对快速增长的漏洞报告数量，反映出全球漏洞披</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=2&amp;sn=5111abafd80e5af3e8250f6f1d803ea1&amp;chksm=bc3247e35aaf975684ade59f2fbf07b8e25c8afbeab2ed9ff0a6443847a2228d3714fcfee067&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NTLM反射漏洞可劫持Windows Server SYSTEM权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dKQnYGlY96L0WwMM0xsoibHblL8XedXRc4RFevnUNnNAQlTnbgjftL9TTicyNic7jJxxQrPNoZCibxoJUhxsREVsBWC7NkbCJyLk/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员已发布针对新型 NTLM 反射绕过漏洞的概念验证（PoC）利用代码，该漏洞可导致攻击者在 Windows Server 2025 上获取 SYSTEM 级别权限，这再次引发了对微软身份验证加固</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=3&amp;sn=46311101e97af03a5f5d55ad21806265&amp;chksm=bcb28553562ddb831e67ea7513fa78f8e63149f974c3924f127ff501bd70e5243d5401bb8c78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Kali Linux 2026.2发布：新增9款工具并优化虚拟机启动性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1XnKv1apYAjUbUsBNONibXjSSjibURfmpNZJFmibFmpcg8rGyZd2lbDvQksLB7V7pHvxCziaGyvPiaicl93VB5ErqLMrFyVsUkBNCnk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 团队如期在 2026 年第二季度末正式发布 Kali Linux 2026.2，本次更新包含桌面环境升级、基础设施现代化改造、虚拟机性能优化，以及为渗透测试人员和安全研究人员新增</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=4&amp;sn=006fefa63fcdadd52377276be461341a&amp;chksm=bc4c8dc1552db3bc5930ea7a5ba9c18b1fed5e58a3b0d84bac5e80bb95bd0011e9a06e619bc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[传Claude Code内置隐藏后门，专门检测中国用户]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1hDbIkvTAx5IVwvb48ZxgcmA1wr20iaViabzhicpCNVVibXpiaOWKKSjzAL5icEOV9EWjjU9reFoYPbyrarZnFx94icLInNYvbV7ROia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期有消息称Anthropic针对性封禁浙江、杭州IP访问Claude，背后或和此前指控阿里大规模蒸馏模型数据相关。官方称4月22日至6月5日间，超2.5万个账号累计交互2880万次，涉嫌批量爬取模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341548&amp;idx=1&amp;sn=bb9edaa490d92c0258ff47c5dd29faf4&amp;chksm=bc7ad51c294dc22416c5751a0343c1180c9a5d47ddcc40cb2773a57ebd73788662abdd67c8f8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2W5hZAMhWvWNQfJvTn7mAnibDgotFxjyGy4neP31642bLSVd3kpr1oK18uJXbqBYexO7PaibHiadzSHeoicesFYW3ZCuscgXkllKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下AI算力、数据中心成为全球科技圈顶流话题，一款小众模拟游戏意外出圈，在社交平台掀起热议。不少IT从业者调侃它是专属“牛马模拟器”，白天在机房值守运维，结束一天工作后，回家还要打开游戏继续装机、布线</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340512&amp;idx=1&amp;sn=88628c0f7cabd6cae377643824d2ffe9&amp;chksm=bc857e146389bc20fa2238e9f8861e5a0eb1599b5e5ff01e04a07c4c2771f196a1177cfb5f9e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[俄黑客持续利用WinRAR漏洞攻击乌克兰，企业补丁安装率低成致命弱点]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1lDpxD9Vhakoy1M5ltpLD36r1ic6SN0GO1yyOFUgI6W8Hc76qTlWkCTINlq1bdfY2UgGkExKMDFicnzZPxicrZMxrKicIZlokAiaok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01已修复漏洞仍具杀伤力尽管漏洞修复已近一年，与俄罗斯有关联的攻击者仍在持续利用WinRAR漏洞成功攻击大量乌克兰机构。根据趋势科技最新报告，早在2025年7月WinRAR 7.13版本中修复</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340512&amp;idx=2&amp;sn=948a181b9d601941d20b8df76ef75039&amp;chksm=bcd3ebf2622b892065789b4b04cd6027b2c0f919d75dc768aa728b432383bba512e2792026de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Wazuh CVSS 10分漏洞细节与PoC公开，可致日志系统遭恶意篡改]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2VkKMkdOrmicHlp1FpgaqUhicOCSdyBVdLqFhAWfsCjKO12xv3WlYFdwt76fiaqTvydSusKnUuDzf8EaEHVUchkTgIQm1cnaUzK4/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源防御安全社区近日曝出一个重大安全漏洞。完整技术细节及可实际利用的概念验证代码已在网上公开。这个Wazuh CVSS 10分高危漏洞允许经过认证的端点直接操控中央日志存储系统。因此，任何正在测试该下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340512&amp;idx=3&amp;sn=44f3aa422881a850f8c50426022a61fc&amp;chksm=bcb6c5774e18d39745695de928e3196b389c5bfce3d35e54c2514500ac5f1fde67672a62135d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BugHunter：基于Claude及免费AI服务的漏洞赏金工具包]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Xl0q1XMmKl7TS5Qib8CJ4Kto6TvYAuhcPl8Hdzia4pKxaXmCYCEicmT35ic7KCVMibdECzkJyGR2fqdxDvUWRgrE6g2oaDHg2BGm8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为 BugHunter 的新型开源漏洞赏金工具包正受到安全研究社区的广泛关注。该工具基于 Anthropic 公司的 Claude Code 构建，现已扩展支持 Ollama 和 Groq 等免</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340512&amp;idx=4&amp;sn=b08ab305ad6a9038440a1d105ee94479&amp;chksm=bcc723be65031db0275b53e675dd0981db43be6409234afee62f7f60fcb181c2868b54ade3e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[APT28攻击方式升级：劫持路由器与云服务发动隐秘攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2wdfibAyNARhmlicLVg3mSiaYSUTRF5KGiaImCCHIxTe2b2EicYYXmY8najFt35Z4rgEJPTunTJoFy18EwMicHScopdR0uMJYiaADh28/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球最具持久性的黑客组织之一找到了新的隐匿方式。这个被称为Fancy Bear（又称APT28，隶属于俄罗斯军事情报机构GRU第26165部队）的威胁组织正在悄然改变其网络攻击运作模式。Part01基</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340458&amp;idx=1&amp;sn=cae77e471b4e115c7b42350e478b7514&amp;chksm=bc778bb0abbdc1026fa249d093e711e45646a96ff3e4f8222fc6b2c4d36cfc0bd46a3f58e8e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 14 Jun 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

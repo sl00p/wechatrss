@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我让 Hermes 把古法 RPC 重新炼成了高并发调度平台：r0rpc 实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39HldRABuTWE40DuRnfxsGLibHbjmHKbibzmegqugxCLoqsrPHNPwfebtaicIRtFSjnaYZGBjq9JYtGNTnVbs1QouEJnLyqzNIbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>RPC 没有死。它只是从热闹处退到了角落里，继续替很多逆向、爬虫、自动化场景扛最硬的活。这篇文章不打算写成一本说明书。说明书讲“怎么用”，但我更想讲清楚另一件事：为什么在协议逆向越来越重、风控链路越来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=1&amp;sn=755037920bc3314a126cb10bbdf0c793&amp;chksm=b0bf6aa20b820b762ca26d4d02d15cd110668ae55a6b74cc473151efb74b26ec7bc855b7ffd9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为创造，再一次信仰之跃｜AdventureX 2026 选手持续招募中！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/r8U0QbexmHbeF3QboCLZQN9QDM82XBtCWz3Eka49mzfsibP2g8nbqNEQS7nYL5CfeDFH0VkvVbOoA7ordsmKxIp9GXL5jpgavsrAF82fVkxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月底，中国规模最大的黑客松在杭州等你来！</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=2&amp;sn=f0e8758de243cbbd90d8d47e5a4f655f&amp;chksm=b0b97c53e023cc41baa814939c4559b9486fb4c67103d3a4439ed001a305e2e872ebc9bcd86d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code被曝“暗中识别中国用户”？隐藏检测逻辑引发热议]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2KChuUXfDPzeLsAy4dQ31gSaWq1WfIunOZaaR9icBpsbrxuhxic2BArO8iaibictffTwiaSCmkgGCU72ibyMax0hSPr0Rj29zhicDW73w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件导火索：Reddit爆料引发关注近日，海外开发者社区 Reddit 上一则爆料迅速引发技术圈热议。一名用户自称在逆向分析 Anthropic 的 Claude Code CLI 工具时，发现其</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=3&amp;sn=38bbbd13f653f712118201784210e11e&amp;chksm=b09fc98932273b41e8c3467b337422ff4dcf9bab11b6fd6eee6339533789a892c691fdb74520&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=4&amp;sn=b5becf8e8174b0fe8fd60503294acb46&amp;chksm=b0c53524e160389aef10e3d8fe0e3480da16b8d764b2c96b4073700928c6a37593ab667a67aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手搓 JniForward：Unidbg JNI 转发真实 Android ART 的探索]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2YuaS6vOm2U70IXeRJTsRicPbbH59qRgqVy1BxcxlO3RQgKvK3jQBicacek48RVhbWSAehzpaWznmQYDZQTUwUqR4yKMcZ2ias6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>论坛里偶尔能看到「SO 在 PC 模拟、JNI 丢真机跑」的说法，当时没看太懂中间怎么接。后来手写补环境补烦了，自己撸了一版。Unidbg 跑 SO，Native 一般没问题，一回调 JNI 就卡：T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=1&amp;sn=2d02e4eeb41fbfddfd1c3d4438f42582&amp;chksm=b004660ad497897d5047480335b181f57b3cd3337a105be6eb83f43c7f40a3c8c6fb381c0459&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615455&amp;idx=3&amp;sn=5c863f190cdf7061107437eba3fb6f65&amp;chksm=b000e4879e26e63c83d47c26e4df97e8e0c61deeb00cc73364dcfe9b05ce6835e10206dddd34&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PANDA 2026 官宣定档深圳：全球硬件安全年度盛会重磅回归]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/cs09Tz2jcrd767ZnuuKzbB3kebRHJrJ0LYKVCcKichl35yBiayHV4iboZON3ctnh49JSJek1b7awx31ADOfNLhdObsLa59fic3cYSIzwA9cvqkw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI重塑计算范式、后量子时代加速到来，硬件安全已成为数字世界的核心防线。历经一年筹备，第九届PANDA大会将于2026年7月13—14日在深圳举办。本届峰会汇聚国内外密码、芯片安全、硬件测评及产业实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615450&amp;idx=1&amp;sn=10c330347e262210615048ea8ed2da29&amp;chksm=b05ec2c9119aa8666d8dc30010da8bf601bfba3088302e2c12dee7b8d2b8173fab8094f20a5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026腾讯游戏安全竞赛决赛安卓客户端安全分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3xFAuvRw9NFrzLic8HaFhtkIiagc8yGl0r4qpXCR9lAjWCRKWXsCiaEONh3eh0GQfLvIvfjGUKdaQery5jqibxxibZUotoA20akDZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>1分析过程1.1 前置工作与总体判断1.1.1 初赛经验第一，Godot 安卓题不能先押单线。初赛已经证明，只要一上来就认定“脚本一定是主线”或者“native 一定才是真核心”，后面就很容易在错误方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615450&amp;idx=2&amp;sn=5b372737248ca9dbc68c515e055e3636&amp;chksm=b0f44b9078fe966c44ae2a74ff9bed5979c8137c617e1d1315fd479a8a93da3ef711f9f9e1b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【AI自动逆向算法】Binary Analysis Agent：构建AI驱动的二进制分析系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2oaAMocjnicic3O72dyvdHLibZyDEO4nyYJBx52IQ4Yic1NpyV6JGP6g6bfIpHzia7AhLyHEdMJF5MRVEiaTkY2YRpxbUyAVYyRIO8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>创建他的思维模式：我将 AI 当做人，我告诉他方法论、文档、规范、知识库、总结、经验。AI智能的分析出用什么工具、手头有什么工具，如果我提供的工具不满足它的需求，要么它去安装，要么它基于基于已有工具写</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615448&amp;idx=1&amp;sn=f2f4134e17a716043a6501277a1d78fb&amp;chksm=b010ac04673b8a364b3453dc0fb5647bff8ecabdb603e22930fb9e0f9165c27351bafbc2a45d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[月薪60-70k！智驾安全、IoT 渗透岗火热招聘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3SVTqOibUPdENibsLUtJOlfCg3OnaSicIUictw7Ee1fX3PnF2tiadNwWGFOBialg64BicXrRHeKwb3PX2oJaqNSj67aBkrgjiaHZgEGxU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01吉利汽车研究院（宁波）有限公司密码技术研究员薪资：60-70k就职地点：宁波岗位职责1. 密码算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615448&amp;idx=2&amp;sn=8c4399f2f477b59bcf4827a08e94facd&amp;chksm=b0fc66eacec39138bc03dd347a34c7430210697c046374acf436414f90f7ce5b7d4ab3a67b47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

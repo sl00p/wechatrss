@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dyiagxk5XSkiatVGdD6IsPPyttOqsARSiaaOJ5Hn7jvV1Fb296aW04ibSG6HGJz7xwq0LqiaytianMzC04UYfTw5MOGneg9SIAY3Yc0s/640?wxtype=jpeg&amp;wxfrom=10000"/><p>6月30日，美团正式发布新一代万亿参数大模型 LongCat-2.0，并将对外开源。作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数 1.6 T，平均激活约 48 B，动态</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782957&amp;idx=1&amp;sn=2fc04d07a71f97ca4bd367d6a8dcc4de&amp;chksm=bcc809105897c0c7e15ff28f97732693226cf47a5d02cf84662e6a1ff1aafca92569a5afffa9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 01 Jul 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dy4aqvVwYrdqOeW07eGiaY629IAulialq9egAJXvtce6BC74CQ4jv1ibeJnIPtF0uIxAccKBmdUkibibUdKeKjSSqzxk0wT15vSBR7A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>一个经常加班的白领，一个带着孩子出游的父亲，你的AI助理能分清他们需要什么样的服务吗？现实是，它常常分不清。AI能执行你明确的指令，却很难记住那些藏在场景和身份背后的真实需求。它们是真的无法理解，还是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782940&amp;idx=1&amp;sn=cdcc1d5ef4abbde9dcd8db011243127d&amp;chksm=bc299c651841876f898389801d25dc0415e823968f01a9bd365fe4a2e7f5422dfd19f2319c65&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[美团 LongCat 团队发布全模态一站式评测基准UNO-Bench：揭示单模态与全模态能力的组合规律]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXHro0Af4Akq9qfsXc6adkdMSHYFic3VPkwsqWoiarbE4W4b2BFdbYgt2A/640?wxtype=jpeg&amp;wxfrom=10000"/><p>多模态人工智能正从单一感知能力迈向视觉、音频与文本的统一融合，即全模态大模型（Omni-models）时代。然而，相应的评测体系却相对滞后。现有的评测工具不仅稀缺、各自为战，且几乎完全以英文为中心，缺</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=2&amp;sn=e537023b96d0e70c4bb17f73407d9761&amp;chksm=bc6b464fdab3f9a022eccc37c7d85e26a5b94c6aa3505f3bcf8057d2377b8d8d345f7b2627b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[报名&amp;赠书｜NeurIPS 2025美团论文精选及分享会]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsVdrq3yQ4SPN1bxbBk0ZWtXSlO7MEXcobphcIEHDx3tCEPNlUYhaskF1p9RGPJetUejQdZO5Tm0ZQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>总第639篇 | 2025年第036篇本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781705&amp;idx=3&amp;sn=4b0b9536577600021e7d64b647977083&amp;chksm=bc93c9487cf10da8fcad4fb9a36da6beff8ed9bfb7a988e3778b3f18878fbd5d00ff3eec4e34&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Nov 2025 19:58:00 +0800</pubDate>
     </item>
   </channel>
