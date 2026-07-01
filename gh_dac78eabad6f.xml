@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Loop Engineering又是啥？一文讲清企业Agent落地的四层工程进化论]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7fY50BEfJmqF15I0eHZ4C6A0hpkJuvU5pkth4zich2AXgBMDCbibr0KRrZXHuCN5h6RibVvCSlorvC0ickICFpnIc8PPtT9BEaJmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 引言：为什么你的 Agent 在 Demo 里惊艳，在生产中拉胯？2026 年，几乎每家企业都在谈 AI Agent。团队花了三周搭了一个 Agent 原</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696119&amp;idx=1&amp;sn=ae1b830002ae285cd1cd67970194ab34&amp;chksm=eb7a9f273e4cb5dc3e8313164a0e1ccfa1364c69a8edc0171e7b31133b0efd314afa6550c0ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[业务架构、应用架构、数据架构、技术架构……架构到底是什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4C1bvSmSMNUl00m6A2ySXFeu8v9XIuoOHTnrib3y6gHqjUTemeMQ3ldia7Yh6tJDNrD6kZC9PKITYsD5IdicoxnVvlyvZ4WAS1ro/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01架构=要素+结构+连接在软件行业，对于什么是架构一直有很多的争论，每个人都有自己的理解。不同的书籍上、不同的作者，对于架构的定义也不统一，角度不同，定义不同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696073&amp;idx=1&amp;sn=8a58b4f5c3d9dabe8c097a7cedb93138&amp;chksm=ebf4644234e134f0f068c8f2c1f29b7a01b1492eeeb039d9ebf89ff149420ea31b3c12526510&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>最近参加了几场线下活动，约朋友吃了几顿饭，只要聊到龙虾，就会出现两派吵架的观点。 一边说纯炒作，没场景。一边说超好用，每天用。两边干杖颇有知乎遗风，你拿事实举例，我用事实反驳，虽然吵得面红耳赤，但</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694993&amp;idx=1&amp;sn=e181d91d960e4d43fbe724dbcfb12b72&amp;chksm=ebf7b39d099668c114c9ec0e4dbce1a28f61158e4cdd9fffbb38a4c1ab9ebe5c4a955b9dad66&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[零废话！一文讲透从0构建AI Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4NylOUBufxHIasIiaibX2iaUia13cpnoXhibL6Y3nSZaZtOIicq5YHJj1IQEDWIIsHmMRpiay0bRAANNAYjc3wDw2wicX4hlibgyPzLPLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01概念全景图LLM（大语言模型） │ │ 厂商通过 HTTP 提供调用能力 ▼LLM API │ │ 客户端维护对话历史数组 ▼Context（上下文）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694979&amp;idx=1&amp;sn=569b414bdfd11c1685727730d20a27c5&amp;chksm=ebbcee096940bbfef4f1c22bfb4ba10d6c664dd8ccd78b6c3224383514c41e819ad3f771ae45&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
