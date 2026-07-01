@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当AI幻觉照进现实：一种从未见过的浏览器勒索攻击正在诞生]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8cibBLGRXr9bicg8CezDEHzl4lCqZDeE86VGIRNrb3OcP4tP5fQVc1eNOrpv07JicmmEEsvRCrOs6Hfy4ialHT43xuoBiaW3flWYoE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、从"幻觉"到攻击蓝图大语言模型辅助编写恶意代码已经不是新闻。从早期的概念验证，到网络罪犯用 ChatGPT 生成工具，再到 VoidLink 这类 AI 编写的恶意软件框架，门槛一降再降。但这一次</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519292&amp;idx=1&amp;sn=0a941ddb1af39a67956d2c3a416e014d&amp;chksm=ebbf5ece9ef6da1f0109b764e7d68d7a6425c698d36d192ee4e6c694c70dcd109bd7da12d038&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Jul 2026 16:50:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Citrix NetScaler再曝8.8分0day，XML解析器成内鬼]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9U5zqkzic75W6EEKPC8S8GQcW1ibG0zbbBWPZp3KtwE7o6k4yLwibsiaRTwG09wugRZFToiba5axUqsCBnXsc3Y67hje9ibkfGhFicDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：没完没了的"出血"如果你对 Citrix NetScaler 这个名字还有印象，那你一定记得 "CitrixBleed"——这个原本指代单个漏洞的名称，如今已经演变成一整个漏洞家族的代名词。CV</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519273&amp;idx=1&amp;sn=58ae942864085e365cf7158867642420&amp;chksm=eb8de218a995ac31b6fab2f43f5a90fa8f4343da9324069bed28bf473a5fc7ad6b22a3483810&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicC4aKLvaoCngAfAUuMlVCPmIkeMgwZUibLzZAG5dIhEWiaCmLree4bUMDxic2w8I1HgiahTZjPz8uOUcH6Trwy2qcZjqBtxXN2JD0/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景概述近期，多所院校及政企单位相继发布紧急通知，要求全体教职工及员工立即卸载名为 OpenClaw（俗称“龙虾”） 的智能体软件。国家互联网应急中心及工业和信息化部等多个监管单位相继发出安全警示。该</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517995&amp;idx=1&amp;sn=d3af2ee61bdf04e387802c2086124c07&amp;chksm=eb994afb61874a19365ea937f9c2a608fc533abc5ea0bc01bc9c41af9efce0d5277b2ade472d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 18:06:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.03.06~03.12)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8k8mo0PdbEor59yOiaGkmnyXjpPB2AYVAJY26fiaDcnHiaZxErzglDoQQ65TReIJWib0PUydplCALI8KiacL7Ndm2m1D3MudIic9qLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.03.06~03.12攻击团伙情报揭露APT28用于攻击乌克兰政府目标的“Operation Roundish”工具包Contagious Interview: 通过虚假的开发者招聘面试传播</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247517966&amp;idx=1&amp;sn=e582ae8e939e93e16bdd1b9a3f8aba12&amp;chksm=ebef8e6ca7dbf5c0b1a02e03c434f55d67503239491f2354cee604d82a8f2d5f039162713b09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

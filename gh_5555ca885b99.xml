@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[二刷完《给阿嬤的情书》，我们真的做了一个替人写家书的 AI 应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfuqNe8BZWKt8t3NGW2VoNWZibwQdQebwBJBFs2SfrF9mWX1Nsf8qDqBgpX8n40ibD1qQrUswfYjiaLGkeXWAsbmqzGoUsyHHynpk/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 AI 替你写一封给阿嬤的家书。项目本身很简单，但从模型调用、云函数、数据库、静态托管到一键部署，全部基于云开发，AI 工具使用云开发提供的大模型完成。 本文不以功能为重点，而是以工程化思维为线索，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539874&amp;idx=1&amp;sn=812e065a75850ee77d17b1d15bf53583&amp;chksm=cfc87fca99ea1fb54d8814f72f35a96c6a2e8e00266e566f6ca925110d264453f5c55f81ef5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Jul 2026 17:15:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[邮箱登录新增支持 Magic Link：点一下链接就登录，不用再敲验证码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfzTLS4AY3cL1YEkWEtiaMuXVXGphP3Iz93toicJmEzaLf5FJYAEbpLQib8UkqT6FUAhcpEcH9K3kGiaJibUrMnvgywnp4CBALoqk7M/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多产品里"邮箱登录"是用户进来的第一步，但您可能也观察到：用户输入邮箱后，要等几秒收到邮件、打开邮件、复制 6 位数字、切回页面、粘贴、提交——一连串步骤里任何一步出问题都可能让人放弃。CloudB</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539847&amp;idx=1&amp;sn=7fa4a4c4b68d8a683facc6d3b801635c&amp;chksm=cf0df9af9ad49a72e58979fecb7b21a2447eafa67d0bcd4acd0fb16fbb8e209220b5422ba376&amp;scene=0&amp;xtrack=1#rd</link>

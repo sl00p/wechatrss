@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[相比层出不穷的 Agent 框架，不变的 Agent Protocol 是什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wHLiaCQf1YaMicibWxCZZHzKSMIy4ygibcFRPmdQ1OGLzteQCkYn1b8Z6Hl65uagQ8ePR2vEOxTWtEK3HmW2TKibc86q0fbmyEtoH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。Agent 框架层出不穷，到底哪个值得长期投入？LangGraph 讲Checkpoint，OpenAI 讲Thread</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561317&amp;idx=1&amp;sn=cfeecd649d2312d5331e2b5ffb03a8d0&amp;chksm=e819164c0861a26a314fb795a0c3ce43b8de9720e3cf7bab3b2b35483d439c66f9f069c705b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 02 Jul 2026 11:04:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Harness 工程之道：Skill 原理与最佳实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wNDrAYQd3HzQIn8exv9hpMNr0JNKu7VTVIleRiaYUiamo5pgichu5ib3ibaRRuiaxdAnhmXBRoSdqk5yOWdpoibvQ7CUQjLonxolcyicQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读Agent Skills 是一种轻量、开放的能力扩展规范，用于为 AI Agent 扩展专业知识和工作流。本文从概念原理出发，结合真实的工程化项目 trade-ab-skill，系统性地讲解</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561307&amp;idx=1&amp;sn=db2094d35c1d7e91bee65acb69a3bbb9&amp;chksm=e8f3536cb55f9859bbf31ce6aa95b4f1ef778f7bdffa63c29092365dbbecb07c59f74e1b5ac6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xo2g71x2icKd9MCdWxvePcCgemPGDxs9aKx1o3yC8ed3WV5jbWzWkeTQ0Pd5twRlScXXReicaibYSXmSdRwGku0VV0g5UobBEdTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>假期花了3天深度体验OpenClaw，尝试构建可自我迭代的银行客户经理助手的场景，验证通用智能体框架的可用性。重点只验证这个新形态带来的变化，暂未仔细核实每个测试场景的准确性。体验感触：通用智能体的迭</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559203&amp;idx=1&amp;sn=ab438f6cfddc61d0bf9c6048d9bb7616&amp;chksm=e8d74b615983808acbb8a528228442c269c33e8c1ddbc102c403f7a1c030a4ddf7244e48c94b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入理解OpenClaw技术架构与实现原理（下）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xhYqxo0xDm0DZ8qtPomrPes3bP3RU7OIC8JPTjfUaL3GMGMD5SCn8mfpR3UlCAm07FpNhzcxaAQ4wmTxVeZ8CBD9BHzDR4mmg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是《深入理解OpenClaw技术架构与实现原理（上）》的续篇，主要讲述从沙箱隔离到企业级智能体演进。三、各系统模块讲解3.8 SandBox 沙箱系统Sandbox 是 OpenClaw</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559102&amp;idx=1&amp;sn=ba40fd3db6ed2f61db180b25d72cd30b&amp;chksm=e83f3d19074e4b1726fc047a178b3d4c67c59d591fef7e7d9baaf2349d7f60a443877da89d5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
