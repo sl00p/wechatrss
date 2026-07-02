@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Code is cheap. Don't write any.——AI Native，程序员如何提升五倍coding效率]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zLIcH1BAwJaUmJAaw67w3TcVMoCNDI8gcCgMTOGTF8JcZPeNTgeUdENJhJMQjsZjY2LvdAKL37qJvyI2SxV28yZXF7PzaA4yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读AI Native 不仅指产品形态。在一些更窄的场景里，比如编程领域，它也可以特指 AI Native 研发。但这里的AI Native 研发，不是让 Agent 写更多代码，也不是让 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561335&amp;idx=1&amp;sn=43b0eb7b517339a21c88ebb152e3d088&amp;chksm=e8b36631e25de4f45b65343ed4b4bef4664e42a68e85a43323574034e27aaf4986a8283913d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[相比层出不穷的 Agent 框架，不变的 Agent Protocol 是什么]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wHLiaCQf1YaMicibWxCZZHzKSMIy4ygibcFRPmdQ1OGLzteQCkYn1b8Z6Hl65uagQ8ePR2vEOxTWtEK3HmW2TKibc86q0fbmyEtoH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。Agent 框架层出不穷，到底哪个值得长期投入？LangGraph 讲Checkpoint，OpenAI 讲Thread</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561317&amp;idx=1&amp;sn=cfeecd649d2312d5331e2b5ffb03a8d0&amp;chksm=e819164c0861a26a314fb795a0c3ce43b8de9720e3cf7bab3b2b35483d439c66f9f069c705b2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1z71TXmibsevPia3VlqwNa3zLWBsVENGv1wFmefj2AcibSkXxXpod0SSyae8vfP9DcmyZhiatJRLd7UUNKDicVkeO1WOibaImGyIHLPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告日期：2026-02-28 关键词： Agent Skills, MCP, OpenClaw, A2A, Agentic AI, 模块化架构一、谁提出了从 Agent 到 Skills 的转变？1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559249&amp;idx=1&amp;sn=7cda1453a5f7f51c39f43b76027696a1&amp;chksm=e826ee762512f3cfc3205281b1d0b1c03ac1d84a551182a8d6940d34e681754b7a9b177fb218&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw构建自我迭代AI助手笔记]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xo2g71x2icKd9MCdWxvePcCgemPGDxs9aKx1o3yC8ed3WV5jbWzWkeTQ0Pd5twRlScXXReicaibYSXmSdRwGku0VV0g5UobBEdTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>假期花了3天深度体验OpenClaw，尝试构建可自我迭代的银行客户经理助手的场景，验证通用智能体框架的可用性。重点只验证这个新形态带来的变化，暂未仔细核实每个测试场景的准确性。体验感触：通用智能体的迭</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559203&amp;idx=1&amp;sn=ab438f6cfddc61d0bf9c6048d9bb7616&amp;chksm=e8d74b615983808acbb8a528228442c269c33e8c1ddbc102c403f7a1c030a4ddf7244e48c94b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[孵化了 10 万多 Star 开源项目的团队，在 GitHub 上搞了一个新东西。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3GjGGmEfibLia8JicibZVZXFtB0bUjkSKhvgKkibbDEoZibicfXiahYU682icZicDAsZicp3ZBOzAhjAD1fibjmKRj0IuH13RLfDgt3ZlLhx0/640?wxtype=jpeg&amp;wxfrom=0"/><p>做出 browser-use 的那个团队，最近又开源了一个新项目。就是那个 GitHub 上 10 万+ Star、让 AI 像人一样操作浏览器的明星项目，过去一年最火的 AI Agent 之一。新项</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535021&amp;idx=1&amp;sn=49cc9d7231f38185eac083f876c2fd26&amp;chksm=f802b00bf86a778a5ef2a1526b50134176fe26098a7823dbaa6923ef897ca8f096f6ea0087a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 17:05:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[又挖到 3 个不错的 GitHub 项目，尤其是第 2 个。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2T8icVspicDcDuGO2ZyDiaXqzHuyXSgkE02Dd6PXWtwD5AzxPVTQdItZKDDaf0UtompBOaMFWJ4a5aRZ4rzctmvJ3icp5vawEmc7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01微软下场做了个 AI 终端最近逛 GitHub Trending，看到一个挂着 Microsoft 官方 logo 的项目：intelligent-terminal。简单说，这是微软在 Build</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535003&amp;idx=1&amp;sn=e73f8a0003f62a7a972188835a222c7e&amp;chksm=f86560b774c5f3333f80a28a2a7cb42cfe08440c140ff0e5bab23e99067afa6d452b780d1cec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ib2lKSZx5TWdfDPWricnNhZ2xTJVMlz3NdZyvPbtIWTvdvSibsgyqPPJpb5hiaaZ87Cuaxe83uHiab3yzXXyHkQa6EXgLFW0dlXZs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年了，人人都想造一个自己的 AI Agent。不需要从零开始踩坑，不需要从头造轮子。今天推荐的开源项目已经把 Agent 底层架构打磨得非常干净了。如果你想开发属于自己的 Agent，这个项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533333&amp;idx=1&amp;sn=270032eb5b2d8c7dfa136d393e989754&amp;chksm=f89df111b31f09083d4a563ef33999659422b038ff482ef3bd41fa788c11eb1682ad919495f6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 13:06:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[13 个本周 火火火火 的 GitHub 项目，第 3 个是热榜第 1。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1D0Q0lbBmVqM0biaHPz8ZRNIWQ09oNoESUxyEpR0aeQpZWK4wf13DQGicDxeQ0EfjeibIHhlyznDzicVT5eDtXOicoR7jeC76LxNzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个 CLAUDE.md 文件有人把 Andrej Karpathy 对 AI 编程的各种吐槽和建议提炼成了一套编码规范，做成了一个 Claude Code 的 CLAUDE.md 文件。现在已经</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533283&amp;idx=1&amp;sn=e7b64890e2f9b056f4b577419bccc550&amp;chksm=f89dd75c1bc341f2045e204df5883da762d336c714106b03d6fb652288fd4d9ace1f50c778e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 26 Apr 2026 11:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[免账号也能使用Codex，还能 6 折调DeepSeek]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbdXHrWhrEpV2209jcY8KvGjTnpwxWl3uHPZKQ0Du7M3OCrlSnNJQ5eP6LnRn6ZO76ib9gl6R9UfGNKxLjzkickobciakeWz4icnicu8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Codex 火了大半年，国内开发者却卡在同一个坎：没 ChatGPT 账号、没海外手机号，装完打不开。网上教程一大堆，要么让你注册 5 个海外账号，要么让你手撸 auth.json 和 config.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539903&amp;idx=1&amp;sn=f1485dd33625b527d511340a03cb7d38&amp;chksm=cfffdd815cdea37efb4a596b4824fdaf20208408766cedc3e6b49199255ed7065ad1eb5865e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 16:47:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[二刷完《给阿嬤的情书》，我们真的做了一个替人写家书的 AI 应用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfuqNe8BZWKt8t3NGW2VoNWZibwQdQebwBJBFs2SfrF9mWX1Nsf8qDqBgpX8n40ibD1qQrUswfYjiaLGkeXWAsbmqzGoUsyHHynpk/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 AI 替你写一封给阿嬤的家书。项目本身很简单，但从模型调用、云函数、数据库、静态托管到一键部署，全部基于云开发，AI 工具使用云开发提供的大模型完成。 本文不以功能为重点，而是以工程化思维为线索，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247539874&amp;idx=1&amp;sn=812e065a75850ee77d17b1d15bf53583&amp;chksm=cfc87fca99ea1fb54d8814f72f35a96c6a2e8e00266e566f6ca925110d264453f5c55f81ef5d&amp;scene=0&amp;xtrack=1#rd</link>

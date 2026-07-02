@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[架构师深度测评WorkBuddy：办公Agent的新范式已来！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4TtmiarDRHLbs7DRlF21xL1QavUzfwLDgRJ6GibTRniadQzbSLY2d9p5xYgzAYw8aEe6XoDfyr7jbh1jrf3iayhbV7oCNp92YIqWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2025年底，一款叫 OpenClaw 的开源 AI Agent 工具横空出世。因为 Logo 像只龙虾，因此国内都叫他小龙虾。之前所有的 AI 产品，本质上都</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696127&amp;idx=1&amp;sn=ba912eebb8eae61f879460add1832a77&amp;chksm=eb9dd861b0a3f7720eaf40e2c46ef62c18ddfdf32748db495ea7b74c3b95aec7273320139fad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Loop Engineering又是啥？一文讲清企业Agent落地的四层工程进化论]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7fY50BEfJmqF15I0eHZ4C6A0hpkJuvU5pkth4zich2AXgBMDCbibr0KRrZXHuCN5h6RibVvCSlorvC0ickICFpnIc8PPtT9BEaJmA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 引言：为什么你的 Agent 在 Demo 里惊艳，在生产中拉胯？2026 年，几乎每家企业都在谈 AI Agent。团队花了三周搭了一个 Agent 原</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696119&amp;idx=1&amp;sn=ae1b830002ae285cd1cd67970194ab34&amp;chksm=eb7a9f273e4cb5dc3e8313164a0e1ccfa1364c69a8edc0171e7b31133b0efd314afa6550c0ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr42atq3VgmicyDqY4feye4jH4s6cImld7lwxRMPxJmeX46kC9sgLVZQQgf5QYYk3V7fySYcGWHeicNdLQYtEsn3hJ7CPaE3BXeDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇最近，「Harness Engineering」这个概念在 AI 工程圈里热了起来——Mitchell Hashimoto（HashiCorp 联合创始人、Te</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695017&amp;idx=1&amp;sn=e37650a0f3334a69646fea9959c0297e&amp;chksm=eb510a1e5a639f120752067be73506e3ba6d9abd76d3b5c91445c23882e2b171d28d514ce3fb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 31 Mar 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近参加了几场线下活动，约朋友吃了几顿饭，只要聊到龙虾，就会出现两派吵架的观点。 一边说纯炒作，没场景。一边说超好用，每天用。两边干杖颇有知乎遗风，你拿事实举例，我用事实反驳，虽然吵得面红耳赤，但基本都还讲逻辑。 有人说，AI整理资讯是伪需求，不喜欢看文章的人不会因为有了AI就开始看。 有人说，为了让AI输出正确代码，需要提供大量上下文信息，过程比自己直接改代码还麻烦。 在chatbot时代，AI更像一个高配搜索框，写一段提示词提问，AI总结返回内容，效率有一定提高，工作关系却没有根本变化，活还是得自己盯，流程还是自己串。 OpenClaw让越来越多人，非技术背景的人，第一次意识到，AI可以从回答问题进阶到接手任务。 你给它一个目标，它能收文件、接终端、开浏览器、打通消息通道，背后靠的是大模型、工具层、记忆层和分布式节点一起工作。它甚至还有心跳机制，能主动盯状态，发现问题，先发消息告诉你。 黄仁勋在GTC大会上说，OpenClaw本质上开源了智能体计算机的操作系统，把它类比为 Windows之于PC。所有人都可以在这套框架上，接自己的模型，定义自己的工作流，把自己的想法落地成一个能干活的数字员工。 从这个角度上，我认为OpenClaw最大的历史意义，在于对用户的教育。这个用户，并不局限于开发者，更包括那些非互联网背景的，上了年纪的，普通人。 它让用户第一次明白，使用Agent并不只是提一个prompt那么简单。 它让用户第一次看到，AI 落地，真正的难点在连接、权限、工具、容错、接口、流程编排、稳定性、反馈机制和责任边界。 最关键的是，它提前完成了一次大规模市场启蒙。 用户得先开始讨论它。 得先误解它。 得先对它抱有夸张期待。 得先在使用中碰壁。 得先经历一轮幻灭。 然后才有可能进入更真实的采用阶段。 用户教育，本来就不总靠理性完成。靠的是热潮、模仿、误判、跟风、翻车和集体围观。 在这轮争吵中，大家都真正理解了Agent的轮廓，这个认知迁移一旦发生，就很难再退回去了。 大家以后未必都要自己养一只虾，但几乎所有人，都会越来越需要一个能干活的家伙。 比如QClaw，比如WorkBuddy。]]></title>
-      <description><![CDATA[<p>最近参加了几场线下活动，约朋友吃了几顿饭，只要聊到龙虾，就会出现两派吵架的观点。 一边说纯炒作，没场景。一边说超好用，每天用。两边干杖颇有知乎遗风，你拿事实举例，我用事实反驳，虽然吵得面红耳赤，但</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247694993&amp;idx=1&amp;sn=e181d91d960e4d43fbe724dbcfb12b72&amp;chksm=ebf7b39d099668c114c9ec0e4dbce1a28f61158e4cdd9fffbb38a4c1ab9ebe5c4a955b9dad66&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

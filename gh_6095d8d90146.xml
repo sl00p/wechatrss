@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿图因 AI 在 CyberGym 测试中超过了 Mythos，不过这只是拼图的一部分]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/HhcytTU2b7eXNp2yFDGhHUzcdTDJiaXawVMqPCrPqtHepaZsCXicNDAuiaZ2wTmVDd4P69bDbkpcF4RWpeexibIoJDWUsU0wR1Vgib4u91czDbeM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2014 年 4 月，Heartbleed 漏洞（CVE-2014-0160）爆发，影响了无数的系统，包括服务器和客户端。然而，受影响的服务器很容易通过网络扫描来发现，但到底哪些客户端软件受影响？没有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960511&amp;idx=1&amp;sn=4f4f3cbcfce62245273eda9a97791d9f&amp;chksm=8aea1938b82a4cb3d6ae89be6516f1312e842669dd9ba1e0769cdd907aa0d9d43a5964980515&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 08:15:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/7/2)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• ClawHavoc：揭示通过排名操纵与隐蔽反序列化造成的最大规模 AI Agent 供应链攻击https://gbhackers.com/clawhavoc-attack-hits-clawhu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960505&amp;idx=1&amp;sn=7acb6388a0e0cc29752ada511c68d08b&amp;chksm=8a61ca635c9d9b834f825f4f37aeaff8566fed4ea7518efb096c6bf924a5457a3d9ffbf635fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 安卓系统零点击RCE漏洞（CVE-2025-48593）https://sectoday.tencent.com/event/HkHjUpoBDgvMcds_UUSnGoogle于2025年11</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960255&amp;idx=1&amp;sn=36b5bb0dd29cd1407328503dfd5ef52e&amp;chksm=8ac7133dbe4f45f4574699d872484c15b1def09227dbdc895b4c82cbc00ad38d54eae03ec12b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 11:51:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我们的AI发现了一个零知识证明库的漏洞，Sam Altman的项目也用了这个库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dWDic6IAXZsdktqicLvkBIsgfEiabxf1WoPTicynd7ZGVz5ibsCBYuJl7H4eC3eGVmKm7QPnaHd05Ht8v2VEpF9l2Cg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025 年 8 月，腾讯玄武实验室的阿图因自动化漏洞挖掘引擎在零知识证明库 gnark 中发现了一个高危漏洞（CVE-2025-57801，CVSS 8.6）。之后，玄武实验室联合上海交通大学 GO</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960252&amp;idx=1&amp;sn=a17f504cfb7c8844f295b02f099aa720&amp;chksm=8aacd2c34a925485f7e696151054b4d85ee18429538c58196142ef1b99d38ead47fa4fb80ffd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Nov 2025 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

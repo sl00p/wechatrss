@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI造物大赏-十分钟打造你的AI玄学硬件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhWq4icDpA0LIYomGZMoAH6lSJkPv4akyuWRWBRicxtkK8PjyxaxtHAlzkP2oRmE30rJUcPSMSanBuZIxUHvRINcTOJLETica0aHSs/640?wxtype=jpeg&amp;wxfrom=0"/><p>🚥25个免费名额！涂鸦T5AI-Board白送！最高再拿500元现金！开源中国 × 涂鸦智能 × 华秋电子 联合举办 | 手慢真无，扫码进群锁位 👇AI造物大赏活动是开源中国造物社区联合涂鸦智、华秋电</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241425&amp;idx=1&amp;sn=2aa82fc5a5dfd041f1a1d83fe1e8deb2&amp;chksm=bf10682f69ca1b272941fa1298d6e2bafb67af0b399290ef35e242c3184301ae91ea3ac77b49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 16:11:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code官方“投毒”标记中国用户翻车，国外用户也怒了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dSIicvKP9bhV4aGsdBJ5k6y8wvkuw9UdqOxOedYVxXLSL2x31cwoybxBIUGxqSQW09Is1Tm8Jx55ibqGYwvt406CGr5NibwC5dzkMIcBC439sA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 这次又翻车了。6月30日，一名 Reddit 用户发了篇逆向分析。他拆了 Claude Code 2.1.196 的二进制文件，在里面找到了一段函数。触发条件很具体，做的事情很隐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650241405&amp;idx=1&amp;sn=4692336140d8f65072a8954c9dd0cd8d&amp;chksm=bf16c634ba281e57137a452add0d4ae99dcb876e0a3e983a708ea1529828dc658f13f8116e89&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Linux全新NTFS驱动合并至7.1主线内核，Linus称之为“NTFS重生”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dSIicvKP9bhUbtB3Aia6ic9S1Xe3gdhF8GmnSiac7DnlbIBpWb4pbENxtXUnV04EeamKLmwu2p1CPceiaCCiaJoo6d97Tn9lAIa9xVTDp7W0LWCgU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Linux 内核开发迎来重要里程碑。在 7.1 版本开发周期中，一套经过四年重构的全新 NTFS 内核驱动正式合入主线，被 Linux 之父 Linus Torvalds 形容为 "ntfs resu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239624&amp;idx=1&amp;sn=0d75e5ecff73a8b1eb2f1e71726ca0fd&amp;chksm=bf5db20d3aa91c49a9ffd417d831d4a8e2aecc8d71de57aff0e415fc076dff24c98cfc446f3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 17:13:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模力方舟上线 DeepSeek-V4：百万 Token 上下文，Pro 与 Flash 双版本在线体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZFJdqFle2NueXujAGYEh01uBT6aibFUIIG6lkhyn2DdhFiamn3ibSTcXNIRMHoCaAmp4TLo6hRIWwcErqiaicLHTPvkDujGII0UibWT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>当模型开始承担更复杂的任务，真正影响体验的因素已经不只在单轮问答。开发者会把更长的代码仓库、更完整的项目文档、更复杂的需求说明、更连续的工具调用流程交给模型处理。模型需要在长上下文中保持稳定理解，也需</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&amp;mid=2650239624&amp;idx=2&amp;sn=527ef53cb265d848a526656cc17a476c&amp;chksm=bfa48b31be1394472404859fe3fef8b9b808b402fe94e2156c4f3bafbbc2da51ca3715b2116f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 17:13:00 +0800</pubDate>
     </item>
   </channel>

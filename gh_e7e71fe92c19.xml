@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从0到1构建一个Hook工具之Frida-like风格的Hook]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1NW9VicuCPRkY46NqoapB92kIG7hamFRa5pArPa6ufm0rM8zelX9tS7GSe8GcLlbo6ZCdMljpeWpIIA6lspsa0nUDZo6PsbVtI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一开始的 Nook，本质上是一个 Android Hook 框架。它已经具备了几类底层能力：注入、Java Hook、Native Hook。但这距离Frida-like的Hook风格还有很大的差距，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=1&amp;sn=e2f0ceb1a416781bcda9a83efcc497a4&amp;chksm=b00605ac3fafb98a2bb7b8bb2e3a40d00bb72b310acb29e55f7c111d1ab5e420e2de066d88af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01成都俊云科技有限公司AI赋能型逆向工程师20-30k就职地点：成都工作职责1. 负责 Windo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=2&amp;sn=00765840b24772a06db1fbc48fafa939&amp;chksm=b0b39502ef258fb8139454acab02d0f557f8d5a5983ecb504fee10e8a676771d10712515f321&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT下载链路曝高危漏洞：一句“误导性对话”竟可触达系统文件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0xibpnWYz56BFYfkjrOBCLGykzr6FR2RMrOIwgzstalFGbW5d7WADmEsdsV1GPsnS0MNjwTT8W9y9LZ60aKkRoh9Zia96f1YZwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员披露了一起涉及 ChatGPT 文件下载机制的安全问题，该问题在概念验证（PoC）中被证明可能被组合利用，从而绕过限制访问到原本不应暴露的系统级文件路径，引发业界对大模型工具链安全性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=3&amp;sn=a04d95311bbf28a2da1a37d0cac0b8c6&amp;chksm=b024a8f9b350de27855326b7ee0d9c62e2129e6613dbe52180d322b9d04e334e39bc69625317&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI辅助逆向分析：不只是用工具，而是造工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=4&amp;sn=b0fbe96c8e58cfa67968da0b253fbad3&amp;chksm=b027386b55056e059075ca3ccd841d32f8dce02ef9965b1a75a841c7545ddbd27f903c66375c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[利用hermes agent 详细分析hunter检测器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MR3FoJ5bOhAWdJ9mXBHqFicNKr9KhziaGEyib5a7yWhv7ehl0I1V7aX1VTY7FKgIyKj2DqOiaYKTHiaq5aXJycBnAwugiciaNzeMBNY/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：agent 学会了防御,也学会了拆解2026 年 3 月 12 日,Hermes Agent 发布 v2026.3.12。按官方 release 说明,这是 Hermes Agent v0.2.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617262&amp;idx=1&amp;sn=6988852bd60c8ed2fbcf91e708f073d8&amp;chksm=b03906efe80e4f8858db5ac9f3422977ffd19994d511d01a4ab11e9821e90e8314e628ef3896&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ZTo9EDuOibgDicyOKBn9NJuYibRj5Dib5Uvesw9gxL29kXAcDVwbUF5bIxiaGKzz8njNkPcMWPj0oOXHXY5TKCxIGiaYeYlo6genx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10大议题，20位嘉宾与你共话AI时代游戏安全攻防！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=2&amp;sn=e2a48c2bdbcedc745a607e568198d72f&amp;chksm=b0c3854598ee58e5764d5a3317203f9ff38b6a0cf8bd773e12d8d99ebd8aebb3e6bb7e6cdcf9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI聊天机器人沦为病毒帮凶，高配电脑惨遭精准入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K09mwxt76CC6gaRlLaBwC5Z2fE1EibE0570Umk7pkZYiaqN75icd8ZJFKsnWNJXK4cqJscUSRV3kFG6fJacIKGHDXQssUZDT2NUd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，微软安全团队发出警告，一个活跃的加密货币劫持活动正将恶意软件推荐悄悄塞进AI聊天机器人的回复中。这种攻击不再是搜索引擎投毒，而是通过诱导对话。AI助手在带路当你习惯性地问“推荐个好用的显卡测试工</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=3&amp;sn=b3c7eb22fe2b01acc44d2a9398fc7efe&amp;chksm=b0d51eca49c04ea0912a034b9cebae3113516d8cfd990322cb96b9703053490de46b8a33f999&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“会用AI”到“会造AI”：360 智能体工程师（ADEA）认证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0eJpeEwY3NdgIZYvWnk1d13GO8p0Gq9QHFO1CKAaC3FFgD5icrHzNicAzUm72j0UPQlyWLOLeuPRQMNoalU1phVP96ezahGJazA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=1&amp;sn=cd6f67b920187a61b0e6c8d86f1f481e&amp;chksm=b062f9c959c668ea4991102e4c708df280494072e4105f636d41fb256e591412711ac908ba3d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源通讯软件view once图片的调用逻辑分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0oq2qPrg4B0YYFAVqCYm7PRK3afzamIQetf0c5gvar1jAy2HLoynHMjJYOLN6gmA8BPzJCGlfP3k1E0X4MibjuhTc78iaqgKvyc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、传输协议一开始直接用了burpsuit抓包，但是什么东西都没抓到，于是用netstat看了一下，再结合资料，发现用的是私有协议mtproto，所以burp抓不到东西。直接用frida开始hook，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=2&amp;sn=8404f4623766fce9aca6ff5fc790428b&amp;chksm=b014b01f1311b57d84c5d26c0d6afca46911100541c96035bb84c958b3d76bc8cd7a3d615b02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7-Zip 曝高危代码执行漏洞，打开伪装压缩包直接被控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2PnhQu4aS6kA4pothdtAbXBwtkRnQPgyxaAMRBNhdxaxOysFtWkVoUCk1gAngAb0D8DRoqYByWeLG1aeiaFlYerVrDEgcvFCjg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，知名开源压缩工具7-Zip被曝出一枚高危安全漏洞，攻击者可构造恶意文件发起攻击，最终实现任意代码执行，完全控制受害设备。该漏洞覆盖多个正式版本，且攻击方式极具迷惑性，对广大个人用户、运维及安全从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615525&amp;idx=3&amp;sn=deeb3affeda9640dfd6f5bea564a46b5&amp;chksm=b0891b8438bffea13860a1c6b4ee3d9fc511b2b33a12f1eb725f8b1cbaa745fdc2bcc37bf259&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 17:59:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
