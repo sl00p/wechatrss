@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[libmsaoaidsec.so 检测体系分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K13icSCBQOkXw2qz7Gh8KwQyhnicafibvibVXHczM8tAEsibOcicgvGBiciczlT291gXHfR4M1wQr8l9O6j4FdqZz9XdK7mctkn3DBknGY/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：样本定位与阅读方式libmsaoaidsec.so 是一个 Android Native 层共享库，文件格式为 ELF64 AArch64。从初始化入口、线程创建逻辑和大量 /proc、系统属性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617305&amp;idx=1&amp;sn=2b4dc7e501be6c5ae2f4e35487a8e8e3&amp;chksm=b06aa2d12805e06a272ce8b58a75ffb9f44d19583db8f67b821aca588c19ab80958af0f56e65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【7-8月开班计划】一考双证！360 智能体工程师（ADEA）认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0eJpeEwY3NdgIZYvWnk1d13GO8p0Gq9QHFO1CKAaC3FFgD5icrHzNicAzUm72j0UPQlyWLOLeuPRQMNoalU1phVP96ezahGJazA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617305&amp;idx=2&amp;sn=9ca1053cbdc5121c534e3bbf315341ad&amp;chksm=b0d1a2f1c2732318f642e88c34fe3f0f03540e37814933c45cfa3d5b8d0822b3efd2bfd00ed3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从0到1构建一个Hook工具之Frida-like风格的Hook]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1NW9VicuCPRkY46NqoapB92kIG7hamFRa5pArPa6ufm0rM8zelX9tS7GSe8GcLlbo6ZCdMljpeWpIIA6lspsa0nUDZo6PsbVtI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一开始的 Nook，本质上是一个 Android Hook 框架。它已经具备了几类底层能力：注入、Java Hook、Native Hook。但这距离Frida-like的Hook风格还有很大的差距，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=1&amp;sn=e2f0ceb1a416781bcda9a83efcc497a4&amp;chksm=b00605ac3fafb98a2bb7b8bb2e3a40d00bb72b310acb29e55f7c111d1ab5e420e2de066d88af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=2&amp;sn=ce97d044e06b3f07545cbf8eb906c4a5&amp;chksm=b0896e07364bdb40eee858ed356730c501f025f1580d36e65fc34c90fb6d45efa0eef9d0d140&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 13 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Android内核无痕Hook理解和感悟]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0iaJfaurib6P1rxe0FpOHBLQ0OX8jSOO7kcjICeeic9a1SYvSgY5aU2GUtLv2MwCeNhicsPmI12E8zJOffjThxlibPf2eqWshAIn9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>1、前言这篇文章主要是我自己近年来在攻防对抗中，对 Hook 检测与反检测的一些理解和心得。随着各路安全SDK和反作弊引擎的不断进化，传统的 Hook 手段早已千疮百孔。我们目前面临的常规 Hook</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=1&amp;sn=770311965b1a5c85320ce70f6b6a0dc7&amp;chksm=b0e75cf0b790bfca5d316081b4de5df4683241b97227ded106a759e119886dbf361084448364&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[报名开启 | 游戏安全行业峰会来了！共探AI时代游戏安全新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ZTo9EDuOibgDicyOKBn9NJuYibRj5Dib5Uvesw9gxL29kXAcDVwbUF5bIxiaGKzz8njNkPcMWPj0oOXHXY5TKCxIGiaYeYlo6genx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10大议题，20位嘉宾与你共话AI时代游戏安全攻防！</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458615651&amp;idx=2&amp;sn=e2a48c2bdbcedc745a607e568198d72f&amp;chksm=b0c3854598ee58e5764d5a3317203f9ff38b6a0cf8bd773e12d8d99ebd8aebb3e6bb7e6cdcf9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 17:59:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

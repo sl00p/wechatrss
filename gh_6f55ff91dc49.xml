@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 17 个 6 月份牛牛牛的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33DwyoqLJFF5rPibpwtbZ0Lc4p7WIrMzf0903YUyspsRNccPrbFZjvCG7MPkVEc2mAlArWxxArqMBgqxjDIFgXqQcsaIvnG3hM/640?wxtype=jpeg&amp;wxfrom=0"/><p>01计算机视觉工具集supervision 是一个计算机视觉工具集，做 CV 项目的人应该都不陌生。它封装了检测、追踪、标注、可视化等一整套常用功能，省去了重复造轮子。如果你在做 CV 项目，supe</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535071&amp;idx=1&amp;sn=0da3535ca936aedd3ac618e4179aa756&amp;chksm=f88f9e1a18709fa3bb80fc341f73e95b206f47716b55299b108fee9a860b62c23af2ca66e156&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 10:12:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[孵化了 10 万多 Star 开源项目的团队，在 GitHub 上搞了一个新东西。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3GjGGmEfibLia8JicibZVZXFtB0bUjkSKhvgKkibbDEoZibicfXiahYU682icZicDAsZicp3ZBOzAhjAD1fibjmKRj0IuH13RLfDgt3ZlLhx0/640?wxtype=jpeg&amp;wxfrom=0"/><p>做出 browser-use 的那个团队，最近又开源了一个新项目。就是那个 GitHub 上 10 万+ Star、让 AI 像人一样操作浏览器的明星项目，过去一年最火的 AI Agent 之一。新项</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535021&amp;idx=1&amp;sn=49cc9d7231f38185eac083f876c2fd26&amp;chksm=f802b00bf86a778a5ef2a1526b50134176fe26098a7823dbaa6923ef897ca8f096f6ea0087a9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU08oDLARoFqP9eRFyhUrzGMUNhbtX8Ey5kdmg7H1o1YNhkCo4ghtDr4gqng9JB1rrR3N5Wqmy1xQaNEEJeaEnAjYmpG8Ur1ibic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人把 Karpathy 的知识库构想变成了现实。前阵子写了一篇关于 Karpathy 的 LLM Wiki 理念的文章，讲的是用 LLM 当知识工程师，帮你持续维护一个 Markdown 知识库。当</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533334&amp;idx=1&amp;sn=1d33cc0d087234db8d0e20d839b04b97&amp;chksm=f8859ee00eb9f01e20319a550325961e0b7fdb3c3f30229ddff00e8a121113928018601a7ef1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 11:58:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐搞 Agent 的把这个 4 万 Star 的 GitHub 项目研究透。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3ib2lKSZx5TWdfDPWricnNhZ2xTJVMlz3NdZyvPbtIWTvdvSibsgyqPPJpb5hiaaZ87Cuaxe83uHiab3yzXXyHkQa6EXgLFW0dlXZs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年了，人人都想造一个自己的 AI Agent。不需要从零开始踩坑，不需要从头造轮子。今天推荐的开源项目已经把 Agent 底层架构打磨得非常干净了。如果你想开发属于自己的 Agent，这个项</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533333&amp;idx=1&amp;sn=270032eb5b2d8c7dfa136d393e989754&amp;chksm=f89df111b31f09083d4a563ef33999659422b038ff482ef3bd41fa788c11eb1682ad919495f6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 13:06:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

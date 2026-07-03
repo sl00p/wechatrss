@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[全球首例全自动AI勒索攻击曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1XFarh3JylEE7cOCxlUePiaNSJaqva0mnkNBwSO8icNXNFia3FSsZ2iaKHMJo5RSW62NlAuS4zSwrNI2ZCRhmicuVgLvHojNRMs2ts/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sysdig威胁研究团队记录了他们评估为首次由大语言模型（LLM）端到端驱动的勒索软件攻击行动。这个被Sysdig命名为JADEPUFFER的操作者，在无人操控的情况下入侵服务器、窃取凭证、转移到独立</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=1&amp;sn=9462121d0d04233a4048cbac30e3b423&amp;chksm=bc45b53e03c9c51ad5128f51cc01dc691424edb9bbe00ca88f6658547258a509bd4a52259442&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型“Bad Epoll” 0Day漏洞可获取Linux服务器与Android设备的Root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1wibC3aTVzib5miboPpM1kx3rFWZmHFicRhAfjMnnUQZRW5kyIv8qNdwgryKCCILowDiadjQYyAqgMJxXWHbfA7CO6iaA2t9icJTPts0/640?wxtype=jpeg&amp;wxfrom=0"/><p>新披露的Linux内核漏洞Bad Epoll（CVE-2026-46242）允许无特权的普通用户完全控制机器并获取root权限。该漏洞影响Linux桌面系统、服务器及Android设备，目前修复补丁已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=2&amp;sn=44a94d63bf1fb8dc5ff30864104ee0b4&amp;chksm=bc0471af6bf69f0a8436090777ffa3979d0e36ade5972572e001b9c0e069ebb652f2fbfd5f88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic恢复Claude Fable 5服务；智谱AI新模型GLM-5.2比肩Claude Mythos | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🚨 新型 Claude Code 攻击可让攻击者完全控制开发者系统</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=3&amp;sn=4a871480ce4b14e58085d317b441897e&amp;chksm=bcee1efd32bc7b3b29052867a2b6bb33a398d44069cf0f60483e207a7253715a6e59d930a5d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 04 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客利用Claude AI攻破票务系统，窃取全美音乐节管理员权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rVRTpSy5dIt50d4yzuYAaicztC1fdAMRDGS5O2oB1ibjHf10ficR2ppe3Dib5jQ9543VOutiau3iaDoOGdHr5KT2nu3O2SZCJLnq84/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现过程Live Nation/Ticketmaster旗下票务子公司Front Gate Tickets（FGT）存在严重的未授权SQL注入漏洞，该平台为EDC、Bonnaroo和O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=1&amp;sn=6ef136248e7aba368a64c4d1d42ad6c0&amp;chksm=bc515a3836ff59e5ac054a319e87b477a4b33edf68c87dff68cc87d566fc0019bde9d8076d73&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3yicrqosIg3z3MjLMaBOUMpk04Kp96icQas9mcmjvmHIwqONBiatnCfXVK8AwB2aBf5fWxeXW9OsnJNog5l1bnGEicIib0WlzIZcUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=3&amp;sn=75b2ff2fcac35ab89dbbb64dbf184df4&amp;chksm=bc9d15e937b2774c2f34921309450fe91a82adbae73275f859d529707c1bf3151bbd713f7dce&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型iPhone BootROM漏洞永久性破坏信任链，A12/A13芯片无法修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0eGMO2Ug5r4Ezewk5F45Yx6FZwicW7AzDabo4UVxyhsR5FlOdnibU63icTHwHk92ZSL5KZrQqxvc8SC9dITMNY0bT4d1f0MpNDt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项名为usbliter8的新型BootROM漏洞影响搭载A12、S4/S5和A13芯片的苹果设备。该漏洞利用Synopsys DWC2 USB控制器中的硬件级缺陷与固件配置缺陷形成攻击链，由于Boo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340862&amp;idx=1&amp;sn=2ec041455a63ce67db2cc8ff362a0653&amp;chksm=bcc0ed2c610c7f4279fbb90db763644f6575035d07f1173cc039a9f5ec0f134ce485a752a82a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AutoJack暗藏致命攻击链路，一个网页可劫持AI Agent执行任意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0KUcy1DqkHgZDHAztNGxo12bdMUlPvF6iaVbWI8lnqt5lzDI4VapGCBiaOVmviak0Va1eNAeoZk3RDsaePEc91VQlMX26zK6LIRM/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软研究人员披露了一个名为AutoJack的攻击链，该漏洞可将AI浏览Agent转变为远程代码执行的载体。只需诱导Agent加载攻击者网页，该页面的JavaScript就能访问本地高权限服务并在主机上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340862&amp;idx=2&amp;sn=167e6becb0325d5cc728adff9b2ea88c&amp;chksm=bcc18a99bda721e79e50f4d4dfad85db54363a6efbaa9001725f6db133c1e1256bc022a36509&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年AI推动CVE数量激增至6.6万；Steam上架IT牛马模拟器 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！📈 2026 年漏洞预测：AI 推动 CVE 数量激增至 6.6</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340862&amp;idx=3&amp;sn=3bb98bdf448c9257fec77b8bba7aa5cb&amp;chksm=bc88da26bbdb57c5ad3c9380b7c46ac1edb2ebb8063af836f28b1a939c5172a645629eb4fb10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
