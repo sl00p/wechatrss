@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你是中国用户吗？Claude自测工具火了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Eg3c8mze0rOx9vEiaIdmuDiagiadbBQ9aa4c1LO5IT9bu5vGm0GFssGviaHc47Uuiar7uoO7DibbeVDiahOgrtMoh1qXsJGMG67Kqy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，一个名为FuckClaude的开源小工具开始在开发者社区传播。打开网页，无需登录或安装客户端，它会扫描浏览器环境中的多项区域特征，并给出0至100分的"Claude中国用户"风险画像。它要回答的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341890&amp;idx=1&amp;sn=cf74fa278cf881e328bcd78b09ba4185&amp;chksm=bcae91f6d88f56d8c0487c8a43fd6e287af609ce74fdbd8b6078c015ed8491c8b5962f82f8c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 17:32:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用SEO投毒与隐藏HTML代码诱骗AI Agent执行恶意指令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CVnUcZnfic1DBqbo2ts3ib6tKoSUjcGtoY1Z7AR4kviaYpcM0QkficlEkWy54z8D4e4Zugw5n8vhVe4G5hGToOWSEvWowwnWOhPc/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能Agent正迅速成为互联网的新入口，攻击者已注意到这一趋势。最新出现的恶意网站通过搜索引擎优化技巧和隐形代码，直接向AI系统输入虚假指令，将普通网页变成针对自动化工具的武器。这些网站并非以传统</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341890&amp;idx=2&amp;sn=a71f7a2617cfed3b32697a6b8d3aee53&amp;chksm=bcc2678c9be2423601cee719560cd4a91abb878435ae4bb4d17a995d23fd102536ab0e274a03&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 17:32:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：Linux堆内存管理；全域数据治理白皮书；Claude Code安全研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pib4REHpU0Uc2PWGiaQR3oibu7GPIZ3f6gpuF8iaU5UjgibIpBFellrNZ1Fr6DicTnMbbgwI1kjTQNvpjT10IA8NplzazQ2LXv8ZF4/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341890&amp;idx=3&amp;sn=35db7bdb3cfb705343179c83e33b5bcb&amp;chksm=bcf25fb7c3cb43e90cd3c9d57dd708e41015b52c52a1538fc35f489b35f12c90d163fb220810&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 05 Jul 2026 17:32:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全球首例全自动AI勒索攻击曝光]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1XFarh3JylEE7cOCxlUePiaNSJaqva0mnkNBwSO8icNXNFia3FSsZ2iaKHMJo5RSW62NlAuS4zSwrNI2ZCRhmicuVgLvHojNRMs2ts/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sysdig威胁研究团队记录了他们评估为首次由大语言模型（LLM）端到端驱动的勒索软件攻击行动。这个被Sysdig命名为JADEPUFFER的操作者，在无人操控的情况下入侵服务器、窃取凭证、转移到独立</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=1&amp;sn=9462121d0d04233a4048cbac30e3b423&amp;chksm=bc45b53e03c9c51ad5128f51cc01dc691424edb9bbe00ca88f6658547258a509bd4a52259442&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2tlZcwfpcDGKErp5JibgaVKyuSZicwh4ib2MEEqTUZ3wLyapFSwmBzgGAhQaB34t7kgguqNSJkWngCQq5cegCc0wgf5R7cAo7w3M/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源网络安全平台CyberSentinel AI v3.0近日发布，标志着自主安全工具领域的重大进展。该平台整合了33款实战渗透测试与威胁情报工具，并搭载供应商无关的AI引擎，支持Claude、GPT</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340988&amp;idx=4&amp;sn=f841c58d0e8ab8527eccd17c61bc30b6&amp;chksm=bc9295705d6912447bd27964d9720b8f2904b67640c7adbac5f04db2e827eb0734c8cff21c2b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 22 Jun 2026 18:14:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GentleKiller 深度解析：The Gentlemen 团伙的 EDR 杀手工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0107TCFvQiaJETyw2UKTL3DwqJZB6Oa3FQhmdRQG6lRZNc8Xq0fibgAVKMqft8uNxOdQh7IPedbFD2BZwmosve7Nfl5iaG9W8ZV8/640?wxtype=jpeg&amp;wxfrom=0"/><p>The Gentlemen为旗下分支机构提供了一套集中化的EDR（终端检测与响应）清除工具套件，能够快速利用BYOVD（自带漏洞驱动程序）攻击手段在勒索软件攻击前禁用安全防护工具。2026年6月18日</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=1&amp;sn=25613d9435a24b385e23ba1de6d98371&amp;chksm=bc913afd9187fddc1aa996bc679c3dfe2ce1dcafbca9e3004ed1392fa83160e52f281102c567&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[任天堂美国员工数据遭泄露，第三方HR平台被勒索组织攻破]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PJ2V4ZxQDlqDHAo5DQPWFK19zmticM8lj04ByGtzHBibuPqyVGibZxhRIefiaI7gQW7V5FGibOgBCC00TYXlGc3JiaIEzAMAzeQ0EI/640?wxtype=jpeg&amp;wxfrom=0"/><p>第三方人力资源平台TinyPulse遭遇供应链攻击，导致任天堂美国分公司员工记录遭窃。在臭名昭著的Shadowbyt3$勒索组织发布声明后，任天堂已确认此次数据泄露事件。攻击者并未突破任天堂自身网络边</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=2&amp;sn=758344ea2d838b71b5f868a504ab32f7&amp;chksm=bcc5d4d8f51b75646e439449151c07ae452119681ea1a284b9f65590c9bb3cbc46492bb8742f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：Yakit与Claude全链路AI渗透；潜伏三年的云秘钥收割机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3yicrqosIg3z3MjLMaBOUMpk04Kp96icQas9mcmjvmHIwqONBiatnCfXVK8AwB2aBf5fWxeXW9OsnJNog5l1bnGEicIib0WlzIZcUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651340924&amp;idx=3&amp;sn=75b2ff2fcac35ab89dbbb64dbf184df4&amp;chksm=bc9d15e937b2774c2f34921309450fe91a82adbae73275f859d529707c1bf3151bbd713f7dce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 21 Jun 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
