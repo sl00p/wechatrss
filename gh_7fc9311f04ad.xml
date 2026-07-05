@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AutoResearch-LLM：让 Agent 接手 LLM 训练优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xG5vf79WsNq4kNRv6XtLd5iamQyRjoYaudpFdfYo7UO4tofO24O0KI3kb3tUqTDozasaTeZagODzpRiaSqIqrpTiad7o9yxOaay0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是一份 LLM 微调 AutoResearch 落地实战。作者把过去几个月在电商场景（Query 改写 / 同款判定 / 重排打分）上做 Qwen3 微调时的完整流水线沉淀成一个由 Ag</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561366&amp;idx=1&amp;sn=d50229e8d5ebdc40a628493d218f43ab&amp;chksm=e88da904ea9df0026bb9b0ec7b25b1f518bc38c84d41343223dad4829b2c77f898e65ac41e77&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Code is cheap. Don't write any.——AI Native，程序员如何提升五倍coding效率]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zLIcH1BAwJaUmJAaw67w3TcVMoCNDI8gcCgMTOGTF8JcZPeNTgeUdENJhJMQjsZjY2LvdAKL37qJvyI2SxV28yZXF7PzaA4yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读AI Native 不仅指产品形态。在一些更窄的场景里，比如编程领域，它也可以特指 AI Native 研发。但这里的AI Native 研发，不是让 Agent 写更多代码，也不是让 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561335&amp;idx=1&amp;sn=43b0eb7b517339a21c88ebb152e3d088&amp;chksm=e8b36631e25de4f45b65343ed4b4bef4664e42a68e85a43323574034e27aaf4986a8283913d0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zu8vcbBdzmdZ2z1NZ3JPicIEhykVZq0CibbcQZ90zWxw8d4xuH7icElXHricq7eSKQaE3qcepL0DWUnyQ1ojhQiaBJRusMLLAsVg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在最前面，2月28日通义实验室AgentScope团队发布了自研的独立部署开源桌面Agent工具：CoPawhttps://copaw.agentscope.io/CoPaw是整体架构上类似open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559269&amp;idx=1&amp;sn=a87c6b0f00c2ccee4a25901df995c65b&amp;chksm=e8d6c457fcd4ec67f45c5e77b9fe52eca89be8a7673d4a1999ab9afe49d81d0462ea70f9d1a6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 31 Mar 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[学习笔记：从 Agent 到 Skills — AI 智能体架构的范式转变]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1z71TXmibsevPia3VlqwNa3zLWBsVENGv1wFmefj2AcibSkXxXpod0SSyae8vfP9DcmyZhiatJRLd7UUNKDicVkeO1WOibaImGyIHLPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告日期：2026-02-28 关键词： Agent Skills, MCP, OpenClaw, A2A, Agentic AI, 模块化架构一、谁提出了从 Agent 到 Skills 的转变？1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559249&amp;idx=1&amp;sn=7cda1453a5f7f51c39f43b76027696a1&amp;chksm=e826ee762512f3cfc3205281b1d0b1c03ac1d84a551182a8d6940d34e681754b7a9b177fb218&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

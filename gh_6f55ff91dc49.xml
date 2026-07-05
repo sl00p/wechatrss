@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用这个 5 万 Star 的 Skill 学习 AI 新知识，真的起飞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0BbPxLibwb1pUwVgv0UVvV6abDXIMl7w5OXMb1jjkY1ibdhZWJjUdficjC45jQYibaXdFlRnq8Z5FOaD924JQwlwyQQiahRDaokiakE/640?wxtype=jpeg&amp;wxfrom=0"/><p>last30days-skill 这个项目开源其实挺久了。从它开源起就一直在 GitHub 热榜上挂着。各大博主的推荐清单里也反复出现。这个开源的 Skill 能让你弄清楚某一个话题在过去 30 天里</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535162&amp;idx=1&amp;sn=972dd1505bdb854b3d63c908d40e89d4&amp;chksm=f8e6afd51b27bce59bc2429157ec05773434bb20421ecccd6dd44d6256e6a3f07a85f9ba2086&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 14:12:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[自测会不会被 Claude Code 标记为中国用户，有人做了个网页。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU272PJZ54NdryZkXlYbKEaIOGmd53ezL4ibo7NRbmMzmMz8ZtWdyTKvrEicicbOhXXDVnrP87GENjem9sZZY9bYJQVPApicZ7ic4d38/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人在 GitHub 上开源了一个小工具叫 FuckClaude让你在浏览器里一键自测，自己的环境到底有多像 Claude Code 眼中的中国用户。作者把浏览器的六个特征做成了打分模型，权重加起来正</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535120&amp;idx=1&amp;sn=7fabb3074ffa59a0b1059a2eb63aff4c&amp;chksm=f85b9ca64bcff991caed5c983ff6237ac380e1e3a6176c2ff67ca4c6c9da98d1d3e01672a7f8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3G60g9VVlMcicEx3glNiau7R2OIFmOzJNtLb5yLibMNXYmsRupOD1TB6Tic9oX8j6pZEACrQAicyxjWPFFoibH5rjjRU5568Qlq9du8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一句话画出能直接发布的技术图最近在 GitHub 上翻到一个画图的 Skill，叫 fireworks-tech-graph，目前已经攒到了 3.6k Star。这个项目干的事情说白了就是：你用大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533360&amp;idx=1&amp;sn=1847cadb7dbb7224a9a692729b8db51e&amp;chksm=f868252afe5b1d59c3543cfa3ec8d338a702f44499f3c8ffd6964ea1c1505f288daf007f70c0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Apr 2026 12:51:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个国产 AI 编程平台顶啊，免费用 MiniMax-M2.7。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1KmUD81qU78LEWYEItanl907b4rG4jbGzqAD8xhsKRYNemibiaAp08j5lzPw5AKt9rLsbR2rUCMRiaFMNrzlOoDqqXnfhvXaXfD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>脑子里冒出一个想法，想快速做个小工具、搭个小网站。可以打开自己的 Claude Code 开搞。但如果你没装 Claude Code，或者没有装各种让 AI Coding 更顺畅的 Skill 或配置</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533359&amp;idx=1&amp;sn=96657227556350b11390573f365b3631&amp;chksm=f8494b2ecd659202ab6982748821d8a694c319552c83b6f894c74ab91b7453a69594ae507f7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 10:49:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

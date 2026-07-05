@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[整理Windows 全架构 Hook 技术图谱：从 Ring3 到固件层 34 种实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2ribYMmNxvfUmpLicvkY01vJFQwXll3Y4HicO8rNgDFpyVJxfS6iahy0tMPLqiafjKGL9soabxEMfseIfpRrPytYNdjTa2ianxx7icXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>从最容易被检测的用户态 Hook，到理论上无法被静态发现的 Hypervisor 级 Hook，按隐蔽性从低到高排列。每种技术均提供完整可编译的实现代码。第一层：用户态 Hook（Ring 3）用户态</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=1&amp;sn=5bb9c918f99546ab31778053178b87d1&amp;chksm=b0d24c1efb217409c42d1adccb968e0a93657856e3ad057f3fc8d5c89a621d2e1e80ea05b980&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1udnWEPoelo5DU7WtAGkJs5UZUXKrX1KDYT0JgcumsvTK2w0fOWicNKYBdndHkA3OPTfusS8OfMgCiaGxHCDwcbcgQsvgicwYXec/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员公开披露了一起 Linux 内核 epoll 子系统漏洞，代号 “Bad Epoll”（CVE-2026-46242）。该漏洞属于 Use-After-Free 竞态条件问题，在特定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=2&amp;sn=5fefff506b6f81b7815f92895ee5ca9b&amp;chksm=b0f86b41ed1532d521d12c4fa9393c25753f45b9cb3508f0a013dea1e32a98a13f58645766d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[系统0day安全——主流企业防火墙漏洞挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=3&amp;sn=07f37875dfcfcb09667c640cc9554ea6&amp;chksm=b0a9e15faab8cbe183fac50873167a355ee7940662c532ebe05544b7339a2849e99804202b44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[libmsaoaidsec.so 检测体系分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K13icSCBQOkXw2qz7Gh8KwQyhnicafibvibVXHczM8tAEsibOcicgvGBiciczlT291gXHfR4M1wQr8l9O6j4FdqZz9XdK7mctkn3DBknGY/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：样本定位与阅读方式libmsaoaidsec.so 是一个 Android Native 层共享库，文件格式为 ELF64 AArch64。从初始化入口、线程创建逻辑和大量 /proc、系统属性</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617305&amp;idx=1&amp;sn=2b4dc7e501be6c5ae2f4e35487a8e8e3&amp;chksm=b06aa2d12805e06a272ce8b58a75ffb9f44d19583db8f67b821aca588c19ab80958af0f56e65&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3xRlDxXMMaLNl0rYwTurSulicpgyMjryA9Ece7Bqfs0IwtIRRKzLqK8yo2QuedRgshibIriaiaib8mfsSrqFcYJIvZhzAJhd53Ugv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究公司Sonatype近日披露了一起代号为“Atomic Arch”的恶意攻击活动。黑客没有直接攻击Linux内核，也没有爆破用户密码，而是选择了一条更隐蔽的路——钻了开源社区“软件包所有权转移</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=3&amp;sn=29fa920831813a37d28efaa959d7b53e&amp;chksm=b0ad2433958a7547312006da0d8faf1d96afc6556c698a829e07c52a9d6ad3f6bb52a5aba58b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今日课时更新 | 基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=4&amp;sn=772b5054fafe6bdeb7a5ac43d5113cac&amp;chksm=b05c26638e8c9ff36b044a7334118682710aabdb88fa77669a2f9a627477fbfae23562e0bb3b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 辅助分析｜CyberGame 高分 Web 题：缓存投毒攻击链路拆解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K30p7w2djWysl6NOP0Nibsn8Kf7mcbo3gCytfibDnsatSric1fcvuJzZmpicO7ATQVsicDJNxTZ3uXQibiaKaWwA9ONjJ8icC8IcxWhsRk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本题属于 Web 类型 CTF，不是 PWN（二进制利用）。Web CTF 的攻击发生在 HTTP 协议层——伪造请求头、投毒缓存、利用应用逻辑漏洞；PWN CTF 的攻击发生在内存层——缓冲区溢出、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=1&amp;sn=98be421b813114a5093f90ee6c636a23&amp;chksm=b03f60749df320dbb2888116a7a2c021ed0d6c047f0c14e895c467dbdc162df1c4959e51cbe5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 13 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【叠加618优惠更划算】冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616525&amp;idx=2&amp;sn=ce97d044e06b3f07545cbf8eb906c4a5&amp;chksm=b0896e07364bdb40eee858ed356730c501f025f1580d36e65fc34c90fb6d45efa0eef9d0d140&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 13 Jun 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
