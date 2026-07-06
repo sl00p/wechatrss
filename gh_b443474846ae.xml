@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“如果你不能用300行代码写个Cursor，这行你就别待了！”Ralph Loop创造者、Claude Code核心技术设计者的暴论]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjriagSS1fqwEia3ibAwrTTP3YbkADFrpoZbJyZKSN3OjZzfQ01yblz277LXyVrV6Wf4ag1kWPKMnlnInfAicWyOia5SSDe8OMFEZ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪 策划 | Tina “软件开发已经死了，因为现在任何人都可以成为软件开发者。过去六个月的变化比过去三十年都多，而大多数工程师还在当 Jira 工单猴子，浑然不觉自己已经站在了悬崖边上。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=1&amp;sn=d257a460cae156cb4388b2ad571ffd00&amp;chksm=bcd184d3746a845fa2f6b5a25574a5b46b35772cbb6cf58f9964a37f74a26c899953cb874e1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 16:24:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgS2dJiaiaTfVCBRaAr9wrNLKQfqXY4qBR7tEiaBFcKia78eGtTXG0VWiahuFqg1yI9poOSU4DYvTP7dG6szZkFWqq2Y53e8Uo8Ub88/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 邓立山，淘宝闪购高级技术专家审核 | 罗燕珊策划 | QCon 全球软件开发大会在大语言模型能力持续跃迁、AI 编码工具从 Copilot 向 Agent 形态快速演进的当下，一个核心问题逐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=2&amp;sn=15df01ddd07b362a9a627d2952aa26d1&amp;chksm=bc1525e2bd3444c58161c51b9b123bff877de1f6611fb52a751b4373d5ba8042e8e21249f400&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 16:24:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 创业怎么做？500+ 技术领导者给出了他们正在实践的答案｜ TGO 杭州十周年庆 &amp; GTLC 杭州站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/TW5mShRN0sGDo2XJrsplKrSDOdJnweSm1iaXv9r4gocsWf3xibqS21198V0wiaQlkbZDrD6uiaQIWOGeIKYt7bK1p6tibsHdUyvf3xkyckfibhARg/640?wxtype=jpeg&amp;wxfrom=0"/><p>获取本场活动资料，请在TGO鲲鹏会公众号后台回复：TGO杭州生日快乐2026 年 6 月 27 日，TGO 杭州十周年庆 · GTLC 全球科技领导力大会·杭州站圆满举办！本次大会以“新十年一起，做</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=3&amp;sn=97b23e3e24e624acf231c91826998e49&amp;chksm=bc00baaaccfa88385b8b9f026163f852398a326dfcc70aee8078e7c5406f7771e9bad5817178&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 16:24:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 如何解决了 quiche 中的一个拥塞漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhkicrs39lZROf3R6D4nBXjsib3GpNgFyKCaqZUNEIxv8FlSY1YnUTCmN9lxYvTb2aFmkegI28Q1m8Uw3b0Ov8rIEZT4XzhHXooQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Gianmarco Nalin 译者 ｜ 平川 最近，Cloudflare 分享 了他们如何发现其 CUBIC（一种拥塞控制算法）的 Rust 实现中存在的一个问题。如果连接初始阶段出现了严</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=4&amp;sn=b16d32b490c1a7f2f45805d901034c99&amp;chksm=bc6ccb1e2459e0addee845d62c38d7a1c3052d54fb41242f87c945dfea67f5004f7d3525022a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 16:24:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[企业 AI：方法论易得，交付力难求]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhmGKia1cGOh4f7W6Bw2UsYy7AhJHLPAMnUaJHIotz0tBI77WzJjCpicniakqiaLPCHhUs3Rhicnq4dALpeIPmGIc0saD2Bn0heSPB0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 籍云、凌敏 前 言2026 年，全球 AI 总支出预计达到 2.6 万亿美元，同比增长 47%。但企业 AI 投得越多，矛盾就越尖锐——AI 应用要真正上生产，交付的就不能只是某个环节的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288289&amp;idx=1&amp;sn=43d010a702cc0892ee54f39cc5f82050&amp;chksm=bcbf7e9441de1beb9249185a31723caca224bdbb67269cc49c27e59e757b995e780ce019ca1c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaG0Gia4CIg66FAa6P7SNzDjqeyPKRV2VFMZuwmk5Ay4eICflPfYZHTHpXGgMiaI9GMGyIDjVJJq8bBCbMQoGG3S1ceRfKPfzWdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>策划｜AICon 全球人工智能开发与应用大会 编辑｜罗燕珊、Kitty过去两年，AI 行业经历了从“大模型能力竞赛”到“AI 应用落地竞赛”的快速转变。模型参数规模不断突破，推理成本持续下降，开源生态</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287713&amp;idx=2&amp;sn=da4a12a6db5bdbc5d977077b914b2a58&amp;chksm=bc471822d84853035fb3d91de1e79b715e5cdb639746540d578a8cc7b601676b1749a585e7c1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Jun 2026 16:36:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[内核级的真相：为什么 eBPF 正在取代基于用户空间的 Agent 成为安全可观测性的首选]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiattRdHNdKWEN3qR8fHia9J7KNtgeTS4Gzib3mT7YFvPJibPnoQMg1iaPNL6zfXgQPmRvm5bogcY5gfBpbDPtOIhSB8Wt2LUmmohvI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Niranjan Sharma 译者 | 张卫滨 核心要点应用层日志要依赖被监控进程本身的配合。如果进程被攻陷的话，它可以杀掉自己的 watchdog、篡改日志，或者干脆不生成日志。你的安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287713&amp;idx=3&amp;sn=7e2457fe3e33f8e4dd4b682b10fc5d0b&amp;chksm=bc0a776f538b875a8a708ebed6e04a2c4223008ea1ebca877c7a66c01cfbefd8cd00e89957b7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 16:36:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[优步通过实时信号与 Listwise 排序改进餐厅推荐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgWu9Rq942iaq7IMZ3nRtBWswfq3BmhwTovicIUm5D7DyrJPQwzrQs0JjX8aiblZRno3nKyN6a63odvtzN5qlAaUr417Mcw7XSGww/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 张卫滨 优步在其 Uber Eats推荐系统中引入了实时用户信号与 Listwise 排序方法，以改进餐厅发现的体验。该系统旨在更准确反映用户在活跃浏览会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287713&amp;idx=4&amp;sn=cef122370bc0b1ea2f9434e9f7ed7301&amp;chksm=bc07e561bcd93cae212c217ec2efc50b87e7c7777867658f8b5362cc4274713d4305613e8b22&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 16:36:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI可以用任何手段、写任何东西，但你得是个“中年老登”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhNwFxIAAesEXT2Td0q5NxEwklw9Re5AuQ4ibkiafiaicEpiaS5jbkicT7lT471gC63w5siakwJQGApFolJu1DR7mkxggjecglQknuEPM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜Tina 采访嘉宾｜黄东旭、徐昊、滕昱（按文中出场顺序） “我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”PingCAP 联合创始人兼 CTO 黄东旭在完成 db9 项目后这样说。做 d</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=1&amp;sn=08140f6d5bd0137872f8a8bda5e55e12&amp;chksm=bc3e873b4f4fce281274f2da52240cfe0b379416534b318428df473310733f0722c0f3ea9bcf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对话蚂蚁吴伟：训推一体池化调度，如何把GPU用到极限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjRhdYWMUwIBabjaPMT0ggb2zibqxu9VFBYyqhTYOdUyiciaBBrVQUoxibCojviaZPsuIllkcEibzOwoZrT5oEjXffp2tJZhVZNG56iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 吴伟审核｜李忠良策划 | AICon 全球人工智能开发与应用大会当 GPU 成为大模型时代最稀缺的生产资料，如何把每一张卡用到极致，已经不是一个成本优化问题，而是一个生存问题。今年 AICo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287639&amp;idx=2&amp;sn=e7ba685b72669645851d105c1910bc24&amp;chksm=bcea3bdf6f98150299c7fa25acd737654d5efcfbf46ec615766604a4f03ed955a29da4181f9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 11:25:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Vibe Coding到Harness—— 一套大仓AI工程化实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906zibCK7ibnolEYiadVQhfAd8icOVz68S2ic9gOPAg7cCLyWqJTVzicxGYNcZckU7eCptDIH4yeRjWCm5A5UcCdtwO830BpwYRibHj7xs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：fitchzheng、leoshli一篇属于后端微服务 + 前端微应用大仓的 Harness 实战分享。 不讲理念有多重要，只讲我们这一路是怎么搭起来、怎么撞墙、撞完怎么补的。写在前面这篇文章想</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802486&amp;idx=1&amp;sn=1d3872e7495a2a69857e9dcb5eb9c625&amp;chksm=bf396e2bc5867ad448498068203ded643c770bb9263d18b0722b35ca34d0624b939dd624e5c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元Hy3发布：Agent能力和产品体验跃升]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9062IdkEDBU4FaluuO4uQezUIo7loOzyZibnvZbRywyxF2PcAfywJKfcibPbNfFeEw3bD1xYvOUS4zwLYhDem12F6NdQa0XpnMVPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月6日，腾讯混元Hy3 正式发布。相比preview版本，它展现出显著强于同尺寸模型且比肩（参数规模2—5倍的）旗舰模型的智能水平，定价进一步降低，总体稳定性和性价比大幅提升。Hy3已在WorkBu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802443&amp;idx=1&amp;sn=0d38771c47e94c4108453b12184fac88&amp;chksm=bf568f31bbcffc73818e9035ddc1f9bfcfc6735f2f80622830f8f3aa754378307a77ce56ddf2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907J9UlLHsXCNg40kkibjTNVfz3pnicLdiciabxQibhtrr1TkQH8sSAerzVwhsz554nHndeCiaPpTaHffwj8XJ4LyLjiawWFWD0NfwicMdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者: yessitkong (微信基础架构 AI Infra 团队)引言在当今的互联网服务架构中，向量检索技术已成为推荐系统、搜索引擎、内容匹配等核心业务场景的关键组件。随着深度学习模型的广泛应用，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=2&amp;sn=1a1be219c59d8160d87b50d41cf27e5a&amp;chksm=bfcbaa90dd8ad0da6e55c66b5fa8731d43a14390608afab09db8166b5d02c26b71a3efcb0877&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工都Vibe Coding出了什么好玩的东西？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907BEu9sNy7mLhEdabZFPK9mwQ0zCy2icWJeD9qAQib04NRmNwnKuR2AGEiaPuMwaamAPET7ryzDhwP8ibuWrfNubMVGujE1QgPEloA/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景Vibe Coding，正在让“人人都是产品经理”成为可能。不需要代码基础，几句对话，一个念头，就能把“要是有这个工具就好了”的想法变成现实。在内部KM上看到有人纯Vibe Coding出了2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800857&amp;idx=1&amp;sn=3c347f08cdcc6e73a0c1cd8cd7de115d&amp;chksm=bf7371185749ba3ca625caf4c5425fcaf7d219e2e6b823ea6421cd426d1910c7ac6fa1d64529&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 19 Mar 2026 17:26:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[契约化多端架构：基于领域模型的Harness实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6WNyVVkhrQ4KpHEYc1qhTfed0sOXXspB7WEvxEUTnCv76m1cCCLtLTGy0MU2wTZAIEIdsTAPicbUr6ePCGb6xklHibobg2AAJY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作为一名老登前端开发，这两年深刻感受到大模型时代 AI 对软件工程带来的冲击——也被近年来 AI 各种范式大潮冲击了一遍又一遍。一路从提示词工程，再到上下文工程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696163&amp;idx=1&amp;sn=a06a9d22e50e1c099620a7f41a028ed2&amp;chksm=eb3d648f4c6db6427e14d903f66b66e699f73832cd8da76f1fc9a18b11d100960b9a273a5ea4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[架构师深度测评WorkBuddy：办公Agent的新范式已来！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4TtmiarDRHLbs7DRlF21xL1QavUzfwLDgRJ6GibTRniadQzbSLY2d9p5xYgzAYw8aEe6XoDfyr7jbh1jrf3iayhbV7oCNp92YIqWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2025年底，一款叫 OpenClaw 的开源 AI Agent 工具横空出世。因为 Logo 像只龙虾，因此国内都叫他小龙虾。之前所有的 AI 产品，本质上都</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696127&amp;idx=1&amp;sn=ba912eebb8eae61f879460add1832a77&amp;chksm=eb9dd861b0a3f7720eaf40e2c46ef62c18ddfdf32748db495ea7b74c3b95aec7273320139fad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr46NKogpz9a2nhLUgmawgyvicGMqC5453iaFFrgaeH05NB5fmbCqcJcGFAkdKyWU3p3TpMPv2eWLQJ4Im5mF8NlXpw5VI2vzUXLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇裸模型有四大硬伤：无记忆、不能执行代码、知识过时、无工作环境。Harness 六大组件逐一补救——文件系统管存储与版本；沙箱赋予代码自验证；AGENTS.md</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695065&amp;idx=1&amp;sn=d5b7af6f4c96167e4a57ceb6065b9d5e&amp;chksm=ebb24e6f766a1a1bb7fd9cb6b25c0fd1e2eceee4eebfd777b6fa29b4f3a66ab39777882d0af6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering 来了，SDD 还有意义吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr42atq3VgmicyDqY4feye4jH4s6cImld7lwxRMPxJmeX46kC9sgLVZQQgf5QYYk3V7fySYcGWHeicNdLQYtEsn3hJ7CPaE3BXeDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇最近，「Harness Engineering」这个概念在 AI 工程圈里热了起来——Mitchell Hashimoto（HashiCorp 联合创始人、Te</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695017&amp;idx=1&amp;sn=e37650a0f3334a69646fea9959c0297e&amp;chksm=eb510a1e5a639f120752067be73506e3ba6d9abd76d3b5c91445c23882e2b171d28d514ce3fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

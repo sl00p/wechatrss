@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicbk9aoZ0eNgDPJBsSpYr0LgV0ibnhSXXI8iaCSKo93OBFDic3ibiaSuMmeiabFs0vSWP5SXHMVU6zicpVvQaaR1AzdCVeGM0S1uBFE8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件脉络：从披露到大规模利用只用了 24 小时2026 年 5 月 14 日，微软通过 MSRC 公开披露 CVE-2026-42897，一处位于 Exchange Server Outlook We</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519409&amp;idx=1&amp;sn=dcc6363e9057f950e57e15f52e0efa1b&amp;chksm=ebe8ac1c376656b1139a0a7b860c12c4d7e493921fb7034cc97af90da25c5e16f93bf627fd81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 11:23:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【原创】Operation Phnom Penh:银狐Ghost分发商针对特定目标投递MODBEACON特马]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8sPof1Cdq1Z0qnOrSy2CjTN4v8pDZk1RThWYQ6JEtae4tSxCtvPfWfQbLbiaQ6bBWnuk67es07LSoK1pjPx7PmxwoFJu2y5Sicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景"银狐/UTG-Q-1000"长期被视作低水平、高活跃度、以 SEO 为渠道投递仿冒软件的黑产的代名词，但其背后实为多个分发商构成的、类似境外 Malware-as-a-Service (MaaS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519404&amp;idx=1&amp;sn=bc392b684e5ff71b85b2665540490421&amp;chksm=ebb3cdec5cde076eb2b46c4e09f04c6ace4e0c532d9dc0e8be0ee08144028d12ef92c9b3afbd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibnddQn69NBzuCF3cuInEBUgDd5nDAD0wlNS5vTXkepRBWNKZ1JFjJcCslBIIkmVEVGCFRfS4SbaZCtY9dzsrdicT5pXru02c80/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述LiteLLM 是一款应用广泛的开源 Python 库及 AI 网关（代理服务器），支持将 100 多种大语言模型 API 统一转换为 OpenAI 格式，常被集成到 AI 代理、MCP 服务器、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518101&amp;idx=1&amp;sn=b2d0d3b55c7cca6f53a1583fbc3cb5e1&amp;chksm=eb819a489c7cacabfa5e342bc89b9231c771fffb9308df06eb7aa51269c561d436781aba0483&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 21:14:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.03.13~03.19)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicNj2955pdhu6WY1kicRywuhGpq9PYAXeCMXoqIEKwpgkNYuU2EAlQVia53zR1qCL6kGvUtXxnUXfSTSXvQxQIJFzXr563HlugN4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.03.13~03.19攻击团伙情报海莲花组织针对我国重点目标钓鱼攻击活动分析Boggy Serpens 持续瞄准关键基础设施Operation GhostMail 活动利用Zimbra We</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518095&amp;idx=1&amp;sn=d9eac67d6ffe2fe7e779acb8422e19bb&amp;chksm=eb93e88ec0b9c4cb179a07dc11f44f221cfc8b118482ba7f3d0efc8744ca7189abad13e3df82&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

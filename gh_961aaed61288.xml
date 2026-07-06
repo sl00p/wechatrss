@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[没人能彻底搞懂Linux内核的3500万行代码！Linus谈未来演进：掌控“大局”、别指望Rust能修复所有Bug、486时代该结束了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjExP6mK39SwK8cds440xZhiajzZ84wl0hTibhh0F8zjTVQDB4fHA141RraGT9GfAHVkiaiaQrP2OT9KVqSzibeMW69MA3TfYcRKkkX3E/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）“我完全不反对 Rust，但我也希望降低大家对它的期待，不要认为 Rust 能够像魔法一样修复所有 Bug。”近日，Linux、Git 之父</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832902&amp;idx=1&amp;sn=dfd7cdc0ea3c839fe8bd37b2761b81c2&amp;chksm=c39c00a04abded3e45ff1df8469e861a70d9b5a3b02b41907896afdec263f0965308e4b37d32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:30:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[C盘“凭空”少了513GB，Win11又曝离谱Bug！拖了几个月，微软终于低调认错并修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzbDgUATN8qpBrGGh3oIjnyJNSJIxzjzQ8RxicicX4YMsY9dFaOM8K12r529gUPuIicJPHsNFgnaZjOQMPvWD0zz6QtX7LuhJncj8/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）不少 Windows 用户都有过这样的经历：电脑没装什么大型软件，也没有下载几个大文件，可 C 盘空间却越来越少。系统提示磁盘不足，清理缓存</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832902&amp;idx=2&amp;sn=b5b38c54dbe931ce6d1086e28785fd31&amp;chksm=c3a7e5222007078a3e45f579902caeebf8ba45cc30d6f74162c64e42bc7cd8a6a600689be223&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:30:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[昇腾开源软件极客营火热报名中，四天干货活动等你来！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEw9996ps4XtBp9W4I6t8Z66Jq45Ox8deZTqicyqTFXdGfJFAYYwNIyAiacPiaoUXvpP6Fedls7McFHOczSBaiapheX60h6RXOJ9icP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>戳“阅读原文”，立即报名吧!</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832836&amp;idx=1&amp;sn=4dbbfb20be0f674f85263825da7017c5&amp;chksm=c36fbb0dd1902c93470e70f5b5f0a5161a0969cd1bd844369e2ad385b12d2782746362ccccd0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwicFwUeXccNYekk28VGBztdQWic9TxPXWfv6NcZ9SBMHrA60SibRrWg2ntdg0WkhDqWRicYRwNV6XKwvgE7JcYXiaVNXD8ff0D1BYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）在键盘上多出一个“AI 专属按键”，听起来像是生产力的进化，但现实却有点“翻车”。过去两年里，随着 Windows 11 设备的更新换代，一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831131&amp;idx=3&amp;sn=85c957ea85c128bc06418737f847d979&amp;chksm=c39cfe2ab39cbcc059686cdfe4af2605d9bee2b4eef526724328aac8571fcdf474904a440d42&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 17:43:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这届 GitHub 万星 AI 项目，已经在真刀真枪替你干活了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEy22BcOibYcOoat8lk9sBXzpjArEEyiaDibrvUbdPw8pN0oOCm0yWMZJzFVAq2A8bIBBfOC8kMoYyDFeVKicTQexHRw5cGpoM7kSh0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近小编在 GitHub 上发现了一件有意思的事情。不知道大家还记不记得得 3 月底钉钉、飞书、企微纷纷布局 CLI 并宣布开源，彼时，大多数观察者将此事解读为“大厂跟进 CLI 趋势”的常规操作。毕</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831100&amp;idx=1&amp;sn=bc1c22d34dc8036ad93e55d1184ce21e&amp;chksm=c3e9c973033b55d1407e2b7efa6d19f4f266b8f2421c5412474c1115578caa7e5c2b8ed949fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 16:15:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[月耗890万元！OpenClaw之父晒AI账单引全网热议：30天调用6030亿Token、760万次API请求]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwXSAao1FicicURHCwyYnohgsXOTXYDLqictVjiaErSQ7CelTACMSHwibTyatSLXA99LcSHyIJJYVbD1mN3AQby7HevibxsRe69s7zz4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 苏宓出品 | CSDN（ID：CSDNnews）3 人团队，在 30 天内消耗 130.5 万美元，约合人民币 890 万元，调用 6030 亿个 Token，发起 760 万次 API 请</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247831100&amp;idx=2&amp;sn=1f923e16d6dfd8ef623d3b8f120b3b78&amp;chksm=c3cda08dfb1f6fa062a8d9f28b43a3e022875b5ab521b2d508ed42d70c8ac1204ae3b8d657a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 16:15:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

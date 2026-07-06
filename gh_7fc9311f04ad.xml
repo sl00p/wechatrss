@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Loop Engineering 实战：实现从日志扫描到预发部署的全自主闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zqD9TRzQE09PkAJ0DSRPoQ1icxxVhI5zlcXLlgwXBdqpJGTj7jW1xv4LERiaicXXKr5t8dIkibp7ZOpsEWtEyb0niaEu6aPY5cXLoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。1 引子：Loop Engineering 的目标不是写得更快，而是让你从维护循环里撤出来Boris Cherny 单日</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561365&amp;idx=1&amp;sn=dc15df2935aac46f3c1369a7d10bb95a&amp;chksm=e8b0cf4e7fb1e67260f0a5b6a0ff767eaaa0732aca7d6cf646798c4707e88603209235f0dd41&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AutoResearch-LLM：让 Agent 接手 LLM 训练优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xG5vf79WsNq4kNRv6XtLd5iamQyRjoYaudpFdfYo7UO4tofO24O0KI3kb3tUqTDozasaTeZagODzpRiaSqIqrpTiad7o9yxOaay0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是一份 LLM 微调 AutoResearch 落地实战。作者把过去几个月在电商场景（Query 改写 / 同款判定 / 重排打分）上做 Qwen3 微调时的完整流水线沉淀成一个由 Ag</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561366&amp;idx=1&amp;sn=d50229e8d5ebdc40a628493d218f43ab&amp;chksm=e88da904ea9df0026bb9b0ec7b25b1f518bc38c84d41343223dad4829b2c77f898e65ac41e77&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1w0EkDaujiabfqJc6CPiaoZecEy1hnBcIibFAB6q9H4AE4mtoEJnjD3qDwuQ1zndMRfHk3ah26VDvOkduicUbs5VAWyxNTYPdkPNbE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、引言：Anthropic Agent Skills的发展史起源：时间拨回2025年10月16日，Anthropic在 Claude 3.7 Sonnet / Opus 中正式推出 Claude S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559277&amp;idx=1&amp;sn=e52adeb87d78b837edc01fb1f6391f65&amp;chksm=e80c1d0c81ff1d68a39ffde4e93357e5e44519fd791586f0242d7a942ee92298b9d5c5164bd4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CoPaw深度解析：源码架构和功能实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zu8vcbBdzmdZ2z1NZ3JPicIEhykVZq0CibbcQZ90zWxw8d4xuH7icElXHricq7eSKQaE3qcepL0DWUnyQ1ojhQiaBJRusMLLAsVg6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>写在最前面，2月28日通义实验室AgentScope团队发布了自研的独立部署开源桌面Agent工具：CoPawhttps://copaw.agentscope.io/CoPaw是整体架构上类似open</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559269&amp;idx=1&amp;sn=a87c6b0f00c2ccee4a25901df995c65b&amp;chksm=e8d6c457fcd4ec67f45c5e77b9fe52eca89be8a7673d4a1999ab9afe49d81d0462ea70f9d1a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 31 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安卓逆向完整学习路线图公开！体系课打包带走更划算]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2nSEs4GuGuxw6RF3waRjY7v1CDnhvynicgpicFgsXFyjyGls8lFXFIVEU3X0rUdeJ5AwDYySWvZWib5AlKcTURPZhHwkg51esFSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=1&amp;sn=44084683df5e0aab5e6f289f9a289d62&amp;chksm=b03c97fedb57dd30088397e422ac9b5a040a16baf531a5d942342a7b3fd52b45cc0b18f7a7f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android 逆向 Multi-Agent 系统设计]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3fjw1qTSc1dSbFKEkuYYQFhZLWZbPiczbolFwEviaXzcKK9LHEz6yPdYRq5IN3HmvpXia48a7MXuXaQCC6bmV6Ipj2ysJ6S4dyhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章记录了一个面向 Android 逆向工程的 Multi-Agent 协作系统设计。不是教程，是一个正在落地的系统架构。动机很简单：逆向工程中大量工作是重复性的模式识别和数据处理，但关键判断点需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=2&amp;sn=944134e05c321c58adf12043ba1fc70f&amp;chksm=b0ead34fe749546ae3453e0287d80cbea9a75046108c51c478422b6c56fa37e51f7ed3bae864&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[潜伏16年！KVM 跨架构逃逸漏洞曝光，AWS、GCP 全线告急]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0icuibcugp5l5NZTFiadaLyqo5JHQqbXSjjBYYB0t8OvpH4jrsFTIJIicSOicl6Rzf1Bm7ONSjdLOXLsdbafYjAxn7wJbGBAb4zJ9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，研究员Hyunwoo Kim公开了代号为 Januscape（CVE编号：CVE-2026-53359）的Linux KVM高危缺陷。这枚从2010年就写入内核代码的漏洞，整整潜伏了16年才被发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=3&amp;sn=79c21f6f53344bd046ddfeac65446951&amp;chksm=b0df912ef27332f6dd54140e3848e26b12bab5e6c342d5c9cc0cbd72fc84baa1a4da2f29b1cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 07 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[整理Windows 全架构 Hook 技术图谱：从 Ring3 到固件层 34 种实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2ribYMmNxvfUmpLicvkY01vJFQwXll3Y4HicO8rNgDFpyVJxfS6iahy0tMPLqiafjKGL9soabxEMfseIfpRrPytYNdjTa2ianxx7icXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>从最容易被检测的用户态 Hook，到理论上无法被静态发现的 Hypervisor 级 Hook，按隐蔽性从低到高排列。每种技术均提供完整可编译的实现代码。第一层：用户态 Hook（Ring 3）用户态</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=1&amp;sn=5bb9c918f99546ab31778053178b87d1&amp;chksm=b0d24c1efb217409c42d1adccb968e0a93657856e3ad057f3fc8d5c89a621d2e1e80ea05b980&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=3&amp;sn=a642f8975a6c6df93a16596cc40c81e2&amp;chksm=b0224f8dce5923f8ebf2743f26e8070537f2688e7bc9ceeedc30803a2fcf586f9e6adcb03ac3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于 Seccomp-notify 的 Binder 事务级无 Hook 代理机制研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1VMFO1HLiaY9Npv9Ty7v6KykladE32rT0GyKQleotKT2ynfYWzB0Sxzk7fbkKNhicQjRojukibYdOFsQGBQvJI938yzLH61DKicL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍一种基于 Seccomp-notify 的 Binder 服务代理实现方案，作为对既有 Syscall 与 Binder 运行时代理思路的一种扩展与重构。早期方案通过 GotHook 拦截 B</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=1&amp;sn=8b6277f3ca925b58dc4d1a71e9862296&amp;chksm=b06b3424b114c385fc6a8dc57665dc6b4d0a29995cf15153861cdade93a9a1c05d8be0f9a3ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪科技获评【华为终端安全2025年度优秀合作伙伴】]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GH7nBX7dlY2Y2eVXxw8FXoHKzYMjmianb5Vl8Bh3ulcvRe1Q3laSrlNhHHmtq9pGb22SSSibFV5Felmmlc6Y1wAFmWosUIglK8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年6月13日，华为安全应急响应中心正式发布2025年度华为终端安全奖励计划榜单。上海看雪科技有限公司凭借过去一年为华为终端安全提供的优质技术支持与深度协作贡献，成功获评【华为终端安全2025年</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=2&amp;sn=04f68e72e71fb28cb722e50cbeb90c7d&amp;chksm=b0270a788b669236266d4d4ee20be3977ab6df2187775b7206943ed1be32fb4079dd3d64af23&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客盯上Arch Linux用户：超20个AUR软件包被植入了后门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3xRlDxXMMaLNl0rYwTurSulicpgyMjryA9Ece7Bqfs0IwtIRRKzLqK8yo2QuedRgshibIriaiaib8mfsSrqFcYJIvZhzAJhd53Ugv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究公司Sonatype近日披露了一起代号为“Atomic Arch”的恶意攻击活动。黑客没有直接攻击Linux内核，也没有爆破用户密码，而是选择了一条更隐蔽的路——钻了开源社区“软件包所有权转移</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616563&amp;idx=3&amp;sn=29fa920831813a37d28efaa959d7b53e&amp;chksm=b0ad2433958a7547312006da0d8faf1d96afc6556c698a829e07c52a9d6ad3f6bb52a5aba58b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
