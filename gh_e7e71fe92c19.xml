@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[libmsaoaidsec.so 检测监测——绕过 Hook 脚本]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K03TumkmaKMvxcPL3M45jbrXibHmR8o36bssZGWgFSz3ULB8lkQj5JLxibS9icd3KXYjTyKPSGf7RRrVZ11flvtkz0kicHI4QVrRqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、问题背景在 Android Native 安全分析中，很多安全组件并不会等到 JNI_OnLoad 后才启动检测，而是会将部分关键逻辑放在.init **、** .init_proc 或 .ini</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617391&amp;idx=1&amp;sn=099fa5e378a9ae12ec380610788d2f83&amp;chksm=b08748c86c0b9eb8c01c6decab72b07f8ea51961618cd078f142100636c67a9f780152c62bb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[工信部预警！Claude Code 暗藏安全后门，以下版本立即卸载或升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Iib27EGN7yG7JQFAOoBQjZMTbbjHPWBMU2phhNg5FPuAmRtL6Jk42VhzhYlDsA7CUNN2xFicQNib4feu7PapmjpUoibYM9LdVc30/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）正式发布风险提示：美国Anthropic公司旗下的热门AI编程工具Claude Code，被证实存在安全后门隐患，可未经授权回传用户敏感信</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617391&amp;idx=2&amp;sn=7aa95e88a6b6a254b07514f18b78dc38&amp;chksm=b004df31d5e39a86b2738be29793c7ab2b4e78d6997738376a35b2645c000e600ed48e58d346&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【本周课时更新】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周更新3节在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617391&amp;idx=3&amp;sn=23bd9d2c0f2a355444067880350c05e0&amp;chksm=b0fce3e6a69dda9879f47d8899efee3db9031ce765d20890d77d979fcbe167970a3ee99a87ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[安卓逆向完整学习路线图公开！体系课打包带走更划算]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2nSEs4GuGuxw6RF3waRjY7v1CDnhvynicgpicFgsXFyjyGls8lFXFIVEU3X0rUdeJ5AwDYySWvZWib5AlKcTURPZhHwkg51esFSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=1&amp;sn=44084683df5e0aab5e6f289f9a289d62&amp;chksm=b03c97fedb57dd30088397e422ac9b5a040a16baf531a5d942342a7b3fd52b45cc0b18f7a7f8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0r2f3Tj1jqXiaOsnXMicPPY4icXC1jicNy3wJQCIorgMBibJoC9XnmV8Trs1WjMxQbOJFB80fI4icCqIGHBiabjDEllPu35vENQusprU/640?wxtype=jpeg&amp;wxfrom=0"/><p>ARM64 Android GKI 内核模块实战：SELinux、vermagic、BTI、PAC、SCS、CFI 与 mrdump本文是系列第二篇。第一篇讲述了如何通过 ELF 格式转换，将用户空间</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=2&amp;sn=bef4d5e72317a35c94b6d9a35359930f&amp;chksm=b0c60f834b3ea2d0ad82259d794ae934fd6843f172bb4f0982e9024f7204a0e242d69cd793f3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[打破传统AI逆向的新思路：多Agent、自主管理上下文 - 逆向思路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0bA8XvolGgEAHBxL0dGcT9picGGmUJpcT6jmXhGwm75LTiaq28fLCmbGIolOJZ4OCcQibAW1syRAGiaUk2ehBc4ngBjTO7cwu2D6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>本人使用AI逆向和AI开发已经两年时间（目前是在做Agent开发），从纯粹网页时代的GPT辅助逆向到Claude3.5，到后面的AI爆发时代的GLM5.1，Claude4.7等等。看到很多人用ai逆向</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=1&amp;sn=da033ac7ab96ce635d060973a467e970&amp;chksm=b01291e6ade98c412fc5ec62f2340a0a93a07d082ccfde75431a3c32bb7b2d122f102541d951&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无需交互即可提权至SYSTEM！微软承认Defender曝“RoguePlanet”高危零日漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3sSyTXkNqh04spd8biaQ03r0icLGzYqY74iahnVbaEogR1iczn5UvjL0geQhWILuLrGfJ8zhWPvic4mFCVJbyISwYWhy8ibw7c8eUhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚，微软安全响应中心正式确认了一个公开代号为 “RoguePlanet” 的 Microsoft Defender 零日漏洞。漏洞编号 CVE-2026-50656，CVSS 3.1 评分7.8，属</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=2&amp;sn=cdffb0e31362c473f09b0712e981f34c&amp;chksm=b086a43147c25c7a870e451bae47bb2277027750c28bc0cf9ea8d406e02823cec4e210d7bcae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【618满减优惠】利用AI人工智能辅助逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616781&amp;idx=3&amp;sn=a642f8975a6c6df93a16596cc40c81e2&amp;chksm=b0224f8dce5923f8ebf2743f26e8070537f2688e7bc9ceeedc30803a2fcf586f9e6adcb03ac3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

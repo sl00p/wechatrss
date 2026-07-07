@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[精打细算虾养成指南： 省 Token 和把 AI 用好，从来就是一件事]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者： Kario Chen我最开始用龙虾，也是 Opus 从头到尾，觉得这样才算是释放了最大的生产力。随着 token 越来越不够用，我开始持续探索节省 token 的方案， 越深入越发现：真正的省</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802494&amp;idx=1&amp;sn=b9882f78a98dd26657b573d0f14eea8a&amp;chksm=bf387691ee59790a5d52db1d10fe9e615e637a95f628c4ebc573c50de8110265d028ad6025e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:35:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Vibe Coding到Harness—— 一套大仓AI工程化实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906zibCK7ibnolEYiadVQhfAd8icOVz68S2ic9gOPAg7cCLyWqJTVzicxGYNcZckU7eCptDIH4yeRjWCm5A5UcCdtwO830BpwYRibHj7xs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：fitchzheng、leoshli一篇属于后端微服务 + 前端微应用大仓的 Harness 实战分享。 不讲理念有多重要，只讲我们这一路是怎么搭起来、怎么撞墙、撞完怎么补的。写在前面这篇文章想</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802486&amp;idx=1&amp;sn=1d3872e7495a2a69857e9dcb5eb9c625&amp;chksm=bf396e2bc5867ad448498068203ded643c770bb9263d18b0722b35ca34d0624b939dd624e5c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[英伟达GPU全系列硬核科普手册：一文读懂NVIDIA芯片的定位、规格与应用场景]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907XeDof269zWCRZh5Izt92wuAqIAKllLzuAtEhTOKBPPujYYiaPCSLZ7ic8lPmKXFwdnNgzGSSdl4OkRwl36HFia36EdS5fU4Qic5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：nickycaoH20、L20、A800、RTX 50 系…… 英伟达 GPU 家族庞大又难记？游戏、设计、AI 训练、推理到底该选哪款？别再被型号绕晕！这篇全网最全图解指南，从入门到旗舰、从消</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=1&amp;sn=38323b9e55613e92145c904cb1eae74c&amp;chksm=bf51c732981f44a80369decf8fd953c8d9da6be7bc7ab8bec9c1505f7180e76c5b93076eddad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[探索 GPU 加速向量检索：NVDIA Cagra 在微信大规模推荐系统中的应用实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907J9UlLHsXCNg40kkibjTNVfz3pnicLdiciabxQibhtrr1TkQH8sSAerzVwhsz554nHndeCiaPpTaHffwj8XJ4LyLjiawWFWD0NfwicMdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者: yessitkong (微信基础架构 AI Infra 团队)引言在当今的互联网服务架构中，向量检索技术已成为推荐系统、搜索引擎、内容匹配等核心业务场景的关键组件。随着深度学习模型的广泛应用，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=2&amp;sn=1a1be219c59d8160d87b50d41cf27e5a&amp;chksm=bfcbaa90dd8ad0da6e55c66b5fa8731d43a14390608afab09db8166b5d02c26b71a3efcb0877&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>

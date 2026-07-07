@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从传统蠕虫到 AI Agent 驱动攻击链：自动化攻击的下一次演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun7qZKhmguNVib8tjddERYJPeI1wgTmalibibiamD2UMTiaweend9CaElbSO8BviclFCm6geHCsQeiagqEwhksuwpwMSPxRNZiaR40KGfLE/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去，蠕虫是恶意代码自动化形态之一：一段固定程序被释放后，能够自动发现目标、利用漏洞、复制自身，并在网络中持续扩散。WannaCry 这类事件说明，自动化一旦和规模化传播结合，就会迅速放大单个漏洞的破</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530206&amp;idx=1&amp;sn=1f140369a555316b5727405383a18fb4&amp;chksm=c15a870a8c3f460a59ff8753698c46dbcccef6ab4b384ef5fe482fcfa1267dbb29d1577e4073&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 18:53:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯云安全专家上线WorkBuddy]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun47pDKfqVSaxicDQEEu82h4zxNkTJy1H9rFKFo6YqXdnibzGKhlwFcuJEapPWkjchUibFAwstoFDEzhiaQDRPLhox3EO9XdPNwkgico/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全运营时常需要跨产品拉数据、对接口、拼周报，时常担心查不全、算不对。云安全运营里这件重复又容易出错的活，我们在 WorkBuddy 上线了 AI安全专家来干，只需告诉它需求，就能跨产品查全数据、理清</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530161&amp;idx=1&amp;sn=0a9f84360d478148d6cd9a8bcf709176&amp;chksm=c142129ba334eae0aa6f3326a5d2b7e7f9be47a4e9d9282813ab5b0eff4b500fd15c2f51f376&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdelSOSa4kgRRm89jU44nqCZYOwp7r1xe3HwaMQcefV4w3pD3BCYR1TEU0Fw4eRpuTAaibicV8IbUFAibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要云上攻击早已进入"后漏洞利用"时代。攻击者不再满足于"能打进去"，而是追求"打进去能赚钱"。当我们分析这些入侵记录时，一个残酷的现实浮出水面：近六成成功入侵目的是挖矿，其它被肉鸡而导致的安全事件、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528821&amp;idx=1&amp;sn=b10bdd7fa503e75b814d9cde0dd1297f&amp;chksm=c110a05b6904b82f98aa3ae452232fab0ec43a606696fdb9b69e0852d95d88a5f9e2482abac2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Jan 2026 17:47:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[React高危漏洞，腾讯云全系安全产品一键防护]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OJbMFMZkdeljVDJsD1v5AOhxzsrDCOPxvaO2fKDVCOLYoOq5WwuYDZ5icrkcTzocpeXBvfoicyrJJviaaUCosexgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞速览近日，腾讯云安全云鼎实验室监控到React与Next.js官方团同时发布紧急安全公告，披露了一个严重的远程代码执行漏洞。React 编号 CVE-2025-55182，对应 next.js 编</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247528736&amp;idx=1&amp;sn=8c6561f3151382c0294a36410ce2c96a&amp;chksm=c1918d256cb5d4fe2b7864705c58883a79dbf562073c10efc5c4c7a710d93de2929bc9d65e8c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 05 Dec 2025 18:04:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

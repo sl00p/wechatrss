@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Harness 工程实践：如何让 Agent 完成自主迭代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6vlpS4GFBtibQXiabMj152YGSibAVvj8YyCZU8xaLqKmSPuyScB0hgicuBexGgvVTPt8cSUSicJCiaG3hRKkbunjfYzVTxTOvhHfvTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 32 篇文章（ 本文阅读时间：约20分钟 ）前言一个人一天最多跑一次迭代实验，但每周上百个 badcase 追着我们跑，这是团队今年年初的状态。我们负责一个服务大规模用户的线上业务</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509988&amp;idx=1&amp;sn=077f18a5e969437efceb13f31d13bf73&amp;chksm=ce3ac6937d43502cf36e9eb85687595b6c1c7372058d06dd7e97835e1494cdec186a7338f860&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 19:36:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[硬核少年技术节5.0抢鲜看！四大AI成果首发，报名即将截止]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz75jbiaZDNnqdMRIchBnhSlTu60icbh3JVxxfLu0x0PCeQWTC5TcLvOzib3IMjUtciaRib2cxYibcGlgicDuChFlJDwplyib4fe2CLWufw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月20日至24日，横跨阿里巴巴淘天集团与ATH事业群的年度最大技术节日——硬核少年技术节5.0将在杭州和北京两地同步启幕。为期一周的技术节涵盖技术市集、博见社、Openday、AI Hackatho</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509988&amp;idx=2&amp;sn=d9bf2c3466714c8c59fd844419f90d88&amp;chksm=ced52ce241d739deb7648791e7a0abd4b988fd6a4c497576686aad848232d9ac091666352f6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 19:36:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz58iaKIOWSzkkgImpRbvpFD4s9f6qc10QlHqHT4Fz7Et25uibL3uluEfGK1n2kdem72TSAnzDu89VS8Jp4Gn4V0UNPYuG9ibTEZfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 31 篇文章（ 本文阅读时间：约15分钟 ）01当 AI 开始写代码，「敢不敢发」成了新问题先看一组数据：a1 CLI（一款统一研发命令行工具）—— 数十万行 Go 代码，数百个命</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509947&amp;idx=1&amp;sn=7d2cc8a374fb1454aeab9ca90ef28f5d&amp;chksm=cef20f0293dce938e0a4283f199d5df6a214107cd20c7bfcc394b7a5d6ab040397dff7f9188a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCRea9SPPsJetD9Dj35VJZCu3ZJRNbe0dSjXsZ2xGNicE5BY1xiaPpoESAKMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第116篇文章（ 本文阅读时间：15分钟 ）参考Langchain的这篇文章[1]，面对目前我们常见Chat模式的Agent形态以外，还可以充分发挥Agent新的运行形态：自主持续运行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=1&amp;sn=87d6507695c6cba045838c1f82ecd28c&amp;chksm=cece7934c3be4f72f354514c199e51dd627698b114abf6f2562bb2034cf34e2ab7c149b2d895&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI算法开源｜Logics-Parsing：攻克PDF复杂文档端到端结构化处理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FEzllyicTEMC4m2APSKCReaeVQfOLO4FbWnwXbJTRtHkmocbNoowMumlD0bHjevSrtoeBvJRDAu3g/640?wxtype=jpeg&amp;wxfrom=0"/><p>在工作学习中，我们时常有要将图片或PDF内容提取出来的诉求，而当前各工具的提取结果难以令人满意，例如：· 手写的错题整理成电子笔记· 参考资料中表格放进汇报PPT· 化学等专业领域论文编辑使用当资料中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508871&amp;idx=2&amp;sn=5813230b041d34229b9c86a2944c93b8&amp;chksm=ce51c64970e7409a2f45923256d66121f341f68c2637de4b0b16299dee26f1ebf5d22b329a5f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qoder + ADB Supabase ：5分钟GET超火AI手办生图APP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GQNTau4eE41awIgPdWnVQc5F4EPCjAhSJ8dPx8mFlHxyDl9AjmcbRLAUfMMqiby5TZycOAjPy4GhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>视频效果：01前言在AI原生应用开发的时代，传统的后端架构正在被重新定义。本文将带你体验如何使用 Qoder、阿里云ADB Supabase 和通义千问图像编辑模型（Qwen Image Edit），</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508855&amp;idx=1&amp;sn=41170c2eb4d47db741341aaa23362cfb&amp;chksm=ce576a99a8b8afc9f24a83ae0eb58b50c1a890c06f69732318609f2facd909c8f6cb40161113&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

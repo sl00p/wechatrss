@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI把代码写崩，再花1周1万美元请人用AI修：Vibe Coding的荒诞闭环出现了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiazf0gB9RVNzLIE1zdycOp4E7ibgeLzkR8PgQy73TR2J0Dqky83kVQo5CFh0lqe7qJibqF2wJ1icCI83Lxf4VibNyibicoFmibm4aDH5w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 一种新的、因 AI 代码泛滥而出现的生意来了。由 3 名资深工程师组成的团队 Slopfix，开始专门从事清理由 AI 生成、能够运行但难以维护的代码库的工作。其主要服务对象是已经使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288405&amp;idx=1&amp;sn=a460d375891136aa2b4be97bbe27d822&amp;chksm=bc68844c1d123c23ea07d5acf02c233aac1bd7717dfdf1d8d7dfd1348cd229c5904464f8d5ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 13:28:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjwibytQLJffHXUVdAelSXVqvNcetmbqB8BSazic9e2ibTW6Z4IX3qXXNaicF5MGpnQR3eicNopSQfEB4IEFf1bACuA4tljG7UA6I3w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 Mythos 为什么成了全球安全行业的信号 过去几个月，Anthropic 的 Mythos 模型持续成为全球网络安全行业关注的焦点。今年 4 月，Anthropic 启动 Proje</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288405&amp;idx=2&amp;sn=7b6120057556e1541f7b4da856f1f74f&amp;chksm=bceebaca781a503b63c9df0d54f20ad10c740dc83cf94f3801111b049377de0268b661e04376&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 13:28:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgUKic7vC7jKTZTDYwD75cEzglTPj9iak46UibzopWd2Lqz4icttHPmEVDetgNrPWsMjfUkgBKgiakyhkPlssh5AOPEptEnh9Nc33DY/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读：快手 AB 指标生产场景从 Spark 切换到 Doris 提速 145 倍、资源消耗下降 72%，并刷新了 Doris 单机群最大规模：2000 节点、10 万核。本文介绍快手数据平台团队为什</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288405&amp;idx=3&amp;sn=359d27798276a14973ac20dac28505c4&amp;chksm=bc22b33c48839f0d538a8ba684648a88008dd5c36b1aeeeaca55db1462c5f1646052f155ee77&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 13:28:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Infra 拼什么？| 直播预告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg48ALV4Mvx3NWToU37xmlTia1DxOCOh7taInp2j48Xre601SVlJJwFjp0f5QniaKm2umC0oiccx3BYpY34VhHiarQ8eiajsF8okRU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>模型越强，AI Infra 的竞争逻辑正在被重新定义。7月8日20:00，vLLM、范式智能、华为的技术专家同台，拆解推理工程最前沿，探寻 AI Infra 的下一站。直播介绍直播时间7 月 8 日</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288405&amp;idx=4&amp;sn=0077cf733faec2f9176821a75eccf1da&amp;chksm=bc3c7e519d2cf6108a9bd0fec7e0c0df0d546a8d9d8c04ab08b962555c64148752181392058f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 13:28:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“如果你不能用300行代码写个Cursor，这行你就别待了！”Ralph Loop创造者、Claude Code核心技术设计者的暴论]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjriagSS1fqwEia3ibAwrTTP3YbkADFrpoZbJyZKSN3OjZzfQ01yblz277LXyVrV6Wf4ag1kWPKMnlnInfAicWyOia5SSDe8OMFEZ7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪 策划 | Tina “软件开发已经死了，因为现在任何人都可以成为软件开发者。过去六个月的变化比过去三十年都多，而大多数工程师还在当 Jira 工单猴子，浑然不觉自己已经站在了悬崖边上。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=1&amp;sn=d257a460cae156cb4388b2ad571ffd00&amp;chksm=bcd184d3746a845fa2f6b5a25574a5b46b35772cbb6cf58f9964a37f74a26c899953cb874e1e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjrVansLeNBWTvad7VX1aMrc7ah4Nxy6bEmZicgSRnnRaqiax2A8eceibSy15icia2icBlefo13st9QwBiblVn4ZLESddGY0gwiaNJmPSI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 张卫滨 谷歌的 Angular 团队发布了 angular/skills，这是一个专门的智能体 Skills 仓库，用于教会 AI 编程智能体编写现代化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287750&amp;idx=3&amp;sn=9e5cefcd8712bc30a9c4f6ffc5013d8f&amp;chksm=bcd823fc526c7af1b1475023fcff76a87c353fd09efde7df3c16e2ce4727e2584c3df00755c9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 14:05:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Netflix 如何实时绘制数千个微服务的拓扑图]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiackmEWr0uxkOPHoC7sPibMyCx9sfibbCoK5wKhDibAQUiaE2icyhSAYI1Ll8lubQ56G8miazPndNlaEcjX4mGPCAZF0zXoiayVpauW74/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Claudio Masolo 译者 | 张卫滨 Netflix分享 了有关 Service Topology 的细节。该内部系统为数千个微服务创建并维护一个实时依赖关系图，帮助工程师了解服务</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287750&amp;idx=4&amp;sn=906ce0c3bec57a2c7afa8433a67e6340&amp;chksm=bc70a7693d9c75859ffb07080865ad9124926fc2c12f2488c188b0ad7b4bf754d5c9dda80278&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 14:05:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhZwWQibMYlN6JfAK9xgxsH9glL5bLmCHwfdbAlUaAUtNvumC4GcticCnm7O8Du4xAvOtx7pFpyTO1usZFYC8glqzkibzCUljDbvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？6 月 26 日 -6 月 27 日，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287750&amp;idx=5&amp;sn=5542d9530dfff831c9101a20aec01be4&amp;chksm=bc0c2e4d9dafcd3d7238a3da26ebe90c8c9f3b309c7cbcb8a51cbf635005862a3abbe3d134dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 14:05:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjX2AWljSkMJwO7buicKmdf0ADfu6FajhFOPl6yh4k3tIznrmEHc9v5DeJHgmibGiaEZL1yDxNiaKSaM9mqHHuC4ic2aIlvicPAMMticg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅1 具身智能下半场，得“第一视角”者得天下最近几个月，具身智能赛道太火了。这种火爆在资本侧体现得尤为明显。仅 6 月前 17 天，具身智能赛道就发生了 11 起投融资事件。6 月 16 日，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287713&amp;idx=1&amp;sn=af89a53852b088b81919a360bc49fa07&amp;chksm=bc1a04ef7e7007b1c345a7fce51ee81aecfbc349003ad7d2c7657a77ed8a9cdab99e5ca35aff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 16:36:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AICon 深圳 2026 启动｜Agent 时代，哪些方向正在成为行业关键变量？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaG0Gia4CIg66FAa6P7SNzDjqeyPKRV2VFMZuwmk5Ay4eICflPfYZHTHpXGgMiaI9GMGyIDjVJJq8bBCbMQoGG3S1ceRfKPfzWdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>策划｜AICon 全球人工智能开发与应用大会 编辑｜罗燕珊、Kitty过去两年，AI 行业经历了从“大模型能力竞赛”到“AI 应用落地竞赛”的快速转变。模型参数规模不断突破，推理成本持续下降，开源生态</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287713&amp;idx=2&amp;sn=da4a12a6db5bdbc5d977077b914b2a58&amp;chksm=bc471822d84853035fb3d91de1e79b715e5cdb639746540d578a8cc7b601676b1749a585e7c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 16:36:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

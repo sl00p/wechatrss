@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[公开GitHub Issue可诱骗AI泄露私有数据，绕过防护仅需一词]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ibbSbOibqIaerXFOjlGHibYK9Apv5D3YMqHv4P5CAgKVnjVsVeVtMtgQUIKnhVaBfmryV3sdeQ3Q5GVQ4NCdeic696ero5JpQhhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Noma Security研究人员发现，攻击者只需在公开仓库创建一个看似正常的issue，无需窃取凭证或获取组织访问权限，就能诱使GitHub Agentic Workflows泄露组织私有仓库内容。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=1&amp;sn=81701698d2244e88fb746d9f92c1b9c5&amp;chksm=bcced7098a97eaa2ca2537fa2569fcd73c15afb7991e31b0cc3bc809ba9705b9064e2dc2482a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI据称获美国政府批准，即将全面发布GPT-5.6模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ib0e22K2BQGYOP6CYqUzkE3aCFsRgJ9nrkWx8XSFs08r2ohsNCbMDE1hibQMJnHibylK5JWbAbdQuISeDdIKRS2RdE88a7tufIE/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，OpenAI已获得美国商务部批准，将全面公开发布其先进的GPT-5.6模型。这一事件标志着华盛顿在监管前沿AI系统访问权限方面的重要转折。知情人士周二向Axios证实了这一进展，预计OpenA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=2&amp;sn=1891ad621a7ca00dc44d56a7834c4154&amp;chksm=bc4feb3ab5e476f35edfe359cc593591c15da1f8c6f8d8e4ee95abe56c0984196d1625479497&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[潜伏16年的Linux KVM漏洞可致虚拟机逃逸，威胁宿主机内核安全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0hpkC3nI7X3dbiaeKyqpiaibJfzXMB4xgFMyYWT0DzZkqbD4ibrrQg83GRbB9Kbr6DtyvJjpExForm1vjuMAFZD62IPsDSCoRzodw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新披露的Linux内核虚拟机（KVM）漏洞（CVE-2026-53359）被命名为"Januscape"，该漏洞允许恶意虚拟机破坏宿主机内核内存，从而打破虚拟化的基本隔离保障。这个潜伏近16年的漏洞影</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=3&amp;sn=13d6cd9d0614e47984fa608280a69335&amp;chksm=bcf1998f92171a017fcebe0aa1b269164678590a7b87ede686726baff4fd6b396cbb61fd2fa6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[渗透测试Agent套件：面向Claude Code等7大AI编程工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1nTAiaqrJcpuB90SNp7G9BnB2l9aQMG70XunqxibDkDjaWA2UYrHia39RtIuFAZ1LJHibWGHumGcM3pN94WpibTypFKr6Efxme49BU/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员H-mmer在GitHub开源了名为Pentest Agent Suite的全自动漏洞赏金框架，该套件包含50个专项安全Agent、26条斜杠命令、19个CLI工具以及跨IDE安装程序，支持C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=4&amp;sn=16224ff02845f1ebb92de177d0f6634d&amp;chksm=bc8db5b77b8b212a28e7225b7e1c54160e59312ceba1be08b220837b1fc820aee9f8c5a72805&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[网安同路人请就位，你的专属兴趣小组来啦]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1OA6biaNFrHo6GYy6LibvzyibbrF9PpGZ2HAYCg25pgbhV9kJE4DJeQC2IGlwZEBJRjlAgAhBsnESyX5gnqiauQHCrWBlvq7O2Vo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342109&amp;idx=1&amp;sn=4c74a063026d98f3fe35d7cda66fa69f&amp;chksm=bc47ffe5b1b01bd108a48b95a4237913cdd99779a7bc17e9095fb95fcc1b49cacb6118a4167a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2p3Qj7nc4KVZjQF9hzXbJfkza1KGSnGctnKMaTRugm22gAJWdVVBiaNOBxB9yHLn63EZ0amsLTRRwYGK42GmMS6cmB8fBXhosE/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对关键 libssh2 远程代码执行漏洞（CVE-2026-55200）的概念验证（PoC）利用代码已公开，这将显著增加未打补丁系统遭受实际攻击的风险。Part01漏洞技术分析该漏洞影响 libss</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=4&amp;sn=7ae16553f47d00776bb3270dc0cae79f&amp;chksm=bc8db277acfc5db2a77f078d6a522ecc253cd169feca04de24fb05d4b8b67815b0d15810c40e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Dify漏洞可致攻击者跨租户窃听AI数据，超百万应用受影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ia6nKxibDbals4LsO0DB2cj8PyEl0nd6awahXD9CwDl5qauRGB2OzIouicex2ZAbj3o6biaiaJmrXYxbViaLyopBrNujoCazF2ZaKg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Dify平台存在的多个高危漏洞可能导致敏感AI数据在租户间泄露，潜在影响超过100万个应用程序。该平台为AI工作流、聊天机器人和检索增强生成（RAG）管道提供支持，已被沃尔沃、马士基、松下和赛默飞世尔</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341130&amp;idx=1&amp;sn=ee8a4e49273c82da52f6a74578a39477&amp;chksm=bc6e357170728e812cf53a9a781d0f899aa3b00717bcc376bd52f52d036eb9ef0e9cfc4ba75f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看个视频就中招？高危FFmpeg漏洞可使攻击者将媒体文件武器化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2eFHibyZ90UbU78PJ78PRFSFV5Jz7v7364XlR7Z6lJFIxqq923OqibA99x6DmMEPptnt0YAZ63q7W3XQA1Ungr0v5klwt7xGZD8/640?wxtype=jpeg&amp;wxfrom=0"/><p>FFmpeg的MagicYUV解码器曝出高危漏洞（CVE-2026-8461），攻击者可利用该漏洞将看似无害的媒体文件武器化，在某些场景下甚至能实现远程代码执行（RCE）。该漏洞被命名为"PixelS</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341130&amp;idx=2&amp;sn=506c59a7d6baf52c1349d9d24ec7a031&amp;chksm=bc1195f29031d13ae8de7973d27fa01635ed2b5e67fd7406090824a6ecfdc1e4f9c3c129ae4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三星KNOX内核UAF漏洞可完全控制Galaxy设备，数百万用户面临风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1GOoia7xGRu5zOBvpLqxJa1AbRgK8uSBkdic307zOkslJ8tKeAYiaQhWU4pzCDhCNApz4k5iaRM71lHHstRAcG4Gv24Qib4q76KXHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员在三星KNOX安全框架中发现一个高危内核漏洞（CVE-2026-20971），该漏洞存在于PROCA与FIVE两个内核子系统的交互过程中，可导致内存释放后重用（UAF）问题。三星已于2026年</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341130&amp;idx=3&amp;sn=541df5673860d9c57a7c1b87a80e74e8&amp;chksm=bc5a6a7574af6635cbbebf60ba0730a3bae8b7f20495a942f0af5ad004ed7270adaf249e1c56&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客组织 Scattered Spider 入侵伦敦交通局内网致重大损失]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX12NbWdBAL9tkNJD5Yuo6rEnvO7fgF75CibrvrRXPGfq5CmaoAIUuYrlp6KphUZG8Vq0ZQUwUHXjyKRXujr6vzN69N7zESINRwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Scattered Spider 网络犯罪组织的两名成员已对入侵伦敦交通局（TfL）系统认罪，此次攻击造成严重服务中断，预估损失达2900万英镑。来自东伦敦的20岁男子Thalha Jubair与西米</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341130&amp;idx=4&amp;sn=e9c4e7328a3439c3c55b23478e9402d8&amp;chksm=bc2e7de1b278d1f6315d95f31036937d5955f31424d05286c6a23dcf3e91e3c2690edb1cf53b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

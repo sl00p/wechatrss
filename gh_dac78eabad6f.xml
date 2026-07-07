@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[WorkBuddy 首个OPC社区启动，首期训练营开放招募]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4S3YH0ZdZG468JQMxkUhDSkmibNga7SPoiaOA6iaJcrUWFAnoor0jjdQkMKLm6AUBxuIkFcIoZXWNurQ6LLHnbDtgU8Qd1rlIr88/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇「一个人，也能是一支创作团队。」当 AI 开始进入创作现场，一个很明显的变化正在发生：从想法整理、资料收集、内容生成，到视觉表达、项目管理、传播物料、商业提案…</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696187&amp;idx=1&amp;sn=139750ae24383bf39543a7873e73e54f&amp;chksm=ebfee1ffdc9a21376b1e56446518254f66564bc8b26d2e6d253f5e2bf07347e31261efec0af2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[契约化多端架构：基于领域模型的Harness实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6WNyVVkhrQ4KpHEYc1qhTfed0sOXXspB7WEvxEUTnCv76m1cCCLtLTGy0MU2wTZAIEIdsTAPicbUr6ePCGb6xklHibobg2AAJY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作为一名老登前端开发，这两年深刻感受到大模型时代 AI 对软件工程带来的冲击——也被近年来 AI 各种范式大潮冲击了一遍又一遍。一路从提示词工程，再到上下文工程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696163&amp;idx=1&amp;sn=a06a9d22e50e1c099620a7f41a028ed2&amp;chksm=eb3d648f4c6db6427e14d903f66b66e699f73832cd8da76f1fc9a18b11d100960b9a273a5ea4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gmpsKTLPE05R5fYckicibeF7Ir9KrwNZ5evDr9SarBKOaoG6g9qVpEaicChopMCs9EB9n45kDzgibWL5dhpwic7S5w4kbibibCHvvc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2026 年 3 月 31 日，Chaofan Shou 发现 Claude Code 的 NPM 包中包含了 source map，指向 R2 存储桶上的完整</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695116&amp;idx=1&amp;sn=aec392550a85ccd91bd8a9cae7221bb2&amp;chksm=eba35c8fe3d48084684095099fd61e216f3f9e4b1341f7eedcdb7e0a23f4410bc321b2617fbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文讲透如何构建Harness——六大组件全解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr46NKogpz9a2nhLUgmawgyvicGMqC5453iaFFrgaeH05NB5fmbCqcJcGFAkdKyWU3p3TpMPv2eWLQJ4Im5mF8NlXpw5VI2vzUXLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇裸模型有四大硬伤：无记忆、不能执行代码、知识过时、无工作环境。Harness 六大组件逐一补救——文件系统管存储与版本；沙箱赋予代码自验证；AGENTS.md</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695065&amp;idx=1&amp;sn=d5b7af6f4c96167e4a57ceb6065b9d5e&amp;chksm=ebb24e6f766a1a1bb7fd9cb6b25c0fd1e2eceee4eebfd777b6fa29b4f3a66ab39777882d0af6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[吐血整理 8 个神级 GitHub 开源项目，让 AI 生成网页好看到飞起。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hzZHW9YKVdtnMPMR0NkfUm1IjtH6YD84FyFiaHa5diab7k5JmHvh7EoPLvFUuxv16WcHiad3riag3r5ibc6MB2PGvScxkIvgLo1Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近整理了一下 GitHub 上关于生成网页没有 AI 味儿的项目，发现设计这一块已经卷成了一片红海。感觉每个细分场景都有人做出了开源 Skill。挑几个我个人觉得最值得装的，分享给你。喜欢的可以点个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535192&amp;idx=1&amp;sn=79639befb0a59553475707272539e0a6&amp;chksm=f899aba7dd3ce4bc1def1edbf0316b2db57ea4a287553c9e0fcfd2d65ccafca350cb01b7e6d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 12:12:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[终于有个非 AI 相关的项目登上 GitHub 热榜，高低得推荐一下。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1tRIV1N4Gxm91oymwRRPw2PcGeCbvcBYJIebLldj30qXB6GNe0Nk9mrnKSibPlbyvb6Cd2plmqv7NgxtG1omoDhCrcEIbGWpIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>刷 GitHub Trending 想找个非 AI 项目，是真难。往下一翻，全是 AI Agent、Skill、MCP 啥的，全是这些。今天换换口味，好不容易有一个非 AI 开源项目登上热榜。高低得推</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535168&amp;idx=1&amp;sn=acac06567bb7157a0ca19c556a94cdf2&amp;chksm=f81e8d6b29ffb20bd18bd592e30baefed9e54629b3f28938141ce796beeaf8c949a8fe563958&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0DjZO7eY6PEV6S0E8k6dx380LYWgPNlFj76L8ibYskQNn0aZbP24PhoXe3pPZibrvejicuCuSlvNlmNEROlgIq1VnoP88z7sNCTY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个 Rust 写的省 token 神器如果你平时用 Claude Code，可能没注意到一个事情：每次执行 git status、npm test 这些命令的时候，AI 工具会把所有输出都塞进上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a&amp;chksm=f8d1ee8031b44fd03d5429b5cab48e8885f31189067534f85f603b034de04d0b78325d9c485a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 02 May 2026 11:13:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3U1miaHoMR03Q8eibIC11DzWIToDl92cVYykr3n5hCbKp42V14QD69kPFKB3HQicArO7MQ0bz6n7NKnSLHttaHcuRQpjUGsoH8D8/640?wxtype=jpeg&amp;wxfrom=0"/><p>开源不到 24 小时就冲上了 3.5 万 Star。现在总 Star 已经超过 5 万了，这个项目叫 Warp，是一个用 Rust 从零开发的 AI 终端。准确说，它已经不只是终端了，官方给它的定位是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533405&amp;idx=1&amp;sn=1ee7cfefd01d9fd9c666e5d4cf22dce0&amp;chksm=f851e17653225d014a559b5e144dec0b60803f0ce796d564a4647a1fcb8e4d5acd01315d1275&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 01 May 2026 13:09:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

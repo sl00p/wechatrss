@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文读懂飞连 AI 办公安全体系升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fed3Lglwq8icibUMnF6TP55vRLU6G1gWe39bUKiaba5bU3bHvxJWMgROUsmw5bTxzrfzG0ibaylGhUK2WPbyk2g68d00iazPm41o3UtA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，员工不仅会使用 ChatGPT、Claude、Cursor 等 AI 工具完成日常工作，还会借助 Coding Agent、办公 Agent 等自动完成代码编写、文档整理、数据分析等任务。越来越</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520682&amp;idx=1&amp;sn=d2c8d6e9d4b3805ae18276a9008d5e99&amp;chksm=e8590395d5c168c886cf9947aec23ee2f81a269b0d3083a4bc7438f952387b74a3d5f771e0de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3 倍于 VectorDBBench 榜首，火山 Milvus 如何把向量检索拉到新高度]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fec4FPI08zsLzqbBDuj8B1YKjh7u6HqD7BJyQhp9O7hp5llZaiaedlSs3JicrxDNDmIicqNibGeFoRYYO8d53g19uicSKNqM3Gtjejjc/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型持续推高内存存储需求与硬件成本，硬件成本正成为制约向量检索规模化的最大瓶颈之一；海量向量场景下，如何在固定预算内平衡“吞吐、延迟、召回率与数据导入效率”等各项性能指标成为业务扩张核心难题。火山</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520682&amp;idx=2&amp;sn=4cbdb81828435ba827ee4c34532f5de3&amp;chksm=e8ed43dd9baebc24bce6ae3b170c709839c7789670251f48ed02fade2d7c47948b5f6bb6ad0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从数据库到 Agent 原生数据底座，火山引擎发布 Agentic 全栈数据管理服务]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fed6ON8ojbfLWQZdZB7n8wXLXDEJllROyEUdb4XkIVpM1I0j3t3fXwib0YCkx0pibVV4z8RdPL7epCIyWaJZmNUj7wS8o2fqMnwro/640?wxtype=jpeg&amp;wxfrom=0"/><p>当数据消费主体从 “Human + Application” 扩张至千万级 AI Agent，传统数据库的能力边界已被彻底打破——海量 AI Agent 全天候自主检索、推理、协作、调度数据，传统数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520645&amp;idx=1&amp;sn=5a1c550f64db8f245237cbed6b6402e0&amp;chksm=e8a6a70d1ed7db1a7f2a890be4553067903611a7a68d97625dc0ba854b607a406679edf37476&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefzIDjvI90XKKqmFEj0ltXuaHTpJM2crVhpZZ857bJzKicxcoWGkRegaK87mBVibmlt3XaLGp08QoZO1iahHFcPWeNSyERJicFRdZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 如雨后春笋般涌现的今天，开发者们正以前所未有的速度构建着充满想象力的智能应用。从能帮你编写代码的编程助手，到一句话生成一部电影的创作工具，再到时刻待命的个人智能助理，Agent 正在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518527&amp;idx=1&amp;sn=2b0c1c55b768ff2f8d2526868a7a8803&amp;chksm=e8c2b36bd2868de9cddcb3e943bb8a0bf09e12a964b6f4536951cbbf2f62cb3ee668914f13bc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 14 Feb 2026 11:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BSave - 数据切面工程在字节的大规模实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefkK2xSwic2YAVEJrc0BibAjeelK2hTmKJYfX1HpeChiama3FY8ibQTMDFEumBF3zZK4nop50q9ZJohxicOjibmXO9864TvLQs7VRrks/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言数据切面工程（Data Aspect Engineering），是我们团队在字节跳动内规模化落地 BSave 后总结出的理念，其核心思想是在数据存储的边界引入对业务透明的操作层，将原本需要业务关注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518512&amp;idx=1&amp;sn=3c192e3b47c6080d15a0d9adeed89040&amp;chksm=e8275ef029943c2b7d55839e56340d1ab6a3dbca49954e23af5ef0b50b8efc88597a7292c8ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Feb 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 OpenClaw 内置 LanceDB：为个人 AI 智能体打造超强长期记忆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fed32xHEMHbSSLjbpRBU3nFTAiaiayQHic9UlDXUxhr0vaib7qFqVmibCkdfX7w25XwuDqopnrFqic3uDQYS5RWnDuB5HmsabW8nbsx88/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw （原名 Clawdbot/Moltbot）是当下超级火爆的（截止目前Github Star数 161K）、开源、可自托管的个人 AI 智能体（Agent）框架。其官方唯一实现的第三方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518417&amp;idx=1&amp;sn=27cf117f0487cff41839aaaaf4de2545&amp;chksm=e8cea7dd70ae254522df5dfd53737b8774cbd48222312870c6926a47bffd3eeb136fcab8ae90&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Feb 2026 14:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
