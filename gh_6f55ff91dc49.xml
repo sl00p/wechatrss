@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[4 个最近 yyds 值得收藏的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0yfz40ibaCjUgPVxOZTJjTnBsFvBAuGPg10kPEW65gbvEwC9HXIhsrGQx5SLelibUkuYH72lchmf7NAjz0dZsrlvYgqicKV6r38g/640?wxtype=jpeg&amp;wxfrom=0"/><p>01本地跑的会议纪要神器会议纪要这块有很多云端工具。开会录音得传到别人服务器上才能换一份总结，对涉及客户、合同、薪资、法务的会议来说，风险不小。Meetily 是个隐私优先的本地会议助手，目前 Git</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535200&amp;idx=1&amp;sn=37b894016cc3d4027cc3103af6684bcb&amp;chksm=f8d5adf7ddb77df80858f442b645f503d4a4f7f6ae1e8dd33ac3310369f7e832a4079249e1a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Jul 2026 15:05:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[吐血整理 8 个神级 GitHub 开源项目，让 AI 生成网页好看到飞起。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hzZHW9YKVdtnMPMR0NkfUm1IjtH6YD84FyFiaHa5diab7k5JmHvh7EoPLvFUuxv16WcHiad3riag3r5ibc6MB2PGvScxkIvgLo1Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近整理了一下 GitHub 上关于生成网页没有 AI 味儿的项目，发现设计这一块已经卷成了一片红海。感觉每个细分场景都有人做出了开源 Skill。挑几个我个人觉得最值得装的，分享给你。喜欢的可以点个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535192&amp;idx=1&amp;sn=79639befb0a59553475707272539e0a6&amp;chksm=f899aba7dd3ce4bc1def1edbf0316b2db57ea4a287553c9e0fcfd2d65ccafca350cb01b7e6d0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1uribia1ATn4HUakQfBvhNXmicYuUKzQ1qjkmQpVR3rXRibjapA4iaNG1MugJDSq6WkFnLdiaxdJM0BvBLpbMZ3ZvmliceTaOpoWKgoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>哈哈哈哈哈，发现了一个专门鞭策 Claude Code 的沙雕神器。用过 Claude Code 的都懂，它啥都好，就是偶尔会犯懒。一个简单的重构，转圈转个十几秒。一段本来五分钟能搞定的代码，它在那儿</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533407&amp;idx=1&amp;sn=9c458a0617106eb13679cf408a8db7a6&amp;chksm=f80ab9281db917fe41a9973a58c5d03eb88c8988d5f977083538689f84caa0bbb89d2b10729c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 03 May 2026 08:22:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0DjZO7eY6PEV6S0E8k6dx380LYWgPNlFj76L8ibYskQNn0aZbP24PhoXe3pPZibrvejicuCuSlvNlmNEROlgIq1VnoP88z7sNCTY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个 Rust 写的省 token 神器如果你平时用 Claude Code，可能没注意到一个事情：每次执行 git status、npm test 这些命令的时候，AI 工具会把所有输出都塞进上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533406&amp;idx=1&amp;sn=5cf3e7d5020d2d474cde1a8c35fb127a&amp;chksm=f8d1ee8031b44fd03d5429b5cab48e8885f31189067534f85f603b034de04d0b78325d9c485a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 11:13:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

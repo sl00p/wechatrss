@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯云Agent Bucket发布，Agent原生存储来了!]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaDaibMRAjgNR3Zup2x7L34KDIG4TR1XP3fdXBGKLyWC33qhc7LD2GdD3ww0FR7QlmaSnvHv7mFE4KYkxdic2rYJcOvjgOp0YG8iaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>存放Agent产物有了一个好地方！今天，腾讯云Agent Bucket（智能体桶）正式发布。这个“桶”可以为亿级Agent提供独立云空间，统一存放用户上传的资料，以及 Agent 生成的报告、图片、代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908121&amp;idx=1&amp;sn=2d7db425549ac935ee85a7ffd117dd7f&amp;chksm=bc6ba327cc92d4f7cc9d49863964ca3bd08c0421b044b92c49344aef6a89b5ff729331615182&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Jul 2026 14:34:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元Hy3正式发布！日均Token消耗量增长20倍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaCKcFxveSh3F6hRYKRgk1DRvLNeK95dfTXlwOL9X4ticGPr6bq1SCqYlN1HuN7LXdcRZribvyKGFTTITBibvhTeh8hFeVguyJ0vibY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年1月底，腾讯混元宣布重建大模型预训练与强化学习基础设施。4月23日，重建后的首个成果，Hy3 preview版本发布。（详情请戳👈🏻） 7月6日，经过2个月的真实场景打磨与迭代，腾讯混元Hy3正式</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908095&amp;idx=1&amp;sn=97e46777e27238ebee282536cf90eb04&amp;chksm=bcc579ce83a39402871b48f912ed894fadf35f29956fdceb79f2be983055be8d7b22e54a927c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaDPib7bcg7te3XmMoKvSQ96khkeMwNHxsVsOdRpy1Bo9Fb27vdGwuaEe0q4d32qht57O3offuP8s7ibzdjrG8icx9NJcJ2Cic6eWiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“查看全部制品”如果一次任务的产生制品集齐了word、pdf、xlsx、csv、html格式，WorkBuddy用户可以对任务结果的预期降低一点点。“欢迎光临我的工作室”不完全统计，QClaw用户每</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907000&amp;idx=1&amp;sn=58bb57a44032371364308c82d30532d6&amp;chksm=bce503df86190204d2770a1753028dee58d0e8d6848fc1fd6d077cbb4e47aa5578cce5f533f9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 24 Mar 2026 21:33:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微信发布官方龙虾插件，腾讯云率先适配]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCBLUZFCP8HsCQgpl86qKP1f6qq21JsL4icoKahvtw4ogibY9aDS96Z7vmRcPfl3kibVQr3sQzhxiaIsC12zmehYk1Kjxo3PVAx1JI/640?wxtype=jpeg&amp;wxfrom=0"/><p>龙虾申请加入你的微信联系人。 刚刚，微信上线「ClawBot」插件，支持接入 OpenClaw。用户扫码或复制命令，即可将 OpenClaw 接入微信，作为联系人直接对话并执行任务。腾讯云已第一时间适</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654906979&amp;idx=1&amp;sn=ac8a20ae27fa741d44a48bcad04559ce&amp;chksm=bcdcec7c31f5f0be5b4396a85fde5814aaf22e9405ce440b1946a5cb9910100ede19b1343e19&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 22 Mar 2026 10:06:19 +0800</pubDate>
     </item>
   </channel>
 </rss>

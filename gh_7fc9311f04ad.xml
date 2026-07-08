@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[淘宝内容生态：GrowBrain - 淘宝Agentic内容成长引擎]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJ0j9CiaeYMYD9wBVKMdEmibfibM3PvwiaobllET03IzvC3zOpAYvH5sib0gc9qiaSOg3e6ebpdQWsTauhbqaEZLA6tdATiaM8vRFZYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景与动机淘宝每天有大量新发内容。一条内容在发布初期能否拿到合适的曝光机会，基本决定了它的成长上限：流量少了好内容还</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561428&amp;idx=1&amp;sn=037c032be851bffa7adf403e63bc0486&amp;chksm=e875813851341efaeb64f56b7d6af275a2660fd96d60062e1ae83268c8ba9cfc0906029e3792&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Jul 2026 08:50:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从日志学习到风洞验证：构建 GPU 集群的 AI Native 稳定性闭环]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zKDRQzozf26pWOGzu1gK35apzAVveYjo2HiaQRmF2ObKdR4uRFaTrxOhmcXHib6s9hAUpEHnRD8QoWN6Yibm0HibAoENGpe4q6rtc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读当万卡集群每日遭遇数十次 GPU 故障，当超节点适配困于"无环境可验、无数据可训、无路径可推"，我们不再等待故障发生——而是用数字的方式主动创造一个可控、可测、可进化的"算力风洞"。（文章内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561417&amp;idx=1&amp;sn=b4e0570993dfe513713f01b66ac5020c&amp;chksm=e8cfeb4a585d9117ad39a55d398b502d4b31ffc45e3ccef451b5f73426c95c1523d2d19bbb02&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zGiahOW6hM2hcibnOl8fVZlSyIrbCqVArTWYraibr6GAOA0WH9AZksaia9pyuLz9ZIWTvG1IIhATdK9jSmSndBxKQ7xPBv2RUB1aM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。最近深度使用了 OpenClaw，基本上每天都要跟它交流几个小时，也慢慢摸索出了一些经验。看到不少人说 OpenClaw 不好用，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559355&amp;idx=1&amp;sn=def05b645d71962cd938c20213fb5e12&amp;chksm=e81518ab04193d8c0638b85d413e737e7d22b11f070191ff861bc1fbf861b896d5479014da84&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 年 AI 编码的“渐进式 Spec”实战指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ygDzwsqkvFShibqXSCIwBkJCEUXibNpaEWm1RQtbLiaczbPQuzOwvD23dlNsbBxoFkEQic7KjKh4e9Q3xzTsBn6fKebxJqlLuhxdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这次分享的内容来自作者在实际项目中落地 AI 编码的一些实践和思考。希望能给正在尝试或想要尝试 AI 编码的同学一些参考。一、背景聊 AI 编码之前，先对齐三个基础认知1.1 如何理解大模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559315&amp;idx=1&amp;sn=5c1f9df548e912354b5b5e25ec4bcbb5&amp;chksm=e83906d0ce121008b7c67eed3fe20230545d8e0018e6f5da14b45b2fcf4278033447460ecaaa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文读懂Harness Engineering！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7KUNuWkE1NyvtA6kg4xVZoZE6kJEaTxBX2RMpmhffRgAicAbHhJNaibUtJiblHJCicP4FpGaSLJOnaPZHHKRl1BeaMckWSZ74B9vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2026年上半年，大模型应用层最具统治力的热词，绝对是「Harness」。今年三月，LangChain 发布了一篇题为《The Anatomy of an Ag</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696218&amp;idx=1&amp;sn=6fdeed9f45504aede19989f68d0c6cd9&amp;chksm=eb6d3fa97736aee2fe50273524e57fbec6ef580aeb8ac343fa9adeb416ffe22a24a228dfd2c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 09 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[WorkBuddy 首个OPC社区启动，首期训练营开放招募]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4S3YH0ZdZG468JQMxkUhDSkmibNga7SPoiaOA6iaJcrUWFAnoor0jjdQkMKLm6AUBxuIkFcIoZXWNurQ6LLHnbDtgU8Qd1rlIr88/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇「一个人，也能是一支创作团队。」当 AI 开始进入创作现场，一个很明显的变化正在发生：从想法整理、资料收集、内容生成，到视觉表达、项目管理、传播物料、商业提案…</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696187&amp;idx=1&amp;sn=139750ae24383bf39543a7873e73e54f&amp;chksm=ebfee1ffdc9a21376b1e56446518254f66564bc8b26d2e6d253f5e2bf07347e31261efec0af2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5mibMPF26HsuYl1mibzQjV5vg6vRlbz2wWDPO2LjTIQ7qQq5qzUBzSsk8AJM4owSBb1C1F3wbfhSuq8Bbt8dmVXVbxlxArcCZqc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Linux 内核的 Swap 子系统自诞生以来，数十年间代码复杂度持续累积，逐渐成为内存管理子系统中公认的复杂地带。然而，来自腾讯的内核工程师 Kairui S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695142&amp;idx=2&amp;sn=472a19c5c28b7e7f4581e5d36c4c9cf9&amp;chksm=ebf50c236ba61808bfc73ef59138d1e88b4b5ab3b5512dbaca2141bc27498abe2f9e84568410&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code是怎么知道你在骂他的？这 12 条发现值得关注]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gmpsKTLPE05R5fYckicibeF7Ir9KrwNZ5evDr9SarBKOaoG6g9qVpEaicChopMCs9EB9n45kDzgibWL5dhpwic7S5w4kbibibCHvvc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇2026 年 3 月 31 日，Chaofan Shou 发现 Claude Code 的 NPM 包中包含了 source map，指向 R2 存储桶上的完整</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695116&amp;idx=1&amp;sn=aec392550a85ccd91bd8a9cae7221bb2&amp;chksm=eba35c8fe3d48084684095099fd61e216f3f9e4b1341f7eedcdb7e0a23f4410bc321b2617fbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
