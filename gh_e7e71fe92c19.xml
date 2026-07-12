@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火热招生！网络安全运维工程师（45天·线下·就业班）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2KslcoEjp0aEJic73xB1DZIZhARXVN3D5Mg4UxKZQwDF8e07mmfjcib5ZXzSy8r0s3hqrNj5WXjJWYAaUt2k1ON5woRJnbBx74A/640?wxtype=jpeg&amp;wxfrom=0"/><p>你在B站看了几十G的教程，在靶场刷了几百道题，背了一整本面试题，觉得自己准备好了。一到面试，面试官问："给你一台 WAF，你怎么配置防 SQL 注入的策略？误报了怎么调？""等保测评的时候，日志审计需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617507&amp;idx=1&amp;sn=9ff58656e561d23869fac466deedfb43&amp;chksm=b0f3e749c9354d262327a69213f04b5c0aa21422e6394feb3df08861ba00c2270d3ee9783086&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一道简单但不简约的堆题——CISCN2026初赛堆题robo分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0sDdFlepziaAWOsB2KXRCmhqiaJPBKdeDdjJopE9zyRJ4dZYfBAoicXib8HQbl2icZuyCosbVYfhZluQfulA8afL8UaEibcuASHoyuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>CISCN2026线上初赛的题目，线上只有一解，查了下发现过去五个月了还没有人写过WP，就尝试了一下，结果发现不是很难，可能是限时+看到cpp逆向大家都不愿意动手写吧。（附件于文末“阅读原文”查看）基</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617507&amp;idx=2&amp;sn=be31462aef573f12084964126ad5b3af&amp;chksm=b03e09b5513f666c01b4e556284a06d1e158b5d435bf9edd561eae82ec141e382e89dfc94bcb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SpaceX与Starlink官方账号遭入侵，虚假代币骗局致投资者损失逾12万美元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3aOckUVBfiaEGG2ZXibclttzK5Ybn2CBGmaYibWJ8ibVvpEfAbUnaAhicMobfohsoIYYoqu1gJB4qjpWKMQEk7qh0Ck4XCnur5T9YQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月12日，SpaceX及Starlink在社交平台X上的官方账号遭遇严重安全入侵。攻击者在劫持账号后，利用其官方认证标识及高关注度，发布了一系列推广虚假加密货币“$SCATMAN”的帖子。链上监测数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617507&amp;idx=3&amp;sn=44c3c3368e8252c8217d0f6175484609&amp;chksm=b0998064e7cab2edf2c6ec1d405f9147a3e7ee452554af60a20b9d8a75a9f243d57184a5cc84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[libmsaoaidsec.so 检测监测——绕过 Hook 脚本]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K03TumkmaKMvxcPL3M45jbrXibHmR8o36bssZGWgFSz3ULB8lkQj5JLxibS9icd3KXYjTyKPSGf7RRrVZ11flvtkz0kicHI4QVrRqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、问题背景在 Android Native 安全分析中，很多安全组件并不会等到 JNI_OnLoad 后才启动检测，而是会将部分关键逻辑放在.init **、** .init_proc 或 .ini</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617391&amp;idx=1&amp;sn=099fa5e378a9ae12ec380610788d2f83&amp;chksm=b08748c86c0b9eb8c01c6decab72b07f8ea51961618cd078f142100636c67a9f780152c62bb2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1HMTk7pL8kfeM1smnyCvpUBlDfxlX0Wvfckxeic6vGSfdibXf2hRfa7Dkk6Xsib8ER72WiczchvSovqR0SK1XNicHcPcSeHJoq1be4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hermes 是一个 CLI AI Agent，能自主执行复杂的工程任务。但它的真正可怕之处不在于「自动化」，而在于自动进化——每一次执行都在学习，每一次错误都在积累经验，每一次成功都在固化最优路径。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=1&amp;sn=219d3d357722602c80071a048c05a2b7&amp;chksm=b01d4e73bc99b374e055a831f28d5618e2d997a7b9d6b4a6a2da4e373a12b1ab63f01da9d47e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 20 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[距看雪618活动截止，还有1天！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2RwMxc3L84aoO4qPuLwRxribP1G9k8hnGsFnwzv23bbDWGgWBowblHWnib2w5aV0P8absTUGXBY6k6Us9qzMlqvLqJX31EIYF74/640?wxtype=jpeg&amp;wxfrom=0"/><p>1活动时间：6月10日 - 6月21日立即扫码加购2最高直降2000元？是的，你没看错！这一次，我们不讲虚的！全场课程参与满减，阶梯优惠层层加码，买得越多，省得越爽：- 满 299 减 30- 满 5</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616783&amp;idx=2&amp;sn=075e6a687be9184851b1b5661754c98c&amp;chksm=b0fa120ed4be7f760aef1994d0328f5de32550f63b6664a598ec2a0690260cc887671fa9a298&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026端午致谢 | 端午安康，致敬每一位并肩的安全伙伴（文末活动赢礼品）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1mTghMHiaDydlQECdRwWlXKiaRCCjojxicLdLWUKEoM6A9Zn2iaLQa3BJuHFJs0jqZgEDcV0LSSyicDvQrszXrTJE81fIaqICIPJHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>端午安康致谢一叶香草，一岁端阳。风调雨顺，吉祥安康。近日，多家合作伙伴送来暖心端午节日礼，感谢各位的厚爱，未来期待继续并肩前行。在此，看雪祝大家端午安康！下面一起来拆箱～*以下厂商排名不分先后，按首字</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=1&amp;sn=06605c74092850057f6dd4f9ce1ae2aa&amp;chksm=b04afe0a560d26bd8ad455ac084c336a13c114296148ba7aa9e221ecf5e5ba905ac331a9e49e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[把 .o 变成 .ko：GKI 安全特性的铁幕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0r2f3Tj1jqXiaOsnXMicPPY4icXC1jicNy3wJQCIorgMBibJoC9XnmV8Trs1WjMxQbOJFB80fI4icCqIGHBiabjDEllPu35vENQusprU/640?wxtype=jpeg&amp;wxfrom=0"/><p>ARM64 Android GKI 内核模块实战：SELinux、vermagic、BTI、PAC、SCS、CFI 与 mrdump本文是系列第二篇。第一篇讲述了如何通过 ELF 格式转换，将用户空间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616782&amp;idx=2&amp;sn=bef4d5e72317a35c94b6d9a35359930f&amp;chksm=b0c60f834b3ea2d0ad82259d794ae934fd6843f172bb4f0982e9024f7204a0e242d69cd793f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 19 Jun 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

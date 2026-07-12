@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[苹果起诉OpenAI使用技术手段窃取商业机密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0QIXCxKwuiafKefz4XUVAMsXICPibs6jz01z1kg0oAQWE2yfjLfhkA5AlFQiaIePoDUV6iadicFGh2Qpqd08SJZCEM4eu1dZHtfhGk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01苹果起诉OpenAI苹果已向联邦法院提起诉讼，指控ChatGPT制造商OpenAI通过400多名现任职于OpenAI的前苹果员工，系统性地窃取其机密硬件设计、制造流程及供应商关系。这份长达</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=1&amp;sn=85b7a6a88a5b7f02b78b5ec0f3c35b0e&amp;chksm=bc75609e419c8a60655604a6ecbb2cc8e49d834043cd664565b90b77594078bd93ebb41866ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Grok CLI被曝上传完整代码库，连API密钥也可能被一并带走]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FqwGOkloUhI4ShC3wsNibf2V3wQ6pR7G7RYficibWvEdkaOocBMyA3ksRJI3tPEmIwkqnDnMjSAFjjhLpRiaHQ4kqGB9eFNC7gYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，xAI推出的终端编程工具Grok Build CLI被曝存在代码库上传机制。安全研究人员通过逆向分析和网络抓包发现，在特定版本和账户配置下，该工具不仅会向云端发送模型读取的文件，还可能将整个Gi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=2&amp;sn=8ae7e4bb4d748686c916bc995971ea64&amp;chksm=bc903f53f964de4b8b5559b75ee19b65434e1072563747d8bb5ea2974ea0d8830da89ce8dd72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft揭露GigaWiper：一款按需实施破坏的后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3MpCWu124kfq4dP9hmsHa9BIF1EB48s8R2gbMqPTyShCXHN6UL3jicibu8biamHezIX81KGFjII4Iwd9xmicJe5R2VOsqF283vLUU/640?wxtype=jpeg&amp;wxfrom=0"/><p>该模块化Golang后门融合了远程管理功能、多种磁盘擦除逻辑以及一个源自Crucio勒索软件且刻意丢弃加密密钥（导致数据无法恢复）的模块。微软向防御者发出警告，提醒注意一种模糊了间谍软件与擦除器界限的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=3&amp;sn=cb2fff1182d6544704a16c881e1942c5&amp;chksm=bc8034a6e044687291afb6d411409b2c94384d4e8290fd1d5b53da40ef531152552adf9723d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Django SQL注入漏洞已在野外被积极利用，可导致数据库入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2M0E21FqrzibwN7UzkghXfbNtYSgqUhQxAvXK0MtzibZQqLibmeSYPZDLdlLaIbC50wFuBrTTynibhl91AthMVYEjiaFjSTniatV3iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞曝光Django Web框架中的一个高危SQL注入漏洞目前正在真实攻击中被积极利用，引发了在PostGIS后端部署上运行地理空间应用程序的组织的担忧。该漏洞编号为CVE-2026-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=4&amp;sn=182c3c9a82a318ba6e01b150b8099547&amp;chksm=bcdbf3aff6da084e92ff88bf10735732d0c4678bb8ea261d60600721c0d9af51a29f40a6d490&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-5.6 Sol被曝重大Bug，硅谷大佬Mac文件几乎被删空]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3MlJjiaicoGb5whaFwLp7DoWSM1wAza3KMQ9cucxNl3rDYFJahRM5kzicib5PsrF8tflbkwoJiaN6Xr3KJ4ymUeYuDOzn7dB3Vvor8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年7月11日，前HyperWrite CEO、AI投资人Matt Shumer在社交平台发文称，自己使用OpenAI最新模型GPT-5.6 Sol执行本地任务时，Mac中的大量文件被意外删除。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=1&amp;sn=30ae51eba566ed3187493e4e817d3124&amp;chksm=bc5df56aaf6d143aa8b685d347c37933e82d75131c920866c302abf5cb91c18875714cf0a778&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX089I97X2I2xFwJhGolA2hViaAtLN7BxE5aCjeia7pFb3dK9Ps6rYZos71d8QpnLD8x3J56HIgEHzuLSIOMFclNnotRgJ0CDIucg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司证实，其最强大的AI网络安全模型Claude Mythos 5将重新部署至一批负责运营和防御关键基础设施的美国机构。这一决定源于2026年6月12日启动的政府主导审查程序。Par</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341309&amp;idx=2&amp;sn=b3801c119db807542afe6191fa49eddc&amp;chksm=bcf42cb83fa7822e11d9479058b09ab316df050905e38c497c186c998fad34f6022b9471c454&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 27 Jun 2026 16:00:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Mythos AI短时攻破NSA系统；OpenAI推出GPT-5.5-Cyber强化版 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🔐Anthropic 的 Mythos AI 模型据报数小时内攻破</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341309&amp;idx=3&amp;sn=c2103540df8c09b573f8cfa27b595ea2&amp;chksm=bc0ee145bd6e41e42e529ef42f2faac9a768addab8520f4fa85563116341e97e92b455a94457&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Jun 2026 16:00:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当智能体开始"动手"：AI安全如何兜住风险？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ZerO9GSnvp9p0MB6ica4ibHN0LmqiaUtyjbnlJnPe6tsxFnuYlRADn2oe8TaOnKsKm6E2V1ZbEWia2Idsa5PqMibtjic9LlIpOSjn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年，AI不再是实验室里的技术玩具，正以超出预期的速度涌入企业生产环境。随着开发框架与API的成熟，工具调用、文件操作、系统执行变得前所未有地容易。企业不再满足于让智能体"聊聊天"，而是将其投入</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341243&amp;idx=1&amp;sn=a74785a08e5cf84ab62fe49964cfc773&amp;chksm=bca0716fd133b46584704fbfe886352b92c056e5bd107c0fd09bbbfd09d4e8e20d6bd23512c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw Skill市场暴露AI Agent供应链恶意软件与金融欺诈风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1jb41x8c3ZNxy8jSVwHiaOIEjHYmbTQyLmY93MEtziam8SVuL5F5B9mXdWhd229J9OzAeMCRJ4FCgOrEWlRP6Q1hYY3WVLe5dAM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01新型供应链威胁浮出水面针对OpenClaw AI Agent市场的恶意 skills 浪潮暴露出软件供应链安全的新威胁前沿。攻击者正利用 ClawHub skill 市场向 AI Agen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341243&amp;idx=2&amp;sn=73fb127f112432ccd13c34229f854803&amp;chksm=bc2220664d361b25f583ed14acb89fe47be9bc678ebd3e739178c29bf2014317058065b28b37&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[斗象发布国内首个针对AI的攻击测试套件（社区版开放下载）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1laYSzbbgibM9NpggQMvLFGPwEVpdyEezkgaUQxcNnC8iczm01ZoEOztxdVkozxbwGGEJbgSGoibdIQYicw7m2HRhGmcRb2FarmRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型和Agent快速落地，企业AI应用从简单问答扩展到工具调用、知识库检索、自动化执行，安全风险也随之升级。 过去主要盯着模型输出是否违规、泄露🔍，如今风险更多藏在Agent行为过程里：越权取数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=1&amp;sn=c6e8c1255eb9b51ca8d59822442f95aa&amp;chksm=bce430c24625303db2ff736a9690c877279fc9592c6aecdaf1b5356eaa7c48bcd8d48b251652&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

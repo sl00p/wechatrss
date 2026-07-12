@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从看见问题到解决问题，Agent 正重新定义可观测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaTwN8tsCPr6Lhfds78fZT5NW1rNsf7Nph9KV6ic53flVBUr8hJ6qmEyE02yiaoxR6r13h8tZ2dY6oJBqicHcpv3ibhCLP1ibVANhT0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 凌敏 Vibe Coding 正在批量生产“日抛型软件”。它们可以在一天内被搭出来，却未必经得起一周后的真实业务流量、权限调用和故障追责。Gartner 预警，到 2028 年，公民开发者采</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288698&amp;idx=1&amp;sn=ff190c842f5e4d2db50faafc2f943f59&amp;chksm=bc116ec0cfd4e3d644294b222eb78353b03ada0c638540b03088a56c05c244e528dfb038dbab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgCicGRglAQEn9r4whl6r7hScXiceqNZbF3He8Iep9ZZOjxqM0ojxJ7cG5JGxfZChyTqN73DcfaUcLUwRvF1kia7DY0W7ThIUgZ3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Robbie Coomber 译者 | 平川 策划 | Tina 本文最初发布于 PostHog 官方博客。在 使用代理利用 autoresearch 成功提高查询性能 后，我想尝试一些更有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288698&amp;idx=2&amp;sn=3c2d145177b05f3d7fab056792a2e23e&amp;chksm=bc6ff06560e62ce33ab11a7cb87fbad8854bd77f6e521e91af23fe013a49e9d651258ce2fef9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhQOG7pxCSiaY3QXGWPWiaURic5nhWhBNonDttSZhtdcKyaoDsxeJR284ZzKibHphNb4MkViaQy7zZR0paqOmqffuru7eqhXAkicl8Qs/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 华卫在 AI 负责人 Alexandr Wang 领导下推出首款人工智能模型三个月后，Meta 再次推出一次重大升级，试图在 AI 市场的关键领域与 OpenAI 和 Anthropic 展</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288698&amp;idx=3&amp;sn=947e50ca4f184d855b124058fef40a4d&amp;chksm=bc124724ae870d5e4fc61b639809ce5c916bc9159dd2739693005e78adb4a7a4cd4ee84acd62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MCP 推出企业统一授权功能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaytLqzrOvpEXY7iadUKXquMVVaaicJkbvCz5eEcZvibzH8Y1DfaIng9PdRU37YrFkpM34bPMSEa2y2sMrLViaIxzXKGprU1bMdQGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Matt Saunders 译者 | 明知山 Model Context Protocol 团队 已将其 企业托管授权扩展 提升至稳定状态，为企业通过身份提供商集中控制对 MCP 服务器 的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288698&amp;idx=4&amp;sn=7ccc5c928aae8371a6420305cd3f3507&amp;chksm=bcc0fe6f4f2b8dad5124fc089207ff01b88f017e198abb128c5bdefa301ed9818b9632046674&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaWXR5d6PLbT2Wb9KjJCLD40hsC7Kulm25Igp4DglEocaryR8o09BricEXj44twJYmjN4Wf61GVh6yvMeeLic9K8ES9A40bQtIic4/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 想象一下，你手里有几百个跑在旧架构上的业务指标，每个指标背后都有一堆 5 到 10 年前写的、文档不全、写代码的人早已离职的遗留代码。你知道必须把它们迁移到新平台，但过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288666&amp;idx=1&amp;sn=8bbada4ac098dd4390b3408be7fb1370&amp;chksm=bc5c4580ddfec1da96d2cd899f4938f736fd762fb2dbd6a6936da15375329c04c98fa6bc9cfa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhnCFIB5gX4YhfqIqYLiantCdibR4IxcPTjA2JlUCOZrm2ArlHLM0bmbn6ImauchktLYdnZ9gxDLt2XTkkibCnJH9kC1ljdPBqAEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 近日，应用大晓机器人开放场景自主作业解决方案的晓途智能机器狗正式进驻上海西岸片区，全面投入常态化实地无人巡逻执勤工作。依托稳定的硬件架构与智能算法支撑，该机器狗可稳定实现 7×24 小</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287872&amp;idx=3&amp;sn=cf9d4a5d9988b12022b067396bfc10cf&amp;chksm=bcff75486c0438937d41f7e432318d11672d3e55dd42f6077425663e105f68742ba7a8eb323d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Jun 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhKCaI1b1sh6BpbS6OqzrN5UlH0wib0h7kWWNMSOibG2ssOPicuDCgCFlHficwibicW79tQfqFbicBLVJAq4MicLkk4u09nnaHehypQtx8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 2026 年 6 月 8 日这一周，Spring 生态系统呈现出一片繁忙的景象，其中包括发布以下组件的增量版本：Spring Boot、Spring Security、Spring Session</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287872&amp;idx=4&amp;sn=f87166e97cb4c22e885255f29c1e4bf4&amp;chksm=bc0d5a0d072581f5f815efea87820f3be53bc7f94fb2fe96c0b5ebeabe00b7e9d4df82984c14&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Jun 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhC8XfiaHB5kibxhDbjukYfOCkiaQLmrWicuAsCkicb5fXic5vRcfhNGx7pFIqMKwZpicTkvAjUpMOGHDJG0FBEwTH0xIGWHasL8RVVE4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 褚杏娟 月之暗面 Kimi 正在 C 端爆款产品之外，加速布局 B 端模型服务和全球化市场。月之暗面 Kimi B 端负责人黄震昕表示，Kimi 的定位并不是做最便宜的模型，而是希望做最高性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287792&amp;idx=1&amp;sn=384e97f0986ff40d16072a05bfcd4743&amp;chksm=bc367bfd60b84f23ce92b21ea5057b80c0b0e6b132ce69b531f77907f908fc886bd95578e1f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码是写给未来的讯息]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgluafugxNoTExpgM5R67JE4n2xa1O1lEOicOr2Dr39HXJubHckpDhVpMfqr7MCUe8CP2PeAXMXLjqZVfsPSRrZOoV4Uf73Nkbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 Hernan Garchtrom 译者丨明知山 策划丨 Tina 代码是工程师之间沟通的载体，而不只是给机器执行的指令。你编写提交信息、注释和组织合并请求的方式直接决定了团队能否顺畅读懂代码、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287792&amp;idx=2&amp;sn=effafafbeb9ec7639393cbc60dd43007&amp;chksm=bcabfb943d753285f23606540b548566c1965a5160d9c29126bf395585fa7f481e8092324604&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgJ2Su4uKDPJadZ19UNiay5AumzEMqtHUazG1DwichIBEnzCoGssibpEjh641TJ9O3bOuAWW2d8aiaxib0xNaOvXTkYpFBPLBqNtFr8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 平川 由 FormKit 和 AutoAnimate 创始人 Justin Schroeder 创建的轻量级响应式 UI 库 ArrowJS 已经发布</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651287792&amp;idx=3&amp;sn=f833d536c3460d19338751a61f848116&amp;chksm=bcdd9010f166e1e875dde4177dc3670ade3748cfd49b8540d58551ea2799b844726b3df872bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

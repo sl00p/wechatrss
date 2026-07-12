@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906lUYLYVpjGicVeTJibIa1QCHXia2GADwndc8icY0ZwJRLAODibYOLiazmsrYuLc8ic3GCly8kOu0JbBibKVmXKpibkicTDMyFQKicJp3YjHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charliecli随着大模型时代的到来，AI 基础设施（AI Infra）正在经历深刻的变革。面对日益复杂的计算需求，传统上与单一计算范式深度耦合的调度系统已难以应对全局性挑战。本文结合开源社</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802581&amp;idx=1&amp;sn=6853e0881c8ef7e87dac7baf5ad82d22&amp;chksm=bf3801a5143f05a4d5aaa564d3537ffbad9a9d780af33f42992b2704132c518e171301097cb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[精打细算虾养成指南： 省 Token 和把 AI 用好，从来就是一件事]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者： Kario Chen我最开始用龙虾，也是 Opus 从头到尾，觉得这样才算是释放了最大的生产力。随着 token 越来越不够用，我开始持续探索节省 token 的方案， 越深入越发现：真正的省</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802494&amp;idx=1&amp;sn=b9882f78a98dd26657b573d0f14eea8a&amp;chksm=bf387691ee59790a5d52db1d10fe9e615e637a95f628c4ebc573c50de8110265d028ad6025e7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9049lwanvDsJ9ico9OIl85iaibPv83azibF4wYEtnw3eiaiaP6zjF4pQSb9sx2aE3Y4IFjTGmulUE5cicxDoD2vywibZPTA1VpW9ALicv7Zs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：solonnliu为什么 AI 很聪明，却总干不好复杂任务？不是模型不行，而是欠缺“业务 SOP”！ 本文复盘了打造 web-testing Skill 时的 4 个真实翻车教训，分享一套极具实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800926&amp;idx=1&amp;sn=23e36dbedf9052459137075c7ef9733e&amp;chksm=bf9516f515340d76753625c744010190dd0c2bbcd6378607e836d29ecc2f825461d0230b9cb8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达GPU全系列硬核科普手册：一文读懂NVIDIA芯片的定位、规格与应用场景]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907XeDof269zWCRZh5Izt92wuAqIAKllLzuAtEhTOKBPPujYYiaPCSLZ7ic8lPmKXFwdnNgzGSSdl4OkRwl36HFia36EdS5fU4Qic5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：nickycaoH20、L20、A800、RTX 50 系…… 英伟达 GPU 家族庞大又难记？游戏、设计、AI 训练、推理到底该选哪款？别再被型号绕晕！这篇全网最全图解指南，从入门到旗舰、从消</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800902&amp;idx=1&amp;sn=38323b9e55613e92145c904cb1eae74c&amp;chksm=bf51c732981f44a80369decf8fd953c8d9da6be7bc7ab8bec9c1505f7180e76c5b93076eddad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

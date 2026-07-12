@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2v2WW9Pte8meGoavPbo5gBBaMhIicqWLzdibcMvFgpPZQNfBiar2HV3Xjwpp1gkRxCjQDR3vJic3ic7fMzX3lk6fp0d71T92YfichwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在让 Agent 做 Word、PPT、表格文档处理。有很多 SKill 可以用。比如 Anthropic 官方提供了 PowerPoint、Excel、Word、PDF 这类预置 Agent Sk</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535342&amp;idx=1&amp;sn=ed0bff20ca593bc05d8fa0f144998862&amp;chksm=f85fe93e8e5fb12883ba8f3557e51b868b9f1d617a13691f052f6580c04d4dfa3f9f90d422a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 15:06:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上已开源，有人把《哈利·波特》中的笔记做出来了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0zIpSGsBnq4seoJ9WRvbXTS89b62S5XKG1aicibq9uGWYv1icNwuPo06vm8NjLsX7t5mdUKasPITIDZ1tbQSvroKGCicLS74zUF6o/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间再看哈利波特的时候，看到一个剧情。小哈利在汤姆里德尔的笔记上写字，停笔等一会儿，刚写下去的字会慢慢消失。一行新的手写体从纸面上浮出来，像是另一头的汤姆里德尔给哈利的回信。今天推荐的这个开源项目</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535336&amp;idx=1&amp;sn=bf1b478056bfb8d0456da756c3e23412&amp;chksm=f8cf15f476bfc69f214262c9f6ceab6ac0258559eb96e851b1219da67e8273aaa9772659de47&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0qFkJjScYyjUxSsDm7E0wxvcbsFRB787qlk3AeicaVVRXYYeb3EXumjLSqGicZia4uYazbqIjKfloZBM586cicOo269HBHdCrrqsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Design 发布没多少天，GitHub 上就有人做了开源复刻版。4 月 17 日 Anthropic 上线 Claude Design，基于 Opus 4.7。输入一句话，直接出设计成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab&amp;chksm=f877028c1e93cc519da74631cadd2aafd64a5a6d1b0cd0b60bfc1e977190d839708cef405a7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 05 May 2026 12:24:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 3.7 万的 Star，终端里浏览文件的开源工具。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fZSEicNu16rs9rAYUAstvIVJANegnTyyRVsyic5LNYS7bPCQVYGiaG6KP0C2a0okicMicOTiaDhyPLLg2nxjyNlCA4gOgTYMQKjfZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>我把终端文件管理换成了 yazi，效率起飞。最近这一两年工作方式变化挺大的。自从用上 Claude Code 这类工具之后，已经基本离不开了，每天大部分时间都泡在终端里。AI 能帮你搞的，几乎全在 t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533435&amp;idx=1&amp;sn=17a5ceb8d01d4249175e29d31cb8e4d8&amp;chksm=f8eda580a318cda49c58f9fd0f7ef8324fb1dbcd2fb52c05cfa82816d5e6580f2a3af0de43aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 04 May 2026 12:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

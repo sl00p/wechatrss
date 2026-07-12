@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqib0aWHs9icZxhNYBLskoRuddReKDC0LRibGThtZZd9ZjGDmfH9suXKrAVjUbbUeAduLRreRfmfHzzbpZcwAibHTUtQtM0coUb5rlU/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件背景近期奇安信威胁情报中心通过云沙箱捕获到多个UTG-Q-1000黑产团伙的新银狐木马变种，这批新变种从2026年6月初起开始投递使用，根据奇安信威胁情报中心的检测，该系列变种近期呈高密度、持续性</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519487&amp;idx=1&amp;sn=8ee1ee2f8c5a0473d25fa469490e27ab&amp;chksm=eb78def672fa938444633ce90d70608b3bbe9a639917742a458c1ebf0dce61c24b87a859395d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 13 Jul 2026 10:31:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[BeyondTrust 远程接入平台四枚高危漏洞全拆解：从认证绕过到"零信任"信任崩塌的完整攻击链]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicyp6lNW8CDj1wCoyEsiaiahTcA0E5FH4iaQk68jAZxB5OKNOfKS9Prr34BRC1uhiapDI584bWibU22ReQkL2oehZvhzia2O2dvbujib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台远程支持设备，就是一扇通往企业内网的大门特权远程访问（PAM）和远程支持平台长期被安全团队视作"最后一道防线"——所有外部接入请求都汇聚到这里，一旦失守，攻击者相当于拿到了内网的万能钥匙。Beyo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519414&amp;idx=1&amp;sn=06331b7197bacc2ff353c3934da04352&amp;chksm=ebe7ef01d397ad6226f81a466a0f7c6a2095c2429ada4b26d321d33b536f8f44190fbf864501&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibPHiaRIEzCq8WibzzZPbUvBn9gmvHb8HDSb6vrvAicAsPxpAclKl6hyZVicCvJzzfWOFAia74z1T2ia7ibosd6uaNibewO1Pk7ick9K4es/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.03.20~03.26攻击团伙情报MuddyWater 针对美以加战略目标的网络间谍活动StoatWaffle：朝鲜WaterPlum组织使用的模块化Node.js恶意软件APT-C-13（</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518151&amp;idx=1&amp;sn=60d84c3bf525ebf55298a09e7af99830&amp;chksm=eb540ab7d332e75091f7dda98811de119d5ed1d0417305e98029af18cf80f05296e06a509c13&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 10:06:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[又一个开发工具沦陷，Apifox遭供应链投毒攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9NK29LX2CCz4ibP0V6atGt4yP8ODUo1Y9FVFqiaakEDRS5gTSXzJUgqO4F1bcGibyK0m5v4fUlPNA7jk3GjYcxTe2RRp0ro7Xamw/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述Apifox是被广大开发者用于API开发、测试、联调的一款工具，它集API文档管理、API调试、API数据Mock、API自动化测试于一体。其桌面客户端基于Electron框架开发，支持Windo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518109&amp;idx=1&amp;sn=b9d326d632994618da5d45bf84923834&amp;chksm=ebcc887c14ff4aa529e773e68011a5c3dfa556cc274dca581b490676be9dfa1949449548b6bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 18:21:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
