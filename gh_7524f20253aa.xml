@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GPT-5.6 Sol被曝重大Bug，硅谷大佬Mac文件几乎被删空]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3MlJjiaicoGb5whaFwLp7DoWSM1wAza3KMQ9cucxNl3rDYFJahRM5kzicib5PsrF8tflbkwoJiaN6Xr3KJ4ymUeYuDOzn7dB3Vvor8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年7月11日，前HyperWrite CEO、AI投资人Matt Shumer在社交平台发文称，自己使用OpenAI最新模型GPT-5.6 Sol执行本地任务时，Mac中的大量文件被意外删除。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=1&amp;sn=30ae51eba566ed3187493e4e817d3124&amp;chksm=bc5df56aaf6d143aa8b685d347c37933e82d75131c920866c302abf5cb91c18875714cf0a778&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Odyssey Stealer再度袭击macOS用户，波及100多个国家]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1o7ub6KqMRa1AmYLAVmxnNzBKpiaWIVTbaEYbLOCfpbqicmsYX8GGB8I6EjD4qmyHHwJb3StkRgInrHP4lMxGmNKcHEsrHcVjaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Odyssey Stealer再次将目标对准macOS用户，近期攻击活动激增，已波及100多个国家的受害者。这款信息窃取恶意软件专门收集凭证、浏览数据、加密货币资产及其他敏感文件，可迅速暴露个人及企业</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=2&amp;sn=b43e46bec15c365c0a0ea97c394a8f1a&amp;chksm=bc7d6590057f76420da707dee18df22e19d17ccf7e22f0e51bff9cf5f4c2321fcee813b4caa1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pib4REHpU0Uc2PWGiaQR3oibu7GPIZ3f6gpuF8iaU5UjgibIpBFellrNZ1Fr6DicTnMbbgwI1kjTQNvpjT10IA8NplzazQ2LXv8ZF4/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=3&amp;sn=39fb9dbf5034494308da9a5665e13d84&amp;chksm=bc208aa362deb2ba42ba083bf331b35b76c17cc5aa7b9dd0450400826cb242d54775b6af298a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[公开GitHub Issue可诱骗AI泄露私有数据，绕过防护仅需一词]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ibbSbOibqIaerXFOjlGHibYK9Apv5D3YMqHv4P5CAgKVnjVsVeVtMtgQUIKnhVaBfmryV3sdeQ3Q5GVQ4NCdeic696ero5JpQhhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Noma Security研究人员发现，攻击者只需在公开仓库创建一个看似正常的issue，无需窃取凭证或获取组织访问权限，就能诱使GitHub Agentic Workflows泄露组织私有仓库内容。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=1&amp;sn=81701698d2244e88fb746d9f92c1b9c5&amp;chksm=bcced7098a97eaa2ca2537fa2569fcd73c15afb7991e31b0cc3bc809ba9705b9064e2dc2482a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[斗象发布国内首个针对AI的攻击测试套件（社区版开放下载）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1laYSzbbgibM9NpggQMvLFGPwEVpdyEezkgaUQxcNnC8iczm01ZoEOztxdVkozxbwGGEJbgSGoibdIQYicw7m2HRhGmcRb2FarmRQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型和Agent快速落地，企业AI应用从简单问答扩展到工具调用、知识库检索、自动化执行，安全风险也随之升级。 过去主要盯着模型输出是否违规、泄露🔍，如今风险更多藏在Agent行为过程里：越权取数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=1&amp;sn=c6e8c1255eb9b51ca8d59822442f95aa&amp;chksm=bce430c24625303db2ff736a9690c877279fc9592c6aecdaf1b5356eaa7c48bcd8d48b251652&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Exchange服务器权限提升漏洞PoC利用代码公开]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3Rkvs0sdibMOan1vjQm94Ry1CialWsFKibgUltkyHlypm3t9bHbk6HRv954YckaN0DlAibLd2qJ1BUDDKHmwo660NqLjetmRZIadM/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对CVE-2026-45504漏洞的公开概念验证（PoC）利用代码已发布，该高危级服务器端请求伪造（SSRF）漏洞存在于微软Exchange Server中，攻击者可通过任意文件读取实现权限提升。该</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=2&amp;sn=fc69653601deaf68677811a4a5590b0b&amp;chksm=bc33d922fccc6ab07e7dd85b2629d5de6b37771ebc0613ead3ccf985a7a63e1283d1c0d78ddc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[红队AI工具漏洞致攻击者可窃取API密钥并入侵操作者系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2bU4Vu7GxphpkibgR2ncGiasLb3tulR5I154IvFx7hrL8mct7UQS4KJrz0nmu5XEt3nAmO4AKT24ib3U63p19HXaKP3f1UoDbh9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cracken安全研究人员首次对12款广泛部署的自主式红队系统（AI驱动的自动化渗透测试工具）进行了深度安全分析。研究发现这些工具存在重大架构缺陷，可使攻击者窃取LLM API密钥、建立持久控制，甚至</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=3&amp;sn=4b1e25bcaf5740ad3bbee6b182acc735&amp;chksm=bc328815a85ab80eb3a84a655c748452ea58379e1d56c67adee75736441cb6367ddc8e2ca4cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[libssh2高危RCE漏洞可致未打补丁系统遭攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2p3Qj7nc4KVZjQF9hzXbJfkza1KGSnGctnKMaTRugm22gAJWdVVBiaNOBxB9yHLn63EZ0amsLTRRwYGK42GmMS6cmB8fBXhosE/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对关键 libssh2 远程代码执行漏洞（CVE-2026-55200）的概念验证（PoC）利用代码已公开，这将显著增加未打补丁系统遭受实际攻击的风险。Part01漏洞技术分析该漏洞影响 libss</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341222&amp;idx=4&amp;sn=7ae16553f47d00776bb3270dc0cae79f&amp;chksm=bc8db277acfc5db2a77f078d6a522ecc253cd169feca04de24fb05d4b8b67815b0d15810c40e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Jun 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美团的童鞋（产研？客服？），麻烦您进来看一下...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcj9b1sILbKyqCd0I4jh5uUAAsTVyIr3k9WWMVnrQHbRpmvwwyticEia2WBqzzMAjomXhcTXHDRv2eALCpicGQTuzSR1KL3pnO3zo/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是美团的深度用户，黑钻会员：外卖，到餐，共享单车，民宿酒店，旅游门票，买药，电影，足疗… 基本上都在美团，可以说，美团已经是我生活中非常重要的一部分了。今天早上遇到一个新的问题，不确定是不是系统bu</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981349&amp;idx=1&amp;sn=18da5bd8a77365614d7b2adb07e71d46&amp;chksm=bc5df7bf984785a4da91789d4b29e6fad1596dc0b933570e2e39bebb4b73470e152627511050&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 12 Jul 2026 12:24:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如果既不自洽，又不舒适，那么你真的很危险...]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfibbxzIKCyJKTPqfP7zZ25SWNeVXzsqEEodnJzLoUFXnnnKkicLGry1FQk7FHu0Z5FsEAyoTXkeRIhcqiaUGG4iaibfZyubgpzU6sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>9个月时间，面向星球会员，做了一个《决定人生高度的9项底层能力》行动营，7月份开始。每个月，深度拆解一项底层能力；每个月，4次直播+4次图文+4次作业+4次资料。 7月份的主题是《人生目标感》，昨晚进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981336&amp;idx=1&amp;sn=39b94ea64f6d423f51d79b5486cfabe1&amp;chksm=bcec4d5ff276e719fe0d49fc9e0605addcf812800de7d22375f5680532a6b428d0fd07dcee68&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXccE04FCTNAzcNyO2QgtOu00gFLIww6uoibpUv5m2s4a2rAXFulfJcdCY5RKeVCVV6AIKCic8icgIQgdZgQD8q3JKP53BxpYKCc3s/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人问我，沈老师，拍短视频如何把画中画剪得自然？开了一个新号，讲讲自己做短视频的来龙去脉。一部手机，每天30分钟，就能做。视频号要有1000个关注，才能开通认证，请大家帮忙关注一下。感谢，感恩。做了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980959&amp;idx=2&amp;sn=72de46ca12c66398896e1fe8620d11ef&amp;chksm=bc72a04a8ace32aa3fc1fd6af95ffb345c471210c94c5070b33fb6304487d96d64c58aeba1c2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Apr 2026 11:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你是不是觉得，别人的OpenClaw非常主动，而自己的OpenClaw只会被动响应，很少提出建设性意见？你是不是觉得，同一个会话聊久了，上下文一长，OpenClaw很多事就忘记了？ 很可能是因为，你缺少了一个积极主动的skill：proactive-agent。 1. 如何安装？ 通过跟OpenClaw聊天，让她安装 skill proactive-agent，注意，要讲清楚名字。clawhub慢的用户，可以试试skillhub源。 2. 有什么特点？ 装好后，可以让OpenClaw读SKILL.md，为我们简单介绍下这个skill：她可以将龙虾由一个任务执行者，变为预判需求、持续进化的主动伙伴，她有三大提点。 其一，主动。 - 能预判我们的需求，并主动询问 - 会反向提示：提示我们可能问不出来的问题 - 会主动提醒：检查重要事项，并主动提醒 其二，持久。 - WAL协议：回复前先记录任务，细节与偏好 - 工作区缓冲：上下文过大时，缓冲关键信息 其三，持续进化。这一点和之前介绍的self-improving-agent有重合。 3. 是什么原理？ proactive-agent会建立两个md文件（所以，她也是纯提示词架构）： - SESSION-STATE.md：当前的活跃工作区 - working-buffer.md：工作缓冲区，上写文溢出的会写在这里 其中，SESSION-STATE.md是核心，就像数据库的"预写日志WAL"，把我们每次： - 记录的任务（例如：完成OpenClaw系列文章选题） - 纠正她（例如：不要直接安装skill，必须经过我确认） - 做出决策（例如：优先从skillhub下载skill） - 个人偏好（例如：我不喜欢黑丝） 从会话上下文里提取出来，写入SESSION-STATE.md，再回复你。 基于这些决策与偏好，她会周期性的提醒和发文，基于她对我们的了解，主动询问，能为我们提供什么服务。 同时，working-buffer.md是一个辅助，如果长下文过长（超过60%），就会将额外的信息存储到这里。 当我们和她互动“上次到哪里了？”“请继续”的时候，proactive-agent会： - 从working-buffer.md读取超过长下文的重要信息 - 从SESSION-STATE.md里读取当前的活跃任务 然后告诉我们“最后的任务是xxx，是否要继续？” 限于1000字的篇幅，proactive-agent的其他特色，大家可以和她自行探索（详见SKILL.md）。 希望自己的伙伴变得更积极，更主动，更持久吗？proactive-agent，或许就是你想要的。 希望大家有收获！ PS：你喜不喜欢黑丝？]]></title>
-      <description><![CDATA[<p>你是不是觉得，别人的OpenClaw非常主动，而自己的OpenClaw只会被动响应，很少提出建设性意见？你是不是觉得，同一个会话聊久了，上下文一长，OpenClaw很多事就忘记了？ 很可能是因为，你</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980941&amp;idx=1&amp;sn=752f4fbb05bba4a5d00b8d97cf40a3f4&amp;chksm=bcc7fe0c136e21607bccd0018957ddaf3382a8d42066fc28a2cdcf497fe6b511fab16439cac5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 11:57:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
