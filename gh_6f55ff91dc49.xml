@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个 Skill 让 Claude Code 看懂视频，还挺实用的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU14fUganRMCcwV8TJxlP8Z3KFaDjUvKsGsmVWbNV2xf0SAZLicI949SvdRpvkxbHTwPUlnbLZbvOjiaosUJmF3jLSSbPj2W9bEyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 配一些基础的 tool 或 skill 就能读网页，看代码，处理文档。但视频一直很难搞。你丢给它一个 YouTube 链接，它大概率只能读到标题、简介，或者拿到一份字幕。可很多视频真正有价</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535343&amp;idx=1&amp;sn=5c13d73a81e83427597b51786885aa1f&amp;chksm=f8d269db3cf7c789dfd5d2775807d4ec885c3f0ad68e915d69085a5054643867cf8ec9072d7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 14:30:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2v2WW9Pte8meGoavPbo5gBBaMhIicqWLzdibcMvFgpPZQNfBiar2HV3Xjwpp1gkRxCjQDR3vJic3ic7fMzX3lk6fp0d71T92YfichwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在让 Agent 做 Word、PPT、表格文档处理。有很多 SKill 可以用。比如 Anthropic 官方提供了 PowerPoint、Excel、Word、PDF 这类预置 Agent Sk</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535342&amp;idx=1&amp;sn=ed0bff20ca593bc05d8fa0f144998862&amp;chksm=f85fe93e8e5fb12883ba8f3557e51b868b9f1d617a13691f052f6580c04d4dfa3f9f90d422a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rYjhrmTXh7Ieh5N2W7m5hWL6XZbyyE35YsI9JYr43nLNPYovNmho8u2dzJwVnCQfN8hnJc4KaooiaojwxOBFk3Vsg1L64JrMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>上个月 Anthropic 放出了一个叫 Claude Mythos Preview 的模型。这个模型强到离谱。英国 AI 安全研究所对它做了测试，发现它能自主完成一整套企业网络攻击：32 个步骤的攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533526&amp;idx=1&amp;sn=716bda7ad91edafbe1206ad84ba4843a&amp;chksm=f853f04c40e5983a3582c496dbfd66f4efd933db333504a08184f2c046068e80fb27a85a2f5d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 May 2026 14:48:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0qFkJjScYyjUxSsDm7E0wxvcbsFRB787qlk3AeicaVVRXYYeb3EXumjLSqGicZia4uYazbqIjKfloZBM586cicOo269HBHdCrrqsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Design 发布没多少天，GitHub 上就有人做了开源复刻版。4 月 17 日 Anthropic 上线 Claude Design，基于 Opus 4.7。输入一句话，直接出设计成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533509&amp;idx=1&amp;sn=63efab10344f2db0e4f2965dc9bbaeab&amp;chksm=f877028c1e93cc519da74631cadd2aafd64a5a6d1b0cd0b60bfc1e977190d839708cef405a7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 05 May 2026 12:24:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一封邮件向AI Agent植入持久性虚假记忆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TD3cNXVbiaoM5ysEPKPLiaTOiab5OsCIzCp39fokWwibJybGjuibmqSSbiawk98mU9fEVOia5AH8cy8icDgDBHyMH50ViaBGEnPyQSbSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>只要赋予AI助手记忆功能及其对收件箱的访问权限，攻击者就能借此改写该助手自以为对你的了解。一封邮件就能诱使AI Agent保存一条关于用户的虚假“事实”，隐藏更改痕迹，并在后续对话中悄然改变其回答方向</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=1&amp;sn=aaee07864756e35098eea57c60857718&amp;chksm=bc7876244c752bc3384273011f88b537f9ca8521e2710094445840c9e3ab07f2ba5d60d698c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者全网扫描MCP服务器与Claude凭据，AI系统面临数据泄露风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2LibObOuKhsBKa29TUkA3ibPsF207QSn5bKBAoYdyOJe5whnyiblIFMvic3cmo1KFlO9BJCYKpVqfRCGDW9n8SgzgoLCwnu3a7FVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>面向互联网的AI系统正成为机会主义攻击者的新目标。安全专家发现，威胁行为者正在积极搜索Model Context Protocol（MCP，模型上下文协议）服务器、AI助手配置文件以及暴露在外的本地语</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=2&amp;sn=aad7e67b4841f3ed9c8fcd9102be444a&amp;chksm=bc344f9aa2bd19e877c25af96e71050062df6df3e733cf8a0dc317e48f382c0dfe79863cef10&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用疑似AI生成的PowerShell脚本映射Active Directory]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1GrDjD1c0CxGHueZtTSibB4j34B6nbJ3lF1NMIb59GUPeiaqYibeF5IunR3w1BsyNchkMImhEKyVvRT68IYV5d2ZyqVCicW74Rab8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01从RDP登录到AD数据打包外泄网络安全研究人员标记了一起入侵事件，其中一名未知威胁行为者利用一个通过AI生成的PowerShell脚本（vibe-coded）对Active Directo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=3&amp;sn=2e3b21b09bfc1dfdc6959cb181ace2da&amp;chksm=bca3c0b62e7533d6562542e2e4ffa32be14a77747a4aeac04f8c56a51aae2e166505e5ad5280&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型macOS窃密软件伪装苹果崩溃报告框架，窃取浏览器凭据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1YssTF0qJ9VN6FnL6bd2yux2A5HCoFt7oEDNmw2qwibnVGBg3Wic19llo5R2rgiaP5ZUl8LKyZedSeuPQw97XxnM8iaomVr5Xbg1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>CrashStealer是一款原生C++开发的macOS信息窃取器，它伪装成苹果内置的崩溃报告工具，用于窃取浏览器凭据、加密货币钱包、密码管理器数据和钥匙串内容，然后将所有数据加密并外泄至远程命令与控</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=4&amp;sn=0f993bbf965fe8bfb97c79785aea82f3&amp;chksm=bc2f4290dfdacdbe51bfecabba108c3ae45fc353a0d9e12a16a7174e7e4c042d2a646a6ae4ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苹果起诉OpenAI使用技术手段窃取商业机密]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0QIXCxKwuiafKefz4XUVAMsXICPibs6jz01z1kg0oAQWE2yfjLfhkA5AlFQiaIePoDUV6iadicFGh2Qpqd08SJZCEM4eu1dZHtfhGk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01苹果起诉OpenAI苹果已向联邦法院提起诉讼，指控ChatGPT制造商OpenAI通过400多名现任职于OpenAI的前苹果员工，系统性地窃取其机密硬件设计、制造流程及供应商关系。这份长达</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=1&amp;sn=85b7a6a88a5b7f02b78b5ec0f3c35b0e&amp;chksm=bc75609e419c8a60655604a6ecbb2cc8e49d834043cd664565b90b77594078bd93ebb41866ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2mEbhibWmADDDkoXiauoevtice3lO5eb0mSQtL8VHE1MmlGibB8gNB04qadppvc2JXEznRa0iaz0la7xZVx6IDxjOGEFiceEUibRRNUc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客宣称窃取630GB数据后塔塔电子确认系统遭入侵作为苹果和特斯拉主要供应商的塔塔电子，在失窃数据被黑客论坛公开数周后，最终确认遭遇网络安全事件。该公司表示网络攻击影响了部分IT基础设施，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341351&amp;idx=1&amp;sn=26b1c05d5fa008eb0ce61e0c5a03b4dc&amp;chksm=bc2be2aeed4f4d187caa947a311a3bd6a714eca165d8bb97f8287e59f6da9f28257a568a8ca9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 28 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DirtyClone漏洞可致本地用户静默提权至root，绕过监控不留痕迹]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0kpNDGkibC3xeFplxZEd5NHr7kQiaqrHzCgRmjhlUs4E7La8biaks5YTwWdibzJQkjezdo7UAf9xyBAniaKqlt6PdfcJMQHiaXA0fdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述JFrog安全研究团队于6月25日发布了针对CVE-2026-43503（CVSS评分8.8）的完整漏洞利用分析报告，该漏洞被命名为DirtyClone，是DirtyFrag漏洞家</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341351&amp;idx=2&amp;sn=6be50a16085c713471a8005a75a8ac7e&amp;chksm=bce5d80546929c3140e7df14e7f67b7b8f5f3a03e68e73167da498016ce7e918f33d6ba07eb3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：智能体安全研究报告；AI自动化安全实测；新型无代码攻击曝光]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3NlEOJar6FGfPIMY9ltpmUTu1n2BkibRtVzHWDX13OyMWd3cFaNUFodv4TbFxIib4SuBwGoZnhN5pxK9WiaYZ5oTgDpyicnXEKb4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341351&amp;idx=3&amp;sn=55f30d1fee5b2741386d3d3665e3417c&amp;chksm=bc9e946f3d23d1e3a251ff9b62f2f7b7ed54f48bcb3a1ef15e47b0003dd8fa1b286b37620bfd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-5.6正式亮相，但被白宫装上了“安全门禁”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3VAbGdShjQ9ks3mqCCn9Zr7SyScicZ5XPLyVHibelSenQG5ibGtaAYd2D5VicraiabZOqEvwHLhFdVDbibb2GMstToWvbn5YYZW7qCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI正式发布GPT-5.6系列模型有限预览版。该系列包含GPT-5.6 Sol、GPT-5.6 Terra和GPT-5.6 Luna三款模型，分别对应高难度推理、大规模生产和日常高频任务等不同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341309&amp;idx=1&amp;sn=9afc5021305207db4b56448f2d298c80&amp;chksm=bc4efd5d2cfde9f4d358f3c696aa65c7c341e85bb2058edb80ca29424675c1e6b473319271de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Jun 2026 16:00:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos 5部分解禁，将重新部署至美国关键基础设施机构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX089I97X2I2xFwJhGolA2hViaAtLN7BxE5aCjeia7pFb3dK9Ps6rYZos71d8QpnLD8x3J56HIgEHzuLSIOMFclNnotRgJ0CDIucg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic公司证实，其最强大的AI网络安全模型Claude Mythos 5将重新部署至一批负责运营和防御关键基础设施的美国机构。这一决定源于2026年6月12日启动的政府主导审查程序。Par</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341309&amp;idx=2&amp;sn=b3801c119db807542afe6191fa49eddc&amp;chksm=bcf42cb83fa7822e11d9479058b09ab316df050905e38c497c186c998fad34f6022b9471c454&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Jun 2026 16:00:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

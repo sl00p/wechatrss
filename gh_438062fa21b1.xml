@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4MzticwltLHZf5QvyKtHLwoX2l5dhrfu2ZydlIVKzdA1aEaslYIFn29tAMHHzco6iafiaIAbbIiaibm4iaj8rMvdsEmCrtCBMv3Xf8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 36 篇文章（ 本文阅读时间：约 20 分钟 ）01项目背景我们团队今年在 AI Data 方向共有两个命题，一个是「数据研发效率提升」，另一个是「数据价值交付」，在项目启动之初，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510241&amp;idx=1&amp;sn=04d54633f1d91d27be6580eda8b503b2&amp;chksm=ced2b0871bce8cd257298707bfd29c35b5e7121b563caedafa97c060feb58e71a105768c3c22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 18:08:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个小模型意图识别系统的 5 天进化实录｜支付宝618]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4fEmR9mrB3ZJm1ibcTjCP3ocIsbZnzwu9ia15s0dM78MMuflQ9BePsvXhlzACKc4kColPYVODmLWh7z5ZvK5PeDj82uTE2xiabDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 35 篇文章（ 本文阅读时间：约 25 分钟 ）01业务背景2026 年，AI 不再是一个 buzzword——它已经切切实实地渗透进了每一行代码、每一次技术决策。说来惭愧，作为一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510088&amp;idx=1&amp;sn=ceb536a3507268c3b0f6fec609b233bb&amp;chksm=ce107be432df44683dfb0405b948b94d90fd0541ddd356ca65dcc4cb493ce57f85d9e8413801&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FzofTrxNKb2PLl5jPQ4cGrseX75yIEJiaViaZpONG0NCNbpkiaibjMPg0rSxY9GEqmTa5UtbV8t7bzkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第120篇文章（ 本文阅读时间：15分钟 ）本文整理自阿里云智能集团高级技术专家周礼在 2025 全球机器学习技术大会上的精彩演讲《Apache RocketMQ x AI：面向异步化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508890&amp;idx=1&amp;sn=5b08490308cdf32cc37727881aab25d3&amp;chksm=ce6ef988524f04354465d1d27328f8a22205d663569fd74733af005cb6dd207e74d9590c758c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Oct 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高德车道级地图：从感知智能到空间智能的技术跃迁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30EPM2vNGmLoalOzSVpzo1MibSdorVoHYfK9MKQmTBdrpM1n5MicTsx1KBRySsqoHop3EApwJ5c3C48w/640?wxtype=jpeg&amp;wxfrom=0"/><p>车道级地图：解锁精准导航与智能驾驶新场景高德地图作为一款国民级的APP，为用户提供一体化的出行、生活体验，是我们最大的愿景。在瞬息万变的交通环境中，“该走哪条车道”曾是驾驶者的普遍焦虑。高德地图以车道</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508883&amp;idx=1&amp;sn=e7e6f80cb1c0c2e40cb2996bf91ee889&amp;chksm=cefc3b4c545f7bc812b78bbfe48f0631b209b344ae4fccca347f5fa82cbb74155494318b46bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Oct 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

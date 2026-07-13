@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从超级个体到超级组织：1688 数据中心 Multi-Agent 研发小队实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y8oJ7ibqX10IUgRtxxRQav7ukRrPwYyfUran8wQEOtL4baibm6lJuj94eicY9F7rU4USVjvduPDnLBaxMWLMEiaBFOsxglgMdJzGc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、前言我们在做数据研发领域的 AI coding，在建设项目能力的过程中和集团很多的 BU 都有深入的交流，今年发现大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561481&amp;idx=1&amp;sn=fc2b915c55510ec99e9cf609720e378f&amp;chksm=e84929c808972c2d8d8e92b3a32356706b2c157fb3dc51b41d5eb6f0649789b57b0ef711f9b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 14 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[淘宝内容生态：GrowBrain - 淘宝Agentic内容成长引擎]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJ0j9CiaeYMYD9wBVKMdEmibfibM3PvwiaobllET03IzvC3zOpAYvH5sib0gc9qiaSOg3e6ebpdQWsTauhbqaEZLA6tdATiaM8vRFZYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景与动机淘宝每天有大量新发内容。一条内容在发布初期能否拿到合适的曝光机会，基本决定了它的成长上限：流量少了好内容还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561428&amp;idx=1&amp;sn=037c032be851bffa7adf403e63bc0486&amp;chksm=e875813851341efaeb64f56b7d6af275a2660fd96d60062e1ae83268c8ba9cfc0906029e3792&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xt2HcC4N9kOiczS78tJwoEg4PCWOmwjicNgCISxHqiboGOuJlhp72q566NTZbNb8csib6fGItC3DfTsMjdfKt1IR7icSd0djgama8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文讲述作者对 Memory 的一些理解与思考。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）Memory 的本质本文所讲的 Memory：指 Agent 在长期</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559363&amp;idx=1&amp;sn=461e525a0373ccfed0a7638cc1c51906&amp;chksm=e8ad0b2f080d61b3dcfabc6ad56f80eabc317910d3d7364db69adf19a1813c9e41dd308797ff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 为什么越用越好用？本质就是一堆 md 文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zGiahOW6hM2hcibnOl8fVZlSyIrbCqVArTWYraibr6GAOA0WH9AZksaia9pyuLz9ZIWTvG1IIhATdK9jSmSndBxKQ7xPBv2RUB1aM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。最近深度使用了 OpenClaw，基本上每天都要跟它交流几个小时，也慢慢摸索出了一些经验。看到不少人说 OpenClaw 不好用，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559355&amp;idx=1&amp;sn=def05b645d71962cd938c20213fb5e12&amp;chksm=e81518ab04193d8c0638b85d413e737e7d22b11f070191ff861bc1fbf861b896d5479014da84&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
