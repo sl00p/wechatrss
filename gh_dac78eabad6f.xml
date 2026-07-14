@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何将本地CodeBuddy/Cursor嵌入在线应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5w0ndt65IhsdqJuVdG0OwINuUVhwrib4SNNMtbqmiacI7adUbD8FINNLWvPib1UCS9CPPnaNN30hhUia8EYq0OqFpoGhmuoZoWGwo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文会介绍如何把本地 CodeBuddy/Cursor 这类 Agent 接入在线应用，重点拆解从裸 LLM API、自建 Agent、Spawn CLI 到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696401&amp;idx=1&amp;sn=d7ae12fb6298a719d8b17f3855124707&amp;chksm=eb3b296dfb9f80c55983220caa267686a32e036aa102005aec93048812bf14b144d90002c11a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cube Sandbox GitHub Star 突破 10K！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5qtLQnyWg2HeVRPf9BkdCDBmhqIMAOXK0dwq8XjiaOXE8ic34Ffn8oaQHGl0G1ibxXoDfSJic4XCwkHSibiat9LA2aLeZSqONE8oIfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>🎉 7 月 14 日，Cube Sandbox 的 GitHub Star 数，正式突破 10,000+了。从第一行代码到今天，我们始终在做同一件事：为 AI Agent 打造一个更安全、更快、更可靠</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696401&amp;idx=2&amp;sn=f6c96e94fbf2edfedfbf2451a22b2068&amp;chksm=eb0f99350537217d6df56293d07c8cdf206db6e09b0d65743da57443397236d45c01b798e37a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全国首个WorkBuddy OPC合作社区成立！社区合作计划在全国开放申请]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5iaoHS9zrpUmNlvRMfMHib6iaoEc7S8nvOl2hmh4cUpMNjxEibkLWiadWb1rh6km7XsozQQJ0kDAbAmvBu0KCdAgia1UTZ2M9VCuq8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>全国首个 WorkBuddy OPC 合作社区在成都天府长岛数字文创园正式成立，发布“WORKBUDDY OPC 社区合作计划”，并于次日举办首期 OPC 训练营。WorkBuddy 与腾讯云开发者社</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696391&amp;idx=1&amp;sn=f80cfa1b09880c39e053b7a8fb112a25&amp;chksm=ebe7bd68f4d354f20c5e5f42f39a0869e68f469a8ae87b6e3b57266e2e95f2e779f0e53a64ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4a7W9U3UxC9eMeKMEDpC8lTLgvYqYMNQhknwy8bolib6Xqr8UDbT1fibfZEQOYqibBAQTtu9nyib9LNvy2o3Ucq9slIuEa6KnH1F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇还记得手动部署的古早编程时代吗？代码写完，打个 tar 包，开 FTP 传到服务器上，SSH 进去解压，改配置文件，重启服务，刷一下页面祈祷别 500。有时候还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695184&amp;idx=1&amp;sn=f48d917721d119b4634ca01619b8bcd8&amp;chksm=eb6c814e73c86e9e132fb2512449b6104cd7a56c14a0eec73bbbc0d60a2a06974e05ece511dc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4亿token买来5个教训：让6个AI Agent连写4天代码发生了什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7tW6EJ1sibMpruBp14vNgaATmknOfY2mFh2S3fqcrukgKrlQaY6s1lzrFZiaKm25aicD7ahYdFxLfVB1CGNtuTmB2RQbTG4trOQk/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我原本以为最难的是写好 Agent 的 prompt，但其实 Agent 只改动了一两个版本，更多的精力都在如何让这些 Agent 稳定运行。这篇文章不讲代码，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695151&amp;idx=1&amp;sn=d00ab30cbefa36f0f860ef37f059600e&amp;chksm=ebbe984c94445285caa8c9393af0a09b111bbb00fdf0ad00d172802b605bee215142b6fbebde&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[赛博斗蛐蛐：9大模型决战三国志，天命在谁？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7vmmicFNPFqWqibK1IkbJBBtGUpa7qHE5icd659vlSTV1zKfOHvMDFUBafWjIJNo3Z0vzYW2ibekdSYWQPhRnJdYKBm82nTKicMCkM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇九个旗舰大模型决战中原，究竟谁才能问鼎天下，傲世群雄？ 最近vibe coding练手写了个简化版的三国志，并接入LLM让LLM来扮演各个势力的领主，最后的决赛</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695142&amp;idx=1&amp;sn=af2cfe933dd06f9e49243b5a957e3e1f&amp;chksm=eb5ee9ab3d0eb4afad43cbeb353e2d541d0e11355e6d22151aad85cf62961e5d633b2e6762c7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

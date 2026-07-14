@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 狂揽 21.7K Star！这个国产开源神器解救你裸奔的网站。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yNibU3xIAmpK6oiaVJLYSevwr8O40WOIOiablCTNB0ib949JKybnTonGxzUTCPiaDaCSTjTJVkvwJ9w3IkzhTiaMHut0Zn9RS7mwiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你有一台服务器暴露在公网，哪怕只是放了一个个人博客服务。过不了多久，你大概率就会在日志里看到一堆奇怪请求。还有一些访问频率高得离谱，感觉就是拿你的小站来压测了。网站安全防护并不是大公司才需要考虑的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535351&amp;idx=1&amp;sn=be4428795c5045cb635ada67bbd57175&amp;chksm=f8722bacb6e99475406773910701dee7cde25e73b219dda7ddfd37ecad6b28898f317ad5ece6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 14:20:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个 Skill 让 Claude Code 看懂视频，还挺实用的。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU14fUganRMCcwV8TJxlP8Z3KFaDjUvKsGsmVWbNV2xf0SAZLicI949SvdRpvkxbHTwPUlnbLZbvOjiaosUJmF3jLSSbPj2W9bEyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 配一些基础的 tool 或 skill 就能读网页，看代码，处理文档。但视频一直很难搞。你丢给它一个 YouTube 链接，它大概率只能读到标题、简介，或者拿到一份字幕。可很多视频真正有价</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535343&amp;idx=1&amp;sn=5c13d73a81e83427597b51786885aa1f&amp;chksm=f8d269db3cf7c789dfd5d2775807d4ec885c3f0ad68e915d69085a5054643867cf8ec9072d7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0eep9VoZVKwJkvicm6PoszAyialtO4osic4RYXtcn6uCISWXmOsmz3ibibgABghdVeoicLrT6ibQpBNsPaCWpKoZ5ZOP9MIK2zLszyJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间介绍了一个开源的 Skill，可以让 Agent 控制你的 Mac。纯视觉理解桌面上的任何软件界面，像人一样去操作，而且全程跑在你自己电脑上，数据不上云。继 Skill 开源之后，最近他的端侧</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533529&amp;idx=1&amp;sn=cb5c3b295b802b594f045376f79e2a8a&amp;chksm=f8bde3016999999469545111a98b52d57226065ca92770f88683c4c90f5381bad9999c0c6ce7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 12:53:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub上狂揽 1.1 万 Star，22 岁开发者逆向工程了 Claude Mythos。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rYjhrmTXh7Ieh5N2W7m5hWL6XZbyyE35YsI9JYr43nLNPYovNmho8u2dzJwVnCQfN8hnJc4KaooiaojwxOBFk3Vsg1L64JrMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>上个月 Anthropic 放出了一个叫 Claude Mythos Preview 的模型。这个模型强到离谱。英国 AI 安全研究所对它做了测试，发现它能自主完成一整套企业网络攻击：32 个步骤的攻</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533526&amp;idx=1&amp;sn=716bda7ad91edafbe1206ad84ba4843a&amp;chksm=f853f04c40e5983a3582c496dbfd66f4efd933db333504a08184f2c046068e80fb27a85a2f5d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 14:48:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

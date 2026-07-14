@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Android ARM64 内核态内存访问与隐蔽交互机制逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1pf1wSzIqdU9sY42XypfARHcX7SWibia12XwL2IvEURWFfjOiaEbaib2yReiagwGkjz7hAZReLOMblQ34GJy1c9E1q60QqricdAqdv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近一个朋友发了一个 PUBG 的内核挂过来，名字就不说了，避免麻烦。久仰外挂隐藏之大名，正好拿来看看现在的内核辅助是怎么写的，用了什么技术、怎么隐藏、怎么和反作弊系统对抗。样本是一个 .sh 自解压</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617607&amp;idx=1&amp;sn=16b716cce03ecf76194c87154fe32799&amp;chksm=b071d24c8242a7f173d09c67391184275a41aaf49ccf0538b2d0fe0ac7bcdba98d2c78e3b87b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软史诗级补丁日：622个漏洞、两个在野0Day]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K35ANKEvAOBXyQ3R4yKu0kXU3eV22ZUl5shniajKVoZIibo1RlRyjnwJO01d6hA2bTwWpRRrjftttRKSELtOnUyEiaDsWu5xKTWDI/640?wxtype=jpeg&amp;wxfrom=0"/><p>622个漏洞，一个前所未有的数字还记得上个月微软修复206个CVE时，大家都觉得那是“历史新高”吗？那已经是过去式了。7月补丁星期二，微软交出了一份让整个安全圈目瞪口呆的成绩单——622个微软自有产品</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617607&amp;idx=2&amp;sn=7521a846e88151a555ba4193940755c8&amp;chksm=b0f70378ce3c8caf2229e642ead5952901dbf4a45370f3e09e8f645c7537c4be10223100bb9c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【可试看】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617607&amp;idx=3&amp;sn=a746de994e22be84c7be16de2705aabf&amp;chksm=b047802f30d58d4ff49a7851b74a1fd570006fa2e1c762215be6526bdb7a9a84abdf62bcf94a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 15 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[电动牙刷小程序"越权控制"逆向]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1eeq4koAYbOWQ2gMznoCL6yGC9YLYEYiadoBjMeOBaLicNGf4K1l4jgVI7xcqkCabZWvUZAAG2JE4lubVGU0wu5am0jOibbnmuqM/640?wxtype=jpeg&amp;wxfrom=0"/><p>说是"越权"，其实产品设计时可能根本没考虑鉴权。逆向对象微信小程序：某品牌智能设备控制小程序。工具wux1an\wxapkg 微信小程序解包工具 + 3.9 版本 Windows 端微信GitHub</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617595&amp;idx=1&amp;sn=35241f6e1cca7d4384db0abb5b1a6048&amp;chksm=b025477588e00c35e6cc49de718ee1eb7e55c1c20442a3be4f86eab15a6a64aa0979e410c989&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1lOGnxkKLSRVX8Eoiau6wcopNaBmy0QZtHIiahd0ro2l2kCbqDejBaP74zteq8E0LBcfTLNwE65wRsvNKhjnJCWIGquYU0xF2uY/640?wxtype=jpeg&amp;wxfrom=0"/><p>该方法最大的作用在无法泄露libc时可以调用libc中的函数，其本质是向一个地址，写入一个值，而这两个部分都可以在一定程度上被控制的。分析源码前，先看一些相关的结构体与宏。结构体.dynamic该节存</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=1&amp;sn=6754cf279a5824193e7817edc480ca63&amp;chksm=b0c5da44626e2481731078e9b3db348535555984408bf4b51cc57b5ad9de483f8354827cbbbd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[移动的边界｜HG TALK 第三期：对话非克]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K37oNh7lzebiahny3CWXoub76HKgzEp3vGCKpsWcFGqdwpEntuJsf4fv5V6xUue55Yfl6FLibx8txZutsdQ4SFy0S8Puw5cHfyY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术不分咖位，热爱才是一切。上一期，我们把噪音变成了信号。这一期，我们坐进一辆“看不见的车”里——和一位在移动边界上找漏洞的人，聊聊密码、车轮与机器的安全感。非克，奇车安全战队队长，车联网与具身智能安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=2&amp;sn=69b7ee6ba44d741518ab9d60150708fe&amp;chksm=b0f46de39dbf9842e09015f223e16b39af79786088d458f69e5eb607b0e3c8ebbb3178b3c974&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[潜伏29年！Squidbleed 漏洞曝光，明文账号 Cookie 直接泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1elAicMSeIqicgbOCKssFGIWicYa2ynbbNKphJialjalN3NUsaordJxPPZibyMI48iaYEs8UPwQy7gFJhI49WwWS0uTtrKtto2zW9WM/640?wxtype=jpeg&amp;wxfrom=0"/><p>0129年前埋下的定时炸弹来自Calif.io的安全研究人员近日披露了一个存在于Squid代理服务器中长达29年的严重内存泄露漏洞，因其攻击方式与当年臭名昭著的Heartbleed极为相似，被命名为S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=3&amp;sn=5ef5283583b302e88636f5228fd3b47b&amp;chksm=b09144fe43e89f06c2d500490886e6c982470d1397bd199869b76e5acacb00a78cc7494de443&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ELF GOT Hook 实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3HtoYdNFWYqUeyLrCwd4lvBibPHoY5SiaiafdicFHOBKt57g4d60icIpvHzLz0gF0VViaLQ70M5c4HVb3LTRXZUEFuKMxTicjR6Ibiccg/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近沉迷某游戏，排位连跪，手机正好有 root，于是开始研究内核G。找到一个好用的G，但卡密高达 一天 8 元。本着「能动手就别动钱包」的原则，决定研究如何破解卡密验证。初步分析第一步：识别文件格式拿</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616803&amp;idx=1&amp;sn=169a63cd320c405cc6f793cb0611de1d&amp;chksm=b00ac21fa60a205d5ac8922d33d3c6a731d1ff583b6829c689167c5d519527003025141a2a28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
