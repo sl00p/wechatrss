@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文讲透Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5eeoSALexaQNWaF9SMOGoL2X4wubXJLpFibe33Gcm5D0dtrL3ypypAbDHgQNHr2dxEKx7dIdeic55icjkWo4moO1GvYOUeSFVu1M/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇00引言：从“聊天工具”到“数字员工”的跨越在 ChatGPT 刚出现的时候，它聊起天来似乎无所不知，但一旦你问它：“明天的天气怎么样”，它会告诉你：它无法获得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696407&amp;idx=1&amp;sn=99394049f6a8ab40966f9116cf56c0e2&amp;chksm=eb0e6eb921a1b0992f67da0801a30dc4c23a560a2347cfccc00bd1087a48f1613728e452defb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何将本地CodeBuddy/Cursor嵌入在线应用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5w0ndt65IhsdqJuVdG0OwINuUVhwrib4SNNMtbqmiacI7adUbD8FINNLWvPib1UCS9CPPnaNN30hhUia8EYq0OqFpoGhmuoZoWGwo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文会介绍如何把本地 CodeBuddy/Cursor 这类 Agent 接入在线应用，重点拆解从裸 LLM API、自建 Agent、Spawn CLI 到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696401&amp;idx=1&amp;sn=d7ae12fb6298a719d8b17f3855124707&amp;chksm=eb3b296dfb9f80c55983220caa267686a32e036aa102005aec93048812bf14b144d90002c11a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6aVHeI8tnCnkWrGgDxovykgfuyHyrbWv5KlavygMxFhArHKY9qqUFDl7Fv6OIKk0YXSOsHmElxmb49x7XxS4vYC6rCQX2fnUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我应该是比较早就开始关注大模型，并且也蛮愿意积极拥抱 AI 的同学产品体验方面，付费使用过的产品就包括但不限于 claude code max、gpt pro/</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695194&amp;idx=1&amp;sn=030591ea76020210c5f06692fb30243f&amp;chksm=eb0c6f88453207f0a8a238dfed50445cd1d34bee36d216e0f3cd4ef517ce7361a301c69b7463&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[办公Agent的CI/CD时刻到来了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4a7W9U3UxC9eMeKMEDpC8lTLgvYqYMNQhknwy8bolib6Xqr8UDbT1fibfZEQOYqibBAQTtu9nyib9LNvy2o3Ucq9slIuEa6KnH1F8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇还记得手动部署的古早编程时代吗？代码写完，打个 tar 包，开 FTP 传到服务器上，SSH 进去解压，改配置文件，重启服务，刷一下页面祈祷别 500。有时候还</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695184&amp;idx=1&amp;sn=f48d917721d119b4634ca01619b8bcd8&amp;chksm=eb6c814e73c86e9e132fb2512449b6104cd7a56c14a0eec73bbbc0d60a2a06974e05ece511dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

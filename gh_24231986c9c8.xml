@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefYCVya3XCia046Yc5SdzXdow97PwuytJSoibT3FCqiashTCNUkY5CMZndXOkXIyOJBKaBVdBiaibWfRtPSdXAa1kyP72wTyicdmjhRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心观点：Agent 正在把 AI 从"回答问题"推向"完成任务"，存储也随之从"提供容量、承载文件"的资源层，升级为贯穿 Agent 运行、协作与持续优化的关键底座。火山引擎存储团队以 Storag</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=1&amp;sn=bd7a4aa7ed7ce2d4ca65e807f53392f6&amp;chksm=e8384cb08c12df351a7c097e167ab9ac81d20fc5e97d5045bd109bf028e690adfd868662b2f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9.9 元/月，用 AgentPlan + OpenViking 给销售团队配一个不会忘事的 AI 助手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeclkpkjicdLpn9zP5DUnzGQZbEwniaX7Ww46dvE2svNticgia8TDnia0iax9eWab399icdRXoEHWdjs75XicXxvIx1pOQXFbLKPrmb69Vo/640?wxtype=jpeg&amp;wxfrom=0"/><p>你的销售团队是不是也这样？销售小王下午 3 点打开飞书，准备跟进 A 公司。他需要先翻两周前的群聊找客户口头提过的预算范围，再翻上周的会议纪要确认对接人换了谁，再去云文档里看产品经理写的需求分析，最后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=2&amp;sn=d28d61e9a893bc39fdbe6797404755cb&amp;chksm=e8fd5832899ca1c3159f1b2d39705e546f0c8be1f8ec66ac3c8dd8aacb646c87b34daee5a217&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeezkRqIOoQlkDibuQKtA0LmTmxuGaZ55JrSvDz0P3CGxMwib21KpEOuqysMciaEC2icDF2MnYPZqz3NEQ6TOCcib6snUZMI6LqykplM/640?wxtype=jpeg&amp;wxfrom=0"/><p>“我的 APP 已经通过 AI 开发好了，怎么才能快速上生产？”——这是许多 Vibe Coding 用户感受到最真实的体验断点。当 AI 把“代码生产”的时间压缩到秒级，而“结果落地”却卡在传统数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520827&amp;idx=1&amp;sn=543e0e51b78349e2c5f87c4867713da5&amp;chksm=e896cef70b0623e102d33b1ec2de68658feb7cd094ba650d89c0d16059a714d9be98dd0cf952&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeCbSDWkw8lstwhfwInLE7ywoUhObJn8wye9ib4CP24L2uqicMSu6WyTt18sEbkERaE6ozfKDqicibjo1rRxh5tAZQzlAublp3Lvms/640?wxtype=jpeg&amp;wxfrom=0"/><p>由于扩散模型在图像生成任务取得质的突破，越来越多的底层视觉任务受益于其强大的生成式先验——从图像超分辨率、去噪，到图像修复、扩散模型正以细节生成和语义理解的双重优势，重构底层视觉任务的技术范式。然而由</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518630&amp;idx=1&amp;sn=f2daf15842c5c96e1233a3ac4c2df9fd&amp;chksm=e8efb4c557cb5c9a55998eec602c595188d9d403b35179b02ff7750560e8251b4b44780c0c35&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3D数字分身的奇幻舞台：火山引擎空间视频技术解密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fef3RBaWyzP9ZZdje9lnEkLnzhgibzQPTh4H08Mc6Ts06W9AljSOuTgyVF5MSDsEibR5wZBWQwSUmOnEic8lruvKulXEic3ibnEPBLyU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年总台马年春晚，一首歌舞节目中，舞台上“凭空”出现了数位与主演分毫不差的自己——她们立于不同方位，动作各异，光影随行，镜头游走时，侧脸的轮廓、肩线的转折，乃至投在地板上的影子，都与真人同步变幻</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518571&amp;idx=1&amp;sn=5f1ad978e5273998c7df19257047a93d&amp;chksm=e8e2fd31a07cfb1f42e499a83376e44ddfe62b08de6db9db4499d9d078befe8edef16da1b767&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文读懂 Agent Tools，拒绝复杂化、碎片化、黑盒化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeficPq6vWGKKKv1uMHs4bfEHBibsfic1ZjFX2tX5KDXYEvic0diccT0VRFTOdbqF3vIqiccKyG548C5V4j0aAUfgDba0wcpx5FicaQYicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、如何做好 Tools 的开发：在了解如何做好 Tools，先要明确为什么做好 Agent Tools 的开发对构建 Agent 至关重要。 Tools 是连接大语言模型（LLM）与现实世界的“感官</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518565&amp;idx=1&amp;sn=5ef6fa3bcf12ce15f5d491e0bf38fa8e&amp;chksm=e82ae260a33fcdf2b117d0af9383d6247514a3e4b29933ac92b179feaf1bc4bb446a43703a09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Feb 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

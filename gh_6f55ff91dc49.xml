@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[终于有一个蒸馏 Apple 风格的 Skill 了，GitHub 上有 10.5K 人点赞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2yVsD4EfrtU6KODiaicDAS2YPmpSickC9JVlVDwJ7pGf2NfC18BLlG3ejATCicoicUfCAGCotqQw8qHZMG2VL2a2RgUcf35iaXTWNibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于有一个可以复刻 Apple 设计风格的 Skill 了。Apple 的一些视觉风格，给人的感觉就是很舒服。这种舒服感不只来自圆角、毛玻璃啥的。而是有很多细节，比如按下按钮，按钮有回应。卡片飞出去之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535360&amp;idx=1&amp;sn=d694248b409b2f9430e55417e41d9205&amp;chksm=f80963c9ce3bd300410489fb934172477d51e15106ca3e67083b44b746a3b0add230eebf113c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 15:01:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 狂揽 21.7K Star！这个国产开源神器解救你裸奔的网站。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yNibU3xIAmpK6oiaVJLYSevwr8O40WOIOiablCTNB0ib949JKybnTonGxzUTCPiaDaCSTjTJVkvwJ9w3IkzhTiaMHut0Zn9RS7mwiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你有一台服务器暴露在公网，哪怕只是放了一个个人博客服务。过不了多久，你大概率就会在日志里看到一堆奇怪请求。还有一些访问频率高得离谱，感觉就是拿你的小站来压测了。网站安全防护并不是大公司才需要考虑的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535351&amp;idx=1&amp;sn=be4428795c5045cb635ada67bbd57175&amp;chksm=f8722bacb6e99475406773910701dee7cde25e73b219dda7ddfd37ecad6b28898f317ad5ece6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1stDVza6EibnC9N8N2sdPO3a5t3dB7qzI3by5P7yoiaKQS3nBPRoPP1xicamrs1wds2I0FhEJXDbuE1GKuMxiaMMLKMvPm5VLEBbY/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V4 还是挺顶的。100 万 token 上下文、思维链推理、价格打到骨折，模型本身的实力没得说。你用网页版聊天，V4 的编程能力根本发挥不出来。你不能让它直接改文件、跑命令、Git</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533532&amp;idx=1&amp;sn=311891bc2e17d02f132090f4197eb1da&amp;chksm=f809bf5b325e488baea7eff84b4dab05475b1f37a7248b7a73f1abf525814220bde0a5e61fb4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 12:05:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你的 Mac 就是一个 AI Agent，4B 模型本地操控电脑。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0eep9VoZVKwJkvicm6PoszAyialtO4osic4RYXtcn6uCISWXmOsmz3ibibgABghdVeoicLrT6ibQpBNsPaCWpKoZ5ZOP9MIK2zLszyJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间介绍了一个开源的 Skill，可以让 Agent 控制你的 Mac。纯视觉理解桌面上的任何软件界面，像人一样去操作，而且全程跑在你自己电脑上，数据不上云。继 Skill 开源之后，最近他的端侧</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533529&amp;idx=1&amp;sn=cb5c3b295b802b594f045376f79e2a8a&amp;chksm=f8bde3016999999469545111a98b52d57226065ca92770f88683c4c90f5381bad9999c0c6ce7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 12:53:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

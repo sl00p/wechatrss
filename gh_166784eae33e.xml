@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude扩展的"信任危机"：当你的AI助手开始听命于陌生人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibHhPk9EzTG03P1XEAW1l5mWczJBluHsrofOXNXVyTbOWyQQicibj3M3Gy0PxMUa5qicrBRlYBkoSSibBf9PouicWuM1yw4LHzEicx5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个装了Claude浏览器扩展的上班族，某天发现自己的Gmail被悄然翻了个底朝天——而发号施令的，根本不是他自己。一、AI越聪明，边界越模糊大语言模型正在以惊人的速度接管我们的浏览器。读邮件、写文档</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519502&amp;idx=1&amp;sn=6afc8901a6d809e635f359ce0dc8bc08&amp;chksm=eb150a5c2aa73ebbc5bfe50390b4924d6b76a717dc75d8393d06bd7b49f5dff1c4a615eada02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 15:45:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一句假验证码，一条真命令：ClickFix 如何取代钓鱼邮件成为今年最暴利的渗透手段]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9UzGsm3YezJD16Jdjv3bCdUoC12QHaJKoAEFSExicKn7vo2bGQS7KicmbfpGKQ5nkyFuIuniavfMvCHoHIkI20mSBSSaibQ654UMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份来自独立研究者的现场观察过去一年追踪了上百个初始访问（Initial Access）事件后，发现一个让人不安的趋势：传统的钓鱼邮件附件不再是攻击者最爱的敲门砖。取而代之的，是一种几乎不需要任何技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519497&amp;idx=1&amp;sn=b44b552e5cf0d52bead00e382aaaf56e&amp;chksm=eb5edac0b5645e4bde724d318d132ad8607eda2971c4293c8c9c45128daaa675d25e4fe32547&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq88hdMsrHzy1icib7ibeZWkIsHNRoXicmD0u54cTBTPCQYmCBfaiboBhhMSUMibJSmFVCL9cWcm1aOTS2Om6MiaQ3ibHMPf1espCprZtzM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.03.27~04.02攻击团伙情报Lazarus是Axios供应链投毒幕后黑手UNC1069入侵广泛使用的Axios NPM软件包研究人员发现 Callisto 采用了 DarkSword</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518221&amp;idx=1&amp;sn=e9b865330e1af38784b1daa277fe74e9&amp;chksm=eb41b364b85c2fde5b8d89fba60940ad94e1d251ed78f994494df317089f9d24f3f2aea03e94&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Apr 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Axios npm 供应链攻击从TTP层面特征的归属分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicfuOWYqxYcxuOc8WLxfXx5aDMabvQLEXaaUhsibDT4dIqhHolzRfDO6vPcoL5AJdibY6vnEN9ZC1k1K74PfLYapLaYXgI3k7qpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述基本信息项目详情受影响包axios (最受欢迎的 JavaScript HTTP 客户端库，每周下载量超过1亿次)恶意版本axios@1.14.1 和 axios@0.30.4攻击向量劫持 a</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518195&amp;idx=1&amp;sn=e7faa2143413095439151fa827e9c28f&amp;chksm=ebfe0d41ebbce1274e3d4ee9f2d913aea8bbb1e466a3c19358989e0fac1bf68cf8adb813e7b4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Apr 2026 14:02:27 +0800</pubDate>
     </item>
   </channel>
 </rss>

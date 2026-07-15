@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何避免窗口被游戏反作弊误杀以及替代方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1WAHL82VEibQGYWSu7T7pq3xjllzMsEvbxukLhZq4ObtJx8UIjJXib50J9IJnTiboM2VPVGPmv4Erw0VzDocVxibMuoV35urdM2ZI/640?wxtype=jpeg&amp;wxfrom=0"/><p>同步透明覆盖窗口与任务栏状态核心问题任务栏可能：被全屏应用遮挡/隐藏自动隐藏位置/大小变化虚拟桌面切换方案：监听任务栏状态同步class TaskbarOverlay { HWND m_hOve</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=1&amp;sn=54c0bc8acd309e50f82c44be8e15d9b6&amp;chksm=b00dc0ee0da7926a5b8e48643d450e85229cb81681552effe3a168a2428c17e281cbc3291a91&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1YUaDqWc4d6GNdr78rcK4Kiap4TnxtVvQbic0ia9JiaibFWsVfMvSwPEgopObSfYs9719kOtqzCRBjobniaKty3lyEia64jCqGtW8RBc/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月补丁刚落地，一款全新 Windows 本地提权零日漏洞直接公开完整 PoC，全补丁桌面 / 服务器系统全部受影响，目前微软暂无修复方案、无官方漏洞编号！补丁日变“打脸日”7月14日，微软刚发布了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=2&amp;sn=c9db90ecf64e7fc1a85189aaaeff52d4&amp;chksm=b07a7ea0661d091c4dd5b6f8f0760f109e85f9f23dca5aa7e60ba91aa9a0b90b16c8b9799387&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一考双证！360 智能体工程师（ADEA）认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0eJpeEwY3NdgIZYvWnk1d13GO8p0Gq9QHFO1CKAaC3FFgD5icrHzNicAzUm72j0UPQlyWLOLeuPRQMNoalU1phVP96ezahGJazA/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=3&amp;sn=de5e540d26b48f07f60ac63b8ea3a0a5&amp;chksm=b08aec9609f421b02b8a01110f340f471cf8c7096c5e30dd49e3d402f534c72fa70ed53339de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Android ARM64 内核态内存访问与隐蔽交互机制逆向分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1pf1wSzIqdU9sY42XypfARHcX7SWibia12XwL2IvEURWFfjOiaEbaib2yReiagwGkjz7hAZReLOMblQ34GJy1c9E1q60QqricdAqdv0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近一个朋友发了一个 PUBG 的内核挂过来，名字就不说了，避免麻烦。久仰外挂隐藏之大名，正好拿来看看现在的内核辅助是怎么写的，用了什么技术、怎么隐藏、怎么和反作弊系统对抗。样本是一个 .sh 自解压</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617607&amp;idx=1&amp;sn=16b716cce03ecf76194c87154fe32799&amp;chksm=b071d24c8242a7f173d09c67391184275a41aaf49ccf0538b2d0fe0ac7bcdba98d2c78e3b87b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=1&amp;sn=dca56c624bc3cea8fc248b38a91b560f&amp;chksm=b005befe85f159322a9431f901d232958bcffe8dd1b4951aa86c563eeb672925c7247a55cdcf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cocos2d-x Lua 手游多层加固与协议签名逆向实战记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1dFYLtnopVVcwSUmibsbOicXORHRBDP9yibju40ocXr2P8IAVfhRpvVgrNKQkI75k7BgH4iaOQhUX8iaroYfLk6xkjNcLAI0YgRlws/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概况这次拿到的是一个 Cocos2d-x + Lua 写的棋牌马甲包，目标很明确：把它的请求签名 sign 还原出来，方便后续做接口分析。但这个app主要难在两点：壳套了好几层，Java 壳里套</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=2&amp;sn=749fa2c21ffc456f8293a4a016481219&amp;chksm=b02ec715b62a34d04a36aa541349e5b594d8263adfb34fa0072299fad294d0bc7bd9bd62b708&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[43万台防火墙被集体“窃听”，1.1亿账号密码遭洗劫！FortiGate用户紧急自查]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0I3ZfiaIAVzfZcbju5WA0gGzmyKKfSzliaCwCdsRD5dhLfEct0JCvuJ2B5iajbqtEphs2KPxNOHtib6bJ83Eo22iaqN3zicR43bn4So/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场隐秘而凶猛的大规模凭证窃取行动，正在全球范围内撕开企业网络的安全边界。被命名为 FortiBleed 的攻击活动，已经悄无声息地攻陷了超过43万台 FortiGate 防火墙，直接从实时网络流量中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=3&amp;sn=ba3179089abb26c3e85d151c8bb85db4&amp;chksm=b0c502ab86b33704e6724b469ffe02f73231d37c6db442e15ec9b6e2af83eff55b4547e5c0af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ret2dlresolve分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1lOGnxkKLSRVX8Eoiau6wcopNaBmy0QZtHIiahd0ro2l2kCbqDejBaP74zteq8E0LBcfTLNwE65wRsvNKhjnJCWIGquYU0xF2uY/640?wxtype=jpeg&amp;wxfrom=0"/><p>该方法最大的作用在无法泄露libc时可以调用libc中的函数，其本质是向一个地址，写入一个值，而这两个部分都可以在一定程度上被控制的。分析源码前，先看一些相关的结构体与宏。结构体.dynamic该节存</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616819&amp;idx=1&amp;sn=6754cf279a5824193e7817edc480ca63&amp;chksm=b0c5da44626e2481731078e9b3db348535555984408bf4b51cc57b5ad9de483f8354827cbbbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 17:59:49 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[淘宝闪购-爆品团精排Scaling Up迭代实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wuuUKrbsgzWiaNOVkD8VrePQiaibhjzNG24euoib8WfWia8A3DibqXGFCZX7P38cQ2Ttx27atkrPicZ2P0PSAcVcAicBRzlGGS5VrH6icQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。淘宝闪购爆品团业务排序模型过去很长一段时间更像是在“堆模块”：遇到一个问题，就补一个结构。短期看，这种方式能持续拿收益，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561530&amp;idx=1&amp;sn=27ecc399bc4f778f0eeb5be5f49bac01&amp;chksm=e851e4dcd2cbb011219123310fb67a8481c1817f90713b43d224c9607d4620ccb4dfd68b8cc3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 16 Jul 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[数据研发Multi-Agent架构的Harness工程实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wLRQ1oPbZo4uqWBvd38scB0HMf6rjIGJdCU2QW76fgnwwopEAhnRKwuYR9I53xRn1VOxCAD519L29kFjOw1C3rEkzib1I7vXOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、为什么需要Harness一个让人尴尬的常见场景不知道你有没有过这种体验：花了两周搭了一个数据研发Agentdemo，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561511&amp;idx=1&amp;sn=0561f27f340cd19d280dc5543780965b&amp;chksm=e87d505b2b68024da59999a7719a852465d28a257ec28376d9a44318c2bbfa663dc362633c94&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zSFEH7uUHcGfUg6XhdGO2hjHRmxd7o9vaMRHSrgBYstEnfmyG3icgOztRFiaFZNowFq6ubqLHcVw0BDrDsfrfxYRng7UaicYSuPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文给你一套可执行的团队落地方案：从安装到试点到全面推开，一周内让整个团队跑通大模型编程，并且质量可控、效果可量化。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559431&amp;idx=1&amp;sn=e62c3abeaf14878527e5afbd5ca86a30&amp;chksm=e8c74e532520bcb9198228f405efa18d0d6e0dd4300c5cb04dbf24db3d0716629a2212087064&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI数据工程师在应用中如何"返璞归真"]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wTSuFz8aEia67kFibWd4KSU23YFxk2jtQtQ6McnDXCRMaAYNib1A5aUVyicibCK2I53zlicJ3As1CdWgtm4jv6ibpmzJD5f0OCyhl0no/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文反思了“知识库+Prompt工程+工具调用”这一轻量级Agent构建模式的局限性，指出其难以应对真实业务场景中的知识质量、语义理解与规模化维护挑战。（本文内容基于作者个人技术实践与独立思</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559430&amp;idx=1&amp;sn=73b361c0a8ad5623a48b67da01dae3fc&amp;chksm=e89d6b30cdc26226305e81bff1d6b68306e0292cdd8f8c710f1353a868a35185875ee0153a87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
