@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Kimi K3全面解读：2.8万亿参数、48小时造芯片、以及一个正在被开源模型追上的AI竞争格局]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCCiaKRDbmlYct3uDvVnmZVnZN80CnA7D1xRicQxC8C6Etk03wdy5LaCIACo3f9DHKaWNkb0HIrfTxOBfadbkJgsEpxM7F07uJBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月 17 日凌晨，月之暗面发布了 Kimi K3 。数字可以快速过一遍： 2.8 万亿参数 ，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621660&amp;idx=1&amp;sn=adb37b34a60b9b5649bd1341b92ee11d&amp;chksm=f55bb86719a815a99b110807b1c01c775636b04eb298036905472d90d005e5ec402fd4c6eb35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 19:55:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的Coding Agent早就修过这个bug了，只是你不记得]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBAEJYLqicdz65jXL2GLpibzcWh6Bg01znO0SCK5yhmRNPic9d4qu36w9pDkUXtkJy15ZwHSwoElmrOmaat5IoKn0aIAImcBwaXjDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 编程助手每天都在往你硬盘上写对话记录。Claude Code 的 JSONL、Codex 的 session 文件、opencode 的 SQLite 数据库——几个项目下来轻松破 GB，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621589&amp;idx=1&amp;sn=92ac3d756b29d0162e994a4c9b7a1365&amp;chksm=f58f13a16e815553d869c7f4ae0aa0883f79430850d8798646e5b13062175ea4b78fbee12aeb&amp;scene=0&amp;xtrack=1#rd</link>

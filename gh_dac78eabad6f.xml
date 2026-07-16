@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[独立开发者、顶级开源项目PMC是怎么用WorkBuddy的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7kGZGA6nwCZOYIuGPt9dwtlYyic71CClWNTRxIHN3yDHeHIgLmkZxC57MexiaplicGYYeP2TIXnJBR6Hf1Ok8wapMqhVuGSEiapN0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上个月我差点干了件蠢事。让WorkBuddy评估一个开源项目PR的代码质量，它给了我一份极其专业的输出：架构耦合严重，核心模块职责边界模糊，建议拆分为独立子模块</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696416&amp;idx=1&amp;sn=ebb3c52b2bdcc699da2afc8d060d03be&amp;chksm=ebcb869bb2b8d156d53a42cfe51cb9edafb31b535f49c24c9c933da8aa6062426a56a2759977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文讲透Skill]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5eeoSALexaQNWaF9SMOGoL2X4wubXJLpFibe33Gcm5D0dtrL3ypypAbDHgQNHr2dxEKx7dIdeic55icjkWo4moO1GvYOUeSFVu1M/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇00引言：从“聊天工具”到“数字员工”的跨越在 ChatGPT 刚出现的时候，它聊起天来似乎无所不知，但一旦你问它：“明天的天气怎么样”，它会告诉你：它无法获得</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696407&amp;idx=1&amp;sn=99394049f6a8ab40966f9116cf56c0e2&amp;chksm=eb0e6eb921a1b0992f67da0801a30dc4c23a560a2347cfccc00bd1087a48f1613728e452defb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7K3fLIUedibt6cCQQaxRiaJ5icZ9YF1PjJQhVg0m65fhWVhgz0Bwepgqgpep7SO63st36dhJjXtUKqLf9mNWib5xiaFaQTqfBqenJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我们很荣幸地宣布 CloudBase CLI V3 正式上线，这是一个面向 AI Agent 重新设计的 CloudBase 命令行工具。这个版本新增了 15</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695216&amp;idx=1&amp;sn=5b7603357bed357d756bf908a59991d7&amp;chksm=eb94770a41d11476408913840100f12f6b08851f04dd6cd8700eaa1b91296d9043fd0c8a822c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自掏腰包一万元，拥抱AI这一年，我的工具、实践和思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6aVHeI8tnCnkWrGgDxovykgfuyHyrbWv5KlavygMxFhArHKY9qqUFDl7Fv6OIKk0YXSOsHmElxmb49x7XxS4vYC6rCQX2fnUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我应该是比较早就开始关注大模型，并且也蛮愿意积极拥抱 AI 的同学产品体验方面，付费使用过的产品就包括但不限于 claude code max、gpt pro/</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695194&amp;idx=1&amp;sn=030591ea76020210c5f06692fb30243f&amp;chksm=eb0c6f88453207f0a8a238dfed50445cd1d34bee36d216e0f3cd4ef517ce7361a301c69b7463&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

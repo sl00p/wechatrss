@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVE-2022-0847 Dirty Pipe 漏洞原理深度分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2Fq1tRDrwDUo66WicB8LaZlUicWRQn8dVZria4M0DjJtLuiakD9ZIaIALEzJfKrwRR8r09oFYNuon6VnD7qn4F8DGicmEUW7D4yUVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、漏洞核心原理概述这个漏洞的本质是：pipe_buffer 结构体中的 flags 字段未被正确初始化，导致通过 splice() 从文件引入的页面缓存（page cache）被错误地标记为"可合并</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=1&amp;sn=3610a9f9925a214f6b8918df666db2e6&amp;chksm=b08ecc1a3c025ae37a377516f41c69a8b0abe3bea2b675012e544f8b19ab2bfd2bc813f5201f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:02:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从技术热点到产业落地，共建可信智能时代的硬件安全生态——PANDA 2026 圆满落幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EEJwtMOZ56ic44ZWocsZEWf76ob9Ept9kvl5aWpvxlpyANM3Ba7eWFIZ7EcA7a6u9OFw0icqQyXdKiaVnkplQGqnpia8cZXibNKJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>左右滑动查看更多照片2026年7月13日至14日，由纽创信安主办的第九届PANDA（Physical Attacks And Design Attestation）硬件安全研讨会在深圳举行。过去几年，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=2&amp;sn=435367e6b4405117d44a906590e3a706&amp;chksm=b00478b7502a8a9865d5a031507ad9a4e29eb626057c1682e47b4bc49d3906704d34f20717e4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:02:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[你的摄像头可能被劫持！TP-Link两款设备曝高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2NZwZOJfWMvJkLm7wvWfDgt46nIibzUT9SDoyF8M556KKnWJvWpUpEWPRK2x8XQXkzibYjXZxWibB9FTIxwmr1J7PoPibjFhRITnE/640?wxtype=jpeg&amp;wxfrom=0"/><p>家用智能摄像头的隐私安全始终是用户关注的核心焦点，近日又一主流品牌曝出安全风险。TP-Link旗下两款Kasa系列智能摄像头被发现存在两处安全漏洞，其中高危漏洞可让同一局域网内的攻击者轻松发动中间人攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=3&amp;sn=b0a57e8b36ffb50937e75a2beb0992be&amp;chksm=b01af6c985dd72bc62005a6b0e8f1af2e7dc6b142d344e0908fba6009d5eed75a59e8aced310&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:02:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[60-70K！高薪招智驾安全、IoT 渗透、大模型安全工程师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01伺服动态（南京）科技有限公司逆向工程师20-30k就职地点：南京市溧水区润淮大道28号职位描述1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=4&amp;sn=10ad65643b01d1b3d3ae548674868c2f&amp;chksm=b0ed4adc6e5540af49245007f151c523acdf84e612d38de3a15d6fced11bc3d50cbe438355da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:02:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何避免窗口被游戏反作弊误杀以及替代方案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1WAHL82VEibQGYWSu7T7pq3xjllzMsEvbxukLhZq4ObtJx8UIjJXib50J9IJnTiboM2VPVGPmv4Erw0VzDocVxibMuoV35urdM2ZI/640?wxtype=jpeg&amp;wxfrom=0"/><p>同步透明覆盖窗口与任务栏状态核心问题任务栏可能：被全屏应用遮挡/隐藏自动隐藏位置/大小变化虚拟桌面切换方案：监听任务栏状态同步class TaskbarOverlay { HWND m_hOve</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=1&amp;sn=54c0bc8acd309e50f82c44be8e15d9b6&amp;chksm=b00dc0ee0da7926a5b8e48643d450e85229cb81681552effe3a168a2428c17e281cbc3291a91&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K31weib7KtichT9qUprWx0lX6ibOBGDZJNcLInpXg9Dr3n9soXrAraibC101brJUuOtDJn6HBk0LCcYav95UvnTYmsa1SVXRJIUCRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>你手机或电脑上安装的Chrome广告拦截插件，可能正在成为黑客窃取你银行账户、工作邮箱和企业内网数据的“特洛伊木马”。近日，企业浏览器安全公司Island发布了一份重磅安全报告。报告指出，一款名为 “</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617011&amp;idx=4&amp;sn=ca458bb825d4a2dd4a8239e32922ad54&amp;chksm=b0f349abae426f970973450661cf5e9290fbf7ebbb8b9e8f81f6d86d508de6e3ac646d8c7c94&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 17:59:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 复杂 VM 算法还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2HaxBSfdVCW0DqhRzVVWeIaXTVJJHrwXnnQFvDv06mUP6PkjWv9MBrrSGjJfiaLEMfKZiajXpWOxZHZOClSQsza0vhVYAL4LRJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>pc模拟执行指令，jni libc svc转发到真实设备实现急速trace，以前在手机上跑要几个小时，现在只需要几分钟，使用llvm做指令解析，收集足够的信息，存入自定义的数据库格式，即使几十G的文件</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=1&amp;sn=9e1214ec18e64cbbbfe7df07de8a3842&amp;chksm=b071d1ef9a37676d4fc9f27cea48b57917b781070179180325bb0fbdc899ebf18617ab86a6f2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[冒充税务局投毒！下载一份 “税单”，电脑直接被黑客远程掌控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1M3YQ8Fibsn2eh3VzyuU4GvTorBPTIxicyRW0MribRd2AeicmcOtcib8buqnAUoxLrQVXsw0mQsQ3ZqV28qU0siafdPXM8OT12DtLPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>税务合规季向来是网络钓鱼的高发窗口期，而今年的攻击手段又完成了新一轮升级——打着官方税务通知的幌子，点开就给设备植入远控木马，迷惑性极强。网络安全厂商Cyfirma最新披露了一项针对印度地区的恶意攻击</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=2&amp;sn=4e397f4ff2b9e3878be41114d91678cb&amp;chksm=b0d4fb0d70f86e943a36fe45c1fcfe0273abe2dca99b88fc3bb9c3d399c264f655121bbe9308&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[频繁被封、环境不稳定、设备成本高？基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616977&amp;idx=3&amp;sn=edfdac627878a7fd121d0834340ccd32&amp;chksm=b041690a5c7840f50f01e40d4eb477017fb19203c1229135359e8f7ea6119ba334cdbb2c866e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 18:03:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘（覆盖10+厂商、30+高危CVE）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458616937&amp;idx=1&amp;sn=dca56c624bc3cea8fc248b38a91b560f&amp;chksm=b005befe85f159322a9431f901d232958bcffe8dd1b4951aa86c563eeb672925c7247a55cdcf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 18:05:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

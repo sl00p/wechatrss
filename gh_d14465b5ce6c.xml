@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[驾驭AI Coding：一份面向团队的Harness Engineering落地规范]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：atreusliu交付代码的成本已经接近免费了，但交付好代码的成本依然很高。Harness Engineering 做的事情，就是把"好代码"的标准写进系统里，让 AI 在约束下自己干活。为什么</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802660&amp;idx=1&amp;sn=2b36909c6f4a6d563addd1f7f8c9f266&amp;chksm=bfba2c82dd818f7eca888b251a105d1f9ee4b380d548905da5d70cc3e4c6b68c79cb64d0d76e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905NpB5OTxwYF22W2TOp7ojTRYFjzb7ONPtriatBhMQt2TfIh6jrELBVxYed5jaibWFaXOcS5v4JSTEoUSPogH9lMZjxFw0rfYFSI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：xiangnzhang本文是 DECO（一个跑在生产上的数仓 Agent 引擎）实践系列之一，聚焦护栏层：怎么用 Agent 框架的 Hook 切面，把 LLM 处理长文本时的"偷懒"（截断、略</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802659&amp;idx=1&amp;sn=8c2b4c6e4501a69632fe05b2e6e8e3b0&amp;chksm=bf7fe7540107c86733096b5619a8e8c669cc2ec62573e42fbd6594acd54f0097f38098cf702d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906iaZBEU3zWhTxG68n5shR60wj5fjpPVhndfl2mnKDO1WtftOOeM6ib9BHJdy1x6cUe77ffBZdGKsv2X5kyQNXzS3p53G5FzeMFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：rickyshou从 speckit 踩坑到认知重建，从推翻精密架构到一个 AGENTS.md 文件重新出发。这篇讲的是"我做了什么，以及它为什么有效"。一个 AGENTS.md 文件，两个月后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801026&amp;idx=1&amp;sn=3e12f0888b3c232ed7218caf90df5f0a&amp;chksm=bf8e070ed6000035be3bb448fb06ba11e3be61a42d6fddb2fd0cb1fd912ccf43568e5013b366&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯广泛使用的跨端开发框架——Kuikly在搜狗输入法中的AI Coding实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907Kufs8bOp9W83yukWALsJTcdrHSWoBmVBQfn3SN2H2ib3EW6hPLpiaryO2jVaTib8FLKvMbM19p0nciaLexd2HXV5eFbCOXCrhZwc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：搜狗输入法 hesleyliang导语AI 以超乎预期的速度席卷开发领域，AI 工程化也成为各业务团队优先探讨的命题。输入法团队从实际需求出发，在Kuikly跨端项目中逐步探索并沉淀出一套 AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649800994&amp;idx=1&amp;sn=dca6eacb9cae1459e30a2b23d0ae758f&amp;chksm=bf56701f33e0cbdad878b2cfc7765449a856b7854d8c4e4ef6cf05c79e930179697c588fbd28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 17:35:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

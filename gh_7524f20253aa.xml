@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI推出自动化红队模型GPT-Red，专攻GPT-5.6提示注入漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3raHNa4oUZfricN1Hvh1Lo8picjMs8ibhrIZMYgmMjLwyMyFLKl5zxVaCe27cQUtv2C0sEJORvCmZXZricTdWJQPbV2Tk1b0BkU7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI推出了GPT-Red，这是一个内部自动化红队模型，旨在发现并修复GPT-5.6中的提示注入漏洞。这种方法旨在应对日益严峻的安全挑战。虽然人工红队演练很有价值，但它们无法以跟上日益先进的AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=1&amp;sn=0c5971f27f0a7817606174695d5bd59d&amp;chksm=bcd3222655def2cfee4e0766dad0d690c3380ac659748e7bb945be3072f32bb20adecd0c19e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型Agent数据注入攻击可诱导AI Agent误点或执行攻击者指令]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1FokaiatXNBUJ8bwAVFicyasn55sap3ae6tpVicTCBstnIVbib6j7kwkZk0nDBjdF4nTXJ9gicD0OdcD2Vqta24BtaI3wiaeibtZ31Us/640?wxtype=jpeg&amp;wxfrom=0"/><p>让AI Agent汇总某个产品页面上的评论，一条精心植入的评论就足以让它点击“立即购买”。让编码助手应用GitHub讨论串中维护者的修复方案，一条虚假评论就能让它在你电脑上运行陌生人的命令。这两种手法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=2&amp;sn=c26bd2d8ac9c5141141595a682a18be3&amp;chksm=bc4a8d99c6259ce778932690ed07e2f853007a6b9d27d35102bedb5f1ea8dbf639267a3bf482&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NGINX曝三枚高危漏洞，最严重可远程执行代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1o2sdrntUC3UhLQicGQ1aOCh0GR4elZJoacHtj8pTr7diacvfPohtpgMaX5QJib9oOOOJvJWy5zj6kUqdcn5nvybhHJfOAW2WOPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5 披露了三个影响 NGINX Plus 和 NGINX Open Source 的高危漏洞，警告未认证攻击者可能利用这些漏洞触发内存破坏、使工作进程崩溃，或在最坏情况下执行任意代码。这些漏洞于 2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=3&amp;sn=a9e06f3ecb4bdc9ed2522326eea05631&amp;chksm=bcfc40299fbf36d355df56cd705cbf08db41ec344d90ba9ee4ff70d4ebc725b6560d604735f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI能发现漏洞，但验证仍需人类知识]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibaPzsOWh4wrTD5ggrdqibCrHV4m1J5icnQWiaIUUM5aMqku6HV7EXVtorVbBACwW0iabRLUycUCtH40AyJW2ZCtJw2Pjozu5vqg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）正在改变进攻性安全领域，但它并未改变最重要的标准：一个发现必须经过验证才能发挥作用。AI辅助工具可以快速读取代码、生成payload、总结攻击面、解释陌生的API，并以惊人的速度运行重</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=4&amp;sn=77f01fc27a9350b54912b8bc85696b39&amp;chksm=bc4b1c8a29ae64e4fe69b7fe35480ef8dd48d31498884447d1e030cdb48e0ff59981d400dae1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 17 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[白宫启动“金鹰”计划，用AI加速漏洞修复]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1oFpzta68QBIV8BttOKvg9JVHicrhfLIxZgmzIAm8tGwtXiasSc0Pe91nrBDdqTCDQOnyDaq1mIlRGHk6IH7jpbK5WR2mfCMRc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国白宫正在将人工智能的应用范围从网络威胁检测进一步扩展至漏洞管理领域。近日，白宫宣布启动名为“Gold Eagle”的网络安全计划，拟借助人工智能，对分散在联邦机构、关键基础设施运营商和开源社区中的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=1&amp;sn=d8896d37d5a5aa4b657dce81768915da&amp;chksm=bc3053b4659ab6bf6ba4d6ba93dd2974ddd585ee3be63a6ca91381d5c2525135309214fe7d2a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uep7mRgsfPIouLFLLIibJwwvgbqdibv6LLBrJChWB3swdAiahrxHqj3uWKvZ33u5heTiacBpibEWzfICZSzSj0bSwydng1eXZzul8/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月29日，CyberGym榜单刷新。一个带有浓厚中文武侠色彩的代号MopMonk（扫地僧），突然出现在微软、OpenAI、Anthropic等全球顶级AI玩家齐聚的这张榜单上，以73.1%的成功率空</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=1&amp;sn=143eea4ad3ad8b489c8b0df7b18ef5d2&amp;chksm=bcb208b5eacf140f519d348d95705db75778715c449da90e17a73d87c86b33fe86d675fc747b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub安全公告数据库处理量创新高，漏洞报告数量远超审核能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX36NibljlM3cdNwFYL64BxbUazjchNBUckalao53rCNwmGSHbjUBNLfvfbFLuRfTYQfAT68wviaJ1YkcFPTVUqkVdSmiaOZbqfBibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年5月，GitHub安全公告数据库创下历史新高，发布了1560份经过审核的安全公告，达到月均处理量的五倍以上。尽管取得这一里程碑式进展，该平台仍难以应对快速增长的漏洞报告数量，反映出全球漏洞披</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=2&amp;sn=5111abafd80e5af3e8250f6f1d803ea1&amp;chksm=bc3247e35aaf975684ade59f2fbf07b8e25c8afbeab2ed9ff0a6443847a2228d3714fcfee067&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NTLM反射漏洞可劫持Windows Server SYSTEM权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dKQnYGlY96L0WwMM0xsoibHblL8XedXRc4RFevnUNnNAQlTnbgjftL9TTicyNic7jJxxQrPNoZCibxoJUhxsREVsBWC7NkbCJyLk/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员已发布针对新型 NTLM 反射绕过漏洞的概念验证（PoC）利用代码，该漏洞可导致攻击者在 Windows Server 2025 上获取 SYSTEM 级别权限，这再次引发了对微软身份验证加固</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=3&amp;sn=46311101e97af03a5f5d55ad21806265&amp;chksm=bcb28553562ddb831e67ea7513fa78f8e63149f974c3924f127ff501bd70e5243d5401bb8c78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kali Linux 2026.2发布：新增9款工具并优化虚拟机启动性能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1XnKv1apYAjUbUsBNONibXjSSjibURfmpNZJFmibFmpcg8rGyZd2lbDvQksLB7V7pHvxCziaGyvPiaicl93VB5ErqLMrFyVsUkBNCnk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kali Linux 团队如期在 2026 年第二季度末正式发布 Kali Linux 2026.2，本次更新包含桌面环境升级、基础设施现代化改造、虚拟机性能优化，以及为渗透测试人员和安全研究人员新增</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=4&amp;sn=006fefa63fcdadd52377276be461341a&amp;chksm=bc4c8dc1552db3bc5930ea7a5ba9c18b1fed5e58a3b0d84bac5e80bb95bd0011e9a06e619bc8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[传Claude Code内置隐藏后门，专门检测中国用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1hDbIkvTAx5IVwvb48ZxgcmA1wr20iaViabzhicpCNVVibXpiaOWKKSjzAL5icEOV9EWjjU9reFoYPbyrarZnFx94icLInNYvbV7ROia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期有消息称Anthropic针对性封禁浙江、杭州IP访问Claude，背后或和此前指控阿里大规模蒸馏模型数据相关。官方称4月22日至6月5日间，超2.5万个账号累计交互2880万次，涉嫌批量爬取模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341548&amp;idx=1&amp;sn=bb9edaa490d92c0258ff47c5dd29faf4&amp;chksm=bc7ad51c294dc22416c5751a0343c1180c9a5d47ddcc40cb2773a57ebd73788662abdd67c8f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 19:48:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
