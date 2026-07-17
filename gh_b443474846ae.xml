@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[专访孙元浩：乘坐星环号，把数据库“移民火星”的人]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7UEQ15Zx5P4GEIQTwelialkJaRmSzRwuvpK3ZWJuoFDUrIY4Vib0qMHehzeQWKR4Y5I5XRw9kSD9iaDJZgGy1boFbmc6WibwtO0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>“把数据库迁到 GPU，就像移民到火星。”在 WAIC 2026 的现场，星环科技创始人、CEO 孙元浩口中的这场“火星移民”，正随着其面向 AI Agents 的 GPU 原生认知数据库预览版的发布</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=1&amp;sn=64e22b21af7d871928d702fa1e13336f&amp;chksm=bc81f8b9e741a756fe063ebf35dfe663d937af9cf41ca8051e231c7456a586f156a587f89626&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjM3xpBPLoibJMj1V7Oq7G0awI702QMwgXvzJdvIV0L4gxSr3afic4BrEEXCEbbCDOia6tYQdY3xaMeewMdkujC1QjPJCe8GIiaiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jiuwen Symbiosis是一个能懂人话、看得见物理世界、控制四肢执行的Physical AI Agent。用户不需要示教，只需像指挥一个经验丰富的工人一样，用自然语言下任务，它就能自己完成感知</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=2&amp;sn=d8c0cf352b1242affd3fa80a57e44d4b&amp;chksm=bc73478414a26f41464a9b16c16d0490d923e1a6067ded25876cf8b5c4f5799f435046ffc271&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不打榜的美国开源新王Inkling：975B原生多模态、仅用 1/3 Token 追平英伟达]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhddY0SWkc9GK8yZQqDibO0bic63UKibu5kquLvG45GEjibIIL7JNa8Dv3LJs19icYlOcwVnrsB2FNk8BibBeJVXGYZ6TAACa6vCxDdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月时至今日，全球大模型格局已成定数，还有必要耗费巨资从零开始训练一个新模型吗？由 OpenAI 前 CTO Mira Murati 、华人研究员翁荔（前 OpenAI 应用研究 VP）联合</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=3&amp;sn=198c482bd50260d94cf0191500c143bc&amp;chksm=bc75126663867e2301835f36e040efb4698e80c95a494b185be58ae20c864ad927ac30ada8c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 PostgreSQL 切换到 ClickHouse，提升系统性能与伸缩性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiapAjMJChuMCsGo0tKxP7HPsrz1gV1WnXEmYGljOYp20Za4KHq50duWgLSquPwUbVPIBqYnHBXxVpnicmrYCyK3ibJYF7EpFgpZE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Sergio De Simone 译者 ｜ 明知山 AI 驱动软件测试平台开发商 Momentic 近期 对其缓存系统进行了重构，以应对每天超 200 万次、总计 200 亿条记录的查询需求</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=4&amp;sn=2df59f5a19b684fddb0d10786f6127ce&amp;chksm=bc95877a86ac4175dd5aa0b8c3b6e7006ae9c88be3bc24e51f4ad6a8a01cc320ee90d1462b50&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia9d1xOILWzrdd8YmoY9VOSTAXPp3OI1awW4DvXcMfpRV2y2ZZygafmXjutDbVYG61Cx1g8hDbfUItmMjoCHbUgw41k2tibeibg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 埃隆·马斯克已确认，SpaceX 现已采用 Apache 2.0 许可证开源 Grok Build。几天前，这款 AI 工具被曝会收集用户的整个代码仓库——将完整的源代码库连同 G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289038&amp;idx=1&amp;sn=59cbda779587d41e58821386d1552010&amp;chksm=bc7ceeb552da3fa6e4b705cf10e238792d7d9b7a058ca3968a48bff4d7fc62db98da166cc016&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhDNKPuwoQI556ibuorgBEEkVabYvYLUQcVqIc03uP37yI9hbzz7LHEJ484QN1JW3cc4hRwSEBSmO21ujN1MycRibggQNbyeb5WQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 ｜ 褚杏娟去年 9 月，Anthropic Claude Code 创始人 Boris Cherny 曾与 Spotify 工程副总裁 Niklas Gustavsson 谈到 AI 编程工具的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288183&amp;idx=1&amp;sn=3c4dd38388b0de0e020022c8db7747c0&amp;chksm=bc6e8229010b74cafed4ad05dca0a13964b7d4d1cf6de93767ca22d8ce0da268f88aef45e6fa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Jul 2026 13:14:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[流形约束推理新思路！傅聪团队联合厦大提出ManCAR，自适应测试时计算带来46%排序增益]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg7mQzhs27feXfl3UEfWeMaicQeBtz4UKFJarlvPTYyTOjV94aqvZdHibawh8Q9BPWDtZ4ID2FrCB1LTeFJJoIdslSacRP0df3xM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 傅聪团队审校 | 蔡芳芳1研究背景：推理式推荐真的在推理用户兴趣吗？过去几年，生成式推荐逐渐成为主流方向。从最初的自回归序列建模，到引入多步 Reasoning 机制，模型开始显式模拟“推理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288183&amp;idx=2&amp;sn=afde7d5c7b7f9bde7338eae452b79b43&amp;chksm=bca0cd76b27a15a22d8886c59b6ad978d1133b4d71d3b0931889aee693a3ca17364228a4d235&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Jul 2026 13:14:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个面向 AI Infra 的运维智能体评测基准开源！基于近百亿条真实数据，考验 Agent 的问题解决能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjRnqIYDENCOjBiaU2AVCNHcuZolCfe9DiaXNAArUg4jXNT9c8rMBrogohj4j5QJQBHYjI8aToc9Gs4flEedScibP29zPMGjWykEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着全球智能体加速落地，算力需求呈指数级爆发，以 GPU 为核心的 AI 基础设施正变得愈发关键。据摩根士丹利报告预测，2028 年全球 AI 基础设施累计总投资将达 2.9 万亿美元。然而，根据行业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288183&amp;idx=3&amp;sn=82d7a0f1aab4236746dd82d93e879e58&amp;chksm=bcf7e478eaf36fc8cea5c82f8daeb59b369c921130b0e002f3ec824c6b4b7b550deb4570c708&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Jul 2026 13:14:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhcFGJ2tHtzf4SbZQOwsbricFWjCmxkFVPqdqK6UnasWgFTzLtibth5VVnPr5FkBbGr1MTyhtUFxLAgutaZiaVQ7e6nKZnrDhPLFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Sergio De Simone译者 ｜ 平川谷歌 GKE Labs 推出 了 开源项目 OpenRL，为在标准 Kubernetes 集群上对大型语言模型（LLM）进行后训练和微调提供一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288183&amp;idx=4&amp;sn=364d550b259ee80960c2e3fe37a389e2&amp;chksm=bc358cc6254b7ede3436d71d03d37022587a4e2faedf5d986c344ea4964ae3fd8d746a45c291&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Jul 2026 13:14:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhpPMMrdicF5FaeclyxE3cUt53aP57qY21WtjIawgXg76rRJ4uceL7lcLmX534Rz1F3An1ficTLwMPfVQXiaA8ial2gksPlO4YNng8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina “Fable 5 这个价格远高于中国程序员一天工资。写代码一天烧几百万 token 已经很节约了，然后一看账单几千 rmb。” 这是正在发生的现实。根据最新数据显示，Anthrop</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288121&amp;idx=1&amp;sn=e8477b5f1810a572645319eb69c1f514&amp;chksm=bcc6204e9f74192788a40a133227126d7c86c3158ac8d3b5d5d0735903743a9320c1b8646c05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 16:52:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

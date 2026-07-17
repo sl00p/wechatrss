@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[千问AI平台亮相 WAIC：当 Agent 成为新用户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wearXvZ2LFjByj59qPKILIMgOapbFMRtRfNkZlfmZXmwVpVGaibDLL8dibvepyPTtk67ibkFDibFfWaiaOdY7iaVyJcvqiaZ4dZmx9CU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。7月17日-20日，2026 世界人工智能大会（WAIC）在上海举行。模型能力持续演进的同时，AI 应用的开发方式也在发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561678&amp;idx=1&amp;sn=5f218385d1d12edfca4b8715b315631b&amp;chksm=e8e101d80f77a169439916bca7ea8c720dde364e4e1f645f82a6b6c229c19010bbae11e3de82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 14:00:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PagePilot — PC端AI测试Skill设计与实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1z4sDibHgLfAMH1ibAFibqicpcyDU0kdo1RZgmaQv8uTup4WZl1nnc66AKqSSiaJB6MXibtHz7zDXPNklg25wIibchnMHDicRgr3tcrFzM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景介绍支付宝商家中心(b.alipay.com)是支付宝官方的商家服务平台,面向蚂蚁生态内所有商家,聚合产品签约、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561535&amp;idx=1&amp;sn=49b536f842ef9b433f56cb0d8c2c5bac&amp;chksm=e82f5629aac78fa3b305a2cab544f853baa27af7c1b411fd25ae7eca53703f2918fb030d01ac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yLU9xiaej6qkx44xlPqU4EL78IVhymmNbUnysmz3IkVgfZ7SNON1iaiaYBmbWgjoRKgrwFiba7SqYgicaXBKOTBzMZVPP5EpDueu74/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文的核心思路是从Prompt、Context和Harness这三个维度展开，分析OpenClaw的设计思路，提炼出其中可复用的方法论，来思考如何将这些精华的设计哲学应用到我们自己的Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559511&amp;idx=1&amp;sn=64e933b0264e47f0940e693e315e0c82&amp;chksm=e858978e815997d37ba9933ef407eada0e1dc73b0eef741c09381adb7cee18301ee42569faeb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 实战：一个人、一台 Mac、六个 AI Agent — 从"能聊天"到"能干活"的工程实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wonlztxSxbMWotK9GfgUW6iblXYqiaSue3Q5u6nsc0XNiaOPVxhPzhjIEQbe6x505QUFO5zTwlwfkaiaPxW1shVvkH0pGWTUKXxfg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。你的一天被接管了你睡着的时候，交易蜘蛛已经出了股市收盘报告。你醒来之前，宏观分析师已经写完了 A 股晨报。你还没刷手机，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559481&amp;idx=1&amp;sn=ee2dd74d42080dcd8ae1024f3a46a480&amp;chksm=e8f0f01e936da6882d7d3d8c25b663a32fb5670685fa8fe9cb90f896cb4ecc3d197e9e0381f0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

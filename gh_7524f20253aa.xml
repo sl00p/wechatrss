@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Windows LegacyHive 0Day漏洞可让黑客获取管理员权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2IBljUKB6oXN4mwsSWqiaMP0jURE4Yw5UXjWdwXo7N5xDmPAO7LWUyZ0XKqKkmKialnHXdNMMtDdFJWnr6N5aswhq3IboDJNvFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为LegacyHive（MSNightmare）的Windows0Day漏洞，滥用了用户配置文件服务，可实现本地权限提升、篡改管理员账户以及以管理员身份执行代码。Part01LegacyHive</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=1&amp;sn=4c626cdb64ef38a6a140fe32adb444fe&amp;chksm=bc493e85a93e91c6ac2d1b60811c4048261426e312f50f8f11c51b465b722ca370d5b059777c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GPT-5.6 Codex误删用户家目录文件，数据丢失风险高]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0dXQ0DuF03qqxic6xCqOMtQ8LMiaZcPaZkZAcssfIWLE1Yr8XbPjYmT1gqz7ia62PaG38CZUtwx3lQ1gyeKBVYNko4K9M7OJDmu8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01自主编码Agent安全风险暴露OpenAI目前正在调查少量报告，这些报告指出GPT-5.6 Codex意外删除了用户家目录中的文件。这些事件据称发生在Codex被授予完整文件系统访问权限、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=2&amp;sn=1f6c0e7d77c2cdb24a4bc4d9015d1c00&amp;chksm=bc8e4259d24bf0e7ba4ca6f41e28ba2179bd78952733c46e7027d6be21ac3af2ccccb418d492&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[白宫启动“金鹰”计划；黑客借助Gemini CLI构建实时C&amp;C僵尸网络 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🏛️白宫推出 AI 驱动漏洞清算中心，加速网络修复🕷️黑客借助 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=3&amp;sn=af101988d8fde15449f0e170ba778d52&amp;chksm=bc0f051ffd5aa7600cd83c7084f34ea9b91ded7ae93b77b69dea217c3e16401743b98ea5b863&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI推出自动化红队模型GPT-Red，专攻GPT-5.6提示注入漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3raHNa4oUZfricN1Hvh1Lo8picjMs8ibhrIZMYgmMjLwyMyFLKl5zxVaCe27cQUtv2C0sEJORvCmZXZricTdWJQPbV2Tk1b0BkU7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI推出了GPT-Red，这是一个内部自动化红队模型，旨在发现并修复GPT-5.6中的提示注入漏洞。这种方法旨在应对日益严峻的安全挑战。虽然人工红队演练很有价值，但它们无法以跟上日益先进的AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=1&amp;sn=0c5971f27f0a7817606174695d5bd59d&amp;chksm=bcd3222655def2cfee4e0766dad0d690c3380ac659748e7bb945be3072f32bb20adecd0c19e3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3cz9MS8SZibU0XkXFc9epjZO8PToVI8nyDezwReicKTIg5vmIOnVNrtJ5VibzwcWs2Gu9bpKdiaiaV5WGiceA1nw9O5e5fE4icDWsEiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 正在全球范围内重新上线 Claude Fable 5。6月30日，美国商务部解除了约两周半前对 Fable 及其管控更严格的姊妹模型 Mythos 5 实施的出口管制。7月1日周三</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341651&amp;idx=2&amp;sn=8003b4962bbd8109e68986af951ec9a7&amp;chksm=bcec27cf40da989248bd173d037cbd1b737db20b553d328e281b7a01d367c2d4c65c6655b85d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic Buffa Rust库0Day漏洞可引发拒绝服务攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3icnuiax1NdrA6aYq7YNHWEPBswrBxxrA7pxPVFLET1uiaFd5dQFtMqIXwPUibrWyB61vBhPGWNfUGhwI9AjILiaoHmsI6EBvc4mia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 基于 Rust 语言的 protobuf 实现库 buffa 被发现存在 0Day 拒绝服务（DoS）漏洞，攻击者可通过控制输入触发无限制堆内存分配。该漏洞编号为（CVE-2026</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341651&amp;idx=3&amp;sn=3850d4c5eaac036fea816e0164774600&amp;chksm=bc2c02ed947c1c8a179b962b009bc4d9114b5538910ce873b57f47e15cecd84b59fe3004fc4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor IDE曝两大高危RCE漏洞，可零点击攻破AI开发环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0VMv4gDibficDGjZeDg5w1ZAQkLY7RA8LqNws8VqezCgDwtqjBbSicO4Mmic0ibey8QDNlhzxpQHyJs15QADyFPPmzYQ081nMII4wc/640?wxtype=jpeg&amp;wxfrom=0"/><p>在超过半数财富500强企业使用的AI开发环境Cursor IDE中，发现两个关键远程代码执行（RCE）漏洞。Cato AI实验室披露了这两个被命名为"DuneSlide"的漏洞（CVE-2026-50</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341651&amp;idx=4&amp;sn=51f0f4cd1d99a54477db2ef1b23d30f0&amp;chksm=bc37d99339b94fde25ad3986a216be1b881193b9c160ad0f95647e5d2ffece8101a4bdf6f6a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[匿名登顶中国第一，拆招“扫地僧”Agent记忆中心漏洞挖掘法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3uep7mRgsfPIouLFLLIibJwwvgbqdibv6LLBrJChWB3swdAiahrxHqj3uWKvZ33u5heTiacBpibEWzfICZSzSj0bSwydng1eXZzul8/640?wxtype=jpeg&amp;wxfrom=0"/><p>6月29日，CyberGym榜单刷新。一个带有浓厚中文武侠色彩的代号MopMonk（扫地僧），突然出现在微软、OpenAI、Anthropic等全球顶级AI玩家齐聚的这张榜单上，以73.1%的成功率空</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341595&amp;idx=1&amp;sn=143eea4ad3ad8b489c8b0df7b18ef5d2&amp;chksm=bcb208b5eacf140f519d348d95705db75778715c449da90e17a73d87c86b33fe86d675fc747b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

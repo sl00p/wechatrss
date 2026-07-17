@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深度理解 VEH-CheatEngine vs VEH-PAGE_GUARD]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3wZwBLicS7iau7yaicywZG57J2Qls5wribxRPpCbzyjRGYsOOOwgpH9CcGPXsQNoYaox5ZQsibicJ6QzcQDT10IQ5knusIGSv1h3Hibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>深度论证 CE VEH Debugger 的真正实现机制本文将从原理到源码、从实验到实战，彻底讲清楚两种方案的本质差异，并论证 CE VEH Debugger 的断点核心是 DR0-DR3 + DR7</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617658&amp;idx=1&amp;sn=45dcf0e772ba18d96b8944876380c6fc&amp;chksm=b05848bc0d63e660552c12bab3f4b690964d6022e24d678b4df61e7040cdb5e635b412c08852&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617658&amp;idx=2&amp;sn=3165136e6d50a1fb6b93db5441a419a8&amp;chksm=b049fc5101468408bbbe97ac3400eccf33fcade1595ea44f4db29411a036adc89445bac1557d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVE-2022-0847 Dirty Pipe 漏洞原理深度分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2Fq1tRDrwDUo66WicB8LaZlUicWRQn8dVZria4M0DjJtLuiakD9ZIaIALEzJfKrwRR8r09oFYNuon6VnD7qn4F8DGicmEUW7D4yUVw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、漏洞核心原理概述这个漏洞的本质是：pipe_buffer 结构体中的 flags 字段未被正确初始化，导致通过 splice() 从文件引入的页面缓存（page cache）被错误地标记为"可合并</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=1&amp;sn=3610a9f9925a214f6b8918df666db2e6&amp;chksm=b08ecc1a3c025ae37a377516f41c69a8b0abe3bea2b675012e544f8b19ab2bfd2bc813f5201f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[Deadlock 游戏辅助源码分析与二次开发全记录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1lTVvrCDyKCyN2WZwibkmUJ0cWw9I6aJl2vpKww19xkHkdEVBNd9Kzl5RohYQ3nnEiao4lnpfyrHb0O2k3TmmwvwdTeibSSaLZ48/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言仅用于学习交流，勿用于非法用途Deadlock 是 Valve 基于 Source 2 引擎开发的 MOBA+射击游戏（Steam AppID: 1422450）。本文记录了对开源项目 And</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617011&amp;idx=2&amp;sn=969648dbb4014182defa573e9655533f&amp;chksm=b0467c8fb15af56a80da8701803d885c533931d485f78002ec1a3ce2cc8c3e47b0870ff8cc64&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 17:59:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[月薪60-70K！吉利/滴滴等大厂：智驾、IoT 渗透、大模型安全急招]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3SVTqOibUPdENibsLUtJOlfCg3OnaSicIUictw7Ee1fX3PnF2tiadNwWGFOBialg64BicXrRHeKwb3PX2oJaqNSj67aBkrgjiaHZgEGxU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01成都俊云科技有限公司AI赋能型逆向工程师20-30k就职地点：成都工作职责1. 负责 Windo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617011&amp;idx=3&amp;sn=0432e13f6296abb21e76b00394af23fa&amp;chksm=b06a63da0d5db254279e0310c6abf9c4eaaf4de7137b77bfb73b5088365aca43a38ede77577d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 17:59:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1100万用户中招？Chrome热门广告拦截插件被曝暗藏“远程控制后门”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K31weib7KtichT9qUprWx0lX6ibOBGDZJNcLInpXg9Dr3n9soXrAraibC101brJUuOtDJn6HBk0LCcYav95UvnTYmsa1SVXRJIUCRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>你手机或电脑上安装的Chrome广告拦截插件，可能正在成为黑客窃取你银行账户、工作邮箱和企业内网数据的“特洛伊木马”。近日，企业浏览器安全公司Island发布了一份重磅安全报告。报告指出，一款名为 “</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617011&amp;idx=4&amp;sn=ca458bb825d4a2dd4a8239e32922ad54&amp;chksm=b0f349abae426f970973450661cf5e9290fbf7ebbb8b9e8f81f6d86d508de6e3ac646d8c7c94&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 17:59:26 +0800</pubDate>
     </item>
   </channel>

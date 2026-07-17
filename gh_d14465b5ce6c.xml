@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯发布多款具身智能基座模型与智能体，钛螺丝平台迎来全面升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9062Lhl400eHMjUqfUEvRG2xsKMic1c9TYh9oDa7Vpz4QWG0pP7pJv8lafYJfPjFe3Ke8MbGyoMz4gobcna40u2pIiaSY1uL8WXQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月18日，腾讯Robotics X实验室、福田实验室联合腾讯混元发布具身智能系列新模型和智能体新成果，首次系统性地打通“感知—身体—行动”的闭环，推动具身智能从“离身智能”迈向“具身原生智能”、从实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802692&amp;idx=1&amp;sn=8c5db3c47928f6353929767373052e81&amp;chksm=bfdf55e5708c82d5ce0ef3eade0872282aa56d4fb18cc45f99c87bb0efaa02095bf9496ae121&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 18 Jul 2026 16:28:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[驾驭AI Coding：一份面向团队的Harness Engineering落地规范]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：atreusliu交付代码的成本已经接近免费了，但交付好代码的成本依然很高。Harness Engineering 做的事情，就是把"好代码"的标准写进系统里，让 AI 在约束下自己干活。为什么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802660&amp;idx=1&amp;sn=2b36909c6f4a6d563addd1f7f8c9f266&amp;chksm=bfba2c82dd818f7eca888b251a105d1f9ee4b380d548905da5d70cc3e4c6b68c79cb64d0d76e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907Y7C7ec91vRrnqEm308hic0U9CFSicsictsja6SJjI6FqAbCDdbWsGH7RibTZ3Td2pV67dC6Mibp5PhGJKVyNMmp3G8KZwxDicK8fGk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Rambo，sherry ，laven谁先成为入口，谁才配留在桌面上。我们拆了2026年3月24日的一份Clawhub公开数据快照，样本共33,760个skills。这个市场的问题，不是供给不足</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801034&amp;idx=1&amp;sn=d9f6a4770318dc57ac119b24ce4a40ff&amp;chksm=bfb8d1020743db06f5980a9f3146dd97b832060d575d72baf49108c0a0e89628053cf6b508ec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 17:35:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[认知重建之后，步入Agentic Engineering的工程革命]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906iaZBEU3zWhTxG68n5shR60wj5fjpPVhndfl2mnKDO1WtftOOeM6ib9BHJdy1x6cUe77ffBZdGKsv2X5kyQNXzS3p53G5FzeMFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：rickyshou从 speckit 踩坑到认知重建，从推翻精密架构到一个 AGENTS.md 文件重新出发。这篇讲的是"我做了什么，以及它为什么有效"。一个 AGENTS.md 文件，两个月后</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801026&amp;idx=1&amp;sn=3e12f0888b3c232ed7218caf90df5f0a&amp;chksm=bf8e070ed6000035be3bb448fb06ba11e3be61a42d6fddb2fd0cb1fd912ccf43568e5013b366&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
