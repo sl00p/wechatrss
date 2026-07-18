@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hugging Face遭自主AI Agent入侵，防御方用AI反击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1r4icyk5c6vZY96TrvGicFyqD8zwkyEgUfcmIqnXXhpfHo65A4gb9REDm08F3ibREqSia3Sq1CYsqPI9vBdxRqAEoiaMFjszXG6rSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face本周披露，其检测并遏制了一次生产基础设施入侵事件。该攻击由自主AI Agent系统端到端驱动，而防御方则利用其基于AI的法医分析手段进行反击。Part01自主AI Agent攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=1&amp;sn=37c90e299fa86da763303a16cb9175c0&amp;chksm=bc459e552801ec1e3df35bbe7b6b72f6db35ec1c2b9d6bb0e24c6bb0e8f744261b507015517b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NadMesh僵尸网络利用Shodan劫持暴露的AI与MCP基础设施]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1iadLLesfQGjoqCc6ia4NPIckOCkicibR2AaB6lEBsKBDtIEQNbLQ3eNvIAekE86DbjproAVdh7YG9lAzdNqfXOVs5SicbOQyVFXO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员在僵尸网络格局中发现了一次显著的结构性转变。XLab团队披露了NadMesh——一个基于Go语言的僵尸网络，自2026年7月初以来一直在快速传播。该恶意软件标志着从机会主义蠕虫行为向工业化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=2&amp;sn=5cf91e5d10fc6c700448eaeeac3673b7&amp;chksm=bcfdaa2396cf537707a5d0d924e490706d69f98961aa1d8d94c536efa9a9fabcbe723da5c67a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：Claude Code时代；恶意PDF安全测试；EDR规避深度剖析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX11ygpSTibU8tXSJ25ClPVZkSCL9DriaAm68kXGu8Es8zZoWxujgeQXNJlEJhaR4gkZcG1XtObdRQWbBCfl9pnKdOvFM6Ker5ErU/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=3&amp;sn=b158903ab89b8fb4c2cb3bc4fea67613&amp;chksm=bcce75cf2db591f887886ca282b905c8335c6af4e2d1f30167d13bf288d778af2a6052f80ae9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Windows LegacyHive 0Day漏洞可让黑客获取管理员权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2IBljUKB6oXN4mwsSWqiaMP0jURE4Yw5UXjWdwXo7N5xDmPAO7LWUyZ0XKqKkmKialnHXdNMMtDdFJWnr6N5aswhq3IboDJNvFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为LegacyHive（MSNightmare）的Windows0Day漏洞，滥用了用户配置文件服务，可实现本地权限提升、篡改管理员账户以及以管理员身份执行代码。Part01LegacyHive</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=1&amp;sn=4c626cdb64ef38a6a140fe32adb444fe&amp;chksm=bc493e85a93e91c6ac2d1b60811c4048261426e312f50f8f11c51b465b722ca370d5b059777c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0sCz9icIMYV9opOmvhpO2514JqnsB4t9kwyb9OcGPtGV013DZrssG0jUc3VEhNKZ1F29To4kU1HF5LuAib0YptMIAeNU1lFQc4c/640?wxtype=jpeg&amp;wxfrom=0"/><p>ChatGPT中存在一个概念验证漏洞链，该漏洞结合了防护机制绕过和路径遍历缺陷，可能允许攻击者通过平台的文件下载机制访问受限系统文件（如/etc/passwd）。安全研究员zer0dac表示，Open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=3&amp;sn=5f993ee1f9b904d488491e9eb4cb7caf&amp;chksm=bc251b9d4078f69286d4a6e83264584ce48d9b2c0efabeb994e64dd7ba25ae28e5611f6749bf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10款开源AI Agent曝高危漏洞，攻击者可绕过防护执行任意命令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0pwfPOoiahB9GI7x2Vsicae9rvs3bvfg0lDUhmqaXdmEibxsicpGAWYXMcxXE5EPeicAJr0RrsdLy5zTBzkXj6B1U8r5yAEeMCgHMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Adversa AI最新研究发现，通过利用存在数十年的Shell技巧，可以轻松绕过本应阻止AI编程Agent执行危险命令的安全检查机制。这项被命名为GuardFall的绕过技术，在测试的11款主流开源</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=4&amp;sn=54a42f87c96ea2bebff83c5cda3d0ddb&amp;chksm=bc98cdca5ba88dcd8ef42705909af8ba8ba4fa26d5e6d7098f2e69c48ca190fc0efc6267b7ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026世界人工智能大会，斗象代表“AI安全”邀请你]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yuESDE3QrIdgeOmXib5iaTH4uE3xYWNAxpnw8QyCpEfiayR4sUiaSehcibAYOx3VtmkXw7aIp47CyWUL0wRX3TsicauFAJkfIkpVTA/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341651&amp;idx=1&amp;sn=600f0c35bcc39e59adcdc744126a6673&amp;chksm=bcd67f0e617fb9ea6f14633ade2ed0f65f2e746c181bef6d61627aacc43d5e588c30f3aca0ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Fable 5全球解禁，7 天限时、额度减半]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3cz9MS8SZibU0XkXFc9epjZO8PToVI8nyDezwReicKTIg5vmIOnVNrtJ5VibzwcWs2Gu9bpKdiaiaV5WGiceA1nw9O5e5fE4icDWsEiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic 正在全球范围内重新上线 Claude Fable 5。6月30日，美国商务部解除了约两周半前对 Fable 及其管控更严格的姊妹模型 Mythos 5 实施的出口管制。7月1日周三</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341651&amp;idx=2&amp;sn=8003b4962bbd8109e68986af951ec9a7&amp;chksm=bcec27cf40da989248bd173d037cbd1b737db20b553d328e281b7a01d367c2d4c65c6655b85d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

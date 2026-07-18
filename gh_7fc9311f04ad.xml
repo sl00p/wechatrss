@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen3.8抢先体验！正式版即将发布并开源！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xweSiaHKblPS1b9BnNbFhjjD9p2eSibcdtZJIKY0UFNK7KRKC4VMu7tC9g2vh7mjuHXlrFYfwnJo9ojJqBtxmAg8MRJia0DcZDL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Qwen3.8很快将发布并开源，新模型参数2.4T，正在以“天”为单位持续进化，可能是除了Fable 5外最强大的模型。刚刚，Qwen3.8-Max预览版模型已首发上线阿里Token Plan、Qod</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561683&amp;idx=1&amp;sn=91c6c87422eb6e7aebdeeb9b3b623f9f&amp;chksm=e846e16fe4893298020195454183ed9875a0cf7b84e1dda698df29905787d97cfa90ac1e6b72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 19 Jul 2026 17:22:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[千问AI平台亮相 WAIC：当 Agent 成为新用户]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wearXvZ2LFjByj59qPKILIMgOapbFMRtRfNkZlfmZXmwVpVGaibDLL8dibvepyPTtk67ibkFDibFfWaiaOdY7iaVyJcvqiaZ4dZmx9CU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。7月17日-20日，2026 世界人工智能大会（WAIC）在上海举行。模型能力持续演进的同时，AI 应用的开发方式也在发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561678&amp;idx=1&amp;sn=5f218385d1d12edfca4b8715b315631b&amp;chksm=e8e101d80f77a169439916bca7ea8c720dde364e4e1f645f82a6b6c229c19010bbae11e3de82&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w6D1eJhNmA2NPwTib7ciaTzxXZ8Tnf3VRzGQZVfKvibbqoVTlichNzaOjhgD3wibDnibd7bYvNcZJyIicOK0Y62USJKJKDfOcLVN0wsU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章讲述放弃不稳定的前端UI自动化操作，采用解析并复现底层API请求的方式，来解决浏览器自动化的效率与稳定性难题。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559535&amp;idx=1&amp;sn=8eb95438291e8594d674652f6bb7c1df&amp;chksm=e82b145e1ce595de6abc57acab72cb7d6227c0345685ef338cd90feee34c3b4c22019b33dc01&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yLU9xiaej6qkx44xlPqU4EL78IVhymmNbUnysmz3IkVgfZ7SNON1iaiaYBmbWgjoRKgrwFiba7SqYgicaXBKOTBzMZVPP5EpDueu74/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文的核心思路是从Prompt、Context和Harness这三个维度展开，分析OpenClaw的设计思路，提炼出其中可复用的方法论，来思考如何将这些精华的设计哲学应用到我们自己的Agen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559511&amp;idx=1&amp;sn=64e933b0264e47f0940e693e315e0c82&amp;chksm=e858978e815997d37ba9933ef407eada0e1dc73b0eef741c09381adb7cee18301ee42569faeb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
