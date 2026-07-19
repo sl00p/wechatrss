@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos常见问题：能力、访问、竞争与影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0M6H4gCTjYfqXMcpHT1iaWl9ZSqAlQzRLiatOM14Dh2bHO7JtxE0WHQlXdm1ziaOepDtJiaGMico55pQLwh6A7VxZtJIDC5fCkEHpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic的先进AI模型已为网络安全界带来巨变。以下关于该技术及其对安全策略潜在影响的要点。Part01什么是Claude Mythos？Claude Mythos是Anthropic开发的先</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=1&amp;sn=61f900a593c25d658e7805b9509f49b8&amp;chksm=bce3fcfb6dc7e8f33361bd4ef5865db548f13d59a97e1aea1ec3fdb5e214b3f0b521737ea3df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[15年历史的NGINX漏洞可致Worker崩溃并实现远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Et9YHnjRkK3LicHTz69PLHSfalATcPvsKTmyodM4VpQ17RD3wibiaPoa8I7nuTc8QytvkcoickXdickhpCTbCkhO6FkCRBtxQ0ZWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5已发布针对NGINX一个严重漏洞的修复方案。该漏洞允许远程未认证攻击者通过精心构造的HTTP请求，在工作进程中触发堆缓冲区溢出。漏洞编号CVE-2026-42533，已于7月15日在nginx 1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=2&amp;sn=bf799b46ea05530ec6f5b7ea6caf385e&amp;chksm=bc18d52f3966640b7ca74da104def7ad5846cc31e4750d47f77d5d10dbdf20abba613698d758&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新公开的wp2shell漏洞可致攻击者接管WordPress站点]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2LN9oCdADM78NtRz4BBKSSibrEpSZuYh9Z34UN6ia8bGMiaDic7icnWZiac4PlXBqL9Wjr9ETd7GqQ7IDxqT30fDg7DSSf9LGYelvKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概况针对WordPress核心的两项严重漏洞，公开的PoC（概念验证）利用代码现已发布。这两个漏洞分别编号为CVE-2026-63030和CVE-2026-60137，攻击者可将其链式</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=3&amp;sn=f6c205fc4d796585ab47557b56dba1bf&amp;chksm=bcd566d54a5005844ff32a5fb3fcd8a5dd308ca2408f08b28bb019c0f2617f63ca709f270580&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[安永（EY）披露第三方支持工单系统遭入侵，客户数据泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX02g99rCrQb3Lus4HeFI6ndBYykiaxKwPqejdSNZ5uNjR3tnhUo9ibmh9QnjfS8JQmmVGiaxcZGf7l9n0rgMnGg2p2PhCun83eHZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01事件概述安永（Ernst &amp; Young，EY）披露了一起数据泄露事件，原因是攻击者入侵了其第三方IT支持系统，该系统存储了包含客户税务信息的文件。安永表示，其IT团队所使用的第三方支持工</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=4&amp;sn=8c20ba7d28e4dd6003ff5d011b30e337&amp;chksm=bc4aceaa281d98626f5ed845b7a5e46d11529bd74c16b9694970bc313f2dcedd4c68d73736b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hugging Face遭自主AI Agent入侵，防御方用AI反击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1r4icyk5c6vZY96TrvGicFyqD8zwkyEgUfcmIqnXXhpfHo65A4gb9REDm08F3ibREqSia3Sq1CYsqPI9vBdxRqAEoiaMFjszXG6rSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face本周披露，其检测并遏制了一次生产基础设施入侵事件。该攻击由自主AI Agent系统端到端驱动，而防御方则利用其基于AI的法医分析手段进行反击。Part01自主AI Agent攻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=1&amp;sn=37c90e299fa86da763303a16cb9175c0&amp;chksm=bc459e552801ec1e3df35bbe7b6b72f6db35ec1c2b9d6bb0e24c6bb0e8f744261b507015517b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1wibC3aTVzib5miboPpM1kx3rFWZmHFicRhAfjMnnUQZRW5kyIv8qNdwgryKCCILowDiadjQYyAqgMJxXWHbfA7CO6iaA2t9icJTPts0/640?wxtype=jpeg&amp;wxfrom=0"/><p>新披露的Linux内核漏洞Bad Epoll（CVE-2026-46242）允许无特权的普通用户完全控制机器并获取root权限。该漏洞影响Linux桌面系统、服务器及Android设备，目前修复补丁已</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=2&amp;sn=44a94d63bf1fb8dc5ff30864104ee0b4&amp;chksm=bc0471af6bf69f0a8436090777ffa3979d0e36ade5972572e001b9c0e069ebb652f2fbfd5f88&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic恢复Claude Fable 5服务；智谱AI新模型GLM-5.2比肩Claude Mythos | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🚨 新型 Claude Code 攻击可让攻击者完全控制开发者系统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341828&amp;idx=3&amp;sn=4a871480ce4b14e58085d317b441897e&amp;chksm=bcee1efd32bc7b3b29052867a2b6bb33a398d44069cf0f60483e207a7253715a6e59d930a5d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Claude AI攻破票务系统，窃取全美音乐节管理员权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rVRTpSy5dIt50d4yzuYAaicztC1fdAMRDGS5O2oB1ibjHf10ficR2ppe3Dib5jQ9543VOutiau3iaDoOGdHr5KT2nu3O2SZCJLnq84/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现过程Live Nation/Ticketmaster旗下票务子公司Front Gate Tickets（FGT）存在严重的未授权SQL注入漏洞，该平台为EDC、Bonnaroo和O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=1&amp;sn=6ef136248e7aba368a64c4d1d42ad6c0&amp;chksm=bc515a3836ff59e5ac054a319e87b477a4b33edf68c87dff68cc87d566fc0019bde9d8076d73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026攻防演练必修高危漏洞集合（2.0版）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2hEM6ZHcNYPWfrEAxT6f4bledIG9PMnbib5vNBiadwhNA6icSVvIFppXQcuDbibictl9gQbaldYeo9zzCmrjmsP46ewq9nSH1WqDe4/640?wxtype=jpeg&amp;wxfrom=0"/><p>高危风险漏洞一直是国内护网期间企业网络安全防护的重点风险面。随着政企单位业务系统、办公协同、ERP、CRM、运维安全、视频安防、MES、指挥调度等系统逐步国产化，红队打点目标也会更多转向国内常见应用和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=2&amp;sn=06fd40a096ddf2ce71a121e63f53629f&amp;chksm=bccb61d1f61e202c9255a28ebfe21d28f69df796a3276f8c0295b5f796584f25f21b541c8a91&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT文件下载漏洞，攻击者可窃取本地系统文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0sCz9icIMYV9opOmvhpO2514JqnsB4t9kwyb9OcGPtGV013DZrssG0jUc3VEhNKZ1F29To4kU1HF5LuAib0YptMIAeNU1lFQc4c/640?wxtype=jpeg&amp;wxfrom=0"/><p>ChatGPT中存在一个概念验证漏洞链，该漏洞结合了防护机制绕过和路径遍历缺陷，可能允许攻击者通过平台的文件下载机制访问受限系统文件（如/etc/passwd）。安全研究员zer0dac表示，Open</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651341770&amp;idx=3&amp;sn=5f993ee1f9b904d488491e9eb4cb7caf&amp;chksm=bc251b9d4078f69286d4a6e83264584ce48d9b2c0efabeb994e64dd7ba25ae28e5611f6749bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaSGQnicSlLAKGp3cnFJVUpLz2ia6cyJS2JicW6XgfAjMbM1ViaqZZxhX700o7muBxOsicBqXzCM3ZE44QGQgPjL6vYEx56am6mROUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 2026 年，OpenCode 已经是一款现象级的开源项目了：GitHub 上超过 16 万颗星，每月有超过 750 万开发者在使用它。就在这个月，他们发布了 2.0。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289201&amp;idx=1&amp;sn=9630e4a209642257824a1e3041f92aa8&amp;chksm=bc0bf271f7367c02864fcb69c2b5cfe159dd15e2309a2173aabab84da85c49f66ad402114de1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 17:53:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiapWAS3It2quv3N0YpGjhStJYjkvsUMyjw5DcSMYibMJjzftTWs07WXkYDN9gU7ZeIboUZTWsRQswSdwVzCMb1hz0B1nY9wqFWg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 “2026 年初，OpenClaw 刚火时，日活 Token 数大概是 140 万亿。未来算力越多越好，因为 Scaling Law 依然成立。”摩尔线程创始人、董事长兼 CEO 张</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289201&amp;idx=2&amp;sn=0992a4ffc0a097977f3a6093563f1b30&amp;chksm=bcb92f0f4e16c6c5b9302bf432695512e0b917f40e046dacfabcfefe7f7b0dc221dac46fb0a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 17:53:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjz4vuAUm4gY5MHrYFPIiaceDvgPZeq02eZqGn86XfWzvwHH8FYXrKyB0a7gicQYrqwbqWiaV2OrpPT4TQYxcSDqLP1csNTFMlXsA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 明知山 最近，谷歌 Genkit（谷歌用于构建全栈式 AI 应用的开源框架）发布预览版 Agents API。该 API 将消息历史、工具执行循</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289201&amp;idx=3&amp;sn=3a586e007ad05492f66ab17d4ebd2e51&amp;chksm=bc53aa8b2a080869a6752682004387f33f398afebd7af9bfd63b6e635467e084616ca7301c1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 17:53:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgWu5khlUFdPR3BY9gFayC8JFxN0ice8CprFdatVWgK4M1ayZic267OGgNIGVFcKWIAOKYM1oGpLKQrFmb8fxfJicELTMPIBiaNZBY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 Datadog 工程师 Arnold Wakim 近期发表了一篇文章，分享了他们使用 AI 迭代一个核心生产系统的经历，包括他们踩过的坑以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289201&amp;idx=4&amp;sn=37001e757b2121e36fc1522a5cdb7ace&amp;chksm=bca509cf259f6f22afa5591318ac405276fdaf4104c4a0d670172ef310ccfd530bc622bc9361&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 17:53:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon 深圳]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgqriaFYEvZQfDrZmuarFLtDSgPnib8gJbvCUlSlTUOKlAkialvoowl5JslZdApC3C3UCWHElXLjHqYaxjXohLBTlP9NQicLMuvXr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 时代，哪些方向正在成为行业关键变量？50 + 实战案例揭晓答案！模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。当模型能力逐渐成为行业共识，一个新的问题开始浮现：当人人都能获得强</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289201&amp;idx=5&amp;sn=7290e9043acf92e17b3d843960a2e439&amp;chksm=bc9dced595813b1181813b33f83730db4b4dc7e9c4c23af670ab405e09fc8d77195c32edcea4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 20 Jul 2026 17:53:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[所有Harness终将长成“龙虾”，但最后活下来的只有几只]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhpZ0q9j5hMbmb4yg9dHlcLyR1hTPJxLMvaQArfwUnx3UYMUhaJTAiap8oiakbF2gE9n984bBG2LmaraMv2nUlnDTKfQyYH0YDVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 你在 2025 年聊的“Agent”，几个月后就变成了“Harness”，再过几个月又变成了“Claw”。看似命名文字游戏的背后，是用户需求驱动下的自然进化：一个工具越</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289128&amp;idx=1&amp;sn=80c7d1829f5cd8aa93fdb9a16d15b6ef&amp;chksm=bcc1be0c1ec13c344747bcd1179d3ba489b47038194b52e07e33fe8d0caca3863a089b886136&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhkicrs39lZROf3R6D4nBXjsib3GpNgFyKCaqZUNEIxv8FlSY1YnUTCmN9lxYvTb2aFmkegI28Q1m8Uw3b0Ov8rIEZT4XzhHXooQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Gianmarco Nalin 译者 ｜ 平川 最近，Cloudflare 分享 了他们如何发现其 CUBIC（一种拥塞控制算法）的 Rust 实现中存在的一个问题。如果连接初始阶段出现了严</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288360&amp;idx=4&amp;sn=b16d32b490c1a7f2f45805d901034c99&amp;chksm=bc6ccb1e2459e0addee845d62c38d7a1c3052d54fb41242f87c945dfea67f5004f7d3525022a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 16:24:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业 AI：方法论易得，交付力难求]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhmGKia1cGOh4f7W6Bw2UsYy7AhJHLPAMnUaJHIotz0tBI77WzJjCpicniakqiaLPCHhUs3Rhicnq4dALpeIPmGIc0saD2Bn0heSPB0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 籍云、凌敏 前 言2026 年，全球 AI 总支出预计达到 2.6 万亿美元，同比增长 47%。但企业 AI 投得越多，矛盾就越尖锐——AI 应用要真正上生产，交付的就不能只是某个环节的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288289&amp;idx=1&amp;sn=43d010a702cc0892ee54f39cc5f82050&amp;chksm=bcbf7e9441de1beb9249185a31723caca224bdbb67269cc49c27e59e757b995e780ce019ca1c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaTH9iabqCBjbRQtCibN7QAPYzla3Sy4BMDWw29H80dL6W4YPkhyg5UibLv1xCw8zzYzJcHZE45L3K5gThEunveiaY43ib95yrYGBvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜陈姚戈 生成式世界模型能否真正用于机器人控制？这是物理 AI 领域备受争议的话题。生成式模型的预测能力越强，模型参数往往越大，推理延迟也可能越高。而机器人控制恰恰需要极低延迟的闭环反馈。“你不可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288289&amp;idx=2&amp;sn=119032c8d8682dc0aeec02057340a5f0&amp;chksm=bc6da165b9d7adc9f1355ed34f34553b29954a369f818bde39e34ade6cc6809e855e4d9fdbd1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj4RTaglkq3fJFlnApp31D5atRzKHrCABQEgj2EbgzZ9cnolzEY88wtsFdic46utBTMwnEibvmfQypS9tLJ1eUUfH82Eq3y40wso/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Paul Sawers 译者 | 平川 策划 | Tina 本文最初发布于 TheNewStack 博客。图片来自 Unsplash，由 Egor Komarov 提供2026 年 6 月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288289&amp;idx=3&amp;sn=b74a563cfa4dbb6b01b08492c41385d0&amp;chksm=bcbad28f7f1fb531173dd50e81a8611497e7e5dd50d6daac240fc08c0efcf59790e27bb414cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhOh42l34qggQ8TYNfglWFeZfnFyLm3N4XXNutzibPvBZV4w85UUPWMFFXR9ohvAOY26ARRUnNa22ZdedFdrBCicTVsrY0HgaiaXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 平川 Lucide 1.0 发布。这款开源图标工具包是 Feather Icons 的一个分支，由社区主导创建。这是该项目历经数年渐进式开发后推出的首个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288289&amp;idx=4&amp;sn=112c4c4ed5fd6808bcf36e1c977c1d1a&amp;chksm=bc8cc638348933d711cc1adfc67822c32104e624d622ba5814504f9c5b9562afcdf72e23f688&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgZ2w7tvibkibaDAMukhdpoicicL5YdU1nC9OblcGC2V3PKxGogb9sT06565Pu0Uzq2lc8AHibnWTJ5aIS86VFZFQpIkzaR75RG2fI0/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 宇琪策划 | Tina过去三年，Python 开发者工具领域发生了一场静悄悄的革命。一个叫 Charlie Marsh 的年轻工程师，从一家计算生物学公司辞职后，在“不知道自己要做什么”的状</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651288214&amp;idx=1&amp;sn=92c6627c79a1a24872e8c6445b226bc0&amp;chksm=bcbc31434471a77f2bd0996433e60cd5617d3679fd4258c970990a47352385cd915479a897c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 05 Jul 2026 10:20:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
