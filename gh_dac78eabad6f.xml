@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[报名中！2026架构师峰会倒计时14天｜潮起潮落，你我仍在]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6xuekb2kzlvoPFQ4ianQ2ZgxyyceZjD97PcZibKC3f2esqTd9KQepR8iaWlSqYgSDd3uhbsCCgV6doCktpzOOSvMASsk5DoFLVUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云2026架构师峰会报名通道开启，名额有限，先到先得！</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696746&amp;idx=1&amp;sn=b8b216e9b7f36ce5cf51befe98f73060&amp;chksm=ebc78910a49bb8fff48a6a7dae57c1a7cae1dcfb453fa444ebe8fcc16dbb9682361cf7a6d690&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 01 Aug 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[独立开发者、顶级开源项目PMC是怎么用WorkBuddy的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7kGZGA6nwCZOYIuGPt9dwtlYyic71CClWNTRxIHN3yDHeHIgLmkZxC57MexiaplicGYYeP2TIXnJBR6Hf1Ok8wapMqhVuGSEiapN0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上个月我差点干了件蠢事。让WorkBuddy评估一个开源项目PR的代码质量，它给了我一份极其专业的输出：架构耦合严重，核心模块职责边界模糊，建议拆分为独立子模块</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696416&amp;idx=1&amp;sn=ebb3c52b2bdcc699da2afc8d060d03be&amp;chksm=ebcb869bb2b8d156d53a42cfe51cb9edafb31b535f49c24c9c933da8aa6062426a56a2759977&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4WB4heXRs19fzAfn3bV7iaW4sqT1DAMS2Uibj9e2jRNzsJ4g67lKX5EjiamyoAzUrHG6FH7teNeSAPJyvbxXTTCb0wYQscks5Dt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Hermes Agent，重点聚焦其核心技术创新——Skills 闭环系统。该系统实现了从经验提取、知识存储到智能检索的完整链路，形成可复用、可迭代的“方法资产</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695259&amp;idx=1&amp;sn=30ef327bcbbb3e349abd812da627c5f2&amp;chksm=eb520b185facae3e79566ab8fab9c1302fd2acc290b575ac76a41c2c54e143038b101949dccc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯正式发布面向Agent设计的命令行工具：CloudBase CLI V3]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7K3fLIUedibt6cCQQaxRiaJ5icZ9YF1PjJQhVg0m65fhWVhgz0Bwepgqgpep7SO63st36dhJjXtUKqLf9mNWib5xiaFaQTqfBqenJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇我们很荣幸地宣布 CloudBase CLI V3 正式上线，这是一个面向 AI Agent 重新设计的 CloudBase 命令行工具。这个版本新增了 15</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695216&amp;idx=1&amp;sn=5b7603357bed357d756bf908a59991d7&amp;chksm=eb94770a41d11476408913840100f12f6b08851f04dd6cd8700eaa1b91296d9043fd0c8a822c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
