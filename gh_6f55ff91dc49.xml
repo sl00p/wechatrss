@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2a6PmwWibNPXnIvFE4lzfmEEpkspb3k2koCKD6Q1ZdRB1fATb446CjDLX5pae8NJV35ic5oFC8eibCiaEXibJiaOBLAO2bPkeBmDfmE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了两个开源项目，一个叫 OpenWork 一个叫 OpenWorker。尤其是这个 OpenWorker，它还是吴恩达开源的。今天这篇文章就介绍一下这两个开源 AI 同</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535704&amp;idx=1&amp;sn=623306f6ea42ed3afa182ecf9c5a3e3d&amp;chksm=f8da76f8b170ac65f7857d83767c21a051cf55da26e5e4ee41afbe1e0d36c1a015322abff291&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 02 Aug 2026 10:12:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3 个最近在 GitHub 上非常火火火的项目，最后一个有创意。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0iawibZzESIwibico3QNWZcJP77RXWnJqC69WbPVQiaEY1aZjicVUCpMTYfXWoIkkxewEW9LPXHewBxOHedgrO1n3lkUBXLgicXzuqrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>01让 AI Agent 真正加入团队Block 开源的 Buzz 能让 AI Agent 真的融入到团队协作里面，把聊天记录、代码等放进同一个协作空间。目前项目已经拿到约 1.91 万 Star。它</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535657&amp;idx=1&amp;sn=8d2c507794ca4e7133a1e15aeac20eee&amp;chksm=f89eb6eb3bb2857df1c2896b796d7006916785d46b58a2b0585bbf690cdc3d5ceadc5993fd19&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1QezkAdJiawQ0U1WrwYqibgm1EIiaa9eTBnWdyORT0804bDIOULh0DibDzrrRLWFrTOiceW1ucOo9xmjD17fSsMCrKRiaqCNEr9HAI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GItHub 的时候，看到一个熟悉的项目冲上了新里程碑：飞书 CLI（lark-cli）Star 破万了。从 3 月底开源到现在，不到两个月，10000+ Star。在所有办公软件 CLI 里增速</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533685&amp;idx=1&amp;sn=17ada2c23cc8647278202e8fab3508ee&amp;chksm=f871d89e3f62d3a7e45c74a96bcfe4ee5aaf038f10c13f61248019d1dd63307bbd7a3c6202d9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 11:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手机用的多模态模型开源了，1.3B 大小的 MiniCPM-V 4.6 真顶。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1EbAoFAQAAdicwiaHkPiagsSfCr3QSWdB26lfR3kKxJ17S2M0BdiaCvGEPubSJOmXYYyvDvS4Yib4ib9jEGdMglWxgdDEkUPSSLqA84/640?wxtype=jpeg&amp;wxfrom=0"/><p>面壁智能又开源了一个 1B 的多模态模型：MiniCPM-V 4.6，所有手机都能跑。这是 MiniCPM-V 系列有史以来参数几乎最小的模型，只有 1.3B。但多模态综合能力，打败了阿里的 Qwen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533648&amp;idx=1&amp;sn=23d7c59bb3b7bb2641220694d6a0ab4f&amp;chksm=f8400141610666803121432d804b583eaa68eff2d5c7d2e68f82a4e8d4fa7789c6d8588caf34&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 13:50:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
