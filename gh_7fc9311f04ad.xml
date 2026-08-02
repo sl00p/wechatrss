@@ -1,15 +1,21 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[阿里云开发者]]></title>
+    <title><![CDATA[千问AI平台]]></title>
     <link>https://mp.weixin.qq.com/</link>
-    <description><![CDATA[阿里云开发者公众号]]></description>
+    <description><![CDATA[千问AI平台公众号]]></description>
     <language>zh-cn</language>
     <image>
       <url>https://wx.qlogo.cn/mmhead/ylRhrSjQb8hgLeJ2HmFwFP3XibWic8f52rRNA2lHV42KeefxW3K1VMicq7ExDyuFa8V0334Oiakb6pM/132</url>
       <title>gh_7fc9311f04ad</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Qwen3.8-Max首发上线阿里千问AI平台，API服务与Token Plan同步开放]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yYlOQhRpW8K8A0HDc8vRP8DygJj1Muj8mwLL6fLjxsDgfCzvib8M4X2VDC49c88Le8S1z1H8ibTJgKr7sYPDTz940Bv9FF1gwEM/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，阿里巴巴新一代基座大模型Qwen3.8 正式发布，千问AI平台同步首发上线Qwen3.8-Max的API服务与Token Plan，面向开发者与用户全面开放新模型调用。Qwen3.8总参数量2.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561812&amp;idx=1&amp;sn=a864f8ca207e730d072bc1d2beab2c19&amp;chksm=e811fefcdff740fbd1fdf79e0b23fd6a3fcd25be7e9206d282eeb068ea10f79a6f4075ef78ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 11:32:41 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[从 Prompt 到 Harness：企业级 Agent 工程的完整演进之路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zd4nLBXnUVStlbz7pyjhQS1UoESjQpuyzCjyLIdk6O6dnEzY0eeTQo5DmYydjZic4ky8DskdPrWbNRe8p1FeicHroUvicIxvqo8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文系统性地回顾了我们在构建企业级 AI Agent 平台过程中走过的完整技术演进路径——从大模型的先天约束出发，经历 Prompt 工程、Context 工程、Harness 工程三个阶段</p>]]></description>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPIKvhiaIcTrDuWb76qMgZ6brrSwqICm8dHMN2JvJyDSnxFtJpEDltsFPr5QHVwdlib5BCLMr2rDQA4licXE6U7He2VYGc8FGrH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。过去一段时间，随着工作中 AI Coding 的占比越来越高，我逐渐感觉到当前 AI Coding 的协作范式已经不适合</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559601&amp;idx=1&amp;sn=dca715222390e89a63a45ad54b1c9d7d&amp;chksm=e8dd8449bde02eae42b2d37f3377c02e99e120ab2c1506611394b05b7793ceb6f02cb17413be&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code 源码拆解：从启动到多 Agent 扩展层]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zdayicYGGBPkxxJicyAiacwaWoboQgc7zLibz0POcsPAPq30r9eQyHwVFdbCeicc3o1Psa4KrlXhpuSiaUFtCbriavnW9PBibvSpLB8PM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章只做一件事：把 Claude Code 拆成几个真正决定系统质量的核心模块，然后把几个最关键的问题讲透。它到底怎</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559548&amp;idx=1&amp;sn=e6a3f5d3b01eb32e14743130fb3a6d2a&amp;chksm=e8cfacfb5e0b405047ad7427575bfe04385baf4b4a58a005269dffa6e9132c7abbbf6ef498af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

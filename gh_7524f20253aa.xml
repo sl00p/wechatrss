@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek V4 Flash被曝“越狱”，开源大模型的安全边界再受拷问]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ENBdQPzWKiahh43kpacjeW6LDNn8CqSOcMcfr2uB7mFzxU5gJdjTSJKLhSjtf5XJLqbIRrgiatTWvdvnuq6DeGR77PDpwSv8wU/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V4 Flash正式版刚刚进入公众视野，一场围绕模型安全边界的讨论便迅速升温。8月1日，X平台用户@Exocija发布截图称，通过一组经过设计的提示词，DeepSeek V4 Fla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=1&amp;sn=67c9bda7020528f3b1a787a321f7e093&amp;chksm=bc13d5fa39039ddffc7259dee59555a6a88990b95a05284c055e491958fd12ab2c0bde584386&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CyberStrike开源，AI可自主侦察、挖洞和利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1VV7Yniatsd9ia7Gooj7bYthX0X9oejnC6ibV4hMicibsjibYVYFicoj5LOj1dAQ2uibJW9p3MZumYtiaTeaa6ZzuiaRaib4YxMiazGyShHEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为CyberStrike的新开源项目正将自己定位为首个专为攻防安全（offensive security）打造的AI Agent。它能把任何现有的Claude、GPT或LLM订阅转化为自主运行的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=2&amp;sn=997e766da3c2ef5cb8654699cfaf3c5f&amp;chksm=bc871a2772bd410b911e63cb41331357a7859af62806d48ba0e418b80742e59bc3555ab66c1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型后门让黑客能够记录键盘输入、窃取密码并控制政府计算机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0jmox84klAGibTWtvHdOBYR9lnH2g1g7jbwibbpwibN16UWx6drTooKia2O4BGibqDxrEvFJJIjMMuoLGowFbVIwYWKKeTUHuhiaE0o/640?wxtype=jpeg&amp;wxfrom=0"/><p>中亚政府网络遭到两款定制后门攻击，攻击者可深度控制受感染的计算机。这两款工具被命名为OctLurk和SilkLurk，能够记录键盘输入、收集浏览器密码、窃取电子邮件并远程执行命令。该攻击活动自2025</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=3&amp;sn=32e05558dd6f96a6445df7d5c3944a94&amp;chksm=bcbee6b6bcb99efb2d2dcf11d7fea9b65e6057df3da900ad29afe20ee119ba18e4babac3c5a9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PHP修复三个漏洞：SQL注入、内存损坏与服务器崩溃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3FkGDcscXjuJdyyDRoBWpTrbHFicUsR6IolBbsicmqgTmibIMQLpMVZiaDywSXChdCQ2BQSwfdwyILasOG5Ap2heKb14j081zSR0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>PHP在其最新维护版本中修复了三个安全漏洞，其中包括可能导致应用程序遭受SQL注入和越界内存写入的高危漏洞。这些漏洞影响Web应用程序常用的可选PHP扩展：ext-pgsql、ext-bcmath和e</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=4&amp;sn=7e6562528906ffbd8affe792a77e9b6b&amp;chksm=bc3af5d8cbcf1da6e58f2b0ca5322f18d70229ed97a593f1792cde741de2bf759453a9cf1496&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[41分钟卷走7000万美元比特币，Coldcard漏洞被指牵涉其中]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX231kcwkjfjXp2Y14cFoIqdQ1iaw3M5YdF3mCtGrYBTaB33f4bvKtRlb6t19haPbKvdAFWibRvibFPB86KK6LKgUvDyvYC7b3XCIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part0141分钟扫荡1,196个地址7月30日，一名攻击者在41分钟内清空了1,196个比特币地址，盗走1,082.65 BTC，按当时价格计算价值约7020万美元。Galaxy Research</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343827&amp;idx=1&amp;sn=7ae5200683fcbb26437066a5e258a897&amp;chksm=bc7263abaa7e7572114afca623ff4f6e05d12a1eb568f014617b3977ba8807d2a262b317e3dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0hpkC3nI7X3dbiaeKyqpiaibJfzXMB4xgFMyYWT0DzZkqbD4ibrrQg83GRbB9Kbr6DtyvJjpExForm1vjuMAFZD62IPsDSCoRzodw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新披露的Linux内核虚拟机（KVM）漏洞（CVE-2026-53359）被命名为"Januscape"，该漏洞允许恶意虚拟机破坏宿主机内核内存，从而打破虚拟化的基本隔离保障。这个潜伏近16年的漏洞影</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=3&amp;sn=13d6cd9d0614e47984fa608280a69335&amp;chksm=bcf1998f92171a017fcebe0aa1b269164678590a7b87ede686726baff4fd6b396cbb61fd2fa6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[渗透测试Agent套件：面向Claude Code等7大AI编程工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1nTAiaqrJcpuB90SNp7G9BnB2l9aQMG70XunqxibDkDjaWA2UYrHia39RtIuFAZ1LJHibWGHumGcM3pN94WpibTypFKr6Efxme49BU/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员H-mmer在GitHub开源了名为Pentest Agent Suite的全自动漏洞赏金框架，该套件包含50个专项安全Agent、26条斜杠命令、19个CLI工具以及跨IDE安装程序，支持C</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=4&amp;sn=16224ff02845f1ebb92de177d0f6634d&amp;chksm=bc8db5b77b8b212a28e7225b7e1c54160e59312ceba1be08b220837b1fc820aee9f8c5a72805&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网安同路人请就位，你的专属兴趣小组来啦]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1OA6biaNFrHo6GYy6LibvzyibbrF9PpGZ2HAYCg25pgbhV9kJE4DJeQC2IGlwZEBJRjlAgAhBsnESyX5gnqiauQHCrWBlvq7O2Vo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342109&amp;idx=1&amp;sn=4c74a063026d98f3fe35d7cda66fa69f&amp;chksm=bc47ffe5b1b01bd108a48b95a4237913cdd99779a7bc17e9095fb95fcc1b49cacb6118a4167a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Edge漏洞可致攻击者远程执行任意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1gbLkNJ4q9ElJ4O4DdEBReFcibnS87w8MSiatbFVwpGM2hr3GwfC6xwIhtIaktLB6y9yb0d68icNicBb8n0v6HzicpgkjKwHg3pF54/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软披露了基于Chromium的Microsoft Edge浏览器中存在一个新的安全漏洞（CVE-2026-57992），远程攻击者可利用该漏洞在受影响系统上执行任意代码。该漏洞源于Use-After</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342109&amp;idx=2&amp;sn=840ba323a393b2c4dd96581bb7069565&amp;chksm=bcd7583812c47c995d6764fc30aed48b2ea418aa017a8a016f3808415db3d34b4a0f59c1b2c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 可在数分钟内伪造文件，“看起来没问题”已不再可靠]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0GSQwZxmBZ011nuO7UQ7NM1k2Fic1lianRUkwpicLx9KGB1Do8MHM2M1NeJ2yRmo2Iia0Ez07rLGKSicLcHtzIx19PEbkibP3jDsgok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01生成式AI颠覆传统防伪手段多年来，识别伪造文件主要依靠寻找破绽：错误的字体、模糊的标识或与声称日期不符的元数据。生成式AI彻底改变了这一局面——传统识别特征已失效，伪造者不再需要专业技能，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342109&amp;idx=3&amp;sn=a4c11cf1509b8761a0ea381f2acb1041&amp;chksm=bc00d99178560dac462c4695031f7941ecf68a533cbe0f5d7f84e209fc7f9115ed6d7014783c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

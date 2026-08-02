@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一次外部注入工具的动态调试实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1oykxicx5zdNPqHnWyYK9EbXhBNhIy9wWByvaHUVjoSJOznU1GLn26MwR7UQqJWUjh45sJz00AJo6topVURGMQ7hVSK5lo0dLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在某短视频平台看到一个「游戏功能扩展工具」的爱发电项目，第一眼吸引我的其实不是功能，而是它的本体体积——一个 exe 加一个 dll 分别做到了 40MB 和 50MB 左右，对于一个「读配置+注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618175&amp;idx=1&amp;sn=8dfdec8d72565486ce162b91909f4ce4&amp;chksm=b016fcadee413a04e943b7bb1a069d573f292a0df546c06e3cd39380e5374a66e436f17ab069&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9.10 北京｜AI Agent 驱动 Android 逆向与 Root 漏洞实战训练营]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K113dsv9z2gs2t3VwXmUljicgIa8TYibdO3DMsAc4D7dia9Uoiaia1IqrDnDdfWHpnGytVJtJicGkz7qQ5X5uWqzxYfPHVquA5PBcuhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型能力快速演进，安全研究正在从传统人工分析模式向 AI Agent 驱动的智能化分析模式转变。本训练营将围绕最新 Agentic Security 思想，结合 Cairn 与 r0re 项目实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618175&amp;idx=2&amp;sn=6e07d97e55af6343f2567a424a9b98fe&amp;chksm=b0887ff1ba82bf52c811fb6d4e644cfaab9dd4640035997fcf3c051b72aeec9e77ddad543dff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[硬件钱包重大漏洞！Coldcard固件缺陷，近9000万BTC资产失窃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2qpHdFlppAx2YhtbGXicOtDxv7w9dxlm1SbGgK9K41K1aoGw81HjqDwJaWTdW33BOKaomxPiaP4yO9LoHk0GNlGMN0Xf4ZACcoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语硬件钱包一直被加密圈视作资产安全的“最后防线”，但本次Coldcard曝出的底层随机数漏洞，打破了不少人的固有认知。攻击者无需接触设备、无需钓鱼诱导，仅凭算法就能离线还原用户助记词，大规模盗走比特</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618175&amp;idx=3&amp;sn=0fea3852280411019ea5dfeb331b8a52&amp;chksm=b062b823b48cfdde3572eeefd55f5bd327a68b82239925136f01817ac2cd9c8e7bb1df0dc41b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 03 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[抢先体验！看雪课程播放器正式上线，安全高效双升级]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1fTfMiaczyhJIft88PRKDtyj4agqbhws0UbLHJlqgWVRNSUdogRPJU1g2yY5YtutAEDZricmtfDMqUniaxibNNQzqJIGXbzicNfJYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经在看雪购买过课程，建议你试试——看雪课程播放器。它不是简单把网页搬到客户端，而是专门围绕课程学习体验与内容安全保护设计的专属观看端。对于部分高价值加密课程，播放器是专属观看入口；而对于大多数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618088&amp;idx=1&amp;sn=1e526749adf4f85e15bed7402a852757&amp;chksm=b0b911345c63cfcf259630b030479b251a4efbe80fe7b896b30489bfc0ae756bd3215953dec6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=4&amp;sn=b5becf8e8174b0fe8fd60503294acb46&amp;chksm=b0c53524e160389aef10e3d8fe0e3480da16b8d764b2c96b4073700928c6a37593ab667a67aa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手搓 JniForward：Unidbg JNI 转发真实 Android ART 的探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2YuaS6vOm2U70IXeRJTsRicPbbH59qRgqVy1BxcxlO3RQgKvK3jQBicacek48RVhbWSAehzpaWznmQYDZQTUwUqR4yKMcZ2ias6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>论坛里偶尔能看到「SO 在 PC 模拟、JNI 丢真机跑」的说法，当时没看太懂中间怎么接。后来手写补环境补烦了，自己撸了一版。Unidbg 跑 SO，Native 一般没问题，一回调 JNI 就卡：T</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=1&amp;sn=2d02e4eeb41fbfddfd1c3d4438f42582&amp;chksm=b004660ad497897d5047480335b181f57b3cd3337a105be6eb83f43c7f40a3c8c6fb381c0459&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果紧急推送超30项安全更新，Safari/WebKit曝多重高危缺陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3hIIIGyB0W1xqsjutnxgDIQicFMrmJm5YDkGcC306YFlkyN6rB7UXtaDPbhXAYdvPm3hzuFAqqVYIW9n4y6THHuowU3ZvJiaEhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果公司近日面向 iOS、iPadOS、macOS 以及 Safari 浏览器发布了一轮重要安全更新，一口气修复了超过30个安全漏洞。其中，WebKit 浏览器引擎成为本轮修复的“重灾区”，多达数个高</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=2&amp;sn=ca52e8ec86fbf0d7444c639939e4b1c7&amp;chksm=b090ac988fa50fa7437ed49dd797f7edb73da8a952ce3fef3a64d1a96ccef83e3e95d56a63a7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【重磅上线】系统0day安全——主流企业防火墙漏洞挖掘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617129&amp;idx=3&amp;sn=18432103dc762bac8fda66d695a25548&amp;chksm=b0613dec9f2290d0cd06d50187304051316409a9c76d1c957410a20fd3cbb81cabbd89618ba2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 17:58:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
