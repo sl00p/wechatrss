@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重保进行时 | 奇安信威胁分析数字专家 你我皆是样本分析师]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibwFDoMnMXItdfKNHuqt4XfujGbEk7a7QWSoIibG0sygpofVDJC0glxLzd2KiawkMSvXTpmGKC9X43th3yv4usHicU00ycuG4ib2ick/640?wxtype=jpeg&amp;wxfrom=0"/><p>奇安信威胁情报中心 · 实战案例重保进行时 | 奇安信威胁分析数字专家你我皆是样本分析师一枚把自己伪装成微软 Windows DeviceSync 系统组件的特种木马,在线提交样本后,奇安信威胁分析数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519693&amp;idx=1&amp;sn=8aaa5dd1f446d1a2cf516feb8ec5fab5&amp;chksm=ebc232a9fc953dd309d097eea48f9d262571e9f38987f51e9fff87ed4c7081d7394ecc090241&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 16:56:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic三起评测越界事件，暴露的是Agent时代的操作风险]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibYsELomaHPaDJsbU3EgfEdRBFlBeLtIUQaT31iaIHUSAiaD9TeQpo6mbumhzqjl3UIqWCyaH8qdzrFFiaT3TdevZ6vibtJojFcTT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述这不是一个“AI 产生自我意识后主动攻击人类”的故事，也不是一起“公开版 Claude 防护失效”的事件。Anthropic 在对 141,006 次可能获得互联网访问能力的网络安全评测运行进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519661&amp;idx=1&amp;sn=28e5b8a148ccdb38b814d182601f8648&amp;chksm=ebdcc56bbd4dfc8218315559d996843043d846e4f92cd684408bdc4cef5e7fb655786dd37909&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9RXVibRuIYQQ8Fs1TsGC0D9Va73o9pWBJ4l5HiaHPRstRp2pbsbnak4cxnKsBia66mk2J1hK2zpJkTstR9Pa2M4MGDumMr03XiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述nginx-ui 项目（一个开源的基于 Web 的 Nginx 管理界面）被披露存在严重安全漏洞 CVE-2026-33032（CVSS 9.8），该漏洞已被野外积极利用。Pluto Secu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518385&amp;idx=1&amp;sn=d58d026a8394e3b8a17a1409246d5653&amp;chksm=ebd5e25e37b2aa70aa7f053f42e72363845faaafa7cf967da4ae7b727190ddf234514fb366ed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Apr 2026 11:52:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.04.03 ~04.09)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibqsPtDVVd4eIJgpXx3TTmP8MbJGHLE6fmAW7iaOxX2g2vdjHMuhc3apsWbAwtTpxeWSlMy1V1gib5gOrtuAJQIueYcfRFpAiac68/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.03 ~04.09攻击团伙情报CyberAv3ngers 利用美国关键基础设施中的可编程逻辑控制器进行攻击APT28 入侵的基础设施用于监视其他目标Kimsuky 组织已改变了恶意 L</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518318&amp;idx=1&amp;sn=16c8aadedaebd27f33769be4064e6416&amp;chksm=ebed4a3da49737762ad3a28580b012419b2e7a2836facc17af14a0834b005c4133533f9420ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 09:56:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

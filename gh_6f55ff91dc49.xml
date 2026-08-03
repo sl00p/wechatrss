@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 17 个 7 月份 GitHub 上夯夯夯的开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1zcAUiaGpWqSl6JtKLcmWXiaOH6icA0YIibMVx783mdOu2d2WMN6LPZ1T6NIoWqg1HNAExndk2R64DgzDWcKzWVYHNYACQeribBcNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这一模块提到的开源项目之前做过详细的介绍，所以就不单独一个个去介绍了。感兴趣的可以翻翻我之前的文章。或者直接搜索看项目的名称。这里一句话带过。① diegosouzapw/OmniRoute：把大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535740&amp;idx=1&amp;sn=91e0bc3a7d8e31877e005ced5b13f61a&amp;chksm=f866ce7296c42b6bc57a7d0b1617fe9172e755564210d6d35614e8b2aeaf56f94a1781be4ebd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 12:24:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Karpathy 刚发了一个帖子，怎么判断一个新模型到底行不行？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3QrCRqSMlicw8L4YCrx5ktObbUNLoPUorbZxaRTg14ibkG2N49m1pH707OVyE7uV7nNibRGh1MFVxia8Kia5HkzJLPtNnTk61cTdXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>几乎每隔一两个月，AI 行业就会迎来一个史上最强模型。官方榜单再次刷新，编程能力提升多少个百分点，推理成绩超过多少人类专家。紧接着，社交平台上开始出现大量演示：一句话生成网站、复刻某款产品、制作 SV</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535739&amp;idx=1&amp;sn=441b699572183c854a552eb196994323&amp;chksm=f8faaa9ae86364ed589ddbc443c79d6755cdb9cd3e849c00ce7239bc89550b4d786d372445e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2uWPn2grdmibQ0iaDoYUTdqM1JOENd19AWVBdoDstCXfRy0oYz4KgzH5TPsSbB94IdKFIYmftEaFyAh1GvWXUvbsjvbE2AlZTVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01本地深度研究工具OpenAI 的 Deep Research 很强，但数据得经过他们的服务器。对于隐私敏感的场景，可能需要一个本地运行的替代方案。Local Deep Research 就是干这个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533773&amp;idx=1&amp;sn=2453c3940c24a3ada6fac1b362070b4e&amp;chksm=f890c127510be519051d7b0d9b47c8bdbf3941dc3f78e0539d915ea2df6887d5d265cafcad26&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 17 May 2026 16:59:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 上 1.6 万人点赞 AI PPT 工具，生成的 PPT 能编辑。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fbq7v7a2icrbnHtjpRLBewIewxuunTVySK2h4CU9FcuqegHANTLaGqx38Qn8wwqk2d1CIvjhAwaUpxA6sSn9ltWYO7OiclzhSA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个叫 PPT Master 的开源项目，是一个让你拿到手真正能改的 AI PPT 方案。AI 生成 PPT 这件事，折腾了快两年了，说来说去大概有四条路线。第一条：套模板。 换换文字、换换图标，效率</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533700&amp;idx=1&amp;sn=c2ec1dc4e0b48c74944aa7117558a1ce&amp;chksm=f87f2baad92cd8e2b4116d46279da3795e48996a3fbb8fd9b6ba7027c2b24e135ed02650dfc8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 16 May 2026 12:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

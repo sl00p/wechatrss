@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一款可分享密码的解压缩 app 分析学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1F8lsaibvu2LCrWmoicMemyZb4OysgCH0rYjDS19ycl6bBB2OzSgqEnCEETjGJcTq0y4RP4LuTrdhhwIcz5SzrCCqogeD3z8Hfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>解压专家 （apk）时间不是很充裕，有一些细节没有完善，有兴趣的可以深入分析、比如后续 GOT 链接这些的...本人也是刚学。分析一款可以共享密码的解压缩 app，其中用到了 native 的知识点，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618256&amp;idx=1&amp;sn=d1896d6582351f1c87506a534a74eaa7&amp;chksm=b043dddcccd4ca7f91aa19e0f0098bf858ac3c28ce4b3a38b31af878e44815fb5837b8233eaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache NiFi 连爆四漏洞，权限失控与内存炸弹问题亟待修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0FicBfdA9I42SLeGx6Fhsdr36Q1tCpOicSFUkQjlH9oqYNNnuYNNnibk3cYiacpHHgdCcFTLQKxJlvThyvQsgBbJwTaDE7uDuT7iaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Apache NiFi 项目组一次性发布了四个安全漏洞的修复公告，涉及权限校验绕过、参数验证滥用以及内存耗尽型拒绝服务攻击。所有漏洞均在 2.11.0 版本中完成修复，官方呼吁用户尽快升级。这四</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618256&amp;idx=2&amp;sn=b4a421fcc927a4107b85cd2591609adc&amp;chksm=b0cbfd02437a98dda7799c7ed96b32eae37fb3cb9d42f6b6ee9063e6fd349e46cf41443162ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[第7章内容更新 | 企业Al Agent安全异常行为监控实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618256&amp;idx=3&amp;sn=20534bb1c751188e632c27225467f4dd&amp;chksm=b00f1d0d1c32f1c7491740afff462b256d74dc8574a45749db1a1251992d5b4aca3782233dbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一次外部注入工具的动态调试实录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1oykxicx5zdNPqHnWyYK9EbXhBNhIy9wWByvaHUVjoSJOznU1GLn26MwR7UQqJWUjh45sJz00AJo6topVURGMQ7hVSK5lo0dLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在某短视频平台看到一个「游戏功能扩展工具」的爱发电项目，第一眼吸引我的其实不是功能，而是它的本体体积——一个 exe 加一个 dll 分别做到了 40MB 和 50MB 左右，对于一个「读配置+注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618175&amp;idx=1&amp;sn=8dfdec8d72565486ce162b91909f4ce4&amp;chksm=b016fcadee413a04e943b7bb1a069d573f292a0df546c06e3cd39380e5374a66e436f17ab069&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[我让 Hermes 把古法 RPC 重新炼成了高并发调度平台：r0rpc 实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39HldRABuTWE40DuRnfxsGLibHbjmHKbibzmegqugxCLoqsrPHNPwfebtaicIRtFSjnaYZGBjq9JYtGNTnVbs1QouEJnLyqzNIbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>RPC 没有死。它只是从热闹处退到了角落里，继续替很多逆向、爬虫、自动化场景扛最硬的活。这篇文章不打算写成一本说明书。说明书讲“怎么用”，但我更想讲清楚另一件事：为什么在协议逆向越来越重、风控链路越来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=1&amp;sn=755037920bc3314a126cb10bbdf0c793&amp;chksm=b0bf6aa20b820b762ca26d4d02d15cd110668ae55a6b74cc473151efb74b26ec7bc855b7ffd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为创造，再一次信仰之跃｜AdventureX 2026 选手持续招募中！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/r8U0QbexmHbeF3QboCLZQN9QDM82XBtCWz3Eka49mzfsibP2g8nbqNEQS7nYL5CfeDFH0VkvVbOoA7ordsmKxIp9GXL5jpgavsrAF82fVkxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月底，中国规模最大的黑客松在杭州等你来！</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=2&amp;sn=f0e8758de243cbbd90d8d47e5a4f655f&amp;chksm=b0b97c53e023cc41baa814939c4559b9486fb4c67103d3a4439ed001a305e2e872ebc9bcd86d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code被曝“暗中识别中国用户”？隐藏检测逻辑引发热议]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2KChuUXfDPzeLsAy4dQ31gSaWq1WfIunOZaaR9icBpsbrxuhxic2BArO8iaibictffTwiaSCmkgGCU72ibyMax0hSPr0Rj29zhicDW73w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件导火索：Reddit爆料引发关注近日，海外开发者社区 Reddit 上一则爆料迅速引发技术圈热议。一名用户自称在逆向分析 Anthropic 的 Claude Code CLI 工具时，发现其</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=3&amp;sn=38bbbd13f653f712118201784210e11e&amp;chksm=b09fc98932273b41e8c3467b337422ff4dcf9bab11b6fd6eee6339533789a892c691fdb74520&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零手写检测引擎+可视化大屏+AI 智能分析，完整交付企业级产品]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oqhn1BGnJo8GicRkY8MsjLWHPIvMwth1dx3c0etVRxd52iaocsugWZ9mYpuPFvVJCJdS4hZF4NfZeYBcluTVw8wIia6YF304VzU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大语言模型在企业中的快速普及，AI 调用行为已成为安全管理的新盲区。员工将 API密钥、数据库凭证、客户隐私数据直接粘贴至对话窗口，攻击者通过 Prompt 注入绕过 Agent 安全策略，Tok</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=4&amp;sn=b5becf8e8174b0fe8fd60503294acb46&amp;chksm=b0c53524e160389aef10e3d8fe0e3480da16b8d764b2c96b4073700928c6a37593ab667a67aa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
     </item>
   </channel>

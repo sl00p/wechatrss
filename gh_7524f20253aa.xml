@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[模型掺水、输出篡改，19家中转站实测结果出炉]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3KKdZ6tCSSjb0qzlxxGWySfAAJxWvLAdlNImtutnj55Emsg1H1ZlMfibPAIN1Gr2ZN6I7BKIT9rqdetluaSFgKbDK0lHT9fDSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家选中转站，默认先比三件事：模型多不多、价格便不便宜、速度快不快。但价格、速度和模型数，回答的是“调用方不方便”，回答不了“这条链路值不值得信任”。没人敢拍胸脯保证：你付了Claude Opus的钱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=1&amp;sn=86293b13fb55209e5f2a7f15dd2c2331&amp;chksm=bc46a4e538b7955ca5f572f1b661b7db3690e772d8cd43b56918239fcbb32204c964d22c754d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[关于 AI 辅助漏洞报告违规行为的处罚公告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1l7A5pz8c3rYcdepVFickrRTEwbmzP1iaKAIUPcsZ3PiapIKbkAibH3ZtW5zaWrib9XthJ03ErWqhia07ck01hLoiaNTMlh5vPBwIrRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位白帽师傅：针对近期部分白帽违反《关于规范 AI 辅助漏洞报告提交标准》的行为，如提交未经人工复现的漏洞报告、直接套用 AI 输出内容、漏洞描述与实际目标不符等情况，造成审核资源占用，影响真实有效漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=2&amp;sn=911c4a0f56c312f05259ac748efb5922&amp;chksm=bc0c5da1b3d8970ffd4f54ab70779852f8a1fa975f63abaacc71da67a0bb7e9b909dd80a5c99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SOC中的FOMO：Claude等AI平台在安全运营中的真正定位]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0wPTFicu30icreGf67csAhk39Xk6z3MLbsSZPcxBWlHsM24BmZQvzOB7cFwibj483kuezzCzSKNIVO3QeyI0L997dWiaWxLLjO3OI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI技术正以惊人的速度发展，每一位安全负责人都感受到了必须跟上节奏的压力。Claude、Codex和Cursor等AI平台已经在帮助安全团队编写检测规则、调查告警、总结事件，并自动化重复性工作。讨论的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=3&amp;sn=3c452b41e7bed07b280d3a02564bcc22&amp;chksm=bc283b49ca3c3c75241dc3abc9b7ef6c41ffea3c00eb0f430cc7df2776043c21867e22cd0e1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[公开PoC引爆Rails Active Storage严重RCE漏洞，可窃取AWS云凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ibgrJ5Tiaw2lNaSgnDI4LQs3d1HhePkG8Pqf3xaGo1EogztTfhoAnEj4GM0p81icdW2ib1k8vk9ZU404mtGPz9vcAia8iaTHxIMF6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Ruby on Rails中的一个严重漏洞引发了对云数据泄露的新担忧，尤其是对于在亚马逊云服务（AWS）中托管客户平台的企业。该漏洞编号为CVE-2026-66066（又称Kind</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=4&amp;sn=e78819e722bc8b3fb5f689e211dcbc7a&amp;chksm=bc1848e3ccd462a178d47f8d2cf0141e0084bfb65b38362fd7c52cd363fa36ed698d041be18e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4 Flash被曝“越狱”，开源大模型的安全边界再受拷问]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ENBdQPzWKiahh43kpacjeW6LDNn8CqSOcMcfr2uB7mFzxU5gJdjTSJKLhSjtf5XJLqbIRrgiatTWvdvnuq6DeGR77PDpwSv8wU/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V4 Flash正式版刚刚进入公众视野，一场围绕模型安全边界的讨论便迅速升温。8月1日，X平台用户@Exocija发布截图称，通过一组经过设计的提示词，DeepSeek V4 Fla</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=1&amp;sn=67c9bda7020528f3b1a787a321f7e093&amp;chksm=bc13d5fa39039ddffc7259dee59555a6a88990b95a05284c055e491958fd12ab2c0bde584386&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1o7ub6KqMRa1AmYLAVmxnNzBKpiaWIVTbaEYbLOCfpbqicmsYX8GGB8I6EjD4qmyHHwJb3StkRgInrHP4lMxGmNKcHEsrHcVjaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Odyssey Stealer再次将目标对准macOS用户，近期攻击活动激增，已波及100多个国家的受害者。这款信息窃取恶意软件专门收集凭证、浏览数据、加密货币资产及其他敏感文件，可迅速暴露个人及企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=2&amp;sn=b43e46bec15c365c0a0ea97c394a8f1a&amp;chksm=bc7d6590057f76420da707dee18df22e19d17ccf7e22f0e51bff9cf5f4c2321fcee813b4caa1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：6月必修漏洞清单；全球首例全自动AI勒索攻击曝光；重磅APT预警]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pib4REHpU0Uc2PWGiaQR3oibu7GPIZ3f6gpuF8iaU5UjgibIpBFellrNZ1Fr6DicTnMbbgwI1kjTQNvpjT10IA8NplzazQ2LXv8ZF4/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=3&amp;sn=39fb9dbf5034494308da9a5665e13d84&amp;chksm=bc208aa362deb2ba42ba083bf331b35b76c17cc5aa7b9dd0450400826cb242d54775b6af298a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[公开GitHub Issue可诱骗AI泄露私有数据，绕过防护仅需一词]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ibbSbOibqIaerXFOjlGHibYK9Apv5D3YMqHv4P5CAgKVnjVsVeVtMtgQUIKnhVaBfmryV3sdeQ3Q5GVQ4NCdeic696ero5JpQhhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Noma Security研究人员发现，攻击者只需在公开仓库创建一个看似正常的issue，无需窃取凭证或获取组织访问权限，就能诱使GitHub Agentic Workflows泄露组织私有仓库内容。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=1&amp;sn=81701698d2244e88fb746d9f92c1b9c5&amp;chksm=bcced7098a97eaa2ca2537fa2569fcd73c15afb7991e31b0cc3bc809ba9705b9064e2dc2482a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI据称获美国政府批准，即将全面发布GPT-5.6模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ib0e22K2BQGYOP6CYqUzkE3aCFsRgJ9nrkWx8XSFs08r2ohsNCbMDE1hibQMJnHibylK5JWbAbdQuISeDdIKRS2RdE88a7tufIE/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，OpenAI已获得美国商务部批准，将全面公开发布其先进的GPT-5.6模型。这一事件标志着华盛顿在监管前沿AI系统访问权限方面的重要转折。知情人士周二向Axios证实了这一进展，预计OpenA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=2&amp;sn=1891ad621a7ca00dc44d56a7834c4154&amp;chksm=bc4feb3ab5e476f35edfe359cc593591c15da1f8c6f8d8e4ee95abe56c0984196d1625479497&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[潜伏16年的Linux KVM漏洞可致虚拟机逃逸，威胁宿主机内核安全]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0hpkC3nI7X3dbiaeKyqpiaibJfzXMB4xgFMyYWT0DzZkqbD4ibrrQg83GRbB9Kbr6DtyvJjpExForm1vjuMAFZD62IPsDSCoRzodw/640?wxtype=jpeg&amp;wxfrom=0"/><p>新披露的Linux内核虚拟机（KVM）漏洞（CVE-2026-53359）被命名为"Januscape"，该漏洞允许恶意虚拟机破坏宿主机内核内存，从而打破虚拟化的基本隔离保障。这个潜伏近16年的漏洞影</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342223&amp;idx=3&amp;sn=13d6cd9d0614e47984fa608280a69335&amp;chksm=bcf1998f92171a017fcebe0aa1b269164678590a7b87ede686726baff4fd6b396cbb61fd2fa6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 18:01:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

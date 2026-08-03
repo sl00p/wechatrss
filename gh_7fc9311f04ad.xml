@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[理解归 AI，正确归引擎：从一句话到一条实时数据链路（0代码搭建实时任务）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yRh9X2xGZhicuX1gRtwYiaqeuiaPW8AshzF1WhPomPTPGsCSn57YtGicyq6kOb1ROgsguLTIa1Ve13Kf0MOFZsDx2cVd2icBqwFPes/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景：实时数据开发为何"重"在直播业务中，存在大量实时数据的应用场景：对内的直播 360 大促分析，对外的主播数据大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561813&amp;idx=1&amp;sn=ab456cb346cf6fcdf95aab7ffedfd524&amp;chksm=e8846e8e0779420f0b25c6b10e615f9facd99ddd025de3851d2e129b96a59954216df32f1e49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 09:55:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen3.8-Max首发上线阿里千问AI平台，API服务与Token Plan同步开放]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yYlOQhRpW8K8A0HDc8vRP8DygJj1Muj8mwLL6fLjxsDgfCzvib8M4X2VDC49c88Le8S1z1H8ibTJgKr7sYPDTz940Bv9FF1gwEM/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，阿里巴巴新一代基座大模型Qwen3.8 正式发布，千问AI平台同步首发上线Qwen3.8-Max的API服务与Token Plan，面向开发者与用户全面开放新模型调用。Qwen3.8总参数量2.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561812&amp;idx=1&amp;sn=a864f8ca207e730d072bc1d2beab2c19&amp;chksm=e811fefcdff740fbd1fdf79e0b23fd6a3fcd25be7e9206d282eeb068ea10f79a6f4075ef78ce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wgXia5cDJQF0Z3K9DcUq8R2OCWSM0bEEhMLCMFqvIZcOrH5fxQiceNicHxUJHcl4BlzjFpt6H5SyHnua31qtHk3pWVJ9x94xTicd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。本文章是小白向文章, 面向想要了解或者自己动手验证 Coding Agent 行为逻辑的技术/非技术同学, 使用Vibe</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559624&amp;idx=1&amp;sn=fc5df385231f0b0418ecfd127158faf2&amp;chksm=e8ecf5a5d0606358f0b9633bff342d68e17a7d7ed66fdb071b62d4aabc2144a4879ad2856850&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从聊天窗口到多 Agent 控制台：一次 AI 编程协作范式的转移]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPIKvhiaIcTrDuWb76qMgZ6brrSwqICm8dHMN2JvJyDSnxFtJpEDltsFPr5QHVwdlib5BCLMr2rDQA4licXE6U7He2VYGc8FGrH8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。过去一段时间，随着工作中 AI Coding 的占比越来越高，我逐渐感觉到当前 AI Coding 的协作范式已经不适合</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559601&amp;idx=1&amp;sn=dca715222390e89a63a45ad54b1c9d7d&amp;chksm=e8dd8449bde02eae42b2d37f3377c02e99e120ab2c1506611394b05b7793ceb6f02cb17413be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

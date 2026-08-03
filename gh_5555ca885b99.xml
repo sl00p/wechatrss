@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[平台级多租户、内置鉴权与生产级托管，吐司用 CloudBase 一次配齐]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbfvKY3sASkx6gLVrxibxibeVseINkKRcDkjZr595f3PyC9OXhlv8icCLTdEtFaibgnEIytuRibl6QufdV5czo3zISAtaWuIkCdUgibE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>当一个平台要给用户生成成千上万个 App，后端怎么办？腾讯吐司用 CloudBase 作为答案。吐司 on CloudBase吐司是应用宝团队推出的「应用生成及灵感共创平台」。用户输入任意提示词，AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540120&amp;idx=1&amp;sn=114ec322f5c53d50d21cbb8edda6abfe&amp;chksm=cf3f84de2a2d175482062b29ff0961ce166adc885f9fbcca4861e79c35d99508e47bdaf763ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 11:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAgentKernel 开源：Agent 开发的框架层，我们帮你写好了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/C8KZWtRymbfWWFOicuTCkKTtDcstspKZiaELuic7eibv3Nicn6rUI8ib2MU6DsdYGKFiaypXlibILufFfYoWN1kGEiaf4Hfmic9aDfib9NRNmqn1Lz74Ik/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在的 AI Agent 开发，很像框架出现之前的 Web 开发，开发者都构建同一套底层，处理很多重复性的逻辑：会话历史与压缩断线重连对接沙箱MCP/Skills对接人机响应（Human in the</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540118&amp;idx=1&amp;sn=7273a268aed4f7877410a11e31aa77e3&amp;chksm=cf462e91fedf9fe7bb92c01d4ae6313b5ba99911aa1c30b658576c0854beea0f6d283c176f01&amp;scene=0&amp;xtrack=1#rd</link>

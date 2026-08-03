@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么 AI 视频，需要“懂生成”的画质增强]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecJmt5BkPZOTHjg5icbYbAXPIH0urjufxpiaGWwcdRrEvE6p632BR8VPP0z56Zpb3WuqCp4ia0e4CBf1TP8taKIh0FfnXAobLSUIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 视频生成已经足够惊艳。一段提示词，就能生成一段精彩的视频。过去需要拍摄、建模、后期一起才能完成的画面，现在可以由模型快速生成出来。不过真正进入生产之后，我们会发现生成只是第一步。一条 AI 视频</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=1&amp;sn=464de2a00f29cfc21e3875a515d5fdbe&amp;chksm=e81f00a52a97ca9e3c9fc9ce76a98b4032b99c66336dc5016af6d3a83e4f79e123f6de91a5f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[文件上传即可检索｜实时多模态向量链路落地实践分享]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeHhStB9fTsicicVmQ9Sxgsovy1V4BNQOM0psiaspcNZVtrenEFEBoicLeYdicHMxoD56fsb9kMcbBlhMTrlOu8nbtonh8ybPv8yIBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>当企业 AI 应用从概念验证走向生产，一定遇到过这样的场景：商品图库每天新增几千张图片、企业知识库持续有新文档进入、训练数据平台需尽快感知新样本……这些内容的第一站，通常是对象存储。但“文件已经上传”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=2&amp;sn=e4de10f386f34f1620fadc40729e8ec4&amp;chksm=e8534aab9aa1ba6ef8b25f041cb53081fdba946180f5a61d771d8036acf3eab2987ace632188&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[字节跳动2027校招正式启动！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeiaNtEv8A5gxdpjYeALp8baNP3P4kIrFpdtnaAf9OSrVNDPlf0h7riaJouLRD3dFuicnorsqicXKXoJJXqHTwVpz6gKFreIrOJvU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>和优秀的人，做有挑战的事</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521059&amp;idx=1&amp;sn=3473116140a8c13351c998c519ca93a1&amp;chksm=e80a1d26509868483c0c12e26e72cf819902d3da327d56404c917e7b5eb711c5cd31e0c481af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feequg7FhZwKrbWuar3qiclFzxScJKZ8M8yA4zcjw7DP6BFS8sL77Ygx3MXILNzmMfpvuyu3Hj9kHfvl0laOqibSic3F0TuxoVHYW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 的长程记忆困局近期 OpenClaw 在开发者社区中备受瞩目。它赋予了 Agent “看见”和“操作”的能力，开启了自动化复杂任务的想象空间。但随着交互加深，一个普遍的“上下文管理困</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518720&amp;idx=1&amp;sn=7d779257a93ee5581d3cb0afe469778e&amp;chksm=e8284cad71e3af582fa06b5b4c6c563695eb467782428a31937ffe8388dc4c9e52b7ac85791d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Mar 2026 18:01:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vibe Coding 一键部署——火山引擎推出 Supabase， 驱动Agent 应用快速上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedLxrXYpHuEXia45HGj6thb7jKAnauCvPPcmpySESMHeIvehODjAuljaCfuibOcqrKSJBpN3UGeX30YglVpmoDuwPicKkrToP5ibTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 开发者几乎都会遇到这样的场景：脑海中智能交互的蓝图清晰无比，动手时却被繁杂的后端基建卡住——搭建服务架构、设计数据库表结构、配置认证体系、编写海量 API……好不容易让应用上线，新的问题又</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518720&amp;idx=2&amp;sn=74698bbbbcbfd267c0f858ecbc61b066&amp;chksm=e8856939a85a2b407269e3957f8c3881958b172ac7fce457bb59e820b039554a827ba01bb60c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 18:01:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7000+Offer、转正率超 50%......字节跳动 ByteIntern 实习生招聘正式启动！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fee0C1BOFnIJmibUsj5sdia530enFFQWuCxNM1yX9MWQ6hrLFafLZ465U3oru6iazoPR5iaZXKffscsMWXfTNHXLTUm9teNv8patxKo/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518660&amp;idx=1&amp;sn=8f0b66f94be21999e6f2a4e1c8783d4d&amp;chksm=e836c74054f873fcdc64ae57e7b0a3a33ecc42245234f3f8b6f739d12714d4e979b9c7e75579&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Mar 2026 13:36:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
