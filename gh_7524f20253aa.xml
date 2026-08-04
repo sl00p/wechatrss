@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[恶意GitHub Issue可劫持Google AI Agent，窃取CI/CD凭据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3AIhETDsd58lLfM8Qe5dooVoXRc462r5VvnvosrAlWBzkt6F4rCicUTymbzsIsB2pk70sY67ed8C0KiakWaibjGW9BGCL6HjgicnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是实际生产环境多Agent系统中首次出现的、真实世界的Agent间（agent-to-agent）利用案例。这类新型攻击可让一个AI Agent转而攻击另一个AI Agent，从而破坏软件供应链。该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344026&amp;idx=1&amp;sn=6d96bae87991dfb90fe2d531c01572c2&amp;chksm=bcad77fb175e7d7656e634e71993752c82ce0a2e801be6b85e009473db7fbbc8e2ce5f8e75bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Black Hat 2026集体押注AI Agent，安全运营开始迈向自主化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0wHLQz7s3V4QgNFU3wZybqIxBZk3zHgph0QyVydHtetd2eJPvXD8qXRtiaCuQE5YQ2J53pUMrLwWFfZnUVjXoufeFaQdEFAzOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI Agent主导今年展会Black Hat 2026正在成为又一场AI含量极高的安全大会，但今年的产品发布表明，整个行业正在超越“给现有产品简单叠加上Copilot助手”的阶段。厂商们</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344026&amp;idx=2&amp;sn=54608aa06097e363cd2245e68a597518&amp;chksm=bcd94b485aff17b73a00046f9e92f5e2b701262c3fc7d01e72c2a4364ff305d0cac4abe0f3cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 披露网络犯罪分子如何利用ChatGPT运营诈骗行动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oibERKd0OfWFGHjMFwicStNRdsJOiaibKmrrBeWibCqiaiaDRzQicthBkQia0LPT5lIUgd5PQrKVsmjWu0j4iag84lrOH4F89hZ9oxFO8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01诈骗网络组织运作网络诈骗正变得更有组织性、更具个性化，也更难识别。犯罪网络如今正利用人工智能创建可信的消息、虚假身份和欺诈网站，以大规模接触受害者。近期被捣毁的一起诈骗行动利用婚恋、投资、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344026&amp;idx=3&amp;sn=40c6d03d3bbae309bbdc48e7ab755d45&amp;chksm=bc20de8b3d45bc0ff9524fb1f4688f0c9c4152b86e824013c71d353c1947343e493f76d4dce9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DarkSword iOS漏洞利用工具包已波及180个Web资产及27台主机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0YnjtyyWIickpiazG0IVaYdcFvVvaTjMA5sB9TPM1mxiaGqedSVDVWRMcmWk8Sgj7SRk0fdMhTSmQLKvRvfx5H0cTPYbKzicuksjk/640?wxtype=jpeg&amp;wxfrom=0"/><p>DarkSword已从一套泄露的iOS漏洞利用链，演变成一个庞大且快速变化的恶意Web基础设施网络。该行动针对运行iOS 18.4至18.7的iPhone，并设计为在受害者访问诱饵网站后窃取高度敏感数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344026&amp;idx=4&amp;sn=c049d87a2cb7cf7b6d3eeed630fc9d4e&amp;chksm=bc45513e094ad61e273c1db23557335eca4a68334b1905c11d745406c038947804c373592067&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[模型掺水、输出篡改，19家中转站实测结果出炉]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3KKdZ6tCSSjb0qzlxxGWySfAAJxWvLAdlNImtutnj55Emsg1H1ZlMfibPAIN1Gr2ZN6I7BKIT9rqdetluaSFgKbDK0lHT9fDSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>大家选中转站，默认先比三件事：模型多不多、价格便不便宜、速度快不快。但价格、速度和模型数，回答的是“调用方不方便”，回答不了“这条链路值不值得信任”。没人敢拍胸脯保证：你付了Claude Opus的钱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=1&amp;sn=86293b13fb55209e5f2a7f15dd2c2331&amp;chksm=bc46a4e538b7955ca5f572f1b661b7db3690e772d8cd43b56918239fcbb32204c964d22c754d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1FqwGOkloUhI4ShC3wsNibf2V3wQ6pR7G7RYficibWvEdkaOocBMyA3ksRJI3tPEmIwkqnDnMjSAFjjhLpRiaHQ4kqGB9eFNC7gYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，xAI推出的终端编程工具Grok Build CLI被曝存在代码库上传机制。安全研究人员通过逆向分析和网络抓包发现，在特定版本和账户配置下，该工具不仅会向云端发送模型读取的文件，还可能将整个Gi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=2&amp;sn=8ae7e4bb4d748686c916bc995971ea64&amp;chksm=bc903f53f964de4b8b5559b75ee19b65434e1072563747d8bb5ea2974ea0d8830da89ce8dd72&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft揭露GigaWiper：一款按需实施破坏的后门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3MpCWu124kfq4dP9hmsHa9BIF1EB48s8R2gbMqPTyShCXHN6UL3jicibu8biamHezIX81KGFjII4Iwd9xmicJe5R2VOsqF283vLUU/640?wxtype=jpeg&amp;wxfrom=0"/><p>该模块化Golang后门融合了远程管理功能、多种磁盘擦除逻辑以及一个源自Crucio勒索软件且刻意丢弃加密密钥（导致数据无法恢复）的模块。微软向防御者发出警告，提醒注意一种模糊了间谍软件与擦除器界限的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=3&amp;sn=cb2fff1182d6544704a16c881e1942c5&amp;chksm=bc8034a6e044687291afb6d411409b2c94384d4e8290fd1d5b53da40ef531152552adf9723d8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Django SQL注入漏洞已在野外被积极利用，可导致数据库入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2M0E21FqrzibwN7UzkghXfbNtYSgqUhQxAvXK0MtzibZQqLibmeSYPZDLdlLaIbC50wFuBrTTynibhl91AthMVYEjiaFjSTniatV3iaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危漏洞曝光Django Web框架中的一个高危SQL注入漏洞目前正在真实攻击中被积极利用，引发了在PostGIS后端部署上运行地理空间应用程序的组织的担忧。该漏洞编号为CVE-2026-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342546&amp;idx=4&amp;sn=182c3c9a82a318ba6e01b150b8099547&amp;chksm=bcdbf3aff6da084e92ff88bf10735732d0c4678bb8ea261d60600721c0d9af51a29f40a6d490&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 19:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-5.6 Sol被曝重大Bug，硅谷大佬Mac文件几乎被删空]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3MlJjiaicoGb5whaFwLp7DoWSM1wAza3KMQ9cucxNl3rDYFJahRM5kzicib5PsrF8tflbkwoJiaN6Xr3KJ4ymUeYuDOzn7dB3Vvor8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年7月11日，前HyperWrite CEO、AI投资人Matt Shumer在社交平台发文称，自己使用OpenAI最新模型GPT-5.6 Sol执行本地任务时，Mac中的大量文件被意外删除。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=1&amp;sn=30ae51eba566ed3187493e4e817d3124&amp;chksm=bc5df56aaf6d143aa8b685d347c37933e82d75131c920866c302abf5cb91c18875714cf0a778&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Odyssey Stealer再度袭击macOS用户，波及100多个国家]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1o7ub6KqMRa1AmYLAVmxnNzBKpiaWIVTbaEYbLOCfpbqicmsYX8GGB8I6EjD4qmyHHwJb3StkRgInrHP4lMxGmNKcHEsrHcVjaw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Odyssey Stealer再次将目标对准macOS用户，近期攻击活动激增，已波及100多个国家的受害者。这款信息窃取恶意软件专门收集凭证、浏览数据、加密货币资产及其他敏感文件，可迅速暴露个人及企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342454&amp;idx=2&amp;sn=b43e46bec15c365c0a0ea97c394a8f1a&amp;chksm=bc7d6590057f76420da707dee18df22e19d17ccf7e22f0e51bff9cf5f4c2321fcee813b4caa1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

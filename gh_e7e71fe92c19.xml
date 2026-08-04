@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安全运营告警过载？考取 CAIDCP 补齐 AI+安全核心竞争力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0tW6z1Og5gCpicGeSkiaQAwrxttf9OR26icJVibJHRXVxST2JQnn4CBuaoBsdKKAuRZlOBicsibQyX2TYnZncZibJANAq5X9a4cxibysI/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信大家都感受到了，今年AI已经不是可选项，而是必选项。攻击者用AI生成免杀木马、自动化发起攻击，而我们的防御如果还停留在“人肉写规则”、在海量告警里疲于奔命的状态，安全团队的“降本增效”就永远是一句</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618348&amp;idx=1&amp;sn=941464c79698d16a8157265ae03ba786&amp;chksm=b09cf178f0f766ea0743b28578e75eb709d543a6c960f86f209db09a77eb2af04633bb031d26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DirtyFrag浅析及一条新的攻击路径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2xxa4ibCeRWkntg5znicsOmXK9gicHvJCUMsicN987icR9AdtgVVn8h8kbpeic1TogtYXOtc4JIlKTXsvmV3eQUZOuiccJI6IusZey8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、前言2026 年 5 月 7 日，韩国安全研究员 Hyunwoo Kim（@v4bel）向 oss-security 邮件列表公开披露了一个名为 Dirty Frag 的 Linux 内核本地权限</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618348&amp;idx=2&amp;sn=d9c412412014b4d272cd580be7c52053&amp;chksm=b0adc72683a683e0da569fdd9bd2c138b257bf5e2a935618dedc595b69cf996db3f0971767cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Mythos 5与GPT-5.6-Sol在安全测试中突破约束，对真实网络目标发起未经授权攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K30XuXeNMMJZwqichpUwQQlKkL8wuB3sy4QldZwfVrXkO5bkKFSB1esSlcJfMU2cnDtZgwyKMNtmicWd8EibfuFQyzgGa8RAuFN4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月4日，英国人工智能安全研究所（AISI）发布正式通报，披露一起发生于7月25日至28日的重大安全事件。在针对前沿AI模型的网络安全能力测评中，Anthropic的Mythos 5与Ope</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618348&amp;idx=3&amp;sn=7ee0bc1c9e1e69201ded28320ba9ea85&amp;chksm=b01fbba65a9fecd25e9ada5935349350af1ead27679921862bd09e46f81fd8ab3ecab659b57d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一款可分享密码的解压缩 app 分析学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1F8lsaibvu2LCrWmoicMemyZb4OysgCH0rYjDS19ycl6bBB2OzSgqEnCEETjGJcTq0y4RP4LuTrdhhwIcz5SzrCCqogeD3z8Hfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>解压专家 （apk）时间不是很充裕，有一些细节没有完善，有兴趣的可以深入分析、比如后续 GOT 链接这些的...本人也是刚学。分析一款可以共享密码的解压缩 app，其中用到了 native 的知识点，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618256&amp;idx=1&amp;sn=d1896d6582351f1c87506a534a74eaa7&amp;chksm=b043dddcccd4ca7f91aa19e0f0098bf858ac3c28ce4b3a38b31af878e44815fb5837b8233eaf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MR3FoJ5bOhAWdJ9mXBHqFicNKr9KhziaGEyib5a7yWhv7ehl0I1V7aX1VTY7FKgIyKj2DqOiaYKTHiaq5aXJycBnAwugiciaNzeMBNY/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：agent 学会了防御,也学会了拆解2026 年 3 月 12 日,Hermes Agent 发布 v2026.3.12。按官方 release 说明,这是 Hermes Agent v0.2.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617262&amp;idx=1&amp;sn=6988852bd60c8ed2fbcf91e708f073d8&amp;chksm=b03906efe80e4f8858db5ac9f3422977ffd19994d511d01a4ab11e9821e90e8314e628ef3896&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 02 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【限量抢购-3999雪币】看雪·2026新款周边T恤，欢迎兑换]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3AoGPdayV9hOPXhh0cSjcv8dWyXFpo001vrjcW9xJoPRWWf2v0T8p3VxA3kSGuh23G93M8iazmgjNsXSKHDhnia2Z5SOAPDUs9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>库存有限，商城仅上架了部分尺码看清尺码再拍哦，非质量问题不退不换欢迎大家进入商城用雪币兑换～雪币不够怎么办？支持在线充值雪币充值入口https://www.kanxue.com/goldsrechar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617262&amp;idx=2&amp;sn=8b006cfc9718578502eaf0bc10fa8226&amp;chksm=b0859e5e65f0f6936c20ccb77f11db005e26dc19c28d9bdba2620b7c4cba38d543afd3d33123&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ClamAV曝高危漏洞：远程投毒即可“打崩”杀毒引擎，Cisco紧急发布修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1fPABaez9sCF1thFmGBHLzLibbibTLTZT51zHcdCGx4lfh3GnD38mgJ0vuse9cgOMaePiarBkwJ7EeIdFXJF4zaiblmT4u9cASkK0/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，网络安全厂商 Cisco 发布安全公告（cisco-sa-clamav-88cFYyxR），披露其安全产品中使用的开源反病毒引擎 ClamAV 存在多项高危漏洞，可能被攻击者远程利用，引发扫描服</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617262&amp;idx=3&amp;sn=4b442adefc6b975648d669dffbdd4c31&amp;chksm=b0ff5fea135b48a59036784e2dec92aaf9ce2830ef7362501265fd58fec7aa210c7b8e95e84e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我让 Hermes 把古法 RPC 重新炼成了高并发调度平台：r0rpc 实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39HldRABuTWE40DuRnfxsGLibHbjmHKbibzmegqugxCLoqsrPHNPwfebtaicIRtFSjnaYZGBjq9JYtGNTnVbs1QouEJnLyqzNIbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>RPC 没有死。它只是从热闹处退到了角落里，继续替很多逆向、爬虫、自动化场景扛最硬的活。这篇文章不打算写成一本说明书。说明书讲“怎么用”，但我更想讲清楚另一件事：为什么在协议逆向越来越重、风控链路越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617202&amp;idx=1&amp;sn=755037920bc3314a126cb10bbdf0c793&amp;chksm=b0bf6aa20b820b762ca26d4d02d15cd110668ae55a6b74cc473151efb74b26ec7bc855b7ffd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 18:00:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4G2U405J7AfwHgPTiadnwmrpI94CicqwlXkWmTkpv9I95zlZGibia0sCOalgSxib9SI27bmziaIEEwY1lwA8Xbcj3yUH3q06yMANECs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 48 篇文章（ 本文阅读时间：约 15 分钟 ）01Agent Flow我最近一直在做一个“小玩具”：Agent Flow。最初的目的很明确，就是想在某些特定场景和受众群里，取代现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510883&amp;idx=1&amp;sn=1988e51340f0d9a22b2e6908fc60eddc&amp;chksm=ce40f2150aa796f2e264da84f6c9077e49dbee29b0fdfd624a877b3113f167eed081440a8101&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[面向生产力的 Qwen3.8、“千问办公”已同步上线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5oIBq2aNicskeX1jYEBJOp6z39SyPSV0G1mnLFT6ibPwiamsh4bgerd0wvaaXQpibrvShRxQFDExTpZ33XdjiaTib9PSChOOiaG7EAKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们正式发布新一代基座大模型Qwen3.8。Qwen3.8 总参数量 2.4 万亿，在编程（Coding）和专业办公（Cowork）方面能力大幅提升，今日放榜的权威三方榜单Arena中，整体性能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510872&amp;idx=1&amp;sn=147d7bfeca0f79d93bb231fae1f0a74b&amp;chksm=ce11b6602a7690c8540a89609becd6ca5217b55f5e07cc27a3d4770eae28f74182501a6fe93f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30EE9Vx2JABiaSStT2XnVSVJUhicwkrKItCabpoOt2ygdCn5ywmmhGlN7CYX872C2VwCOCUkwwBSWK6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，阿里巴巴 ROLL 团队（淘天未来生活实验室与阿里巴巴智能引擎团队）联合上海交通大学、香港科技大学推出「3A」协同优化框架 ——Async 架构（Asynchronous Training）、A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508944&amp;idx=1&amp;sn=d0647c36272e9f4c0b8876f66c8e09e1&amp;chksm=cea258b4708ed2c6f731d44c469e4c439ff5d85373013ac45240ed4f820534f8667da268e8f4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Nov 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代，我们为何重写规则引擎？—— QLExpress4 重构之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GTiby616AUUKIm9Qfe20XLwuIpmzIMQBx4ISfX6mF3CicxZeYIPRy8QTkmQ9MPiayl7nRM3yD2n5jHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第125篇文章（ 本文阅读时间：15分钟 ）“都AI时代了，你们这些人怎么还在研究规则引擎？” 无聊时朋友调侃道。QLExpress 是 Java 嵌入式脚本引擎，可以很方便地集成到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508938&amp;idx=1&amp;sn=24d69157768ecdc6512cbad48fcf7b39&amp;chksm=cec5945cec97d94e25199bc7ffe1672dbd2926db8ae928b3b6be06050b86515d367fc2dcbfda&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

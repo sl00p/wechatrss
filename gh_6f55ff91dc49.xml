@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 2 个看起来贼炫酷酷酷的 GitHub 项目，炒的还挺火的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1mbOrXsCWO9PZt7s6IhyvRzwzJNanvh7cI0YVCkRRiaRe6ibxbA91AkgvDnINUwOIVet7Vqg18bh4icGJNKYawBoo7tr1VjPBqt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 GitHub 上有个项目，看 Demo 的时候真的很容易停下来。滚轮轻轻往下滑，镜头从一座微缩建筑外面钻进去，穿过精心设计的内部空间，再飞向下一个场景。整个网页像一支可以用鼠标控制进度的品牌短片</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535746&amp;idx=1&amp;sn=5dc86d578fc19500339d592aceea6f82&amp;chksm=f8af412db4d532a8dbbd8539f3fa15d40023467fd97cc3fbc00a6b6b198b2a53b942a8045aa0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 13:19:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 17 个 7 月份 GitHub 上夯夯夯的开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1zcAUiaGpWqSl6JtKLcmWXiaOH6icA0YIibMVx783mdOu2d2WMN6LPZ1T6NIoWqg1HNAExndk2R64DgzDWcKzWVYHNYACQeribBcNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这一模块提到的开源项目之前做过详细的介绍，所以就不单独一个个去介绍了。感兴趣的可以翻翻我之前的文章。或者直接搜索看项目的名称。这里一句话带过。① diegosouzapw/OmniRoute：把大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535740&amp;idx=1&amp;sn=91e0bc3a7d8e31877e005ced5b13f61a&amp;chksm=f866ce7296c42b6bc57a7d0b1617fe9172e755564210d6d35614e8b2aeaf56f94a1781be4ebd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0PrdA7icmRdIEhI7cvacFAU6EeDJ9Tees0DJkga3qOIAUUhPqutctictJAGzJ4Cn0AC9qH8bhdZA5j4NoENVtoibKV6vyav6LeIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 Anthropic 工程师发文，Karpathy 点赞的观点：让 AI 输出 HTML 比 Markdown 更好。相信大家已经把这个观点刷爆了。GitHub 上有一个叫 html-effect</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533790&amp;idx=1&amp;sn=482a15e0a7bb883d4bc1a473b8bb845d&amp;chksm=f8dc2221f58d4017702acf47d440b828a8550809d549b7cb68044998105b2704b2368e285c4e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 13:32:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐 8 个本周 YYDS 的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2uWPn2grdmibQ0iaDoYUTdqM1JOENd19AWVBdoDstCXfRy0oYz4KgzH5TPsSbB94IdKFIYmftEaFyAh1GvWXUvbsjvbE2AlZTVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01本地深度研究工具OpenAI 的 Deep Research 很强，但数据得经过他们的服务器。对于隐私敏感的场景，可能需要一个本地运行的替代方案。Local Deep Research 就是干这个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533773&amp;idx=1&amp;sn=2453c3940c24a3ada6fac1b362070b4e&amp;chksm=f890c127510be519051d7b0d9b47c8bdbf3941dc3f78e0539d915ea2df6887d5d265cafcad26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 17 May 2026 16:59:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

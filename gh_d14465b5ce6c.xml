@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Infra进阶：如何让大模型输出确定的结果]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904hPicllAXuXfhaDJyKYUxXQTK38aCxFaTibic8ovoaTHpqf7gtBviaHxAvots0U7elkJk6qiaV09E3cQpKcwd0XZespyRgO8jgQJXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu背景你有没有发现跟大模型对话，同样的提示词每次结果都不一样。 这符合我们对于“大模型的本质就是个猜词器”的一贯认知。然而，可重复性是科学进步的基石。因此让大模型输出完全确定的结果</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803028&amp;idx=1&amp;sn=ec45ae12b64c5baf8a27a4f1121abe5d&amp;chksm=bfdd8c27292680a48c3013066aac9a4fed5b83d1398c5d9acd2dc9f433de7b08c0d2af09769b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 17:24:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯Omega：下一代“AI BI”的答案？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904kib9OzgRRx6fUJicL1tURibkMDibV8wROecicNk9KsFNichC7gIZo5F7F6NruBkISJAIuDArIkpv3zhEO7r762VriaiaMn604vmjS0FM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：jiaxingjin上传一个 Excel，敲下一句话，等上几十秒，一张带着 KPI、趋势图和排行榜的页面就出现在屏幕上。颜色鲜艳，动画流畅，截图发到群里，很容易得到一句“这个厉害”。但如果你真打</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802990&amp;idx=1&amp;sn=dc5352efb04594f6eb0bf8644be49cad&amp;chksm=bf9acedf23cc951df0d684dbffd9cf33d830580879469bb73bf3c86c9afe80cc5dd42a4819e6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9073unpausfqpiccgMK4HxulFcbsDydGCQ1vzGRIq7EF4zEUxqFy2xeICibgDqdOg1Y1RZjVeKhvg3JVzricrVMqpqqqf8mKKXWeuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：悟空代码安全团队本文是悟空Agent泛化能力系列的先导篇。我们不展开技术细节，只回答一个核心问题：为什么悟空Agent在漏洞挖掘中需要泛化能力。后续系列将深入拆解泛化体系的每个环节——感知、建模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801121&amp;idx=1&amp;sn=1ae8448fe401127fbe42090329d9339a&amp;chksm=bfd8892bf5bdb3499bf69c7ff32e2def1430182aec7c1430731f5be24ebe89c2a012d0a5a0a1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 10 Apr 2026 17:34:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[技术教科书：顶级开发团队设计的Harness工程项目源码什么样]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904y0n7pJvVcPyyv3TX22VXklhmMwTYOFSVUuI5u2VMOAH6ibuwHmUrxUV340wBy2n0OwlBHACAOUZL5YEZpeeESKpaW8ibna6wL4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charrli前言近期，某顶级 AI Agent 研究团队的一个工业级 Harness 项目源码在开发者社区中引起广泛关注。这个项目是一个基于 TypeScript 的 CLI 形态 AI Co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801110&amp;idx=1&amp;sn=27dac2e66ec72e89e07eeddcaa4614d8&amp;chksm=bf33178ad67b5811fc1d40c0faddd95d306761fcf76895355d5b077c4a015d1a90144ed6ec78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

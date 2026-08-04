@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当“万能钥匙”也能被复制：谷歌同步 Passkey 三大攻击链深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibg7vEHDx4JLeRqCPdIW4kYmmCHOkKbbxItLuic6icg2MKIPRRP88BWBIZjB16AJROwrhmib6dRyf6ApWXMMrQDBQjsaRic6XQCibXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>通行密钥（Passkey）被认为是密码的终结者。但 Palo Alto Networks Unit 42 的最新研究提醒我们：密码学没有被攻破，被攻破的是密码学周围的那一圈实现细节。当恶意软件已经站在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519701&amp;idx=1&amp;sn=bf19b4c24e89df1686763d7fd85c7f91&amp;chksm=ebb505aa4e403d99658e60033cdb51eb87ebf91e6fc478ba043cef79e28e76e3aec0cfaf65b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 14:47:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[重保进行时 | 奇安信威胁分析数字专家 你我皆是样本分析师]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibwFDoMnMXItdfKNHuqt4XfujGbEk7a7QWSoIibG0sygpofVDJC0glxLzd2KiawkMSvXTpmGKC9X43th3yv4usHicU00ycuG4ib2ick/640?wxtype=jpeg&amp;wxfrom=0"/><p>奇安信威胁情报中心 · 实战案例重保进行时 | 奇安信威胁分析数字专家你我皆是样本分析师一枚把自己伪装成微软 Windows DeviceSync 系统组件的特种木马,在线提交样本后,奇安信威胁分析数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519693&amp;idx=1&amp;sn=8aaa5dd1f446d1a2cf516feb8ec5fab5&amp;chksm=ebc232a9fc953dd309d097eea48f9d262571e9f38987f51e9fff87ed4c7081d7394ecc090241&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicISNPXOZJ4bAuK4CIAYW9ic8WNQNhx60zymIk7D8E89jiaibdjm0Ld3NeyibNBibmbMGaIFibZqrQ1EE3UUA5wm4c1tqIAnJPYown1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.10~04.16攻击团伙情报APT37 通过 Facebook 发起的有针对性入侵活动APT35组织在“史诗之怒”冲突前对目标进行系统性网络侦察Storm-2755 针对加拿大雇员进行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518448&amp;idx=1&amp;sn=216169f08223a886a191c4fa9c75aeeb&amp;chksm=ebdb74004f75e31bd5aa65bed2f1a8c61b45a113cbdd1e14aadba4d9688cb55362f4d9cb025d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9RXVibRuIYQQ8Fs1TsGC0D9Va73o9pWBJ4l5HiaHPRstRp2pbsbnak4cxnKsBia66mk2J1hK2zpJkTstR9Pa2M4MGDumMr03XiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述nginx-ui 项目（一个开源的基于 Web 的 Nginx 管理界面）被披露存在严重安全漏洞 CVE-2026-33032（CVSS 9.8），该漏洞已被野外积极利用。Pluto Secu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518385&amp;idx=1&amp;sn=d58d026a8394e3b8a17a1409246d5653&amp;chksm=ebd5e25e37b2aa70aa7f053f42e72363845faaafa7cf967da4ae7b727190ddf234514fb366ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 11:52:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TencentOS 科维斯AI首秀：SCTPhantom——潜伏18年的Linux内核提权与容器逃逸漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvZ0icOiaWxdvpAAq0XGibsp1A6r75Eicbz4jesUVTt3pZK2kJwbyB5MOAm43AxicJoJfGMGwnmribdwcRauqlT7icDDBMA4cpneV0ibesw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年7月23日，Linux内核主线合入了一份很短的补丁。它只改动了6行代码，修复的是一个已在Linux内核中存在超过18年的 0day 漏洞（CVE-2026-64564）。攻击者可以利用它从普</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208584&amp;idx=1&amp;sn=fe28c3d4e1ee43b16379d36785ebe1b9&amp;chksm=bc76cea826af9a37dc328cafb08d2af17d6c12f3156d82e3920eb055817c8f3d02b8bc88acb8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 12:17:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent 的记忆，为什么会成为攻击者的数据金矿？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvaZdUIE1Vo6q2mk6mY2r3ttSadbfUiaFE9DzDWAy97N4ugzplC4pbN8QR5jg8qQGRRiaNNvp80XvStdUg3FZIcSYJ3JLQ6eib59Uk/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文介绍了 Memory Heist 攻击的完整链路，并通过 AI-Infra-Guard（A.I.G）的 Agent 安全扫描模块（agent-scan）实现了对该攻击的自动化检测一、引言：Memo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208547&amp;idx=1&amp;sn=8b8891ffa4ea401394b817335a56df88&amp;chksm=bccb1c64b93af53b96fca0a22ce2910fb595f6d564b6842d1738daf01d5eb0e51f2e168d4cf9&amp;scene=0&amp;xtrack=1#rd</link>

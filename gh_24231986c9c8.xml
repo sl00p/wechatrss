@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不写一行代码，小 V 在 Codex 里搭起了视频搜索网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefaKFMreBOv2hZ5CRuLrNJib9taL5vvklAsC8IVXpSu8zxHrSRKzTmokSRiac6icG8AXJE7DNT3e6QHDGSNfpjJkA7JiaYmwW35u8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>💡 一个想做“视频搜索网站”的开发者，靠 Viking AI 搜索 + SearchCLI，把视频数据上传、字段解析、索引配置全部丢给 Codex 里的 Agent 完成——没碰视频理解模型，没调向量</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521147&amp;idx=1&amp;sn=dc14c37c6a03dd9448d8b95c2d4f15d6&amp;chksm=e85c2754da21b8bd3946f6c519e95fe7c7e2fe861595dcaf1de61c03da9573b390f4cd9d0c6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 05 Aug 2026 19:55:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[为什么 AI 视频，需要“懂生成”的画质增强]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecJmt5BkPZOTHjg5icbYbAXPIH0urjufxpiaGWwcdRrEvE6p632BR8VPP0z56Zpb3WuqCp4ia0e4CBf1TP8taKIh0FfnXAobLSUIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 视频生成已经足够惊艳。一段提示词，就能生成一段精彩的视频。过去需要拍摄、建模、后期一起才能完成的画面，现在可以由模型快速生成出来。不过真正进入生产之后，我们会发现生成只是第一步。一条 AI 视频</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=1&amp;sn=464de2a00f29cfc21e3875a515d5fdbe&amp;chksm=e81f00a52a97ca9e3c9fc9ce76a98b4032b99c66336dc5016af6d3a83e4f79e123f6de91a5f1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FectiagxMNJHUoIhWLXBh6ltRt3ambibl56WXwVQ0NCpicwPcLyjEkyQlsEAib3GuMYH3fvWA8nWVswnwoYtISGQRribHDBatA6ObBdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着AI技术与多模态应用场景的深度融合，下一代高性能数据基石该如何构建？2026年4月11日（周六），Lance&amp;LanceDB中文社区将在北京·字节跳动大钟寺工区举办首场线下技术沙龙。我们邀请到La</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=2&amp;sn=336c31029f790189df7b27e2160e1233&amp;chksm=e8f3d3a0f655f6995a478358378975ff546cee0f6848bd87220e1347671a475c6ce27a942826&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenViking x OpenClaw：开箱即用 解决 Agent 的长期记忆困局]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feequg7FhZwKrbWuar3qiclFzxScJKZ8M8yA4zcjw7DP6BFS8sL77Ygx3MXILNzmMfpvuyu3Hj9kHfvl0laOqibSic3F0TuxoVHYW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenClaw 的长程记忆困局近期 OpenClaw 在开发者社区中备受瞩目。它赋予了 Agent “看见”和“操作”的能力，开启了自动化复杂任务的想象空间。但随着交互加深，一个普遍的“上下文管理困</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518720&amp;idx=1&amp;sn=7d779257a93ee5581d3cb0afe469778e&amp;chksm=e8284cad71e3af582fa06b5b4c6c563695eb467782428a31937ffe8388dc4c9e52b7ac85791d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Mar 2026 18:01:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
