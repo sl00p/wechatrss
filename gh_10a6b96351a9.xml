@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大学毕业乳汁百度HI后，我的目标其实非常明确：要在5年内，成为一个顶尖的技术高手。 然后我开始拼了命的钻研技术： 接入模块TS，哇，单机能抗100W连接，太神奇了，得研究研究... 逻辑模块Chat-Server，哇，IM的核心业务处理，太有意思了，得研究研究... 存储模块dbcache，消息模块msgstore，屏蔽MySQL复杂性，得研究研究... C++单线程单进程单核无锁10W吞吐纯异步epoll网络框架，太有技术含量了，得研究研究... PHP开发业务这么快，哦？scp过去就上线了，都不需要重启的吗，这个语言有点意思，得研究研究... ... 面对众多新鲜的技术，我啥都想要，啥都想学，以为自己很流弊，结果现实却打脸：毕业入职一年半，晋升T5，居然失败了！ 巨大的打击。 究竟为什么呢？ 我明明这么努力... leader看出我的沮丧，找我深聊了一次。这么多年过去，安慰的部分，我都已经忘记了，但我深刻的记得，那一句影响我未来二十年职业生涯的话：职场里，这么多东西，决定你身价的主要矛盾是什么，你想过吗？ 是啊？决定职场身价，最重要的核心能力，是什么呢？啥才是主要矛盾呢？于是... 抓主要矛盾，是决定我人生高度，很重要的一项底层能力。这项能力上的修炼，我大致分为了三个阶段： 第一阶段：什么都想要，什么都做不好（职业生涯前几年，我想成为优秀的架构师）。 第二阶段：被迫聚焦（职业生涯第二阶段，想成为优秀的研发管理者）。 第三阶段：主动抓主要矛盾，并拆解成能执行的行动计划（职业生涯第三阶段，想成为业务负责人）。 N年后，我成了技术专家。 N年后，我成了研发管理专家。 N年后，我成了业务专家。 现在，我成了OPC创业者。 ... 整个过程，都发生了些什么呢？ 限于1000字限制，我自己的故事，我自己的思考，直播间，和大家细聊。 欢迎预约直播，今晚不见不散！]]></title>
+      <description><![CDATA[<p>大学毕业乳汁百度HI后，我的目标其实非常明确：要在5年内，成为一个顶尖的技术高手。 然后我开始拼了命的钻研技术： 接入模块TS，哇，单机能抗100W连接，太神奇了，得研究研究... 逻辑模块Ch</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981406&amp;idx=1&amp;sn=fd985a9dff965370e2942d8a95acea29&amp;chksm=bc2c6d905eb0f563369948ff43a3434cf7432bdd41a1565fa18d665b839bfec81dafff2d2dec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 16:58:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐一本Codex的书...]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcCZmXpyXha2ThflKsdaOVg2YJtFqojPdxJG5FHpLB0BWuDnKx0LhrM6RFOicCRiacDiaDAKRfia0jNrAib7lMyjasKFpQaUYxrV5yU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近后台经常有人问我：“用AI写代码，到底哪个工具最好用？”说实话，这个问题很难回答：Cursor、Claude Code、Codex、WorkBuddy... 每个工具都有让人上头的地方，也都有让人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981404&amp;idx=1&amp;sn=5082946905eb31790f6ff97b0da19f50&amp;chksm=bc024918d047ea13ffe85e15afe5c67a9c1cd8320f062218299511de07075074fba04fc89031&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>你是不是也觉得，让OpenClaw写个脚本、改个配置，甚至执行一条命令时，心里总是没底？生怕它写错参数，没控制好权限，等运行出问题，我们要回头“擦屁股”。 很可能是因为，你缺少了一位安全守门员ski</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980998&amp;idx=1&amp;sn=a872b0ce4aab3901a7cf29a9bff3bd1f&amp;chksm=bc1e4b4716bd79b0551fe66596d82fab85fb6586c1ca95b8ff3fad9013f842abde9d2ae26258&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw怎么知道要去调用哪个skill？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcsWESuib8wEIpwUbI1Lo9f0TJicbfVjcRR9ibaefYiaHM2tjGpMaMsiah9Vrd2xXqZG2s4tNuMxEOLt5W7qy7Ga1iaWfNcUDBqrAFsc/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651980995&amp;idx=1&amp;sn=08cd0250e6de444290e6456e3a74acee&amp;chksm=bc6f076375118acd8cdca56d23e22cbf7fa6f03f4f2d0892e6bcf31e709ffd377316f554c131&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Apr 2026 20:02:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

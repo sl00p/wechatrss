@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Lua生态该不该告别永远兼容的旧梦？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBCefw7UZ4WXU62OrYpZK2Zn04CEeNQBZd6r16Uh1AKY9I8hoXOaDAd6DANKO7wOXP5y4kU1mctkBGhKIhJeIliah9uRh6pdI8U0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，Lua 社区被一记重锤敲醒了。LuaJIT 的作者 Mike Pall 直接从上游 GitHub 仓库里删掉了部分旧版本的标签。这在开源圈里堪称“核选项”——通常会被视为不友好甚至粗鲁的举动。可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247622055&amp;idx=1&amp;sn=d2892a3fbeec3781621910237495ccbd&amp;chksm=f57d73a6ebe5f945032e31fcd7ad02de158cf76a89438957951201e6f8d98d12c83f3c5c6032&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[慕尼黑应该是全网最尊重程序员的城市，居然给全职开源项目维护者发工资]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBBhCzPEjPC0YgemVToJYEeE3T4DEhWRvBWhWz3uaIMZkQ9zIXOUMsCTJ049WUGLrJ5ia70iauDJIibV6PuQ6ZfJANPojxG1qSUq30/640?wxtype=jpeg&amp;wxfrom=0"/><p>"在过去大约 10 年的大部分时间里，libexpat 的维护工作一直与我的日常工作、家务、社交生活和休闲娱乐竞争时间。"这是 libexpat 维护者 Sebastian Pipping 写在博客里</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247622040&amp;idx=1&amp;sn=67548ce8e234a9589628b736292e03de&amp;chksm=f5e712bd898228a383f278e8beb8bf65c651f13c99926b69f9ec482165902314469d6a700d28&amp;scene=0&amp;xtrack=1#rd</link>

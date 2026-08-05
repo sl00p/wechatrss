@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[剧情揭晓 | 2026 KCTF「永夜十二时辰」：化身破壁人，打破城市无限循环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0WYdazzbAa2WpSksG79IftUY4yHTUsuJiaFtUKRiaaMaQ8qNQzF1cfRa94cNqZh62hNyscWc2zH8ZibBQgGNYUppxABU3bLUiaVh8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1今日热点2026 KCTF——8月10日12:00开赛时辰循环，数字囚笼；唯有破壁，方能新生。你，是我们要找的破壁人吗？🔥征题即将截止！防守方规则点这里2026 KCTF 故事情节公布2049年，永</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=1&amp;sn=1dbd94e3e7e0a8b09880c1db8d42c47b&amp;chksm=b09c3547ae2d790bade222c8658345a39d7a5bfc1e2dfa9215cadd9ed44c6baf0db12b895287&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[记一次入门级DexVMP分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3GsdMhibEO55TpIJ69IdxmmG92cIZTIWO04C7BRKKRib4rv3FKcD0kHpMicNwM08c1hA3ZSdgdaEohZib878UeQUuySyvhvVCWt7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近找到一份apk加固样本，粗略的看了下，确定是某搜索引擎的加固，并且部分函数带了DexVMP，可以参考以下大佬的文章：某企业加固dex vmp简单分析https://bbs.kanxue.com/t</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=2&amp;sn=533b3c8caabaee9461f35aad0b407035&amp;chksm=b0bf21b0695de2c10cd4e0adc516a7096f6582c9906acf4c87568f9875a1fb40a7269a57b4cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[13年“幽灵”漏洞浮出水面：Linux内核OVS组件曝本地提权零日，普通用户可秒变Root]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0bicsFxMVUibV2JG7uonnxetqYXZzibdfEibukq1VkScBS4EHBwj3Wp05fiaq3bhpkBdiaT2K65Yib4kSL1pEfJMMZmTnwOISqdlAEOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全圈被一枚潜伏长达13年的Linux内核漏洞搅动不安。该漏洞代号OVSwrap（编号 CVE-2026-64531，CVSS评分7.8），存在于内核的Open vSwitch（OVS）数据通路</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=3&amp;sn=2570bf825d99e4963e297b6d5c88e2bb&amp;chksm=b06ee0142e07f278258a281bc7273d91cec6fbb364c36349ea6346d733544d659a40defd9520&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[安全运营告警过载？考取 CAIDCP 补齐 AI+安全核心竞争力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0tW6z1Og5gCpicGeSkiaQAwrxttf9OR26icJVibJHRXVxST2JQnn4CBuaoBsdKKAuRZlOBicsibQyX2TYnZncZibJANAq5X9a4cxibysI/640?wxtype=jpeg&amp;wxfrom=0"/><p>相信大家都感受到了，今年AI已经不是可选项，而是必选项。攻击者用AI生成免杀木马、自动化发起攻击，而我们的防御如果还停留在“人肉写规则”、在海量告警里疲于奔命的状态，安全团队的“降本增效”就永远是一句</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618348&amp;idx=1&amp;sn=941464c79698d16a8157265ae03ba786&amp;chksm=b09cf178f0f766ea0743b28578e75eb709d543a6c960f86f209db09a77eb2af04633bb031d26&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01成都俊云科技有限公司AI赋能型逆向工程师20-30k就职地点：成都工作职责1. 负责 Windo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=2&amp;sn=00765840b24772a06db1fbc48fafa939&amp;chksm=b0b39502ef258fb8139454acab02d0f557f8d5a5983ecb504fee10e8a676771d10712515f321&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT下载链路曝高危漏洞：一句“误导性对话”竟可触达系统文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0xibpnWYz56BFYfkjrOBCLGykzr6FR2RMrOIwgzstalFGbW5d7WADmEsdsV1GPsnS0MNjwTT8W9y9LZ60aKkRoh9Zia96f1YZwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员披露了一起涉及 ChatGPT 文件下载机制的安全问题，该问题在概念验证（PoC）中被证明可能被组合利用，从而绕过限制访问到原本不应暴露的系统级文件路径，引发业界对大模型工具链安全性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=3&amp;sn=a04d95311bbf28a2da1a37d0cac0b8c6&amp;chksm=b024a8f9b350de27855326b7ee0d9c62e2129e6613dbe52180d322b9d04e334e39bc69625317&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI辅助逆向分析：不只是用工具，而是造工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617300&amp;idx=4&amp;sn=b0fbe96c8e58cfa67968da0b253fbad3&amp;chksm=b027386b55056e059075ca3ccd841d32f8dce02ef9965b1a75a841c7545ddbd27f903c66375c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用hermes agent 详细分析hunter检测器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1MR3FoJ5bOhAWdJ9mXBHqFicNKr9KhziaGEyib5a7yWhv7ehl0I1V7aX1VTY7FKgIyKj2DqOiaYKTHiaq5aXJycBnAwugiciaNzeMBNY/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言：agent 学会了防御,也学会了拆解2026 年 3 月 12 日,Hermes Agent 发布 v2026.3.12。按官方 release 说明,这是 Hermes Agent v0.2.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617262&amp;idx=1&amp;sn=6988852bd60c8ed2fbcf91e708f073d8&amp;chksm=b03906efe80e4f8858db5ac9f3422977ffd19994d511d01a4ab11e9821e90e8314e628ef3896&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

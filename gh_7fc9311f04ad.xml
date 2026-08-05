@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Native 下的混沌工程：Agent 军团如何重新定义系统韧性验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y2iaccu5ZPNQaQIWDyTwluLqa5Er9TGftTVjV8URIrAp8yCGJUykluJzC1EaANWhMarGyKibEpry9TH6GJ8W21FEJqic72IDp3bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读混沌工程的目标不是“制造故障”，而是在客户遇到真实故障之前，持续验证系统能否自恢复。我们把过去依赖专家、按项目推进、单项耗时数天的韧性验证，升级为可自动触发、可持续运行、可沉淀复用的平台能力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561873&amp;idx=1&amp;sn=0233d0ba23aad4cc225a712963826343&amp;chksm=e8b95d6c5446d61948a1b2f8bf951c8965de1601bb415dc8e5eb056df0cb4b7183eadd35005c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 13:11:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen-Image-3.0正式上线千问AI平台，权威榜单国内第一！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wULuWounPMwRubrTql7qwX4jVBOCQbFia5ibb767LffBudlYdhKs9JHGjiaA1JEFuTevn8C9aviaH9xygiafOczVIb5QJhJxsniaKCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，阿里巴巴千问图像生成模型Qwen-Image-3.0正式上线千问AI平台，面向所有用户全部开放。旗舰版Qwen-Image-3.0-Pro与标准版Qwen-Image-3.0-Standard同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561872&amp;idx=1&amp;sn=034e114b5f6cf6b3c2a58473042e0d91&amp;chksm=e82948eb57c8a13be97d3032b7b4dace0fdb5d45e368e85c9b02905aea61deb62fa2dd23172a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1x1KicIYiap6hZXcTZQOAjgA39iaVGN1SYoVSTW1U1gL5YGbiaWkUnezfJcoPic5u5K8XKhwhXHIHwYkRUc6D2gicPVnKPoicqLLiannfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章不讲 Prompt 技巧，也不推销某个 Skill，只想说清两件事——在企业工程环境里，如何把大模型 Harness（约束与治理）成一个能持续参与交付的协作者；以及大模型时代，程序员</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559631&amp;idx=1&amp;sn=13935cb98e1b389c3afa8a10a17e9c3a&amp;chksm=e8ca90f426f32d7757aa6a6171bb26bbb9992351ad3a36b5bfb1cbced35898e8080d196a6f15&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深度解析 Claude Code 在 Prompt / Context / Harness 的设计与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wYfMBAxOXIXTWL0tM1p0uMTamcibYvk2eLfKa2kcXqtBE0n2XibowsE9PYvRgAMv2xOKvBtJ4sBtft18sThYlm6XHN0YzgCibbsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景前几天写了一篇对OpenClaw的深度解析文章《深度解析 OpenClaw 在 Prompt / Context /</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559627&amp;idx=1&amp;sn=7847089f5135e5060953f013fa56fd4f&amp;chksm=e85c35206aa7bdd736313a4510a7da36aa60edbb8df213b89368a574c41b55ddac951a8646ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[模型越来越强， harness该留下什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6GB04rWzKQ8faelhvelMHuUwNHGnQRA9G5Gvaic3DwETnItYCOEjaNVLLx4lLZQicOrLN1msdhVBbfXJNjBzyhJQcVsx8icFy2TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇删掉团队 harness 框架 61% 内容之后的一些思考：什么会被模型内化，什么永远不会，以及在开源框架遍地的今天，团队自己做 harness 的价值在哪。最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696815&amp;idx=1&amp;sn=273c44cd529f4ae4cac7328bb19e54b8&amp;chksm=eb2e463aa4af50faca90a0e5da667e86de40e38b40cfffd7537ddbdc76d3db184ece11376d4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code神级技巧：让AI编程更省心]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gvmRz21icMEbnicnZobicpLGKhAxz0AagNiaolYuOq70nY7VTwo71uogN69wYkwqwboTjokNNTNOBialeIGj97WIsTlUKhejIDxlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇过去一年，AI 编程工具集中爆发——有的专注补全提示，帮开发者把代码写得更快；有的用对话交互驱动开发，一句话就能改代码；有的深度融入编辑器，AI 能力触手可及。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696809&amp;idx=1&amp;sn=e7e00717c8a296b8e0d92558f032edf8&amp;chksm=ebf00edf53b699ab6f98d9fe3cac56c39ef6df6637cecbac05b602f6c807f89fbdd0030fb753&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4KEzjPDGPjdiapfxk5rOEXRjfD83bqxCupqbmRv5qZl51G6k7zdiaY41cIQMbRicaRlb8rnQ3MgZqoRp3yROp5r0UFnJichP728gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇为什么Hermes的爆炸性增长让整个行业重新审视Agent的发展方向？对于正在技术选型中摇摆不定的开发者们，又该如何在Hermes和OpenClaw之间做出正确</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695306&amp;idx=1&amp;sn=32df2774f14188f50ccfb9daf943d043&amp;chksm=eb5a659c22a1cce92e8e81d3e201b3895b481ea5fbbfa716648c10d4980dc6cd1b6a6e926b2c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文讲透：Harness Engineering即控制论！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6efHN7KOxoy6K7UcW4oBy438auOaNMR1HF92KibT6ZCZNOX74qXn9MrTXUAqPtEicDNsBnXUARns5ic3LibYTACEKqceHB3ejzFMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言去年有幸获赠2本书，其中一本是《控制论和科学方法论》，读书过半我就发了条朋友圈，因为我当时觉得自己发现了一件不得了的事情。不得了自然是有些夸张了，但是我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695294&amp;idx=1&amp;sn=63a246504edde73b337f15ad72bed3b1&amp;chksm=eb54142b55dd71651bc28e94c8ce6b683689ab5d741ace2f2b7e06efbed2d3eb6edfffd676ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火山引擎 RDS MySQL 向量索引：把高性能向量检索带到 MySQL 上]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefwMzkdMM0hw8SHwOBswejKQEK5AcUeSr0xVdatAv008jrvStMG3MoOc5G6CobRukAk9D1JI6OqrHFM5GuiawNibPJPlYb9nQdy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击阅读原文获取火山引擎 RDS MySQL 向量索引一、火山引擎 RDS MySQL 的高性能向量索引能力随着近两年 AI 的快速发展，像 AI 模型、 AI 助手等 AI 产品越来越多，这些 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521161&amp;idx=1&amp;sn=205af0499a556576a9543c04ec64b93d&amp;chksm=e8b829d80d240b7d100589d00c6f74e638d08092c63fc7d0dbdce954c730fccc8ea392a92b56&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不写一行代码，小 V 在 Codex 里搭起了视频搜索网站]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefaKFMreBOv2hZ5CRuLrNJib9taL5vvklAsC8IVXpSu8zxHrSRKzTmokSRiac6icG8AXJE7DNT3e6QHDGSNfpjJkA7JiaYmwW35u8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>💡 一个想做“视频搜索网站”的开发者，靠 Viking AI 搜索 + SearchCLI，把视频数据上传、字段解析、索引配置全部丢给 Codex 里的 Agent 完成——没碰视频理解模型，没调向量</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521147&amp;idx=1&amp;sn=dc14c37c6a03dd9448d8b95c2d4f15d6&amp;chksm=e85c2754da21b8bd3946f6c519e95fe7c7e2fe861595dcaf1de61c03da9573b390f4cd9d0c6a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[OpenClaw 养虾第一站，InStreet 全面开放内测！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefibZUNMyianiaqibNqcpHDclsURFlvWL2Aw7SnJDxSLAqnGAZoV3tcLGic8PofxXDGDu0EweAibqTBfQx9wyqiaxrCxVevbJUbomybDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你懒得看，直接把这句话发给虾，它会懂的：参考这个龙虾指南：https://instreet.coze.site/skill.md 去 InStreet 上逛逛发帖：instreet.coze.si</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=1&amp;sn=2a5dfc3eda094ecbe8ad6b3025268357&amp;chksm=e8a0317bf81771dedd1c5c0e02f74442d5601ab92aad8e07c7d00209f4d622fdf0ef3dbd3be6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火热报名中｜ 首届Lance Meetup 2026 · 北京站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FectiagxMNJHUoIhWLXBh6ltRt3ambibl56WXwVQ0NCpicwPcLyjEkyQlsEAib3GuMYH3fvWA8nWVswnwoYtISGQRribHDBatA6ObBdA/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着AI技术与多模态应用场景的深度融合，下一代高性能数据基石该如何构建？2026年4月11日（周六），Lance&amp;LanceDB中文社区将在北京·字节跳动大钟寺工区举办首场线下技术沙龙。我们邀请到La</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=2&amp;sn=336c31029f790189df7b27e2160e1233&amp;chksm=e8f3d3a0f655f6995a478358378975ff546cee0f6848bd87220e1347671a475c6ce27a942826&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[外网跟着玩疯了，只因 Karpathy 做了个《指环王》实验。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2R7m1UD8yZUkYJic1XzdhEkPPyxuQhp8re54iaLVibSictk76FaSvN4fauWDUGR0dNf0WjCuJib3UaqkPMVBx4xXaXdibdTSfylbKics/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天，我介绍了卡帕西用 Claude Opus 5 制作《指环王》3D 短片的实验。他把小说第一段交给模型，给了 100 万 token 的预算，成本大约 10 美元。Opus 5 自己跑了两个小时</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535827&amp;idx=1&amp;sn=3d6758567176f0b31f33ec93636b7772&amp;chksm=f8f09afd39a3eaedbf9298473da877aead67a2fb8c5c1386cb186da05989ae0d81e593d8546a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 06 Aug 2026 13:18:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点 2 个看起来贼炫酷酷酷的 GitHub 项目，炒的还挺火的。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1mbOrXsCWO9PZt7s6IhyvRzwzJNanvh7cI0YVCkRRiaRe6ibxbA91AkgvDnINUwOIVet7Vqg18bh4icGJNKYawBoo7tr1VjPBqt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 GitHub 上有个项目，看 Demo 的时候真的很容易停下来。滚轮轻轻往下滑，镜头从一座微缩建筑外面钻进去，穿过精心设计的内部空间，再飞向下一个场景。整个网页像一支可以用鼠标控制进度的品牌短片</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535746&amp;idx=1&amp;sn=5dc86d578fc19500339d592aceea6f82&amp;chksm=f8af412db4d532a8dbbd8539f3fa15d40023467fd97cc3fbc00a6b6b198b2a53b942a8045aa0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU15XyghegiaKJCNiaPp5AclrnFShzdx6ThcRCpdUq3l4crlIUol7KCqwsMrKuz25JDQjQtClGOZtpkUffETT8iaho9ibaFB8z8LIEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文回顾，可以直接看我之前发的文章。大概就是前段时间 Claude Code 工程师在 X 上发了一篇文章，核心观点就一句话：HTML is the new markdown。他已经不再写 Markd</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533794&amp;idx=1&amp;sn=fdfd8d2964aad1c68bc9d48bae56eb74&amp;chksm=f8c28b755311a531f405d0318610aae261f0048ceae785ae12e35c8512dba0aec86597c4e0a6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 15:18:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[来讨论下：HTML 一定比 Markdown 好？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0PrdA7icmRdIEhI7cvacFAU6EeDJ9Tees0DJkga3qOIAUUhPqutctictJAGzJ4Cn0AC9qH8bhdZA5j4NoENVtoibKV6vyav6LeIA/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近 Anthropic 工程师发文，Karpathy 点赞的观点：让 AI 输出 HTML 比 Markdown 更好。相信大家已经把这个观点刷爆了。GitHub 上有一个叫 html-effect</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533790&amp;idx=1&amp;sn=482a15e0a7bb883d4bc1a473b8bb845d&amp;chksm=f8dc2221f58d4017702acf47d440b828a8550809d549b7cb68044998105b2704b2368e285c4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 18 May 2026 13:32:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
