@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【原创】AI时代下的国产Electron软件供应链攻击活动披露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibiacpVlOJMESicElTicbCZduKfKIePAxYgiblRsHE5iaZb4bjPWnSoUbOBZlIUWTFdpj3ZdKjJ0znyFSBbvUwfM0LMCWPoglxe2vow/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 2021 年我们发现 Operation Dragon Dance[1] 活动以来，就不断强调国产 Electron 软件的脆弱性——基于 Chromium 嵌入式框架开发的产品极易遭受远程代码执</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519723&amp;idx=1&amp;sn=c1ab9a85f341a22dc22c26e30966cc79&amp;chksm=eb6401466315e20c780ef5b98e314742382a1e1687b8f7b2cb4ea371f9ae1f62b16f522a240d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当 AI 助手开始替攻击者"打工"：微软 365 Copilot 连环提示注入漏洞深度解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicEJkS13iaGuicib1tiazQib97W0a3CLNrkCKydv29PBMUKKeC92gpzWb6rIUmR0L2UNNDIhGY9xGicxnVaPR3a35ibU2LSkd8cS0uoU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份看似无害的市场分析文档，被员工随手拖进 Copilot for Word 当作写作素材。几分钟后，Copilot 起草的季度财务报告里，所有数字悄悄缩水了一半——而这份"带病"的报告被分享到公司内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519706&amp;idx=1&amp;sn=2b99e60929c3f340e2faf2174d18951d&amp;chksm=eb37064f0b9ad23897f664382a0a3ea94d321ab20aaf6aa5a8de6925ca43bd537ffd9fae38c7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9aqbrBCb7GFx0S9Tic3ErD5q7fSYDWddToIbtqbnjyw9WBmsFaFdw3ianNOaTgPsLa3fQYDD9DbvlTqjl3j5XKhkwYFJwbpn8J0/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月，微软在Patch Tuesday例行更新中修复了Microsoft Defender反恶意软件平台中的一个高危零日漏洞（CVE-2026-33825，又称BlueHammer）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518486&amp;idx=1&amp;sn=550ba4e79eec1f50c66aa188e04ad78e&amp;chksm=ebf5fd4e3fae987931de36a12474749b307e8ed5d9fe9b25f574cdde84c37a50fefe7a55933b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 14:31:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MCP协议架构级漏洞深度分析：STDIO设计缺陷引发大规模AI供应链安全危机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicCZAfKpvTTsNq15lPqt4HV20klxwtjWtiaaVjblrUGKE0Rp4FmzyIuK3DG3l6t4rpcaVSbWSHYXh0uicuAY3WtmTqibWOGa8o8Qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁概览奇安信威胁情报中心监测发现，安全研究机构Ox Security于2026年4月披露了Anthropic公司Model Context Protocol（MCP）协议中存在的架构级设计缺陷。该漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518473&amp;idx=1&amp;sn=39cc2ea54cae3aee275196ef01298f3f&amp;chksm=eb43dd959d800deea670d3d41b0cf4482c55729f8f49289b494c6b4a1330294cfe50977aa26d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Apr 2026 09:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

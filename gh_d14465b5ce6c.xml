@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从胡言乱语到精准改代码：我是如何让 AI 读懂老项目的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906ZXFOuRIdibtlpptCbMAvibyjjtymdQjzdfViaFvdic0LE2VicDiapN6D1NfTat9LT8XzgWpfWZXtEeZ1W5kIXdPzibvzSYfNYricWQSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：被删AI 时代赋予 AI 的新角色：AI 铲屎官。在 AI 很强的现在，依然很多人会认为，AI 更适用于新项目快速迭代，但很难在一个背负着沉重的历史包袱的项目中起到很大的用处。最近大半年都在重构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803058&amp;idx=1&amp;sn=f3ed1b512d61666ebc7d4852a33911b5&amp;chksm=bfe2c037e5a30d1378c2882e93396ab4dd03ac6cd9a4a519820cd4af21dc883cabc4799245d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux 内核藏了 18 年的漏洞，这次 AI 比所有人先找到]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9055XX3gEsLOBTpu8XkU8xREt0wqicMJc3BJnIsroTF4tdFc1ibx4mJpjWE3VtbZTTOia6GcicIWzaiaHVRWTWqVonwJlkh5iaIqyfhcc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：TencentOS 安全团队2026年7月23日，Linux内核主线合入了一份很短的补丁。它只改动了6行代码，修复的是一个已在Linux内核中存在超过18年的 0day 漏洞（CVE-2026-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803040&amp;idx=1&amp;sn=a0b7458e9bcc381edcbca4dbc1769f85&amp;chksm=bf3d5a72274690478de58f1a9f4d7bb938517c5ac3834cd3f477a6a19ea9f091cba7ec02f2eb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907srZ90ZNIJsfjF3xqN6W7VvOmxiaAP9ma0S70aXUh1jIJiaicrlbLsiaIXOyfSTJGZZ5g5UmcSbnCXLS17nqZVBzM3zhn3Zaem3lc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：yabohe年初火爆现在热度依旧的OpenClaw为AI Agent带来了新的想象。如果说2025是AI Agent智能体元年，想必2026将会是AI Agent真正商用化的开端，而AI Age</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801169&amp;idx=1&amp;sn=0158c8b66288f1d0043f6e87363b9a4a&amp;chksm=bf7cf555aa87191d3af2d727757a7ac1020898d971bd363db65339e2dceaaeeb90040e64580a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这大概是我读过最硬核的一次 Linux 内核重构文章了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907JiaSAm6PnTrVE0A5Y1ZF3QyfuP9C4fZEMEicNlOohSKoBMMWU5bEzNsxicHoFCy6FziaL3S1ib1MDvMGGATiblS38gDBiaj2Z6EWpOc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：TencentOS背景Linux 内核的 Swap 子系统自诞生以来，数十年间代码复杂度持续累积，逐渐成为内存管理子系统中公认的复杂地带。然而，来自腾讯的内核工程师 Kairui Song 以一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801153&amp;idx=1&amp;sn=4e89b5dd7a0f02f12a5f8b2536507b99&amp;chksm=bfbbff8a3d29d8004408e01a99cf7513250480ea7e968de0626f063675351d369fb5ba61fa99&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Apr 2026 17:50:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

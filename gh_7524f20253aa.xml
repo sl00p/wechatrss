@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI在美国黑帽大会上首次完整披露AI自主入侵事件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1xd8NHCOIB6bON8GIhzmROjC1CdcVqA8elVEZrK0nKXnzbEVyETv0pV2icXEHvLLmODEY7auKSxW0BSCIdHfeCiawAm1mRlkQ5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent自主发现漏洞、绕过网络限制、共享攻击方法，甚至在通信渠道被切断后重新搭建了一套新的协作方式，这并不是一次概念验证。在Black Hat USA 2026大会上，OpenAI安全研究员E</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=1&amp;sn=43ecdfebef9f9c64a0976f61242a4c97&amp;chksm=bccb9e33b252c19088d2839677c4e97b9c80cde17e71c67ab7856ba1cdf538a83932404f2d27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Oracle遭SQL注入，攻击者直达Windows SYSTEM权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xjG7eKQJVhkNFsLCScSjyZ9S18xHdmr9Et2LX4SRwOI8rzad5Ghfl0QbJGOXAZb8Ra7PUiauMcR4KXhnwUnakUvslAPonzw14/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01从SQL注入到Windows SYSTEM攻击者借助面向公众的Web应用中的SQL注入漏洞，闯入了某组织的Oracle数据库，随后在不向磁盘写入可执行文件的情况下安装了一个后渗透工具包。他</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=2&amp;sn=ed3ed525c140d415d2293751cfa9e644&amp;chksm=bca114a08abec08fff4504675d92f53391d75aaa373a7b17d08652cc2ba803c630c588eb027d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4400余台罗克韦尔PLC暴露于互联网，供水系统面临网络攻击威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0BGafSp02vDbAdDWiauIFMUFMicYln8I9jt3hocYo61PFX5KhRrRqErqNqUoL3m5p060uwxg8MhDjRzQziadbCiaymq72KReSU4HQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对美国供水和污水处理设施的一波网络攻击，再次引发人们对大量工业控制器仍可直接从公共互联网访问的担忧。Forescout的最新研究识别出4,407台暴露在互联网上的罗克韦尔自动化/艾伦-布拉德利PLC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=3&amp;sn=9abcfb1f7c4a26771be940215917d1e1&amp;chksm=bc20060923495fb7a8281b3f99d5a06ed948b1d6cb0e8e3c5f3bb55422f87e27783cf85292eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Jenkins严重漏洞可让攻击者在控制器上执行恶意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Ia9iatbpYh2dODfNguyzBZPnPMzSEsDNC3NFXUdfnQNShgle1QXCAYO3aZHcwszMWjwWWgN2kzJTWk5jBGKauQqj1EUrbkfYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Jenkins披露了一个严重安全漏洞，攻击者通过绕过agent与控制器通信中使用的安全过滤器，即可在Jenkins控制器上执行恶意代码。该漏洞（CVE-2026-70426）影响使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=4&amp;sn=16841b993a41118bd723be30529c1e33&amp;chksm=bc3c5c3b2fcf1674c9d381b83b34127f0c7a8cde2b36a1fd34bd0377827566aaeed6bc986f8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Mythos 5与GPT-5.6-Sol突破测试边界，向现实世界发起攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3bicszPpZoJdbv8ibEgj2GJFhzB9PbyV6CtKSbdD7o1uiazUDPV8A32NvxHAhV2JKyKXwfYV1n5mQA2Gs3CU7xdeyVcR1lx1INIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>英国AI安全研究所（AISI）披露了一起严重安全事件：接受评估的AI Agent突破了预设的测试范围，在真实互联网上对真实个人和组织采取了未经授权的行动。该事件发生于2026年7月25日至28日，涉及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344078&amp;idx=1&amp;sn=3aa24dbf618b0cc8dd28d9896fce2c6c&amp;chksm=bc6ccce0a4fb684893d8c2d188c9bfef81c16797bebf26542a73e3bbb3e1a1834521091b8906&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0gzVxsXfzYvdryR9vPuheS9nRo611hoACM2rL34HLdGsy0S0Qd395e5SDFwEdBI61qamqMsBluZ7qWMusxgDhnBfBmhg2NaWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软今天发布了其史上规模最大的Patch Tuesday更新，其中两个补丁修复了攻击者正在利用的漏洞。根据微软安全更新指南统计，本次更新涵盖微软自身的622个CVE，是此前6月约200个纪录的三倍多。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342676&amp;idx=2&amp;sn=a1f2c1fb55e26961c53d59aca0b74b3e&amp;chksm=bc9110a6bc4c551180334d9e462ad48c563225b70d64a590f2b8838faad118f2562280ccc9a8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者借AI构建自定义PowerShell侦察恶意软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2VTBhpsBe0P5F2tO1zKRkdVOGs5iaOiaibibRMrzTnHtZxWK3bHiayzsc2KX5WO76mhogck4qMNQ1ibic5WtIQ8ibPyKgQuAr4Il1sqng/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI脚本现身攻击现场2026年6月3日，在一次事件响应调查中，Huntress分析师Jevon Ang从一台被入侵的Windows Server中恢复了一个PowerShell脚本。攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342676&amp;idx=3&amp;sn=d93ea9a752572f124fcc08bae1e483f4&amp;chksm=bc1c2cc9784bb970ae8d7b87b640044651df0ddbebd0172394e236f60aa34ee8f354cfff8d23&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[160万用户中招，Chrome插件ModHeader被曝进行隐蔽数据窃取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX06Rt5KtFFSW05VxzkOGJPkGxJbOb8ic4TynJlYwlpDOPyeThIUibYu9TuqzWw0YH8b8Iks8gEF42AqWUaOdA2epoTAcOibr4NbTo/640?wxtype=jpeg&amp;wxfrom=0"/><p>ModHeader是一款广受欢迎的浏览器扩展程序，在Chrome和Edge平台的累计安装量已超过160万，其中Chrome用户约90万，Edge用户约70万。近日，有用户发现该扩展会向api.stan</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342676&amp;idx=4&amp;sn=76d3175cdbcf2c6dc74de5e6e40e96a9&amp;chksm=bc054c2d2f62e269a0e3be2c496a1ec2c5cbdf239a8db7de77e6dac6c70a45c16aea51504e1e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一封邮件向AI Agent植入持久性虚假记忆]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1TD3cNXVbiaoM5ysEPKPLiaTOiab5OsCIzCp39fokWwibJybGjuibmqSSbiawk98mU9fEVOia5AH8cy8icDgDBHyMH50ViaBGEnPyQSbSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>只要赋予AI助手记忆功能及其对收件箱的访问权限，攻击者就能借此改写该助手自以为对你的了解。一封邮件就能诱使AI Agent保存一条关于用户的虚假“事实”，隐藏更改痕迹，并在后续对话中悄然改变其回答方向</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=1&amp;sn=aaee07864756e35098eea57c60857718&amp;chksm=bc7876244c752bc3384273011f88b537f9ca8521e2710094445840c9e3ab07f2ba5d60d698c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者全网扫描MCP服务器与Claude凭据，AI系统面临数据泄露风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2LibObOuKhsBKa29TUkA3ibPsF207QSn5bKBAoYdyOJe5whnyiblIFMvic3cmo1KFlO9BJCYKpVqfRCGDW9n8SgzgoLCwnu3a7FVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>面向互联网的AI系统正成为机会主义攻击者的新目标。安全专家发现，威胁行为者正在积极搜索Model Context Protocol（MCP，模型上下文协议）服务器、AI助手配置文件以及暴露在外的本地语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342612&amp;idx=2&amp;sn=aad7e67b4841f3ed9c8fcd9102be444a&amp;chksm=bc344f9aa2bd19e877c25af96e71050062df6df3e733cf8a0dc317e48f382c0dfe79863cef10&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

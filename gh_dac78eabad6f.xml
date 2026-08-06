@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[十年后端烧光积分，学会了在WorkBuddy当甲方]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6PF1dajyw6fS29zn1qYia4ZZR79QQwNo6G6zT2kVCAd3KaD7rwjohlN42UH4Xxbp7KJXwfSNV8N2jzbWzqV77R0Y9ibWNLpClI8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告上个月我干了件蠢事。周五下午，我让WorkBuddy帮我跑一个数据看板的全流程，设好多智能体之后就出门</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696836&amp;idx=1&amp;sn=ec9528dc40e2f5f0eb4bdd03c06d6839&amp;chksm=ebe15c4c3f6370a1807d811ecd43447f3a19e4e323b4e4e55cbf9d60a57cd8bed1daca9e113a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[腾讯云Team Memory来了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6OMyJd9wtDRTotKTPdboNzicWYq4oLO3yVszyVPHnEzhAbEXJ9JwLdVcRJSiamqUzJw8hDY15jP7b57eCaPLQAu6vgVnShe9RJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Memory支持团队记忆了！腾讯云Agent Memory 2.0.0大版本已上线，全新升级Team Memory，将长期记忆能力从个人扩展到团队协作场景。以后，团队与Agent协作过程中产生的代码知</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696836&amp;idx=2&amp;sn=32911b1613b2bb2cd3b2c93af4ccdfa0&amp;chksm=eb829d67c978a8510d53e492f280a00a241afba155ddffe493d4e96a662c4ab5e0b296509410&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[模型越来越强， harness该留下什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6GB04rWzKQ8faelhvelMHuUwNHGnQRA9G5Gvaic3DwETnItYCOEjaNVLLx4lLZQicOrLN1msdhVBbfXJNjBzyhJQcVsx8icFy2TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇删掉团队 harness 框架 61% 内容之后的一些思考：什么会被模型内化，什么永远不会，以及在开源框架遍地的今天，团队自己做 harness 的价值在哪。最</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696815&amp;idx=1&amp;sn=273c44cd529f4ae4cac7328bb19e54b8&amp;chksm=eb2e463aa4af50faca90a0e5da667e86de40e38b40cfffd7537ddbdc76d3db184ece11376d4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5aCGXdbZjk76tu7Yp38YGEQCyIOIhWPAdgicJhZWJibwyKbqz7geAIyWdhpgB4IACF42HM5wYFofibso4proJVAdPlI0ntqyibbMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Harness Engineering 的概念已经火了有一阵了，全网很多文章基本都是在讲理念，讲为什么今天做 AI 开发，不能只靠一段提示词，也不能把模型当一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695342&amp;idx=1&amp;sn=9e3b38d4ea0d20c2ec1e46aa87a5fba3&amp;chksm=ebff017a41629ba301d1c7e40e722df36137f7f31bb7e5552d487c13e278e355d581e06e2ac7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 09:29:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云开源OpenAI、Manus同款Agent底座]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gRVGedMspvvZWbT3mfibcbZTp2TkEZGlibK0lnJeuTib6D6E6Xb5QbEoYoQVrGJ6PjT0vg67VV9niaASn0nWtNolkMFJpQtNAauc/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，腾讯云宣布正式开源 Cube Sandbox。一套面向 AI Agent 的执行环境底座，也是业内首个兼顾硬件级隔离与亚百毫秒启动的开源沙箱服务。🌟项目主页：https://github.com</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695342&amp;idx=2&amp;sn=e20b805f235b3a75eee749714e9dccf5&amp;chksm=eb53b39f5a239b189b79afc66ba145912a0e1aaffc5510a46c5a85dee7457ea85c593db8b764&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 09:29:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全方位对比：Hermes VS OpenClaw]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4KEzjPDGPjdiapfxk5rOEXRjfD83bqxCupqbmRv5qZl51G6k7zdiaY41cIQMbRicaRlb8rnQ3MgZqoRp3yROp5r0UFnJichP728gQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇为什么Hermes的爆炸性增长让整个行业重新审视Agent的发展方向？对于正在技术选型中摇摆不定的开发者们，又该如何在Hermes和OpenClaw之间做出正确</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695306&amp;idx=1&amp;sn=32df2774f14188f50ccfb9daf943d043&amp;chksm=eb5a659c22a1cce92e8e81d3e201b3895b481ea5fbbfa716648c10d4980dc6cd1b6a6e926b2c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[参数化 Memory 漫谈（纯干货）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7M2ObSiaYVAcMYZuanTBr9fRiaQ4kDNVmSQqUNeXDCRiaDHiaNg5Yibs7CnmXdibd80wKekLodvtC7ibJbicgVbphGzibPzs0s3oBIibwtE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 49 篇文章（ 本文阅读时间：约 100 分钟 ）前言的前言：本文的思路是什么？（和 LLM 相关的）Memory 是一个被广泛关注和讨论的话题，其中，参数化 Memory 是 M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511041&amp;idx=1&amp;sn=037ffb3529df30ea5b8b30b966a526bf&amp;chksm=ce5162054dc67c0536b022e98b5a585ee0e2e021dacc752a9e7e85e78ce3e572748b45abd0d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[最后15天初赛冲刺！首届阿里AI创意广告大赛评委天团曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7dmBibLzysuD7NVzHRGRYm5OGEcZ3KFmU1YmM05ud4ibphRWqyicg0riaz4xwt4XJTCxmuOOK5ibdF2JJsDhU0ianBIqlStVBDdHGos/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎留言一起参与讨论~</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511041&amp;idx=2&amp;sn=a9524d2817984d53414c272198ddcc19&amp;chksm=ceb8fc02334ab3e6ea8eece7f9524c6c856596ed8fe6a77ce0d1b489e8dc461a6ef69fc876dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4G2U405J7AfwHgPTiadnwmrpI94CicqwlXkWmTkpv9I95zlZGibia0sCOalgSxib9SI27bmziaIEEwY1lwA8Xbcj3yUH3q06yMANECs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 48 篇文章（ 本文阅读时间：约 15 分钟 ）01Agent Flow我最近一直在做一个“小玩具”：Agent Flow。最初的目的很明确，就是想在某些特定场景和受众群里，取代现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510883&amp;idx=1&amp;sn=1988e51340f0d9a22b2e6908fc60eddc&amp;chksm=ce40f2150aa796f2e264da84f6c9077e49dbee29b0fdfd624a877b3113f167eed081440a8101&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30H282xzxcdaWQUSyl8DqnZGV3J9p0TGscnAibt1AIrBT4N8jJQ4XSawolibI6tibdoMZibhc18JoKS2JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第128篇文章（ 本文阅读时间：15分钟 ）01前言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508957&amp;idx=1&amp;sn=fa5d5ecdc9306542d31cba236d3fcecb&amp;chksm=ce02f75c03b5ff079358074555cfc7390e0743ef800c9d9f236b0ead28383fdeab7eb9201386&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DMS Airflow：企业级数据工作流编排平台的专业实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HTMrsSBzp9Y2cK8j7a9a2vIURIL38c20qcNlsOJJInicjRH8AlclKvRTKM5CVHhCrVnPp5YNMrm7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第127篇文章（ 本文阅读时间：15分钟 ）DMS Airflow 是基于 Apache Airflow 构建的企业级数据工作流编排平台，通过深度集成阿里云 DMS（Data Mana</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508951&amp;idx=1&amp;sn=70b5087c0a9bcaa64986dd8423e85c6f&amp;chksm=ce8bb9e1c3214dabfaea0da9ce7ab933173848f10317488e46ad7eac30b8f3a68b2fd9907474&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3A大作！阿里ROLL团队从基建->算法->机理，推动RL4LLM全栈协同优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30EE9Vx2JABiaSStT2XnVSVJUhicwkrKItCabpoOt2ygdCn5ywmmhGlN7CYX872C2VwCOCUkwwBSWK6g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，阿里巴巴 ROLL 团队（淘天未来生活实验室与阿里巴巴智能引擎团队）联合上海交通大学、香港科技大学推出「3A」协同优化框架 ——Async 架构（Asynchronous Training）、A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508944&amp;idx=1&amp;sn=d0647c36272e9f4c0b8876f66c8e09e1&amp;chksm=cea258b4708ed2c6f731d44c469e4c439ff5d85373013ac45240ed4f820534f8667da268e8f4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Nov 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

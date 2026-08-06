@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上 4000 星星的桌面端 Agent ，每天 3000 万免费 Token。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0G6hx9GjYZUl0OUhFc4Ire2cB9cFFgWRibFBjG9r9xC8Fibae42gicbX69goMEeicfIV7RUw7djR2ia4BoS9jJoIBfsvCNbPfcF0ao/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前我介绍过 MonkeyCode 这个开源项目。这个开源项目发布以后一直在更新。从最初的 AI 编程平台，到移动端、私有化部署，再到最近上线的 MonkeyWork 桌面端，它的使用范围已经越来越大</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535831&amp;idx=1&amp;sn=f8ad4f1272911a634b2dc2638a187a30&amp;chksm=f822d5461b021b3362de7a12f17bae465bf7b10457f253bb0a042f32474de197800ebc90b751&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 07 Aug 2026 15:19:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[外网跟着玩疯了，只因 Karpathy 做了个《指环王》实验。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2R7m1UD8yZUkYJic1XzdhEkPPyxuQhp8re54iaLVibSictk76FaSvN4fauWDUGR0dNf0WjCuJib3UaqkPMVBx4xXaXdibdTSfylbKics/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天，我介绍了卡帕西用 Claude Opus 5 制作《指环王》3D 短片的实验。他把小说第一段交给模型，给了 100 万 token 的预算，成本大约 10 美元。Opus 5 自己跑了两个小时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535827&amp;idx=1&amp;sn=3d6758567176f0b31f33ec93636b7772&amp;chksm=f8f09afd39a3eaedbf9298473da877aead67a2fb8c5c1386cb186da05989ae0d81e593d8546a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0efp8zq1Sic1oSYsHzictzbZafwmxqKOANVbN2Tkb04hhAA6hOyBkms4QiaUd0BZkIFicGF3ibCgMGc6JqHdZMRTU33ibYfwp7u7L6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天 Karpathy 发了一条推，说自己正式加入 Anthropic 了。OpenAI 联合创始人，特斯拉前 AI 总监，斯坦福 CS231n 主讲人，Eureka Labs 创始人。兜兜转转，最后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6&amp;chksm=f8c1692a339cb644df1e2639e5b11e7e4aa39e0e6f743583b63c995e349bc01654b034a846e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 13:19:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[有人花 3 天做了个开源工具，一句话生成各种场景的 HTML。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU15XyghegiaKJCNiaPp5AclrnFShzdx6ThcRCpdUq3l4crlIUol7KCqwsMrKuz25JDQjQtClGOZtpkUffETT8iaho9ibaFB8z8LIEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>前文回顾，可以直接看我之前发的文章。大概就是前段时间 Claude Code 工程师在 X 上发了一篇文章，核心观点就一句话：HTML is the new markdown。他已经不再写 Markd</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533794&amp;idx=1&amp;sn=fdfd8d2964aad1c68bc9d48bae56eb74&amp;chksm=f8c28b755311a531f405d0318610aae261f0048ceae785ae12e35c8512dba0aec86597c4e0a6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 15:18:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
