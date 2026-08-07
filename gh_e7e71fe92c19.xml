@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 KCTF 攻击方规则发布！8月10日12点，正式开赛]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3m6th3ia0UK6mBPXl8kict23ZIyw5qeawibnXibPy9oddLDOTlw78PoyuuV6e241EkFF7iaV2gadVeviaBw0xETZDY11ibmpoWOUK8tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 KCTF 规则更新为适应 AI 技术在安全研究、CTF 出题与解题中的应用发展，并优化动态积分体验，2026 年 KCTF 规则作如下更新：一、新增 AI Security / LLM Se</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618432&amp;idx=1&amp;sn=e41a435b6f32dfbc90eea7a9dcea1b8f&amp;chksm=b03483f9f8b526a85ac8e69dc32390c8304a166bd4d9be3a396a507b1fc162c5fb0ae5be20d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Intel 酷睿 CPU Management Engine 固件研究与分析逆向：实战DCI链接与ME解锁尝试]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GfIOGw1wKQvITpcRDZ3cwIfrPf83KDrDgV9lwhe5CicG0bGib3rhJXx0LV7oBWCOUmV2kTNzHqHzpa8AMMJVFXW54YqcSXagUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>此帖是记录笔者研究Intel Management Engine 以及 Intel-SA-00086 安全漏洞的记录。说结论：当前只能说解锁了一半，暂时还没有找到一个能完全解锁ME的路径。我会把我研究</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=1&amp;sn=6fb037cb1e411b795256e427858c349c&amp;chksm=b0cb2d25cbe23405aee0607802c0c453b62e2b18fc0c873d03251d6d72459f51c6a013091345&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1udnWEPoelo5DU7WtAGkJs5UZUXKrX1KDYT0JgcumsvTK2w0fOWicNKYBdndHkA3OPTfusS8OfMgCiaGxHCDwcbcgQsvgicwYXec/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员公开披露了一起 Linux 内核 epoll 子系统漏洞，代号 “Bad Epoll”（CVE-2026-46242）。该漏洞属于 Use-After-Free 竞态条件问题，在特定</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=2&amp;sn=5fefff506b6f81b7815f92895ee5ca9b&amp;chksm=b0f86b41ed1532d521d12c4fa9393c25753f45b9cb3508f0a013dea1e32a98a13f58645766d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[系统0day安全——主流企业防火墙漏洞挖掘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=3&amp;sn=07f37875dfcfcb09667c640cc9554ea6&amp;chksm=b0a9e15faab8cbe183fac50873167a355ee7940662c532ebe05544b7339a2849e99804202b44&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
     </item>
   </channel>

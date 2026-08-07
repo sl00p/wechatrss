@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek V4-Flash 正式发布后，我一直很困惑于一个问题：几个月前，它就发布了前瞻版，当时也可以用 API，但怎么到现在才火出圈？说是因为能力超强，价格却很白菜——难道这是第一天 DeepSeek 干这些事儿吗？ 以 V4-Flash 的 API 价格是每百万输入 token 0.14 美元、每百万输出 token 0.28 美元计，支持 100 万上下文，兼容 OpenAI 和 Anthropic 的接口格式。Artificial Analysis 近期将它称为知名模型中成本最低的一款，平均完成一组测试只需约 0.03 美元。 但这类测试通常不只考模型，模型需要被放进 Claude Code、OpenCode 或其他 coding agent 里，获得文件系统、终端、浏览器、截图反馈和反复修改的机会。最后的成品，是模型、harness、工具权限、提示词和反复重开等等操作，共同完成的结果。 DeepSeek 官方自己也把 V4 定位为面向 Agent 的模型，并强调它能够接入 Claude Code、OpenClaw 和 OpenCode。换句话说，它从一开始就不是准备独自完成表演，而是准备进入别人已经搭好的工作环境。 也是在这里，V4-Flash 真正值得讨论的变化出现了：过去得用昂贵头部模型才能提供的一部分能力，现在正以更低的价格、更标准化的接口被提供。 这些未必就直接威胁了 ChatGPT 和 Claude 的订阅，而是它们越来越不能只靠一句「我们的基座模型很强」，来解释收费。 然后才是那个很多人因此会自然问出的问题：既然 DeepSeek 的模型这么便宜，为什么还要为 ChatGPT、Claude 或者 Kimi 付费？ 因为梁文锋不想管 C 端用户（划掉）。 是也不是，DeepSeek 的确不在意 C 端因为这些产品卖的从来不只是一次模型调用。但反过来，用户在 ChatGPT、Claude、Kimi 那里买的会员，也不仅仅只是模型调用，还包括一整套被组织起来的能力：界面、文件、搜索、记忆、上下文、浏览器、终端、代码执行、工具调用，以及来自公司的持续维护。 这也解释了为什么「DeepSeek 便宜」不必直接推导出「梁文锋不想挣钱」，也不是 AGI 能否在 DeepSeek 实现，而是当足够好的智能变得廉价，AI 行业还会为什么东西收费？ 这个问题有一个反直觉答案：价值会向模型之外移动，谁能把模型接进工作流、让 Agent 稳定完成任务，积累用户数据、习惯和信任，谁就更有可能保住产品价值。 DeepSeek 越便宜，AI 产品反而越有机会。只不过，它们要迎难而上去证明，拿掉底层模型之后，自己还剩下什么；更进一步，它还要证明，当发动机越来越便宜，整台车不会因此失去价值。]]></title>
+      <description><![CDATA[<p>DeepSeek V4-Flash 正式发布后，我一直很困惑于一个问题：几个月前，它就发布了前瞻版，当时也可以用 API，但怎么到现在才火出圈？说是因为能力超强，价格却很白菜——难道这是第一天 Dee</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100184&amp;idx=1&amp;sn=c4cbc2d2f218334636c34cc620808d48&amp;chksm=bcee0ab1161f91699b3218b6eb8b4caf442b1dc6f1070ebb79725f7142b63bd8594b19ce82fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 16:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[价值 350 万的「提示词」开源了，揭秘全球首部全 AI 生成的电影长片]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfKK0nVhFEfiba4BDXZ5OxKFsmS53JRHmn6PCOfCibPvTYAgvKRib3dvk31ibxDYvrslmibVtYLJf2Hdnxmq14YtIS2IokKbQk5I7gnE/640?wxtype=jpeg&amp;wxfrom=0"/><p>电影发明以后，人类的生命，比以前至少延长了三倍。AI 电影发明以后，人类的生命又能延长多少倍。350 万元，115451 个资产文件，95 分钟，15 人团队，14 天的 AI 生成周期，一部完全由</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100197&amp;idx=1&amp;sn=53dbc1dbc5b6329c81d2df2b937149f1&amp;chksm=bcfee74b0924ff00677c899f6f16ddbe6bfb5f3505251e35b638562aa5f99003edb6cdc22d8d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 11:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLiaNrVM5BSXlfGRESaFUM9YDk4p0icN2qDar9picr2DUiawjrrpYYwMtNS1vGUTBIdDOlccPtcYaUMCfCoSl7TCgYxUQYHTPMibMFs/640?wxtype=jpeg&amp;wxfrom=0"/><p>一向主打只要卷不死，就往死里卷的 OpenAI，居然主动踩下了刹车。并且这次不是小修小修，而是直接放缓研发。事情的起因，要从 OpenAI 在内部疯狂炼丹的一个未发布下一代大模型 Astra 说起。官</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100216&amp;idx=1&amp;sn=00f522a06b5003f96ba64d676f799199&amp;chksm=bc5abf6303b624e4eb9d12976e03efa190879c836fed9b709ac5402423c2cc36645fb7beb0eb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 08:37:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 首款 AI 硬件，为什么是个没有屏幕的「甜甜圈」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLsXXibDz9qZrqLcLdNpnAibIibXsqHspjrcf2P1H0uF69tcYXZibgA85CRjBOI2jqgrr1vZfibEOJHjdJ9GQiakH3YLKDiaJm6cZV08A/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 的第一款 AI 硬件，大概是近两年最神秘的薛定谔产品。我们至今不知道它究竟长什么样，但几乎每隔几个月，都能收到一个新答案。最早有人说是智能笔，再后来，台灯、眼镜、可穿戴设备轮番登场。传闻</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100074&amp;idx=1&amp;sn=283b8c8db034bc73f28a09fcbba9d8cc&amp;chksm=bc67a078f01f09edc4dc0e15485f0b8894f87313b3505b2cbe0fd42fd185f14606c4bd6ca011&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLrRQ6sa2xYEPjvRTftebJskyA21tWrcaAEPnEq28XcXgZYZV3FG9R5QRFyJ4ZAMCTxxGsGMpXarY4z7JI5k5e2QILficly9gLs/640?wxtype=jpeg&amp;wxfrom=0"/><p>「加载」一个世界，只需要几秒钟的时间——在过去，这说的是一个已经可以游玩的游戏，里面所有的内容早已写好。如果一个从未被创造过的全新世界，也只需要几秒钟就可以被创造出来，里面具有独特、未曾出现过的环境、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651096696&amp;idx=1&amp;sn=fc37dce7eb846963ba2f7bf912290ab9&amp;chksm=bc86d183679c1687b3d589368f01c96875d48bc1bf65a863353a0b4123f34ae96f47e68ffaba&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Jul 2026 11:58:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[工信部提醒Claude Code后门隐患/马斯克发布Grok 4.5，对标Opus 4.8/华为天才少年回应DeepSeek面试争议]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfKzSm194vaWPNJ8vtswiaghTBktld17Waynl3zp4jwrlDZGkicpibwZeg56weNL4ibP8HPsyrdOoiaf6v0CmrLW2NZed17amXfyNERA/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔒工信部 NVDB 提醒 Claude Code 安全后门隐患📱GPT-5.6 定档本周全量上线🤖SpaceXAI 最强模型 Grok 4.5 发布🔥Claude Fable 5 免费使用期延长至 7</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651096666&amp;idx=1&amp;sn=b8e06da84e8638a6531da7fa24038683&amp;chksm=bc3a49390019d59ad34a54499029999895e998f10ef3a2e2160fd232d5845c8ae06b336103fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Jul 2026 08:08:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[那个当面把马斯克怼到破防的刺头，也离开 OpenAI 了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKy2hNxYaDIuQculLctpGicuVWliatAJ3w4SNTEzxANnGghnMibsVGqRdf27FYTdKjWzaRI1drddlYWboyTBIKvHUOzqiaiaHa714D4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年 5 月，加利福尼亚州奥克兰联邦法院，马斯克起诉奥特曼案的审判现场。OpenAI 的律师 Bradley Wilson 走向法官，递上一件小东西。那是一座小型金色雕塑，白色石头底座，造型非</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651096582&amp;idx=1&amp;sn=3abc6a8f9adf894c2da7e814f7b76d7d&amp;chksm=bc8d2dbcf656aea7854baa0bf4a7758997c3c9aee406dfa3b454a5384debc9c3dee8999e79da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 15:15:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Fable 5 极限续命五天，Claude 榨干指南请收好]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIKOJ5EMSemNCPnbZwxx7fpg4YunhczlNWmbINOWQoOCYWx09JiaHKPK9WVPH6Vy99yxGtqyDRcpywDSg1GLYrR4rLOQP0W90VE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本来以为一觉醒来，会看到 Fable 5 正式退出订阅套餐，GPT-5.6 接档发布，趁势抢走 Claude 的流量。剧本都写好了，但偏偏现实没照着演。就在刚刚，Fable 5 官宣延期 5 天，推迟</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651096536&amp;idx=1&amp;sn=e18aed4f84a1b0f892a514811a434be1&amp;chksm=bc49dd44150d94741b78731c8835a415843083d768e794df13ef4a01ee0a7243b5a3c2fb8616&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 08:58:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

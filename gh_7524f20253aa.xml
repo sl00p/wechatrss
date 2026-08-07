@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Kimi K3在安全测试中沙箱逃逸，直奔GitHub获取答案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fc9D317xjpMBZXvVgMvjmxUibSpzZicibFcnwFfOGwicjLAZExosrricu1hD9rZajibmpTbQqAIQ3xBHZ3DX1EXRibHYPibSoJmSibvlk/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《连线》杂志（Wired）最新报道，月之暗面（Moonshot AI）的开放权重模型Kimi K3在一次网络安全评估中突破了隔离测试沙箱，成功访问了开放互联网。这起事件由美国初创公司Frontier</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=1&amp;sn=14f19c00c22260fabcbc34689d7ef2e1&amp;chksm=bc0550d4c423187f2e63acce6b6fa69c23d39e8b453175a17c2fbcdc15a4df0d43bfc2420a43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Chrome版Claude曝高危提示注入漏洞，可窃取Gmail验证码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3PyibMm0EVribC4Ve4z6gCHuqpvicjSjtS85WkMiaF6AUz24Jiad6d3fde2qmIFIerW79xE8HiaMGbQTCOHmotBEwAFzZCG5a3AVGdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Chrome版Claude存在一个间接提示注入（indirect prompt injection）漏洞，攻击者可以利用该漏洞窃取邮箱验证码，进而劫持Slack、X和Claude.ai等平台的账户。攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=2&amp;sn=fd07d355f1f1f3f73875bdb16a628a16&amp;chksm=bc5c6004e0180c833b071d57a4f842c3e9b8e667bd45f93175c6aed9c485b17ae0ffa4930e09&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Mythos 5与GPT-5.6-Sol突破网络测试边界；Ruby on Rails曝出严重漏洞 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖 Mythos 5 与 GPT‑5.6‑Sol AI Agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=3&amp;sn=e3b7c5d8d306aabae7d8635d4395662a&amp;chksm=bcee32260aea73d0720fd535a189d90321d7c42c01ee4c79d01609d67bb9672d807f79ab9ba4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI在美国黑帽大会上首次完整披露AI自主入侵事件]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1xd8NHCOIB6bON8GIhzmROjC1CdcVqA8elVEZrK0nKXnzbEVyETv0pV2icXEHvLLmODEY7auKSxW0BSCIdHfeCiawAm1mRlkQ5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent自主发现漏洞、绕过网络限制、共享攻击方法，甚至在通信渠道被切断后重新搭建了一套新的协作方式，这并不是一次概念验证。在Black Hat USA 2026大会上，OpenAI安全研究员E</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=1&amp;sn=43ecdfebef9f9c64a0976f61242a4c97&amp;chksm=bccb9e33b252c19088d2839677c4e97b9c80cde17e71c67ab7856ba1cdf538a83932404f2d27&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2CHn552HJcNQ7dqH5SiaD4atO31Z6gdwaypzJQEXZaMF8eC8fvGEMqtmSnbKvicGRGFNg08WtLXEEjUV56Cic6F011QZje1wLaCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已发布安全更新，修复Windows远程桌面协议（RDP）中的一系列信息泄露漏洞。攻击者可利用这些漏洞，在远程会话期间从系统内存中读取敏感数据。这些漏洞影响广泛的受支持Windows客户端和服务器版</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=3&amp;sn=a80cc1fcc887016b94101e02d6f04fd5&amp;chksm=bc77499c157f8b989dff9bb2b0c8f495da900e8839b0b634622cf739e3b41c0da59e9326cb0c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 12:41:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[严重Cursor 0Day漏洞，恶意Git仓库可自动触发Windows代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3JsibjwKNbcvahUgQIHhwL6iblPgdP7cRhM25vkASs8Y8okp2krsgmPWYDicqOk4wRvtJxJol16QHRYFclyj9CqL0TbFVkvicVcsY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01打开仓库即中招在Windows上通过Cursor打开一个仓库，如果项目根目录中有一个名为git.exe的文件，Cursor会直接运行它。无需点击、无需确认对话框、也没有任何关于文件夹中即将</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=4&amp;sn=bad6e0bf46b9d286942a5918b9d3f381&amp;chksm=bc11c2c634d9da2eb4d60a2300a1f2ea71cb6c853983674277faebcb4a6472a16f32beca664a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:41:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026世界人工智能大会“AI产业技术安全生态”论坛亮点抢先看]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1vqRsibjmicqicbMnDpPMCldUFN9nYXOPIiatpYqPVv2WVqqNxmwfoEnAKuP42IhhmTGqCm34EykeQFFCvTgKeuN6GI42JfibPS8To/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342676&amp;idx=1&amp;sn=33d01cb6a7be92dc0edab58a34549a48&amp;chksm=bc36fc0d46a5d6e4dc9b1b79155d5bbbc5cf5faff8bd2ad2a36e38655799b6e2ed5da3047fd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软发布创纪录的622个补丁，包含两个正被利用的0Day漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0gzVxsXfzYvdryR9vPuheS9nRo611hoACM2rL34HLdGsy0S0Qd395e5SDFwEdBI61qamqMsBluZ7qWMusxgDhnBfBmhg2NaWQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软今天发布了其史上规模最大的Patch Tuesday更新，其中两个补丁修复了攻击者正在利用的漏洞。根据微软安全更新指南统计，本次更新涵盖微软自身的622个CVE，是此前6月约200个纪录的三倍多。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342676&amp;idx=2&amp;sn=a1f2c1fb55e26961c53d59aca0b74b3e&amp;chksm=bc9110a6bc4c551180334d9e462ad48c563225b70d64a590f2b8838faad118f2562280ccc9a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 12:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

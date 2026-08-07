@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[微软刚开源了 1 个神器：录一遍操作，自动学习内化成 Skill。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3Aj1fcLwENpiaa4Y4mfUr9gWw7bRW6vPvzRWUUrTt2mxRkibWjEiaw2XC9nHmKKgJGKS1D8nqicxwA4em2aytOzvlETKibnicmAoTmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>写 Skill，本质上是在把你一套熟练的工作流程翻译给 AI。很多人在写 Skill 时，会先列出一个大概的执行顺序：第一步先干嘛，第二步调用什么工具，第三步检查哪些结果。然后让 Agent 试跑一遍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535843&amp;idx=1&amp;sn=9b1a388391a85d00b267f2f9084a5225&amp;chksm=f889466fa08997223bfa0a54d43d1d13988bad8ba1f273afdf92a199d7d381bddbce861477e2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 08 Aug 2026 14:35:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 4000 星星的桌面端 Agent ，每天 3000 万免费 Token。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0G6hx9GjYZUl0OUhFc4Ire2cB9cFFgWRibFBjG9r9xC8Fibae42gicbX69goMEeicfIV7RUw7djR2ia4BoS9jJoIBfsvCNbPfcF0ao/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前我介绍过 MonkeyCode 这个开源项目。这个开源项目发布以后一直在更新。从最初的 AI 编程平台，到移动端、私有化部署，再到最近上线的 MonkeyWork 桌面端，它的使用范围已经越来越大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535831&amp;idx=1&amp;sn=f8ad4f1272911a634b2dc2638a187a30&amp;chksm=f822d5461b021b3362de7a12f17bae465bf7b10457f253bb0a042f32474de197800ebc90b751&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1CtlO3q0VOok2micpN4EOZQiaryuhib5zxcdWlzAtLWzKHbZFkz70zqabGpGj3NF9h4fa54mBjy0VgyMHmiay6TLafibxOk1BiavHIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前给大家介绍过一个开源项目叫 PinMe。它能把你做好的一个静态网页、一张图片、或者任何本地文件，快速变成一个谁都能访问的公网链接。对于自己做好的可视化网页，想分享给其它人看，用这个特别方便。最近它</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533854&amp;idx=1&amp;sn=6995478769c7e6d65f5db5d87a77e81f&amp;chksm=f832a9827a3b5a0c398baf9ed5ed91f03631ea9d291771e93e29d254a7f399d8c0abbc44bbb0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 14:51:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0efp8zq1Sic1oSYsHzictzbZafwmxqKOANVbN2Tkb04hhAA6hOyBkms4QiaUd0BZkIFicGF3ibCgMGc6JqHdZMRTU33ibYfwp7u7L6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天 Karpathy 发了一条推，说自己正式加入 Anthropic 了。OpenAI 联合创始人，特斯拉前 AI 总监，斯坦福 CS231n 主讲人，Eureka Labs 创始人。兜兜转转，最后</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533852&amp;idx=1&amp;sn=441378ed031a16a340915fb7c7d69cc6&amp;chksm=f8c1692a339cb644df1e2639e5b11e7e4aa39e0e6f743583b63c995e349bc01654b034a846e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 13:19:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
