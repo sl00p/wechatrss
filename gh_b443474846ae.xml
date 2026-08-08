@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgZKiaU30YqnfJ0iavcCp0r8OmOvhR4VBDeFTtHicH1aUEw45Fo3NibeTjwOdxrhOqX836uia8hfiaotumzQuLjQBVMydU2tlu7gkaXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 本周，Rust 项目中的五个团队已经正式采纳了一项关于 AI 编程的新准则，用来规范贡献者在向 rust-lang/rust 提交代码时，应该如何使用大语言模型（LLM）。rust</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290438&amp;idx=1&amp;sn=6b5ae24297b3106a5ee93b5ed3725627&amp;chksm=bc710de63f8434e62dfdd0c852d6ef0be1206451cd2eff299a8a93d369ccdec2ed938fdb64fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[国产顶流开源模型狂飙背后的“安全裸奔”：漏洞复现达76%、高危指令零拒答]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgxbuE3NWv1hOXbM2zQ3POCh8oo6nbRXSE1RrOEqkhO0a9hzmhTBu4kT2BEeNNGbMZ8iaOADboCVceynQA8mBwOogiaor2tnLN64/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月随着智谱 GLM、Kimi 等一系列国产模型加快追赶与开源步伐，开放权重模型 vs 闭源前沿模型 之间的能力鸿沟，正在从“代际差距”迅速缩短至以“月”为单位的微弱领先，这自然是喜人的发展</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290438&amp;idx=2&amp;sn=ea6070133e0af9a8c9dbd77c9b0ed47b&amp;chksm=bce1917b568c7f0e3530d13fa861196069f53054b44df6124641bbaadb2dcc02b6ec517f11e7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 根因分析从模型推理转向上下文工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNje8eTPheB3MgFeCBMojuQCkbWW667my5jCBxPAsY00LnJ4pGeEJNoJoBJBiaNicGg8uaC2b4SvVTBHda0vbCQoBmuN2f2ica5T8I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Mark Silvester 译者 ｜ 平川 可观测性工程师中有越来越多的人认为，大语言模型的推理能力已经不再是 AI 辅助根因分析的瓶颈。当前更棘手的问题在于决定哪些数据能传入模型的处理流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290438&amp;idx=3&amp;sn=53a685c4c805d81a8d721e6151fe5efb&amp;chksm=bcc06aae614c20ea3bd8f69b736467f29b119044a16db931d8ed67168dc7b9dd002868106e55&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Java 近期新闻：简单 JSON API、JEPs for JDK 28、Oracle CPUs、Embabel 1.0、Azul Payara、Helidon]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhhG9ybMCP7nibicnsVPsn6HL6ouWl5gWay2kLa8rcsZjzfVJ9IQicIwKPU4BpgEGyv8dvQLfqnafiakF1NF9y8YeLricQxWsgic6wlk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Michael Redlich 译者 ｜ 平川 OpenJDKJEP 539（JVM 中的严格字段初始化预览版）已经从候选阶段 提升至 Proposed to Target 阶段，并计划在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290438&amp;idx=4&amp;sn=896fd7ccc8e5e19b90a4802991631801&amp;chksm=bc2c0556874663b1436b909c7bbc0b6f01464d4d9c421b9bedeb1d7b9b106631f3441221af8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MiniMax H3 团队 Reddit 上回应一切：2K 要开源，图像模型在路上，Apache 2.0 也在考虑了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgMx8eLTAbPkPuXHgoAN8Y7nsCrO76BdI38m9ye2OpCjmyibCL5azWICVFKQ6DdpB4PtIevVmjv0ub8U3ub1arT0eKRlJCb5JzQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 开放权重之后，开发者最关心的几个问题，终于有了官方回应。8 月 7 日晚上 10 点，MiniMax H3 团队来到 Reddit 的 r/StableDiffusion 社区举行 AMA</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290412&amp;idx=1&amp;sn=bbef927bcf511bc49a04bdad0f7715bb&amp;chksm=bcebf6fe5ebd77c23ddea36ab19413dccce70d1dcda889026db086416b85368509eadc05309d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhPQg73EZS0egYibu2BZCLbC7VYb7LYXNFu2E4kPmOvudibrYyWFJ7wGPkmFUFDUIL9icQ2aEiaYGRQiceaLztXZyATxlgl4YIeoAUc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 明知山 Linux 基金会正式发起 Akrites 倡议项目，这是一项面向全行业的全新倡议，旨在保护全球最关键的开源软件免受快速演进的 AI 驱动网络的威胁。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289128&amp;idx=3&amp;sn=250e458db026191cd9eafcc8dffb3ad4&amp;chksm=bc9b832136a8f95b8e16d8bf214e5a9aea85eaf4e0ec6bb26fcb3d37051e23de51d54dd3908c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Jul 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhbgIOGkQ1AicWn36AIWdfsQSy0McWrXRfxAT39Y58kZBcUHsCVjZr9agz0qpCiaKGiaiarQtbjVdCjkyR213DCaFqmbU9bMxPu8vk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 明知山 Stripe 推出了一个 基准测试套件，用于评估 AI 智能体是否能端到端构建完整的 Stripe 集成方案，包括后端服务、前端应用和浏览器端结账</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289128&amp;idx=4&amp;sn=80b1ce529cbad1f9b3fa9c74cb409f58&amp;chksm=bc14a570da611e44cff59a7871d2128e761d18055e400e777d6ad54107c957afbaa336b09a2f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Jul 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[专访孙元浩：乘坐星环号，把数据库“移民火星”的人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7UEQ15Zx5P4GEIQTwelialkJaRmSzRwuvpK3ZWJuoFDUrIY4Vib0qMHehzeQWKR4Y5I5XRw9kSD9iaDJZgGy1boFbmc6WibwtO0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>“把数据库迁到 GPU，就像移民到火星。”在 WAIC 2026 的现场，星环科技创始人、CEO 孙元浩口中的这场“火星移民”，正随着其面向 AI Agents 的 GPU 原生认知数据库预览版的发布</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=1&amp;sn=64e22b21af7d871928d702fa1e13336f&amp;chksm=bc81f8b9e741a756fe063ebf35dfe663d937af9cf41ca8051e231c7456a586f156a587f89626&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjM3xpBPLoibJMj1V7Oq7G0awI702QMwgXvzJdvIV0L4gxSr3afic4BrEEXCEbbCDOia6tYQdY3xaMeewMdkujC1QjPJCe8GIiaiaKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jiuwen Symbiosis是一个能懂人话、看得见物理世界、控制四肢执行的Physical AI Agent。用户不需要示教，只需像指挥一个经验丰富的工人一样，用自然语言下任务，它就能自己完成感知</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=2&amp;sn=d8c0cf352b1242affd3fa80a57e44d4b&amp;chksm=bc73478414a26f41464a9b16c16d0490d923e1a6067ded25876cf8b5c4f5799f435046ffc271&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不打榜的美国开源新王Inkling：975B原生多模态、仅用 1/3 Token 追平英伟达]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhddY0SWkc9GK8yZQqDibO0bic63UKibu5kquLvG45GEjibIIL7JNa8Dv3LJs19icYlOcwVnrsB2FNk8BibBeJVXGYZ6TAACa6vCxDdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月时至今日，全球大模型格局已成定数，还有必要耗费巨资从零开始训练一个新模型吗？由 OpenAI 前 CTO Mira Murati 、华人研究员翁荔（前 OpenAI 应用研究 VP）联合</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289108&amp;idx=3&amp;sn=198c482bd50260d94cf0191500c143bc&amp;chksm=bc75126663867e2301835f36e040efb4698e80c95a494b185be58ae20c864ad927ac30ada8c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 13:48:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

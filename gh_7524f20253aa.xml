@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI自曝新模型逼近严重安全风险线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CjlPyOocH7HV56eTMkgPLWo6NRmTicgtBJXLIYvspFibY2zQnPlu16Vf8PicMicPJzLhShmuggoan8h1GDCKMd49opfJrkCSGDmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Astra评估逼近Critical风险阈值OpenAI宣布，将有意放缓其即将推出的前沿AI模型Astra的开发进度。此前内部评估显示，Astra在Agentic Coding（代理式编码）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=1&amp;sn=f15618cdafcdf2c23b5aea604a0dc07a&amp;chksm=bc03464998c75985ed0bd969d57324fddf79c2ce492cc9850da0db950a60e31af1ef581d8911&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[木马化AI Skills渗透Agent生态，安装量突破170万次]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0xkZY8Kfib5dqiayKKzF709dicE8XRicAicuOXqtiaeGqeDficOxp279Fb0pdMkK5NF5yPYszibKZ5yeEia3auxNQWQnjgvAbPpyc7ayPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现了一场极其有效的攻击活动，攻击者将AI Agent skills木马化，以部署凭据窃取器。该事件是日益增长的趋势的一部分——攻击者通过污染可供共享的Agent工具指令和配置文件，将矛头对准</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=2&amp;sn=164297023550204f50fcd51dbd6f8e6f&amp;chksm=bc0e642a530591d83a927291dc33131f899051b7cfc78c46702e9c2c9a82b5f369433a647e0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：商业安全大型BLM；Fastjson2现远程代码；字节跳动开源DeerFlow]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0KUdKFqiaNF1d3VBCxlXbpYrMMzsVlH1Z0BVtlnsx8IyrdJkcFe5DxNRbmFg1vf2HD1WBWvJg3Q4NA72tKh9a7YMYD7lxCo2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=3&amp;sn=7ffea68c0f884a10cdd1105cbaf5876d&amp;chksm=bc1eb83f31322d488987435a3bec1acd51abfdfd304a07a1f88a9841fa496bdd293daa1fcac1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3在安全测试中沙箱逃逸，直奔GitHub获取答案]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fc9D317xjpMBZXvVgMvjmxUibSpzZicibFcnwFfOGwicjLAZExosrricu1hD9rZajibmpTbQqAIQ3xBHZ3DX1EXRibHYPibSoJmSibvlk/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《连线》杂志（Wired）最新报道，月之暗面（Moonshot AI）的开放权重模型Kimi K3在一次网络安全评估中突破了隔离测试沙箱，成功访问了开放互联网。这起事件由美国初创公司Frontier</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=1&amp;sn=14f19c00c22260fabcbc34689d7ef2e1&amp;chksm=bc0550d4c423187f2e63acce6b6fa69c23d39e8b453175a17c2fbcdc15a4df0d43bfc2420a43&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibaPzsOWh4wrTD5ggrdqibCrHV4m1J5icnQWiaIUUM5aMqku6HV7EXVtorVbBACwW0iabRLUycUCtH40AyJW2ZCtJw2Pjozu5vqg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）正在改变进攻性安全领域，但它并未改变最重要的标准：一个发现必须经过验证才能发挥作用。AI辅助工具可以快速读取代码、生成payload、总结攻击面、解释陌生的API，并以惊人的速度运行重</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342781&amp;idx=4&amp;sn=77f01fc27a9350b54912b8bc85696b39&amp;chksm=bc4b1c8a29ae64e4fe69b7fe35480ef8dd48d31498884447d1e030cdb48e0ff59981d400dae1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白宫启动“金鹰”计划，用AI加速漏洞修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1oFpzta68QBIV8BttOKvg9JVHicrhfLIxZgmzIAm8tGwtXiasSc0Pe91nrBDdqTCDQOnyDaq1mIlRGHk6IH7jpbK5WR2mfCMRc8/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国白宫正在将人工智能的应用范围从网络威胁检测进一步扩展至漏洞管理领域。近日，白宫宣布启动名为“Gold Eagle”的网络安全计划，拟借助人工智能，对分散在联邦机构、关键基础设施运营商和开源社区中的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=1&amp;sn=d8896d37d5a5aa4b657dce81768915da&amp;chksm=bc3053b4659ab6bf6ba4d6ba93dd2974ddd585ee3be63a6ca91381d5c2525135309214fe7d2a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:41:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[仅用六分钟，黑客借助Gemini CLI自主构建并迁移C&amp;C僵尸网络]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1hNiba8Loj4eU8ZzCkLDDuiaeuBQjL80LodtJPNQofJxWv9h5ofadJBU3Nql8x0fhQJNJcla37oI2qwnvFdf3LZicicYT2iaqAibfb4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名化名为"bandcampro"的俄语威胁行为者将谷歌Gemini CLI AI agent武器化，用于迁移、部署和运营一个实时的命令与控制（C&amp;C）僵尸网络。值得注意的是，攻击者仅用六分钟就完成了</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=2&amp;sn=76ff0f28b465564d0b099ec95743fefa&amp;chksm=bcf07da1046ab7515efec96ef186055a3d44bd4bfafd063403f4bec0fef6c6f07a3d90eeb06a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:41:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多个Windows RDP漏洞可致攻击者访问敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2CHn552HJcNQ7dqH5SiaD4atO31Z6gdwaypzJQEXZaMF8eC8fvGEMqtmSnbKvicGRGFNg08WtLXEEjUV56Cic6F011QZje1wLaCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已发布安全更新，修复Windows远程桌面协议（RDP）中的一系列信息泄露漏洞。攻击者可利用这些漏洞，在远程会话期间从系统内存中读取敏感数据。这些漏洞影响广泛的受支持Windows客户端和服务器版</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342732&amp;idx=3&amp;sn=a80cc1fcc887016b94101e02d6f04fd5&amp;chksm=bc77499c157f8b989dff9bb2b0c8f495da900e8839b0b634622cf739e3b41c0da59e9326cb0c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 12:41:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Opus 5 手搓 3A 级游戏爆火，卡帕西泼了一盆冷水｜附提示词]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJwyNfEaEKwaM3vBDa7r3pBtf1af2GialOVFwXFwPY9m3N77DGwpibS7G7r8O9EqFxr7icOZjJtnnDMIkW9SDdJPR7TOiclg6G7vK8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份提示词，烧了 6.9 亿 token，花费 423 美元。Vyom 最后得到了 Wave Racer，一个自带物理引擎的赛艇游戏。这款游戏基于 Three.js 构建，带有细胞着色渲染风格，赛道是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100185&amp;idx=1&amp;sn=59b1921f81eba4beb21b7c134562dcf4&amp;chksm=bcef8795d736d0b2b4b3c08f97ca24c99989b20e0f479a5fc314d67d161f4e54215b8b050093&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 17:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[马斯克要让 Cursor 「消失」了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIsjvB4ZwqAS6w9tiauvz1eHJkVg3SSuU5qxODia6riaoXw6Haeum8udn4iaxz3pXFau2X3QN0NMiaGaLqvQzMxkvFzrjyMjBDJ3eA8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor「消失」，进入了倒计时。据 The Information 报道，就在当地时间周四，知名 AI 代码编辑器 Cursor 召开了一场全员大会。高管在会上向全体员工抛出了交易推进的最新时间表</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100242&amp;idx=1&amp;sn=ab644a9a2fa02d61247df99cb2060883&amp;chksm=bcdcc8f2670f7b5d1d723cfd7f381138eea792b6ddb8bd7ca69fdc6b704d8a6ce6cd14016476&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 11:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果官网撤下国行AI千问手册/曝诺奖得主哈萨比原计划离开谷歌/DeepSeek被一道几何题卡死｜ Hunt Good 周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIaGIDxDan0ARiaXjaxQA9zfvicYhkhDenA052bj5FKonGM4ebDpV4xroLYsWsK35UL386uPstic15qLTu4QibpqyO66qx7vMUkK9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎收看最新一期的 Hunt Good 周报！在本期内容，你会看到：10 条新鲜资讯3 个有用工具1 个有趣案例4 个鲜明观点Hunt for News｜先进头条🤯一道几何题，让 DeepSeek 想</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100240&amp;idx=1&amp;sn=2e6d10a949ed48eec2cd29d3ac1d6d6f&amp;chksm=bc71d7d44d4016e0ccf2ce96ab4327ef112d2f10b877e51e4fa944260fc601c1a0bcb9ee1163&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 10:24:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek V4-Flash 正式发布后，我一直很困惑于一个问题：几个月前，它就发布了前瞻版，当时也可以用 API，但怎么到现在才火出圈？说是因为能力超强，价格却很白菜——难道这是第一天 DeepSeek 干这些事儿吗？ 以 V4-Flash 的 API 价格是每百万输入 token 0.14 美元、每百万输出 token 0.28 美元计，支持 100 万上下文，兼容 OpenAI 和 Anthropic 的接口格式。Artificial Analysis 近期将它称为知名模型中成本最低的一款，平均完成一组测试只需约 0.03 美元。 但这类测试通常不只考模型，模型需要被放进 Claude Code、OpenCode 或其他 coding agent 里，获得文件系统、终端、浏览器、截图反馈和反复修改的机会。最后的成品，是模型、harness、工具权限、提示词和反复重开等等操作，共同完成的结果。 DeepSeek 官方自己也把 V4 定位为面向 Agent 的模型，并强调它能够接入 Claude Code、OpenClaw 和 OpenCode。换句话说，它从一开始就不是准备独自完成表演，而是准备进入别人已经搭好的工作环境。 也是在这里，V4-Flash 真正值得讨论的变化出现了：过去得用昂贵头部模型才能提供的一部分能力，现在正以更低的价格、更标准化的接口被提供。 这些未必就直接威胁了 ChatGPT 和 Claude 的订阅，而是它们越来越不能只靠一句「我们的基座模型很强」，来解释收费。 然后才是那个很多人因此会自然问出的问题：既然 DeepSeek 的模型这么便宜，为什么还要为 ChatGPT、Claude 或者 Kimi 付费？ 因为梁文锋不想管 C 端用户（划掉）。 是也不是，DeepSeek 的确不在意 C 端因为这些产品卖的从来不只是一次模型调用。但反过来，用户在 ChatGPT、Claude、Kimi 那里买的会员，也不仅仅只是模型调用，还包括一整套被组织起来的能力：界面、文件、搜索、记忆、上下文、浏览器、终端、代码执行、工具调用，以及来自公司的持续维护。 这也解释了为什么「DeepSeek 便宜」不必直接推导出「梁文锋不想挣钱」，也不是 AGI 能否在 DeepSeek 实现，而是当足够好的智能变得廉价，AI 行业还会为什么东西收费？ 这个问题有一个反直觉答案：价值会向模型之外移动，谁能把模型接进工作流、让 Agent 稳定完成任务，积累用户数据、习惯和信任，谁就更有可能保住产品价值。 DeepSeek 越便宜，AI 产品反而越有机会。只不过，它们要迎难而上去证明，拿掉底层模型之后，自己还剩下什么；更进一步，它还要证明，当发动机越来越便宜，整台车不会因此失去价值。]]></title>
       <description><![CDATA[<p>DeepSeek V4-Flash 正式发布后，我一直很困惑于一个问题：几个月前，它就发布了前瞻版，当时也可以用 API，但怎么到现在才火出圈？说是因为能力超强，价格却很白菜——难道这是第一天 Dee</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100184&amp;idx=1&amp;sn=c4cbc2d2f218334636c34cc620808d48&amp;chksm=bcee0ab1161f91699b3218b6eb8b4caf442b1dc6f1070ebb79725f7142b63bd8594b19ce82fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLYsgicYhVkVcicHPcn30n0fbPX5jYwGicHtKpodBZgpibibRV3sEtQ2FfJbAx5zMnmpTyiba2kiaWia8Yj2DSbuzoYk4iceicVqlFF3czR0/640?wxtype=jpeg&amp;wxfrom=0"/><p>📆曝苹果 M8 系列 2028 年登场，制程升级至 1.4 纳米📦曝苹果计划由英特尔代工 iPhone 芯片🎛️海力士 CEO：内存供不应求或持续至 2030 年🌐马斯克奥特曼再次公开对垒：互相指责对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651097064&amp;idx=1&amp;sn=e88d84c8f6a5c323c921b806307f614a&amp;chksm=bcc6e2f125facd2a58b05d77b61fb802b481e516d42662a7127486d1663979a9e8b34e32da6a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 08:24:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[离谱，这家务机器人的手能给我也装上吗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKjwXA24lbNSDMrInB28q8hAaDdPUnBgEoZqCWJrVxWqJ5YmdTobmKMs7ibUWmaL9GPMTQd9fxo8AgsHqk8Rneow9RdEFjUfLKs/640?wxtype=jpeg&amp;wxfrom=0"/><p>说到具身智能，人们的想象普遍都在「赛博猫娘」和「机械战警」之间摇摆。而生活化的「家用智能机器人」往往因为不够酷炫而显得格格不入。然而正是在家用具身智能领域，我们迎来了 2026 年第一个可圈可点的产品</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651097053&amp;idx=1&amp;sn=c7ebd137d2037e3d5e3a3c03b971dbaa&amp;chksm=bcc598ba9e32a75611acf194af1a905a8535263cdf96d132bab36f4f222ee3f0a3b417feb23f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 15:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[63 道地狱级难题实测，GPT-5.6 把其他 AI 甩开了一截]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKiajcFmrribXIqjNU7nYicFbgH7T9Y63fLBo2Jib8MPB7dzxfnNsy57wQVwsGjgudRp7sXhYXCJkQZ5DWkGbchhpdmbDVxvBhCFpc/640?wxtype=jpeg&amp;wxfrom=0"/><p>不出所料，GPT-5.6 发布的同时，把 Codex 也「干掉了」，取而代之的是一个包含 ChatGPT Work 和 Codex 的 全新 ChatGPT 应用。但是你仍然可以选择保留 Codex</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651097049&amp;idx=1&amp;sn=cdb3400751294f2d19fde23c70cb29b3&amp;chksm=bc61151df7b125d1af9b9082d2264e3761bb6a3f06a83397e86978d00338f1982c1864ca99d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LingBot-World 2.0 实测：无限时长、随机变化的世界，终于来了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLrRQ6sa2xYEPjvRTftebJskyA21tWrcaAEPnEq28XcXgZYZV3FG9R5QRFyJ4ZAMCTxxGsGMpXarY4z7JI5k5e2QILficly9gLs/640?wxtype=jpeg&amp;wxfrom=0"/><p>「加载」一个世界，只需要几秒钟的时间——在过去，这说的是一个已经可以游玩的游戏，里面所有的内容早已写好。如果一个从未被创造过的全新世界，也只需要几秒钟就可以被创造出来，里面具有独特、未曾出现过的环境、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651096696&amp;idx=1&amp;sn=fc37dce7eb846963ba2f7bf912290ab9&amp;chksm=bc86d183679c1687b3d589368f01c96875d48bc1bf65a863353a0b4123f34ae96f47e68ffaba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Jul 2026 11:58:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

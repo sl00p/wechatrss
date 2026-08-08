@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[语音 AI 爆发了，这 3 个 GitHub 开源项目建议了解一下。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0ur6gLQdUXkY3NGoXD2PQqjOLXwVR5GHaZqvS0wflf1PqB9icpAia4Nadt6khNia9F0IQsFOuPtnsrsAHLysPvYX8h0Y6AgYq7Vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个网页，把字幕、翻译、配音全包了做一条多语言视频，很多麻烦都来自工具太散，每个步骤本身反而没有那么难。先下载视频，再分离人声、生成字幕、翻译文本、合成配音，最后还要把素材重新对齐。Voice-P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535880&amp;idx=1&amp;sn=56685f002d64ecd9a0823ca6864eb13c&amp;chksm=f88725299545410a6d1178219c3db55822aa15f3f8732ec8f2c9dd5924961c0ae5240841f271&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 09 Aug 2026 16:40:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[微软刚开源了 1 个神器：录一遍操作，自动学习内化成 Skill。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3Aj1fcLwENpiaa4Y4mfUr9gWw7bRW6vPvzRWUUrTt2mxRkibWjEiaw2XC9nHmKKgJGKS1D8nqicxwA4em2aytOzvlETKibnicmAoTmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>写 Skill，本质上是在把你一套熟练的工作流程翻译给 AI。很多人在写 Skill 时，会先列出一个大概的执行顺序：第一步先干嘛，第二步调用什么工具，第三步检查哪些结果。然后让 Agent 试跑一遍</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535843&amp;idx=1&amp;sn=9b1a388391a85d00b267f2f9084a5225&amp;chksm=f889466fa08997223bfa0a54d43d1d13988bad8ba1f273afdf92a199d7d381bddbce861477e2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3etMU961IBKfFccfxLK1XFgwkws9MibQtYR7Enfll89h061UyrIgXgjyM0icoxKYngrQ6VqWObmECjQbZR70qU2PW1tzQ42nM8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-5.1-HighSpeed 来了，每秒 400 token。很快的同时还很强，太顶了。。。一手测评，先来看看效果。我在 Claude Code 里面配置了 GLM-5.1 和 GLM-5.1-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533878&amp;idx=1&amp;sn=c8ecc5c7d91dda9355eda9c51c87f2b0&amp;chksm=f838b8b1d4996f44b123e8825b39dccc7ecbbf2f1a5a591b5cf7e7e47f22f43ecd05b13612b0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 11:51:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 神级 Skill，一句话把你开发的网站发布到线上。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1CtlO3q0VOok2micpN4EOZQiaryuhib5zxcdWlzAtLWzKHbZFkz70zqabGpGj3NF9h4fa54mBjy0VgyMHmiay6TLafibxOk1BiavHIw/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前给大家介绍过一个开源项目叫 PinMe。它能把你做好的一个静态网页、一张图片、或者任何本地文件，快速变成一个谁都能访问的公网链接。对于自己做好的可视化网页，想分享给其它人看，用这个特别方便。最近它</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533854&amp;idx=1&amp;sn=6995478769c7e6d65f5db5d87a77e81f&amp;chksm=f832a9827a3b5a0c398baf9ed5ed91f03631ea9d291771e93e29d254a7f399d8c0abbc44bbb0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 14:51:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
