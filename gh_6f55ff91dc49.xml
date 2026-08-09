@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[在 Codex 中用这 4 个 SKill，让你拍的照片变高级。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1B6A89sJKR10xNa06y4lWUUackl5QmGnECricdKqTaMRf5jQhEqOqsL5WCh091DkodcOkgEI7XvnYAsaOlVbyBBJHhtdH8MAeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01生成极简风格的海报旅行随手拍、一段文字或一个物件，都可以用 gc-minimal-zine-poster 做成竖版 zine 海报。它支持输入主题、句子、物件和照片。这个项目目前有 4000 多</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535897&amp;idx=1&amp;sn=53e39a4647f656d4b52ebd1787d022dc&amp;chksm=f8cca8b98f805b9dd1b2c0f0046786b44a02e2ea665b99b4935bb6180182aa634f36265103cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 16:21:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[语音 AI 爆发了，这 3 个 GitHub 开源项目建议了解一下。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0ur6gLQdUXkY3NGoXD2PQqjOLXwVR5GHaZqvS0wflf1PqB9icpAia4Nadt6khNia9F0IQsFOuPtnsrsAHLysPvYX8h0Y6AgYq7Vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个网页，把字幕、翻译、配音全包了做一条多语言视频，很多麻烦都来自工具太散，每个步骤本身反而没有那么难。先下载视频，再分离人声、生成字幕、翻译文本、合成配音，最后还要把素材重新对齐。Voice-P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535880&amp;idx=1&amp;sn=56685f002d64ecd9a0823ca6864eb13c&amp;chksm=f88725299545410a6d1178219c3db55822aa15f3f8732ec8f2c9dd5924961c0ae5240841f271&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2YeiaM4T2icaTOje1A49GwKP5p5Z3fBs3qRaCfemMwymicyrLMd7rzuGuOwlynrQrUN6Mnk6lj8AeedoSD0FHicdPmfqics5jGcuHo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01几分钟就认识你的 AI 桌面助手AI Agent 现在都有一个冷启动问题。你装完之后，它对你一无所知，得花好几天甚至几周慢慢教它你是谁、你用什么工具、你的工作流是什么。OpenHuman 是一个开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6&amp;chksm=f81f5657e772d4004e589298025f06761d48df1c477a97cf05de693eeb8fa8770d9af8d6d186&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 23 May 2026 14:22:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚， GLM-5.1 高速版来了，真的太快快快快快了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3etMU961IBKfFccfxLK1XFgwkws9MibQtYR7Enfll89h061UyrIgXgjyM0icoxKYngrQ6VqWObmECjQbZR70qU2PW1tzQ42nM8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>GLM-5.1-HighSpeed 来了，每秒 400 token。很快的同时还很强，太顶了。。。一手测评，先来看看效果。我在 Claude Code 里面配置了 GLM-5.1 和 GLM-5.1-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533878&amp;idx=1&amp;sn=c8ecc5c7d91dda9355eda9c51c87f2b0&amp;chksm=f838b8b1d4996f44b123e8825b39dccc7ecbbf2f1a5a591b5cf7e7e47f22f43ecd05b13612b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 11:51:43 +0800</pubDate>
     </item>
   </channel>
 </rss>

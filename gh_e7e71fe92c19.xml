@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Kali 下 Android Studio 无法输入中文的问题排查与解决]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K360eLv84eLg5xJdz2aic8rwCzusY0BXxmOibybaTkf4u41wicabtVzj5UssicO6NtpTqUiawBI613HBQpnywuVXfNKxak7PnyXmAOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 Kali Linux上装了 Android Studio，配上了 Claude Code 插件——这个插件能识别我在编辑器里选中的行、选中的文件，直接把它们作为上下文喂给 Claude。于是在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=1&amp;sn=b445b8909b73c5c33e80ec7bbf7d351f&amp;chksm=b09b20e23678ef9e925c4452458e5cf5485146c9a74dcc90e0ec4e1dc933d3aefe4f539f5014&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code被利用，Mac设备生成反向隧道实现持久驻留]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0y1ibGribicvibzZt2bqBqUx7ialLwMbrS3ia8PLicylr9icMFiapZFBicESFwfnicqvHZ5DUsIbVjralLSicmdfWcibJIKugq42FCoTkMR3QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当开发者依赖AI编码助手提升工作效率时，工具自身衍生出的安全风险正在浮出水面。Elastic最新披露的安全事件显示，运行在Mac开发机上的Claude Code会话，可衍生出反向隧道、凭据外发、系统持</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=2&amp;sn=1a15df2f9713527cd2be82b3455bf7f8&amp;chksm=b0a8235abaf59e6da925bfe10e05d9d771bc068edabc55d7f06de8a55fbbb653f7ac355334ae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2026 KCTF 赛况 | 破晓开战：『逆向初学团队』4分24秒拿下签到题“一血”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3QUWfIK9XGcVU61unE1R7pVvSdyBHlj7hLgvV0oW9YhqFDI8Yzf0ZAWtnribaTEC0RCHYeibellQN52wwm8NACB7pfyNYicPzKKI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。首个签到题《辰时・钟鸣破晓》为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=3&amp;sn=173cb50d784326c34a95364701fdc138&amp;chksm=b01e9d25833992998c3ddd263b4d0106237ac953358763d356e40b69ba9a1568783af66530ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 KCTF 攻击方规则发布！8月10日12点，正式开赛]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3m6th3ia0UK6mBPXl8kict23ZIyw5qeawibnXibPy9oddLDOTlw78PoyuuV6e241EkFF7iaV2gadVeviaBw0xETZDY11ibmpoWOUK8tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 KCTF 规则更新为适应 AI 技术在安全研究、CTF 出题与解题中的应用发展，并优化动态积分体验，2026 年 KCTF 规则作如下更新：一、新增 AI Security / LLM Se</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618432&amp;idx=1&amp;sn=e41a435b6f32dfbc90eea7a9dcea1b8f&amp;chksm=b03483f9f8b526a85ac8e69dc32390c8304a166bd4d9be3a396a507b1fc162c5fb0ae5be20d9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3fjw1qTSc1dSbFKEkuYYQFhZLWZbPiczbolFwEviaXzcKK9LHEz6yPdYRq5IN3HmvpXia48a7MXuXaQCC6bmV6Ipj2ysJ6S4dyhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章记录了一个面向 Android 逆向工程的 Multi-Agent 协作系统设计。不是教程，是一个正在落地的系统架构。动机很简单：逆向工程中大量工作是重复性的模式识别和数据处理，但关键判断点需</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=2&amp;sn=944134e05c321c58adf12043ba1fc70f&amp;chksm=b0ead34fe749546ae3453e0287d80cbea9a75046108c51c478422b6c56fa37e51f7ed3bae864&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[潜伏16年！KVM 跨架构逃逸漏洞曝光，AWS、GCP 全线告急]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0icuibcugp5l5NZTFiadaLyqo5JHQqbXSjjBYYB0t8OvpH4jrsFTIJIicSOicl6Rzf1Bm7ONSjdLOXLsdbafYjAxn7wJbGBAb4zJ9g/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，研究员Hyunwoo Kim公开了代号为 Januscape（CVE编号：CVE-2026-53359）的Linux KVM高危缺陷。这枚从2010年就写入内核代码的漏洞，整整潜伏了16年才被发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617378&amp;idx=3&amp;sn=79c21f6f53344bd046ddfeac65446951&amp;chksm=b0df912ef27332f6dd54140e3848e26b12bab5e6c342d5c9cc0cbd72fc84baa1a4da2f29b1cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[整理Windows 全架构 Hook 技术图谱：从 Ring3 到固件层 34 种实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2ribYMmNxvfUmpLicvkY01vJFQwXll3Y4HicO8rNgDFpyVJxfS6iahy0tMPLqiafjKGL9soabxEMfseIfpRrPytYNdjTa2ianxx7icXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>从最容易被检测的用户态 Hook，到理论上无法被静态发现的 Hypervisor 级 Hook，按隐蔽性从低到高排列。每种技术均提供完整可编译的实现代码。第一层：用户态 Hook（Ring 3）用户态</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=1&amp;sn=5bb9c918f99546ab31778053178b87d1&amp;chksm=b0d24c1efb217409c42d1adccb968e0a93657856e3ad057f3fc8d5c89a621d2e1e80ea05b980&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux再曝“秒提权”0day：一个看不见的6指令窗口，黑客可直通root]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1udnWEPoelo5DU7WtAGkJs5UZUXKrX1KDYT0JgcumsvTK2w0fOWicNKYBdndHkA3OPTfusS8OfMgCiaGxHCDwcbcgQsvgicwYXec/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员公开披露了一起 Linux 内核 epoll 子系统漏洞，代号 “Bad Epoll”（CVE-2026-46242）。该漏洞属于 Use-After-Free 竞态条件问题，在特定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617318&amp;idx=2&amp;sn=5fefff506b6f81b7815f92895ee5ca9b&amp;chksm=b0f86b41ed1532d521d12c4fa9393c25753f45b9cb3508f0a013dea1e32a98a13f58645766d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 17:59:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

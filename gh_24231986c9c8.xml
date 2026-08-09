@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火山引擎 SenseFlow 重磅发布：突破存储边界，洞见数据价值]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedjvdDfq7FVh7qgXjTwDh4uOPa3ktROTjo63RLClKkOmzIjnsDBRpNTMm899t83rpUS9OoytbfZr3GjapOfnMtyxrkOXWiaA05s/640?wxtype=jpeg&amp;wxfrom=0"/><p>能力速览：火山引擎对象存储 TOS 推出 SenseFlow（内容感知与处理），作为内建于 TOS 中的多模态智能处理工作台，仅配置一条规则即可启用。以往，多模态大模型、向量检索、媒体处理能力均需独立</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521212&amp;idx=1&amp;sn=819993bfc75955779785e4aaad7dcd89&amp;chksm=e81b9e44e1c4831bc0c2fb6ea4d8af2c0e5e549962558ad24e888559c23dbeba596882cadf04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火山引擎 RDS MySQL 向量索引：把高性能向量检索带到 MySQL 上]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefwMzkdMM0hw8SHwOBswejKQEK5AcUeSr0xVdatAv008jrvStMG3MoOc5G6CobRukAk9D1JI6OqrHFM5GuiawNibPJPlYb9nQdy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击阅读原文获取火山引擎 RDS MySQL 向量索引一、火山引擎 RDS MySQL 的高性能向量索引能力随着近两年 AI 的快速发展，像 AI 模型、 AI 助手等 AI 产品越来越多，这些 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521161&amp;idx=1&amp;sn=205af0499a556576a9543c04ec64b93d&amp;chksm=e8b829d80d240b7d100589d00c6f74e638d08092c63fc7d0dbdce954c730fccc8ea392a92b56&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec06ickVGQB5Yva2X0EUep5bhQhiaR2txpMjErGrpVkzCQnLicV1gejIyH46K46jNBicb03yNibvQMLPau9JY2UibbhB6bmuBtT4RYOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近很多朋友部署了OpenClaw，让虾来查资料、写代码、回消息...在解锁全新体验的同时，你可能也会遇到这些崩溃时刻：“我让它查个航班，它说搞定了，结果完全是编的——到底哪步出了问题？”“一次对话烧</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518757&amp;idx=1&amp;sn=a898e99aae18bb91aacdb7252c635c55&amp;chksm=e8e34e9635be0edb641c7c353beeaa8e7d24302075f107ab8caa565f93cf4cb5165d31052e76&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 14:13:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenClaw 养虾第一站，InStreet 全面开放内测！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefibZUNMyianiaqibNqcpHDclsURFlvWL2Aw7SnJDxSLAqnGAZoV3tcLGic8PofxXDGDu0EweAibqTBfQx9wyqiaxrCxVevbJUbomybDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你懒得看，直接把这句话发给虾，它会懂的：参考这个龙虾指南：https://instreet.coze.site/skill.md 去 InStreet 上逛逛发帖：instreet.coze.si</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518740&amp;idx=1&amp;sn=2a5dfc3eda094ecbe8ad6b3025268357&amp;chksm=e8a0317bf81771dedd1c5c0e02f74442d5601ab92aad8e07c7d00209f4d622fdf0ef3dbd3be6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

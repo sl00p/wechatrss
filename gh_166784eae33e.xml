@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibEwFOuOicEUxvq5TyzBVOyJtXYwV8KRIA8h4Ts15s2RUUDjnZopj1cniafMI1hojrJkOicnm1maY83MafenakI2M4G5mCaHD4mUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 供应链安全48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT一条 require() 就能触发整条感染链——这次，攻击者连 install</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519773&amp;idx=1&amp;sn=6d2005d14c8d8e08c57fe63922ecda52&amp;chksm=eb82bc9c77f62b1cb1009c3659c572125f072c08ef96241cbaceee7cbeb27b5844b2faac02aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 10 Aug 2026 14:40:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【原创】AI时代下的国产Electron软件供应链攻击活动披露]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibiacpVlOJMESicElTicbCZduKfKIePAxYgiblRsHE5iaZb4bjPWnSoUbOBZlIUWTFdpj3ZdKjJ0znyFSBbvUwfM0LMCWPoglxe2vow/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 2021 年我们发现 Operation Dragon Dance[1] 活动以来，就不断强调国产 Electron 软件的脆弱性——基于 Chromium 嵌入式框架开发的产品极易遭受远程代码执</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519723&amp;idx=1&amp;sn=c1ab9a85f341a22dc22c26e30966cc79&amp;chksm=eb6401466315e20c780ef5b98e314742382a1e1687b8f7b2cb4ea371f9ae1f62b16f522a240d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8amjdKC3lKNfntbVWHyWGNnAINOrxibkSv1uHiarcXc36HfFmRgGoaJDROQZT2bEibOS5dywh1GyAGKMo14qZibt0yIPtqB9s2EIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月19日，全球主流云部署平台Vercel发布官方安全公告，披露其内部系统遭受未授权访问。初步调查显示，攻击者通过攻陷一个拥有数百名用户的第三方AI工具（后确认为Context.ai</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518496&amp;idx=1&amp;sn=0c47ed4847403380fdfe3a8f80103b05&amp;chksm=ebcb649138fce5c2f05f017e18826d3fc5d57cfccf92cd898c5baa12909264dc7a2401b31d71&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 10:03:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Defender零日漏洞深度分析：从BlueHammer到RedSun，安全工具的攻防博弈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9aqbrBCb7GFx0S9Tic3ErD5q7fSYDWddToIbtqbnjyw9WBmsFaFdw3ianNOaTgPsLa3fQYDD9DbvlTqjl3j5XKhkwYFJwbpn8J0/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月，微软在Patch Tuesday例行更新中修复了Microsoft Defender反恶意软件平台中的一个高危零日漏洞（CVE-2026-33825，又称BlueHammer）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518486&amp;idx=1&amp;sn=550ba4e79eec1f50c66aa188e04ad78e&amp;chksm=ebf5fd4e3fae987931de36a12474749b307e8ed5d9fe9b25f574cdde84c37a50fefe7a55933b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 14:31:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
