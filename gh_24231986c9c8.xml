@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 视频降本的三种做法，只有一种不牺牲画质]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefvDgv0ghziat6COJ4pS7wGcwuQPItFBibOUeNkOpo86tOouOFUs0fBiarjiapS7ZTSNKf9XhqvgnGggD9uGicJWLNwvqWLibgoL6SCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着 AI 视频进入生产阶段，生产成本开始成为越来越多团队绕不开的问题。旗舰模型不断提升画质上限，更轻量的模型不断推出。很多人曾以为，“视频生成成本”这道题，会随着算力效率提升和模型能力演进被自然解开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521222&amp;idx=1&amp;sn=27759804c7e3d4d635d31ee9f1f70232&amp;chksm=e81b4f976037f416cb47667316a092c228e9dd2619de4f101d8327d2009cf43820f82ec33377&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火山引擎 SenseFlow 重磅发布：突破存储边界，洞见数据价值]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedjvdDfq7FVh7qgXjTwDh4uOPa3ktROTjo63RLClKkOmzIjnsDBRpNTMm899t83rpUS9OoytbfZr3GjapOfnMtyxrkOXWiaA05s/640?wxtype=jpeg&amp;wxfrom=0"/><p>能力速览：火山引擎对象存储 TOS 推出 SenseFlow（内容感知与处理），作为内建于 TOS 中的多模态智能处理工作台，仅配置一条规则即可启用。以往，多模态大模型、向量检索、媒体处理能力均需独立</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521212&amp;idx=1&amp;sn=819993bfc75955779785e4aaad7dcd89&amp;chksm=e81b9e44e1c4831bc0c2fb6ea4d8af2c0e5e549962558ad24e888559c23dbeba596882cadf04&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeVpToKtOt8cFkMz1KWLcR9wxib2xh0B9qF4CDib6N8tFZBfoquA4CsYq8sOQv29wWo5jyCbX0W6FUHib5EXamIquwyqNvjOibLIvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言OpenClaw 作为一个功能强大的开源 AI 代理与自动化平台，通过将大语言模型与本地环境及各类消息渠道深度集成，实现了从“被动问答”到“主动执行”的范式转变。然而，其强大的系统访问和自主决策能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518851&amp;idx=1&amp;sn=e2d623e2141c2635d10cce3a375c28de&amp;chksm=e86cb0c91149edf1d744d303c0934ec09b8f955c9a9acba01662c1cc29561bc88cee2d9babbb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 17 Mar 2026 20:11:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看清 OpenClaw 每一步：扣子罗盘Trace 全新上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec06ickVGQB5Yva2X0EUep5bhQhiaR2txpMjErGrpVkzCQnLicV1gejIyH46K46jNBicb03yNibvQMLPau9JY2UibbhB6bmuBtT4RYOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近很多朋友部署了OpenClaw，让虾来查资料、写代码、回消息...在解锁全新体验的同时，你可能也会遇到这些崩溃时刻：“我让它查个航班，它说搞定了，结果完全是编的——到底哪步出了问题？”“一次对话烧</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518757&amp;idx=1&amp;sn=a898e99aae18bb91aacdb7252c635c55&amp;chksm=e8e34e9635be0edb641c7c353beeaa8e7d24302075f107ab8caa565f93cf4cb5165d31052e76&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 14:13:30 +0800</pubDate>
     </item>
   </channel>
 </rss>

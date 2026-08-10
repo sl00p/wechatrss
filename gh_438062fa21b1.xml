@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[连续五天登上 GitHub Trending 首页的思考]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7RVDvQ4unqAaO2InzfvzfVryNa1l4nt70oY3o8Uxz1ad4lI2FLzhxvdHLtfAtQ5G3kgiaGCa87334APZoG1V5dbnkHkvDnNuWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 49 篇文章（ 本文阅读时间：约 15 分钟 ）我们团队在两个月前开源了一个AI Code Review 工具，目前 20k star（项目地址：https://github.co</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511052&amp;idx=1&amp;sn=ec738e92d8018fb50fac9fa16e9d54fc&amp;chksm=cee64335c77525d4fe6769cd7bc8fce170cec547f07deceeaad115c05652928b19e07fa16857&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[参数化 Memory 漫谈（纯干货）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7M2ObSiaYVAcMYZuanTBr9fRiaQ4kDNVmSQqUNeXDCRiaDHiaNg5Yibs7CnmXdibd80wKekLodvtC7ibJbicgVbphGzibPzs0s3oBIibwtE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 49 篇文章（ 本文阅读时间：约 100 分钟 ）前言的前言：本文的思路是什么？（和 LLM 相关的）Memory 是一个被广泛关注和讨论的话题，其中，参数化 Memory 是 M</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511041&amp;idx=1&amp;sn=037ffb3529df30ea5b8b30b966a526bf&amp;chksm=ce5162054dc67c0536b022e98b5a585ee0e2e021dacc752a9e7e85e78ce3e572748b45abd0d4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FcqX2Kdic25WricQGUNwS9fyicicSQj4T2ZOo33iamPGRxQhFOM9iapavia7vWeQz6DbBhYXtfRh1KX56ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第129篇文章（ 本文阅读时间：15分钟 ）01背景随着 AI 与大模型应用的普及，高维向量作为表征复杂数据（如文本、图像、语音）的关键载体，其存储与高效检索需求在推荐系统、图像检索、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508987&amp;idx=1&amp;sn=e4046f4b5317aa05875c121c76f6f856&amp;chksm=cee8afe8ce1fa4a79d4a60f54aef407c794959bc3311282096cd3fe173d413abbd28db465607&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 yield 到 await：Python 协程的进化史]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30H282xzxcdaWQUSyl8DqnZGV3J9p0TGscnAibt1AIrBT4N8jJQ4XSawolibI6tibdoMZibhc18JoKS2JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第128篇文章（ 本文阅读时间：15分钟 ）01前言今天我们习以为常的 async/await，是 Python 异步编程的标准范式。但很少有人意识到，这个简洁优雅的语言结构并非凭空而</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508957&amp;idx=1&amp;sn=fa5d5ecdc9306542d31cba236d3fcecb&amp;chksm=ce02f75c03b5ff079358074555cfc7390e0743ef800c9d9f236b0ead28383fdeab7eb9201386&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一条从未见过的攻击路径：黑客如何借道运营商"私有网络"打进热电厂]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8vSrsX6UTWryAiaEdvblgykfe71rRqibjQNuF6YaFibKvMJunfoAWmo4vkDJA6ia8s5NiaYWUTsjibAAB8VAoBjpWQVM6MVsArmCndI/640?wxtype=jpeg&amp;wxfrom=0"/><p>OT安全 · 威胁分析一条从未见过的攻击路径黑客如何借道运营商"私有网络"打进热电厂2025年12月29日波兰能源攻击后续调查揭示：攻击者通过配电运营商私有APN完成横向移动，直接闯入热电厂OT网络—</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519791&amp;idx=1&amp;sn=713d02b5129e895f6701fc56b6be4620&amp;chksm=eb9907fe4c043894a836a79d0c373789887c40db1da226b621bb8a7c8e9a8492e37efe5e9259&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 15:31:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibEwFOuOicEUxvq5TyzBVOyJtXYwV8KRIA8h4Ts15s2RUUDjnZopj1cniafMI1hojrJkOicnm1maY83MafenakI2M4G5mCaHD4mUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 供应链安全48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT一条 require() 就能触发整条感染链——这次，攻击者连 install</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519773&amp;idx=1&amp;sn=6d2005d14c8d8e08c57fe63922ecda52&amp;chksm=eb82bc9c77f62b1cb1009c3659c572125f072c08ef96241cbaceee7cbeb27b5844b2faac02aa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicDJeN634Pf2K8D1ntewWBn32wPohCava6dgTakHhC1vefW7ZUkvnK3pwlB3yUvUZIWYPGE5xRa3UemE9E8sT4fN85ezE05Mk4/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述奇安信威胁情报中心监测发现，Fortinet FortiGuard Labs与Palo Alto Networks Unit 42联合披露了一起活跃的物联网僵尸网络攻击活动。攻击者利用TBK数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518497&amp;idx=1&amp;sn=6c8168f317a01d94b67558c6c18cbd5a&amp;chksm=eb3589fe4d3cb2e09ab5afa65d98022a3cf8550691c4cd29729b05e0b5ff457c4c306718deb1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vercel供应链攻击事件深度分析：第三方AI工具成为企业安全突破口]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8amjdKC3lKNfntbVWHyWGNnAINOrxibkSv1uHiarcXc36HfFmRgGoaJDROQZT2bEibOS5dywh1GyAGKMo14qZibt0yIPtqB9s2EIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年4月19日，全球主流云部署平台Vercel发布官方安全公告，披露其内部系统遭受未授权访问。初步调查显示，攻击者通过攻陷一个拥有数百名用户的第三方AI工具（后确认为Context.ai</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518496&amp;idx=1&amp;sn=0c47ed4847403380fdfe3a8f80103b05&amp;chksm=ebcb649138fce5c2f05f017e18826d3fc5d57cfccf92cd898c5baa12909264dc7a2401b31d71&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 10:03:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

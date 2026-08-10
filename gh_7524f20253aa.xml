@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[macOS上的Claude Code会话被曝建立持久化反向隧道，凭据直送公网]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ZibIwWNSfPVtlicjDC93vQaEyxtjnu8Af4vhR8dlCdKNLZBLNbWTNMHmE8mmERX8hnUxLhOMRmib6tnqBU0G5dHKJbulvqQJUR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台macOS开发者设备上的Claude Code活动，引发了一个新的安全问题：便捷的自动化何时会演变成严重的暴露风险？Elastic 的一项新调查发现，某个会话打开了反向隧道、将登录凭据发送到临时公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=1&amp;sn=56c4e0d580e04a250d0e8c6cffd592b8&amp;chksm=bcfbefdefcf5c74df24a83a958eb2c10589340bf7788e9d3db2890836383875a6c0590596016&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI扩展Daybreak，推出GPT-5.6-Cyber专攻漏洞研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3F8ADW8DwTXvwEwnOdibXumfH5ZGDgZF1Nb3qAyPGb81cOzryicKthOqxrRxGgpSz87kX7SGLBRzchen3IJtykX8pq3hpeN69DY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI扩展了其Daybreak计划，为通过审查的安全防御者提供对前沿AI模型的更深层访问，推出了两个访问层级——Daybreak Blue与Daybreak Red——以及一个专为漏洞验证、漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=2&amp;sn=63da463dd41e9a9b67cc51a00559792d&amp;chksm=bc896afb4e5285a8fc521d629f4578d845547ad5429e11b79e95212f9ac8072b4270dbfc0368&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜黑客组织Kimsuky利用本地LLM与GitHub C2部署AsyncRAT]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX05yeN9Eoiask2t7jiaibhrB6VmHdqTv9b0IHSMQfib0NPv0eagsxR5lldEpLFZSBn3eBZkTWh7PcVrSdZleavse9CyCql5MYKJhZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现，朝鲜APT组织Kimsuky将精雕细琢的AI生成文档与惯用的钓鱼手段相结合，传播远程访问木马AsyncRAT。该攻击活动表明，当诱饵内容看起来专业且格式精心时，传统的投递方式也能获得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=3&amp;sn=f37e7fd266a060ff0cad9fcc592885b1&amp;chksm=bc2cc0f1043d4ed6a169773dc52b13af22c2c28f9cf3dfa7fef437830d2cab514d1910008bb8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[以色列新泄露的920万条记录实为20年前旧数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0piabvswxxJWrDYdrnoFhfpEbTj6iadHwLJiav8aMKrvWCsvYVvFiazQicjARiahW2TRFqVKegP8qwsNTjLmnbY0qeDqqQKZtRQvOJM/640?wxtype=jpeg&amp;wxfrom=0"/><p>卖家声称拥有以色列2026年人口登记数据库，但核查显示这920万条记录实为2005年的真实数据。Part01泄露声明与初步核查一名在某知名泄露论坛上的卖家声称已入侵以色列人口与移民管理局，并正在出售整</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=4&amp;sn=da1d91760187b94441b49966ce476783&amp;chksm=bc555252efaa6c7e3e76eb8284dc35e09bea4da1483463790d9829f2b97d9935938dfab7746d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Opus 5刷新提示注入防御纪录，15次围攻成功率仅2%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2SFVibTZOM2ZNmsIRDVUThT3kyj4QX3xX0nCwXD0KsONibUwHlsCvxlmN5VBSe8cmvTSk9DPRskoXutuV27a8iaTo2ZkgHHzCQnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01提示注入风险Anthropic的Claude Opus 5在其System Card（系统卡）中提供的测试结果中，创下了Gray Swan最新基准测试中Indirect Prompt In</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=1&amp;sn=6881119c75c0bf190df6d9fd771d3a76&amp;chksm=bcb3c2120e679268664ce7e7869334ff8e8316e78129ff2341767e20947d452ba60bd26108c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1iadLLesfQGjoqCc6ia4NPIckOCkicibR2AaB6lEBsKBDtIEQNbLQ3eNvIAekE86DbjproAVdh7YG9lAzdNqfXOVs5SicbOQyVFXO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员在僵尸网络格局中发现了一次显著的结构性转变。XLab团队披露了NadMesh——一个基于Go语言的僵尸网络，自2026年7月初以来一直在快速传播。该恶意软件标志着从机会主义蠕虫行为向工业化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=2&amp;sn=5cf91e5d10fc6c700448eaeeac3673b7&amp;chksm=bcfdaa2396cf537707a5d0d924e490706d69f98961aa1d8d94c536efa9a9fabcbe723da5c67a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 19 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：Claude Code时代；恶意PDF安全测试；EDR规避深度剖析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX11ygpSTibU8tXSJ25ClPVZkSCL9DriaAm68kXGu8Es8zZoWxujgeQXNJlEJhaR4gkZcG1XtObdRQWbBCfl9pnKdOvFM6Ker5ErU/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342881&amp;idx=3&amp;sn=b158903ab89b8fb4c2cb3bc4fea67613&amp;chksm=bcce75cf2db591f887886ca282b905c8335c6af4e2d1f30167d13bf288d778af2a6052f80ae9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows LegacyHive 0Day漏洞可让黑客获取管理员权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2IBljUKB6oXN4mwsSWqiaMP0jURE4Yw5UXjWdwXo7N5xDmPAO7LWUyZ0XKqKkmKialnHXdNMMtDdFJWnr6N5aswhq3IboDJNvFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为LegacyHive（MSNightmare）的Windows0Day漏洞，滥用了用户配置文件服务，可实现本地权限提升、篡改管理员账户以及以管理员身份执行代码。Part01LegacyHive</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=1&amp;sn=4c626cdb64ef38a6a140fe32adb444fe&amp;chksm=bc493e85a93e91c6ac2d1b60811c4048261426e312f50f8f11c51b465b722ca370d5b059777c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-5.6 Codex误删用户家目录文件，数据丢失风险高]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0dXQ0DuF03qqxic6xCqOMtQ8LMiaZcPaZkZAcssfIWLE1Yr8XbPjYmT1gqz7ia62PaG38CZUtwx3lQ1gyeKBVYNko4K9M7OJDmu8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01自主编码Agent安全风险暴露OpenAI目前正在调查少量报告，这些报告指出GPT-5.6 Codex意外删除了用户家目录中的文件。这些事件据称发生在Codex被授予完整文件系统访问权限、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=2&amp;sn=1f6c0e7d77c2cdb24a4bc4d9015d1c00&amp;chksm=bc8e4259d24bf0e7ba4ca6f41e28ba2179bd78952733c46e7027d6be21ac3af2ccccb418d492&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白宫启动“金鹰”计划；黑客借助Gemini CLI构建实时C&amp;C僵尸网络 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🏛️白宫推出 AI 驱动漏洞清算中心，加速网络修复🕷️黑客借助 G</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342834&amp;idx=3&amp;sn=af101988d8fde15449f0e170ba778d52&amp;chksm=bc0f051ffd5aa7600cd83c7084f34ea9b91ded7ae93b77b69dea217c3e16401743b98ea5b863&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 18 Jul 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
