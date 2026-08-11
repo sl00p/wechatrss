@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[阿里云中间件]]></title>
+    <link>https://mp.weixin.qq.com/</link>
+    <description><![CDATA[阿里云中间件公众号]]></description>
+    <language>zh-cn</language>
+    <image>
+      <url>https://wx.qlogo.cn/mmhead/ofvnGicEPbfQ9d0S2yUutCIOEawPTdVkgBGpuMHVV1N6zVZuVl1yM1F02Pm8aib6qMBFhHMUBo95c/132</url>
+      <title>gh_f49013e01eff</title>
+      <link>https://mp.weixin.qq.com/</link>
+    </image>
+    <item>
+      <title><![CDATA[STAROps 面向未知异常发现的日志智能巡检架构实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT48o6Uo3YW5DEibruYbL5qibicAF0Y9AeesFSsApy7sQ0Zo1NDGicOHibOL6icCzqgibAvjt3d64g8gAw5EVPw9JZRiaNUe1BudL1AvTdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人查日志，都是从一条告警开始的。接口报错了，先搜 Request ID；Pod 重启了，去找退出前的异常堆栈；用户反馈支付失败，再拿着账号和订单号回查调用过程。此时问题已经发生，日志帮助我们还原现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516751&amp;idx=1&amp;sn=16be1d2087960fb5e8baaa63b91a400a&amp;chksm=f433b0854cb46497ad9fc30080dfb5d2d738f67b7c96214cc05dbf683d6266ddda7f61f660d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 20:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qoder CLI 上运行 Qwen3.8-Max：5 个硬核任务实测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6H9uERTiaVB0O8ZSyMmoKhJ3LYnYUrpecZobMGMjS7F26VmTkc874kPjfh9wvqqOc8SxIZkkWsnPav3TMGmvhK7l6kyN7sDVEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 50 篇文章（ 本文阅读时间：约 10 分钟 ）近日，Qwen3.8-Max 正式发布，Qoder 全家桶产品同步首发接入。自模型 Preview 阶段起，Qoder CLI 便深</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511066&amp;idx=1&amp;sn=2abf64c9e90df880bdf02446965b4a5e&amp;chksm=ce4fd0fe5e676195f9636321eaa9663d5a5f832adb80cbe6c7e8338b0203bee9b689a29ba4f0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[连续五天登上 GitHub Trending 首页的思考]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7RVDvQ4unqAaO2InzfvzfVryNa1l4nt70oY3o8Uxz1ad4lI2FLzhxvdHLtfAtQ5G3kgiaGCa87334APZoG1V5dbnkHkvDnNuWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 49 篇文章（ 本文阅读时间：约 15 分钟 ）我们团队在两个月前开源了一个AI Code Review 工具，目前 20k star（项目地址：https://github.co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511052&amp;idx=1&amp;sn=ec738e92d8018fb50fac9fa16e9d54fc&amp;chksm=cee64335c77525d4fe6769cd7bc8fce170cec547f07deceeaad115c05652928b19e07fa16857&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FBz5DiaKf39Jf8hVMUoOke4ibNtE0icAgrVC9JxTiaeHx8librpg6obgicDichaJpLPtyTCDibQXtTfHID8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第130篇文章（ 本文阅读时间：15分钟 ）01背景与挑战Dify 作为一款低代码 AI 应用开发平台，凭借其直观的可视化工作流编排能力，极大降低了大模型应用的开发门槛。然而，在实际企</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508994&amp;idx=1&amp;sn=3635952b151104fa6e30b814c543e6ce&amp;chksm=ce31854f46f03924d73a761a6f31c84301ae7da0367938ad575defba775771a928f2c32e3b4a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AliSQL 向量技术解析（一）：存储格式与算法实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30FcqX2Kdic25WricQGUNwS9fyicicSQj4T2ZOo33iamPGRxQhFOM9iapavia7vWeQz6DbBhYXtfRh1KX56ibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第129篇文章（ 本文阅读时间：15分钟 ）01背景随着 AI 与大模型应用的普及，高维向量作为表征复杂数据（如文本、图像、语音）的关键载体，其存储与高效检索需求在推荐系统、图像检索、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247508987&amp;idx=1&amp;sn=e4046f4b5317aa05875c121c76f6f856&amp;chksm=cee8afe8ce1fa4a79d4a60f54aef407c794959bc3311282096cd3fe173d413abbd28db465607&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

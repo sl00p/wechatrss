@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把 AI 视频的钱花在刀刃上，不是每一刀上]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecqbI9mZHQLWFM63CoReiaK6qaibE3O72sgKT3fToWia1XM2siaC915Kc2Fg4gVezKLWIib0kialOxz55uUvrSs8pg1qVib88Rmq6hkRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 视频生成正在跨过一个清晰的分界线。过去，它更像一个周末玩具。用户拿它尝鲜、娱乐，生成一条新奇的视频，看模型还能玩出什么花样。但这个状态正在变化。Seedance 2.0 上线后，一个细节很有意思</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521239&amp;idx=1&amp;sn=3d1c9e6773e98f7468cf08edd574c940&amp;chksm=e85b3bf90dc6497e0dbe7ce6ddc31687da10378a8928389359a997500455fd954a3f1a74d4a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 视频降本的三种做法，只有一种不牺牲画质]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefvDgv0ghziat6COJ4pS7wGcwuQPItFBibOUeNkOpo86tOouOFUs0fBiarjiapS7ZTSNKf9XhqvgnGggD9uGicJWLNwvqWLibgoL6SCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着 AI 视频进入生产阶段，生产成本开始成为越来越多团队绕不开的问题。旗舰模型不断提升画质上限，更轻量的模型不断推出。很多人曾以为，“视频生成成本”这道题，会随着算力效率提升和模型能力演进被自然解开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521222&amp;idx=1&amp;sn=27759804c7e3d4d635d31ee9f1f70232&amp;chksm=e81b4f976037f416cb47667316a092c228e9dd2619de4f101d8327d2009cf43820f82ec33377&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fec4ZRxJsRLZeozFrwe6L6MuHgHJWWJ3ibPo3BnxOVzKSmyDd9YLLhMbsBibnEBJoKkCndAB5X5ZhPFjZ0ZM7OEsvZKbMrPSpJibgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 年，很多团队都已经在养几只“虾”（OpenClaw），让它们 7x24 小时地查资料、写代码，甚至自动执行多步任务。表面上看，一切运转丝滑。但当你的“虾”逐渐成长，从简单问答走向复杂的自动化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518900&amp;idx=2&amp;sn=a2cbb2b36c97873db034e76b66bf5b90&amp;chksm=e8a859a5df0ccc510ef74ee46d4ce2a026b7e4badd17b3ecc4224fcbdbd0ac650eac1a3d45ac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文了解｜火山引擎 OpenClaw 安全最佳实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeVpToKtOt8cFkMz1KWLcR9wxib2xh0B9qF4CDib6N8tFZBfoquA4CsYq8sOQv29wWo5jyCbX0W6FUHib5EXamIquwyqNvjOibLIvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言OpenClaw 作为一个功能强大的开源 AI 代理与自动化平台，通过将大语言模型与本地环境及各类消息渠道深度集成，实现了从“被动问答”到“主动执行”的范式转变。然而，其强大的系统访问和自主决策能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518851&amp;idx=1&amp;sn=e2d623e2141c2635d10cce3a375c28de&amp;chksm=e86cb0c91149edf1d744d303c0934ec09b8f955c9a9acba01662c1cc29561bc88cee2d9babbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 17 Mar 2026 20:11:34 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯财报.html]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCo59x1h8DiaacJ1kLnsMVFvodsfud4RvjX1HBz3K0bTibDlZ2lNdzReibqgX2qXLTy9oq842rmf0na3RwNUem3tDGWer5ZwQY2LA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日轮值编辑：WorkBuddy，基于全新“资料库”功能制作</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908606&amp;idx=1&amp;sn=ebdc52fcc58065672cb0f4b4cb87975b&amp;chksm=bc3eef4a36c14a1b3f64d3e7b1792551e1e86576230ede1d159dde2d26fd3540ff5ae10a2bb8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 16:58:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent，你最喜欢的数据库到货了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaCbcKtCAAwvVWTZib7ibD5dJNfrSjI8wl7vujuuMPWqO5Nkk9qbmNUrVvtlWvVsH8pLGIFg1vDlhIkdCBhwUaE2RHMaptyvyxs1E/640?wxtype=jpeg&amp;wxfrom=0"/><p>每一个成熟的AI应用，背后都需要一个稳健的数据库。今天，腾讯云CloudBase正式支持PostgreSQL（开发者喜欢简称PG）。作为全球应用广泛的开源数据库，PG功能成熟、使用方式标准，天然适配A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908478&amp;idx=1&amp;sn=2c728fc875553c31c7d022198056054c&amp;chksm=bc836abfaadf85d60d33c3edd555c8209efe8811ba5492f402e0162f8059884a7b882b35ee52&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaB3Kzt7XwicxJTMTWbhS9bkOicwdGjHuStTVOwtEQv8Mjx7ib8OkQg4Yibv0licuFpsY3xy9R0Vv7O2SjSYxb1accYFMUibCNdibGR9S0/640?wxtype=jpeg&amp;wxfrom=0"/><p>存储太贵？不允许还有人不知道这款良心产品👇腾讯云“磁带库”（COS -深度归档存储），价格低至 0.01元起/GB/月。这是专门为极冷数据设计的企业级存储服务，适合一年几乎不访问，但必须长期保存180</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907215&amp;idx=1&amp;sn=a67bfe0df0a02f7ad9c2973935108f47&amp;chksm=bcd96052cdb59e7c4cfbb593bd1aa9377d21ffbf17177339f16c73d97ce34d39a9676e04057e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 21:13:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯这项省Token技术，成为全球主流推理框架官方方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaB51FYDzS8UOtqLfXvWgZ3iazxec38L3YTSbicK1ypQMibiavs6sVicXibhPF0dqhz1ZiaDKaPjR533VMEWe7oZmuia32cnPbEYwna24uU/640?wxtype=jpeg&amp;wxfrom=0"/><p>向大家汇报，全球AI社区携手把Token消耗打下来的最新成果👇腾讯云一项面向大模型推理优化的关键技术FlexKV，正式合入NVIDIA Dynamo、vLLM、TensorRT-LLM全球三大主流推理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907203&amp;idx=1&amp;sn=4107e953a45d51fbd32d6c01f0bb3637&amp;chksm=bcb0ed134b0db594f7667a11c84157892826a70314b5f0efc8e4a686bb6c3ab0bf55e7c4011d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 10 Apr 2026 17:59:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

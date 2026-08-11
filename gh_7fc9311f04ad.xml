@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[千问AI Arena上线：给Agent一个真实的战场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zmQ2x65TqaDLXT7EO0iarvo1lmyRJvR0eezt58LDK7hVorI6z3zz9J7IqFkcM2C1bFYnlICZxgUod0cUPW9oj88lryoROpBeHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月12日，阿里千问AI平台正式上线"千问AI Arena"，这是一个面向AI Agent的挑战与评测平台，从真实业务中持续产生挑战任务，为开发者提供模型、运行环境和评测能力，征集并验证能解决实际问题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561885&amp;idx=1&amp;sn=c2debdbc284ae35755f55e1f301d8376&amp;chksm=e8cc355594ea5f5e1910c3ae5422ddb72852a6801d616c72ca73231e20b440961afe9bc40281&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 12 Aug 2026 16:01:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Native 下的混沌工程：Agent 军团如何重新定义系统韧性验证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y2iaccu5ZPNQaQIWDyTwluLqa5Er9TGftTVjV8URIrAp8yCGJUykluJzC1EaANWhMarGyKibEpry9TH6GJ8W21FEJqic72IDp3bA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读混沌工程的目标不是“制造故障”，而是在客户遇到真实故障之前，持续验证系统能否自恢复。我们把过去依赖专家、按项目推进、单项耗时数天的韧性验证，升级为可自动触发、可持续运行、可沉淀复用的平台能力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561873&amp;idx=1&amp;sn=0233d0ba23aad4cc225a712963826343&amp;chksm=e8b95d6c5446d61948a1b2f8bf951c8965de1601bb415dc8e5eb056df0cb4b7183eadd35005c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xGG3NTz5zZGm53cA7jwZBgYTm45w8zoibiaPJIFy7BUiaBSAESVgeqsNJwBaHGiarna6gGqgrpfQoZKfbuEcy8TKVjJxTYnFYYfbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言Linux说过一句很经典的话：Talk is cheap, show me the code.最近在学习AI Age</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559646&amp;idx=1&amp;sn=1abc5788cfe44b9820e5a0f4dfb3a336&amp;chksm=e868a7b1d7710b72932c465a57110e26e971aa4426ff0a59ec4d4219088a73f2ad9958e9f2ef&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1x1KicIYiap6hZXcTZQOAjgA39iaVGN1SYoVSTW1U1gL5YGbiaWkUnezfJcoPic5u5K8XKhwhXHIHwYkRUc6D2gicPVnKPoicqLLiannfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章不讲 Prompt 技巧，也不推销某个 Skill，只想说清两件事——在企业工程环境里，如何把大模型 Harness（约束与治理）成一个能持续参与交付的协作者；以及大模型时代，程序员</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559631&amp;idx=1&amp;sn=13935cb98e1b389c3afa8a10a17e9c3a&amp;chksm=e8ca90f426f32d7757aa6a6171bb26bbb9992351ad3a36b5bfb1cbced35898e8080d196a6f15&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
