@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Code没有“魔法”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhbWgsOyl1vdLHSJgI9wiaJxRlvGSrmA83FNI1F7GdoR6SBmDAyYoo5zNpUvRmdOqWMCD6ianh0zWLcCDPQxAVYHk1WtJIcBsUO4/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 过去一年，编程 Agent 的能力大幅提升，软件工程师对它们的要求也比以往任何时候都高，但上下文窗口的大小却基本停滞不前——一年前，一百万个 token 大致就是最先进</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290726&amp;idx=1&amp;sn=b4765296cbca157bf75274863a213b16&amp;chksm=bc8d194035b2ed316a3f09f922ac583df5e63ed81507b0aad853223f2ab3807225e28e2bbec0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 14:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从“工具”到“同事”——AI 时代的产品进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaZnicerE1g5JibWAiaPkLOEpqcBdCqGcibNjvcPiavn0kXQyVWRxz21O1qKLvPhhAyAK8Xg6cA5BPiaTIFBicjYib8nNrib1kopBRPVfMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 苏杰，良仓孵化器创始合伙人审核 | Kitty策划 | QCon 全球软件开发大会在 AI 技术加速渗透产业生态的 2025 年，QCon 全球软件开发者大会 2026 北京站上，良仓孵化器</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290726&amp;idx=2&amp;sn=98e2ffcf5984ab107541b64cc90e4eab&amp;chksm=bcb4b131e4dc8e544ae637a36ae121ba90192a4e616a9355450bf83eea3fa7d8d9c83cfd03c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 14:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg0BVZwylXGL0XkqTRJUKS442WN3QXr1u1Z9gm7YXeDgmt5J57Y20XsdwZgauf2ulTuzqMvCgktnQt8R51ibDPEDvibWAWM7EhZ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 田橙 Vercel Labs 发布了实验性系统编程语言 Zero，其设计基于这样一个前提：编译器输出的主要阅读者不再是人类，而是 AI 智能体。Verc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290726&amp;idx=3&amp;sn=df7c14b2f40c74cfbb2eaba58bdb5b37&amp;chksm=bc14b5a38e03fddc19daff165c44f673483ec675eae7fad68ef5f28d6ba9fdce2b40d49d5647&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 14:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 发现了 hyper HTTP/1 实现中的竞态条件问题并进行了修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg1rfgktq5dIr3kIjaYDQEgj8wyJjtVZtKXSRqficf1icibteOaxHcO1qkTTxHq2aaxrolUVG5NibRq9aOZ0kujoibEaNtCJV2kcrgs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Renato Losio 译者 ｜ 张卫滨 Cloudflare 最近记录了其开发团队如何发现并修复一个 Rust 常用 HTTP 库 hyper 中的罕见漏洞：该漏洞可能会在返回HTTP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290726&amp;idx=4&amp;sn=3232d7cc0553cf3355219b3b5ff8095c&amp;chksm=bc300eb38464bb28dd0a4caa7d8637ecbf116f10c1680e11fdcf93e10996ccd3862bb7ea919d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 14:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg3Dh0wW2AD8k7bCBkc7qw1jISicDP34JQ8SLZnJOTuhgUDawdWsn39tnAI1I88FI6yErUxfIpiaVKk0O7ExnMJlm6x8vZzXJq1I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 8 月 11 日，Pi Harness 创始人 Mario Zechner 转发了一组数据：开发者 0xEvan 用 Pi 调用 DeepSeek V4 Flash，处理了近 10</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290672&amp;idx=1&amp;sn=80c48541f692bdd094be71bab4fcec43&amp;chksm=bcb28eae705978c005d08e510aadb038aec9e6c4e95cb0e3e6e396d7dbf5241bbdeb16d87935&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiagPYhkIslfvgmT6Qf0Kibo5B90QgH93NUmbEDPh8jbxCiarmZ2dmZw6EwFic7GO3ibWDKYtpRShxmGfldtECTVygbj9QEiaGcxS5YQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 冬梅 1 微软、Meta 同日交出财报 7 月 29 日，微软与 Meta 在同一天公布财报，也交出了两份方向相反的 AI 成绩单。微软盘后一度上涨超过 8%，微软 CEO 纳德拉刚刚结束财</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289924&amp;idx=2&amp;sn=8d3d8e4182a35b969aa34fbf5f0fb45e&amp;chksm=bcf6bb5c58bdb1f50df1429e5c86c72424f0809a8de9a6dfb401b1ac0b100c3c0cf2a2957159&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 02 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaI96RzjqssA6sIxaMzDGmT8OUNeKQjaI0B5iczqDwB396gyBrnxSibUaGjuLJlmKNLdBtU8Q2hibPicwnGxw0d82TseibYDGvFmmgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Sergio De Simone 译者 ｜ 田橙 GitLost 是由 Noma Security 发现的一种提示注入漏洞利用方式，它能够诱骗 GitHub 新推出的 Agentic Wor</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289924&amp;idx=3&amp;sn=bedab57f8c6b38c64503e6d029b5fec6&amp;chksm=bccebe78551a80b6adc78dafadf952bcf6a305fe8174f678e45d32fa902834e66608302cb743&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么 Jotai 要重做 Store？一次高吞吐性能优化背后的架构取舍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjp2dVlIECD3gR8icvoRweztaHhP5eKw0agYZEhia0YnXyrpUjrYtuaVEy9rrfOWG1icaDbFC4IALHI3PbyEDicFb87AY2ZEYAs3zk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 田橙 由 Daishi Kato 创建的 React 原子化状态管理库 Jotai 发布了 Jotai v2.20.0。这是一次以性能为重点的更新，重新</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289924&amp;idx=4&amp;sn=ef9603eb7bac30c922138668b52e6070&amp;chksm=bce4437b3f1b79523c3fc79557bc86df113fcca26958d740b0a5464ba48f37c63169a0deb225&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNguiaHpaSWDiciclP5IMIzibz0ufUggOmFUZz2LHRicJTocaodzOuN5qE8iaYxU5fl38AeMHDsVWYcDjD52bJqNYhRnXZ9Zo5fuSQNj8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 褚杏娟 如果一个 AI Agent 有了钱包、电脑和 24 小时，它能否独立经营一家初创公司，并真正赚到钱？为了让 Agent 完成现实世界中的工作，仅让它运行几分钟或几小时显然不够。它需要</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289862&amp;idx=1&amp;sn=41e196ea5e4382256fc47e2ac3bff7e2&amp;chksm=bc3c1299bffca907a717fc5dabb20860456450fd9c19836cfa7aa26b7c46692eb21ae1bc7fc2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjcySPA7EOOHict1v8sQ6sptFuNPFpDQ1npOK8XFhxrVYq38DeqQic7cpRLurVU4mvAuh09lnOksWBfyDqMslohYTRtOrRjXMiarY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 在 WAIC 2026 的最后一天，InfoQ 直播间迎来收官特别圆桌。过去三天，我们把镜头带进主论坛、展区和一线发布现场，也对话了各路技术负责人、创业者、投资人和 AI Builde</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289862&amp;idx=2&amp;sn=791af73953d569a15ea2ec8cfbac6b95&amp;chksm=bcf891c1ff3bb4f8913f617369d829ef5a677a008a655cc0957a1419d87a3274e127a3fd5e92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Aug 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

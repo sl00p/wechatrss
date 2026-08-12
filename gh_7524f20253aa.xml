@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Windows再曝0Day漏洞，可完整绕过微软RoguePlanet补丁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3NeOIlKJLZW8FiaMwDkrOWOicbn15icFibjib6ZMl1j18meJAaWpicZjxQsvdg270778xwSQfGEJnw7eKH9FrsqOYqiax6yjiaPAGYMAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01绕过RoguePlanet补丁的新0Day安全研究员Chaotic Eclipse发布了ShieldBreak的PoC。这是微软Defender的一个0Day漏洞，可绕过CVE-2026-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=1&amp;sn=702c9e6826a5049a929c30024eb0d9da&amp;chksm=bc4344c9ff2c42b871f69ca5baeb1fc03d93ec720ea1f3846a5af673e78e2267adcdbd119b02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科防火墙0Day漏洞遭在野利用，无需认证即可触发拒绝服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3L95iaKVRUglPE3RA7zEsboFnRejXLblH1Dz5DiaElAUg6eW2TvKR4vyXoLLicxyGD0KwHmlwDaibsej1kMhxnexdbFa1iaiclXR3yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科已确认其防火墙VPN组件中一个新披露的0Day漏洞正遭在野利用。对于管理思科边缘基础设施的安全团队而言，一项高优先级的补丁部署已经迫在眉睫。Part01漏洞原理与影响该漏洞被追踪为CVE-2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=2&amp;sn=68f08311d755bb5bb20aaf3b8a761cae&amp;chksm=bcb49d407d51c9b95de1d21eefa27f7ce171969edd883c2be77767b08f0022875e780fb62399&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[弱模型反向解码强模型，OpenAI等API漏洞泄露数百条机密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0pcYKKREmoQCLuW8ib2ZmpyGjC3L9wky9tKUU1IxdiatVKf6M9WNPW6jdEkPxIRR8JRGv0WicVJPUOEXOHKC52wJkd5G6gUjxd4E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日公开的一项漏洞涉及OpenAI、Anthropic和谷歌在API调用之间传递隐藏AI推理的方式，研究人员借此从会话日志中恢复了内部推理内容和机密信息，包括API密钥和密码。该弱点影响了这三家提供商</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=3&amp;sn=6744843c9f04f6d124bff044411c1d9a&amp;chksm=bc8c109aa217293289fab81dc2f0b1d500deacdcb0593738197610f55f94b9e16a3cf5d751f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CopyEscape Docker漏洞允许恶意容器覆盖宿主机文件并获得Root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX12MJwywcxXHUGIllYdyNGOCv90GJicjs2aA27rCUCZTIw0llffqHl7cX8IcL4vytJrLLV7IVQmmtf3SnzwV6ygOIK3uBQdJfcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个新披露的Docker漏洞（CVE-2026-17106）被命名为“CopyEscape”。该漏洞允许恶意容器覆盖宿主机上的文件，并且在特定配置下，还能实现完整的Root级代码执行。该漏洞由Impe</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=4&amp;sn=4996d7419826b522a4b64fb80c94a78d&amp;chksm=bcd3f13c11a718dd7ddffa93ef04578102fbdccc16ab021f437b99cf2d08ea13510877831ccf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[千亿Token、百万奖金...全球AI白帽“赛博司机2026”曝光!]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3CMydwibkeIiaZC1aQt5K9RE4YibKMms31YcyiaASDpT5jCeOXc3tgsr8NgTichkicIWq6Nyq5kNNA30aWKKdOVAxavQTzbiaDyosaia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344482&amp;idx=1&amp;sn=a817b0c4fcb9fb95323ae4c23726051d&amp;chksm=bce599823d1621797bb897bf6c608ade53d885fdc1eafaceac69d79419c2fe39f57b9d34068d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2hibXSle4ibeD0GvocgOPo0gAh4BDpyYZsictzYkVe4eyWW53tM4oJKVDAzfZeZRmRY3xH5c6Pg0kTA2TQclLiaSdFzP1P0aaadao/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者在防御方获得已发布的CVE（通用漏洞与暴露）之前，就已经在利用相当一部分漏洞。Part01漏洞利用速度持续加快2026年上半年，23.43%的已知被利用漏洞在CVE发布当天或之前就存在活跃利用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343711&amp;idx=2&amp;sn=2fa0a51d936b113c1f5a858426afa957&amp;chksm=bc4fc43a3028b6e7db0c6d7c9862c65aad4fee9105cae14714e33b1fdcba5d1311e12b86003b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Copilot被曝存在AI蠕虫风险，隐藏指令可在Word文档间传播]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX11EZJBzD76JvL3Z7cZNmLibXCrH4tqib04icCTf8cvMFOkMkrDs7cGiaxGH4OT5a4JHJWrXic6yUibsDVhAlydHGZbo7rOEJ6xyarTc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Word文档中的隐藏指令可让Microsoft 365 Copilot改写报告中的数字，然后将相同的指令复制到生成的文件中。研究员Håkon Måløy于7月28日公开了这一技术细节，距其向微软报告已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343711&amp;idx=3&amp;sn=3de53c89ac82c751b3a8584cb25fb469&amp;chksm=bc81e47c453aef190cdd052fc10389ac445f6ae2fd3e002f05ae391283c602869b27c54dd1bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chrome 151修复370个安全漏洞，包含7个严重漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10f4WiaSR5bdDwa7d2Njd9eCIiaADic8ia7YXL269rTOjLgNsOibXz6iacA01ZNec6U4vWEvlpm8RsEf1qia8vFHhtsjZnnLv2kruyyU/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌已将稳定版通道更新至Chrome 151.0.7922.71.72（Windows/macOS）及151.0.7922.71（Linux），更新将在未来数天至数周内逐步推送。据谷歌安全公告，本次更</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343711&amp;idx=4&amp;sn=2e452efc526ff891262da563dad217cd&amp;chksm=bc7edebbd794eb6c1f3bc3b46b20c8fbbc1894fa867e3cab4b141b38b71d2ea57027e19c8692&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos常见问题：能力、访问、竞争与影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0M6H4gCTjYfqXMcpHT1iaWl9ZSqAlQzRLiatOM14Dh2bHO7JtxE0WHQlXdm1ziaOepDtJiaGMico55pQLwh6A7VxZtJIDC5fCkEHpI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic的先进AI模型已为网络安全界带来巨变。以下关于该技术及其对安全策略潜在影响的要点。Part01什么是Claude Mythos？Claude Mythos是Anthropic开发的先</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=1&amp;sn=61f900a593c25d658e7805b9509f49b8&amp;chksm=bce3fcfb6dc7e8f33361bd4ef5865db548f13d59a97e1aea1ec3fdb5e214b3f0b521737ea3df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[15年历史的NGINX漏洞可致Worker崩溃并实现远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Et9YHnjRkK3LicHTz69PLHSfalATcPvsKTmyodM4VpQ17RD3wibiaPoa8I7nuTc8QytvkcoickXdickhpCTbCkhO6FkCRBtxQ0ZWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5已发布针对NGINX一个严重漏洞的修复方案。该漏洞允许远程未认证攻击者通过精心构造的HTTP请求，在工作进程中触发堆缓冲区溢出。漏洞编号CVE-2026-42533，已于7月15日在nginx 1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651342953&amp;idx=2&amp;sn=bf799b46ea05530ec6f5b7ea6caf385e&amp;chksm=bc18d52f3966640b7ca74da104def7ad5846cc31e4750d47f77d5d10dbdf20abba613698d758&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 16:36:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
