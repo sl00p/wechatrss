@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[企业内Agent工具落地实践：统一Harness、Skill与虚拟文件系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7Gkib5RJWCj2VulKQyWmJC6HCLibY2IwWG6wBmHYG31WDGkBMQEzicf4yciarFW4hcKnmCeoOUj3Q8dxic4wQmslQUupsCLUfBcz4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告这是一篇关于企业 Agent 落地的笔记：结合行业案例和自己的实践。我知道在 AI 时代写长文是逆潮流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696970&amp;idx=1&amp;sn=5f7777dfa41a0a08c6d9e4d1feab6336&amp;chksm=eb29ead85e9a77d532b35b0f45393335f45e7d7199ba79e4390fd513c88ed6cd61d20ded3be1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[参会指南 | 错过再等一年 8.15 大湾区架构师峰会席位告急]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6HOhHxibiasQFjpoRXGicT8m7X3L7bCucx5PPib7QVbEI5cK3L2byC9Wx57kWvDocrF9B8AJFbAjPODoIibYbQhS6TQvibNInq37FeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>8 月 15 日，前海见。峰会倒计时，筹备进入最后冲刺阶段。为了让大家当天能够轻松参会、不错过任何精彩环节，我们准备了这份完整的参会指南（图片版+文字版）。从交通到签到，从日程到吃饭，一篇全搞定。👇图</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696970&amp;idx=2&amp;sn=3066e3e33ff600ca37c41e97bab29809&amp;chksm=eb16cc120e4dc4d263fe91029d9fdff900a8b4fe1f7ed6686d252fd3a8ab28b6af1f49685d15&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文读懂：FDE的12项核心能力]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5lpZsTaGmtXic4Mjx13PdEfIz1ZedfxQsNiaKFJTADb9Go4cSH7fqibg1rEIrL2M9PmPxs90icFhtgokicG2fZTXzc3nlMp096ib5nM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告本文为腾讯云架构师同盟独家约稿，内容创作过程中有使用AI辅助。2026 年上半年，硅谷的新闻是三笔大钱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696960&amp;idx=1&amp;sn=1e5a8676382190f22a1c1cadb0419c5c&amp;chksm=ebac033ea51971e02cb8ac2c0e86885cc7956f1379eadfd3823cbd724785b5784f6f39757b74&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4xy6anqaxiaEWlOEibCxwK4GWdhPceK9zuE7NkGnayicsJxg45xGGsjJMibxTKKmtyQXZuFGqFgtvuSZBMfUPpibmqzwC3dEZnuC5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Claude Code 1.1 持久化指令文件没有这个文件时，每次对话都像从头开始，相同的规则和错误可能反复出现。代价：文件需要随项目更新维护，否则可能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695469&amp;idx=1&amp;sn=9ba77be5cdb4a9031a708c7361d7a026&amp;chksm=eb16d18f4a0fbaa7ecfe6de18f3c425ab11ce95db6fd61e4c1c4c1203b9350c7bdd01a5c9235&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering实践心得：如何高效驾驭AI？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4TAATrxaxs4cicWGh9JyUfpGbpsKlJ1gDCibrHKu2MzAnSIrfs6y66rEhwnMDLfIurQYwEOxQficjLyLUBib1uGmWL0T8bE0DLe34/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇先做个自我介绍。我是一名游戏客户端开发工程师，日常工作在 Unity 引擎开发。从去年开始高强度使用 AI 辅助开发，一开始只是让它帮我补补代码、查查 API，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=1&amp;sn=639d83e3bacb5cf2e040dad911bbde61&amp;chksm=eb5aa1a2fdee4a1c40ba86f8111170eff4234398d3dce4722b4df828028b6afe98893caff9d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5月10日·西安｜免费安装「能动手干活」的AI！名额有限，速速报名！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr71VZWxq4D92898lPKkl21AdB2mx4VC7ULqWwehLZCMdt8VP4HicjA3Yy9a85MIqgkamCeoK7SbcbnNOKjSWGcRGrzI2p3M4jLE/640?wxtype=jpeg&amp;wxfrom=0"/><p>5 月 10 日（周日），腾讯云开发者社区「AI 公开课」将落地西安。本次活动由腾讯云开发者社区主办，联合多方生态力量共同发起，聚焦一个最朴素、也最真实的问题——现在这么火的 AI，除了聊天，还能帮我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695462&amp;idx=2&amp;sn=a0b70e0e942475ed7de079c7e14fd7ad&amp;chksm=ebd03360b1c2d10328691e1b77f4844e6f48e185f0162aaff486a9d601722df1abc4973dd369&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

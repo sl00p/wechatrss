@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.08.07~08.13)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicOwhcWFuAJ0lpoArmODobjzemyJqfhVPeic8Fy6YB6kz6YwrPkAT7JtCJhrxm7E7lnWtpoZL3g2dpRHjlO4FSibpS38067vz9l8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.07~08.13攻击团伙情报Darkhotel 近期利用朝鲜相关诱饵发起的攻击活动分析Head Mare APT 组织利用未打补丁的 TrueConf 服务器中的漏洞投递恶意软件Laz</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519857&amp;idx=1&amp;sn=ac62fb3eb6bc94da52f0e696f31357c0&amp;chksm=ebdd58cb03488d7a6d73f98f58bc6c6a5a1b0ba98ee5a3ebbb7dc42b4e0428f2d40e2d46e303&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 14:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当黑客开始"预订"酒店：钓鱼邮件、被劫持的 Wi-Fi 网关与三线围剿]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibHIQYgtRtSibIShn2FiaaaSQHo1Lk1FJDjb3Os0MibiaHibktL52MsFK0Qay3sTibn3l8Lfc1DTSYpJI2D4RCRbd9hv5kh8czvKahY4/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 行业安全态势当黑客开始"预订"酒店：钓鱼邮件、被劫持的 Wi-Fi 网关与三线围剿钓鱼邮件、被劫持的 Wi-Fi 网关与三线围剿——酒店行业正成为网络攻击的高频目标。· 酒店安全 · 钓</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519829&amp;idx=1&amp;sn=e0b4afe971183576744947a54e117ae0&amp;chksm=ebdaf6e5a68e0adbc8a776e59114aad77137d0f7f60581315743d38bfe872e49e62b94e49f7c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicEzK0kXqsNAmcImOg35boCibRSllBgGeAM3w1cGozXeVPelSY27a4Ip6a3xic66IGmmxO0Q2WqyOECsyQhK3rOUblhpepMgbNY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景概述奇安信威胁情报中心在持续追踪境外高级持续性威胁（APT）组织活动过程中注意到，SentinelLABS披露了一起具有里程碑意义的发现：一个可追溯至2005年的国家级网络破坏框架fast16，其</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518546&amp;idx=2&amp;sn=971c24fad06958dad96bcd52816243ef&amp;chksm=eb17bb7bebbddb92180a36a621a6494165ac71eab0fa40604bcf8ba44a71d285015923f09b80&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 11:55:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[又又一起AI相关供应链事件：Xinference PyPI (版本 2.6.0–2.6.2)供应链污染报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicu2oDIDCNNdQbYoypZ79slkicgOdXCatlG4toPwFliamfqLsCX5t9icibt67vz1mqlL8snEA4KfcBhGNOdyadvTAdIzhxesKfgeX8/640?wxtype=jpeg&amp;wxfrom=0"/><p>执行摘要广受欢迎的 Python 软件包 xinference (Xorbits Inference) 在 PyPI 上遭到污染，该包主要用于部署大语言模型 (LLM)、语音识别和多模态 AI 模型。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518509&amp;idx=1&amp;sn=bef0b7230e3d69d03629a6f6c6ee60bb&amp;chksm=eb0c39162dae031bc4c27485fa264ec349d52bfb296beb324bf7de3b3139ed1400c24825f7c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 10:28:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

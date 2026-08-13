@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness 拆解：一套能拼装的 Agent 架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907mqlZGcDibrBqMaa0IBM31ck9kIicSDIa1perp6ApxNqDzDl83kQ9wcwLO8WoppNr6Kngzl3Yo8aiaHtFM0iayLkVfIsefJmMIco8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chino，腾讯WXG 微信小店前端开发工程师DeepSeek 发布了第一款 Agent 产品，DeepSeek Harness。这次的重点放在了运行时架构上，官方给的关键词是"everythi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803587&amp;idx=1&amp;sn=a5ac30af9c015db111b60f947eb4e240&amp;chksm=bf820750373278f99c04ed01d7c3e33debec020565a12fd005de669abd2ebb51a2c572f3040c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 17:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3万字长文带你WorkBuddy 从入门到精通]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907HgjStYTKCIG0m0whvd6lM0jacHRspic2icK5F1ibsh937NcrqjcDGGNf5b7GHV0R1JwDoBJ1yLAzdxje3UC0mTX9oMdo2FAmLgU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：孔德远，WorkBuddy 产品经理这是一份 WorkBuddy 的「从入门到精通」完整指南，从下载安装到基础使用，再到进阶玩法与效率技巧，3 万字带你一步步摸清 WorkBuddy 的核心能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803569&amp;idx=1&amp;sn=325170a0e2bd7117d51dfabbbd79539b&amp;chksm=bf00cb433ba7ba3f45e616d8c88279f976e59ce4b0d04d415e841c0a24de66a8652dd20aed45&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905PHV0siarjfk84jgQXRMay8AZtt75gu2oWfWV1yLRLzzXnhDJcib6j8FKRBlWzEFRQxMBg6MPadFqws5xOboFYIO51ictUhU98FY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：jacksondeng、yuxuanlai、gcchaoguo1、背景与挑战1.1 背景当前从需求到交付的全链路中，大量人工仍耗费在方案设计、代码评审、测试验证等非编码环节，频繁的上下文切换与协</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801307&amp;idx=1&amp;sn=ca2c68447c2abe444b2bdda380b7c849&amp;chksm=bf40033ac88c9c3fd79c102665c024b41c32c6ce22e0ebf5c0731da992147347347dd18f270e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Apr 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Vibe Coding到Agentic Engineering：重构后台开发全流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904szngkJV1gTzqoZzdQGmaa8Qx62MQX7ERT1QZowzIIMSxFD4R7vwFWrrGAko0y159xrMWqsHibYuIqjcrsgN36WSJ4S5gJKCHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：seanguo引言做后台开发的同事应该都有这个体会：从接到需求到最终发布，我们要在 PM、GitPlatform、编辑器、DevOps 平台、Galileo 之间来回横跳。每次切换都在丢上下文—</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801233&amp;idx=1&amp;sn=6e6eaf8a0e94e8349bbbef4b734dc5c0&amp;chksm=bf2bda30349bfdbe3c8291b3a65108a3c4d3c2f3a43abda867f23c4ac1f01cc4d55d78179f2b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI编程语言Mojo 1.0稳定版正式发布：三年打磨，终于能用在生产环境了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBAWtcnhDlUqb3PX5JSHsXpS0D8I7RSHibgVuOIUGgib1wXwAXvs7sciaH4kZyfKVQGb1BsJhIcXMCEWSUc7RtgVYMH8Gic65Z4jcxo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2023 年发布时，Mojo 编程语言被宣传为"Python 的超集，C 的速度"。三年后，它兑现了其中一半的承诺，正式发布了 1.0。Modular 团队在公告中强调，Mojo 1.0 的核心承诺</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247622306&amp;idx=1&amp;sn=573d88a2ee26d26209b0f2ace4b667ee&amp;chksm=f521a9cf2be605e2e03492e1d36b974a0530f934822d1e2cbd688b8742b150fe476d4138170e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 19:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek Harness正式开源：一切皆插件，Agent框架的新玩法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBAuD6VGRhTGnzvIVar5araHJjglia0Dm4ssOR92KhNlY9uS5T46ZHGg2ibk1SRNJnkatbKj7t6JTibTRm6XEpoRrvvBogpcXOxCbQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek 正式开源了 DeepSeek Harness（DSH）的 v0.1 开发者预览版 —— 一个 "一切皆插件" 的 Agent 运行时框架，MIT 协议，源码已托管到 GitHub。和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247622306&amp;idx=2&amp;sn=d8ccb56e22bf894aac2b8968b8bfb18a&amp;chksm=f5e2e73fa5863c9dca2a6c790370c343cb3b94e3d572a608cc1b491ee7173d44da88d6d304df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 19:48:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Go是最好的“AI编程”语言？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBDxfdtKID7HCctjIic5YwDicwh0iaO7QTfaephkZ2OFzI12xumpctqamlCgoSCNUjegoaMiblJBWDalOUZ91h24wejibq8csZPickMmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 帮你写代码时，你选什么编程语言？Google 的答案是 Go —— 不是因为它好写，而是因为它好读、好审、好维护。Google 官方博客发表了一篇立场鲜明的文章，论证 Go 是 AI 辅助软</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247622273&amp;idx=1&amp;sn=482747b1ac7b60799cfb1fcfe9597b90&amp;chksm=f5b3a770d929ab829727e5e4aff32673c2264382fb8e3e4e8397f1c9b94896ceaf82b8b3f4c2&amp;scene=0&amp;xtrack=1#rd</link>
