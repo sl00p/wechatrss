@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjO7dAt3MsOITGc37tCGIPeVHf72lz6pJyOMibNQVy0HY8JeUdxHGnZ6iciaH3jOLvVNr8diaTLKThVRJQBoYyib8j7oSKZpGlPblCc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟北京时间 8 月 14 日，GLM-5.3 正式发布。GLM-5.3 围绕 GLM-5.2 已经搭建完成的长程强化学习技术栈持续扩大训练规模，包括增加更多任务环境、提高任务多样性，并投</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=1&amp;sn=9df4ad485645f6eb2fe92b02a95145c8&amp;chksm=bc7e55b10e7d0c74afadeae79fce4974de646bb44bfcb588afc4655748b5b8571d880b1085b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[年度AI论文！全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3重现概率异常]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lYDricib2fsm4LqwNUl3snuvmgw8VREn0kNyzGCcB2IJHwVPOYQzrpicy5ISt9XIYx8oflCWh4TLwVnPVyeZbERfG3XHHIRP10C61kuve3g3RM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月这两年，“防蒸馏”一直是硅谷闭源模型厂商的心头病。Anthropic 频频指控 DeepSeek、Moonshot 等中国企业通过 API 套取推理与 Agent 能力，为此部署了极其严</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=2&amp;sn=48bd13ae52e81581d6d7ea2d1a5d6565&amp;chksm=bc1b85053f198a9761d6d54b2ec992828fcf003717ee2592674a96f587432e5a7f185e8c4eb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[与运行时无关的 AI 工作流：一种兼顾生产环境稳定性和快速评估迭代的模式]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj6ms5FrAIBQQZkUt8ploEImndAcLYGia6ETD5yHbUOIf7sDticG1PZfv2OCjMBbOChmbqkPedyxmE5tNlFyFR303JxRRnbGXvH0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Mateus Moury 译者 ｜ 平川 AI 工作流是一系列为完成某项任务而串联起来的步骤，其中一个或多个步骤包含对 大语言模型（LLM） 的调用。在此，我们将这些步骤组合在一起的逻辑（包</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=3&amp;sn=b8c89bb50a25bd7291ff7c1caa7de82c&amp;chksm=bc8a148cfa2330d4b0783da1cb3c55bf3f97ef3f56ecbb5b3a3adb5e74929a2ec28f543d5416&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 正在重塑故障处理流程，但棘手问题仍需人类解决]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjjAVAOpVHJm1ia53sUZFrZmVcNibOPMdcaYQ7wamia0OWuxWRNq0Oiapr02eEibxIXhANsYWYp2uJaC66nNmdubxfwmCFWFDuH5adM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 明知山 AI 正在飞速改变工程团队处理生产故障的模式：它不仅能汇总故障沟通记录、解析不熟悉的代码、给出修复方案、生成代码合并请求，还能越来越多地辅助故障排查诊</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=4&amp;sn=197464e4b3134ed85a778dbbc50669ce&amp;chksm=bcd26642a171f518fc38f3814a667ab9a743f5116efa33bfba03bad3c52028a3824b6ec44c4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Gemini 3.7 Flash 突袭！谷歌AI紧急换帅后的首个大动作，“内斗”真相浮出水面]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiamiaX6iaWHQV0H0Vg4lQcwibrorCyibFwaAaGNqokuaIosNKEiamVpYzNj2QoahFfwgbUQmQCUamibF4lma0SP9TUMRJCpKRMxb1Uts/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 谷歌正在以前所未有的速度更新 Gemini。昨晚 当地时间 8 月 13 日，Google DeepMind 正式发布 Gemini 3.7 Flash。谷歌给它的定义非常直接：“迄今最智</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290785&amp;idx=1&amp;sn=ea4a737f41e7b3894d13ab381d7f525b&amp;chksm=bc8e932c7a0e7b12ea3a08975dc7c1bb9ec0fc056b393d25c0d1d130b9542fbb3740d376cdd3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh78Sk6mx9kD3pUzkY8xQR3w7WxCkHSl6S8gt8pRFUnyicSH2icF0j6SGyZJfEa1Z3FJNRwZUj1CBLybS6XBM77nRhjIDDS3b9UE/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去一年，AI Agent 正在快速进入真实研发场景。它能读代码、调工具、跑测试，也能推进一个完整需求。但越靠近生产，问题越尖锐：每次对话都像重新开始，个人经验沉不下来，团队上下文、技术取舍、任务过程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290027&amp;idx=3&amp;sn=23dc8e519d8f04702a3159a531482d4d&amp;chksm=bc33ce1df2f9efba53368e00d321b215d65d64d892b9a23646fac8842e19426e39b253b359f2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Aug 2026 14:31:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj4yjc8bRxYSGCNoBODf4qqHnutbicNQCQIRzNHp5R6fIO0rzlI2kicOicF5aTFIHkwDmZJicG0JtnQHW0S5O4TibFccZnzNY10Mh8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 田橙 Remix，这个由 React Router 背后团队打造的全栈 Web 框架，已经发布了 Remix 3 beta 预览版。这是一次从底层重新构</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290027&amp;idx=4&amp;sn=f662b185cf64ea2e165128221d5c42d5&amp;chksm=bc2e6ec7e97f8cb3a4184b9ff7c53eb15b6d0d6352509fc9ca946ff296b5f7459c3103d0dc7d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 14:31:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DevOps之父：发几个Claude Code账号就叫AI转型？Agent用不好是公司的锅]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgnmLYs3AIhPiaFdRNJ8Wiczm1SIbsyhbo6kMM5Y1C2jQ1OE6M9qdwF9rO2P1HR4uV6Y78O6ib0TU1WwGIgsQdRANTJIbX7JGpAVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 如果一名开发者怎么都用不好 Agent，问题可能并不在开发者，而在公司根本没有为 Agent 准备好一套能工作的系统。很多企业所谓的 AI 转型，仍然停留在给开发者购买</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289986&amp;idx=1&amp;sn=c711114338d69a62613e684d6f7388b7&amp;chksm=bc86417554a6cc06538b4d9d8e347f41a729ec0ff8612d7bad9e5868ed7b43c76ff8cfd4d73d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 12:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自构建智能体：一项 LangChain4j 实验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj8fIJVqbdkZuE63LLzHSnunfvicHk0Lp7bsYg78R6OFh6ciajiang0h3VfNOo0Tf60GWMdgdic8VllsFjkqpJ9JeOLc8JTRIYp3D0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Kevin Dubois, Mario Fusco 译者 | 平川 我们决定尝试一个元实验：将 LangChain4j 的文档交给一个代码助手，并要求它参照自己构建一个智能体。具体来说，我们</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289986&amp;idx=2&amp;sn=9ddd5b4595e46ea7f853e30b1053986d&amp;chksm=bc3e3b92081aeb31dea36f7e6d1910be46401efb2feb07aae3c2dcb5b913a31cdb399ef8139b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 12:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 Data+AI 中场纪实：企业决策者，敢把真实业务交给 Agent 吗？| 直播预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgne8zFcYQsuC4uGAwknpOr67d5e0dNP5jaEPE5MRVpa4dXMolwgMYBk4hNw5tu9byibwoIMy2nNx0u0TfJ0qsWffYgeliacPQ1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 贾天下，Snowflake 全球 AI 技术战略架构负责人 审核 | 王玮 随着 Agent 逐步进入企业核心流程，迈向 Agentic Enterprise 的关键命题也愈发清晰：一家企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651289986&amp;idx=3&amp;sn=05e7e72d540cb4b109f2cea9caeeee4c&amp;chksm=bccd2c723f2477163de7a18ecbc66ec0e21831bc729cf2ad262eaf237f31b283e8fc9909d565&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 12:56:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

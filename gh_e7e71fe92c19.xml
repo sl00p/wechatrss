@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 KCTF | 第三题《午时·永数囚笼》设计思路及解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1kKyAafKW4lMQlvFhc6Aiaxrmux4HzhR0RDJfGaQgooKbLwHhicpoyUTvlqzot713VQahzztsdwnwveSwqsEPm67AZNMLPgLZLk/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。*签到题《辰时·钟鸣破晓》赛事周期内持续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618677&amp;idx=1&amp;sn=dea6a7d2a5f398404470a44f2b6516d0&amp;chksm=b0fdbbb4e11fe989b2d7cedd17a31ec4b3d616c5b318a5f66474e447ac659cfecf0e2985c20b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KT3ldk2bt32C9BibO6rO2SBCXWJuLAuFP6XichDqWXvtgTPbI9kev47McxPASR5qFgichs94hWhjbFbh9M90HQf8lt8iaU01hbg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618677&amp;idx=2&amp;sn=3554a8010a489ba06f6d1a074a2ce466&amp;chksm=b064a37b74d07d7dac212bd4359d912f4f6ea062f08973ffe764212591996fa5642ace9594cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[angr符号执行对抗ollvm]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0djQ58B4TXGVnprJQicO2fu57ibNHIPFmAOibstPgNVicSBQhPic9qGFftVpq0BslZCHnwgxzYscn4smsboE6qic4wn0GZjDwPBMO1Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>ollvm一直是程序保护中的一种强有力的手段，将原本的控制流打散，用一套分发器去控制流程（网上资料很多，这里不再赘述，请了解ollvm的基础知识再来阅读此文章，比如啥是序言，啥是后继，啥是分发器），本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618672&amp;idx=1&amp;sn=65f71de667d50fdef9073b6b60fb5d91&amp;chksm=b02f723a9d5c815d280c3dfa5463741501ee8d698d9535c10b967e606bbc6cc010823cfac6be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01伺服动态（南京）科技有限公司逆向工程师20-30k就职地点：南京市溧水区润淮大道28号职位描述1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617657&amp;idx=4&amp;sn=10ad65643b01d1b3d3ae548674868c2f&amp;chksm=b0ed4adc6e5540af49245007f151c523acdf84e612d38de3a15d6fced11bc3d50cbe438355da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Jul 2026 18:02:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何避免窗口被游戏反作弊误杀以及替代方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1WAHL82VEibQGYWSu7T7pq3xjllzMsEvbxukLhZq4ObtJx8UIjJXib50J9IJnTiboM2VPVGPmv4Erw0VzDocVxibMuoV35urdM2ZI/640?wxtype=jpeg&amp;wxfrom=0"/><p>同步透明覆盖窗口与任务栏状态核心问题任务栏可能：被全屏应用遮挡/隐藏自动隐藏位置/大小变化虚拟桌面切换方案：监听任务栏状态同步class TaskbarOverlay { HWND m_hOve</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=1&amp;sn=54c0bc8acd309e50f82c44be8e15d9b6&amp;chksm=b00dc0ee0da7926a5b8e48643d450e85229cb81681552effe3a168a2428c17e281cbc3291a91&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[又撕微软！无补丁 LegacyHive 0day，低权限可读取管理员注册表数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1YUaDqWc4d6GNdr78rcK4Kiap4TnxtVvQbic0ia9JiaibFWsVfMvSwPEgopObSfYs9719kOtqzCRBjobniaKty3lyEia64jCqGtW8RBc/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月补丁刚落地，一款全新 Windows 本地提权零日漏洞直接公开完整 PoC，全补丁桌面 / 服务器系统全部受影响，目前微软暂无修复方案、无官方漏洞编号！补丁日变“打脸日”7月14日，微软刚发布了</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458617641&amp;idx=2&amp;sn=c9db90ecf64e7fc1a85189aaaeff52d4&amp;chksm=b07a7ea0661d091c4dd5b6f8f0760f109e85f9f23dca5aa7e60ba91aa9a0b90b16c8b9799387&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

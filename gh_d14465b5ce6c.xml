@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907LNkjbAsJJH6xum27KEtFdibbXBcvibuyz6sutyia2YAuOtR2Gcq7lhvUfQubeb3sXjJicn5uGKq3iayRm83iaWTbHpgvmQP1eaHWeM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：osli元宝产品经理；相关团队：元宝产品中心、元宝模型工程中心、元宝大模型应用算法中心DeepSeek-V4-Pro 正式版上线当天，DeepSeek Harness 也开源了。之前注册Deep</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803588&amp;idx=1&amp;sn=36499841c1cc38ba9ccae6380a90aec9&amp;chksm=bf9dfe7f721442f239dc94726e32781264a3af039a6426c7a7775eac4b2b456c1d479cb93411&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 09:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness 拆解：一套能拼装的 Agent 架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907mqlZGcDibrBqMaa0IBM31ck9kIicSDIa1perp6ApxNqDzDl83kQ9wcwLO8WoppNr6Kngzl3Yo8aiaHtFM0iayLkVfIsefJmMIco8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chino，腾讯WXG 微信小店前端开发工程师DeepSeek 发布了第一款 Agent 产品，DeepSeek Harness。这次的重点放在了运行时架构上，官方给的关键词是"everythi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803587&amp;idx=1&amp;sn=a5ac30af9c015db111b60f947eb4e240&amp;chksm=bf820750373278f99c04ed01d7c3e33debec020565a12fd005de669abd2ebb51a2c572f3040c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907cxTyqsu7dAgBWI0jSZppqS9vPQWPPxKxNu7KmlDlUEx1FO1YsmtEM08j6Hx4NFdDRouexkRXgAAjWbIc8icsCgQeOb1Z2dw4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lancelotluo引言当 AI Coding 的聚光灯几乎全部打在前端和客户端——生成一个页面、写一个 App......的时候，一个重要的问题却似乎被回避了：AI 能在真正"出事会炸"的后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801331&amp;idx=1&amp;sn=7dfd93b1754a4f80c993347c4b57adb1&amp;chksm=bf6adeee551c79e9306b37e38885f55abccaccd9b27e6f5c2a44beee4d52166668d3066edcf6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 21 Apr 2026 18:25:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从提需求到部署发布，全AI全自动化后，研发效能全面跃升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905PHV0siarjfk84jgQXRMay8AZtt75gu2oWfWV1yLRLzzXnhDJcib6j8FKRBlWzEFRQxMBg6MPadFqws5xOboFYIO51ictUhU98FY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：jacksondeng、yuxuanlai、gcchaoguo1、背景与挑战1.1 背景当前从需求到交付的全链路中，大量人工仍耗费在方案设计、代码评审、测试验证等非编码环节，频繁的上下文切换与协</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801307&amp;idx=1&amp;sn=ca2c68447c2abe444b2bdda380b7c849&amp;chksm=bf40033ac88c9c3fd79c102665c024b41c32c6ce22e0ebf5c0731da992147347347dd18f270e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Apr 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

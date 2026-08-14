@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Token Jacking攻击窃取API密钥，导致近百万美元损失]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3G5k0lYoqpO3gk2ures2Q6oMZfuIEaqWUl9l0iaq390zCbLRIEjvHibJQTxyPuEcfhopR8liapMKzaHqJkLZeNaj2iacfUUozPicc0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI凭证正成为犯罪分子的目标。一种日益增长的滥用方式——AI Token Jacking，让入侵者可以窃取API密钥，并在他人账户上消耗昂贵的模型服务，最终导致账单突然飙升。这种窃取并不局限于某一种入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344664&amp;idx=1&amp;sn=c3fb411148aee7c90072806f1aa4128b&amp;chksm=bc4573e34a33de2dd165e6bdfa14bf7f7649b9b4eb005c5a1c0b10281643518ab617dc46bcd0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TP-Link披露多个高危漏洞，攻击者可绕过身份验证并提升权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2aXGvE4eWP9ILFKzfGC2FbfMIcBdWV4TdTfVAq9IgkredZ643XrxWEV5oLVozxvv5sdgNRa7Gd253DbNEjE1ZMAcCXgTEibcM4/640?wxtype=jpeg&amp;wxfrom=0"/><p>TP-Link已披露多个高危漏洞，这些漏洞影响由ISP（互联网服务提供商）管理的Aginet网络产品，包括Mesh系统、路由器、PON设备和xDSL调制解调器。这些漏洞可让具备网络访问权限的攻击者绕过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344664&amp;idx=2&amp;sn=6ec8a3f42a382403b4b61d1ded57b30c&amp;chksm=bc1270deb45795af05a7d8a62941e306a0232dff9f052d4e65c2f34292911146dc9468dc784d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[API 漏洞暴露大模型隐藏推理轨迹；OpenAI 发布 GPT-5.6-Cyber | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🔍 API 漏洞暴露大模型隐藏推理轨迹🤖 OpenAI 发布 GP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344664&amp;idx=3&amp;sn=732638fb17fb6f41be08814018ade7fa&amp;chksm=bce51e6c7d13484013d84ffe1f8631ae0287eb87b5edb287653d7fe655c9fdedec645e8acd5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[朝鲜Lazarus集团利用Windows 0Day漏洞发动“梦想工作”行动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0xChyaLI8LJn2gwlq7MmphYiccbrqHxAa5RNgWibibY3qRj7h9nMxJgmMFGaOytNia0ILiaeDFQPz6b5jLgGib3ZX1U6iaFXpiay6HT84/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击手法升级Check Point Research发现“梦想工作”行动（Operation Dream Job）新一轮攻击浪潮。这是朝鲜黑客组织长期实施的一项攻击行动，以精心设计的虚假招</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344625&amp;idx=1&amp;sn=3e0df3c8d42607a24adaf9196a292ed3&amp;chksm=bc07534344f4adfcf133539960f10ac9c34ee0ea88bd09c898077bdb8edebea15842a17e4847&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX231kcwkjfjXp2Y14cFoIqdQ1iaw3M5YdF3mCtGrYBTaB33f4bvKtRlb6t19haPbKvdAFWibRvibFPB86KK6LKgUvDyvYC7b3XCIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part0141分钟扫荡1,196个地址7月30日，一名攻击者在41分钟内清空了1,196个比特币地址，盗走1,082.65 BTC，按当时价格计算价值约7020万美元。Galaxy Research</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343827&amp;idx=1&amp;sn=7ae5200683fcbb26437066a5e258a897&amp;chksm=bc7263abaa7e7572114afca623ff4f6e05d12a1eb568f014617b3977ba8807d2a262b317e3dd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 02 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[俄罗斯黑客劫持酒店Wi-Fi门户窃取Microsoft 365令牌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1oNVINfI1ibq2c6mJjrricnfomdTaFxIEiaG2iaK7dL0ZI6NLNdZUn61IImibezkclR3Ykq8swBib84kX3cxEZRicoDMAgLhCjJkxBMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01俄罗斯黑客劫持酒店Wi-Fi门户微软威胁情报披露了一项名为CaptiveCrunch的活动，该活动被认为出自Storm-2945之手。Storm-2945是Midnight Blizzar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343827&amp;idx=2&amp;sn=9cae008436ab9fa5e3e0146f9d31eca0&amp;chksm=bcc1873c45d3892fedc7791f8e8c3331cf5ebb97cd26f795dcb779d9d5b7a44e1d919fd3c086&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：微软威胁防护；契约锁RCE分析；TCP四次挥手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0KUdKFqiaNF1d3VBCxlXbpYrMMzsVlH1Z0BVtlnsx8IyrdJkcFe5DxNRbmFg1vf2HD1WBWvJg3Q4NA72tKh9a7YMYD7lxCo2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343827&amp;idx=3&amp;sn=ccc32b84f1b08f9d76765830536abe9d&amp;chksm=bce9ed57c204e6f8fc61abf63dd836f3c925929a7179cffdefab89707eca1889b363b60371d5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全流量安全，正式进入“AI白名单”时代！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3To2GSM4mXibcHd8Ar5VhlO3R5ZPiaUvfgCic5rtrvMOw1s9t2pvT3biaO23eUgJkmlEaSYXXygibSo4QHXial6I39nzic0VFuO3iaFWE/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343775&amp;idx=1&amp;sn=62317ece45819de2e254a3e51ccbd935&amp;chksm=bcfd6b00db0ae34029b9ea63252368c49201d891f92e3bdd3dd8b497d1e0eb17eb0110e8bb8e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 01 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

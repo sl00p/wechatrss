@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GLM-5.3 来了，编程能力提升 50%，两周发现 2404 个漏洞。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1UO5Lcbb19h1bibzkknHvWRibMWibMQoByjJJ7HRxqc7YkuXpXhP6la4BAicPyia4qHchIDcdsSGupV4NA79DRfrEicyL0yjSmwfq9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>智谱又发模型了，GLM-5.3。它沿用 GLM-5.2 的同一基座，参数也没有增加，仅靠继续加码后训练，就在官方自建 Coding 榜单上实现了 50% 的提升，堪称后训练之王。Coding 仍是主线</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536022&amp;idx=1&amp;sn=8d467e7c4ea2140b97e16b73f0f7a9ad&amp;chksm=f8547d41ad43e83adfdd7472a771e118185c862b8bdd89b47d5b69d73c2c0698304332e95232&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 15 Aug 2026 16:53:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个 Skill.md 拿下 1.8 万星，这个 GitHub 项目让 AI 先说重点。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1Nyiap0n0JqZI3AQmiceJ3icavOgUGjtWrmwuuPpGLw1CHiaRVgQQdgK1e6l28T8pJTOXCJuLySwoZYyRaAwM2DjCCnS61icjax8IE/640?wxtype=jpeg&amp;wxfrom=0"/><p>i-have-adhd 在 GitHub 收获了超过 1.8 万个 Star 。这个开源里最重要的内容，是一份约束 AI 如何回答问题的 SKILL.md。没有其它花里胡哨的东西，就做了一件事：把 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535898&amp;idx=1&amp;sn=d7b494068dc8ac1d6f9f3dd833dee54f&amp;chksm=f8d09317fafe3d7e9623315784f971f0e8c31cf0d286f6d722b1db91fcc28341a24b55c91248&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1VTmNd2dEOXibzJoBmGsorA5qht97IRxnbdnNHV5Omsnbggv4G7hfdffH8YTqCsIkDrIkrQ40IWHY1KjgG0EtZFfHJrs28hofU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 X 的时候，发现一条推文被疯狂转发：Anthropic 悄悄发布了一个官方插件，叫 claude-code-setup，装上后你的 Claude Code 的体验会完全不一样。然后顺藤摸瓜，发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533995&amp;idx=1&amp;sn=b91dec98b97f0cd58f89f7cd3a6f68b2&amp;chksm=f8e0e1888df91ea6750483c5adc4c9950ecbdcde5989d843ba8d3132ce46721d1052b1a8e14e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 13:02:15 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不要错过这 10 个本周火火火的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3vbgSlWeDBwZRotKza3vYicmttEPxE9pxp2MnJBTJkB07TKMLP3vibwuu0nt3QXoIJzUxxc0uXW4N7tJ2p2BJHGTXribPCuB9Vok/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 AI 装一套科研全家桶现在逛 GitHub 一眼望过去半屏都是 Skill。scientific-agent-skills 就是刚刚破 2.5 万 Star 的 Skill，本周还在涨。它是一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533989&amp;idx=1&amp;sn=9e1ad46fdd67c5d0dec4b7fe4f46b765&amp;chksm=f80751e50457c3439b34d651893451dbbb2976caa563f4705aeeb9513ce8babff47ea8fd9ea1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 10:09:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

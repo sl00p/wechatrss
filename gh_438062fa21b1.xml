@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen3.8，正式开源]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4ib47TRPdbz9yRdqsg9WoHJPNQFXDgUlJGpFWKRassfjFDX8Z8yzj4F8kGXOXQb7k6XlNzUGycdGZtLSfo0wqLgXlRc11Iiciavc/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们正式开源Qwen3.8系列模型，所有开发者、科研机构和企业均可自由下载、部署和使用。全新开源的Qwen3.8-27B，是原生多模态稠密（Dense）模型，仅270亿参数规模，整体水平便超越了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511110&amp;idx=1&amp;sn=6c53830215ef70752c8abdb8982b297d&amp;chksm=ce801b25ddf16f948cd023b1e23a5d6a9bc4096d9a622771f5b18cf5733ac0b94028112eba48&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 14 Aug 2026 23:38:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 越改越乱之后，我用评测和轨迹把它拉回来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz70cLBJicmbaKxNbuVYMob1UF7NN4apJuAogT7DM0gicgFdN15fBcMgbxNxJ6RnJySAicjHC7RGRAB1yVM7po8WUa92q5rymU9iaPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 51 篇文章（ 本文阅读时间：约 25 分钟 ）01解决什么问题现在很多人都在用 AI agent 干活：写一份 skill（也就是 SKILL.md 这份「工作手册」）告诉它一类</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511106&amp;idx=1&amp;sn=e3e481953f140ab1a9afb73f7c40221f&amp;chksm=ce946017fe0dc719714c38a77c26b9882556f1f25be80a3be8ecd56f91cbb48b8f5864f42bd2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30Hyn6NaFhR154c7bCqqp6ib6udWJRx2CdJLib93rEJ4nU6NR3ibWngI6TwyHe97mGmibNib3soL3icYgUeA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第132篇文章（ 本文阅读时间：25分钟 ）01背景小蜜作为淘宝/天猫服务的门户，每日承担着上百万次的服务咨询。作为淘天集团乃至行业内最大体量的对话机器人应用之一，阿里小蜜在对话算法能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509071&amp;idx=1&amp;sn=d1c48bae19eedf4fa812aef489f271ea&amp;chksm=ce377c0043723c9b347c9a74030a6155edc432202f1e2831702d8aa73763f3b33cb481eca2fc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ROCK&amp;ROLL：阿里双框架协同推动Agentic RL规模化应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30HgMvSmxLZZAyvRCWSUGjLbSPRZuaibUYk0mbZGICRz6nfYOMg5yE3or4mQFygoKwNMU7O2sAE0nSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2025年的第131篇文章（ 本文阅读时间：15分钟 ）01前言ROLL是阿里巴巴未来生活实验与智能引擎团队开源的面向大模型的强化学习（RL）框架，该框架提供了完整的RL训练链路，支持模型通过与环</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509009&amp;idx=1&amp;sn=ac649ff2e3f281ce801b91299a48e348&amp;chksm=ce74ff40477c61c61c834eeaa99ebb4e18e095c2fb470e86a6d69754fb1b1c334f4ba6c35923&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
