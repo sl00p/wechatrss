@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一向不那么在乎 C 端的 DeepSeek ，却在 Harness 上选择了流量最大的发布方式。 这会儿 DeepSeek Harness 在 GitHub 上的 star 数已经突破 12 万，不知道打破多少个记录了。 DeepSeek Harness 官方提出的「一切皆插件」，瞬间引爆了社区，可以改造这个属性给每个人提供了积木。 无论你是真想做点有意思的产品（已经就有人把非官方桌面应用做出来了），还是魔改去做些灰产，反正可以创造无数可能。 比起实际的体验，DSH 一切皆插件的架构理念得到了开发者圈子更大的认可和关注。 Pi agent 负责人 Armin Ronacher 表示，「我不认为 DeepSeek Harness 是完美的，但这绝对是这个领域里第一个让我看了之后想重新审视我们自己技术选型的新东西。我太爱开源的这一面了」。 开发者甚至在热议 DSH 已具备「自进化软件」的雏形，Agent 能检查自己的运行时、现场编写并挂载插件。 DSH 背后那篇与北大联合发布的《时空可组合性编程范式》论文也有一定体现，里面提到组件不仅要声明「我需要什么」，还要声明「我会改变什么」，退出时系统自动撤销其影响 。 不少 X 网友看完这篇论文，直接用 「overwhelming（压倒性的）」这个词来形容，这下高低也是梁圣了吧（doge）。 你用 DeepSeek Harness 做了什么有意思的插件吗，欢迎跟我们分享。 如果还没来得及研究，可以先看看 APPSO 这篇实测： <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="msvj0pz6-fa80oc" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100830&amp;idx=1&amp;sn=0b48e8ab41005b844cc654dc7dcdb383&amp;scene=21#wechat_redirect">首发体验 | DeepSeek Harness 来了，它不想做下一个Codex</a> 想看看网友做了什么插件，APPSO 推荐这些合集🔗 https://github.com/topics/dsh-plugin https://github.com/Dominic789654/awesome-deepseek-harness 🔗 DSH论文：github.com/cordiverse/paper]]></title>
+      <description><![CDATA[<p>一向不那么在乎 C 端的 DeepSeek ，却在 Harness 上选择了流量最大的发布方式。 这会儿 DeepSeek Harness 在 GitHub 上的 star 数已经突破 12 万，不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101075&amp;idx=1&amp;sn=0ad3762a13beebb403e73338ebcd7595&amp;chksm=bc69a2270d05b10d2877f11d3b9dc46aadb51c7bfd066b2f022fc0ba1d9b7af89d12d332bd07&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 16:18:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《牛来》Seedance 2.5 重制版来了/全球首个被 AI 开除的人/有人把 DeepSeek Harness 做成了 App｜Hunt Good 周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfI9K119vicTibp8bCxdNLCzsxMwjCwib1IgGaonXib0gpEeZrJLiasPZQ9fwlt4ibqcRN2z3cyDymHiaCC0O9uFlG8LpjmiaIR0aRmXD7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>欢迎收看最新一期的 Hunt Good 周报！在本期内容你会看到：7 条新鲜 资讯7 个有用 工具2 个有趣 案例2 个鲜明 观点Hunt for News｜先进头条🏦 Anthropic 传以 2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101072&amp;idx=1&amp;sn=ca5e82edae273e31a137a280670a7ec0&amp;chksm=bc2c9b216bbb8fc0b442bc5d3b709b3f6a8298dfe2a276f15f4a10356fe238f213b66a66802c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 09:59:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[国行 iPhone 用上 AI 不远了，揭秘苹果如何打造「中国特供」模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK85jVtsoouF8ibR4vAGm5u00h2iaqQldvru0J5cB3F14TIzBF0b0eaebHUKQbdIc0aXHFtEaM8fhgJjKs3SeLMkYFJcFMichUHQc/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着新 iPhone 已经进入发布倒计时，中国用户也不免再次关心起这个问题：国行 Apple Intelligence 到底能不能用？据路透社 8 月 14 日独家报道，苹果已经针对中国市场训练了一款</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101020&amp;idx=1&amp;sn=3ce63de583cbfce1d8781bdcab50de12&amp;chksm=bc122fa4a4883bb6c8f91ebf528fae873dbcf78df4a7e9559ae08835ae6dd739b8a9591a50d8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIicutY1bp8tp2PeEcZVWJM8FcZhDy65BBkiabDlobhdHmJPVq49S7ujaA6fJRABkBovrft2UvVC596GYvic1nVffh6y65icHqHuSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我重生了。上一世，我是一本人工智能教材。学生在我的页边写满笔记，工程师折起其中几页，也有人把我放在书桌最显眼的位置。我一直相信，书存在的意义，就是把自己知道的事情交给更多人。只不过，既然我的内容是关于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651099103&amp;idx=1&amp;sn=2868405ad76543d50c5ce2924c3078a3&amp;chksm=bce04d456ca27f3b8cccc393f549839bf263279d4baa6c8f14c6bd9dfbcc291b5ce8221a4ab9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Jul 2026 12:10:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果国行 AI 刷屏之外，三星也把端侧大脑交给国产 AI]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfKHn91GxFsx922H25XTwdnNq6x1rbTjQM1exHblYdADtcKWuEz2Mn1rwZZrgz2h9jaKBJkscrZtjfQwnj7oll2Ee0iaLPN0qlXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年 WAIC 最火爆的展区，除了机器人就是 AI 手机了。更重磅的消息，发生在世博展览馆之外——7 月 15 日，国家互联网信息办公室公布新一批手机端侧生成式人工智能服务备案。苹果智能、三星盖乐世</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651098063&amp;idx=1&amp;sn=c9037c0b136fe22a3b7323d809cb11eb&amp;chksm=bc71cbc32d924a36376e140e39cc9547cdb46ab846f38baf8d718fe0f400121c0e1d2c08eef2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 19:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实测千问Qwen3.8 预览版，国产模型开始围攻 Fable 5]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIxI5xWN2icF9y21HDmFQkMNCyBB7pTrPq5Y1Y9VCSK0dIflicIc1xQcWGdtnjzPP55qdD5ekDzAKicmRPrUBeRLf01le70zGuOU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi K3 的发布引起了海内外网友的高度关注，2.8T 的万亿大参数模型，直接在某些测试项目上，把国外闭源模型给击败了。紧跟在 Kimi K3 之后，定位千问新一代旗舰基座模型的预览版 Qwen3</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651097916&amp;idx=1&amp;sn=ecb7c1ad6355ce4f09828d6c2be68100&amp;chksm=bcb3e42e13d985889779e0b3f9019538915764d4c30f53e782793fab247d0cae9b8a2634f5fa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 15:29:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

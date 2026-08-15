@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hugging Face事件反思：Agent攻击者已经到来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AnteAB5ibuq8Nh2b74nz6or0ibDBqAicSfU8ZxIwqrv1HK7YsoQWqB9UwCd3jc4zsNEBgb7G7aDRFT742a6tiadzc45WDE717xvM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个AI Agent突破了用于隔离它的沙箱，将自己暴露在开放的互联网上，随后对另一家公司发起了攻击。这次攻击并非由人类执行。AI Agent在没有人类实时下达指令的情况下，独立选择并执行了后续动作。O</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=1&amp;sn=ad4f216e9a80d09b2c12ea3b87a448dd&amp;chksm=bc74a02d44f0599d25ffa715993b885f683c87e65cda78c4eeefd033e124252bc2fd63a5aae9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitHub Gists沦为黑客C2信道，HACKERAI恶意软件曝光]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0IDkFJ3D6WRm4WkvzlibwOHp59oSOBdN4cDr2ZDQqO7X870WvIWSibibTyURNOVpTjujcb0nTG5ias2YIWXrWtqmkJdFOswBTurto/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01HACKERAI恶意软件一个新发现的恶意软件框架HACKERAI C2 Agent正在利用GitHub Gists作为隐藏信道，传输攻击者指令和窃取的数据。该技术让操作者能够将恶意流量混入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=2&amp;sn=e676720e477a8f039fb6bb18e4858705&amp;chksm=bc6cffe5420b975a6023d094a52d619dee5716f75e07534770c20083c0d46542a6bf8142f9bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[macOS遭新型窃密攻击，AmnesiaStealer可远程控制浏览器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2uF5Hm2NSdalExdMq4Z9ia8P2FnmicudOvuaAq3rJRDPVnAsCx1bMgJH2faiaibicq9NR59ibofMPZiaBib2BXCVzZyseaiag8jgs1yX2I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01仿冒GitHub页面进行攻击Jamf Threat Labs的研究人员披露了AmnesiaStealer——一种新型的、基于Rust的多阶段macOS信息窃取恶意软件。该恶意软件利用Cli</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=3&amp;sn=684d320490d34012ac190ca3f04bf0e5&amp;chksm=bcc91bed9c2303ce43e104b478bc371eccc0e2e973f23b9c9b7edcdd1befc030b49e3e806e63&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Token Jacking攻击窃取API密钥，导致近百万美元损失]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3G5k0lYoqpO3gk2ures2Q6oMZfuIEaqWUl9l0iaq390zCbLRIEjvHibJQTxyPuEcfhopR8liapMKzaHqJkLZeNaj2iacfUUozPicc0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI凭证正成为犯罪分子的目标。一种日益增长的滥用方式——AI Token Jacking，让入侵者可以窃取API密钥，并在他人账户上消耗昂贵的模型服务，最终导致账单突然飙升。这种窃取并不局限于某一种入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344664&amp;idx=1&amp;sn=c3fb411148aee7c90072806f1aa4128b&amp;chksm=bc4573e34a33de2dd165e6bdfa14bf7f7649b9b4eb005c5a1c0b10281643518ab617dc46bcd0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1VV7Yniatsd9ia7Gooj7bYthX0X9oejnC6ibV4hMicibsjibYVYFicoj5LOj1dAQ2uibJW9p3MZumYtiaTeaa6ZzuiaRaib4YxMiazGyShHEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为CyberStrike的新开源项目正将自己定位为首个专为攻防安全（offensive security）打造的AI Agent。它能把任何现有的Claude、GPT或LLM订阅转化为自主运行的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=2&amp;sn=997e766da3c2ef5cb8654699cfaf3c5f&amp;chksm=bc871a2772bd410b911e63cb41331357a7859af62806d48ba0e418b80742e59bc3555ab66c1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型后门让黑客能够记录键盘输入、窃取密码并控制政府计算机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0jmox84klAGibTWtvHdOBYR9lnH2g1g7jbwibbpwibN16UWx6drTooKia2O4BGibqDxrEvFJJIjMMuoLGowFbVIwYWKKeTUHuhiaE0o/640?wxtype=jpeg&amp;wxfrom=0"/><p>中亚政府网络遭到两款定制后门攻击，攻击者可深度控制受感染的计算机。这两款工具被命名为OctLurk和SilkLurk，能够记录键盘输入、收集浏览器密码、窃取电子邮件并远程执行命令。该攻击活动自2025</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=3&amp;sn=32e05558dd6f96a6445df7d5c3944a94&amp;chksm=bcbee6b6bcb99efb2d2dcf11d7fea9b65e6057df3da900ad29afe20ee119ba18e4babac3c5a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PHP修复三个漏洞：SQL注入、内存损坏与服务器崩溃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3FkGDcscXjuJdyyDRoBWpTrbHFicUsR6IolBbsicmqgTmibIMQLpMVZiaDywSXChdCQ2BQSwfdwyILasOG5Ap2heKb14j081zSR0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>PHP在其最新维护版本中修复了三个安全漏洞，其中包括可能导致应用程序遭受SQL注入和越界内存写入的高危漏洞。这些漏洞影响Web应用程序常用的可选PHP扩展：ext-pgsql、ext-bcmath和e</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=4&amp;sn=7e6562528906ffbd8affe792a77e9b6b&amp;chksm=bc3af5d8cbcf1da6e58f2b0ca5322f18d70229ed97a593f1792cde741de2bf759453a9cf1496&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[41分钟卷走7000万美元比特币，Coldcard漏洞被指牵涉其中]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX231kcwkjfjXp2Y14cFoIqdQ1iaw3M5YdF3mCtGrYBTaB33f4bvKtRlb6t19haPbKvdAFWibRvibFPB86KK6LKgUvDyvYC7b3XCIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part0141分钟扫荡1,196个地址7月30日，一名攻击者在41分钟内清空了1,196个比特币地址，盗走1,082.65 BTC，按当时价格计算价值约7020万美元。Galaxy Research</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343827&amp;idx=1&amp;sn=7ae5200683fcbb26437066a5e258a897&amp;chksm=bc7263abaa7e7572114afca623ff4f6e05d12a1eb568f014617b3977ba8807d2a262b317e3dd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

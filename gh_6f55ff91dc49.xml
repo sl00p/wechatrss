@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[10 万 Star 的 DeepSeek Harness，终于有开源桌面版了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU34Byb8Vy0VVP6SqfIfzz8ibeicFUsnj4AziaoOBofyiajjFPnrr1jqVwTOLv08wYQXk9kYTyMmQ0uycVxypGZicUIic5Q3yRdK7faeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness 的涨势有点夸张。现在已经拿下 10 万+ 的 Star 了，这才一两天。这个 DeepSeek 开源的智能体框架，核心理念是 Everything is a Plug</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536030&amp;idx=1&amp;sn=e2c7ef972c3ff21b834237fff7a24470&amp;chksm=f838e74519aa152189116ca672f30499b22dcf1ef3590453244c8575ebb57b2b76fa897bb3f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 16 Aug 2026 09:32:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GLM-5.3 来了，编程能力提升 50%，两周发现 2404 个漏洞。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1UO5Lcbb19h1bibzkknHvWRibMWibMQoByjJJ7HRxqc7YkuXpXhP6la4BAicPyia4qHchIDcdsSGupV4NA79DRfrEicyL0yjSmwfq9A/640?wxtype=jpeg&amp;wxfrom=0"/><p>智谱又发模型了，GLM-5.3。它沿用 GLM-5.2 的同一基座，参数也没有增加，仅靠继续加码后训练，就在官方自建 Coding 榜单上实现了 50% 的提升，堪称后训练之王。Coding 仍是主线</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536022&amp;idx=1&amp;sn=8d467e7c4ea2140b97e16b73f0f7a9ad&amp;chksm=f8547d41ad43e83adfdd7472a771e118185c862b8bdd89b47d5b69d73c2c0698304332e95232&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2VIHk9vINUQCx7wZeBmUsmR9guuqD1neDE2MeO9JiaYiaiaiaCF2hs9WWpK1mHMcib6jDAvpBN0hI8Rt2fyU66yMBIic87XibaMER98U/640?wxtype=jpeg&amp;wxfrom=0"/><p>在国内想做好 AI 办公，要在两个场景下发力。第一个就是本地 Office 文件的处理。因为要 AI 处理的文件大概率在你电脑里。如果通过你手动上传给 AI，AI 生成结果，你再下载下来的方式，就很蠢</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534059&amp;idx=1&amp;sn=8ae85fde6113e5d180c28ca0cefd292d&amp;chksm=f8bd75c12b18fe005b53182677abd2fe8ea6be9bfe83381e4272b3babbddd7f80b3663462cee&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 16:02:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1VTmNd2dEOXibzJoBmGsorA5qht97IRxnbdnNHV5Omsnbggv4G7hfdffH8YTqCsIkDrIkrQ40IWHY1KjgG0EtZFfHJrs28hofU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近刷 X 的时候，发现一条推文被疯狂转发：Anthropic 悄悄发布了一个官方插件，叫 claude-code-setup，装上后你的 Claude Code 的体验会完全不一样。然后顺藤摸瓜，发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533995&amp;idx=1&amp;sn=b91dec98b97f0cd58f89f7cd3a6f68b2&amp;chksm=f8e0e1888df91ea6750483c5adc4c9950ecbdcde5989d843ba8d3132ce46721d1052b1a8e14e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 13:02:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
