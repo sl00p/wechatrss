@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这个国产桌面端 Agent 进化了，支持定时任务、接入 Obsidian和丰富 SKill。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0W2cNjIfOrOkL8Vo5NuotHkicEZEic7ONvcZVr77Dqn7Pq62cXjaPs7C7bExb7CgG4hfWNo8eZWXJic3SqXia3Nzw19nuAtRTzs70/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，办公小浣熊桌面端正式发布了，支持 macOS 和 Windows。它可以直接调用本地文件、历史对话、 Obsidian 笔记、飞书文档发起任务。再配合 Skills、MCP、第三方应用、本地记忆</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536038&amp;idx=1&amp;sn=f648f7f86e883d0555f63e4b48189291&amp;chksm=f8863e80ae1a5d6ff5c9b7eb2fb55a739b5c63b1f1fd7703f27bc59296041b22612ac4205b92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 13:53:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[10 万 Star 的 DeepSeek Harness，终于有开源桌面版了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU34Byb8Vy0VVP6SqfIfzz8ibeicFUsnj4AziaoOBofyiajjFPnrr1jqVwTOLv08wYQXk9kYTyMmQ0uycVxypGZicUIic5Q3yRdK7faeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness 的涨势有点夸张。现在已经拿下 10 万+ 的 Star 了，这才一两天。这个 DeepSeek 开源的智能体框架，核心理念是 Everything is a Plug</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536030&amp;idx=1&amp;sn=e2c7ef972c3ff21b834237fff7a24470&amp;chksm=f838e74519aa152189116ca672f30499b22dcf1ef3590453244c8575ebb57b2b76fa897bb3f8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0mp3NAwibGKtc0kmvuSXicl7QKfNRKkCAUoxc3Td0kmglTbibk7oJkzIKbxHibNY77lfvveQFMib6Ro12C9cJ2zkf7ciaITqctLTkvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月中旬，李飞飞创办的 World Labs 开源了 3D 高斯泼溅渲染引擎 Spark 2.0，全球开发者一片沸腾。能在浏览器里流畅渲染上亿个 3D 高斯点的场景，手机也能跑，这事确实够震撼。时隔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534078&amp;idx=1&amp;sn=6b87a91a35598f424c35358613ac63ea&amp;chksm=f836d3f3340f323863a5dae82ad7a1b7b0ec804cee45916499e4eb5181154ef939693774bcd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 12:02:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[同时拿下 Office 文件和飞书、钉钉、企微，办公小浣熊 2.0 来了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2VIHk9vINUQCx7wZeBmUsmR9guuqD1neDE2MeO9JiaYiaiaiaCF2hs9WWpK1mHMcib6jDAvpBN0hI8Rt2fyU66yMBIic87XibaMER98U/640?wxtype=jpeg&amp;wxfrom=0"/><p>在国内想做好 AI 办公，要在两个场景下发力。第一个就是本地 Office 文件的处理。因为要 AI 处理的文件大概率在你电脑里。如果通过你手动上传给 AI，AI 生成结果，你再下载下来的方式，就很蠢</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534059&amp;idx=1&amp;sn=8ae85fde6113e5d180c28ca0cefd292d&amp;chksm=f8bd75c12b18fe005b53182677abd2fe8ea6be9bfe83381e4272b3babbddd7f80b3663462cee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 16:02:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

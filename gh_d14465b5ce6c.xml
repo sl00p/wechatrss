@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent的上限，可能不在模型，而在团队知识]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907iaOibrtgDkren3dUJPIR04jYk2IzFEECRfebo0AQ5NQtrlamPaF5RyicCr2ZlOpricBshugusoqa2GgTfcRRTUeOy0hpsymfRcss/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：danteyang当 Agent 成为团队一线生产力，知识供给的问题随之暴露：检索不准、注入低效、过时内容越堆越多。本文记录安全中心团队从定目标、搭体系到跑通知识飞轮的完整过程，包括关键决策背后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803612&amp;idx=1&amp;sn=13be122cb61484933486e146d5724e37&amp;chksm=bf05d02e23db28ae7d4b463cf39c429827fa471fab84a2fd39b475eb857e428bf60564a73ae7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907LNkjbAsJJH6xum27KEtFdibbXBcvibuyz6sutyia2YAuOtR2Gcq7lhvUfQubeb3sXjJicn5uGKq3iayRm83iaWTbHpgvmQP1eaHWeM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：osli元宝产品经理；相关团队：元宝产品中心、元宝模型工程中心、元宝大模型应用算法中心DeepSeek-V4-Pro 正式版上线当天，DeepSeek Harness 也开源了。之前注册Deep</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803588&amp;idx=1&amp;sn=36499841c1cc38ba9ccae6380a90aec9&amp;chksm=bf9dfe7f721442f239dc94726e32781264a3af039a6426c7a7775eac4b2b456c1d479cb93411&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9061nJTiccrSCRScYlGBBKbDu1tYE7bzC55RbtYPUvw16hxAjEhrFfqLaLwrdyem060EyNCZn8Isqq4iaJLE2ib203w3gVR1DIQfkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月 23 日，腾讯混元 Hy3 preview 语言模型发布并开源。这是一个快慢思考融合的混合专家模型，总参数 295B，激活参数 21B，最大支持 256K 上下文长度。这是混元重建后训练的第一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801365&amp;idx=1&amp;sn=21ceb23a28e7fb8f4b196357feed2200&amp;chksm=bf76e78b58a852902cae0d2b9daccd8230907a018db4ec6fe5eba7d4d5da7a12198298d3ac32&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 23 Apr 2026 16:56:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering：AI 能在真正"出事会炸"的后端系统里写代码吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907cxTyqsu7dAgBWI0jSZppqS9vPQWPPxKxNu7KmlDlUEx1FO1YsmtEM08j6Hx4NFdDRouexkRXgAAjWbIc8icsCgQeOb1Z2dw4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lancelotluo引言当 AI Coding 的聚光灯几乎全部打在前端和客户端——生成一个页面、写一个 App......的时候，一个重要的问题却似乎被回避了：AI 能在真正"出事会炸"的后</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801331&amp;idx=1&amp;sn=7dfd93b1754a4f80c993347c4b57adb1&amp;chksm=bf6adeee551c79e9306b37e38885f55abccaccd9b27e6f5c2a44beee4d52166668d3066edcf6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 21 Apr 2026 18:25:58 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude 的文字水印，成功把人类套路了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfL42sstvib3nXHpW0brVWz6XXqoDNyJNia4tFQ6tNq2EYAuDfOjFkRBDftdBMic1bGBjcY4ickQdxX8ktLrx2apj4M0vibPEFrCBl0Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，Anthropic 宣布将为 Claude 生成的文本加入一种「隐形水印」，周末它终于补上了技术细节。跟先前猜测的差不多，Claude 的文本水印将采用 Google DeepMind 开发的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101294&amp;idx=1&amp;sn=3027f63c94999812457d358cc01b2574&amp;chksm=bc00988fb481a540cc8e1891713b283c8555750725e515dda00e4e3139c1233c519c89765be6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 18:00:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJibnsh6lacugrDVbr02EMMS11pLKELlMlHraF0nJYzWnJOA9dw2ibnB5RE2hibiasQC0zZYYJE1GIJ3hQ3R6MGTafWI1akfCe3goY/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近意外出圈的《牛来》，可能是 2026 年电影圈最抽象的一幕。一部画面被网友形容为「像早期 3D 动画练习作业」的电影，因粗糙感被不断玩梗、二创，反而意外带动观众的观影。对比之下，把《牛来》和今天的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101218&amp;idx=1&amp;sn=29491bc06bf72c031b9a7c805c7235d0&amp;chksm=bc57251eb71af7bc12e87b5347436c6320a06297f9c75f1d187176971a236c833652ebb2a826&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 17:05:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[拒绝「差不多」，电商模型测评迎来「最严厉的父亲」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfKZdV2s1YNHG0MGuJTZ674U3LKnoUjUlK7DjlhJ0iaFX7LeSKk7NBoR7KdL6BRfiaEibF4mLic57PkYKJIbn28zlpf3jhwb3p2Y494/640?wxtype=jpeg&amp;wxfrom=0"/><p>测评 AI 这件事，如今越来越难做了。几年前，AI 还是聊天机器人时，测评主要就是做题：写作的、数学的、编程的……最后形成一套跑分，用分数代表模型能力。但当 AI 从聊天框里走出来，变成能够调用工具、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101216&amp;idx=1&amp;sn=e9e1ff371b7118e6bbecdc88c4f04d87&amp;chksm=bcc51bcb31d6dc15585b8ad6d6ece9134f9f2553c0b35d81a98e14191076a6bd377665c848f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 12:03:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一向不那么在乎 C 端的 DeepSeek ，却在 Harness 上选择了流量最大的发布方式。 这会儿 DeepSeek Harness 在 GitHub 上的 star 数已经突破 12 万，不知道打破多少个记录了。 DeepSeek Harness 官方提出的「一切皆插件」，瞬间引爆了社区，可以改造这个属性给每个人提供了积木。 无论你是真想做点有意思的产品（已经就有人把非官方桌面应用做出来了），还是魔改去做些灰产，反正可以创造无数可能。 比起实际的体验，DSH 一切皆插件的架构理念得到了开发者圈子更大的认可和关注。 Pi agent 负责人 Armin Ronacher 表示，「我不认为 DeepSeek Harness 是完美的，但这绝对是这个领域里第一个让我看了之后想重新审视我们自己技术选型的新东西。我太爱开源的这一面了」。 开发者甚至在热议 DSH 已具备「自进化软件」的雏形，Agent 能检查自己的运行时、现场编写并挂载插件。 DSH 背后那篇与北大联合发布的《时空可组合性编程范式》论文也有一定体现，里面提到组件不仅要声明「我需要什么」，还要声明「我会改变什么」，退出时系统自动撤销其影响 。 不少 X 网友看完这篇论文，直接用 「overwhelming（压倒性的）」这个词来形容，这下高低也是梁圣了吧（doge）。 你用 DeepSeek Harness 做了什么有意思的插件吗，欢迎跟我们分享。 如果还没来得及研究，可以先看看 APPSO 这篇实测： <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="msvj0pz6-fa80oc" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651100830&amp;idx=1&amp;sn=0b48e8ab41005b844cc654dc7dcdb383&amp;scene=21#wechat_redirect">首发体验 | DeepSeek Harness 来了，它不想做下一个Codex</a> 想看看网友做了什么插件，APPSO 推荐这些合集🔗 https://github.com/topics/dsh-plugin https://github.com/Dominic789654/awesome-deepseek-harness 🔗 DSH论文：github.com/cordiverse/paper]]></title>
       <description><![CDATA[<p>一向不那么在乎 C 端的 DeepSeek ，却在 Harness 上选择了流量最大的发布方式。 这会儿 DeepSeek Harness 在 GitHub 上的 star 数已经突破 12 万，不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651101075&amp;idx=1&amp;sn=0ad3762a13beebb403e73338ebcd7595&amp;chksm=bc69a2270d05b10d2877f11d3b9dc46aadb51c7bfd066b2f022fc0ba1d9b7af89d12d332bd07&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK8FQ7mLg7T7n5O4iaX4Xial6fMsB5Yq0ytb2p2JFzzGVVSurpoLk9iavZ9jzOdYSfzWAPf8tpr7qjJG0msf4wJSFicCKRlLmrTjDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>🚗特斯拉中国车机接入豆包⌛Tim Cook：内存供应增加不意味着降价🤖Claude 在安全测试中误入 3 家真实系统，Anthropic 暂停联网评估⚖️德国法院裁定 Suno 侵犯音乐作品版权，要求</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651099278&amp;idx=1&amp;sn=439f3ea54d7a877b3f850382f8cf0751&amp;chksm=bc2f24bf4b8475b3a102894b3931cebec87c915c16279cbc04d4322aff8086c675491550d2ce&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 01 Aug 2026 08:35:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIp1aXTYcRnIt6PrfyibE7otYvFumzlJ2vdrpicXmlAkQGVOqoA4dGXVqTRuNeQ945rry5iajXHQH1Oy5kFewRTPhriaq9xhrH4Wvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>电影史上有些技术，普通观众未必叫得出名字，却会改变一代人的镜头记忆。1970 年代，Garrett Brown 发明了 Steadicam。它后来被应用于《洛奇》里那段著名的台阶奔跑，也出现在《闪灵》</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651099262&amp;idx=1&amp;sn=691f44aab362aae11415b7d7f9bb2446&amp;chksm=bc0ae4ec6124ee0d93510d0db6d35aa96ba82c05f141d7c01a159574fa44207136271db9f776&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 21:27:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKTtZib01YhEEia9OPkOm4Tt886JSFHqXcCye8tveE0wzqT27fY9thg9oUzNjT8FbVwd1YwuBGWcr0icePzOOKd4hmnMenr0IEcZE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天无处不在的 AI 短片，越来越酷炫的生成效果，会不会给你带来一种错觉：这年头生成视频太轻松了，一句话就行？在 APPSO，我们尝试了很多不同的视频生成模型，发现答案并没那么简单：那些可以被当做样例</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651099131&amp;idx=1&amp;sn=75d070d6d982a9ba85b00e72fc5d900a&amp;chksm=bcac24b8176b4d82865644736db995a283d351d82fca0563c115879437b1bdcda6e92b7152e8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 13:16:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重生之我在 Anthropic 做耗材]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIicutY1bp8tp2PeEcZVWJM8FcZhDy65BBkiabDlobhdHmJPVq49S7ujaA6fJRABkBovrft2UvVC596GYvic1nVffh6y65icHqHuSQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我重生了。上一世，我是一本人工智能教材。学生在我的页边写满笔记，工程师折起其中几页，也有人把我放在书桌最显眼的位置。我一直相信，书存在的意义，就是把自己知道的事情交给更多人。只不过，既然我的内容是关于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651099103&amp;idx=1&amp;sn=2868405ad76543d50c5ce2924c3078a3&amp;chksm=bce04d456ca27f3b8cccc393f549839bf263279d4baa6c8f14c6bd9dfbcc291b5ce8221a4ab9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 12:10:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

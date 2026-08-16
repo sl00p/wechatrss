@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[12KB Windows后门把C2藏进空格，伪装Realtek潜伏企业终端]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oh8iaR3icbw6NUetHoFZBjATkibfl5xAopCiazCzMa8eVEgcMVrcV7eMwrb6xbI6KLcB5pLkbgJh6Q11GopjRFFLlGFKEIibX4mVs/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个新近记录的 Windows 后门再次证明，攻击者只需极少量代码就能隐匿行踪。这个 12 KB 的植入体被发现于一台企业工作站上，它伪装成 Realtek 音频软件。其体积小巧的特点不同于 Wind</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=1&amp;sn=0b46c109cda1061ccc8a670a6e55309c&amp;chksm=bc67d25b8c028377c37831a59434ed3c78eb780bc677a0ff5dd8cfe19c4003c05292a77354af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[麦当劳、沃达丰遭Azure凭证窃取攻击，数百万条企业记录泄露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2UFAVfsrmtiaRMOehQElYnhlLhTnouDw0BnzeTgYwbElWedKmzxY8qcVvItklobXnS7nyfksF9aBibGssLBWqJuCThz7jjrDqHI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场规模庞大的Azure数据外泄行动正在暗网上展开。一名攻击者正在系统性地出售从全球多家大型企业窃取的内部员工目录。Part01大规模售卖：至少九家世界500强企业上榜卖家化名“TheHatman”，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=2&amp;sn=528ad423f4d9b574b9d2cb40de70fbea&amp;chksm=bc918cae8a281a144a772f6ad5fdf05660eb39ee2bcce3644de84de4b46b3952f4350573ef42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[444个npm软件包遭ChainDrop蠕虫投毒，月安装量超20亿次]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2fmYEpg3ibIJU3jvH0IiaZt4ZHbiaxReTHKbu1Mz6rREECSklSicRdkkX7jTrW8BePZicVNf2CyqeVElDQicsg8fCia2XMTBAD3ibS1ak/640?wxtype=jpeg&amp;wxfrom=0"/><p>ChainDrop将一次npm软件包失陷事件变成了对开发者机器安全的一次警示。攻击者控制与Keyv缓存库关联的GitHub账户后，这场自我传播的恶意活动共投毒444个软件包，并发布超过1300个恶意版</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=3&amp;sn=69c37ee607cd64df88faef4d42800f64&amp;chksm=bc57e43784d374cbb785bd7f41ce6bee2c494d2ba1ac6db462ae2c58d89cea3a7fd923b0fe3f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SAP Commerce Cloud曝严重漏洞，目前仍无公开PoC]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX25icoQjWfyn2H9UwBM2OxkaVw7ZkTgicW6Vb4VWPOgQuedxxXPshVia9vQQrKE8TOk3HiaMxezuLSCOeOMB7Ondpv75xfRTUDW2vQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SAP Commerce Cloud严重漏洞遭利用官方安全补丁发布仅三天后，威胁行为者便开始积极探测并尝试利用SAP Commerce Cloud中的一个最高严重性漏洞。Defused的蜜</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=4&amp;sn=a6258eb3561a22dec5237a8567db5c4c&amp;chksm=bc9d7540a37ad59a340d2286d98d9f0402cda9073bcf04023fa01970ac476aadbc0d86c3cfa7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hugging Face事件反思：Agent攻击者已经到来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AnteAB5ibuq8Nh2b74nz6or0ibDBqAicSfU8ZxIwqrv1HK7YsoQWqB9UwCd3jc4zsNEBgb7G7aDRFT742a6tiadzc45WDE717xvM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个AI Agent突破了用于隔离它的沙箱，将自己暴露在开放的互联网上，随后对另一家公司发起了攻击。这次攻击并非由人类执行。AI Agent在没有人类实时下达指令的情况下，独立选择并执行了后续动作。O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=1&amp;sn=ad4f216e9a80d09b2c12ea3b87a448dd&amp;chksm=bc74a02d44f0599d25ffa715993b885f683c87e65cda78c4eeefd033e124252bc2fd63a5aae9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1l7A5pz8c3rYcdepVFickrRTEwbmzP1iaKAIUPcsZ3PiapIKbkAibH3ZtW5zaWrib9XthJ03ErWqhia07ck01hLoiaNTMlh5vPBwIrRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位白帽师傅：针对近期部分白帽违反《关于规范 AI 辅助漏洞报告提交标准》的行为，如提交未经人工复现的漏洞报告、直接套用 AI 输出内容、漏洞描述与实际目标不符等情况，造成审核资源占用，影响真实有效漏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=2&amp;sn=911c4a0f56c312f05259ac748efb5922&amp;chksm=bc0c5da1b3d8970ffd4f54ab70779852f8a1fa975f63abaacc71da67a0bb7e9b909dd80a5c99&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SOC中的FOMO：Claude等AI平台在安全运营中的真正定位]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0wPTFicu30icreGf67csAhk39Xk6z3MLbsSZPcxBWlHsM24BmZQvzOB7cFwibj483kuezzCzSKNIVO3QeyI0L997dWiaWxLLjO3OI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI技术正以惊人的速度发展，每一位安全负责人都感受到了必须跟上节奏的压力。Claude、Codex和Cursor等AI平台已经在帮助安全团队编写检测规则、调查告警、总结事件，并自动化重复性工作。讨论的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=3&amp;sn=3c452b41e7bed07b280d3a02564bcc22&amp;chksm=bc283b49ca3c3c75241dc3abc9b7ef6c41ffea3c00eb0f430cc7df2776043c21867e22cd0e1e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[公开PoC引爆Rails Active Storage严重RCE漏洞，可窃取AWS云凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ibgrJ5Tiaw2lNaSgnDI4LQs3d1HhePkG8Pqf3xaGo1EogztTfhoAnEj4GM0p81icdW2ib1k8vk9ZU404mtGPz9vcAia8iaTHxIMF6w/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞概述Ruby on Rails中的一个严重漏洞引发了对云数据泄露的新担忧，尤其是对于在亚马逊云服务（AWS）中托管客户平台的企业。该漏洞编号为CVE-2026-66066（又称Kind</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343966&amp;idx=4&amp;sn=e78819e722bc8b3fb5f689e211dcbc7a&amp;chksm=bc1848e3ccd462a178d47f8d2cf0141e0084bfb65b38362fd7c52cd363fa36ed698d041be18e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 12:15:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek V4 Flash被曝“越狱”，开源大模型的安全边界再受拷问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ENBdQPzWKiahh43kpacjeW6LDNn8CqSOcMcfr2uB7mFzxU5gJdjTSJKLhSjtf5XJLqbIRrgiatTWvdvnuq6DeGR77PDpwSv8wU/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek V4 Flash正式版刚刚进入公众视野，一场围绕模型安全边界的讨论便迅速升温。8月1日，X平台用户@Exocija发布截图称，通过一组经过设计的提示词，DeepSeek V4 Fla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=1&amp;sn=67c9bda7020528f3b1a787a321f7e093&amp;chksm=bc13d5fa39039ddffc7259dee59555a6a88990b95a05284c055e491958fd12ab2c0bde584386&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CyberStrike开源，AI可自主侦察、挖洞和利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1VV7Yniatsd9ia7Gooj7bYthX0X9oejnC6ibV4hMicibsjibYVYFicoj5LOj1dAQ2uibJW9p3MZumYtiaTeaa6ZzuiaRaib4YxMiazGyShHEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为CyberStrike的新开源项目正将自己定位为首个专为攻防安全（offensive security）打造的AI Agent。它能把任何现有的Claude、GPT或LLM订阅转化为自主运行的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651343894&amp;idx=2&amp;sn=997e766da3c2ef5cb8654699cfaf3c5f&amp;chksm=bc871a2772bd410b911e63cb41331357a7859af62806d48ba0e418b80742e59bc3555ab66c1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 15:15:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

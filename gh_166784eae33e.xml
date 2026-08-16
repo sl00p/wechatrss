@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[扫描器反噬：从一份 152.5 GiB 泄露档案，复盘 TeamPCP“SANDCLOCK”供应链攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibhxOICrrJxkRXILFE5ic49mkCbjT0ysfhLQ6FnicLGWy4Ie7VPHLqyS8W6AjLMXqWvCIG1qQfZpj76tBmHX7yCow0HvbaRX36K4/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全深度分析扫描器反噬从一份 152.5 GiB 泄露档案，复盘 TeamPCP"SANDCLOCK"供应链攻击一次针对安全工具的投毒，如何演变成波及 898 个 GitHub 组织、41 万份</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519866&amp;idx=1&amp;sn=7187b5988b3159ac70113274c7780a2c&amp;chksm=ebe03249cc307119145867d7f1a88520638ffcc9707c1ba251ad1ef0385874a97c70f246fff5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 17 Aug 2026 16:08:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.08.07~08.13)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicOwhcWFuAJ0lpoArmODobjzemyJqfhVPeic8Fy6YB6kz6YwrPkAT7JtCJhrxm7E7lnWtpoZL3g2dpRHjlO4FSibpS38067vz9l8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.07~08.13攻击团伙情报Darkhotel 近期利用朝鲜相关诱饵发起的攻击活动分析Head Mare APT 组织利用未打补丁的 TrueConf 服务器中的漏洞投递恶意软件Laz</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519857&amp;idx=1&amp;sn=ac62fb3eb6bc94da52f0e696f31357c0&amp;chksm=ebdd58cb03488d7a6d73f98f58bc6c6a5a1b0ba98ee5a3ebbb7dc42b4e0428f2d40e2d46e303&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[每周高级威胁情报解读(2026.04.17~04.23)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqib7jl7icVUZ2vtP081c9yHvVk13x50mvJCR2KEbhLwYShHU7GuImMaSLcuEibqaEqvK6CCu6mKlqbKcM8zQQUYQ0GicHW39XhtGA4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.17~04.23攻击团伙情报Lazarus 从 Kelp DAO 窃取了 2.9 亿美元SideWinder 使用伪造的 Chrome PDF 查看器和 Zimbra 克隆程序窃取政府</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518546&amp;idx=1&amp;sn=cec3e7e78a12edb9669b75629b7b3888&amp;chksm=eb1bfc076b41018bd1b6d33206131d44543baa758c8208383121e3b693a92057205c0f432d72&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Apr 2026 11:55:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[追踪史上首个国家级高精度计算破坏框架——"fast16"深度报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicEzK0kXqsNAmcImOg35boCibRSllBgGeAM3w1cGozXeVPelSY27a4Ip6a3xic66IGmmxO0Q2WqyOECsyQhK3rOUblhpepMgbNY0/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景概述奇安信威胁情报中心在持续追踪境外高级持续性威胁（APT）组织活动过程中注意到，SentinelLABS披露了一起具有里程碑意义的发现：一个可追溯至2005年的国家级网络破坏框架fast16，其</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518546&amp;idx=2&amp;sn=971c24fad06958dad96bcd52816243ef&amp;chksm=eb17bb7bebbddb92180a36a621a6494165ac71eab0fa40604bcf8ba44a71d285015923f09b80&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 11:55:55 +0800</pubDate>
     </item>
   </channel>
