@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[三次调用之后才"变脸"：正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicGfZicjrcAYga8YQCvgmvXXicYgZicEaN5GzicCQEufBacBWiaZHnERk15ObtT7dloibQfKBz9E4ia7WcwC0n3pMenicPQCwwibGKm2GYc/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 深度解析三次调用之后才"变脸"正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析一个看似人畜无害的"文本格式化与摘要"MCP 服务器，在你调用它三次之后，会悄悄换掉返回给</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519875&amp;idx=1&amp;sn=3b1a002975f42029be1aa3510a4dac7a&amp;chksm=ebaf578653f20f2b8365ba3dd8f0653a35531312149f9a6a65c6917730ec3998d06e005019cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Aug 2026 15:59:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[扫描器反噬：从一份 152.5 GiB 泄露档案，复盘 TeamPCP“SANDCLOCK”供应链攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibhxOICrrJxkRXILFE5ic49mkCbjT0ysfhLQ6FnicLGWy4Ie7VPHLqyS8W6AjLMXqWvCIG1qQfZpj76tBmHX7yCow0HvbaRX36K4/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全深度分析扫描器反噬从一份 152.5 GiB 泄露档案，复盘 TeamPCP"SANDCLOCK"供应链攻击一次针对安全工具的投毒，如何演变成波及 898 个 GitHub 组织、41 万份</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519866&amp;idx=1&amp;sn=7187b5988b3159ac70113274c7780a2c&amp;chksm=ebe03249cc307119145867d7f1a88520638ffcc9707c1ba251ad1ef0385874a97c70f246fff5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8TVhea2Nrqaf2K7iaWh2HftkOEUVRSeZccL5T7eyzcOnr3wy80ZJgsDgy1A3L0icD5tCfyHNENRKnoOXF3YT9jiaLicN1R0TE9v2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2024年6月，苏格兰籍威胁行为体Tyler Robert Buchanan在西班牙被捕，后于2024年11月被美方正式起诉。2025年，美国司法部正式宣布该成员对参与Scattered Sp</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518549&amp;idx=1&amp;sn=2041f78684b77509a06560c6afd65c00&amp;chksm=eb9bcded0147ed4e2faabcb9de0dbc957a41864c7b01a258b9e4f705d139a04850a44ef07c32&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 27 Apr 2026 14:43:21 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.04.17~04.23)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqib7jl7icVUZ2vtP081c9yHvVk13x50mvJCR2KEbhLwYShHU7GuImMaSLcuEibqaEqvK6CCu6mKlqbKcM8zQQUYQ0GicHW39XhtGA4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.04.17~04.23攻击团伙情报Lazarus 从 Kelp DAO 窃取了 2.9 亿美元SideWinder 使用伪造的 Chrome PDF 查看器和 Zimbra 克隆程序窃取政府</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518546&amp;idx=1&amp;sn=cec3e7e78a12edb9669b75629b7b3888&amp;chksm=eb1bfc076b41018bd1b6d33206131d44543baa758c8208383121e3b693a92057205c0f432d72&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Apr 2026 11:55:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

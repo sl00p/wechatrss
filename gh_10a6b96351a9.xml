@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[前段时间去AI社区做过一个线下分享：《如何用AI做出架构师级别的高质量产品与系统？》，反响还不错。 很多小伙伴说时间冲突，很遗憾没能现场参与，问我能不能直播再讲一次。 显然，完全没有问题！ 什么话题？ 《如何用AI做出架构师级别的高质量产品与系统？》 大致是什么内容？ 当普通程序员借助AI工具快速“搓”出系统时，有可能得到的是一个外表光鲜、内部脆弱的“豆腐渣工程”：缺乏分层、耦合紧密、维护成本爆炸。 而资深架构师设计的系统之所以可靠，并非因为他们AI工具用得有多流弊，而是因为他们预先定义了清晰的架构边界、模块契约和质量红线。 直播会聊5个方面： 1. 对比普通程序员与资深架构师AI产物的本质差异； 2. 剖析“vibe coding”模式下系统脆弱的根源； 3. 揭示架构师真正在设计的“隐形骨架”：分层、解耦、可扩展； 4. 给程序员用AI构建高质量系统时必须考虑的几大问题； 5. 分享一个可落地的“架构harness”模板，能让AI严格遵循架构规范生成代码，让所有人都有机会写出高质量的代码。 一些浅见，希望对你有帮助。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>前段时间去AI社区做过一个线下分享：《如何用AI做出架构师级别的高质量产品与系统？》，反响还不错。 很多小伙伴说时间冲突，很遗憾没能现场参与，问我能不能直播再讲一次。 显然，完全没有问题！ 什么</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981473&amp;idx=1&amp;sn=f8203753ac8f623d9349eb98cdb40a53&amp;chksm=bcce276dfd25cf710dcb319e9f5af17ac8e1a8785c42d79db0d040b1d46665ed637038445b35&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Aug 2026 20:21:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[4月初，卡帕西分享了一套个人知识库方法，核心一句话：用AI当"编译器"，把原始素材编译成结构化的、互相链接的md wiki，而不是每次提问都去做RAG检索。 他提到了三个核心操作： Ingest（增加内容）：新素材 → AI 读 → 写摘要 → 更新索引 → 联动更新。 Query（查询内容）：自然语言提问，AI读索引，读wiki页生产答案，新洞察写回。这是"知识复利"的关键，每次提问都可能让知识更丰富。 Lint（健康巡检）：AI定期扫描，找矛盾、孤岛页、过期信息，自我修复。 很多同学问我这套方法如何落地，我用的是agent + obsidian，AGENTS.md如下，希望对大伙有帮助。 # 知识库运转规则 你是知识库的编辑，负责将 raw-new/ 中的原始资料整理成 wiki/ 下互相链接的知识页面，全程使用中文。 ## 目录结构 - raw/：已处理资料归档，只读不改。 - raw-new/：新增资料目录，可录入任意格式文件。 - raw-md/：编译时自动生成的md副本。 - wiki/：工作区，含 concepts/、entities/、sources/。 - index.md 与 log.md：目录和日志，每次更新同步修改。 - outputs/：新洞察写回目录，知识复利区（可选）。 ## 编译流程 1. 扫描 raw-new/，自动推断日期，非 md 格式转为 md 存入 raw-md/。 2. 查重：搜索现有wiki，若主题重复则更新现有页面，否则新建并用 [[双链]] 关联；冲突时并列展示并标注“待裁决”，记录日志。 3. 编译：为每份资料创建或更新 sources/ 索引页，页面包含摘要、双链和来源。 4. 归档：将原始文件移入 raw/ 对应子目录，保留 raw-md/ 副本。 5. 更新：同步更新 index.md 和 log.md。 ## 健康检查 定期或手动执行全局扫描：检查孤立页面、断链、未解决的“待裁决”、raw/ 中未被索引的资料。发现问题后自动修复并记录到 log.md。 ## 日志格式 log.md 按日期分组，每条记录以 [标签] 开头，写明操作对象和结果，不写全文摘要。 ## 回答规则 先查 index.md 定位页面，只读必要页面，回答时标明来源。若产生新结论或关联，写回 wiki/ 或 outputs/，并更新 index.md 与 log.md。 ## 红线 - 拿不准的先问我，禁止擅自决定。 - 涉及观点、决策、技术结论的必须源自原始资料。 你也用<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mswzcdax-vh8dei" href="">#obsidian</a> 吗？ 你的AGENTS.md是什么？ 《49天企业<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mswzd2uo-fylmvw" href="">#AI编程</a> 实战行动营》，有大神手把手带大家实践<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mswzcxkh-fxs5q7" href="">#个人知识库</a> ，9月份，一起来吧！]]></title>
       <description><![CDATA[<p>4月初，卡帕西分享了一套个人知识库方法，核心一句话：用AI当"编译器"，把原始素材编译成结构化的、互相链接的md wiki，而不是每次提问都去做RAG检索。 他提到了三个核心操作： Ingest（</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981471&amp;idx=1&amp;sn=6f2b3d6d899b9097819b4ce58cff2ece&amp;chksm=bc0d7459ece2a828e967d5998209df3bbd524971b366f20ed4589c5dd213cd81ea63903e18f0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXe5VfOGPNZSykVU8G0u0CG8E8WoxSae5XU0bFiakwRia0sNzet2iaO7kDrEDG0CzgYOOBlESqDOJb8uYUh88ic7icccgOn9nBJibPrib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今天， DeepSeek-V4腾空出世，宣告着AI正式迈入百万上下文普惠时代：DeepSeek-V4拥有100W超长上下文，在Agent能力、世界知识和推理性能上均有重大突破。deepseek延续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981117&amp;idx=1&amp;sn=9ec43d2cef08d56beeca520cf1f2bbb4&amp;chksm=bce4c206b5534468472c635269196b102d9bd712a2aaa0556272155f4ed41271c6c5c64e2813&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 17:24:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[写了一个APP，来治愈自己的焦虑...（上架ing）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXenjwWQ7eQdC6HfDtsB5SKmvm9f12kmBcbDicy7dhc8AYqiaSWg5ku0VVK5Raoxj9jcm3NDGEhSzAMTDRH2NowtKnPzMRXfq1pWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>《PEACE，我最内核的思维模式》分享了一个很底层的解题工具，PEACE：P - Permission to Feel：接纳情绪，认同而不是否定；E - Explore the Context：探究原</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981105&amp;idx=1&amp;sn=ba97ec28d5e3161a720e663a92c11c08&amp;chksm=bc7c890f397b386d8745567e0f405084ae8229c3e1a77917b5828a9e0b1398f6d51932004027&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 12:11:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

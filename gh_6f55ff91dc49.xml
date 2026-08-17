@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 时代 Markdown 又火了，7 款 GitHub 高赞开源编辑器。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1HSDmxRDyLtd8x1WVIya4K81fLPNZTt4LOAiaOiaNaqpdYckthNQ6OpXicvOFaQzPSxgFiaRPV6N9pU7zjtC4OOv8LcBoiaZhyQCro/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 AI 越多，和 Markdown 打交道的次数也越多。很多 Agent 也会通过 AGENTS.md、CLAUDE.md 这类文件读取项目规则。原因很实际。 Markdown 是纯文本，体积小，方</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536039&amp;idx=1&amp;sn=b83b2fd3d42adb14e89649ee7ac0c16a&amp;chksm=f8da575cae768f289ae7699c22c4d69f134a95f29134fb66cd3c21c705562ead0bd4dc185e05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Aug 2026 14:11:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[这个国产桌面端 Agent 进化了，支持定时任务、接入 Obsidian和丰富 SKill。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0W2cNjIfOrOkL8Vo5NuotHkicEZEic7ONvcZVr77Dqn7Pq62cXjaPs7C7bExb7CgG4hfWNo8eZWXJic3SqXia3Nzw19nuAtRTzs70/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，办公小浣熊桌面端正式发布了，支持 macOS 和 Windows。它可以直接调用本地文件、历史对话、 Obsidian 笔记、飞书文档发起任务。再配合 Skills、MCP、第三方应用、本地记忆</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536038&amp;idx=1&amp;sn=f648f7f86e883d0555f63e4b48189291&amp;chksm=f8863e80ae1a5d6ff5c9b7eb2fb55a739b5c63b1f1fd7703f27bc59296041b22612ac4205b92&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1BmiaVkw6z2CvEG26QXYe8VR4OIZEXalZBVamdtUibJqdXlF0sFXMPIvc7jLnoqVaNHLPZhaiaSkslk5PX7zuBrOE6NQ5iadO4Lpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天逛 GitHub 的时候，发现了一个刚刚开源的项目。有点意思。但如果你再找一个多项目并行互不干扰、离开电脑活还能推进、花的每一分钱都知道去哪了、AI 记错了你能打开它脑子改过来：可以试试这个刚开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534105&amp;idx=1&amp;sn=dd39c1fa41782f732bbfcd129e1d135e&amp;chksm=f8cc55d65f878e03fb062b1ba42204ec20268d2ab8c34536380389e065ece927de3cd5134f41&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 28 May 2026 12:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上刚开源的国产 3D 高斯浏览器，杭州六小龙给力啊。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0mp3NAwibGKtc0kmvuSXicl7QKfNRKkCAUoxc3Td0kmglTbibk7oJkzIKbxHibNY77lfvveQFMib6Ro12C9cJ2zkf7ciaITqctLTkvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>4 月中旬，李飞飞创办的 World Labs 开源了 3D 高斯泼溅渲染引擎 Spark 2.0，全球开发者一片沸腾。能在浏览器里流畅渲染上亿个 3D 高斯点的场景，手机也能跑，这事确实够震撼。时隔</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534078&amp;idx=1&amp;sn=6b87a91a35598f424c35358613ac63ea&amp;chksm=f836d3f3340f323863a5dae82ad7a1b7b0ec804cee45916499e4eb5181154ef939693774bcd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 12:02:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

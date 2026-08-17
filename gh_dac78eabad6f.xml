@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent的命门是上下文：关键不在少给，而在给对]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5vrhic3AWunZyPLFYPfPq0RqdM0eCwbLuBheJDfQ4icd5K29aictb7XMUYuA15J2KSAVsZz80bJialZFgDQhEW7lpo5BiaiaFyL1S0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语腾讯云轻量云有一套用来组织 AI 开发的工作流Devflow：我只需要把需求交给它，它会先判</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696974&amp;idx=1&amp;sn=7b3e885c64e10a944ea85e4018348a13&amp;chksm=eb91fb3993f3fe72d433823120afaf11ef3e1f99beb79a811f3e50b892590c1b71f1c14a3bc1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 18 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[企业内Agent工具落地实践：统一Harness、Skill与虚拟文件系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7Gkib5RJWCj2VulKQyWmJC6HCLibY2IwWG6wBmHYG31WDGkBMQEzicf4yciarFW4hcKnmCeoOUj3Q8dxic4wQmslQUupsCLUfBcz4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告这是一篇关于企业 Agent 落地的笔记：结合行业案例和自己的实践。我知道在 AI 时代写长文是逆潮流</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696970&amp;idx=1&amp;sn=5f7777dfa41a0a08c6d9e4d1feab6336&amp;chksm=eb29ead85e9a77d532b35b0f45393335f45e7d7199ba79e4390fd513c88ed6cd61d20ded3be1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6DDmy645XWicSnOoaBoXyOy96MqBUHa66uZNzkVMgcYb5fcdib0j3HFQeqbmCtfNJ8vf3UicbS1BeQC8iaV9BHjnA4vRNjGEAls70/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇这一年“RAG 已死”的说法甚嚣尘上，比如《长上下文窗口、Agent 崛起，RAG 已死？》、《The RAG Obituary: Killed by Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695473&amp;idx=1&amp;sn=517ef2bad8a85f2f31c1ef309c1eae76&amp;chksm=eb597a27f480becf67e0fff700b330cf86fe3f02ef7203cf8f9b2dbbea155e7149599366c768&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 30 Apr 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入浅出Harness Engineerring之核心模式与理念]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4xy6anqaxiaEWlOEibCxwK4GWdhPceK9zuE7NkGnayicsJxg45xGGsjJMibxTKKmtyQXZuFGqFgtvuSZBMfUPpibmqzwC3dEZnuC5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01Claude Code 1.1 持久化指令文件没有这个文件时，每次对话都像从头开始，相同的规则和错误可能反复出现。代价：文件需要随项目更新维护，否则可能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695469&amp;idx=1&amp;sn=9ba77be5cdb4a9031a708c7361d7a026&amp;chksm=eb16d18f4a0fbaa7ecfe6de18f3c425ab11ce95db6fd61e4c1c4c1203b9350c7bdd01a5c9235&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
