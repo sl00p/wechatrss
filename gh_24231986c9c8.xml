@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Plan x DeepSeek Harness 实践指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedE21KRBN22UUNY9SRcBjUWmXHo74W26xU8DgPvt2jH7ndlvZkKMToAVuFHU7rLNLJZYc7HLS7E3y6RJeuycdPgyWP8qFWW4E4/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的DeepSeek 智能体应用框架（DeepSeek Harness，简称DSH），Model、Tool、Memory、Sandbox 和 Agent 都是可组合、可替换、可扩展的插件。Harne</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521375&amp;idx=1&amp;sn=e11bc1ebfc05563e0d0ab2d5d47835b5&amp;chksm=e812a47014769c0d16b75493c4d651699273147630a60e54900d9c6b55fc22437ac39d1da4f7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 18:02:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ADrive 智能网盘：让 ArkClaw 的每一份产物，从「临时文件」变成「长期资产」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeezaxnAem2U0Mg5S309viarPkvcs8tyFvKdzQaZPBggyOzicp2IibL5W3niafCQ17tgbz2ibnib7yTNoy5lkZ92JYEBvjXXfcbt4DKiaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 真正开始工作后，文件成为新的断点让 ArkClaw 完成一次调研类任务，交付结果往往不只是一段文字。报告、图表、原始数据，乃至后续可继续运行的脚本，都可能同步产出。对 Agent 来说，任</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521375&amp;idx=2&amp;sn=0f9e1f1fc0b9613c809dd6014c82e3ca&amp;chksm=e881194d57503c2b47364b9b3239d5a8ac381cb9ca8492d27959eaac843c37e79cb80f9209bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 18:02:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对比与生成：抖音SOTA多模态表征模型DME]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefA9KwkBSh9PWHKjesU1FYwiaXDVX79H95oLWXz2OS22x9teX8PxTtJDERfNINrFHC2No2nicBZtOZbDDuKKzjTjFgMic2tPKEvP8/640?wxtype=jpeg&amp;wxfrom=0"/><p>抖音搜索多模态团队联合中国人民大学高瓴人工智能学院，发布抖音多模态表征模型 DME（Douyin Multimodal Embedding），在多模态表征权威评测榜单 MMEB-v2（78 个数据集，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521321&amp;idx=1&amp;sn=4881e96023fe955d32daac031479bc92&amp;chksm=e834148d1ae69398588cbe6ad9d19f225bfbad2f5328c00ea6ca317299eddd5ed110e1181607&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeMBn1hQvQsxVQRE2XLoCRkYKSZIklERkb7yFkLENXkYyfkl0w8LPibme0K7Xq4HzAdWEMIymJ7GaHsEVI6Ly5wf4dycSWzzK48/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenSearchCon 是由 Linux 软件基金会旗下的 OpenSearch 软件基金会主办的年度技术大会，2026年首次来到中国！作为开源搜索与分析领域的一场“华山论剑”，从底层引擎 Apa</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519046&amp;idx=1&amp;sn=45613e8c1ed787026f52292ded0e5acc&amp;chksm=e89044ce2de06ba75d65148e4321498bf254ef5758a80f8700aff490cc0c06177abbe2b53698&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 17:36:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文读懂：智能体身份权限治理演进实录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecSNMkuNOuce3vA0uZVibJyDDc8zc61hYExA0bVTicibaTKdFibBXeJeMtfW0PZNk5ibR3wK9XibVlVSbeNlZ4YA0BzroTAnSnWibsBJs/640?wxtype=jpeg&amp;wxfrom=0"/><p>序章当一个实验性的“咖啡外卖”智能体（BrewSense），从服务几位工程师的小工具，演变为数千人依赖的自动化伙伴时，会发生什么？这不仅仅是用户量和调用量的激增，更是一场关于身份、权限与信任的治理风暴</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519016&amp;idx=1&amp;sn=4a895e7318d251e077ba720dbf7e1cef&amp;chksm=e83eb54f2d661eca1b6334464294d77cdc31e9280d55016b8e6c803e028c17749fe510c30911&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 18:00:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenViking 实战教程：搭建多仓库代码语义检索系统，赋能 AI 助手 &amp; OpenClaw 记忆插件 2.0 升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedrEDsaMDUfJXakibfcGDujMLiaU4fC0C2Uic54cqkBFZTvFEB8As18cgCCWs95Xg6caZn6zttnhTlIWy7c3ySiaXx6V8BnuE7dUWI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与问题：为什么多仓库代码问答如此困难？在大型企业或复杂的开源项目中，代码库通常不会是单一的庞然大物。业务逻辑、基础库、中间件等往往分散在数十甚至上百个独立的 Git 仓库中。这种分布式代码管理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247518946&amp;idx=1&amp;sn=71b64437c738c6dcda6ca2797465c743&amp;chksm=e8a3983121cdb2224b5a02c32433035630b8d4e30202ade1f95bee31585117d35e7fa7293678&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 18:31:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

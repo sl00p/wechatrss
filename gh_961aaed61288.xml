@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[机器人开发的新入口：科沃斯八界全栈开源，开发者能做什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEwJysvjhaWfZF09oibxctmJ9sryoO3K91PbcuROezpL4SS7sqxoeyHRMUOiatRg9ES9TMeWObncpgcnwhl1MmoCNCdIia07tm35sQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>CSDN 的读者，对“开源”这个词应该不陌生。从 Linux 到 ROS，从 TensorFlow 到PyTorch，开源改变了软件世界的游戏规则。但“机器人开源”这件事，过去一直处于一种尴尬的状态—</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834508&amp;idx=1&amp;sn=c50f362cd5c22d1017e57a9813aa6045&amp;chksm=c3e02d7596243f9adceb76b68fc94c1a74a4ff660e07b8a6946fcb55b3014247e43b95463e27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 正在消灭软件工程师的“中产阶级”！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEy6iaFf6RXB0vVVaFEnKqdCiaqQCPyLrwySvKMHKv4dgG08H4VdJ0Khwasdok2cGickQnKt7P9U4FPibTPBEgF9xDySIDzcg03wVjc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 编程正在把写代码这件事变得越来越便宜，但一个有意思的问题也随之出现了：当代码生成的速度远远超过人的理解速度，软件工程师真正的价值还剩下什么？过去，一个工程师一天能写多少代码，多少还受到时间和精力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834508&amp;idx=2&amp;sn=a071fc0ade136301a58ef2e2e7996303&amp;chksm=c38cf42632d5c986c8a0cd5c33e0c71f22c92a516f8b389251f9a80c617b63007a41391d2ca5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub大规模宕机7小时！马斯克旗下Cursor趁机“杀入”代码托管发布Origin，内部员工调侃：本想更早发布的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEzxLSQ5XTkKjGoTrMjwGoVlXNNzianxLmo9lIUiaU4eXF8O9hC47su6kCsOvWwn9Uy8ctqepA0aTQ0toxmsSCNsyJmribGbMn1GYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）过去几小时里，科技圈都在盛传“Cursor 杀死了代码协作平台 GitHub”。起因是，Cursor 刚官宣向付费用户推出其最新的代码托管平台</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834478&amp;idx=1&amp;sn=2a63d29b07e7329a143e10a916d9e517&amp;chksm=c3cb2f952ae04e8cb9c7a10bcba766728335520c3d95b9c7c9d6ea9bbc781fb8bb980e6450b8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwovia7cKvNCGKBicuD1oN165IlG5CXOTJ8g2oedKUjYTkLaKiccskeicQ2DEg14PDiaEbnauF6fibf9QhB4YmAYVVlYaFmOjlPhycS4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）“AI 不会为代码负责，我们也无法相信那些高度依赖 AI 的开发者，能真正理解自己提交的代码。”——这是开源游戏引擎 Godot 官方最近公</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832793&amp;idx=2&amp;sn=6f91c53fb5a6f43dc6b2341fbc95ccff&amp;chksm=c383c96bf5da4067005827defe5ee5d7b9d91090e70dce59fcdc83580c473229db9729d70055&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 12:01:15 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[偷藏3个月，Anthropic删除识别“中国AI”的隐藏代码，官方回应：这只是一次实验，我们早想删了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzfuf2dgvNdotfiaaVaWkNChkpp6wRw5vjn8ibhtDkPL314xgtSKnqAy1SMMRzIhKFhicichYYLzWvXHNwsoEHZn0emOo05Gicjtbb8/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）这两天，Anthropic 因一段藏在 Claude Code 中的“隐藏检测代码”，站上了开发者社区的舆论风口。一切起因是 Reddit 上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832773&amp;idx=1&amp;sn=3893434c7df45ddc4b739244140dc539&amp;chksm=c32d9e084d7c613372c0529d0b88bbd8bbec877672399cabce33281570d3175649977eb4fa07&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 15:23:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA的Cosmos 3火了，但企业如何真正用起来？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEw1A9c21D84joicQp01wBOSEHTA30xagHiblc3FZEZSm41Ww6ImTF0odEQhoEydrjMBFJLDcUcgqaxnjBe6cRZ1UWhiczOvEqHvEY/640?wxtype=jpeg&amp;wxfrom=0"/><p>来源 | 百度智能云技术站经过百度百舸的 AI Infra 工程优化，Cosmos3-Nano-Policy-DROID 的训练启动速度提升 89 倍，国内主流 GPU 型号单机吞吐提升 99.3%，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832773&amp;idx=2&amp;sn=72896ec7085da8169e310dc74f8b246f&amp;chksm=c341d35a04a51c136fc8262caeb9d2b1d3805041cb1781ea64f62cff12b49d7a8f463b622906&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 15:23:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

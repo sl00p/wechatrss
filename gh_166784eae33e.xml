@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一台"干净"的 Mac：当入侵不需要恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicKsm4LCMmBMnoNxFejxtggW5hQzvQPzr8ic2hw9fGKzdkgiaThSsV98C2PXrkZPia2nGd8Uvlz3TJbeTticxh3H7PxAahlKfBqwQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>macOS 威胁分析一台"干净"的 Mac当入侵不需要恶意软件把"零检出"当作第一条实质线索：当四道安全防线全部通过，机器却早已不在用户手中。· macOS 取证 · 无恶意软件入侵 · TCC 滥用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519883&amp;idx=1&amp;sn=8617ac55ce05fba60513e2f075e6756e&amp;chksm=eb7008604fa35771ec5a9d41cc0d5659f1ac8f32159dbdb6496ba37dbbe24b7f5b76412841d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 14:58:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三次调用之后才"变脸"：正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicGfZicjrcAYga8YQCvgmvXXicYgZicEaN5GzicCQEufBacBWiaZHnERk15ObtT7dloibQfKBz9E4ia7WcwC0n3pMenicPQCwwibGKm2GYc/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 深度解析三次调用之后才"变脸"正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析一个看似人畜无害的"文本格式化与摘要"MCP 服务器，在你调用它三次之后，会悄悄换掉返回给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519875&amp;idx=1&amp;sn=3b1a002975f42029be1aa3510a4dac7a&amp;chksm=ebaf578653f20f2b8365ba3dd8f0653a35531312149f9a6a65c6917730ec3998d06e005019cb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicics0rDQHDb4DH4wwVI7RaPjbZn9OdHqWW9x7KzgVQ1bzuX8fIwUVJpE7qbwPNp20M4icSsKQtQ0iaybdl1qhcZylupznoh4xo18/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、事件概述GlassWorm 威胁活动近期在 OpenVSX 开源扩展生态中爆发新一轮大规模供应链攻击。根据 Socket 安全团队及多方情报交叉验证，攻击者于 2026 年 4 月向 OpenVS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518560&amp;idx=1&amp;sn=36e375fceb1ea472bc6b4261b0d889fb&amp;chksm=ebb271e651623878385e2826c3b915e6041a524a5c9fd68d2831f6769d68e3c67c39f0eead27&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 11:36:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Scattered Spider核心成员认罪：深度解析以英语母语为主的网络犯罪组织的战术演进与地缘关联]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8TVhea2Nrqaf2K7iaWh2HftkOEUVRSeZccL5T7eyzcOnr3wy80ZJgsDgy1A3L0icD5tCfyHNENRKnoOXF3YT9jiaLicN1R0TE9v2Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2024年6月，苏格兰籍威胁行为体Tyler Robert Buchanan在西班牙被捕，后于2024年11月被美方正式起诉。2025年，美国司法部正式宣布该成员对参与Scattered Sp</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518549&amp;idx=1&amp;sn=2041f78684b77509a06560c6afd65c00&amp;chksm=eb9bcded0147ed4e2faabcb9de0dbc957a41864c7b01a258b9e4f705d139a04850a44ef07c32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 14:43:21 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Coding时代，研发项目管理新范式探索与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GzKLaQjJB9ZKKBRxy2ag6PlnuutVgq2GbC1hykM26jWu6GLsCEsfKYGehyaibDb5vXibZOqxrCS3BKBFHJdZLLfYbqDNfrR5Qo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当前 个体提效 ≠ 组织提效 成了很多团队的痛点。本文阐述了腾讯健康从PM视角对这一现象进行Debug</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697007&amp;idx=1&amp;sn=f12d0ba52354af093099ab3c6c7c28f3&amp;chksm=eb46f094e13b100e94bfcd593f45999ebdbb2287eed3069d94a3ad793ce5aaea85c6dde73bbf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 19 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent的命门是上下文：关键不在少给，而在给对]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5vrhic3AWunZyPLFYPfPq0RqdM0eCwbLuBheJDfQ4icd5K29aictb7XMUYuA15J2KSAVsZz80bJialZFgDQhEW7lpo5BiaiaFyL1S0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语腾讯云轻量云有一套用来组织 AI 开发的工作流Devflow：我只需要把需求交给它，它会先判</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696974&amp;idx=1&amp;sn=7b3e885c64e10a944ea85e4018348a13&amp;chksm=eb91fb3993f3fe72d433823120afaf11ef3e1f99beb79a811f3e50b892590c1b71f1c14a3bc1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7VWx9U3zdicMhk2DC0iapzTTeUVthh6aCqSHWYrdf5I9NfdBG41qbH3RhqwBErs8Q8Yz5kYSHjnX3ialHcsRPKSc3HLFZd4zELWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇很多人衡量程序员的产出，看的是代码行数。但写了这么多年代码之后，我发现一个反直觉的事实：删掉一行代码带来的成就感，远大于写出一行代码。因为每一行新代码都是负债—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695482&amp;idx=1&amp;sn=7f8b7e7f9a759e5b5d95eea286fd6a71&amp;chksm=eb8c4e049d021f72220278896e34e12fc1f985c0188e375c2b1110803e6fa64c849619588d30&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RAG已死？不，是Grep回归了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6DDmy645XWicSnOoaBoXyOy96MqBUHa66uZNzkVMgcYb5fcdib0j3HFQeqbmCtfNJ8vf3UicbS1BeQC8iaV9BHjnA4vRNjGEAls70/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇这一年“RAG 已死”的说法甚嚣尘上，比如《长上下文窗口、Agent 崛起，RAG 已死？》、《The RAG Obituary: Killed by Agen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695473&amp;idx=1&amp;sn=517ef2bad8a85f2f31c1ef309c1eae76&amp;chksm=eb597a27f480becf67e0fff700b330cf86fe3f02ef7203cf8f9b2dbbea155e7149599366c768&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
