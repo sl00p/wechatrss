@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repository → Database ``` 1. API Routes：处理 HTTP 请求/响应，调用 Service 层； 2. Service：业务逻辑，不感知 HTTP； 3. Repository：数据访问，封装 SQL； 4. Database：由具体项目选择。 原则： 1. Server Components 可直接调用 Service 层获取数据； 2. API Routes 仅用于客户端请求、外部系统对接或需要 HTTP 语义（缓存头、状态码）的场景。 ## 目录结构约定 ``` src/ ├── app/ # 框架路由目录 │ ├── api/ # API Routes │ └── ... # 页面（按业务嵌套） ├── components/ # UI 组件 ├── services/ # Service 层 │ ├── dto/ # DTO 定义 │ └── exceptions/ # 自定义业务错误 ├── repositories/ # Repository 层 │ ├── xxx.repository.ts # 接口 │ └── xxx.repository.impl.ts # 实现 └── lib/ # 工具函数 ``` ## 接口与实现分离 所有层都必须遵循接口与实现分离： 1. Repository 层：`.repository.ts` 为接口，`.repository.impl.ts` 为实现； 2. Service 层：`.service.ts` 为接口，`.service.impl.ts` 为实现； 3. API Routes 层：HTTP handler 通常不需要接口/实现分离，但请求体验证和响应格式化应统一封装。 ...（限于篇幅，细节省略） ## Repository 层设计 ## Service 层设计 ## API Routes 层设计 ## 代码规范 ## CSS/Styling 实践 ## Next.js 实践 ## 安全实践 ## 测试规范 ## 依赖管理 ## 通用最佳实践 ### 单一职责 ### 日志记录 ### 事务边界 ### SQL 注入防护 ### 环境变量验证 ### 端口配置 ### 生产模式 vs 开发模式 几句话可能讲不清，周五直播和大家聊聊：《如何用AI做出架构师级别的高质量产品与系统？》 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repos</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981475&amp;idx=1&amp;sn=ece55b12848eda217be55a0bb883f6ae&amp;chksm=bc20f2959c88c641c49063c206018258673778952c49bb735881f9a38a4cbb9ae2d762e0d35a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 20:40:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前段时间去AI社区做过一个线下分享：《如何用AI做出架构师级别的高质量产品与系统？》，反响还不错。 很多小伙伴说时间冲突，很遗憾没能现场参与，问我能不能直播再讲一次。 显然，完全没有问题！ 什么话题？ 《如何用AI做出架构师级别的高质量产品与系统？》 大致是什么内容？ 当普通程序员借助AI工具快速“搓”出系统时，有可能得到的是一个外表光鲜、内部脆弱的“豆腐渣工程”：缺乏分层、耦合紧密、维护成本爆炸。 而资深架构师设计的系统之所以可靠，并非因为他们AI工具用得有多流弊，而是因为他们预先定义了清晰的架构边界、模块契约和质量红线。 直播会聊5个方面： 1. 对比普通程序员与资深架构师AI产物的本质差异； 2. 剖析“vibe coding”模式下系统脆弱的根源； 3. 揭示架构师真正在设计的“隐形骨架”：分层、解耦、可扩展； 4. 给程序员用AI构建高质量系统时必须考虑的几大问题； 5. 分享一个可落地的“架构harness”模板，能让AI严格遵循架构规范生成代码，让所有人都有机会写出高质量的代码。 一些浅见，希望对你有帮助。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>前段时间去AI社区做过一个线下分享：《如何用AI做出架构师级别的高质量产品与系统？》，反响还不错。 很多小伙伴说时间冲突，很遗憾没能现场参与，问我能不能直播再讲一次。 显然，完全没有问题！ 什么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981473&amp;idx=1&amp;sn=f8203753ac8f623d9349eb98cdb40a53&amp;chksm=bcce276dfd25cf710dcb319e9f5af17ac8e1a8785c42d79db0d040b1d46665ed637038445b35&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>还在养虾的人，明显已经从OpenClaw中获得了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊：《学OpenClaw，究竟要学些什么？》 至于内容，会简单聊聊新手养虾人的学习路线： 1.</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981121&amp;idx=1&amp;sn=8b27b50275d340e8d8e716ae77de343a&amp;chksm=bc0dfd1ddc55014405d47bed8f020332b7a35cdfe859b105af4a13d6dbad80229073c4a7f4b6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 25 Apr 2026 11:51:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek-V4出来了，今天你用了吗？（架构重大升级，一个字，干就完了）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXe5VfOGPNZSykVU8G0u0CG8E8WoxSae5XU0bFiakwRia0sNzet2iaO7kDrEDG0CzgYOOBlESqDOJb8uYUh88ic7icccgOn9nBJibPrib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今天， DeepSeek-V4腾空出世，宣告着AI正式迈入百万上下文普惠时代：DeepSeek-V4拥有100W超长上下文，在Agent能力、世界知识和推理性能上均有重大突破。deepseek延续</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981117&amp;idx=1&amp;sn=9ec43d2cef08d56beeca520cf1f2bbb4&amp;chksm=bce4c206b5534468472c635269196b102d9bd712a2aaa0556272155f4ed41271c6c5c64e2813&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Apr 2026 17:24:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大规模分布式训练的稳定性工程：自动驾驶千卡集群的毛刺理论与优化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5QKVosVHXaUtkuSqahAzTuAKSrqmsRk51bw2AO8E4EQHoibTkQ6csD4X9ibyefe99SadsNIicwicf0OiaoBgYl2rqdw2arGjW8Ozps/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语大规模分布式训练的性能问题，往往是一个分布式系统可靠性工程问题，而非单纯的算力优化问题。本文</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697013&amp;idx=1&amp;sn=a9df1463ea815eb3f256986c7785d4d7&amp;chksm=eb9b40146e4281d96ff9630431d3b30460ac2da5752bd40b75ffa9920aafd92b996c026064ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Coding时代，研发项目管理新范式探索与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GzKLaQjJB9ZKKBRxy2ag6PlnuutVgq2GbC1hykM26jWu6GLsCEsfKYGehyaibDb5vXibZOqxrCS3BKBFHJdZLLfYbqDNfrR5Qo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当前 个体提效 ≠ 组织提效 成了很多团队的痛点。本文阐述了腾讯健康从PM视角对这一现象进行Debug</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697007&amp;idx=1&amp;sn=f12d0ba52354af093099ab3c6c7c28f3&amp;chksm=eb46f094e13b100e94bfcd593f45999ebdbb2287eed3069d94a3ad793ce5aaea85c6dde73bbf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6Yf22xjhCibSicrBjM0MKXVrQ2nX0fJelw8DXeWBP4kprjEEazMAWxcMCbd4cEtaqsOk3SnYofeTpPAuTS0LAC3iaz0ZRslrYyKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇随着大模型技术的爆发，AI Infra 已成为基础设施领域的核心战场。过去1年多的时间，我们团队落地了多个大模型应用，包括语音合成大模型、内容理解多模态大模型、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695494&amp;idx=1&amp;sn=85ccbd62f18105968a195314e86ece43&amp;chksm=eb5e51949ff4eb5be2a4e36bfef4cdcde0487356e5c9ace239a32ea762483572f14f0e1d6916&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[程序员越早想通这些越好]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7VWx9U3zdicMhk2DC0iapzTTeUVthh6aCqSHWYrdf5I9NfdBG41qbH3RhqwBErs8Q8Yz5kYSHjnX3ialHcsRPKSc3HLFZd4zELWc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇很多人衡量程序员的产出，看的是代码行数。但写了这么多年代码之后，我发现一个反直觉的事实：删掉一行代码带来的成就感，远大于写出一行代码。因为每一行新代码都是负债—</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695482&amp;idx=1&amp;sn=7f8b7e7f9a759e5b5d95eea286fd6a71&amp;chksm=eb8c4e049d021f72220278896e34e12fc1f985c0188e375c2b1110803e6fa64c849619588d30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

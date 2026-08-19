@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[豆包视频通话升级，火山引擎多模态传输系统提供技术支撑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeevVyYxKicyR2EEVQt3yzCa3WjaicYuibQ5R2vsicKQSibicy6cLCAibwcicrSo1kTqeKoxLS4PoI9uoSiaID5bxOReQNGXgYCG2zoVayKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>走到一个陌生景点，举着手机让豆包带你逛，它看到路牌标识主动提醒方向，看到建筑开口介绍典故；旁边路人聊天、街边叫卖，豆包不会被带偏，依然只跟你对话。豆包视频通话功能升级后，AI 可以在连续变化的真实场景</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521377&amp;idx=1&amp;sn=3d2f9e30616aa074c8d574c568903ba8&amp;chksm=e874202c8402175cc8550e855088c1831bb754ac4074803ab2c0789fbb1b5c44b24c449bbbb6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent Plan x DeepSeek Harness 实践指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedE21KRBN22UUNY9SRcBjUWmXHo74W26xU8DgPvt2jH7ndlvZkKMToAVuFHU7rLNLJZYc7HLS7E3y6RJeuycdPgyWP8qFWW4E4/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的DeepSeek 智能体应用框架（DeepSeek Harness，简称DSH），Model、Tool、Memory、Sandbox 和 Agent 都是可组合、可替换、可扩展的插件。Harne</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521375&amp;idx=1&amp;sn=e11bc1ebfc05563e0d0ab2d5d47835b5&amp;chksm=e812a47014769c0d16b75493c4d651699273147630a60e54900d9c6b55fc22437ac39d1da4f7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedfTcmX6fjRVpn4pTPH3liceg9btj0DFW6wKAuYlkBVP4JCsUjclibS7uNzHGE7Hhjz20NNUYmYNMWZoDF4f8lwOOcTTicKE0yejU/640?wxtype=jpeg&amp;wxfrom=0"/><p>用户接入云上大模型（LLM）时，通常面临端-云数据交互如提示词上传等隐私泄露风险。常规脱敏和加密手段难以同时保障数据安全隐私和推理高效准确，陷入“安全”与“智能”不可兼得的困局。为此，字节跳动安全研究</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519070&amp;idx=1&amp;sn=618c4ef1446e49a86377277a9d200b4e&amp;chksm=e898728c7380abe6236d3e9ae153ff79234408fbeed201604b7089d5f98dea48080adf109596&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 30 Mar 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenSearchCon China 2026：字节跳动在 OpenSearch 上的技术实践与前沿探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeMBn1hQvQsxVQRE2XLoCRkYKSZIklERkb7yFkLENXkYyfkl0w8LPibme0K7Xq4HzAdWEMIymJ7GaHsEVI6Ly5wf4dycSWzzK48/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenSearchCon 是由 Linux 软件基金会旗下的 OpenSearch 软件基金会主办的年度技术大会，2026年首次来到中国！作为开源搜索与分析领域的一场“华山论剑”，从底层引擎 Apa</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519046&amp;idx=1&amp;sn=45613e8c1ed787026f52292ded0e5acc&amp;chksm=e89044ce2de06ba75d65148e4321498bf254ef5758a80f8700aff490cc0c06177abbe2b53698&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 27 Mar 2026 17:36:53 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[美团搜索3.0：LLM 语义表征在排序模型的探索与应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DyVozURj6yVdTHxnT9LEoHzlmNgs9psYmlahJymuUNXTXPIBhoe0q8sXMhhP4x2gibh5bExYnEsqXvlNCLyQpLphOV60VhpN9ks/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读在大语言模型（LLM）技术的深刻影响下，搜索引擎正经历第三次范式跃迁：从 1.0 时代的“关键词文本匹配”，到 2.0 时代的“行为统计与个性化搜索”，再到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783185&amp;idx=1&amp;sn=0aab6d93f04e2c543903d6d6a4a98f88&amp;chksm=bcc35eb5b2b793a6b978cba5679c7e098b6fbd317a73163316131942af8a92ef46ec5196ca04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 20 Aug 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[KDD'26 美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DyUz6WPGG3ac0d1NTtevB7vJlfd3AMsz3C5IAvwzeUOm2ImNlY5gQmC3V1K2IBSRR3YhFkwgVwV6fKo294uhulibmz5Pd7guBL8/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~KDD（ACM SIGKDD Conference on Knowledge Discovery and Data Mining）是数据挖掘与知识发现领域最具影响力的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783138&amp;idx=1&amp;sn=31ddcb07ef2bf6c73c2415934ab288dc&amp;chksm=bcb6cd0f9c3e0bc8c47081d837eeeb1ef7db250fac65dcf7dfa4a3109b066f04c2af1d5f6928&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[美团 LongCat Interaction 团队发布大模型交互系统技术报告 WOWService]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsV72pj4yfZStf0ZNtKOySOzicLkwxE6KcYGryDrLHwHbBa8SrgjS3jwXmbiapejapsyibTwymC60zZ8g/640?wxtype=jpeg&amp;wxfrom=10000"/><p>在本地生活服务领域，大模型技术落地正遭遇 “三重困境”：通用能力与领域需求难以适配，复杂场景下服务可靠性与个性化无法兼顾，高昂的数据成本与漫长的训练周期进一步增加了开发难度。更关键的是，行业内缺乏可复</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781734&amp;idx=1&amp;sn=cc848330c852f22c1cb6bde1fbc2147c&amp;chksm=bcb81e22400c3e84015319556dbebf73ce2f1d0a687abfe94c590d59f90aab749f3d835f024c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Nov 2025 19:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美团首款 AI IDE 产品 CatPaw 开启公测 | 文末附邀请码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsUEabEGbF9lAs9MlVIyzs9D9QZyLCj6QzttG5ggmPy2WHvUlKjgwrI4lUdxB71cuw38iaGbaxNh4jQ/640?wxtype=jpeg&amp;wxfrom=10000"/><p>Meituan CatPaw （以下统一使用“CatPaw”）是美团推出的 AI IDE，以 Agent &amp; 人协作为核心，通过 Agent 智能驱动编程，辅以代码补全、项目预览调试等功能，结合美团自</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781734&amp;idx=2&amp;sn=bea84cd8e7eefcdceab09abd8b685605&amp;chksm=bc87a710da33573bb314ca3256279bace6bde201a5c1029877515b6efb8161d87e0d82df8546&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Nov 2025 19:58:00 +0800</pubDate>
     </item>
   </channel>
