@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“僵尸卡”漏洞，过期Visa卡仍可完成非接触式支付]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3cF99ISiciaYBXx87xY0JIxOjYiaj59deaFzlC8adnkicK2OKttkbjo3kZqeS3LNeJcxrHeHpII50x2IYDbLnVLEJ3VKWvBEF7qqU/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员证明，过期信用卡并不像大多数持卡人想象的那样已经“死亡”。马萨诸塞大学阿默斯特分校（University of Massachusetts Amherst）的一项新研究在第35届USENI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=1&amp;sn=829ea85a9fe9a0d8489b6d05b5d393fa&amp;chksm=bcc527a2f90e09e03b35b96849c04fb79731841f880d7f800b79d791f0b8b18596de377e37d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Entra ID曝严重RCE漏洞，已遭在野攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1CV3WbM3waibqOFakqleeiavSLMVqDqs35FgQGtzmkkicJ0E8wQtsj5cclrniaYoj0cd3nfmWMXCKn6hEt4AdlDibP99RibRvlEUww4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Entra ID漏洞曝光微软已确认，其云身份与访问管理平台Entra ID中存在的一个严重远程代码执行漏洞已被在野利用。该漏洞编号为CVE-2026-69836（CVSS 评分：10.0）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=2&amp;sn=84ac72a4adf9205992e2d68e80e92bb0&amp;chksm=bc2b1dabe07bbce45fcc11b2e02d3a5af271011c69aeabe1483ada1d21e57006b6b223c5aa5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI因担忧新模型可自主发现0Day漏洞而放缓AI训练]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3cNT9tzqnJLYpldc7wIDEJVYib1aUTG5SyK8qDWaUDDicib9Axgfc1tbNrns1ONhJyJWWZlmVvlx6gDlic2D6ry5RNlcnn9ia4Tv8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>内部测试显示，OpenAI即将推出的Astra模型可能达到关键网络安全能力阈值，因此OpenAI已暂时放缓前沿AI训练。OpenAI表示，这一决定源于一起涉及Hugging Face模型的安全事件，以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=3&amp;sn=d9d95fd0ce917006bc0bc0251e0c3e02&amp;chksm=bc849288c36a115f619fddf095a045e897ae93897db9d9950f3b6db60a398ba41f26c0d7bef3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客将恶意代码隐藏在英语单词中，借以感染Windows用户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2JrdqBsibu8TiczoXjyTRBibyO0myPeP242vRxnqian1DziaicRDFHcc6oh55QYpfXX0JDibuNz6Dz7NbpTUkS1OxcyITvEAeDSFMYhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场针对Windows的新恶意软件攻击活动，正在将恶意代码隐藏在普通英语单词中，使载荷在分析过程中看起来不那么可疑。该技术被用于传播Amatera Stealer（窃密木马）——一种瞄准受感染系统中敏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=4&amp;sn=0e519ad78dd644869011c0fe093ef497&amp;chksm=bc45d96d87be98f6ff92a35b449563d5729a8fd24e3230751f85ae78ec430fa76d6d6e32ac51&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[超1.4万台大华摄像头被入侵，CameraSwarm行动揭秘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1qIiaflXrT10GnJ6tcuH2wuiclBPydN7h1EmCcibt4yH8tibg7P8Nx6rsbrWAx75vvhCmNaIAic9IvgYibOPOmC5X39ytuXHSuSMtx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名研究人员发现了一个暴露的目录，其中包含一名攻击者使用的完整工具链。该攻击者在2026年6月17日至7月22日期间入侵了超过14,000台大华摄像头，这些摄像头主要位于乌克兰和俄罗斯。Hunt.io</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=1&amp;sn=9194c878699cefef170af0be28f2e03b&amp;chksm=bc8e50449d90c31935afcc1e8e3786015c837d2207de32ea5b30a49916ce4a1f1d130acad066&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fc9D317xjpMBZXvVgMvjmxUibSpzZicibFcnwFfOGwicjLAZExosrricu1hD9rZajibmpTbQqAIQ3xBHZ3DX1EXRibHYPibSoJmSibvlk/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《连线》杂志（Wired）最新报道，月之暗面（Moonshot AI）的开放权重模型Kimi K3在一次网络安全评估中突破了隔离测试沙箱，成功访问了开放互联网。这起事件由美国初创公司Frontier</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=1&amp;sn=14f19c00c22260fabcbc34689d7ef2e1&amp;chksm=bc0550d4c423187f2e63acce6b6fa69c23d39e8b453175a17c2fbcdc15a4df0d43bfc2420a43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chrome版Claude曝高危提示注入漏洞，可窃取Gmail验证码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3PyibMm0EVribC4Ve4z6gCHuqpvicjSjtS85WkMiaF6AUz24Jiad6d3fde2qmIFIerW79xE8HiaMGbQTCOHmotBEwAFzZCG5a3AVGdo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Chrome版Claude存在一个间接提示注入（indirect prompt injection）漏洞，攻击者可以利用该漏洞窃取邮箱验证码，进而劫持Slack、X和Claude.ai等平台的账户。攻</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=2&amp;sn=fd07d355f1f1f3f73875bdb16a628a16&amp;chksm=bc5c6004e0180c833b071d57a4f842c3e9b8e667bd45f93175c6aed9c485b17ae0ffa4930e09&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Mythos 5与GPT-5.6-Sol突破网络测试边界；Ruby on Rails曝出严重漏洞 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖 Mythos 5 与 GPT‑5.6‑Sol AI Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=3&amp;sn=e3b7c5d8d306aabae7d8635d4395662a&amp;chksm=bcee32260aea73d0720fd535a189d90321d7c42c01ee4c79d01609d67bb9672d807f79ab9ba4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI在美国黑帽大会上首次完整披露AI自主入侵事件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1xd8NHCOIB6bON8GIhzmROjC1CdcVqA8elVEZrK0nKXnzbEVyETv0pV2icXEHvLLmODEY7auKSxW0BSCIdHfeCiawAm1mRlkQ5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent自主发现漏洞、绕过网络限制、共享攻击方法，甚至在通信渠道被切断后重新搭建了一套新的协作方式，这并不是一次概念验证。在Black Hat USA 2026大会上，OpenAI安全研究员E</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=1&amp;sn=43ecdfebef9f9c64a0976f61242a4c97&amp;chksm=bccb9e33b252c19088d2839677c4e97b9c80cde17e71c67ab7856ba1cdf538a83932404f2d27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Oracle遭SQL注入，攻击者直达Windows SYSTEM权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0xjG7eKQJVhkNFsLCScSjyZ9S18xHdmr9Et2LX4SRwOI8rzad5Ghfl0QbJGOXAZb8Ra7PUiauMcR4KXhnwUnakUvslAPonzw14/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01从SQL注入到Windows SYSTEM攻击者借助面向公众的Web应用中的SQL注入漏洞，闯入了某组织的Oracle数据库，随后在不向磁盘写入可执行文件的情况下安装了一个后渗透工具包。他</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344170&amp;idx=2&amp;sn=ed3ed525c140d415d2293751cfa9e644&amp;chksm=bca114a08abec08fff4504675d92f53391d75aaa373a7b17d08652cc2ba803c630c588eb027d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

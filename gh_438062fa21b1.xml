@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5CKNxiczMEv9aqKE8YpkPgcxqvTYmyYsjAiamq4LMyARiaELIUcibGPjkN4oy9icqnyYaW3nxlYpIjFxKYZibV7zib0FtfxktTsT61A0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 54 篇文章（ 本文阅读时间：约 20 分钟 ）AI 编码半小时就可以完成一个 agent，但是一个没做过任何优化的 agent，跑一轮就是几十 M token，月底一看，费用爆炸</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511201&amp;idx=1&amp;sn=4af859e8a065ac8c1fa687ace0ea5feb&amp;chksm=ce2539c4e8beacba3db7eb7fdafe184fd6d24a18016008441e9d434e97a61e36a082e2cf2645&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里巴巴 12 篇论文入选全球网络顶会 SIGCOMM 2026（内附下载）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5a7rqF6v7sUlMfQcufNYRYaviaMS8emfhImRq3yxkoxM9Ghu6vKbmejdJEAic7cjxNjm58hCZUpyOswEL5nCf0tuTrYNqoPFd5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 53 篇文章（ 本文阅读时间：约 15 分钟 ）日前，计算机网络与通信领域顶级国际学术会议 SIGCOMM 2026在美国丹佛召开，阿里巴巴集团共有 12 篇论文被主会收录，在全球</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511193&amp;idx=1&amp;sn=985ceca884ea702ec12963d8041ef80d&amp;chksm=cecf0e50a8be972bda701485e9af2dce65881710b5ba9be0d80f54dbfbc7bc8a5ed176d04f0f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Paimon-cpp：阿里高性能Paimon读写库正式开源]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30ErTChbmkQ3q2eu0STOiceSPqicOcqiaic0r3U365hCvBT655gnBibia2MD66a7L6WnzNicbD8N48c38MZyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第3篇文章（ 本文阅读时间：15分钟 ）阿里巴巴智能引擎团队，是阿里内部AI工程系统的建设者与维护者，主导设计了大数据AI工程体系AI·OS，致力于为集团各业务提供高效稳定的AI工程基</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509125&amp;idx=1&amp;sn=ad04f363ef2170e9c51f94dba37e763d&amp;chksm=ce785c757be8262117ca6bc481cb3f2a1048e6517a25dcee0c508cbefaf474751f93357e7fdf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里云上线Clawdbot全套云服务！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30ErTChbmkQ3q2eu0STOiceSPpcSRnricPE4juTyJrvx0waSSZibcvCtksOSGtM4mHHrUjqRurLPo2nTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周，阿里云正式上线Moltbot（原名：Clawdbot）全套云服务，全面提供Agent所需的算力、模型和消息应用等。用户可在阿里云轻量应用服务器或无影云电脑上快速启用Moltbot，并按需调用阿里</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509125&amp;idx=2&amp;sn=5e4edc02fb3400f9136a98314ecb1900&amp;chksm=ce2ea24806c62c2d87aeeacae254f90f593215e3dc5a0bea134919c463411d5720a07f8d624f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 04 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>

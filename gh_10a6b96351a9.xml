@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[昨天发了一篇《给AI看的架构规范》，评论区的讨论很有意思。 观点一：AI训练了海量代码库，它的架构品位，比我们懂的那点东西强多了，完全不需要我们再抽象架构规范约束她了。 个人的观点：没错，AI见过全世界最好的架构。但问题是，它不知道我们需要哪一种。如果不告诉它分层，它每次生成的"最佳实践"可能都不一样。AI不缺架构知识，缺的是我们项目的架构约束。 观点二：我们部门已经没人手搓代码，纯靠AI，一个人干三个人的活。 个人的观点：我相信你。但我想问你，你们公司用AI交付线上系统代码的，是不是仍然是程序员？产品经理，运营，也能用AI搓代码，能不能交付线上系统代码呢？我认为，至少现阶段，代码质量的兜底人，依然是工程师。 观点三：分层架构的规范可以精简成一句话：保持清晰、可维护、可拓展。AI知道怎么干，不需要我们告诉她细节。 个人的观点：这句话，是对的。对人来说，是原则；但是，对AI来说，是空话。"清晰"是什么？AI见过一万种"清晰"：MVC清晰，DDD清晰，洋葱架构也清晰。我们如果不收窄它的选择空间，它就用概率替我们做架构决策。 观点四：人为约束就是给上下文加噪音，告知红线就够了，让大模型自由发挥。" 个人的观点：红线保的是"不出事"，规范保的是"高质量"，这是两回事。"不允许跨层调用"是红线；但"接口和实现为什么要分离"，是专家经验。把多年的额踩坑经验喂给AI，恰恰是上下文里最有价值的部分，这不是噪音，这是蒸馏。 这些问题，没有标准答案，每个人的观点都不一样。无论如何，能引发我们的思考，才是最有价值。大伙的反馈我也很受用，面对AI，自己也仍在不断学习修炼之中。 今晚直播，和大家聊聊：《如何用AI做出架构师级别的高质量产品与系统？》 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。 PS：你认为，AI的能力这么强，未来还需要架构师吗？]]></title>
+      <description><![CDATA[<p>昨天发了一篇《给AI看的架构规范》，评论区的讨论很有意思。 观点一：AI训练了海量代码库，它的架构品位，比我们懂的那点东西强多了，完全不需要我们再抽象架构规范约束她了。 个人的观点：没错，AI见过</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981477&amp;idx=1&amp;sn=b66c2c592ee41ec04410770486339819&amp;chksm=bcfa5cac40c636e603bb1498261eca1798608c090dd8bf22d781b278bb93139e6a8c038f528a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 10:06:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repository → Database ``` 1. API Routes：处理 HTTP 请求/响应，调用 Service 层； 2. Service：业务逻辑，不感知 HTTP； 3. Repository：数据访问，封装 SQL； 4. Database：由具体项目选择。 原则： 1. Server Components 可直接调用 Service 层获取数据； 2. API Routes 仅用于客户端请求、外部系统对接或需要 HTTP 语义（缓存头、状态码）的场景。 ## 目录结构约定 ``` src/ ├── app/ # 框架路由目录 │ ├── api/ # API Routes │ └── ... # 页面（按业务嵌套） ├── components/ # UI 组件 ├── services/ # Service 层 │ ├── dto/ # DTO 定义 │ └── exceptions/ # 自定义业务错误 ├── repositories/ # Repository 层 │ ├── xxx.repository.ts # 接口 │ └── xxx.repository.impl.ts # 实现 └── lib/ # 工具函数 ``` ## 接口与实现分离 所有层都必须遵循接口与实现分离： 1. Repository 层：`.repository.ts` 为接口，`.repository.impl.ts` 为实现； 2. Service 层：`.service.ts` 为接口，`.service.impl.ts` 为实现； 3. API Routes 层：HTTP handler 通常不需要接口/实现分离，但请求体验证和响应格式化应统一封装。 ...（限于篇幅，细节省略） ## Repository 层设计 ## Service 层设计 ## API Routes 层设计 ## 代码规范 ## CSS/Styling 实践 ## Next.js 实践 ## 安全实践 ## 测试规范 ## 依赖管理 ## 通用最佳实践 ### 单一职责 ### 日志记录 ### 事务边界 ### SQL 注入防护 ### 环境变量验证 ### 端口配置 ### 生产模式 vs 开发模式 几句话可能讲不清，周五直播和大家聊聊：《如何用AI做出架构师级别的高质量产品与系统？》 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repos</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981475&amp;idx=1&amp;sn=ece55b12848eda217be55a0bb883f6ae&amp;chksm=bc20f2959c88c641c49063c206018258673778952c49bb735881f9a38a4cbb9ae2d762e0d35a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>一个判断：随着AI生产力的逐步提升，opc会越来越多。 既然有这个判断，自己难道不应该下场实践一下吗？ 于是乎，参加一个3个月的商业大航海，自助式的（官方给资料，自己学，自己实践），准备自己孵化一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981123&amp;idx=1&amp;sn=2b8ead4c2dc589d8c67946d5ce1abcb7&amp;chksm=bc3c75c4da958825749b31f446f503d0eb7f07442924b5432a94e6445ff83cb6cee01b15de2e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 17:36:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[还在养虾的人，明显已经从OpenClaw中获得了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊：《学OpenClaw，究竟要学些什么？》 至于内容，会简单聊聊新手养虾人的学习路线： 1. 安装的四种方式 2. 四项核心原理（安全，人格，记忆，进化） 3. 两项特色（skills，多agent） 4. 六项实践（浏览器，多模态，知识管理，辅助编程harness，自媒体生成，爱马仕agent） 最重要的，还会聊聊，快速学习OpenClaw的三大要点，掌握三大要点，学起来速度能够快好几倍。 你还在养虾吗？进展到哪一步了？ A：还没装（有这一步的吗？） B：简单聊了下，不清楚原理 C：清楚原理，不知道用来干嘛 D：已经动手实践解决自己的问题 今晚直播间，欢迎来玩，不见不散！]]></title>
-      <description><![CDATA[<p>还在养虾的人，明显已经从OpenClaw中获得了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊：《学OpenClaw，究竟要学些什么？》 至于内容，会简单聊聊新手养虾人的学习路线： 1.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981121&amp;idx=1&amp;sn=8b27b50275d340e8d8e716ae77de343a&amp;chksm=bc0dfd1ddc55014405d47bed8f020332b7a35cdfe859b105af4a13d6dbad80229073c4a7f4b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 25 Apr 2026 11:51:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

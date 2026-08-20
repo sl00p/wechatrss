@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[豆包大模型测评招募丨寻找行业资深AI实践者]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeySwovL421Ttcic0B1WHEE70qadgoibZQ5wLMdbmicpBYl4UkiaeFbxicibzCevyFcPhgEkxiamwic7K1Dewy1rhjC2Zay4qIyL4iaa9fw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大模型开始进入投研、研发、医疗、法律和工业生产，衡量它的标准不再只是答案对不对，而是结果能不能真正用于工作。现在，我们面向各行业招募各行业资深 AI 实践专家。我们希望把最难、最真实的专业任务交给模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521383&amp;idx=1&amp;sn=abb9e4f892fdc334e752ca8c3c4483d1&amp;chksm=e854db132571d69603945e49d60e037dc0f54e82445191cce5a3596dfeea890356a893c9ff3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[豆包视频通话升级，火山引擎多模态传输系统提供技术支撑]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeevVyYxKicyR2EEVQt3yzCa3WjaicYuibQ5R2vsicKQSibicy6cLCAibwcicrSo1kTqeKoxLS4PoI9uoSiaID5bxOReQNGXgYCG2zoVayKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>走到一个陌生景点，举着手机让豆包带你逛，它看到路牌标识主动提醒方向，看到建筑开口介绍典故；旁边路人聊天、街边叫卖，豆包不会被带偏，依然只跟你对话。豆包视频通话功能升级后，AI 可以在连续变化的真实场景</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521377&amp;idx=1&amp;sn=3d2f9e30616aa074c8d574c568903ba8&amp;chksm=e874202c8402175cc8550e855088c1831bb754ac4074803ab2c0789fbb1b5c44b24c449bbbb6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefOiaffftCz037ia65xb96ZUVWCuHbNP9WEVMKVFRSE7H0v9FBIg1wiaaneeoLIe6qkxBqN0zavTYO11pLzf3t8fIUlCMSFUqqicUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>导读某企业员工小李，正借助OpenClaw智能体处理日常工作——他仅要求智能体总结一份公开行业报告的核心内容，方便后续汇报使用。然而他未曾想到，这份看似简单的指令，却暗藏安全危机：恶意攻击者通过在报告</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519148&amp;idx=1&amp;sn=9ce8fff7bb8c5f2f6a8ca762a2fef2f4&amp;chksm=e82ff2f5ee4c8b4ee76763fae2def7754f2a4b6c37ee2dc2b5b8b4ff62f8a96a4246a020e5d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Apr 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PrivLLM 协变混淆：隐私保护的 LLM 推理高效实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedfTcmX6fjRVpn4pTPH3liceg9btj0DFW6wKAuYlkBVP4JCsUjclibS7uNzHGE7Hhjz20NNUYmYNMWZoDF4f8lwOOcTTicKE0yejU/640?wxtype=jpeg&amp;wxfrom=0"/><p>用户接入云上大模型（LLM）时，通常面临端-云数据交互如提示词上传等隐私泄露风险。常规脱敏和加密手段难以同时保障数据安全隐私和推理高效准确，陷入“安全”与“智能”不可兼得的困局。为此，字节跳动安全研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519070&amp;idx=1&amp;sn=618c4ef1446e49a86377277a9d200b4e&amp;chksm=e898728c7380abe6236d3e9ae153ff79234408fbeed201604b7089d5f98dea48080adf109596&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 30 Mar 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

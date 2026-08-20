@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[再上新！GLM-5.3、Deepseek-V4-Pro等多款模型上线千问AI平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1yo69zDNqkm4BGcHfAXXibPg4iaYYUAz2fbibJicpIt1KSOYcjKiacxOo2Nt6uj462iagJ33DrJp0pf9N0L9HQaal6dIN3kroliakWnA0/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云MaaS再次扩充模型服务矩阵：GLM-5.3和DeepSeek-V4-Pro正式版现已接入千问AI平台，相关API服务同步开放，开发者可直接调用。本次新增的两款旗舰模型，重点覆盖编程和智能体应用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561963&amp;idx=1&amp;sn=bfd5c60400266b10df52920cfb3001d0&amp;chksm=e8561d425edfa540aa5d751e9d35f9a10b03910cf9225c8f7cc3f1e33535406984e8c1092b8e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 21 Aug 2026 11:43:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen-Audio-3.0系列语音模型正式上线千问AI平台]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w6GrrsyqJNcseblhF3cGgrK70yxGbaoicMqOb1Rhia5ecK88nEu5PtlJKa5k6ibakkRwJDWicSyrdIRuWDl7KXyCTlv3a7y2iaiavXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，Qwen-Audio-3.0系列语音模型正式上线千问AI平台。开发者可以通过API服务调用模型能力，也可以订阅Token Plan使用。Qwen-Audio-3.0系列模型是阿里巴巴推出的自研语</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561890&amp;idx=1&amp;sn=9ef07932c013aa647d11056b74bf52a6&amp;chksm=e8cb5208bee69b38597f5ece0d4ddfa07b80e790b30e6111176d402f37a011431509e995b009&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1ybxdBMXxx5O4Q977oia45zgIss5e2YnOxx2CybZN6Cs7ypNlZialicicC39FvlO479HMqz3VSyftJJUslZFZj0I1UBWoDzlmP1Oco/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是「项目深度解析」系列的第3篇，也欢迎阅读：《深度解析OpenClaw》《深度解析Claude Code》。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。）背景</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559664&amp;idx=1&amp;sn=2c26ac0a4898e4c986d289a543808dd7&amp;chksm=e821fb37e67d394741b140846b2cfd2d47f3ad6ebd6d01ba881d355ca92e11f6bad1f01cc3d5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 24 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[深入源码：Hermes Agent 如何实现 "Self-Improving"]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xbb0Rf52bUcibrEUoQRSOrnqUSPAkTTTia8UiawPeelYNKiatwa9Gmq6znfpq2bW18ibicX45urhvh3mN5Ul0lIYibncURqCN0iaVfMMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景OpenRouter 排行榜上正在发生一场换代：Hermes Agent 增速 +204%，Top Coding Agents 排第一，Top Productivity 排第二。上线不到半年，Gi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559661&amp;idx=1&amp;sn=ca9426f948819f172ec44f671127aa29&amp;chksm=e8f120485b924e0cc44dcd85c8368ed208ab9de4ff36b9b65a4466ba5f371084a581273adb9e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
