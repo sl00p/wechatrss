@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[完全相信AI代码的Uncle Bob，坦诚这条路还没走通]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgjVbIBc6OhLBHmQVD23sibJrMJsGTfFuWMWWwiajfM1HIm6QNCddIcT1rarxichemNINSvOVynaWX0wArvDTK0sib3mibUoELNeN0A/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 ｜ 褚杏娟 在 AI 代码极度普遍的当下，一直告诫开发者要严肃对待自己编写的代码的 Uncle Bob，如今已经彻底放弃对 AI 代码逐行人工评审，转而在搭建一套依靠指标与约束条件的管控框架，这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291334&amp;idx=1&amp;sn=e770611f2d3a0840a71e2f45bdc63ed5&amp;chksm=bc6a3d226d629bf02d7c710b7fd404579169c0fc4bdd46ff32014f10ae141709c6eb77bbf66d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 12:39:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Github热榜第二：仅靠“自验证”框架让 DeepSeek V4 Flash 反超 Fable 5，成本不到 1/11]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg0MeLvoeCPzwkyOPibhtG9WG5c7tsNial8XYN6bIYE1yibOCqpM9hyibtKrsF1RRQjk12FyjyXprmnml25HRjF85jaxZNOnFDJdjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月一个已经训完的大模型，不换参数、不做微调，究竟还能榨出多少性能？当行业纷纷把目光投向 Test-time Scaling，指望在推理阶段‘大力出奇迹’的当下，一份名为 LLM-as-a-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291334&amp;idx=2&amp;sn=142de3ec3bc231b9455bb692dafcabb7&amp;chksm=bc695046200d0b30be2fedc386e3bb524258cd1c011a076391945735e24554c0cb219f0a170a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 12:39:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI紧急停训GPT-6，安全原因还是另有隐情？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaTUlQphTvmEqkicXy47bNVkHOZ8zBNbjqGIicKzwOGzwyiam4g4nwOlW4vuLGyRQJar505BMsbj2ad3nx4SRiboVk15xrCN0UCuKQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅一个尚未发布的模型，已经具备接近“关键级”的网络攻击能力，另外一边，已经有一个内部模型则在安全测试中逃出沙箱、利用零日漏洞入侵了 Hugging Face。面对能力增长超出安全设施承载范围，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291334&amp;idx=3&amp;sn=17ebdf09ecdee5f343d52e89a1ea42d5&amp;chksm=bceedd6d57dfee1c8bb33034dd604f1d2f642cde2c3e545ddd887bb6997719ea483a85f07c85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 12:39:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgrWCNOVdCtaiayIuiaicB9QpNbJ5SBhCk5W8ibdNO5RHnKMs4hCxUNuXL2Kla4XZuGpBpiaTa3RTMv5h79Ey4Xj687OhNX7rY4A2Xo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 田橙 面向内容的 Web 框架 Astro 发布了 Astro 7。该版本几乎完全聚焦于构建性能，随后发布的两个次要版本又对其进行了扩展。此次更新的核心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291334&amp;idx=4&amp;sn=7afa8025b36fea0d25d3ba1c83654431&amp;chksm=bc475c0430c76fdc665005c0884690d403e291cf727ba12d5db78cd8757cd815810f2a918636&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 12:39:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhbFy7hnZDTiaF1FqaIwvFCCiaQxicRdtJKuw6WjVIibkq6obEYhLnOOldN1pN31bzXg7kSDA0bzGTm8r1FXqib4rJusLh7DKA65yibs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅一笔 AI 视频生成的隐性账单周一上午，一家消费品牌临时决定，为即将开始的促销活动追加一轮短视频投放。需求听起来并不复杂：围绕同一款新品，面向不同年龄、消费场景和平台，制作一批风格接近真实用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291285&amp;idx=1&amp;sn=8515cc6ccd2a0826a57d3f80b74346f6&amp;chksm=bcedbdd8344c407ee70ac4a43b6ef854ec8c9dd341ff1c32bb12df956a05c972aadbbdee2a8c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaFWrFunnF6phXHIwFpQ7hSwHC3PGxIVzwjaA4YUQEWicAbwia2smQbB6eGmuTMXibyQo3OHNhsa38MSffY9Z7WwGt48IQ1PAH8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Joab Jackson 译者 | 平川 策划 | Tina 一款广受欢迎的、隶属于 Anthropic 公司的 JavaScript 运行时及工具链在利用 AI 重写后，因其执行速度之快而</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290628&amp;idx=3&amp;sn=b803432db5d8af7fda584c972afe4941&amp;chksm=bc7f16c6be5493422590a49b2f1451a7780a9d18638b51afff25b4d30e40e9ee80c99d792ef6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 09:28:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare 推出 Meerkat，实现全球强一致性协调]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhXlh0iaArVXxuRbc4jNjmF9lou7Lfiamric8cMdKlJex61r3fypHgyC6ba4O1plI68SRvAb5fNhic2CbmibibUVYtwf8rnKQaOpXezY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Renato Losio 译者 ｜ 平川 Cloudflare 最近推出了 Meerkat，这是其内部一个基于 QuePaxa 共识算法的全球一致性控制平面服务。与 Raft 不同，它允许无</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290628&amp;idx=4&amp;sn=908eb82658d3c7168da18b40c7368841&amp;chksm=bc41ea13090183ba23462fa8ee62fe9556a19e93bd7974fe73267a1dc7632b50b0e673fd6506&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 09:28:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgianM3zYKdTba0YMza3sicV1L6hXlRQyGHNQgM4XfMlyMDwe6VYSsBL3QTr0unM2anoDrjr85Hxh2mmDGX1zKbGm1AExxQekIaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 有人说，“大语言模型或许很擅长写代码，但软件开发的难点从来都不在这里。”还有人说，“写代码很容易，真正困难的是弄清楚该写什么。”如果你靠代码吃饭，听到这句话什么感受？2026 年，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290582&amp;idx=1&amp;sn=92f1bff14f5f9dcef870c59fde3b1ce3&amp;chksm=bc396fd648830a467c835f7ff92d0f08f5dd84e485c642e79ac880672e6452fbb12e7e9b6e84&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 13:16:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgoeG3GVpdTH711KiaP3BUQVBs12tqmLDLjCmf6uAvOu8hXWqOpZOjrNvb5OVBicicvQwfowNh9o5ZIj9TlJ6fGiaib2PNTlsKWZc0k/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理｜华卫刚刚，Meta 推出其首款编程智能体 Muse Code，同时发布了针对编程优化的前沿模型 Muse Spark 1.2。这可能是该公司迄今为止对 AI 编程工具市场最认真的一次进军。Met</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290582&amp;idx=2&amp;sn=b2cba27df4df9d555e9dbf1801e0933b&amp;chksm=bcedddb467feab9e6866b5de507bada629b46beb24a54c75e84176a1dd12298418f11622042e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 13:16:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源共生 先锋同行｜世界人工智能开源大赛（GOAI）全球六城巡回宣讲活动圆满收官]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg6sbEibPQiabquTjic3ZUN5Ps04sRUGeqpHTZ6NSC2yoXCWQ24XlTdbwMlAJHqZw8n87LBtnORoYLWEkAtnnjhIWCfPOdOibJMTb8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场面向全球AI Builders的深度连接8月1日至8月8日，世界人工智能开源大赛（GOAI）全球宣讲活动之“GOAI开源先锋派对”先后走进北京、上海、杭州、深圳、新加坡、硅谷，面向全球开发者、高校</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290582&amp;idx=3&amp;sn=a896ecd40ea59902a70a2bb5bb521970&amp;chksm=bc3e7135fa5e76978cc047d4212ad988c8cb836ce1bbcb925c4f251b80f0ef60befa3e160eb4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 13:16:42 +0800</pubDate>
     </item>
   </channel>
 </rss>

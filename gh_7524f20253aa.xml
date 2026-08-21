@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[《企业AI安全治理指南》：从公网AI到Agent的落地实践经验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0GNKJx3icNdeOGqu5hH8CNLh4cCyialnsMll3csT1vibcR5bvnbB4RGY1dVmic5es17o3j5ykOq0njZh1J9GfdVW6tFV4ryoPaouQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 正在加速进入企业的每一个角落。员工用豆包、Kimi、DeepSeek 写材料、整理会议纪要、修改代码；业务部门搭建智能客服、知识助手和代码助手；办公 Agent、运维 Agent 则开始连接内部</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345140&amp;idx=1&amp;sn=c0d7ce4522358adad961cc50ec9c81e7&amp;chksm=bc6dec662280e44fe0f58f966d6b8d4d3c1874163e9022565810f66c2cf9d0f0a7297f054f88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Opus 5未破解二进制混淆，反而绕开防护走捷径]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Z4icXP9scuibiaDyKeNCIRPboHUEZN43DK34hia3Bib3JMB5gzjh8HlAC4ib7DQeKIgLoBqubF8q6UvOXEmJRWL8XeaiaV4AXrge7Ks/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI绕开混淆Claude Opus 5 并没有破解加固后的二进制文件，而是寻找更省事的方式来恢复隐藏信息。这说明 AI 辅助分析虽然能力不差，但并不可靠。这次测试不是恶意软件爆发事件。实验</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345140&amp;idx=2&amp;sn=f343d91eb4d98cb95e1b8d61d4fe29c1&amp;chksm=bc3dba93bc55e88ddc3f7c1cd7b3c5eed5ddc85029134449a28672b1803bdf45d6e63c2e5c05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face事件反思：Agent攻击者已经到来 ；新研究发现“僵尸卡”漏洞 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖 Hugging Face 事件反思：Agent 攻击者已经到来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345140&amp;idx=3&amp;sn=51a2b7f918502bee7a6d4b4104a39e44&amp;chksm=bc4efc746b963cad83103b76386d515515d30fbecf6bac98491210cd99dd608117836416e7b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 22 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“僵尸卡”漏洞，过期Visa卡仍可完成非接触式支付]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3cF99ISiciaYBXx87xY0JIxOjYiaj59deaFzlC8adnkicK2OKttkbjo3kZqeS3LNeJcxrHeHpII50x2IYDbLnVLEJ3VKWvBEF7qqU/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员证明，过期信用卡并不像大多数持卡人想象的那样已经“死亡”。马萨诸塞大学阿默斯特分校（University of Massachusetts Amherst）的一项新研究在第35届USENI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=1&amp;sn=829ea85a9fe9a0d8489b6d05b5d393fa&amp;chksm=bcc527a2f90e09e03b35b96849c04fb79731841f880d7f800b79d791f0b8b18596de377e37d6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CjlPyOocH7HV56eTMkgPLWo6NRmTicgtBJXLIYvspFibY2zQnPlu16Vf8PicMicPJzLhShmuggoan8h1GDCKMd49opfJrkCSGDmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Astra评估逼近Critical风险阈值OpenAI宣布，将有意放缓其即将推出的前沿AI模型Astra的开发进度。此前内部评估显示，Astra在Agentic Coding（代理式编码）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=1&amp;sn=f15618cdafcdf2c23b5aea604a0dc07a&amp;chksm=bc03464998c75985ed0bd969d57324fddf79c2ce492cc9850da0db950a60e31af1ef581d8911&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[木马化AI Skills渗透Agent生态，安装量突破170万次]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0xkZY8Kfib5dqiayKKzF709dicE8XRicAicuOXqtiaeGqeDficOxp279Fb0pdMkK5NF5yPYszibKZ5yeEia3auxNQWQnjgvAbPpyc7ayPw/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员发现了一场极其有效的攻击活动，攻击者将AI Agent skills木马化，以部署凭据窃取器。该事件是日益增长的趋势的一部分——攻击者通过污染可供共享的Agent工具指令和配置文件，将矛头对准</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=2&amp;sn=164297023550204f50fcd51dbd6f8e6f&amp;chksm=bc0e642a530591d83a927291dc33131f899051b7cfc78c46702e9c2c9a82b5f369433a647e0c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：商业安全大型BLM；Fastjson2现远程代码；字节跳动开源DeerFlow]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0KUdKFqiaNF1d3VBCxlXbpYrMMzsVlH1Z0BVtlnsx8IyrdJkcFe5DxNRbmFg1vf2HD1WBWvJg3Q4NA72tKh9a7YMYD7lxCo2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=3&amp;sn=7ffea68c0f884a10cdd1105cbaf5876d&amp;chksm=bc1eb83f31322d488987435a3bec1acd51abfdfd304a07a1f88a9841fa496bdd293daa1fcac1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi K3在安全测试中沙箱逃逸，直奔GitHub获取答案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Fc9D317xjpMBZXvVgMvjmxUibSpzZicibFcnwFfOGwicjLAZExosrricu1hD9rZajibmpTbQqAIQ3xBHZ3DX1EXRibHYPibSoJmSibvlk/640?wxtype=jpeg&amp;wxfrom=0"/><p>据《连线》杂志（Wired）最新报道，月之暗面（Moonshot AI）的开放权重模型Kimi K3在一次网络安全评估中突破了隔离测试沙箱，成功访问了开放互联网。这起事件由美国初创公司Frontier</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344206&amp;idx=1&amp;sn=14f19c00c22260fabcbc34689d7ef2e1&amp;chksm=bc0550d4c423187f2e63acce6b6fa69c23d39e8b453175a17c2fbcdc15a4df0d43bfc2420a43&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
