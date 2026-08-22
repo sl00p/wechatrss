@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一周没逛 GitHub 不要紧，这 TOP 10 的热门开源项目整理好了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2ZegDFYNZvqmsaZNwqJmWW7dOfnunGYBib6tSDoibkMYE54TqX7tAIvcJoq7ZWPCmAlLdqUe10L66ZcRGCs5pqtjBsQ5gTU42SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一套美观开箱即用的 LinuxOmarchy 是 DHH 推出的一款开源 Linux 发行版。它基于 Arch Linux，采用能自动排列窗口的 Hyprland 桌面，并提前配置好主题、快捷键、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536122&amp;idx=1&amp;sn=b7a284d06296707235d8dde07c6f6d4e&amp;chksm=f8be8eafbea6b5fd76510b9a4e98e97c01a6f8f1cc874468ad01e9e4d69a88d207a3747cdd6a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Aug 2026 11:33:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[推荐关注一下这个刚开源的自进化 Agent ，登上 GitHub 热榜了都。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3YMjiayq3gkCP3kTLJUGmROoHGIPibx25dMbZyfkJ3ibxvo8QQLBhxEHYA2ykRN0UO1H64ggGmYmqXsGCVbvP2k9N752l1YdRAt4/640?wxtype=jpeg&amp;wxfrom=0"/><p>pi 这个开源 Agent 的含金量还在上升。基于 pi 构建的一个新项目 Prime Agent，最近登上了 GitHub 热榜。目前已经拿下了 17.7K 的 Star。这个项目的定位是：一款面向</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536098&amp;idx=1&amp;sn=f5d705af93475ffc2faa1d42915a7d61&amp;chksm=f846ae8d070c5e011cfc6ebef7bf58ed52cedc77acab8a5ba7893bd8616eead5346008ecc1ce&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0q1ZrR5wT6p8ia9Rv8w1VFLZGYwVbbgJk3rJp48KtDZpDyc1X2ibPUgTkRgKiaF7x8KicP7POia814GUdhlu7d5WYib109yangpqSVM/640?wxtype=jpeg&amp;wxfrom=0"/><p>跑 Claude Code 改个稍大的项目，一个长任务下来几万 token 没了。Codex 调试一段日志，光日志本身就把上下文吃掉一大半。再赶上月底限流、超额警告，那种感觉就很不爽。更难受的是，这些</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534620&amp;idx=1&amp;sn=fb26dc3b155501d8c39b371aaea31959&amp;chksm=f85bd51c7d8f1b3bcecbd953e4c698cb7ac4b3417d7e2f23779c834c67a95c14f1f29a42a5bd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 13:53:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在 Kimi Code 中用上最新的 Kimi K2.7 Code 模型，太爽了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1gClRKXegunE29xSEhEdpdAfdX8Tk3shdYN1fc1DVyia7LUI1eCNkiaZlY94RvHITjJh7L3WGLaGsYPmMv7kIqiaBP9mhUFpaET8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kimi 自家编程模型更新， Kimi K2.7 Code 发布了。它是个专为编程场景做特化的模型，不是通用模型的常规迭代。总结下来有 5 个亮点。① 长上下文编程场景的指令遵循能力题提升了② 长程编</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534592&amp;idx=1&amp;sn=111ded134f8f79316d8954428e3f5c7f&amp;chksm=f824010704a9066e5f6b48562daacdb660c8298ed3d3126df3b968a7406a9c9607a032c3b2c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 14:15:02 +0800</pubDate>
     </item>
   </channel>
 </rss>

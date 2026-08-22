@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一周4500万次攻击，全球wp2shell漏洞遭大规模利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ozvGfRZnPIcxkhH4sDuojRDRfb5n0ibWLjkqAkWepY5n5zzaZ9icRqpLFMiaygoibk68AakgqVf7RxRLEEibmyrtkvamP9YXkPgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的wp2shell漏洞是WordPress历史上最大的安全事件之一。这一严重漏洞链结合了两个缺陷，使得未认证的攻击者能够利用存在漏洞的网站，最终远程执行恶意代码，甚至有可能完全控制这些网站。在漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=1&amp;sn=0ba2fd7d4db9b5e3ab9e22254def56cf&amp;chksm=bc843c4f1b13608f3bb9d6b98d753f24942ecdae010135cd0bca70926067b9d692438187c2e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Grok曝零点击提示注入攻击，可窃取用户聊天数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0nAtBtKzVtmFhvSz6V8QnTHIMeEURE4YjmKichv4jhs8RGrTFYOicr20ZXhOp3tDM2L60picLO4UhTibW6YlF27AfrWd3317icOalw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日披露的一种新型攻击手法，能将xAI旗下Grok网页聊天中的常规“总结此页面”请求，变成一场悄无声息的窃取行动——用户的姓名、大致位置、订阅等级以及当前对话的提示历史记录都可能被窃取。Part01加</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=2&amp;sn=714a73a59b43b649ec997f6a9f87e201&amp;chksm=bc878a2cf25d0a8e7c2a375b6842c2e47e270d749175251251d904916f16b872e15c43ab78cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：AI代理欺骗用户；AI辅助漏洞挖掘系统设计指南；Fastjson2 AutoType]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0KUdKFqiaNF1d3VBCxlXbpYrMMzsVlH1Z0BVtlnsx8IyrdJkcFe5DxNRbmFg1vf2HD1WBWvJg3Q4NA72tKh9a7YMYD7lxCo2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=3&amp;sn=8a41b7a6f1052a68b3a3a783d7b44538&amp;chksm=bcfb52e107c41ebb933462d35582917e6d4c058366659d4b1497e148b1eaf054768846f2c5e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[《企业AI安全治理指南》：从公网AI到Agent的落地实践经验]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0GNKJx3icNdeOGqu5hH8CNLh4cCyialnsMll3csT1vibcR5bvnbB4RGY1dVmic5es17o3j5ykOq0njZh1J9GfdVW6tFV4ryoPaouQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 正在加速进入企业的每一个角落。员工用豆包、Kimi、DeepSeek 写材料、整理会议纪要、修改代码；业务部门搭建智能客服、知识助手和代码助手；办公 Agent、运维 Agent 则开始连接内部</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345140&amp;idx=1&amp;sn=c0d7ce4522358adad961cc50ec9c81e7&amp;chksm=bc6dec662280e44fe0f58f966d6b8d4d3c1874163e9022565810f66c2cf9d0f0a7297f054f88&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30vAv8uu8lyiabosAzMuB0jywnQ5BribfwPSrUntJkTHxC7Y1czuETBnCz0uAh3djYzMTzPTbdT8zSfdW70YIxgo5K7g69psrMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾本期播客内容整理自FreeBuf线上直播研讨会《Agent跨平台操作｜多安全产品协同运营的新实践》。直播邀请了来自大型连锁零售、东南亚支付及国内大型运营商的一线从业者，从真实安全运营场景出</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=2&amp;sn=8f44357331b3bdfab7f7ee0e2295792d&amp;chksm=bc1c142eea7be6b87b913256dc1379d7a70507508f7adf0d4a3cda0fdfedf389b04710d43e4d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Metabase 0Day漏洞遭在野利用，无需认证即可获得管理员权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0gwZEuEttlFvb5vAY4dlMscd88LMsAyhDFgp2D1Wcxia7siaic1fvVkyRo2YReic1z4mOaR0E1aLaQuX0UH7FCnAk6uicESCoLgSkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Metabase警告称，其商业智能和数据可视化软件包中存在一个最高严重级别的安全漏洞，该漏洞已在野外被作为0Day漏洞利用。该漏洞（CVSS评分为10.0）目前尚无CVE标识符。无需认证的远程攻击者可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=3&amp;sn=1e051bc6c34e2b38082e9f90792f10b2&amp;chksm=bcf0294b993de88290e361522d1fc4a935c6eb3a425058af2bb4e1a969a292cd845dac9ea849&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型CSS攻击可突破Webmail防线，窃取密码与令牌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1xjkAPOPut0K543A9CkwBqOBlD6p4CWbMdvCvwp5bN6JQA9Pugl6vicMAvIO72fiattrnWSticicns00n1Nhn4HJp0GslnfUpRWWY/640?wxtype=jpeg&amp;wxfrom=0"/><p>新研究显示，电子邮件中的内容可以突破邮件本身的信息边界，进而干扰Webmail（网页邮件）界面。在覆盖Outlook、Gmail、Fastmail、Proton Mail、Yahoo Mail和AOL</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=4&amp;sn=ba3f4f0cf8e65d1047341d9bd3fe4731&amp;chksm=bc0b820ee66388553c941e0b202ac4e204db96fb5daa1766d62ee16db18f3c685bd5d06431b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI自曝新模型逼近严重安全风险线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3CjlPyOocH7HV56eTMkgPLWo6NRmTicgtBJXLIYvspFibY2zQnPlu16Vf8PicMicPJzLhShmuggoan8h1GDCKMd49opfJrkCSGDmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Astra评估逼近Critical风险阈值OpenAI宣布，将有意放缓其即将推出的前沿AI模型Astra的开发进度。此前内部评估显示，Astra在Agentic Coding（代理式编码）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344251&amp;idx=1&amp;sn=f15618cdafcdf2c23b5aea604a0dc07a&amp;chksm=bc03464998c75985ed0bd969d57324fddf79c2ce492cc9850da0db950a60e31af1ef581d8911&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
