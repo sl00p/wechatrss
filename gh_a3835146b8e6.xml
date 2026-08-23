@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Codex开始“反杀”Claude Code了吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQGCSWwF15ribfT5iaZbKnfoib85de6cYzB0reAfrq68ql2aqv3RpKwjAmsvFwdd6efjCALRy7ZcCgEEeDpghZwhXPhSSdJOViccaicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI Codex周活突破2000万，增速是Claude Code的4倍；而Claude Code增长骤降至5.2%。本文对比两家AI编程产品的增速分化，剖析Anthropic与OpenAI在商</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651930454&amp;idx=1&amp;sn=e10adbdedf1af5ed94d4819877c5b099&amp;chksm=bc95e32499cfa76acf29be1e98049f4dfd2f65c7c75f24f0d25724fcecea45ceaa01eab9907b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 07:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[传统产品经理已死：AI 时代，产品经理该往哪里走？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQE7P2nwSFoZN5p3Tln22U2pbVBleJYVDuYj3IDMpnr1sBvByojQLKkr3hQlaxbIpbribC0UboXOLCI0G5ZcprnQiaZvf7EtGoCoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去，产品经理的价值来自哪里？会做需求分析，会写 PRD，会画原型，会推进项目，会理解业务，会协调资源……但从 AI 开始进入真实业务场景之后，你会发现：以前2天做的行业调研，现在 AI 几十分钟就能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651930454&amp;idx=2&amp;sn=4790a3ade45fd67069507e3cb8ed4fb0&amp;chksm=bc61131a0c2ae78f27ad9fde2b5bb069354ddb1c8cb05ce4c1de5c95a89a1f90c03e6772b1e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 07:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[再谈版本管理：如何做好内部产品的更新日志？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQF8pAawu0g5lecibic1iaRsibhzqoEVX2Qh0Kgvht3snkBmFSLyPj8y4xxws4AXWfZldpNibJ3fLCulL4IVqmxVpZa41gmSdIolulOk/640?wxtype=jpeg&amp;wxfrom=0"/><p>内部产品更新日志常被忽视，却直接影响用户信任。本文从触达、内容、发布机制三个维度拆解六种方案，强调后台管发布、前台管理解，并深入设计状态机与已读逻辑，为产品经理提供一套可落地的更新沟通策略。————</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651930454&amp;idx=3&amp;sn=2351112747c9be52606855e25e4dd6de&amp;chksm=bc9c67fd148994ebcf6b9ce6313583563c1dbd8f629a3bfcd03c481674657d8725a0560f5bde&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 07:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开始推送！特斯拉正式接入豆包]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQFGp5qP4tZmxaKX6DbJFAibQibbTAFFQ4gESUiaFx3LIKpNE6NDsdkkTEAsyMrHCM4q824Q9ujd9u7iapw7Fuib6rCQoRCJ0O4ggFlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>特斯拉把司乘体验最明显的一部分交给了字节——豆包以独立App形式上车，覆盖空调、导航、媒体等控制类语音命令，还能主动找话题、插话、记住用户偏好。马斯克曾说要让用户"爱上这辆车"，如今却不得不借中国大模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651930426&amp;idx=1&amp;sn=dd2a5625a3b094daf3fb519e124dbe51&amp;chksm=bcd64227e465b372a935c5977777c9274ffe8c33ee9e6e8a9d9ae4d4f6e769cc565397831f69&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQEBV3zFByeFH1Oyg93ibAATycBjj0u3Ch4c7NibT6sZ95CjZP5ja6uMdXpibGd27GsDIib721sf3hiaKs7paCFx87OcWj2Jzeo1ic7p4/640?wxtype=jpeg&amp;wxfrom=0"/><p>秋招即将开启，想转岗/跳槽的产品友友们求职情况咋样啦？AI时代，随着竞争压力逐年提升，不少社交社区平台也成了产品人求职通道，近期一位产品朋友在脉脉大吐苦水：拥有中级产品经理title再次找工作时发现，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651929956&amp;idx=2&amp;sn=4358c81659b4549c4cc0aa9153ffe8d4&amp;chksm=bcd059db44675364a2dbc03c9d176c6c9629d446edcac61d858cebfd3d4f1fedc6cbb3efd4e8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Aug 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 把原型画完，产品经理的工作才刚开始]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQFlVPgYf4tS0pl7z5HAewmXB6MrShSBLZWQnlypfGBFkgc7MFFV0dL68ALmK2RbR03qOib84O83mYFp1vtLcias2C7g4uia9R47xM/640?wxtype=jpeg&amp;wxfrom=0"/><p>产品实践中现已常用 AI 生成 HTML 原型替代 Axure、墨刀等工具。作者建立三层原型评审思路，借助两本经典书籍落地判断，AI 提速之下，业务决策成为产品经理核心价值。———— / BEGIN</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651929956&amp;idx=3&amp;sn=61f18611833fd12de0e67ff715691957&amp;chksm=bc548819a7a0ed95721ab43bc6e88cec9b3c6b14f1e22dcef5ca16273a312092671915d997c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这届AI办公，名字比产品还难用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQHaz1ABmqC5rsP9XEbJyW5PMjhyW2JCwMzwgoOLTx9g6unSg5AUxocFJZYweBcjyib5GSOTOa1bo76fxcmKRNbdn6KZhfWZfaXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这里是导语部分———— / BEGIN / ————ChatGPT Work、Claude Cowork、Microsoft 365 Copilot Cowork、WorkBuddy、纳米Work、K</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651929936&amp;idx=1&amp;sn=d5a584a0064adfaa48f6dba521f90f0a&amp;chksm=bc700992f69754b3f78e5293de84f8fb55c45b4db3c1cb6dd41c5743ca3585f18c5f03085e26&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 07:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[毕业拿到19K产品offer，我是如何顺利走上产品之路的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQFprqd3sMZm1vqQV90ibt08o0NgoLf4zgmHBwl46Ct1txyeXUrwhDXK4wf6I1bUmHBB5pqdMwRx6yat2EChQTr8aSYlbLwbib4Ok/640?wxtype=jpeg&amp;wxfrom=0"/><p>“我拿到19K的产品offer啦！马上要入职了好紧张！”突然收到我们学员的喜报：刚刚毕业就拿下了19K的产品offer！今天邀请了他来给大家分享他入行产品的经历，大家不妨跟着一步一步剖析自己！最后还有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651929936&amp;idx=2&amp;sn=d77d23ec9f156a9cb179a9b0d4e56568&amp;chksm=bc503cff5d0d3f34643dee61e320f282ed2cf37078887e9cb49421ccec4cda47c4cf2304e2be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 07:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

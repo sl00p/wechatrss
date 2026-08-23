@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[号称零误报，自主红队Agent Cybermes实现渗透测试全自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dibvgkfnK15ibewO1OBTFISQ7oXxDoraJYG5PwdCwwBXswL1EQImacVPKnCscV0PmkA5jRzAEKVAaGicicKgEibOts8oWK9QzHAmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为Cybermes的新开源项目进入了AI驱动的进攻性安全工具这一竞争激烈的领域，它将自己定位为一种企业级自主Agent，能够在最少人工监督的情况下运行完整的渗透测试。该项目由开发者Zyrexnn</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=1&amp;sn=008ab2f3f191930d789f62d3bc3d840b&amp;chksm=bc53fe65a45dea43426b9d6956b9e720408e4118d2e09484773d5f83ed27fcf40046234b1154&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首个Android车机恶意软件曝光，黑客利用更新系统感染汽车中控屏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX04ZZgNJv5PCNNCibHKu9VdmvIAd291wu3aT98FOz4vib8cgypnBv5ibBF06rYEGRexEo0BdnDblD5DISqPhM7qxeRcjaAU01xYGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个新发现的Android恶意软件活动将汽车信息娱乐中控屏变成了意想不到的攻击目标。攻击者并未诱骗驾驶员安装可疑应用，而是利用了Android车机内置的软件更新路径。该恶意软件是一个多阶段下载器，用于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=2&amp;sn=ec50d1b8cde0823638318efab7e7efb7&amp;chksm=bc0457d029c72200c7b96539617bca31fbfbf9ea78f817e72bd8e0d0d8bf3bf7b0b72d668023&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitLab高危漏洞披露数日即遭利用，未认证攻击者可篡改代码仓库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX08qudtB5Pq7iac2xZUdQUfSLugNqUv6dFytpV3z6xwbCRJkyKPdxZtTAZTMibf2xGBff4RnMtUHMyIiacuBQWxBwTzUUFIwHPccg/640?wxtype=jpeg&amp;wxfrom=0"/><p>据watchTowr透露，GitLab中一个新披露的安全漏洞已在公开披露后数日内遭到在野利用。该漏洞编号为CVE-2026-19478（CVSS评分为9.4），属于代码注入类漏洞。未认证攻击者可在不需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=3&amp;sn=833a5c43e4c430f0511a21d1f7928508&amp;chksm=bcc81d63fb9937cadcfc49ff3e708209a8f938592d38bdf8dbb18036fff5f9c3ad51cc1a9751&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Spring Security曝严重漏洞，攻击者无需登录即可获取LDAP管理员权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2J3dyYtLVMNibLZ0FDJg3siaibwe64oxq3iauhA2ia5P43eNDmZmrpKz09f0tkyicrRT9cHuL66Wgqt2IFOFgykg2KFXXePsfzY9Xq4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Spring Security内嵌的UnboundID LDAP（轻量目录访问协议）服务器中存在一个严重漏洞，远程攻击者可借此获得暴露在外的内存LDAP目录的管理员访问权限。该漏洞编号为CVE-202</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=4&amp;sn=c7cc3818289a0651a02997f76c14d77e&amp;chksm=bc4c94b7e004537f0b02e9ad4eb7d4fba5067002eb3e5c8cae7eac996a01a9377708e47943a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一周4500万次攻击，全球wp2shell漏洞遭大规模利用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ozvGfRZnPIcxkhH4sDuojRDRfb5n0ibWLjkqAkWepY5n5zzaZ9icRqpLFMiaygoibk68AakgqVf7RxRLEEibmyrtkvamP9YXkPgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的wp2shell漏洞是WordPress历史上最大的安全事件之一。这一严重漏洞链结合了两个缺陷，使得未认证的攻击者能够利用存在漏洞的网站，最终远程执行恶意代码，甚至有可能完全控制这些网站。在漏洞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=1&amp;sn=0ba2fd7d4db9b5e3ab9e22254def56cf&amp;chksm=bc843c4f1b13608f3bb9d6b98d753f24942ecdae010135cd0bca70926067b9d692438187c2e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3F8ADW8DwTXvwEwnOdibXumfH5ZGDgZF1Nb3qAyPGb81cOzryicKthOqxrRxGgpSz87kX7SGLBRzchen3IJtykX8pq3hpeN69DY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI扩展了其Daybreak计划，为通过审查的安全防御者提供对前沿AI模型的更深层访问，推出了两个访问层级——Daybreak Blue与Daybreak Red——以及一个专为漏洞验证、漏洞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=2&amp;sn=63da463dd41e9a9b67cc51a00559792d&amp;chksm=bc896afb4e5285a8fc521d629f4578d845547ad5429e11b79e95212f9ac8072b4270dbfc0368&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜黑客组织Kimsuky利用本地LLM与GitHub C2部署AsyncRAT]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX05yeN9Eoiask2t7jiaibhrB6VmHdqTv9b0IHSMQfib0NPv0eagsxR5lldEpLFZSBn3eBZkTWh7PcVrSdZleavse9CyCql5MYKJhZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员发现，朝鲜APT组织Kimsuky将精雕细琢的AI生成文档与惯用的钓鱼手段相结合，传播远程访问木马AsyncRAT。该攻击活动表明，当诱饵内容看起来专业且格式精心时，传统的投递方式也能获得</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=3&amp;sn=f37e7fd266a060ff0cad9fcc592885b1&amp;chksm=bc2cc0f1043d4ed6a169773dc52b13af22c2c28f9cf3dfa7fef437830d2cab514d1910008bb8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[以色列新泄露的920万条记录实为20年前旧数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0piabvswxxJWrDYdrnoFhfpEbTj6iadHwLJiav8aMKrvWCsvYVvFiazQicjARiahW2TRFqVKegP8qwsNTjLmnbY0qeDqqQKZtRQvOJM/640?wxtype=jpeg&amp;wxfrom=0"/><p>卖家声称拥有以色列2026年人口登记数据库，但核查显示这920万条记录实为2005年的真实数据。Part01泄露声明与初步核查一名在某知名泄露论坛上的卖家声称已入侵以色列人口与移民管理局，并正在出售整</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=4&amp;sn=da1d91760187b94441b49966ce476783&amp;chksm=bc555252efaa6c7e3e76eb8284dc35e09bea4da1483463790d9829f2b97d9935938dfab7746d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Opus 5刷新提示注入防御纪录，15次围攻成功率仅2%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2SFVibTZOM2ZNmsIRDVUThT3kyj4QX3xX0nCwXD0KsONibUwHlsCvxlmN5VBSe8cmvTSk9DPRskoXutuV27a8iaTo2ZkgHHzCQnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01提示注入风险Anthropic的Claude Opus 5在其System Card（系统卡）中提供的测试结果中，创下了Gray Swan最新基准测试中Indirect Prompt In</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=1&amp;sn=6881119c75c0bf190df6d9fd771d3a76&amp;chksm=bcb3c2120e679268664ce7e7869334ff8e8316e78129ff2341767e20947d452ba60bd26108c4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代，如何让分散的安全能力协同起来？ | 2026网安行业优质播客精选]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30vAv8uu8lyiabosAzMuB0jywnQ5BribfwPSrUntJkTHxC7Y1czuETBnCz0uAh3djYzMTzPTbdT8zSfdW70YIxgo5K7g69psrMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾本期播客内容整理自FreeBuf线上直播研讨会《Agent跨平台操作｜多安全产品协同运营的新实践》。直播邀请了来自大型连锁零售、东南亚支付及国内大型运营商的一线从业者，从真实安全运营场景出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344311&amp;idx=2&amp;sn=8f44357331b3bdfab7f7ee0e2295792d&amp;chksm=bc1c142eea7be6b87b913256dc1379d7a70507508f7adf0d4a3cda0fdfedf389b04710d43e4d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

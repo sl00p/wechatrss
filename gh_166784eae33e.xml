@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8Kia37JrpOicLGMZicw8FWjSlhc1CflhRXWmiaiaWZpC8MoopiaYq5VhHxT2UvvB5H4wZGPKA92a7NkXEOJSKfbGKicDffqJ84tqyrGc/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 深度复盘每 3 天一起投毒软件供应链攻击正式进入「蠕虫时代」复盘 2025–2026 年开源供应链攻击：当攻击者不再投毒软件，而是投毒「制造软件的工厂」· 深度技术报告 · 供应链安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519978&amp;idx=1&amp;sn=c3c6d5c7e21f72e966ef1702af707af7&amp;chksm=ebd1bc32695584dcdec67baa798b3b39b81be8fd5dc1a179e4ff15186b0274d891d9370ebb52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 15:21:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2.45亿次下载的Rust基石crate被投毒：一次编译，就是一次沦陷]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqiciberNhExDsUmXyQzx79XxkHu3XaqqRb9YpO4gqSsYOGHjwaqudlWTMsH41tJvoBRwF16lmdgJWgJvhNfia1h69bC8Nt3jRqsxI/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · Rust2.45亿次下载的Rust基石crate被投毒一次编译，就是一次沦陷2026年8月20日，arrayref维护者账号被盗，攻击者发布构建时恶意载荷。开发者甚至不需要运行程序，只</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519957&amp;idx=1&amp;sn=b666c8c8fef193b22443d9861d95d60c&amp;chksm=eb00196bff4be2ed8c6dd6d0f0280264730caaadbcfb62df8cefb4374a011b6d9c048da6b350&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibGP9VflbpCQlNDosCfuAbibic3RiclhX6G1iay2Uj1jeMCA3NXoAlAZDYFLDnWiaPF9MmslibB68hYOPfMT3OQaPYtVMIGHpWmALxdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述开源项目DeepSeek TUI是一个为DeepSeek大模型创造的在终端中运行的编码智能体，近期随着DeepSeek v4的发布和开发者Hunter Bown的中文扩散帖，让该项目吸引到大量关注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518651&amp;idx=1&amp;sn=08ac9790bae6de954481639889be019b&amp;chksm=ebf9c2f83a982788ea121b68dc03cdf9198ff3383ce24513c1b350ed546bb0b21a12b64f4488&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 09 May 2026 13:11:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.05.01~05.07)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicvWGVghdensId4iaEmFotOj7ACUgvficicGiakduqgzwlvqkO6O7pjZ9vozmUwlW13BDVlLHGQDs0eHibr71erxeYMrfurmI5KMWUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.01~05.07攻击团伙情报Silver Fox 利用新的 ABCDoor 后门攻击俄罗斯和印度ScarCruft 通过供应链攻击破坏游戏平台OceanLotus 被怀疑使用 PyPI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518627&amp;idx=1&amp;sn=b29e952bd2d03588db5aab224debf1a7&amp;chksm=eb1bd92687757de1a17204e885b6f660899a86ee5fdefc0997f8cd27ef648e0c50d5c8cb4000&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

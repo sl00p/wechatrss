@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907aTibbgAnjwjsDfyhxU7rYZYUaXNb2WOQ9UxRzRzZrO4U2icq8KaXoOnF7EeiagPeubTLicbFAARLU7JOAdNmoLy7Z5geVwFBbKWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：trumphuang一、导语Agent 已经进入不少团队的日常研发流程。规模上来之后，使用方的关注点不再只是单次结果是否正确，还包括三件事：耗时花在模型推理还是工具执行上；Token 消耗集中在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803822&amp;idx=1&amp;sn=82b4c1b6735d5757e5e0a3288312c73e&amp;chksm=bf147df860cabdab6d3632044b91c441187811afbb81f62d7540c942f6edb62eb869f25635a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 24 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[靠这10个优化点，我们把Multi-Agent工作流成本降了50%以上]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907adsFGca5gFqQMHjlddGL1HjNvce2feUfiaMwvKZRBKRJIT6USXhAMAlljophMPbtk3Pgsg72djzv4iaeTx89ghcCVhUQ7zrM7M/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lemonye我们用 AI Agent 驱动前后端全流程开发——从需求分析到自动化测试，整个 harness 工作流由 1 个 TL + 6 个子 Agent 组成。跑起来之后第一个问题就是：钱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803728&amp;idx=1&amp;sn=e5958d1c5d52e82bbe693b932d07492f&amp;chksm=bf8dbce3dd1af6d49c9805ae97bf620d01fa69a9a7980fe14cadf5ef13e0e12db571b395480d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906bkzDkKt0JmcTF0uNUxxccrGsn3a4EIQspkIxXzHZBdv2Xj8KKapLdjOuccWqL4kGCsmjgyx45aRrybBTelDBudd686d1gb6s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：zhiyuanfu曾经前端被戏称为"娱乐圈"——工具、框架层出不穷，今年🔥 的明年就过时。现在 AI 把这个周期压缩到了以月计：这个月的新概念，下个月可能就是旧闻。这篇文章，就是一个在"AI 娱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801477&amp;idx=1&amp;sn=b4b4e51cf60abaa7bc00cc667ccca247&amp;chksm=bfd3d6dcb76116c1d9926ba6aae34bcae636fc4aa35207bd74b0397ced436dd866cc75295139&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 17:34:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯员工公寓曝光，竟是这样的布置！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907Gic5nx3caibJfPUBTUKibUiaRmhtbtUnicVoNu4ITicEHibVwlbwpiaV35t4W9C2icTzJiaxlb6C23f0yrnN9AoAtwbmibMo1MsIG1ydPG8/640?wxtype=jpeg&amp;wxfrom=0"/><p>马上要放假了，来给各位看点有意思的，大家口中的——“腾讯企鹅岛”旁边的员工工公寓都长什么样~即使是同样的户型、面积、配置，但经过每位员工的装饰布置后，就变得完全不一样了。我们随机去探访了些鹅厂人的公寓</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801473&amp;idx=1&amp;sn=b8ede18d708d1fdbee4df09a48e660f1&amp;chksm=bf64df20694f7839f098d61903b7e90da73f70cddb7a4291d79da042d96b9c3ece567b82648d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 29 Apr 2026 20:41:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
