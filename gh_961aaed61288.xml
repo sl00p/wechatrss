@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GPU 之外的隐形战场：AI 时代，存储正在被重写]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjExJKQPT8o4qD69BjicwpO2qfRia9iau1377eeicbh4NQQZ2KRBA5DkrZiabiajUckXBia7HibDp9yQoOWtaycM29ABqDuANPVrbJxAnC1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>进入下半年，AI 行业像被按下了快进键。6 月智谱 GLM-5.2，7 月 DeepSeekV4-Flash 与字节 Seedance2.5 接连亮相；进入8月，阿里 Qwen3.8-Max、谷歌 G</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834691&amp;idx=1&amp;sn=a7718dabb6a88fe17bf7e775d47eb205&amp;chksm=c3d9674016f42677b117577cb9b9f4130961dd9894386eab23f13a98031c07b42b70e973f571&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 17:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如果重回17岁，YC创始人Paul Graham：我不会急着创业，而是从零开始造个LLM！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEyibibs01GFIvlDz83AysamtTZIdJRdVSCibv7VadMibJM4rdqzBkPJYUpTbTicKpuCyWYUzj1A1ibl4WWACG7I7yLnQQeR5IiaHNfX5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 苏宓出品 | CSDN（ID：CSDNnews）如果现在回到 17 岁，你会把时间花在哪里？最近，Y Combinator 联合创始人 Paul Graham 给出了一个颇有争议的答案：如果</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834691&amp;idx=2&amp;sn=bf35d695b5e8b2f902a913128c5eb20c&amp;chksm=c3c8cd4582891f37dc1be1cd6ce34aa04f42f8d4d786f5f351097cbbc38134b305dca689b976&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 17:31:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Linux之父用AI修了个Bug，社区吵翻了：18次重启、24个补丁，最后只改了一行代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjExl7IT2icwdqENlr0XJIibI6yicwSVNXwW8EFPMAqrLlX3knxzIYct6UaCdJHgMuktlDLxic6ibRvHZibORFyXNcEDm5jMVajEdhAZUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）作为 Linux 之父，也是 Linux 内核最终的维护者之一，Linus Torvalds 已经很少亲自下场，为某个具体的硬件驱动写补丁了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247834630&amp;idx=1&amp;sn=acdd08e47605238748b2dceec9ca7f19&amp;chksm=c3c75504b9fa6223d878d8edb671b12ccd0495cd754fbaba1e4539ade855d5d41e1161848c01&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEyElMKxxzSFeQydPxOtDbpeBa32CsDntGwcGtCPtt4AlLqbhG0B6zooqlXL5HY4KpBd1iaYcPkX3UmL5JsLAugLRKBVBmibZsWS8/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）没想到，OpenAI 的首款 AI 硬件还没发布，就先迎来了一场重量级官司。7 月 10 日，苹果正式向美国法院提起诉讼，将 OpenAI、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247833084&amp;idx=2&amp;sn=bd471d5f79ddbf77bb4d0ee00d9e2181&amp;chksm=c3720e7445a17d0e391f6224f18cb1a8a249768861fa4822e720ca02f2c55b0479a6e10fff26&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 17:05:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3位工程师靠「删AI代码」创业，一周收费1万美元：10万行删到3.5万行！网友：“会Vibe Coding的，谁还花钱找你们？”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEyJheAqpFjmsE2JVLOtGsHgwvNNcfZe6gsQ3hMicibajAoBR6u9TZp9PSiawxQJG8ULYvavxxGcLc9giboRam2VIoeVRY2ZQh3n2IU/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）2025 年 2 月，Andrej Karpathy 提出了一个叫“Vibe Coding（氛围编程）”的概念，成为了过去一年多 AI 编程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832935&amp;idx=1&amp;sn=86a4e6891ce2bb6642ac52895e174b0d&amp;chksm=c361463c501a65e8aa1aa28cbc473753d29c123b87ff29a664b9da47499d14ecbdc4ceb08fd4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 17:13:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[50%程序员被裁？微软Xbox启动史上最大规模重组，开发《DOOM》的传奇团队遭重创]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEySGAChayb6ptF514Dibg48Vz5cLfN3rbicYmSgabOl8icficdzNkovzTKngb8mzHKJAFV0CZrmxVPnXTwaEibt7MSnlWiahhoptm6fk/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）微软游戏业务正在经历一次剧烈调整。近日，微软宣布启动 Xbox 历史上最大规模的一次组织重组，计划在 2027 财年裁减约 3200 名员工。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247832935&amp;idx=2&amp;sn=597848fe6acb5e93fe4142543dab7dab&amp;chksm=c3d522ce1ffd2f25e9dbcd6fd59d710dc4e9ad102a1053ece4bf884eaf9a39d4bf335917ff16&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 17:13:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

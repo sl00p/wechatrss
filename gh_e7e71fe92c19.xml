@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 KCTF | 《第十题：卯时·曦光初现》设计思路及解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3EcXiatib4YqYnqIWk2kcMrcJEFC5tErjvvwhFawHpceuicHQVG2hiac01Ojq8LibmdYeTtdHCgibgrPIxTWcwRkmDCoSN7Cvoicq40U/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。2026 KCTF 最后一题 Pwn《卯</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=1&amp;sn=3d61ce347e2147a0b17ef1517cf147c1&amp;chksm=b055ef5e9001923264cd59954b447b068fb868619894e41f0dde957d4f648d26eb671438ade5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Keycloak爆出致命高危漏洞！无认证可接管任意账号]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3KZzZ7spbYUN4T4sj2W6jlIBrhmecDkiaMe5aj4GkX139fAvP9WryMibGPXL1KOBUoTL9NtfbGFs0jxgaHnNNZNmjeQ66oJxVdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Red Hat 官方披露一则致命级Keycloak身份认证漏洞（CVE-2026-18963），该漏洞危害等级极高，CVSS 3.1评分高达9.1分。未授权的远程攻击者无需任何账号权限、无需目标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=2&amp;sn=4a4d9731c79fc341ccfbd6d65b10f7c1&amp;chksm=b061ac31049fde0a63d3bde64d7d3eddc22d2f187dbf45d76b5c5ed430347d79e4553bda6992&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KT3ldk2bt32C9BibO6rO2SBCXWJuLAuFP6XichDqWXvtgTPbI9kev47McxPASR5qFgichs94hWhjbFbh9M90HQf8lt8iaU01hbg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=3&amp;sn=2cab6dc6a5faac34c9252af214cf0409&amp;chksm=b0c9aabd2d2d1e05deaff2565ccbae97b47489b29220611a4206ec65a5503ce28abddd90875e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 KCTF | 《第九题：丑寅同墟·星海抉择》设计思路及解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K204jvDQ4zJKxhkwy9gnRCctRMTNmpnnu6copBPfq61ict3iamoUyyytalGBeoZD5qGkib8rBNiaQam2PBV3ficmXJ41dEuBOXpqMvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。第九题《丑寅同墟・星海抉择》由出题战队『</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618893&amp;idx=1&amp;sn=efa7ac8d77b3f8038f3dbfaad6e4f49f&amp;chksm=b0741c72a5021fc01857ff869ba8785c0985a3a399c35b67b7118fbd599a6172746bf7e2b565&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2LW43sE2Jz9TPIRytdtjKsuUaVvhFEPLwiatiaT8bEVx3tiaz04nylF2j1ibjStOMCHNztok019NPXwibLBhyaP2m7W1NWtxpDDQlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在本周举行的 Black Hat USA 2026 大会上，Forescout Vedere Labs 揭露：TP-Link 旗下 Omada 企业级网络管理系统存在多达15项安全缺陷。攻击者不仅能通</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=4&amp;sn=7c274db5d6a1320b0d8ed6220be2bc6e&amp;chksm=b06df390b476c192f7047d11dcc56ed88a59afe291d9f6980a0263098adb358a40b11b753189&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[剧情揭晓 | 2026 KCTF「永夜十二时辰」：化身破壁人，打破城市无限循环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0WYdazzbAa2WpSksG79IftUY4yHTUsuJiaFtUKRiaaMaQ8qNQzF1cfRa94cNqZh62hNyscWc2zH8ZibBQgGNYUppxABU3bLUiaVh8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1今日热点2026 KCTF——8月10日12:00开赛时辰循环，数字囚笼；唯有破壁，方能新生。你，是我们要找的破壁人吗？🔥征题即将截止！防守方规则点这里2026 KCTF 故事情节公布2049年，永</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=1&amp;sn=1dbd94e3e7e0a8b09880c1db8d42c47b&amp;chksm=b09c3547ae2d790bade222c8658345a39d7a5bfc1e2dfa9215cadd9ed44c6baf0db12b895287&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[记一次入门级DexVMP分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3GsdMhibEO55TpIJ69IdxmmG92cIZTIWO04C7BRKKRib4rv3FKcD0kHpMicNwM08c1hA3ZSdgdaEohZib878UeQUuySyvhvVCWt7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近找到一份apk加固样本，粗略的看了下，确定是某搜索引擎的加固，并且部分函数带了DexVMP，可以参考以下大佬的文章：某企业加固dex vmp简单分析https://bbs.kanxue.com/t</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=2&amp;sn=533b3c8caabaee9461f35aad0b407035&amp;chksm=b0bf21b0695de2c10cd4e0adc516a7096f6582c9906acf4c87568f9875a1fb40a7269a57b4cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[13年“幽灵”漏洞浮出水面：Linux内核OVS组件曝本地提权零日，普通用户可秒变Root]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0bicsFxMVUibV2JG7uonnxetqYXZzibdfEibukq1VkScBS4EHBwj3Wp05fiaq3bhpkBdiaT2K65Yib4kSL1pEfJMMZmTnwOISqdlAEOw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全圈被一枚潜伏长达13年的Linux内核漏洞搅动不安。该漏洞代号OVSwrap（编号 CVE-2026-64531，CVSS评分7.8），存在于内核的Open vSwitch（OVS）数据通路</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618398&amp;idx=3&amp;sn=2570bf825d99e4963e297b6d5c88e2bb&amp;chksm=b06ee0142e07f278258a281bc7273d91cec6fbb364c36349ea6346d733544d659a40defd9520&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

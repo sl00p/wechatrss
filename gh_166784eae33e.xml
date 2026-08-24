@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当新纳粹开始写代码：一起 AI 社工投毒背后的极端主义数字指纹]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9fyhxEBLVQpv5icDpv1ZZXdjXIXI48ZheN3t40ibwAH88LOD9hweYaHlF408P9s5IZlZy3q0caTLatJqY7hOeUh2LahSZWgzbibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 社工投毒实战解析当新纳粹开始写代码一起 AI 社工投毒背后的极端主义数字指纹攻击者在 GitHub 发布伪造的"Claude AI 越狱工具",诱导用户在终端粘贴执行 PowerShel</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519987&amp;idx=1&amp;sn=99ae2175bd62fc70d21f4623f71e7982&amp;chksm=ebdceef6978c03af988bea94d72859239d2e6cea91fc751c2893ee8059ff3d37c6fb9a719b69&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 15:37:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每 3 天一起投毒：软件供应链攻击正式进入「蠕虫时代」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8Kia37JrpOicLGMZicw8FWjSlhc1CflhRXWmiaiaWZpC8MoopiaYq5VhHxT2UvvB5H4wZGPKA92a7NkXEOJSKfbGKicDffqJ84tqyrGc/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 深度复盘每 3 天一起投毒软件供应链攻击正式进入「蠕虫时代」复盘 2025–2026 年开源供应链攻击：当攻击者不再投毒软件，而是投毒「制造软件的工厂」· 深度技术报告 · 供应链安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519978&amp;idx=1&amp;sn=c3c6d5c7e21f72e966ef1702af707af7&amp;chksm=ebd1bc32695584dcdec67baa798b3b39b81be8fd5dc1a179e4ff15186b0274d891d9370ebb52&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Rp8WFv2sIHZZg2qDcUxArG6OyTlXK9SKWUzTZvopBznwEoWldARo9SITFx1NzALrudk3LDSnMNggqjM7UdZgWKSeXRBHMXhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年5月7日，安全研究机构 HiddenLayer 披露了一起针对 AI 开发社区的供应链投毒攻击事件。攻击者在 Hugging Face 平台创建恶意仓库 Open-OSS/priva</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518656&amp;idx=1&amp;sn=86b04c00b27101115ddbf8aa955ba6b5&amp;chksm=ebeb9665471f2b739cf86c461d69951741f84a5a0f973f92ba555aa6d0d470e7bdd9979ed87a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 11 May 2026 10:36:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI软件仿冒攻击再现，DeepSeek TUI成伪装诱饵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibGP9VflbpCQlNDosCfuAbibic3RiclhX6G1iay2Uj1jeMCA3NXoAlAZDYFLDnWiaPF9MmslibB68hYOPfMT3OQaPYtVMIGHpWmALxdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述开源项目DeepSeek TUI是一个为DeepSeek大模型创造的在终端中运行的编码智能体，近期随着DeepSeek v4的发布和开发者Hunter Bown的中文扩散帖，让该项目吸引到大量关注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518651&amp;idx=1&amp;sn=08ac9790bae6de954481639889be019b&amp;chksm=ebf9c2f83a982788ea121b68dc03cdf9198ff3383ce24513c1b350ed546bb0b21a12b64f4488&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 13:11:45 +0800</pubDate>
     </item>
   </channel>
 </rss>

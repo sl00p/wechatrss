@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用下这 3 个 GitHub 上的超精简 Skill，内容只有几句话，却很好用。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hbic4JWdeUo3WtSvZiavOrLB0B3ImrOiaRm5YJHTAXiardxdjSN7tlp8q4LdJWNzhNbrdXicYnJxgcjojMiaQqibRMthcp0KqDxptU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01去除写作 AI 味儿这个是我开源的一个 skill，就几行指导性的文本。但能有效去除 AI 生成文本的 AI 味儿。比如，使用 Claude Code + GLM模型，输入：生成一个文章，介绍一下</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536168&amp;idx=1&amp;sn=3b28f7bc3a53dc9183ff4d8940a12761&amp;chksm=f807f9e5cda9c9d5035b0a05abe1637be6aa1589bcddeaa185965184489bad52bfa8383f72b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 11:21:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一周没逛 GitHub 不要紧，这 TOP 10 的热门开源项目整理好了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2ZegDFYNZvqmsaZNwqJmWW7dOfnunGYBib6tSDoibkMYE54TqX7tAIvcJoq7ZWPCmAlLdqUe10L66ZcRGCs5pqtjBsQ5gTU42SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一套美观开箱即用的 LinuxOmarchy 是 DHH 推出的一款开源 Linux 发行版。它基于 Arch Linux，采用能自动排列窗口的 Hyprland 桌面，并提前配置好主题、快捷键、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536122&amp;idx=1&amp;sn=b7a284d06296707235d8dde07c6f6d4e&amp;chksm=f8be8eafbea6b5fd76510b9a4e98e97c01a6f8f1cc874468ad01e9e4d69a88d207a3747cdd6a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1hsaG9SW6Cpib9lkysbFL1vwKnynvkgaUIaicsy2Xjg6jYYXUG8CRXs8ZrHF1dluaOmmsu6okZTu0s1zCxNI9toiavNOpLtj5NQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>想调研一下，大家是不是同时在深度使用 Claude Code 和 CodeX 等其它 Agent 工具。还是以一个为主，其余为辅啊？我先盲猜大多数人会选一个为主。因为自己配置的很多插件，Skill 、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534647&amp;idx=1&amp;sn=b6ba158e574eb2a32d11f3cabb1fa46f&amp;chksm=f874473d0ac41125a6fb63ae6fb2eea4c56aceaddab6995daba97d353365bad506639fcc516a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Jun 2026 13:52:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个爆红的 GitHub 项目让 token 直接省 60–95%。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0q1ZrR5wT6p8ia9Rv8w1VFLZGYwVbbgJk3rJp48KtDZpDyc1X2ibPUgTkRgKiaF7x8KicP7POia814GUdhlu7d5WYib109yangpqSVM/640?wxtype=jpeg&amp;wxfrom=0"/><p>跑 Claude Code 改个稍大的项目，一个长任务下来几万 token 没了。Codex 调试一段日志，光日志本身就把上下文吃掉一大半。再赶上月底限流、超额警告，那种感觉就很不爽。更难受的是，这些</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534620&amp;idx=1&amp;sn=fb26dc3b155501d8c39b371aaea31959&amp;chksm=f85bd51c7d8f1b3bcecbd953e4c698cb7ac4b3417d7e2f23779c834c67a95c14f1f29a42a5bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 13:53:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[高危≠高风险：企业漏洞优先级怎么排？【文末福利】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3sG3wxmrJ5E9pVbibVicm2Wib3Juqq7byibjHrKbsJHG8WhU3zFbwxWs1iaSbMtcbffGxwibMbWR3VjdIShMVDRH7yBESN0E1E47uwM/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾每天都有新的漏洞出现。高危、PoC公开、在野利用、影响版本……安全团队接收到的信息越来越多，但真正落到企业内部，最难的问题往往不是“这个漏洞危不危险”，而是：它跟我的企业有没有关系？现在到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345327&amp;idx=1&amp;sn=97d16aff9839b34a6bf7c47cca841364&amp;chksm=bc495207d08103817b69083a7e499624e6ab34a4310eb9181a42af8cde08cb31149b3f1f7b2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:08:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[macOS新型窃密木马曝光，AmnesiaStealer可远程控制已登录浏览器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Zr5HSPwpWzzorMzV09rAtdkDYI5Td7QelicoIFFcD4qLuC3WTvMl0x5MzRYGuBTa9tcTFskH8PFn3oZ4GHDBqVBNhV77Ah06s/640?wxtype=jpeg&amp;wxfrom=0"/><p>AmnesiaStealer是一种新发现的macOS信息窃取器，其危害远不止复制已保存的密码。它能够让犯罪分子悄然控制一个已经处于登录状态的浏览器，将受感染的Mac变成通往电子邮件、商业应用、加密货币</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345327&amp;idx=2&amp;sn=a9eb50af7f878139564f5d87a354a008&amp;chksm=bc5e610740d4fc715b771ce1cc7c60775a983806dcf72e89993fae42961bd09d959e2f1a221e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:08:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face考虑出售，估值或达 130 亿美元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3v518hrxguAfxETbtoD2HgSb15EtFXIllCvPdqib1ibBEDicrCaL0ZXeNIX1ab8mkHVxFMbR5N6Q0smp38dgJ4Ne0dAuiaHQibpZcU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Hugging Face正在考虑出售，这笔交易可能使这家开源AI中心的估值达到130亿美元或更高，而与此同时，它仍在收尾处理7月份发生的自主Agent入侵事件。知情人士表示，这家纽约平台已聘请一家银行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345327&amp;idx=3&amp;sn=03c9bcd0361147b9ea7e1fca2bd2c8b8&amp;chksm=bcfb7c272fe8efb4fc8ae8bfaf94dd39ce12ee82ab20662b907d96bba9f35150601735b6f3bc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:08:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果Find My私有协议被逆向，Linux设备无需iPhone即可读取共享位置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0beBU7vOG3A2NJqsq13dz4Qjx3ibfqCjsatWdA0rcMNCztHda2XVsTCtSEdelHOwpxdLpibBpksbaeUncokMjOIffLP3Roicdy2I/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名安全研究人员成功逆向工程了苹果私有的Find My People协议，证明一台Linux机器可以在完全不接触Mac或iPhone的情况下，注册到苹果内部服务、接收现有的位置共享密钥，并解密好友的实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345327&amp;idx=4&amp;sn=a03032caa01df6e5270f193c0f8733ac&amp;chksm=bc3463cf5a24481e997852e561a6cbc41370399b25ba7f34560287993f8993d9a506ea190886&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 18:08:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[号称零误报，自主红队Agent Cybermes实现渗透测试全自动化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3dibvgkfnK15ibewO1OBTFISQ7oXxDoraJYG5PwdCwwBXswL1EQImacVPKnCscV0PmkA5jRzAEKVAaGicicKgEibOts8oWK9QzHAmw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个名为Cybermes的新开源项目进入了AI驱动的进攻性安全工具这一竞争激烈的领域，它将自己定位为一种企业级自主Agent，能够在最少人工监督的情况下运行完整的渗透测试。该项目由开发者Zyrexnn</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=1&amp;sn=008ab2f3f191930d789f62d3bc3d840b&amp;chksm=bc53fe65a45dea43426b9d6956b9e720408e4118d2e09484773d5f83ed27fcf40046234b1154&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1k1nSDq7Sw3icqz1HA6uKNyPABHxXZhJ19uxI5Rrb3vNTm6vkGd6UtRoVLR8IUt8t3tsg9CZK2O4jtj9rPoNV3MFUcCoTG37KI/640?wxtype=jpeg&amp;wxfrom=0"/><p>LiteLLM遭入侵事件引发了人们对一个受信任的AI软件组件如何沦为网络入口的担忧。这起供应链安全事件使构建系统、云账户和源代码面临风险，尽管恶意版本仅对外发布了约40分钟。此次攻击活动始于攻击者入侵</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344482&amp;idx=2&amp;sn=ef33b9eacbd0d7038eca3a67aee53165&amp;chksm=bcf4a01cbf54fa494df994ebf7f4baadfeb34b157f482d4aca0c286ed120aed67a73db5158a5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Aug 2026 18:03:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows PnP被滥用，模拟USB设备可劫持签名驱动获取SYSTEM权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1feb6LmBvzI0qLsm7Am2r3Ocgso019GQLEI7IlFKeuF8mBUj0hVaWZ2m08a6GwjTorPXI8NLERTVtPJyS4H4uEsiacFkk6I8b8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Windows即插即用被滥用Windows即插即用（Plug and Play，PnP）可被滥用，以获取模拟USB设备的签名厂商软件，并执行特权安装组件——研究人员利用这些组件在完全更新的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344482&amp;idx=3&amp;sn=b9434e43ff49671e524fd1d590f6db27&amp;chksm=bc1d60e66e4eca7f71c86feb3bdb1710765382872f5adc00165d1846c32e036374268ca3f460&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Aug 2026 18:03:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意MCP服务器可拆分指令，诱导AI编程Agent外泄机密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Ziaeibjibvb30MeBl6ILQrDDGVbb6KsQKia4iaiaPECEYqEka1vvicQwOUUj0Z8mLO55VReabpgM0vKfwmLzWp5Vlicl7auiaBgmTlOF8/640?wxtype=jpeg&amp;wxfrom=0"/><p>连接到AI编程助手的恶意工具服务器，无需发送任何一条明显有害的指令，就能悄然窃取SSH密钥、环境机密、源代码和客户数据。即使直截了当的同类窃取请求被拒绝，这一手法也依然有效：将请求拆分成一个个看似常规</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344482&amp;idx=4&amp;sn=74cd1130da4441ca2a51bf3e423d5755&amp;chksm=bc7986b47314d18c60581e511df187d542874326a394b85518b047b58dba040bbbc822fc0213&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Aug 2026 18:03:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[macOS上的Claude Code会话被曝建立持久化反向隧道，凭据直送公网]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ZibIwWNSfPVtlicjDC93vQaEyxtjnu8Af4vhR8dlCdKNLZBLNbWTNMHmE8mmERX8hnUxLhOMRmib6tnqBU0G5dHKJbulvqQJUR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台macOS开发者设备上的Claude Code活动，引发了一个新的安全问题：便捷的自动化何时会演变成严重的暴露风险？Elastic 的一项新调查发现，某个会话打开了反向隧道、将登录凭据发送到临时公</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=1&amp;sn=56c4e0d580e04a250d0e8c6cffd592b8&amp;chksm=bcfbefdefcf5c74df24a83a958eb2c10589340bf7788e9d3db2890836383875a6c0590596016&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI扩展Daybreak，推出GPT-5.6-Cyber专攻漏洞研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3F8ADW8DwTXvwEwnOdibXumfH5ZGDgZF1Nb3qAyPGb81cOzryicKthOqxrRxGgpSz87kX7SGLBRzchen3IJtykX8pq3hpeN69DY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI扩展了其Daybreak计划，为通过审查的安全防御者提供对前沿AI模型的更深层访问，推出了两个访问层级——Daybreak Blue与Daybreak Red——以及一个专为漏洞验证、漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344398&amp;idx=2&amp;sn=63da463dd41e9a9b67cc51a00559792d&amp;chksm=bc896afb4e5285a8fc521d629f4578d845547ad5429e11b79e95212f9ac8072b4270dbfc0368&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

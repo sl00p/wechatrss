@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个Skill搞定服务重构：从链路分析到测试自动化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6uMuvYnj83H097cC38tArTXoAEs84VNIEEBBj3P3VSkTd38WYfh8XI8X30SnDEgpC2ia2swkgzsM64jntr5xov9X8kspyEKcZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告历史服务重构，主要难点不在于翻译代码，而在于先把多年迭代后散落在调用链里的业务逻辑（如状态机分支、隐式</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697075&amp;idx=1&amp;sn=0811fc825e510ea62db8152d453d6008&amp;chksm=eb2b235984def8821a9fa4fb085de77c659a097b0e83521341ab027cf1de30b381bc3ed24636&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 25 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI时代不吐不快的12条判断]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7EfQLSpic5Da62TCibC20mrHZiaDTVQePLFIK7Qz1peCaht8iaLqOIyhEjyLtt88rSWgQ6mVP2UWwl86Aaibj9hUd1ZDiaicczlXkRZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 引言和 AI 一起干活有段时间了，有些想法不吐不快。笔者作为一名互联网后台研发，日常的编码、调试</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697030&amp;idx=1&amp;sn=961b696054ae4d9c0f9eda068564203e&amp;chksm=eb2e9c5b6b4729538f4eca597447ce23fa982650edb775f273a6042caa992f9f31e3e2b986ec&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7cF35geWMKnNnMOgkSkBHDwRT71Mz9mhPv9cvkJgic7hyibMUmdPs3YWxSRWHjsybOEj45yZa71hjyia8LNoobWIkFqtnjkPeHkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：Agent 很热闹，生产现场很骨感过去一年，几乎每个团队都做过 AI Agent。一个输入框，一个大模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695544&amp;idx=1&amp;sn=865fb183130b2851900b9f4eda62da9c&amp;chksm=eb09d81cfd317b9b09d3b9eec610c6c3f318d9c323a53bc3cd0af7d6501e1d3c1d86ec6d5e11&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拆完Hermes源码，我发现Agent的"自我进化"根本不需要训练模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4oiamTCsUdTXg2c4FnJ8iavCFwdpG1cvZ9O3ZaTSTbib26PPR89vW0jTicQRRcEH7sJxc67RgkBeAI7g6PMWJDDgTicQoHdgukLWo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。两个月 5.2 万 Star，Hermes Agent 用一个"LLM 审判官"机制实现了 Agent 的自我进化</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695500&amp;idx=1&amp;sn=57de8c7c4889ace8c6c1e15ab460447a&amp;chksm=eb8a364d05e8ca74e355aba5dc6cdbdac29058da01848657b0fe3ff2a3070c7d81bd15ef82cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
