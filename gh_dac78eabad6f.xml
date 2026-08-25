@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Prompt到Harness，给反馈分类装上方向盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5wx65q8TpsnTZdoCsEicN3lcPRxkyJF4oicvQ1L2ib5lwm2Bn0t856qSvicjPYiaiaDJWEvm10icElVicqIFhoRuictWbYcfic31JGLyfbI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告随着业务场景和分类标准不断变化，越来越多的规则、边界和例外被写入 Prompt 或定制链路，反馈分类逐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697102&amp;idx=1&amp;sn=c5f8e6c86d98caed81f32bf357be22a4&amp;chksm=ebd2c6aa2ad6f1785792c16c720a6b3987d0e59978d2a358cb42d93235d5e6a381c76e2c9a0b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 08:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个Skill搞定服务重构：从链路分析到测试自动化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6uMuvYnj83H097cC38tArTXoAEs84VNIEEBBj3P3VSkTd38WYfh8XI8X30SnDEgpC2ia2swkgzsM64jntr5xov9X8kspyEKcZA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告历史服务重构，主要难点不在于翻译代码，而在于先把多年迭代后散落在调用链里的业务逻辑（如状态机分支、隐式</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697075&amp;idx=1&amp;sn=0811fc825e510ea62db8152d453d6008&amp;chksm=eb2b235984def8821a9fa4fb085de77c659a097b0e83521341ab027cf1de30b381bc3ed24636&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7lEfXicXNTjXSms2hSIgDG7vwdC3ZLANkib0Fe94RPMADefX6J1LP3PpkG1qribRbgOexCLTErvoniboJ4MgO5Qj9g3DauBcDOxH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇业务系统复杂性一直是令开发者头痛的问题。复杂的不是增加一个需求需要耗费多少时间，而是在增加一个需求后带来的蝴蝶效应：其它功能会不会受到影响、要如何去找到这些影响</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695552&amp;idx=1&amp;sn=aed9efb35983a89194ea583074ee8dcc&amp;chksm=ebca280a8f78a8a68aad7c683583093a77c73baddde689db2948e8a24352e9bcec6a2eca0e17&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 14 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7cF35geWMKnNnMOgkSkBHDwRT71Mz9mhPv9cvkJgic7hyibMUmdPs3YWxSRWHjsybOEj45yZa71hjyia8LNoobWIkFqtnjkPeHkY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：Agent 很热闹，生产现场很骨感过去一年，几乎每个团队都做过 AI Agent。一个输入框，一个大模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695544&amp;idx=1&amp;sn=865fb183130b2851900b9f4eda62da9c&amp;chksm=eb09d81cfd317b9b09d3b9eec610c6c3f318d9c323a53bc3cd0af7d6501e1d3c1d86ec6d5e11&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

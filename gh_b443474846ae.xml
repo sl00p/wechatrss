@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不做手机缩小版：AI 健康记录迁到手腕，要跨过哪些工程鸿沟？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgzDnicpO4hibsXzibn6WT9DMwgSdia5Oib8IrUhfXyL6cpxfgZWnpnxptGGW9Aj1bzEJHSWznsV7LFjdw1jwmic19pMx1osibnJeGRHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 希希子 过去一年，AI 应用又往前走了一截。Coding Agent 已经开始自己拆任务、调用工具，手机里的助手也越来越像一个能办事的角色。发布会上的演示总是流畅，但到了日常生活里，许多 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=1&amp;sn=136117811ffe3cc38fd6a43edaf2d6b9&amp;chksm=bc24cbae1fb9d5bab9f3332936c8d5096d9d769d4ad6213783a2f5c4ca5f62951871b06c53ea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[535B大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgpMzUZfAzXzoFgicNqcuZGnpiba010iabKW6mltzlYE5iaibslv4LvAq0ticqGlicmdFaChBMkE6lEmB8aibd1ZibT8zK3qZBggI1Kb8ks/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅当大多数模型公司还在围绕“是否开放权重”争论时，一个总参数达到 5350 亿的大模型，选择在训练尚未完成、甚至仍可能中途失败的时候，把训练曲线、数据配方、模型配置和技术讨论直接放到了网上。近</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=2&amp;sn=ead04ba041e77bafba10b4847c6042e4&amp;chksm=bccd5ffc74ba8b30bb1b00fbdb4bbda464530b378e1112f62a631219e00ebdd47cfe38284c64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj2QCupWLJfCqp6OUQZdtxmdfOzlYVZVyvTE5QQ7mB0bXoOWhhPqGmHYvJEFvu56nLabJqnYzibYq5s8WjhuH4GrzgvzwibIZcIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 马可薇 Cloudflare 推出了 Cloudflare Agents 的首个组件，Agent Tracing（Agent 追踪）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=3&amp;sn=b366b8ada062592314367e5f603096a3&amp;chksm=bc641aa8198ae948da9b41ced72edf9f76800db7093e4dc2f3cc48fb03dc301ad3306cf762a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaaKGicicc4k6RhYD2SFBiaEE5NehViaVQ2rlEvG55caumSm3uXd2RpiarlKua3oDNfiau5UORFj7WXDzwiaicuJbJfdKeib91VGxVZxxT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 田橙 Amazon DynamoDB 最近推出了原生向量搜索，允许开发者将嵌入向量与应用数据存储在一起，并直接在 DynamoDB 中运行近似最近邻查询，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=4&amp;sn=f424466e66e8a39602eb76b00f312f88&amp;chksm=bc1881988e011d277791b6e2da75b095eb17be39b8bbf9488fb8d97b5da4f6d1c9c64fc43a7b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“额度想重置就重置，不问财务”，Codex Tibo首曝幕后：产品没做好，就补偿用户]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNga5gAcXk7cOpsJlWciaok3Jia0ANDjWXCep5HoT7taDzMbQSsib0vwiaxvJ7W5uzflMrdLvDEURuav56QU7WYKicbjO5ziczmb1zk6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 近期，围绕 Codex 与 Claude Code 的使用额度问题，社区出现了一个颇为反常的现象：过去被视为“福利”的全局额度重置，如今开始成为部分重度用户新的抱怨对象。现在，用户不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291458&amp;idx=1&amp;sn=85881c642934c3c30b1ba9bdd83a2701&amp;chksm=bcd78f6837256151c5aac1183ee01ac569f5a7c5a425724bbcd544da69c3c8b04f8fd0cb85c5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjjAVAOpVHJm1ia53sUZFrZmVcNibOPMdcaYQ7wamia0OWuxWRNq0Oiapr02eEibxIXhANsYWYp2uJaC66nNmdubxfwmCFWFDuH5adM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 明知山 AI 正在飞速改变工程团队处理生产故障的模式：它不仅能汇总故障沟通记录、解析不熟悉的代码、给出修复方案、生成代码合并请求，还能越来越多地辅助故障排查诊</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=4&amp;sn=197464e4b3134ed85a778dbbc50669ce&amp;chksm=bcd26642a171f518fc38f3814a667ab9a743f5116efa33bfba03bad3c52028a3824b6ec44c4a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 3.7 Flash 突袭！谷歌AI紧急换帅后的首个大动作，“内斗”真相浮出水面]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiamiaX6iaWHQV0H0Vg4lQcwibrorCyibFwaAaGNqokuaIosNKEiamVpYzNj2QoahFfwgbUQmQCUamibF4lma0SP9TUMRJCpKRMxb1Uts/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 谷歌正在以前所未有的速度更新 Gemini。昨晚 当地时间 8 月 13 日，Google DeepMind 正式发布 Gemini 3.7 Flash。谷歌给它的定义非常直接：“迄今最智</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290785&amp;idx=1&amp;sn=ea4a737f41e7b3894d13ab381d7f525b&amp;chksm=bc8e932c7a0e7b12ea3a08975dc7c1bb9ec0fc056b393d25c0d1d130b9542fbb3740d376cdd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 10:09:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人大脑之争进入深水区：为什么物理世界需要从头设计模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaibowwqhoFSrTHia7hSqQDTKEQNUI0AnTSIyKHExI4rmTOSyViaZrWeFBEGgwhIhibma9umSlgBqtp5ObTVgW4gXrPSxg8buuPtYk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 华卫 如果说今年 WAIC 最直观的变化是什么，具身智能的超强存在感无疑是其中之一。在 H3 馆内，超过 200 家具身企业的集中亮相，让这一领域第一次以成体系的方式出现，甚至被抬升至与智算</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290785&amp;idx=2&amp;sn=32b238e1f6f8e2a7447646879dec8a20&amp;chksm=bcac1667e212715cded47198fb9982e8adfd45cb5f60b3aae2fec01ef5e61450e443ec2bb728&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 10:09:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[千条广告“抢”一个 30 秒位置，平台如何实时做出选择？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgWDj76AAVlAGlHZvF95l72fw8X14NUbF94BpMDhibBQvku0pYsVaSjicGkZBHoZiccjicDhWiaqyqoiaianibUuLPw10uxOMNZialDQgcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 田橙 JioHotstar 发布了一篇关于其 广告请求工作流 的工程概述，介绍了该流媒体平台如何协调分布式服务，在视频播放期间选择、投放和衡量个性化广告。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290785&amp;idx=3&amp;sn=6c4976ffc2ee16d6e4a48dc0af00bd8c&amp;chksm=bcfbba3c6efe39f453f3a91e44f42960c7434f138a60cf20ae13436e9e61b4e10a411987b85c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 10:09:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon 深圳]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjeecia2PKEGWNebSBAk4EvYPka8KNib208bOQflBNfzDH7GQcQLdvpC8bMJZbwMjjP5MC0Vr5FQAoXbYb48NicndWvDrGRd2ZYLc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 时代，哪些方向正在成为行业关键变量？50 + 实战案例揭晓答案！模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣。当模型能力逐渐成为行业共识，一个新的问题开始浮现：当人人都能获得强</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290785&amp;idx=4&amp;sn=52ccd7ff4f8f6980a164c6f4c4130189&amp;chksm=bc33bd7e2260088c0c005beefc536f8272e239502ab7280d9c8a9f598d13c69521c3f83fec78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 10:09:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

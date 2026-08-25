@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=1&amp;sn=548b24b927eb278a51ff44ea8c176b54&amp;chksm=b08cd26a843a8d994b07e780183dc45098b361c3610f1f988ad89724f246005477c7cb860923&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一串反引号，十层突破：n1ctf‑2018‑easy_harder_php 完整利用链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3B0NxCIkOnQqtr5BKPpIn3ic9p2hVvxpsE3sicwavVSUnhqHO6KWrWuw3f90tDANk4Ua0FsTSRNGicahxOm333DBmQA8HeNOsXTs/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：看雪 KCTF n1ctf-2018-easy_harder_php（Nu1L），PHP 5.5.9 + Apache 2.4.7 + MySQL，动态 Docker 靶机结果：flag{9af</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=2&amp;sn=fe39b3c0600fbd53ced86ae6e2ed499e&amp;chksm=b0d6c8838710940f2747f1db910c6a82736e9b455627fce209379cd702d6bf0f1e8e2b8fb2d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[周下载4500万！Next.js曝出双高危RCE漏洞，Windows环境风险极高]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KaqYHGH9q4ZGD9MHK5icBngmQpGYOBdPCwP2h1XA1sU47pZg2RbuwEkbptlv5KvYsF3lLzCPPiczStic2zSf7nEmGZTkH6sTAJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vercel 近日修复了 Next.js 框架的两处关键高危安全漏洞，均允许攻击者在无需身份认证的条件下实现远程代码执行（RCE）。其中 CVE‑2026‑75604 CVSS 9.0，另一处AVIF</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=3&amp;sn=d3f507f258cc563b6f696f850a7d8640&amp;chksm=b0ab045422213fbf49b58773507093369ea4fffdfe87f07c4e5ba2bad7584ff74d34970f40d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 KCTF | 《第十题：卯时·曦光初现》设计思路及解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3EcXiatib4YqYnqIWk2kcMrcJEFC5tErjvvwhFawHpceuicHQVG2hiac01Ojq8LibmdYeTtdHCgibgrPIxTWcwRkmDCoSN7Cvoicq40U/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。2026 KCTF 最后一题 Pwn《卯</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=1&amp;sn=3d61ce347e2147a0b17ef1517cf147c1&amp;chksm=b055ef5e9001923264cd59954b447b068fb868619894e41f0dde957d4f648d26eb671438ade5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[Intel 酷睿 CPU Management Engine 固件研究与分析逆向：实战DCI链接与ME解锁尝试]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GfIOGw1wKQvITpcRDZ3cwIfrPf83KDrDgV9lwhe5CicG0bGib3rhJXx0LV7oBWCOUmV2kTNzHqHzpa8AMMJVFXW54YqcSXagUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>此帖是记录笔者研究Intel Management Engine 以及 Intel-SA-00086 安全漏洞的记录。说结论：当前只能说解锁了一半，暂时还没有找到一个能完全解锁ME的路径。我会把我研究</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=1&amp;sn=6fb037cb1e411b795256e427858c349c&amp;chksm=b0cb2d25cbe23405aee0607802c0c453b62e2b18fc0c873d03251d6d72459f51c6a013091345&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大厂招人啦！60-70K～招智驾安全、IoT 渗透、大模型安全工程师]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01伺服动态（南京）科技有限公司逆向工程师20-30k就职地点：南京市溧水区润淮大道28号职位描述1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=2&amp;sn=e1cf49ee862fa2eee6fa6e85f94305d5&amp;chksm=b02ee6c42e361c329cf6515141d06af27eb7db70a371004eb45ab1967068e3dc052b62bc6bb0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[倒计时3天！2026 KCTF 入局『组队指南』，揭开轮回真相]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3x1dyYiaZibeK22Oo3vZ873Z2RIgpsmgnwY8llgyOBYF0nV84A3YYfJm1YWXFyreqY1mRfyh1gSaYUGnjTPO0ibjFB7Mb6eee8uo/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日 中午12:00开赛天地时序倾覆，永夜城内十二时辰纠缠坍缩。当幻境降临，时序化作重重关卡横亘眼前，仅凭一人之力，很难走完完整轮回。距离 2026 KCTF「永夜十二时辰」开赛仅剩3天！无数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=3&amp;sn=ad8d72eaecde5fe90001f4dd76487112&amp;chksm=b01b75c44959fed3cc88f02983b645b82586831962d18826c9e0e2b77b7262fa2d4f9bb63079&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TP-Link Omada 曝15连洞，监控画面可被劫持]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2LW43sE2Jz9TPIRytdtjKsuUaVvhFEPLwiatiaT8bEVx3tiaz04nylF2j1ibjStOMCHNztok019NPXwibLBhyaP2m7W1NWtxpDDQlA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在本周举行的 Black Hat USA 2026 大会上，Forescout Vedere Labs 揭露：TP-Link 旗下 Omada 企业级网络管理系统存在多达15项安全缺陷。攻击者不仅能通</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=4&amp;sn=7c274db5d6a1320b0d8ed6220be2bc6e&amp;chksm=b06df390b476c192f7047d11dcc56ed88a59afe291d9f6980a0263098adb358a40b11b753189&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
     </item>
   </channel>

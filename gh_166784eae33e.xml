@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[34分钟失陷：Langflow CVE-2026-9198 野外利用实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq947gP1fkr0EsTUPPqnScjYmZZibgxKYeQpzMLGajmx2zUocWqEPaibSJdhmCqRUNQAy6cdCQU0UPkcCBQDcZPqxHTnuvH6iap9Ho/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞应急 · 威胁情报34 分钟失陷Langflow CVE-2026-9198 野外利用实录一个 CVSS 9.8 的未授权 RCE 漏洞、542.4 主机小时的蜜罐观测、31 个成功执行代码的攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520008&amp;idx=1&amp;sn=0d6eb1521de256b16f73fcbc62d833e4&amp;chksm=eb35f3223937f6d4937432901d59b2706d0e4568fde2ec6a2f50b0c595d52cd194311a94f6ec&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 16:17:13 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当新纳粹开始写代码：一起 AI 社工投毒背后的极端主义数字指纹]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9fyhxEBLVQpv5icDpv1ZZXdjXIXI48ZheN3t40ibwAH88LOD9hweYaHlF408P9s5IZlZy3q0caTLatJqY7hOeUh2LahSZWgzbibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 社工投毒实战解析当新纳粹开始写代码一起 AI 社工投毒背后的极端主义数字指纹攻击者在 GitHub 发布伪造的"Claude AI 越狱工具",诱导用户在终端粘贴执行 PowerShel</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519987&amp;idx=1&amp;sn=99ae2175bd62fc70d21f4623f71e7982&amp;chksm=ebdceef6978c03af988bea94d72859239d2e6cea91fc751c2893ee8059ff3d37c6fb9a719b69&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiceM5c6Ip4DoR47Pwv8RQ8jHY9uiajDibAo1yCSQrkPdMgQ3JMBUw1LWCSbA2EMEP0BVSSrDjPKiauJe4lGh7MqnddfqmHumeZJib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述奇安信威胁情报中心红雨滴团队私有情报生产流程发现一家面向中文用户提供私密IM的软件官网上的安装包被替换，下载信息如下：字段名称 (Field)详细信息 (Details)Referrerhxxps</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518784&amp;idx=1&amp;sn=16b5fe101414c690ae21f811f931791d&amp;chksm=ebc2ccef7724d611e19bdb3578c01aa1606d2d2ba8452af26cc8b3777e86a70b3743d31efd98&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 May 2026 09:37:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face惊现供应链投毒：仿冒OpenAI仓库窃取开发者敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Rp8WFv2sIHZZg2qDcUxArG6OyTlXK9SKWUzTZvopBznwEoWldARo9SITFx1NzALrudk3LDSnMNggqjM7UdZgWKSeXRBHMXhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述2026年5月7日，安全研究机构 HiddenLayer 披露了一起针对 AI 开发社区的供应链投毒攻击事件。攻击者在 Hugging Face 平台创建恶意仓库 Open-OSS/priva</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518656&amp;idx=1&amp;sn=86b04c00b27101115ddbf8aa955ba6b5&amp;chksm=ebeb9665471f2b739cf86c461d69951741f84a5a0f973f92ba555aa6d0d470e7bdd9979ed87a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 10:36:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

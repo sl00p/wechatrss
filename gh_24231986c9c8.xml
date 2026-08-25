@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedengPjwEBwT1jT43icVFYwSHsD7G8q6azlX3KWrK8CFOSlSx2WZuLWNZ9CbfaT5X2Z10sh509FAsNgjPPCzrkPPzqHw4ibR15sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于字节内部 AI 安全治理最佳实践，火山引擎近日发布《智能体安全能力图谱》，系统梳理了智能体安全建设的 10 大能力维度，60 项核心技术要素。本篇为技术实践篇，分享针对 Agent 提示词注入攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521453&amp;idx=1&amp;sn=a43b95ca00458d532f29d70e80f0d118&amp;chksm=e8d80e2f0d78a250bab52986e0bbe3629a320a03461c4b196aacd9026a3a77fb9241814ff9be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 19:14:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fed1O9COp9auqSXOXfnfB9Z9ib5CnxEyibq4sXfadQTkm6WHibhsPZsfog0Udwj0hq4q0q8jlTTT8LOWBqxPRK3hVNCeYqibFjnibxp8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，DeepSeek Harness 热度持续走高。尤其在 Coding Agent 场景中，它能够围绕代码库，快速完成代码理解、文件编辑、命令执行等多步开发任务，并提供 Web 界面和基础沙箱，帮</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521412&amp;idx=1&amp;sn=b79fcd45e0a22de4d6476280555b6354&amp;chksm=e81cf754a61a41ff5fb8f3da99c422c48e83426b5e69d183cee0aa0cf79f2007da716822b202&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fefj1yw3swh6gU2gb9A4IyicmwkuGHe69CiaNgFzl3cAibp4UIferTdqPamqq1QkLiaJPEydVLict0TzKN3DHhfsXNerB1dVOLvGFPPE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，扣子2.5 正式上线，迎来全新升级。一句话理解升级后的扣子：让更强大的 Claw 帮你干活，在更广阔的 Agent World 里任你探索。在过去的一段时间中，Agent 逐渐成为更多人的生产力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519214&amp;idx=1&amp;sn=6098fd7a3aa2f47bd2c0b6687bd28084&amp;chksm=e8ee472772c3fa78e6cb98212127b9ed201c057de0faacf9286558a8ddbe8181429695de4c1a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Apr 2026 15:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重磅发布｜Scale‑SWE 构造 10 万级真实 SWE 数据集，火山引擎沙箱底座重塑代码智能体训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fedom06BLQ3LcC30gGIok2XAhV4ogEfasnXCLd3BEpbfy9Yn0U5yfua6ctnKjOAicFsAfXvn9H8DlAUAlnTqQpW3GYo1E0aQCfFE/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击上方👆蓝字关注我们！论文题目：《Immersion in the GitHub Universe: Scaling Coding Agents to Mastery》论文链接：https://ar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519199&amp;idx=1&amp;sn=52442c2cdf5e1b17055e999e8a91ff59&amp;chksm=e8e4256eeea4151ff91c54e9c376ae51ed97f45fcad2d34d9d5b1aeacac875d61abb7c616b36&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Apr 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

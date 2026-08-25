@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[判断]会越来越贵。 AI时代，有三项能力在迅速贬值： 1. 手写代码的速度：我们敲一天，AI只需要几分钟； 2. 语法和API的熟练度：AI见过的文档，比我们多无数倍； 3. CRUD的熟练度：我们曾经是饭碗，现在是人人的标配。 但是，也有三项能力在升值： 其一，把需求讲清楚的能力。 PRD写不清，需求拆不明，AI越强，跑偏越快。能把模糊的业务需求，给AI讲清楚，这本身就是稀缺能力。 其二，技术判断与架构约束的能力。 "保持代码清晰、可维护、可拓展"，对人是原则，对AI是空话。MVC清晰，DDD清晰，洋葱架构也清晰... 如果我们不收窄它的选择空间，它就用概率替我们做架构决策。 给AI写架构规范，本质是什么？是把我们二十年踩坑的经验，蒸馏成AI可执行的规则。经验越厚，蒸馏出来的东西越值钱。 其三，质量兜底的能力。 大部分公司，用AI交付线上系统的，目前仍是程序员。为什么？AI无法为质量兜底，还是必须程序员为质量兜底（背锅）。 AI抹平的，是"手写代码"的差距；抹不平的，是"技术判断"的差距。 那么问题来了，如何通过AI[讲清楚需求]+[做好架构约束]+[保证代码质量]呢？ 一些浅见，直播聊聊，希望对大伙有帮助。 欢迎预约，直播间不见不散。 AI的能力这么强，还有程序员古法编程吗？]]></title>
+      <description><![CDATA[<p>前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981483&amp;idx=1&amp;sn=dc2d89fee35f1a07f34bc89897ae4c58&amp;chksm=bcf25045f7966c8da45976c87f9565f64a768f167d51076763bde14f8ff095fbce9784f8a93c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 23:19:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[身在职场，我自以为努力，就一定能达成目标。然而，我被现实打过两次脸... 第一次，在百度。 大学毕业入职百度HI，我的目标非常明确：5年内，成为顶尖的技术高手。于是乎，我开始拼命钻研技术： 接入模块TS，单机能抗100W连接，得研究研究； C++单线程无锁异步框架，10W吞吐，得研究研究； PHP，这么神奇？scp过去就上线，都不用重启，得研究研究； …… 啥都想要，啥都想学，以为自己很流弊。结果，入职一年半，晋升T5，失败了。 我明明这么努力，究竟为什么？ leader找我深聊了一次。安慰的话，我都已经忘了，只记住那一句影响我二十年职业生涯的话：职场里，这么多东西，决定你身价的主要矛盾是什么，你想过吗？ 第二次，在58。 到了58，我的角色变了：带团队，负责技术委员会。我以为凭借努力，什么都能搞定，现实又给了一记闷棍： 技术委员会，虚拟组织，资源有限，要推的事却一大堆：技术基建、职级评审、校园招聘、技术品牌…… 带一线团队，事必躬亲：下属搞不定的代码我来写，线上问题我来排查。结果，我成了整个团队的瓶颈； 带二线团队，事情更多更杂：每个leader的状态、诉求、成长、绩效……每天加班到深夜，周末也在想工作。 我明明这么努力，为什么反而越做越差？ 两次打脸，逼着我停下来，认认真真地问自己：对于当前阶段、当前目标，主要矛盾到底是什么？要如何解决？ 后来的系统性思考，前几期直播和大伙聊过，抓主要矛盾五步： 1. 目标锚定； 2. 阶段判断； 3. 因果分析； 4. 比较判断； 5. 单点突破。 从"什么都想要"，到"被迫聚焦"，再到"主动抓主要矛盾"——这项底层能力的修炼，我走了二十年。 本周，《抓主要矛盾，我人生的关机安点》最后一次直播，我自己的故事，我自己的思考，直播间，和大伙细聊。 欢迎预约直播，不见不散！ PS：你认为，努力，占职场成功的几成？]]></title>
       <description><![CDATA[<p>身在职场，我自以为努力，就一定能达成目标。然而，我被现实打过两次脸... 第一次，在百度。 大学毕业入职百度HI，我的目标非常明确：5年内，成为顶尖的技术高手。于是乎，我开始拼命钻研技术： 接入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981481&amp;idx=1&amp;sn=351cd67df6bd9cba179fe3d473bf9fbd&amp;chksm=bc884f09782997c1377fc91d6e2cbb48acf4974f66a7802312a5c9e9d39b863dc16c76669275&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>用AI编程的普通人，明显已经肠道了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊，普通人学AI编程，究竟要学些什么？ 至于内容，会简单讲讲新手学AI编程的路线： 1. 入门：基础知识；</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981143&amp;idx=1&amp;sn=3f586555264a49d9cf33598bad3981db&amp;chksm=bcb4f09b2913d9ba64152f554db06e820cc18cd452253a0a690c8b2be4d95adcdeb42019f0a9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 May 2026 11:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[是不是只有小的时候，月亮才这么亮...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcbZchiba3k4S6QIbibMicxQU9ecfhRDF6GO9EwqTfmMdAIvrw69HicXsU5qFibdzXZGBmV3uHmRzkjf1Ge0VvFFON5nXCTiaKTaoticY/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981140&amp;idx=1&amp;sn=04a8df3a65038c815f43617d167dcfb4&amp;chksm=bc107e4d6b366e05daca901c31db0dd4120613b9bafc221c3bd8337dd95a75b6537426d49bc5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 02 May 2026 09:20:45 +0800</pubDate>
     </item>
   </channel>
 </rss>

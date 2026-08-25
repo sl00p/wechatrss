@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一篇讲透Agent自进化飞轮怎么搭：评测→记忆→落地→控制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907ZXdtviaibD9TicY5sQj16pJpwETibJVPSbDzqEyjMcRnJ1n1jML2b38HrK6JlfRwyNPhLHInVdjLlVXG4MGgiaONU8XX0HpvZiccBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：yannisyang、ethanytzhou你的 Agent 上线半年了。回头看看——它比第一天聪明了吗？它可能还在犯三个月前就犯过的错。还在重复三个月前就走过的弯路。还在对三个月前就见过的场景</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803847&amp;idx=1&amp;sn=abe5cab137aac47cb042b6baa1a24191&amp;chksm=bf8b14931d8821db2b0b028048c5bedf6a63fee0a54c471165fa84854110af65cee7187aa018&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 26 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907aTibbgAnjwjsDfyhxU7rYZYUaXNb2WOQ9UxRzRzZrO4U2icq8KaXoOnF7EeiagPeubTLicbFAARLU7JOAdNmoLy7Z5geVwFBbKWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：trumphuang一、导语Agent 已经进入不少团队的日常研发流程。规模上来之后，使用方的关注点不再只是单次结果是否正确，还包括三件事：耗时花在模型推理还是工具执行上；Token 消耗集中在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803822&amp;idx=1&amp;sn=82b4c1b6735d5757e5e0a3288312c73e&amp;chksm=bf147df860cabdab6d3632044b91c441187811afbb81f62d7540c942f6edb62eb869f25635a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906m5SJwWtOgkibVNax7jGia0uh530ZQ4sHFczRntRzgicffrI9r8uJ4oVuFzPAAIoEeQpqXt8OGx35ia3UGUlRUpZZvNd3pdQqMBd0/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景假如让你给代码模型提需求，你会说什么？鹅厂程序员，在日常开发和工作提效中，越来越多的同学开始借助代码模型来辅助工作。我们邀请了9名鹅厂同事来聊聊：👉 一个好的code模型应该具备什么能力？下面</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801505&amp;idx=1&amp;sn=ff1a96f9cd216cbafdafa8d4df45130b&amp;chksm=bfbd09837f09fb3fe0eb8217c20ebe91ffc72aad2b15096b766956760ccdc4738783e76353d2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 09 May 2026 19:21:35 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[十年老技术开发的 AI Agent 探索之路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906bkzDkKt0JmcTF0uNUxxccrGsn3a4EIQspkIxXzHZBdv2Xj8KKapLdjOuccWqL4kGCsmjgyx45aRrybBTelDBudd686d1gb6s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：zhiyuanfu曾经前端被戏称为"娱乐圈"——工具、框架层出不穷，今年🔥 的明年就过时。现在 AI 把这个周期压缩到了以月计：这个月的新概念，下个月可能就是旧闻。这篇文章，就是一个在"AI 娱</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801477&amp;idx=1&amp;sn=b4b4e51cf60abaa7bc00cc667ccca247&amp;chksm=bfd3d6dcb76116c1d9926ba6aae34bcae636fc4aa35207bd74b0397ced436dd866cc75295139&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 17:34:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
