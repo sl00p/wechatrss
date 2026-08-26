@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 创新实践｜「架构师 Agent」系统化落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz51ibsmWgwVf6SIepb8Fpj9CzKH67hqSbxNxxXZ53utYx28JxM5UJYZCzibcebhd8R2qN4cDyLgaiaqECs9cAu3ib7ehH6f6N6ribiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 55 篇文章（ 本文阅读时间：约 20 分钟 ）前言当前，在业界，AI 仍然无法很好的理解“复杂技术系统”，也无法针对性的达成完善的技术方案设计，“架构师”仍然只能由“人”担任。繁</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511307&amp;idx=1&amp;sn=a61beaf9d8ec073581a91674d90649f0&amp;chksm=cea3cbe6f2bb6a1441ccbfe4cfd74503f919c59afefce1877b3c3648056921207f60df1eb06e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 18:04:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全新 Qoder，正式发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz61U08yAJG20SakhY88p52LWXmKO764InnUhplWkJnbp8viazhbED212fMcRFESB1RibfBFAH3ia3Fz1Qqhs88iasqO73hiaZyGzzvE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，全新 Qoder 正式发布！这是一个以 Coding 能力为核心底座，面向所有人打造的智能体工作台。告诉 Qoder 你想完成什么，它会理解上下文、制定计划、调用工具、执行并验证。整个过程随时可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511307&amp;idx=2&amp;sn=624a79c221ecff44407766522a6a70be&amp;chksm=ce9d05e708fc97508bffd3f5e3d2eb7864057e9eea3eefa7add655c9a2d5c7496c82ca91acd1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 18:04:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5CKNxiczMEv9aqKE8YpkPgcxqvTYmyYsjAiamq4LMyARiaELIUcibGPjkN4oy9icqnyYaW3nxlYpIjFxKYZibV7zib0FtfxktTsT61A0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 54 篇文章（ 本文阅读时间：约 20 分钟 ）AI 编码半小时就可以完成一个 agent，但是一个没做过任何优化的 agent，跑一轮就是几十 M token，月底一看，费用爆炸</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511201&amp;idx=1&amp;sn=4af859e8a065ac8c1fa687ace0ea5feb&amp;chksm=ce2539c4e8beacba3db7eb7fdafe184fd6d24a18016008441e9d434e97a61e36a082e2cf2645&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUFVYntYEL4sHkgPibZeicAdQ5rAQUubMeUg2WJjzkdHkYUL7WicMnO5mpw/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文整理自阿里采集分析平台工程技术负责人吴宝国（木深），在 Flink Forward Asia 2025 城市巡回深圳站中的分享。这是2026年的第6篇文章（ 本文阅读时间：15分钟 ）01前言：从</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509154&amp;idx=1&amp;sn=11652959f94704b4604b429b996e7bfc&amp;chksm=ce5bebf4d8597d1d7c7a7dc8c66482dd861bb8c4277ad0c5b6448267f51263609bb4e872acb7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Zvec: 开箱即用、高性能的嵌入式向量数据库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30GEOwEw6g9QDNaPuMH9F3ibUoVSe2HkLPZxsnsqAZ0OYs7pz50k34WgloqMals9HhsjCClCsRP5sEQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 5 篇文章（ 本文阅读时间：15分钟 ）Zvec 是一款类 SQLite 的轻量级嵌入式向量数据库，专为终端侧设计，具备开箱即用、资源可配置、极致性能以及多样化向量能力四大核心优势</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509153&amp;idx=1&amp;sn=715acff1350136af1654b2400718b653&amp;chksm=cea0fd3416e1ad825dbf34ab75e152a87d1d3c7301dec5160d0bce02ec583490ddac2d28a909&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Paimon-cpp：阿里高性能Paimon读写库正式开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/OmCbZ5JK30ErTChbmkQ3q2eu0STOiceSPqicOcqiaic0r3U365hCvBT655gnBibia2MD66a7L6WnzNicbD8N48c38MZyg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第3篇文章（ 本文阅读时间：15分钟 ）阿里巴巴智能引擎团队，是阿里内部AI工程系统的建设者与维护者，主导设计了大数据AI工程体系AI·OS，致力于为集团各业务提供高效稳定的AI工程基</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509125&amp;idx=1&amp;sn=ad04f363ef2170e9c51f94dba37e763d&amp;chksm=ce785c757be8262117ca6bc481cb3f2a1048e6517a25dcee0c508cbefaf474751f93357e7fdf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 04 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

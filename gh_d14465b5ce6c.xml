@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[两万字长文｜手把手带你趟过 AI Coding 深水区：编码让位，人退到哪里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906OPjR92TfyQ6iacYQFjfGNdaZTsNR65dHiblXQ9knA0XBuP5XwhZThDu3elPYEJoichz9g3tavejtMt1UCiblxTUzojOtJxMrrMfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：黄迅， PUBGMobile后台百万行 Lua，自研框架，模型几乎没见过——代码让给 AI 之后，人退到判断上，把取事实的活交给机器。前言：AI 已经能端到端交付了这个季度我们做了一个内部平台，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803848&amp;idx=1&amp;sn=d61f1e7642a93c81c86fba2cf799f4b3&amp;chksm=bf431709d5d1a7e52b26ffe0880ba90cea78909517d482043166f5758b19eaf5ffd891d8f525&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 17:38:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一篇讲透Agent自进化飞轮怎么搭：评测→记忆→落地→控制]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907ZXdtviaibD9TicY5sQj16pJpwETibJVPSbDzqEyjMcRnJ1n1jML2b38HrK6JlfRwyNPhLHInVdjLlVXG4MGgiaONU8XX0HpvZiccBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：yannisyang、ethanytzhou你的 Agent 上线半年了。回头看看——它比第一天聪明了吗？它可能还在犯三个月前就犯过的错。还在重复三个月前就走过的弯路。还在对三个月前就见过的场景</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803847&amp;idx=1&amp;sn=abe5cab137aac47cb042b6baa1a24191&amp;chksm=bf8b14931d8821db2b0b028048c5bedf6a63fee0a54c471165fa84854110af65cee7187aa018&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907qYXA7DSJAF0P66wZBibP539hjJ3uEnmoAlrBYhD3UERy4fQUtfHGogibHicuupibSz5Ru01RQToJQ83vTupRicbHKBmCee5cfV4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenpxiao当 Harness Engineering 成为 2026 年最热门的 AI 工程话题，业界争论焦点集中在"该用多大的模型"还是"该搭多复杂的工作流"时，我们团队在落地实践</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801507&amp;idx=1&amp;sn=c4ac5ce38024ade94b8bfa1fdc0062ad&amp;chksm=bfd0339d6a31f30682b69c4e962990941769006650ff624338a8737fd6303781266b780deb43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 11 May 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工觉得好的code模型应该具备什么能力？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906m5SJwWtOgkibVNax7jGia0uh530ZQ4sHFczRntRzgicffrI9r8uJ4oVuFzPAAIoEeQpqXt8OGx35ia3UGUlRUpZZvNd3pdQqMBd0/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景假如让你给代码模型提需求，你会说什么？鹅厂程序员，在日常开发和工作提效中，越来越多的同学开始借助代码模型来辅助工作。我们邀请了9名鹅厂同事来聊聊：👉 一个好的code模型应该具备什么能力？下面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801505&amp;idx=1&amp;sn=ff1a96f9cd216cbafdafa8d4df45130b&amp;chksm=bfbd09837f09fb3fe0eb8217c20ebe91ffc72aad2b15096b766956760ccdc4738783e76353d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 19:21:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[极致性价比！Qwen3.8-Flash上线千问AI平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1ykJm3xUwmVnIkGocdJNSYCsib8kgOvGwW9Ga4gpwCdQO5qTwVmTb0K3icrZHsKoCtic2qNaKJGfbDMm8fd8AL2VNUAAEKDqNViaDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，千问AI平台上线Qwen3.8-Flash在编程、Agent等真实任务中达到极致性价比最新价格如下👇👇👇输入每百万Tokens 0.8元输出每百万Tokens 2.7元缓存命中每百万Tokens</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562051&amp;idx=1&amp;sn=47ea31d72039e043bae7c0a79add001e&amp;chksm=e88a157401dcb484aadaacf99ec385af9c8072ebca70a18eef46bf6a50f7bea08f04cc17932d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 13:37:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Wan3.0正式上线千问AI平台：稳定、真实、有质感]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1z7JM1f7PJ6K68pRYtk4OziaibGicFfpFicuCbzkWIcnndicH91I7G1PG2VN048C9GHaESdKqaZibQt5IKh2kWngEfx5qQ5uibeaHM2BA/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，视频生成模型Wan3.0正式上线千问AI平台。Wan3.0在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561968&amp;idx=1&amp;sn=187673f3940572472498763db7a31d09&amp;chksm=e8e63a248abad79753832f91f74636479d137d5e6ee18e381f69aacbc7b0a6735a6afd935054&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJdxmIdf8tQZzdken0UwUJZMSZVg47ibJWlY2lMP1mAeCx03vVFapdc73fhpRmw4Pxoiav92iaUJHdbQcXNJDrcWMuowibTGaR2GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559745&amp;idx=1&amp;sn=31903f96e842d95a2fa2f6b5a5a012cc&amp;chksm=e8027e5db39516f489909a71fdc182626fc4dfcabdc09c007846341629d2bdd0b9aa8ddcc993&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[工作流的 Skill 怎么写？从 7 个顶级 Skill 中提炼的模式与最佳实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yYIo21qYDeheic8SmohXE9hGRLPvTwzxhiazZBCyZVRNCUa8z6xrnJzPljmX1WDxVHZrGPCKDbv1eAEiatZz16B3Z2iaBtglpoXhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、Skill 是什么Skill 是一个文件夹，核心是 SKILL.md 文件，使用 YAML frontmatter + Markdown 正文 的格式。当 LLM 判断需要某个 Skill 时，会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559690&amp;idx=1&amp;sn=fed34d2ade198ea8fb75ad5b768c9229&amp;chksm=e8af92ef7d0769584022bcbaff18e2f3f8724c44c2e03a9106a54847db981c318715ba3cd8bc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 27 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

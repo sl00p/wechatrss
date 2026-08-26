@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把这个国产神器接入你的 Codex 或 Claude Code，图片秒变 3D 模型。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1xptymxCoSQmqItFGzHXCIVazYADONARaGXnvsODVz2hjeic3cbCAE7PmerYzzVGrM9z4OQRT7ZyPe7aYCSJpxja9GibNJOBkLc/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近我连续推荐了几个和 3D 有关的开源项目。一个很明显的感觉是，这玩意开始火起来了。最近不少热门项目都和 3D 有关。每次有新的模型发布，大家也总喜欢拿 3D 生成效果试试水。包括我昨天发的文章，也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536215&amp;idx=1&amp;sn=d976d62492d54b38f0195aaf9848b486&amp;chksm=f8db181c0c448a22b7693a76190acf3626f05f8c8b5cbfa5fe64eb50fefd67618e64b40da0cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 14:28:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 有一个 3D 人体器官网站火了，看看怎么用 AI 做出来的。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU03aXXXibYUBfIoia8KAPCDmHOnxoRibmIicSkXNIf1SHlwYQvhWQO0OauluFzx1u6Ez9RkeRvtLN8ibR2eZnAANu5FFgLibx0Uwr1sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前上生物课，认识人体器官主要靠课本里的剖面图。心脏长什么样、心室和心房分布在哪里，你可以把知识点背下来，但比较难在脑子里建立一个完整的空间结构。最近逛 GitHub，我看到一个做得贼精致的 3D 人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536181&amp;idx=1&amp;sn=29483fe8bc17c5e653f6395d0e6647c6&amp;chksm=f82b83c25959b0f0a59cd4f3ba4c3fdb31278e84d6ed07e7c92f2561674603ba06ca6f3696dc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2IFic2sgzhHlKXQnibNRswMUrsrY2eia0Ab7icakGwzgjpChdBQqZBUjQ8RswqltQLZ4KGyOvp7y9yfwmsRFfq4u7oQW4HrORV6XA/640?wxtype=jpeg&amp;wxfrom=0"/><p>刷推的时候看到一张动图：Ghostty 终端里飘着一只黑洞，慢慢长大，把屏幕里的字一点点吃掉。这只黑洞的食量，是 Claude Code 的上下文窗口。你和 Claude Code 聊天的时候，聊着聊</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534710&amp;idx=1&amp;sn=bc6942a274888a111c0b69d23f2fa1e7&amp;chksm=f88dff06309a125c82cd509a6bb1145de5d779be106d5610801df304c3af1ae53698e44b05e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 21 Jun 2026 15:20:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 14 个本周牛哄哄的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3WD96rNnoeDp9MUt19zD9qzjR3p1Uhmk7nhGCd90iaMAkZwKjEh44uumHHNqoibgAzXoWDiaMd2tjhoLs7c1UIJNmSIicdVrBoNo4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Windows 用户的瑞士军刀PowerToys 是微软官方开源的工具箱，目前累计了 13.5 万 Star，是微软最热门的开源仓库之一。这个工具集合里面塞了 30 多个独立小工具，你可以单独开关</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534704&amp;idx=1&amp;sn=2878190d06b1e5b9616ce86ca80d04c5&amp;chksm=f8e9587f6389f46d468ef5be945b8f9e0d78e370ffc73788dace7e782432a3b092894c94624f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 20 Jun 2026 11:17:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

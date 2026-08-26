@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/8/27)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 恶意网页利用 NVIDIA NemoClaw 与 Ollama 配置缺陷投毒本地 AI 模型https://thehackernews.com/2026/08/a-malicious-webpa</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960534&amp;idx=1&amp;sn=8a01a89a934021f179cc88cf5f29b27b&amp;chksm=8a36ec9f98a103f6d8873ec130654bb52c4e8c329ee35b7a2c340b53f02cf55fff45f2cf302d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 11:41:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/8/24)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 加密上下文注入：利用加密提示注入实施 Grok 零点击攻击https://cybersecuritynews.com/grok-zero-click-attack/本文揭示了利用 AES-256</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960530&amp;idx=1&amp;sn=73d95434c985f03aeb7ac547dd8e8975&amp;chksm=8a0bda48da5178826d6a36911ec660b2e377c32ef4295916d2eb68d00d93f886bc1571c6e761&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用3G调制解调器漏洞实现对车载主机的完全控制https://ics-cert.kaspersky.com/publications/reports/2025/11/20/god-mode-on</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960310&amp;idx=1&amp;sn=3eee52316fb5a71cf2cbc71d74aa2581&amp;chksm=8addb7ca03f3cdf0ba84cb79c59f62d11db7bbf704002b23b6140ee4e168eaa0d834b7c116b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Nov 2025 16:05:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/11/21)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Redis 7.4.5 Lua引擎中发现严重漏洞，可实现远程代码执行与权限提升https://www.freebuf.com/articles/network/451795.html本文深入揭示</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960307&amp;idx=1&amp;sn=6a724d1c2676dbecbadf4dad2535fae1&amp;chksm=8a3af2e7a7019a5c7f229f3e8150ed659cef1d2056fc01e9b15e79ed3e07bab43f2478e682f9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Nov 2025 10:33:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[研发投入增长40%，拼多多的增长逻辑变了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhOWummUCsJUwoQCS3I0wYKRCyoLjW9Ce3icJDfibr1gsYbMsNEyWNiaSIfPNDibbdiazzgib92Im0dIwCnviaibXcolEk0sQb2pH2haHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>8 月下旬的财报季，拼多多母公司 PDD Holdings 二季度收入 1124 亿元，同比增长 8%；归属于普通股股东的净利润 272 亿元，同比下降了 12%，在线营销服务收入 576 亿元，只增</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=1&amp;sn=38317f1316b0de4d0386a5dab2add9db&amp;chksm=bc7e956ee0b376992183d37a1dae28b1224f9cb7ecae8027e6115ca3d32c8b5e95f08cf13561&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DataBuddy 数据语义驱动的企业 Agent Runtime 实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNghAnu8f3LTQzOkN9qSAlq35stwfa4vxib9weSNWGq1qptMJj3oKxu3KYF8ia5DeIQYFCI3ibWPzWKgib1wTFV6KzkxoM0ibBuyXd3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>先想象一个场景：Agent 不只是写一份周报总结，而是要接入数据源、生成 SQL 与工作流、构建 DWD/DWS 模型，最后再把每日同步任务发布到生产环境。这时候你最担心的，其实已经不再是"它说错一句</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=2&amp;sn=202b90eb56a0c4c65f2d0ee0c304822f&amp;chksm=bcff68ed59810f80c7937a9eaccfc8d7a22a781171d830af67d042c7b56770af0fe636a6e1cc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh6BxdgxoeEYFjUXfE9CFkS6zuib4Wd3xblWltJDw9Hq8A6Snu2XwykfBKjpWcU6X26ibR5ED5LWgu9LfrbwkKgXBlKEibhia9afH0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 田橙 React Router 是广泛使用的 React 路由库，如今也是 Remix 框架的基础。该项目已 发布 React Router v8，新版</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=3&amp;sn=598fef62c3214484d0c54609b831cb47&amp;chksm=bcda716688f04595a6bf34e80cb036580793c55d7789133003b6858ac1381548a89eb9f24dfe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PostgreSQL 太难懂？有人把它做成了城市模拟器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgrMUHQoa2lvBM6dS0tgINNGg9fQBRhyMC1PDSm4PSp1AWlnUBTJMuric5Htea938h6iaAavtDK5V6uhrNbMyakKSFfvkbFUUneI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 Nikolay Samokhvalov 发布了 PGSimCity。这是一款开源教育可视化工具，可以将 PostgreSQL 集群的运行机制转换成交互</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=4&amp;sn=e993b2cd339eb025d5850edc946de6f7&amp;chksm=bc033df5e186ec1c8955b47e31ebc245f30c62cecc3c72d78b99337dc9231198d21542e1288d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[不做手机缩小版：AI 健康记录迁到手腕，要跨过哪些工程鸿沟？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgzDnicpO4hibsXzibn6WT9DMwgSdia5Oib8IrUhfXyL6cpxfgZWnpnxptGGW9Aj1bzEJHSWznsV7LFjdw1jwmic19pMx1osibnJeGRHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 希希子 过去一年，AI 应用又往前走了一截。Coding Agent 已经开始自己拆任务、调用工具，手机里的助手也越来越像一个能办事的角色。发布会上的演示总是流畅，但到了日常生活里，许多 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=1&amp;sn=136117811ffe3cc38fd6a43edaf2d6b9&amp;chksm=bc24cbae1fb9d5bab9f3332936c8d5096d9d769d4ad6213783a2f5c4ca5f62951871b06c53ea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjxYycABvgxgpibCzRFG4Ig6iaSqqLtoALpLRw123osfNRho4UrqQZLxRibfYxTVXqicyyIq8BgIRBQ3QhOiclvCAeS3N3D70E6MJcI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 田橙 IBM 和 Red Hat宣布 扩展 Lightwell，推出新的商业产品，旨在帮助组织为 AI 辅助软件开发时代建立可信、可验证的软件供应链。新产品以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290850&amp;idx=4&amp;sn=7c534aaecad97dbf6027641bf9eefbb0&amp;chksm=bc703a4e53533e0b10619b97503f4657f9d4ffacd67163d1d7f28097a8500cdc7e912839978a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 16 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjO7dAt3MsOITGc37tCGIPeVHf72lz6pJyOMibNQVy0HY8JeUdxHGnZ6iciaH3jOLvVNr8diaTLKThVRJQBoYyib8j7oSKZpGlPblCc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟北京时间 8 月 14 日，GLM-5.3 正式发布。GLM-5.3 围绕 GLM-5.2 已经搭建完成的长程强化学习技术栈持续扩大训练规模，包括增加更多任务环境、提高任务多样性，并投</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=1&amp;sn=9df4ad485645f6eb2fe92b02a95145c8&amp;chksm=bc7e55b10e7d0c74afadeae79fce4974de646bb44bfcb588afc4655748b5b8571d880b1085b5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[年度AI论文！全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3重现概率异常]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lYDricib2fsm4LqwNUl3snuvmgw8VREn0kNyzGCcB2IJHwVPOYQzrpicy5ISt9XIYx8oflCWh4TLwVnPVyeZbERfG3XHHIRP10C61kuve3g3RM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月这两年，“防蒸馏”一直是硅谷闭源模型厂商的心头病。Anthropic 频频指控 DeepSeek、Moonshot 等中国企业通过 API 套取推理与 Agent 能力，为此部署了极其严</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=2&amp;sn=48bd13ae52e81581d6d7ea2d1a5d6565&amp;chksm=bc1b85053f198a9761d6d54b2ec992828fcf003717ee2592674a96f587432e5a7f185e8c4eb6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[与运行时无关的 AI 工作流：一种兼顾生产环境稳定性和快速评估迭代的模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj6ms5FrAIBQQZkUt8ploEImndAcLYGia6ETD5yHbUOIf7sDticG1PZfv2OCjMBbOChmbqkPedyxmE5tNlFyFR303JxRRnbGXvH0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Mateus Moury 译者 ｜ 平川 AI 工作流是一系列为完成某项任务而串联起来的步骤，其中一个或多个步骤包含对 大语言模型（LLM） 的调用。在此，我们将这些步骤组合在一起的逻辑（包</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=3&amp;sn=b8c89bb50a25bd7291ff7c1caa7de82c&amp;chksm=bc8a148cfa2330d4b0783da1cb3c55bf3f97ef3f56ecbb5b3a3adb5e74929a2ec28f543d5416&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 正在重塑故障处理流程，但棘手问题仍需人类解决]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjjAVAOpVHJm1ia53sUZFrZmVcNibOPMdcaYQ7wamia0OWuxWRNq0Oiapr02eEibxIXhANsYWYp2uJaC66nNmdubxfwmCFWFDuH5adM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 明知山 AI 正在飞速改变工程团队处理生产故障的模式：它不仅能汇总故障沟通记录、解析不熟悉的代码、给出修复方案、生成代码合并请求，还能越来越多地辅助故障排查诊</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651290828&amp;idx=4&amp;sn=197464e4b3134ed85a778dbbc50669ce&amp;chksm=bcd26642a171f518fc38f3814a667ab9a743f5116efa33bfba03bad3c52028a3824b6ec44c4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Aug 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

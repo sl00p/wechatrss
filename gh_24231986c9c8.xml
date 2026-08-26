@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ADrive 跨产品协作实践：文件通了，Agent 就通了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeasVU27bEqy4s2zHSic4XVpxDQW76Yk5UDDvtmfmrwwsd9Aqpk7HC1hZeSZzhX8zQ40VnAPf2xB7xDnRXTG7ib6iaJnl91ZicQVgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文基于 ve-adrive-cli v1.0.2。文中的品牌、项目和文件名均为演示示例。Agent 已经进入内容策划、素材制作和发布检查的工作流程，但文件仍主要靠人工搬运：资料散落在本地目录、聊天附</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521712&amp;idx=1&amp;sn=584ee46d8b9021b56004a8a7e318e2d0&amp;chksm=e8fe12061bfc53edfbee024ad2563c1482681f1044a4f0147a8b3b61a426567c4977767138c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedengPjwEBwT1jT43icVFYwSHsD7G8q6azlX3KWrK8CFOSlSx2WZuLWNZ9CbfaT5X2Z10sh509FAsNgjPPCzrkPPzqHw4ibR15sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>基于字节内部 AI 安全治理最佳实践，火山引擎近日发布《智能体安全能力图谱》，系统梳理了智能体安全建设的 10 大能力维度，60 项核心技术要素。本篇为技术实践篇，分享针对 Agent 提示词注入攻击</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521453&amp;idx=1&amp;sn=a43b95ca00458d532f29d70e80f0d118&amp;chksm=e8d80e2f0d78a250bab52986e0bbe3629a320a03461c4b196aacd9026a3a77fb9241814ff9be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedG5sVP3icUjKuI7LS5egLzMuYds9yZvS3zvcPBMDjbJndXTDzhyiaPDIibChnqQoa4DNjSTTGDJzSPP8fJibBUhQdQ68PSXBYaibvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在智能视频检索、人机交互、长视频分析等实际场景中，多模态大模型（MLLMs）对视频时序动态和语义的理解能力至关重要。然而现有方法要么局限于特定时序任务、泛化性差，要么因刚性监督导致过拟合，难以捕捉细粒</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519230&amp;idx=1&amp;sn=209fae1cf3181ef41ad3d6ed766ea077&amp;chksm=e841612d4be39bd94b385ca12880e95d49b7818118463136a011014c402bd5e35c79fe7d99ff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[扣子2.5，开启全新 Agent World！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fefj1yw3swh6gU2gb9A4IyicmwkuGHe69CiaNgFzl3cAibp4UIferTdqPamqq1QkLiaJPEydVLict0TzKN3DHhfsXNerB1dVOLvGFPPE/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，扣子2.5 正式上线，迎来全新升级。一句话理解升级后的扣子：让更强大的 Claw 帮你干活，在更广阔的 Agent World 里任你探索。在过去的一段时间中，Agent 逐渐成为更多人的生产力</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519214&amp;idx=1&amp;sn=6098fd7a3aa2f47bd2c0b6687bd28084&amp;chksm=e8ee472772c3fa78e6cb98212127b9ed201c057de0faacf9286558a8ddbe8181429695de4c1a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Apr 2026 15:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

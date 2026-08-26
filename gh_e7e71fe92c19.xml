@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[永夜鏖战落幕！2026 KCTF 圆满收官，榜单公布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39Bm4JGNic8nPtrTCz7ZbWicH2aJgO7nzDhiaAEsSDoX9ibQecXSzZibE7XXodRiaVcyr2bjqc0ItEXZrwh4Re4TEtqgscQWsyicpkr0/640?wxtype=jpeg&amp;wxfrom=0"/><p>时辰循环，数字囚笼，唯有破壁，方能新生。8月24日12:00，『2026 KCTF：永夜十二时辰』赛事圆满收官。相较于往年，本届赛程直接减半，但赛场战况空前白热化。选手整体破题效率大幅提升，赛题被攻克</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=1&amp;sn=32bb5fe3d643c6f97f2982cc991ebb58&amp;chksm=b05f560db491214b0d310b0a7632fec4c64e0e1784c29338a95855b90739594aa29611f5caac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1P9huKjagLTeH1uC33a0TlTMibGssJ8RCdgiaAKMmlXeSZ4evwKojLkQJBqcrvIVYyQG0bowuXNQ5YIVibHHkvWEncW2aSjrgzxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章记录 D3CTF 2026 `d3llvm` 在启动阶段的分析过程，重点不在最终输入算法，而在下面这条链路：logcat 定位 JNI_OnLoad逐层 trace 外层 libd3llvm.</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=2&amp;sn=f6d8e52efe0c96ba3684bce3529c3d30&amp;chksm=b0a0cc91b4b270393576b3b5b705aaa857ab9ec2fd08d19eb6236b1a9d6caa61bd2188acb225&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0SKDCTsT8VNtHJBq1DVC3VSlyia3VQU6vlGJ9jYf1zsNibOSXDcCXibMwxcN8eYQl8xBS6xWCwPm8BrmVb9HE0NVATdKH0iaZhdibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述老牌高危组件Apache Log4j2再曝新安全风险，官方披露编号#4255的全新漏洞，攻击者可利用该缺陷绕过组件内置的反序列化白名单安全校验，在特定部署环境中实现远程代码执行（RCE）攻击。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=3&amp;sn=0488a148cf4827e04a6ac7248fb80eea&amp;chksm=b05e1d2cc70781fb90737b5994695d0d69913b1ecf565c070c44340afaeee3a2b4d669ee007f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=1&amp;sn=548b24b927eb278a51ff44ea8c176b54&amp;chksm=b08cd26a843a8d994b07e780183dc45098b361c3610f1f988ad89724f246005477c7cb860923&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0y1ibGribicvibzZt2bqBqUx7ialLwMbrS3ia8PLicylr9icMFiapZFBicESFwfnicqvHZ5DUsIbVjralLSicmdfWcibJIKugq42FCoTkMR3QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当开发者依赖AI编码助手提升工作效率时，工具自身衍生出的安全风险正在浮出水面。Elastic最新披露的安全事件显示，运行在Mac开发机上的Claude Code会话，可衍生出反向隧道、凭据外发、系统持</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=2&amp;sn=1a15df2f9713527cd2be82b3455bf7f8&amp;chksm=b0a8235abaf59e6da925bfe10e05d9d771bc068edabc55d7f06de8a55fbbb653f7ac355334ae&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF 赛况 | 破晓开战：『逆向初学团队』4分24秒拿下签到题“一血”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3QUWfIK9XGcVU61unE1R7pVvSdyBHlj7hLgvV0oW9YhqFDI8Yzf0ZAWtnribaTEC0RCHYeibellQN52wwm8NACB7pfyNYicPzKKI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。首个签到题《辰时・钟鸣破晓》为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=3&amp;sn=173cb50d784326c34a95364701fdc138&amp;chksm=b01e9d25833992998c3ddd263b4d0106237ac953358763d356e40b69ba9a1568783af66530ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF 攻击方规则发布！8月10日12点，正式开赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3m6th3ia0UK6mBPXl8kict23ZIyw5qeawibnXibPy9oddLDOTlw78PoyuuV6e241EkFF7iaV2gadVeviaBw0xETZDY11ibmpoWOUK8tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026 KCTF 规则更新为适应 AI 技术在安全研究、CTF 出题与解题中的应用发展，并优化动态积分体验，2026 年 KCTF 规则作如下更新：一、新增 AI Security / LLM Se</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618432&amp;idx=1&amp;sn=e41a435b6f32dfbc90eea7a9dcea1b8f&amp;chksm=b03483f9f8b526a85ac8e69dc32390c8304a166bd4d9be3a396a507b1fc162c5fb0ae5be20d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Intel 酷睿 CPU Management Engine 固件研究与分析逆向：实战DCI链接与ME解锁尝试]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0GfIOGw1wKQvITpcRDZ3cwIfrPf83KDrDgV9lwhe5CicG0bGib3rhJXx0LV7oBWCOUmV2kTNzHqHzpa8AMMJVFXW54YqcSXagUs/640?wxtype=jpeg&amp;wxfrom=0"/><p>此帖是记录笔者研究Intel Management Engine 以及 Intel-SA-00086 安全漏洞的记录。说结论：当前只能说解锁了一半，暂时还没有找到一个能完全解锁ME的路径。我会把我研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618431&amp;idx=1&amp;sn=6fb037cb1e411b795256e427858c349c&amp;chksm=b0cb2d25cbe23405aee0607802c0c453b62e2b18fc0c873d03251d6d72459f51c6a013091345&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 18:03:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

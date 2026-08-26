@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文搞懂个人AI记忆系统构建全流程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr782Uzmia3CLCNEK4bR6O2ax01WZM3ahocMZC3VGjzOgibKAD7qKcibiakOhwNmhsXf1AkSzErXVv0ptdZicsB7QyXepPI4KHTaBIuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01缘起想法来自于工作中的实际感悟：任何公司和组织如果想用好 AI，前提是一定要完成相关的基建治理：数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697254&amp;idx=1&amp;sn=4c6c7051662b7a92a77ce80bec68af16&amp;chksm=eb709ce21fa27a9e4bd28ab58e9f27a9ff9433e1000740eabcc903e46ee8294d04e7b2d62b3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Prompt到Harness，给反馈分类装上方向盘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5wx65q8TpsnTZdoCsEicN3lcPRxkyJF4oicvQ1L2ib5lwm2Bn0t856qSvicjPYiaiaDJWEvm10icElVicqIFhoRuictWbYcfic31JGLyfbI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告随着业务场景和分类标准不断变化，越来越多的规则、边界和例外被写入 Prompt 或定制链路，反馈分类逐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697102&amp;idx=1&amp;sn=c5f8e6c86d98caed81f32bf357be22a4&amp;chksm=ebd2c6aa2ad6f1785792c16c720a6b3987d0e59978d2a358cb42d93235d5e6a381c76e2c9a0b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4Dunga2yTprpYmLuYNShlM7zO5fibdpQN4nYwiaFCfWKmKvcFJC48tzIs5OVicz0r6dmHV72EU4hqkpp1Qt3Muw4xW4PjoGfesx8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 今天，腾讯云数据库团队全球正式开源 TencentDB Agent Memory。 一套面向 AI Agent 的分层记忆引擎，项目采用 MIT 协议</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695568&amp;idx=2&amp;sn=000c9b3c8c00fe6e2fd675360a016edb&amp;chksm=eb2439e8aa86c3cb5eb24087302df8b4e8f8d57eac3b3566bdb3e29f874f785a1f389b595620&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[只加两行代码，为什么要两天？一文深度理解业务系统的复杂性]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7lEfXicXNTjXSms2hSIgDG7vwdC3ZLANkib0Fe94RPMADefX6J1LP3PpkG1qribRbgOexCLTErvoniboJ4MgO5Qj9g3DauBcDOxH4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇业务系统复杂性一直是令开发者头痛的问题。复杂的不是增加一个需求需要耗费多少时间，而是在增加一个需求后带来的蝴蝶效应：其它功能会不会受到影响、要如何去找到这些影响</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695552&amp;idx=1&amp;sn=aed9efb35983a89194ea583074ee8dcc&amp;chksm=ebca280a8f78a8a68aad7c683583093a77c73baddde689db2948e8a24352e9bcec6a2eca0e17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

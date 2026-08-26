@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI发布完整版Hugging Face入侵事件技术报告，定性「警钟」]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0XXQSMWHhTWKlknsk5yQIhWaG7iaJMAp9pGfsVtYicuQRGy4fJgPjULNtEvqZy1ibPqJJ9Sn4vtE8o7BiaibqdAb8xgibHVWITfic5bs/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年7月，OpenAI在内部网络安全评估中运行了大批AI Agent。测试期间，模型突破沙箱限制，进入公共互联网，并将攻击范围扩展至Hugging Face的生产基础设施。调查显示，约1200个Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=1&amp;sn=ac1c31838f4087f80098650a4d90595c&amp;chksm=bcfaf7b154432248022418e59846bab1bd3e8386579a6a5c7edb53230ba0a28268f02bc68a6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA收购Hugging Face，估值或超130亿美元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3EVnnde9B5CTmQBrkpAuLO6ZT2hmWxF4ib6snT54NhLN1TAIO79HQiam0biaIo73xAacmlOKibBsK2qia4VicJNJdSvrbiahnqJ1TM4I/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA在全球人工智能市场的基础算力硬件领域无疑占据主导地位。如今，这家科技巨头正寻求进一步扩大其巨大影响力。NVIDIA将战略目标瞄准了更上层的软件层以及蓬勃发展的开源AI模型生态。据The I</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=2&amp;sn=fa3ce4865dd85de99ec4a6c1771914c9&amp;chksm=bc25991f273da89b43eb23e3924170f287e37e863c6f2d645494c061adf6b8ba1a27694ac69d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Next.js曝严重漏洞，一张AVIF图片即可攻陷服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2TWn8XyabqwwsCUKjyNjGibOXhHibGTibq5duR5D5EPnM4PhEdqjjGicu5S3ictiarWZu04uP66KS1A2Hx6niaDZHLFwbOfpnnnrXJZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Next.js存在两个严重漏洞，攻击者可在未经身份认证的情况下，针对使用Image Optimization API处理AVIF图片且托管于Windows的应用程序实现远程代码执行。Part01路径遍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=3&amp;sn=90c36c1ca8ce8ec5b8a14354379afbf3&amp;chksm=bc48ea9ca6ae942cc26e67fdf4abeea35e545222e59591cf7a08c71a67da499cdb07b52d4dbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tata B2B平台OTP明文暴露，仅凭手机号即可接管账户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1iadAOZS45GgKRkXTaFibDaQM3UAlMP1m5I4UVtsWD1UPWMgfnN3ia5qFRd4fENMPKb7uicAvEh26aaCysFWIrWVcfceFXcY1X7g4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01OTP认证失守Tata Nexarc是印度面向中小企业的B2B采购平台，该平台存在一个严重的身份认证漏洞：攻击者仅需知道注册手机号，即可接管他人账户。据悉，该平台将用于登录的一次性密码（O</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=4&amp;sn=a2271d68e01f429579e34cab197b6037&amp;chksm=bccbb5a82a04b85234f47a5913abeebff3973444ccda8a88fa8e73f95aecdd1d2e44924f49d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“豺狼行动”58人被捕，揭开全球诈骗背后的洗钱机器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3s7CXju3yMjq8Ob2IjkU4NTOPic5OyBbNJicnD6Tcasnn8B2ekO3xRibLKIYicKYQvexRXT5vMKagR28wmUey48WtlniccZY8BSWrc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01“豺狼行动IV”逮捕58人国际刑警组织宣布，“豺狼行动IV”于2025年11月至2026年6月期间展开，共逮捕58人，并锁定263名与西非有组织犯罪网络有关的嫌疑人。这些网络——如“黑斧”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345404&amp;idx=1&amp;sn=4d34f8fb0db1c6a41f099be3bc1925ee&amp;chksm=bc436ccd437f7a2bb80ca18aa92c0adfbebc258c36074afd84593576d83334d878f13b7b6cad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3DRVqTwT3Dk1pRhf5BpSWoF6muXxiaSLBfF2DIT8GoPLhPRPpRGe99Cia6VibMvQcZ7fZ5kLk0tFhQ2vZC5eDluNtNRWr6eib9ZbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>前不久，OpenAI、Anthropic、Meta的模型接连在安全测试中失控，自主入侵了外部系统。AI巨头集体“翻车”的同时，普通企业的AI治理也在经历另一场静默的混乱。和一些企业安全负责人聊了聊，发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344625&amp;idx=2&amp;sn=cf21ae4a25e7edafdddb009540c8faff&amp;chksm=bca3b00a5ef521fd60d5a7c3f1ba1a3d5ff085b02a45c78ef26febbabf6cf817296acd420d2f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Aug 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Black Hat USA 2026五大关键要点：AI既是安全工具，也是重大威胁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3Q8T3LoGeDrc3PnYoWapbBbodCyKoniaXibTIJudpib9PCNX4atPPpwWrm9qPsxJev31WYE3KgKQIiaoJ4TxN5qPto2G4tgdjWr4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>上周在拉斯维加斯举行的Black Hat和DEFCON大会上，AI作为安全工具的潜力以及自主AI Agent作为新攻击面带来的危险，成为多场演讲和产品发布的核心主题。以下是今年这场“黑客夏令营”提炼出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344625&amp;idx=3&amp;sn=6b51ed6d8cb86c30b1eece771f19993b&amp;chksm=bc9ebb4f6b181febed58fcbd31a376f95986354ec07dee71db6c4f1e6c93440f84d9331f7f16&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6300台工业控制设备暴露公网，美国数据中心冷却与供电面临风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1dxic8LeT45anGJF475HjFkKrPHuibGibib6fjtggeKawqHGV225fL8LV5DDuH7J3qD5EOTqVDx28levGkBY3L0U96qbX0dBJ1DicA/640?wxtype=jpeg&amp;wxfrom=0"/><p>数千台暴露于互联网的楼宇控制器可能正在危及美国数据中心的基础设施。它们负责管理冷却、配电和环境条件。如果入侵者突破这些设备，可能导致服务中断、设备损坏或代价高昂的应急响应。这是一个普遍存在的暴露问题，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344625&amp;idx=4&amp;sn=0dc22bfa970ba052ed5b28f75e700fb6&amp;chksm=bc470259781367eb651c1285f030636a1e7a32288f1b5c321085d3b197466ecda8335e994c47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows再曝0Day漏洞，可完整绕过微软RoguePlanet补丁]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3NeOIlKJLZW8FiaMwDkrOWOicbn15icFibjib6ZMl1j18meJAaWpicZjxQsvdg270778xwSQfGEJnw7eKH9FrsqOYqiax6yjiaPAGYMAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01绕过RoguePlanet补丁的新0Day安全研究员Chaotic Eclipse发布了ShieldBreak的PoC。这是微软Defender的一个0Day漏洞，可绕过CVE-2026-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=1&amp;sn=702c9e6826a5049a929c30024eb0d9da&amp;chksm=bc4344c9ff2c42b871f69ca5baeb1fc03d93ec720ea1f3846a5af673e78e2267adcdbd119b02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[思科防火墙0Day漏洞遭在野利用，无需认证即可触发拒绝服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3L95iaKVRUglPE3RA7zEsboFnRejXLblH1Dz5DiaElAUg6eW2TvKR4vyXoLLicxyGD0KwHmlwDaibsej1kMhxnexdbFa1iaiclXR3yY/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科已确认其防火墙VPN组件中一个新披露的0Day漏洞正遭在野利用。对于管理思科边缘基础设施的安全团队而言，一项高优先级的补丁部署已经迫在眉睫。Part01漏洞原理与影响该漏洞被追踪为CVE-2026</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344547&amp;idx=2&amp;sn=68f08311d755bb5bb20aaf3b8a761cae&amp;chksm=bcb49d407d51c9b95de1d21eefa27f7ce171969edd883c2be77767b08f0022875e780fb62399&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
