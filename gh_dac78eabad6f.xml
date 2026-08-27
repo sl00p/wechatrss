@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI工程范式的跃迁，一文讲透Context Engineering！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6BV2LKLyAx48PJa398YFhTkzl569fMAD4ib3uRJBQvnu1u4MjuRmBw885mBrK2n9rkhsak2f36qbEu1lZVbrb81eiaqic6QIh9x4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告上一篇《Agent全面爆发！一文搞懂背后的核心范式ReAct！》介绍了 ReAct 如何通过“思考→行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697260&amp;idx=1&amp;sn=bbda847cb4e895e1ea99caf5acec9923&amp;chksm=eb02d8a7b2907cd39da29183dafe8d2ad34706c5ab126b4af6b73e79fc7af889d887b539e8a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 10:37:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文搞懂个人AI记忆系统构建全流程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr782Uzmia3CLCNEK4bR6O2ax01WZM3ahocMZC3VGjzOgibKAD7qKcibiakOhwNmhsXf1AkSzErXVv0ptdZicsB7QyXepPI4KHTaBIuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01缘起想法来自于工作中的实际感悟：任何公司和组织如果想用好 AI，前提是一定要完成相关的基建治理：数</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697254&amp;idx=1&amp;sn=4c6c7051662b7a92a77ce80bec68af16&amp;chksm=eb709ce21fa27a9e4bd28ab58e9f27a9ff9433e1000740eabcc903e46ee8294d04e7b2d62b3d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[让Skill自己训练自己：8阶段Loop、3层评测、5维AND门控，从此实现自进化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7lJR2CnzQoESZxrpWibNaicYsk3Jf8EhBtwYUiboicmCjz67LzrTa1g5mXAvm37IXoao7A7y6IicMuuhhTX5tkM0uSSl3qlyRKSibro/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇你是否想过，Skill 其实也可以像神经元参数一样被训练。你总想着授它以鱼，像个训斥孩子的妈妈，一遍一遍对着它苦口婆心地说教——你给我记住！你不许这样！这样不对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695568&amp;idx=1&amp;sn=492ca1e98155a9fea668213173cab654&amp;chksm=ebddaaf08e573644328aa2f250f07b3e5736ce631dfc71a4bfaf114af55478cbb11f8a70cf59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TencentDB Agent Memory 全球正式开源：让 Agent 沉淀经验，让人专注创造]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4Dunga2yTprpYmLuYNShlM7zO5fibdpQN4nYwiaFCfWKmKvcFJC48tzIs5OVicz0r6dmHV72EU4hqkpp1Qt3Muw4xW4PjoGfesx8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 今天，腾讯云数据库团队全球正式开源 TencentDB Agent Memory。 一套面向 AI Agent 的分层记忆引擎，项目采用 MIT 协议</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695568&amp;idx=2&amp;sn=000c9b3c8c00fe6e2fd675360a016edb&amp;chksm=eb2439e8aa86c3cb5eb24087302df8b4e8f8d57eac3b3566bdb3e29f874f785a1f389b595620&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 19 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>

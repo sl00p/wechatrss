@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当高频观测不再经过异常路径：Shadow Cave 与常驻式插桩架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K29cDclSgsVLe5q7C6nAtRwO2gRlViaOn8bhuFFjvgiaUxPqTpROJyGwSI7VEsH2mmKKUiaYqglmITI0ENwPN7Pcuda3mQibbubRFU/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统动态插桩通常将一次命中建模为异常、回调或翻译事件：线程被捕获、现场被保存、观测逻辑被分派，原指令执行后再恢复。该模型语义清晰，但在高频逐次观测场景下，异常往返和运行时分派会迅速成为主要开销，同时直</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=1&amp;sn=5a500adeee5194bc8b270c6819973a89&amp;chksm=b0ba01fa80d0045a538e243af1d0233d1f99a1b7fbb51e1145227c56e04116d79e2a46454d2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code自动模式曝出重大漏洞，可被提示注入劫持执行恶意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3B84ibusJtY22ooBts6GiceyLkk5HaO1D6RSrl30I69vMS9SicuoibEgEVicULN4ZzY6KOyYdiayPeibu7vYXI2AXcQsgJ1MciaatIHos/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日安全研究团队Embrace The Red发布安全研究，Claude Code Opus 5的Auto Mode（自动模式）存在安全缺陷，攻击者可通过构造网页，利用提示注入诱导AI代理执行恶意代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=2&amp;sn=87a487c4c11fadf2466724ed460efd12&amp;chksm=b05a2c14c3ccbaa27f0017ff1705efdbc7b082ed99e0b364d5104140f3a50b3f9c4e172dda9d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[我该如何驾驭AI，让自己不可替代？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=3&amp;sn=1fc10e26cbf3fd31d3030b89401ea23e&amp;chksm=b08fbec2df90149a96bdc92ab3b4b3b71e9e8492bb2a5b311f9a60fd49aeca7757b85973f37c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[永夜鏖战落幕！2026 KCTF 圆满收官，榜单公布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39Bm4JGNic8nPtrTCz7ZbWicH2aJgO7nzDhiaAEsSDoX9ibQecXSzZibE7XXodRiaVcyr2bjqc0ItEXZrwh4Re4TEtqgscQWsyicpkr0/640?wxtype=jpeg&amp;wxfrom=0"/><p>时辰循环，数字囚笼，唯有破壁，方能新生。8月24日12:00，『2026 KCTF：永夜十二时辰』赛事圆满收官。相较于往年，本届赛程直接减半，但赛场战况空前白热化。选手整体破题效率大幅提升，赛题被攻克</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=1&amp;sn=32bb5fe3d643c6f97f2982cc991ebb58&amp;chksm=b05f560db491214b0d310b0a7632fec4c64e0e1784c29338a95855b90739594aa29611f5caac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K35o2Sic8r9mBKt4bsWb62iahEw4wmkYKmmKencRusmFA8RajuN4qw7VDMULh2YHrMaLxwq3gjE9g21y83M6X9VqL0oQibdy9DENY/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。第二道时辰关卡《巳时·绿光幽语</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=3&amp;sn=81ba83f4c07ec6b989fe3c5efaea7aa5&amp;chksm=b071e52ea48151eb67a3d08f9c19137a762098c27bdefb6f311a326503aa42e326479ec7253f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[本周更新5节 | 冰与火的战歌：Windows内核攻防实战（内含彩蛋课堂）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周更新5节：彩蛋课堂：内存映射式注入在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=4&amp;sn=23cc587cfcdca2477999a3ca2415a71e&amp;chksm=b06d8006e538869b5c93dc5d6694d2b85b4b2691998902923b8385d70d0cac27be5d80c5633a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kali 下 Android Studio 无法输入中文的问题排查与解决]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K360eLv84eLg5xJdz2aic8rwCzusY0BXxmOibybaTkf4u41wicabtVzj5UssicO6NtpTqUiawBI613HBQpnywuVXfNKxak7PnyXmAOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近在 Kali Linux上装了 Android Studio，配上了 Claude Code 插件——这个插件能识别我在编辑器里选中的行、选中的文件，直接把它们作为上下文喂给 Claude。于是在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=1&amp;sn=b445b8909b73c5c33e80ec7bbf7d351f&amp;chksm=b09b20e23678ef9e925c4452458e5cf5485146c9a74dcc90e0ec4e1dc933d3aefe4f539f5014&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code被利用，Mac设备生成反向隧道实现持久驻留]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0y1ibGribicvibzZt2bqBqUx7ialLwMbrS3ia8PLicylr9icMFiapZFBicESFwfnicqvHZ5DUsIbVjralLSicmdfWcibJIKugq42FCoTkMR3QA/640?wxtype=jpeg&amp;wxfrom=0"/><p>当开发者依赖AI编码助手提升工作效率时，工具自身衍生出的安全风险正在浮出水面。Elastic最新披露的安全事件显示，运行在Mac开发机上的Claude Code会话，可衍生出反向隧道、凭据外发、系统持</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618459&amp;idx=2&amp;sn=1a15df2f9713527cd2be82b3455bf7f8&amp;chksm=b0a8235abaf59e6da925bfe10e05d9d771bc068edabc55d7f06de8a55fbbb653f7ac355334ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 18:06:02 +0800</pubDate>
     </item>
   </channel>
 </rss>

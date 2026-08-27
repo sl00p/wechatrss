@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[场景营销互动&amp;体验 AI Coding— AI Native 视觉还原的两个支点：上下文工程与循环工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zr2UicYhf04Cfa9WVO2t18FricyC9euu11rJUGv0u7wbruqp2LrTxhwbzSBicJUfGialiaYezj2cibTHS5xnBscia20FNzMMmnwxDXVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读三个月前，我们介绍了 Tarot Pixel—— 一个不替 Agent 写代码，而是让 Coding Agent 自己看懂设计稿的系统。三个月后，一份混乱的设计稿让我们看到了更深层的问题，也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562152&amp;idx=1&amp;sn=45c3da2ca63c5dfea6e76f2d95d18c4f&amp;chksm=e8d8dade2fad48f100e149baa49e1b7abc2d8ec6300a4e1d6bc8a5127cca0e883d51c3dc5e00&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 13:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[极致性价比！Qwen3.8-Flash上线千问AI平台]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1ykJm3xUwmVnIkGocdJNSYCsib8kgOvGwW9Ga4gpwCdQO5qTwVmTb0K3icrZHsKoCtic2qNaKJGfbDMm8fd8AL2VNUAAEKDqNViaDw/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，千问AI平台上线Qwen3.8-Flash在编程、Agent等真实任务中达到极致性价比最新价格如下👇👇👇输入每百万Tokens 0.8元输出每百万Tokens 2.7元缓存命中每百万Tokens</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562051&amp;idx=1&amp;sn=47ea31d72039e043bae7c0a79add001e&amp;chksm=e88a157401dcb484aadaacf99ec385af9c8072ebca70a18eef46bf6a50f7bea08f04cc17932d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1y6GFkTUvzWCETWicIgwJicFXQsCJGMl9jOqCe1qTEMeKQmnNhcqdwX5DLMew8SOoBWicCJLUIb28pS28SNa0DfaNN8cFnoLgUhvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。本文介绍一个我近期做的一个实践流程，快速搭建了一个小平台，基于这个平台可以做全自动化的评测，乃至于整个系统的全自动化优化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559787&amp;idx=1&amp;sn=d17999288e104cfb22985cc29812bb0d&amp;chksm=e83e7689dccc8be777322f5f81d5e90df504000e18ca48de5478a29c17b1502fd7fb20866fc1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 29 Apr 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你不知道的 Agent：原理、架构与工程实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wJdxmIdf8tQZzdken0UwUJZMSZVg47ibJWlY2lMP1mAeCx03vVFapdc73fhpRmw4Pxoiav92iaUJHdbQcXNJDrcWMuowibTGaR2GY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559745&amp;idx=1&amp;sn=31903f96e842d95a2fa2f6b5a5a012cc&amp;chksm=e8027e5db39516f489909a71fdc182626fc4dfcabdc09c007846341629d2bdd0b9aa8ddcc993&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 28 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

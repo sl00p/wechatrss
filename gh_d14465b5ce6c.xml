@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯混元 Hy4 preview 发布，稳居开源模型第一梯队]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906NZk4Qtk1zaPs547PeKQXAb4RUGt22QuaWia1zq2AhnoK4anZA87bRgPOsg5ibI3JPQ0FGbbTRo7BZWQTHqB9yahDKQPXakBPtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实生产力任务上展现卓越能力。8 月 28 日，腾讯混元发布并开源新一代大语言模型 Hy4 preview ，总参数 770B、激活参数 49B，上下文长度突破 1M，在代码、办公、科学等真实生产力</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803888&amp;idx=1&amp;sn=d8d6ffd2c6caf69c7f740a238d0f1619&amp;chksm=bf6c22ef1b277de117d45bf78f2f26c180854449a6f00eca5629fc18b707e6c5c695492f3134&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 15:17:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[两万字长文｜手把手带你趟过 AI Coding 深水区：编码让位，人退到哪里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906OPjR92TfyQ6iacYQFjfGNdaZTsNR65dHiblXQ9knA0XBuP5XwhZThDu3elPYEJoichz9g3tavejtMt1UCiblxTUzojOtJxMrrMfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：黄迅， PUBGMobile后台百万行 Lua，自研框架，模型几乎没见过——代码让给 AI 之后，人退到判断上，把取事实的活交给机器。前言：AI 已经能端到端交付了这个季度我们做了一个内部平台，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803848&amp;idx=1&amp;sn=d61f1e7642a93c81c86fba2cf799f4b3&amp;chksm=bf431709d5d1a7e52b26ffe0880ba90cea78909517d482043166f5758b19eaf5ffd891d8f525&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907icGqAdbI5DqE8TBbibxdXkYVNhgun7emOOiaWOTD3ATY8I2Q7bsn2K9mjJH8Mrdoe1N33qORhwxw7yfL363pmVny9wRibGicqHzto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：peihanyu引言你有没有这样的经历——给 AI 写了一大堆规则，越写越长，它反而越来越不听话？这篇文章讲的是：我如何从"写提示词"走向"造执行环境"，让 Agent 从一个不可控的对话机器人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801516&amp;idx=1&amp;sn=673c6ef9bc4022d29f48f753a3f1509a&amp;chksm=bfb030116624adb561dec34963c20684e6e3616b3d72ee0a8619c15fda1e53da54d8681e8c8b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 17:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907qYXA7DSJAF0P66wZBibP539hjJ3uEnmoAlrBYhD3UERy4fQUtfHGogibHicuupibSz5Ru01RQToJQ83vTupRicbHKBmCee5cfV4AI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenpxiao当 Harness Engineering 成为 2026 年最热门的 AI 工程话题，业界争论焦点集中在"该用多大的模型"还是"该搭多复杂的工作流"时，我们团队在落地实践</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801507&amp;idx=1&amp;sn=c4ac5ce38024ade94b8bfa1fdc0062ad&amp;chksm=bfd0339d6a31f30682b69c4e962990941769006650ff624338a8737fd6303781266b780deb43&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

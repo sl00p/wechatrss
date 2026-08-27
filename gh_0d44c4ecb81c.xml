@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CubeSandbox v0.7.0 发布：沙箱跨机流动，集群平滑演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrQxZjzcwoEV1nQUPYr2HicKBwfFnebbPhfbovyAY8BvD295FWYtTvkDgKgxflKuj6UwDe1RqTUExBm56laL3Dya3icYodyAGhXojnlia1aMDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.6.0 中，我们把 CubeSandbox 送进了 Kubernetes，也交付了兼容 E2B 的 Volume 框架。控制面能以标准工作负载运行，计算节点作为可调度资源纳入集群，存储的选择</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499225&amp;idx=1&amp;sn=7d65645aa22d18d47b713fa46afdcf1d&amp;chksm=c040e4e813388d481d439084e0bb4b92b0dbecdd08571eb81bc7cb7c55cf29cc1192aa0628b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 17:26:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯云Team Memory来了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/rrQxZjzcwoHjqC4YgQcibsaibw5OLN3HoVOiciajDLshNRU4EBdmdAoyqF1yKpJRVgX5CxnqIgn6A1RDC1ExoYI7ZWwzGYPj6hS99I7aUmtiafYk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Memory支持团队记忆了！腾讯云Agent Memory 2.0.0大版本已上线，全新升级Team Memory，将长期记忆能力从个人扩展到团队协作场景。以后，团队与Agent协作过程中产生的代码知</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499219&amp;idx=1&amp;sn=85f09ec028b9a3bd9a9135a4d11c9b76&amp;chksm=c03ee206c01429a75e2ff5d38fcf543b69b566e30e2a688d2e0f0835aea21479d9e475c6f769&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.08.21~08.27)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq87BLHZ8qBnE4bY6MrjdZcG1aPhdryxAfJdNbECfbjUHuMDlohtsYx32xzFT51OVAo3YFiazvPh7wiclDX1mQwTyPetibWS4KZO8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.21~08.27攻击团伙情报BlueDelta 利用 HOOKEDGE 技术瞄准国防和外交领域UAC-0099利用新型多阶段恶意软件链开展攻击活动Tortoiseshell：全新工具集</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520096&amp;idx=1&amp;sn=e2b5d62ad122417b76ffd4b416fddc54&amp;chksm=ebfb328afd58abeb8cc9e8a8bfe23b97477d8bdf39005d24d7f9b2f5756dd26102b21c851e60&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 28 Aug 2026 14:43:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[npm 供应链双重威胁：AI 远控植入 + ClickFix 钓鱼存储]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8VJHIwZLJqyhuMeKbZspAmFxuCrc37u4YOWjKwlla0ht1F6syuSFu6B3aaKozX1ujKUGic0nhATvkpsgoqV9FTGDhHrb6I1Z1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 威胁情报npm 供应链双重威胁AI 远控植入 + ClickFix 钓鱼存储同一个 npm 生态，两种截然不同的滥用姿势：一边是把恶意包做成「功能真实的日期工具」，一次 import</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520041&amp;idx=1&amp;sn=d6c2f6dff18ee2a3a81507b59e9f60b6&amp;chksm=eb95a6a6a16cafea39585d972f22fb4e982f4accbf12829a9bfb8c154d274785a82d192221d0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiclsCqfgNg3RpGFcX4XwcS2ZvnDD9t73Q3bVYQsxmSibjHs7LSVQZRZ8mQlMf9WicT82xxmIibau1YWsjucTW8yJC9hU5YfrzeRNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.08~05.14攻击团伙情报EasterBunny：归因于 APT29 的高级间谍工具Kimsuky组织依托GitHub+Dropbox分发恶意载荷的攻击活动分析Lazarus Gro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518815&amp;idx=1&amp;sn=bc9a60ac5943fb9a8e839c9be78483f8&amp;chksm=eba3aaa702afa9bd3fbb51f368757ae5a4e9ba88905d97cc829b51fa650ee699c4ab7132ffe3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[秘密活动6年的神秘黑客组织Mr_Rot13正在利用cPanel高危漏洞部署后门木马]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicPwQLR0Pf7EViba4XkgfGMbYH7fk0fZrD0pzQHoZsicK9MYfcaxXmjjg20gF5T7jGQyrHt1ah6xll36ficPIFtLmSOmceQkYficaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景CVE-2026-41940 是一个影响 cPanel &amp; WHM 的高危未授权认证绕过漏洞。该产品广泛应用于 Linux 服务器运维与虚拟主机管理。漏洞 CVSS 评分高达 9.8（Critic</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518785&amp;idx=1&amp;sn=8777ef11aef31d8aa6472fc48d7a53c2&amp;chksm=eb018e908b496c5191629b57a696aba5d934c8f7ce98c4339f0f8de0db163a8322772ad87401&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
