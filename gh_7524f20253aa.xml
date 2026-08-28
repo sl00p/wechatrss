@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[宇树G1 EDU人形机器人曝Root级RCE漏洞，蓝牙临近即可触发]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX05ZLibggvhYtsq0GHTCMNd1icRw4cVvNOmgYoDbrukOSSGhuFaKBw9iaEECYCFmbTjHpLEUkHIsL2YVicJv39eaMuNZn82k6NtdqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Olivier Laflamme披露了两条相互独立的root级远程代码执行（RCE）攻击链，影响Unitree G1 EDU人形机器人。其中一条攻击路径经由低功耗蓝牙（BLE）即可在机器人的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=1&amp;sn=3540b0400b493695a0ee4dc745b700a0&amp;chksm=bc330b647ef05ccef5f875204f704d9962e4501f39072b6544434315d9a48479f32a12ee3e9f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Code Opus 5曝提示注入风险，Auto Mode可被劫持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Lib5YjWzpzaazTrVl0fBS6TFBQzl4m4mlOxJPgrf78N6jwCQc5ic0Yjx06nE02epQQogm2Bv8Ep9a5Ga17ibSbibtz2oTZ6YaJDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code Opus 5在Auto Mode下，仅凭一个看似普通的网站摘要请求，就可能被诱导执行恶意代码。据一项受限实验室测试显示，该攻击的成功率在60%至80%之间。这一发现来自Embr</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=2&amp;sn=356e9141a2397aa45c544110576e4104&amp;chksm=bc5bf490e6f1417988d37fc564d7327b2c6e91a38a0783b84d90d35843c31360a77a93e14618&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA收购Hugging Face，估值或超130亿美元；“豺狼行动IV”逮捕58人 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！💰 消息称 NVIDIA 收购 Hugging Face 估值或超</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=3&amp;sn=8dadcc4fdfd38f18f037f41ef5cdf6ac&amp;chksm=bc214858b018b9b9256d0530f60c23a9289a45b58243ea5e44231e71c1eb2ae4902d718bc4b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[持久100小时！网安界首个Agent不间断渗透测试直播，9月7日全网围观！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2VBCRxMplEGHgxymWiakHlXQHPPo6qYBO1KjicCwgNeiaE6VUmjgSSPmfRcQ9b1xu8oameOYg1NI8Xxdg6hQXOiboR3b62aOYtXaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=1&amp;sn=333d02f8cfc3dabb0b9cc89d5f6708fd&amp;chksm=bcae2caf78d08e767b6513e7e54979bf13bd21b9ffc4b0c12a1897485ce833ee33bef493e4e4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AnteAB5ibuq8Nh2b74nz6or0ibDBqAicSfU8ZxIwqrv1HK7YsoQWqB9UwCd3jc4zsNEBgb7G7aDRFT742a6tiadzc45WDE717xvM/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个AI Agent突破了用于隔离它的沙箱，将自己暴露在开放的互联网上，随后对另一家公司发起了攻击。这次攻击并非由人类执行。AI Agent在没有人类实时下达指令的情况下，独立选择并执行了后续动作。O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=1&amp;sn=ad4f216e9a80d09b2c12ea3b87a448dd&amp;chksm=bc74a02d44f0599d25ffa715993b885f683c87e65cda78c4eeefd033e124252bc2fd63a5aae9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Gists沦为黑客C2信道，HACKERAI恶意软件曝光]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0IDkFJ3D6WRm4WkvzlibwOHp59oSOBdN4cDr2ZDQqO7X870WvIWSibibTyURNOVpTjujcb0nTG5ias2YIWXrWtqmkJdFOswBTurto/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01HACKERAI恶意软件一个新发现的恶意软件框架HACKERAI C2 Agent正在利用GitHub Gists作为隐藏信道，传输攻击者指令和窃取的数据。该技术让操作者能够将恶意流量混入</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=2&amp;sn=e676720e477a8f039fb6bb18e4858705&amp;chksm=bc6cffe5420b975a6023d094a52d619dee5716f75e07534770c20083c0d46542a6bf8142f9bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[macOS遭新型窃密攻击，AmnesiaStealer可远程控制浏览器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2uF5Hm2NSdalExdMq4Z9ia8P2FnmicudOvuaAq3rJRDPVnAsCx1bMgJH2faiaibicq9NR59ibofMPZiaBib2BXCVzZyseaiag8jgs1yX2I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01仿冒GitHub页面进行攻击Jamf Threat Labs的研究人员披露了AmnesiaStealer——一种新型的、基于Rust的多阶段macOS信息窃取恶意软件。该恶意软件利用Cli</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344707&amp;idx=3&amp;sn=684d320490d34012ac190ca3f04bf0e5&amp;chksm=bcc91bed9c2303ce43e104b478bc371eccc0e2e973f23b9c9b7edcdd1befc030b49e3e806e63&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Token Jacking攻击窃取API密钥，导致近百万美元损失]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3G5k0lYoqpO3gk2ures2Q6oMZfuIEaqWUl9l0iaq390zCbLRIEjvHibJQTxyPuEcfhopR8liapMKzaHqJkLZeNaj2iacfUUozPicc0/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI凭证正成为犯罪分子的目标。一种日益增长的滥用方式——AI Token Jacking，让入侵者可以窃取API密钥，并在他人账户上消耗昂贵的模型服务，最终导致账单突然飙升。这种窃取并不局限于某一种入</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344664&amp;idx=1&amp;sn=c3fb411148aee7c90072806f1aa4128b&amp;chksm=bc4573e34a33de2dd165e6bdfa14bf7f7649b9b4eb005c5a1c0b10281643518ab617dc46bcd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 15 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

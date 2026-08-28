@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[HTB Nimbus渗透测试靶机 Writeup]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1DsZGs1EP2ibeM0Kep8eYFakR26qcBJN6p0uPU1MMVpSu5tLTv750rE0OVLlVJkQpgAosI5xw2xtngFz1YRibazmLQYJnqLnCiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本WP旨在讲解HTB上的Nimbus靶机。这个题考察了包括aws、ssrf、容器逃逸等诸多知识点，天天打ctf的我基本没接触过aws，只能一边查一边学，兜兜转转的写了几百行笔记还不知道覆盖的全不全。初</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619031&amp;idx=1&amp;sn=c049e90e9e21461f5ce9db0847b5772d&amp;chksm=b01ae586b8b3471a3fcca562599a2af9775266d5ba282054fc408c3d35670d23ac569c92c712&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 17:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抢先体验！看雪课程播放器正式上线，安全高效双升级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1fTfMiaczyhJIft88PRKDtyj4agqbhws0UbLHJlqgWVRNSUdogRPJU1g2yY5YtutAEDZricmtfDMqUniaxibNNQzqJIGXbzicNfJYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经在看雪购买过课程，建议你试试——看雪课程播放器。它不是简单把网页搬到客户端，而是专门围绕课程学习体验与内容安全保护设计的专属观看端。对于部分高价值加密课程，播放器是专属观看入口；而对于大多数</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619031&amp;idx=2&amp;sn=525db3183f77b1376edf7870a66052fb&amp;chksm=b0a3e1421f336f80b968d97554328cc8e67f9d4f09e063f5b5a392f89c937604752b364f3dae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 17:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当高频观测不再经过异常路径：Shadow Cave 与常驻式插桩架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K29cDclSgsVLe5q7C6nAtRwO2gRlViaOn8bhuFFjvgiaUxPqTpROJyGwSI7VEsH2mmKKUiaYqglmITI0ENwPN7Pcuda3mQibbubRFU/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统动态插桩通常将一次命中建模为异常、回调或翻译事件：线程被捕获、现场被保存、观测逻辑被分派，原指令执行后再恢复。该模型语义清晰，但在高频逐次观测场景下，异常往返和运行时分派会迅速成为主要开销，同时直</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=1&amp;sn=5a500adeee5194bc8b270c6819973a89&amp;chksm=b0ba01fa80d0045a538e243af1d0233d1f99a1b7fbb51e1145227c56e04116d79e2a46454d2b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[从 r0capture 到 eCapture：Hermes Agent 自动抓包在真实任务里的价值]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Su65picFNwSuQQJpNq9fotNhL59PDHkia9jW5Ovx30Eg9XENXhU7VNMn04TtYibWF5eYBhjNr3BNiaWQaNHLVh6CkXXXQqTG1l2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录一次使用 Hermes Agent 辅助完成某APP抓包、踩坑、复盘与业务接口分析的过程。重点不是单独介绍某一个抓包工具，而是复盘一条真实移动端 HTTPS 流量分析链路：先尝试 r0capt</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=1&amp;sn=77bdb73ed02c2ca4234d6e63120c9282&amp;chksm=b0eb75b92e0ffdd9f1642de473ce4e1b1b6f8ab5a8e8f69bcd1808bef213e51cbdc82022cb5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ClamAV曝出7个高危漏洞，远程可触发杀毒引擎拒绝服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0AB2jvickiboeLVENs7Eia2xSuEfDmmm5dRoQybuTq7UoLAFJ52oREaiaB61AxZiadqPgfh5RHZjXAs4BZmpaE7uStpgKQlDYm3UXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科披露ClamAV一批高危安全漏洞，未经认证的远程攻击者，借助特制恶意文件，即可让杀毒扫描进程崩溃，造成拒绝服务，直接中断恶意代码检测能力。01事件概况思科于2026‑08‑07发布安全公告`cis</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=2&amp;sn=238e162f45daadcdd87812141a952284&amp;chksm=b08467376443c8f59de530e85f3a84b88cf3f7a7f6f8633612d823521c083fc090ba258f81fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF 赛况 | 巳时关卡『RST』战队 “一血”到手，头部梯队激烈角逐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K35o2Sic8r9mBKt4bsWb62iahEw4wmkYKmmKencRusmFA8RajuN4qw7VDMULh2YHrMaLxwq3gjE9g21y83M6X9VqL0oQibdy9DENY/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。第二道时辰关卡《巳时·绿光幽语</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=3&amp;sn=81ba83f4c07ec6b989fe3c5efaea7aa5&amp;chksm=b071e52ea48151eb67a3d08f9c19137a762098c27bdefb6f311a326503aa42e326479ec7253f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>

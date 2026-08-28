@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[有童鞋问我，按照传统的<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mte7ut9s-zbj0q7" href="">#AI编程</a> 流程： 1. plan模式把PRD+arch.md生成PLAN； 2. code模式执行PLAN，生成代码； 最终得到的系统，功能能实现，<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mte7vi66-gbux8g" href="">#架构</a> 也没问题，但样式像“抽卡”，五花八门，奇形怪状。有没有什么办法来生成确定的产品样式？ 这个问题，是在AI编程的过程中少了一个必要的步骤，少了一层设计约束。 我有一个大几百行的.md，大致长这样： # 设计规范 使用方式：AI 生成任何页面、组件、原型之前，必须先读本文件。本文件未覆盖的场景，按"设计原则"一节的原则推断，禁止自由发挥。 ## 1. 设计流程门禁 设计分 5 层，逐层推进，未通过上一层验收，不得进入下一层： ``` 概念层 → 结构层 → 低保真层 → 高保真层 → 原型验收层 ``` | 层级 | 核心问题 | 必交物 | 准出标准 | |---|---|---|---| | 1 概念层 | 解决什么问题？为谁解决？ | 概念规格（见 §2） | 产品定位能用一句话说清 | | 2 结构层 | 有哪些页面？如何流转？ | 信息架构与页面地图（见 §3） | P0 页面全部列出，主路径清晰 | | 3 低保真层 | 每页放什么？布局如何？ | 低保真可点击原型 | 核心流程可点击走通 | | 4 高保真层 | 视觉风格是什么？ | 视觉稿，必须遵守 §6–§11 | 与产品定位一致 | | 5 原型验收层 | 交互是否完整？ | 验收 checklist（见 §12） | 全部通过才可交付开发 | 小项目可合并层级，但概念层和结构层不可省略。 ## 2. 概念层规范 ## 3. 结构层规范（信息架构） ### 3.1 信息架构树 用树状图表达产品结构，层级不超过 3 层： ``` 产品名 ├── 首页 / 核心入口 ├── 主流程模块 ├── 全局页面（个人中心、设置） └── 转化 / 商业页面 ``` ### 3.2 页面清单 ### 3.3 核心路径 ### 3.4 导航与状态 ## 4. 流程层规范（多步骤流程） ## 5. 低保真原型规范 ## 6. 视觉规范 ## 7. 组件规范 ## 8. 交互与动效规范 ## 9. 响应式与适配 ## 10. 可访问性（底线要求） ## 11. 文案规范 ## 12. 验收 Checklist ## 13. 红线清单（禁止事项） ...（限于篇幅，细节省略） AI编程过程中还需要哪个步骤？ 如何使用这个md？ <a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mte7vymd-r3s2kg" href="">#架构师</a> <a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mte7wnai-tw3t2f" href="">#程序员</a> 要考虑这些吗？ ... 几句话可能讲不清，直播和大家聊聊<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: #576B95 !important;" topic-id="mte7x24k-c9lmbh" href="">#AI编程</a> 。 一些浅见，希望对大伙有帮助（md开源）。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>有童鞋问我，按照传统的#AI编程 流程： 1. plan模式把PRD+arch.md生成PLAN； 2. code模式执行PLAN，生成代码； 最终得到的系统，功能能实现，#架构 也没问题，但样式像</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981485&amp;idx=1&amp;sn=52cc6c20ca665b3e3153228a84ba3983&amp;chksm=bc25f50a663a47e60a25db7ecc36e498e5b6c70490396786df3b0c9be409d2359b42c52ea38e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 29 Aug 2026 18:10:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[判断]会越来越贵。 AI时代，有三项能力在迅速贬值： 1. 手写代码的速度：我们敲一天，AI只需要几分钟； 2. 语法和API的熟练度：AI见过的文档，比我们多无数倍； 3. CRUD的熟练度：我们曾经是饭碗，现在是人人的标配。 但是，也有三项能力在升值： 其一，把需求讲清楚的能力。 PRD写不清，需求拆不明，AI越强，跑偏越快。能把模糊的业务需求，给AI讲清楚，这本身就是稀缺能力。 其二，技术判断与架构约束的能力。 "保持代码清晰、可维护、可拓展"，对人是原则，对AI是空话。MVC清晰，DDD清晰，洋葱架构也清晰... 如果我们不收窄它的选择空间，它就用概率替我们做架构决策。 给AI写架构规范，本质是什么？是把我们二十年踩坑的经验，蒸馏成AI可执行的规则。经验越厚，蒸馏出来的东西越值钱。 其三，质量兜底的能力。 大部分公司，用AI交付线上系统的，目前仍是程序员。为什么？AI无法为质量兜底，还是必须程序员为质量兜底（背锅）。 AI抹平的，是"手写代码"的差距；抹不平的，是"技术判断"的差距。 那么问题来了，如何通过AI[讲清楚需求]+[做好架构约束]+[保证代码质量]呢？ 一些浅见，直播聊聊，希望对大伙有帮助。 欢迎预约，直播间不见不散。 AI的能力这么强，还有程序员古法编程吗？]]></title>
       <description><![CDATA[<p>前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981483&amp;idx=1&amp;sn=dc2d89fee35f1a07f34bc89897ae4c58&amp;chksm=bcf25045f7966c8da45976c87f9565f64a768f167d51076763bde14f8ff095fbce9784f8a93c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>你有没有发现，坚持养虾的人，大部分是普通人，而不是程序媛？ OpenClaw之于程序员，无非是一个新的工具。程序员每天的工作就是编程，本身就具备很强的自动化能力，用了一段时间，不顺手，程序员会说：压</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981146&amp;idx=1&amp;sn=3528cbb2b90676f4b7039aef9e193ab9&amp;chksm=bcf72b33f9e52fcf0209eb329a3e9ff0e866717a46e78f5d18afa1cc2f0774652afaa7a31f8d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 16:44:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用AI编程的普通人，明显已经肠道了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊，普通人学AI编程，究竟要学些什么？ 至于内容，会简单讲讲新手学AI编程的路线： 1. 入门：基础知识； 2. 小实践：智能体，工作流，skills； 3. 中实践：网页应用，小程序，移动应用； 4. 大实践：从idea到创业产品； 最重要的，还会聊聊，快速学习AI编程的三大要点，掌握三大要点，学起来速度能够快好几倍。 多说一句哈，内容是针对普通人： 1. 零基础、对AI编程有兴趣的个人爱好者； 2. 想要系统性了解AI编程的职场人； 3. 想实践AI编程，但尚未动手的技术人； 4. 想通过AI编程开发自己产品的潜在创业者； ClaudeCode，Codex，Cursor玩得溜的大神不太适合。 你了解AI编程吗？进展到哪一步了？ A：不知道怎么搭梯子 B：不知道用什么工具 C：不清楚原理与步骤 D：清楚原理与步骤，尚未动手实践 E：已经动手实践解决自己的问题 补充说明：所有分享的工具不需要搭梯子，不需要搭云服务器，国内头部工具，新手极其友好。 今晚直播间，欢迎来玩，不见不散！]]></title>
-      <description><![CDATA[<p>用AI编程的普通人，明显已经肠道了甜头（我就是其中之一）！ 今晚21:00直播，和大家聊聊，普通人学AI编程，究竟要学些什么？ 至于内容，会简单讲讲新手学AI编程的路线： 1. 入门：基础知识；</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981143&amp;idx=1&amp;sn=3f586555264a49d9cf33598bad3981db&amp;chksm=bcb4f09b2913d9ba64152f554db06e820cc18cd452253a0a690c8b2be4d95adcdeb42019f0a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 11:46:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
