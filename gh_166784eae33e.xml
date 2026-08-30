@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一句「npm publish」评论，撬开一条可信发布流水线：openapi-react-query-codegen 供应链投毒事件深度复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicLlygMMofwNhvYoPQsbkv7q1z42c11FEtvsKZ3aSCbniaDAvkTsgy1WOice0WmH5fzD3bGsmiaOfC1Cq5G90woDHSqJsOXia1icVxs/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全深度复盘一句「npm publish」评论，撬开一条可信发布流水线openapi-react-query-codegen 供应链投毒事件深度复盘：十个恶意版本、约 15 万周下载量、全部携带</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520121&amp;idx=1&amp;sn=4e6bf34e5da77781c4ca95360c1a5842&amp;chksm=eb6a8baf7038f800947dfa0c78a8becd8c57feb76684e567d3b49560ee2556ee04339be2cf6d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 15:44:30 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.08.21~08.27)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq87BLHZ8qBnE4bY6MrjdZcG1aPhdryxAfJdNbECfbjUHuMDlohtsYx32xzFT51OVAo3YFiazvPh7wiclDX1mQwTyPetibWS4KZO8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.21~08.27攻击团伙情报BlueDelta 利用 HOOKEDGE 技术瞄准国防和外交领域UAC-0099利用新型多阶段恶意软件链开展攻击活动Tortoiseshell：全新工具集</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520096&amp;idx=1&amp;sn=e2b5d62ad122417b76ffd4b416fddc54&amp;chksm=ebfb328afd58abeb8cc9e8a8bfe23b97477d8bdf39005d24d7f9b2f5756dd26102b21c851e60&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq856YXUsm4nrXicmUEIg2A3PngLkialEib1ngpPG6kuL1KolaqjzYCKw37ibdG109WqoKfDaAo9B58khqF6KKE1mfkiboDukBLgKcrc/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述微软于近期披露了一个影响广泛的高危零日漏洞CVE-2026-42897，该漏洞已被确认在野外被积极利用。这个漏洞来得猝不及防——就在微软发布包含137个漏洞修复的补丁星期二更新后仅仅两天，安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518833&amp;idx=1&amp;sn=2a77ea8001191d2debe33540842c66e4&amp;chksm=eb7c1e16189accceb08d1da99b0aef3973044d6e91abcc19b05faab1794657e99819b7b8dca5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 11:31:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.05.08~05.14)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiclsCqfgNg3RpGFcX4XwcS2ZvnDD9t73Q3bVYQsxmSibjHs7LSVQZRZ8mQlMf9WicT82xxmIibau1YWsjucTW8yJC9hU5YfrzeRNw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.08~05.14攻击团伙情报EasterBunny：归因于 APT29 的高级间谍工具Kimsuky组织依托GitHub+Dropbox分发恶意载荷的攻击活动分析Lazarus Gro</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518815&amp;idx=1&amp;sn=bc9a60ac5943fb9a8e839c9be78483f8&amp;chksm=eba3aaa702afa9bd3fbb51f368757ae5a4e9ba88905d97cc829b51fa650ee699c4ab7132ffe3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

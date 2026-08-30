@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯混元 Hy4 preview 发布了，站上开源模型第一梯队。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hkZVONBQIhpBarxcLm0vBgqvnnT4bIsBPrbxNQq1Kjd57aD3RVFgjyJFC8rGBSVyP1aWHoBo1Qfic46tibBxbicqTuMddEGZn8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯大模型混元 Hy4 preview 发布了。直接开源。总参数是 770B，激活参数 49B，上下文长度是 1M。相比上一个 Hy3 模型，全维度提升。目前 Hy4 preview 已经接入到 W</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536414&amp;idx=1&amp;sn=1e93e0621638b9b14682328a890b63e6&amp;chksm=f85e8aff02f7ca7efbcae5968b043629562aad83f387c356cfd2adf2b313550e2085e4101333&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 10:53:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 2.5 万星星的开源 Skill 让 AI 画出漂亮图表。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fxiafKM8LxxuRETCVvDRBUwibEjXTRfEYV2SIVp03av4c2mvFsN7wEV9FX4F9vIWVus5ULd1BKgyEl40qRbGAhGeNQTRLX0ODE/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候就看到了这个开源项目。这是一个做图表的，登上 GitHub 开源热榜，而且已经到了 2.8 万的 star。研究了一下，他这个画的图表的好处是能够直接拿去用。啥意思呢？很多用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536259&amp;idx=1&amp;sn=76854c4497eb2738decab0294cb4a149&amp;chksm=f8b512565af72a0f472c58372f67163bba3271c2690a526bbcb19e17427e96cdf058789e007e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2ibUTwJgfc0zTqdjuUWJrjf29I2nxQDdww8nAibPKDjYdt3tibG3FSFYtQFT62KdicKDNZFeDRXbzWpPOIaXeFEL9uwefj3DgeYLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Karpathy 2026 年 4 月在 GitHub 上贴过一条 gist，标题叫 LLM Wiki。不详细介绍了， 之前提过。大意是说，理想的知识库就该让 LLM 自己来读、自己来链接、自己来维护</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534782&amp;idx=1&amp;sn=68b619e09e4e00e7b1d78a925a778d3a&amp;chksm=f86dc6989f1209773e73d033068d9d59b838dffa6a3c559e183fe1cee13092463609668636a9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 13:08:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 GitHub 开源的音频生成大模型太惊艳了，有意思。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU21Lco77ic8c5ZJesVT1KapGyUdqET0eBFJn2TmF5upAB5f0U5NEE5MfsCGNRmQVmqfDYjRO29yqibNUic4lvQFiciaXFmPN2HVsvrA/640?wxtype=jpeg&amp;wxfrom=0"/><p>先来看下面这个视频。主要是听听每一个场景的配音。这个视频中，风刮玻璃、狂野感的森林环境音和鸟叫声、火球发射后爆炸声音、布鞋踩在松软草原的声音。这些一系列场景的配音都是 AI 生成的。也就是通过今天要推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534781&amp;idx=1&amp;sn=7e0d30b3b621dc9af8fe7491d6964898&amp;chksm=f82b5bce24413410c668dcafca5377d93fb6a33db6de1c1287cc7bb05bd91d62e98a0649cc7b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 14:59:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[仅剩10天！SDC2026『议题征集』9月10日正式截止，欢迎提交议题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0MbAeD25BHkC91AyFwqf1vthkuKjlokWS0qFEYbJWrLbDTIyczNMXGt0L1fL6xSQ2kibK0m0V3NhJiaibbWiaLZD6n2lo8mNQSEp8/640?wxtype=jpeg&amp;wxfrom=0"/><p>⏰ 议题征集 | 9月10日截止从首届安全开发者峰会启程至今，SDC 已历经九载深耕。我们亲历网络安全行业的高速演进，也一路见证无数安全开发者的迭代成长与技术突破。2026，属于 SDC 的第十届里程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=1&amp;sn=e439f1791d5352b3ab2ee823dd02fb1c&amp;chksm=b0155e804e26090139505220e23821206830e23a499e226803c696c19ea4231bb184ae50e2fe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[商业级加固 Native Loader 与 VMP 解释器逆向分析实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1NeVNjX3k0XzI0gcgY4gr0e5n3TbZwIktGdGjY3WnsTazOY1TJVbFyzCqNkVHceZggMeT9NVUaicCC02l0Jz6sZ04JwRUuaQ7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这次把 某商业级（com.mobile.demo_target） 从加壳到加密算法完整啃了一遍。真机走 SysTrace 定制 ROM，用 unidbg 离线模拟，主要做了这几件事：环境与思路SysT</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=2&amp;sn=377acdc201dac0f7cf8fdfdbe377dc96&amp;chksm=b04f88077d39f01ff9b9b7d33ae7f849033507a02a3a10c6cfb15b51022695a8427aef9f7c04&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软UFO高危漏洞：无需认证即可远程接管安卓设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0hch5F7gr89iaalMQ7r0pJL2Gia5RRzaMKO7cl3CRlrc9Ryb5pzj2B2fM10Wmn0sicAos6ribwBzmzOYX53xvDf9OTMndTLM5iaee0/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软开源项目UFO曝出CVE‑2026‑73296高危安全漏洞，CVSS评分高达9.4。在特定部署配置下，攻击者无需账号登录、无需用户交互，通过网络即可远程读取安卓设备屏幕信息，甚至直接操控设备执行各</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=3&amp;sn=37bbafc471b9233f1d5d0f24a2d66313&amp;chksm=b0edaf84472a138dec9ccdd6d9f2ba3a7c334f954e21e265b1023e222bf7345875f7e22bbb32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[HTB Nimbus渗透测试靶机 Writeup]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1DsZGs1EP2ibeM0Kep8eYFakR26qcBJN6p0uPU1MMVpSu5tLTv750rE0OVLlVJkQpgAosI5xw2xtngFz1YRibazmLQYJnqLnCiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本WP旨在讲解HTB上的Nimbus靶机。这个题考察了包括aws、ssrf、容器逃逸等诸多知识点，天天打ctf的我基本没接触过aws，只能一边查一边学，兜兜转转的写了几百行笔记还不知道覆盖的全不全。初</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619031&amp;idx=1&amp;sn=c049e90e9e21461f5ce9db0847b5772d&amp;chksm=b01ae586b8b3471a3fcca562599a2af9775266d5ba282054fc408c3d35670d23ac569c92c712&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2uC0opeh8YqM12XcewrAz17rMmjIBThlYC7nEthS6WxGziacXuOL0dCFD3Kibkic4u8DSqs6ib3rpw0enQ0xp7ZdSpcQS4g52ocfo/640?wxtype=jpeg&amp;wxfrom=0"/><p>数字化时代，数据泄露、网络攻击、等保核查、项目招投标…… 每一项都卡在「专业安全人才资质」上。随着《网络安全法》《数据安全法》落地、等保合规、政企招投标门槛收紧，网络与信息安全管理员已被列入上海市重点</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618567&amp;idx=2&amp;sn=bab2bf94397f399c9d7c8a40e34390f6&amp;chksm=b0260224d15b568c233a8d4b13aefa12c20a01183da555d352bf0a06c10bfc603d62ffd97fe3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Aug 2026 18:02:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Lazarus 组织利用 Windows AFD.sys零日漏洞投放 FudModule 内核 Rootkit]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K10gQC5z1yAejcmAxN04ngmgJAKp9IXaE9mtNouEruypx2rNLoIbZEy5eJIjsyABJRttOSFEhC79IXlmQKwj8DhIrQYJ04hSJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Check Point 研究团队披露，Lazarus 黑客组织正在实战利用一处Windows内核零日漏洞，投放升级版FudModule内核Rootkit，该攻击隶属于代号Dream Job 的间谍行动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618567&amp;idx=3&amp;sn=8dc784b6eb4841a0deb858b515724e91&amp;chksm=b0522fc9969a7daf020c90598753ba963b4ec61871b6b9349a9768a343e681bfaa9e4e6bc333&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Aug 2026 18:02:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF 赛况：「您的名称过长」战队用时5小时10分9秒攻克第三题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K364V1pUw8OgCAjBQibUOkNFzBteeMD3PINPHIw0WOQu664qLP44ia6zE9qHGuc7z2w8OXF2ryY5YeyKjMPWBjCgpK5f6ZZSldic4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。第三道时辰关卡《午时·永数囚笼</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618567&amp;idx=4&amp;sn=ff49aef1d594df0285c976da128cf831&amp;chksm=b0686fbebb93771542585165d2382477d07ebc8e3ff561cb52c7ab5537796e469bde7b5171ea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Aug 2026 18:02:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 r0capture 到 eCapture：Hermes Agent 自动抓包在真实任务里的价值]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Su65picFNwSuQQJpNq9fotNhL59PDHkia9jW5Ovx30Eg9XENXhU7VNMn04TtYibWF5eYBhjNr3BNiaWQaNHLVh6CkXXXQqTG1l2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录一次使用 Hermes Agent 辅助完成某APP抓包、踩坑、复盘与业务接口分析的过程。重点不是单独介绍某一个抓包工具，而是复盘一条真实移动端 HTTPS 流量分析链路：先尝试 r0capt</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618507&amp;idx=1&amp;sn=77bdb73ed02c2ca4234d6e63120c9282&amp;chksm=b0eb75b92e0ffdd9f1642de473ce4e1b1b6f8ab5a8e8f69bcd1808bef213e51cbdc82022cb5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

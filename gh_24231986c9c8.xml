@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CloudLens for TOS：打通日志分析与数据透视，让对象存储可见、可查、可治理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fee7xkcoPUFasGqEqe82d5LiaoAmGlvW5ITJicBFiakhjDeOosxDGHOM3pic8yNYcbZJqjEfFdy9fOdjiaMl4pDJGu5icKwtfKY2KvVeM/640?wxtype=jpeg&amp;wxfrom=0"/><p>从“存得下”到“看得清”对象存储 TOS 正在承载日志归档、音视频素材、备份文件、数据湖和 AI 数据集等越来越多的核心数据。随着存储桶（Bucket）数量、对象规模和目录层级持续增长，团队面对的问题</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521877&amp;idx=1&amp;sn=0a0633b5daac6e93db59009212cb3e93&amp;chksm=e8df37e4b3b2963c7c005a9ba6aa614058eb1b1300dcf9a18d36e7c27096e0aa341fabc3b87d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ADrive 跨产品协作实践：文件通了，Agent 就通了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeasVU27bEqy4s2zHSic4XVpxDQW76Yk5UDDvtmfmrwwsd9Aqpk7HC1hZeSZzhX8zQ40VnAPf2xB7xDnRXTG7ib6iaJnl91ZicQVgA/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文基于 ve-adrive-cli v1.0.2。文中的品牌、项目和文件名均为演示示例。Agent 已经进入内容策划、素材制作和发布检查的工作流程，但文件仍主要靠人工搬运：资料散落在本地目录、聊天附</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521712&amp;idx=1&amp;sn=584ee46d8b9021b56004a8a7e318e2d0&amp;chksm=e8fe12061bfc53edfbee024ad2563c1482681f1044a4f0147a8b3b61a426567c4977767138c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fecg7homcibehVP4ro7r0SGke8j0AHib47tfpNIFRl0Lfb0XssDsptc4IgHufNaRIMqYXVf0Pw8wVVq2QI0eepmVEOMZZLrspeErA/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言：现象级爆发与安全崩塌：OpenClaw 启示录2026年初，随着 OpenClaw 等自主智能体（Autonomous Agents）框架的病毒式爆发，人工智能领域经历了一场深刻的范式转移。从“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519254&amp;idx=1&amp;sn=59a6b003989511a6a221574c354b452f&amp;chksm=e87211ed4dc31c63185f0e091246a50f30f8d9738db2a4491b123c43450e449de9f19c9d6b21&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Apr 2026 17:27:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVPR 2026 | 火山引擎多媒体实验室提出TempR1，显著增强多模态大模型视频时序理解能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedG5sVP3icUjKuI7LS5egLzMuYds9yZvS3zvcPBMDjbJndXTDzhyiaPDIibChnqQoa4DNjSTTGDJzSPP8fJibBUhQdQ68PSXBYaibvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在智能视频检索、人机交互、长视频分析等实际场景中，多模态大模型（MLLMs）对视频时序动态和语义的理解能力至关重要。然而现有方法要么局限于特定时序任务、泛化性差，要么因刚性监督导致过拟合，难以捕捉细粒</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519230&amp;idx=1&amp;sn=209fae1cf3181ef41ad3d6ed766ea077&amp;chksm=e841612d4be39bd94b385ca12880e95d49b7818118463136a011014c402bd5e35c79fe7d99ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

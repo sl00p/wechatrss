@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[100小时无休试炼，Agent自主渗透如何扛过4天4夜？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2fCxXnBtyTO33LaPgkqibAFwVOPVOUaemPdY574OCO2CfbBiaP4ekKVyVk0DJB1XuO7HSGOB6rQbAw1eGoeqjJo0WxpIaFhYjhI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI驱动的自动化渗透测试，正在成为今年安全行业最受关注的赛道之一。从厂商到开源社区，各类工具轮番上场，Agent在短周期、单目标任务中的能力也在快速提升。但任务一旦进入长周期、多轮次、需要持续决策的复</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345795&amp;idx=1&amp;sn=61fda3d253843ad41f18ad3d78e5d528&amp;chksm=bcad7306ed3d31c67324cc5f4c9c1e0dd78c7bc89169625673929ca8375f235c2f7e3beb9e37&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用窃密木马盗取Claude会话Cookie，绕过2FA劫持账户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX05otpQ1VMjv73KDicZjnxalibz3jcLicjpdZH447W907iavfm8ibBHARcrZ1HeUjc0Eczwu9ia0AaEibWEpMhTftB2X38bBIgiayHW4JQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01会话劫持与额度盗用Anthropic旗下的Claude AI平台已成为网络犯罪分子的活跃攻击目标。目前已确认存在两条独立的攻击链，分别用于窃取凭据、劫持付费使用额度，以及在清除后仍能重新感</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345795&amp;idx=2&amp;sn=8a60ddd353d80375e95a2487410b436d&amp;chksm=bc60f21fe82f8e3c8df60cf9d4376a99321e86773db1148ae9c426afad15ceac37586316a5d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[免费调整路由器DNS，可拦截家庭网络中的恶意软件和钓鱼攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0ibmUtrnTr3Doia8rq8PeQYUvLaYVIEGaWIoEbmIlgn4ibDkm7nGOLYrIJphUJrDPgctkFNTbTytJo7iaXsahHWk2qnA20ickPMhpg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项路由器配置调整正受到越来越多的关注，它能够为网络提供一道额外的防护，抵御钓鱼和恶意软件攻击。网络安全评论员Luis Catacora建议用户将路由器上的默认DNS解析器替换为Cloudflare的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345795&amp;idx=3&amp;sn=b0d37381b7c1a396feca283201ad1d42&amp;chksm=bc3a7d2710393ec2f89b8c271a9702810ff09a443c3d9f59024dc1312efa477522b91a2c4d28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VulnCheck接管ZBT路由器后门，数百台设备已在公网暴露]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gmpsalBXuHsko89LeiakopPa1ADWbGgV6s2ic5GKDKibBdPJwYbuKtJeLXynG0wl43xXwicUpiaUcOlhtKlDsZV9RLxcVibZiazepmE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01要点速览VulnCheck在全球销售的ZBT路由器（包括亚马逊平台）中发现了固件级植入体。该ZBT路由器后门允许未经认证的攻击者通过互联网获取root访问权限。研究人员将相关缺陷编号为CV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345795&amp;idx=4&amp;sn=b580acc786115b9a19b714105d8668f8&amp;chksm=bce3c6013366cbcf236a1e5dc6a21bf5e20210a2ab761832db1f87ee549132bd363c4643f068&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Agent遭劫持后的24小时，传统应急响应正在失效]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1zng0ib6KeV42v00OqVsmfrwhN09KDLFrZwj9BcbawKpWSUNKdsFQYO2uE22Y9WNpM20icOE1qib73Nl2GQQ8WjFBDjVyQEc40E0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关于AI Agent安全的讨论，长期以来大多围绕风险分类、治理原则和“负责任使用AI”展开。这些内容适合用于制度建设和管理汇报，但真正进入安全事件处置阶段时，往往缺少足够具体的操作指导。尤其是在凌晨两</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345667&amp;idx=1&amp;sn=17b22d348c61c1bbcd306469ab6e58dc&amp;chksm=bc8450421039b861858c4131ad2726a61862629d712f7c6d23d412f1409682cefe2aeca9bb30&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1gZDeVuY0NcaibRDnxk0jmh23xtLJ7Z129mDbEFZb0jyvu1zRpRLk8UCSxreicibCiagIoMUVtQjoounh9H6DprGojLSjjiaOpEFok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞披露与攻击链概况SSD Secure Disclosure的安全研究人员公布了一个两阶段漏洞利用链，攻击者可通过VoLTE视频通话，在运行紫光展锐（Unisoc）调制解调器固件的设备上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344879&amp;idx=2&amp;sn=4ad86d20c45ffc280533dab44177dce8&amp;chksm=bcebf0a9714f8d4fb00e76aeae021db0ad592108d7f65b512c1ba1a930194dc29b2dd1bed17e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 14:08:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[宝可梦确认数据泄露：客户数据遭攻击者窃取，订单被迫取消]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2JDzIjW0iaJEqmpBXWMicIwRHtKLvW9paibsNyOia0VBbyIibJJa77h2zvepV1ib0zqFylLgl2Y8X975ZnIVL9ic93Dibg8vfCLCAFY90/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pokémon Center（宝可梦）已开始通知英国和德国的客户，他们的个人信息在第三方数据泄露事件中遭到暴露，此次事件还迫使该公司取消了一批未完成订单。该零售商确认，数据暴露并非源于其自有网站，而是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344879&amp;idx=3&amp;sn=1b95e174cf9c62448d3e4eb027cd80e5&amp;chksm=bc8cbb245fbb657c91abe667106108cf858a8ef1b7232b52058462e34c9f5e85cc92c9546e29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 14:08:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SANDCLOCK后门入侵LiteLLM供应链，2500+组织凭证泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0cVc39TQ9WIjyibsib5eLNJeUfX8AwuYsA26V3iboM36CC8Libo3ysMQPZUreNdBdPKmE4uamYOaMuMepmwED3YaHjwwibtz8YAt28/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01SANDCLOCK供应链攻击概况美国Resecurity公司评估了受“SANDCLOCK”后门影响最严重的行业。该后门源于攻击者入侵代码仓库，并借此植入恶意代码。网络安全专家认为，Lite</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344879&amp;idx=4&amp;sn=2bf10e3f0f96cdfd26e8bed382f3e88b&amp;chksm=bc13f973c8d42e97aa4063d3d5099d60631d27d105710f3002865bdc47d54904e857d846ea18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 14:08:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[12KB Windows后门把C2藏进空格，伪装Realtek潜伏企业终端]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oh8iaR3icbw6NUetHoFZBjATkibfl5xAopCiazCzMa8eVEgcMVrcV7eMwrb6xbI6KLcB5pLkbgJh6Q11GopjRFFLlGFKEIibX4mVs/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个新近记录的 Windows 后门再次证明，攻击者只需极少量代码就能隐匿行踪。这个 12 KB 的植入体被发现于一台企业工作站上，它伪装成 Realtek 音频软件。其体积小巧的特点不同于 Wind</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=1&amp;sn=0b46c109cda1061ccc8a670a6e55309c&amp;chksm=bc67d25b8c028377c37831a59434ed3c78eb780bc677a0ff5dd8cfe19c4003c05292a77354af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[麦当劳、沃达丰遭Azure凭证窃取攻击，数百万条企业记录泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2UFAVfsrmtiaRMOehQElYnhlLhTnouDw0BnzeTgYwbElWedKmzxY8qcVvItklobXnS7nyfksF9aBibGssLBWqJuCThz7jjrDqHI/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场规模庞大的Azure数据外泄行动正在暗网上展开。一名攻击者正在系统性地出售从全球多家大型企业窃取的内部员工目录。Part01大规模售卖：至少九家世界500强企业上榜卖家化名“TheHatman”，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344805&amp;idx=2&amp;sn=528ad423f4d9b574b9d2cb40de70fbea&amp;chksm=bc918cae8a281a144a772f6ad5fdf05660eb39ee2bcce3644de84de4b46b3952f4350573ef42&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Aug 2026 18:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

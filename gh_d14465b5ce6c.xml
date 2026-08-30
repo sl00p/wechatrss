@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Vibe Coding到Vibe Worlding：AI开始自己“造世界”了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904vkNibpyWYeqF2dXNusMRAxlpFAIlnuvZhNqszTiboLXeH4O4pMBIvSgjkwbjopaicDQDeu8QvurwCRYEZfDiaWRDpm7HA5iaYjPWo/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果说 Vibe Coding 让「写代码」这件事从「敲键盘」变成了「和 AI 对话」，那么今天要介绍的这项工作，可能正在把同样的故事在 3D 世界构建 领域重演一遍。开源地址：项目主页：https:</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803909&amp;idx=1&amp;sn=86e196bd070ef323abc0b62f99bd4cac&amp;chksm=bfc99edf23f6637d92fc2469f9ec4d1e59c38027733fe4dfbec59cc34e16943768171836e947&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CubeSandbox v0.7.0 发布：沙箱跨机流动，集群平滑演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz90504lPN9H9PprRyPP7lGLJyib92fkWkPSErOX46T6gf085a9S3ib8BtCzq2stDKcqQBiaZCjicyKv4iaKraL9TrxhiaTu16KMMY2tJco/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.6.0 中，我们把 CubeSandbox 送进了 Kubernetes，也交付了兼容 E2B 的 Volume 框架。控制面能以标准工作负载运行，计算节点作为可调度资源纳入集群，存储的选择</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803909&amp;idx=2&amp;sn=75a522e38308f9634ebaf54d7355af29&amp;chksm=bfd88b5e4ccd443cdd652a179b3bb31343cb12371f02cafe28890b0c70ed9ec458405d0889a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 31 Aug 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯混元 Hy4 preview 发布，稳居开源模型第一梯队]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906NZk4Qtk1zaPs547PeKQXAb4RUGt22QuaWia1zq2AhnoK4anZA87bRgPOsg5ibI3JPQ0FGbbTRo7BZWQTHqB9yahDKQPXakBPtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实生产力任务上展现卓越能力。8 月 28 日，腾讯混元发布并开源新一代大语言模型 Hy4 preview ，总参数 770B、激活参数 49B，上下文长度突破 1M，在代码、办公、科学等真实生产力</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803888&amp;idx=1&amp;sn=d8d6ffd2c6caf69c7f740a238d0f1619&amp;chksm=bf6c22ef1b277de117d45bf78f2f26c180854449a6f00eca5629fc18b707e6c5c695492f3134&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904mlTY41PcTKqibOktmnEticzGIQAtZMZx9an3pjAYjmhRvIeG5iapPDc7vAEtDlVDkFTFYJlyvrfibicopCq5vQ1YfbOibMO34l1NjM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：linkxzhou，公众号《周末程序猿》在 github 看到一个项目 all-agentic-architectures，实现的是关于 17 种 Agent 模式大全，我把 all-agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801545&amp;idx=1&amp;sn=b2d15c583715f519cbec484e8b10abdf&amp;chksm=bfedbc187c8d1294f6081a7097f0109e0be6a31a8e8f522ec968c32d5b06b5353386b3304dbf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 17:39:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯混元推出轻量翻译大模型，无需联网，手机直接运行！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907EKeqSHpm6AcsysWCU4rDmpuvpPWsic368X03BPJtemBO5CruTINJguWFkpHvicicoWfVpVyZEdOIgPqibVoibSmWcictM3YmT0WOias/640?wxtype=jpeg&amp;wxfrom=0"/><p>你可能用过各种翻译工具，但是大部分的应用，如果要实现好的翻译效果都有一个共同的条件：必须联网。设想一下：你在异国自驾，警笛声骤然响起。还没回过神，警察就在窗边用陌生的语言严厉发问。你心跳漏了半拍：是我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801544&amp;idx=1&amp;sn=2577b3e0d9118e271227e5bfd3e76f8a&amp;chksm=bfc6575ccb4b8e285384e04e40ea6847cc38966087d50e86c3dda583175f644fd8cbaa1b8d3e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当我把 AI 变成一个"算法"：Skill 工程化设计的心路历程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907icGqAdbI5DqE8TBbibxdXkYVNhgun7emOOiaWOTD3ATY8I2Q7bsn2K9mjJH8Mrdoe1N33qORhwxw7yfL363pmVny9wRibGicqHzto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：peihanyu引言你有没有这样的经历——给 AI 写了一大堆规则，越写越长，它反而越来越不听话？这篇文章讲的是：我如何从"写提示词"走向"造执行环境"，让 Agent 从一个不可控的对话机器人</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801516&amp;idx=1&amp;sn=673c6ef9bc4022d29f48f753a3f1509a&amp;chksm=bfb030116624adb561dec34963c20684e6e3616b3d72ee0a8619c15fda1e53da54d8681e8c8b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 17:24:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
