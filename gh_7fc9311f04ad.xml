@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Loop 到 Graph Engineering 的演进思考与实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wo0CVxv0PQiac3xa2LhKEwUvYTzEZ7B8EpUVPJsJI8vxUs15QwAQqfwYSxeWJRmgZssnMHgCCfVQLib8vs4vAmPicZoEib2DAg7wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景之前，我写了一篇关于 Loop Engineering 的文章《Loop Engineering概念解析、思考与实践</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562254&amp;idx=1&amp;sn=77b80c213b5e45ae40cdb09a0a6c15dd&amp;chksm=e8a3f53423decd35acaeb4d8dba85161cf4a27e9b4fea5a22f5b3355584eb9173a39620d0dcd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 10:00:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xL0kd4xpSN5k6R2FQAB9uDyZYn8I59d3dPTVbslb1nRUn5k8gyzgXe6fmvzxlUn7wCxxgHWkFibqquEXe0oWicw0nFeDCeicj2cQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读两个月的 Agent 开发实践沉淀，从第一性原理出发，探讨 Agent 的本质、当前多 Agent 协作架构的不足，以及如何借鉴人类组织经验设计真正的 Agent Team 机制。（文章内容</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562213&amp;idx=1&amp;sn=b5d701423e4bcb9c5775a7c6af19e234&amp;chksm=e8ad1bbe3691273082fc39a6fc6139e9d6c974809ad3a7d04b8c423f6c0f65f15ff2b5392ea1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y7ShIwk7zZgibNQGT91pNz4UCnTXCiaxQce6Og25MshlQe32SPzuyTBRiaF8QTMf9X9nOMVMg5mz0uTDib4Ia6QZ8Nmc0icpJbbd7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言本文主要围绕一个具体的问题展开：怎么写好一份 AGENTS.md？「在代码仓库中放一份上下文文件，告诉 AI 工具这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559836&amp;idx=1&amp;sn=7fa79653cd7704d663ab7afc7a4b8eed&amp;chksm=e8fd97b2711e7d30fc364d2f4dd17ca72394ed68bdc93150455d0f910ce18b47fd3439287b18&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 06 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qoder Skills 完全指南：从零开始，让 AI 按你的标准执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xKDpSBmFFkefzN8X7zzjCmH4gXLe8icjtv2N9No1EZGiaDrS3I4ygm3yYkIuATONQwf142XFS09BhptdnmsojXse25uXj81QMe4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在 AI 原生工作流加速普及的今天，掌握 Skill 已不再是开发者的专属能力，而是产品、运营、设计乃至技术管理者提升人</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559803&amp;idx=1&amp;sn=b098d8dafccc26b9352b3f93edfbf292&amp;chksm=e8469bfc7e842857aa81061534e954d277c2864800f2d4e8398786576c1ea85982b49aabce78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

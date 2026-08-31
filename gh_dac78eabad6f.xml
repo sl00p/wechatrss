@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[删掉80%的Prompt规则，Agent交付成功率反而更高了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LM7sWzG69HQdgk4zOhCK2IvTdNMf61e6eKgreOYWV3fNMpUCG3s751V7ibSHNnO8crsnTG0zwMX1qnGlPhcYz6IibUHrCPV8so/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当写代码不再是瓶颈，真正容易断掉的是交付链：Agent 是否读到了可信事实、规则能不能在关键节点拦住错</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697286&amp;idx=1&amp;sn=65d6dbb523f04f06b83088e7a2ba978c&amp;chksm=eb3839ddd4b33cb344291dab1e83aae8b31d26830670a1a00990a53cf13daf08e2b63757b23e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CubeSandbox v0.7.0 发布：沙箱跨机流动，集群平滑演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6eMxUN7FQ1N9o1ZSu6drY6Hn4kQjqtkxTAQEdcQhEeUjSkibicSt16vQKjlRZlBPDsRJLoFPZaPXM7htPfpo7mNOQ4UrXXmg1ib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.6.0 中，我们把 CubeSandbox 送进了 Kubernetes，也交付了兼容 E2B 的 Volume 框架。控制面能以标准工作负载运行，计算节点作为可调度资源纳入集群，存储的选择</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697286&amp;idx=2&amp;sn=1a9c1d0d103007c9a7a352efe75176fd&amp;chksm=eb5dcf58f1618f28e6a8844a2d7c31ad79c37692f7b1a0c935dcdb6eef14bd101324659d51de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI工程范式的跃迁，一文讲透Context Engineering！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6BV2LKLyAx48PJa398YFhTkzl569fMAD4ib3uRJBQvnu1u4MjuRmBw885mBrK2n9rkhsak2f36qbEu1lZVbrb81eiaqic6QIh9x4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告上一篇《Agent全面爆发！一文搞懂背后的核心范式ReAct！》介绍了 ReAct 如何通过“思考→行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697260&amp;idx=1&amp;sn=bbda847cb4e895e1ea99caf5acec9923&amp;chksm=eb02d8a7b2907cd39da29183dafe8d2ad34706c5ab126b4af6b73e79fc7af889d887b539e8a7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7wandkL2W3LQibaLnroO5yDLuhh9oJFnsvvdSLKfeQoQYeMeorfeMeWKdictibGpu7LfrK497ES9ny0NvDPuwHFCVKI7wgmuRiaPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇当 AI 开始快速生成大量代码，真正的瓶颈就不再是"写不出来"，而是"看不完、想不清、管不住"。 本文基于一个落地在大仓多服务（Monorepo Microse</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695581&amp;idx=1&amp;sn=08aacd344637c9eba04e75e9fae2354c&amp;chksm=eb1b28bafe62578aece7ae9b794d4ad2060fc0e91ea5d133165fe5cdf13a96579b29fa2da59a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Prompt、Context到Harness，工程的三次进化与终局之战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4NnVFIjKMcr3XaL0fq2HeeDg5ZSxL8Y9BIYWwZXg2qNpOuCZngGVdvYlD4IPVELiakLwhLMBMHfkBelibicyjibssZiaglDhtXdibs8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇注：本文有使用 AI 进行辅助写作，特此说明。 引言：一个令人不安的问题OpenAI 内部的一支 3 到 7 人小团队，在短短五个月内，让 AI 生成了将近</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695574&amp;idx=1&amp;sn=5a72299143649e58cc510ab1b50480b4&amp;chksm=eb306324d9bf100c2ba7d4e7a1a936649abbadec327c9b491a16bef256b1df91035948beb08e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[让Skill自己训练自己：8阶段Loop、3层评测、5维AND门控，从此实现自进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7lJR2CnzQoESZxrpWibNaicYsk3Jf8EhBtwYUiboicmCjz67LzrTa1g5mXAvm37IXoao7A7y6IicMuuhhTX5tkM0uSSl3qlyRKSibro/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇你是否想过，Skill 其实也可以像神经元参数一样被训练。你总想着授它以鱼，像个训斥孩子的妈妈，一遍一遍对着它苦口婆心地说教——你给我记住！你不许这样！这样不对</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695568&amp;idx=1&amp;sn=492ca1e98155a9fea668213173cab654&amp;chksm=ebddaaf08e573644328aa2f250f07b3e5736ce631dfc71a4bfaf114af55478cbb11f8a70cf59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

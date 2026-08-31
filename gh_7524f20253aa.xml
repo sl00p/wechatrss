@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic强化Claude安全防护，AI模型在评估中曾越界访问真实系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3DG6Eog0dZaNvMtwyXuAKSp0SFrES4AiaR2y7JqvqUjLE8AI9IHbelM9lLFKJaTQEHLU6Ug9Tdou1Dv47aT8fKLUCGT9NViaSR8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01模型越界访问事件Anthropic 已强化其 Claude 模型的安全防护措施。此前，在网络安全评估过程中，这些系统多次在未经授权的情况下访问了真实计算机。该公司表示，这些事件反映出运营安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345890&amp;idx=1&amp;sn=dae77d437f5b6f5a94656fe707585896&amp;chksm=bc078f98d013a9c3038f1aa9e503df22b393c1b59488c6c2658267b8932eb7c53ba44e5f26fd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 18:02:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI治理进入运行时：企业怎么把AI真正管起来？【文末福利】]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3SPrxeDgCWpea3Y94wibTDIJLG3oshdAYtxgBWnl2NuP2ydC0H9QyKHzz0bTIjNruUUFBs4KOtfxyLRuQtstjYro5AbSg7WX0o/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾过去，企业谈AI安全，更多关注的是模型本身：输入的数据安不安全、输出的内容有没有风险。但当AI开始真正接入企业数据、API、模型和各种业务工具，甚至通过Agent、MCP去执行任务以后，问</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345890&amp;idx=2&amp;sn=91a405161e728654f2b3fb65d821d3e7&amp;chksm=bc24f86409b0be81a6f870b0441e4d8591300fb0861e5c715b93a59bf43af96f6689c646d572&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 18:02:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[100余家科技与安全组织呼吁全球加强网络防御，应对AI攻击浪潮]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Lnmdqo5sh1icmx0LDqsEljJbdsTxgUtr4Pvo1ZHGwIKOj9icxv9xE2jhibIKPrQvhsn5oMdDCRSWaxMyq7giapojd5K4icZKZPwyA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01全球防御联合倡议100 余家科技、网络安全和金融服务组织联合 OpenAI 发布公开信，呼吁在人工智能模型攻击与防护数字系统的能力日益增强的背景下，推动全球网络防御力量的大幅提升。这份于周</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345890&amp;idx=3&amp;sn=4a1a851849e6471079b2ebf62100fb50&amp;chksm=bca5efd7b8d7bf315b924efa97a71af4b6089a17f182f428ff3333c15ea13491e1a0511dcf65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 18:02:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型GPUThor攻击突破NVIDIA ECC防护，可导致静默数据损坏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2fOTkRREdJaoO0qUllZHFicNX0dTGr3Vv4icNyT5h6dToQZz2lDzguSpopV6OSNVoibN72cgEwNrLp2VvHskIl7nAcNyUu1wfHPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>学术研究人员披露了一种针对搭载 GDDR6 显存的 NVIDIA 工作站 GPU 的 Rowhammer 攻击。该攻击突破了 NVIDIA 为应对 GPU Rowhammer 所推荐的错误纠正码（EC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345890&amp;idx=4&amp;sn=9379d74bd28b1476818d5f89d5e4c17a&amp;chksm=bc2d9c3420268beffc9970e93236edae710eeb3e0c5d4dc12bb8532b6bed0fd4774e92032be8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 01 Sep 2026 18:02:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[100小时无休试炼，Agent自主渗透如何扛过4天4夜？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2fCxXnBtyTO33LaPgkqibAFwVOPVOUaemPdY574OCO2CfbBiaP4ekKVyVk0DJB1XuO7HSGOB6rQbAw1eGoeqjJo0WxpIaFhYjhI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI驱动的自动化渗透测试，正在成为今年安全行业最受关注的赛道之一。从厂商到开源社区，各类工具轮番上场，Agent在短周期、单目标任务中的能力也在快速提升。但任务一旦进入长周期、多轮次、需要持续决策的复</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345795&amp;idx=1&amp;sn=61fda3d253843ad41f18ad3d78e5d528&amp;chksm=bcad7306ed3d31c67324cc5f4c9c1e0dd78c7bc89169625673929ca8375f235c2f7e3beb9e37&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3lW9PQgMiahSvkQJBQPibKZSksyoAPdia7mmC1tXo36LfukPU6zXDp9BuPNiazwwUouYHuRh9RlLLR4WNfos0oJCA6wQOWmqw6VFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾随着AI Agent逐渐进入企业真实业务场景，AI安全正在面临新的变化。过去企业关注的是模型“回答得对不对”，而当Agent开始调用工具、访问数据、执行任务后，安全问题也从模型输出进一步延</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344936&amp;idx=2&amp;sn=1732428803c804f09b5c69bd97c50ace&amp;chksm=bc5c20c8785c83dd841d62bcabcfcb77ce844073da3e062a2826590d0928bdfb89c1ff70a5d9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VMware Syslog路径遍历漏洞遭在野利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Qo7OTVjtRA5wvz2XlIHGdbcZtx2hNicwh7DfibGn7mzgoIA2tgO5NvkUYjH4dMC1gcm9bEiaNWLR2vwDPsiahK2b1b7Kn8yvudtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞披露后迅速遭大规模利用一场快速传播的攻击活动正将VMware vCenter漏洞变成完全控制虚拟基础架构的通道。攻击者滥用Syslog Server中的一个关键路径遍历漏洞（CVE-2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344936&amp;idx=3&amp;sn=abc89d0b8a01afbbe12a582936cff4b2&amp;chksm=bcee9de1e71318da83af6aeecb2676fd62c287dc2a62fd95778e6f5707c07c59970bfb5d9e62&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BTMob欺诈平台借1400台活跃服务器控制安卓手机，窃取金融信息]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0b2J7h2rvnylySOH1OU7f3auMibJEczzWpreqBKWFHvky3grsyRPakBpeicPbkAmXd8kNa7jHN20nIKBV17bbGsRTstBc8E1g38/640?wxtype=jpeg&amp;wxfrom=0"/><p>BTMob是一个Android银行恶意软件平台，旨在将手机变成欺诈工具。攻击者通过伪造应用、仿冒下载页面以及看似常规客服的消息来接触受害者。一旦安装成功，它就能为犯罪分子提供监控屏幕、窃取信息以及干扰</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344936&amp;idx=4&amp;sn=d6cfa3261a1c81a75460a6d8c51d25d2&amp;chksm=bc746441190302854be46d0810bcff7147f8156bd930dde1bf9408ad83c60684c8d3929d452c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI总裁Greg警告企业CISO：再不用Agent做防护就来不及]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3yyIcic7fAsUiaf9Zj5yPWH5DCeLEjL1SFbTOPeOZezz6YH4CkI4YDKicQMZSV65c4XUbicjWVFFC9ibNamt1ibP2Wnic5z9adyEV054/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Agent重塑防御OpenAI总裁Greg Brockman周日向企业CISO（首席信息安全官）发出警告：随着AI的网络攻击能力快速提升，企业如果想应对接下来更复杂的攻击，就需要更积极地将</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344879&amp;idx=1&amp;sn=043221553141c2c5703507dbc0c791c5&amp;chksm=bc5aac17d2cc8056484ec180c6c05ed3cca4f3e70ceeda6a92faedf6c4e006c2fea690e4ea06&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 14:08:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[紫光展锐VoLTE视频通话漏洞利用链可致Android内核完全失守]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1gZDeVuY0NcaibRDnxk0jmh23xtLJ7Z129mDbEFZb0jyvu1zRpRLk8UCSxreicibCiagIoMUVtQjoounh9H6DprGojLSjjiaOpEFok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞披露与攻击链概况SSD Secure Disclosure的安全研究人员公布了一个两阶段漏洞利用链，攻击者可通过VoLTE视频通话，在运行紫光展锐（Unisoc）调制解调器固件的设备上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344879&amp;idx=2&amp;sn=4ad86d20c45ffc280533dab44177dce8&amp;chksm=bcebf0a9714f8d4fb00e76aeae021db0ad592108d7f65b512c1ba1a930194dc29b2dd1bed17e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 14:08:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
