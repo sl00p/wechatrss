@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[分享 2 个刚开源的数据集，一个是健身动作，一个是 CAD。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0mgsjmIX3tNSiaKuiaXbrWlLxJIwxEfaOZoxiaricDkiaITWYPTJOic44gUKTak6bmB7Bs40zIdnTWTkiaWv0Nr11mGlzF9N5b8e7w4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01健身 App 动作素材有开发者把 302 个常见健身动作整理成一套素材库，开源在 GitHub 上了。每个动作都有 3 帧，共 906 张图。而且，每个动作都带有结构化信息哦，比如动作名称、器械、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536423&amp;idx=1&amp;sn=61f2af2610389840ab999a5efdab5214&amp;chksm=f8cb083d44aac1bf38cd97743f0da74d93a617c170e75ddde21f9d639e0d1384599577e27f55&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 15:09:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[8 月 GitHub 上最火开源项目出炉了，AI Agent 确实占了大半。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU18KbZhDlukDPwRzk3wHL9BOjDicwc2hDezPJB7aKTxJ9zY7wxU8cjMccHlzV4wTrHhurIO0ibEnKulIU3nu6wnMq7gTHslAriaia4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01T3 Code：手机上接管电脑里的 Agent我理解 T3 Code 是给本地电脑 Agent 做了一套控制界面。只要你的电脑已经安装并登录了 Claude Code、Codex 或 OpenCo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536415&amp;idx=1&amp;sn=edef88ceed6b02403b64214c402aea32&amp;chksm=f88b0f02b87474c3205bff52a9cc16f9aacf67197273bffd05c713dfdc43398dfa684930c54f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0kb8veBL5cLzBXz2sejLbTiaLlDWCVN3T9yDiaeYdZdxVOU82ibySenYBkJSOiaNYwDxfianGqPXykFAqcqFQqOuylckF5UtqQzWx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 AI Agent 配个不爱写代码的搭档让 AI 写代码大家都有个体会。让它做个日期选择器，它能给你装个 flatpickr，写个 wrapper 组件，再纠结半天时区问题，五十行起步。Pony</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534791&amp;idx=1&amp;sn=4bd76595f21d621e9680fc0738bf1c83&amp;chksm=f8c351d9370f500e8ce715ce8a476a67dc459bd1af1848db79ead48812e0e7f70b80d13ae70a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Jun 2026 16:32:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 2.1 万 Star 的 AI 工作流开源项目，有一波更新。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3HpUJibAZib0Pbo5XEicbDs6AXlqKBmxhJ6D59NzbuZj9unsLtMficA9JjlE2PaEYHyMwndjXYicq5ibg5SibS4Xbme293GIAARy9Cqw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年之前推荐过一个开源项目，叫 MaxKB。那时候它靠开箱即用的 RAG 能力，在 GitHub 上拿了 17k Star，定位是企业的最强大脑。一年过去，这个开源项目全网累计下载正式突破 100 万</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534784&amp;idx=1&amp;sn=da4ec9562147de22465cdc387d3770f1&amp;chksm=f8492d18fc4a9d082d81897bb3f3a3289d87644bdc0ff64e133b6d58100f2c2f985740f13d05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 19:21:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[运行 23 年的 P2P 僵尸网络 Sality 遭协同瓦解：没有中心节点也能被干掉？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8zJuvy1hQ8Z2dOU3d4lv19NAVJyp83y9OVFWgY9CYbPWq7kmqVaicBFY9fK64icXVmhVm0lZ5FvYCxm0G8ckhib6ibxPSecuwOYpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>僵尸网络运行 23 年的 P2P 僵尸网络 Sality 遭协同瓦解：没有中心节点也能被干掉？Sality 于 2003 年首次被发现，在互联网上持续活跃了二十多年，称得上是恶意软件界的"活化石"。此</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520178&amp;idx=1&amp;sn=4171b9fb76b2f7f21216b9daa6682f63&amp;chksm=eba11c668cbcc9dbbe9c7e7d554c67c2a7fdcc72d711530704319f56b2dd26f4f4b95d675900&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 16:13:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客服务器裸奔泄露内幕：Aurora 勒索团伙用 Cursor AI 做攻击规划，完整还原从入侵到洗钱全链路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8kNOPNr33esSkQnqRLKCvcI4Zcc45Z4lTYpUJ3DiastjG5t0RI81QZ6K2eYQ7czGPh0Fq22uBuUuQ6NMkf15Zfs9NqUfdyE8k0/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件深度调查黑客服务器裸奔泄露内幕Aurora 勒索团伙用 Cursor AI 做攻击规划，完整还原从入侵到洗钱全链路Aurora 勒索软件"联盟成员"的全套底牌被看光了：攻击工具、Shell 历</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520161&amp;idx=1&amp;sn=61ee15f915debc760d7d4ddbd6fb19ad&amp;chksm=ebe65c51d8e3fb9aaf67feefaa618ab97382d9aa26504bf9e2a24ba359c10f8ce6a0ce9fd252&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibjeXDpKswSPklt1icDJ9UJjz3nF57I7L3wuDOYeXeIEEO9cbLCzQUnjhqzkcAtia0ne1auhE5VUFh1w1GnIbqPx828AzbxWbia3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述近日，安全研究人员StepSecurity披露了一起针对GitHub Actions生态的严重供应链攻击事件。攻击者瞄上了GitHub Actions市场中的热门工作流项目——actions-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518843&amp;idx=1&amp;sn=d7623b89ab25eabcf7fdc16a16fbf0b9&amp;chksm=eb508434d1132c4d5b5af27f4b7103a394a2dfc50c531c2b0a8e1b64d350720d1aec1df4a2b8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 17:24:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[n8n 自动化平台惊现三重漏洞链：低权限即可引爆完整 RCE，攻击面已蔓延至供应链核心节点]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8Epu0VBVz9jxmz9Ye3efD4C3FOdOKCMF2QHSG4ecvVyzibq0vTmTxcXqh0lopzic4z9xhrTVW6CIMwhI98kN03S7TOJbJIekicKU/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述n8n 作为一款开源工作流程自动化平台，近年来在 DevOps 团队、SaaS 集成商以及中大型企业中迅速普及。其架构设计允许用户通过可视化方式串联 API、数据库、云服务和内部工具，构建高度</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518838&amp;idx=1&amp;sn=a33e7f05cd5a946c51b0ff0fe8caa3eb&amp;chksm=ebe19422f0805b71cb56aa0fc6d87a060c2d0f756ceb86f4b14903f212b666f2c6185605162e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 10:50:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen3.8-Max更强了！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1znxLTk01qWB0cgkYSOib5iccAofx1mnmdH7Jt0yDFKbRpNyrdTRibH7MWRv3zGibKM3l9qibPXQkeDdffR3tKwqr8scH62KBlhWecM/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Qwen3.8-Max升级到0902版本。1个月前，我们发布并开源了Qwen3.8-Max，陆续收到了企业和开发者们的热烈反馈和建议。在此基础上，我们围绕编程（Coding）和专业办公（Cowo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562297&amp;idx=1&amp;sn=420b67c29646788c40605bb9445947b5&amp;chksm=e8f25b68a7125a7c3a965aabfcbb372d130544de0c89f7b4f668e49c7a2fe5e81e82ab529220&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 11:14:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 Loop 到 Graph Engineering 的演进思考与实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wo0CVxv0PQiac3xa2LhKEwUvYTzEZ7B8EpUVPJsJI8vxUs15QwAQqfwYSxeWJRmgZssnMHgCCfVQLib8vs4vAmPicZoEib2DAg7wQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景之前，我写了一篇关于 Loop Engineering 的文章《Loop Engineering概念解析、思考与实践</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562254&amp;idx=1&amp;sn=77b80c213b5e45ae40cdb09a0a6c15dd&amp;chksm=e8a3f53423decd35acaeb4d8dba85161cf4a27e9b4fea5a22f5b3355584eb9173a39620d0dcd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zSXic4jKX07UjNuHW0XhMmklvrlIXSvNIJ5ArxW9TU0fuR3LvjF0HRlKJeYonfQfQUFYQ3X2zyPicdHOhg3rvM0jUOs4ALc3icDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。从 Prompt Engineering 到 Context Engineering 再到 Harness Engine</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559842&amp;idx=1&amp;sn=71ee08bf0421ad2f1aa4dd7a58901c5f&amp;chksm=e846ee26b4c5f9b0ecf09461225b29097f9ba1ee3e04ce43adbab7ad44f4fdcf80e06eb90949&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 07 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1y7ShIwk7zZgibNQGT91pNz4UCnTXCiaxQce6Og25MshlQe32SPzuyTBRiaF8QTMf9X9nOMVMg5mz0uTDib4Ia6QZ8Nmc0icpJbbd7Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言本文主要围绕一个具体的问题展开：怎么写好一份 AGENTS.md？「在代码仓库中放一份上下文文件，告诉 AI 工具这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559836&amp;idx=1&amp;sn=7fa79653cd7704d663ab7afc7a4b8eed&amp;chksm=e8fd97b2711e7d30fc364d2f4dd17ca72394ed68bdc93150455d0f910ce18b47fd3439287b18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 06 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

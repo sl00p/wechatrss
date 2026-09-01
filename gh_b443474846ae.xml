@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GPT-6 真要来了！OpenAI全新推理架构“循环深度”首次曝光：可榨出14倍参数潜能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia0Vos7fCNhCW6vibQv5CJibwbAwm95sEibz2ZOavhdpia73rLDQWRCK4wfDb3ibU4icYUleBrxKX4cNiaacQ3hsbcVughVRWe16rPDnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月Fable 5.1 的“全球最强”宝座还没坐热，Sam Altman 就已经迫不及待地巨头起 OpenAI 的下一代旗舰模型 GPT-6（内部代号 Astra）。他表示，新模型早已完成训</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292191&amp;idx=1&amp;sn=b10e99b282e575dd4304ae6a1473d235&amp;chksm=bcd0c0407fa684b23046da1411a73e1b4ab390f10251165d2884bdb9e215f7d9a92200a1d5b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:42:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能体请求暴增 9.4 倍，token 账单却没涨：Uber 公开 AI 软件工厂省钱方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgfqqlqibBQD3yhDngVElVuWXbzYtEF0SXn3gBKkQgSTkDSiakJX1GOwG5icia9iaWuRSmJsuiblWicxRUqyrTNdYnuxBibSkj9S8I7pB8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | UberEng 译者 | 明知山 策划 | 褚杏娟 AI 工具现已嵌入到 Uber 软件开发的每个阶段。超过 70% 的代码合并请求由本地或云端智能体生成。工程师们已经在软件开发生命周期中构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292191&amp;idx=2&amp;sn=6e90578dc76d992c8960d11d6758298a&amp;chksm=bc98ce1ae8098fbaeb947bad708441ba15ba6480c7d99c181b54194a7412a4334e8aa9586398&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:42:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当 AI 开始重写负载，数据库该如何重新设计？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia95TCf3UfXsfhT1aCXtHNTa2wfXWibGfq1mNLMIwaYzvctng3lyG1A0C7ZFibmktOzVeMiateibg7kpOwIibR2VEpqpgW8AN1B2BJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去很长一段时间，数据库的目标足够明确：把数据存稳、查快，并在业务高峰时扛住压力。但 AI 正在改写这个命题。向量、图、多模态等新数据对象进入生产链路，GPU、RDMA 等异构硬件成为系统设计变量；更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292191&amp;idx=3&amp;sn=749a10441dfb86ccb3eb65f77b276cf3&amp;chksm=bc9790f3f7347cc5d0516c2a5d79693d8ee768e7a725a30f31b5e230b76e865983b54715fbf4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:42:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rx.NET 7.0 拆分 Windows UI 支持，大幅缩减应用部署体积]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNje55g7PwTZ7nxgcDIESZNYeThBVz5qxfsB7sc8micibchYojAicicUK4L9Tj7PxVVQttmV2wc1yQoGPgicMT68Qribl8QSpUxcUAyaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Edin Kapić 译者 | 马可薇 Rx.NET 7.0 现已 发布。这一版本的改动重点明确，主要是为缩小 Windows 应用的部署体积。新版本将 WPF、Windows Forms、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292191&amp;idx=4&amp;sn=ceb1d2d7777ff743965e72d559cce966&amp;chksm=bcf9ba61587c68c69467977d56b0489c5fab932b8d8e6dc7aaa0d3d4ac61d211a5e8011ebba3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:42:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj6XOIWc4LWicUiccWt2MaugYS8UJcM5EkNG8emicfD5VYXGMoFe5ou7G7GHGFLsuFVgkxNqc9XDKNiblxW5QuWENcdcDQC7X9ibhOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 “我觉得 80% 的程序员不会喜欢这样的工作，因为它确实意味着长时间出差。”神策数据联合创始人兼 CTO 曹犟在谈到 FDE 时说道。“现场”是 FDE 价值的根源，但这种工作方式一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291986&amp;idx=1&amp;sn=1f6659eb0740bf064434117358b5fd35&amp;chksm=bca1fa19e571ca91b7d99782675a32fb0f0b07cdda1cc284713248fde56fd3f55f97c3e100cb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaK3aDhbfEaexhWGAKicfleIx2Zics8WRUdR5qdZWOX3fzakb0toBmhj6yWQJicHDJ1qPzJCR4TssqHnrVicq4KeGESqrU2I9I8rJg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜ 灯火明 过去一年里，每当有新闻展示所谓的“智能体手机”或者桌面 Agent（还记得全民龙虾吗？），我都嗤之以鼻：“我自己点两下不就做完了吗？”对熟悉计算机的人来说，这种反应很正常。打开设置调整</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291285&amp;idx=2&amp;sn=30f1f8dbff3f31de9d64a15abce45414&amp;chksm=bc225ee1dfd2779e58f9c2d5018e8d6013b214e87309b7b946d32568977cc632cc18c3eca1aa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 11:27:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[将可理解性作为架构特性：无法理解的系统无法安全演进]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaYGOl4sPwCux2qANdncLXiaYl3I1tF0oCHCRiaibicPE7ouKgWqQU87wT5hiadCmdhdRTff8UddlnBY5PYjFCcZTZ3o4GcHl3efVicU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Jacobus Meintjes, Narayana Rengaswamy, Paul Katsande, Sureshb 译者 | 平川 本文由 InfoQ 认证架构师在线活动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291285&amp;idx=3&amp;sn=2afb04d889ccad484400c9109128b426&amp;chksm=bc83b7fd5779937ba1eab0ca784c7477ba571fd5a4423a86980f4f0be2c215d81b95981ea8c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 11:27:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从中文到小语种都能无痕修改，美图影像研究院（MT Lab）提出全新场景文本编辑方案 | ICML 2026]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiamF18Tl2tzYPRWeGK3Jc6SUuB8YKq7elXlb9ZdLc47X1jpPcZPpQbXEEazAkP13kltrFAPkOZOxcHv1ic4bYMbgz7bWTIgicX1I/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 美图影像研究院（MT Lab） 审校 | 蔡芳芳 “把这几个字改下，其它的什么都别动。”——这个需求看似简单，实则很难完成，因为经常会出现文字抠不出来、找不到字体，背景有修改痕迹等等问题，即</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291285&amp;idx=4&amp;sn=95811d0b2eae45db0cc0854cffaa23f8&amp;chksm=bc9bcb9ad1e3dbe37d632958e299ab0ce1e3f96076b23545173d40227d4803fe7b5339085a78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 11:27:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“Anthropic不再是AI圈的信仰”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaVM3E7dWI1YHWNydBK9zib8GhC7BxeWZ1klRPiazoXLclpY1dRIWt7HC3BQAicibKAYTJYX7owCAv0aJGu2ibumvs1zTZIED48vCm0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 “Anthropic 堪称 AI 界的‘苹果’，尽管价格最高，却攫取了最多的收入。”有人这么评价 Anthropic 。但另一方面，用户的体感是：“做 Anthropic 的用户，就</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291204&amp;idx=1&amp;sn=cdb576093823000dbe963bb8869cc881&amp;chksm=bc84d179ff73a1fa7f567ca83b30165ea19f0ffdc3b055c7b82b6cb79c1157f890a252e250ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 16:24:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgHTm9OIu3I8Qs4Pl4nuJLUX7ibFtutQmT5HGXYNLsTPg6gDDE6mcBFIZQ9R7SiaW8sND7A48icPzN0viaWOmD70b6ajQ9mHMiavY4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 钱世俊，火山引擎应用观测技术负责人审核 | Kitty策划 | QCon 全球软件开发大会随着大语言模型能力边界的持续拓展，AI Agent 已从概念验证阶段迈入大规模工程落地。然而，Age</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291204&amp;idx=2&amp;sn=7fcba440b61a983bf28d1f6de89ec162&amp;chksm=bc51dece80b6dea2f8e8c595790ced88b4aec4c4d9fea3e6ad3dd18b8f56bed6fed01a6220db&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 16:24:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

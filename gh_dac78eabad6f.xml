@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文讲透确定性Harness]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6SCrKJmwAmSf9KqaO80DMkYf2eWaepw4uWUiaWjfx0TO01iaAMuzsib8jXzWEqribNnr8xWpUfvBqeUpicXBh0fSIKib3STcTSiaeyxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告Agent 圈流行一句话：「模型是商品，harness 才是护城河」。凡是「高风险 + 复杂分支 +</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697293&amp;idx=1&amp;sn=70581f21d0bbf985b485d3fc98ef979e&amp;chksm=eb881ac70ef493d4b0cc7b10be4296685f1f1da22f052a8d617919d731d3b4fb7312089c6fbd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[删掉80%的Prompt规则，Agent交付成功率反而更高了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7LM7sWzG69HQdgk4zOhCK2IvTdNMf61e6eKgreOYWV3fNMpUCG3s751V7ibSHNnO8crsnTG0zwMX1qnGlPhcYz6IibUHrCPV8so/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当写代码不再是瓶颈，真正容易断掉的是交付链：Agent 是否读到了可信事实、规则能不能在关键节点拦住错</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697286&amp;idx=1&amp;sn=65d6dbb523f04f06b83088e7a2ba978c&amp;chksm=eb3839ddd4b33cb344291dab1e83aae8b31d26830670a1a00990a53cf13daf08e2b63757b23e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>Harness 时代，程序员干的事情本质上属于一种元工程：不在工程本身上做加法，在工程的运转环境上做加法。 实践过程中，AI翻车的问题基本可以归为五类，每类对应不同的Harness 改进动作。 第</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695583&amp;idx=1&amp;sn=f3a8dfc305392e781837363f6bc17a37&amp;chksm=eb0f2935d1ac8cd3bd622c4e483a74993263971c678b5586ec414eeb2bfdf3e0ea419e5686c2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[QQ音乐Harness Engineering实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7wandkL2W3LQibaLnroO5yDLuhh9oJFnsvvdSLKfeQoQYeMeorfeMeWKdictibGpu7LfrK497ES9ny0NvDPuwHFCVKI7wgmuRiaPg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇当 AI 开始快速生成大量代码，真正的瓶颈就不再是"写不出来"，而是"看不完、想不清、管不住"。 本文基于一个落地在大仓多服务（Monorepo Microse</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695581&amp;idx=1&amp;sn=08aacd344637c9eba04e75e9fae2354c&amp;chksm=eb1b28bafe62578aece7ae9b794d4ad2060fc0e91ea5d133165fe5cdf13a96579b29fa2da59a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

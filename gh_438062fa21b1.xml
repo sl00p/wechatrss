@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Agent 应用精细化评测：评测体系设计与工程实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6dia1cSu61ibyGykj3Je4lJDQsjRzujQeyeAoJoYavjC78l0LrttxFDDEgbuMTUkUHuUfViaItnwKzqvw6DgBSJWglSj4AhcT8qQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Good evaluations help teams ship AI agents more confidently. Without them, it’s easy to get stuck in</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511370&amp;idx=1&amp;sn=c9f4ff1d054cb229ac2f8c1462fcb05e&amp;chksm=ce280955d3c380290f54719205870075d4313d0f21874cb2b0504695eda94de8fd1b02f190c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:10:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[zg 正式开源：本地检索，不止于关键词]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz7eDPjGYPUB9d6Yk53MNhmx9HicQa7mv0n7siccuwnb3RdbBBE8Z7ibSALQ7icqx2g2ttFibOaWShTahEddbaOI0LXUiahIYtTmJKJS8/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 56 篇文章（ 本文阅读时间：约 10 分钟 ）摘要：人与 Agent 所需的信息，往往散落在大量本地文件中，准确、高效地定位这些信息并不容易。zg（zvec-grep） 是面向人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511367&amp;idx=1&amp;sn=7a7ea589cdf19b68dc5eb8b9f04e8030&amp;chksm=ce887192cbf09d7bc78d9e857894a43c78426d7ed8a5756ddff7e2ca99c22befdaf45848b17e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5DITluZGZNZcxsy0Yz6YP4sSc4JVF5P8apUj0Y1Np8T8A4dVcSR77ibKcW2BWvrmIsJqJdEe3r78uHUfaNMh1k8d7Zdv8wBh90/640?wxtype=jpeg&amp;wxfrom=0"/><p>人工智能（AI）正在成为产业升级的重要引擎。围绕AI模型、算法、应用及AI基础设施，阿里巴巴开放12项研究课题，诚邀来自学界的顶级科研团队共同发现、定义、解决问题。通过开放真实业务场景、提供研究基金及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509178&amp;idx=1&amp;sn=b1e9a5e2b3713bc3b05a9a0cc8921568&amp;chksm=ce6d2bb1a20201468bb2353e517a94285878c0419a73b04b701bd1e37b3c4f36f0420158b50b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Feb 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里ALake数据湖：多模态数据存储处理方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz6zuY38XGtaUOrriaz2udyuc50tKcTu8lG5hPEZenwfAOde2FKfOLQAZjzzlUNq4gouHx7ck8wzuSwH7aTDxX6CBLgTlzkZdbIU/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第7篇文章（ 本文阅读时间：15分钟 ）本文作者：赵鹏翔（阿里控股-平台技术-数据技术及产品部）01背景据有关推测，到2026年，全球数据总量中非结构化数据占比将超过80%，而结构化数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509171&amp;idx=1&amp;sn=e219f087e21348abe25e6fad82d48946&amp;chksm=ce275161b74dcfdb2fae60e69ccc4dad013146be2264fe26ba706921c1646024249b75213984&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Feb 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

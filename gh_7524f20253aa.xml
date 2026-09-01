@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI新模型曝光，网络攻击能力首次达到关键级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2HjbGxq7NpWxjJfJLgmjLSxx25IRHkMiay3gNxoBvb79IgqyrliauwrsiawlXfS1o0hor9GrGlHcmr3O3otI6nuEqiab85fDaCcxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fable 5.1刚刚登上模型榜单前列，OpenAI的新一轮发布已经进入倒计时。Sam Altman近日透露，OpenAI下一款模型将在不久后推出。代号为Astra的模型已经完成训练，在能力和安全对齐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=1&amp;sn=9f77502364b9c723691ea4631c91bf49&amp;chksm=bc72e5feb041f22a3a73254367faea1c18db42aa841544f1aeb6fae51d0e2a9c25c4b2e900d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic新增合规性API端点，直面Claude Code安全治理盲区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX38I0dYvXs0ETthuqk32OwUJ732oLyAMIv9O5ia2Av1ibBCDczXywzG1Um5Gib8JEb2FW8GAbKw0oPrVR6JnyTgyH1UFiahLSnusok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code会读取文件、运行shell命令、调用MCP工具，并借助开发者机器上可用的凭据执行操作。Anthropic新推出的合规性API端点让安全团队得以空前清晰地洞察这些活动。但这些端点也</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=2&amp;sn=95a1a67370cd9fef4779d1ad280135e6&amp;chksm=bc9bf12e45d735c552c01d1d4cc91412d1fa306984ca7c2efe8a767c01d53d0480875c280d1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软Exchange Server高危利用链PoC公开，攻击者可远程拿下SYSTEM]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0UibNjJ3FKmvcDTUruYVichNDSnPje8RHcIWDlbaZRJSAibicqXf37tAwCg5Oan4pLW50otrUrozo7KUzaEPXxHtl17PGpIVeAdjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对CVE-2026-62911的概念验证（PoC）漏洞利用代码已公开发布。该漏洞是Microsoft Exchange Server中的一个身份验证捕获与重放弱点。虽然微软将该问题归类为权限提升漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=3&amp;sn=544a709b980cca236952c3bdddc9a45a&amp;chksm=bcebf6933fdfec1d6fd94d2a6f5eb24e86346bd2dbe53fb80a8bdc0bdb300fde9e3e95fdb86c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客冒充OpenAI、Anthropic和DeepSeek等AI爬虫，窃取凭据与机密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1GkecSv0V0fWGYOa36ia0ahofo5rCibUt4DlbHoxGe4tamCBQmYH1Tj7MHJddOsicgsib2b5AUBMVsrYAw9ic8iaEVDb8no8Oowqw00/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01伪造AI爬虫扫描攻击者正在冒充OpenAI、Anthropic、DeepSeek及其他主要组织的网络爬虫，扫描网站以查找暴露的凭据和敏感配置文件。他们的目标是可能泄露云密钥、API令牌、密</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=4&amp;sn=747006c6d2c43839c5d838203ac37082&amp;chksm=bc5e3edc01bc5d44ba72e780f3d10c89b5894e8fbf7fa7b91b2646b96b2c360800ce032a1838&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic强化Claude安全防护，AI模型在评估中曾越界访问真实系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3DG6Eog0dZaNvMtwyXuAKSp0SFrES4AiaR2y7JqvqUjLE8AI9IHbelM9lLFKJaTQEHLU6Ug9Tdou1Dv47aT8fKLUCGT9NViaSR8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01模型越界访问事件Anthropic 已强化其 Claude 模型的安全防护措施。此前，在网络安全评估过程中，这些系统多次在未经授权的情况下访问了真实计算机。该公司表示，这些事件反映出运营安</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345890&amp;idx=1&amp;sn=dae77d437f5b6f5a94656fe707585896&amp;chksm=bc078f98d013a9c3038f1aa9e503df22b393c1b59488c6c2658267b8932eb7c53ba44e5f26fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Ysx8buyh1F0QCzCDePhf6w0wn3SD7RaIVQqexjnuWp2QpkM2S70B7nkicTV7b6R5uNIDJUSlYEkvDhJWDs8fmT9VpIEncHePk/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 晚上好，FreeBuf甲方群话题讨论来了！FB甲方社群不定期围绕安全热点事件、前沿技术、运营体系建设等话题展开讨论，Kiki群助手持续整理群内精华、干货讨论内容，为大家提供来自企业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=2&amp;sn=8ed3ab5fbd909b96d8f2a4f9953936a3&amp;chksm=bc84ae3085c971f6604aa196eb827c69f9939a36d54dfb3937f7fceb11f401b4eb565b0b3126&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Aug 2026 19:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Agent自主攻破Snowflake GitHub工作流，窃取Jira令牌直达内部系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3bJrFicflaXIRQXQDKxpL8Xia6SpxbvfPDj7EvSrUgr9RZrhvNiaiashDU4XPd7y7Kfcy3WHB1ZBtR5vVGgeheLRIYlKXZqTjFZTI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Wiz Research构建的一款自主AI安全Agent展示了这样一种风险：一行看似不起眼的Shell代码，如何迅速演变为一次完整的凭据泄露。这款名为Wiz Red Agent的工具自主发现、利用并验</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=3&amp;sn=2de52804c8da1c39e555f7b573264904&amp;chksm=bc4f0c0c471f886c7fff54bb51b12c3c60fc4822bc3f6e335b246e8001d0583f593cb1bbade0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 19:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor严重0Day漏洞可导致任意代码执行攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0hcM4naZhgKXRUzCsPt9sOIfVrPL4c7QCGGnO6SGicnUaT5rzViaXTBJdG1hAZLNP4rNOppp534WRAiaq2eHkjJveJnhekbqibCc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>CursorIDE中存在一个二进制植入漏洞，攻击者只需将恶意git.exe文件放置在仓库根目录，当开发者在Windows上打开该项目时，该文件便会自动运行。 该攻击既不需要prompt injecti</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=4&amp;sn=845558af16bb1a08635e818b99afb78f&amp;chksm=bc40a84249faf7b9a1e6e973a0bddc582565a995bd902fb5811b8789a96805c974f5fa0d6078&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 19:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全程自主入侵，Claude Code被勒索软件利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX23QfFPvNibKFiax80r5kakR0vHmZJWWSfrZeOicv5tmTAuElKqFicVQxibf2V0vUSgLGvefCYqcCGxE5KUyxcFL3TzWpvht10tDxEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Claude Code驱动的勒索入侵Gambit Security发布的最新威胁情报报告，记录了迄今最清晰的真实案例之一：人工智能如何在一次活跃的勒索软件攻击中被武器化。研究人员发现，Th</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344936&amp;idx=1&amp;sn=0aeab99ce9cc34bafc51bf42ce692372&amp;chksm=bcb4246ae720d1a3ce2d0f7124598750634b41b5440d71cd92d3adf6e66e69c8d18f97202bbb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从工具调用到业务执行：Agent安全边界如何守？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3lW9PQgMiahSvkQJBQPibKZSksyoAPdia7mmC1tXo36LfukPU6zXDp9BuPNiazwwUouYHuRh9RlLLR4WNfos0oJCA6wQOWmqw6VFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾随着AI Agent逐渐进入企业真实业务场景，AI安全正在面临新的变化。过去企业关注的是模型“回答得对不对”，而当Agent开始调用工具、访问数据、执行任务后，安全问题也从模型输出进一步延</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651344936&amp;idx=2&amp;sn=1732428803c804f09b5c69bd97c50ace&amp;chksm=bc5c20c8785c83dd841d62bcabcfcb77ce844073da3e062a2826590d0928bdfb89c1ff70a5d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

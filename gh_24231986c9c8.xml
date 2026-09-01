@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[换工具、换 Agent，不换上下文：OpenViking 让研发 Context 始终在线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fefic8F7T62wARfSYWunay5XcadCF6XboQM8Ibnb4ZgUjYr3QdHuzdyAnMxiav95hVIKPqX91u2CnwxrkACS3wSAic2P3Z3LmQhfCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研发的一天，往往要在多 Agent 之间切换，处理不同类型的任务。群聊适合快速 Review 和团队协作、CLI 适合深挖代码，飞书文档分享结论、整理周报。面对不同任务，往往会选择不同的工具。Open</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522116&amp;idx=1&amp;sn=12549be2892dea3b03f75bb06b9d61c8&amp;chksm=e887286fce3b0cc5519a2d3b3ec9beff2f99bd91ce191de272f7b19134426e5f1e394665a681&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[VLDB 2026｜字节数据库 5 篇论文入选，附现场分享安排]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FechaVQguL1l0fP6k5UdB97fIgoA6GRQSs73iaSVfT47AdAXmrruo921ic2xCzPrW4VHHJvDKnmXCKQDKwMra50JL0MoPwJibDcgRU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为数据管理与数据库系统领域最具影响力的国际会议之一，VLDB 2026 于当地时间 8 月 31 日‑9 月 4 日，在美国波士顿拉开帷幕。字节跳动数据库团队今年共有 5 篇论文入选，方向涵盖键值分</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521958&amp;idx=1&amp;sn=c7c173ceb0fbf6827a6cf448e4380d0f&amp;chksm=e8e305167af228b8d0219ea3e631813762cb23d424a6e5d73fa734b951d073eed908fc396f1b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedYrYTQiaAHDzGZ5QX335bucWxf6ytdjaiaDibYoJ1o48L655nkMib6nFHxbkssdmKg8Zza60LP7uXzaVXlUu8g1m74aekwgcLONxs/640?wxtype=jpeg&amp;wxfrom=0"/><p>FAST（USENIX Conference on File and Storage Technologies）是全球计算机存储领域最权威的顶级学术会议，代表着国际存储技术的最高风向标。字节跳动基础设</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519246&amp;idx=1&amp;sn=42a80ee711fb0327f7c332154702497c&amp;chksm=e89c66a0ff9bb6612d2d822ec2297d7f7a551cabd508a12fc9745c96aa73e2c22c3b10b3d650&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Apr 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动前沿技术领域人才校招，正式启动！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedNuWutfsGZ7ctBctIk4Uo3UZqUguEgxR1Mq0CFBFbwsCL5n7ZWlGyec7ktsib9zdBAKjS1FjdqKRxSp27O5E1ic6zDt79bicz7tM/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击“阅读原文”，一键投递，加入我们！</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519286&amp;idx=1&amp;sn=2e35bdf1fdc03a5c1707e1be6a84cdeb&amp;chksm=e82ddc1f41ebf8666d7aad74e86cf6a77a5022e0f9190967bfcc3dfeb910a0a751cf6ea30094&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Apr 2026 20:53:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Arm9裸机门铃黑盒逆向：bootloader分析与主镜像提取]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K26RG8jLN3seBxaGm4g7SamKRL9Gia8AADdv2Lhke103aeQWZXZxxXog7xplYU8kBXlgiafIdnTn579CibAKicK8rax4jE5DRKjJ9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>智能门铃设备长期以来都是硬件安全问题的重点关注对象和重灾区。然而许多这类设备为了将成本和功耗压缩到极致，使用裸机或RTOS，配上各种偏门，找不到文档和SDK的国产SOC，使得对其进行的分析变得十分麻烦</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=1&amp;sn=05ca2905264dbe3e944570fa54ae6003&amp;chksm=b0d922b5fdac549b6aee5eacf268a39e33d9e60006bfcab699c5941d6133677d813621bfa2c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Silver Fox（银狐）组织发起虚假软件攻击，篡改Windows防御机制实现入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3MfpEjssfh8k4nojI8nj9aaXzynxfTMMbYffGKdkkm3L3mDFB1aZaibWK06X9gX19WPGhfRAum9mPmls9ViaBJsEHTQHL0YaFIY/640?wxtype=jpeg&amp;wxfrom=0"/><p>*该攻击主要波及国内相关业务主体及中文用户，医疗、制造、政企、教育等多行业均出现受害案例。近日微软披露一则高危攻击活动，与Silver Fox（银狐/Yinhu）威胁团伙相关的攻击链路正在野外活跃。攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=2&amp;sn=c67c60f5a7b426b8cd60d7b614638fa8&amp;chksm=b070f4cdb5b9f53e845ba53289c4ee9d91c8ce02d2c2ccde7a0d8baab67fb91a577aca13a682&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=3&amp;sn=26cef62fe07f9ed9fcaf516b3016d24f&amp;chksm=b0a259e8e68f1848ccfbaffa19b4eb626f038f0b47d15347c3adfe09f36e4bbad2463995539d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构攻防｜弦盾科技，助力第十届安全开发者峰会（SDC2026）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2e54iaBtFncejbTYEib344hWZulcZ0QVDKn9xZRoMHuNyZAHibaiaqG4oNicmHdmhXoymnwYm6wicXDyAQyVXaOspnCEIInacDmMI7k/640?wxtype=jpeg&amp;wxfrom=0"/><p>重磅官宣！弦盾科技即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619249&amp;idx=1&amp;sn=e7895bbe3704517944ab241685a92534&amp;chksm=b0d3db8bdb9ba17a539652a534b3c3aa8d45ac7fac31122a70270ad6e7e2ebdb22e79c1f3ad7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2P6KjRS4elTnNcQKhQgTmgiaA2lBcPbtxAUDQRib7Ar6JMMsTztD7TYeDpm4Q1R8b6Hc6LNib7BctOV26nwkzZ4Jn5Jd0fFiaYm9Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月14日，智谱AI对外推出全新模型GLM‑5.3。该版本并未更换底层基座，依靠后训练Scaling技术实现能力跃迁，拓展长程任务训练规模、丰富环境样本、拉长后训练周期，在编程、智能体执行、网络安全多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618672&amp;idx=3&amp;sn=92eef51d42d5ed526817084356cc87b8&amp;chksm=b0484c6211aad534dcf16dad34cf1a73fd72536fad3eba657546e786aa15069810f115314f08&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 14 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[火热招生中！AI Agent 驱动 Android 逆向与 Root 漏洞实战训练营]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K113dsv9z2gs2t3VwXmUljicgIa8TYibdO3DMsAc4D7dia9Uoiaia1IqrDnDdfWHpnGytVJtJicGkz7qQ5X5uWqzxYfPHVquA5PBcuhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型能力快速演进，安全研究正在从传统人工分析模式向 AI Agent 驱动的智能化分析模式转变。本训练营将围绕最新 Agentic Security 思想，结合 Cairn 与 r0re 项目实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618672&amp;idx=4&amp;sn=6da5f7d96ceba73b119a2be8f10d5d9e&amp;chksm=b0d792aab166ed824ecd81d7dfa598be5d06d3e4045adee2c660864ba879b0823c034ac6abdf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网络摄像头软件去广告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1WZRiblHBDQUkmWXkialiaUtMF2VkU8fFwZ6JSHusuBxDn64CnDf349EjElyxiawklCV9pAxYcotVr78dfGEYgOBVzUXXzQgYBNFE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景目标应用: 一款网络摄像头工具，家里人经常用来查看摄像头，但是软件中塞了一大堆牛皮癣广告。广告行为: 开屏广告，热点区域广告，摇一摇跳转，关闭按钮不方便点击且容易误触广告，各种坑老陷阱。软件中的广</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618624&amp;idx=1&amp;sn=c8e240819534742b651ac3a09688faac&amp;chksm=b0ae5f834ad801911b2d6e70a3a1011a8e98c9c02418cefe22a32f6bbf989b4824ef1864f734&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“猫鼠游戏”到网联车安全｜HG TALK 第五期：对话王志鹏 &amp; 章意]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3TqsDOS6kvnMvdkNia6jfZt2lJVjcgmPxtRmCyEJCYWJXTdB45B4551fL0R8wxIkrWDyliaEsVEAAw6c1HT6WspBB8TMqJsCELk/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术不分咖位，热爱才是一切。这一期的两位嘉宾，有着一段特殊的关系——他是他的引路人，他是他带出来的人。茶已备好。这次我们坐在成都的茶馆里，慢慢聊。Thanos 王志鹏，为辰信安技术总监，圈内人送外号“</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618624&amp;idx=2&amp;sn=5fe496300db98ee1a157bda201193dad&amp;chksm=b034d3ae45960388457a07a6586d83c8f219b0362556ed381dcddf64182120987153c6983a7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 13 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
