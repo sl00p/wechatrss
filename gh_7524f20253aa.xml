@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Google、Anthropic与OpenAI相继发布新模型，网络安全AI加速进化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RAQ35hynUgUx2ZCHE0n7WbWIEXiaUrYtiawdPvbtic0OmFiaLasbM04uzdFsUbTqvfNOSOscypgjrqMZxHcG7tANibaCOGXBabVNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Google发布网络安全模型Google于周三发布了Gemini 3.8 Flash Cyber，称其为旗下能力最强的网络安全模型，并已通过名为Fairwind Program的新计划向一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=1&amp;sn=6414464825370ea59a15ad1a6dd6d19b&amp;chksm=bca7b7c5f6ca3b5ae5c365cf795c035c4e15252e00e20489106e4f6742d2315a20db569bb3d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用LiteLLM管理API漏洞，窃取机密并攻击AI网关服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2bw3GylETdroUqHvy02uOa0ncxps5tvqiaNFaJFXdZdSmUznlx3LRLHlQq18JNSTUuQEtQNEJAJ4zC56FiaPNrK3cSibTZUiaU9icI/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正在积极探测LiteLLM AI网关部署中一个已知的授权漏洞，该漏洞可将低权限账户提升为完全管理控制权。该漏洞编号为CVE-2026-35029，影响1.83.0之前的LiteLLM版本，允许已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=2&amp;sn=bbc5d03399800236a4de4ca622cc2326&amp;chksm=bcd6e6c8524c52711c7a183464df7b6aa7526a6546dce9514d648fd6257b69f770cdedabe1b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CrowdStrike加码AI安全，AI Agent身份与SOC并行防御全面上线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Fy9RoIvZ7pBfeMt0PZItjXDPNDtCXWNQyQBFZ7GUQC16pOnuQSbv5FCkoKkEAqQL1HefVsUZAWvVUvWnI00YWp9ME0xShR44/640?wxtype=jpeg&amp;wxfrom=0"/><p>CrowdStrike Holdings Inc.今日宣布为其Falcon平台新增三项能力：一款专为人工智能Agent构建的身份提供商、一个经过重构的调查层（可同时跨多个安全域运行多个Charlott</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=3&amp;sn=942d898633b6bd464818efa6bcb6f0cb&amp;chksm=bc6dc0194633b79722292dd4599a0bd3df9e13d0c213f259830a9621a99b3354ec8dde67b641&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客入侵思科路由器，监视网络并向关键基础设施横向渗透]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1VhSojKhxqM3BJLic8wl4hXlc9ujYaniavkdSVfiaAZwI6EahjetoPCYEgZoVAYU3oLmskXgjbkJia9jNkgRfpfTcxqSJYqIX0Cho/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fire Ant已不再局限于攻击单个系统，而是开始入侵组织机构所依赖的负责流量转发与访问管理的网络基础设施。该组织已将Cisco IOS XR路由器转化为用于监视、远程连接以及向高价值环境渗透的平台。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=4&amp;sn=a6ec65f15f849938f5b0e0b93ef2cd43&amp;chksm=bce90e9c5321325a816e21efcebb0a600dc3685282bfe508331808d5411ba35003fa8aaaf4bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI新模型曝光，网络攻击能力首次达到关键级]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2HjbGxq7NpWxjJfJLgmjLSxx25IRHkMiay3gNxoBvb79IgqyrliauwrsiawlXfS1o0hor9GrGlHcmr3O3otI6nuEqiab85fDaCcxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fable 5.1刚刚登上模型榜单前列，OpenAI的新一轮发布已经进入倒计时。Sam Altman近日透露，OpenAI下一款模型将在不久后推出。代号为Astra的模型已经完成训练，在能力和安全对齐</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=1&amp;sn=9f77502364b9c723691ea4631c91bf49&amp;chksm=bc72e5feb041f22a3a73254367faea1c18db42aa841544f1aeb6fae51d0e2a9c25c4b2e900d3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1CV3WbM3waibqOFakqleeiavSLMVqDqs35FgQGtzmkkicJ0E8wQtsj5cclrniaYoj0cd3nfmWMXCKn6hEt4AdlDibP99RibRvlEUww4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Entra ID漏洞曝光微软已确认，其云身份与访问管理平台Entra ID中存在的一个严重远程代码执行漏洞已被在野利用。该漏洞编号为CVE-2026-69836（CVSS 评分：10.0）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=2&amp;sn=84ac72a4adf9205992e2d68e80e92bb0&amp;chksm=bc2b1dabe07bbce45fcc11b2e02d3a5af271011c69aeabe1483ada1d21e57006b6b223c5aa5b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI因担忧新模型可自主发现0Day漏洞而放缓AI训练]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3cNT9tzqnJLYpldc7wIDEJVYib1aUTG5SyK8qDWaUDDicib9Axgfc1tbNrns1ONhJyJWWZlmVvlx6gDlic2D6ry5RNlcnn9ia4Tv8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>内部测试显示，OpenAI即将推出的Astra模型可能达到关键网络安全能力阈值，因此OpenAI已暂时放缓前沿AI训练。OpenAI表示，这一决定源于一起涉及Hugging Face模型的安全事件，以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=3&amp;sn=d9d95fd0ce917006bc0bc0251e0c3e02&amp;chksm=bc849288c36a115f619fddf095a045e897ae93897db9d9950f3b6db60a398ba41f26c0d7bef3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客将恶意代码隐藏在英语单词中，借以感染Windows用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2JrdqBsibu8TiczoXjyTRBibyO0myPeP242vRxnqian1DziaicRDFHcc6oh55QYpfXX0JDibuNz6Dz7NbpTUkS1OxcyITvEAeDSFMYhY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场针对Windows的新恶意软件攻击活动，正在将恶意代码隐藏在普通英语单词中，使载荷在分析过程中看起来不那么可疑。该技术被用于传播Amatera Stealer（窃密木马）——一种瞄准受感染系统中敏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345110&amp;idx=4&amp;sn=0e519ad78dd644869011c0fe093ef497&amp;chksm=bc45d96d87be98f6ff92a35b449563d5729a8fd24e3230751f85ae78ec430fa76d6d6e32ac51&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超1.4万台大华摄像头被入侵，CameraSwarm行动揭秘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1qIiaflXrT10GnJ6tcuH2wuiclBPydN7h1EmCcibt4yH8tibg7P8Nx6rsbrWAx75vvhCmNaIAic9IvgYibOPOmC5X39ytuXHSuSMtx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名研究人员发现了一个暴露的目录，其中包含一名攻击者使用的完整工具链。该攻击者在2026年6月17日至7月22日期间入侵了超过14,000台大华摄像头，这些摄像头主要位于乌克兰和俄罗斯。Hunt.io</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=1&amp;sn=9194c878699cefef170af0be28f2e03b&amp;chksm=bc8e50449d90c31935afcc1e8e3786015c837d2207de32ea5b30a49916ce4a1f1d130acad066&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 19:04:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI如何安全接入业务；AI挖洞普及后，低质量漏洞报告怎么管 | FB甲方群话题讨论]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1Ysx8buyh1F0QCzCDePhf6w0wn3SD7RaIVQqexjnuWp2QpkM2S70B7nkicTV7b6R5uNIDJUSlYEkvDhJWDs8fmT9VpIEncHePk/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 晚上好，FreeBuf甲方群话题讨论来了！FB甲方社群不定期围绕安全热点事件、前沿技术、运营体系建设等话题展开讨论，Kiki群助手持续整理群内精华、干货讨论内容，为大家提供来自企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345026&amp;idx=2&amp;sn=8ed3ab5fbd909b96d8f2a4f9953936a3&amp;chksm=bc84ae3085c971f6604aa196eb827c69f9939a36d54dfb3937f7fceb11f401b4eb565b0b3126&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 19:04:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

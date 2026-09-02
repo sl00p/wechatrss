@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[今天推荐点别的，5 个 GitHub 上开源的英语学习神器。。。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33q69nZAAAiaqYWgMSDCuDqxnrboOcHBD2w1D3yI0U6moxJvwFP2ibSIqhzKVwBN6ibSKicSzANiaicpWlw4HbZMdC5l3Phz010VxJI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01训练英语听说能力Echo Loop 是一款专门训练英语听说能力的开源 App。目前在 GitHub 上获得 3000 多的星星。它把一段英语音频拆成这么几个环节：盲听、精听、跟读、复述，再进入间隔</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536438&amp;idx=1&amp;sn=5b4b3820b7042c8e94b969f521764b1a&amp;chksm=f80351de879a52dab7aa8f77d0c29dae8e7eb47fc7ff18d836d1b57cd0156e694633b9e03323&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 14:07:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分享 2 个刚开源的数据集，一个是健身动作，一个是 CAD。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0mgsjmIX3tNSiaKuiaXbrWlLxJIwxEfaOZoxiaricDkiaITWYPTJOic44gUKTak6bmB7Bs40zIdnTWTkiaWv0Nr11mGlzF9N5b8e7w4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01健身 App 动作素材有开发者把 302 个常见健身动作整理成一套素材库，开源在 GitHub 上了。每个动作都有 3 帧，共 906 张图。而且，每个动作都带有结构化信息哦，比如动作名称、器械、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536423&amp;idx=1&amp;sn=61f2af2610389840ab999a5efdab5214&amp;chksm=f8cb083d44aac1bf38cd97743f0da74d93a617c170e75ddde21f9d639e0d1384599577e27f55&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xmM3UG0z5ZR4dPyEHdB91FIfVekSpocLSgmVPAXdG9KPVYFAqYp04bZrBcS5o9MktrvX9diaBLjvMsGsrKmhPLPFhP8zCa7VQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上有一个在浏览器上能用的 Figma 平替。也就是在浏览器就能画设计稿的开源工具。而且它能让 AI 直接读取。有很多人画原型都想生成的原型尽可能和原本的设计稿样式逼近一些。如果你只是把之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d&amp;chksm=f89ec95cf25f8654d71d337b4dd7f373b339398cc11bd6b44c1e09b23d0dfc0a93a86b16eb9d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 13:07:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[最近这 4 个 GitHub 开源项目讨论较多，推荐一哈。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0kb8veBL5cLzBXz2sejLbTiaLlDWCVN3T9yDiaeYdZdxVOU82ibySenYBkJSOiaNYwDxfianGqPXykFAqcqFQqOuylckF5UtqQzWx4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给 AI Agent 配个不爱写代码的搭档让 AI 写代码大家都有个体会。让它做个日期选择器，它能给你装个 flatpickr，写个 wrapper 组件，再纠结半天时区问题，五十行起步。Pony</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534791&amp;idx=1&amp;sn=4bd76595f21d621e9680fc0738bf1c83&amp;chksm=f8c351d9370f500e8ce715ce8a476a67dc459bd1af1848db79ead48812e0e7f70b80d13ae70a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 16:32:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

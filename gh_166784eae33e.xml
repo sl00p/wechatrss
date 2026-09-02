@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一场“面试笔试”背后的入侵：Mirage Kitten 转向 Node.js/JavaScript 恶意软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9FicpsbWGSOjzGicR1wehgpkbKVPGR9w4ukV6LEpfMqrU23SQUZTs4ZNuiahTXfEmK7kgicMIWofUdyylWzKda421PXAJ3qmW5Lug/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · APT 追踪一场“面试笔试”背后的入侵Mirage Kitten 转向 Node.js/JavaScript 恶意软件Mirage Kitten 组织 NodeRabbit 与 Poll</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520202&amp;idx=1&amp;sn=8006a96f5fd860011b5a2bf253037f58&amp;chksm=eb9a94e48dc133e34a4417cf8da60bf022fa1da7c828f68583804f2ff4609703db973746c8a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 03 Sep 2026 15:06:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[运行 23 年的 P2P 僵尸网络 Sality 遭协同瓦解：没有中心节点也能被干掉？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8zJuvy1hQ8Z2dOU3d4lv19NAVJyp83y9OVFWgY9CYbPWq7kmqVaicBFY9fK64icXVmhVm0lZ5FvYCxm0G8ckhib6ibxPSecuwOYpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>僵尸网络运行 23 年的 P2P 僵尸网络 Sality 遭协同瓦解：没有中心节点也能被干掉？Sality 于 2003 年首次被发现，在互联网上持续活跃了二十多年，称得上是恶意软件界的"活化石"。此</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520178&amp;idx=1&amp;sn=4171b9fb76b2f7f21216b9daa6682f63&amp;chksm=eba11c668cbcc9dbbe9c7e7d554c67c2a7fdcc72d711530704319f56b2dd26f4f4b95d675900&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibicDrCCTeuB52iarqgUPlG7h7ulPKhxaBhl2bX7CupXhkHFa2k2mZCaKBq9J33FIh6BzZh7kKzhFIzibZNk9bLZUXSWfDzicHNxWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述奇安信威胁情报中心监测到2026年5月20日Socket威胁研究团队披露一起针对JavaScript生态系统的严重供应链投毒事件。攻击者通过伪装成“接手维护”的方式获取开源项目art-temp</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518848&amp;idx=1&amp;sn=90b15138b9f9cc9e7698039e29fbcdce&amp;chksm=eb56bd2f0233212e976b4ce58b46ec7aef486da66434c8119721820bffdfd5beecad45d150d6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 14:28:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub Actions供应链遭精准狙击：攻击者用"移花接木"术掏空CI/CD管道凭据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibjeXDpKswSPklt1icDJ9UJjz3nF57I7L3wuDOYeXeIEEO9cbLCzQUnjhqzkcAtia0ne1auhE5VUFh1w1GnIbqPx828AzbxWbia3I/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述近日，安全研究人员StepSecurity披露了一起针对GitHub Actions生态的严重供应链攻击事件。攻击者瞄上了GitHub Actions市场中的热门工作流项目——actions-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518843&amp;idx=1&amp;sn=d7623b89ab25eabcf7fdc16a16fbf0b9&amp;chksm=eb508434d1132c4d5b5af27f4b7103a394a2dfc50c531c2b0a8e1b64d350720d1aec1df4a2b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 17:24:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
