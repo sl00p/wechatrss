@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/9/4)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• SonicWall SMA1000 链式零日漏洞导致无认证远程代码执行https://sectoday.tencent.com/event/EnbGZqABVJfJhgnJpRpv美国网络安全和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960542&amp;idx=1&amp;sn=52fe57776a10388c94d8f241d523c9b0&amp;chksm=8a247bb59a7c271692bf0a6442ba248aac6aa9e1334de727eccfd9944bf3268a08bbe07b14d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 11:18:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/8/31)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• QSB-118：qvm-copy-to-vm 错误报告中的 Shell 注入导致 Dom0 任意代码执行漏洞分析https://www.qubes-os.org/news/2026/08/29/</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960538&amp;idx=1&amp;sn=38adda9f832148a74497c8d99bdf4977&amp;chksm=8ac07220058ae9d594dcb073734e1ccb53eb67c22647f9d0b4d3aa77a96b568fe5bab22a22ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Firefox WebAssembly 栈溢出漏洞事件https://sectoday.tencent.com/event/AH_CyZoBDgvMcds_UeJ_2025 年 11 月，安全公</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960316&amp;idx=1&amp;sn=6d3a045e621fd4c5ed3ed770d9c527cc&amp;chksm=8a6c50b097e20e9ebe38544b19870eccbe3b3e4d10937476685c51c66ae9c7ff929324cb4245&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 10:47:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/11/27)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Oracle Identity Manager 存在关键远程代码执行漏洞，可被未认证攻击者利用https://petri.com/oracle-identity-manager-rce-flaw</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960313&amp;idx=1&amp;sn=d052fc5c941e7b20c30459d1853afcb0&amp;chksm=8a7b0602885604395cde3fdfd22ac1e9f0664f895cbd79290d810662561becfbb5ba5a383e4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Nov 2025 16:10:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

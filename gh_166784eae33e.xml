@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.08.28~09.03)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8BK06R4a2E4Uy1Q0X6xmpLl78Z332jOFjdPl4liaxRsRA6ch3N6sTC5pojibp1gXhULiavH62kP0opCCDPuT1icpJI4MD0RL42FW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.28~09.03攻击团伙情报Dark Caracal 卷土重来：使用新型恶意软件攻击原有目标群体Mirage Kitten 利用全新恶意工具集，针对中东与非洲地区航空业及金融科技行业发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520246&amp;idx=1&amp;sn=b2b753df228dbb998ddc0fa321b9fa3d&amp;chksm=ebbef5bd1fab69ffc68b0319a7f1c196bad4e7ce8e1478ae71a9eef41a49a52ab01feff46572&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 14:41:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一场“面试笔试”背后的入侵：Mirage Kitten 转向 Node.js/JavaScript 恶意软件]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9FicpsbWGSOjzGicR1wehgpkbKVPGR9w4ukV6LEpfMqrU23SQUZTs4ZNuiahTXfEmK7kgicMIWofUdyylWzKda421PXAJ3qmW5Lug/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · APT 追踪一场“面试笔试”背后的入侵Mirage Kitten 转向 Node.js/JavaScript 恶意软件Mirage Kitten 组织 NodeRabbit 与 Poll</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520202&amp;idx=1&amp;sn=8006a96f5fd860011b5a2bf253037f58&amp;chksm=eb9a94e48dc133e34a4417cf8da60bf022fa1da7c828f68583804f2ff4609703db973746c8a8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicib8aDTXgyVeXltcxDc1XazrxhK5hBrpckHLRhLicrXPw2rojNaf2wpndsmqia8o8zKRNutERSI8qwiaAEEzoGkxLPfO8PJMg2fdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.05.15~05.21攻击团伙情报VELVET CHOLLIMA 利用交易应用程序作为诱饵进行信息窃取活动FrostyNeighbor：新鲜的恶作剧和数字恶作剧Kazuar：国家级僵尸网络的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518880&amp;idx=1&amp;sn=d7cf1fd2bcdfd883a6394d86b8875e39&amp;chksm=eb1f69423033f1f16e932f8a050a434e7a216edb5fbb1a5c6eb61a051b23398bf728939d1f07&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 14:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[疑似Coruna卷土重来：npm包art-template遭供应链攻击沦为iOS漏洞投送工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibicDrCCTeuB52iarqgUPlG7h7ulPKhxaBhl2bX7CupXhkHFa2k2mZCaKBq9J33FIh6BzZh7kKzhFIzibZNk9bLZUXSWfDzicHNxWA/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述奇安信威胁情报中心监测到2026年5月20日Socket威胁研究团队披露一起针对JavaScript生态系统的严重供应链投毒事件。攻击者通过伪装成“接手维护”的方式获取开源项目art-temp</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518848&amp;idx=1&amp;sn=90b15138b9f9cc9e7698039e29fbcdce&amp;chksm=eb56bd2f0233212e976b4ce58b46ec7aef486da66434c8119721820bffdfd5beecad45d150d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 14:28:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

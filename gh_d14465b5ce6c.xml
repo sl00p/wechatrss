@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness背后的“心脏”：Cordis 到底是什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9059KpjhBYVZJFoTj2taXgkc4nibrTCJyM6EtxibbezGFezTPUM2SGl6l9PdQHvGTtwZbJvUSBdbgYAhNlrsJr8z0uRTZib933Glk8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lss233DeepSeek Harness 的"一切皆插件"背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803959&amp;idx=1&amp;sn=9d18ecc2139e8ab90a44515ca64b0db5&amp;chksm=bf92759adc83f6a6a4b531ea0642333ebea82c9ab9131ea5584ab947e8a8133d02201270b05d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[鹅厂员工都是怎么被AI“糊弄”的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905MRDGK4aTlc8WUEooG4UR2a2Beq4Er4HnZGrGZjjJPQ73Vq8s5n1xsbX4F2gsPMvYqxjcoJ89lMIluRsfs5rvrMttRoF008bk/640?wxtype=jpeg&amp;wxfrom=0"/><p>话题背景你有没有被 AI 一本正经地“骗”过？现在越来越多人开始用 AI 辅助工作和生活，但用得越多，也越容易碰到它“装懂”的时候：编一个不存在的知识点、推荐一本查无此书的书、把错误的代码解释得头头是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803958&amp;idx=1&amp;sn=9ffde51b32770be812fd7d9743ae7f7f&amp;chksm=bfdb03b93a318febedf155e9acfdd3ad040a9c9f7f994709781c220058331bde33c31c37fdb7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906cep3aUqElTa6L9mRVXFPvMSE59fQdUjZOKFDRLB4gI4Ka0f9jI4WfXXiaJ9oNnpb4wiamnR0f5z5V39s52XNibN4pURuiaiasa3ia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语北京时间今天凌晨 1 点，谷歌 I/O 2026 在 Shoreline 圆形剧场落幕。整场 keynote 大约 1 小时 51 分钟，涉及十几款产品、三代模型、一个新 IDE、一个新 Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801563&amp;idx=1&amp;sn=31ffe905a1be1e5ddb9594b9fef76fa5&amp;chksm=bf0de35092ec21aff1a6d746df33e175a23f0e12f45828812c26287413dd349a905698e23309&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 15:24:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给程序员送什么，会让他炫耀三天三夜？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904jDZk7JlzGNjZ06WAxC9yJ3OwyCnxZscNxxmibjlm7IN962obauUiboxd2LvEqIaKldOziahlsa0Gtf3uM7ZjlIdhr87ia2abu18o/640?wxtype=jpeg&amp;wxfrom=0"/><p>这9样，基本能吹到下个月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801557&amp;idx=1&amp;sn=6f39e3a707ec56f1fdab7c1ff9466885&amp;chksm=bf03fd03795692351dd400d0818ac182daf7f2815caab1c2e643b462f173997d83abe879c9d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 19:15:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

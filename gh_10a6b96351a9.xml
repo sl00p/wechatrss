@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[虽然程序员都在用AI写代码，但为什么项目的速度还是慢？真正AI-native团队，产品，设计，架构师是怎么分工协作的？ 估计很多人都有这个疑问，先说我的观点：问题不在AI，在流程。AI编程，缺的从来不是工具与技巧，而是一套工业化的生产流程。 传统流程的假设是：人评审需求，人评审设计，人评审架构，人评审用例，人编码。AI时代的现实是：AI编码效率极高，但AI不理解业务、AI不遵守规范、AI不承担责任。 如何用工业化的生产流程破局？ 我的认知是：[基线]是公司级资产，越沉淀越值钱；[产出]是项目级交付，每次新建。 之前辅导过一家在线教育的公司，产研团队不到30人（产品，设计，研发，测试，运维），AI工具在公司内部用得也很多，可团队效率还是上不去。后来落地了AI-native的工业化项目交付流程，产研效率提升了500%。 在整个过程中，有一些很核心的问题需要解决： 1. 如何构建流程，尽可能减少人与人之间的沟通？ 2. 如何尽量减少，AI在产品设计上的幻觉？ 3. 如何尽量减少，AI在架构设计上的幻觉？ 4. 编码给了AI，那人在流程里干什么？审计划、定标准、设边界吗？判断还是我们吗？ ... 我会以这个公司为案例，和大家来讲解，AI时代的工业化产研开发全流程。 今晚直播，欢迎预约，和大伙细聊。 一些浅见，希望对大伙有帮助。 PS：你们公司，对AI的使用，是在个人提效阶段，还是流程协同阶段？]]></title>
+      <description><![CDATA[<p>虽然程序员都在用AI写代码，但为什么项目的速度还是慢？真正AI-native团队，产品，设计，架构师是怎么分工协作的？ 估计很多人都有这个疑问，先说我的观点：问题不在AI，在流程。AI编程，缺的从来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981512&amp;idx=1&amp;sn=61db270aa6779aa152ae8b3085bf689d&amp;chksm=bced49413fd59bd825dddae92edcbc169cd8b3e8c0af13895677635ebd6a8bc67efad31ce2ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 09:38:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[写作？出书？技术人做个人品牌真的难吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdfmlEQ1ibSEr7j2hddSIEVchWQb6zXAxZIzIDCqIYmiazVaPbj2yqcmJGL5U0kHZnAJLmASR5fu2zIOWEsxpFicoK7Rp1LKmNiawU/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云架构师同盟组织的一个线下闭门技术沙龙，邀请制的，欢迎大家参加，推荐人填我（沈剑）就能来。凭啥？你面子大？额，不是的，我是演讲嘉宾，申请了30个名额。坐标：北京日期：9.12实践：14:00-17</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981507&amp;idx=1&amp;sn=06efac6973c9ca58b566673a0030500d&amp;chksm=bc8cb596871b5bbf79784b54c6d8af9afb2425374e069ea71de1fb84ad8483647ee15141f211&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXc9J8qcDlYeqqlekjc09KtLbSnurFbQMVYY9e6Fiarib0GDmunKBZKgPYMFuzA9mRppWhsbzNibG1CIb249hcicd076E6OZibaledq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>据中国基金报报道，某招聘平台显示，杭州深度求索人工智能（AI）基础技术研究有限公司（即DeepSeek），发布了多个岗位的招聘信息。 在DeepSeek挂出的职位中，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981171&amp;idx=1&amp;sn=08466e287db378a52c5d0a102e3c17da&amp;chksm=bc67679179d263a93373ae869e8ececd6b8231f8263488e85827724268b3723cb37dd6a88977&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 11:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[惊现漏洞？1000多的技术大会门票，居然1折买到？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXd3IKVWxfmaGNlvYpLM97pV4zwNRsIvtOaDjf2icUJYTb3aMZp0CbW6DXDLJibroxicnHxwfic00vcwiawkdLY7r1wW9QEiaw4R2opPU/640?wxtype=jpeg&amp;wxfrom=0"/><p>经常受邀参加一些技术大会，分享架构/研发管理经验。行业内的技术大会，门票动辄就是几千，程序员们是很少承受得起的。朋友办了一个，程序员想都不用想就能参加得起的技术大会：XCOPS峰会画外音：99一张。会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981165&amp;idx=1&amp;sn=05a928f16642f1764b2a8ff1521a7227&amp;chksm=bcc28aaca20812c3ee53255232c45a3fe61194a8571cf542bed2e654817864fab3e1502a558a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 08:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

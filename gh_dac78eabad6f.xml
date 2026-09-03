@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一篇AI味100%的文章是怎样炼成的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7spzia6AfDlMddEic2yFEp2wbj1oITzSkHic54rguuhA23Q2VEXXYrEHwRobk7dnIz3I4ALETgurn07vY7su21ghJ6RUVsoTI1ZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01人类写作有一个长期没有解决的问题：太像人有人讲话啰嗦，有人表达主观偏激，有人罗列了一大堆内容，却忘</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697330&amp;idx=1&amp;sn=226d7aaafa37d0021f92581b58afb826&amp;chksm=ebc939cd3e297dcb10d05b6583bac73366ec791d680826c02107f761d142b7b24023a405d262&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent每次接新任务都像新人第一天入职？带你告别“一次性智能”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6sibQzbNNUcsy65G7mHmRO89KPSHj1OK0AG951HeIpD7ZRf8JKWpAaia1gIP10C8hdkP8iae0dmed035vLylXhkyovYw8fr8CNh4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告代码能告诉我们系统现在怎样工作，却很少解释它背后的演进过程。 一个看似普通的改动背后，可能已经排除过几</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697297&amp;idx=1&amp;sn=9f3932deb893f278976ebb473721b616&amp;chksm=ebb4b66c42dd1ffbab400012d72d7df32cb9c711de5563ae9ef10cc6f4d30d08b05baa788717&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[平平无奇的源码，竟藏着Agent的核心秘密？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7KxIR7qbt37B51OTiaNq0xDDbHHlqxNr1mMshI2iaWYkSZoEljgny0uwy0LQZ0ukKGbWNCx8LBGpVCa29iakkibu0C0NhlZibVabao/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01整体架构：三件套用户消息 ↓【System Prompt】 ← 告诉 LLM "你是谁、有什么工具、有什么 Skill" ↓【Agent 运行循</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695603&amp;idx=1&amp;sn=1753f7e5a63067c16db284bc22fbe238&amp;chksm=eb7a17e953a1b7d76cabfc2b9539de2969fae0c3a65e534defa4b2a180bfb9d2f9ac13deefee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云Agent Memory节省61% Token提升52%成功率的诀窍：Mermaid无限画布×上下文卸载]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr70xyzhOhUU6TXeRjjgW3KZ2ZkzGXehNUBqWXicAXxrqgBgVuDf3g38T9AXHFMEJw98MXBpDzr3RnJ5sygpNiazfqULhXVS0VoUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文提出一种基于上下文卸载与结构化图表示的短期记忆压缩方案：通过将完整信息卸载至外部文件系统，同时利用 Mermaid 图语言将任务执行过程转化为可导航的结构化</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695603&amp;idx=2&amp;sn=d0dc08cafa650f04116c408661df3435&amp;chksm=eb1cfb1c574ee82c28c6078a463ce20c0a04d0a8427b25c2430b1deec5275c59785c18c54159&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>

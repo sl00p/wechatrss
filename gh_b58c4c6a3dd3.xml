@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯云推出AI自主渗透测试产品「无境」：以AI对抗AI，主动发现防御盲区]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun5zHMJcialQl3icFLaibJ0o4llFpnfNQiclx7tdTFeXjzv9lqEEXKGdbzQ5A0NJWtdYzV2Vz9AGq5uPaN7jRTmYSiaoKjwL3mlUibfJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>只输入一个业务网址，不提供任何登录凭据。43分钟后，它拿到了管理员权限。这是腾讯云全新推出的AI自主渗透测试产品「无境」。在这次真实测试中，企业录入一个授权目标后，无境自己完成侦察、利用与验证，最后交</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530607&amp;idx=1&amp;sn=8888a8d3d2dd4540aa3ff2925f47ebca&amp;chksm=c11d5d23975df94ef66e133354d7ea6759d8242a3e717f8b12fffdccb676b69f1a84540ba192&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 10:00:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[WorkBuddy金融版发布：让金融机构放心用Agent]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun5CWSMcPkib92fo14hsXZ4eu7Liczgu0wLYiaLo2MXVAY7sJ3lKcL83AIzf2nej3FS7m2fftFDg0l5AstMn9nkoSUg4YRqzvWpiaEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent要跑进金融机构的生产环境，安全问题尤为重要：当Agent接手客户资料、授信底稿、交易指令等核心工作，如何保证数据不出域、权限可控、执行可控、操作有据可循？针对于这些痛点，腾讯正式推出Work</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530588&amp;idx=1&amp;sn=458965e2c60ca6eb123dcfe6010b8b06&amp;chksm=c16c09ac57ad33c623d1e9268ef5d79e3bf6ff75dad5ab0b62b5414b64d889d3542ea713b9e0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun7wdOSwZQhq6qU3uU6Dev6EFvibJLCDoa8yC8aqttbkgLPE2GhncVKTKH4mJL7GWMYS5xaM5icqqsA6D2RB10iaurRGicMD76j9Fiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>一引言随着生成式AI技术的快速发展，ComfyUI、Stable Diffusion WebUI 等AI开源组件已成为 AI 应用开发的基础设施。然而，在这些组件快速迭代的背后，一个容易被忽视的安全问</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529041&amp;idx=2&amp;sn=026dff8d58d90df7ba6011d7d3620e77&amp;chksm=c1983220cc2ec5daba4868a807271bfb4d7f4603836819476b1bb6b00b1f161f6a49ab548dd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 20:42:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，腾讯电脑“龙虾管家”重磅上线！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun7RIiconXeyFZmsEIGib3ibvuc0GcbTpJ4bmjHjEDvorUu6L05bEibCJeeqDP4pibTZlKcchibZSKLSnjqypm8ZPGribj6zZNd0FYKBhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这几天，全民“养虾”热潮被点燃，腾讯一天甩出了三只虾——QClaw、WorkBuddy、Lighthouse云部署方案。针对关键的本地电脑安全，3月13日，腾讯电脑管家重磅发布18.0版本，行业首发A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529022&amp;idx=1&amp;sn=d2fb42965add9d9ecad4996231b97265&amp;chksm=c173e92e24b5238373f1010e0bc8f3ed8610a4c075a38db37843562db87e3de3c5fce8e2237c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Mar 2026 18:35:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

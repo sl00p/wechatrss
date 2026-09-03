@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【CIKM'2026】CQ-SID：LLM生成式检索在手猫搜索召回中的探索与应用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zb8T5CeqHjia4q6MHRc66BBN9876IibhTwPscDZlricKM7YjPM7SqibFS1WoO3ccz8RUjRbF8a9yjx10WoXUEISSBVU5cDPdfTUsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。1 引言1.1 背景当前天猫APP中的搜索召回机制主要由三大类构成：文本倒排索引、向量检索（涵盖语义、多模态及个性化向量</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562306&amp;idx=1&amp;sn=7377e0911a66a68752c933ed3f01f247&amp;chksm=e833933e486e9ae1e631b0b0119eb459869851252e9072ef68a71d1133245b70f77da1aee0b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 04 Sep 2026 10:43:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen3.8-Max更强了！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1znxLTk01qWB0cgkYSOib5iccAofx1mnmdH7Jt0yDFKbRpNyrdTRibH7MWRv3zGibKM3l9qibPXQkeDdffR3tKwqr8scH62KBlhWecM/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Qwen3.8-Max升级到0902版本。1个月前，我们发布并开源了Qwen3.8-Max，陆续收到了企业和开发者们的热烈反馈和建议。在此基础上，我们围绕编程（Coding）和专业办公（Cowo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562297&amp;idx=1&amp;sn=420b67c29646788c40605bb9445947b5&amp;chksm=e8f25b68a7125a7c3a965aabfcbb372d130544de0c89f7b4f668e49c7a2fe5e81e82ab529220&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xTAy1lNAwksiaZKZa41w4C9tGzkyhDbalF5iaJoU0hFrDeF0QKTibHgNdlOfTtdFgQnwUnHlia3QrcrYxWIAZH3TIF3ricquYWv47A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。19世纪末，美国的工厂纷纷将蒸汽动力替换为电力驱动，以为从此效率飞涨，结果却让人大跌眼镜——此后近三十年，生产力几乎毫无</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559869&amp;idx=1&amp;sn=090e317702f999b3b4b50f8582d2a453&amp;chksm=e8765e43aefb5aca15572b1ff85459a66d838b98b3a332ebbaf62aa9249dc3b1b4e96384accc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering：耗时一周，我是如何将应用的AI Coding率提升至90%的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zSXic4jKX07UjNuHW0XhMmklvrlIXSvNIJ5ArxW9TU0fuR3LvjF0HRlKJeYonfQfQUFYQ3X2zyPicdHOhg3rvM0jUOs4ALc3icDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。从 Prompt Engineering 到 Context Engineering 再到 Harness Engine</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559842&amp;idx=1&amp;sn=71ee08bf0421ad2f1aa4dd7a58901c5f&amp;chksm=e846ee26b4c5f9b0ecf09461225b29097f9ba1ee3e04ce43adbab7ad44f4fdcf80e06eb90949&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
