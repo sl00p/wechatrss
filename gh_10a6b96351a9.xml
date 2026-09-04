@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[代码都被AI写了，那人干什么？（SDD超级干货）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdOleB0s0RQYBicPy7QuI5CQvZ5ictlzaUAuRUkmKHK9Q5glZicZ2gsZCIgZljy2KDME1fo8fSyVvNfia2yc0BFFEMAibDnlHR6zKls/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI驱动SDD工业化开发全流程》，3500字，阅读需要10分钟。一、传统研发流程为什么失效？传统研发流程：人做需求 → 人需求评审人做设计（指原型） → 人设计评审人做架构（总体+详细） → 人架构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981533&amp;idx=1&amp;sn=44c7bc06302565071053a4fcdaa51801&amp;chksm=bce93eb9bfe78b24bcefb039a388c722c1e0894d8391c2f1e4d7853fbf63d88b3e4b8691bf68&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 05 Sep 2026 18:46:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[虽然程序员都在用AI写代码，但为什么项目的速度还是慢？真正AI-native团队，产品，设计，架构师是怎么分工协作的？ 估计很多人都有这个疑问，先说我的观点：问题不在AI，在流程。AI编程，缺的从来不是工具与技巧，而是一套工业化的生产流程。 传统流程的假设是：人评审需求，人评审设计，人评审架构，人评审用例，人编码。AI时代的现实是：AI编码效率极高，但AI不理解业务、AI不遵守规范、AI不承担责任。 如何用工业化的生产流程破局？ 我的认知是：[基线]是公司级资产，越沉淀越值钱；[产出]是项目级交付，每次新建。 之前辅导过一家在线教育的公司，产研团队不到30人（产品，设计，研发，测试，运维），AI工具在公司内部用得也很多，可团队效率还是上不去。后来落地了AI-native的工业化项目交付流程，产研效率提升了500%。 在整个过程中，有一些很核心的问题需要解决： 1. 如何构建流程，尽可能减少人与人之间的沟通？ 2. 如何尽量减少，AI在产品设计上的幻觉？ 3. 如何尽量减少，AI在架构设计上的幻觉？ 4. 编码给了AI，那人在流程里干什么？审计划、定标准、设边界吗？判断还是我们吗？ ... 我会以这个公司为案例，和大家来讲解，AI时代的工业化产研开发全流程。 今晚直播，欢迎预约，和大伙细聊。 一些浅见，希望对大伙有帮助。 PS：你们公司，对AI的使用，是在个人提效阶段，还是流程协同阶段？]]></title>
       <description><![CDATA[<p>虽然程序员都在用AI写代码，但为什么项目的速度还是慢？真正AI-native团队，产品，设计，架构师是怎么分工协作的？ 估计很多人都有这个疑问，先说我的观点：问题不在AI，在流程。AI编程，缺的从来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981512&amp;idx=1&amp;sn=61db270aa6779aa152ae8b3085bf689d&amp;chksm=bced49413fd59bd825dddae92edcbc169cd8b3e8c0af13895677635ebd6a8bc67efad31ce2ad&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>背景：参加一个商业大航海，自助式的（官方给资料，自己学，自己实践），准备3个月腐化一个opc商业产品。也希望借着这个机会，再倒逼自己快速成长一把。 opc，咱们还是从用户需求开始。 用户需求，是一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981173&amp;idx=1&amp;sn=2a9fd6d39cfabe8e98ebb3b004286166&amp;chksm=bc45b84fe9abbb21b7bc6709b622ccae1726813e7b3a5bf14b360b78e7de7ea8a3b703ac93d7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 14 May 2026 11:40:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[收到工资1182415.18元，爱你DeepSeek！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXc9J8qcDlYeqqlekjc09KtLbSnurFbQMVYY9e6Fiarib0GDmunKBZKgPYMFuzA9mRppWhsbzNibG1CIb249hcicd076E6OZibaledq0/640?wxtype=jpeg&amp;wxfrom=0"/><p>据中国基金报报道，某招聘平台显示，杭州深度求索人工智能（AI）基础技术研究有限公司（即DeepSeek），发布了多个岗位的招聘信息。 在DeepSeek挂出的职位中，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981171&amp;idx=1&amp;sn=08466e287db378a52c5d0a102e3c17da&amp;chksm=bc67679179d263a93373ae869e8ececd6b8231f8263488e85827724268b3723cb37dd6a88977&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 11:46:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

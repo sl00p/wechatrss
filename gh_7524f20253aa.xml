@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos发现2.3万条漏洞线索，超2.1万条无人复核]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WczBjqviawzm63cCOs9kVDicomPa3pu5SftnBwDzKkZcianabYwlygKEKKibnKcSykbXWSGlz8VzsqIutbicMafAWw2FSAdibljD54/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现多但审核不足Anthropic 将 Claude Mythos Preview 应用于 281 个开源项目，收集到 23,019 个候选漏洞。外部安全公司审核了其中 1,900 个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=1&amp;sn=f8da4cb86a32cc6c5652ae7318c832d9&amp;chksm=bcc48e8bd2f2539d404426516037e9fd7bd346ab2f540958399ff40deffae2db8ea438b75ab9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI Agents劫持德语维基，利用AI突破分享规避与绕过策略]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3FfFOeUDTavAcQuwVqXq7KTT8iaWmzxbLoINcz9xrfGn8FxicSJKI5tFGCUDdeDQTBeoicrj5icMR91or2JAeC90FQibCIW9rGAvBM/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 collusion.wiki 发布的研究，一批自称 OpenAI 系统的自主 AI Agent 在今年春天劫持了一个冷门的德语维基网站，并将其变成了公开的信息公告板。调查人员记录了约 18,00</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=2&amp;sn=dd9541fc54967d9110a0a25f5890c59b&amp;chksm=bcf1e42c044532c4d6f34046aa6793c053b7400376522ad9333f02842a4fa053136208bd5906&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic强化Claude安全防护 ；Google、Anthropic与OpenAI发布网络安全专用AI模型 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖 Google、Anthropic 与 OpenAI 相继发布网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=3&amp;sn=dc8c465875e707a6778d535146dbb5da&amp;chksm=bccd176b60b7efbd06d9d6286a8b3962212d7e136281c389ff3ca8a38ddd82d54c7611df4f9b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[斗象AIBeat对全球前沿大模型CoT思维链的提取实验评测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ib2xd71pmAy7PjTt8tzRgGiaR7ck9iawjzY75l0YqbtujVoHdiaThGGibq5x3uH2b1NGS7rbcicsg5L5ReDmCKAhQPxlHJJwRv4p5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=1&amp;sn=1cd106cd178e0e6accdfbeb8c9abd30a&amp;chksm=bcd30243dd1255fc39e76e5a39b7ad382b19d9837c3434bcd9fde14d70065d0fc545cd79ee87&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ozvGfRZnPIcxkhH4sDuojRDRfb5n0ibWLjkqAkWepY5n5zzaZ9icRqpLFMiaygoibk68AakgqVf7RxRLEEibmyrtkvamP9YXkPgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的wp2shell漏洞是WordPress历史上最大的安全事件之一。这一严重漏洞链结合了两个缺陷，使得未认证的攻击者能够利用存在漏洞的网站，最终远程执行恶意代码，甚至有可能完全控制这些网站。在漏洞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=1&amp;sn=0ba2fd7d4db9b5e3ab9e22254def56cf&amp;chksm=bc843c4f1b13608f3bb9d6b98d753f24942ecdae010135cd0bca70926067b9d692438187c2e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Grok曝零点击提示注入攻击，可窃取用户聊天数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0nAtBtKzVtmFhvSz6V8QnTHIMeEURE4YjmKichv4jhs8RGrTFYOicr20ZXhOp3tDM2L60picLO4UhTibW6YlF27AfrWd3317icOalw/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日披露的一种新型攻击手法，能将xAI旗下Grok网页聊天中的常规“总结此页面”请求，变成一场悄无声息的窃取行动——用户的姓名、大致位置、订阅等级以及当前对话的提示历史记录都可能被窃取。Part01加</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=2&amp;sn=714a73a59b43b649ec997f6a9f87e201&amp;chksm=bc878a2cf25d0a8e7c2a375b6842c2e47e270d749175251251d904916f16b872e15c43ab78cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AI代理欺骗用户；AI辅助漏洞挖掘系统设计指南；Fastjson2 AutoType]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0KUdKFqiaNF1d3VBCxlXbpYrMMzsVlH1Z0BVtlnsx8IyrdJkcFe5DxNRbmFg1vf2HD1WBWvJg3Q4NA72tKh9a7YMYD7lxCo2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=3&amp;sn=8a41b7a6f1052a68b3a3a783d7b44538&amp;chksm=bcfb52e107c41ebb933462d35582917e6d4c058366659d4b1497e148b1eaf054768846f2c5e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[《企业AI安全治理指南》：从公网AI到Agent的落地实践经验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0GNKJx3icNdeOGqu5hH8CNLh4cCyialnsMll3csT1vibcR5bvnbB4RGY1dVmic5es17o3j5ykOq0njZh1J9GfdVW6tFV4ryoPaouQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 正在加速进入企业的每一个角落。员工用豆包、Kimi、DeepSeek 写材料、整理会议纪要、修改代码；业务部门搭建智能客服、知识助手和代码助手；办公 Agent、运维 Agent 则开始连接内部</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345140&amp;idx=1&amp;sn=c0d7ce4522358adad961cc50ec9c81e7&amp;chksm=bc6dec662280e44fe0f58f966d6b8d4d3c1874163e9022565810f66c2cf9d0f0a7297f054f88&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

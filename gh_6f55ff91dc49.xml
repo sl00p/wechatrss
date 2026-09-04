@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点本周 TOP 14 的 GitHub 开源项目，看看能用到哪些。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rvrvnDQ9tCjw6t1oYiaIMmT5V1Vwa37XiaE4P1xeO21EPetBpFFJWCKxSCWzFibxyvwGxht3yGBZdWCWoDSqUoYYsBjMSNXRW7U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一大波科研 SkillsScientific Agent Skills 收录了 160 多个科研 Skill，并整理了 100 多个科学数据库的使用方式。这些 Skill 包括生物信息、药物发现、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536562&amp;idx=1&amp;sn=9a8a6c9921b1c1b4b00ef60b32790354&amp;chksm=f807d41bbd746f8affe8840c63a3dde264f0733752644b2a4547ecc7e17fc63d3f08e50d8774&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 05 Sep 2026 13:41:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今天推荐点别的，5 个 GitHub 上开源的英语学习神器。。。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33q69nZAAAiaqYWgMSDCuDqxnrboOcHBD2w1D3yI0U6moxJvwFP2ibSIqhzKVwBN6ibSKicSzANiaicpWlw4HbZMdC5l3Phz010VxJI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01训练英语听说能力Echo Loop 是一款专门训练英语听说能力的开源 App。目前在 GitHub 上获得 3000 多的星星。它把一段英语音频拆成这么几个环节：盲听、精听、跟读、复述，再进入间隔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536438&amp;idx=1&amp;sn=5b4b3820b7042c8e94b969f521764b1a&amp;chksm=f80351de879a52dab7aa8f77d0c29dae8e7eb47fc7ff18d836d1b57cd0156e694633b9e03323&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1oS9KA8qPU0t5eZgGGqrWoCrYECpBEibabpfNAsYnYoB6hQknqSZV0B7VJOiahT6Y6G3JEFsSxX7gwln7LtaP4e5ecyFZYcA8icg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一行命令，克隆任意网站看到一个特别好看的网站，想做类似的设计，怎么办？现在只要把链接丢给你的 AI Coding Agent，就行了。ai-website-cloner-template 就是为这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534885&amp;idx=1&amp;sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f&amp;chksm=f84a43ecf52ff00307e44775acfd6d1b72821124521e1aa061fa08c7e34b458c0a1fc8192754&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 27 Jun 2026 15:54:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub上 5 万 Star，这个开源设计平台让 AI 直接读懂设计稿。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xmM3UG0z5ZR4dPyEHdB91FIfVekSpocLSgmVPAXdG9KPVYFAqYp04bZrBcS5o9MktrvX9diaBLjvMsGsrKmhPLPFhP8zCa7VQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上有一个在浏览器上能用的 Figma 平替。也就是在浏览器就能画设计稿的开源工具。而且它能让 AI 直接读取。有很多人画原型都想生成的原型尽可能和原本的设计稿样式逼近一些。如果你只是把之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534811&amp;idx=1&amp;sn=586f01a6bb405581f15dc216908fdc5d&amp;chksm=f89ec95cf25f8654d71d337b4dd7f373b339398cc11bd6b44c1e09b23d0dfc0a93a86b16eb9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Jun 2026 13:07:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
