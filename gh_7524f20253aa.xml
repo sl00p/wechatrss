@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent直取企业网络最高权限，用时不到10小时]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0142uwyWkQJ9l0BphZibhBsMe5vicPb6Kb41gHPceiabKORSJt9s5OwibjXL4MZz0byAHjicgFPte7YsZpl7dekpiavrJZ7qjemmH9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据Palo Alto Networks旗下Unit42发布的最新事件响应报告，一名配备前沿人工智能模型的人类攻击者在不到10小时内攻破了一个企业网络并夺取了root凭据——而这一时间线通常需要人类红</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=1&amp;sn=429baafa5cd42c128d90faf234ac4d28&amp;chksm=bc020aed2bfcd1720e7dc674cf5ce45f1ed7c7b9d6b0f43a285c33ffb63548328dcf72e48640&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TP-Link Archer曝多个漏洞，可致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX21icoCjzzWk4eGRrLOestGkJTxsA2ZJFKgB9Dzql8fpuic6GQwnCFeG9IvRicxhSR6lG09rvIgQ5h5NncAo1wXicUDQvpyQM1xyM8/640?wxtype=jpeg&amp;wxfrom=0"/><p>TP-Link披露了其Archer AX55 v4路由器中的两个安全漏洞，本地网络上的攻击者可利用这些漏洞导致服务崩溃、窃取管理员凭据，甚至可能在受影响设备上执行远程代码。这两个漏洞编号为CVE-20</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=2&amp;sn=46dd40ca5e86256743717d33102eb063&amp;chksm=bcb9d3447100f415ad10a68c28164d3e1279517e3fec00861bc5a56b97dcf5a9f124a550e160&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：多Agent协作日志实践；Log4j 0Day预警；漏洞挖掘信息收集技巧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX04JBCbs6GQPL3WuNh3QibPictHAuKFvE84viaj2CdU4rIJAKkiacxcWJvUibnuAdDe4WNVGjibIia4ZVtH9cUdIGTSpmicCkHjmqhZLvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=3&amp;sn=9ef30c8a031457b162a0f2a860abbe0c&amp;chksm=bc6adb8f027d74d1a8ba589040c976dce7a3d300508ede9dd01e17e341fe8793a84d98af150e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Mythos发现2.3万条漏洞线索，超2.1万条无人复核]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WczBjqviawzm63cCOs9kVDicomPa3pu5SftnBwDzKkZcianabYwlygKEKKibnKcSykbXWSGlz8VzsqIutbicMafAWw2FSAdibljD54/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现多但审核不足Anthropic 将 Claude Mythos Preview 应用于 281 个开源项目，收集到 23,019 个候选漏洞。外部安全公司审核了其中 1,900 个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=1&amp;sn=f8da4cb86a32cc6c5652ae7318c832d9&amp;chksm=bcc48e8bd2f2539d404426516037e9fd7bd346ab2f540958399ff40deffae2db8ea438b75ab9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX04ZZgNJv5PCNNCibHKu9VdmvIAd291wu3aT98FOz4vib8cgypnBv5ibBF06rYEGRexEo0BdnDblD5DISqPhM7qxeRcjaAU01xYGg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个新发现的Android恶意软件活动将汽车信息娱乐中控屏变成了意想不到的攻击目标。攻击者并未诱骗驾驶员安装可疑应用，而是利用了Android车机内置的软件更新路径。该恶意软件是一个多阶段下载器，用于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=2&amp;sn=ec50d1b8cde0823638318efab7e7efb7&amp;chksm=bc0457d029c72200c7b96539617bca31fbfbf9ea78f817e72bd8e0d0d8bf3bf7b0b72d668023&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitLab高危漏洞披露数日即遭利用，未认证攻击者可篡改代码仓库]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX08qudtB5Pq7iac2xZUdQUfSLugNqUv6dFytpV3z6xwbCRJkyKPdxZtTAZTMibf2xGBff4RnMtUHMyIiacuBQWxBwTzUUFIwHPccg/640?wxtype=jpeg&amp;wxfrom=0"/><p>据watchTowr透露，GitLab中一个新披露的安全漏洞已在公开披露后数日内遭到在野利用。该漏洞编号为CVE-2026-19478（CVSS评分为9.4），属于代码注入类漏洞。未认证攻击者可在不需</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=3&amp;sn=833a5c43e4c430f0511a21d1f7928508&amp;chksm=bcc81d63fb9937cadcfc49ff3e708209a8f938592d38bdf8dbb18036fff5f9c3ad51cc1a9751&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Spring Security曝严重漏洞，攻击者无需登录即可获取LDAP管理员权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2J3dyYtLVMNibLZ0FDJg3siaibwe64oxq3iauhA2ia5P43eNDmZmrpKz09f0tkyicrRT9cHuL66Wgqt2IFOFgykg2KFXXePsfzY9Xq4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Spring Security内嵌的UnboundID LDAP（轻量目录访问协议）服务器中存在一个严重漏洞，远程攻击者可借此获得暴露在外的内存LDAP目录的管理员访问权限。该漏洞编号为CVE-202</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345263&amp;idx=4&amp;sn=c7cc3818289a0651a02997f76c14d77e&amp;chksm=bc4c94b7e004537f0b02e9ad4eb7d4fba5067002eb3e5c8cae7eac996a01a9377708e47943a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一周4500万次攻击，全球wp2shell漏洞遭大规模利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1ozvGfRZnPIcxkhH4sDuojRDRfb5n0ibWLjkqAkWepY5n5zzaZ9icRqpLFMiaygoibk68AakgqVf7RxRLEEibmyrtkvamP9YXkPgpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>最新的wp2shell漏洞是WordPress历史上最大的安全事件之一。这一严重漏洞链结合了两个缺陷，使得未认证的攻击者能够利用存在漏洞的网站，最终远程执行恶意代码，甚至有可能完全控制这些网站。在漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345184&amp;idx=1&amp;sn=0ba2fd7d4db9b5e3ab9e22254def56cf&amp;chksm=bc843c4f1b13608f3bb9d6b98d753f24942ecdae010135cd0bca70926067b9d692438187c2e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 23 Aug 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

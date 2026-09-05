@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GPT-6 Astra 上线 24 小时，看看外网爆火的惊艳玩法。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3evxIy83v2RrJTlrfYHB9Kb3IR068f8sSSsCjtSwibNSGPZibx8G1lfMvickrbqMepz66Kic1vt1sA0qAGzicc1hw5lafmQCW1OhZo/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-6 Astra 上线后，X 上已经出现了一批很有意思的作品。我看最近刷到很有趣的 Demo 整理了一下。有 3D 生成、游戏生成，还有一些是帮助自己工作提效的。01现实物体、建筑数字化复原先看</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536681&amp;idx=1&amp;sn=3a1f8bf1b30e903324f0eb11a3d7ed8f&amp;chksm=f8ea6816abfdb3afc3ff92e7af9ae662cae59d6eac3658b70735ae624e84b69e5fe2c6be0b21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 06 Sep 2026 14:33:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点本周 TOP 14 的 GitHub 开源项目，看看能用到哪些。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rvrvnDQ9tCjw6t1oYiaIMmT5V1Vwa37XiaE4P1xeO21EPetBpFFJWCKxSCWzFibxyvwGxht3yGBZdWCWoDSqUoYYsBjMSNXRW7U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一大波科研 SkillsScientific Agent Skills 收录了 160 多个科研 Skill，并整理了 100 多个科学数据库的使用方式。这些 Skill 包括生物信息、药物发现、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536562&amp;idx=1&amp;sn=9a8a6c9921b1c1b4b00ef60b32790354&amp;chksm=f807d41bbd746f8affe8840c63a3dde264f0733752644b2a4547ecc7e17fc63d3f08e50d8774&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU313wKs7Lic51mZKVZ3mKo3ia3d9Aw5O7jjT8QbBTGeibcFiabdMSqp4J07x6vJVFvKt8jP1qCGTLUerrlX6mlnKTqMN9f52DG2Wy0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这才看到， Firecrawl 官方发了一条推。从今天起，用 Firecrawl 不用申请 Key、不用配 env，直接调接口就行。每月还白送 1000 次免费额度。Firecrawl 是一个专门给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534932&amp;idx=1&amp;sn=a4a2d047794e48e38a041b9f381a1b28&amp;chksm=f88e4b3ebe5e2b2e625e4ee9f5ce3d9fffbd1bb7c90eecc74c033f25095ad4d523312eb6663d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 28 Jun 2026 14:41:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10 个本周 yyds 的 GitHub 开源项目，推荐给你。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1oS9KA8qPU0t5eZgGGqrWoCrYECpBEibabpfNAsYnYoB6hQknqSZV0B7VJOiahT6Y6G3JEFsSxX7gwln7LtaP4e5ecyFZYcA8icg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一行命令，克隆任意网站看到一个特别好看的网站，想做类似的设计，怎么办？现在只要把链接丢给你的 AI Coding Agent，就行了。ai-website-cloner-template 就是为这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534885&amp;idx=1&amp;sn=ab6fb3f62dd4a3adbbd55b3a268c6f9f&amp;chksm=f84a43ecf52ff00307e44775acfd6d1b72821124521e1aa061fa08c7e34b458c0a1fc8192754&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 27 Jun 2026 15:54:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
