@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近火出圈的 GPT-6 Astra + 3D 玩法，很多都基于这个神级开源 MCP。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2lJ4TpdBUxLL8OyFKBXDhYb7wxLuVZoVvsVAeLyGibtjdUo4BLohs8Cm2C554YWCTPMAU6CbHj84YQfBt9AFicz9x9MPqfeHpTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近看了很多超级炫酷的 GPT-6 Astra 演示，很多是 3D 的，很抢眼。就比如昨天我发的那个帖子。很多人都是用 Blender 这个玩意儿，让 GPT-6 Astra 生成精美的 3D 演示的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536724&amp;idx=1&amp;sn=f31a6e255ca663a00167fba0e83dd64a&amp;chksm=f84dd13a215dbc9161e9ebf00cb58e9a0ecc833bb5829e2dcf2ec143c841345c9ff29d3ed19d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 12:01:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6 Astra 上线 24 小时，看看外网爆火的惊艳玩法。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3evxIy83v2RrJTlrfYHB9Kb3IR068f8sSSsCjtSwibNSGPZibx8G1lfMvickrbqMepz66Kic1vt1sA0qAGzicc1hw5lafmQCW1OhZo/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-6 Astra 上线后，X 上已经出现了一批很有意思的作品。我看最近刷到很有趣的 Demo 整理了一下。有 3D 生成、游戏生成，还有一些是帮助自己工作提效的。01现实物体、建筑数字化复原先看</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536681&amp;idx=1&amp;sn=3a1f8bf1b30e903324f0eb11a3d7ed8f&amp;chksm=f8ea6816abfdb3afc3ff92e7af9ae662cae59d6eac3658b70735ae624e84b69e5fe2c6be0b21&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xMWmv1aYWBxV12bptYY8zEOibAJjuEMMcJodm1Jp2WBLnM0Yia2w0frOOFCia8Wfab00poQ9qib12MtZNFDJOcL4XFssyicrxBsZ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Lottie 是 Airbnb 开源的一个东西，本质是一份描述矢量动效的 JSON 文件。因为下面这些优点，现在很多移动端和 Web 上做小动画都用这个开源工具。体积小，一个 loading 动画通常</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534961&amp;idx=1&amp;sn=94c2bc136f5bf55bcba6b171551c6957&amp;chksm=f848d8312dd7e025e1afdd8bbdb3fb0b7d48c0cff58e71e22d910d1c18b7f2d8e4690a565cf8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 29 Jun 2026 14:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 13 万星的爬虫神器，不要 API Key 就能用了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU313wKs7Lic51mZKVZ3mKo3ia3d9Aw5O7jjT8QbBTGeibcFiabdMSqp4J07x6vJVFvKt8jP1qCGTLUerrlX6mlnKTqMN9f52DG2Wy0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这才看到， Firecrawl 官方发了一条推。从今天起，用 Firecrawl 不用申请 Key、不用配 env，直接调接口就行。每月还白送 1000 次免费额度。Firecrawl 是一个专门给</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534932&amp;idx=1&amp;sn=a4a2d047794e48e38a041b9f381a1b28&amp;chksm=f88e4b3ebe5e2b2e625e4ee9f5ce3d9fffbd1bb7c90eecc74c033f25095ad4d523312eb6663d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 28 Jun 2026 14:41:49 +0800</pubDate>
     </item>
   </channel>
 </rss>

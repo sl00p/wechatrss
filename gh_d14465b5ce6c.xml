@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907lFcEWnO7UB5kXK6OnF4kt3HGzib9Cg36BNUl78cp7Ndsw0kRE7aOBfK1KXf0pqpUofUorXWvWAhIHlVm50nTzH2ddfvA0P5rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：ivanxxie、davoszhang今天的 Agent 系统看起来很像一套小型操作系统：它们管理子 Agent 进程，维护长期记忆文件，通过工具驱动接触外部世界，还要处理权限、隔离、恢复和观测</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803963&amp;idx=1&amp;sn=ec0730b1274a0b52382df956d8583215&amp;chksm=bf9b5cc5d4f5338acccb14bd2bfd925703731b42c511c85498e9604cb29695efc42a6d97ac20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness背后的“心脏”：Cordis 到底是什么]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9059KpjhBYVZJFoTj2taXgkc4nibrTCJyM6EtxibbezGFezTPUM2SGl6l9PdQHvGTtwZbJvUSBdbgYAhNlrsJr8z0uRTZib933Glk8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：lss233DeepSeek Harness 的"一切皆插件"背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803959&amp;idx=1&amp;sn=9d18ecc2139e8ab90a44515ca64b0db5&amp;chksm=bf92759adc83f6a6a4b531ea0642333ebea82c9ab9131ea5584ab947e8a8133d02201270b05d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907Ptk7c9aI29oktD35yFQ4aY6hYGv5CDn4opY1bABdJZsjZAS04ibk9RqbNaqMSzBeWQ1xJU09rM38B9bjo6VdZGtKtYkhTWBOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：kentyhuang本文提出一种基于上下文卸载与结构化图表示的短期记忆压缩方案：通过将完整信息卸载至外部文件系统，同时利用 Mermaid 图语言将任务执行过程转化为可导航的结构化记忆，使完整信</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801594&amp;idx=1&amp;sn=531dcf350ad906e4b4de0a671a4e1977&amp;chksm=bfa89e510a9feb3323c6ebdea7f0d6323e360c7ae310c4d1bdcaf488577bc98eb380971fdf1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三个关键词，2026谷歌 I/O大会全说透了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906cep3aUqElTa6L9mRVXFPvMSE59fQdUjZOKFDRLB4gI4Ka0f9jI4WfXXiaJ9oNnpb4wiamnR0f5z5V39s52XNibN4pURuiaiasa3ia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语北京时间今天凌晨 1 点，谷歌 I/O 2026 在 Shoreline 圆形剧场落幕。整场 keynote 大约 1 小时 51 分钟，涉及十几款产品、三代模型、一个新 IDE、一个新 Agen</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801563&amp;idx=1&amp;sn=31ffe905a1be1e5ddb9594b9fef76fa5&amp;chksm=bf0de35092ec21aff1a6d746df33e175a23f0e12f45828812c26287413dd349a905698e23309&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 15:24:45 +0800</pubDate>
     </item>
   </channel>
 </rss>

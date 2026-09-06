@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Plan 「Agent云电脑」工具： 让 AI 在云电脑上完成股市深度研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeevWdz4gUvT8b0PUYK33PZOIbRobmjlpkrv876HpTKiaQUIyNrukYSia3g14PicibdCOvuJeNVYH6fSkqibGcB1wicQH4sQo9CRMwQMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言你有没有过这样的经历：接到一个深度调研任务，要查行情、翻研报、对数据、写分析，一坐就是大半天，浏览器开了十几个标签页，还得反复切换整理？如果能把这些活儿 "丢给云端"，让一台 24 小时在线的云电</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522149&amp;idx=1&amp;sn=383a089a1ed8658ac6742851ca4d4325&amp;chksm=e8d5621d67ee92972bb3c9a331f724fdd6f71fd94c653ca74cc904eece0a351d20eaedaaa0ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[换工具、换 Agent，不换上下文：OpenViking 让研发 Context 始终在线]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fefic8F7T62wARfSYWunay5XcadCF6XboQM8Ibnb4ZgUjYr3QdHuzdyAnMxiav95hVIKPqX91u2CnwxrkACS3wSAic2P3Z3LmQhfCQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研发的一天，往往要在多 Agent 之间切换，处理不同类型的任务。群聊适合快速 Review 和团队协作、CLI 适合深挖代码，飞书文档分享结论、整理周报。面对不同任务，往往会选择不同的工具。Open</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522116&amp;idx=1&amp;sn=12549be2892dea3b03f75bb06b9d61c8&amp;chksm=e887286fce3b0cc5519a2d3b3ec9beff2f99bd91ce191de272f7b19134426e5f1e394665a681&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeVdUbavlZLG9BmdwYGRmeNEtngtEu0nDNpNp9ASLA9yghJibE8YNic6JkEibnGFA4CxIia2Hqr2SiblUSGf3jGiasyAPeibBdUiaibYicibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>从“单一 ChatBot”到“人与多 Agent 协同”，越来越多的系统开始将 Agent 组织起来，完成更复杂的任务。然而，缺少能够长期协同进化的记忆，协作起来像在经历“初恋 50 次”，它们记不住</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519457&amp;idx=1&amp;sn=6b6a878cf78d9364b77d1073de0e8655&amp;chksm=e80fb16e3da47ffaf034ebe79ec99ff13cc260785694157c32dd7be65c9fe4519168212a9946&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动首创DisCoGC架构，重塑EB级分布式存储GC范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedYrYTQiaAHDzGZ5QX335bucWxf6ytdjaiaDibYoJ1o48L655nkMib6nFHxbkssdmKg8Zza60LP7uXzaVXlUu8g1m74aekwgcLONxs/640?wxtype=jpeg&amp;wxfrom=0"/><p>FAST（USENIX Conference on File and Storage Technologies）是全球计算机存储领域最权威的顶级学术会议，代表着国际存储技术的最高风向标。字节跳动基础设</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519246&amp;idx=1&amp;sn=42a80ee711fb0327f7c332154702497c&amp;chksm=e89c66a0ff9bb6612d2d822ec2297d7f7a551cabd508a12fc9745c96aa73e2c22c3b10b3d650&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Apr 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

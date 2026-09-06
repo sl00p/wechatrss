@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI进入AI研发流程的中国样本：一个27B本地Agent模型如何在Qwen上“练”出来？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh5UqtBoxrneRGuz8gy3FEhKbMFqGficGNgcibNzicQZVRluJywhDpUMF7gK4icL2DdDjwaZySkrBoL9cG8JWIeAemrnWVpqiahrFV0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 蔡芳芳盛大网络创始人陈大年最近给本地模型下了一个颇为激进的判断：三年内，本地模型的综合能力有机会追平 Claude 等顶级云端大模型，并占据 80% 的市场。他的依据之一，是今天的大模型还有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=1&amp;sn=9b7692087d5b1c11498ed170223fccd9&amp;chksm=bcafd0b4d5e0e90c5fac866cf3bf54df5803df16ba637b2368de94a7de6a5b8fe2166ba1fc42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[60% 用户渗透率、50% 完整采纳率：快手稳定性 Agent 如何落地？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgng3ia2Kws24sMToSHypMp2AxIicDd7ib09B6EeANibLDknkWSsJH3e61Rsp9HGUDw2icib2cWLQunugO9C0mbibS1b3f178S0jBEtos/640?wxtype=jpeg&amp;wxfrom=0"/><p>嘉宾 | 王泽锋 编辑 | 李忠良 AI Coding 正在显著提升代码生产效率，但线上告警、根因定位、止损和修复等稳定性环节并未同步提速。更值得警惕的是，缺乏全局上下文的 AI 可能沿着“最小阻力路</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=2&amp;sn=4864b07144b77b309318bab353f6498f&amp;chksm=bc17b1152a78b65d1401197abddb059d365246a5a2fa8d7f3c3d9bf3e1e49d362a36146bffdd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[优化平台工程规模，构建组织真正需要的平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNheyPHXHR0mZ3qeNRXxYBy9HU3LE4rLBxVx81geKoyjYgNZYEXT4GnNsGdUtshIzTa7FMH3YxYoBicicsd6SgcPmMQfKF273iaHns/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | John Keates 译者 | 平川 “左移”和 DevOps 对我们从构思到生产环境实施变更的方式产生了巨大的影响，但代价是认知负荷加重，而且在测试、安全和维护等方面出现了重复性工作。如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=3&amp;sn=feff9290058c82bd02d3f9614f133701&amp;chksm=bcc0e20f389ff8c3dec14aca64731b82537f3a84cb26d39867da6c89756a634d6eb932759ccd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg6RZtxaFh1L3mGicojYhiaHP72gVOKv5U22uV834L9Ttt2a8MZylQlkgzOhfeXWzxibQu7DEfbkkagH6UpYNxomN8kU1EplJeYpo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Bruno Couriol译者 | 平川最近，Cloudflare 在 GitHub 上开源了 Cloudflare OS。Cloudflare OS 使企业团队能够基于企业知识、专业技能和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=4&amp;sn=806048f172216028bed2574f90e87b56&amp;chksm=bc8ef9b56cc6bb0268decd9db99cba98aa0005ed8ac9dbe8e8416489cafc57ae1f7a67104f3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia8xqxcJlZY2WINhGptOoJtrevPzNxuibYyz0Rdfyy6NofwAdheOic4gCv3lGSIKHQcpAIkicWrZ8icicibObf962F2v3uqZPd2BWjCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 你的 AI Agent 调用退款接口，网络超时了，那退款到底成功没有？TikTok 站点可靠性工程师 Salman Munaf 用这个例子阐述了他的观点：超时从来不意味</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292485&amp;idx=1&amp;sn=6e8d3295322532b385527234117b84a4&amp;chksm=bc9895ed521b1929cbcee53638266990d77a7b4a9444b79372489ddb8dd733a4b7023f8ac44b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgpMzUZfAzXzoFgicNqcuZGnpiba010iabKW6mltzlYE5iaibslv4LvAq0ticqGlicmdFaChBMkE6lEmB8aibd1ZibT8zK3qZBggI1Kb8ks/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅当大多数模型公司还在围绕“是否开放权重”争论时，一个总参数达到 5350 亿的大模型，选择在训练尚未完成、甚至仍可能中途失败的时候，把训练曲线、数据配方、模型配置和技术讨论直接放到了网上。近</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=2&amp;sn=ead04ba041e77bafba10b4847c6042e4&amp;chksm=bccd5ffc74ba8b30bb1b00fbdb4bbda464530b378e1112f62a631219e00ebdd47cfe38284c64&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj2QCupWLJfCqp6OUQZdtxmdfOzlYVZVyvTE5QQ7mB0bXoOWhhPqGmHYvJEFvu56nLabJqnYzibYq5s8WjhuH4GrzgvzwibIZcIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 马可薇 Cloudflare 推出了 Cloudflare Agents 的首个组件，Agent Tracing（Agent 追踪）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=3&amp;sn=b366b8ada062592314367e5f603096a3&amp;chksm=bc641aa8198ae948da9b41ced72edf9f76800db7093e4dc2f3cc48fb03dc301ad3306cf762a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaaKGicicc4k6RhYD2SFBiaEE5NehViaVQ2rlEvG55caumSm3uXd2RpiarlKua3oDNfiau5UORFj7WXDzwiaicuJbJfdKeib91VGxVZxxT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Renato Losio 译者 | 田橙 Amazon DynamoDB 最近推出了原生向量搜索，允许开发者将嵌入向量与应用数据存储在一起，并直接在 DynamoDB 中运行近似最近邻查询，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291564&amp;idx=4&amp;sn=f424466e66e8a39602eb76b00f312f88&amp;chksm=bc1881988e011d277791b6e2da75b095eb17be39b8bbf9488fb8d97b5da4f6d1c9c64fc43a7b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 16:58:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“额度想重置就重置，不问财务”，Codex Tibo首曝幕后：产品没做好，就补偿用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNga5gAcXk7cOpsJlWciaok3Jia0ANDjWXCep5HoT7taDzMbQSsib0vwiaxvJ7W5uzflMrdLvDEURuav56QU7WYKicbjO5ziczmb1zk6M/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 褚杏娟 近期，围绕 Codex 与 Claude Code 的使用额度问题，社区出现了一个颇为反常的现象：过去被视为“福利”的全局额度重置，如今开始成为部分重度用户新的抱怨对象。现在，用户不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291458&amp;idx=1&amp;sn=85881c642934c3c30b1ba9bdd83a2701&amp;chksm=bcd78f6837256151c5aac1183ee01ac569f5a7c5a425724bbcd544da69c3c8b04f8fd0cb85c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 13:38:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhTYpR30g1Jt6VibW4UgWxcLIOrYVAeQibaictYsjFDre8WOZBPE7xuYNP71P2JpE9u0bvX5xsiabx6afnkcgGuHuDdcugzJsu6k20/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜白忠魏 编辑｜李忠良 在 AICon 全球人工智能开发与应用大会上，InfoQ 邀请得物资深技术专家白忠魏带来演讲，分享得物推荐团队在企业级复杂系统中推进 AI 研发实践的思考与经验。演讲中，白</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291458&amp;idx=2&amp;sn=424967b09d4f8a0a472ed36593323f21&amp;chksm=bcc45a972b1eaed756aa9e67ec031dddb523495daff2261b22b9742b6eff79ff25ec5cf39fd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 13:38:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
