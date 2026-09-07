@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedKQf17gicbeuOvyrhwqicgooI7xnonjfeB1Xb1UMGLlpOXVhtZCVTftjt9G1QTUmiaFPaFJ1ehlV98BWfCk18RE2d0MZxc1B2K3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：TikTok Eng-Testing × 复旦大学软件工程实验室最近，团队推出了面向测试自动化的 NL2Test Agent：QA在测试过程中， 只需用自然语言描述测试场景，Agent 就能自动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522261&amp;idx=1&amp;sn=e52d6b6f0d3c73d103f5e3ebc2e744ae&amp;chksm=e80aeab8e05a4bfbfef605757bfa895ba98d0c76590f563115bfff12cb3c323a49efd329ff99&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ManagedAgents x SearchCLI: 快速创建你的售后 AI 助手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeefsB6snUwaAN21kp4BHuibbRl5LMy7xSNq1m5YeGeDjAcia8efwH0dpvKMJc2HXAu3iaouSg9JMt174mfCJ5ZsLVRPApXsFUlDos/640?wxtype=jpeg&amp;wxfrom=0"/><p>售后真正缺的往往不是知识，而是在包含历史工单、官方 SOP、现场图片与操作视频的资料查询中，找准、筛对并交给业务执行的能力。小V 用 SearchCLI 把 1000 条售后资料接入 Viking A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522261&amp;idx=2&amp;sn=a5c73cd5274b3692cc1035668c144a21&amp;chksm=e879531bcd05a1c17217adec2d64922da20bc80cb0cbccaa8ef4cc09b2f6204a85a3cb892b22&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:02:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent Plan 「Agent云电脑」工具： 让 AI 在云电脑上完成股市深度研究]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeevWdz4gUvT8b0PUYK33PZOIbRobmjlpkrv876HpTKiaQUIyNrukYSia3g14PicibdCOvuJeNVYH6fSkqibGcB1wicQH4sQo9CRMwQMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言你有没有过这样的经历：接到一个深度调研任务，要查行情、翻研报、对数据、写分析，一坐就是大半天，浏览器开了十几个标签页，还得反复切换整理？如果能把这些活儿 "丢给云端"，让一台 24 小时在线的云电</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522149&amp;idx=1&amp;sn=383a089a1ed8658ac6742851ca4d4325&amp;chksm=e8d5621d67ee92972bb3c9a331f724fdd6f71fd94c653ca74cc904eece0a351d20eaedaaa0ff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecwUg7O1Wr6thspPWQBmibsoeaxnhAHyIrSz7zIrOrIKq3mCkv2q6blC0blsiafGqCO3BCByYE77pSemSKQXN6b2ez2wNXKWLZuU/640?wxtype=jpeg&amp;wxfrom=0"/><p>4月21-24日，Black Hat Asia 2026（亚洲黑帽大会）在新加坡举办。作为亚太地区最高规格的网络安全盛会，会议聚焦于先进安全研究、发展和趋势，并以其强技术性、权威性、客观性引领未来安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519469&amp;idx=1&amp;sn=8c79fdc4fee6cc0390d020b04ecdca88&amp;chksm=e8508ef43cea41b9b18d24a64086cdf325c7702a849869b2cacff641e16765c6729067df8f9d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 28 Apr 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[告别OpenClaw运维盲区：火山引擎日志服务TLS一键开启全景观测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedSiaqmR4vu0T19Fv6icQx3kO1eiaPzbBBVwg9svfEt8sHxGDmdBvZmVFp5C9IyYATibWtZWibWQU9yoBzh6pH66w2X6CjbiaBUfAGicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>概述当一个 OpenClaw 应用从本地 Demo 走向生产环境，Agent助手/xClaw企业的开发和运维团队面临的挑战便不再是“能不能跑”，而是“跑得稳不稳、贵不贵、出了事能不能查清”。Agent</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519455&amp;idx=1&amp;sn=6e82259aa596557beefc85e20e90b7e5&amp;chksm=e8d8eb92e82bdac6529633061f4a7ef25eb7c49465e985a595b13e354d5e68447f180d6fabbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 23 Apr 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[局中局！给 Agent 装上 OpenViking，它们竟然学会了“记仇”和“伪装”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeVdUbavlZLG9BmdwYGRmeNEtngtEu0nDNpNp9ASLA9yghJibE8YNic6JkEibnGFA4CxIia2Hqr2SiblUSGf3jGiasyAPeibBdUiaibYicibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>从“单一 ChatBot”到“人与多 Agent 协同”，越来越多的系统开始将 Agent 组织起来，完成更复杂的任务。然而，缺少能够长期协同进化的记忆，协作起来像在经历“初恋 50 次”，它们记不住</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519457&amp;idx=1&amp;sn=6b6a878cf78d9364b77d1073de0e8655&amp;chksm=e80fb16e3da47ffaf034ebe79ec99ff13cc260785694157c32dd7be65c9fe4519168212a9946&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 22 Apr 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

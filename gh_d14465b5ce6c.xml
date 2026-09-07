@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我用腾讯 Kuikly，把 DeepSeek Harness装进了口袋]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905rIedw6Hibnoqg5DWvQbWyCQtjvQauBjJ1RctmljFVTlEkgNvIHaN0RWbOyY81jO1fGPuJNwKcbyEnbcYBS5nRz8RCZGtYMrhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯程序员yukiDSH 这么好玩，但是只能在电脑上玩太可惜了，于是我用 Kuikly 框架做了一个 APP，一码三端的跨端原生 app，按官方 Host 协议跟电脑上的 DeepSeek Ha</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803972&amp;idx=1&amp;sn=f8a3ce4b624eaba417331b2ece4cba4e&amp;chksm=bf008cdd2c679eb1ecd0f0b71080eda22678bef38763dfaa5e900cc5b4ec5549e358a2f79545&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:56:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907lFcEWnO7UB5kXK6OnF4kt3HGzib9Cg36BNUl78cp7Ndsw0kRE7aOBfK1KXf0pqpUofUorXWvWAhIHlVm50nTzH2ddfvA0P5rw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：ivanxxie、davoszhang今天的 Agent 系统看起来很像一套小型操作系统：它们管理子 Agent 进程，维护长期记忆文件，通过工具驱动接触外部世界，还要处理权限、隔离、恢复和观测</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803963&amp;idx=1&amp;sn=ec0730b1274a0b52382df956d8583215&amp;chksm=bf9b5cc5d4f5338acccb14bd2bfd925703731b42c511c85498e9604cb29695efc42a6d97ac20&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战。近日，在国际顶级机器学习系统会议 MLSys 2026 的MoE推理优化挑战赛中，清华</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801607&amp;idx=1&amp;sn=568d1ea0afab3bf69ac123852cadea3f&amp;chksm=bf752516057d4c9ba76f8c018018db799df836f21327f328c811dc380f0aa7e037e24e42b556&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 24 May 2026 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云Agent Memory节省61% Token提升52%成功率的诀窍：Mermaid无限画布×上下文卸载]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907Ptk7c9aI29oktD35yFQ4aY6hYGv5CDn4opY1bABdJZsjZAS04ibk9RqbNaqMSzBeWQ1xJU09rM38B9bjo6VdZGtKtYkhTWBOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：kentyhuang本文提出一种基于上下文卸载与结构化图表示的短期记忆压缩方案：通过将完整信息卸载至外部文件系统，同时利用 Mermaid 图语言将任务执行过程转化为可导航的结构化记忆，使完整信</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801594&amp;idx=1&amp;sn=531dcf350ad906e4b4de0a671a4e1977&amp;chksm=bfa89e510a9feb3323c6ebdea7f0d6323e360c7ae310c4d1bdcaf488577bc98eb380971fdf1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把最新开源的 2B 端侧模型接入 DeepSeek Harness，有点子神奇。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3GTmia0XXPbzA5oUbWic5s9ib5ucCIIxiaWGxhG4MjwzrvhlPAobYeg48sLOofKxMhbq0pvcnASa4uKRPpGCzoLjSw2B7Va1rSkEU/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，面壁智能小钢炮又上新了。新的端侧语言基础模型 MiniCPM5-2B 正式开源。之前介绍过 MiniCPM 系列的其他模型，截止 26 年 8 月，这个系列开源下载量现在已经突破 5000 万了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536728&amp;idx=1&amp;sn=da0f244952a905b6e1e6c2985564c58a&amp;chksm=f8536086a7bf9126486180e0fce9cb3ff02989f62a4909a86768f0d0e49c8bc57d733b679dee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 12:11:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近火出圈的 GPT-6 Astra + 3D 玩法，很多都基于这个神级开源 MCP。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2lJ4TpdBUxLL8OyFKBXDhYb7wxLuVZoVvsVAeLyGibtjdUo4BLohs8Cm2C554YWCTPMAU6CbHj84YQfBt9AFicz9x9MPqfeHpTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近看了很多超级炫酷的 GPT-6 Astra 演示，很多是 3D 的，很抢眼。就比如昨天我发的那个帖子。很多人都是用 Blender 这个玩意儿，让 GPT-6 Astra 生成精美的 3D 演示的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536724&amp;idx=1&amp;sn=f31a6e255ca663a00167fba0e83dd64a&amp;chksm=f84dd13a215dbc9161e9ebf00cb58e9a0ecc833bb5829e2dcf2ec143c841345c9ff29d3ed19d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0ETm7RJ93ts379o5qPt9f4iaBicxxiadcU1KOLz7ur9wUlUOYib7HwoVXqeQg3a0aLckgmB4UYhAWChgBJcqKoqKd1S6ibh2FdiarDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>因为训练的偏好，AI 写网页的时候喜欢偷懒，它生成的网页上来就是 Tailwind 默认颜色、Inter 字体。但是，五年前 Tailwind 创始人将 TailwindUI 中的每个按钮都设为 bg</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534970&amp;idx=1&amp;sn=99c4cfd8efb54884104642e3d7ce3d8b&amp;chksm=f87073cfc3659ff259b64f4b11339b9df5fa3a36f671d4bc87dff05ed63091632864fb8cdce5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 30 Jun 2026 16:38:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一句话让 Claude Code 生成轻量动画动效，好玩好玩。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0xMWmv1aYWBxV12bptYY8zEOibAJjuEMMcJodm1Jp2WBLnM0Yia2w0frOOFCia8Wfab00poQ9qib12MtZNFDJOcL4XFssyicrxBsZ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Lottie 是 Airbnb 开源的一个东西，本质是一份描述矢量动效的 JSON 文件。因为下面这些优点，现在很多移动端和 Web 上做小动画都用这个开源工具。体积小，一个 loading 动画通常</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534961&amp;idx=1&amp;sn=94c2bc136f5bf55bcba6b171551c6957&amp;chksm=f848d8312dd7e025e1afdd8bbdb3fb0b7d48c0cff58e71e22d910d1c18b7f2d8e4690a565cf8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 29 Jun 2026 14:21:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

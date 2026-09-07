@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenClaw 2.0：欠下的技术债，这次连本带利还清]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4IiajicTlIVEPG7XH8VoS7whIOYGmJ4N8kYoVpOheg2lvqKZKBoRw2cr5JtE6WsiczLNUrNwibGxFNBI0LMXQzUTvOiaYodpSoLvZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告从 v2026.8.1（16,000+ PR、933 位贡献者）看个人 Agent 运行时如何从「能跑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697390&amp;idx=1&amp;sn=40ecd2699a6b707996e262b662b25d53&amp;chksm=eb6e80e682f94067d3ea34837e38e6850d8a62d187e3034d3828dc6598e7abc3f123ece50f43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一篇AI味100%的文章是怎样炼成的？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7spzia6AfDlMddEic2yFEp2wbj1oITzSkHic54rguuhA23Q2VEXXYrEHwRobk7dnIz3I4ALETgurn07vY7su21ghJ6RUVsoTI1ZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01人类写作有一个长期没有解决的问题：太像人有人讲话啰嗦，有人表达主观偏激，有人罗列了一大堆内容，却忘</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697330&amp;idx=1&amp;sn=226d7aaafa37d0021f92581b58afb826&amp;chksm=ebc939cd3e297dcb10d05b6583bac73366ec791d680826c02107f761d142b7b24023a405d262&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4xBic05XPIwicsfF5K65ToRVgqia40XWoApx5vT9zR9XLwnQU4xHrBFuk98nyicMKfz2WYQFLH2CvqtJKANWdGn4g9DHGPlzGmnjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇AI Infra科普、入门或者进阶 ～～ 不到 5 万字，带你融会贯通理解大模型的数学、算法、硬件到系统工程。任何问题欢迎沟通交流。"AI不需要脑子！本科生就能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695676&amp;idx=1&amp;sn=6c01642b9eaa5ee518ce99c355522ec3&amp;chksm=eb64cd28623c2b52bb9edd0504ff68732f27fda70785b2a74580c9bf32afcf734080f3b9036f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[平平无奇的源码，竟藏着Agent的核心秘密？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7KxIR7qbt37B51OTiaNq0xDDbHHlqxNr1mMshI2iaWYkSZoEljgny0uwy0LQZ0ukKGbWNCx8LBGpVCa29iakkibu0C0NhlZibVabao/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01整体架构：三件套用户消息 ↓【System Prompt】 ← 告诉 LLM "你是谁、有什么工具、有什么 Skill" ↓【Agent 运行循</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695603&amp;idx=1&amp;sn=1753f7e5a63067c16db284bc22fbe238&amp;chksm=eb7a17e953a1b7d76cabfc2b9539de2969fae0c3a65e534defa4b2a180bfb9d2f9ac13deefee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

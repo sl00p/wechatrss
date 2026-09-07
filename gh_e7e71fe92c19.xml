@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ART 执行链与 Nterp：解析 FART Android12‑16 失效问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1JAvsvgRq6yEN3H3kz4csiato2sJtjicibC6Gg6LTvqgic7gyBZZTqKD67fUDGv4yfTpYo5JV7ibL5PmAS46VE9ghS9Sq0MCX8EKps/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经拿 FART 脱过壳、或者自己写过主动调用，那这篇应该能直接对上。前面不废话， 背景尽量压短，后面把 Invoke 分流、Nterp、dump 点选择、高版本失效和现在怎么处理写细一点，代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=1&amp;sn=2c4d3a7a8e4001824f3a0a2f5bc5c8f8&amp;chksm=b0710fcab4acdc63e6e91e7053424d2c014af8bfa375cd67b8dd3da2a57290ad3f9c08bedb7a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AIoT安全与AI的交叉点 —— HG TALK第六期：对话龚伟炜]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ez83trzk6ViczX5sI1QcobD38IQ2ts9oUW5ELibLibkO7pqyjzdK9nyg4gHqKKN1kNhOHvC7kqibu9PLobdGfPCDUaAHfcbcu2h8/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术不分咖位，热爱才是一切。这一期，我们来到厦门，茶已备好。坐在对面的是龚伟炜，HG0731A发起人，长沙五戎科技创始人 &amp; CEO。国防科大出身，技术背景，创办五戎科技几年下来，五戎科技服务关键基础</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=2&amp;sn=d9bd8fc177e8b35339f1e26f14c1a1a2&amp;chksm=b02a02a875052589e81584a98f8ccc9457935544b39a57e7486d4bfbcdf48833ab63b754d35b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型InjectEave攻击曝光：最远30米穿墙，隔空还原耳机播放音频]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K100S374upMbibXdazFSwvGyOQAViarMQS4uxvPgCohyZCKxgy2gqE6VTzJwQhmPojqrcCOPZrQic0pGWmibH5BibKCSzayRHJRDW6A/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日USENIX Security ’26学术会议披露一项重磅安全研究，来自香港科技大学（广州）与香港理工大学的研究团队提出InjectEave新型电磁注入攻击技术。攻击者借助市面可买到的射频设备，无</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=3&amp;sn=bd6d503b0f6e3129a4e26c7f63749b58&amp;chksm=b04df8998624fcba82dab5f091afd8be4122a7b2d93d95631479c07aac7e0d22a94196fe2d0d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[售票开启 | SDC2026：人机共智·重构攻防]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0hytEhZZ0lCXy8ia8ycPKBnwsWGfwHPvobGgWbiblgAreg4oBDQPXGaGIrjKgWyF4LmEsQAQDZ8Cz6ARN8RqEI1wY9MKeXsWdqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>从AI赋能漏洞挖掘、威胁检测，到大模型衍生攻击、智能化安全研发，AI正在加速进入安全攻防的每一个环节。当攻击者开始使用AI，防守者如何应对？当安全能力越来越智能，人与AI又该如何协同？10月23日，第</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619656&amp;idx=1&amp;sn=2f23a0dd3df2fcb4c84eeff7856fcffe&amp;chksm=b0e92dca9698aa2b24fb586ab8ba35ba117030b952cc5697290d8301d5a72f9a4e5113a088f3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[第十届安全开发者峰会（SDC2026）合作招募正式启动！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3jEmDcZkvyCrvl39Ft8oRA7qS5H4ZXHHibzDX4zkWnPqOQib8gvmRHCsVLef1OupNZUxtBZz1BgFs3aljjaDFPjRbAEM5raExkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026合作招募启动！📍 时间：2026年10月23日（周五）📍 地点：上海·环球港凯悦酒店亲爱的 SRC 小伙伴们，大家好～从第一届，到第十届。十年前，我们带着一个很朴素的想法办了第一届安全开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618790&amp;idx=1&amp;sn=12f694f5dda7123fbad22f0ea95eca91&amp;chksm=b02f1d91f3921583da8b7fd20ddfa62c477e593f52257aec6968133b2125eed1552c404d289d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 17:59:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实现一个EDR不可见的网络通信（将lwip移植到nt内核中）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2FImDdLXVIFxibQhWjkTF6DknSb8LTl9rZ1ibiaCul2WNlprBU8zvXiaUFmM16uG7p9GVMDVRknC70zbSwAUf3eH2EPZFfAVciawOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>写这篇文章的灵感来源于对 lwIP 这个轻量级 TCP/IP 协议栈的分析。lwIP（lightweight IP）是嵌入式世界里赫赫有名的一个开源协议栈，它的代码非常精简，内存占用极低，可配置性又很</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618790&amp;idx=2&amp;sn=614beed6bb13fdc6c918aa6d9bb006d6&amp;chksm=b0bb1cb878805aceaa0cc569906b05a65defae20805e34644c4bdbbb59342bde105b7873f8af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 17:59:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1400台服务器在线作恶！BTMob 黑产即服务大规模劫持安卓手机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1I9ibic4yNXPNushQbjM1deia8NcPSNASibIA8HFuggicysn29iauCREU6ks8icuJ34SLJQARULjkIQeKia1lUKY5TuUAFTM4AIPUcU0s/640?wxtype=jpeg&amp;wxfrom=0"/><p>BTMob是一款面向黑产的安卓银行恶意软件平台，核心目的是将普通用户手机变为欺诈作案工具。攻击者通过仿冒应用、伪造下载页面、伪装客服消息等多种社工手段完成受害者触达。一旦恶意APK完成侧载安装，攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618790&amp;idx=3&amp;sn=60c333b3b7010645c75e966bf99c430a&amp;chksm=b07f9ce3c0dd02e502514c89147e723c9b5d5b12b1ee936258b90dd539a896e2150f2aa46a60&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 17:59:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF 赛况：2小时47分首杀！『酉时·书院迷局』上演激烈竞速]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ib2n5OqdPkCJx3KAds9YMNeic7EPO3Y7apqribMlTibnHxkTDG3XGtF8iczmdkxWVrM92JRIVCD28MVpWJk1W0NoVn8Ko5Zicm8DkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。酉时已至，『书院迷局』已于昨日</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618790&amp;idx=4&amp;sn=126c89ce61d21b299786d009bb1bad47&amp;chksm=b040cee78e81b3e3384f722dad14ca756933d95add1b30a3620acc5d360920342d7a1ce0dc9f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Aug 2026 17:59:50 +0800</pubDate>
     </item>
   </channel>

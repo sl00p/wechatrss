@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/9/8)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 朝鲜 APT 组织利用 Ted 后门与 CurlRAT 针对韩国媒体及汽车行业发起攻击https://sectoday.tencent.com/event/XcupfKAB5M25NX6Pn-_</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960546&amp;idx=1&amp;sn=888a9acf0ec680d0cbeab594ef074674&amp;chksm=8ad4b9b48b376fefea3469caab3ff8a17f9ea43d0d004aebb8bad432d765677d2729edaa53b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 08 Sep 2026 18:36:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/9/4)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• SonicWall SMA1000 链式零日漏洞导致无认证远程代码执行https://sectoday.tencent.com/event/EnbGZqABVJfJhgnJpRpv美国网络安全和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960542&amp;idx=1&amp;sn=52fe57776a10388c94d8f241d523c9b0&amp;chksm=8a247bb59a7c271692bf0a6442ba248aac6aa9e1334de727eccfd9944bf3268a08bbe07b14d2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• React 服务端组件远程代码执行漏洞（CVE-2025-55182）https://sectoday.tencent.com/event/NYvf6JoBvMLTtVn_TKZTReact 服</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960319&amp;idx=1&amp;sn=59a9b18d7616e482e874b819b99c5891&amp;chksm=8a42a269f3234c8e36dddc450855335ebdf10b27e3b2b961e746086fa7de45042c7964623980&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 05 Dec 2025 11:49:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/12/2)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Firefox WebAssembly 栈溢出漏洞事件https://sectoday.tencent.com/event/AH_CyZoBDgvMcds_UeJ_2025 年 11 月，安全公</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960316&amp;idx=1&amp;sn=6d3a045e621fd4c5ed3ed770d9c527cc&amp;chksm=8a6c50b097e20e9ebe38544b19870eccbe3b3e4d10937476685c51c66ae9c7ff929324cb4245&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 10:47:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
