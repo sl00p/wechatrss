@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【AI 创新实践】“架构师 Agent” 系统化落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1x61rOcpQDsbq8WFSfXLjialv5rdV1LDMnxtJJkBqhiaGNdQJ3CQicicTE5j9ibIW1TKpscja3fumSs9gcjOOVPr6PxsjL6tR3jibur8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言当前，在业界，AI 仍然无法很好的理解“复杂技术系统”，也无法针对性的达成完善的技术方案设计，“架构师”仍然只能由“</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562372&amp;idx=1&amp;sn=3e8ea44766d7900fd4e55777cf24610b&amp;chksm=e898a8ad6a3f060768d81cea4caae6d22b4371c3c95b6c3dff212fa8711f8fd7d56dff81dee1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 13:46:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【CIKM'2026】CQ-SID：LLM生成式检索在手猫搜索召回中的探索与应用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zb8T5CeqHjia4q6MHRc66BBN9876IibhTwPscDZlricKM7YjPM7SqibFS1WoO3ccz8RUjRbF8a9yjx10WoXUEISSBVU5cDPdfTUsE/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。1 引言1.1 背景当前天猫APP中的搜索召回机制主要由三大类构成：文本倒排索引、向量检索（涵盖语义、多模态及个性化向量</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562306&amp;idx=1&amp;sn=7377e0911a66a68752c933ed3f01f247&amp;chksm=e833933e486e9ae1e631b0b0119eb459869851252e9072ef68a71d1133245b70f77da1aee0b6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wW4iaH2hXWgcclzGicmRMqaw0NbCQ2KIXxBz0zfzZro51FNgMGBo6NaOqC16Kiblic5Kw1t1s6ldF0oWEgZjhexv6gdx3x7SZzSvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。"5 人 7 天" 震撼实验本文分享一个让人震撼的案例："5人、7天，用 Qoder 开发 QoderWork"——完成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559877&amp;idx=1&amp;sn=bc1f8fef9cb91d8e52aece383040d265&amp;chksm=e837dda62d98ee1d7d732d07edea57d8e1ab3f9aa29079cb66fe66b3cc8f6eba9f5d35dfef2c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 09 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent 时代的生产力悖论：当协作本身成为最大的瓶颈]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xTAy1lNAwksiaZKZa41w4C9tGzkyhDbalF5iaJoU0hFrDeF0QKTibHgNdlOfTtdFgQnwUnHlia3QrcrYxWIAZH3TIF3ricquYWv47A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。19世纪末，美国的工厂纷纷将蒸汽动力替换为电力驱动，以为从此效率飞涨，结果却让人大跌眼镜——此后近三十年，生产力几乎毫无</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559869&amp;idx=1&amp;sn=090e317702f999b3b4b50f8582d2a453&amp;chksm=e8765e43aefb5aca15572b1ff85459a66d838b98b3a332ebbaf62aa9249dc3b1b4e96384accc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

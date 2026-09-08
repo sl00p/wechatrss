@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[10个技巧，让你的Workbuddy比别人好用！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9054USI7sg9tfRfzcCU3lN7AJiaBGe3PPUicqvT3ibeibESvuteo9brqlPzd9zgh8w8ayqbbJrBheOoc1ce7bGzXvGKT0Sj08XWWtvI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯WorkBuddy团队很多人在使用 WorkBuddy 时，都可能遇到过：对话一长就开始出错；只想聊思路，但直接生成了文件；技能装了不少，真正要用时反而不知道怎么选……此前，我们已经整理过一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804002&amp;idx=1&amp;sn=87e1bb073eab81af45c12f054b430b17&amp;chksm=bf6194a1a987508e8f878bcbca3489d68392106ed897d1b948c492aba15e7b7b97f67cf978af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 18:20:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我用腾讯 Kuikly，把 DeepSeek Harness装进了口袋]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905rIedw6Hibnoqg5DWvQbWyCQtjvQauBjJ1RctmljFVTlEkgNvIHaN0RWbOyY81jO1fGPuJNwKcbyEnbcYBS5nRz8RCZGtYMrhg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯程序员yukiDSH 这么好玩，但是只能在电脑上玩太可惜了，于是我用 Kuikly 框架做了一个 APP，一码三端的跨端原生 app，按官方 Host 协议跟电脑上的 DeepSeek Ha</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803972&amp;idx=1&amp;sn=f8a3ce4b624eaba417331b2ece4cba4e&amp;chksm=bf008cdd2c679eb1ecd0f0b71080eda22678bef38763dfaa5e900cc5b4ec5549e358a2f79545&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9052MxYfxQsCibfj0jc833YryZxibJevoGic2tsUP4fRA2JKhskQ6Zr5acVb7vqxy3UKSspKvMkclZSV7CWhjiaqIBlnrqibZXce9f5E/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu看了很多的文章和视频，我以为我理解大模型的工作原理了，直到看了vLLM的代码，我发现很多地方理解的太过表面。因此花了大概2个月的业余时间，深入阅读了vLLM的源码，本文算是对于学</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801625&amp;idx=1&amp;sn=7c7a7d2148c6907f65c9f747717b3197&amp;chksm=bf205263f59e82ee21a41655290b105a9f2005ff9f17abb5720223dbcb878152a90c9e26272a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[斩获冠军！清华 x 腾讯混元登顶 MLSys 2026 MoE 模型推理优化竞赛]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905HGHibZlnCf8hMbgp0zI4zxgDdhYxbB8ex8xserxDg1gJJibqibdx7gvOub5d3OcmicNnk2lRASdicoGXhqibNsqHolPo4lGW57ian88/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型走向万亿参数时代，MoE（混合专家）架构成为主流，但其在异构芯片（NPU）上的推理性能还面临着诸多挑战。近日，在国际顶级机器学习系统会议 MLSys 2026 的MoE推理优化挑战赛中，清华</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801607&amp;idx=1&amp;sn=568d1ea0afab3bf69ac123852cadea3f&amp;chksm=bf752516057d4c9ba76f8c018018db799df836f21327f328c811dc380f0aa7e037e24e42b556&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 24 May 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

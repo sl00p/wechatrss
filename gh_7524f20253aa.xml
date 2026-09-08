@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[首个利用微信通话实现“0交互入侵”的蠕虫出现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0DicOvgCWY0sFeick1fROg5oib4OK6uyBsBURaYibI1HTq0kaB2AkYBtyj9IYGXRtlz5IaqeWUG3bicVazZkoYoSmHQEf1B8mDU4rs/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员公布了一个名为“WeWorm”的概念验证0Click蠕虫，据称它可以通过微信语音通话在iOS和Android设备之间传播，在受害者未接听来电的情况下，数秒内即可控制其微信账号。Calif表示，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=1&amp;sn=71e02ef8b6a2ed67fdc94aa19b152171&amp;chksm=bc920bb28423732975395b95648b65311a8bdd5b30278767c11a3971a65fa16a0249ca2a7fe3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT沙箱隔离失效，攻击者可跨账户窃取Gmail数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX317TM9vMiajzKStVLo2A8HOVjibAktZHLcsjoWlekfzfb0XLtgxSjQiaoBd4vyhskW7CbTeMCcfmHS1GxXGiafP6vMb5cRHSErwZo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01共享服务打破隔离ChatGPT内部存在一个隐蔽的跨账户通信信道，攻击者可借此劫持受害者会话，并从Gmail等已连接应用中悄无声息地窃取数据，而受害者在对话界面中看不到任何异常。该漏洞利用了</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=2&amp;sn=03c85c55a0322e93578b8f6bf3b3437e&amp;chksm=bc46ca2fcc8f49d065bf60c160291e8ac6e6c27cdbd6650d936bd3199b055bf78ba3e9bc4cdc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者入侵Windows域后，禁用端点保护并横向部署Sliver]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1SZkKY6lCiccRgOCHHCMibVDics5FY63hvIWfvKWWTdoAeBP4gWI2j0WDuIj4Yj6ZzRetXujjlia6SH4dkveYqEticsdtNPPLgtadw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场新的入侵活动揭示了Windows域在被突破后，可以在多短的时间内沦为更深层次攻击的跳板。攻击者在获得初始立足点后，使用了Sliver命令与控制（C2）信标、账户创建、凭据窃取以及远程管理工具来巩固</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=3&amp;sn=d4136ab637089d96c29faf23837c38e8&amp;chksm=bcf0585343ed397ab38f35830db85e642f17625e8bbdd01d052bf45fad994fb66974d34efc43&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude Mythos AI在无人类指导的情况下，自主执行完整网络攻击链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0kLoWtu5ebAeSNRVC0jk6SzzU2wibw3fpkpOZxZUT4MGLbuUibKmNWbfo7DViaml8jtweAV5UiaM9kicgjkE0O6sqMg9cYIlQXf7YU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Mythos是首个被报告在无逐步人工指导的情况下完成网络攻击链的模型。该发现并非描述恶意软件，也不是已确认的受害者入侵事件。这是一次受控测试，但展示了自主攻击能力的发展速度之快。核心关注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=4&amp;sn=4002619f2c52cf09d7c098059662457e&amp;chksm=bc21295214416ed645cb370d6f9b8d7d84a3e061485371f489c2ef0ef7062604a12e9afc2441&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[朝鲜黑客长期潜伏监控韩国企业]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2m9sT7vap9iccORYWIUIubGFCeqWmdeglpkES0VV50UiaApHFRl2ibERDlk53UNLv17DEejMIE7XfCCkhicYrcRpFibQpibFuLdibibNo/640?wxtype=jpeg&amp;wxfrom=0"/><p>韩国汽车和媒体行业组织近期遭遇一款针对 Linux 的隐蔽入侵工具包攻击，该工具包旨在实现长期访问。恶意软件藏匿于负责管理网络流量的软件之中，使攻击者能够监视用户、窃取信息，并篡改通过受感染服务器交付</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346449&amp;idx=1&amp;sn=3cf6800994ed2fe9ac36c0cb67afd438&amp;chksm=bcbc2b90b8c91482573bf22f1e3ee9714f6ce8e3c92059b2813600f6d85f6139ebd6507f3eca&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3EVnnde9B5CTmQBrkpAuLO6ZT2hmWxF4ib6snT54NhLN1TAIO79HQiam0biaIo73xAacmlOKibBsK2qia4VicJNJdSvrbiahnqJ1TM4I/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA在全球人工智能市场的基础算力硬件领域无疑占据主导地位。如今，这家科技巨头正寻求进一步扩大其巨大影响力。NVIDIA将战略目标瞄准了更上层的软件层以及蓬勃发展的开源AI模型生态。据The I</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=2&amp;sn=fa3ce4865dd85de99ec4a6c1771914c9&amp;chksm=bc25991f273da89b43eb23e3924170f287e37e863c6f2d645494c061adf6b8ba1a27694ac69d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Next.js曝严重漏洞，一张AVIF图片即可攻陷服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2TWn8XyabqwwsCUKjyNjGibOXhHibGTibq5duR5D5EPnM4PhEdqjjGicu5S3ictiarWZu04uP66KS1A2Hx6niaDZHLFwbOfpnnnrXJZc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Next.js存在两个严重漏洞，攻击者可在未经身份认证的情况下，针对使用Image Optimization API处理AVIF图片且托管于Windows的应用程序实现远程代码执行。Part01路径遍</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=3&amp;sn=90c36c1ca8ce8ec5b8a14354379afbf3&amp;chksm=bc48ea9ca6ae942cc26e67fdf4abeea35e545222e59591cf7a08c71a67da499cdb07b52d4dbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Tata B2B平台OTP明文暴露，仅凭手机号即可接管账户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1iadAOZS45GgKRkXTaFibDaQM3UAlMP1m5I4UVtsWD1UPWMgfnN3ia5qFRd4fENMPKb7uicAvEh26aaCysFWIrWVcfceFXcY1X7g4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01OTP认证失守Tata Nexarc是印度面向中小企业的B2B采购平台，该平台存在一个严重的身份认证漏洞：攻击者仅需知道注册手机号，即可接管他人账户。据悉，该平台将用于登录的一次性密码（O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=4&amp;sn=a2271d68e01f429579e34cab197b6037&amp;chksm=bccbb5a82a04b85234f47a5913abeebff3973444ccda8a88fa8e73f95aecdd1d2e44924f49d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“豺狼行动”58人被捕，揭开全球诈骗背后的洗钱机器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3s7CXju3yMjq8Ob2IjkU4NTOPic5OyBbNJicnD6Tcasnn8B2ekO3xRibLKIYicKYQvexRXT5vMKagR28wmUey48WtlniccZY8BSWrc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01“豺狼行动IV”逮捕58人国际刑警组织宣布，“豺狼行动IV”于2025年11月至2026年6月期间展开，共逮捕58人，并锁定263名与西非有组织犯罪网络有关的嫌疑人。这些网络——如“黑斧”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345404&amp;idx=1&amp;sn=4d34f8fb0db1c6a41f099be3bc1925ee&amp;chksm=bc436ccd437f7a2bb80ca18aa92c0adfbebc258c36074afd84593576d83334d878f13b7b6cad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 19:38:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic论文：AI智能体开始“互相感染”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3RBJPlwByHF7sq0CR9JA9OsXpj47lPtLGM1sVYiaKIzISxx8uFHM58fxeVchZgicp9ZeZFSvVDaTGQw7a4RFtND1aFxiallsFt1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Anthropic与瑞士洛桑联邦理工学院（EPFL）的研究人员联合发布了一篇预印本论文，题为《心智病毒：多智能体大语言模型系统中的自我传播思想》，揭示了一种新型多智能体风险——即所谓的“心智病毒</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345404&amp;idx=2&amp;sn=480bbbecb5397530c7572a5098e85f2f&amp;chksm=bcea7ad9f7abf22f1c4a29db623378735a7697a0d81a924fa2b031bd7491295697d2f271acdf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 19:38:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

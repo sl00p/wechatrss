@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[面向即时通讯工具的输入伪装与检测绕过：银狐类生态中 Hook 组件的技术迭代]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWIaH1z7fJ5QDBDxaic5icgxpAqwGSt7FNbvx71Cdeo8Xzds6quODaMicoRZOuErTv1nGUpDbY6FJoEVj4KOiagP7PTz3QgH5o6hD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>开篇SEO 投毒、高强度对抗、拉群扩散，这些都是银狐组织的典型传播手法。现今成熟的即时通讯工具会对系统环境和用户输入的真实性进行校验，使简单的模拟点击和自动发消息难以直接奏效。银狐样本如何绕过这些校</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247512101&amp;idx=1&amp;sn=e20fd6231e7a625687b853e30b0220a0&amp;chksm=ed5388f81e2037095a1232808e8c7a40fe8e5cdb5a8f6f15cb7136acad8110cc3ff56b919c27&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 19:32:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[BinaryAI-Bench：面向实战业务的二进制安全分析任务评测集]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/VnHqNyq3QlicJAic5G5GHJJoeptPvaU3WICdRAhxJFDpJWcIs94GN8Bm8QVamF37ia6C0WvrnZmAOFPicTiaac2icyAgqcaic3Dvp1AcsrFxNcpITw/640?wxtype=jpeg&amp;wxfrom=0"/><p>科恩实验室面向真实安全业务需求，打造了新一代二进制分析平台 BinaryAI (https://www.binaryai.cn/ng )。从漏洞挖掘与利用，到木马病毒、挖矿勒索、APT 对抗，二进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247512067&amp;idx=1&amp;sn=22dc6a7127c33c05619f384d6af0cfad&amp;chksm=edddf604e605ee65419108d1a610f8d2e819cf3879776e83ad6d1368e074513157f877e283e5&amp;scene=0&amp;xtrack=1#rd</link>

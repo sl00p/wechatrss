@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[App 抽取壳的内存脱壳与请求签名逆向]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36GA7sy3ia1b9icOR5qgdsp9NqGqFrTict8ibuIYFJX780IddlV68myMzS352vmcibeFmrxlYwFib8FLMQSINsU85c7Y9mbOq22t7sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标是逆向某App的网络请求签名 sign。该样本使用了**企业版加固，核心业务方法采用了指令抽取保护，反编译后方法体均为 nop 桩。跟进分析发现，**采用运行期惰性恢复机制：只有被调用到的方法，壳</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=1&amp;sn=ec61b7e3afb64384c71693657e53d117&amp;chksm=b02ca5d9d3b787506c7d184087f2aa8716888721d74d66bd1453a058b0a1686f6ec1cf07987d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[零点击入侵！新型微信蠕虫可盗号扩散，无需接打电话（已被修复）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2MibtHl1AhblbyE791rpb86Lm4lrfP3RseW04KpUwtNrQoJtOZ2TUmMyO66c4FHx8P5NSFq1tIEUU7ORfqHFJR4mWKzKPWhs40/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年9月8日，海外安全研究机构Calif Research对外披露重磅安全漏洞，公布首款可跨安卓、iOS双平台传播的微信零点击蠕虫病毒WeWorm。该漏洞依托微信通话功能实现无感入侵，无需用户接</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=2&amp;sn=7a7240ec6af36256a20a5cee3b1c99a4&amp;chksm=b06f6275de38052376496a5818e2ece2374dc4817334f28e67a7ea794aec34ee4644e3dbd65b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于CVD的云手机定制与风控分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=3&amp;sn=f5721c9f5bbd0fcc1531debb1326f6c0&amp;chksm=b0598f98fe4287005a34143e735590aed0474bfbd21998882713a8632ce30b1624d7c0310fc8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ART 执行链与 Nterp：解析 FART Android12‑16 失效问题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1JAvsvgRq6yEN3H3kz4csiato2sJtjicibC6Gg6LTvqgic7gyBZZTqKD67fUDGv4yfTpYo5JV7ibL5PmAS46VE9ghS9Sq0MCX8EKps/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经拿 FART 脱过壳、或者自己写过主动调用，那这篇应该能直接对上。前面不废话， 背景尽量压短，后面把 Invoke 分流、Nterp、dump 点选择、高版本失效和现在怎么处理写细一点，代码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=1&amp;sn=2c4d3a7a8e4001824f3a0a2f5bc5c8f8&amp;chksm=b0710fcab4acdc63e6e91e7053424d2c014af8bfa375cd67b8dd3da2a57290ad3f9c08bedb7a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2D6M5KFejIibMhZmM28hvrD012NjC77VhADVOCOaFwKym88ksbs60picibIJC08mI87ao8PzRDibZD8ektAACnlss28Ljyg7q8Ykg/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。*签到题《辰时·钟鸣破晓》赛事周期内持续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618817&amp;idx=1&amp;sn=b055cddcbb778da512e5bfe66578950f&amp;chksm=b08c3f38c0b2ec5f1d35fe5cdea22b9bbe11828b34c85222ca172ed9554f334f59c1bfe33773&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Aug 2026 18:00:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Splunk批量修复17个高危漏洞，含9.1分MCP Server远程代码执行漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K13wPAVq2e7WuCv3UyxxM7t5qLrwiaCeM0N0lX4hUV0KFjdaKTF6PU46HzLtueiaOGjzsyqEf3aLIh9ia7bReqsQ6zXu8yMbibgYYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>涉及MCP Server、AI Toolkit、Kafka连接器等多款组件，存在RCE、权限越权、凭证泄露风险，相关企业务必优先升级。近日Splunk发布大规模安全更新，一次性修复旗下多款应用与附加组</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618817&amp;idx=2&amp;sn=262cee74ca234824af3638c986cce363&amp;chksm=b0b9bcc5cba1761c74eea5c1dfec287666a22d336aeec4ba17c749aa0f9fe66d68a966a7303f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 18:00:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[冰与火的战歌：Windows内核攻防实战（附彩蛋课堂：命令行投毒）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>彩蛋课堂：命令行投毒在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618817&amp;idx=3&amp;sn=ce4c034a4ec3a0e8b0327f53a898b4c1&amp;chksm=b0b4aa0bd281058388485121289fc1a51109e529e7a284750396ab5dc7f4d34d68e0c38f52d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 18:00:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[第十届安全开发者峰会（SDC2026）合作招募正式启动！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3jEmDcZkvyCrvl39Ft8oRA7qS5H4ZXHHibzDX4zkWnPqOQib8gvmRHCsVLef1OupNZUxtBZz1BgFs3aljjaDFPjRbAEM5raExkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026合作招募启动！📍 时间：2026年10月23日（周五）📍 地点：上海·环球港凯悦酒店亲爱的 SRC 小伙伴们，大家好～从第一届，到第十届。十年前，我们带着一个很朴素的想法办了第一届安全开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618790&amp;idx=1&amp;sn=12f694f5dda7123fbad22f0ea95eca91&amp;chksm=b02f1d91f3921583da8b7fd20ddfa62c477e593f52257aec6968133b2125eed1552c404d289d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 17:59:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

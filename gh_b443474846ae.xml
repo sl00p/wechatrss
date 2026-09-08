@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjPnB2Qbia52K0km7vziaXicYGicb1FpGqIgiaTc0E1bichea3PhcbkHibciaCJ8Ur9a2V2ITHdKEmbzbZcCDP8qrGgsoO5dz8evQqTicgY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 OpenAI 今日宣布，称其已经找到纳维 - 斯托克斯问题（Navier-Stokes problem）的一个解法。这是数学界长期悬而未决的重大难题之一，如果相关证明最终成立，则无疑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=1&amp;sn=bcfbb4b993b2cb5eb0e32bf0d6f7c4cc&amp;chksm=bcc5cc296ce1eb0d15bc18d96a9e9f67964835e4272928fd7e80419532fd5759f9493c2b6f61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj8WHCSQtBQmUwicx5Bxe2MEbicRFTntkAWsbeeqU4jJM61gYOGbQ3SB4wXg7YYdtrF7Fic6VvPiakBTZCvJiaWzCNKicvEb1aCMYjGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜Janakiram MSV 译者 ｜ 田橙 策划 ｜Tina 当团队评估 AI 编码智能体的成本时， 往往会仔细审视模型。但最近的三项基准测试表明，智能体框架，也就是引导模型完成任务的软件，可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=2&amp;sn=32fdeba4fa9c536f57c1f9cfc704b31a&amp;chksm=bca550730db769982007d0936d1c4a8455037848d8667677284fc3d6296614477f2306c90513&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当 Agent 开始写应用，数据库也得换一套打法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgn6RNS6BMA2ia9RPzicugbsvL41gLljWUjrVmaX5RibrnQzRTP09mrQDoRER0micga76vuC1BzvqHZASiclx0heDMSN4SpD4cGFKQU/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天借助 AI 生成一个 Demo，已经越来越快。真正难的，不是先把页面和功能跑起来。进入生产之后，权限如何控制、环境如何交付、试错之后如何回退、多个 Agent 协作时状态如何共享，才是更难回答的问</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=3&amp;sn=c6530165f863b6194c6deedc8940238f&amp;chksm=bcb2d70fff26771962d6081a38c062efa6c303362ff56f78f54cbed765fdf096accc967a6b90&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenClaw 2.0 发布：简化配置，支持智能体协作]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjmaiaGib6j42ehuiarCyUiamkco4KgS8e0cficryIsCzzUVLsmibWUTxt0LHzQ7gE1lCeuYpjuVlbUXDTwKmKSDN70vpCTRMtlFTdbE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Dominguez 译者 | 明知山 OpenClaw 正式发布 OpenClaw 2.0，这是开源个人 AI 智能体的一次重大更新，改变了安装流程、浏览器界面、记忆、技能、自</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=4&amp;sn=5e208ca13052830c16bd2852e9b600a4&amp;chksm=bca26e436172c41e2914d56325598a2077f13abf76932ee6173b9a5722abd8c7a6dda17bee5f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhYFpRmqgOmC9gu202U7SWic1gbPoOTdKCujJPiaWSWhjw9ZBx4UayzV2PkT7icylMAiaxxUKj7zbvlZgtoU3O8kLjngibb4NNTWkMk/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 前沿 AI 模型在回答前会先“思考”，再把加密后的思考过程像密封信封一样交还给用户。前 Google DeepMind 研究员 Ilia Shumailov 和 ELL</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292579&amp;idx=1&amp;sn=ff5be918074720e0de77d20741305ce5&amp;chksm=bc32b74d5ee359aceebf3ac4b53cae9ffba7f484f816ae8420754121035da588b434a60f6a7e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm75SHicg0Y1iaVE3HfumIZUhkHllCSgXqhhk1YOA86e6DtTCDrYPRYCfOeuSQxc3UGhibiaeN6HRtxx2fnx5Te5Nl6JXkHPSu2g3pI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 1 谷歌发布号称“迄今最强”语音转文本模型 8 月 26 日，谷歌发布新一代语音转文本模型 Gemini 3.5 Transcribe，可以在转录过程中自动处理“嗯”“啊”等语气词、口误和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291651&amp;idx=2&amp;sn=6a1afdb794f2aeddd0177970f43aef64&amp;chksm=bcce51aa245dc03eef9ce7ffe11ed74622b672e9ce6d79ad15ba3453b21515a7bf95ff81d24a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Aug 2026 11:53:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhUjJZnukkJgNbWnUElRvBADzqichn7L2tVysHJQvkKL71WnJico1zqicugJB9ujpuZdcZ9oH0s4522JW89ZMicA3SSMibVuYZa9FJM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅 当地时间 8 月 24 日，在 Hot Chips 大会期间，英伟达集中披露了新一代 AI 基础设施的多项进展。面向低延迟推理的 NVIDIA Groq 3 LPX 已经进入全面</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291651&amp;idx=3&amp;sn=2bdba431044166b79773a7a06c1ea057&amp;chksm=bce92306d198fb27112869e5f883024479607f5cebdc9b240c522ab1616b9cd5fc99a95634a3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 11:53:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Netflix 开源了一个用于因果推理的智能代理工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgmUibic9VKPzicO95NODick31gj7WU19S1Af4PkxyFkMS7jr70ZwKR1uNrayCKPBB9TKulnAuxcMOKNb7J1TZg9FShrVzgGTSupibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Anthony Alford 译者 | 平川 Netflix 开源了 一个用于观察性因果推断（OCI）的智能代理工作流。该工作流可以减轻因果分析过程中的繁琐工作。基于观察数据和人类用户的分析</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291651&amp;idx=4&amp;sn=5a87f273b1cdd76c0c733115b3541a1f&amp;chksm=bc90c351eabd9b969dc3697aabd2b3f116a79f2d9eaa99c483bfb9d4d7448311d7a3bdbd03a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 11:53:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[研发投入增长40%，拼多多的增长逻辑变了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhOWummUCsJUwoQCS3I0wYKRCyoLjW9Ce3icJDfibr1gsYbMsNEyWNiaSIfPNDibbdiazzgib92Im0dIwCnviaibXcolEk0sQb2pH2haHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>8 月下旬的财报季，拼多多母公司 PDD Holdings 二季度收入 1124 亿元，同比增长 8%；归属于普通股股东的净利润 272 亿元，同比下降了 12%，在线营销服务收入 576 亿元，只增</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=1&amp;sn=38317f1316b0de4d0386a5dab2add9db&amp;chksm=bc7e956ee0b376992183d37a1dae28b1224f9cb7ecae8027e6115ca3d32c8b5e95f08cf13561&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DataBuddy 数据语义驱动的企业 Agent Runtime 实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNghAnu8f3LTQzOkN9qSAlq35stwfa4vxib9weSNWGq1qptMJj3oKxu3KYF8ia5DeIQYFCI3ibWPzWKgib1wTFV6KzkxoM0ibBuyXd3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>先想象一个场景：Agent 不只是写一份周报总结，而是要接入数据源、生成 SQL 与工作流、构建 DWD/DWS 模型，最后再把每日同步任务发布到生产环境。这时候你最担心的，其实已经不再是"它说错一句</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651291615&amp;idx=2&amp;sn=202b90eb56a0c4c65f2d0ee0c304822f&amp;chksm=bcff68ed59810f80c7937a9eaccfc8d7a22a781171d830af67d042c7b56770af0fe636a6e1cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 14:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

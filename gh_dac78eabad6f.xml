@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[5分钟烧掉1000块！Agent token成本如何治理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6zsHH8MJqpJdGI0C2iac1kjHrslKSJuDB7sx5tROXwF5IRuLn0HN8EpGFWhYhiaxo35YI6nPBhuY7pCSn3TTMiaUD1xpjBgwUibiaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01故事还是事故：不到 5 分钟，1000块没了？我们产品同学在体验 DeepSeek Harness</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697414&amp;idx=1&amp;sn=3672d692ba91de5791a6cff902c4484d&amp;chksm=ebb863056a70f099b9f697ce622eecfbc64b17f2fa625ed85fde6c6445c9861061ca2754538c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 09 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenClaw 2.0：欠下的技术债，这次连本带利还清]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4IiajicTlIVEPG7XH8VoS7whIOYGmJ4N8kYoVpOheg2lvqKZKBoRw2cr5JtE6WsiczLNUrNwibGxFNBI0LMXQzUTvOiaYodpSoLvZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告从 v2026.8.1（16,000+ PR、933 位贡献者）看个人 Agent 运行时如何从「能跑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697390&amp;idx=1&amp;sn=40ecd2699a6b707996e262b662b25d53&amp;chksm=eb6e80e682f94067d3ea34837e38e6850d8a62d187e3034d3828dc6598e7abc3f123ece50f43&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4JGWoJ75SON6KUaHAXDnKSOxab90f8WQBaib37k4jvW2DTqzV8wROGcGRWjlp5mhwduFfM2PVxUkhgakCZPkAdNoKvO3yKxYdI/640?wxtype=jpeg&amp;wxfrom=0"/><p>大多数人对 AI 的认识，还停在那个对话框里——它在框里说话，你在框外打字。但 AI 早已不甘于做一个「会说话的搜索引擎」。它可以替你接管微信里那些来不及回的消息； 它可以钻进一座你没时间读完的文档库</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695701&amp;idx=2&amp;sn=301af26601a74df0ee689fc198061b72&amp;chksm=eb5ea0ccfdbe574538d86f65dc45998ef83b0d6fa2df002baeb2c91e2add584898dec501cb00&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 28 May 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字入门AI Infra：深入理解大模型中的数学与Infra优化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4xBic05XPIwicsfF5K65ToRVgqia40XWoApx5vT9zR9XLwnQU4xHrBFuk98nyicMKfz2WYQFLH2CvqtJKANWdGn4g9DHGPlzGmnjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇AI Infra科普、入门或者进阶 ～～ 不到 5 万字，带你融会贯通理解大模型的数学、算法、硬件到系统工程。任何问题欢迎沟通交流。"AI不需要脑子！本科生就能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695676&amp;idx=1&amp;sn=6c01642b9eaa5ee518ce99c355522ec3&amp;chksm=eb64cd28623c2b52bb9edd0504ff68732f27fda70785b2a74580c9bf32afcf734080f3b9036f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
