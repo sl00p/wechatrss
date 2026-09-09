@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent Registry 如何支撑企业多智能体协作 - 以 DeepSeek Harness 为例]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6FZLmrnGCLutrunLicchiaSRia1eLOujMz5Xla5jzSwDD859L14T6fX36PPb8gzbZOKnylibBEiaHZv87zekZk7FnbO6m88iaiagLq2o8icSRylhgJA/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语：团队已经做出了专业 Agent，为什么新需求来了，仍要重新找人、对接口、找 Agent、配工具？对正在构建多智能体应用的企业而言，已有投入能否持续产生价值，不只取决于单个 Agent 是否可用，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527654&amp;idx=1&amp;sn=a38dcdc8b1cb07ea9b4368bc68f6f0fd&amp;chksm=c1645197d82d7b730b456edef18d8a84f03f0cd552a1e4d3f9bc7e5b4323ff7aa47419ae8ef4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 16:44:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于 DeepSeek Harness 构建生产可用的 Agent 服务，需要怎样的 Agent Infra？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/6FZLmrnGCLuibFLID2pqUibhGEMdAxCPhMlGP7YhsrXZRuB8GBxE4Q7rU9WfVC233fRPGn0rSU61st68RYPYyIlLJMOopGNuYhlZhgvYFdLCg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语：DeepSeek Harness（DSH）是 DeepSeek 开源的 Agent Harness，由 Cordis 微内核驱动，采用"一切皆插件"的架构。模型、工具、持久化和 Agent lo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527623&amp;idx=1&amp;sn=e91541ae77485e398c577d98b2e496d5&amp;chksm=c10bfa8aa865ce2c18fc51ffc1054f9cdfa995be9ba72bbb583c8699361b43f3aedea6b02a6e&amp;scene=0&amp;xtrack=1#rd</link>

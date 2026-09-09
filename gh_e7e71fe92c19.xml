@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[VT调试器原理揭秘--DebugPort转移与重建调试体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3UThMdq5zmEbKfNmPbmoU5UKVqbEVeGqibZyCsrM06ou525E9hShIyVntclWCoibEExWsAmIfN6IeXcExsXP6RKlEicicianH3y14c/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前市面上主要纯在两种基于虚拟化的调试器：走无附加读写，利用驱动直接读写物理内存，不会调用KeStackAttachProcess，自然也不会留下句柄的痕迹，利用vt本身的MFT技术实现单步调试，断点</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=1&amp;sn=3da8fd74ca09ea5d3b1a7e5df02207ca&amp;chksm=b0664dda1c85636027c5897f6a9ad80dc6bb9f7c14dbf1a5aa3b2eca4a47535d9e2e0b7db241&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9月11日13:30 | 人工智能赋能网络安全创新推进会（现场多轮抽奖）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0xEU6wcrGTj2rQA2AOFswK0WcnRmcED52BZkLtPlTRaGBsbmmr3wg6BKJ8QR3XoEvF2sg6h9IKz3mDmM2G2viaH2rqVxTHL3xU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026第五届上海网络安全博览会🔥 研讨会四｜人工智能赋能网络安全创新推进会⏰ 9月11日（周五）13:30‑16:35📍 上海跨国采购会展中心・一楼 B 会议室✅ 看雪科技出品｜AI 安全硬核专场🎙</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=2&amp;sn=6efd160280fa4ca392eb9540a3ba96c7&amp;chksm=b00bd9bcef9e2720f8f74b771e99c266d9db469f95220c1e66fbe3b9f36830cd5dea9a6e4a75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic披露第四起AI模型入侵真实系统事件！Claude Opus 4.6闯祸]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ApZ1RVo0XR9ibWLQyFuA1HB05dGlhUfWPJ2vGvtf3ia9fM7QxCA1ticc9AOABQlMQqcAJcS53FBfNdONWniaZPmbDGGn3z9ct3XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日对外公开第四起AI自主代理安全事故，旗下Claude系列大模型在安全评估测试期间，因环境配置错误，突破模拟沙箱，对真实第三方系统发起入侵行为。这也是继此前多起同类事件后，又一起引</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=3&amp;sn=14ecc6169822b3abd74bb3d645bcc424&amp;chksm=b071aee0b32fbf1287461b779a78d82c546e6ea231e68cb21d327fb74f53ed37fa192c58c3d8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[App 抽取壳的内存脱壳与请求签名逆向]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36GA7sy3ia1b9icOR5qgdsp9NqGqFrTict8ibuIYFJX780IddlV68myMzS352vmcibeFmrxlYwFib8FLMQSINsU85c7Y9mbOq22t7sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标是逆向某App的网络请求签名 sign。该样本使用了**企业版加固，核心业务方法采用了指令抽取保护，反编译后方法体均为 nop 桩。跟进分析发现，**采用运行期惰性恢复机制：只有被调用到的方法，壳</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=1&amp;sn=ec61b7e3afb64384c71693657e53d117&amp;chksm=b02ca5d9d3b787506c7d184087f2aa8716888721d74d66bd1453a058b0a1686f6ec1cf07987d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0f25pG4yjs7AbVlEgu516Zzo51WlLeFZY0x7iaIXnxMgXQF5YdYXyxHTgUmQR0suxaeNJTxNoFmPfZv1KpuGrTWy64RuYawdeM/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。*签到题《辰时·钟鸣破晓》赛事周期内持续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618874&amp;idx=1&amp;sn=354a1884e7d6d70cc0abb8ee54c88e8a&amp;chksm=b0df7d497d01bb494add85e15aed6352a36c4eafa0baee03137211088cbfaca97af5f066f4a2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[8月28日北京见：XCon2026，9场AI安全硬核实战，等你落座，门票开抢！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/mibLibLia0X2icCHI8Lws5CpS1laPibmEziaJicribl67Eeue5wtEy8Bc12eiahwibYIwVes8sicelNls5gp7MPe3EjdrvyGxdLua2jDHVP3oYYmHq8JRg/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.28 / BEIJING / 北京·民航国际会议中心> system_booting... 赛博疆域已就绪，等你接入⛨ 一场分秒演进的攻防变局当 AI 开始写漏洞、审代码、挖 WebK</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618874&amp;idx=2&amp;sn=63f8c0533f1b004781182a9746d59f9a&amp;chksm=b03e14e2d84db62b5ac13c30313fe69cdffd0235f7ea2e2866aa94d00bdb41a0ed5271044f88&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[脱离苹果硬件！Linux系统可合规接入苹果定位服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2ptu6lkR6PXfHiceEH1NrKc79kIEgibzJFHyAN4b6IlJ94KKkzhYziaiaA3RP5OndZo9sHwXM03U9WHRmWceCoTV6BDy6UjxdPiaUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>该技术仅可读取已经主动对你开放位置共享权限的账号，并非任意窃取他人定位，不存在可被黑客滥用的系统漏洞。一名安全研究员完成了苹果「查找（Find My People）」私有协议完整逆向工程，在完全没有苹</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618874&amp;idx=3&amp;sn=351eb3b86465620afa621aae4a861c71&amp;chksm=b001f90abbee7f9065b3cbace38466cea49a9ab3424fbb0c9f04994919aca9ed52f37ad387da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF | 第六题《酉时·书院迷局》设计思路及解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2D6M5KFejIibMhZmM28hvrD012NjC77VhADVOCOaFwKym88ksbs60picibIJC08mI87ao8PzRDibZD8ektAACnlss28Ljyg7q8Ykg/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。*签到题《辰时·钟鸣破晓》赛事周期内持续</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618817&amp;idx=1&amp;sn=b055cddcbb778da512e5bfe66578950f&amp;chksm=b08c3f38c0b2ec5f1d35fe5cdea22b9bbe11828b34c85222ca172ed9554f334f59c1bfe33773&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 18:00:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

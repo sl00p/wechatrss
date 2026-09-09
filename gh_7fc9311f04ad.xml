@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent如何自己变强？从Skill到模型权重的进化全景图]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1yuvpPp10iaHJxD1RFxkUSknCpJJRSbv9p8RluNu0jo3UsVQhZiatDjf2OjTClgiaplK7jXFNnsUmA8wZicAjicfpAvT9Giax828SRMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读传统基础模型受限于一次训练、静态部署的固有范式，在真实交互中缺乏持续学习与自我优化的能力。Agent 自进化（Self-Evolution）正是为突破这一瓶颈而生，它旨在让 AI 系统像生物</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562373&amp;idx=1&amp;sn=b2afbd481dd9cbddc533641633f4bbe3&amp;chksm=e840e493eab12a12ca944e450608bfb917765ce9d78659d6f760bdbd43290ef5d27a9c0b25ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 13:58:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【AI 创新实践】“架构师 Agent” 系统化落地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1x61rOcpQDsbq8WFSfXLjialv5rdV1LDMnxtJJkBqhiaGNdQJ3CQicicTE5j9ibIW1TKpscja3fumSs9gcjOOVPr6PxsjL6tR3jibur8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言当前，在业界，AI 仍然无法很好的理解“复杂技术系统”，也无法针对性的达成完善的技术方案设计，“架构师”仍然只能由“</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562372&amp;idx=1&amp;sn=3e8ea44766d7900fd4e55777cf24610b&amp;chksm=e898a8ad6a3f060768d81cea4caae6d22b4371c3c95b6c3dff212fa8711f8fd7d56dff81dee1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wu3Gz9wK0FCHhnK0ZsbXtFKBvosfSnhSickOs9ykO2zItGiaC6ibye2RnrgYTIZm4msesJbOxSgsfm4nnsldsk9DM6CCmiar1aibg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。"ping 正常，但业务偶发 telnet 不通，概率大概是 0.07%。"当业务方抛出这句话时，任何有经验的网络工程师</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559921&amp;idx=1&amp;sn=dd4fa1ac94912766389bea15cfd4c1d0&amp;chksm=e862aae707e2e504f5a20d8cf29848968faa4e1448f7ada7ffe2e2c1bcf272ab2581588fcbb3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 11 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5 人 7 天干完 20 人数周的活：Spec-Driven Development 如何重新定义 AI 编程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wW4iaH2hXWgcclzGicmRMqaw0NbCQ2KIXxBz0zfzZro51FNgMGBo6NaOqC16Kiblic5Kw1t1s6ldF0oWEgZjhexv6gdx3x7SZzSvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。"5 人 7 天" 震撼实验本文分享一个让人震撼的案例："5人、7天，用 Qoder 开发 QoderWork"——完成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559877&amp;idx=1&amp;sn=bc1f8fef9cb91d8e52aece383040d265&amp;chksm=e837dda62d98ee1d7d732d07edea57d8e1ab3f9aa29079cb66fe66b3cc8f6eba9f5d35dfef2c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 09 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

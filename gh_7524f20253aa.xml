@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness曝高危漏洞，AI Agent一条命令即可关闭沙箱逃逸]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3F2WaXcFHhqht0qf7KzicjXNXV7IoXbKQibouNiabibsZcleBQsUo8UZ2fcicVjTUp7JKePgOJ1yaRoiaVXgRd8SsZMwxCwcu4tx2Zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek开源工具DeepSeek Harness被曝存在一个严重漏洞，处于沙箱中的AI Agent只需执行一条命令，就能关闭自身所在的沙箱环境。DeepSeek Harness的设计初衷，是在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=1&amp;sn=3800775e9eb5090fa9d52b0577d43a50&amp;chksm=bcc31a567190ca9a914836224bba732f9b33d67cd1728cd64f178f477fca0ddba282079548e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[BlueMoon一周内被四个间谍组织采用，完整打穿Chrome与Windows]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Jm9oeUjeCNUH238v65DBT7xSjTVGib3rK995HR07FSVqOzzl3gF1GdHgnWm64IFQo44tzrfT4eCTTd3yicnNd7Mic1TenY3ZpMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款此前未公开披露的漏洞利用工具包BlueMoon，正在被多个从事间谍活动的威胁集群用于实战攻击。该工具包能够串联利用微软Windows和谷歌Chrome中的多个漏洞，最终实现代码执行、沙箱逃逸和本地</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=2&amp;sn=83e88d285c8efd41f26e37e7baf49c45&amp;chksm=bc65cdaa6471e542ebeb0b4e5204d3921e0c5cf4acbf9c62f7513ae8bd47bf311c6752fc6fc6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软发布史上规模最大补丁更新，974个漏洞一次性修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1lM97SMtKY4ZgrewLpFIEpV1xSYib76hxShADVTFSyZ1OAlJeLkfECpokDMEDeckxM2tX6XYY42LZNDerZRGSYaIfagJ8faug0/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=3&amp;sn=88e9fd1f2ce522ba7e6a6c42fc665c62&amp;chksm=bc40714ecf8cc98f656ae62417241a6e54e7426805921b51578d7a30136dbf92822e4d4ddf72&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Chrome V8曝在野0Day漏洞，攻击者可在沙箱内执行任意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10sfghvclqgH4f4ceXBH6XibE1PXztXmFribe1hIAE7cxo4GYVuicaCzz5LDibX2MddaXiaz91iaZfRoYRy3CcqaMPOVxL1cjkiaf6UU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心V8在野利用漏洞详情谷歌于周四发布安全更新，共修复230个安全漏洞，其中包含1个已遭在野主动利用的漏洞。 该漏洞编号为CVE-2026-87491，严重等级为中危，CVSS（通用漏洞评</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=4&amp;sn=6dfb1a60050f48b5efa165490a2b2579&amp;chksm=bc2979130e825966dfbdff6821e10bef5cabcbcff7745310e4019a5ebf6a7b4665cc5d7ed152&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[首个利用微信通话实现“0交互入侵”的蠕虫出现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0DicOvgCWY0sFeick1fROg5oib4OK6uyBsBURaYibI1HTq0kaB2AkYBtyj9IYGXRtlz5IaqeWUG3bicVazZkoYoSmHQEf1B8mDU4rs/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员公布了一个名为“WeWorm”的概念验证0Click蠕虫，据称它可以通过微信语音通话在iOS和Android设备之间传播，在受害者未接听来电的情况下，数秒内即可控制其微信账号。Calif表示，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=1&amp;sn=71e02ef8b6a2ed67fdc94aa19b152171&amp;chksm=bc920bb28423732975395b95648b65311a8bdd5b30278767c11a3971a65fa16a0249ca2a7fe3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2cmicgUOFdp1ZIicT0X6MTJu5osib56icWvvQia4rOEcm6LUkF2Q9L3tQibw6vP8oT7hia7prBibEcXGj4QiaYnwM3RHeO1qtHXXbEaYxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>SLEEPWALKER是一款Windows后门程序，其设计目标是在攻击者发送特制网络数据包之前始终保持静默。它不会主动回连固定的命令服务器，而是隐匿在受信任的管理进程中潜伏等待，几乎不产生可供防御者察</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=2&amp;sn=113ccd3b944d7f02a4d37935882e3355&amp;chksm=bcb5ddcb9ba3b5d6b57ac62aa05359a1b3ed46ef2c62c78c7bcd5a636faed5fccb604edc277c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Aug 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从告警积压到持续调查，AI Agent正在重写SOC工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2t40ibZm5S1cJCPHOjgZfOLmZB56FW7aiclgbMbOvf07Y5IxL4icUWib5wXULYkmRFFURvSNYRL5ROpib1FAhD4WPWa8nMzvvpUyc0/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们熟知的SOC，自始至终都建立在一个注定会让大部分告警队列永远等不到分析师审核的模式之上。时间从来都不够用。在传统SOC中，典型的处理流程遵循一个众所周知的模式：告警到达，检测引擎为其赋予严重性评分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=3&amp;sn=890dec080ce758d917eba6f357ffe310&amp;chksm=bc8ac8ac3905f38ed76d14e7141b09cdc1a8809fbe2f3cc5c2ba1b365ff87792a2d0c22afdf4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球速卖通利用WebAudio API偷采指纹，蓝牙音频切换遭干扰]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3zmcdiaNNb0yjBRoeNsGYyhEZM5Jpe8NQlzhRyzvxXfoAWnbb7FIWL04Cjx8kFvPvh0LjvuoSEKe1CtIbj9OSGK1GbpG1fhohI/640?wxtype=jpeg&amp;wxfrom=0"/><p>全球速卖通（AliExpress）的首页会在浏览器中悄然构建隐藏的WebAudio处理图，这一技术似乎支撑着一套激进的设备指纹识别系统，同时带来了一个意想不到的现实副作用：干扰已连接耳机上的蓝牙多点音</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=4&amp;sn=34219fb7373146bddd918695dee66654&amp;chksm=bc1811855adfdd7252e8bfa922974e1bf4bb5b6c890f514be5b3d6ce6cce1a57339883984ef0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布完整版Hugging Face入侵事件技术报告，定性「警钟」]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0XXQSMWHhTWKlknsk5yQIhWaG7iaJMAp9pGfsVtYicuQRGy4fJgPjULNtEvqZy1ibPqJJ9Sn4vtE8o7BiaibqdAb8xgibHVWITfic5bs/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年7月，OpenAI在内部网络安全评估中运行了大批AI Agent。测试期间，模型突破沙箱限制，进入公共互联网，并将攻击范围扩展至Hugging Face的生产基础设施。调查显示，约1200个Age</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=1&amp;sn=ac1c31838f4087f80098650a4d90595c&amp;chksm=bcfaf7b154432248022418e59846bab1bd3e8386579a6a5c7edb53230ba0a28268f02bc68a6d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA收购Hugging Face，估值或超130亿美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3EVnnde9B5CTmQBrkpAuLO6ZT2hmWxF4ib6snT54NhLN1TAIO79HQiam0biaIo73xAacmlOKibBsK2qia4VicJNJdSvrbiahnqJ1TM4I/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA在全球人工智能市场的基础算力硬件领域无疑占据主导地位。如今，这家科技巨头正寻求进一步扩大其巨大影响力。NVIDIA将战略目标瞄准了更上层的软件层以及蓬勃发展的开源AI模型生态。据The I</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345483&amp;idx=2&amp;sn=fa3ce4865dd85de99ec4a6c1771914c9&amp;chksm=bc25991f273da89b43eb23e3924170f287e37e863c6f2d645494c061adf6b8ba1a27694ac69d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 16:12:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
