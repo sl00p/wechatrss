@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[昨天发了一篇SDD，规范驱动开发。有童鞋留言：都AI时代了，还让我们写文档？这不是开倒车吗？ 这个观点很有代表性。索性把几个典型质疑拎出来，和大伙聊聊。 观点一：敏捷开发早就说了，"代码与注释高于详尽的文档"。SDD是开历史倒车。 个人的观点：这句话没错，但对象搞错了。传统文档失效，不是文档本身的问题，而是"写了没人看，看了没对齐，对齐了又改"——文档的读者是人，人会偷懒。而SDD的规范，第一读者是AI。AI恰恰是这个世界上最认真的读者：你写的每一条，它逐字遵守（当然，也可能有幻觉不遵守，但能够校验）。不是文档回来了，是文档第一次有了最忠实的读者，以及校验的方法。 观点二：文档写得再细，需求一变就过时，最后都是吃灰。 个人的观点：吃灰的不是文档，是没人执行的文档。传统文档和执行是两张皮，写完就躺在wiki里。SDD的规范直接进AI的上下文，每一次生成都被消费、被执行。天天被使用的东西，怎么会吃灰？ 观点三：我就一个人开发，小项目，搞prd、design、arch三件套，是大炮打蚊子。 个人的观点：基线的颗粒度，是可以裁剪的，一个人的三件套可以只有几十行。而且，恰恰是一个人——没有同事帮你review，没有人提醒你跑偏——才更需要一套约束兜底。先有再优，比完美更重要。 观点四：我把提示词写好不就行了，要什么规范文档？ 个人的观点：提示词解决"这次做什么"，规范解决"每次都做对"。提示词是一次性的，说完就散了；规范是可沉淀的资产，越用越值钱。一个是消耗品，一个是复利。 这些问题，没有标准答案，每个人的观点都不一样。无论如何，能引发我们的思考，才是最有价值。大伙的反馈我也很受用，面对AI，自己也仍在不断学习修炼之中。 今晚直播，和大家细聊《企业AI编程与SDD》，一些浅见，希望对大伙有帮助。欢迎预约，不见不散（md文档分享）。 你认为，AI时代，文档会消失，还是会复活？]]></title>
+      <description><![CDATA[<p>昨天发了一篇SDD，规范驱动开发。有童鞋留言：都AI时代了，还让我们写文档？这不是开倒车吗？ 这个观点很有代表性。索性把几个典型质疑拎出来，和大伙聊聊。 观点一：敏捷开发早就说了，"代码与注释高于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981575&amp;idx=1&amp;sn=e31f1464ff6133802404f2e35245f969&amp;chksm=bc7a4ed471817981877767ec94f807024817db2e94218d05dcbe1a832d8c6bddcd93bde79bdd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 13:28:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[有童鞋在评论区留言：我用AI写代码，AI为什么每次用的方案都不一样？把架构越改越复杂，害得我总是要返工。 我回复：你有没有用SDD？使用规范去限制AI？ 他回复：SDD？不是一个很久远的概念吗？AI什么都懂，还需要SDD来限制吗？ 返工的问题，在古法编程时代问题不大：古法开发是人写代码，人理解需求，人做设计原型，人做架构。虽然也有返工，但返工的规模叫嚣，一次改几十行，错了再改几十行。 而AI时代呢？通过AI工具编码的效率大大的增加了，AI一秒钟输出500行代码。我一看，不对，让它改，它又输出300行，结果之前好的地方又出问题了。再改，再出问题，循环往复。 没有约束的AI，不是助手，是野马，AI编码效率极高，但它不懂我们的规范、不承担我们的责任。 AI时代，SDD依然有效，但核心理念升级为了十个字：规范先行、人类决策、AI执行、人类兜底。 人的角色也发生了根本性转变：从"写代码"变成了"定规范、做决策、审结果、兜责任"。 规范不只是给人看的（古法编程时代是给人看的），更是给AI看的——AI需要可验证、无歧义、有数据示例的规范，才能正确执行。 AI时代的SDD的规范体系，核心是三件套： 1. prd.md：需求规范，规定"所有PRD应该怎么写"，给AI事实，不给描述； 2. design.md：设计规范，规定"所有设计产出必须遵守的约束"； 3. arch.md：架构规范，规定"所有代码必须遵守的技术约束"。 没有规范的AI编程是野路子，有规范的AI编程是工业化流水线。 道理聊到这，大伙真正的疑问，或许是： 1. AI时代的SDD到底怎么玩？和古法"写文档"有什么区别？ 2. AI时代的SDD有哪些规范？谁来制定？给谁看？ 3. 同一个团队能复用吗？不同团队能照搬吗？ 4. 规范具体怎么影响AI编程的效率？企业最佳实践是什么？ 5. 个人，团队，企业怎么落地AI时代的SDD？ ... 这些问题，几句话讲不清。明晚直播，和大家细聊《企业AI编程与SDD》，一些浅见，希望对大伙有帮助。欢迎预约，不见不散（md文档分享）。 贵司的AI编程，是个人SDD，还是团队SDD？]]></title>
       <description><![CDATA[<p>有童鞋在评论区留言：我用AI写代码，AI为什么每次用的方案都不一样？把架构越改越复杂，害得我总是要返工。 我回复：你有没有用SDD？使用规范去限制AI？ 他回复：SDD？不是一个很久远的概念吗？A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981573&amp;idx=1&amp;sn=fa024d2d298de7751f00ef9374db039a&amp;chksm=bc05197b3d4109be76f8643c346c4f54f783ecc05cd29317d217243cbfb2ec1f3819d1a51582&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>25年初，我离开公司启动OPC，很重要的一个原因：我突然意识到，我工作得并不开心。 可能很多人或许会不理解：你一个一线城市，香港上市公司，CTO，收入可观，怎么可能工作得不开心呢？ 而事实是，有两</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981198&amp;idx=1&amp;sn=cdc0b7756d1c556f2bf14d3eee615d34&amp;chksm=bcb9ae357dc30cd2b0d0e7fef2cdc069349a5237190f27eb0885f5b3c9a1136e3611b2903008&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 17:42:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[兄弟姐妹们，决定一个人发展高度与速度的，究竟是什么底层能力？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcLhgMQkVApftPLIzENxXJsbmXUxZTv1LKiakgJmjWBkzibdRg9BglcI0LdImKia21CKwEQjsjq4fuzOYj1RLhQmrWUWgANfOyjfI/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景：参加一个商业大航海，自助式的（官方给资料，自己学，自己实践），准备3个月孵化一个opc商业产品。也希望借着这个机会，再倒逼自己快速成长一把。如第3篇的思考：1. 我之前做过的产品，有一个共同的特</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981196&amp;idx=1&amp;sn=dc9e83d2d007719f2cb27646208270f5&amp;chksm=bc15e0abf4d07e7d50ae63795ea65cd0e4b12e9c261ffba91e4d5e714ef112377a531168752a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 19 May 2026 17:43:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

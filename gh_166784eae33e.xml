@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.09.04~09.10)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8WKWPlDAtT8TxjJQRA8CnHbpiaIib7praQbbYicumJ1QibWTpBrQcgOMPMClH1T0EwauHK06VwzpQEcnj8QUib9nPJIzicVYBqmdDBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.09.04~09.10攻击团伙情报透明部落近期攻击活动分析Kimsuky 团伙推出新型 LNK 恶意程序，采用分功能 C2 服务器架构超越 Lazarus：解析朝鲜国家级网络作战力量组织体系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520365&amp;idx=1&amp;sn=9d2e4b5465a23952ae40c62cc3b593fa&amp;chksm=eb56f3753298d91c48653e2840bed6b15d0b467ecf401a0f0c44abb3bd21298eb0b05b6bcfa8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 14:39:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[26秒攻陷11家机构：一场由数百个AI智能体编排的PaperCut全球攻击行动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9D9bS9vYhKuQG3p8c0ZW6fFKlJEic4yzWjrXHpSDBGMzEhS0ic3Z06dvNS6Gib4Pp51naM55BsOX9b0DWG6A6eo0gZ68PLJF4eTc/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁复盘 · AI 驱动的全球攻击26秒攻陷11家机构：一场由数百个AI智能体编排的PaperCut全球攻击行动当攻击者把漏洞武器化、目标筛选、渗透执行全部交给AI智能体流水线，防御方剩下的反应窗口还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520315&amp;idx=1&amp;sn=a3fdb128f4f336bd12525bb09f93e54a&amp;chksm=ebb08e0b0dd6c34dc04249c2198571d0ae43932100d8654f6e25aa3f88cbaf1064667d9c177e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8kgSK5doz99Hxt4ib0VwxHrouWSuAFXR7V8xbHqf05vOibSLD6GeX2GkSFn4N31kDCvZxUpspRIKV9wIOpG8tEfkO86xicnH17Zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件全景2026年6月15日，Obsidian Security公开披露了一组针对开源AI网关LiteLLM的漏洞链。攻击起点很不起眼：LiteLLM默认的低权限账户（internal_user）。终</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519104&amp;idx=1&amp;sn=52df3a70d32c3b6abe3418a28ad8b110&amp;chksm=ebe729136f6a0699cdd9e7187cd0ebfa8bcaf5738b59805f63d82a06d4bcb85700b037c02d83&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 10:33:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI开发工具链遭SEO精准围猎：针对Claude/Gemini开发者的供应链投毒]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicm4zPI8icaic5YNSwnp15YrYJVQEadgkPHn1VRbkvJx6fSyibMMcKEtSYiaKunWeic1a0e1JPljKoa0ibxVp3sdrUnsUO6sgApNfGgE/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景与事件概述2026年初，一个针对软件开发者的精准SEO投毒攻击行动浮出水面。EclecticIQ安全研究团队率先披露了这一活动：攻击者通过搜索引擎优化技术，将仿冒的Gemini CLI和Claud</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247518903&amp;idx=1&amp;sn=6a8ef8ccdfa55eefe7e901d05c8f041d&amp;chksm=ebf0a080af9918ea0d63f29a2c15c280756d250f463034516c9549de83fdf964f659220fe1a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 May 2026 11:59:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

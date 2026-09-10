@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[蜂窝设备挂失机制曝严重漏洞，几美元即可远程封禁陌生设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3oMEsZN8iaWvyZBMldMVBR9DxTV1Fic0xSga5dRISVrJSMSPm1l6KYqjrXN8ZwoemrPWINJVXcZZPzvgU5VHQIrzGicjzpyUzVQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>密歇根州立大学联合三所合作院校的研究人员开展了一项对照测试：他们购入一台三星Galaxy Z Fold 7，抄录密封包装盒上印刷的设备识别码，随后向运营商虚假申报该设备丢失。之后研究人员拆封设备，按照</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=1&amp;sn=55fdd24c7d30255e5ae34c25f4da180b&amp;chksm=bc65bc9ed942b98dd0ccfd970bf872484f278dbba0c56ab02c0c77388704205518f7e5f5006f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude测试越界失控，4款AI模型未授权攻击真实生产系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Uwchw4icqwQU8V3pfc2TFXl3Zgz9bia6LcRNSp7NFj7EwGt06gTOSRicfNhe5PibA9xUubyaoJB1uPVaOQnCtSOR7Yz6pcibRWV0Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic披露，旗下四款Claude AI模型在本应处于沙箱隔离环境的网络安全评估中，突破边界入侵了真实第三方系统，暴露出模型对所处环境的判断与实际情况存在偏差。 Anthropic最新发布的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=2&amp;sn=2dedc641fb3164ff3d73c87870bfa6d8&amp;chksm=bc7b279d7ddf033fc8bdd3f2c992ca51688dbdf32ef7acc063ab2d9c7d141958a5903f5d1945&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用Claude与GPT工具实施入侵，波及拉美政企金融网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2jXtfyic2pJjmBCoRWdbGahYpjkPkOicpSIarNCyMVK4ib8By4MSHh3uqqB72tA158kvRqcMlkXhQIJJXnk6tQMHrVR5xgnyKwrE/640?wxtype=jpeg&amp;wxfrom=0"/><p>黑客已使用商用AI模型入侵拉丁美洲多国的政府、交通及金融行业网络。这一系列活动说明，对话式AI工具可以提升常规入侵流程的效率：既可以修复出错的脚本，也能帮助攻击者将窃取的数据从已攻陷系统外传。这些攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=3&amp;sn=a8fd746dc24b9e2b6f304f6cf1a29d79&amp;chksm=bce97842182cd3eb9ba2aafc0043719436d2bd09488fb34bcb89e538a96b9d0cac3f9ec20a66&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OWASP更新LLM十大漏洞榜，Agent过度权限风险大幅上升]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ddmdTWxLuFZsJ8XiaxwYtHxte8cVw5sLNhuqutJTibecLZesCppicjlcOk9Ajchwn0CVkDBcZ4BN1Vpsl5HqAO6zSAhibEKIqkicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着技术快速迭代、各类商业落地场景不断涌现，生成式AI技术在企业中的应用规模呈现爆发式增长。 但LLM（大语言模型）可能意外生成有害内容、泄露敏感信息，甚至遭威胁攻击者利用。随着技术持续演进、攻击者不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=4&amp;sn=9b093806c798fd59eed639dbeb247727&amp;chksm=bcf94d7d313c8a463d18fa927c840ad03394981c5478a5aadb518e9808bc6500c0f53430e77e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness曝高危漏洞，AI Agent一条命令即可关闭沙箱逃逸]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3F2WaXcFHhqht0qf7KzicjXNXV7IoXbKQibouNiabibsZcleBQsUo8UZ2fcicVjTUp7JKePgOJ1yaRoiaVXgRd8SsZMwxCwcu4tx2Zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek开源工具DeepSeek Harness被曝存在一个严重漏洞，处于沙箱中的AI Agent只需执行一条命令，就能关闭自身所在的沙箱环境。DeepSeek Harness的设计初衷，是在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=1&amp;sn=3800775e9eb5090fa9d52b0577d43a50&amp;chksm=bcc31a567190ca9a914836224bba732f9b33d67cd1728cd64f178f477fca0ddba282079548e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX05ZLibggvhYtsq0GHTCMNd1icRw4cVvNOmgYoDbrukOSSGhuFaKBw9iaEECYCFmbTjHpLEUkHIsL2YVicJv39eaMuNZn82k6NtdqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Olivier Laflamme披露了两条相互独立的root级远程代码执行（RCE）攻击链，影响Unitree G1 EDU人形机器人。其中一条攻击路径经由低功耗蓝牙（BLE）即可在机器人的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=1&amp;sn=3540b0400b493695a0ee4dc745b700a0&amp;chksm=bc330b647ef05ccef5f875204f704d9962e4501f39072b6544434315d9a48479f32a12ee3e9f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code Opus 5曝提示注入风险，Auto Mode可被劫持]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Lib5YjWzpzaazTrVl0fBS6TFBQzl4m4mlOxJPgrf78N6jwCQc5ic0Yjx06nE02epQQogm2Bv8Ep9a5Ga17ibSbibtz2oTZ6YaJDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code Opus 5在Auto Mode下，仅凭一个看似普通的网站摘要请求，就可能被诱导执行恶意代码。据一项受限实验室测试显示，该攻击的成功率在60%至80%之间。这一发现来自Embr</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=2&amp;sn=356e9141a2397aa45c544110576e4104&amp;chksm=bc5bf490e6f1417988d37fc564d7327b2c6e91a38a0783b84d90d35843c31360a77a93e14618&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA收购Hugging Face，估值或超130亿美元；“豺狼行动IV”逮捕58人 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！💰 消息称 NVIDIA 收购 Hugging Face 估值或超</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345572&amp;idx=3&amp;sn=8dadcc4fdfd38f18f037f41ef5cdf6ac&amp;chksm=bc214858b018b9b9256d0530f60c23a9289a45b58243ea5e44231e71c1eb2ae4902d718bc4b5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Aug 2026 12:11:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[持久100小时！网安界首个Agent不间断渗透测试直播，9月7日全网围观！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2VBCRxMplEGHgxymWiakHlXQHPPo6qYBO1KjicCwgNeiaE6VUmjgSSPmfRcQ9b1xu8oameOYg1NI8Xxdg6hQXOiboR3b62aOYtXaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=1&amp;sn=333d02f8cfc3dabb0b9cc89d5f6708fd&amp;chksm=bcae2caf78d08e767b6513e7e54979bf13bd21b9ffc4b0c12a1897485ce833ee33bef493e4e4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型Windows后门藏身ESET Agent，凭秘密网络数据包唤醒]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2cmicgUOFdp1ZIicT0X6MTJu5osib56icWvvQia4rOEcm6LUkF2Q9L3tQibw6vP8oT7hia7prBibEcXGj4QiaYnwM3RHeO1qtHXXbEaYxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>SLEEPWALKER是一款Windows后门程序，其设计目标是在攻击者发送特制网络数据包之前始终保持静默。它不会主动回连固定的命令服务器，而是隐匿在受信任的管理进程中潜伏等待，几乎不产生可供防御者察</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651345521&amp;idx=2&amp;sn=113ccd3b944d7f02a4d37935882e3355&amp;chksm=bcb5ddcb9ba3b5d6b57ac62aa05359a1b3ed46ef2c62c78c7bcd5a636faed5fccb604edc277c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 12:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

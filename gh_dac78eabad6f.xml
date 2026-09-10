@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2分钟到20秒！AI Agent让工单处理可提效9倍]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7q4vfsgzqp0AeTqTn71nTbL5ObPvLKk4PictOBX6nou8oCz7kzzVlXFhXoEnWC82JtYttsoZmQ5L0uwGLaNgU7hA3glIOeSklA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告一次查询，跨系统多模块数据并发聚合；规则引擎评估标签，AI Agent 生成可读结论；LLM 增强，规</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697427&amp;idx=1&amp;sn=8a0abdf2e3970eb3a5db760645548377&amp;chksm=eb9e9ff236b6576e054d88fecf76ebedbbcfe8802196cf41cdcae1394199bb5e1649e4a5e8ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 11 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[48小时数百万浏览：Graph Engineering是真趋势还是又一轮造词？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4D5iaTEQvZnu02DRNHeZllG0rZBT6iaLxGJfUciaUEVWDy4MgN7muw7lW0PEfgqtZeZIcIlQMrH90iblFHWGlad8XjB8bHbOX0uPM/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告2026 年上半年，AI 工程圈最火的词是 Harness Engineering；到了 7 月，一条</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697420&amp;idx=1&amp;sn=5ce86628c0ceb8cb9df0e3027192de3d&amp;chksm=eb87a57a46c18f36649313d5647cbce6d2f58fb9e5347448a48cb61ad1fa62ed3a3175350612&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7pnmiaHPPGNvmZOMJcW8g8zel1dfHz6r0g7h6AMftwx3sDcRLztxGib03QkS6ibeRpqvvEKHgmrRiaXH58DQtm9y7m2SnAssGcLI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇 来源说明文中提到的 Agent Loop：来源 = Peter Steinberger（OpenClaw创始人）近期提出的"从写 Prompt 到设计 L</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695921&amp;idx=1&amp;sn=05cbb8d43adefc7b95ba859a02de3145&amp;chksm=eb3d6bdd6760f12ab16b6ca19f48d833fcf4764450e1781a9e4ea5947c27b437c60e2749a71c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大模型的Agent Skill功能，在LLM HTTP底层交互流中是怎么承载的？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6adupbkJP0zmdvH34qK7JQ0rBJ8Io5b40c8HibWGkSXI7Jk1OibOhHWpcDVmMnzmNZzIRZib4KI0SEDqWelnqPTkpcic9jyvkzRl8/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01前言前几天我在司内论坛的一个问答中提到了要写一个拉取网络文章文本的 skill，昨天我实现了之后也就开始好奇起 Skills 的底层原理了——相比起各种花里</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695701&amp;idx=1&amp;sn=a8b5dfd8cee58567104bcccc39af6947&amp;chksm=eb929eda503b74fbdce70b9ffdc4d5e247f8e5b0ba427e0754276fc52b0fb242d903eeb91037&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 May 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
