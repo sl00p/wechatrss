@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[重磅产品首发、Qwen共创计划发布——千问AI平台分论坛，邀您云栖见]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xIuC3Kt3O5LCZYJ89I888Tb4yKfLPx5x3TpcR4WH8fCiawfYHMc9xb3NONECww2nv1GzzTz3icXxGAOBTU1adibmW6SqXzOgvanA/640?wxtype=jpeg&amp;wxfrom=0"/><p>想知道面向 Agent 的未来平台长什么样，体验 Agent-as-Customer 完整流程？想抢先一步获得 Qwen 预览模型评测机会？想听极客邦科技创始人兼 CEO 霍太稳与模型、平台、Skil</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562390&amp;idx=1&amp;sn=fdeef6cd7a4bb535a84df96c831eace1&amp;chksm=e8626ca332c6bc22e87eb75025c67fa3d1de1e9d7582a44d87360fa55762fc0a1a98d0d358be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里云Token Plan个人版升级：加量不加价，新增12类Agent Harness工具]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xyezPmibBS2zoN4f5F7aGB9qicTPnibmhFHibkW6RagaJKJViar8HxHnwhlaUB2iay4Mm5QsmPa9N0q8JJXNwdIC7dHtAoYm0AvngPM/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，阿里云Token Plan个人版升级。原有价格及Credit额度保持不变，Standard和Pro套餐新增Agent Harness工具权益与用量，覆盖搜索、网页解析、图像生成、语音处理、代码执</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562377&amp;idx=1&amp;sn=b255ee28969ca20c56c41eb262a0e976&amp;chksm=e873ad391650ec25fd06fc99af59bb1fcd99eb13ef481d56c73e8c67df2ec0815b750453427c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wAH6wQYzncia6Y6pQOwGbtyIzQaQBukC2G8kOSL0XmGflJniarz5O2bbicDyjic3HCLiaZIIE2S6clEL5PS6uOmDeuBD2ReqJk0Tuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文是「项目深度解析」系列的第4篇，系列文章为《深度解析OpenClaw》、《深度解析Claude Code》、《深度解析Hermes Agent》。（文章内容基于作者个人技术实践与独立思考</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559971&amp;idx=1&amp;sn=e93c802829515223ad1dbb15de073b59&amp;chksm=e8fb95c7fe1a5d494d518d635551b531b97c4f8cbf1f8fb002a90a59fe928b7e0ff00115b175&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent Skill规范、构建与设计模式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wrnrnwfN753A1J7oFLiaLVLFhWgNdXMrybZVKI82FiaFD4t4fB3HsDF7h2OMIQCThqRU2QP59wYicic6QWYibjqDTibGcBIFWGqRveM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章从 Skill 的规范格式、三层渐进式加载机制、模型驱动触发逻辑出发，深入解析 Skill-Creator 的工程化开发范式。（文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247559942&amp;idx=1&amp;sn=08953bb9fff5a3594e80a381157c5c11&amp;chksm=e807d64b89e58509ec1dbcac245d084b2c07f1dbf879086258b7f01d4b80bec8bb747245c46b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

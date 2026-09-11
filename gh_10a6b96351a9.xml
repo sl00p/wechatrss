@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代，架构师的“变”与“不变”（万字长文）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdZbHX2hTKP6HNXqAEHes2qnR65l8FK9GTD1BoKFbk5CCsego93W1T902ZqMdgxvOcslkFbYRMcicKCSbsLwKbjwpS7mmNebcAs/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人在星球问我：AI都能写代码、画架构图了，架构师这个岗位，是不是快没了？先别急着下结论。遇到这种问题，我们不看情绪，看数据。我翻了25-26年的二十多份一手资料：随机对照试验、行业调研、大厂披露、学</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981587&amp;idx=1&amp;sn=d8e87da7a804f3635694c6fd3d224836&amp;chksm=bcbc7ed3179343fa4f0bfbea0bb4f2cdb14310b626d17ecdf71afb4e88742d78887332f623bb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 12 Sep 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[昨天发了一篇SDD，规范驱动开发。有童鞋留言：都AI时代了，还让我们写文档？这不是开倒车吗？ 这个观点很有代表性。索性把几个典型质疑拎出来，和大伙聊聊。 观点一：敏捷开发早就说了，"代码与注释高于详尽的文档"。SDD是开历史倒车。 个人的观点：这句话没错，但对象搞错了。传统文档失效，不是文档本身的问题，而是"写了没人看，看了没对齐，对齐了又改"——文档的读者是人，人会偷懒。而SDD的规范，第一读者是AI。AI恰恰是这个世界上最认真的读者：你写的每一条，它逐字遵守（当然，也可能有幻觉不遵守，但能够校验）。不是文档回来了，是文档第一次有了最忠实的读者，以及校验的方法。 观点二：文档写得再细，需求一变就过时，最后都是吃灰。 个人的观点：吃灰的不是文档，是没人执行的文档。传统文档和执行是两张皮，写完就躺在wiki里。SDD的规范直接进AI的上下文，每一次生成都被消费、被执行。天天被使用的东西，怎么会吃灰？ 观点三：我就一个人开发，小项目，搞prd、design、arch三件套，是大炮打蚊子。 个人的观点：基线的颗粒度，是可以裁剪的，一个人的三件套可以只有几十行。而且，恰恰是一个人——没有同事帮你review，没有人提醒你跑偏——才更需要一套约束兜底。先有再优，比完美更重要。 观点四：我把提示词写好不就行了，要什么规范文档？ 个人的观点：提示词解决"这次做什么"，规范解决"每次都做对"。提示词是一次性的，说完就散了；规范是可沉淀的资产，越用越值钱。一个是消耗品，一个是复利。 这些问题，没有标准答案，每个人的观点都不一样。无论如何，能引发我们的思考，才是最有价值。大伙的反馈我也很受用，面对AI，自己也仍在不断学习修炼之中。 今晚直播，和大家细聊《企业AI编程与SDD》，一些浅见，希望对大伙有帮助。欢迎预约，不见不散（md文档分享）。 你认为，AI时代，文档会消失，还是会复活？]]></title>
       <description><![CDATA[<p>昨天发了一篇SDD，规范驱动开发。有童鞋留言：都AI时代了，还让我们写文档？这不是开倒车吗？ 这个观点很有代表性。索性把几个典型质疑拎出来，和大伙聊聊。 观点一：敏捷开发早就说了，"代码与注释高于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981575&amp;idx=1&amp;sn=e31f1464ff6133802404f2e35245f969&amp;chksm=bc7a4ed471817981877767ec94f807024817db2e94218d05dcbe1a832d8c6bddcd93bde79bdd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfgKCuzQDcGB5LK3LYUTmeGHKicQib2licWS5s41lhp1iawLDxg6pUO78iaS4DKrwnXXMc3iaAmAryJzziahRZPHu9nq5IsCvOOavIDFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>年轻的时候，你有没有纠结过这样一个问题：你喜欢的女孩，喜欢你的女孩，你会选谁？Claude Code优不优秀？优秀！Claude Code好不好用？好用！奈何呢？网络不稳定（api.anthropic</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981216&amp;idx=1&amp;sn=0737acf555e0e1085d62f2bc97eab78c&amp;chksm=bc0cfc77c865aa943ba1e442b542bd6a4a14d513833bf6c4571ed7139c41ebc3ea768fa03bd6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 21 May 2026 12:09:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[25年初，我离开公司启动OPC，很重要的一个原因：我突然意识到，我工作得并不开心。 可能很多人或许会不理解：你一个一线城市，香港上市公司，CTO，收入可观，怎么可能工作得不开心呢？ 而事实是，有两种极其负面的情绪围绕着我： 一个，是恐惧。 一个，是愧疚。 为什么恐惧？内心为什么害怕？ 1. 来自年龄的增长，来自体重的增加，来自体检报告一项一项的飘红项。害怕，怕死； 2. 来自技术更新换代的冲击，来自公司发展的不确定性，来自职场的竞争。害怕，怕失业； 3. 来自家庭的争执，害怕冲突； 4. 来自房贷的压力，害怕破产； ... 为什么愧疚？ 1. 对大老板，公司业务萎靡，业务不及预期，我有责任； 2. 对团队，不但吃肉喝汤的承诺没能兑现，团队还连年缩减，我有责任； 3. 对家里的娃，早出晚归一天到晚看不见，一个不称职的父亲，我有责任； ... 这些，我也和成长教练，心理医生都聊过（2022年左右）。她们说，恐惧和愧疚是人最负面的两种情绪，很多人用这两种情绪控制别人。 最典型的是家长。 你不听我的，我就揍你。利用恐惧控制小孩。 我今天这么辛苦，还不是为了你。利用愧疚控制小孩。 其次是职场PUA。 你不听我的，绩效325就是你。利用恐惧控制下属。 要不是我护着你，你早就被公司裁了。利用愧疚控制下属。 很多人用这两种情绪麻痹自己。 怎么麻痹？ 我停滞不前，是因为我害怕，是因为我愧疚。 毕竟，相比行动，麻痹自己，给自己一个理由来得更容易一些。 周末直播，聊聊我的故事，我是怎么用三大思考工具走出来的。 你过得开心吗？ 开心幸福，治愈自己，直播间见。]]></title>
-      <description><![CDATA[<p>25年初，我离开公司启动OPC，很重要的一个原因：我突然意识到，我工作得并不开心。 可能很多人或许会不理解：你一个一线城市，香港上市公司，CTO，收入可观，怎么可能工作得不开心呢？ 而事实是，有两</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981198&amp;idx=1&amp;sn=cdc0b7756d1c556f2bf14d3eee615d34&amp;chksm=bcb9ae357dc30cd2b0d0e7fef2cdc069349a5237190f27eb0885f5b3c9a1136e3611b2903008&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 20 May 2026 17:42:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
