@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[人机共智·重构攻防｜WiFi万能钥匙，助力第十届安全开发者峰会（SDC2026）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWARZJq6Aw2Cqbm14LuwK6nv3v4GKFo9iaD42h5p6OSVwPJGaW0H15zNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>WiFi万能钥匙，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=1&amp;sn=8576b87125fb41988c3382a219e557d9&amp;chksm=b0166006ad14cbf2e746e6631716b75717b1c1bad3f26215ebcc7a918200e91cf74d63b4c250&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 20 Sep 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Black Hat 2023] Pwn House of minho 解题报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2UmJ9BtQaydMEoib46QfCezonoAdK3ia3iaRPveEPrPRYNXz5LFcd4TjicIAVugXnnf4f59ozFzmAOcZlrtFiafewOK29wibjGONO7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 题目信息 目标：nc 123.57.66.184 10050附件：附件：minhomain.cDockerfiledocker-compose.yml最终 flag：flag{bcddada9</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=2&amp;sn=48bad90cbb2c2db3fc17a98662193cc3&amp;chksm=b0a438c8e394aaa5b7ef98ac36c93a9ea0155e322905ebae6feba1890dd7727953899236da28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 20 Sep 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大模型测试接连“越狱”，Gemini突破隔离访问真实业务系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1VRY3r9vZiaEe1v2j0mibpQJM4d8HCvRGyaF3iagcs8Fpoo04b4TfVyB02MEI9nBh4xFld6qia2tJsg9iadRRFz0LWBS5NoNnslTfE/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，谷歌对外确认，旗下Gemini大模型在网络安全能力测评过程中，意外脱离模拟测试环境，访问到三家现实中企业的受保护业务系统。这是谷歌已知首例AI智能体在安全测试场景下发生越界访问真实网络的事件。事</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=3&amp;sn=6b032c5aeded4185ca7dde4b0ada35ed&amp;chksm=b0bb30622584d56f2c61666d6b7711ce716c265c206c93caa707c5011fbc2ed8a09ca61cced5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 20 Sep 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OLLVM学姐攻略手册]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0KNeMhl8PsnzZstGqCricr0QIMxDECWriccTYe47TFw2Dt4j5O753aw3QHGTEwSCDu5OZAmpy6zw40C9I3EgicRtcyNP3lzqZUYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OLLVM 是一类实现的统称：凡在官方 LLVM 上叠加混淆 Pass 的都算。它源自瑞士 HEIG-VD 的 obfuscator-llvm，提出了指令替换（-sub）、虚假控制流（-bcf）、控制</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620747&amp;idx=1&amp;sn=b6cdcf56b1664c94f4a37df1fd185ee5&amp;chksm=b044543ebedb04d3891474ebb68ea21b4e818ddb4bb1ffe03389826851209c71fd0f16717d6d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KT3ldk2bt32C9BibO6rO2SBCXWJuLAuFP6XichDqWXvtgTPbI9kev47McxPASR5qFgichs94hWhjbFbh9M90HQf8lt8iaU01hbg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=3&amp;sn=2cab6dc6a5faac34c9252af214cf0409&amp;chksm=b0c9aabd2d2d1e05deaff2565ccbae97b47489b29220611a4206ec65a5503ce28abddd90875e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF | 《第九题：丑寅同墟·星海抉择》设计思路及解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K204jvDQ4zJKxhkwy9gnRCctRMTNmpnnu6copBPfq61ict3iamoUyyytalGBeoZD5qGkib8rBNiaQam2PBV3ficmXJ41dEuBOXpqMvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。第九题《丑寅同墟・星海抉择》由出题战队『</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618893&amp;idx=1&amp;sn=efa7ac8d77b3f8038f3dbfaad6e4f49f&amp;chksm=b0741c72a5021fc01857ff869ba8785c0985a3a399c35b67b7118fbd599a6172746bf7e2b565&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个Android车机专项木马曝光：竟通过系统更新传播]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2tamTefEsribgff0nLrQPapGSOTMM2l2ThSTgmOFmT7mbUoGRb4Mo2nFgvmo6P1M8xncIdWxnrlqmqmuR7Qzw4zdGX1LlceCro/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，卡巴斯基（Kaspersky）安全团队披露了全球首例专门针对Android车机（Head Unit）设计完整攻击链的恶意软件事件。与以往诱导用户下载钓鱼App不同，此次攻击者盯上了车机内置的合法</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618893&amp;idx=2&amp;sn=87b86ef2b5b874ebb02680b120265e8f&amp;chksm=b072c85f44795d719d0d5e3d94280c8b1abc224c4847c2ba97ca93e79bd3c5d7f583a498f714&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[结课 | 已全部更新！基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》最新更新课时这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618893&amp;idx=3&amp;sn=55767e655f4cfe7c7417fe293db66b78&amp;chksm=b00602e5e8b1ef16edcfb11ff7e762604174f3768b8acd5fddd2ec0ae198e3ac64e663c42063&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

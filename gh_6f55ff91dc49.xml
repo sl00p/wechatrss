@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上狂揽 7500 星的 DeepSeek Harness 桌面端，推出企业版了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU155KcBGG2zEMChKUnC93qd43JCouuYJXYHsdiaXhvwAhfo8b7b6VPzu9qvBqnpOo3mWk5MFjhyyd1UQmCoWEuNdJ5jRrDYhkrI/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness 开源以后，这个叫 DSH Desktop 的开源客户端也开源了。它把 DeepSeek Harness 装进一个桌面客户端里。普通小白，也能低门槛上手，开箱即用。DS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537234&amp;idx=1&amp;sn=0b1ee7e348aad6899433bc14520638d2&amp;chksm=f875e5f653e7b55c1997817b25b1e5097405c014b1132b5eb5673907c76a17cc8bd930398e1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 20 Sep 2026 12:17:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[发现 GitHub 上两个教 Agent 做 3D 游戏的 Skills，收藏起来。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1NcX4nOdYGvHIpWThUzpMY4ZiaGwnGAShASXskiaZP3I1J8vZIqNPbHueia2zaciaVvDFpfD0dbajHIJGJkb2PviaJaR3FXUyCqVhs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Three.js Game SkillsThree.js Game Skills 是一套教 Agent 做 3D 网页游戏的开发手册和工具包。Three.js 是在网页里呈现 3D 画面的工具，这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536792&amp;idx=1&amp;sn=3bede56b586fdb91b2039089f48ae20c&amp;chksm=f8efb0fc53b01a7994429a7a7aad506f3479bdbe388285ca5d0f9908a4620f0136627fe39295&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33DwyoqLJFF5rPibpwtbZ0Lc4p7WIrMzf0903YUyspsRNccPrbFZjvCG7MPkVEc2mAlArWxxArqMBgqxjDIFgXqQcsaIvnG3hM/640?wxtype=jpeg&amp;wxfrom=0"/><p>01计算机视觉工具集supervision 是一个计算机视觉工具集，做 CV 项目的人应该都不陌生。它封装了检测、追踪、标注、可视化等一整套常用功能，省去了重复造轮子。如果你在做 CV 项目，supe</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535071&amp;idx=1&amp;sn=0da3535ca936aedd3ac618e4179aa756&amp;chksm=f88f9e1a18709fa3bb80fc341f73e95b206f47716b55299b108fee9a860b62c23af2ca66e156&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 04 Jul 2026 10:12:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[孵化了 10 万多 Star 开源项目的团队，在 GitHub 上搞了一个新东西。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3GjGGmEfibLia8JicibZVZXFtB0bUjkSKhvgKkibbDEoZibicfXiahYU682icZicDAsZicp3ZBOzAhjAD1fibjmKRj0IuH13RLfDgt3ZlLhx0/640?wxtype=jpeg&amp;wxfrom=0"/><p>做出 browser-use 的那个团队，最近又开源了一个新项目。就是那个 GitHub 上 10 万+ Star、让 AI 像人一样操作浏览器的明星项目，过去一年最火的 AI Agent 之一。新项</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535021&amp;idx=1&amp;sn=49cc9d7231f38185eac083f876c2fd26&amp;chksm=f802b00bf86a778a5ef2a1526b50134176fe26098a7823dbaa6923ef897ca8f096f6ea0087a9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 17:05:43 +0800</pubDate>
     </item>
   </channel>
 </rss>

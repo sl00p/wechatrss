@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Plugin4Shell：四大主流AI编程智能体同陷零点击RCE，插件市场"SHA锁定"防线被绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9ezXnOopv9Xvxjd1t6qvYGjE0U0TWsntticWJFyZicj2OEoDKWqQO72fNnnZwxDTW3Q5A2MVibZib5BnqN1dAZqaDaXq1gDLG7nTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研判 · AI 智能体供应链安全Plugin4Shell四大主流AI编程智能体同陷零点击RCE，插件市场"SHA锁定"防线被绕过首个针对 AI 智能体生态分发层（插件市场）的供应链漏洞：攻击者只需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520649&amp;idx=1&amp;sn=a09ca3fe6541d3517fac5ee58b6fc9a4&amp;chksm=ebbb0b4d274a7cd0335cbc958d1d822ea40efb2e6b2d621c6b967007c86cef11b13c2d82eb4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 20 Sep 2026 17:26:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.09.04~09.10)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8WKWPlDAtT8TxjJQRA8CnHbpiaIib7praQbbYicumJ1QibWTpBrQcgOMPMClH1T0EwauHK06VwzpQEcnj8QUib9nPJIzicVYBqmdDBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.09.04~09.10攻击团伙情报透明部落近期攻击活动分析Kimsuky 团伙推出新型 LNK 恶意程序，采用分功能 C2 服务器架构超越 Lazarus：解析朝鲜国家级网络作战力量组织体系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520365&amp;idx=1&amp;sn=9d2e4b5465a23952ae40c62cc3b593fa&amp;chksm=eb56f3753298d91c48653e2840bed6b15d0b467ecf401a0f0c44abb3bd21298eb0b05b6bcfa8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq81ABIb6yrwqJcSNVDVic6ibSH38Udu8tibBt1yjevaa46d5r5DDj3xhr530BiaJqxRb9onl95hCn7FicVYfn3XLI0ibTyprPOWUvwKk/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心发现2026年6月17日，我们盯上了一场针对AI开发框架Mastra的供应链攻击。攻击者劫持了前贡献者“ehindero”的npm账户，在88分钟内对@mastra命名空间下的144个软件包进行了</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519114&amp;idx=1&amp;sn=a77289b85be94df6e9efcc98e0badc7b&amp;chksm=eba3eb5a2e45709b23fe3c30c26c139af7a745f6c7c9f2c4783690821b8b2554936e3d401f01&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 13:03:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI网关LiteLLM遭漏洞链攻击，默认账户致全面接管风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8kgSK5doz99Hxt4ib0VwxHrouWSuAFXR7V8xbHqf05vOibSLD6GeX2GkSFn4N31kDCvZxUpspRIKV9wIOpG8tEfkO86xicnH17Zg/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件全景2026年6月15日，Obsidian Security公开披露了一组针对开源AI网关LiteLLM的漏洞链。攻击起点很不起眼：LiteLLM默认的低权限账户（internal_user）。终</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519104&amp;idx=1&amp;sn=52df3a70d32c3b6abe3418a28ad8b110&amp;chksm=ebe729136f6a0699cdd9e7187cd0ebfa8bcaf5738b59805f63d82a06d4bcb85700b037c02d83&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 16 Jun 2026 10:33:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
