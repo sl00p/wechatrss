@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当 Telegram 变成 C2：拆解监控后门 HEAVYGRAM 与 Handala Hack 的"马甲"游戏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqictLCePQrDp80nYMdpx7lwfXibOAPsicS12tvib53NPZERQI9XibsccWvgeuvpxzjrR8Txk7XaGdtbdHtyhGXiaF86mYu3Z0Dia4mYGo/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研判 · 后门解析当 Telegram 变成 C2拆解监控后门 HEAVYGRAM 与 Handala Hack 的"马甲"游戏Group-IB 披露的新型监控后门：以 Telegram Bot</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520675&amp;idx=1&amp;sn=63212e269c0244c2d144e2bce19d4be5&amp;chksm=eb2e602e3aacac41a5ac94ee26cea8d7bb68a821faa6303ffb4ce1ee7bf6f229baab67461616&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 16:19:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Plugin4Shell：四大主流AI编程智能体同陷零点击RCE，插件市场"SHA锁定"防线被绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9ezXnOopv9Xvxjd1t6qvYGjE0U0TWsntticWJFyZicj2OEoDKWqQO72fNnnZwxDTW3Q5A2MVibZib5BnqN1dAZqaDaXq1gDLG7nTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研判 · AI 智能体供应链安全Plugin4Shell四大主流AI编程智能体同陷零点击RCE，插件市场"SHA锁定"防线被绕过首个针对 AI 智能体生态分发层（插件市场）的供应链漏洞：攻击者只需</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520649&amp;idx=1&amp;sn=a09ca3fe6541d3517fac5ee58b6fc9a4&amp;chksm=ebbb0b4d274a7cd0335cbc958d1d822ea40efb2e6b2d621c6b967007c86cef11b13c2d82eb4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqib5LpS2EuEJUv7xQpFL1tibOXRQLzXATocbwlS5zpnqlSD5k9icxBY1Afd3sTh1kJZyxmAcPROoWCaowwRrPBdLHgXMNEAdzbspU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.06.12~06.18攻击团伙情报APT37 利用微软主题钓鱼与Dead-drop C2攻击韩国用户Ghostwriter 针对 Gmail 帐户的网络钓鱼活动ShinyHunters 利用</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519174&amp;idx=1&amp;sn=0b59a708b5f42ce1331707af08787fe0&amp;chksm=eb75ecc236fbf1da8a897c7c597e82b4213a1efa6d52cb335d7c165c8b1753597866be5ee899&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 19 Jun 2026 10:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一场88分钟的猎杀：Mastra作用域接管事件深度剖析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq81ABIb6yrwqJcSNVDVic6ibSH38Udu8tibBt1yjevaa46d5r5DDj3xhr530BiaJqxRb9onl95hCn7FicVYfn3XLI0ibTyprPOWUvwKk/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心发现2026年6月17日，我们盯上了一场针对AI开发框架Mastra的供应链攻击。攻击者劫持了前贡献者“ehindero”的npm账户，在88分钟内对@mastra命名空间下的144个软件包进行了</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519114&amp;idx=1&amp;sn=a77289b85be94df6e9efcc98e0badc7b&amp;chksm=eba3eb5a2e45709b23fe3c30c26c139af7a745f6c7c9f2c4783690821b8b2554936e3d401f01&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 13:03:49 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[聊聊最近爆火的Jev 模型，到底是个啥？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906uHaxER7m5qibgr9fVEgqmHnwuSQLknXW3Z5lazl2qAg3yyQuIGCPicRaQt4Yfib5zs7oMGgqibgicRrNrREwicFm4lyJSRZ9kRQsn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：mason，Principal Research Leader丨 导语 最近看到了一个挺有意思的东西，就是TypeSafe AI 做的 Jev。Reddit 上很多人用它玩 DOOM，也有人拿它</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804208&amp;idx=1&amp;sn=42392abb524c9a6d137042a4adbc903b&amp;chksm=bf5f63aaea3628e86ffaed8191658c0968ae0608cb9d87f65653f631e6950c6f3306c33aefa9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 10:22:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[iPhone Duo来了，腾讯 Kuikly 助 App 从容适配]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907F5nBxDiaKDDKjpQRYYqOyicu2GaXao7Csa3eJfZuUqEf57huiaaic04CmnnkkLSN9I1K5yVlCQWuRKyX3RMiaZTj8va9HeD0O28oU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Kuikly 是腾讯开源的高性能跨端框架，基于 Kotlin Multiplatform 技术，覆盖 Android、iOS、HarmonyOS、H5、微信小程序、Mac 六大平台，支撑业务日活用户超</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804073&amp;idx=1&amp;sn=cb50dfd70925eaa04a791e9a1b03b382&amp;chksm=bfeac34cdaa3085a37bc29244bd5e720a6e903b1d9d84619eae12135ee8dda7ca43e0bc969e1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905flA1sKFfwhF1tlyF1aH9sxezJHNRwIHnicmbIAAsbHFJ4IETEBRIanibDibp5te6z9nGKDwibpaaFNQmf61H14GiamwicL79HsJkm8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：marineMarvis 是少数几个让我重新兴奋起来的——不是因为它技术多前沿，而是因为它把前沿技术做成了一个普通用户能直接上手、敢放心用的东西。与 Marvis 的缘分始于上周刷到的一篇推文。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801679&amp;idx=1&amp;sn=2970beaa578390610e3f2271ab4efba6&amp;chksm=bfe21ac32e2b4f383a6965062b106e645dcc8e379dba7e06e5cf596e69aaf9aad4bb2e958d2e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 18:00:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从3632个漏洞看AI时代的评测基准重构！VulnGym基准发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907dbuiakqQ2ApNbcWxdNKCkABr3lViaYy2ficEInI9ca45UmJUjjs6UJWXuI5shjibfiaAJFdzIgMicxsVlJ7c5qV9uxEqZsdXAYfna0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：腾讯悟空代码安全团队导语随着 Claude Security、Codex Security 等新一代漏洞检测工具出现，漏洞检测正在从"发现代码缺陷"走向"理解项目上下文并检测业务风险"。我们分析</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649801631&amp;idx=1&amp;sn=4d1c5bb6cd33aa8f38f6b902f5231065&amp;chksm=bf4f00fe20b89e6867d73ffa4959bba63b525003c54abfa466560866ec1aa8138a7c2af3ea5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 17:31:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

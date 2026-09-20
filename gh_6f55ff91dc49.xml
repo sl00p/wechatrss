@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用了一整天 Step 5 Preview， 我觉得它杀回 AI 模型第一梯队了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2QYylKUKKvOvBNiacko8BPEUYibXqQAw2UI74hYBk5BlEicLtk7drF0qiayF2UqD8kS3upjVria78Avg6WTzyyju95uib8tl2mjzDG4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阶跃星辰发布了新一代旗舰模型： Step 5 Preview。向前一步，智能效率的新一代帕累托前沿。这一代模型能力确实很强，模型代号直接从 Step 3.7 跳到 Step 5 Preview 了。下</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537278&amp;idx=1&amp;sn=83bf2b85e97b614d9b4885567f1aef46&amp;chksm=f8e5f047ea1a09a8b3f6ed5c8761a38160ae76d245d8d10ea2cd74752218441b1b5f690c6321&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 12:24:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上狂揽 7500 星的 DeepSeek Harness 桌面端，推出企业版了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU155KcBGG2zEMChKUnC93qd43JCouuYJXYHsdiaXhvwAhfo8b7b6VPzu9qvBqnpOo3mWk5MFjhyyd1UQmCoWEuNdJ5jRrDYhkrI/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness 开源以后，这个叫 DSH Desktop 的开源客户端也开源了。它把 DeepSeek Harness 装进一个桌面客户端里。普通小白，也能低门槛上手，开箱即用。DS</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537234&amp;idx=1&amp;sn=0b1ee7e348aad6899433bc14520638d2&amp;chksm=f875e5f653e7b55c1997817b25b1e5097405c014b1132b5eb5673907c76a17cc8bd930398e1f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU272PJZ54NdryZkXlYbKEaIOGmd53ezL4ibo7NRbmMzmMz8ZtWdyTKvrEicicbOhXXDVnrP87GENjem9sZZY9bYJQVPApicZ7ic4d38/640?wxtype=jpeg&amp;wxfrom=0"/><p>有人在 GitHub 上开源了一个小工具叫 FuckClaude让你在浏览器里一键自测，自己的环境到底有多像 Claude Code 眼中的中国用户。作者把浏览器的六个特征做成了打分模型，权重加起来正</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535120&amp;idx=1&amp;sn=7fabb3074ffa59a0b1059a2eb63aff4c&amp;chksm=f85b9ca64bcff991caed5c983ff6237ac380e1e3a6176c2ff67ca4c6c9da98d1d3e01672a7f8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 05 Jul 2026 11:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[盘点 17 个 6 月份牛牛牛的 GitHub 开源项目。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33DwyoqLJFF5rPibpwtbZ0Lc4p7WIrMzf0903YUyspsRNccPrbFZjvCG7MPkVEc2mAlArWxxArqMBgqxjDIFgXqQcsaIvnG3hM/640?wxtype=jpeg&amp;wxfrom=0"/><p>01计算机视觉工具集supervision 是一个计算机视觉工具集，做 CV 项目的人应该都不陌生。它封装了检测、追踪、标注、可视化等一整套常用功能，省去了重复造轮子。如果你在做 CV 项目，supe</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535071&amp;idx=1&amp;sn=0da3535ca936aedd3ac618e4179aa756&amp;chksm=f88f9e1a18709fa3bb80fc341f73e95b206f47716b55299b108fee9a860b62c23af2ca66e156&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 04 Jul 2026 10:12:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec9cwcSAuwoNfxck1aagurJwAXHDDyyrx1gCfsWJReNficibJQk8JZHh1dtI9ayJqQWqzdRhh1jU1VYY17BMKCicBesCibJvEuaHBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>当短剧、漫剧、电商视频、广告素材走向全球市场，字幕擦除早已不只是把画面底部的一行对白抹掉。真实视频里的文字，往往比想象中复杂：人物姓名可能竖排在角色身侧，章节标题可能带着书法笔触、描边、阴影和动态特效</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522686&amp;idx=1&amp;sn=d051710a5d9f2c1e062ee6bf953be330&amp;chksm=e8d0507dd4adbe572a380448144be6a64858228ce5a96ab9d5c990485a93e32d3b6922d91e1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TLS 全链路可观测体系：破解 LLM 应用黑盒，实现会话透明复盘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecrBt3ABZicmxyqEkY2wZKTMymWicw4ibePXzYyMiaTSnSVDZL0icficYkMUUrcbD0kZDRlea4luOx7FHYWkRPIR1JJvcjr5lhHaicHUg/640?wxtype=jpeg&amp;wxfrom=0"/><p>火山引擎日志服务 TLS （Tinder Log Service）是日志、Trace、Metrics 等可观测数据的一站式存储分析平台，AgentLoop 是 TLS 针对 AI Agent 的运行观</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522374&amp;idx=1&amp;sn=33c26eab48cc34d99c8e25423a715489&amp;chksm=e891164d9e518b3a00208db52ae1899c3a2b98eb9215b71d4fd1fe6c3abef948debfc21e7be5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeTEMEZ7bIec0K4hX5Mo4WEcPJHJhdEzlFicJuubG1YzzguibZeOIsRXSsE3tbicDIul1eFDiaHLBviaicfYXLGXS54LJicibHQDxTHX6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与困境过去几年，抖音的业务边界持续拓宽，从核心短视频延伸至直播、电商、本地生活等多元场景，用户规模与交互复杂度持续增长。设备端需同时承载高性能渲染、低延迟推流、多线程预加载等密集任务，内存峰值</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519658&amp;idx=1&amp;sn=95a16291712f0de8814897cc2f3dc5b2&amp;chksm=e8783bb7a2726b4c9604451a0dcf066b4b0b48d442bd1f9d9680410bbc4368eed6d5ae31eb4a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 08 May 2026 17:29:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当桌面 Agent 成为常态，飞连 ADR 给出全链路安全答案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feeiam3doaQHJe4ceydsdxMbpaXVvaPkFHXUnfKvDw2TiaEaG0RkcWU5RJN4WibvM0VqWpbOCJx1TYNyZZJiaBHJwNe5HChdjtL6jqE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场由 AI Agent 引发的生产力革命，正席卷全球办公室。以 OpenClaw（“龙虾”）、Hermes Agent 等为代表的 AI 智能体，能自主规划、执行复杂工作，带来效率革命。据权威报告数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519532&amp;idx=1&amp;sn=e2213c55dc6598f8174a937c21abc7be&amp;chksm=e83ea11b8b0693e5b22b7bc5265fba2709899dfbecd70da7ecedf346448e208f4d6cda6a9259&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 07 May 2026 14:59:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对学习APP的frida检测绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2UmJ9BtQaydMEoib46QfCezonoAdK3ia3iaRPveEPrPRYNXz5LFcd4TjicIAVugXnnf4f59ozFzmAOcZlrtFiafewOK29wibjGONO7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个App的frida检测机制 集中在libDexHelper.so和libmsaoaidsec.so两个so里面，主要思路都是一步步dump，trace到相关检测函数入口位置，再交给ai静态分析关</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=1&amp;sn=78956f9c1684c6104a957e6b7d80d3e2&amp;chksm=b06639596f9827a9b8ea277690f6f7743f729a49ab6439584e515fa84ea8ae2736a26856146b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 18:07:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[伪装面试投递恶意代码！WaterPlum组织感染3万台主机，盗走千万美元加密货币]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0knuS4PTDdHvp3y8VcKkG77uINI2rIO0CB8djl1TlXbIwlVgH4oY6pw9fwTI6hibrfibll2Vic18x7HTsum9LLC4K7Er92ZErht8/640?wxtype=jpeg&amp;wxfrom=0"/><p>代号为WaterPlum（该攻击行动别名“传染性面试”Contagious Interview）的黑客组织，在2025年12月至2026年7月期间，通过伪造招聘流程实施大规模社会工程攻击，全球超100</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=2&amp;sn=2fa514ee8c22fa8d1f2823c8d7bb3366&amp;chksm=b074fced21e5e3c512b2925188045ae11506edacab880dbc3bf3473f9aba380f66b9595c2a4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 18:07:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=3&amp;sn=b011ed0fa79c9f9e0328512ae026d85d&amp;chksm=b0425a015314d43373fe6dc5afe610aba83e70058119f3f61ebe0590f12210ca01f93806f7d7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 18:07:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构攻防｜WiFi万能钥匙，助力第十届安全开发者峰会（SDC2026）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWARZJq6Aw2Cqbm14LuwK6nv3v4GKFo9iaD42h5p6OSVwPJGaW0H15zNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>WiFi万能钥匙，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=1&amp;sn=8576b87125fb41988c3382a219e557d9&amp;chksm=b0166006ad14cbf2e746e6631716b75717b1c1bad3f26215ebcc7a918200e91cf74d63b4c250&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KaqYHGH9q4ZGD9MHK5icBngmQpGYOBdPCwP2h1XA1sU47pZg2RbuwEkbptlv5KvYsF3lLzCPPiczStic2zSf7nEmGZTkH6sTAJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vercel 近日修复了 Next.js 框架的两处关键高危安全漏洞，均允许攻击者在无需身份认证的条件下实现远程代码执行（RCE）。其中 CVE‑2026‑75604 CVSS 9.0，另一处AVIF</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=3&amp;sn=d3f507f258cc563b6f696f850a7d8640&amp;chksm=b0ab045422213fbf49b58773507093369ea4fffdfe87f07c4e5ba2bad7584ff74d34970f40d2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 KCTF | 《第十题：卯时·曦光初现》设计思路及解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3EcXiatib4YqYnqIWk2kcMrcJEFC5tErjvvwhFawHpceuicHQVG2hiac01Ojq8LibmdYeTtdHCgibgrPIxTWcwRkmDCoSN7Cvoicq40U/640?wxtype=jpeg&amp;wxfrom=0"/><p>8月10日12:00，2026 KCTF攻防对抗赛正式开赛！本届赛事沿用多维度积分体系，难度、火力、精致度三重积分同步核算，攻防双向计分机制兼顾趣味性与竞技性。2026 KCTF 最后一题 Pwn《卯</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=1&amp;sn=3d61ce347e2147a0b17ef1517cf147c1&amp;chksm=b055ef5e9001923264cd59954b447b068fb868619894e41f0dde957d4f648d26eb671438ade5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Keycloak爆出致命高危漏洞！无认证可接管任意账号]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3KZzZ7spbYUN4T4sj2W6jlIBrhmecDkiaMe5aj4GkX139fAvP9WryMibGPXL1KOBUoTL9NtfbGFs0jxgaHnNNZNmjeQ66oJxVdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Red Hat 官方披露一则致命级Keycloak身份认证漏洞（CVE-2026-18963），该漏洞危害等级极高，CVSS 3.1评分高达9.1分。未授权的远程攻击者无需任何账号权限、无需目标</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=2&amp;sn=4a4d9731c79fc341ccfbd6d65b10f7c1&amp;chksm=b061ac31049fde0a63d3bde64d7d3eddc22d2f187dbf45d76b5c5ed430347d79e4553bda6992&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非虫出品！体系化打通：安卓软件开发与安全逆向全链路能力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KT3ldk2bt32C9BibO6rO2SBCXWJuLAuFP6XichDqWXvtgTPbI9kev47McxPASR5qFgichs94hWhjbFbh9M90HQf8lt8iaU01hbg4/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多学安卓逆向的人，都会卡在同一个地方。Frida 会用了，抓包也会了，Xposed 也能写几个简单 Hook 了。可一旦遇上：抓到的请求包 body 是一串看不懂的密文，sign 字段死活拼不出来；</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618913&amp;idx=3&amp;sn=2cab6dc6a5faac34c9252af214cf0409&amp;chksm=b0c9aabd2d2d1e05deaff2565ccbae97b47489b29220611a4206ec65a5503ce28abddd90875e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 18:02:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

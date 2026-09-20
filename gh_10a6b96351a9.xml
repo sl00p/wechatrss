@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代，让AI写缓存，spec怎么写（5/100）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXeDxiaMyG1zia5WjOGjJHJEMTicKoqicqwGnQAOHgnicbvREwnjSqict7C8woFN9l1pROdRdpbMuo2Y7XaNib7Y5iaCoRub5ENiacXicmBXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第5讲：让AI写缓存代码，spec怎么写？AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第5讲。现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981660&amp;idx=1&amp;sn=26661f449a2f96ce32042b4b4e1198f5&amp;chksm=bcc026064fca9d081c28de7d756644f36311f315e0509fb917ab76a27dc2ce4e1a4cd7bc4ab5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 17:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[做了多年架构，发现很多人连架构设计的关键流程都不知道。系统上线不少，需求做了不少，但基本毫无方法，全凭想象。 架构设计，总共四步。 第一步，理解需求，定义系统边界。 和产品确定功能需求，根据业务确定性能需求，明确哪些做、哪些不做。 第二步，调研已有的类似系统。 你的系统是业内首创吗？不是的话，看看成熟系统怎么做的。参考优秀方案，事半功倍。 第三步，顶层设计。 设计核心组件和交互：要不要 cache，要不要 mq，单体还是微服务。产出粗略架构图。 第四步，解决主要矛盾，迭代设计。 哪里是主要矛盾，就细化哪里。解决一个，再找下一个。架构不是设计出来的，是迭代演进出来的。 问题来了：到了 AI 时代，这四步还成立吗？ 成立。但玩法变了。 第一步，理解需求，AI可以参与。把需求规范做成基线，按照基线生成具体需求，用工具理解需求，但需要注意，必须人来兜底。 步骤二，调研已有的类似系统，变化最大。 以前调研翻资料、看源码，短则几天长则几周。现在问 AI，秒回——AI 是史上最强的调研器。但它会一本正经地编。所以调研从"找资料"变成了"验真伪"：AI 给的方案，当线索，不当结论，还是人来兜底。 步骤三，顶层设计，提速了。 AI 辅助画架构图，但我们必须有能力判断，它画得对不对，人依然能兜底。 步骤四，找主要矛盾，没变。 主要矛盾在哪，AI 不知道。你的业务、你的流量曲线，都在你脑子里。找主要矛盾，AI 替不了。 还有一个贯穿四步的变化：每一步的产物，都要写成 spec。 以前写文档给人看，现在写 spec 给 AI 执行。写不清，AI 就自由发挥。 总结： 架构设计四步：定边界、调研、顶层设计、迭代主要矛盾。AI时代，AI执行，人做审美，做判断，做兜底。 以上四步，最容易被忽略的，是第二步调研，不行的程序员，看谁的代码都是shi；不行的架构师，觉得别人的方案都是shi、自己原创的才流弊——其实，自己原创的大部分架构方案，才是shi。 保持开放，善于借鉴，是优秀架构师的核心品质。 原文2000字，附案例，架构图，相关资料。 <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-chg1jf" href="">#架构师</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-ug6grl" href="">#AI</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-f23855" href="">#架构设计</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-6vfbai" href="">#程序员</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-2uazek" href="">#职场进阶</a>]]></title>
       <description><![CDATA[<p>做了多年架构，发现很多人连架构设计的关键流程都不知道。系统上线不少，需求做了不少，但基本毫无方法，全凭想象。 架构设计，总共四步。 第一步，理解需求，定义系统边界。 和产品确定功能需求，根据业务确</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981649&amp;idx=1&amp;sn=2c7dd0d5b5135ea2291f5e25d30aae36&amp;chksm=bc2031a8ac114d17e8de2eadfcc8d84e46a5e8f930c65ea422b00cf8dfbfab1734e01e32825c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcUHMiatkTYo1cYiaSqWsc3z4xbVxUXm0eGYKhy2hbytjuSvqp46VM4sSUlLrBUBp7BS5VGI6NaaEHiaL8QzJjAia77FsT0ZhhEVkU/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知不觉时间又来到了 5 月份，程序员群体已悄然迎来新一轮职业挑战——在行业普遍降本增效的背景下，如何通过技术深耕实现个人价值跃升。这场关乎职业发展的"硬仗"，已经悄然打响了。在DeepSeek等大模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981225&amp;idx=1&amp;sn=8059855e27fe5d884dd7af0aa528feec&amp;chksm=bce29323e0ff26fb3996f4dac89f54858a795859a4bddb088cf4ff7eee4a546d0b31e3651391&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 11:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[背景：参加一个商业大航海，自助式的（官方给资料，自己学，自己实践），准备3个月孵化一个opc商业产品。也希望借着这个机会，再倒逼自己快速成长一把。 决定一个人个人成长，职场发展的高度的底层能力，不是专家能力，而是更为底层的能力。 具体是哪些底层能力呢？ 上一篇大家需求调研的结果出来了： 1. 执行力，12.85% 2. 学习能力，11.73% 3. 目标感，11.55% 4. 解决问题的能力，11.17% 5. 抓主要矛盾，9.87% 5. 迭代成长，9.50% 7. 元认知，9.31% 8. 复盘能力，9.12% 9. 决策力，7.82% 前9项占了90%+，与你的想法匹配吗？ 好，我做opc，能帮助到大家这些吗？ 思来想去，还是图文，短视频，直播的方式，把自己多年： 1. 从程序员，到架构师； 2. 从技术主管，到上市公司CTO； 3. 从业务负责人，到opc创业者； 个人成长+职场发展的思考，经验，工具分享出来，最为可行。 和好几个做opc的朋友聊了下，问他们意见，靠不靠谱？ 结果，朋友们都极其反对！ opc做2C业务，ShaX吗？用户不付费，还难伺候，嚼逼会累死。现在社群轻模式还好，未来如果要做产品，研发推广成本太高。 我说，用户不付费，那就先免费。 朋友们说，你这不是商业逻辑，是情怀，做不长久。 怎么做不长久？架构技能，OpenClaw技能，AI编程技能... 专家技能才做不长久。个人成长和职场发展，底层技能，人人都需要，做不长久？ 你这是抬杠，你也不是不知道，短期焦虑的技能吃香，长期成长是反人性的，干嘛做一个反人性的，出力不讨好的事情呢？人人都需要？你想多了，真心想学习的人有1%？ 不说了，别劝了，是朋友的话，说说如何能做好，别讨论其他的。 ... 朋友们拗不过我，给了我两个意见： 其一，单向输出思考，经验，工具不够，参与者必须一起思考，并且实践； 其二，不是所有的能力都适合通过“分享”的形式来提高，一定要考虑： - 必须结构化 - 必须有实践（如何设计作业与练习） - 必须马上能用起来（无问题，不学习） 卧槽，真诚且专业。 人生有几个这样的朋友很幸运。能拉住你，say别人不会说的no。需要帮助的时候，给真诚且专业的建议。 真正的朋友，从来都不只是为了提供情绪价值。 执行力，学习能力，目标感，解决问题的能力，抓主要矛盾，迭代成长，元认知，复盘能力，决策力... opc做2C，大家有什么建议？ 欢迎指导我做opc创业，做我的精神股东。]]></title>
-      <description><![CDATA[<p>背景：参加一个商业大航海，自助式的（官方给资料，自己学，自己实践），准备3个月孵化一个opc商业产品。也希望借着这个机会，再倒逼自己快速成长一把。 决定一个人个人成长，职场发展的高度的底层能力，不是</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981218&amp;idx=1&amp;sn=78e425833d8d5bd3cce39ba07e70161e&amp;chksm=bc91f9db5136eeb46265248c7cd7a6ec43a5410515da77acedcf3763948bfe948c9286081669&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 11:59:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

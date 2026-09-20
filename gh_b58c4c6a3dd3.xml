@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯iOA×WorkBuddy ：让企业安心用Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun5bllETUq1SHcsnJho04jQUzIMw1ZJRQptmOlEj7RLbhPfT7A740TlSickmXjVKGUyby84d8xwu4vsISzXic1icdIESF2wicDklytc/640?wxtype=jpeg&amp;wxfrom=0"/><p>员工自行下载的Agent、Skill，企业怎么管理？大规模用Agent后，高危Skill和脚本怎么精准拦截？谁能用WorkBuddy、在哪台终端上用，企业能否自己配置？传统DLP误报高，能否提升识别的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530695&amp;idx=1&amp;sn=88f1ec21b51a150474e0c70f70efdc24&amp;chksm=c1cc8eeaf5a8b19782ee002d9992cf2e372fbff82b9562ad23c3e656a66e7c3486ddb53816b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 21 Sep 2026 17:24:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯云推出AI自主渗透测试产品「无境」：以AI对抗AI，主动发现防御盲区]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun5zHMJcialQl3icFLaibJ0o4llFpnfNQiclx7tdTFeXjzv9lqEEXKGdbzQ5A0NJWtdYzV2Vz9AGq5uPaN7jRTmYSiaoKjwL3mlUibfJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>只输入一个业务网址，不提供任何登录凭据。43分钟后，它拿到了管理员权限。这是腾讯云全新推出的AI自主渗透测试产品「无境」。在这次真实测试中，企业录入一个授权目标后，无境自己完成侦察、利用与验证，最后交</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530607&amp;idx=1&amp;sn=8888a8d3d2dd4540aa3ff2925f47ebca&amp;chksm=c11d5d23975df94ef66e133354d7ea6759d8242a3e717f8b12fffdccb676b69f1a84540ba192&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[养龙虾必须关注的「安全十问」]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun5WBtjkEUXdYcj1ChPvKXbauNNUQJ6JH7t7cfQScc8WibKg8jQAMsuR7KC0xsBDucljuPtn8ljrfiaY9fa0Pr9ibZT8uTIAKicx6o4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Q1. OpenClaw面临哪些安全风险？如何客观评估其严重程度？在目前Openclaw的核心风险集中在以下几个方面：一是"提示词安全"。OpenClaw 从即时通讯软件等渠道接收用户消息，交给 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529041&amp;idx=1&amp;sn=b066c322cb2b154048b84e9373175ce8&amp;chksm=c12e5ae532c58603087ebf634440b5225250171235c3bace587d13b0ad30a5f6208b34ec8e18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 16 Mar 2026 20:42:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[「AI开源组件安全风险」系列一：配置缺陷，让你的GPU沦为矿机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun7wdOSwZQhq6qU3uU6Dev6EFvibJLCDoa8yC8aqttbkgLPE2GhncVKTKH4mJL7GWMYS5xaM5icqqsA6D2RB10iaurRGicMD76j9Fiag/640?wxtype=jpeg&amp;wxfrom=0"/><p>一引言随着生成式AI技术的快速发展，ComfyUI、Stable Diffusion WebUI 等AI开源组件已成为 AI 应用开发的基础设施。然而，在这些组件快速迭代的背后，一个容易被忽视的安全问</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529041&amp;idx=2&amp;sn=026dff8d58d90df7ba6011d7d3620e77&amp;chksm=c1983220cc2ec5daba4868a807271bfb4d7f4603836819476b1bb6b00b1f161f6a49ab548dd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 16 Mar 2026 20:42:22 +0800</pubDate>
     </item>
   </channel>
