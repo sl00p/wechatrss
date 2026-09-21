@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让AI来解决缓存不一致，spec要怎么写？（6/100）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXexf3ThCdxZzUQXZxoCLMV7mv4ibowdNOJxpRkMGwialL6ic5UAO2raRFIlU41AjMibJgicQegU3iaPaHUeyfAWrrtbzNrFicN6HEH2lM/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第6讲：缓存不一致AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第6讲。上一讲，聊了《Cache</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981668&amp;idx=1&amp;sn=8b96fb9bb927400395b84f9e1c2389d4&amp;chksm=bc3eeea3c523c0dd45d36338bb322d383e68ae5f7d450ff40506bbc072c236f5d3c62f551db4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 11:54:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI时代，让AI写缓存，spec怎么写（5/100）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXeDxiaMyG1zia5WjOGjJHJEMTicKoqicqwGnQAOHgnicbvREwnjSqict7C8woFN9l1pROdRdpbMuo2Y7XaNib7Y5iaCoRub5ENiacXicmBXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第5讲：让AI写缓存代码，spec怎么写？AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第5讲。现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981660&amp;idx=1&amp;sn=26661f449a2f96ce32042b4b4e1198f5&amp;chksm=bcc026064fca9d081c28de7d756644f36311f315e0509fb917ab76a27dc2ce4e1a4cd7bc4ab5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>很多人觉得，AI来了，咱们这些35+40+的老架构师，要更快的被淘汰了。而我认为哈，AI工具的平权，对咱们这群资深的架构师，是百年不遇的利好。 为什么这么说呢？ 你想想看哈，AI提升了什么？AI干</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981227&amp;idx=1&amp;sn=3124da4c74a1ca4b53d90057bf139329&amp;chksm=bccd158954cbd535e04538bfda58d3045a6673f01dd05f2baaf6359d95e1840f6763486b5ab9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 08:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[面了一个75k的字节小姐姐，想当场给她offer。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcUHMiatkTYo1cYiaSqWsc3z4xbVxUXm0eGYKhy2hbytjuSvqp46VM4sSUlLrBUBp7BS5VGI6NaaEHiaL8QzJjAia77FsT0ZhhEVkU/640?wxtype=jpeg&amp;wxfrom=0"/><p>不知不觉时间又来到了 5 月份，程序员群体已悄然迎来新一轮职业挑战——在行业普遍降本增效的背景下，如何通过技术深耕实现个人价值跃升。这场关乎职业发展的"硬仗"，已经悄然打响了。在DeepSeek等大模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981225&amp;idx=1&amp;sn=8059855e27fe5d884dd7af0aa528feec&amp;chksm=bce29323e0ff26fb3996f4dac89f54858a795859a4bddb088cf4ff7eee4a546d0b31e3651391&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 25 May 2026 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

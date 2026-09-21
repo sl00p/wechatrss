@@ -1,15 +1,21 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[阿里云中间件]]></title>
+    <title><![CDATA[阿里云 AgentCore]]></title>
     <link>https://mp.weixin.qq.com/</link>
-    <description><![CDATA[阿里云中间件公众号]]></description>
+    <description><![CDATA[阿里云 AgentCore公众号]]></description>
     <language>zh-cn</language>
     <image>
       <url>https://wx.qlogo.cn/mmhead/ofvnGicEPbfQ9d0S2yUutCK5cfKt2uoWPng9RK0gBDDW8DoNJIFA5FYxTYG3yK3UkIDKdPvhPibib4/132</url>
       <title>gh_f49013e01eff</title>
       <link>https://mp.weixin.qq.com/</link>
     </image>
+    <item>
+      <title><![CDATA[从个人生产力到企业生产力，阿里云发布企业级 Agent 平台 AgentCore]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT7VFTqfDJYkbVI3VLPF2058sxHYWvnYIzvC9WaVuoiay3sqY5URU5OcKfa4zKZhiay2yl2MtxNXKaibiaL8EDA1bdN1tby2AEPe5fg/640?wxtype=jpeg&amp;wxfrom=0"/><p>预告：云栖大会 AgentCore 分论坛将于 9月23日13:30-17:00，在国际博览中心一期-4F-大会议厅 A 举办。个人生产力提升了，等于企业的生产力也提升了吗？似乎，大家比以前更忙了。我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247516769&amp;idx=1&amp;sn=3ee0eb99b6797b8a9cdc725d9fb3c841&amp;chksm=f411b41a95ee8a2ce13ec1256740e599178a4f0ea1b2ee526bbc3216d7a85355d6c3ad6c9653&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 20:06:04 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[STAROps 面向未知异常发现的日志智能巡检架构实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT48o6Uo3YW5DEibruYbL5qibicAF0Y9AeesFSsApy7sQ0Zo1NDGicOHibOL6icCzqgibAvjt3d64g8gAw5EVPw9JZRiaNUe1BudL1AvTdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人查日志，都是从一条告警开始的。接口报错了，先搜 Request ID；Pod 重启了，去找退出前的异常堆栈；用户反馈支付失败，再拿着账号和订单号回查调用过程。此时问题已经发生，日志帮助我们还原现</p>]]></description>

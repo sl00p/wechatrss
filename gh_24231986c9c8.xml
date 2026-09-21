@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent 已经进入工作流，文件还要靠人传来传去？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fefqp207cGwpC5gLoD7PeHw6PInBS9kM0fjO0QoMU2eaREuovNjX3WIEp84vzaiaeznhcRjFlqdQBy8jvoPLFmRicCk2W2ys28t30/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 整理客户反馈、生成分析报告，已成为不少团队尝试 AI 办公的起点。但围绕这份报告，仍有一系列工作需要人完成：把资料上传给 Agent，把结果下载下来，再发给同事审阅；同事补充最新数据后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522794&amp;idx=1&amp;sn=f78bb16a0448933da06fcc4d353de927&amp;chksm=e8609d95bfc966b366f967a320853e5a3ead7fbafc2e3b9d7eda0fe927304fa5cff22b17e1ab&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 19:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一图看懂 ADrive 跨产品协作实践：文件通了，Agent 就通了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FedRdg3icf2QoTBGTt9JwcRe3VxseFiaAkCPJxL2hlP3jZxpibubEt0bpITRKygFKLMuzlIfEjibBAjw1dmOBX0vzsriboR640Qzx0JE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文基于 ve-adrive-cli v1.0.2。文中的品牌、项目和文件名均为演示示例。GitHub Release：https://github.com/volcengine/ve-storage</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522794&amp;idx=2&amp;sn=50a39d3e2016757e656d911c1b6fffff&amp;chksm=e898d68af038804a4b48c4ec5d4c803381f67af43124f97a44f7e4a9e02d942a58db6b349e4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 19:11:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec9cwcSAuwoNfxck1aagurJwAXHDDyyrx1gCfsWJReNficibJQk8JZHh1dtI9ayJqQWqzdRhh1jU1VYY17BMKCicBesCibJvEuaHBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>当短剧、漫剧、电商视频、广告素材走向全球市场，字幕擦除早已不只是把画面底部的一行对白抹掉。真实视频里的文字，往往比想象中复杂：人物姓名可能竖排在角色身侧，章节标题可能带着书法笔触、描边、阴影和动态特效</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522686&amp;idx=1&amp;sn=d051710a5d9f2c1e062ee6bf953be330&amp;chksm=e8d0507dd4adbe572a380448144be6a64858228ce5a96ab9d5c990485a93e32d3b6922d91e1d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefUn36ATtewrM3WJicsfU4aSCO9Jmy9a0LBg5nL2otvbOeOc15bKkFibPIxfDDZiaJ8MMiaiazhXiakyGEN3O5vGBdRvFwdyhqmJR7Bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>客户介绍在快速变化的在线教育市场，内容和活动的迭代速度，直接决定了用户增长和留存的生命线。当一位教学教研老师可能需要一个工具来快速追踪新课程的学员反馈时、当一位市场运营同学希望能迅速搭建一个招生季的活</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519770&amp;idx=1&amp;sn=f9593f3795dbc93e14a1d54941874a89&amp;chksm=e84ff683b1280bd3cf0c28d18ddc565a54ca5a7792f74b03c88bfbcae10c3160de3e45b9a20b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 13 May 2026 11:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[IGA Pages × TRAE ：TRAE 如何快速实现一键部署]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeGlLuuHs95kUxjic03uAsibbBD5pDuyyIpU3sp9dW3QcStU7dpmAic3icTBCj0QkwEbG4TEvgKXyajiawPiaOvj0pUYnqSnE5GEazcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>前言想象这样一个场景：你是独立开发者、产品经理，或者负责活动落地页的运营同学。一个想法突然冒出来，借助 TRAE 中国版，你在一个下午就把原型跑通了。但是真正的部署难题从这里才开始：你需要让本地能打开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519758&amp;idx=1&amp;sn=2a3cb2f76c01e5134c0af2e62bfbec3a&amp;chksm=e83e762e90fbb8fbe220cf40427bb1091ab74460390ea64eb0ca9ff1d135b6138b70bbf06d30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 11 May 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[抖音动态体验优化实践与思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeTEMEZ7bIec0K4hX5Mo4WEcPJHJhdEzlFicJuubG1YzzguibZeOIsRXSsE3tbicDIul1eFDiaHLBviaicfYXLGXS54LJicibHQDxTHX6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、背景与困境过去几年，抖音的业务边界持续拓宽，从核心短视频延伸至直播、电商、本地生活等多元场景，用户规模与交互复杂度持续增长。设备端需同时承载高性能渲染、低延迟推流、多线程预加载等密集任务，内存峰值</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519658&amp;idx=1&amp;sn=95a16291712f0de8814897cc2f3dc5b2&amp;chksm=e8783bb7a2726b4c9604451a0dcf066b4b0b48d442bd1f9d9680410bbc4368eed6d5ae31eb4a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 17:29:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1anlNg3vbUD8u3MxcQuJ6Q2thv0mC5iaD5rMaibruTWfqbxervNWCvy6XwPzJ9uXjkSfdq2QuStxgJqzX4RWqyhIYVmYLfMPP88/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近分析 Google Play 上的 Unity 游戏，碰到过几次类似的情况：JADX 中大量关键方法只剩一句 VMRunner.invoke("...")，逻辑全被掏空；模拟器中迅速闪退。这两件事</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620834&amp;idx=1&amp;sn=bb5885497395f2a93a892c5f0d3be2e3&amp;chksm=b060f2ca6516b1f8f35ba77311969de8026aa6c83fb21bb0647b3811299621569ca3b53557d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 18:02:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[已在野利用｜合勤GS1900交换机高危漏洞入库KEV，内网无认证即可接管设备]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0vtUvGbGxiceJtD2e4REqhjabOGo6vK3CtJj1UUWUzhic9icibWuIFu3ef41RjFibup1pLLK4iaV6WXLU2ys1GhRmxKQEWH8IYaPXCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全与基础设施安全局CISA确认，CVE‑2026‑7273 漏洞已经出现真实环境下的利用行为，正式将该高危漏洞加入KEV（已知被利用漏洞）目录，提醒各企事业单位尽快完成风险处置。⚠️漏洞核心</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620834&amp;idx=2&amp;sn=d6038a0523f2c18db151c69bf4a4cef3&amp;chksm=b018a4abd282915e254357eb9191b27dcf42dd627d62b247e69e952710cd8ed12a481348ae23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 18:02:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小班教学，火热报名中！SDC2026·安全训练营：8小时提升实战技能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0zF46dyBtSo1CVFo8okt9soroFQQrVXibvQwNDWU6HRUqECGG8k6TWpree943xx211CibibEXvAuCVcibBYIiaibv3e0dxIoMvO0YBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全训练营 X SDC2026随着 AI 技术深度渗透到安全研究领域，固件挖掘、大模型攻防、Android 逆向都迎来全新的技术变革。SDC2026 安全训练营正式开启招募！本次设置三大线下实战训练营</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620834&amp;idx=3&amp;sn=d3f4f114af53ad5b013b932d2e219a16&amp;chksm=b04452c24a28cea0960e1b2d1f33aa605d9ec2e622057cbd4f8eb8f629959c4264c7116de0c4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 18:02:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对学习APP的frida检测绕过]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2UmJ9BtQaydMEoib46QfCezonoAdK3ia3iaRPveEPrPRYNXz5LFcd4TjicIAVugXnnf4f59ozFzmAOcZlrtFiafewOK29wibjGONO7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>这个App的frida检测机制 集中在libDexHelper.so和libmsaoaidsec.so两个so里面，主要思路都是一步步dump，trace到相关检测函数入口位置，再交给ai静态分析关</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=1&amp;sn=78956f9c1684c6104a957e6b7d80d3e2&amp;chksm=b06639596f9827a9b8ea277690f6f7743f729a49ab6439584e515fa84ea8ae2736a26856146b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0SKDCTsT8VNtHJBq1DVC3VSlyia3VQU6vlGJ9jYf1zsNibOSXDcCXibMwxcN8eYQl8xBS6xWCwPm8BrmVb9HE0NVATdKH0iaZhdibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述老牌高危组件Apache Log4j2再曝新安全风险，官方披露编号#4255的全新漏洞，攻击者可利用该缺陷绕过组件内置的反序列化白名单安全校验，在特定部署环境中实现远程代码执行（RCE）攻击。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=3&amp;sn=0488a148cf4827e04a6ac7248fb80eea&amp;chksm=b05e1d2cc70781fb90737b5994695d0d69913b1ecf565c070c44340afaeee3a2b4d669ee007f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=1&amp;sn=548b24b927eb278a51ff44ea8c176b54&amp;chksm=b08cd26a843a8d994b07e780183dc45098b361c3610f1f988ad89724f246005477c7cb860923&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一串反引号，十层突破：n1ctf‑2018‑easy_harder_php 完整利用链]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3B0NxCIkOnQqtr5BKPpIn3ic9p2hVvxpsE3sicwavVSUnhqHO6KWrWuw3f90tDANk4Ua0FsTSRNGicahxOm333DBmQA8HeNOsXTs/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：看雪 KCTF n1ctf-2018-easy_harder_php（Nu1L），PHP 5.5.9 + Apache 2.4.7 + MySQL，动态 Docker 靶机结果：flag{9af</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=2&amp;sn=fe39b3c0600fbd53ced86ae6e2ed499e&amp;chksm=b0d6c8838710940f2747f1db910c6a82736e9b455627fce209379cd702d6bf0f1e8e2b8fb2d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[周下载4500万！Next.js曝出双高危RCE漏洞，Windows环境风险极高]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3KaqYHGH9q4ZGD9MHK5icBngmQpGYOBdPCwP2h1XA1sU47pZg2RbuwEkbptlv5KvYsF3lLzCPPiczStic2zSf7nEmGZTkH6sTAJY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Vercel 近日修复了 Next.js 框架的两处关键高危安全漏洞，均允许攻击者在无需身份认证的条件下实现远程代码执行（RCE）。其中 CVE‑2026‑75604 CVSS 9.0，另一处AVIF</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618948&amp;idx=3&amp;sn=d3f507f258cc563b6f696f850a7d8640&amp;chksm=b0ab045422213fbf49b58773507093369ea4fffdfe87f07c4e5ba2bad7584ff74d34970f40d2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 18:02:51 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当 AI 开始真正“做事”，基础设施准备好了吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4qMhtyAo01Cub5wibm0Mvs1yMBwNKcrTwYljmI2HDGfaiboKQxkV1ux6j92eR7NRXCrYtvicbPVSOSuyShoZeKqe1Pf9ibldWjQMM/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 62 篇文章（ 本文阅读时间：约 15 分钟 ）AI 正在进入真实任务现场：它参与强化学习，持续提供推理服务，自动优化底层算子；也执行代码、访问文件、连接网络，甚至代表用户调用真实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511554&amp;idx=1&amp;sn=709aafe1436bfd58a283b058a8949248&amp;chksm=ced316494fc3338ec006050298e148f82f5410fe4fc9df3b3085d2df624154ac8eec08a1d993&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[云栖首发｜Logics-Parsing-V3 重磅升级：贯通全文，长文无界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz7jqGYJOhbd6qOqicx6XNX7qbjDTeQcLRokMQLoTzaRdSYCcdSGibF20WTUpQJQUn16ZJ9gnssAkaTINDRCQaaRJmMnY2fFtgWj4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01为什么“全局解析”如此重要举个例子：装修一套房子，各支队伍依次进场，每位师傅都能把手头的活做好，但如果交接时没说清“哪里要留线、哪里不能封、哪里需要避让”，麻烦就会在最后冒出来：预埋的线路没用上，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511554&amp;idx=2&amp;sn=bb63ca216e344e7ab783a06ef3dacd39&amp;chksm=ce5d4c380e9f5cadaa8c3898bf8fa8cb0139e6046325cae7344a8f51565750b2cd4090244dac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 22 Sep 2026 12:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[倒计时 2 天！阿里巴巴集团 AI Native 研发实践论坛诚邀开发者共话未来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5E62Hw6uMvNUoL0icOicPInvlQnW7ZYxRWu9y6Cb7kpOxM9Jc7C92tFO4dJc6oWRDftLyCdCsSMWoNdWzyAWKicUPVFttn9ttyY8/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Native 研发范式正在重塑软件工程的全流程与组织形态。本论坛聚焦 AI 原生时代的技术变革与工程实践，系统展示阿里巴巴集团从 AI 基础设施到业务场景的全景实践，并邀请来自复旦大学、蚂蚁集团</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511534&amp;idx=1&amp;sn=cae842ca326feb5109605684838628c3&amp;chksm=ce6df4fc0ba9ca8e6d139f6b8c0616d783e967a22381b84e066f174cb8a76f7deeed8ec9097e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz7BmEZIXRR12yHhcl1YhEiaK6EJo2wObEQJ8nlUaWzzqaumiaDbg3OjBsiaa8upNPm4hAnFpn2MxvuBFX228AAbiaibXtta0TwvJug0/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第11篇文章（ 本文阅读时间：30分钟 ）前言本文是《基于智能体的资损防控系统》的续篇，聚焦于我们在实践中发现的问题、架构演进的思考过程，以及新方案带来的核心突破。V2方案借鉴了Ope</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509229&amp;idx=1&amp;sn=5f7352bb8eec781aaa64d22d3ab0a23e&amp;chksm=ce9b94839e5b737c7c839ae9f4f4a3a47e62dd8ef92705dbeeb80591d32bf0f0832766669966&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Apr 2026 09:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Ingress Nginx已退役，Higress如何平滑替代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz58K79kkKqFZNG1MtMEWXgujsUCnzqX43bf3bdicibbDGwlltCjL9daeFHTFWiaxDnhG2Xcfv5gShUMo36Vibc9WrKRSzyTa87pjYM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，Higress已正式通过TOC投票表决，加入云原生计算基金会（CNCF）Sandbox项目，成为CNCF生态的一员。01Higress是什么？Higress是一款基于Envoy和Istio构建的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509228&amp;idx=1&amp;sn=4476daa440189938b650711128ac5225&amp;chksm=ceea9a8b181f02dcb8c70813ba73b9e930ac74997e4ae80cf32b9a767fa3be281dcde49c5bd3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Apr 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[别让格式杀死思想：Logics-Parsing V2定义文档解析新边界]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5IkPkCROhTJlNuzKboDUqTmiaDIDiczhfuOTQV8Ix1AbrltlzvIK2WNRUWbXM9Q3Ow7QFZuJm0zVOJU4BmCIr6weZZF3WedcPhw/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们总以为拍下即留存，却常被“看得见、用不了”的内容困住：此前在图书馆里拍摄的重要书籍页面却因为当时光线不佳，现在转文字时无法识别；导师发来一份多年前的扫描版学术论文PDF，关键公式识别乱码，只能手动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509201&amp;idx=1&amp;sn=39647c4f8adc9500be2db02d2102c7e0&amp;chksm=ceb891fef6124fe1efab738c124ec82cefbab7daf1bb90560af4cf0b67253fcbbccdc01d74bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
