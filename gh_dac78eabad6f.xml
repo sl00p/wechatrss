@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI写得快 ≠ 真正提效：一文讲清Harness“记忆”和“验证闭环”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7zVnbiawHgYMbBpSibIf7gomDfxJ4q0Z8B4g91ZZ2ueNg8o8RddicCenUEiaqNWhB6wiaCv9DN6zyGfcVO9gZP9Wibl37lXujkgK5NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告用 AI 写代码，"写得快"和"真正提效"是两件事。我踩的坑集中在三处：一是 AI 没有记忆，每次新会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697619&amp;idx=1&amp;sn=24b9b00aeb06f6a9d348f01c3b9688e6&amp;chksm=eb971445e71b247a3d7e0ddca8c797981b70e93911866a94717f6ec509628e82bdaa75855071&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 08:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[边开飞机边换引擎：Harness如何解决验证难题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4SfOLt4kanZltp5Dbd5fybqibwLJcqlf2XQlcsucMKtnicQVqyjvw0PPbYLuUbfDneiaPgUjkvX7DS27OHrfXbUs8djqMSs9IZok/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告01背景AI 写代码已经成为日常开发中的常见能力，但在大型系统改造中，代码生成并不是交付的最后难点。真</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697613&amp;idx=1&amp;sn=4c178e5576c825739bb225fc8b4ab87e&amp;chksm=ebeb9a806a564bfc122777ff7a2d5711cba4cd21ac04cb8815e1601079c5a46f302c11e40342&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr65fXIHicgLN7OW5gac2arJ0WEZF1UJrNfsLrK6kIaE6j2Oiaa32UmFNXXKa6BuXDamyREkHtJYrW5o7GhxZHjtyibhvicx9g2CROU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文基于真实工程实践，结合 Harness Engineering 领域的学术论文，分享 AI 辅助编程的架构思考、工程落地与 Token 成本优化。01Par</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695963&amp;idx=1&amp;sn=29f18a2db784e1ddb56796af76543688&amp;chksm=ebf8802f43fa1a287579360a5b869b34193c8cc73b61256c0de5c789d61fe1818cd8dd6a50ff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[20年架构老兵的AI探索，让WorkBuddy帮你超越身边的人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4fGMuKibXrja6GcF09aV0QficFHTicTGjmkyU1ibD57OgxicgrF9VgKD3qTQGqf4TaTTqC7XIib19lbhlIibBvSyvJmiaVs5TnYH41ozo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇李伟山是一位有着 20年从业经验的架构师，也是腾讯云架构师同盟的明星成员，此前曾在腾讯云开发者账号上分享了多篇 AI Agent爆款文章：一文讲透如何构建Har</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695957&amp;idx=1&amp;sn=9b0b6956f078f79196bd515d301d56ec&amp;chksm=eb093b9dc6d5620b0b3f9681b81d30ee5bcc345c8b29ddf6c9ecd62d568f7fbd8aa2af2285cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TWIST 入选 ACM CCS 2026：面向云上大模型服务的隐私保护新方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fee70O1Qjca2ZQArA8X3kkqicA21s672Qyg2UzbFQlaPk7H9tZ7yEfryhgOT20RjaYHvgvEt31GKrehHLfS8W3ibBBCXr4m4P0tdU/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着大模型在智能客服、代码助手、知识问答、办公协同等场景中加速落地，越来越多企业开始将模型以 MaaS 形式部署到云上，以兼顾性能、成本与运维效率。但在这一部署模式下，租户向云端发送敏感提问（如未公开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522837&amp;idx=1&amp;sn=9a517deecee420b33ef098ae4fc00802&amp;chksm=e88c3b59fc461510392646eef30a3c01aae5a08aaf69a9729c22384671675aefcf98ec933ede&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:02:59 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenViking × LLM-Wiki：让团队文档不再“各说各话”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefA5tLKBdSy5nm0Ex2lMCibIxOqkhmJexSuEVr0k0DiaQ8mxa570QIGzTT0ICESz4wicVhxABMxGdaTBBKVgJsKrHQzG9ic3czMgRs/640?wxtype=jpeg&amp;wxfrom=0"/><p>从一通不敢回答的电话，到一套跨平台、跨 Agent 的团队知识周三下午，客户在电话那头问了一个再普通不过的问题：这票货没保价，出了问题怎么赔？你刚接手业务不太熟悉，在工作群里问了一句，结果：——老王说</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522837&amp;idx=2&amp;sn=bad9384fcc463a40aca07d4a442c7121&amp;chksm=e84daadb7ed9800f8c3e9b78d211e36d529227afb50e187d7647f6b30b4e763eb08b647fb773&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:02:59 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 已经进入工作流，文件还要靠人传来传去？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fefqp207cGwpC5gLoD7PeHw6PInBS9kM0fjO0QoMU2eaREuovNjX3WIEp84vzaiaeznhcRjFlqdQBy8jvoPLFmRicCk2W2ys28t30/640?wxtype=jpeg&amp;wxfrom=0"/><p>让 Agent 整理客户反馈、生成分析报告，已成为不少团队尝试 AI 办公的起点。但围绕这份报告，仍有一系列工作需要人完成：把资料上传给 Agent，把结果下载下来，再发给同事审阅；同事补充最新数据后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247522794&amp;idx=1&amp;sn=f78bb16a0448933da06fcc4d353de927&amp;chksm=e8609d95bfc966b366f967a320853e5a3ead7fbafc2e3b9d7eda0fe927304fa5cff22b17e1ab&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FedIRq4rlXyPTzaCCsrajyrLQkUuEt1GxXle0sO5y64RfZkn7hvFbmYZnnjxvWIIdzicTX3c8BjhVvMhQ7DdicjuS8zCXbEJD7icdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语作为全球首届低资源音频编解码器专项赛事，ICASSP 2026 低资源音频编解码器比赛（2025 Low-Resource Audio Codec Challenge，LRAC Challenge</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519820&amp;idx=1&amp;sn=5077b3def6dc3ab363d7f3c9b0a97462&amp;chksm=e856e64d0f7c05172e6a50b7179795c032096e435e199bd7c21e28c746c4df418660ce05b80a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 18 May 2026 18:19:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重构大模型通信架构：火山引擎 RocketMQ For AI 解决方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeduDCyicoXldXUf9E3IGbvic8eXD9o01HUOpRQJQiaOfSd6JV7wfohvOaZw3MzJGKB0cKYQo36x8eia9wLNZIpFibetIeI5KpzYTwCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AIGC 技术爆发促使大模型从实验阶段迈向企业级大规模应用，但它任务耗时久、算力成本高、流量波动大、智能体协作复杂这些核心特点，给底层通信和调度基础设施带来了严峻挑战，企业通常会遇到长会话连续性不佳、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519789&amp;idx=1&amp;sn=8d19584eda2d9d6dddfdd0d55dc70da7&amp;chksm=e8fad00a94812bce2682db25aeb2b91d245f441172f2396e54693b8a59701eaf6cce842b5c7e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 14 May 2026 11:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[业务团队也能“手搓”应用？火山 Supabase 助力猿辅导对话式 Agent 落地]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefUn36ATtewrM3WJicsfU4aSCO9Jmy9a0LBg5nL2otvbOeOc15bKkFibPIxfDDZiaJ8MMiaiazhXiakyGEN3O5vGBdRvFwdyhqmJR7Bw/640?wxtype=jpeg&amp;wxfrom=0"/><p>客户介绍在快速变化的在线教育市场，内容和活动的迭代速度，直接决定了用户增长和留存的生命线。当一位教学教研老师可能需要一个工具来快速追踪新课程的学员反馈时、当一位市场运营同学希望能迅速搭建一个招生季的活</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247519770&amp;idx=1&amp;sn=f9593f3795dbc93e14a1d54941874a89&amp;chksm=e84ff683b1280bd3cf0c28d18ddc565a54ca5a7792f74b03c88bfbcae10c3160de3e45b9a20b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 13 May 2026 11:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

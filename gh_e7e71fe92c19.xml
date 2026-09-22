@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[人机共智·重构攻防｜华为，助力第十届安全开发者峰会（SDC2026）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3XEh51sR7CLQ4XGoXySvr7781odRVuU6ZCynZKla8jHnbr867JPdbck2KpHQT6thNtWtkick7DicuhTiablCpPAicqdSWvMyIV60I/640?wxtype=jpeg&amp;wxfrom=0"/><p>华为，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型投毒、提示词</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=1&amp;sn=f257ef5c39824d9b599e370eae2f1b5e&amp;chksm=b0a676cc45e738a676592b70fef88d209cb918ee605679e5151332056204f64a2511ba3ac506&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HITCON2017 babyfirst-revenge 看雪 CTF 复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1YXIKDMEJX38Ee3LKTujJGZECpKk18dzrOxLkckmiapItHsaKkRzibLREPWgfibCaHcIr6KLViblQb6LKowzCYiabN0Q4sWubujXEE/640?wxtype=jpeg&amp;wxfrom=0"/><p>我愿称之为“第三方 WP 都只差最后半步”的一题。原题本身并不新，核心还是利用长度不超过 5 的命令，通过文件名、续行符和 ls -t 拼出长命令。但是看雪环境有几个额外问题：REMOTE_ADDR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=2&amp;sn=533a3e69a43779501ce1971feff32da7&amp;chksm=b008af9756989bf9908087d3e25742be22c3dc5d81828d4cf9170cfd9bf3bbeff7458caaf9f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0JteYc06fHRE7PvkC7tYt3AzmpKh95pqCHjNxmmK3CRDLwxickXCdgsmScnjfmibosFJI3NlYiaGy159XD67EynbET2vNxyDTmyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5官方披露BIG-IP Access Policy Manager（APM）存在一处高危零日漏洞（CVE-2026-94127），该漏洞已经观测到在野攻击利用。攻击者无需登录认证，即可在满足特定OA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=3&amp;sn=bb7cbcd85bba87195da00496fc84cfb8&amp;chksm=b0a2ed69502acc5ff82a0c319e39939612396aed6abe6451c980b16c1930ee017793ccb49573&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1anlNg3vbUD8u3MxcQuJ6Q2thv0mC5iaD5rMaibruTWfqbxervNWCvy6XwPzJ9uXjkSfdq2QuStxgJqzX4RWqyhIYVmYLfMPP88/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近分析 Google Play 上的 Unity 游戏，碰到过几次类似的情况：JADX 中大量关键方法只剩一句 VMRunner.invoke("...")，逻辑全被掏空；模拟器中迅速闪退。这两件事</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620834&amp;idx=1&amp;sn=bb5885497395f2a93a892c5f0d3be2e3&amp;chksm=b060f2ca6516b1f8f35ba77311969de8026aa6c83fb21bb0647b3811299621569ca3b53557d1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=3&amp;sn=1fc10e26cbf3fd31d3030b89401ea23e&amp;chksm=b08fbec2df90149a96bdc92ab3b4b3b71e9e8492bb2a5b311f9a60fd49aeca7757b85973f37c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[永夜鏖战落幕！2026 KCTF 圆满收官，榜单公布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K39Bm4JGNic8nPtrTCz7ZbWicH2aJgO7nzDhiaAEsSDoX9ibQecXSzZibE7XXodRiaVcyr2bjqc0ItEXZrwh4Re4TEtqgscQWsyicpkr0/640?wxtype=jpeg&amp;wxfrom=0"/><p>时辰循环，数字囚笼，唯有破壁，方能新生。8月24日12:00，『2026 KCTF：永夜十二时辰』赛事圆满收官。相较于往年，本届赛程直接减半，但赛场战况空前白热化。选手整体破题效率大幅提升，赛题被攻克</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=1&amp;sn=32bb5fe3d643c6f97f2982cc991ebb58&amp;chksm=b05f560db491214b0d310b0a7632fec4c64e0e1784c29338a95855b90739594aa29611f5caac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[D3CTF 2026 d3llvm.apk 反调试定位与加密 SO的Dump]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1P9huKjagLTeH1uC33a0TlTMibGssJ8RCdgiaAKMmlXeSZ4evwKojLkQJBqcrvIVYyQG0bowuXNQ5YIVibHHkvWEncW2aSjrgzxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这篇文章记录 D3CTF 2026 `d3llvm` 在启动阶段的分析过程，重点不在最终输入算法，而在下面这条链路：logcat 定位 JNI_OnLoad逐层 trace 外层 libd3llvm.</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=2&amp;sn=f6d8e52efe0c96ba3684bce3529c3d30&amp;chksm=b0a0cc91b4b270393576b3b5b705aaa857ab9ec2fd08d19eb6236b1a9d6caa61bd2188acb225&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Log4j2 新漏洞绕过安全白名单，部分部署可远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0SKDCTsT8VNtHJBq1DVC3VSlyia3VQU6vlGJ9jYf1zsNibOSXDcCXibMwxcN8eYQl8xBS6xWCwPm8BrmVb9HE0NVATdKH0iaZhdibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件概述老牌高危组件Apache Log4j2再曝新安全风险，官方披露编号#4255的全新漏洞，攻击者可利用该缺陷绕过组件内置的反序列化白名单安全校验，在特定部署环境中实现远程代码执行（RCE）攻击。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458618994&amp;idx=3&amp;sn=0488a148cf4827e04a6ac7248fb80eea&amp;chksm=b05e1d2cc70781fb90737b5994695d0d69913b1ecf565c070c44340afaeee3a2b4d669ee007f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 27 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

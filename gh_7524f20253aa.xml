@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[F5 BIG-IP遭0Day攻击，OAuth服务器无需认证即可被远程利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28HHo0SgQ9aCybl32RoKRJ3z1736LicrWcMGx60Da9e3MHtNPrYXIf7CSZ2EuxNd5HiaGpMjaiaKkZFRZAEmnciclop8ib2OeMMtpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5发布警告称，攻击者正在主动利用BIG-IP访问策略管理器（APM）中的一个严重0Day漏洞，无需认证就可以远程执行代码。该漏洞编号为CVE-2026-94127，仅影响同时配置了APM访问策略和O</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=1&amp;sn=0c1b6bd82b70287db7b56c9d4eb805ed&amp;chksm=bc0c6049545bc4932eb0f30e2924b4ec9b07ad0f1a0b40e5941714519c88f37e7e165de5d234&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cisco Talos披露新型AI恶意软件，四大模型投票决定攻击行动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX13SjvtpiaRGa8tsC3eegYdoiaamRfCBicBDC4mN5DIH4UmrdPE58G1yhUviaSbWTYic5VPnmUNliat4qWJelWcnKnOU9euzyHhBNRls/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科公司Talos威胁情报团队今日发布一款开源工具包，专门用于狩猎内置人工智能功能的恶意软件。Part01四模型投票决策战术行动该团队详细披露的首个样本是一款Windows凭据窃取程序，完全不依赖命令</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=2&amp;sn=f19b40c4af71ee3f9fb145b64b9aec6c&amp;chksm=bcae814e16084f9d12711679c99ecac308c26cf25e5f5af484c2a3bdf0409b29e4558eb989f9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软SharePoint曝出高危RCE漏洞，低权限账号即可远程拿下服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1YVjx8D0n6QVyFibMdUas0z2fa2KvhMwWuM7qeUTwSfgwMMP8pfkMwo8ykQibVtwxAcy0lJn8EvlSRaic3qpODvj0MMFbmAzqtBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危RCE漏洞影响多版SharePoint微软已确认本地部署版SharePoint Server存在一处高危远程代码执行漏洞。经过身份认证的低权限攻击者无需用户交互，就可以通过网络在目标系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=3&amp;sn=6a7d32a79b7e3f8167331f425be6ac91&amp;chksm=bc4e9afedee0a3d35cf61de8c6177c0442ad13222947406f243e3750da2189f7e2bd821ca7b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux内核曝KVM高危漏洞，ARM64客户机可直接读写主机内存]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NmcUVnBiaZkuj5XNgbAAl7EMiaNVjBoIwzl9IdjtnuLKyibvX30yJpzqT3HIaA0s3NuoU2VANGNuRhILg7V0oI91e5keiag5bo5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员近期披露一个编号为CVE-2026-89775的Linux内核漏洞，攻击者可利用该漏洞从ARM64虚拟机逃逸，直接访问底层宿主机系统。该漏洞仅影响开启嵌套虚拟化功能的KVM/arm64环境，会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=4&amp;sn=d280d704ec7ffedc43f08f44206a4e40&amp;chksm=bc508736bc8a39595c1617fb22f15f3eba3365e1b88a15deb8774a8cd618accf9d9dd26605cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[100小时长征：史上首个Agent自主不间断渗透完整战报]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3iaCkghfEZfTtkwLia6Dtfx1oib9bglo0lhsfians0y7Q3NAS0d7QbTNWAhAE7ibT5BibDYpfGkGwfBXfb3dc82SAlyAHZabfahR0KQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月7日上午10点，“赛博司机计划：100小时不间断Agent渗透测试挑战”在斗象科技旗下漏洞盒子平台和众多白帽社群开启同步直播。此后的100小时里，国内最流行的白帽客户端“蛙池AI Desktop”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=1&amp;sn=1cf9c858a30d0b7af06d196002bd2913&amp;chksm=bc6e5a6d426ccc18e0d57f3864d20132499a9d04fc04026d20254d79d26ee1d1a4522e52ca7f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1VhSojKhxqM3BJLic8wl4hXlc9ujYaniavkdSVfiaAZwI6EahjetoPCYEgZoVAYU3oLmskXgjbkJia9jNkgRfpfTcxqSJYqIX0Cho/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fire Ant已不再局限于攻击单个系统，而是开始入侵组织机构所依赖的负责流量转发与访问管理的网络基础设施。该组织已将Cisco IOS XR路由器转化为用于监视、远程连接以及向高价值环境渗透的平台。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=4&amp;sn=a6ec65f15f849938f5b0e0b93ef2cd43&amp;chksm=bce90e9c5321325a816e21efcebb0a600dc3685282bfe508331808d5411ba35003fa8aaaf4bb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI新模型曝光，网络攻击能力首次达到关键级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2HjbGxq7NpWxjJfJLgmjLSxx25IRHkMiay3gNxoBvb79IgqyrliauwrsiawlXfS1o0hor9GrGlHcmr3O3otI6nuEqiab85fDaCcxA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fable 5.1刚刚登上模型榜单前列，OpenAI的新一轮发布已经进入倒计时。Sam Altman近日透露，OpenAI下一款模型将在不久后推出。代号为Astra的模型已经完成训练，在能力和安全对齐</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=1&amp;sn=9f77502364b9c723691ea4631c91bf49&amp;chksm=bc72e5feb041f22a3a73254367faea1c18db42aa841544f1aeb6fae51d0e2a9c25c4b2e900d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic新增合规性API端点，直面Claude Code安全治理盲区]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX38I0dYvXs0ETthuqk32OwUJ732oLyAMIv9O5ia2Av1ibBCDczXywzG1Um5Gib8JEb2FW8GAbKw0oPrVR6JnyTgyH1UFiahLSnusok/640?wxtype=jpeg&amp;wxfrom=0"/><p>Claude Code会读取文件、运行shell命令、调用MCP工具，并借助开发者机器上可用的凭据执行操作。Anthropic新推出的合规性API端点让安全团队得以空前清晰地洞察这些活动。但这些端点也</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=2&amp;sn=95a1a67370cd9fef4779d1ad280135e6&amp;chksm=bc9bf12e45d735c552c01d1d4cc91412d1fa306984ca7c2efe8a767c01d53d0480875c280d1b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软Exchange Server高危利用链PoC公开，攻击者可远程拿下SYSTEM]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0UibNjJ3FKmvcDTUruYVichNDSnPje8RHcIWDlbaZRJSAibicqXf37tAwCg5Oan4pLW50otrUrozo7KUzaEPXxHtl17PGpIVeAdjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>针对CVE-2026-62911的概念验证（PoC）漏洞利用代码已公开发布。该漏洞是Microsoft Exchange Server中的一个身份验证捕获与重放弱点。虽然微软将该问题归类为权限提升漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=3&amp;sn=544a709b980cca236952c3bdddc9a45a&amp;chksm=bcebf6933fdfec1d6fd94d2a6f5eb24e86346bd2dbe53fb80a8bdc0bdb300fde9e3e95fdb86c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客冒充OpenAI、Anthropic和DeepSeek等AI爬虫，窃取凭据与机密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1GkecSv0V0fWGYOa36ia0ahofo5rCibUt4DlbHoxGe4tamCBQmYH1Tj7MHJddOsicgsib2b5AUBMVsrYAw9ic8iaEVDb8no8Oowqw00/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01伪造AI爬虫扫描攻击者正在冒充OpenAI、Anthropic、DeepSeek及其他主要组织的网络爬虫，扫描网站以查找暴露的凭据和敏感配置文件。他们的目标是可能泄露云密钥、API令牌、密</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346049&amp;idx=4&amp;sn=747006c6d2c43839c5d838203ac37082&amp;chksm=bc5e3edc01bc5d44ba72e780f3d10c89b5894e8fbf7fa7b91b2646b96b2c360800ce032a1838&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

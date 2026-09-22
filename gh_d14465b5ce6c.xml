@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[错误码排查从 3～8 小时到分钟级，Agent怎么做到的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907icfTaHPMZufbeu3h7ynjOIBmeo6IbproyksASwTEuibLKJDlw0XeT8TEcXs5yQv6nGv4Ib5noiaQGo1hEa9Itdw9ib12EbWibzSoA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：careylu，AI Agent开发工程师SRE 每天面对去重后数百个错误码告警：retcode 含义不清、调用链难追、运行时证据分散。人工排查一个错误码需要 3～8 小时不等，大量时间花在跨系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804239&amp;idx=1&amp;sn=877bddfed68e73a327c4c25e836d8258&amp;chksm=bf21ac0f895af63b1acdd850166b5b7c431e7acf415b7915531a0637ebc7cc316d2922754cf8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 17:28:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯15年资深后台工程师，转战大模型推理的抉择]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904gdjicVYAib0O4OeuH9XellwmBicxbI0q6SpEhu8WYjcgypU9xPM1MyDNrDfKMooMpgLkvamlTicZIbjrP45a73n5mw0QHJlrwlYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：吴银光导语：本文讲述腾讯15年资深后台工程师，在 AI 时代如何入门大模型推理工程。全文围绕三条主线展开：从资深后台工程师到推理工程新人的抉择、推理工程的入门路径与自检方法、AI Infra 与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804238&amp;idx=1&amp;sn=5071d1c07d4c99fac83cbfe0a3860344&amp;chksm=bf29532b163a0c2089c3a77f537308c7aee07c7260aca89dcd9b22ed27efa969ff729778254e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906yLicFicu38vURmYibn0aoFY0z3QeEuk0iax3gwD67K3OiclCLQUaypAm7iaHV9GtulAnGJUl7wRlvvyIAeCEwen9BdicCw4HHUPx4mk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：chaserenHarness Eval：一套面向 Harness 工作流的、轻量的、可回归的闭环评测系统。一、一个让人不安的事实：你的Harness工作流可能一直在“裸奔”你有没有这样的经历？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802116&amp;idx=1&amp;sn=8886f8c0078cc85a39ac97fa2deff22a&amp;chksm=bf6379cb706dbd76feb06b0ddd058acaa25d2cd98b56ca5ccd31209d49418d355e3410e5456d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 18:19:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一篇搞懂 AI Coding Agent 的 Token 成本控制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905QlibkFZjjzceqhbMSkUiaWzjtmKRj72dRhwQdibYzGeOsh1WOTCcbOgiamYxw1uZdrWdC64haiaw2Z7BgxIZTsJAUmKj9OfveVV24/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：devinyzeng适用：CodeBuddy、Cursor、Codex、Gemini CLI 等这类 AI Coding Agent。读完你会得到三样东西：一个正确的心智模型、一份今天就能做的行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802024&amp;idx=1&amp;sn=14ebabcd0d270ae39c6d9cd1d12fca84&amp;chksm=bfeda589d45fd828b90d93806cff246c0ac15b2aed1724cc4ce9e00a39970f9589f64de4e3fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 17:27:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

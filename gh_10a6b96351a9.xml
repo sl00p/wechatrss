@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[确认裁员22000人，赔偿N+4！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcsvWOFoibEjbiclxXzl8WyV9eM7QBmgaK4mHeiaN3XG6qPQtdr7YMd36hNxSWU9GOaIMw26iccozKF9oibt6fIwccS89gaugLS31hI/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近裁员的密度，远超我的预期。据外媒报道，Meta这轮裁员大概涉及了8000人，约占员工总数的10%。今年预计裁员将达到22000人！然而这次优化并不是因为公司活不下去了，而是公司方向变了，其核心目的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981674&amp;idx=1&amp;sn=9185ade39e6a8ffe0728bc9689afef76&amp;chksm=bc996340c916bac90e7540a5e5d920b9f3bb242cda173906b04a7213cf3bfef8033d631d1a89&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让AI来解决缓存不一致，spec要怎么写？（6/100）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXexf3ThCdxZzUQXZxoCLMV7mv4ibowdNOJxpRkMGwialL6ic5UAO2raRFIlU41AjMibJgicQegU3iaPaHUeyfAWrrtbzNrFicN6HEH2lM/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第6讲：缓存不一致AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第6讲。上一讲，聊了《Cache</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981668&amp;idx=1&amp;sn=8b96fb9bb927400395b84f9e1c2389d4&amp;chksm=bc3eeea3c523c0dd45d36338bb322d383e68ae5f7d450ff40506bbc072c236f5d3c62f551db4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>我曾经坚定的认为：这辈子，我可能就这样了。为什么会有这种想法？自我剖析，来一场深刻的元认知。 站在更高的视角俯瞰自己，和内心深处的我做一次坦诚的对话，我发现自己给自己套了四层“人性”枷锁。 第一层</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981263&amp;idx=1&amp;sn=252e8f8812a671dbb3fd4908b8a972b8&amp;chksm=bc7b22c526b92914a13988bd57963bd58bee80734c6e3ca4e987d3b0c068ee7f3d5de5a8ce7b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Jun 2026 15:10:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[很多人觉得，AI来了，咱们这些35+40+的老架构师，要更快的被淘汰了。而我认为哈，AI工具的平权，对咱们这群资深的架构师，是百年不遇的利好。 为什么这么说呢？ 你想想看哈，AI提升了什么？AI干掉了最耗咱们精力的“重复劳动”。以前写个CRUD、调个接口，是不是要花多少时间？现在，一个prompt，AI就搞定了。它把咱们从“编码体力活”里解放出来了，这才是最关键的。 再想想看，AI最缺的是什么？是“架构审美”，是“经验判断”。给它一堆需求，它可能写出无数种代码，但哪个架构更稳定？哪个设计未来更好扩展？哪个方案能扛住明年的流量洪峰？这些经验，是咱们大龄架构师的优势，那些架构直觉，AI短时间内学不会。 还有，我觉得对大龄架构师最利好的一点是什么？ 以前，架构的价值容易被“技术熟练度”掩盖。年轻人学新框架快，我们有危机感。但现在，AI把“技术应用”的门槛打平了。 大家都能快速用新技术。这时候比拼的是什么？是技术选型的眼光，是权衡利弊的决策能力，是知道哪个坑不能踩的“历史记忆”。这些，这全是大龄架构师的绝对优势。 那么话说回来，那为什么很多大龄架构师还是这么焦虑呢？ 我们自己的思维，也要升级，不能停留在“拼体力、拼学习速度”的旧赛道里，那个赛道太卷了，我们也没有优势。 但AI把赛道升级了，新赛道叫“拼洞察、拼决策、拼系统思维，拼经验”。这才是咱们资深架构师真正的主场。 你看哈，原来大家都在搞提示词工程，后来搞上下文工程，现在各家是不是在搞harness工程？ harness工程是什么？ 不就是用资深架构师脑中那些经验，来驾驭AI吗？ 难道这还不是咱们大龄资深架构师的利好？ 以上，一个大龄架构师，也就是我的一些观点。 我始终认为：AI不是来取代我的 我始终认为：方向盘和目的地，永远在咱们自己的手里。 能驾驭新技术、解决系统问题，业务问题的架构师，永远不会被淘汰。 （opc中，AI编程真是太上瘾了） 共勉！]]></title>
-      <description><![CDATA[<p>很多人觉得，AI来了，咱们这些35+40+的老架构师，要更快的被淘汰了。而我认为哈，AI工具的平权，对咱们这群资深的架构师，是百年不遇的利好。 为什么这么说呢？ 你想想看哈，AI提升了什么？AI干</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981227&amp;idx=1&amp;sn=3124da4c74a1ca4b53d90057bf139329&amp;chksm=bccd158954cbd535e04538bfda58d3045a6673f01dd05f2baaf6359d95e1840f6763486b5ab9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 08:16:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

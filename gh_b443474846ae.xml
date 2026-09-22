@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026 年的云栖，阿里给 AI 行业递了一把新尺子]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjFzC7atWBsib7FP5CKqicO9YDU5jQhUUvg42ia7I0TCPOZdqmAGYw4pvM0Oltn3sfcyfrVLwGqOYfO8NCodmicpZeq7nTW1pfWcuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王一鹏2026 年，AI 行业最大的关键词可能不是某个模型的发布。而是两个字：落地。最早采用企业级 Agent 的企业已经开始算成本账，并对三个问题尤为好奇：Agent 的故事讲了两年，究竟</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=1&amp;sn=ec018a1c076098d95ad6c1a4e20ea5b9&amp;chksm=bce704740fba4ee565b8362667c7e6233e356bbcad0d0836ea08170c412a7eba8aa624a31b5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 Coding 到 Running：AI Native SRE Agent 的工程实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjOHcUO99XdLC0RuREJoMI35ZSb2fv8y4ia6L0x1peB4vyh6PAVo3ZewUpvuMz9hGH8SnJsbXJzwuWuOpLUPfxficTBZN6kicYpdM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜姚斌斌，腾讯云 CloudQ 技术负责人 编辑｜宇琪 审核｜罗燕珊 策划｜AICon 全球人工智能开发与应用大会 一个软件的生命周期里，90% 以上的时间都处在运行状态。可当 AI 把 Codi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=2&amp;sn=fe62a3a11fde47c611a7dc8c4004f361&amp;chksm=bc932e8a0e84f9f26c4abe69452b38f9f7b108d8486989e02104ec3c8bdb876442211a2a4dbb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[企业级 Agent 的终局,不是 Workflow 和 Autonomous 二选一 | 极客时间]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjIxL9CHgzfwhEcMUgXDUsEG4gLGnMh4duhxIzOsNW2073zvB8953v6XRFpUyjhBuQtkMUzVrbomoFVZEpyh7NfrsIhsaJcCmo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个 Agent Demo，从零到跑起来，可能只需要一天。可当它真的开始替人做事，工程师收到的问题就变了：“跑到一半停了，能接着跑吗？”“为什么这个工具它也能调用？”“这次结果不错，下次还能一样吗？”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=3&amp;sn=2c0a1a00cc9aaeab4c04dcbebef16a97&amp;chksm=bc933786fa6632a0af59d945377d7b766d9940ce5a1665cb4f8adf6db3e7e769fa46ba8aad1c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg7xJJKFdw3xtSAaLghQUHvEJNMkmEYAa6f3wCMTgEKc6KmzvtDamCFgbGfNDhDS6ibDMAicf79osc9Rg7nb70VKv0iaXdyKHI12M/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 田橙 METR 和 Redwood Research 的一小组研究人员在 OpenAI 进行了六天现场调查后，公布了今年早些时候 OpenAI 智</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=4&amp;sn=6c78a5a6d9eed7636774fc63fdb92476&amp;chksm=bc731300982fb17cf324d2c361fb1847e0ba3838898475b62bdefee4a0cc015fc0772f0b24f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从生成内容到创造体验，多模态大模型如何改变内容生产？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaibpME3enykruqSkfzSyHqQzyFQrHPDm4Fz7H22SZro1jAI7TwFQBKRMo1QE0UliccEvSPk3eCjcvFS5ukURkutribvTByAa4yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 姚戈 “AI 会深刻改变我们原有的工作流、认知和创作习惯。已经发生的事情，无法阻挡。”执导《可可西里》《南京！南京！》的导演陆川说。今年云栖大会，陆川使用阿里巴巴多模态模型，制作了短片《历史</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=1&amp;sn=f4280e8e1b8500ddf2ba110911825eae&amp;chksm=bcd76a6987866540b233b644a24c620c1d4d1f5680bab0f64e48daffcdbfc03ecb9ea3f0f5d3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaibW7b8DiaRVR5WibPtTiaUR4O2Db0wMezlcClibgeNcon5Xic4bxM5dEwyE5kadiao1h8lpulEUbqNicVTIvLNClrx4C8O0bYT8g1H1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 希希子 研发部门在公司里是个特殊且重要的存在。系统正常运行时，没人想起他们；系统一出问题，电话第一个打过来。业务部门指望着需求今天提出、下周上线；管理层则常常把 IT 预算看成一笔不得不花的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292397&amp;idx=1&amp;sn=210e5493967dee3c6a23af61ed24941d&amp;chksm=bc7661bedb055767a7ea1a5a28d2f514b8b7a7ddb6f2591f2ce39963729e8d4e6c011c0921e9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 04 Sep 2026 18:04:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjeXGp3HC5H25TCOatRfPc30e470k5IIIt36Qibn1LkmJuAiaFhA8tOy7CShbOITWM8tScAljbtruoBoic4wib8SVHQibiatoVen2O8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>嘉宾 | 魏长征编辑 | 李忠良随着大模型能力增强，AI Coding 正从代码补全走向由 Agent 独立执行完整任务。研发团队面对的问题也随之改变：当代码产出速度成倍提升，原有的需求约束、Code</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292397&amp;idx=2&amp;sn=b0a4866ec3bea70407d4a1a0c8cdaed7&amp;chksm=bcaa88e526ade20a3f88dc2af715b1955557c98c0d1a63d4ff16fa5d6b345ce306c991f8a2c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:04:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhGSIJpCTNbiablpQvWziavwg0WEIgwSITwudVEHQHnrjgCo3P0oIVficmIzTLbdKGUibPxN5jOCxsdr9aSKz4aRocpW5RX2g1VJPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 蔡芳芳 AI 行业可能很快就要面对一个过去听起来有些荒诞的问题：半年后的 H100 算力值多少钱？过去两年，围绕 GPU 的讨论大多集中在“够不够用”：大模型公司抢 GPU，云厂商扩数据中心</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292397&amp;idx=3&amp;sn=8bb1420fa0ccc1cbb9646ba2d64d991f&amp;chksm=bc9c9a3fabb25565cfa645ca3af4f5089489c81236bc21117aef20513a4eca0e133eec072bd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:04:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhz7aq6LmkWcYr1eibsZbDYm0uJSeY5bTtt39gwg5nibt7SiamrAYen7iass4aia4nMAesWyic5pZ1weDblZjllZjp6ZDvibAJs2YlW8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 平川 OVHcloud 将于今年秋季对其产品目录中的绝大多数服务进行涨价，本次调价的核心诱因并非来自进行价格调整的产品本身。自 2025 年年中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292397&amp;idx=4&amp;sn=2e805d68cacda11617d7ae8b17bb6a04&amp;chksm=bc0d20585ed6bc66ef9a7bba1158d88875788e3aa4bd5a96d4d5e5f575a8156276c75238bb50&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:04:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgZ9CvsBrSNhiaQnmeDSvlDxjicqhN7MF3bqtj87DgaOISzQQnaden4wqdjSo9lEaG47Kia2IRY1ZXOPovdhwAL2e1KufAuLnZQhE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王玮 9 月 2 日，深圳。最先在 WorkBuddy 生态发布会舞台上亮相的，是 9 款联名硬件。智能眼镜、录音卡、领夹麦、AI 桌宠、键盘麦克风，你能想到的办公场景中与人交互的硬件，在这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292300&amp;idx=1&amp;sn=97ddee43d62de163fc0e8187883f2cb3&amp;chksm=bc14ab0e893d687fd227a7b4ae215c71450ac5911b8fb0e9404cbe541278f67b56f901452a27&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:06:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
