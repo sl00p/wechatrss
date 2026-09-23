@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[ShinyHunters宣称攻破FBI系统，窃取2-3TB员工敏感数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Wiba1iacYJnWtjZg2bNZBCLFeqiacg0lo7whU5s50jtZ6SpENw8jUfibGgiamiah2UsfPV8bwe7xVPG4fwtdZcfQtWcFk13VByiaY5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01ShinyHunters泄露数据样本知名网络犯罪团伙ShinyHunters宣称已攻破美国联邦调查局（FBI）系统，窃取FBI雇员及职位申请人的敏感信息。该团伙表示，此次行动并非出于经济动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=1&amp;sn=bb1c89f1d1528eeffc6dcfea09753b50&amp;chksm=bc5187789beac499d7da15890080e54004a1d2c266e86a4b832791d1ed3d00ae4a4cf6815d2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型TASK#STOMP后门滥用PowerShell，窃取文档与Wi-Fi密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1g1xiakJWKruAZ8ZXBvXEiaiayVWUXLCKicW2tWQH2eSYhZ8jSic4BULdmYrXM8lT1Hy8DCcWmk0YCjHz8z4qvlrprbicO0uFohFpYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员最新分析发现一款名为TASK#STOMP的Windows后门，可滥用系统常规内置工具实施长期间谍活动。该后门通过VBS安装器、隐藏PowerShell进程、计划任务与运行时代码编译等机制，从受</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=2&amp;sn=e8ae8c54806244d4e07ebb36c0ccc778&amp;chksm=bc61100f11c981e0447c0bf96dea2e77fb56fda815573caa5d679e786a118a66362ea4767407&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[红帽披露OpenShift重要漏洞，可绕过PGP校验推送恶意镜像]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ricWQSoumsrJ4l81m57zHnq984TMvWzxzM18SdvhOX8kdWNECLicZPnuicicG0X98PvNpl26x33ByP8DCwcGZibDoWeibbblEH9Tuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>红帽近日披露，OpenShift内置的oc-mirror工具存在一处重要安全漏洞。攻击者可利用该漏洞绕过PGP签名校验机制，向隔离部署的OpenShift环境植入恶意发行版镜像。该漏洞编号为CVE-2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=3&amp;sn=bedc8a90795255eef569ba67d334cc99&amp;chksm=bcca2439d93706974cd9236dd515a2ce9ca7fd874e9bfa45618954f818546cf12df10cb59567&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Veeam Agent高危提权漏洞PoC曝光，低权限账号可获取SYSTEM权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2seib466qrMZfJ0mN8MTDGIAEmHeMVCoHsk9hxH9yB2F3iaQeicnQ9hrIJ95EnLEAwTxQ5aaYzgENgCvpNFV9O1glsvEFhbVUGnM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Veeam Agent存在一处严重提权漏洞，本地用户可借此获取SYSTEM最高权限。目前该漏洞的PoC已对外公开，多用户共享的Windows系统面临极高的被利用风险。Part01CVE-2026-32</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=4&amp;sn=26d5d5c0cfcc53bb34fffb4c92ba29d8&amp;chksm=bca4d15b8b4434993bc51b64870f35a458605633c8230d0efcdbfbe81bce78bdea4306e3918d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[F5 BIG-IP遭0Day攻击，OAuth服务器无需认证即可被远程利用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28HHo0SgQ9aCybl32RoKRJ3z1736LicrWcMGx60Da9e3MHtNPrYXIf7CSZ2EuxNd5HiaGpMjaiaKkZFRZAEmnciclop8ib2OeMMtpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5发布警告称，攻击者正在主动利用BIG-IP访问策略管理器（APM）中的一个严重0Day漏洞，无需认证就可以远程执行代码。该漏洞编号为CVE-2026-94127，仅影响同时配置了APM访问策略和O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=1&amp;sn=0c1b6bd82b70287db7b56c9d4eb805ed&amp;chksm=bc0c6049545bc4932eb0f30e2924b4ec9b07ad0f1a0b40e5941714519c88f37e7e165de5d234&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2lnpSZVh4nPLaAzfNLvx16DicJ2iaK2xsF54GPJv9pdYGwbNK5jR15DD8BpTbQiazn4A1L0rmLfRicPdQGtsldqw3MA1X3S1ibpDVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正在多起网络攻击中利用受信任的Node.js JavaScript运行时来部署恶意载荷。根据赛门铁克威胁猎手团队今日发布的一份新报告，自2026年2月以来，这种攻击手法已被用于针对政府部门、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=4&amp;sn=cd2fa79b9922f2cde4e0e5e86a34189d&amp;chksm=bc4809d6a51179c9ab42440800e5fe22a43a6145979114e033b5f664b25149d52f91596e7d02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Google、Anthropic与OpenAI相继发布新模型，网络安全AI加速进化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2RAQ35hynUgUx2ZCHE0n7WbWIEXiaUrYtiawdPvbtic0OmFiaLasbM04uzdFsUbTqvfNOSOscypgjrqMZxHcG7tANibaCOGXBabVNc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Google发布网络安全模型Google于周三发布了Gemini 3.8 Flash Cyber，称其为旗下能力最强的网络安全模型，并已通过名为Fairwind Program的新计划向一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=1&amp;sn=6414464825370ea59a15ad1a6dd6d19b&amp;chksm=bca7b7c5f6ca3b5ae5c365cf795c035c4e15252e00e20489106e4f6742d2315a20db569bb3d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用LiteLLM管理API漏洞，窃取机密并攻击AI网关服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2bw3GylETdroUqHvy02uOa0ncxps5tvqiaNFaJFXdZdSmUznlx3LRLHlQq18JNSTUuQEtQNEJAJ4zC56FiaPNrK3cSibTZUiaU9icI/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正在积极探测LiteLLM AI网关部署中一个已知的授权漏洞，该漏洞可将低权限账户提升为完全管理控制权。该漏洞编号为CVE-2026-35029，影响1.83.0之前的LiteLLM版本，允许已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=2&amp;sn=bbc5d03399800236a4de4ca622cc2326&amp;chksm=bcd6e6c8524c52711c7a183464df7b6aa7526a6546dce9514d648fd6257b69f770cdedabe1b5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CrowdStrike加码AI安全，AI Agent身份与SOC并行防御全面上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Fy9RoIvZ7pBfeMt0PZItjXDPNDtCXWNQyQBFZ7GUQC16pOnuQSbv5FCkoKkEAqQL1HefVsUZAWvVUvWnI00YWp9ME0xShR44/640?wxtype=jpeg&amp;wxfrom=0"/><p>CrowdStrike Holdings Inc.今日宣布为其Falcon平台新增三项能力：一款专为人工智能Agent构建的身份提供商、一个经过重构的调查层（可同时跨多个安全域运行多个Charlott</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=3&amp;sn=942d898633b6bd464818efa6bcb6f0cb&amp;chksm=bc6dc0194633b79722292dd4599a0bd3df9e13d0c213f259830a9621a99b3354ec8dde67b641&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客入侵思科路由器，监视网络并向关键基础设施横向渗透]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1VhSojKhxqM3BJLic8wl4hXlc9ujYaniavkdSVfiaAZwI6EahjetoPCYEgZoVAYU3oLmskXgjbkJia9jNkgRfpfTcxqSJYqIX0Cho/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fire Ant已不再局限于攻击单个系统，而是开始入侵组织机构所依赖的负责流量转发与访问管理的网络基础设施。该组织已将Cisco IOS XR路由器转化为用于监视、远程连接以及向高价值环境渗透的平台。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346138&amp;idx=4&amp;sn=a6ec65f15f849938f5b0e0b93ef2cd43&amp;chksm=bce90e9c5321325a816e21efcebb0a600dc3685282bfe508331808d5411ba35003fa8aaaf4bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

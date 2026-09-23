@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhNicWVZMbdh0H6ibqznSNLTCDqw05nmS3lokjPPDPBM1HVcVp4P4sU2o5HmoKeiaLD0DI4ZHWIyGTLiafdAJhtodyuHAgicoJ5XHHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王玮 一个具身智能的数据版本，从采集完成到真正进入下一轮模型训练，可能需要两周，甚至一个月。在今年的云栖大会上，穹彻智能首席科学家吕峻用这样一个时间尺度，描述了具身智能数据链路的复杂程度。视</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=1&amp;sn=b55444423c7009cca32d30363bb139b5&amp;chksm=bc3c3299f62abadb8b88b202b01d018c44a231f2000d15393a9728364efb0ecc50495db518de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[4096张卡如何成为“一台计算机”？读懂华为的超节点布局]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaOicq73tO7NOFHFasPwoGj53fsdibToFwSjY1zjASIbZ4G2pq6uTxIicfN8CmibJzBFLeKsXF5xYKLux3xjSCdDPxThkrSDfBqvYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜于曦 华为这次最值得看的，可能不是昇腾 960 芯片。“5500 个光引擎，可以替代 48000 个 800G 光模块”。在刚刚过去的华为全联接大会 2026 上，这组数字比单卡性能参数更让我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=2&amp;sn=699302a1d1bb44f9c5c82f27a11c465f&amp;chksm=bcf0ae9451dd7e0cc017f67be99271975dc7d7e69547f070dd0a2b416aa44f34e2ade18344d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“数据比模型重要”成了共识，接下来拼什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg6S7Rh4CdZ4ETuGIGgMKwNTl19bNKjaJpltt9EKE7C74KLr393rickbM6roAeIytUIAvltDyyficcSN9Dic3F82YpM7bmOTxV2HM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 黎科峰 数势科技创始人兼 CEO 前几天在上海，和 Snowflake 全球产品总裁 Christian Kleinerman 做了一场闭门圆桌。同场的还有白鲸开源创始人郭炜、Snowfla</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=3&amp;sn=e111c3a145cf51927a19f6cc77799ee0&amp;chksm=bc862da72b9e63ca9a26ea5c1db7b288a756cd59b0257a12975a14f897261a296b74deb66145&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[硬件调试进入 Web 时代：浏览器成了新的工程师工作台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjuMa8ibDbfgoIDiasGUsb87t9Fia7ribcicHWxkA9FPpDiaYu6CSOPPUSaVMyknG3fceGSKcN6Uc0EoR8rNgQFODafso7DpQ7Bdgia7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 ESP32 Bit Pirate 项目 通过将固件置于浏览器驱动的生态系统中，重新构想了传统的多协议调试方式。该平台摆脱了僵化的本地工具链，利用 We</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=4&amp;sn=97ae8f9d9adeac43e8468d945bae49ad&amp;chksm=bcc1bcb93d50a81946d37c1473ef01704068d9f3e8eba0dfd9859466b801155b147a76044d39&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[端侧优先，云端兜底：端云协同调度在 B 端应用的工程实践｜QCon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhu5QLtQzFDiaVrQhcQcuLq9ZbrD6VC8pGTHjL7AgMNlezicWh15W7FhmAdmgYqWeuhX2265fkP3gdfbMgqAOsicW4vauHEDr25cM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=5&amp;sn=b8a40ed7fe04d765b5a700c570fcc426&amp;chksm=bcb7c19177a1e7ea6a3b06bdd1f4d22a838a3bf7607279b4eb2718f4d718d80cfdfa2b6a1038&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026 年的云栖，阿里给 AI 行业递了一把新尺子]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjFzC7atWBsib7FP5CKqicO9YDU5jQhUUvg42ia7I0TCPOZdqmAGYw4pvM0Oltn3sfcyfrVLwGqOYfO8NCodmicpZeq7nTW1pfWcuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王一鹏2026 年，AI 行业最大的关键词可能不是某个模型的发布。而是两个字：落地。最早采用企业级 Agent 的企业已经开始算成本账，并对三个问题尤为好奇：Agent 的故事讲了两年，究竟</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=1&amp;sn=ec018a1c076098d95ad6c1a4e20ea5b9&amp;chksm=bce704740fba4ee565b8362667c7e6233e356bbcad0d0836ea08170c412a7eba8aa624a31b5b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia5j4FUiamQxChjiaWmFdOI23iadiaRf8tG6pMThHO70ick150zhiamPBOp5X9ibBibVhxcKWmgcMstCZqdnoqNVMgGveMOx3LiaQK09TpQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 谷歌云发布 AI 驱动的数据库运维智能体，包含一个上线智能体（Onboarding Agent），用于简化数据库设置流程；一个可观测性智能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292485&amp;idx=4&amp;sn=019ef483421b91b0653d9ab00d9101a9&amp;chksm=bc72f794722cb08254b373c855ba0f3ac1e2a03a019e8fc26d60563bef034650772ee15414c9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 06 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgpRy1SlRPQNjtnYur4RSNek9GpLABnRaxD6fkcdyro31iaUgnPdxJnAniadDGCeKyeMcgT643IEJicxibRTYvqbrgFIJxgg1etsM4/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 ｜ 褚杏娟当地时间周四，英伟达正式宣布已与 Hugging Face 达成最终收购协议，将以 129 亿美元买下这家全球最重要的开放模型平台之一。交易预计将在 2027 年上半年完成，但仍需获得</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292435&amp;idx=1&amp;sn=e99889119041f264ccbf46558ed3618b&amp;chksm=bc5865c5b16616c26524f521701d310de1dcc9768ebd70976491eef6c5fd87c24dba0856c4b3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent 时代，为什么有人开始重新造 Google？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhy0X2kFuNwCBVpibiaOWnibwN0lLKJOiavMv9NZxToA5ZXT2eQHO5C6bJmMgQShaIpW0niaXHLKySKRaJ6vr4Cbm8UWsAVhmQ678L8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 蔡芳芳 当 Google 已经索引了几乎整个开放互联网，还有必要从头再造一个搜索引擎吗？前 Yandex 搜索、AI 和云业务负责人 Andrey Styskin 的 答案 是：有必要。只不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292435&amp;idx=2&amp;sn=0d17d35fb7a2dd51a7478841b5124a35&amp;chksm=bcef68ea5eb923f075445311ac64d9de1426b95a00988712156ea272e5382baf0237ec7eab2d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[独家｜前DeepSeek核心研究员魏浩然出任百度文心多模态算法负责人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhIlSbqPheQLM8a8OiaKcrX4DLHfIBDfWqicrchsV3l9MDI2S44fJBhQ4822rDkRwRlWNo72qtlp2a6dVbfCib4KsLgsZKLeOPuBg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月9月3日消息，据知情人士向AI前线透露，原DeepSeek核心研究员魏浩然已于近日带队转入百度基础模型研发部，出任文心大模型多模态算法负责人。这是近期百度大力布局青年顶尖大模型研发人才的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292435&amp;idx=3&amp;sn=eadadb806e2a776351a512b12eec4bca&amp;chksm=bc27c828178d43f7c9d72d84011907c27fb0601b6eefeae9fca9201efac17a06724b4230ad2b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor 推出 Origin：面向智能体的 GitHub 替代方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia0aFDbmmwjfBkOfm1zhqdaPJ858kGuyHKfuNScUibg6bJa6NHQwXokhZV7w8p5PgW3toEX57yiavMLSH9VTplM0m2w2JfeE8t3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Matt Saunders 译者 ｜ 明知山 AI 编程助手 Cursor 推出 Origin，一个基于 Git 的代码托管平台，直接内嵌在其 AI 驱动的编辑器中，将其定位为已在使用 Cu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292435&amp;idx=4&amp;sn=ac2d1f454421c94edeac663dcc22778f&amp;chksm=bc85e8eaad99d7efefbba5f200d98df87beca90e9575d780a3a5fa0f8019bbde6d58cc756920&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[传统企业 AI 转型的最短路径，藏在研发部门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaibW7b8DiaRVR5WibPtTiaUR4O2Db0wMezlcClibgeNcon5Xic4bxM5dEwyE5kadiao1h8lpulEUbqNicVTIvLNClrx4C8O0bYT8g1H1s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 希希子 研发部门在公司里是个特殊且重要的存在。系统正常运行时，没人想起他们；系统一出问题，电话第一个打过来。业务部门指望着需求今天提出、下周上线；管理层则常常把 IT 预算看成一笔不得不花的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292397&amp;idx=1&amp;sn=210e5493967dee3c6a23af61ed24941d&amp;chksm=bc7661bedb055767a7ea1a5a28d2f514b8b7a7ddb6f2591f2ce39963729e8d4e6c011c0921e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:04:20 +0800</pubDate>
     </item>
   </channel>
 </rss>

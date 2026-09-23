@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯CodeBuddy Security发现Suricata史上首个RCE漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6xicntISvcueTnaILr0hvEuKaKXOjvz89q1KMqRlkuketdhP98RJvvrrU39PibfPvgNOCaGURUZCGCLzvOMgAZULNwevrK0mvZw/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年8月，腾讯云鼎实验室已上线的商业化AI代码审计产品CodeBuddy Security在Suricata 8.x中发现一例远程命令执行漏洞。整个审计过程中，全自动化执行漏洞发现、对抗验证、P</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530796&amp;idx=1&amp;sn=8d22810c82197e73893081ba91236271&amp;chksm=c16eda5121240695483073f057235cc97c26b12fa7590f4266eef534b3bdbc3c5f7434259724&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 15:55:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[WorkBuddy企业版办公套件化升级，安全与效能运营平台首批接入]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun74yl97NepF7dbSqWrzYYgcWwI4H0YLTuQqAP8X7lkfTQiawFy9lUiczd9WVIV7MJ5SkC2FQupN2icnhOpc2LjcBeHbhgqGOHZPNY/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月23日，腾讯WorkBuddy企业版发布办公套件化升级最新进展，腾讯文档、腾讯乐享、腾讯网盘、安全与效能运营平台、腾讯AI设计智能体Ardot首批接入WorkBuddy。升级后，腾讯WorkBud</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530785&amp;idx=1&amp;sn=ae61b41cf420029a0e0b93cc28c664e8&amp;chksm=c1a0d240d1b9ad593292b5a12b44c90788bdb2e1e602e3b1a421b9581e0c7ae009c5e84c83f5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[让“龙虾”拿不到密钥，腾讯云推出“密钥沙箱”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4x9h23a0sdPdicKXgo3IjTaB3xFRqLEZaKibFvmKyrkXx03Gjg4SgZX0nHicibUcNcib4mSs673egdD4RXiarc3giaGFZG95t7F3gxDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>全民“养虾”热潮翻涌，对“龙虾”安全的关注也持续攀升，为此，腾讯迅速集结推出OpenClaw安全工具箱，为用户安心“养虾”提供一站式安全防护。其中，密钥安全问题也备受关注——一旦密钥被“偷”，轻则数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529083&amp;idx=1&amp;sn=02cab1a34aaf6c576337615a14d23c5f&amp;chksm=c1b113da231172aaaeca61457930d827671c812610d6b1584ced446a875f90df927ad21c34d6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 18 Mar 2026 11:12:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ACE连续五年亮相GDC！《游戏安全生态指南》发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun7WrrMfa1V8L8SATbLu7ZxZlHTKiaIHT5iaCr1OWB4wpCAmjKhBmBv1mMppdbZibwPOWLow1eiaNR5GcsISkPeJWhmD9EtK7jK6JfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GDC 2026本周在旧金山圆满闭幕，身为全球游戏行业技术风向标，本次大会汇聚了来自全球数以万计的游戏开发者与行业精英。作为游戏安全行业的领航者，腾讯游戏安全ACE已经连续五年亮相GDC盛会。会议期间</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529083&amp;idx=2&amp;sn=f2ba69e9b515ed055340fde352b942ca&amp;chksm=c11ab2845edaab1806633812b3e607778a3fb38b14b93b10cbb3f62c370f948fdae330a35ac3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 18 Mar 2026 11:12:05 +0800</pubDate>
     </item>
   </channel>

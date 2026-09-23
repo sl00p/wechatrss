@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[自有应用 一键部署]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbcsTeribUvlmq7J0w1rD2yLE39lD9JaMJ3H3LeEHxoZZZqbCDT7Ak9KgXficH9n8FNcMYLgJ1EEDrre4JPYRofWUNrPZR8DeAW58/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云 COS 智能体桶（Agent Bucket）本次上线了「应用管理」模块，并同步推出首个官方应用模板——网盘应用。你可以把它理解成属于自己的「应用商店」：只需在控制台进行几步简单操作，就可以在智</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540484&amp;idx=1&amp;sn=1974d2ee61b21532037c3fd76aec0f2d&amp;chksm=cfb494321e00fcb1922fbc3c7144a1332ee227c1f8502852889cff233ee27778324e6013caaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CloudBase HTTP 网关支持全球边缘加速，云存储文件也能直接用自定义域名访问]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/C8KZWtRymbdpibicuPmOziaDoEkZk2Ev9pT3G5gnGbEuUiasYUfK0mEGIP1cByyxYUoC7Wdia4e8GBPKu14NMkbBc095KDBqtmSj7ELoy90oSjXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>云开发 HTTP 网关本次升级两项能力：HTTP 网关本次升级两项能力：用户绑定自定义域名后，即可获得全球的边缘加速能力，并自带边缘安全防护；云存储文件已支持接入网关，绑定自定义域名后支持独立访问。自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540360&amp;idx=1&amp;sn=2ea5a469cc64ed664ec119e107df80b6&amp;chksm=cf8b3491c98fe0ab1caeae3879724f27bd42eec9c43bcc1075f47de2b8492fb0275e2c1e6b8e&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[JEV：一个不会写代码的模型，为什么拿下4000万美元？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4hMNJ8fBu2QvM2RL6XSah2nRlChz1nnc0Wx0MciafR29eHFnIQBVdn3lpznVOvlBbsXD897xpW5OhibNibJicSkEkekbc0MXHuxLU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告TL;DRLLM 这几年的演化可以压缩成一句话：先把"一个模型包揽一切"推到极限，再按职能拆开。JEV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697634&amp;idx=1&amp;sn=022fbaed7d8c0612ad874c717c92419e&amp;chksm=ebf809cd604076d6c10bca56143efad98b6ea20eadedfd66ffa1effb196d9f8444cca12f1df1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI写得快 ≠ 真正提效：一文讲清Harness“记忆”和“验证闭环”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7zVnbiawHgYMbBpSibIf7gomDfxJ4q0Z8B4g91ZZ2ueNg8o8RddicCenUEiaqNWhB6wiaCv9DN6zyGfcVO9gZP9Wibl37lXujkgK5NA/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告用 AI 写代码，"写得快"和"真正提效"是两件事。我踩的坑集中在三处：一是 AI 没有记忆，每次新会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697619&amp;idx=1&amp;sn=24b9b00aeb06f6a9d348f01c3b9688e6&amp;chksm=eb971445e71b247a3d7e0ddca8c797981b70e93911866a94717f6ec509628e82bdaa75855071&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5B7piaSgd40nOeooPj0qw7iberVQ94aibIr99libtR76L6iaVtnJuNEIPfyCWhkwgpepFFicn8zUBJBALDWcO1AHiaLffwuksTLniaLjI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇一、腾讯犀牛鸟开源人才培养计划自2021年以来，腾讯持续开展“犀牛鸟开源人才培养计划”，响应国家开源政策，打造面向高校学生的开源课程和开源实践培养方案。该计划由</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696004&amp;idx=2&amp;sn=ff41712086d53d162e16a735c12aec83&amp;chksm=eb70d555e63de34926ac7ca616628eae63ab6670e203291bfbd0714c6e7fd3d82f2ea820816b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Harness架构到Token经济学的探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr65fXIHicgLN7OW5gac2arJ0WEZF1UJrNfsLrK6kIaE6j2Oiaa32UmFNXXKa6BuXDamyREkHtJYrW5o7GhxZHjtyibhvicx9g2CROU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇本文基于真实工程实践，结合 Harness Engineering 领域的学术论文，分享 AI 辅助编程的架构思考、工程落地与 Token 成本优化。01Par</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247695963&amp;idx=1&amp;sn=29f18a2db784e1ddb56796af76543688&amp;chksm=ebf8802f43fa1a287579360a5b869b34193c8cc73b61256c0de5c789d61fe1818cd8dd6a50ff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

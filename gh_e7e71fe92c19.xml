@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[议题公布！SDC2026 议程上线，解锁人机时代攻防新篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2aEY9nchIJrJiaxD48XpLn9FcPHWjeCiaaJrOMePh8EgAE79Xjg6tibcaHegdfjCery98NAgGx33MSc8O1vn2Ania9ZnBX7RPF5rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026人机共智·重构攻防当大模型深度融入攻防体系，安全边界正在被重新定义。第十届安全开发者峰会（SDC2026）以「人机共智・重构攻防」为主题，汇聚行业顶尖研究者与一线实战专家，围绕 AI 安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621752&amp;idx=1&amp;sn=a441196ba1fecde164b052739091d462&amp;chksm=b070c31a73ab80f444ea04989e03e1a95c9c731ee7f16218852f9e8bff5b5020489126e0fe73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 24 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构攻防｜华为，助力第十届安全开发者峰会（SDC2026）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3XEh51sR7CLQ4XGoXySvr7781odRVuU6ZCynZKla8jHnbr867JPdbck2KpHQT6thNtWtkick7DicuhTiablCpPAicqdSWvMyIV60I/640?wxtype=jpeg&amp;wxfrom=0"/><p>华为，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型投毒、提示词</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=1&amp;sn=f257ef5c39824d9b599e370eae2f1b5e&amp;chksm=b0a676cc45e738a676592b70fef88d209cb918ee605679e5151332056204f64a2511ba3ac506&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Claude Code自动模式曝出重大漏洞，可被提示注入劫持执行恶意代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3B84ibusJtY22ooBts6GiceyLkk5HaO1D6RSrl30I69vMS9SicuoibEgEVicULN4ZzY6KOyYdiayPeibu7vYXI2AXcQsgJ1MciaatIHos/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日安全研究团队Embrace The Red发布安全研究，Claude Code Opus 5的Auto Mode（自动模式）存在安全缺陷，攻击者可通过构造网页，利用提示注入诱导AI代理执行恶意代码</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=2&amp;sn=87a487c4c11fadf2466724ed460efd12&amp;chksm=b05a2c14c3ccbaa27f0017ff1705efdbc7b082ed99e0b364d5104140f3a50b3f9c4e172dda9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我该如何驾驭AI，让自己不可替代？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619028&amp;idx=3&amp;sn=1fc10e26cbf3fd31d3030b89401ea23e&amp;chksm=b08fbec2df90149a96bdc92ab3b4b3b71e9e8492bb2a5b311f9a60fd49aeca7757b85973f37c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 28 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
