@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI Agent入侵澳政府医保系统，全球首例自主AI违规入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19dYIhvz94OLibUTTlcuQt6iaahV6MQwlQqmqL5SZftWn6ekn3rpA6UaFBEgQtdxIqj2TQbKwRWsfNt2slTwz2skZfyZrl4SnIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个自主运行的OpenAI Agent在执行内部研究任务时逐步升级访问行为，最终未授权进入澳大利亚政府Medicare（医疗保障系统）统计门户。据报道，这是全球首例自主AI违规入侵政府服务的事件。An</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347709&amp;idx=1&amp;sn=0688a96a38f0f09490d186920dc3d042&amp;chksm=bc880973e0cb6d835ce84306f16e7b80e027974ff04ab4b8e52f64abb8990c45fea6ef5117b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WordPress CVE-2026-87902 披露数小时即遭在野利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1DdGRp05rCqRlz3puK6MiaUQt31AFJVK6WTicy9x2YO9mTpWOWFTJzRkwjALXXYsHwQol96hpZO7HhHZsgClPR1lU23iaRfC4hSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者在该漏洞公开披露后数小时内，就已开始主动利用WordPress存在的这一严重安全缺陷。Part01CVE-2026-87902严重漏洞本次涉事漏洞编号为CVE-2026-87902，CVSS</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347709&amp;idx=2&amp;sn=0c10d28348a55c99e5343356219151fe&amp;chksm=bc1048344105d3d5292c4135f51bfb9eaca5ac17ec4b26b0d5dde6ebb04fbe46bd7f3769234a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研究人员发现RSA新型破解方法，无需分解公钥模数]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1NSL7xHgO1klJpficIGCf2doezkFwtyDWE4FHtJKKzMoic8gNB3ibaMNk1QYnXphywVZKolJV8M61VXb0bibgKAAYoUeyJMGCQyVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员演示了一种效率更高的攻击手段，可攻破特定部署场景下的RSA加密，且无需分解公钥模数。这一成果挑战了传统认知：此前业界普遍认为，RSA的实际安全强度始终与整数分解的计算成本直接挂钩。借助这种</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347709&amp;idx=3&amp;sn=55ccb6058c97b907e59a84320d0e0129&amp;chksm=bc5d93d71e9ba3626c39dab969033cdb1f714a82518ec8f311f4ab82aceaaa7b45d1c760e655&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[ShinyHunters宣称攻破FBI系统，窃取2-3TB员工敏感数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Wiba1iacYJnWtjZg2bNZBCLFeqiacg0lo7whU5s50jtZ6SpENw8jUfibGgiamiah2UsfPV8bwe7xVPG4fwtdZcfQtWcFk13VByiaY5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01ShinyHunters泄露数据样本知名网络犯罪团伙ShinyHunters宣称已攻破美国联邦调查局（FBI）系统，窃取FBI雇员及职位申请人的敏感信息。该团伙表示，此次行动并非出于经济动</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=1&amp;sn=bb1c89f1d1528eeffc6dcfea09753b50&amp;chksm=bc5187789beac499d7da15890080e54004a1d2c266e86a4b832791d1ed3d00ae4a4cf6815d2f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[斗象AIBeat对全球前沿大模型CoT思维链的提取实验评测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ib2xd71pmAy7PjTt8tzRgGiaR7ck9iawjzY75l0YqbtujVoHdiaThGGibq5x3uH2b1NGS7rbcicsg5L5ReDmCKAhQPxlHJJwRv4p5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=1&amp;sn=1cd106cd178e0e6accdfbeb8c9abd30a&amp;chksm=bcd30243dd1255fc39e76e5a39b7ad382b19d9837c3434bcd9fde14d70065d0fc545cd79ee87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[安全数字AI员工进SOC：企业敢放多少权限？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1IweibhM5jJUgJspXM6ibbGwQtAibOpvic9xKcPUOB1iaYyz9JwuBy7wWyj0y5doZsGLQiaf5YYFsBCZEHsMeIbHLypAtezyWhjnXXs/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾AI已经不只是“给建议”。当安全数字AI员工真正进入SOC，开始查询系统、调用工具、处理告警，甚至参与封禁、隔离和策略修改时，企业面对的问题也随之变化：不再只是“AI会不会做”，而是“企业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=2&amp;sn=173b0c57a6a3bb869917334aac5213eb&amp;chksm=bccbf8fdb99b30af6d8b816366a386d315751277e928ba9812e3ad99d3aa63972f4c4bcb9f3c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VMware Workstation与Fusion曝高危漏洞，攻击者可直接执行宿主机代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1kkRKiakSD7MoWrLsVomEGt1Qa14Y178q9KL77cggNYiaqyEShh7B6hZ1oC8SHT61b6Tv0g1eQMd108n6M3lelnNeV9n2lXic6Fk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01VMware曝出逃逸漏洞Broadcom发布了一份关键安全公告，警告称VMware Workstation和Fusion中新披露的两个漏洞可能允许攻击者逃逸虚拟机，直接在底层主机系统上运行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=3&amp;sn=f814cf68868fae1cf2841a1532240fa4&amp;chksm=bce310cd197bd92064e5d25b103db709301b5e5066ee0466f3e6e143802b8801e7cdf0190fbe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Node.js被黑客武器化，合法运行时变为恶意软件投递工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2lnpSZVh4nPLaAzfNLvx16DicJ2iaK2xsF54GPJv9pdYGwbNK5jR15DD8BpTbQiazn4A1L0rmLfRicPdQGtsldqw3MA1X3S1ibpDVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正在多起网络攻击中利用受信任的Node.js JavaScript运行时来部署恶意载荷。根据赛门铁克威胁猎手团队今日发布的一份新报告，自2026年2月以来，这种攻击手法已被用于针对政府部门、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=4&amp;sn=cd2fa79b9922f2cde4e0e5e86a34189d&amp;chksm=bc4809d6a51179c9ab42440800e5fe22a43a6145979114e033b5f664b25149d52f91596e7d02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
