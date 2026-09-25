@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Pi 爆火真相 ：为什么只给模型一个 bash，反而赢了 Claude Code 和 Codex]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgclIlnJLQgKqZlnM3ec60vdzNArv5FiagXic7hf1k7OEIOqgNud7yH94D5T6ktZlejN8hrun1iaG2MWQz5PjCcKKle9cUhmGuOaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜褚杏娟 2025 年底，一个叫 Pi 的极简 Harness 在圣诞节前后突然火了起来。它没有塞满几十个工具，没有复杂的记忆系统，甚至没有云端方案，基本上只给了模型一个 bash，但</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294027&amp;idx=1&amp;sn=0e76805b8c2dfb1f37c226c8476473a8&amp;chksm=bcd65a91a9f160c7cc4986e238aefe1cac6d3997d57bb52c40eb24ff49cf32cda6948c41e588&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 11:00:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhbRmlkzTibqYEYenVmgdErEZQpjPN27KnIRUed9SEQh0aBBkL6w5qKOJmtmIEg4mn4iagSy3Bqf8ccjLcibsFD29m0KIIBqgWbck/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 林绮蓓、蔡芳芳 策划 | Tina “它会逐渐退到软件背景中，像数据库、正则表达式或其他基础设施一样，成为开发者随手调用的普通能力。”这是 TypeSafe CEO、Jev 创始人 Diog</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=1&amp;sn=930fafd84de44fecffb90d8573c7c9e3&amp;chksm=bc16899193158667285d674705474008c90fa06b8a61eb454b09a3a408f97e6c5462ce4e9325&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[优化平台工程规模，构建组织真正需要的平台]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNheyPHXHR0mZ3qeNRXxYBy9HU3LE4rLBxVx81geKoyjYgNZYEXT4GnNsGdUtshIzTa7FMH3YxYoBicicsd6SgcPmMQfKF273iaHns/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | John Keates 译者 | 平川 “左移”和 DevOps 对我们从构思到生产环境实施变更的方式产生了巨大的影响，但代价是认知负荷加重，而且在测试、安全和维护等方面出现了重复性工作。如</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=3&amp;sn=feff9290058c82bd02d3f9614f133701&amp;chksm=bcc0e20f389ff8c3dec14aca64731b82537f3a84cb26d39867da6c89756a634d6eb932759ccd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg6RZtxaFh1L3mGicojYhiaHP72gVOKv5U22uV834L9Ttt2a8MZylQlkgzOhfeXWzxibQu7DEfbkkagH6UpYNxomN8kU1EplJeYpo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Bruno Couriol译者 | 平川最近，Cloudflare 在 GitHub 上开源了 Cloudflare OS。Cloudflare OS 使企业团队能够基于企业知识、专业技能和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292535&amp;idx=4&amp;sn=806048f172216028bed2574f90e87b56&amp;chksm=bc8ef9b56cc6bb0268decd9db99cba98aa0005ed8ac9dbe8e8416489cafc57ae1f7a67104f3a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 13:45:19 +0800</pubDate>
     </item>
   </channel>

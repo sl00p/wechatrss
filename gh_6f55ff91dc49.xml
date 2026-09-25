@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一周就收割 2 万 Star，这个 GitHub 项目把近期爆火的 Jev 模型开源了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2vBfX3miaNiahFtxuiazYxA76Dia2Qf0Zs9q6SxG3StqesaOTx2Iotsg7WTDHSbV1LYw5ECQn1KCg5QTmk744z4MshdIbGSOia44VY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jev 模型国外火完国内火，最近到处都在聊它。这是 TypeSafe AI 推出的一个决策模型。这个模型不能聊天、不会写文章、不会写代码，只下判断。你给它一段文本和几个问题，它几十毫秒就能返回结构化的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537349&amp;idx=1&amp;sn=bfedd504e5736caa5c5e3ce449cc15b7&amp;chksm=f8f1d440fb27861bfdbb71e2bceccfea7e052f1fa9d1b004c8e46bb4df8322af571c07cf98ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 11:18:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让 AI 帮你操作手机，这个 GitHub 开源项目支持安卓和 iPhone。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1Q6etyYJt7zx5mF1mmEGiaibziavvh2bicszOFFC68mvDsJiaP8TqzeUjwLBgbaBshVkXSOf8m6no9L7ibItCicWicL8VVuN0CmaR4fWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Mobile MCP 是一个让 Agent 操作手机的开源项目。现在在 GitHub 上有接近 7K 的 Star。接好设备后，AI 可以读取屏幕上的内容，点击按钮，滑动页面，也可以往输入框里填写文字</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537318&amp;idx=1&amp;sn=c968c54a4558a9a05087a3892296f698&amp;chksm=f83dd0f2fcfa64b5cdb69e0f47f382ed0b632f33cbaa522c590eb394ce47217b760d29377745&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hzZHW9YKVdtnMPMR0NkfUm1IjtH6YD84FyFiaHa5diab7k5JmHvh7EoPLvFUuxv16WcHiad3riag3r5ibc6MB2PGvScxkIvgLo1Ag/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近整理了一下 GitHub 上关于生成网页没有 AI 味儿的项目，发现设计这一块已经卷成了一片红海。感觉每个细分场景都有人做出了开源 Skill。挑几个我个人觉得最值得装的，分享给你。喜欢的可以点个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535192&amp;idx=1&amp;sn=79639befb0a59553475707272539e0a6&amp;chksm=f899aba7dd3ce4bc1def1edbf0316b2db57ea4a287553c9e0fcfd2d65ccafca350cb01b7e6d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 12:12:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[终于有个非 AI 相关的项目登上 GitHub 热榜，高低得推荐一下。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1tRIV1N4Gxm91oymwRRPw2PcGeCbvcBYJIebLldj30qXB6GNe0Nk9mrnKSibPlbyvb6Cd2plmqv7NgxtG1omoDhCrcEIbGWpIs/640?wxtype=jpeg&amp;wxfrom=0"/><p>刷 GitHub Trending 想找个非 AI 项目，是真难。往下一翻，全是 AI Agent、Skill、MCP 啥的，全是这些。今天换换口味，好不容易有一个非 AI 开源项目登上热榜。高低得推</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535168&amp;idx=1&amp;sn=acac06567bb7157a0ca19c556a94cdf2&amp;chksm=f81e8d6b29ffb20bd18bd592e30baefed9e54629b3f28938141ce796beeaf8c949a8fe563958&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 13:14:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

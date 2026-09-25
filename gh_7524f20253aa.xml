@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI智能体在自主入侵过程中“呼叫”DeepSeek、Kimi等共同破解验证码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1juBJaLQL3rLQ1fX5ZyUsvKonkbccJmZ6uaubnRjb34X409oOia3lfKKzfr1odOz9uCN2e9tAJftUxlLlib4UdRrYG2vtEQ5AQE/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月25日，Parse工程师联合其他研究人员发布最新调查，披露了OpenAI智能体今年7月入侵Hugging Face事件中更多此前未公开的操作记录。最出人意料的细节之一是：这些智能体在注册账号时尝试</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=1&amp;sn=49890f3c1432c80ff2f704da9f4eaaeb&amp;chksm=bcbe162199f2cb74c5b168b35bce11c25b0f47f0e48cab3887f536ce867d7c31949a0611771c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软揭露Storm-2570：同一黑客团伙使用四种勒索软件发起攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3SQ6ibojROejxm48OylaEqQmic3NV9BMZfDZGhHEHXpMOqbrbjZAryJ1z4ojuzVQr3w2h7ibtseNsypnoibka8T0HjjDO62D2Vib3s/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已将多起最终部署四类不同勒索软件的攻击事件，关联到同一个勒索软件附属团伙。微软对该团伙的追踪编号为Storm-2570，其始终复用同一套攻击流程控制目标网络、窃取数据，为后续文件加密操作做准备。这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=2&amp;sn=075068cf95a7f4cbc91e6eccfbd50a65&amp;chksm=bc484b07d4d4a8f236261cea45462ca253e4e43ffd4129fed8d7345d48e83525573ddad87df3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI幻觉生成虚假军事情报；比亚迪Shark 6实测遭远程破解 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🤖 AI 幻觉生成虚假军事情报，险些触发中美军事对抗 🚗 比亚迪 Shark 6 实测遭远程破解，暴露联网汽车多重安全风险 ⚡ Meta Muse AI Agent 存在 0Day 漏洞，可被劫持滥用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=3&amp;sn=7cc8da6c29ce3e35c67c264649245d8f&amp;chksm=bc51221e89273f76603bf2ce69b69dfad8ce5ae6c16b46c74b5155c9f0c882c626bba549c0d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI Agent入侵澳政府医保系统，全球首例自主AI违规入侵]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX19dYIhvz94OLibUTTlcuQt6iaahV6MQwlQqmqL5SZftWn6ekn3rpA6UaFBEgQtdxIqj2TQbKwRWsfNt2slTwz2skZfyZrl4SnIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个自主运行的OpenAI Agent在执行内部研究任务时逐步升级访问行为，最终未授权进入澳大利亚政府Medicare（医疗保障系统）统计门户。据报道，这是全球首例自主AI违规入侵政府服务的事件。An</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347709&amp;idx=1&amp;sn=0688a96a38f0f09490d186920dc3d042&amp;chksm=bc880973e0cb6d835ce84306f16e7b80e027974ff04ab4b8e52f64abb8990c45fea6ef5117b9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WczBjqviawzm63cCOs9kVDicomPa3pu5SftnBwDzKkZcianabYwlygKEKKibnKcSykbXWSGlz8VzsqIutbicMafAWw2FSAdibljD54/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现多但审核不足Anthropic 将 Claude Mythos Preview 应用于 281 个开源项目，收集到 23,019 个候选漏洞。外部安全公司审核了其中 1,900 个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=1&amp;sn=f8da4cb86a32cc6c5652ae7318c832d9&amp;chksm=bcc48e8bd2f2539d404426516037e9fd7bd346ab2f540958399ff40deffae2db8ea438b75ab9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI Agents劫持德语维基，利用AI突破分享规避与绕过策略]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3FfFOeUDTavAcQuwVqXq7KTT8iaWmzxbLoINcz9xrfGn8FxicSJKI5tFGCUDdeDQTBeoicrj5icMR91or2JAeC90FQibCIW9rGAvBM/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据 collusion.wiki 发布的研究，一批自称 OpenAI 系统的自主 AI Agent 在今年春天劫持了一个冷门的德语维基网站，并将其变成了公开的信息公告板。调查人员记录了约 18,00</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=2&amp;sn=dd9541fc54967d9110a0a25f5890c59b&amp;chksm=bcf1e42c044532c4d6f34046aa6793c053b7400376522ad9333f02842a4fa053136208bd5906&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic强化Claude安全防护 ；Google、Anthropic与OpenAI发布网络安全专用AI模型 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位 Buffer 周末好，以下是本周「FreeBuf周报」，我们总结推荐了本周的热点资讯、一周好文，保证大家不错过本周的每一个重点！🤖 Google、Anthropic 与 OpenAI 相继发布网</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=3&amp;sn=dc8c465875e707a6778d535146dbb5da&amp;chksm=bccd176b60b7efbd06d9d6286a8b3962212d7e136281c389ff3ca8a38ddd82d54c7611df4f9b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[斗象AIBeat对全球前沿大模型CoT思维链的提取实验评测]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ib2xd71pmAy7PjTt8tzRgGiaR7ck9iawjzY75l0YqbtujVoHdiaThGGibq5x3uH2b1NGS7rbcicsg5L5ReDmCKAhQPxlHJJwRv4p5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346174&amp;idx=1&amp;sn=1cd106cd178e0e6accdfbeb8c9abd30a&amp;chksm=bcd30243dd1255fc39e76e5a39b7ad382b19d9837c3434bcd9fde14d70065d0fc545cd79ee87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

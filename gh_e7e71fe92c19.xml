@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Copy Fail漏洞深度学习]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0cEDBzibbNDDPhOVo4yamWf1BRWUBL3uHlMg5IK3PUfm72JZt2nKCDia12icBVgYIHdeniaTVo0yeGG36oMFFmkMEYbyRUDOGu3g0/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据相关的资料，重新学习一下这个copy fail 漏洞，相关参考：https://bbs.kanxue.com/thread-291167.htmhttps://juejin.cn/post/763</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621952&amp;idx=1&amp;sn=88420cd350d20c349e907e1a0affb4a3&amp;chksm=b0585b92aea778454679252dcde740d2321c0e2c00895c6be9a3999811a7ef983734ab54c1be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621952&amp;idx=2&amp;sn=8619d1e57ff56692441a3d1694363190&amp;chksm=b0007a8e12bb119fe8d7960ec139413f3302e3a9e9bca83089621b5d0162ba71c11097c2cfe5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 26 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026中秋致谢 | 月启新程，共守安澜（留言赠礼）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K107fzic8xpptiaNFrlibWHJE2I6RmdSP01ibxwLORjRCcK83W6w9nTSEVRoVqmIO9d5aNyREJEGgwIvO6DyRCeAIKKLumdavvLXt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>秋深见笃，月照同行。岁月流转，又逢中秋。来自各方合作伙伴的佳节心意陆续抵达，感谢每一份相知与信任。值此良宵，看雪祝愿所有同行伙伴，中秋顺遂，万事安和。一起来看看大家的满满心意吧～*以下排名不分先后，首</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621951&amp;idx=1&amp;sn=2368a58281a7df9e2ba6ee31adfed3a1&amp;chksm=b04dc886021dc67bab8eed6fbfe1c9ca1489d75d0556a80957e283fd4fd3cba1af9cc9f0af0a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0hch5F7gr89iaalMQ7r0pJL2Gia5RRzaMKO7cl3CRlrc9Ryb5pzj2B2fM10Wmn0sicAos6ribwBzmzOYX53xvDf9OTMndTLM5iaee0/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软开源项目UFO曝出CVE‑2026‑73296高危安全漏洞，CVSS评分高达9.4。在特定部署配置下，攻击者无需账号登录、无需用户交互，通过网络即可远程读取安卓设备屏幕信息，甚至直接操控设备执行各</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=3&amp;sn=37bbafc471b9233f1d5d0f24a2d66313&amp;chksm=b0edaf84472a138dec9ccdd6d9f2ba3a7c334f954e21e265b1023e222bf7345875f7e22bbb32&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HTB Nimbus渗透测试靶机 Writeup]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1DsZGs1EP2ibeM0Kep8eYFakR26qcBJN6p0uPU1MMVpSu5tLTv750rE0OVLlVJkQpgAosI5xw2xtngFz1YRibazmLQYJnqLnCiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>本WP旨在讲解HTB上的Nimbus靶机。这个题考察了包括aws、ssrf、容器逃逸等诸多知识点，天天打ctf的我基本没接触过aws，只能一边查一边学，兜兜转转的写了几百行笔记还不知道覆盖的全不全。初</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619031&amp;idx=1&amp;sn=c049e90e9e21461f5ce9db0847b5772d&amp;chksm=b01ae586b8b3471a3fcca562599a2af9775266d5ba282054fc408c3d35670d23ac569c92c712&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Aug 2026 17:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[抢先体验！看雪课程播放器正式上线，安全高效双升级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1fTfMiaczyhJIft88PRKDtyj4agqbhws0UbLHJlqgWVRNSUdogRPJU1g2yY5YtutAEDZricmtfDMqUniaxibNNQzqJIGXbzicNfJYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经在看雪购买过课程，建议你试试——看雪课程播放器。它不是简单把网页搬到客户端，而是专门围绕课程学习体验与内容安全保护设计的专属观看端。对于部分高价值加密课程，播放器是专属观看入口；而对于大多数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619031&amp;idx=2&amp;sn=525db3183f77b1376edf7870a66052fb&amp;chksm=b0a3e1421f336f80b968d97554328cc8e67f9d4f09e063f5b5a392f89c937604752b364f3dae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Aug 2026 17:01:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
