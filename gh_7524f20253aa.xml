@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek生成、Qwen改写，AI攻击工具成功绕过两款EDR]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28r1318Vff6SLLJQrwXCuUHyEYm56bP12vicyS3FD5mtPr2vRm90muX0KFKwUxsiaRsHZjNCLSpGnCGyiblnOnRweVynH9rKHzQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员在受控实验室环境中完成测试，一款本地部署、无内容审查的AI模型经多轮调整修改Windows凭证转储工具，最终成功规避两款EDR产品的检测。这一结果凸显，获取门槛不断降低的生成式AI，可能会加速</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=1&amp;sn=37cf2e571e90b81ea308be490bc3f6a8&amp;chksm=bca292a942280594a5f34b41e44a4f0b63b0877e5ed9fe8bf7cf264e19a9c8437dc36a7742ed&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Sudo高危漏洞曝光，本地用户可绕过提权时间限制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1bmD0LaunV8gT8h3VPT5vhtad9f0qmCwTQZVYnTEN8ADWVM4C6MFLndibn40b2fOP1l8qYhZStibgiasUK00ZicDnG4MdF5twUXvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sudo存在一处高危安全漏洞，本地攻击者可利用该漏洞绕过基于时间的访问限制，以高权限执行命令。该漏洞编号为CVE-2026-96512，影响1.8.20至1.9.17p2版本的Sudo，根源是程序对T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=2&amp;sn=2ca481ef9dfb8a27933bdf0a2744cf50&amp;chksm=bc7d67dabef948cd52f4349d8ada322b0c46edf572f9f7b5238d1f08877fc27dcd7db9daa9f8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：AI Agent百小时自主挑战；红蓝队渗透工具；非结构化资产分类分级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0QibvbvdriaFcwLml6734n2ZestoXBicCz5fgth9YwBTHNRCP2CRMo1B5bRpWwy25qRONn8hbQ62mfedonVJkuOviaicLcMrQO93aI/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=3&amp;sn=f1ce70c9a2626d637a02d14045ff96d2&amp;chksm=bc9fa8b1aa789b3aa7a6d706f8d24519401d034903579f96078f678d1f2b38549d5087fc53e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI智能体在自主入侵过程中“呼叫”DeepSeek、Kimi等共同破解验证码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1juBJaLQL3rLQ1fX5ZyUsvKonkbccJmZ6uaubnRjb34X409oOia3lfKKzfr1odOz9uCN2e9tAJftUxlLlib4UdRrYG2vtEQ5AQE/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月25日，Parse工程师联合其他研究人员发布最新调查，披露了OpenAI智能体今年7月入侵Hugging Face事件中更多此前未公开的操作记录。最出人意料的细节之一是：这些智能体在注册账号时尝试</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=1&amp;sn=49890f3c1432c80ff2f704da9f4eaaeb&amp;chksm=bcbe162199f2cb74c5b168b35bce11c25b0f47f0e48cab3887f536ce867d7c31949a0611771c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0142uwyWkQJ9l0BphZibhBsMe5vicPb6Kb41gHPceiabKORSJt9s5OwibjXL4MZz0byAHjicgFPte7YsZpl7dekpiavrJZ7qjemmH9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据Palo Alto Networks旗下Unit42发布的最新事件响应报告，一名配备前沿人工智能模型的人类攻击者在不到10小时内攻破了一个企业网络并夺取了root凭据——而这一时间线通常需要人类红</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=1&amp;sn=429baafa5cd42c128d90faf234ac4d28&amp;chksm=bc020aed2bfcd1720e7dc674cf5ce45f1ed7c7b9d6b0f43a285c33ffb63548328dcf72e48640&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TP-Link Archer曝多个漏洞，可致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX21icoCjzzWk4eGRrLOestGkJTxsA2ZJFKgB9Dzql8fpuic6GQwnCFeG9IvRicxhSR6lG09rvIgQ5h5NncAo1wXicUDQvpyQM1xyM8/640?wxtype=jpeg&amp;wxfrom=0"/><p>TP-Link披露了其Archer AX55 v4路由器中的两个安全漏洞，本地网络上的攻击者可利用这些漏洞导致服务崩溃、窃取管理员凭据，甚至可能在受影响设备上执行远程代码。这两个漏洞编号为CVE-20</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=2&amp;sn=46dd40ca5e86256743717d33102eb063&amp;chksm=bcb9d3447100f415ad10a68c28164d3e1279517e3fec00861bc5a56b97dcf5a9f124a550e160&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：多Agent协作日志实践；Log4j 0Day预警；漏洞挖掘信息收集技巧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX04JBCbs6GQPL3WuNh3QibPictHAuKFvE84viaj2CdU4rIJAKkiacxcWJvUibnuAdDe4WNVGjibIia4ZVtH9cUdIGTSpmicCkHjmqhZLvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=3&amp;sn=9ef30c8a031457b162a0f2a860abbe0c&amp;chksm=bc6adb8f027d74d1a8ba589040c976dce7a3d300508ede9dd01e17e341fe8793a84d98af150e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Mythos发现2.3万条漏洞线索，超2.1万条无人复核]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WczBjqviawzm63cCOs9kVDicomPa3pu5SftnBwDzKkZcianabYwlygKEKKibnKcSykbXWSGlz8VzsqIutbicMafAWw2FSAdibljD54/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞发现多但审核不足Anthropic 将 Claude Mythos Preview 应用于 281 个开源项目，收集到 23,019 个候选漏洞。外部安全公司审核了其中 1,900 个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346218&amp;idx=1&amp;sn=f8da4cb86a32cc6c5652ae7318c832d9&amp;chksm=bcc48e8bd2f2539d404426516037e9fd7bd346ab2f540958399ff40deffae2db8ea438b75ab9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2026腾讯游戏安全初赛Android题解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3nsUcib7AQYaJOrITfuYcqSQP5uIicRQqbjF63uMIoBL4iaLyYgicHAMrEtJ7Mbbu9LwgXeFlJdLNHznKliaGzuhB9YibXEoay1mauw/640?wxtype=jpeg&amp;wxfrom=0"/><p>虽然没有进决赛但还是记录一下吧，比起去年UE做的已经很多了。1.dump libsec2026拿到题是一个godot引擎加godot-cpp扩展的游戏。引擎版本是4.5.1（关系到后面对应哪一版源码，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622024&amp;idx=1&amp;sn=54a9aa955b8185e7701a9bd55a79842f&amp;chksm=b0284d5b3110e2bd4150c11a673a385ad74f391bff24d14c0fe21416990352e116a248b02fb2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[为可信智能时代筑基：2026 CSA大中华区大会暨AI+安全大会聚焦基础设施安全与产业实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0nw1ybgBhGwMWxavY9AXb41XBS6qHFXET97Ey3UycODtzQQTJlbAumRMHdsVhziaU7648u0CWibNDnZ1mpLRVMRYRxFbFibic3AfY/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月23日，由云安全联盟大中华区、清华大学信息国家研究中心联合主办的2026 CSA大中华区大会暨AI+安全大会在清华大学主楼后厅举行。大会以“智序·本体：为可信智能时代筑基”为主题，来自政府单位、高</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622024&amp;idx=2&amp;sn=20f61756c31961faf3b695da2bd2bd1d&amp;chksm=b0bbc1d6d35e36e0f5ba701d24446e8dabbebf9c082227dc6451d3538ba388d66fd491d94119&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 27 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Copy Fail漏洞深度学习]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0cEDBzibbNDDPhOVo4yamWf1BRWUBL3uHlMg5IK3PUfm72JZt2nKCDia12icBVgYIHdeniaTVo0yeGG36oMFFmkMEYbyRUDOGu3g0/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据相关的资料，重新学习一下这个copy fail 漏洞，相关参考：https://bbs.kanxue.com/thread-291167.htmhttps://juejin.cn/post/763</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621952&amp;idx=1&amp;sn=88420cd350d20c349e907e1a0affb4a3&amp;chksm=b0585b92aea778454679252dcde740d2321c0e2c00895c6be9a3999811a7ef983734ab54c1be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[仅剩10天！SDC2026『议题征集』9月10日正式截止，欢迎提交议题]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0MbAeD25BHkC91AyFwqf1vthkuKjlokWS0qFEYbJWrLbDTIyczNMXGt0L1fL6xSQ2kibK0m0V3NhJiaibbWiaLZD6n2lo8mNQSEp8/640?wxtype=jpeg&amp;wxfrom=0"/><p>⏰ 议题征集 | 9月10日截止从首届安全开发者峰会启程至今，SDC 已历经九载深耕。我们亲历网络安全行业的高速演进，也一路见证无数安全开发者的迭代成长与技术突破。2026，属于 SDC 的第十届里程</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=1&amp;sn=e439f1791d5352b3ab2ee823dd02fb1c&amp;chksm=b0155e804e26090139505220e23821206830e23a499e226803c696c19ea4231bb184ae50e2fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[商业级加固 Native Loader 与 VMP 解释器逆向分析实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1NeVNjX3k0XzI0gcgY4gr0e5n3TbZwIktGdGjY3WnsTazOY1TJVbFyzCqNkVHceZggMeT9NVUaicCC02l0Jz6sZ04JwRUuaQ7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这次把 某商业级（com.mobile.demo_target） 从加壳到加密算法完整啃了一遍。真机走 SysTrace 定制 ROM，用 unidbg 离线模拟，主要做了这几件事：环境与思路SysT</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=2&amp;sn=377acdc201dac0f7cf8fdfdbe377dc96&amp;chksm=b04f88077d39f01ff9b9b7d33ae7f849033507a02a3a10c6cfb15b51022695a8427aef9f7c04&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软UFO高危漏洞：无需认证即可远程接管安卓设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0hch5F7gr89iaalMQ7r0pJL2Gia5RRzaMKO7cl3CRlrc9Ryb5pzj2B2fM10Wmn0sicAos6ribwBzmzOYX53xvDf9OTMndTLM5iaee0/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软开源项目UFO曝出CVE‑2026‑73296高危安全漏洞，CVSS评分高达9.4。在特定部署配置下，攻击者无需账号登录、无需用户交互，通过网络即可远程读取安卓设备屏幕信息，甚至直接操控设备执行各</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=3&amp;sn=37bbafc471b9233f1d5d0f24a2d66313&amp;chksm=b0edaf84472a138dec9ccdd6d9f2ba3a7c334f954e21e265b1023e222bf7345875f7e22bbb32&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
