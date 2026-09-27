@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从榜单走向真实业务负载：Kernel Agent 刷新 Qwen3.8-Max 核心推理算子性能]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz6uk0RtBfvRPWMUTlKouIMl67jP33mL47DO9lqjIrZv7RBviaMUwhENG3xPI1JXQYAoxL6vyKKicBmZ1JiccFSY1UWqiaToYec8ic8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 64 篇文章（ 本文阅读时间：约 15 分钟 ）在 60 个真实 shape 上，AKA 三条关键算子线的平均时延均低于专家版本；较生产/官方基线最高加速 1.55×。关键词：GP</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=1&amp;sn=a0132c351d49f0508db1e20e3952d4dd&amp;chksm=cef924ed45a3bf4d476a457f592d2e1709b7c598b5a4011006f2d37e0a92041716059edb7fe9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:53:36 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[实现高质量数据闭环，RoboFlywheel驱动具身智能自衍进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz75PyVq71INGGsyhLxvN8Hw3tIJtT4kDORTm8WFkdEtzBChdUO411CPicIOSayCE6u4VwmE9pRepN0TlAvfMwvSwBhwT9UibicmeY/640?wxtype=jpeg&amp;wxfrom=0"/><p>中国具身智能正在加速迈向真实世界：更完备的供应链、更成熟的制造能力，以及不断开放的产业场景，让机器人拥有了更强的“身体”。但当硬件逐渐趋同、部署能力不断成熟，真正拉开企业差距的，已不只是机器人能否完成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=2&amp;sn=e86e3982aecd1e77775c6759f38c5a17&amp;chksm=ce65fbd1caa98bdb474a1d365762e18505a1fd181e5bb7f7007caa6fabe9a36bf85db6e8af84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:53:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码生成越来越快，软件交付真正的瓶颈转向了哪里？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5KibhyraHGBBnO4icicS9HEibibRCCOO3jS7TTiamWn1zUt6DT8LhrCxonAOxic6OSv1nickuCHKsSE7dvzbrQibZn3SzA2ALnN9FxoGWY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 63 篇文章（ 本文阅读时间：约 10 分钟 ）2026 年 9 月 22 日，阿里巴巴集团 CEO 吴泳铭在杭州云栖大会发表演讲，阐述对「机器智能」时代的思考：机器正在成为思考的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511569&amp;idx=1&amp;sn=ca79c9f4d04fde0b3d550d8cb46c8d90&amp;chksm=ce6cc129f16d8cbaff3b689223b039ff4c991d6be9cf8898da35a8dce0ecefc67967dd51e79a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5wDpJrpAjYtEXibRsnFrgRxREO38OlSvowZaWUUNJfjUciaXSqRtTNfXLY8htKmO1vLfcOhWA1MuiapKeANINibjXStcjy9hsXaCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景随着 AI，尤其是 Generative AI（后文简称 GenAI）的快速发展，AI Agent 系统中涌现出大量新的核心概念，例如 Model、Prompt、Token、Tool Callin</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509356&amp;idx=1&amp;sn=b4b26f0b4332fe031b751b750e935ebe&amp;chksm=ce895d299c15751651de037539da2bf53682967e93a39062901e33d79afb02915627a1573d03&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 12 May 2026 18:58:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Native 时代 —— 研发组织何去何从]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4XmMP4O4pDpicxZsSm1D0wN8EwH5nBXwFianueBtq9X6zK7cpOptY5CZbXHdOPW1OdtHQWDrMIMHkVlbCh6v1H3CL2FllOeGeAQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第14篇文章（ 本文阅读时间：25分钟 ）前言/我们正在看到的事情我们最近做了一份内部访谈，问几位深度使用 AI 的工程师"你日常时间分配的变化"。结果有点出乎意料——写代码的占比，从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509351&amp;idx=1&amp;sn=628125e60d7350335699eaddfaf30fef&amp;chksm=ced4df49891ac4b92596985feb081cbdd63d761e1fb13c244e5cf5d650ebf44b6d6a086161e0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 08 May 2026 19:17:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[elasticpp：重塑Elasticsearch查询性能的C++内核引擎]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5r5iagUibUGTRic4G4JHt8Lfp6ib12tl0WiaypmjD64q0KukTA3sq0nIP5QeTHvuw2fBUd0q5EMUKcYsxVzHmwgOCtQ5hL8q064g1o/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第13篇文章（ 本文阅读时间：15分钟 ）前言/问题的起点使用过 Elasticsearch 的同学大概都有类似的体感：集群规模小的时候一切都好，但随着数据量和索引数量的增长，集群会变</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509344&amp;idx=1&amp;sn=175b485d1285fe82f6efae54e6ee2fae&amp;chksm=ce4158746fbded14c80cae45a511d37aa397f8abffe1f77e901fc2653f9b307056ce3e2b649d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 24 Apr 2026 18:30:42 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[配置即木马：AI Agent常规功能成攻击面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/jHUbrwW0VwVKfS6RhC9maVZ1SU0ibCdyiak5GJ0ESzSEotEcCqNWGjMg2zsCUZmDe5cpT8MZbZIrNXrY0eClW1jvhG13JGTaPNJIQLNexZppM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，我们复盘了两起针对 AI Agent 的入侵事件。一起发生在公网可达的 hermes-agent 主机上，另一起发生在未启用鉴权的 CoPaw 工作台实例上。两起事件相隔数日，目标不同，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247512139&amp;idx=1&amp;sn=a4618997634b0279a84aa1d9c11f6be1&amp;chksm=edf4afba9036f3710b66958c41af727905b3c3b7fec3151919bcbd9a2962b6f7760965b0bacf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 17:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[面向即时通讯工具的输入伪装与检测绕过：银狐类生态中 Hook 组件的技术迭代]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/jHUbrwW0VwWIaH1z7fJ5QDBDxaic5icgxpAqwGSt7FNbvx71Cdeo8Xzds6quODaMicoRZOuErTv1nGUpDbY6FJoEVj4KOiagP7PTz3QgH5o6hD4/640?wxtype=jpeg&amp;wxfrom=0"/><p>开篇SEO 投毒、高强度对抗、拉群扩散，这些都是银狐组织的典型传播手法。现今成熟的即时通讯工具会对系统环境和用户输入的真实性进行校验，使简单的模拟点击和自动发消息难以直接奏效。银狐样本如何绕过这些校</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&amp;mid=2247512101&amp;idx=1&amp;sn=e20fd6231e7a625687b853e30b0220a0&amp;chksm=ed5388f81e2037095a1232808e8c7a40fe8e5cdb5a8f6f15cb7136acad8110cc3ff56b919c27&amp;scene=0&amp;xtrack=1#rd</link>

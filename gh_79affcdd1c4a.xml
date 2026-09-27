@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[好奇，3000万一台的超节点，用户会买吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xTxKx3bk7iaz1kvPUZORrKRAJFnz6ky16vGibP7MouMeFqhrp0jGSo00Ie0rgPU01Pg8a34oiaxt2KK2sOrIk2CPR23y0AianO4dfYNMJceh1zk/640?wxtype=jpeg&amp;wxfrom=0"/><p>花两三千万，买一台“计算机”。是不是有些夸张？但放在AI超节点的世界里，这个数字只能算刚刚起步。N 记的上一代 72卡超节点（NVL72）价格约300万美元，AMD 的 72 卡超节点（Helios）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&amp;mid=2657899921&amp;idx=1&amp;sn=0865c3f86340c53c53dd5e8e8d7d3cfd&amp;chksm=f191d1539a1d3d645e3527a6f7691078c63339d57c48fe06c74e2fce502fe07ee234b1e055d4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 10:50:05 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[专访梁胜：让任何模型在任何GPU上高质量高性能生产Token]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xTxKx3bk7iazk8aEcN23dWjeJJYXKgwLhPqATT2Cd1TnZ6ibGHicRegkuWateDsiatyqvG2KB6gBEN7QJnExwvNB3g5XoVDJzuGem1wBwUV4plE/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 GPUStack 生态与技术创新大会期间，我终于见到了那个人：梁胜博士。作为他的忠实粉丝，这一次难得有机会坐下来，和他进行了一场深度对话。GPUStack 想做的事情很大：让任何模型，都能在任何</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&amp;mid=2657899740&amp;idx=1&amp;sn=e19411ed3301bfdcd07af3d7be57873a&amp;chksm=f16ebb48b486cf86a32182bc4710e61c40e733e5690562154a98b952508459bf84b0958da6bd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xTxKx3bk7iayz3lsOuXqPgz6aLIVibgCm0A5tRhWPBcHCayLibYgONuT5zicz3dkZkVwUrnZxibozgX8DYgdOrXJVq52XibxfgadcFZAfPnicCnmqQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>讲真，作为一枚老登网工，我今天有点绷不住了。中国终于有了真正意义上「自主可控」的IB网络！就在刚刚，中科曙光正式发布首款国产InfiniBand原生无损RDMA高速网络——scaleFabric。这可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&amp;mid=2657893493&amp;idx=1&amp;sn=e0b9e197cef945e7f0df887e685b6b8f&amp;chksm=f1fdea07efd0cb202c2eea360c6b67602594d47f61b6f6750333f251953afccd0d0898e2ebf8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Mar 2026 16:30:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[小龙虾弱爆了，你应该看看这100个最流行的AI应用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/xTxKx3bk7iaxAjpmeYN7utqO2c3yWwOoUv7nibvKR09icvjcXest0PogI0L2oBFE5rs6hDLy1eibLaYUbJZv2AJicJSLfTffOVOWYYAkRWlAgnCU/640?wxtype=jpeg&amp;wxfrom=0"/><p>小龙虾彻底火了，天天炸场，越玩越上头，打开朋友圈，感觉自己进入了龙虾教总坛。但🦞不是AI的全部，比小龙虾更成熟、更具生产力的AI应用很多。昨天，顶级科技风投机构A16Z公布了目前最流行的100个AI产</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI3MzAzNDAyMQ==&amp;mid=2657893354&amp;idx=1&amp;sn=cffb0927c225c59ec11160e7f4609943&amp;chksm=f1f6ff4a219074b1c72aa3e75928cd1a9fad34785e1d2217a409e9ea8eaf183155decfd73bfd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Mar 2026 11:16:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

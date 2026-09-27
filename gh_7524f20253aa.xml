@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[我发现了渗透Agent长程任务的秘密]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2MiaJ39N4P2j35d5xHkzNHyIIic1kMrjibJkcSNMul6JicelX11rOCnLMtxCuquiasa9YLyxeibEUFJWm47QGl5gnUIxwhyeMfHw5rs/640?wxtype=jpeg&amp;wxfrom=0"/><p>由斗象科技旗下漏洞盒子平台发起的“赛博司机计划”，举办了“蛙池 AI Desktop 100小时不间断Agent渗透测试挑战”，搭载长程任务专用Sonic Harness，在高难度渗透评测靶场Vuln</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=1&amp;sn=1d23d6f1089b5f8efa740dfea6dc4c4d&amp;chksm=bc8416fe1deb83cb97f7a3f826fc9a8d9d4e094cf403abfd9d65ba28258b7bb45a505a155f06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SOC告别重复排查，构建有状态能力沉淀运营记忆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX36FibwZUEiaUPrAk9pav6TKlyFYuZC4s2GrricQCIOx96LqZzZkV93h7Ub0bVia9ktRHFIcf3XhjUszWGNORc30Fwt6GaKDfiaoRt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全领域负责人一直在争论AI是否会催生全新类别的网络攻击。但更近在眼前的变化早已悄然显现：AI大幅降低了攻击失败后的重试成本。这类场景已经十分常见：攻击者拿到一个低权限云账号后，第一次提权尝试失败。放</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=2&amp;sn=072b3de6b526977b307e32a704f18fce&amp;chksm=bcbfee0a4333cb20fbe1e87dc80ec291474d2cb774d264fd9b593165f773afc9cf81242cc36c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Oracle PeopleSoft漏洞遭大规模利用，攻击者绕过WAF植入WebShell]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3s0y42WF9LicDibK98Y8hKbALEMqlnzUOhibGAIDWIh6FJ7dcqoR2GBTdtz4qy3rlPtAIKV9I6ltibwwRibydmjmKB7Michozzfa0vA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01PeopleSoft漏洞遭利用Google警告称，Oracle PeopleSoft的一个已知安全漏洞正遭遇新一轮大规模利用，相关攻击活动波及全球多个行业。此次活动与ShinyHunter</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=3&amp;sn=c12ff7718f3eb18baa10ae926c0e1092&amp;chksm=bca14cc3d3223eb0aab75497fd927c56726374bb59d7db22f45acb6a9e980468cd0ac76f5e17&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Citrix NetScaler曝出0Day危机，两处RCE漏洞已遭实战利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RjE08LO4K4l8PyCbicuYdnHk10nYEnrIePKp4ySmCVGGksZYFxibArkDZic865Gm2do1A2qZnyRL2RxUJhXB1zc4LMrpW0oQ1OM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两起RCE 0Day遭在野利用Citrix NetScaler管理员近日收到安全通报，两款未公开的RCE漏洞已出现真实在野利用活动。watchTowr表示，这两个漏洞属于未修复的0Day，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=4&amp;sn=74cc28fe89e99b3403429497085bebe7&amp;chksm=bce8d85138415efc5e137a1589e80805bd0ece4d176b12691d9bb12340950ac39de8f36c18b8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek生成、Qwen改写，AI攻击工具成功绕过两款EDR]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28r1318Vff6SLLJQrwXCuUHyEYm56bP12vicyS3FD5mtPr2vRm90muX0KFKwUxsiaRsHZjNCLSpGnCGyiblnOnRweVynH9rKHzQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员在受控实验室环境中完成测试，一款本地部署、无内容审查的AI模型经多轮调整修改Windows凭证转储工具，最终成功规避两款EDR产品的检测。这一结果凸显，获取门槛不断降低的生成式AI，可能会加速</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=1&amp;sn=37cf2e571e90b81ea308be490bc3f6a8&amp;chksm=bca292a942280594a5f34b41e44a4f0b63b0877e5ed9fe8bf7cf264e19a9c8437dc36a7742ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3uDVm9sPWd0p1dGx93u9HHbpDibmCthK0y1Fo63Nq6J2w2c2kGbZTElBWvyw2CzuzXHQsqJD1emgj6r0vIsPaWmLgLCqnaIcick/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01柏林拒绝支付30比特币赎金当一个勒索软件团伙将近6TB的国家行政文件倾泻到暗网上时，选择视而不见并不会让问题消失。Rhysida勒索软件组织在柏林官方拒绝支付30比特币赎金后，近期实施了这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346371&amp;idx=1&amp;sn=d5d1b2d6160c63f4878a42f46f447678&amp;chksm=bc346998013b1c08a9d59801d5e3d5763d660dd22874c1759948d05f0454595a938cf1807270&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 18:53:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CrowdStrike推出首个防御者智能体SafeMind，专攻自主网络防御]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0CUgU9d8fVTxoq4D0utFIrgvNbVwW4veTx9u7ibCoHLn5A3naGHcPyp50O0G502lL6yGR9zCbleFpsQ0hcLYNBArPBsrl1zUEA/640?wxtype=jpeg&amp;wxfrom=0"/><p>CrowdStrike正式发布SafeMind，这是一套专为特定用途构建的安全模型与协作框架（harness）系列，该公司将其称为首个专为网络防御者设计的智能体系统。在拉斯维加斯举行的Fal.Con</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346371&amp;idx=2&amp;sn=42bf59260d59f700dc1114180805a4e7&amp;chksm=bc7cf8f053589f27ab628dabc9d746fb5731e0d36a319f49927204874abb3752a1b7abbb9db6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:53:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ToolHive开源MCP安全平台，用容器隔离服务器并管控权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0eSGibEQs2nrVXTCU01Tsjviaks8x8NoOpX5EU81vwaiccNXuPtsWeqNSxY3llz6Rs76G3NicKrcfeCKvtZGcUf9FXhialRiaFvnwHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>ToolHive是一个开源平台，可在容器内运行Model Context Protocol（MCP，模型上下文协议）服务器。MCP服务器是一种连接器，让Cursor或Claude Code等AI客户端</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346371&amp;idx=3&amp;sn=bd13fe5ad8ddfaabccdec195b27acbc7&amp;chksm=bc8f859cc479bcce278f443996c35b899395b78c24c7d8b6f94c673e74a99089380b6bcbf82d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:53:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Magento与Adobe Commerce曝0Day RCE，无需登录即可远程执行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3cOR74CHwJjdrxHgJ57cczricgm3jjJs0kIfbAiadLrXSE4mQsTLibnugk3ib1Um6KEY4zWgf7XSv2bqk8ZNz39WohXQCv3PJuBAw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Magento Open Source和Adobe Commerce中新发现的一个0Day漏洞正被攻击者活跃利用，以完全控制在线商店，目前官方补丁仍未发布。荷兰电商安全公司Sansec于2026年9月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346371&amp;idx=4&amp;sn=0ff66d208ee150fa61f562a72f580695&amp;chksm=bc47705472878d76be40f64bc3a4b76750cf1401bacdd3f42c2315db92fe2e68dd0713540191&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:53:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent直取企业网络最高权限，用时不到10小时]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0142uwyWkQJ9l0BphZibhBsMe5vicPb6Kb41gHPceiabKORSJt9s5OwibjXL4MZz0byAHjicgFPte7YsZpl7dekpiavrJZ7qjemmH9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>根据Palo Alto Networks旗下Unit42发布的最新事件响应报告，一名配备前沿人工智能模型的人类攻击者在不到10小时内攻破了一个企业网络并夺取了root凭据——而这一时间线通常需要人类红</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346270&amp;idx=1&amp;sn=429baafa5cd42c128d90faf234ac4d28&amp;chksm=bc020aed2bfcd1720e7dc674cf5ce45f1ed7c7b9d6b0f43a285c33ffb63548328dcf72e48640&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

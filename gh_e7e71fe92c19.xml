@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Le5J2OArIgibu0NEb6Cnw2bILTVGMXOHeOicyfY0lSlvjOdiccNGaDmdIruMIYrUEtz6RuNTPP2QYFvJ4vEUMpRsNg4HVNcMxCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《从LLM到Agent：AI安全攻击面的过去、现在与未来》本议题以一线甲方攻防视角，复盘 AI 安全攻击面的迁移全程。过去，AI 只是一个 Web 应用，攻防沿用传统代码审计直取内网。现在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=1&amp;sn=043014a22d443e7be6abb991e8be078b&amp;chksm=b0302fc4c013608eed3e936e675ac9fa88fa6940ca6b4612eb07fa3bc9fa31079971a54589a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[r0re 自动逆向分析工具实战记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0mPdrmicncQcG1pUEcCtQ9gfvG2yyAZ5TafULoOVIBR40JXyAr062qkn9oMP9KItI0nVJH60QNMiaXicPM8fibvrysL76sw7FwicFM/640?wxtype=jpeg&amp;wxfrom=0"/><p>做 Android CTF 时经常碰到同一个问题：前面用 JADX、strings 很快能摸到入口，后面一碰到壳、动态注册 JNI、native 自解密或反调试，就开始在好几个终端和工具之间来回切。最</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=2&amp;sn=a06e997f8074ecf57710e15cffbca176&amp;chksm=b0de6942842d44a40219309bf67ba70301674fdfcb26067ed92aea19f54aacd77bde0277026d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Citrix NetScaler 2个0day RCE漏洞已被野外利用！CVSS 9.5]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3R5nzfIlibe4aGicxfGxLsCo51TkBPaQ4bmKXdiaUF2DtZJjYwTGdlgS4y4aEPMp5LyGIl9ZcLhU3iba39iaoBUUR5ia9FRiaHoRhQXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Citrix官方已发布紧急安全更新，确认攻击者正在利用NetScaler ADC与NetScaler Gateway设备上的2个高危零日远程代码执行漏洞，未做防护的设备面临直接入侵风险。本次曝光的两个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=3&amp;sn=e8be9a1995e804652e998637e0b72b45&amp;chksm=b087123c9f4185919635cb08c8a8e2e131c916023175fd77af7e3036912b5cd138263abfb91e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[2026腾讯游戏安全初赛Android题解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3nsUcib7AQYaJOrITfuYcqSQP5uIicRQqbjF63uMIoBL4iaLyYgicHAMrEtJ7Mbbu9LwgXeFlJdLNHznKliaGzuhB9YibXEoay1mauw/640?wxtype=jpeg&amp;wxfrom=0"/><p>虽然没有进决赛但还是记录一下吧，比起去年UE做的已经很多了。1.dump libsec2026拿到题是一个godot引擎加godot-cpp扩展的游戏。引擎版本是4.5.1（关系到后面对应哪一版源码，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622024&amp;idx=1&amp;sn=54a9aa955b8185e7701a9bd55a79842f&amp;chksm=b0284d5b3110e2bd4150c11a673a385ad74f391bff24d14c0fe21416990352e116a248b02fb2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2e54iaBtFncejbTYEib344hWZulcZ0QVDKn9xZRoMHuNyZAHibaiaqG4oNicmHdmhXoymnwYm6wicXDyAQyVXaOspnCEIInacDmMI7k/640?wxtype=jpeg&amp;wxfrom=0"/><p>重磅官宣！弦盾科技即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619249&amp;idx=1&amp;sn=e7895bbe3704517944ab241685a92534&amp;chksm=b0d3db8bdb9ba17a539652a534b3c3aa8d45ac7fac31122a70270ad6e7e2ebdb22e79c1f3ad7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 01 Sep 2026 18:00:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PH 钱包 App 注册协议分析与还原]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3th1KUGlD0EvtW47uwfTPDOFb6bl4cibtF6pI6REalTdic0ia7cB4COXZqLUehnqMqNbPVMibFZxxJicWWd1ibtOcNZVKbdTJDVXr5U/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标 App：com.globe.gcash.android（GCash）6.00.2 build 1213对象层：自研 DynamicSecurity（RequestEncryption / GAE</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619249&amp;idx=2&amp;sn=551475d99a5204f2ea807b999cb90337&amp;chksm=b0594907bab493089f424ba4ffa5ae793b7e9fb9b21fe8cbc1c8a2b305d6f12c54da8fc48968&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 01 Sep 2026 18:00:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[恶意网站主题暗藏攻击链！黑客借Composer投毒窃取iPhone加密货币助记词]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0tkic7BgxOWfpTuBhhJG1NMHsKzPdvtfYfd4lNT4s3DiamZ4AWicvZn95FFawZlibmqtnNuWAEERFCkvg1H1qan235n8wdJ3u3ZB0/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期Socket安全研究团队披露一起供应链攻击事件：攻击者篡改13个Packagist网站主题包，通过越南影视漫画流媒体网站，向访客植入恶意代码。普通网站管理员在不知情的情况下安装恶意主题，所有访问站</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619249&amp;idx=3&amp;sn=84142bbb9dd6116443f2122283847580&amp;chksm=b0fdfe811ec9bf17919b5cdc4fec2123c87f76055898e8864ed5f3e0ee58b89201cbd17ce3a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 01 Sep 2026 18:00:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[仅剩10天！SDC2026『议题征集』9月10日正式截止，欢迎提交议题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0MbAeD25BHkC91AyFwqf1vthkuKjlokWS0qFEYbJWrLbDTIyczNMXGt0L1fL6xSQ2kibK0m0V3NhJiaibbWiaLZD6n2lo8mNQSEp8/640?wxtype=jpeg&amp;wxfrom=0"/><p>⏰ 议题征集 | 9月10日截止从首届安全开发者峰会启程至今，SDC 已历经九载深耕。我们亲历网络安全行业的高速演进，也一路见证无数安全开发者的迭代成长与技术突破。2026，属于 SDC 的第十届里程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619143&amp;idx=1&amp;sn=e439f1791d5352b3ab2ee823dd02fb1c&amp;chksm=b0155e804e26090139505220e23821206830e23a499e226803c696c19ea4231bb184ae50e2fe&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 31 Aug 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
