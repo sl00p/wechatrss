@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 3.1 万 Star！开源堡垒机 JumpServer 正式进入 V5 时代。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1jhSa6aOOYWMch6wVoN6ACbHzpQlDT4PyToa3GiaW6Uruk2rU3xw8JhicW3DAB7Xj4iahpE4q0THYEMahDicO0cs09kptJszib22wY/640?wxtype=jpeg&amp;wxfrom=0"/><p>JumpServer 是一款开源堡垒机，也是一套面向企业的特权访问管理平台。公司里的 Linux 服务器、数据库、Kubernetes 集群和内部管理后台，都可以接入 JumpServer。再由它统一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537439&amp;idx=1&amp;sn=b9a163563c14af097e993f47703ba2a7&amp;chksm=f8f1c49d505fd869643a52a3d8bd2708c05dc357aca994cfa5f18bdacf0ead8e30225f51e18e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 11:11:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[狠狠收藏这个 2 万 Star 的 GitHub 项目，堪称高性价比人生指南。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1LUXybPQIBKubNiblkO64L64uE9hBtZoxeibrNB3zUks7WZYmZ65NZDo3mt2zFmtEBDhRuyLX3wBr12rp9zzXcuFiciaHCQgtyLEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>HowToLiveBetter 把 612 条生活建议整理成了一份开源指南。这个开源项目里面的内容有点杂，却都离普通人的生活很近。比如怎么少生病，突然被裁能领什么，租房押金拿不回来怎么办。还有哪些兼职</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537427&amp;idx=1&amp;sn=9e5a72e8927a484a4debcda3edeacf6c&amp;chksm=f8afc462e600f6e35c06bf93b7328287734272bf9d04f77b6f2078993df6b0fe59778a95ac8a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2v2WW9Pte8meGoavPbo5gBBaMhIicqWLzdibcMvFgpPZQNfBiar2HV3Xjwpp1gkRxCjQDR3vJic3ic7fMzX3lk6fp0d71T92YfichwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在让 Agent 做 Word、PPT、表格文档处理。有很多 SKill 可以用。比如 Anthropic 官方提供了 PowerPoint、Excel、Word、PDF 这类预置 Agent Sk</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535342&amp;idx=1&amp;sn=ed0bff20ca593bc05d8fa0f144998862&amp;chksm=f85fe93e8e5fb12883ba8f3557e51b868b9f1d617a13691f052f6580c04d4dfa3f9f90d422a8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 15:06:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上已开源，有人把《哈利·波特》中的笔记做出来了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0zIpSGsBnq4seoJ9WRvbXTS89b62S5XKG1aicibq9uGWYv1icNwuPo06vm8NjLsX7t5mdUKasPITIDZ1tbQSvroKGCicLS74zUF6o/640?wxtype=jpeg&amp;wxfrom=0"/><p>前段时间再看哈利波特的时候，看到一个剧情。小哈利在汤姆里德尔的笔记上写字，停笔等一会儿，刚写下去的字会慢慢消失。一行新的手写体从纸面上浮出来，像是另一头的汤姆里德尔给哈利的回信。今天推荐的这个开源项目</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535336&amp;idx=1&amp;sn=bf1b478056bfb8d0456da756c3e23412&amp;chksm=f8cf15f476bfc69f214262c9f6ceab6ac0258559eb96e851b1219da67e8273aaa9772659de47&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 12 Jul 2026 12:44:01 +0800</pubDate>
     </item>
   </channel>
 </rss>

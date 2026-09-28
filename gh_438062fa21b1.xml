@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Native 回忆录：稳定性前端 S1 实践复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz64JtNG8w83iaK077RpdXXTGuxZ4TeNr7ic5BdVibr91OCMoLCvareCYZRicwcQOTV5xBmjJNY9kHbW9adRZgco0IGM5zZASfIso0M/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 65 篇文章（ 本文阅读时间：约 30 分钟 ）开篇：春天的一个词2026 年的这个春天，「AI Native」还是一个在集团内部被反复提起、却很少有人真正跑通的词。对多数团队而言</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511817&amp;idx=1&amp;sn=5284ab741c2a5ccd9520c86e9261770d&amp;chksm=ce2d0b3bd8d8a59d6a9a9651871914ea6ea1276f7929a7cb44b2d9454b6815fbf5d29baa09f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 20:00:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从榜单走向真实业务负载：Kernel Agent 刷新 Qwen3.8-Max 核心推理算子性能]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz6uk0RtBfvRPWMUTlKouIMl67jP33mL47DO9lqjIrZv7RBviaMUwhENG3xPI1JXQYAoxL6vyKKicBmZ1JiccFSY1UWqiaToYec8ic8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 64 篇文章（ 本文阅读时间：约 15 分钟 ）在 60 个真实 shape 上，AKA 三条关键算子线的平均时延均低于专家版本；较生产/官方基线最高加速 1.55×。关键词：GP</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511604&amp;idx=1&amp;sn=a0132c351d49f0508db1e20e3952d4dd&amp;chksm=cef924ed45a3bf4d476a457f592d2e1709b7c598b5a4011006f2d37e0a92041716059edb7fe9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz55StaLMHMm8e1t62KibeY8edobhaqiav0GzwqVJd8gClarMvWO4zpNaXpF0QmI3TVARJJyOrOLDb4yicbicXs7icWdjmEOyCjqERIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，阿里发布Qoder 1.0，从AI IDE升级为智能体自主开发工作台，用户只需专注需求定义，Agent团队即可“自动驾驶”，自主完成执行、验证和交付全流程任务。目前，Windows、macOS和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509360&amp;idx=1&amp;sn=6d017a91cc184f80d2fc5642702d4ab8&amp;chksm=ce74593f89733e971fc7f1197dbaeaf9b8a091070437a94eb77d1a90f7c4e8a4c467d3b7b640&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 15 May 2026 14:21:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里巴巴&amp;蚂蚁 LoongSuite GenAI 可观测语义规范：从统一数据语言到规模化落地]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5wDpJrpAjYtEXibRsnFrgRxREO38OlSvowZaWUUNJfjUciaXSqRtTNfXLY8htKmO1vLfcOhWA1MuiapKeANINibjXStcjy9hsXaCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景随着 AI，尤其是 Generative AI（后文简称 GenAI）的快速发展，AI Agent 系统中涌现出大量新的核心概念，例如 Model、Prompt、Token、Tool Callin</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509356&amp;idx=1&amp;sn=b4b26f0b4332fe031b751b750e935ebe&amp;chksm=ce895d299c15751651de037539da2bf53682967e93a39062901e33d79afb02915627a1573d03&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 12 May 2026 18:58:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

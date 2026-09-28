@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[豹趣助力SDC2026 | 告别“设备堆砌”：企业安全的终局，是构建一体化防御体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0f89VZHf0hVBOIaPgpTyhfb7Oiaujr0rOHAq5ChlCYXjs7ZibnicYB2qcjGJzt3YTZX7mPTic7dPqmRHicIGDj00VBC5ZzOiaChKfvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>金山毒霸企业安全 · 产品与技术服务全景端 · 网 · 数 · 表 · 智 · AI · 人一套系统化的企业网络安全防护体系豹趣科技&amp;名亭科技·SDC2026精彩预告AI，正在重新定义攻防。当智能体开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=1&amp;sn=b05868a554288c31afa183515d979414&amp;chksm=b0b3d05bf9da28e67591dd3186f07d8865a21f95c7bc01c518a206cd75805ac26281186e09d5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[V8 漏洞利用入门：从 StarCTF 2019 OOB 到任意读写与 WASM RCE]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2uhAeEcZhZHrVTveD7icBRgmrRIhHxv4bUicqzHanuBcXrokJLhfOCeKjxN2Qd1wNtAYrrFme0XFDY2P78FOvdOAU9Et7ZdIzLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建原文作者选择在win上用WSL编译，笔者因为电脑比较得劲就开个ubuntu编译分配了12G内存、16核，time autoninja看了一下大概9min就好了。这里得先装一个git，然后装de</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=2&amp;sn=c88b62cdaa116b75541f7dec45170bd1&amp;chksm=b00bed1012e1e8f3a707052007a9df59eba2d30122fcfeb0a437a979a3172b679ee75da88f58&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[7分钟摧毁整个云环境？Storm-3168自动化攻击暴露Azure身份权限风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3csCOytYsvfXNr5YbzEJ6n9vDcN3FgFnQdrvaxPWTMTEtgPQYdbo0FAfcTXbKC79xN8Z58ic6dia8AZjRSeNyFSQuibh0ULB2xWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软追踪的攻击团伙 Storm-3168 被曝针对 Azure 环境发起高度自动化的破坏性攻击。攻击者利用被盗的服务主体身份，在短时间内完成资源探测、密钥访问和批量删除，造成大量存储账户、密钥保管库、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=3&amp;sn=17efaa325605871d756f83c8049c2922&amp;chksm=b03e8d4242d518a614a08069abd602498d1c95cc17036933c73b415f7f99eef6cac19f4297b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Le5J2OArIgibu0NEb6Cnw2bILTVGMXOHeOicyfY0lSlvjOdiccNGaDmdIruMIYrUEtz6RuNTPP2QYFvJ4vEUMpRsNg4HVNcMxCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《从LLM到Agent：AI安全攻击面的过去、现在与未来》本议题以一线甲方攻防视角，复盘 AI 安全攻击面的迁移全程。过去，AI 只是一个 Web 应用，攻防沿用传统代码审计直取内网。现在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=1&amp;sn=043014a22d443e7be6abb991e8be078b&amp;chksm=b0302fc4c013608eed3e936e675ac9fa88fa6940ca6b4612eb07fa3bc9fa31079971a54589a1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K26RG8jLN3seBxaGm4g7SamKRL9Gia8AADdv2Lhke103aeQWZXZxxXog7xplYU8kBXlgiafIdnTn579CibAKicK8rax4jE5DRKjJ9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>智能门铃设备长期以来都是硬件安全问题的重点关注对象和重灾区。然而许多这类设备为了将成本和功耗压缩到极致，使用裸机或RTOS，配上各种偏门，找不到文档和SDK的国产SOC，使得对其进行的分析变得十分麻烦</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=1&amp;sn=05ca2905264dbe3e944570fa54ae6003&amp;chksm=b0d922b5fdac549b6aee5eacf268a39e33d9e60006bfcab699c5941d6133677d813621bfa2c1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Silver Fox（银狐）组织发起虚假软件攻击，篡改Windows防御机制实现入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3MfpEjssfh8k4nojI8nj9aaXzynxfTMMbYffGKdkkm3L3mDFB1aZaibWK06X9gX19WPGhfRAum9mPmls9ViaBJsEHTQHL0YaFIY/640?wxtype=jpeg&amp;wxfrom=0"/><p>*该攻击主要波及国内相关业务主体及中文用户，医疗、制造、政企、教育等多行业均出现受害案例。近日微软披露一则高危攻击活动，与Silver Fox（银狐/Yinhu）威胁团伙相关的攻击链路正在野外活跃。攻</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=2&amp;sn=c67c60f5a7b426b8cd60d7b614638fa8&amp;chksm=b070f4cdb5b9f53e845ba53289c4ee9d91c8ce02d2c2ccde7a0d8baab67fb91a577aca13a682&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=3&amp;sn=26cef62fe07f9ed9fcaf516b3016d24f&amp;chksm=b0a259e8e68f1848ccfbaffa19b4eb626f038f0b47d15347c3adfe09f36e4bbad2463995539d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人机共智·重构攻防｜弦盾科技，助力第十届安全开发者峰会（SDC2026）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2e54iaBtFncejbTYEib344hWZulcZ0QVDKn9xZRoMHuNyZAHibaiaqG4oNicmHdmhXoymnwYm6wicXDyAQyVXaOspnCEIInacDmMI7k/640?wxtype=jpeg&amp;wxfrom=0"/><p>重磅官宣！弦盾科技即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619249&amp;idx=1&amp;sn=e7895bbe3704517944ab241685a92534&amp;chksm=b0d3db8bdb9ba17a539652a534b3c3aa8d45ac7fac31122a70270ad6e7e2ebdb22e79c1f3ad7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 01 Sep 2026 18:00:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

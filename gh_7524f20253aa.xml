@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1B0JT7jcv0CicoRCcBtS7Qy3rocZYDqnxS3PGfbb5DR9szohAiaiaGEkH1fuBzqhPicEVJDjeiadrRWkiclIdB5L3Y8J69mV9csp3JA/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月22日，第十六届网络安全漏洞分析与风险评估大会（VARA）在重庆科学会堂举办。本届大会聚焦人工智能发展与安全，围绕人工智能漏洞治理、网络数据安全、智能化技术应用等前沿议题展开深入交流。斗象科技受邀</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=1&amp;sn=6fef31c9109bdb563edd2328ba7398a9&amp;chksm=bccb6e82b585e97417244773ac233950372711780ff6a40c1c0da3e2a24c94a4ca206709bc69&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[企业开始用AI了，安全怎么测？今晚19点直播聊聊]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PgKKyJkafe9PYOAZDwXPpLdOKgDYf6bx0v3Nok6oPOtNUvCHxa5ehltZranXiaATCRMpVKjuFURtu5CeZWIvjufONNBIASWaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型正在进入企业的办公、研发、知识库等业务场景，Agent也开始从回答问题，逐步走向调用工具、访问数据和执行任务。但新的安全问题也随之出现。敏感数据会不会泄露？Prompt注入和越狱风险怎么发现？当</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=2&amp;sn=fce36276dabc881118240d3a3d35f3e6&amp;chksm=bcf01ad789d2cd5b386280bc3f4b1a85cfd00e7f0b06adc4c418f1c429ad571de90bb202243a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[英伟达发布开源AI Agent安全平台，覆盖全栈三层管控体系]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0xpzfTdcxqWzEZXiaynBm8bOjDwVIKgwyn6AiaiatGgPlOP6W6oFVGib4esuUxfTp9fJpmicgMplJ19alcibAqcjIAic42OklCbkCaok/640?wxtype=jpeg&amp;wxfrom=0"/><p>英伟达是全球在AI Agent领域投入最深的企业之一。因此，这家芯片厂商希望保障这类自主软件系统安全运行、不引发风险，完全在情理之中。今日早些时候，英伟达正式推出免费开源的Nvidia Open Ag</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=3&amp;sn=505a4fe844ffe546558061832708590b&amp;chksm=bcd8707696aca2bf334895d745445c0d1c1e5d2bd28585ec7c6442df0b839a17e5d38c391874&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Python MaaS窃密工具曝光，覆盖17款浏览器并窃取多类凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0pjWoocFZF9Jsk4RWVqX7NuyZbj1FCyy9CC4YXqUDWAda9ad44brwROkr9tOnVyfUMDLxhUqXPXBGkOwLsCZTIVDGnobZychE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于Python开发的恶意软件构建工具，可将单一窃密程序打包为适配不同攻击者的Windows可执行程序。该工具内置的载荷会窃取浏览器保存的密码、支付卡信息与Cookie，再将数据发送至攻击者控制的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=4&amp;sn=d493bb915a827b66837888f3656d6af3&amp;chksm=bc33bc1ca904daad3c1c7e100eccea422fddda3755b2517dba397779c163cebbeaa73a4d638f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我发现了渗透Agent长程任务的秘密]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2MiaJ39N4P2j35d5xHkzNHyIIic1kMrjibJkcSNMul6JicelX11rOCnLMtxCuquiasa9YLyxeibEUFJWm47QGl5gnUIxwhyeMfHw5rs/640?wxtype=jpeg&amp;wxfrom=0"/><p>由斗象科技旗下漏洞盒子平台发起的“赛博司机计划”，举办了“蛙池 AI Desktop 100小时不间断Agent渗透测试挑战”，搭载长程任务专用Sonic Harness，在高难度渗透评测靶场Vuln</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=1&amp;sn=1d23d6f1089b5f8efa740dfea6dc4c4d&amp;chksm=bc8416fe1deb83cb97f7a3f826fc9a8d9d4e094cf403abfd9d65ba28258b7bb45a505a155f06&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2m9sT7vap9iccORYWIUIubGFCeqWmdeglpkES0VV50UiaApHFRl2ibERDlk53UNLv17DEejMIE7XfCCkhicYrcRpFibQpibFuLdibibNo/640?wxtype=jpeg&amp;wxfrom=0"/><p>韩国汽车和媒体行业组织近期遭遇一款针对 Linux 的隐蔽入侵工具包攻击，该工具包旨在实现长期访问。恶意软件藏匿于负责管理网络流量的软件之中，使攻击者能够监视用户、窃取信息，并篡改通过受感染服务器交付</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346449&amp;idx=1&amp;sn=3cf6800994ed2fe9ac36c0cb67afd438&amp;chksm=bcbc2b90b8c91482573bf22f1e3ee9714f6ce8e3c92059b2813600f6d85f6139ebd6507f3eca&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 08 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MikroTik RouterOS高危漏洞链遭攻击，12万台设备SSH暴露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1z0PtXq12ceZGEasK9iaaSD7c79bx8xYFgtAVtaVEMyh5CgFicXJwFuZZEnqTD5Rb0l0SMM4uvUZOkBoePjkFM1R5z8ER8ibsXibc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞链与攻击方式CERT Polska 发现，攻击者正在利用一连串 RouterOS 漏洞，劫持对外开放 SSH 端口的 MikroTik 设备。波兰国家 CSIRT 团队 CERT Po</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346449&amp;idx=2&amp;sn=8144c4c3a594c29dd9b4937631292475&amp;chksm=bced63ac1a9529c32607af7898d84aee484e9127eaf78c0022ebede2c612ddcb86df6d18959d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA曝GreenSection 0Day漏洞，公开PoC可触发内存越界写入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0iaTQ9aJIh9u5K3QcjjCW9zEDfHfpNytGS0mbEffQzj41oEvMKDfBK0IfnlToWrfGa8QlYB8eibtkEiaNOw0VBSyuIOreoriauttI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Chaotic Eclipse发布GreenSection安全研究员 Chaotic Eclipse（又名 INFINITE NIGHTMARE、MSNightmare 和 Nightma</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346449&amp;idx=3&amp;sn=afde5db8f713a40bf32bfa45ba418773&amp;chksm=bcec92b91aad72a9530158fb15175248b76e858f24cb0419f980bac15fc3d28ab0e07546ea9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[关键软件漏洞数量激增，严重CVE数量飙升至每月600个以上]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0tMDQvaEdVneOsicBQMaMnXic36s9RnsZJtXe098TGuJYCDoG7DrQIAYnDCeo2QoHBKictIXEQvRHBo7VoxBQA6WhfDBhYSgbsdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全行业正面临一个变化速度超出大多数防御者跟踪能力的威胁格局。Epoch AI 的最新数据显示，自今年春季开始以来，各大科技公司的严重和高危漏洞披露数量急剧攀升，从每月几百个的基线水平飙升至远超</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346449&amp;idx=4&amp;sn=2e0ab4f2801a8c4aadfb8e4d80f8a399&amp;chksm=bc75f35ecc8eec5cff1e84860c92e4084c3faa66e66de116c9949f7512935da7efb9c07efea9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[柏林遭勒索软件重创，近6TB数据泄露牵出国家机密]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3uDVm9sPWd0p1dGx93u9HHbpDibmCthK0y1Fo63Nq6J2w2c2kGbZTElBWvyw2CzuzXHQsqJD1emgj6r0vIsPaWmLgLCqnaIcick/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01柏林拒绝支付30比特币赎金当一个勒索软件团伙将近6TB的国家行政文件倾泻到暗网上时，选择视而不见并不会让问题消失。Rhysida勒索软件组织在柏林官方拒绝支付30比特币赎金后，近期实施了这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346371&amp;idx=1&amp;sn=d5d1b2d6160c63f4878a42f46f447678&amp;chksm=bc346998013b1c08a9d59801d5e3d5763d660dd22874c1759948d05f0454595a938cf1807270&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:53:46 +0800</pubDate>
     </item>
   </channel>
 </rss>
