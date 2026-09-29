@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个忘关的开关，与企业Agent的全栈技术账单]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhE4QN9S6miaibVDWpEiaicVeUnuu5e9PNsFPELlCGASD4qjoxVFUbRhuOfaXaq4f7pfAyMtJQjLvhaD3ho10nftVib0Yzjx0d2HhVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 花田 云栖大会企业级 Agent 论坛开场前，极客邦科技创始人霍太稳接到一通电话。员工告诉他，上月上线的一个 AI 应用，原本预估 Token 费用约一万元，结算却花了三万。原因很简单：一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=1&amp;sn=4ae602e442b0886211edb1bcba525d57&amp;chksm=bcb913069a7e04402c7dd15c440caf9595e7e520fb191db598379a60bd0b19bea432bd8a5459&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaL6o4hcx9UyglYibgibEIar4Zmib9oXLE7VodGYBc7RH8SicbQwdMz6dzsmWxljT77ygRsR9UJPL1yB4mXVapk4JvueqO5NnvvYKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 杨过 复杂 agent 任务在后台跑，对话在前台继续。实时模型与 Core Agent，开始按两种节奏配合，带来全新的交互体验。 AI 助手正在进入一种新的工作节奏：一边对话，一边调用工具办</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=2&amp;sn=a27ec193ba65fd966c3613af325d06f6&amp;chksm=bc5af785ccac8109c0681c64bdc177e086fd5155ec7116b885800a0dd28ff317dfaa4e1623ee&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能时代的代码正在变为只写且可丢弃的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjCvxL9pnNJYlamghwPkCcR0DI6y9XPFSonCLW3PxIrfVbA5BAYUDibOL8N1ZExNbicW6dqzd8rGosVs0kL3fQH11tnibMfneG5NI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 张卫滨 Phillip Mortimer 在 QCon London 的演讲“软件工程中的复杂性与创造力”上指出，人工智能（AI）使所有代码都趋向于“只写且</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=3&amp;sn=d085f57fa4d8e3452495d409cf5d0d16&amp;chksm=bce493e46f756b4da21735be51ef00987633a8f3bbcbf1959dd79a3d7c1b59d74896d09624af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Meta 开源 Astryx：面向 Agent 的 React 设计系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhJW6t9Iod2esicsicZjdEXgNZTIqPkEfXWic1OjnoywAYkficBX5icHjff3rwboyMxbXbFHtuospaB5ibfNhClmFM4Hy5RSgRmvicwDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Bruno Couriol 译者 | 马可薇 Meta 最近宣布推出 Astryx Beta，一款由 Meta 内部经过八年开发而成的开源 React 设计系统。Astryx 基于 Reac</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=4&amp;sn=aa82dc82df19a3693a843a0eb328505f&amp;chksm=bcdb5ad00c21de94ea22751997aaf7c53078d0422ed2e989094d63ac9f287d19b9f97312aff7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjb6iaNjL0uagj47PfQib3GFIUldxS1o0VHJO36aKU4TZ4K7DKWAEppgdm1T7iaHSFzDhbAwwgFIAn7O2AubSzRd94MCUoILnibOHg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=5&amp;sn=21ee9485fad024641f31e45add768834&amp;chksm=bcbadeca8194c458283dab984a34ccfc9aa3180789e7a6881e7f701bdde66485a4cb08f068d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia0ZIAxVleibSg2VicJ5uIXxkF6MpmWnSCwQrzMT0Diap7GgNdnYjsw72u0PLhGV6ibh6vNBLhYyfnPvecl0nKM1K3ErQPBh7uEQEM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 凌敏 去年的行业大会，主基调还围绕在模型能力、推理成本和 AI Coding 上。Agent 很热，但大家追问更多的是它能做什么。到了今年，讨论从能力探索进一步走向生产落地。Agent 像一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294264&amp;idx=1&amp;sn=c685372f83ca2bb18a869320087fc1a4&amp;chksm=bc3c2192b8712782b5a519990bd6519da9fe986b1245defee2f5c7dcf7e93f8194e41c2c1fc6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgXBzWDOTl5SwVQuGXYcD57O5R3icD3D57Aklye49BnOTxH4kfnfIm8hnibkG7TSzf8icyv8OuA2o7pu7m8BkbK2G6vfcYcN7ZH3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 四月 纵使会后空翻的机器人再惊艳，也应付不来以时效和成本论输赢的流水产线。当科技圈还在为人形机器人叠衣服、打拳击而狂热不止时，真实的供应链产线却是另一番景象。Interact Analysi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292728&amp;idx=1&amp;sn=09f813822e886c5edcf65f5c5a746ce7&amp;chksm=bce12c8c6b30981b1dcc18960a0f4309415fad4c4d81b18e2d28a33f0791f4feb466cc94e120&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 19:07:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNian7jBlbp8y4ckW8DPBHuOqIyRNyG2J4PdXzCwVfIxgQptpeiagkaD4a5ictMoDib97ibxJC8x1bY6Oz1hHmGkTmGF59diaSFvWRWibs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅1Meta 发布 个人 Agent Muse，主打安全和隐私 当地时间 9 月 8 日，Meta 正式发布个人 AI 助手 Muse。与主要负责回答问题、生成内容的传统聊天机器人不同，Met</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292728&amp;idx=2&amp;sn=0de09a4c09c7d688407e551e1d375770&amp;chksm=bcb7bec1d31a2fbf0d246702636e29ea2cf632e6f99087ed1fe407a3f5f4f23bbfcc3b731df0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 19:07:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgeUq1Rib91rFC2ApY1fvHibUXb1BUmqT7V9Uktch6EFib6icBHYYHXMRhKkbGV7EibTXsrECx1Fuz2YiciasKk77DLHTfG7Cqguz3FM4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 明知山 Cloudflare 在其智能体周（Agents Week）活动中发布了 Cloudflare Wallets，为 AI 智能体提供稳定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292728&amp;idx=3&amp;sn=ca4ff4f0e8bf7ed4c855d71916b1a605&amp;chksm=bccd9b2b0ebe5b11679708939c5de7e500bf583cb4ea9637fad7e222d4d6616cfbf7f11c3fea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 19:07:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FlexGanttFX 正式开源]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjS1mQ3icu5T3Qelz6qroIsZFW3A8iaqOH4aCxPKTxKYVmwsgyvoic9icbqChnh8AR9MVvqGDQYGWbVaD7emxw463x81j4TQvib8MnM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Erik Costlow 译者 | 明知山 Dirk Lemmerman 已将 FlexGanttFX 开源，这是一个用于生成甘特图的资源调度框架。Lemmerman 在开发 15 年后选择</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292728&amp;idx=4&amp;sn=3022b565d11096cd901afc4b723e3b74&amp;chksm=bc8dcbb3da053f7eff7d6196ef5be4ad7668259f0a398d66f1799174fddcc9422de626090fd0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 19:07:33 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjPnB2Qbia52K0km7vziaXicYGicb1FpGqIgiaTc0E1bichea3PhcbkHibciaCJ8Ur9a2V2ITHdKEmbzbZcCDP8qrGgsoO5dz8evQqTicgY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 OpenAI 今日宣布，称其已经找到纳维 - 斯托克斯问题（Navier-Stokes problem）的一个解法。这是数学界长期悬而未决的重大难题之一，如果相关证明最终成立，则无疑</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=1&amp;sn=bcfbb4b993b2cb5eb0e32bf0d6f7c4cc&amp;chksm=bcc5cc296ce1eb0d15bc18d96a9e9f67964835e4272928fd7e80419532fd5759f9493c2b6f61&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj8WHCSQtBQmUwicx5Bxe2MEbicRFTntkAWsbeeqU4jJM61gYOGbQ3SB4wXg7YYdtrF7Fic6VvPiakBTZCvJiaWzCNKicvEb1aCMYjGA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜Janakiram MSV 译者 ｜ 田橙 策划 ｜Tina 当团队评估 AI 编码智能体的成本时， 往往会仔细审视模型。但最近的三项基准测试表明，智能体框架，也就是引导模型完成任务的软件，可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292636&amp;idx=2&amp;sn=32fdeba4fa9c536f57c1f9cfc704b31a&amp;chksm=bca550730db769982007d0936d1c4a8455037848d8667677284fc3d6296614477f2306c90513&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 11:53:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

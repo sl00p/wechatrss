@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[高德本地生活分析 Agent 的 AI Native 实践全景（万字长文回顾）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6t0iaoU2HicsYr4haP6KWej3O89dO10lBm9s6XicSIolRn7BTfwwvcqlBlRVgSQZJO4b80pxLFIams2XolicLX169L3Q9o6TKC2Yg/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 66 篇文章（ 本文阅读时间：约 30 分钟 ）FY27 的 S1 过去了。回头看这半年，像一场拉长的复盘：一个问题刚以为讲清楚了，下一个问题又摆到桌上。这个 S1，作者主要在建设</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511846&amp;idx=1&amp;sn=e281c6ff590a8209e7d6e2719ee4e58a&amp;chksm=ce72256eeee2c85cedf9dbc8c90ed8afb246743f5485b0db9785c7e841c94894f2d5370ae230&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 18:07:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Native 回忆录：稳定性前端 S1 实践复盘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz64JtNG8w83iaK077RpdXXTGuxZ4TeNr7ic5BdVibr91OCMoLCvareCYZRicwcQOTV5xBmjJNY9kHbW9adRZgco0IGM5zZASfIso0M/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 65 篇文章（ 本文阅读时间：约 30 分钟 ）开篇：春天的一个词2026 年的这个春天，「AI Native」还是一个在集团内部被反复提起、却很少有人真正跑通的词。对多数团队而言</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511817&amp;idx=1&amp;sn=5284ab741c2a5ccd9520c86e9261770d&amp;chksm=ce2d0b3bd8d8a59d6a9a9651871914ea6ea1276f7929a7cb44b2d9454b6815fbf5d29baa09f6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7gDNL7c4j4EYGlXuebP1fLOeapLiaXVJIPtcoha195d7hicyeITmHq50NOTFsUTP9fACGIUJDUCXlkj7WFgV5emfkpvW0cUhotg/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月20日，在2026阿里云峰会上，阿里发布基于平头哥新一代AI芯片真武M890的128卡超节点服务器，搭载互联芯片ICN Switch 1.0，通信时延低至百纳秒级，可让128张AI芯片组成一台计算</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509491&amp;idx=1&amp;sn=8e06097c0e673efab4b6c2886a7d4dcd&amp;chksm=ce3c0594447dc30ad4d6788e2e2e2747633b1340441dcac3f8e26c9150570a787f9d6706deff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 20 May 2026 19:03:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Qoder 1.0正式发布！从AI IDE迈向智能体自主开发工作台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz55StaLMHMm8e1t62KibeY8edobhaqiav0GzwqVJd8gClarMvWO4zpNaXpF0QmI3TVARJJyOrOLDb4yicbicXs7icWdjmEOyCjqERIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，阿里发布Qoder 1.0，从AI IDE升级为智能体自主开发工作台，用户只需专注需求定义，Agent团队即可“自动驾驶”，自主完成执行、验证和交付全流程任务。目前，Windows、macOS和</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509360&amp;idx=1&amp;sn=6d017a91cc184f80d2fc5642702d4ab8&amp;chksm=ce74593f89733e971fc7f1197dbaeaf9b8a091070437a94eb77d1a90f7c4e8a4c467d3b7b640&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 15 May 2026 14:21:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

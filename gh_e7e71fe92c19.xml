@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1rdv4paBFAwsFwPFKpibGjSX7iaibDQp7ibSO1tWWrTgAGicicbZF1BDenSIo6baRePawIDYfBRvhNJVj3xBeYDkQZxok5vibGNmHgms/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？》当前自动化渗透系统正陷入“架构越来越臃肿，实战命中率却不见起色”的怪圈。许多团队把精力耗费在多智能体状态机、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622470&amp;idx=1&amp;sn=ebbca49bcc3901e8e69a6e835d17c079&amp;chksm=b0c161bd820bff810834641a03e269f7aedaa6ceaf76743839a0a54d48030bc4748891bdcdd4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于HyperV的软件保护编译器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ReKOtmlcx3CMG67eJyAqeH4AfZtwjrxc0dNqwJDQwaAiaDuoHEqWDLI7NKnias0NrM8DPGOPjUXYDW7Wyp0eicL9ib2Kp1caJBrY/640?wxtype=jpeg&amp;wxfrom=0"/><p>我于2025年12月左右创建这个系统，我称之为太虚幻境，GhostVeil Protect System，太虚的本质是一套编译器工具链，并且作为我的本科毕业设计存在，所以有些部分的核心代码不会公布，因</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622470&amp;idx=2&amp;sn=1a26fd844c21c1f82293e7d5702aada4&amp;chksm=b00490fa7a9273f07dea55a7afba63d2c96a35019d8203163959fc75fdc22f9522cac9da40f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MCP Python SDK 高危 OAuth 漏洞曝光，AI Agent 账号存在被劫持风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2DrXzKT0AjSgD1SKOYia7ccSMbBsTPnEgdf1XgPeZ3ybEQUDwygfrDcPRLHtgBTiaCz2SXR29ibEYqOgfc12IIOlsyicGuIA4iaUQc/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，MCP Python SDK 官方版本被曝出严重的 OAuth 认证缺陷。攻击者如果能诱导 AI Agent 或其客户端连接到恶意 MCP 服务器，就有可能窃取 OAuth 认证材料，并最终接管</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622470&amp;idx=3&amp;sn=5c9c7ce31f3ba149fef204fbff1d7bb7&amp;chksm=b00e99901d5a49d502ddf54f43cb39575256a17c134a2e57630e61bc5436fc3fc6c075ab56a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 30 Sep 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[豹趣助力SDC2026 | 告别“设备堆砌”：企业安全的终局，是构建一体化防御体系]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0f89VZHf0hVBOIaPgpTyhfb7Oiaujr0rOHAq5ChlCYXjs7ZibnicYB2qcjGJzt3YTZX7mPTic7dPqmRHicIGDj00VBC5ZzOiaChKfvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>金山毒霸企业安全 · 产品与技术服务全景端 · 网 · 数 · 表 · 智 · AI · 人一套系统化的企业网络安全防护体系豹趣科技&amp;名亭科技·SDC2026精彩预告AI，正在重新定义攻防。当智能体开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=1&amp;sn=b05868a554288c31afa183515d979414&amp;chksm=b0b3d05bf9da28e67591dd3186f07d8865a21f95c7bc01c518a206cd75805ac26281186e09d5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ZQVlzJcwFTjgH0xBicVhOq09FPjGXVj6TICsgMjSVHxJE3xuB12qpGv0YiawTjbIqCic4J96rX7FmdWBMOmbNyRaDLvOOycnia1A/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI智能体正在成为连接数字世界与物理世界的重要纽带，并推动企业运营模式从传统的软件自动化，向能够自主决策、跨平台协同和动态解决问题的智能系统演进。据Gartner预测，到2028年，至少15%的日常工</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619367&amp;idx=1&amp;sn=e06fc369717dfd7c24a47a64fdaade25&amp;chksm=b04666e8d14c8e9427dd3532a4a8c506425d1a26311e103dc46b7b01ecbe82f17269a81345b2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Superpowers 这类“教 AI 怎么写代码”的插件，过时了吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K33GhfPWNhibhtvanNXPb5hdpic4QbHryibJc6OaMdZMvUmhtTMgB1uRvJWDRWLNHm1ITP0WnvqQmXppZ38qR03zqEBFqOTl307Zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>当模型不断吸收过去需要人类教授的方法，人还需要向模型提供什么？序章：21:21，我们删除了 17,712 行2026 年 8 月 4 日，21:21。一条名为“迁移至 2.0.0 无 Hook 八 S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619367&amp;idx=2&amp;sn=be887af1c6dd7a7a082d563bb6cba42a&amp;chksm=b0a1e21cf7e13245789ef67ca890680391a0bd2c54a1e2b952bf4cd2de93e3203838a3120986&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVSS 9.8高危｜Cisco Nexus 9000曝未认证RCE漏洞，可直接获取设备Root权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2138qkibK0Q7164oQQtqQ8EOH4uC8rPzVhp5ggwou6RDYJwEYfTQGibg0jtFKT26R1JvVdLsINzTic0uTyYKcdo5KHCEzPK6JwPM/640?wxtype=jpeg&amp;wxfrom=0"/><p>NEWS思科官方发布重要安全公告，搭载Silicon One芯片的Nexus 9000系列交换机曝出CVSS 9.8严重级别远程代码执行漏洞，攻击者无需任何身份凭证，远程即可拿下设备root最高权限，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619367&amp;idx=3&amp;sn=2a5c3530ba0befbb2deb97b3e6b9df12&amp;chksm=b03564853c248d13078898e2a77922a50f11aa8e146b840a15bc11c4f28af2d2756e6bb11a75&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Arm9裸机门铃黑盒逆向：bootloader分析与主镜像提取]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K26RG8jLN3seBxaGm4g7SamKRL9Gia8AADdv2Lhke103aeQWZXZxxXog7xplYU8kBXlgiafIdnTn579CibAKicK8rax4jE5DRKjJ9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>智能门铃设备长期以来都是硬件安全问题的重点关注对象和重灾区。然而许多这类设备为了将成本和功耗压缩到极致，使用裸机或RTOS，配上各种偏门，找不到文档和SDK的国产SOC，使得对其进行的分析变得十分麻烦</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619304&amp;idx=1&amp;sn=05ca2905264dbe3e944570fa54ae6003&amp;chksm=b0d922b5fdac549b6aee5eacf268a39e33d9e60006bfcab699c5941d6133677d813621bfa2c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 18:02:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
