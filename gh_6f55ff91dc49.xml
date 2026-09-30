@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用 Claude Opus 5.5 做视频堪称一绝，外网已经玩疯了。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3zYj4SJp0V4ibiahmXUEWo03QtSrLohicQA4mcTJ82oPA6SEB1iajANft46SZB8KbfYXENpJJ5cSEUDTqcibN2PaGCMWevDGWQZ0kI/640?wxtype=jpeg&amp;wxfrom=0"/><p>好好好，Jev 模型和 GPT-6 做 3D 的爆火浪潮还没过去。大家就研究出来用 Claude Opus 5.5 做视频。这里提到的做视频不是 Seedance 这类模型的视频生成。而是让 Clau</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537493&amp;idx=1&amp;sn=01e8487dc31156f4756ca85b0f573688&amp;chksm=f89d81082bdd7e1ac6e6e45ab4b7f0889afda5b134009acf49b38fa666bd3838597b5a0a3c6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Oct 2026 11:07:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 3.1 万 Star！开源堡垒机 JumpServer 正式进入 V5 时代。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1jhSa6aOOYWMch6wVoN6ACbHzpQlDT4PyToa3GiaW6Uruk2rU3xw8JhicW3DAB7Xj4iahpE4q0THYEMahDicO0cs09kptJszib22wY/640?wxtype=jpeg&amp;wxfrom=0"/><p>JumpServer 是一款开源堡垒机，也是一套面向企业的特权访问管理平台。公司里的 Linux 服务器、数据库、Kubernetes 集群和内部管理后台，都可以接入 JumpServer。再由它统一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537439&amp;idx=1&amp;sn=b9a163563c14af097e993f47703ba2a7&amp;chksm=f8f1c49d505fd869643a52a3d8bd2708c05dc357aca994cfa5f18bdacf0ead8e30225f51e18e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU14fUganRMCcwV8TJxlP8Z3KFaDjUvKsGsmVWbNV2xf0SAZLicI949SvdRpvkxbHTwPUlnbLZbvOjiaosUJmF3jLSSbPj2W9bEyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 配一些基础的 tool 或 skill 就能读网页，看代码，处理文档。但视频一直很难搞。你丢给它一个 YouTube 链接，它大概率只能读到标题、简介，或者拿到一份字幕。可很多视频真正有价</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535343&amp;idx=1&amp;sn=5c13d73a81e83427597b51786885aa1f&amp;chksm=f8d269db3cf7c789dfd5d2775807d4ec885c3f0ad68e915d69085a5054643867cf8ec9072d7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Jul 2026 14:30:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2v2WW9Pte8meGoavPbo5gBBaMhIicqWLzdibcMvFgpPZQNfBiar2HV3Xjwpp1gkRxCjQDR3vJic3ic7fMzX3lk6fp0d71T92YfichwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在让 Agent 做 Word、PPT、表格文档处理。有很多 SKill 可以用。比如 Anthropic 官方提供了 PowerPoint、Excel、Word、PDF 这类预置 Agent Sk</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535342&amp;idx=1&amp;sn=ed0bff20ca593bc05d8fa0f144998862&amp;chksm=f85fe93e8e5fb12883ba8f3557e51b868b9f1d617a13691f052f6580c04d4dfa3f9f90d422a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 15:06:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

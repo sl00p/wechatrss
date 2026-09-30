@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1iaJylCqBkjF0ic3icQQtAMHIh4TC5yFg8JtfFiah8AlMEqsf8RzRGA5AibTRmXVoItFz9yVl4vkIISiaP8N6Nk2wlhWvKTN3KyWDAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个Citrix 0Day遭活跃利用Google发布警告称，Citrix NetScaler近期遭到两个高危0Day漏洞的活跃利用。攻击者可借此绕过认证、获取root权限，并植入隐蔽Web</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=1&amp;sn=d44ab0f64641f46d0a06b8694f97c012&amp;chksm=bc16e137a1637bd14357b8f8205390421d972a49c37c086555cf38cdc2d375d2756c8682aba6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播回顾 | 企业开始真正用 AI 后，安全该怎么测？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0aZDXofCaoWAhJ4gw05LgiazASLB0PW5IfoibeEP4hNzIoalBEArhPzK4sejuvYpNQB7Y2se4M7eNWG16iaybhicxMrTicOtricxIfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾当大模型和Agent 真正进入企业业务，安全问题已经不再只是“模型会不会说错话”。敏感数据是否会进入模型、第三方 AI 服务是否可信、Agent 会不会越权调用工具、执行过程能不能被追溯，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=2&amp;sn=c911b046555748c4e47c61ac1de72173&amp;chksm=bc33af8d2cdc41bf99f26447427f0eed0eea3a7d392598046468c54cbf873a7f2a22226529c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3UfiaBib8XvEMOaDbgMH2Njqq0C4hhe4rflF6YN894mGJY6tWOnkB27yFiabWW9ZvhsRSZjKL6KFa7ibzLjk7HxAwjnIWKGpt1RmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者利用两个PaperCut MF 0Day漏洞，以存在漏洞的打印服务器为初始访问入口，最终攻陷企业活动目录系统。这起入侵充分说明，常被企业忽视的边缘业务系统，也可能成为攻击者访问核心身份基础设施的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=3&amp;sn=0bd73aecc0c85c5979cc1c3e8cf16d0f&amp;chksm=bca57758d85771cac80d62c70f87f0787b3073a3f6c69aae4b8d3b3bd338e4239542cf9be9d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6 Astra不受控自主实施供应链攻击，频繁超出测试范围]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0aq577iamm9q0a486RIktEibWeqcEbNslnLM09B7QFnLJeR0lfhXTiayWdQIsh4zsPfKnEiapdiceIybyWuJM1wNF6UicRavrx8BGRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>英国AI安全研究所（AISI）发布报告称，OpenAI旗下GPT-6 Astra在安全测试中，对测试范围外的软件实施了供应链攻击。未授权模拟供应链攻击流程拆解Part01GPT-6 Astra攻击占比</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=1&amp;sn=51d4d0efbe6c624ed7ceadbe3b5c1467&amp;chksm=bc562b1d6e21cb39a294447f954953d8f63b55bbe9cca81067df3e6f2d875fa2889eac424014&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Jm9oeUjeCNUH238v65DBT7xSjTVGib3rK995HR07FSVqOzzl3gF1GdHgnWm64IFQo44tzrfT4eCTTd3yicnNd7Mic1TenY3ZpMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款此前未公开披露的漏洞利用工具包BlueMoon，正在被多个从事间谍活动的威胁集群用于实战攻击。该工具包能够串联利用微软Windows和谷歌Chrome中的多个漏洞，最终实现代码执行、沙箱逃逸和本地</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=2&amp;sn=83e88d285c8efd41f26e37e7baf49c45&amp;chksm=bc65cdaa6471e542ebeb0b4e5204d3921e0c5cf4acbf9c62f7513ae8bd47bf311c6752fc6fc6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软发布史上规模最大补丁更新，974个漏洞一次性修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1lM97SMtKY4ZgrewLpFIEpV1xSYib76hxShADVTFSyZ1OAlJeLkfECpokDMEDeckxM2tX6XYY42LZNDerZRGSYaIfagJ8faug0/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年9月补丁星期二更新修复的CVE漏洞数量创下历史纪录，共计974个，其中包含2个已遭在野利用的0Day漏洞、20个可蠕虫化漏洞，以及一个可通过Visio邮件触发的Exchange服务器严重远程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=3&amp;sn=88e9fd1f2ce522ba7e6a6c42fc665c62&amp;chksm=bc40714ecf8cc98f656ae62417241a6e54e7426805921b51578d7a30136dbf92822e4d4ddf72&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chrome V8曝在野0Day漏洞，攻击者可在沙箱内执行任意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10sfghvclqgH4f4ceXBH6XibE1PXztXmFribe1hIAE7cxo4GYVuicaCzz5LDibX2MddaXiaz91iaZfRoYRy3CcqaMPOVxL1cjkiaf6UU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01核心V8在野利用漏洞详情谷歌于周四发布安全更新，共修复230个安全漏洞，其中包含1个已遭在野主动利用的漏洞。 该漏洞编号为CVE-2026-87491，严重等级为中危，CVSS（通用漏洞评</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=4&amp;sn=6dfb1a60050f48b5efa165490a2b2579&amp;chksm=bc2979130e825966dfbdff6821e10bef5cabcbcff7745310e4019a5ebf6a7b4665cc5d7ed152&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个利用微信通话实现“0交互入侵”的蠕虫出现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0DicOvgCWY0sFeick1fROg5oib4OK6uyBsBURaYibI1HTq0kaB2AkYBtyj9IYGXRtlz5IaqeWUG3bicVazZkoYoSmHQEf1B8mDU4rs/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员公布了一个名为“WeWorm”的概念验证0Click蠕虫，据称它可以通过微信语音通话在iOS和Android设备之间传播，在受害者未接听来电的情况下，数秒内即可控制其微信账号。Calif表示，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346509&amp;idx=1&amp;sn=71e02ef8b6a2ed67fdc94aa19b152171&amp;chksm=bc920bb28423732975395b95648b65311a8bdd5b30278767c11a3971a65fa16a0249ca2a7fe3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

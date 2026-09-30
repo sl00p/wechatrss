@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对于skill，我们真的理解透彻了吗？ 大家可以测测这道题：一个agent启动时，系统提示词里[立即]加载的是skill的哪一部分？ A. SKILL.md的完整正文 B. 所有已安装skill的name和description C. 被触发的那个skill的frontmatter D. 当前项目目录下的skill列表 很多人第一次接触skill，会把它理解成[一条保存下来的复杂提示词]。这个理解不完全错，但它会让我们写出糟糕的skill。 你是否认同这个观点：skill不是一个提示词，而是一个文件夹。 这句话不是我说的，Claude Code团队在内部跑了几百个skill之后总结的，原话是：You should think of the entire file system as a form of context engineering and progressive disclosure. 翻译过来就一句话：整个文件系统，本身就是上下文工程（context engineering）。 agent启动的时候，我们可能已经装了几十个skill，如果把每个skill的完整内容都塞进上下文，上下文窗口会立刻爆掉。skill的设计核心：把信息分了[三层]，按需加载，也就是大家熟知的渐进式披露（progressive disclosure）。 第一层，元数据层：每个skill只有name和description进入系统提示词，启动就加载； 第二层，指令层。SKILL.md的正文，命中了才加载，建议控制在5000个token以内； 第三层，资源层。references、scripts、assets，正文里引用了才加载，这一层的容量实际上无上限。 大伙发现没有，[skill里写的每一个字，都不是平等的]： 1. description里的内容，永远在线； 2. 正文里的内容，触发才占地方； 3. references里的内容，按需出现。 所以，写好skill的第一性原理，不是写得全，而是内容放得对。 限于1000字限制，这里不再展开。 节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>对于skill，我们真的理解透彻了吗？ 大家可以测测这道题：一个agent启动时，系统提示词里[立即]加载的是skill的哪一部分？ A. SKILL.md的完整正文 B. 所有已安装skill的n</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981700&amp;idx=1&amp;sn=cb78c5fbec82ed4a133f90fada97d1a0&amp;chksm=bcf72b21c2bb22e3afce2ff434e7def30134de993b5f1ed8f343b0f4ebd28bfcf04770b98ebf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 01 Oct 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI时代，进程内缓存，怎么写spec？（8/100）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXckevMtvibNXpDh5vNMC83PStViaQrugT5vVwCIZHUbp5LG0QWd2rVFCIsCZcgK5602iaTX3cIhzWGE7oHqGs2iaKeqVcyPGtuGBE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第8讲：让AI慎用进程内缓存AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第8讲。缓存簇前三讲，聊</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981698&amp;idx=1&amp;sn=d4d230c9e7fa2ed48e6d176e4ab52b90&amp;chksm=bcd11659d9b4c8fa8374b2ef78871c41d0c8e463907a3ff3e3fe5abb93813b4228d60866b10f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdUCFTNxSzagu75loJiaj42LRMK2mcs2ialf7sTyyRz9kWEBvXGrYIIWXtuvpcm9Lqm2ib4oP4HQyuYuKD4glicHPZPnBFTZ22j29A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年4.8发布成长星球，不知不觉，已经1年多了。在去年一年里：直播，图文，作业... 在社群输出内容，和大家互动互助，一起提高。做自己觉得有意思，有价值的事情，个人情绪与状态，肉眼可见的变得更好了。画</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981315&amp;idx=1&amp;sn=5d6641533fe55241b656d0627b985f52&amp;chksm=bcd6114d6f44fb28b0282e62b51b422dd22fdfd7b5af2d5bfa3aafbbaea39cc4af53ac4b9c1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 11:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[普通人，如何在9个月蜕变...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXd0AmSybMl0ckQgpRMQEglDPqhmgWmVxFJbdLUEiaMiaQGz16Hsmuo60RiaTSPg913nUUQteorK6KTaVM4iaHm8zIZ6V5tY4jDlLp4/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月份参加了一个OPC大航海，经过两个月的用户调研，产品打磨，7.1产品正式发布，昨天完成了第一次直播交付，效果还不错，和大家汇报一下。【1】OPC产品总设计名称：《决定人生高度的9项底层能力》行动营</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981302&amp;idx=1&amp;sn=655aa872a3be6734064cf43397f480f1&amp;chksm=bcab58ede97b3148e0df5641add5ddfd1a3fa70c26954f1e37178230b2ee6b63314da84bb3fc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 12:13:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
