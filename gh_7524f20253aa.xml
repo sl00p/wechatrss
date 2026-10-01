@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2K0aKla3d5CDJddd9botichS1R8ec5UjO2y2cNKHibCKZlYFEz6mlHicCUDwJknf0opEEvFcUwZkr4BvnEBiatyykqw2x7zyqgnpY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google发布全新前沿AI模型Gemini 4 Argon，目前正通过Fairwind项目向一批可信网络防御者开放推送。Google表示，该模型可在无人工协助的情况下定位、验证并修复关键软件漏洞，后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348135&amp;idx=1&amp;sn=25a0a0d6afc390bfaef86c0365cce8e9&amp;chksm=bcf26cacd0c04ce6aaa25fbac5491789e17df65f87cbf3caf58f42c3784658f6f06417a3cbe9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Agent利用两个0Day攻破荷兰安全机构，数秒内提权至Root]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0VtWjttId55kGgNqzjnR99CSFpC4hPPIRnFqFuJ4mgAtIdQjRLEIBOg44P0FgYMhXrwmWvJ7SdlHG0VFZ2EicIVsJXtjkJlSvQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月21日，荷兰漏洞披露研究所（DIVD）遭遇一起Agentic AI驱动的网络攻击，攻击者利用了开源工单与客户支持系统Zammad的两个0Day漏洞。该荷兰非营利机构周三表示：“结合利用这两个漏洞，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348135&amp;idx=2&amp;sn=5548be421030b5b75c8a7de08841f691&amp;chksm=bc631d82898d42a8de693d0eb1b0ac794ce19f6ec8ebfe56314a0b9650de25060ab6c40da018&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude母公司Anthropic拟11月上市，招股书警告AI失控风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Cyv3JlB8lY70TbZM8icmxKQu0y7la2JXz0NnHOafA6nM1aZJyLwibdl9TpBqUrM90QFicb1XHl1X7ic4kns0u85DS1W6aqaVl72A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic推进上市流程彭博社援引匿名知情人士消息报道，AI巨头Anthropic正稳步推进上市计划。公司最新敲定的目标启动日期为11月9日，届时股票将在感恩节前正式开始交易。公司由</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348135&amp;idx=3&amp;sn=0366e187cf3b70fc817d54ad40181b8e&amp;chksm=bc376dc06f9e8e47ada0745e84ec8e6757c11e1bcf6dce0b6ad84cadd4c3afdf8fe0b12c4977&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Google披露Citrix 0Day攻击，黑客植入Web Shell攻入企业内网]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1iaJylCqBkjF0ic3icQQtAMHIh4TC5yFg8JtfFiah8AlMEqsf8RzRGA5AibTRmXVoItFz9yVl4vkIISiaP8N6Nk2wlhWvKTN3KyWDAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个Citrix 0Day遭活跃利用Google发布警告称，Citrix NetScaler近期遭到两个高危0Day漏洞的活跃利用。攻击者可借此绕过认证、获取root权限，并植入隐蔽Web</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=1&amp;sn=d44ab0f64641f46d0a06b8694f97c012&amp;chksm=bc16e137a1637bd14357b8f8205390421d972a49c37c086555cf38cdc2d375d2756c8682aba6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2jXtfyic2pJjmBCoRWdbGahYpjkPkOicpSIarNCyMVK4ib8By4MSHh3uqqB72tA158kvRqcMlkXhQIJJXnk6tQMHrVR5xgnyKwrE/640?wxtype=jpeg&amp;wxfrom=0"/><p>黑客已使用商用AI模型入侵拉丁美洲多国的政府、交通及金融行业网络。这一系列活动说明，对话式AI工具可以提升常规入侵流程的效率：既可以修复出错的脚本，也能帮助攻击者将窃取的数据从已攻陷系统外传。这些攻击</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=3&amp;sn=a8fd746dc24b9e2b6f304f6cf1a29d79&amp;chksm=bce97842182cd3eb9ba2aafc0043719436d2bd09488fb34bcb89e538a96b9d0cac3f9ec20a66&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OWASP更新LLM十大漏洞榜，Agent过度权限风险大幅上升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ddmdTWxLuFZsJ8XiaxwYtHxte8cVw5sLNhuqutJTibecLZesCppicjlcOk9Ajchwn0CVkDBcZ4BN1Vpsl5HqAO6zSAhibEKIqkicE/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着技术快速迭代、各类商业落地场景不断涌现，生成式AI技术在企业中的应用规模呈现爆发式增长。 但LLM（大语言模型）可能意外生成有害内容、泄露敏感信息，甚至遭威胁攻击者利用。随着技术持续演进、攻击者不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=4&amp;sn=9b093806c798fd59eed639dbeb247727&amp;chksm=bcf94d7d313c8a463d18fa927c840ad03394981c5478a5aadb518e9808bc6500c0f53430e77e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek Harness曝高危漏洞，AI Agent一条命令即可关闭沙箱逃逸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3F2WaXcFHhqht0qf7KzicjXNXV7IoXbKQibouNiabibsZcleBQsUo8UZ2fcicVjTUp7JKePgOJ1yaRoiaVXgRd8SsZMwxCwcu4tx2Zw/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek开源工具DeepSeek Harness被曝存在一个严重漏洞，处于沙箱中的AI Agent只需执行一条命令，就能关闭自身所在的沙箱环境。DeepSeek Harness的设计初衷，是在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=1&amp;sn=3800775e9eb5090fa9d52b0577d43a50&amp;chksm=bcc31a567190ca9a914836224bba732f9b33d67cd1728cd64f178f477fca0ddba282079548e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[BlueMoon一周内被四个间谍组织采用，完整打穿Chrome与Windows]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Jm9oeUjeCNUH238v65DBT7xSjTVGib3rK995HR07FSVqOzzl3gF1GdHgnWm64IFQo44tzrfT4eCTTd3yicnNd7Mic1TenY3ZpMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款此前未公开披露的漏洞利用工具包BlueMoon，正在被多个从事间谍活动的威胁集群用于实战攻击。该工具包能够串联利用微软Windows和谷歌Chrome中的多个漏洞，最终实现代码执行、沙箱逃逸和本地</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346569&amp;idx=2&amp;sn=83e88d285c8efd41f26e37e7baf49c45&amp;chksm=bc65cdaa6471e542ebeb0b4e5204d3921e0c5cf4acbf9c62f7513ae8bd47bf311c6752fc6fc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

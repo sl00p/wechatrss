@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ylNxnpef6IzHcQTw0SD0jHo3T92OJLSmskqNQ2TT4IRbpGjX7MibibRnMY74yhEv2HvxI2ONvdIPlsNar4NE4ycXtpwIuOo7eo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘》随着Google推进“Kotlin-First”策略，Android操作系统开源项目（AOSP）</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622474&amp;idx=1&amp;sn=5a053c1ccd29130d88b0c43929c9f296&amp;chksm=b00ee9eaf0e326f03124f2f74686ec2340c0cc9e12468b8fc34626e73eff1041c5ab98022e81&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622474&amp;idx=2&amp;sn=03ef30ac2adf4b1848ba2004895e0bc7&amp;chksm=b0686c52cf0e2f4faa3b09af78d312d54b2bf532beaf440eae9bb968ab86921f6f1462eb972f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构攻防｜荣耀SRC，助力第十届安全开发者峰会（SDC2026）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3n7KE1EodhHWOaUQRt6pR4iatJ7lUzjPsRyTNCrFJNZjsxonp4oktNSRHzEwOAb9H0Tar1o0LIDanXxRXicH3JSOqgOr8PkWOYo/640?wxtype=jpeg&amp;wxfrom=0"/><p>荣耀SRC，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（S</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622473&amp;idx=1&amp;sn=59ce6979a736bf4c4f9b96f964ec0f2c&amp;chksm=b0e602023948934dc34825b6ea88a375db5ca37059d9e95d0e6c7cf30bc2e1b10c19a33aea8c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1RsY0Cw30FCoFCVz2YflFP9YTsOvNJmQtxDwicWbFXqDMakG1Y1UKOr3ddR5dcMRjSgVTlk1KBgNUIpFtLVOhwxlv9sm9ThnGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>身为一名逆向人员，ida，x64dbg几乎是我们无法离开的工具，这些调试器的背后的原理是什么？所谓各路五花八门的反调试，调试器检测，无痕hook，线程逃逸又是什么？接下来，我将带大家深入内核，探究wi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619528&amp;idx=2&amp;sn=24940f883e8435ecda20073eec37fb9b&amp;chksm=b050d842db1a663a67771cbaeb04a98bdcb2dddb1cbac535fe6f24b56e79773704d4ac0b2804&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 05 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[9月11日13:30 | 人工智能赋能网络安全创新研讨会（现场多轮抽奖）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1rFUSQG0D3qFUdqITxcHicgxticicCgWEITTBCuiaMO652NoC8Yjmp0gBLksjZTbNYecjdt1rTNRU1yPmvb7Pnicq0zkFkkf5v2lbY/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026第五届上海网络安全博览会🔥 研讨会四｜人工智能赋能网络安全创新研讨会⏰ 9月11日（周五）13:30‑16:35📍 上海跨国采购会展中心・一楼 B 会议室✅ 看雪科技出品｜AI 安全硬核专场🎙</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619521&amp;idx=1&amp;sn=9a13fa30042fd3b529b41221a686bd09&amp;chksm=b08eb1438162e6eda77c9b0d7bae5111ace19e62da32af56bd079b386392f1fc2f57ca9f3edd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RP2350 硬件固化 CVE‑2022‑38694：突破 Unisoc BSP 安全启动链]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2HKWRwkSbWcqHIp5kZP3jg0LIqHrf8DQjRibOiaVE463jOYeuBB7N7PCt9nKbYZPWsjwsqkk4SFL2uCD9e7bVa6libN5AGy2ytU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>00项目简介这个项目的目标，是把 Unisoc / Spreadtrum 平台上原本依赖 PC 工具完成的 BootROM 下载流程，固化到 RP2350 微控制器中。正常情况下，我们需要在 PC 上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619521&amp;idx=2&amp;sn=1a084ce77235787ce7e11a74374a537f&amp;chksm=b0bcc1c76401a15998cd5bc951894bc8a16ac6c96a629ae639ef8dbba7623b934612d9fd51ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 04 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

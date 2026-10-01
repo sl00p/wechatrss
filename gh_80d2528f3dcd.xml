@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 大神 Andrej Karpathy 加入 Anthropic 后就很少活跃在社交媒体了。 今天他久违发了推文，分享了一个很实用的 AI 使用思路：如果 AI 的回答不好懂，先别急着让它「再解释一遍」，试着换一种呈现方式。 从文字、图，到网页和视频，他给出了一套可以马上抄作业的方法，这何尝不是「赛博义父」呢（doge）。 刚好 Tibo 今天也宣布即将重置，趁着长假也可以放心蹬了（啥，你说谁在假期还用在捣鼓 AI ？我啊！） 以下是 APPSO 整理的 Karpathy 推文，enjoy~假期愉快 🔗 https://x.com/karpathy/status/2105819303471976479 Karpathy：以后我们会花越来越多时间去「看懂」AI 的输出，聊聊我的几点想法和小技巧： 📝 写作：有个方法我用着效果不错：让 AI 用 ASD-STE100 来解释东西。这是一套「受控语言」规范，最早是给航空维修手册定的。大模型对它很熟，而且它对写作风格卡得很严，要求简洁、清楚，所以我常常觉得这样写出来的东西好读得多。不过这套规范太严了，有时候我会让它松一点，比如说「按 80% 的 ASD-STE100 标准来写」。 不过还有更好的👇 📊 图表 / 图片：别让 AI 写一大段字了，让它画张图。图往往更容易看进去、理得清、看得懂。 还有更好的👇 🌐 网页 ：让它「用 HTML 输出」，你会得到一个好看、还能交互的网页。现在的 AI 前端越做越好，做漂亮页面、加动画都不在话下。 还有更好的👇 🎬 讲解视频： 我最看好的输出形式是这个：任何话题都能让 AI 给你量身定做一个讲解视频。可以试试这样说：「做一个 3Blue1Brown 风格的视频，讲讲 XX。用我的 ElevenLabs API key 配旁白。」 （配音要有 API key，没有的话也可以让 AI 帮你找能在自己电脑上跑的免费替代方案。）这个真的开始能用了！ 总结一下： AI 越来越强，跑腿的活它会越来越多地自己干完。我们的工作会往上走，变成把关和理解。 好在这一步 AI 也能帮忙。现在智能和代码都越来越不值钱了，你可以放心让它做那种又大、又是专门为你定制、用完就扔的东西，比如一个网页应用、一段讲解视频。 放在以前，这类东西因为成本太高根本不值得专门去做。现在大胆去试试，结果会让你吃惊。]]></title>
+      <description><![CDATA[<p>AI 大神 Andrej Karpathy 加入 Anthropic 后就很少活跃在社交媒体了。 今天他久违发了推文，分享了一个很实用的 AI 使用思路：如果 AI 的回答不好懂，先别急着让它「再解</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110657&amp;idx=1&amp;sn=fe335d7744fc78475b7d46cdc1933349&amp;chksm=bc51b78b3e155726c321c5e62a456791eb6d9104025a8a2741fec5b1460a633c41310524c95d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 18:03:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJI5k2EQico1r0ZfKfKNW8OvmPAiaICTHQHMefUkIibFaYC78UBkCjvOnylAmIXNZwerdYf7RZGuhia6wmbd0ORYmiaIXqo69h9Xia0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>中秋刚过，国庆又到，AI 圈却没有跟着放假。新模型依然一个接一个地上线。旗舰模型忙着刷新能力上限，主打速度和性价比的模型则在争夺用户的日常工作。不过，随着后者的能力不断提升，两者之间的分工也开始变得模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110653&amp;idx=1&amp;sn=3aa41f46386012c4e8e4b3479c359538&amp;chksm=bc62ee1b11abb4498a49aa91432da3001e34b1166d0070a8e774348d6102b8010b9203e2c398&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 14:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[9月AI产品榜：个人助理爆发，模型的第三条路| APPSO WATCHLIST]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLGZcnVG2vjJicfVtWtD3Rv1cwXREn9yGcnYkdNJbJw3lPZkoNSgR9hQZS9VdBTL2bp21rZX8V5nj5AJtaoLSDDcvzH2LnmibkKE/640?wxtype=jpeg&amp;wxfrom=0"/><p>每年年末，爱范儿/APPSO 都会发布年度「明日产品榜单」，将那些改变体验、推动行业，也可能重新定义生活方式的产品收入《明日产品年鉴》。但明天从不只在年末发生，尤其在 AI 领域，已经进入了「AI一天</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110632&amp;idx=1&amp;sn=bd06e95c35b8b2e3150b278671fdb029&amp;chksm=bc1656d0fb827f5f322e8fb7116a36bfc50490b32f26ece3693380c7600ac448712160ddf0cf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 02 Oct 2026 09:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[顶配18999，华为Mate 90发布！重磅巨炮让手机变单反]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLc6osySrLVaiasvJIxQUjK1jHfcXkNlsDX9zKfQicd1ONiblq92ZlAksItKwFM6d3YMUx62bdOSwGIMJxVy51gbmMNDdm5X74KSM/640?wxtype=jpeg&amp;wxfrom=0"/><p>集齐龙珠的过程，不可谓不漫长。在刚刚结束的华为 Mate 90 系列发布会上，我们终于见到了 2026 年高端机市场的最后一块拼图。本次发布会上，华为一口气发布了 Mate 90、Mate 90 P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110631&amp;idx=1&amp;sn=8772cd98d9cddff5f63cd18fb5a5af79&amp;chksm=bcef3c880a2f26ca5267c38236478c968b260ded2ac7653d73ec659bf982b56b22de97b290c2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK8ia8Oib9Q0O3f0KjvBBFfibtMa5LEBCfSnhBia6DnqISo25byTu2PltrHmn8znSvp7IJH2ibu9wGCfbqcf8MZSeC7rDNWw7DOJYII/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在刚刚，DeepSeek 开启了新模型 DeepSeek V4.1 Flash 的限时内测。官方称，这是一个面向用户开放测试的中间版本，采用新的模型结构，原生支持多模态。按照 DeepSeek 给出</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106575&amp;idx=1&amp;sn=8df2e05e8335e2a74a03fde6f2077591&amp;chksm=bc638c3b69f1ec6e3a3cdd92ef40d9039b6dcb34c109472b48db3e91ec5017ad0f0cd723eea5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 08 Sep 2026 17:18:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek突然扩招 150 人，AI 越强公司怎么还越需要人？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfJIFCAQzb6J77fnia6Tc4W2xfdK6V8PkdpDJzE7RbuldTWZxjEWC7By0EhfPD6vusulOvk3In5l19oZwuJljHdtsiceiaic6Rz5qvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这两年，「拥抱 AI」通常是和另外一件事同时出现的：裁员。极端如 Meta，扎克伯格一度设想把部分团队缩减最多 60%，微软、亚马逊等公司也在投入更多 AI 资金的同时削减岗位，连广告行业的巨头 WP</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106459&amp;idx=1&amp;sn=a90700ddb19802590cda37ec3a52179a&amp;chksm=bcfd37eb01602e80266fcc9c7e862659fb95afe9132965412261303332ec0a13a3d1b0bdcf0f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 14:29:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[手机 Pro Max 还在大乱斗，AI 模型的名字怎么都卷到「神话」了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIxHwYXU6nAtOkpdTdTYtLovicxrKHPwCicTzibx45ualNQU19dxmaYNicJaD7oX9XnibIHUjPDaH0p7vwbvribvYBFLzVhdFxkIqyYo/640?wxtype=jpeg&amp;wxfrom=0"/><p>进入 9 月，新一轮旗舰手机还未悉数亮相，Pro Max 的命名已先在社交平台刷了屏。据知名博主数码闲聊站爆料，苹果、华为、小米、vivo、OPPO 和荣耀等品牌的下一代旗舰机型，或将纷纷采用「Pro</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106451&amp;idx=1&amp;sn=b9962559365cfcdd712d52e573a3f751&amp;chksm=bc8b5ef25bf142ce7c680bf966b8c4f95fb04cb6bcaf8e37670332cfb51c7903ae408837e1bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 10:08:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，华为时隔六年发布全新麒麟芯片，「韬定律」立大功]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLA2Mw4YQPbPx5u4RCg3sicBHw34ibuhmvLxKRibZqp2kSD9otpaUSI5LNlfkQ7SVrqiaxFsfWOuicLgdtT0fEJuv4ibtYBDGjELwbK0/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在刚刚，华为正式发布三折叠手机 Mate XT 2，并同步推出全新旗舰芯片麒麟 9050 Pro。冷知识，这是华为继 Mate40 系列全球发布会之后，时隔六年再次在旗舰产品发布会上推出全新高性能麒</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106294&amp;idx=1&amp;sn=1e5f0c8a183cac4343e68443d85fd173&amp;chksm=bc2a16353bd87c8b04e8b96c22e6f1c1a6071afa9578cf96b28cc68e6a8bacaf251760fcb99d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 16:43:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
