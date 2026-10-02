@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hinton 联合 20 多位 AI 大牛警告：「智能爆炸」时代要来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLIO1DYOdf0z1TYgEcHw9ytffs3nxNCnclRCDgsaEJ9JLUlJeA4RCIQBpvJWTPgSpkkTo9bKnbVXXCpFPdlB02juSIRWbAYGT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>「AI 之父」又出来发声警告了，这一次还拉上了一众行业大佬，对最近热门的「RSI」开炮。这是由剑桥大学人工智能科学与政策项目 CASP 发布的一份由二十多名研究者共同撰写的报告，作者包括 OpenAI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110748&amp;idx=1&amp;sn=535639215d8752c11715d6be1ed933f3&amp;chksm=bc469f63439e3101b3b8af6148308132da8c9d25ba08e808ef1275b49a3017acb607ff6ccc26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 13:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[今天苹果突然宣布，将进一步收紧 macOS 上的「全盘访问权限」(Full Disk Access)。 苹果的开发者声明没有明着说，但暗示是这个意思：具有高度自主性的 AI Agent 应用正在滥用全盘访问权限，可能利用用户的信息差来要求授权，读取其所有文件、邮件和浏览记录。 而为了应对这一情况，苹果将会推出进一步的权限控制系统，要求用户进行更明确（也更繁琐）的手动操作，才能赋予应用如此高级别的权限。 关于这件事，APPSO 觉得 John Gruber 的解读尤其有意思。这位 Daring Fireball 作者，也是 Markdown 作者、资深开发者和评论人士，聊起苹果总有自己的角度。 这次他的解读也暗藏玄机，于是我们在他的解读基础之上，再做进一步解读。 读他的文章，能感觉到一种老派 Mac 用户的焦虑和无奈。他在分析苹果为什么要这么做，也忍不住叹气。 文中有句话，差不多就能概括他的心情：「这就是为什么我们没法拥有好东西」（this is why we can't have nice things.） Gruber 的矛头直指 Meta Muse、Grok 等「贪婪」的 AI Agent 应用。在他看来，全盘权限原本是苹果留给底层备份软件等专业工具的「君子协定」，但如今这些 AI 为了获取用户上下文，疯狂索要最高权限，吃相难看，直接破坏了 Mac 社区长久以来的默契——才逼得苹果不得不采取强制手段。 而 Gruber 最担心苹果这样做的副作用，是在权限管理方面相对更加自由和方便的 macOS，可能会被迫「iOS」化，变得更加封闭。 他认为：Mac 本来就是一台「危险但强大」(dangerously powerful) 的 Unix 工作站。但是随着 Mac 变得更加「消费级」，众多小白用户涌入，把在 iPhone/iPad 上「看到权限申请就点同意」的习惯带到了 Mac 上； 而苹果为了贯彻自己一直以来的隐私主张，不得不将 Mac 的权限管理改造得如同 iOS 般封闭——对于这种为了迁就大众而牺牲核心用户自由度的趋势，Gruber 感到惋惜。 经常看 Daring Fireball 的朋友应该知道，Gruber 总体上是一个对苹果「爱之深，责之切」的人。这次他也没忘了夹带私货，暗讽苹果的「老敌人」欧盟。 他指出，iOS 虽然封闭，但对用户隐私权限的保护是优秀的，但欧盟仍在试图通过《数字市场法案》迫使苹果将 iOS 进一步开放，完全是不解风情的行为。 最后 Gruber 指出，毕竟苹果自己的员工也需要这些权限，所以希望公司不要一刀切，而是能给懂技术的核心用户开个后门。]]></title>
+      <description><![CDATA[<p>今天苹果突然宣布，将进一步收紧 macOS 上的「全盘访问权限」(Full Disk Access)。 苹果的开发者声明没有明着说，但暗示是这个意思：具有高度自主性的 AI Agent 应用正在滥用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110732&amp;idx=1&amp;sn=eddf6e84d48f576d43fc0a546d5465cf&amp;chksm=bce1cdcc1eb7c98f194f0043be8b3dc12af0cc69331782017102dd5b8042305115ab894fff3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 12:19:25 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLUXVyeh4knoEOPUgm4K9AQtOibJJicZGbiafeXHHtPNLja9e8mib0jppWF01fCIpU1bZbF5k3V0ssd3fGiabcGDFMmatDLZiaEaDj8Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>x'qx'qx'q过去，视频通话常被当成确认身份的一道保险。文字可以代写，声音可以合成，但让对方打开摄像头，聊几句、看表情，似乎总能多一分把握。如今，连这份眼见为实的笃定也开始受到挑战。最近，AI 研</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110730&amp;idx=1&amp;sn=62ccffe3d463063f7e1a72c3c862afc0&amp;chksm=bca7efbe2abc9f790fda134b981a8cbabb8d5df28cdd42aae476d42dee3781c8f4e8c449c550&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 07:56:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 大神 Andrej Karpathy 加入 Anthropic 后就很少活跃在社交媒体了。 今天他久违发了推文，分享了一个很实用的 AI 使用思路：如果 AI 的回答不好懂，先别急着让它「再解释一遍」，试着换一种呈现方式。 从文字、图，到网页和视频，他给出了一套可以马上抄作业的方法，这何尝不是「赛博义父」呢（doge）。 刚好 Tibo 今天也宣布即将重置，趁着长假也可以放心蹬了（啥，你说谁在假期还用在捣鼓 AI ？我啊！） 以下是 APPSO 整理的 Karpathy 推文，enjoy~假期愉快 🔗 https://x.com/karpathy/status/2105819303471976479 Karpathy：以后我们会花越来越多时间去「看懂」AI 的输出，聊聊我的几点想法和小技巧： 📝 写作：有个方法我用着效果不错：让 AI 用 ASD-STE100 来解释东西。这是一套「受控语言」规范，最早是给航空维修手册定的。大模型对它很熟，而且它对写作风格卡得很严，要求简洁、清楚，所以我常常觉得这样写出来的东西好读得多。不过这套规范太严了，有时候我会让它松一点，比如说「按 80% 的 ASD-STE100 标准来写」。 不过还有更好的👇 📊 图表 / 图片：别让 AI 写一大段字了，让它画张图。图往往更容易看进去、理得清、看得懂。 还有更好的👇 🌐 网页 ：让它「用 HTML 输出」，你会得到一个好看、还能交互的网页。现在的 AI 前端越做越好，做漂亮页面、加动画都不在话下。 还有更好的👇 🎬 讲解视频： 我最看好的输出形式是这个：任何话题都能让 AI 给你量身定做一个讲解视频。可以试试这样说：「做一个 3Blue1Brown 风格的视频，讲讲 XX。用我的 ElevenLabs API key 配旁白。」 （配音要有 API key，没有的话也可以让 AI 帮你找能在自己电脑上跑的免费替代方案。）这个真的开始能用了！ 总结一下： AI 越来越强，跑腿的活它会越来越多地自己干完。我们的工作会往上走，变成把关和理解。 好在这一步 AI 也能帮忙。现在智能和代码都越来越不值钱了，你可以放心让它做那种又大、又是专门为你定制、用完就扔的东西，比如一个网页应用、一段讲解视频。 放在以前，这类东西因为成本太高根本不值得专门去做。现在大胆去试试，结果会让你吃惊。]]></title>
       <description><![CDATA[<p>AI 大神 Andrej Karpathy 加入 Anthropic 后就很少活跃在社交媒体了。 今天他久违发了推文，分享了一个很实用的 AI 使用思路：如果 AI 的回答不好懂，先别急着让它「再解</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110657&amp;idx=1&amp;sn=fe335d7744fc78475b7d46cdc1933349&amp;chksm=bc51b78b3e155726c321c5e62a456791eb6d9104025a8a2741fec5b1460a633c41310524c95d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJia02zwn1LR5qSBnv2WvG8QeoN68z8FRelY1KkaictbC9GN6tCRbyicC8ogicAjibSCGzMuOf4JwZNuOQKibOm4OVJAxrD5RguYLbOY/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，AI 行业一直在寻找 Coding 之后的下一个高价值入口。办公软件，争夺文档、表格和日程；智能硬件争夺真实世界的数据。教育可能是一个长期被低估的答案。教育 AI 已经开始进入规模化应用阶段</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106797&amp;idx=1&amp;sn=13835845779499bc16a92c5cdccaf8d3&amp;chksm=bcb5200bf6b36f2af653f7eccaedde6700ed8709b3f9d57952731f0d6aac24951a1c5e3e9393&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 09 Sep 2026 16:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今晚过后，你的下一台 iPhone，要从「打开」变成「展开」｜苹果发布会终极剧透]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLMzVMS8H94T5abdevkzyZ3tVtbvxHIlgQ1aE7ibZmWhiafX3zbiciceGOtP8hibdZuIVjDvccMfcRzUrdUn4P3NeI6zlYbtFD5K4ibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>北京时间 9 月 10 日凌晨 1 点，Apple Park 将迎来一场名为「Surprise and Shine」的秋季发布会。台上的主角，除了新一代 iPhone、Apple Watch 和一系列</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106844&amp;idx=1&amp;sn=e354d35bff3c0bf0c101fa0bb488e5ef&amp;chksm=bc61575ce79701d28d84492c3837925f6dafab60ddadac0705028be3755a41f780fe9d4627d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 15:46:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[办公 Agent 大乱战，新势力 TeleAgent 凭什么坐上牌桌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKNDV7URGBjt1qKK0ZTWNbrGAy8ktxX6eKTJoqC0zZRp2tVrUY7EI7icFHv8dPLL3NLMvgHmN8mc5qQYpFKbP0aatR6icPSD9VDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>办公 Agent 下半年开启了大乱战模式。打开这类产品，左侧栏里的东西大多很眼熟：文件、搜索、技能、定时任务、PPT、网页生成。AI 已经开始离开聊天框，进入电脑处理具体工作。不过在日常工作中我们最关</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106786&amp;idx=1&amp;sn=17091ec99d5dcf20e6357c9932086af6&amp;chksm=bc257628576cd7689fa46b6db4c60c1c916b727bcfd98fb1e0deb71eb241c99b7483a2192946&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 11:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，DeepSeek 新模型突然上线，Flash 的模型，Pro 的野心]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK8ia8Oib9Q0O3f0KjvBBFfibtMa5LEBCfSnhBia6DnqISo25byTu2PltrHmn8znSvp7IJH2ibu9wGCfbqcf8MZSeC7rDNWw7DOJYII/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在刚刚，DeepSeek 开启了新模型 DeepSeek V4.1 Flash 的限时内测。官方称，这是一个面向用户开放测试的中间版本，采用新的模型结构，原生支持多模态。按照 DeepSeek 给出</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106575&amp;idx=1&amp;sn=8df2e05e8335e2a74a03fde6f2077591&amp;chksm=bc638c3b69f1ec6e3a3cdd92ef40d9039b6dcb34c109472b48db3e91ec5017ad0f0cd723eea5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 17:18:58 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 定律：今天有个 xxx 刷屏，明天就有个 Openxxx 登上开源热榜。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1SeqvWXWZIicT5GhITKtNpDkibN5VmhYop0eOxcibqhLniaE24MYSzelbGYIEkBqc7iawDGgiacm5CbXibEP3NZDNYGH3FZmZKAictXzs/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在，做一个产品 Demo 确实简单很多了。现在什么产品火了，稍微拆解一下它的技术路线，找找有哪些开源的组件能攒一攒。然后把能找到围绕这个爆火产品相关的重要 Context 一同丢给 Codex。打开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537495&amp;idx=1&amp;sn=803c312533d9b69a993cfa4e89cc5ee2&amp;chksm=f880ecf25f099d0244caf75d4d03c8c9664fc562ade41897f827f543648dde2b4ffeb95e9f8b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 10:07:36 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用 Claude Opus 5.5 做视频堪称一绝，外网已经玩疯了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3zYj4SJp0V4ibiahmXUEWo03QtSrLohicQA4mcTJ82oPA6SEB1iajANft46SZB8KbfYXENpJJ5cSEUDTqcibN2PaGCMWevDGWQZ0kI/640?wxtype=jpeg&amp;wxfrom=0"/><p>好好好，Jev 模型和 GPT-6 做 3D 的爆火浪潮还没过去。大家就研究出来用 Claude Opus 5.5 做视频。这里提到的做视频不是 Seedance 这类模型的视频生成。而是让 Clau</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537493&amp;idx=1&amp;sn=01e8487dc31156f4756ca85b0f573688&amp;chksm=f89d81082bdd7e1ac6e6e45ab4b7f0889afda5b134009acf49b38fa666bd3838597b5a0a3c6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yNibU3xIAmpK6oiaVJLYSevwr8O40WOIOiablCTNB0ib949JKybnTonGxzUTCPiaDaCSTjTJVkvwJ9w3IkzhTiaMHut0Zn9RS7mwiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你有一台服务器暴露在公网，哪怕只是放了一个个人博客服务。过不了多久，你大概率就会在日志里看到一堆奇怪请求。还有一些访问频率高得离谱，感觉就是拿你的小站来压测了。网站安全防护并不是大公司才需要考虑的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535351&amp;idx=1&amp;sn=be4428795c5045cb635ada67bbd57175&amp;chksm=f8722bacb6e99475406773910701dee7cde25e73b219dda7ddfd37ecad6b28898f317ad5ece6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 14:20:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 Skill 让 Claude Code 看懂视频，还挺实用的。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU14fUganRMCcwV8TJxlP8Z3KFaDjUvKsGsmVWbNV2xf0SAZLicI949SvdRpvkxbHTwPUlnbLZbvOjiaosUJmF3jLSSbPj2W9bEyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 配一些基础的 tool 或 skill 就能读网页，看代码，处理文档。但视频一直很难搞。你丢给它一个 YouTube 链接，它大概率只能读到标题、简介，或者拿到一份字幕。可很多视频真正有价</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535343&amp;idx=1&amp;sn=5c13d73a81e83427597b51786885aa1f&amp;chksm=f8d269db3cf7c789dfd5d2775807d4ec885c3f0ad68e915d69085a5054643867cf8ec9072d7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 14:30:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

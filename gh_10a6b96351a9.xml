@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[其一，写好description； 其二，正文做好路由。 先说第一个要点：写好desc。 正文写得再精彩，desc写歪了，skill也很难被触发。desc不是写给人看的摘要（summary），而是写给模型看的触发器（trigger）。desc描述的不只是这个skill是干嘛的，更重要的是什么时候被触发。 Claude Code团队的原话是：The description field is not a summary, it's a description of when to trigger this skill. 我们切换一下视角，就非常容易理解了：agent眼中，skill就是desc（见上篇，渐进式披露），它拿着这段话，和用户的消息做匹配，决定skill是否触发。 所以，写desc，我们实际上是在写一段[给模型的路由规则]。优秀的desc都长啥样？官方给了一个公式，desc至少要包含这些内容： 1. 能力清单； 2. 具体场景； 3. 用户触发关键词。 name: weekly-report-helper（周报助手） description: ？ bad：这是一个写周报的skill，每周写周报时激活。 good：该skill从聊天记录生成结构化周报，当用户要求写周报，或者提到"写周报"时激活。 第二个要点：正文做好路由。 很多人写正文，习惯把自己知道的全部写进去，写得越全越有安全感，这个习惯不好。（见上篇，渐进式披露，这里不再展开） SKILL.md正文不是知识仓库（warehouse），而是路由器（router）。 路由器的职责是分发：告诉agent分几步做、每步去哪找细节。SKILL.md里不放细节内容，放细节内容的指针。 bad：周报文风细节xxoo。 good：周报文风细节详见style.md。 另外，正文多用祈使句，少用"你可以…或许应该…"，少用第二人称。agent不需要被说服，它需要被指挥。官方规范里有明文要求，原话是：Write the entire skill using imperative/infinitive form, not second person. 还有一条实践：别把一切都写的太死，要留一些余地（有些反认知），只有写成"目标+判断规则+坑点"，agent才能适配没预料到的场景。如果是100%确定的场景，就写成程序，而不是skill。 说了这么多，高质量的正文都长啥样？ Anthropic内部最佳实践给了一个骨架：定位，流程，边界，坑点，参考表... 限于篇幅，这里不再展开，节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>其一，写好description； 其二，正文做好路由。 先说第一个要点：写好desc。 正文写得再精彩，desc写歪了，skill也很难被触发。desc不是写给人看的摘要（summary），而是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981704&amp;idx=1&amp;sn=eea508096408cb3c814b252e9a6a158d&amp;chksm=bc1cee06fcc84b3c12a19b1ee4c06b418c4d281505316b5c827af705c180994ea68af2b771df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对于skill，我们真的理解透彻了吗？ 大家可以测测这道题：一个agent启动时，系统提示词里[立即]加载的是skill的哪一部分？ A. SKILL.md的完整正文 B. 所有已安装skill的name和description C. 被触发的那个skill的frontmatter D. 当前项目目录下的skill列表 很多人第一次接触skill，会把它理解成[一条保存下来的复杂提示词]。这个理解不完全错，但它会让我们写出糟糕的skill。 你是否认同这个观点：skill不是一个提示词，而是一个文件夹。 这句话不是我说的，Claude Code团队在内部跑了几百个skill之后总结的，原话是：You should think of the entire file system as a form of context engineering and progressive disclosure. 翻译过来就一句话：整个文件系统，本身就是上下文工程（context engineering）。 agent启动的时候，我们可能已经装了几十个skill，如果把每个skill的完整内容都塞进上下文，上下文窗口会立刻爆掉。skill的设计核心：把信息分了[三层]，按需加载，也就是大家熟知的渐进式披露（progressive disclosure）。 第一层，元数据层：每个skill只有name和description进入系统提示词，启动就加载； 第二层，指令层。SKILL.md的正文，命中了才加载，建议控制在5000个token以内； 第三层，资源层。references、scripts、assets，正文里引用了才加载，这一层的容量实际上无上限。 大伙发现没有，[skill里写的每一个字，都不是平等的]： 1. description里的内容，永远在线； 2. 正文里的内容，触发才占地方； 3. references里的内容，按需出现。 所以，写好skill的第一性原理，不是写得全，而是内容放得对。 限于1000字限制，这里不再展开。 节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>对于skill，我们真的理解透彻了吗？ 大家可以测测这道题：一个agent启动时，系统提示词里[立即]加载的是skill的哪一部分？ A. SKILL.md的完整正文 B. 所有已安装skill的n</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981700&amp;idx=1&amp;sn=cb78c5fbec82ed4a133f90fada97d1a0&amp;chksm=bcf72b21c2bb22e3afce2ff434e7def30134de993b5f1ed8f343b0f4ebd28bfcf04770b98ebf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>我的人生走到今天，大致分为三个阶段。 【1】 最开始，压根就没有什么目标感，最多有些短期的目标。 初中之前，我是个典型的“乖孩子”，老师说什么我就做什么，父母让我干嘛我就干嘛。那时候的我，更像是在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981317&amp;idx=1&amp;sn=fc4b6eaa0e0b2c6315dd1dd823a19dc8&amp;chksm=bc16afcd7d85038726a54d35069f59a9c08405e1ef948c8986bac92b29dcf3e9ca982f71cd2e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 06 Jul 2026 17:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[40多岁，创业1年多了，送两个免费福利，一个数据库大会，一个行动营...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdUCFTNxSzagu75loJiaj42LRMK2mcs2ialf7sTyyRz9kWEBvXGrYIIWXtuvpcm9Lqm2ib4oP4HQyuYuKD4glicHPZPnBFTZ22j29A/640?wxtype=jpeg&amp;wxfrom=0"/><p>去年4.8发布成长星球，不知不觉，已经1年多了。在去年一年里：直播，图文，作业... 在社群输出内容，和大家互动互助，一起提高。做自己觉得有意思，有价值的事情，个人情绪与状态，肉眼可见的变得更好了。画</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981315&amp;idx=1&amp;sn=5d6641533fe55241b656d0627b985f52&amp;chksm=bcd6114d6f44fb28b0282e62b51b422dd22fdfd7b5af2d5bfa3aafbbaea39cc4af53ac4b9c1d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 03 Jul 2026 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

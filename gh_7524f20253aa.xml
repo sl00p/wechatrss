@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Fortinet邮件网关9.8分0Day遭在野利用，未授权即可写入文件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3HY9XfP4wU76fAs6JFwwOygl6Jrro1p8cYShrPK838bA121dTl0e40NHKkibGDB1OtH6MsK1lnTlgpoekH2dvcziauHhSRxZ094/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet旗下企业邮件安全网关FortiMail近日被曝存在严重安全漏洞CVE-2026-104286，CVSS评分高达9.8。攻击者无需身份认证，即可通过特制HTTP或HTTPS请求向设备底层</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=1&amp;sn=d7faa1a3e8ea8af24a6554e18baf7029&amp;chksm=bc3ff04ac6dbf72bbcde08224c9d9d90d63913078d1147e8fcc79c872b5d41f46ae220d3faae&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitLab紧急修复AI Gateway 9.9分漏洞，可致服务器命令执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2dHBPhYY8eU2WQSQ8hGLBB4lia2abCIUzIsh1Rtiajh6wQ9eopXV4yEMib91nvgHraGGibPpmlibFInRgyVeab3L0tn8fia7zS1aUDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitLab已针对AI Gateway中的一处严重漏洞发布紧急安全更新，攻击者通过身份认证后可利用该漏洞远程执行代码。该漏洞编号为CVE-2026-90970，CVSS评分为9.9，主要影响自托管部署</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=2&amp;sn=0c705e7001950cf13d9229bcd46dac59&amp;chksm=bc77973950ae2862e84171699cb7117086b7a7ca2cc51fa377a116096c9ddbcecafce392cff2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果iCloud邮件曾可任意伪造，三重安全校验均被绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ornZGg4LZeeKPWKvP1oLp9oEEjvibVfcDF6EGPLCgAZKpPebTMsO90P1LmLsiaUTUlCgYBMu2RDgsY2ibKfZwLicjunkiantk9QjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Timo Longin联合SEC Consult漏洞实验室，披露了苹果iCloud邮件基础设施存在的两个邮件伪造漏洞。攻击者仅需拥有一个免费iCloud账号，就能发送发件人显示为任意@icl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=3&amp;sn=d8d689c91aa89e8b948880f8639777bd&amp;chksm=bc41cce1313f3ea443db0dc251a919966a41885a377eab21b04cb63e7c1695c76eff49a35ffc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Google发布Gemini 4 Argon，AI可自主挖掘并修复高危漏洞]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2K0aKla3d5CDJddd9botichS1R8ec5UjO2y2cNKHibCKZlYFEz6mlHicCUDwJknf0opEEvFcUwZkr4BvnEBiatyykqw2x7zyqgnpY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google发布全新前沿AI模型Gemini 4 Argon，目前正通过Fairwind项目向一批可信网络防御者开放推送。Google表示，该模型可在无人工协助的情况下定位、验证并修复关键软件漏洞，后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348135&amp;idx=1&amp;sn=25a0a0d6afc390bfaef86c0365cce8e9&amp;chksm=bcf26cacd0c04ce6aaa25fbac5491789e17df65f87cbf3caf58f42c3784658f6f06417a3cbe9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0PPYPuv3qwGqJa9Rq5RI1ZFaT5KetPEcrnCjmFR1JnlAuyjTXYxboR7PvGttwuAklMYeNFBSdkuM69JzicvsP4Fu3X1858hS4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=4&amp;sn=d68145140afe4cb77bdbd6846978ff08&amp;chksm=bc1824601b1df1853dffec13f209b79963e4ba484bea1588a80efdf7c506dca747a8273e8bfe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[蜂窝设备挂失机制曝严重漏洞，几美元即可远程封禁陌生设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3oMEsZN8iaWvyZBMldMVBR9DxTV1Fic0xSga5dRISVrJSMSPm1l6KYqjrXN8ZwoemrPWINJVXcZZPzvgU5VHQIrzGicjzpyUzVQw/640?wxtype=jpeg&amp;wxfrom=0"/><p>密歇根州立大学联合三所合作院校的研究人员开展了一项对照测试：他们购入一台三星Galaxy Z Fold 7，抄录密封包装盒上印刷的设备识别码，随后向运营商虚假申报该设备丢失。之后研究人员拆封设备，按照</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=1&amp;sn=55fdd24c7d30255e5ae34c25f4da180b&amp;chksm=bc65bc9ed942b98dd0ccfd970bf872484f278dbba0c56ab02c0c77388704205518f7e5f5006f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude测试越界失控，4款AI模型未授权攻击真实生产系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Uwchw4icqwQU8V3pfc2TFXl3Zgz9bia6LcRNSp7NFj7EwGt06gTOSRicfNhe5PibA9xUubyaoJB1uPVaOQnCtSOR7Yz6pcibRWV0Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic披露，旗下四款Claude AI模型在本应处于沙箱隔离环境的网络安全评估中，突破边界入侵了真实第三方系统，暴露出模型对所处环境的判断与实际情况存在偏差。 Anthropic最新发布的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=2&amp;sn=2dedc641fb3164ff3d73c87870bfa6d8&amp;chksm=bc7b279d7ddf033fc8bdd3f2c992ca51688dbdf32ef7acc063ab2d9c7d141958a5903f5d1945&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Claude与GPT工具实施入侵，波及拉美政企金融网络]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2jXtfyic2pJjmBCoRWdbGahYpjkPkOicpSIarNCyMVK4ib8By4MSHh3uqqB72tA158kvRqcMlkXhQIJJXnk6tQMHrVR5xgnyKwrE/640?wxtype=jpeg&amp;wxfrom=0"/><p>黑客已使用商用AI模型入侵拉丁美洲多国的政府、交通及金融行业网络。这一系列活动说明，对话式AI工具可以提升常规入侵流程的效率：既可以修复出错的脚本，也能帮助攻击者将窃取的数据从已攻陷系统外传。这些攻击</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651346659&amp;idx=3&amp;sn=a8fd746dc24b9e2b6f304f6cf1a29d79&amp;chksm=bce97842182cd3eb9ba2aafc0043719436d2bd09488fb34bcb89e538a96b9d0cac3f9ec20a66&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

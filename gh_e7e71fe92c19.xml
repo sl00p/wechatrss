@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[人机共智·重构攻防｜京东安全，助力第十届安全开发者峰会（SDC2026）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1iatbWPuy01sVOzVaPfMmZHRlzlSRsa4iaeVtmPDSib3pQYhjgQs1aeKR5juwG0bYibHpyxicbo6aU0jWk4jHwY3SNmK4gcawZialEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（SDC2026）将在上海举办。本届峰</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622475&amp;idx=1&amp;sn=54fd260aa36b929e93d9603f49531092&amp;chksm=b0bcf26aea29d2ec8920f87ef06cdad9811415cbd92bd540773c73f40c450f45f0ff54c6b035&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[iOS 自研网络栈逆向分析：从 TNET/SPDY 到应用层协议降级]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EC6kpd2lJbDjwOmyAdIIbA5MR3Bz03U661icYnYcNldsU1uiaN3q4FXXibocdYAT2uZ5RdEAan9mPlUxrb4Oh5tB7bDRr7do2QI/640?wxtype=jpeg&amp;wxfrom=0"/><p>工具：IDA Pro 9.0 + ida-pro-mcp、Frida00TL;DRTips:iOS 应用 ≠ 都用系统 TLS 栈。 国内大厂的自研网络库(阿里 EMAS、字节 TTNet 这类)是整</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622475&amp;idx=2&amp;sn=dc75066efaca24128e6f771eefe8a161&amp;chksm=b0b3fb34df63aff5bb59de9ed1ced54f44646ad87f32fd421b67473d32dcb1d4ab4dfc9e1763&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 03 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ylNxnpef6IzHcQTw0SD0jHo3T92OJLSmskqNQ2TT4IRbpGjX7MibibRnMY74yhEv2HvxI2ONvdIPlsNar4NE4ycXtpwIuOo7eo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘》随着Google推进“Kotlin-First”策略，Android操作系统开源项目（AOSP）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622474&amp;idx=1&amp;sn=5a053c1ccd29130d88b0c43929c9f296&amp;chksm=b00ee9eaf0e326f03124f2f74686ec2340c0cc9e12468b8fc34626e73eff1041c5ab98022e81&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K37ly3icAzTcG9FI8tkNGWNKOxojuZRbtGURBByQTq1vLFX5BXdmEMtwIzQcVCNU6H5pv5XjNvdAntWJ17xwW1JsF2XCLbuokHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日安全厂商SOCRadar披露名为PEEP的后渗透攻击工具集，该工具伪装成「Smart Bookmarks（智能书签）」Chrome扩展，不仅能够窃取浏览器登录会话凭证，还可打通浏览器沙箱边界，将已</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619656&amp;idx=3&amp;sn=6f21c76c77eff40742ad0de5d54e84ef&amp;chksm=b092cc9f10d24047c72f37c0a96b47e734248f96abecdcbd3c081cc06d796b213cb4e38665cf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 18:00:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[把奇思妙想带到SDC，极客市集展商招募开启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3oibKcxXP2jJkr3ANCScDoG9TGw8A2UHribRFYtDrnjcARv1wPj5tWuhmiacnqTOwCoyobPzmftKzoncWf1bkUkPvNM6yBhcNs9c/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026极客市集展商招募这一次，把你的奇思妙想带到现场！当技术不只停留在代码里，当创意不只存在于脑海中，当一个个有趣的项目、硬核的技术、酷炫的产品，真正出现在开发者面前——极客市集，就该是这样。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619528&amp;idx=1&amp;sn=10b4485c9fed16d4be2418d532a084ab&amp;chksm=b058d5ddb0dc0e873bcb3779df4bf72f11f0fae30fe01eefed4744a2a8703f8eb6cf839341b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Windows调试体系揭秘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1RsY0Cw30FCoFCVz2YflFP9YTsOvNJmQtxDwicWbFXqDMakG1Y1UKOr3ddR5dcMRjSgVTlk1KBgNUIpFtLVOhwxlv9sm9ThnGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>身为一名逆向人员，ida，x64dbg几乎是我们无法离开的工具，这些调试器的背后的原理是什么？所谓各路五花八门的反调试，调试器检测，无痕hook，线程逃逸又是什么？接下来，我将带大家深入内核，探究wi</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619528&amp;idx=2&amp;sn=24940f883e8435ecda20073eec37fb9b&amp;chksm=b050d842db1a663a67771cbaeb04a98bdcb2dddb1cbac535fe6f24b56e79773704d4ac0b2804&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
