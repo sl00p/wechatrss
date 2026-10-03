@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[DeepSeek Harness 新增 Claude Code Mods 兼容层后，崔添翼在知乎发了长文回答。他直接回应了「抄作业」的争议，否认了是被迫或模仿别人才做开放可扩展的。 「开源是我们的初心，不是被迫开源的。」 用户原本就可以通过 Claude Code、Codex 使用 DeepSeek 模型。再做一个相似的产品，能带来什么体验的提升？ 崔添翼依旧把答案放在了「一切皆插件」，DSH这个核心理念公布后，官方第一次给出了更具体的解释 前几天 Mods 发布时，崔添翼曾祝贺 Claude Code 团队，称这是一次理念上的汇合。这次兼容，则用来检验 DSH 的插件架构能否容纳对方的扩展能力。目前仍是实验性功能，不能保证完全兼容。 对用户来说，软件可以按自己的需要改变，是最容易感知的好处。 DSH 的「创造模式」已经允许 Agent 编写、安装插件，扩展自身的能力和界面。崔添翼希望通过训练模型，让产品能够：「按用户的所需所想而改变」，乃至于「言出法随」。 经常重复的操作、习惯查看的信息，都有机会通过插件固定下来。用户提出需求之后，可以直接参与修改产品，不必等开发团队把它排进更新计划。 到了企业，插件承载的是行业经验。 不同行业有自己的系统和流程。崔添翼希望企业及帮助企业落地 AI 的团队，能把这些经验和基础设施连接沉淀为插件，减少重复开发。一个项目做完，部分成果还能用到下一个项目里。 已经有开发者用行业插件搭建 DSH「AI 工作台」。这些插件通常没有公开开源，DeepSeek 支持这种做法。 企业可以采用开放框架，同时保留自己的业务实现。行业团队有机会围绕开源 Harness，建立自己的产品和生意。 崔添翼还想把插件用于「Agent 自进化」。 他的设想是，让 Agent 在运行中通过插件改变自己的工作方式，最终提高智能上限。工程上，需要完善热插拔、热重载；模型也需要新的训练，学会怎样修改自己的 Harness。 崔添翼认为，只有做创新的事情才是真正『推进 AGI』的事情。「DeepSeek 的目标是实现 AGI，DeepSeek Harness 组的目标就是从 Harness 的角度推进 AGI。」 在 APPSO 看来，有一个无法回避的问题：企业会用插件固定业务流程，Agent 也可能通过插件调整执行方式。它们共用一套架构，需要不同的修改权限。 「一切皆插件」给了 Agent 改变自身的可能，接下来如何分配这种修改权，会影响它能获得多大的自主性。 但就像崔添翼说的，前方的路还很长，AGI 还远未终局。]]></title>
+      <description><![CDATA[<p>DeepSeek Harness 新增 Claude Code Mods 兼容层后，崔添翼在知乎发了长文回答。他直接回应了「抄作业」的争议，否认了是被迫或模仿别人才做开放可扩展的。 「开源是我们的初</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110800&amp;idx=1&amp;sn=2b05933cc1c865c1e878f72211cae8e5&amp;chksm=bc8a3d6728c8ae7cf3ff73fb7e005c6672025dca034c8910ae42b006178fa6426c48d33e732a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 19:28:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKGVJmgiazdICmYDfdLzbiaxOhzRibTTWjbuyoFbggibnOWsoteJuRuicCCFZgjykyLJtXibpMMgY8TvnKBRNhSYSOVA8icyiayUU2xSQU/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果说现在形容一件事很厉害，最常见的用词不是「牛 X」，而是「瘫坐在地，仿佛看到了核爆炸。」这几乎成了 OpenAI 这家公司的「企业文化」，成了整个 AI 圈模型发布的一个梗。昨天，OpenAI 的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110777&amp;idx=1&amp;sn=759ddcc0ae0a554480b18cab18206c95&amp;chksm=bc907db1a004909ce0d57a0bb241cf29ed98ceb2179e1bccd2effafd8c1533d56b4b29f00f1f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 15:04:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Opus 5.5凭什么刷屏一周，看完这些爆款案例我悟了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLh1pNCjlKkcYKgibwdOHDBcr2Anav3z8nQ650ty0ZibvtBYvUgQqoosgy9Hzu9LLqXQwz32QAaUvzF2w13BULpcicibUTU4Afrgt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 Opus 4.5 以来真正的六边形战士，Opus 5.5。这是网友们对 Opus 5.5 的评价，不仅价格对比 Opus 5 更低，核心能力表现也更加出色。而六天后发布的 Sonnet 5.5 则</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110754&amp;idx=1&amp;sn=1fa87e655b5b268f54ba08be0554f40e&amp;chksm=bc8382dc540ee0c085c54ec1d9255e4124eac573b866c2b15bff63d61d2af499a053338b5aa2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 09:58:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hinton 联合 20 多位 AI 大牛警告：「智能爆炸」时代要来了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfLIO1DYOdf0z1TYgEcHw9ytffs3nxNCnclRCDgsaEJ9JLUlJeA4RCIQBpvJWTPgSpkkTo9bKnbVXXCpFPdlB02juSIRWbAYGT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>「AI 之父」又出来发声警告了，这一次还拉上了一众行业大佬，对最近热门的「RSI」开炮。这是由剑桥大学人工智能科学与政策项目 CASP 发布的一份由二十多名研究者共同撰写的报告，作者包括 OpenAI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110748&amp;idx=1&amp;sn=535639215d8752c11715d6be1ed933f3&amp;chksm=bc469f63439e3101b3b8af6148308132da8c9d25ba08e808ef1275b49a3017acb607ff6ccc26&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK7thlep0CJU24ZdP4jtw2ILaUUbATicuSAocldPh1Ecu9dDhy7M8XEMUp5UhvshfZ9SrZJpyks6jcWhplmKO17fsIbwgyf6EMo/640?wxtype=jpeg&amp;wxfrom=0"/><p>怎么全世界都开始吻上 Flash 模型了？就在刚刚，DeepSeek 正式发布 DeepSeek V4.1 Flash 模型，并已全面上线官网、App 和 API 端。作为 DeepSeek 新一代模</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107020&amp;idx=1&amp;sn=ad03352a40e558ca5832a76d70ff4056&amp;chksm=bc7d0024cf9149efd9ad611bf3ed91e711ad52d9363287badf683a4bdd34de75f4e45a24269c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 15:31:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果国行 AI 没有来，但新 Apple Watch 先迈入了个人 AI 时代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfL9ufBtXSry1kT1SwIibhFQAlNezGXCXRaaphpouk5ZUmmfKO7tkQrxrlBggCicJ2ZD9UnWwuAkZBchAzy09wTfnp2qvUF8hicIQU/640?wxtype=jpeg&amp;wxfrom=0"/><p>曾几何时，Apple Watch 和 AirPods 被苹果定义为「配件」类产品。但在今年，这个苹果面向 AI 转型的关键年，这些产品却扮演了前所未有般更重要的地位。没错，不只是 iPhone，连过去</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106946&amp;idx=1&amp;sn=7e8367d0d1121b2bd2ea616a89c674c9&amp;chksm=bc3e193fb2425514bda590e372327362d662bbb288bd0ee4ada5659206b95cc0675e96fe29f9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 14:13:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，苹果首款折叠屏iPhone Duo发布！卖两万，它还真配]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfIOAW5iayMWkEljyDDUftib4mnjSKpFrbxYyaLNI6Y1t8G3SAlQoRnAo8Kg9hncAbR0nrEia5EwMgS6Zf2lN2EpWAVUNPM5D3k7pc/640?wxtype=jpeg&amp;wxfrom=0"/><p>伴随着苹果新 CEO 约翰·特努斯富有磁性的声音，我们终于迎来了「2026 年全世界期待度最高的手机」—— iPhone Duo。图｜Apple作为或许是过去几年爆料最多、最密集，也最反复无常的科技产</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106942&amp;idx=1&amp;sn=3fd9475e825d65f950772c22242f490e&amp;chksm=bc4a11ab5e09433d962ca15d5fefaf6a9b7142a468b85e3add87394aa9ddd93579b1b08d9c57&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 05:24:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfJia02zwn1LR5qSBnv2WvG8QeoN68z8FRelY1KkaictbC9GN6tCRbyicC8ogicAjibSCGzMuOf4JwZNuOQKibOm4OVJAxrD5RguYLbOY/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去两年，AI 行业一直在寻找 Coding 之后的下一个高价值入口。办公软件，争夺文档、表格和日程；智能硬件争夺真实世界的数据。教育可能是一个长期被低估的答案。教育 AI 已经开始进入规模化应用阶段</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651106797&amp;idx=1&amp;sn=13835845779499bc16a92c5cdccaf8d3&amp;chksm=bcb5200bf6b36f2af653f7eccaedde6700ed8709b3f9d57952731f0d6aac24951a1c5e3e9393&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 16:58:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

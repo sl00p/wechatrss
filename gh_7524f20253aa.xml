@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Vercel曝KVM 0Day漏洞，虚拟机可突破隔离获取宿主机root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3uV2BiaXW8iag4G73HvyB29MurQ4azxvDCHhwQ6zpbhKXenFcbgMnl93F3Xb4Buuh82f7hqEyJmNo5CdnfVWjuMVtBxaCGcOY2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Paulos Yibelo发现并上报了一个可实现完整虚拟机逃逸的KVM 0Day漏洞，Vercel目前已经确认问题存在。利用该漏洞，客户机内部运行的代码可以突破虚拟化隔离边界，进一步获取宿主</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348229&amp;idx=1&amp;sn=32bcf139eea5175d76b7b39f1a0fc009&amp;chksm=bc2f557c81d3ebe67095597533ed540045430212b9be0680ea1273f7a9cac268c854aeaa10c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Warlock利用SharePoint漏洞发起攻击，禁用安全工具部署勒索软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3IgbqxZuI7RiaDKa2T5kgYrUWxs6W3Ixdu5yajOvB5vTvp378TmIib8ZNLdHpxb6s9ciawykIhWSdcrkXJq28CicQicua8T4oGGEFY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Warlock持续利用SharePoint漏洞疑似与中国有关联的威胁组织Warlock仍在持续利用微软SharePoint的新旧漏洞发起攻击，目标是葡萄牙语、西班牙语国家的各类机构。赛门铁</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348229&amp;idx=2&amp;sn=f1c47c6abf9dc088520d993cf1f9047f&amp;chksm=bc639dbd058afb103efafb363c299d5e5dd2e559ffd0850f3a2bf7e4813d184457dd07afb4e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[macOS后门CloudSyncD伪装Zoom安装包，利用零宽字符隐藏窃取密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2LYC1XpROnjSUyPPFZLPkSNZUqZPEjNnt1h0JpnpD7QmHuDPLfUnMS2rNe93RmvGgklqTEFmj9t7QFAgd9UXUlqzXzgPHQEQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Jamf例行扫描发现恶意样本Jamf Threat Labs在VirusTotal例行扫描时，发现了隐藏在伪装Zoom客户端内的CloudSyncD恶意软件。研究人员最早在9月15日监测到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348229&amp;idx=3&amp;sn=291d2734ee7a9599c1fa88911232fd93&amp;chksm=bc16086a47bcf35689049471ed31962b442ce1e757fcf4652e366593a6fd2249b9f67e48707f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 04 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Fortinet邮件网关9.8分0Day遭在野利用，未授权即可写入文件]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3HY9XfP4wU76fAs6JFwwOygl6Jrro1p8cYShrPK838bA121dTl0e40NHKkibGDB1OtH6MsK1lnTlgpoekH2dvcziauHhSRxZ094/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet旗下企业邮件安全网关FortiMail近日被曝存在严重安全漏洞CVE-2026-104286，CVSS评分高达9.8。攻击者无需身份认证，即可通过特制HTTP或HTTPS请求向设备底层</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=1&amp;sn=d7faa1a3e8ea8af24a6554e18baf7029&amp;chksm=bc3ff04ac6dbf72bbcde08224c9d9d90d63913078d1147e8fcc79c872b5d41f46ae220d3faae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[Gemini在安全测试中入侵3家真实企业]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX24rq8jibqqYLlRL5ibibIEiaHiaVR4NJ7gwsNkr05eDd2iaOiaocjoYe1N1o1l08o97FFBhcicHWfuntz1sEP7b7RRD3yj9cWdmSMJ1Qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google证实，在一次网络安全评估中，因测试环节失误导致Agent暴露在公网，旗下Gemini人工智能模型访问了三家企业的受保护系统。这一事件表明，一旦管控措施、靶标定义、网络隔离机制失效，即便没有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=1&amp;sn=b6ec1f16134c166caa8452915090cd83&amp;chksm=bc8393ec1ed85e20d67fbc33955e3e309da89925846d0b67fcc25556bf259d6b95747b0c27ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播回顾 | 漏洞刚披露，攻击已经开始：企业的响应窗口还剩多久？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2bJgl8WSTicnmGXpYQl8s5GBH51Mia3pBI9WeIG1cREicAbfOwTY1vhdJibjzl4UUJ721BoXs6Hx5UM1ySYmXYvbrpAwRpJoubvqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾高危漏洞刚刚公开，PoC、扫描流量甚至真实攻击可能已经跟上。另一边，企业内部还在查资产、核版本、确认业务影响。当漏洞利用越来越快，企业真正需要回答的已经不是“有没有收到情报”，而是：能多快</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=2&amp;sn=844e775b452431eb9e363528c52de0a3&amp;chksm=bc63d8b00ad3e4241d14acb0a8bee18f2e3df071a8a96e389ecbfc399b151b5e9f63e0e5f07e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Brevo遭供应链攻击，超10万网站被植入恶意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX01VzW7ltq1XjhYBZMNaRicbicq6oG7iaweYrsZ9lGVeNqVTKp9VgNIuwyCia6LicX5tK6WcAfhibm11FHHy5GOcgIMUxWIakg39ErZ8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01攻击者两度入侵BrevoBrevo原名为Sendinblue，是总部位于法国的云营销与客户通信平台，客户包括eBay、Louis Vuitton、Michelin等企业。攻击者首次入侵Br</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=3&amp;sn=287ec01754588fb3a5b34fbd26098670&amp;chksm=bc880cfb825c6906d1c2ee1428b07fd8385355c44466e8b45068c02f3ddbf6ad6b90909015fb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：开源供应链投毒分析技术报告；bp安教教程；逆向工程权威指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0PPYPuv3qwGqJa9Rq5RI1ZFaT5KetPEcrnCjmFR1JnlAuyjTXYxboR7PvGttwuAklMYeNFBSdkuM69JzicvsP4Fu3X1858hS4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=4&amp;sn=d68145140afe4cb77bdbd6846978ff08&amp;chksm=bc1824601b1df1853dffec13f209b79963e4ba484bea1588a80efdf7c506dca747a8273e8bfe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
