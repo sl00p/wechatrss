@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[10月22日上海开班！固件安全、大模型攻防、Android AI 脱壳三大实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K083ibrQ96y7OOJAXwQR08X0jUjBVbBsof8AgQTFibeTwicrT9rEb4ibPIiaZXVicxXg3nibrPJiaf9sJVRH8NDh2AR73634zibAibWNXg4o/640?wxtype=jpeg&amp;wxfrom=0"/><p>球分享球点赞球在看点击阅读原文，进入峰会官网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622476&amp;idx=1&amp;sn=55a7ce676a412ecef89057c059dc9de0&amp;chksm=b00c585b0f913ff2d615a992ed5cacca9405d53a8d126d74556d7d8e03b77205a6c1566d693e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 18:13:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Frida 脚本运行时机与Java.perform的原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0Lu3dccnKg0ibtky9p0GFWYzibNG1aDtIgOiczYzvmLCTRjwrLt0b0uIoIckvj3hClxh2kzHqnVzMy3kkQLSBcHLTydATWZ9HiagA/640?wxtype=jpeg&amp;wxfrom=0"/><p>源码锚点：frida-core / frida-gum17.9.1；frida-tools14.8.0；frida-java-bridge 固定提交 f72e61ed18fa6b72f0559df22</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622476&amp;idx=2&amp;sn=9a48dac0ed0ce562e5101b3a71be950d&amp;chksm=b0f09720f5af08cfe456bf4b7604c1dee37ebcaf2acb40297f04cd31d844cbd505a08982bc0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 18:13:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构攻防｜京东安全，助力第十届安全开发者峰会（SDC2026）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1iatbWPuy01sVOzVaPfMmZHRlzlSRsa4iaeVtmPDSib3pQYhjgQs1aeKR5juwG0bYibHpyxicbo6aU0jWk4jHwY3SNmK4gcawZialEI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（SDC2026）将在上海举办。本届峰</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622475&amp;idx=1&amp;sn=54fd260aa36b929e93d9603f49531092&amp;chksm=b0bcf26aea29d2ec8920f87ef06cdad9811415cbd92bd540773c73f40c450f45f0ff54c6b035&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[售票开启 | SDC2026：人机共智·重构攻防]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0hytEhZZ0lCXy8ia8ycPKBnwsWGfwHPvobGgWbiblgAreg4oBDQPXGaGIrjKgWyF4LmEsQAQDZ8Cz6ARN8RqEI1wY9MKeXsWdqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>从AI赋能漏洞挖掘、威胁检测，到大模型衍生攻击、智能化安全研发，AI正在加速进入安全攻防的每一个环节。当攻击者开始使用AI，防守者如何应对？当安全能力越来越智能，人与AI又该如何协同？10月23日，第</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619656&amp;idx=1&amp;sn=2f23a0dd3df2fcb4c84eeff7856fcffe&amp;chksm=b0e92dca9698aa2b24fb586ab8ba35ba117030b952cc5697290d8301d5a72f9a4e5113a088f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:00:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hitcon-2016-babytrick 解题报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2pyicJbgKMN4PUnw3w0MIJsSn4Ob4KTwt6v87EicepfeGCXwvljMaF2QQ2TsvfQC3DicHcpIhfVicwPcAic8p4nnNriaOiaQUUfU282s/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.题目概述目标地址：http://30269a20-ee39-4807-8152-7b969e4b23f4.node.pediy.com:81/题目是 HITCON 2016 babytrick 的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619656&amp;idx=2&amp;sn=e2518e55f8b66c6b10176910c3fd00e6&amp;chksm=b047b6c52c9d5fd0410316b581280b4a19d9e174d5708bf5529dd1382bfdbad1c8f187d10ed0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 07 Sep 2026 18:00:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[伪装成书签工具的恶意扩展 PEEP，实现浏览器到主机的完整攻击链]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K37ly3icAzTcG9FI8tkNGWNKOxojuZRbtGURBByQTq1vLFX5BXdmEMtwIzQcVCNU6H5pv5XjNvdAntWJ17xwW1JsF2XCLbuokHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日安全厂商SOCRadar披露名为PEEP的后渗透攻击工具集，该工具伪装成「Smart Bookmarks（智能书签）」Chrome扩展，不仅能够窃取浏览器登录会话凭证，还可打通浏览器沙箱边界，将已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619656&amp;idx=3&amp;sn=6f21c76c77eff40742ad0de5d54e84ef&amp;chksm=b092cc9f10d24047c72f37c0a96b47e734248f96abecdcbd3c081cc06d796b213cb4e38665cf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 18:00:22 +0800</pubDate>
     </item>
   </channel>

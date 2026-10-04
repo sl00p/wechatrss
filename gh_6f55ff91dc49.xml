@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点 20 个 9 月份 GitHub 上顶顶顶的开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2xSSNaXzIficdQsn2wicRhXPUQJeNG0ibwr2V2MVF3GwrqKskQLPLWhZoONospqVexTBmz77IDibqbZ5bzqqIK9sCzLQdkt5Dzkds/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Archify：教 AI 画复杂架构画Archify 这个 Skill 可以把一段系统描述或一个代码仓库画成交互式图表。比如，你让它画出一次网页请求怎样经过接口、缓存和数据库。图生成后，还可以继续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537550&amp;idx=1&amp;sn=29715a80ebde4036ab57651905d6bc3f&amp;chksm=f8e37a2c878cca0a3f561ba344352f9fee6ec08a08285fb932c1c4b6931ef3d835e93828cfbe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 10:11:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 定律：今天有个 xxx 刷屏，明天就有个 Openxxx 登上开源热榜。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1SeqvWXWZIicT5GhITKtNpDkibN5VmhYop0eOxcibqhLniaE24MYSzelbGYIEkBqc7iawDGgiacm5CbXibEP3NZDNYGH3FZmZKAictXzs/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在，做一个产品 Demo 确实简单很多了。现在什么产品火了，稍微拆解一下它的技术路线，找找有哪些开源的组件能攒一攒。然后把能找到围绕这个爆火产品相关的重要 Context 一同丢给 Codex。打开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537495&amp;idx=1&amp;sn=803c312533d9b69a993cfa4e89cc5ee2&amp;chksm=f880ecf25f099d0244caf75d4d03c8c9664fc562ade41897f827f543648dde2b4ffeb95e9f8b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2yVsD4EfrtU6KODiaicDAS2YPmpSickC9JVlVDwJ7pGf2NfC18BLlG3ejATCicoicUfCAGCotqQw8qHZMG2VL2a2RgUcf35iaXTWNibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>终于有一个可以复刻 Apple 设计风格的 Skill 了。Apple 的一些视觉风格，给人的感觉就是很舒服。这种舒服感不只来自圆角、毛玻璃啥的。而是有很多细节，比如按下按钮，按钮有回应。卡片飞出去之</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535360&amp;idx=1&amp;sn=d694248b409b2f9430e55417e41d9205&amp;chksm=f80963c9ce3bd300410489fb934172477d51e15106ca3e67083b44b746a3b0add230eebf113c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 15:01:40 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 狂揽 21.7K Star！这个国产开源神器解救你裸奔的网站。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1yNibU3xIAmpK6oiaVJLYSevwr8O40WOIOiablCTNB0ib949JKybnTonGxzUTCPiaDaCSTjTJVkvwJ9w3IkzhTiaMHut0Zn9RS7mwiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你有一台服务器暴露在公网，哪怕只是放了一个个人博客服务。过不了多久，你大概率就会在日志里看到一堆奇怪请求。还有一些访问频率高得离谱，感觉就是拿你的小站来压测了。网站安全防护并不是大公司才需要考虑的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535351&amp;idx=1&amp;sn=be4428795c5045cb635ada67bbd57175&amp;chksm=f8722bacb6e99475406773910701dee7cde25e73b219dda7ddfd37ecad6b28898f317ad5ece6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 14:20:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

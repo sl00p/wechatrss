@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[想30分钟写出一个好skill？先学会“挑刺”：我拿Anthropic官方示例开了刀]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfg6TwOnUNGOtZUsB5bQuDmTQpibaONeUiazHRkNFIe1QrPfQrXYQPbvibGozXibxkzCT18VytCTibVYcRyp1nqvLN7ETXK2Z2gAK8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>你用过很多很多 skill 吧？它能大幅提升 AI 在专项任务上的表现。但真自己动手写 skill 的时候，发现它经常不触发，即使触发，也不按“想象中”的执行。写好 skill 的前提，要先看懂什么是</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981708&amp;idx=1&amp;sn=02d64f352330c48434bf30754dc38828&amp;chksm=bc8ed6839afc5ccfcad304f559e2a93562389d931ae0dbff3ce76e3d411e143c7ee7d2940b21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[其一，写好description； 其二，正文做好路由。 先说第一个要点：写好desc。 正文写得再精彩，desc写歪了，skill也很难被触发。desc不是写给人看的摘要（summary），而是写给模型看的触发器（trigger）。desc描述的不只是这个skill是干嘛的，更重要的是什么时候被触发。 Claude Code团队的原话是：The description field is not a summary, it's a description of when to trigger this skill. 我们切换一下视角，就非常容易理解了：agent眼中，skill就是desc（见上篇，渐进式披露），它拿着这段话，和用户的消息做匹配，决定skill是否触发。 所以，写desc，我们实际上是在写一段[给模型的路由规则]。优秀的desc都长啥样？官方给了一个公式，desc至少要包含这些内容： 1. 能力清单； 2. 具体场景； 3. 用户触发关键词。 name: weekly-report-helper（周报助手） description: ？ bad：这是一个写周报的skill，每周写周报时激活。 good：该skill从聊天记录生成结构化周报，当用户要求写周报，或者提到"写周报"时激活。 第二个要点：正文做好路由。 很多人写正文，习惯把自己知道的全部写进去，写得越全越有安全感，这个习惯不好。（见上篇，渐进式披露，这里不再展开） SKILL.md正文不是知识仓库（warehouse），而是路由器（router）。 路由器的职责是分发：告诉agent分几步做、每步去哪找细节。SKILL.md里不放细节内容，放细节内容的指针。 bad：周报文风细节xxoo。 good：周报文风细节详见style.md。 另外，正文多用祈使句，少用"你可以…或许应该…"，少用第二人称。agent不需要被说服，它需要被指挥。官方规范里有明文要求，原话是：Write the entire skill using imperative/infinitive form, not second person. 还有一条实践：别把一切都写的太死，要留一些余地（有些反认知），只有写成"目标+判断规则+坑点"，agent才能适配没预料到的场景。如果是100%确定的场景，就写成程序，而不是skill。 说了这么多，高质量的正文都长啥样？ Anthropic内部最佳实践给了一个骨架：定位，流程，边界，坑点，参考表... 限于篇幅，这里不再展开，节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>其一，写好description； 其二，正文做好路由。 先说第一个要点：写好desc。 正文写得再精彩，desc写歪了，skill也很难被触发。desc不是写给人看的摘要（summary），而是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981704&amp;idx=1&amp;sn=eea508096408cb3c814b252e9a6a158d&amp;chksm=bc1cee06fcc84b3c12a19b1ee4c06b418c4d281505316b5c827af705c180994ea68af2b771df&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdrvt5hIjbvr59ia3kQJnYVic7YfOWZAmzUnqDux7icDcXiaVgUMvHtFicGUr00O8HwspumJ69QY0M3ia6JNfDfqTDZQOtGlyUQKmU5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年，Agent开发爆发了！如果你还沉浸在“只要写好CRUD就能混到退休”的旧梦当中，现实的“冷水”已经泼到了每一位普通程序员的脸上。阿里大厂的大佬直接挑明：今年都要求有AI相关经验！在今年职场</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981324&amp;idx=1&amp;sn=cfefe573a8714959bd8a2ebb1ec0833e&amp;chksm=bc1e35e3ab937ae7b2adbe5e5ff51a05f693e5860cc1e8a4e57ffd5be00a57d3e9c0471d8839&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 11:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我的人生走到今天，大致分为三个阶段。 【1】 最开始，压根就没有什么目标感，最多有些短期的目标。 初中之前，我是个典型的“乖孩子”，老师说什么我就做什么，父母让我干嘛我就干嘛。那时候的我，更像是在扮演一个“好学生”“好孩子”的角色，被别人的标准推着往前走，自己心里并没有特别想怎么样。 上了高中，我开始有了自己的想法，但也很朴素：离开家乡，去一个更大的地方看看。走出小城市，来到武汉读大学，这个目标，我算是达成了。 到了大学，我的目标变得很明确，或者说，很功利：一切为了保研。于是，我拼命学习，拿高分。这个目标，我也达成了。 读研的时候，目标就更明确了：一切为了在北京找一份好工作（女朋友在北京读书）。我又一头扎了进去，最后也拿到了百度的offer。 这些，都是我的目标，而不是“目标感”。 【2】 工作后的第一个十年，我想成为一个很厉害的人。这，是我最早的目标感。 于是，我开始在各个方向上发力： 技术上，我想成为最牛的，架构师。 管理上，我也想成为最牛的，CTO。 业务上，我也想做到最好，成为业务负责人。 你看，这个阶段的我，目标感更强了，它不再是一个个孤立的点，而是一条向上的线。我的驱动力，来自于内心深处那种“想要变强”的渴望。 【3】 工作后的第二个十年，我想要通过帮助别人，来实现自己的价值。 随着时间的推移，我发现自己的目标感又发生了变化。“成为一个很厉害的人”这件事，似乎已经不能满足我了。我开始觉得，一个人的价值，不应该仅仅体现在自己有多牛，更应该体现在你能帮到多少人。 于是，我开始尝试新的东西： 我去各种技术大会上做分享，把我的经验讲给别人听。 我开始写公众号文章，拍技术视频，把我积累的知识免费地传播出去。 在工作中，我也更注重培养下属，带好团队，看着他们成长。 整个过程中，我获得了巨大的成就感和满足感。 而现在，我正在做的“OPC创业”，选择个人成长这个赛道，本质上也是在延续这条路：通过帮助更多人，来实现自己的价值。 【4】 简单总结，我走到今天，如果说，有一点点小的成绩，最重要的一项底层能力是什么？ 我的答案是：人生目标感。 上周，聊了这个话题的（上）半部分，月底和大家聊聊（下）半部分。 欢迎预约，咱们直播见！]]></title>
-      <description><![CDATA[<p>我的人生走到今天，大致分为三个阶段。 【1】 最开始，压根就没有什么目标感，最多有些短期的目标。 初中之前，我是个典型的“乖孩子”，老师说什么我就做什么，父母让我干嘛我就干嘛。那时候的我，更像是在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981317&amp;idx=1&amp;sn=fc4b6eaa0e0b2c6315dd1dd823a19dc8&amp;chksm=bc16afcd7d85038726a54d35069f59a9c08405e1ef948c8986bac92b29dcf3e9ca982f71cd2e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 17:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

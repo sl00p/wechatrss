@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对话 Tibo：入职第三天就把生产环境弄宕机了，今天他掌管 Codex]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjiaIx14zibLVb6LNSkBxT2LL9zZiclD6jaRhOd52FMEr3ddNahUpHdztHygr5zfxENW3Hewzia342FcSbr9BnjlAtibjeMk3KWEEug/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 OpenAI 的 ChatGPT 和 Codex 负责人 Tibo Sottiaux，昨晚在 X 上给团队立下了一份可以逐日检查的承诺：未来 28 天，每天要么推出一项对大多数 Codex</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294469&amp;idx=1&amp;sn=28cfb919a0d097c02710453694c19342&amp;chksm=bc7801c97310c3c837e3cca70f62c0a3508f367a5cd9e7e4b3c84505972afbf5700c2ec95b18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 12:52:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 刚把多 Agent 做成产品，o1 奠基人却说：1 万个 Agent 解出世界级难题，多 Agent 贡献不到 10%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhvDWM1B09g9NnNaAmalHlnUY435MWGnPia5J05Q7ZyicLglkTWsXMTA9ia1t0PGx1tNsZLMZVibkiaEKAwJJtF9OibXHRSC1oZeXZvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 林绮蓓策划 | Tina当地时间 9 月 29 日，OpenAI 在 DevDay 2026 上把多 Agent 从研究能力推到了产品主线，开始将可分工、可协作的“AI 团队”作为产品交付给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294415&amp;idx=1&amp;sn=68e64d9e7b40319da59d86b0b95d7a4a&amp;chksm=bcf5872e63a27f58fc974553e1c0b79764b1c3ef935b621bac53be3a2c704e0e150c4cc7b9bb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgiaARqIzS7FPgRsrgiaG9brU7Vmyajaobic2oEUEHB5icF1D0Xwks6R6o0HRH63RuHs9fE5icWPZtNe4SH3ChgZ6DJZLg3tYgLzGpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Eran Stiller 译者 ｜ 平川 最近，OpenAI 发布了一篇 关于 GPT-Live 的工程报告。该报告详细描述了他们如何设计这个系统，将对延迟敏感的媒体处理与更广泛的应用工作分</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292911&amp;idx=3&amp;sn=929ad927fb029dd16876725bc104e72a&amp;chksm=bcb95b83ac14bc74a4a8327437b974187a731723151f43489e097e0592452d5d79624eebf958&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 12 Sep 2026 11:33:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Uber GitFarm：面向大规模单体代码库的 Git 即服务平台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgnfz7KIsxDUvhibdicZyaTfQopfLSKFUHx1lickibn60Dkz2ryDd6uHEx1TG94lQAGZRsLfrPFeslmu897AlTJ0KvDXGKVriaYdAhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 明知山 Uber 推出 Git 即服务平台 GitFarm，用于在其大规模单体代码库上执行 Git 操作。通过将代码库操作迁移到共享服务，GitFarm</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292911&amp;idx=4&amp;sn=cb5b4c976e87bb3fdad37864f32ae957&amp;chksm=bc72b79225be40cd0690ceb22d74bd482db959b6f6e062ff555756aef8fdd8bfa38e582ff77c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 12 Sep 2026 11:33:54 +0800</pubDate>
     </item>
   </channel>

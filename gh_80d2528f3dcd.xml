@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI 产品负责人 Tibo 今天在 X 上预告：接下来连续 28 天，每天要么推出一项对多数 Codex／Work 用户有明显帮助的改进，要么重置使用额度，而且这个升级得切实有用才行。 他还给 OpenAI 划定了四个方向：简化产品、提高效率以支持更多使用、突破性功能，以及新模型（GPT-6.1 Astra 能翻盘吗）。 过去，这样的重置消息能让用户陷入狂欢，甚至高喊「赛博义父」，但这次的画风有点不同，不买账的用户明显更多了。 昨天，Tibo 还向用户征集意见：你希望 Codex 里能增加什么功能？结果最高赞答案之一，是 Opus 5.5。 网友关于重置的一个梗讲到了我心坎上，笑着笑着我就笑不出来了 「Tibo的作用—— 心情开心:reset 服务异常:reset 模型降智:reset 模型太慢:reset 但是好像从来没有解决问题而是解决了我们」 @Chubby 提到了自己的使用习惯。他更喜欢用 GPT-6 Astra，但额度减少后，担心没法再按原来的频率使用。他承认 GPT-6.1 Sol 的速度已经有所改善，只是还不够理想。他尤其不接受把周额度减少解释成效率提升，听起来仿佛用户反而得到了更多。 @TokenGremlin 批评 OpenAI 同时做的事情太多。在他看来，产品越来越零散，连原本吸引大家使用 ChatGPT 的聊天功能都受到了冷落，几个月没有拿到较新的模型。 重置能让用户一时爽，却回答不了这些问题。尤其在任务失败、额度反复消耗之后，恢复用量本来就该算补偿。 任务中断，也不只是重新点一下。有时得再交代一遍背景，有时要检查它究竟做到了哪一步。Tibo按下重置键只要不到一秒，用户则要自己付出返工的时间。 Tibo 这次的 28 天承诺，在 APPSO 看来其实诚意和决心还不够，还是想着再不济也能靠重置完成承诺。 不过，他说要让产品变简单，其实我是期待的。现在用 AI，还得研究模型怎么选、额度怎么算，再去推文里找产品调整的解释。重置很简单，但用户的使用却越来越复杂。 用户本来在追问「这问题你们什么时候解决」，最后却被带进一场「感谢赏赐」的热闹。把补偿包装成福利，OpenAI 就能在问题还没解释清楚之前，先收一轮掌声。 要记住，你已经付过钱了，OpenAI 每次通过重置恢产品的正常使用，我们都不欠他的人情。]]></title>
+      <description><![CDATA[<p>OpenAI 产品负责人 Tibo 今天在 X 上预告：接下来连续 28 天，每天要么推出一项对多数 Codex／Work 用户有明显帮助的改进，要么重置使用额度，而且这个升级得切实有用才行。 他还</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110803&amp;idx=1&amp;sn=e2e4c79356b8ae23513f2f4c04808b67&amp;chksm=bcd2409e024739e4659b75fa5e7c07bf3b5216ea28c127c6d31848d41b9c7d3cecc9a67dc0db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 11:34:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[DeepSeek Harness 新增 Claude Code Mods 兼容层后，崔添翼在知乎发了长文回答。他直接回应了「抄作业」的争议，否认了是被迫或模仿别人才做开放可扩展的。 「开源是我们的初心，不是被迫开源的。」 用户原本就可以通过 Claude Code、Codex 使用 DeepSeek 模型。再做一个相似的产品，能带来什么体验的提升？ 崔添翼依旧把答案放在了「一切皆插件」，DSH这个核心理念公布后，官方第一次给出了更具体的解释 前几天 Mods 发布时，崔添翼曾祝贺 Claude Code 团队，称这是一次理念上的汇合。这次兼容，则用来检验 DSH 的插件架构能否容纳对方的扩展能力。目前仍是实验性功能，不能保证完全兼容。 对用户来说，软件可以按自己的需要改变，是最容易感知的好处。 DSH 的「创造模式」已经允许 Agent 编写、安装插件，扩展自身的能力和界面。崔添翼希望通过训练模型，让产品能够：「按用户的所需所想而改变」，乃至于「言出法随」。 经常重复的操作、习惯查看的信息，都有机会通过插件固定下来。用户提出需求之后，可以直接参与修改产品，不必等开发团队把它排进更新计划。 到了企业，插件承载的是行业经验。 不同行业有自己的系统和流程。崔添翼希望企业及帮助企业落地 AI 的团队，能把这些经验和基础设施连接沉淀为插件，减少重复开发。一个项目做完，部分成果还能用到下一个项目里。 已经有开发者用行业插件搭建 DSH「AI 工作台」。这些插件通常没有公开开源，DeepSeek 支持这种做法。 企业可以采用开放框架，同时保留自己的业务实现。行业团队有机会围绕开源 Harness，建立自己的产品和生意。 崔添翼还想把插件用于「Agent 自进化」。 他的设想是，让 Agent 在运行中通过插件改变自己的工作方式，最终提高智能上限。工程上，需要完善热插拔、热重载；模型也需要新的训练，学会怎样修改自己的 Harness。 崔添翼认为，只有做创新的事情才是真正『推进 AGI』的事情。「DeepSeek 的目标是实现 AGI，DeepSeek Harness 组的目标就是从 Harness 的角度推进 AGI。」 在 APPSO 看来，有一个无法回避的问题：企业会用插件固定业务流程，Agent 也可能通过插件调整执行方式。它们共用一套架构，需要不同的修改权限。 「一切皆插件」给了 Agent 改变自身的可能，接下来如何分配这种修改权，会影响它能获得多大的自主性。 但就像崔添翼说的，前方的路还很长，AGI 还远未终局。]]></title>
       <description><![CDATA[<p>DeepSeek Harness 新增 Claude Code Mods 兼容层后，崔添翼在知乎发了长文回答。他直接回应了「抄作业」的争议，否认了是被迫或模仿别人才做开放可扩展的。 「开源是我们的初</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110800&amp;idx=1&amp;sn=2b05933cc1c865c1e878f72211cae8e5&amp;chksm=bc8a3d6728c8ae7cf3ff73fb7e005c6672025dca034c8910ae42b006178fa6426c48d33e732a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKH6sZJuH4q2oRj6tkPPibjZnmrgkicOlTLgeBaZTxmia0jbsKKOicCtChxRic8EBDdfX2iaILpQmmkHVVmbyJHwx2c6sD03otPSJmVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>iPhone Duo 发布之后，争议的声浪远比想象中更加撕裂。APPSO 的评论区也快打起来了。但无论对折叠屏抱有怎样的态度，看过发布会的人大概都很难忽略 iPhone Duo 所展现出来的动画效果。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107399&amp;idx=1&amp;sn=cb689cd7ee16cd14db3f445cbffe33d7&amp;chksm=bcf4067bb4da2ab952804262f76bc413c9c9ceb45aaf169c9bc5dbc0d418b008794c29042ffa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 11 Sep 2026 10:38:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，DeepSeek 发布新模型，Flash 把 Pro 给干掉了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfK7thlep0CJU24ZdP4jtw2ILaUUbATicuSAocldPh1Ecu9dDhy7M8XEMUp5UhvshfZ9SrZJpyks6jcWhplmKO17fsIbwgyf6EMo/640?wxtype=jpeg&amp;wxfrom=0"/><p>怎么全世界都开始吻上 Flash 模型了？就在刚刚，DeepSeek 正式发布 DeepSeek V4.1 Flash 模型，并已全面上线官网、App 和 API 端。作为 DeepSeek 新一代模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107020&amp;idx=1&amp;sn=ad03352a40e558ca5832a76d70ff4056&amp;chksm=bc7d0024cf9149efd9ad611bf3ed91e711ad52d9363287badf683a4bdd34de75f4e45a24269c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 15:31:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

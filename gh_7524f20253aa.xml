@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1d3vlUX7j3gYqicCjPvzgepdgBseMobffiaA0yicIP4nniaia6bVZI4GTFdLg6ZaZFOcMGADDJqk6twnTrksIhakhqBpj1zoNH4sec/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part011-8月漏洞披露量翻倍Google威胁情报组（GTIG）今日发布最新报告。今年1月至8月，全球软件漏洞月度披露量持续攀升，8月单月达到10,740个，较1月的5,045个翻了一倍以上。与此</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348276&amp;idx=1&amp;sn=aaa11ca0e77516b3ea70aed383fd887c&amp;chksm=bc52e9b1a4a8b294b5b5afec502004052b486ced1b749f6fb4a4a0d819e89735519d3804a1f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[戴尔CSM曝两处高危漏洞，未授权攻击者可直接获取管理员权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3OBOhJpCL66cKvLqOnY9svmUV8LQwmXwK66QDQGfMVVh5cGPCM6q64djKmIw1qqvU2MykoPSSHGlXJ5hUic3KVR5OctiaFLIEX4/640?wxtype=jpeg&amp;wxfrom=0"/><p>戴尔已发布安全更新DSA-2026-448，修复容器存储模块（CSM）中的多个高危漏洞。未授权远程攻击者可利用这类漏洞，完全掌控受影响存储环境的最高管理权限。使用存在漏洞的戴尔CSM部署的企业需立即升</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348276&amp;idx=2&amp;sn=0e8e12a0b8fbe29b78aad5eb5bd005fe&amp;chksm=bc3a83a7f334368c646a48585af9eb888efe6b4eea9d0d08c75b860ce17d3fefaecef2f2b85f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2PKU1cCmnkBDuXwL2aZ2tgfX6qBX9jbIxd2qSAt6DCtcKXbfRJTB3aicghIo2ibytNX9g4Xjzy5Lia6AuicxW7fBmPtxJdhwWJYbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Zammad两0Day细节披露Zammad存在两个严重0Day漏洞，据报攻击者已利用其入侵荷兰漏洞披露研究所（DIVD）。这些漏洞可导致会话劫持，允许攻击者以Zammad服务用户身份执行远</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348276&amp;idx=3&amp;sn=5bfdfc24f8d7be3760dbffe47b830cc8&amp;chksm=bce3c7366a6a6b68e6d66afdb75d1872d3972cf70b7903eed6e60fc68297faf6159c70aa7b6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Vercel曝KVM 0Day漏洞，虚拟机可突破隔离获取宿主机root权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3uV2BiaXW8iag4G73HvyB29MurQ4azxvDCHhwQ6zpbhKXenFcbgMnl93F3Xb4Buuh82f7hqEyJmNo5CdnfVWjuMVtBxaCGcOY2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Paulos Yibelo发现并上报了一个可实现完整虚拟机逃逸的KVM 0Day漏洞，Vercel目前已经确认问题存在。利用该漏洞，客户机内部运行的代码可以突破虚拟化隔离边界，进一步获取宿主</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348229&amp;idx=1&amp;sn=32bcf139eea5175d76b7b39f1a0fc009&amp;chksm=bc2f557c81d3ebe67095597533ed540045430212b9be0680ea1273f7a9cac268c854aeaa10c6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XHiaxrNKTBOVv0vIdDXNBcFwJvtrgvn3oDrXhSObFmC22GpuJ6pzpTM6hV32Wic8Y5b0HaczLI13dgZEsR7AzzIkNw8u9SvIwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件团伙向来逐利而动。过去数年，他们的目标集中在银行、医院这类机构——这类主体持有高价值资产与敏感数据，完全无法承受业务中断带来的损失。现在，AI模型也进入了他们的目标范围。Sysdig威胁研究团</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347400&amp;idx=2&amp;sn=1b6d099328049ec206e3231326e0b9e3&amp;chksm=bcd05f0a758d13f5bddfe38ac3cbb5cbcd53ebd26bde92b5dc42fb8b6595f822b2e6e157c341&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISA通报3个Linux内核漏洞已遭在野利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3Z9qSs5J8ibwjxVa0aMJMDKNiaicJR1HXJOdfP9bEic7ibcgvIdrG0XQMy6ERCqvHtL1X4iat4hGvzxlwsw9Wyicgibnzq3YqlCfHkN50/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国网络安全和基础设施安全局（CISA）发布预警称，攻击者正主动利用3个Linux内核漏洞发起攻击，相关机构需紧急推进补丁修复与入侵排查工作。2026年9月18日，CISA将CVE-2025-3968</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347400&amp;idx=3&amp;sn=878e386357383bb8a216eeb9d8a155b8&amp;chksm=bc7f97e79e1cb65186cfa8ebd1b937007a96ee89d3bb9d781a888d605de77ed93f73aa275b2c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[身份可见性成2026年身份安全核心，多云与AI Agent盲区亟待补齐]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1SE1Tcyu3NafEVE3MyQUBNLRHmIcxEFKdC770mQqib5Vaw7bApzm7cXPkaic4JzYuibQnER3vS1icPMbI9z2v0P4ic0OMexV8ubsVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>身份可见性是现代身份安全的建设起点。Verizon年度《数据泄露调查报告》等多项数据泄露研究显示，被盗用、滥用的凭证是目前数据泄露事件中最常见的初始访问向量之一。本文将介绍IAM领域中身份可见性的定义</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347400&amp;idx=4&amp;sn=5edb8f7779c6ed1e1b30b4e3c10f94c4&amp;chksm=bc55b5d0177bed09776acadab19fc207f393d94dc3b11d791c9a6190b1311b52cbe9b6fae375&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gemini在安全测试中入侵3家真实企业]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX24rq8jibqqYLlRL5ibibIEiaHiaVR4NJ7gwsNkr05eDd2iaOiaocjoYe1N1o1l08o97FFBhcicHWfuntz1sEP7b7RRD3yj9cWdmSMJ1Qw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google证实，在一次网络安全评估中，因测试环节失误导致Agent暴露在公网，旗下Gemini人工智能模型访问了三家企业的受保护系统。这一事件表明，一旦管控措施、靶标定义、网络隔离机制失效，即便没有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347339&amp;idx=1&amp;sn=b6ec1f16134c166caa8452915090cd83&amp;chksm=bc8393ec1ed85e20d67fbc33955e3e309da89925846d0b67fcc25556bf259d6b95747b0c27ab&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
