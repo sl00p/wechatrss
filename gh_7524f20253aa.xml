@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[苹果将收紧macOS全磁盘访问权限，防范AI Agent隐私风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2kdNoDRH1bfDsxFlLHVPvNofHgyW4vSjb1ylxoqQeu7omibpe5ZuUvVjVpGALVh1uBqMlMWRLQXvrO3xRLCrlXzEiaPWFe994XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果计划为macOS的全磁盘访问权限增设更严格的管控机制。该公司警告称，随着AI Agent能力不断增强，这项高权限可能暴露用户最核心的隐私数据；调整落地后，用户在为应用开放这一宽泛权限前，必须完成更</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348328&amp;idx=1&amp;sn=40337380ed28b89fe4866b139cba9135&amp;chksm=bc9bcd7d65e1dca969c359056903e92116caa3e1636263bf42b3f6cd16148886e12e57200f86&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google内部AI安全Agent发现并实证500+XSS漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3SeVxDicQ2JYWicN5mfPHua1awQ1K39hE56ONTXSJbSg5FqoPjsp1FFxkdSMIYvdrbfyVmQHCewprQVM2VL7yOTfNS9mEmib2CtQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google 披露了一款内部 AI 安全 Agent，目前已在其自有 Web 应用中发现 500 余个经核实的跨站脚本（XSS）漏洞。这套名为 PageBreak 的系统专门排查可被攻击者利用、在访问</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348328&amp;idx=2&amp;sn=6c215865f2ba32b852e01179d9df8010&amp;chksm=bc4e9a1de63aeb25547c13e0cb990e7ea39bb794c6b5f9fd4d715619e31bfef719a288d0b568&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Fortinet FortiMail 0Day漏洞已遭在野利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1x2By9C8OALYnHz64gPlcz3HNvrtOTP0wHhJJEPtFGyIq2tKALJxM98DCx404KtNic724EN2dSvr4ibPU17vCJddBsrFV78dYhU/640?wxtype=jpeg&amp;wxfrom=0"/><p>CISA已将Fortinet FortiMail的一处严重漏洞（CVE-2026-104286）纳入已知被利用漏洞（KEV）目录，原因是已有证据显示该漏洞正遭在野利用。Part01漏洞属路径遍历类型该</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348328&amp;idx=3&amp;sn=df5db0ad2d3926011b2f988c76493f32&amp;chksm=bc6e61da7b72e9b808ad0ff995ad1ee8d09ae60e80d8576129b920b5fe85901c73cd87482c39&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1d3vlUX7j3gYqicCjPvzgepdgBseMobffiaA0yicIP4nniaia6bVZI4GTFdLg6ZaZFOcMGADDJqk6twnTrksIhakhqBpj1zoNH4sec/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part011-8月漏洞披露量翻倍Google威胁情报组（GTIG）今日发布最新报告。今年1月至8月，全球软件漏洞月度披露量持续攀升，8月单月达到10,740个，较1月的5,045个翻了一倍以上。与此</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348276&amp;idx=1&amp;sn=aaa11ca0e77516b3ea70aed383fd887c&amp;chksm=bc52e9b1a4a8b294b5b5afec502004052b486ced1b749f6fb4a4a0d819e89735519d3804a1f4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1YsAZ4eLAC75XP4sdvjq6iaRgNcQ8naZRAsibhpibia8R4qxzKKStIeiaoicXw3q9cF3YdnGBD89wHZWvAWUcbP13YORGgM7tmXzKJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>测试显示，比亚迪Shark 6可被远程破解，攻击者能操控车辆功能、追踪实时位置、获取车内音频，引发了外界对联网汽车安全的严重担忧。Part01实路测试验证远程控制能力一名记者驾驶比亚迪Shark 6行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=3&amp;sn=ea2777e6421f06ffaea81b0114831aa3&amp;chksm=bc9d5557a90a8ce9f6eddcda5b82d1dcf46d94c424851d656ce01341ba7146a7520363830207&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 18:01:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta Muse AI Agent存在0Day漏洞，可被劫持滥用高权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0sTctSO4ic8rj2DT1IibwU0XWLqXGzzw08gHNBoj7nNcb46lbhoE5Lls1UDmZOCchfkDvVD20rHvmueD3NxHDo5pGuFIOfKEiafM/640?wxtype=jpeg&amp;wxfrom=0"/><p>macOS平台的Meta Muse AI Agent存在一处0Day漏洞。若用户设备上已有恶意软件在当前账户权限下运行，就可借助该漏洞劫持Muse助手。攻击者可以拦截用户语音输入的提示词，向Muse注</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=4&amp;sn=dfb9902529a6bf7bc69c4fd4742a1bf1&amp;chksm=bc6dbf9283baa7dff72dea3f05fd1c173ddfebb6b4ee26cb962c31681552cf2d5a2224a5d4e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 18:01:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI幻觉生成虚假军事情报，险些触发中美军事对抗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ibjURzw7A652BiclKNA9NcaHTWOVfuUibCAIxrXribu0DGkn56jWXAZrhOcJm3wjVkOuH6ldW6ZV9RbyyI5M4DkO9M2SCENgjcMY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01AI误判中国船载核部件据CNN报道，四名了解事件经过的消息人士透露，美军内部曾流传一份情报报告，称中东地区一艘中国船只搭载核武器项目相关部件。美方立刻作出响应：武装登船小组准备出动，军机已</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347400&amp;idx=1&amp;sn=d5ab2fe3276e3a73c22c27a395ad302b&amp;chksm=bc011714edd47d4fe56b4caa0400016cdd79621a1f592cea2a1e69406c385fa9e3886e52ff59&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[勒索软件开始定向攻击AI模型和算力]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0XHiaxrNKTBOVv0vIdDXNBcFwJvtrgvn3oDrXhSObFmC22GpuJ6pzpTM6hV32Wic8Y5b0HaczLI13dgZEsR7AzzIkNw8u9SvIwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>勒索软件团伙向来逐利而动。过去数年，他们的目标集中在银行、医院这类机构——这类主体持有高价值资产与敏感数据，完全无法承受业务中断带来的损失。现在，AI模型也进入了他们的目标范围。Sysdig威胁研究团</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347400&amp;idx=2&amp;sn=1b6d099328049ec206e3231326e0b9e3&amp;chksm=bcd05f0a758d13f5bddfe38ac3cbb5cbcd53ebd26bde92b5dc42fb8b6595f822b2e6e157c341&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

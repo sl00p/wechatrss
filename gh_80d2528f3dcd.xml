@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 行业降价消息不断，但订阅用户可能发现：同样的月费，AI 能干的活反而变少了。 知名分析机构 SemiAnalysis 测试了多家厂商的订阅套餐，按其 Agent 工作负载将额度折算为 API 等值价格后发现： 使用 Opus 5.5 的 Claude 订阅，价值约为使用 GPT-6.1 Sol 的 OpenAI 同档套餐的 5 倍。 差距扩大的直接导火索，是 OpenAI 将 200 美元套餐各档模型的 token 额度减半。而新推出的 500 美元套餐，Astra 额度仅比调整前的 200 美元套餐多出约 21%，主要卖点变成了每秒约 300 token 的 UltraFast 速度。 换句话说，用户多付的钱，有相当一部分只是在为速度买单。 相比之下，当海外厂商开始收缩补贴，国产厂商依然买得越多、越划算，其中 MiniMax 尤为突出。 使用 MiniMax-M3 时，每月 22、55、132 美元的套餐分别提供约 427、1305、3088 美元的 API 等值额度，相当于月费的 19 至 24 倍，明显高于 OpenAI 约 10 至 15 倍的水平。 Z.ai 使用 GLM-5.3 时，套餐价值与月费之比随档位从 7.7 倍升至 11.6 倍；Kimi K3 则从 2.5 倍升至 6.7 倍。 当然，这套折算方法也有局限。 以 GLM Coding Max 为例：使用 GLM-5.3 可获得约 63 亿 token，切换到 Flash 后增至 191 亿，但 API 等值却从 1942 美元跌至 336 美元。API 标价低的模型在这套算法里天然吃亏，而 token 更多也不等于任务完成率更高。 此外，测试中约 96.6% 的 token 来自缓存读取，更贴近 Agent 反复复用上下文的场景。普通聊天用户未必能获得同样的收益；工作时段集中的人还要考虑时间窗口，OpenAI Pro 不设 5 小时限制，这一点就有实际价值。 额度收紧的背后，是难以长期维持的补贴。SemiAnalysis 估算，订阅业务只贡献 Anthropic 约 10% 的收入，却可能占用超过 40% 的推理算力。 随着 AI 从偶尔回答问题走向持续工作，订阅制会员生意的核心也从争取用户，转向管理用户的算力消耗。薅羊毛的狂欢，终究是到了要买单的时候。 🔗 https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x]]></title>
+      <description><![CDATA[<p>AI 行业降价消息不断，但订阅用户可能发现：同样的月费，AI 能干的活反而变少了。 知名分析机构 SemiAnalysis 测试了多家厂商的订阅套餐，按其 Agent 工作负载将额度折算为 API</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110881&amp;idx=1&amp;sn=7924b39627a0a2fa02647f4d8da5c60b&amp;chksm=bc4e089062ddd8fe85a5878fef9f217dc2d6157b4c29491d0a6867a33398a2cf689b6e381e20&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 14:03:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[95% 的人不愿为 AI 付费，1% 的超级玩家养活 AI 圈｜a16z 报告解读]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIEWvAmAbC8A8nRnd4F0Aj9WGiatdavLCdQ1cKbPXbu5l6fmaR0lIyg6VjP3jiaNuUwhegZ7QLsgtQCm1I9BEul7urGxC6ANpbu0/640?wxtype=jpeg&amp;wxfrom=0"/><p>在追踪消费级 AI 应用整整三年后，知名风投 a16z 刚刚发布了第七版「百强 AI 消费者应用」榜单。令人感慨的是，这份以流量为尺度的榜单已经彻底固化：本期仅有 11 款新产品上榜，创下历史新低。向</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110879&amp;idx=1&amp;sn=5b4d550e00e929677e0725b88df991e3&amp;chksm=bc756b28c58c8c2cb6c500a47bf31d00942581aa155c4ab2f5941d6119f170542da34051aa06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 09:32:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[刚刚，ChatGPT 推出文字水印，GPT-6 提速 50%]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfIkG1PdQWSJr80FMjdLdyhN7p0QyYibF6F8pw0f2fvq1CkESOlWkibFNnWjibaSRDiadDlefE7xLXwrZqTSUq0OwaQ3AnsEmnFibiaBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>很少有 AI 厂商笃信发布的产品能够「以数量换质量」，OpenAI 偏偏是其中之一。一如之前连开 12 天发布会的豪举，昨天，OpenAI Codex 负责人 Thibault Sottiaux（也就</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110878&amp;idx=1&amp;sn=07c525acc46f0041ac7926349e97eb1d&amp;chksm=bc68ed48b56a5855f3e83713e911d9c9f3e3d6d79ae1d8ed6937485c51f0a79e7b925475d2f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 07:28:45 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI 产品负责人 Tibo 今天在 X 上预告：接下来连续 28 天，每天要么推出一项对多数 Codex／Work 用户有明显帮助的改进，要么重置使用额度，而且这个升级得切实有用才行。 他还给 OpenAI 划定了四个方向：简化产品、提高效率以支持更多使用、突破性功能，以及新模型（GPT-6.1 Astra 能翻盘吗）。 过去，这样的重置消息能让用户陷入狂欢，甚至高喊「赛博义父」，但这次的画风有点不同，不买账的用户明显更多了。 昨天，Tibo 还向用户征集意见：你希望 Codex 里能增加什么功能？结果最高赞答案之一，是 Opus 5.5。 网友关于重置的一个梗讲到了我心坎上，笑着笑着我就笑不出来了 「Tibo的作用—— 心情开心:reset 服务异常:reset 模型降智:reset 模型太慢:reset 但是好像从来没有解决问题而是解决了我们」 @Chubby 提到了自己的使用习惯。他更喜欢用 GPT-6 Astra，但额度减少后，担心没法再按原来的频率使用。他承认 GPT-6.1 Sol 的速度已经有所改善，只是还不够理想。他尤其不接受把周额度减少解释成效率提升，听起来仿佛用户反而得到了更多。 @TokenGremlin 批评 OpenAI 同时做的事情太多。在他看来，产品越来越零散，连原本吸引大家使用 ChatGPT 的聊天功能都受到了冷落，几个月没有拿到较新的模型。 重置能让用户一时爽，却回答不了这些问题。尤其在任务失败、额度反复消耗之后，恢复用量本来就该算补偿。 任务中断，也不只是重新点一下。有时得再交代一遍背景，有时要检查它究竟做到了哪一步。Tibo按下重置键只要不到一秒，用户则要自己付出返工的时间。 Tibo 这次的 28 天承诺，在 APPSO 看来其实诚意和决心还不够，还是想着再不济也能靠重置完成承诺。 不过，他说要让产品变简单，其实我是期待的。现在用 AI，还得研究模型怎么选、额度怎么算，再去推文里找产品调整的解释。重置很简单，但用户的使用却越来越复杂。 用户本来在追问「这问题你们什么时候解决」，最后却被带进一场「感谢赏赐」的热闹。把补偿包装成福利，OpenAI 就能在问题还没解释清楚之前，先收一轮掌声。 要记住，你已经付过钱了，OpenAI 每次通过重置恢产品的正常使用，我们都不欠他的人情。]]></title>
       <description><![CDATA[<p>OpenAI 产品负责人 Tibo 今天在 X 上预告：接下来连续 28 天，每天要么推出一项对多数 Codex／Work 用户有明显帮助的改进，要么重置使用额度，而且这个升级得切实有用才行。 他还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651110803&amp;idx=1&amp;sn=e2e4c79356b8ae23513f2f4c04808b67&amp;chksm=bcd2409e024739e4659b75fa5e7c07bf3b5216ea28c127c6d31848d41b9c7d3cecc9a67dc0db&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfKukwKaRXic4WAjM01YqtJxTaibfeia8iaV2rBVwa6Gg60WjDD09tXddShXXqGQxxOTSKYOKLjXNCSVib61N7ZnJ59eNACoP6nRaKok/640?wxtype=jpeg&amp;wxfrom=0"/><p>人类花了几代人都没能解决的数学难题，如今开始被 AI 一个个逼近，25 位菲尔兹奖得主却认为，事情正在朝一个危险的方向发展。就在刚刚，陶哲轩、彼得·舒尔茨、雨果·迪米尼科潘、玛丽娜·维亚佐夫斯卡等 2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107701&amp;idx=1&amp;sn=03811c111b07584c550fa2b67e907c12&amp;chksm=bc7d0bcb9d93c531cef4337fce7b8a9217a36d40dd2474aa6e5f031d06615b637a3929fdef1d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 12 Sep 2026 06:50:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在外滩大会上，我看到健康AI+硬件的新可能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfJuhJ22zpwkOibicUxGqQiadEeVrqop9PU0slAs9PwQQCzzCVLHPzdlogdCiaMCEKMia7TLcp4vrDuGFmUS8d27BWQNQ9RzjgXowAn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年的外滩大会现场，蚂蚁阿福的展区成为开幕后人气最旺的体验区之一，每天都要大排长龙。展区围绕未来医院、未来家庭管理、未来乡村诊所三个核心主题打造，对应阿福助力医疗机构、家庭健康管理和助力基层医疗的三个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107653&amp;idx=1&amp;sn=8db6d8ec7e677508c9a2091d1f1bb683&amp;chksm=bc5b990fbe8804e98f43f3fcf71d61f9dbc5a5c085e2dbbdbcfe9542f4d30773d2b3c021744d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 17:57:52 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dCG7OC48IfLmFtlhCud766RFlRb0sOSgiabNIR6MkRCKkqQmicibfHMjG5RLicvZCzcdTMsakxHuMC90aScY7YMUbtia7rp3WPib1WbIrCVYdiaPxw/640?wxtype=jpeg&amp;wxfrom=0"/><p>GPT-6 发布后，最火的案例莫过于各种各样的 3D 网页。有人让 GPT-6 操作 Blender，从零捏一个人物模型；有人让它做各种可以旋转、拆解、交互的 3D 网页。其中传播最广的一个案例，是一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107648&amp;idx=1&amp;sn=9217893252d24829dc6ff658f5d2409b&amp;chksm=bc6de7fd9b42191745047a194171b9c6c3c395bfeec1187d5abad23c8959994826af356fc996&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 16:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dCG7OC48IfKH6sZJuH4q2oRj6tkPPibjZnmrgkicOlTLgeBaZTxmia0jbsKKOicCtChxRic8EBDdfX2iaILpQmmkHVVmbyJHwx2c6sD03otPSJmVQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>iPhone Duo 发布之后，争议的声浪远比想象中更加撕裂。APPSO 的评论区也快打起来了。但无论对折叠屏抱有怎样的态度，看过发布会的人大概都很难忽略 iPhone Duo 所展现出来的动画效果。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&amp;mid=2651107399&amp;idx=1&amp;sn=cb689cd7ee16cd14db3f445cbffe33d7&amp;chksm=bcf4067bb4da2ab952804262f76bc413c9c9ceb45aaf169c9bc5dbc0d418b008794c29042ffa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 10:38:09 +0800</pubDate>
     </item>
   </channel>
 </rss>

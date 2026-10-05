@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgtVF152W3hmib1ZLTVRShsuJtmibSFUpSWL5q0aibwjmnzicSIWDY8EfTOGCOc3Diawuplyic9kmc69z53zKNDCsd5LU5bibJgDn8Yuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪策划｜Tina一个多月前，Claude Code 因拒绝兼容已被大量项目和 Coding Agent 采用的行业标准 AGENTS.md，遭到 Shopify CEO Tobi Lütke</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294485&amp;idx=1&amp;sn=1834071f4c1c2fd3f7f029083b6bf849&amp;chksm=bc32f0f229dc965bfd4a089627fed842e30fb9cda329b455a3249292c98e5dc59493e2edac84&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 06 Oct 2026 10:53:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对话 Tibo：入职第三天就把生产环境弄宕机了，今天他掌管 Codex]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjiaIx14zibLVb6LNSkBxT2LL9zZiclD6jaRhOd52FMEr3ddNahUpHdztHygr5zfxENW3Hewzia342FcSbr9BnjlAtibjeMk3KWEEug/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 OpenAI 的 ChatGPT 和 Codex 负责人 Tibo Sottiaux，昨晚在 X 上给团队立下了一份可以逐日检查的承诺：未来 28 天，每天要么推出一项对大多数 Codex</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294469&amp;idx=1&amp;sn=28cfb919a0d097c02710453694c19342&amp;chksm=bc7801c97310c3c837e3cca70f62c0a3508f367a5cd9e7e4b3c84505972afbf5700c2ec95b18&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[openJiuwen首发双维度RSI框架，AI自修改，落地办公智能体，算力亲和助力又快又省]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgSShrImSHBiaB5OaSSCQwIC3ZsOjo9FBibzyKRd3iaxvU5CI6W4nRLT13ToP8ZN5m38socm5TysxWrmSbRo9K9sXPTYpufZRZ2yk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 杨过 随着 Agent 开始承担更长、更复杂的任务，如何让 Agent 从执行中积累经验、持续改进自己，正在成为新的技术方向。今年 7 月，一篇针对 2024—2026 年 1250 篇相关</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292911&amp;idx=2&amp;sn=1dfffbc2e74c45641dafcb236d9b9d8e&amp;chksm=bc6e57d308b2057a3ddc685f235a0b3eef938035d96be1cbbde379e340e7308f23d2b264f6f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 12 Sep 2026 11:33:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgiaARqIzS7FPgRsrgiaG9brU7Vmyajaobic2oEUEHB5icF1D0Xwks6R6o0HRH63RuHs9fE5icWPZtNe4SH3ChgZ6DJZLg3tYgLzGpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Eran Stiller 译者 ｜ 平川 最近，OpenAI 发布了一篇 关于 GPT-Live 的工程报告。该报告详细描述了他们如何设计这个系统，将对延迟敏感的媒体处理与更广泛的应用工作分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651292911&amp;idx=3&amp;sn=929ad927fb029dd16876725bc104e72a&amp;chksm=bcb95b83ac14bc74a4a8327437b974187a731723151f43489e097e0592452d5d79624eebf958&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 12 Sep 2026 11:33:54 +0800</pubDate>
     </item>
   </channel>
