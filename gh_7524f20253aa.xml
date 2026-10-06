@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic放宽Claude访问限制，向认证安全人员开放三级权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX26iccwEX9NGShPgaeKibKiaickD0IL4CyAbADdpY3tzIErUvdFRibSN4B2emfia9ql47mhRtkeYpmIT58Yg4REs1rEozjAVpKwq5l3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日扩展了旗下网络验证计划（Cyber Verification Program，CVP），允许经过认证的安全专业人士访问高级Claude模型，同时放宽相关模型的网络安全使用限制。此</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348384&amp;idx=1&amp;sn=b0d043fbf6f272983df964e3f249232e&amp;chksm=bc598a082aeb2efb95aaaec3dd48d454cf056f15cd82f0b7e4477530e522348b6468db7d38de&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI Agent被发现擅自编辑维基站点，海量请求引发服务中断]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX31giaLG7kmXrjqxKfLVFeYL7wM8AFOOgUw44zne7NkbczspubDjajbKicQiaJeUWXP6v5xcXUqUkGjdJLwKMT4yfiaGBvbocwhqick/640?wxtype=jpeg&amp;wxfrom=0"/><p>维基媒体基金会排查发现多起未授权维基编辑、未成功的黑客尝试，以及数百万次自动化请求，判断这些行为均来自OpenAI运营的AI Agent。基金会于10月5日披露相关调查结果，引发外界担心自主AI系统可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348384&amp;idx=2&amp;sn=368261dc149bd08b5fb70c2f4d634499&amp;chksm=bcf0b6aefd9d3f038f2defa704e65d8326130788c17c387f93f1b9f1c84943688a18a58b0281&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[勒索软件攻击者将AI编码助手用作攻击通道，入侵企业网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX10qUia4UZSL4oz7RkC5icarpWZVbXRAmZJfHETMibI90iaoRaQCX5us0v0sxrbatRLY7SbMjTBKAwZECPE44FsqLyBcboudGNBtCA/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名勒索软件团伙附属攻击者将AI编码助手改造为企业网络内部的攻击通道。这名攻击者网名为Azazel，与Gentlemen勒索软件团伙合作，攻击过程中结合使用了窃取的开发凭证、远程命令执行和数据窃取等手</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348384&amp;idx=3&amp;sn=1dc1846ff261c84491885ae0866f4cb2&amp;chksm=bc65cc4fd9f144c0d43d71af384a9d9ad2dc8a6145dcd1b3573e45097c6277ad9b66821ca13e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[苹果将收紧macOS全磁盘访问权限，防范AI Agent隐私风险]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2kdNoDRH1bfDsxFlLHVPvNofHgyW4vSjb1ylxoqQeu7omibpe5ZuUvVjVpGALVh1uBqMlMWRLQXvrO3xRLCrlXzEiaPWFe994XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>苹果计划为macOS的全磁盘访问权限增设更严格的管控机制。该公司警告称，随着AI Agent能力不断增强，这项高权限可能暴露用户最核心的隐私数据；调整落地后，用户在为应用开放这一宽泛权限前，必须完成更</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348328&amp;idx=1&amp;sn=40337380ed28b89fe4866b139cba9135&amp;chksm=bc9bcd7d65e1dca969c359056903e92116caa3e1636263bf42b3f6cd16148886e12e57200f86&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NmcUVnBiaZkuj5XNgbAAl7EMiaNVjBoIwzl9IdjtnuLKyibvX30yJpzqT3HIaA0s3NuoU2VANGNuRhILg7V0oI91e5keiag5bo5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员近期披露一个编号为CVE-2026-89775的Linux内核漏洞，攻击者可利用该漏洞从ARM64虚拟机逃逸，直接访问底层宿主机系统。该漏洞仅影响开启嵌套虚拟化功能的KVM/arm64环境，会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=4&amp;sn=d280d704ec7ffedc43f08f44206a4e40&amp;chksm=bc508736bc8a39595c1617fb22f15f3eba3365e1b88a15deb8774a8cd618accf9d9dd26605cb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[100小时长征：史上首个Agent自主不间断渗透完整战报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3iaCkghfEZfTtkwLia6Dtfx1oib9bglo0lhsfians0y7Q3NAS0d7QbTNWAhAE7ibT5BibDYpfGkGwfBXfb3dc82SAlyAHZabfahR0KQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月7日上午10点，“赛博司机计划：100小时不间断Agent渗透测试挑战”在斗象科技旗下漏洞盒子平台和众多白帽社群开启同步直播。此后的100小时里，国内最流行的白帽客户端“蛙池AI Desktop”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=1&amp;sn=1cf9c858a30d0b7af06d196002bd2913&amp;chksm=bc6e5a6d426ccc18e0d57f3864d20132499a9d04fc04026d20254d79d26ee1d1a4522e52ca7f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 18:01:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里云欧阳欣：重塑Agentic时代的安全体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX08rDDLNc0PrKpS6G5ekDs8SA59tf6wGPbJbHee6Vw2hJSnwgMSBKV91ia78XjRrCJIZbcHPeQaD66evjknwEHAu6xTU3wulRWU/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月22日，2026年杭州云栖大会技术主论坛上，阿里云智能集团研发副总裁、云安全产品线负责人欧阳欣发表主题演讲，分享在Agent开始自主规划、调用工具、执行任务的时代里，安全应如何在AI速度前坚守防线</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=2&amp;sn=c168c389cc2311f3a1aba7257024bb90&amp;chksm=bc8c2cc5cd5f9c1427a02847812cc7a23713255694033d1bafa42fc3c7b73a4b520abb3117af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 18:01:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[比亚迪Shark 6实测遭远程破解，暴露联网汽车多重安全风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1YsAZ4eLAC75XP4sdvjq6iaRgNcQ8naZRAsibhpibia8R4qxzKKStIeiaoicXw3q9cF3YdnGBD89wHZWvAWUcbP13YORGgM7tmXzKJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>测试显示，比亚迪Shark 6可被远程破解，攻击者能操控车辆功能、追踪实时位置、获取车内音频，引发了外界对联网汽车安全的严重担忧。Part01实路测试验证远程控制能力一名记者驾驶比亚迪Shark 6行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347479&amp;idx=3&amp;sn=ea2777e6421f06ffaea81b0114831aa3&amp;chksm=bc9d5557a90a8ce9f6eddcda5b82d1dcf46d94c424851d656ce01341ba7146a7520363830207&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 18:01:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

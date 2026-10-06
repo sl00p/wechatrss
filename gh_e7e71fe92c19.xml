@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2JG4jPzMIRVhuwTrNw3h6rVGZia0sdmoJibyutpOpaibwTKS162k1clSYlPGBWdFhBjibjXeeCUfSmJ4C9xSUhreWc8o2N1wMGaib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术RISC-V 的开放性和模块化降低了处理器硬件设计门槛，也使安全分析面临实现多样、漏洞机理复杂等挑战。本报告介绍一套面向 RISC-V 处理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622478&amp;idx=1&amp;sn=7a92ebdda86657e461928698f749424a&amp;chksm=b0e1e6e4c83f76c78a759c06a3632c9feab6bb4fda8d8d4eddfd71be4b27cdfb9f9ff55b691d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622478&amp;idx=2&amp;sn=2493f1ae2222a727e9420c80bc719906&amp;chksm=b0fbbf6a195d8847fcec55d0a28b94fefacaab0b51bd767e62c9028471ffa8516fe33547d6c0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | Storm: AI审计时代下，Fuzzing还有用吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0md4oD6O9QibvjhJSp5WUY6dEuLezZQqm2dnAWTxX4LCSicWnCYATJAGFaDdicfnCq8t3O91uFQ4ax8ngHDL2g9DSaYXqG6ohMvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Storm: AI审计时代下，Fuzzing还有用吗？AI 漏洞挖掘的“原子弹时刻”已经到来：Codex Security、Claude Mythos 批量产出真实漏洞，“震惊、瘫坐”成为安全圈的日常</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622477&amp;idx=1&amp;sn=f2c191d14db906abbec6c22d22c45510&amp;chksm=b061297e919fb7a67110b7000c78052a090c39d2105df57b28fef570db0e806d0903822cae99&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=3&amp;sn=f5721c9f5bbd0fcc1531debb1326f6c0&amp;chksm=b0598f98fe4287005a34143e735590aed0474bfbd21998882713a8632ce30b1624d7c0310fc8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ART 执行链与 Nterp：解析 FART Android12‑16 失效问题]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1JAvsvgRq6yEN3H3kz4csiato2sJtjicibC6Gg6LTvqgic7gyBZZTqKD67fUDGv4yfTpYo5JV7ibL5PmAS46VE9ghS9Sq0MCX8EKps/640?wxtype=jpeg&amp;wxfrom=0"/><p>如果你已经拿 FART 脱过壳、或者自己写过主动调用，那这篇应该能直接对上。前面不废话， 背景尽量压短，后面把 Invoke 分流、Nterp、dump 点选择、高版本失效和现在怎么处理写细一点，代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=1&amp;sn=2c4d3a7a8e4001824f3a0a2f5bc5c8f8&amp;chksm=b0710fcab4acdc63e6e91e7053424d2c014af8bfa375cd67b8dd3da2a57290ad3f9c08bedb7a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AIoT安全与AI的交叉点 —— HG TALK第六期：对话龚伟炜]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ez83trzk6ViczX5sI1QcobD38IQ2ts9oUW5ELibLibkO7pqyjzdK9nyg4gHqKKN1kNhOHvC7kqibu9PLobdGfPCDUaAHfcbcu2h8/640?wxtype=jpeg&amp;wxfrom=0"/><p>技术不分咖位，热爱才是一切。这一期，我们来到厦门，茶已备好。坐在对面的是龚伟炜，HG0731A发起人，长沙五戎科技创始人 &amp; CEO。国防科大出身，技术背景，创办五戎科技几年下来，五戎科技服务关键基础</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619676&amp;idx=2&amp;sn=d9bd8fc177e8b35339f1e26f14c1a1a2&amp;chksm=b02a02a875052589e81584a98f8ccc9457935544b39a57e7486d4bfbcdf48833ab63b754d35b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

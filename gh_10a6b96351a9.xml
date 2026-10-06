@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[对于skill里的description，大伙是怎么写的？ name: weekly-report-helper（周报驻守） description: XXX（？） 周报助手的desc，你会怎么写？ A. 这个skill能帮助你写周报，输出的周报非常适合老板阅读 B. 请在每周要写周报的时候激活 C. 从任务清单生成结构化周报，当用户要求“写周报”时调用 D. 这个skill能在各种报告上帮你节省大量时间 想一想，这个desc你会怎么来写？ 很多人写skill，时间精力的大头都花在了正文上。但如果忽略了desc，很可能让我们写出的skill，永远没有机会被触发。 核心观点：desc不是写给人看的摘要，而是写给模型看的触发器。 这句话是Claude Code团队说的，原话是：The description field is not a summary, it's a description of when to trigger this skill. 翻译过来就是：desc描述的是什么时候该触发这个skill，而不是这个skill是干嘛的。 大伙注意这里视角的切换： 1. 人类用户在界面上看到的是display_name和图标； 2. 模型看到的却是desc，它拿着这段话，和用户的消息做语义匹配。 所以，写desc，我们实际上是在写一段[给模型的路由规则]。 写得优秀的desc都长啥样？ 官方规范给了一个公式，至少要包含这三项： 1. 具体能力清单； 2. 具体场景； 3. 用户触发关键词。 现在再看开篇那道题的答案，你会选择哪一项呢？ 关于如何写好<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: var(--weui-LINK) !important;" topic-id="munnxpih-qm31az" href="">#AI</a> <a class="wx_topic_link" data-recommend="" data-topic="1" style="color: var(--weui-LINK) !important;" topic-id="munnxfsy-jje9yi" href="">#skill</a> ，限于1000字限制，这里不再展开。 节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>对于skill里的description，大伙是怎么写的？ name: weekly-report-helper（周报驻守） description: XXX（？） 周报助手的desc，你会怎么写</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981709&amp;idx=1&amp;sn=fe34796a8f60bed59a6f9cf1c268e2e4&amp;chksm=bc896608a05e433dc18e55513ee4e41f941587a8996fdd9844bcf37b99f17d1045d2f93ddbc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 07 Oct 2026 08:49:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[想30分钟写出一个好skill？先学会“挑刺”：我拿Anthropic官方示例开了刀]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfg6TwOnUNGOtZUsB5bQuDmTQpibaONeUiazHRkNFIe1QrPfQrXYQPbvibGozXibxkzCT18VytCTibVYcRyp1nqvLN7ETXK2Z2gAK8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>你用过很多很多 skill 吧？它能大幅提升 AI 在专项任务上的表现。但真自己动手写 skill 的时候，发现它经常不触发，即使触发，也不按“想象中”的执行。写好 skill 的前提，要先看懂什么是</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981708&amp;idx=1&amp;sn=02d64f352330c48434bf30754dc38828&amp;chksm=bc8ed6839afc5ccfcad304f559e2a93562389d931ae0dbff3ce76e3d411e143c7ee7d2940b21&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>我人生能走到今天，除了运气，最重要的一个能力/素质是什么？ 我内心的答案是：人生目标感。没错，我是一个对于长期非常笃定，是一个知道自己想要什么的人。 关于我的故事，关于我人生目标感，主要分为三个阶</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981326&amp;idx=1&amp;sn=c8a9db5cd060e9f66fd2f11398d2f881&amp;chksm=bc0608278219c0ce2dd885b4d72505f622614c3068f6753b59788ff5939bc6ce3d8aa9b91da2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 13:27:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大厂集体涨薪，风向变了。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdrvt5hIjbvr59ia3kQJnYVic7YfOWZAmzUnqDux7icDcXiaVgUMvHtFicGUr00O8HwspumJ69QY0M3ia6JNfDfqTDZQOtGlyUQKmU5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年，Agent开发爆发了！如果你还沉浸在“只要写好CRUD就能混到退休”的旧梦当中，现实的“冷水”已经泼到了每一位普通程序员的脸上。阿里大厂的大佬直接挑明：今年都要求有AI相关经验！在今年职场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981324&amp;idx=1&amp;sn=cfefe573a8714959bd8a2ebb1ec0833e&amp;chksm=bc1e35e3ab937ae7b2adbe5e5ff51a05f693e5860cc1e8a4e57ffd5be00a57d3e9c0471d8839&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
