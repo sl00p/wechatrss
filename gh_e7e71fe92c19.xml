@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Win11 26H1内核异常体系分析与实验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EdJTeJZ1re8ksy6MwFP7sdX63X3uephCqFm0PxRoysR2mK0as6NdYrakEiaG9sibYP0d90XKYboMmj8EbcGLEqt0fRRsQVa8vk/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.前言本文定位为抛砖引玉，分享一些实验性质的思路、代码实现方法，本文在结构上大体分为了以下2部分：针对Win11 26H1内核异常体系的详细分析，理清楚异常体系是如何工作的针对现有异常体系，分析出3</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=1&amp;sn=2083068144c170ff5bcd5ff0dfdfa36e&amp;chksm=b03578a9708c84e59c4273a978af425d8c2a9ff70ca0fd1f2f18724b279d6b413b8b19c43ad8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVSS 9.8！思科核心交换机NGOAM漏洞，远程无登录即可拿下最高权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Tsib6QXAubfnT6kesic7Rcd68Q9OJuOoIWczuUfWs0cI6R5ns7Yy7rxt46gFGTymViasnZUDdU7iaKrrf4Qp4LfdH43cEXFAIm5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科（Cisco）于10月7日对外发布安全公告，披露Nexus 3000、9000系列交换机存在3个高危漏洞，CVSS评分高达9.8分。攻击者无需账号登录，仅通过网络可达，就能远程执行代码获取设备ro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=2&amp;sn=24a705329f5a1419abeaf7512db4cf55&amp;chksm=b0cdf8b364bdc2941432f87000e275f4b970c9ec2d2647f61c6ab57b21dd12c6b7630b0081f4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【彩蛋大放送】冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=3&amp;sn=fda47df3683a16a3fa8fe485abb5e7d7&amp;chksm=b05ae6a3e341229688597558dd9441d89a2e74442bb20e4dcd16772093b5aba18915ea4da46d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2JG4jPzMIRVhuwTrNw3h6rVGZia0sdmoJibyutpOpaibwTKS162k1clSYlPGBWdFhBjibjXeeCUfSmJ4C9xSUhreWc8o2N1wMGaib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术RISC-V 的开放性和模块化降低了处理器硬件设计门槛，也使安全分析面临实现多样、漏洞机理复杂等挑战。本报告介绍一套面向 RISC-V 处理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622478&amp;idx=1&amp;sn=7a92ebdda86657e461928698f749424a&amp;chksm=b0e1e6e4c83f76c78a759c06a3632c9feab6bb4fda8d8d4eddfd71be4b27cdfb9f9ff55b691d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ApZ1RVo0XR9ibWLQyFuA1HB05dGlhUfWPJ2vGvtf3ia9fM7QxCA1ticc9AOABQlMQqcAJcS53FBfNdONWniaZPmbDGGn3z9ct3XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日对外公开第四起AI自主代理安全事故，旗下Claude系列大模型在安全评估测试期间，因环境配置错误，突破模拟沙箱，对真实第三方系统发起入侵行为。这也是继此前多起同类事件后，又一起引</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=3&amp;sn=14ecc6169822b3abd74bb3d645bcc424&amp;chksm=b071aee0b32fbf1287461b779a78d82c546e6ea231e68cb21d327fb74f53ed37fa192c58c3d8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[App 抽取壳的内存脱壳与请求签名逆向]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36GA7sy3ia1b9icOR5qgdsp9NqGqFrTict8ibuIYFJX780IddlV68myMzS352vmcibeFmrxlYwFib8FLMQSINsU85c7Y9mbOq22t7sc/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标是逆向某App的网络请求签名 sign。该样本使用了**企业版加固，核心业务方法采用了指令抽取保护，反编译后方法体均为 nop 桩。跟进分析发现，**采用运行期惰性恢复机制：只有被调用到的方法，壳</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=1&amp;sn=ec61b7e3afb64384c71693657e53d117&amp;chksm=b02ca5d9d3b787506c7d184087f2aa8716888721d74d66bd1453a058b0a1686f6ec1cf07987d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[零点击入侵！新型微信蠕虫可盗号扩散，无需接打电话（已被修复）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2MibtHl1AhblbyE791rpb86Lm4lrfP3RseW04KpUwtNrQoJtOZ2TUmMyO66c4FHx8P5NSFq1tIEUU7ORfqHFJR4mWKzKPWhs40/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年9月8日，海外安全研究机构Calif Research对外披露重磅安全漏洞，公布首款可跨安卓、iOS双平台传播的微信零点击蠕虫病毒WeWorm。该漏洞依托微信通话功能实现无感入侵，无需用户接</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=2&amp;sn=7a7240ec6af36256a20a5cee3b1c99a4&amp;chksm=b06f6275de38052376496a5818e2ece2374dc4817334f28e67a7ea794aec34ee4644e3dbd65b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619713&amp;idx=3&amp;sn=f5721c9f5bbd0fcc1531debb1326f6c0&amp;chksm=b0598f98fe4287005a34143e735590aed0474bfbd21998882713a8632ce30b1624d7c0310fc8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

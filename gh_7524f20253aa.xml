@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX17iaDQxx8XmRibib8s3q7zLC7qg0URggrfNjcwzWcW2AwL3iaOSqgS0R6LPNq4nG4Re8NTc59dhUY45FUq8H9dE8hnKHiawicZicVX7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，在2026年Pwn2Own爱尔兰站开赛首日，安全研究人员共利用32个独立0Day漏洞完成攻破，累计获得38.85万美元奖金。参赛队伍先后攻破三星Galaxy S26、OpenAI Codex、</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=1&amp;sn=c5c95012ef91c3e08078ab56d31b834e&amp;chksm=bcb0dd77a7490ff0cad638191e2247a23269b964e27d2c8f014e53eab0532836a778476233be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI曝出沙箱逃逸漏洞，无需API密钥就能免费调用付费模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3f3S3BssfibzPhhC0zoiaV16iaGbOWluU9uZj9OFXoHAVdDgibpISas4azbbSMibZFr7EXX6DeAtzuxbDSNPKGEtWU7UIzuZXvG1wY/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Oliver Fish表示，他发现OpenAI存在一处沙箱逃逸漏洞，无需API密钥甚至账号，就能调用OpenAI的付费AI模型。网上流传的截图显示，OpenAI针对这份题为《未认证沙箱逃逸可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=2&amp;sn=18e693efed9ce5df5c272feb59c8f7da&amp;chksm=bc90a91e8e8d009845a00551583dc2479d094f76a678ab3ad1987da60049b695f4abb79994ce&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenSSH 10.6修复多项高危漏洞，可致明文恢复、文件写入与注入]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0S0LlHduhmkwEJPdVI26LphSABqO40IBsm5EeIDCvPf2BbibsdaU0ARG2rgSlYNsx7WJicY7UUdVQ7KhqRric2iagOzaMKLLXeeQ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月6日，OpenSSH发布10.6版本，修复了多个安全漏洞。这些漏洞在特定条件下可导致敏感信息泄露、写入非预期目录文件，或触发shell注入攻击。本次更新同时覆盖客户端与服务端工具，所有</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=3&amp;sn=6b70277e2444d6f47853ad5d8812044d&amp;chksm=bc6dabe868873290b1234cffbed9e810f0c4eb3e95b4069b323a79973f0282a19b223eaa20b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache Struts披露多个安全漏洞，可导致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0zB2v6YTOf6MvusxXTRVRMUuSX0Mgib2jswScLtGsatfN4WFklm4TMicCLHThmPfPHicguRLx0ia5KPiaftouWxU422iaqvbq1mFdjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01官方披露4个Struts漏洞Apache Struts 官方安全公告共披露4个安全漏洞，受影响应用可能面临远程代码执行、拒绝服务、非预期数据泄露三类风险。官方给出的修复方案明确：使用7.x</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=4&amp;sn=78bee153784f1c179de9fd4bc191bc8d&amp;chksm=bc238287191739cb4c8755f69c21e140e6a74d5845f356e19b28f1911901fdb10510e74570c6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic放宽Claude访问限制，向认证安全人员开放三级权限]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX26iccwEX9NGShPgaeKibKiaickD0IL4CyAbADdpY3tzIErUvdFRibSN4B2emfia9ql47mhRtkeYpmIT58Yg4REs1rEozjAVpKwq5l3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日扩展了旗下网络验证计划（Cyber Verification Program，CVP），允许经过认证的安全专业人士访问高级Claude模型，同时放宽相关模型的网络安全使用限制。此</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348384&amp;idx=1&amp;sn=b0d043fbf6f272983df964e3f249232e&amp;chksm=bc598a082aeb2efb95aaaec3dd48d454cf056f15cd82f0b7e4477530e522348b6468db7d38de&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2seib466qrMZfJ0mN8MTDGIAEmHeMVCoHsk9hxH9yB2F3iaQeicnQ9hrIJ95EnLEAwTxQ5aaYzgENgCvpNFV9O1glsvEFhbVUGnM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Veeam Agent存在一处严重提权漏洞，本地用户可借此获取SYSTEM最高权限。目前该漏洞的PoC已对外公开，多用户共享的Windows系统面临极高的被利用风险。Part01CVE-2026-32</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=4&amp;sn=26d5d5c0cfcc53bb34fffb4c92ba29d8&amp;chksm=bca4d15b8b4434993bc51b64870f35a458605633c8230d0efcdbfbe81bce78bdea4306e3918d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[F5 BIG-IP遭0Day攻击，OAuth服务器无需认证即可被远程利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28HHo0SgQ9aCybl32RoKRJ3z1736LicrWcMGx60Da9e3MHtNPrYXIf7CSZ2EuxNd5HiaGpMjaiaKkZFRZAEmnciclop8ib2OeMMtpA/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5发布警告称，攻击者正在主动利用BIG-IP访问策略管理器（APM）中的一个严重0Day漏洞，无需认证就可以远程执行代码。该漏洞编号为CVE-2026-94127，仅影响同时配置了APM访问策略和O</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=1&amp;sn=0c1b6bd82b70287db7b56c9d4eb805ed&amp;chksm=bc0c6049545bc4932eb0f30e2924b4ec9b07ad0f1a0b40e5941714519c88f37e7e165de5d234&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cisco Talos披露新型AI恶意软件，四大模型投票决定攻击行动]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX13SjvtpiaRGa8tsC3eegYdoiaamRfCBicBDC4mN5DIH4UmrdPE58G1yhUviaSbWTYic5VPnmUNliat4qWJelWcnKnOU9euzyHhBNRls/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科公司Talos威胁情报团队今日发布一款开源工具包，专门用于狩猎内置人工智能功能的恶意软件。Part01四模型投票决策战术行动该团队详细披露的首个样本是一款Windows凭据窃取程序，完全不依赖命令</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=2&amp;sn=f19b40c4af71ee3f9fb145b64b9aec6c&amp;chksm=bcae814e16084f9d12711679c99ecac308c26cf25e5f5af484c2a3bdf0409b29e4558eb989f9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软SharePoint曝出高危RCE漏洞，低权限账号即可远程拿下服务器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1YVjx8D0n6QVyFibMdUas0z2fa2KvhMwWuM7qeUTwSfgwMMP8pfkMwo8ykQibVtwxAcy0lJn8EvlSRaic3qpODvj0MMFbmAzqtBo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01高危RCE漏洞影响多版SharePoint微软已确认本地部署版SharePoint Server存在一处高危远程代码执行漏洞。经过身份认证的低权限攻击者无需用户交互，就可以通过网络在目标系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=3&amp;sn=6a7d32a79b7e3f8167331f425be6ac91&amp;chksm=bc4e9afedee0a3d35cf61de8c6177c0442ad13222947406f243e3750da2189f7e2bd821ca7b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux内核曝KVM高危漏洞，ARM64客户机可直接读写主机内存]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2NmcUVnBiaZkuj5XNgbAAl7EMiaNVjBoIwzl9IdjtnuLKyibvX30yJpzqT3HIaA0s3NuoU2VANGNuRhILg7V0oI91e5keiag5bo5Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员近期披露一个编号为CVE-2026-89775的Linux内核漏洞，攻击者可利用该漏洞从ARM64虚拟机逃逸，直接访问底层宿主机系统。该漏洞仅影响开启嵌套虚拟化功能的KVM/arm64环境，会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347561&amp;idx=4&amp;sn=d280d704ec7ffedc43f08f44206a4e40&amp;chksm=bc508736bc8a39595c1617fb22f15f3eba3365e1b88a15deb8774a8cd618accf9d9dd26605cb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

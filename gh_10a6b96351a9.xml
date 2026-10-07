@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代架构设计，给AI的4条缓存红线（9/100）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdzSq4mFuOKebfCG4QcL7IINPtbfF06kQ4YrdElP4ujSgyplCdsJKJ203yUibicElPtic7hbK2Ocp3ceVd3JY4VfWOwblRdOYZY1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第9讲：AI时代架构设计，给AI的4条缓存红线AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第9讲</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981721&amp;idx=1&amp;sn=2aa0567d73ae6ddeb9d0e76346aecd60&amp;chksm=bc32fbbed8abac036130060250a3e2ba26f2bc419205bc42645185acb8360139d2fa079661d1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 11:58:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[对于skill里的description，大伙是怎么写的？ name: weekly-report-helper（周报驻守） description: XXX（？） 周报助手的desc，你会怎么写？ A. 这个skill能帮助你写周报，输出的周报非常适合老板阅读 B. 请在每周要写周报的时候激活 C. 从任务清单生成结构化周报，当用户要求“写周报”时调用 D. 这个skill能在各种报告上帮你节省大量时间 想一想，这个desc你会怎么来写？ 很多人写skill，时间精力的大头都花在了正文上。但如果忽略了desc，很可能让我们写出的skill，永远没有机会被触发。 核心观点：desc不是写给人看的摘要，而是写给模型看的触发器。 这句话是Claude Code团队说的，原话是：The description field is not a summary, it's a description of when to trigger this skill. 翻译过来就是：desc描述的是什么时候该触发这个skill，而不是这个skill是干嘛的。 大伙注意这里视角的切换： 1. 人类用户在界面上看到的是display_name和图标； 2. 模型看到的却是desc，它拿着这段话，和用户的消息做语义匹配。 所以，写desc，我们实际上是在写一段[给模型的路由规则]。 写得优秀的desc都长啥样？ 官方规范给了一个公式，至少要包含这三项： 1. 具体能力清单； 2. 具体场景； 3. 用户触发关键词。 现在再看开篇那道题的答案，你会选择哪一项呢？ 关于如何写好<a class="wx_topic_link" data-recommend="" data-topic="1" style="color: var(--weui-LINK) !important;" topic-id="munnxpih-qm31az" href="">#AI</a> <a class="wx_topic_link" data-recommend="" data-topic="1" style="color: var(--weui-LINK) !important;" topic-id="munnxfsy-jje9yi" href="">#skill</a> ，限于1000字限制，这里不再展开。 节后我准备了一场直播：《如何30分钟写出一个好skill》。分享自己写skill的一些心得，以及自己对AI的一些思考。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>对于skill里的description，大伙是怎么写的？ name: weekly-report-helper（周报驻守） description: XXX（？） 周报助手的desc，你会怎么写</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981709&amp;idx=1&amp;sn=fe34796a8f60bed59a6f9cf1c268e2e4&amp;chksm=bc896608a05e433dc18e55513ee4e41f941587a8996fdd9844bcf37b99f17d1045d2f93ddbc0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfibbxzIKCyJKTPqfP7zZ25SWNeVXzsqEEodnJzLoUFXnnnKkicLGry1FQk7FHu0Z5FsEAyoTXkeRIhcqiaUGG4iaibfZyubgpzU6sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>9个月时间，面向星球会员，做了一个《决定人生高度的9项底层能力》行动营，7月份开始。每个月，深度拆解一项底层能力；每个月，4次直播+4次图文+4次作业+4次资料。 7月份的主题是《人生目标感》，昨晚进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981336&amp;idx=1&amp;sn=39b94ea64f6d423f51d79b5486cfabe1&amp;chksm=bcec4d5ff276e719fe0d49fc9e0605addcf812800de7d22375f5680532a6b428d0fd07dcee68&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 09 Jul 2026 11:44:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[我人生能走到今天，除了运气，最重要的一个能力/素质是什么？ 我内心的答案是：人生目标感。没错，我是一个对于长期非常笃定，是一个知道自己想要什么的人。 关于我的故事，关于我人生目标感，主要分为三个阶段： 1. 没有目标感，只有目标的时期； 2. 第一个10年，要成为一个很厉害的人； 3. 第二个10年，通过帮助别人，来实现自己的价值； 我在25岁的时候，制定过一个5+5+5+5的二十年计划，5年技术，5年管理，5年业务，5年创业，45岁退休。 现在回过头来看，我5+5+5+5二十年计划，真的实现了吗？ 没有，但这不重要。 重要的是，有一个目标感，它一直指引我前进。 在这个目标感的的牵引之下： 1. 我做事有具体的里程碑与计划； 2. 我一直来积累，都没有大块的浪费； 3. 自己的职场之路，一直在往上走； 目标感不是目标，它不是用来“实现”的，而是用来“牵引”的。花时间想清楚自己的人生目标感，是人生维度，ROI最大的事。 那么问题来了，我们如何系统性思考，去找到自己的人生目标感呢？ 这里有三个很重要的问题，值得我们思考： 1. 我现在的人生“状态”如何？自洽，还是不自洽？ 2. 如果不自洽，我们要如何主动地调整自己？ 3. 我们要如何找到自己的人生目标感？ 没有方向的船，永远不会偏航。 但，这不是我们踏上航程的目的。 共勉！ 7.1，我启动《决定人生高度的9项底层能力》行动营，整体9个月。 1个月，会聊透1项能力。 1个月，4次直播+4次图文+4次作业+4次资料。 星球学习圈会员：免费（前提：完成4次作业），星球学习圈置顶帖回复报名。 7月，咱们聊《人生目标感》。 今晚群内21:00，本月第二次直播，重点聊上面三个问题，咱们不见不散。 <a href="javascript:void(0);">沈剑和他的朋友们-职场发展学习圈会员年卡</a>]]></title>
-      <description><![CDATA[<p>我人生能走到今天，除了运气，最重要的一个能力/素质是什么？ 我内心的答案是：人生目标感。没错，我是一个对于长期非常笃定，是一个知道自己想要什么的人。 关于我的故事，关于我人生目标感，主要分为三个阶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981326&amp;idx=1&amp;sn=c8a9db5cd060e9f66fd2f11398d2f881&amp;chksm=bc0608278219c0ce2dd885b4d72505f622614c3068f6753b59788ff5939bc6ce3d8aa9b91da2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 13:27:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

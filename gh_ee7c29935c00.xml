@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源中国 × 南芥智能：模型评测上线，选模型不再只看总分]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBBzJrKmIPoU2xjNzEGU2RSEFicPCdZFcgIkdWSuwQvdpb4BszCd8kibItZIIn61fzPG7UOryQhOBmMfAfvibQqf44DwG10DGtzwUo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，南芥智能与开源中国旗下 AI 基础设施平台模力方舟开展模型及数据集评测合作，首批评测覆盖 40 个模型与 50 个数据集，已在模力方舟部分资源详情页上线。可选的模型与数据集数以万计，开发者动手之</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623880&amp;idx=1&amp;sn=54710bc330a800fe8cda115b1955bdb5&amp;chksm=f57470e46b57911d6cd03e119dcd6f1fea42b0a4d2fece0e591923c56fb65a7056291d734833&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 08 Oct 2026 19:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Jev 有开源平替了：4 款决策模型上线模力方舟，不写代码就能试]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/2vLvuictM9ZHW82VcXyPTVSoialiaSYz0K3WnxoLSJ9bN7NkIAaIa7wMPHftMEbA7Qm3nAp6vsypAv0nE3qQKse38mrc2sh43ibib9gNO4pggk6o/640?wxtype=jpeg&amp;wxfrom=0"/><p>模力方舟现已上线 4 款开源 Jev 形态决策模型：DiffusionGemma-26B-A4B-it-Jev、SemIf-OpenJev-4B、APUS-OpenJev-v1（9B / 4B）和 N</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623855&amp;idx=1&amp;sn=044464d2d7067c2d5b998dc3fbfd4779&amp;chksm=f512d7e17b95d1c0603b51ca9918338ad4fbd3e768ce6f8651057490c1fd854aa4bc517e7998&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCMZdnRMzf1jwnVqYoQdgmHVPa4Aa3eXtOKcyYgmvUkwYXc4nNqwSOOvVKTGnOkX7A5SypX83ohAyGSo5icQrGtcLVh6liboEpYs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Reddit 上一条帖子最近火了——「Linux has officially won」，不到 24 小时拿下 1646 个赞和 375 条评论。发帖人没有提桌面份额，没有提服务器市场，而是扔了两个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621524&amp;idx=1&amp;sn=4e0d0b19f501fefca626854a4fb9ca45&amp;chksm=f5018f1b33325c23c3f95528557c19c1ec3fa60bd9adaca16ae5af1af5d15735b1f6f03fe884&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 15:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[国产基模“面壁者”，两年前被斯坦福抄袭，如今怎么样了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBByliaAho6qwzFGRnR08lwNrERarWvcS5sSEheObibny7lfOFj6jqqpuPK59kicnvO9MXTjVGyG7Wp0Tw1viaJqzZqxDrKzIRSpYt4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2024 年 5 月，一则来自斯坦福团队的道歉在全球社交媒体上引发哗然。该团队发布的 Llama3-V 被社区扒了个底朝天，代码、配置、参数，与国内大模型厂商面壁智能一个月前开源的 MiniCPM-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621502&amp;idx=1&amp;sn=7338d49980955f43b51ed837d4ed875f&amp;chksm=f56d38bf7a1db6734a6a32b59dce7754dc88549f8d923fe73faa5803883f3f93b7900a8da647&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 14:38:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
