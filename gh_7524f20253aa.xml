@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客利用AI工具入侵韩国金融机构，窃取客户及员工数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16nuicrvWAsmPgHawvO4oXv4WNcHbOcVoHcIZtjGsdMz17QNgb1eo2G2CPvzibI2xSka9M1ZooICtZDBakFPjWaD6IlDemAdibdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名疑似单独行动的威胁攻击者使用名为ARTEX的AI驱动渗透测试工具，入侵韩国多家金融机构，窃取客户与员工数据。此次攻击活动发生在2026年9月底至10月初，波及银行、储蓄银行、资本公司及网络借贷平台</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=1&amp;sn=f8fd91dd11819d3b16ff85ffc80cd364&amp;chksm=bc4621b8607e2a961a7cce06096b200f915afd7bd48bc16511ba1842702f8dc383b95a4ca9bf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GhostAction供应链攻击卷土重来，恶意GitHub Actions窃取CI/CD凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1EnJnI2BrjuBVTnaj4LR19nDyFWqKyAIcvBOkA0Dc8HTcVA07yb4Jt7a86v7ma3SpQye1icRHPEEyC5I6WG9Au2vaEU2ibWyWec/640?wxtype=jpeg&amp;wxfrom=0"/><p>新一轮GhostAction供应链攻击已攻陷772个公共GitHub仓库。攻击者通过伪造GitHub Actions工作流文件，窃取CI/CD环境中的各类凭证。本次攻击活动时间为2026年8月31日至</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=2&amp;sn=a68965832f789128a4c9737496d0429f&amp;chksm=bcd584d49d8e5af042a2e664f4f3eae679b37f69519f4534dc0b13028b04d3fe1fa1e99da1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX15RcLAQQOKbmP85f9dibmEuxF537n7wl254meFdWHDicoCZt6VTaNtJKenXFPDiczHtPotMia7Zr2Nnq04WibHYByGcAuLCF8s60jM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞影响Atlassian数据中心产品威胁行为者已开始利用CVE-2026-21589（CVSS评分9.3），这是Atlassian数据中心产品中的严重任意文件访问漏洞。在特定条件下，攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=3&amp;sn=cda5c645a36e3a51edbb2ef6a8679dd1&amp;chksm=bc41304c4d111a9663459a326fe2309f106afbc2a70b875aba13029a28ce506525fe4ad81770&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用Web3与区块链C2隐藏供应链攻击，瞄准云凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX27QY25h3lHOf43byaWla7B9ISNvg9aN0TezzXs5IAtNeL9mZXANTNic2LcqKduT1vR0Ft6HjhS9jNibMe3UE7ANahItWib2JMUhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正越来越多地将公共区块链网络用作软件供应链恶意软件的命令与控制（C2）层，无需修改已在开发者系统上运行的恶意代码，即可轮换攻击基础设施。这种方式为攻击者提供了高韧性的通信通道，可将已感染的恶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=4&amp;sn=51155c30e1cd368076d56956242d80a3&amp;chksm=bcfa8c3275ac15e25b291a0e8785fe66ebf500ab7e38f2b3fcfa3eae3077e2c82f6829ba31ef&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX17iaDQxx8XmRibib8s3q7zLC7qg0URggrfNjcwzWcW2AwL3iaOSqgS0R6LPNq4nG4Re8NTc59dhUY45FUq8H9dE8hnKHiawicZicVX7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，在2026年Pwn2Own爱尔兰站开赛首日，安全研究人员共利用32个独立0Day漏洞完成攻破，累计获得38.85万美元奖金。参赛队伍先后攻破三星Galaxy S26、OpenAI Codex、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=1&amp;sn=c5c95012ef91c3e08078ab56d31b834e&amp;chksm=bcb0dd77a7490ff0cad638191e2247a23269b964e27d2c8f014e53eab0532836a778476233be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1NSL7xHgO1klJpficIGCf2doezkFwtyDWE4FHtJKKzMoic8gNB3ibaMNk1QYnXphywVZKolJV8M61VXb0bibgKAAYoUeyJMGCQyVA/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员演示了一种效率更高的攻击手段，可攻破特定部署场景下的RSA加密，且无需分解公钥模数。这一成果挑战了传统认知：此前业界普遍认为，RSA的实际安全强度始终与整数分解的计算成本直接挂钩。借助这种</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347709&amp;idx=3&amp;sn=55ccb6058c97b907e59a84320d0e0129&amp;chksm=bc5d93d71e9ba3626c39dab969033cdb1f714a82518ec8f311f4ab82aceaaa7b45d1c760e655&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 25 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ShinyHunters宣称攻破FBI系统，窃取2-3TB员工敏感数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2Wiba1iacYJnWtjZg2bNZBCLFeqiacg0lo7whU5s50jtZ6SpENw8jUfibGgiamiah2UsfPV8bwe7xVPG4fwtdZcfQtWcFk13VByiaY5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01ShinyHunters泄露数据样本知名网络犯罪团伙ShinyHunters宣称已攻破美国联邦调查局（FBI）系统，窃取FBI雇员及职位申请人的敏感信息。该团伙表示，此次行动并非出于经济动</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=1&amp;sn=bb1c89f1d1528eeffc6dcfea09753b50&amp;chksm=bc5187789beac499d7da15890080e54004a1d2c266e86a4b832791d1ed3d00ae4a4cf6815d2f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型TASK#STOMP后门滥用PowerShell，窃取文档与Wi-Fi密码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1g1xiakJWKruAZ8ZXBvXEiaiayVWUXLCKicW2tWQH2eSYhZ8jSic4BULdmYrXM8lT1Hy8DCcWmk0YCjHz8z4qvlrprbicO0uFohFpYg/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员最新分析发现一款名为TASK#STOMP的Windows后门，可滥用系统常规内置工具实施长期间谍活动。该后门通过VBS安装器、隐藏PowerShell进程、计划任务与运行时代码编译等机制，从受</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=2&amp;sn=e8ae8c54806244d4e07ebb36c0ccc778&amp;chksm=bc61100f11c981e0447c0bf96dea2e77fb56fda815573caa5d679e786a118a66362ea4767407&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[红帽披露OpenShift重要漏洞，可绕过PGP校验推送恶意镜像]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ricWQSoumsrJ4l81m57zHnq984TMvWzxzM18SdvhOX8kdWNECLicZPnuicicG0X98PvNpl26x33ByP8DCwcGZibDoWeibbblEH9Tuk/640?wxtype=jpeg&amp;wxfrom=0"/><p>红帽近日披露，OpenShift内置的oc-mirror工具存在一处重要安全漏洞。攻击者可利用该漏洞绕过PGP签名校验机制，向隔离部署的OpenShift环境植入恶意发行版镜像。该漏洞编号为CVE-2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=3&amp;sn=bedc8a90795255eef569ba67d334cc99&amp;chksm=bcca2439d93706974cd9236dd515a2ce9ca7fd874e9bfa45618954f818546cf12df10cb59567&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Veeam Agent高危提权漏洞PoC曝光，低权限账号可获取SYSTEM权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2seib466qrMZfJ0mN8MTDGIAEmHeMVCoHsk9hxH9yB2F3iaQeicnQ9hrIJ95EnLEAwTxQ5aaYzgENgCvpNFV9O1glsvEFhbVUGnM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Veeam Agent存在一处严重提权漏洞，本地用户可借此获取SYSTEM最高权限。目前该漏洞的PoC已对外公开，多用户共享的Windows系统面临极高的被利用风险。Part01CVE-2026-32</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347618&amp;idx=4&amp;sn=26d5d5c0cfcc53bb34fffb4c92ba29d8&amp;chksm=bca4d15b8b4434993bc51b64870f35a458605633c8230d0efcdbfbe81bce78bdea4306e3918d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

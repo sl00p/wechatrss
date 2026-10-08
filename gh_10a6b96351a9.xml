@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[十一假期，我在星球开了一个新的直播系列：《一起玩AI》，昨天是第一讲：《30分钟写好skill》，这个系列，分享我自己玩AI，学AI的收获。 直播开场，我回答大家提的三个问题。 第一个问题，需不需要写skill？ 我的答案是：需要。 skill这东西，本质上是把我们的经验、方法、流程，沉淀成AI能理解、能复用的资产。写skill，是我跟AI之间建立共同语言的过程，是我个人能力的外置化，是我从"用AI干活"到"让AI替我干活"的关键一步。 第二个问题，需不需要学写skill？ 我的答案是：也需要。 核心不是我要亲手写，而是我要对AI写出来的skill具备判断力。AI写出来的skill，它真的解决我的问题吗？真的符合我的标准吗？有没有遗漏我业务里最特殊的那条路径？这些问题，AI不会告诉我，只能我自己判断。AI时代，岗位的核心价值，就是审美、判断、兜底的能力。 第三个问题，需不需要手搓skill？ 我的答案是：不一定。 手搓，一行一行亲自写，确实不是必须的。但"不用手搓"不等于"不需要懂"。我们至少要看懂它写了什么，知道哪里不对，知道怎么测试和迭代。一个好的架构师，也不一定每行代码都自己写，但他一定能review代码，能判断好坏。这，是同一件事。 所以，我们用AI，但我们自己要成为那个定义标准和判断质量的人。这，也是这个系列的缘起。 两个小时的直播，干货总结如下： skill不是提示词，而是文件夹。整个文件系统本身就是上下文工程，信息分三层按需加载，写得"全"，不如放得"对"。 description是触发器，不是摘要。它是写给模型看的匹配规则，公式只有三个：具体能力清单+触发场景+用户关键词。 正文是路由器，不是仓库。官方推荐的骨架五段：一句话定位、分步流程、边界与禁忌、Gotchas、快速参考表。其中Gotchas信息密度最高：agent的默认行为已经覆盖了常识，skill的价值在于"不写就会错"的点。 Gotchas是跑出来的，不是想出来的。skill从"能跑"到"好用"的分水岭，是拿真实材料去跑，收集翻车现场，反复迭代。 直播绝大部分内容，都来自权威官网，我不确定的翻译，都带了英文原文。受1000字限制，更多细节，图文、直播回放和PPT都分享在星球里了。 这个系列，我会继续把官方材料里高价值的内容，翻译成中文的、可落地的实践。欢迎星球同学参与。 AI时代，咱们一起进步。下一期，大伙想了解什么？]]></title>
+      <description><![CDATA[<p>十一假期，我在星球开了一个新的直播系列：《一起玩AI》，昨天是第一讲：《30分钟写好skill》，这个系列，分享我自己玩AI，学AI的收获。 直播开场，我回答大家提的三个问题。 第一个问题，需不需</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981723&amp;idx=1&amp;sn=d9b4c001b8651e3d26b9087323461e59&amp;chksm=bc985af02544ba4437187f2508e09656d5ec102ae9e94ea2fbaf54ce62d6c1a136552faaba65&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 12:14:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI时代架构设计，给AI的4条缓存红线（9/100）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdzSq4mFuOKebfCG4QcL7IINPtbfF06kQ4YrdElP4ujSgyplCdsJKJ203yUibicElPtic7hbK2Ocp3ceVd3JY4VfWOwblRdOYZY1Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第9讲：AI时代架构设计，给AI的4条缓存红线AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第9讲</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981721&amp;idx=1&amp;sn=2aa0567d73ae6ddeb9d0e76346aecd60&amp;chksm=bc32fbbed8abac036130060250a3e2ba26f2bc419205bc42645185acb8360139d2fa079661d1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcj9b1sILbKyqCd0I4jh5uUAAsTVyIr3k9WWMVnrQHbRpmvwwyticEia2WBqzzMAjomXhcTXHDRv2eALCpicGQTuzSR1KL3pnO3zo/640?wxtype=jpeg&amp;wxfrom=0"/><p>我是美团的深度用户，黑钻会员：外卖，到餐，共享单车，民宿酒店，旅游门票，买药，电影，足疗… 基本上都在美团，可以说，美团已经是我生活中非常重要的一部分了。今天早上遇到一个新的问题，不确定是不是系统bu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981349&amp;idx=1&amp;sn=18da5bd8a77365614d7b2adb07e71d46&amp;chksm=bc5df7bf984785a4da91789d4b29e6fad1596dc0b933570e2e39bebb4b73470e152627511050&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 12 Jul 2026 12:24:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如果既不自洽，又不舒适，那么你真的很危险...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfibbxzIKCyJKTPqfP7zZ25SWNeVXzsqEEodnJzLoUFXnnnKkicLGry1FQk7FHu0Z5FsEAyoTXkeRIhcqiaUGG4iaibfZyubgpzU6sw/640?wxtype=jpeg&amp;wxfrom=0"/><p>9个月时间，面向星球会员，做了一个《决定人生高度的9项底层能力》行动营，7月份开始。每个月，深度拆解一项底层能力；每个月，4次直播+4次图文+4次作业+4次资料。 7月份的主题是《人生目标感》，昨晚进</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981336&amp;idx=1&amp;sn=39b94ea64f6d423f51d79b5486cfabe1&amp;chksm=bcec4d5ff276e719fe0d49fc9e0605addcf812800de7d22375f5680532a6b428d0fd07dcee68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 09 Jul 2026 11:44:36 +0800</pubDate>
     </item>
   </channel>
 </rss>

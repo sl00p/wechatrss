@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[共享还是独享：一图看懂 CloudBase PostgreSQL 数据库该怎么选]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbc1LfUzqz2uRPVMBvAa2nTVXI32IfGwUibxJQAibEM5b4vQJRaLezcZT5ejTPbW7tZe1yxTWM8gIxF5weOicIpcN4aW1TtichZic488/640?wxtype=jpeg&amp;wxfrom=0"/><p>从开发测试到生产系统，各阶段的能力选择与使用方式一个后端业务从想法到上线再到真正跑起来，中间会经历几个阶段。每个阶段业务的样子不一样，数据库上的诉求也不一样。这篇分两部分说。第一部分先看开发者在各个阶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540531&amp;idx=1&amp;sn=39618854a1dae14b9a7bd91544e14d8e&amp;chksm=cf4c7431c16f1dc63c87e912ddf5563e63e9564630409e087e0d912e0e38002273b04375ffb4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 11:30:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一句话让 WorkBuddy 生成小程序，后端和数据库交给 CloudBase]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/C8KZWtRymbdBPHdJzyx1PXoicic4ANrOniaAcPakSP9KXmibXXqTIBWz0MTbTYmJibrF5LVFv55cvKBs6SdBSGurHo0NMwZ1ScccGvcibEibbCfb8M/640?wxtype=jpeg&amp;wxfrom=0"/><p>不久前，WorkBuddy 上线了全栈「应用」生成能力：用户用一句话描述需求，就能生成一个完整、前后端全栈的网页应用。现在，WorkBuddy 把这个能力延伸到了微信生态：用户用一句话描述需求，就能生</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540509&amp;idx=1&amp;sn=239cfcd5ecbe77de24dd3a74aaa328b7&amp;chksm=cfa3a19b356a6a537c8c61dc4f910f2b529daa3b2c1395dcf2270b57b2a237520ac9b25a0470&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 大语言模型驱动的移动软件安全分析实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3qEVt7FnY7iazTlXzfPgXIiaqaBdPpBuOS5cFPbPeibxMMkq5Uicwl3s5ZXqIfke68qibCmgCrdSzGW0sKwOgS9t9EPo5FibiaxEePxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型驱动的移动软件安全分析实践在移动软件安全分析领域，漏洞检测与逆向工程长期面临关键技术瓶颈：一方面，Android官方API与安全策略频繁更迭，依赖人工编写与维护静态检测规则极其耗时滞后，难以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=1&amp;sn=3607eb97d8f8832767600dce9c235942&amp;chksm=b09fecbe3a45a30c48de5513dae54fc1d734edb3169b7805e4eb3a988691bb86b03e7c60ac4b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[木马的密文里，出现了我的窗口标题：从主机取证、内存逆向到 C2 协议与渗透尝试复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3YawKoK1V9TsgyOH6j5yMEaou7LKftp310HUgrB4ELoY2icP6EZOnpNbV5sPuz1iaic8JDBpic86UZWoOFOWy6tFYACz1vWBYGFOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最让人后背发凉的，并不是屏幕上跳出一个陌生进程，而是从它的密文里读到了自己熟悉的窗口标题。然而，真正把这次分析拖进深水区的，是另一个看似令人安心的结果：密文解开了，中文也出来了，验证程序还在不断打印成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=2&amp;sn=68832ce3c7706910df179d94bf37c9cf&amp;chksm=b00771b086c830484fe3f1cf40f5ac3763c40d54a407e466539e335af05ea0b6ed49d72dbbb4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Citrix NetScaler 曝出 9.5 分严重漏洞，SAML 部署存在远程代码执行风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0V68Y1kjSBRibJdBZ3VILbgbYD5KYefePL4libTmc1hlB1o53hGropoibLs1t86qiaWsGKdVhfrdae4PXWr8dkeTN6ZA785jX8mLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Citrix 官方发布安全补丁，修复 NetScaler ADC 与 NetScaler Gateway 的严重内存溢出漏洞 CVE‑2026‑107406，漏洞 CVSS 评分高达9.5 分，特定配</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=3&amp;sn=d715f94df4938cd71e83eae4192c5579&amp;chksm=b02a1946113e52cffe06a69e7a0dabd7b38599f9c6e75671579d208438c178cd1a9bad284f4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 09 Oct 2026 18:00:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Win11 26H1内核异常体系分析与实验]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EdJTeJZ1re8ksy6MwFP7sdX63X3uephCqFm0PxRoysR2mK0as6NdYrakEiaG9sibYP0d90XKYboMmj8EbcGLEqt0fRRsQVa8vk/640?wxtype=jpeg&amp;wxfrom=0"/><p>1.前言本文定位为抛砖引玉，分享一些实验性质的思路、代码实现方法，本文在结构上大体分为了以下2部分：针对Win11 26H1内核异常体系的详细分析，理清楚异常体系是如何工作的针对现有异常体系，分析出3</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=1&amp;sn=2083068144c170ff5bcd5ff0dfdfa36e&amp;chksm=b03578a9708c84e59c4273a978af425d8c2a9ff70ca0fd1f2f18724b279d6b413b8b19c43ad8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01伺服动态（南京）科技有限公司逆向工程师20-30k就职地点：南京市溧水区润淮大道28号职位描述1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619808&amp;idx=2&amp;sn=3e745a23a056daacc5bac958dd4734ce&amp;chksm=b0962797cd8c3c3a7dcdfc18bb8ae9c04135ebf874788d2f5cf83ed5e06c5bfa1ad8cd05f1c8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 11 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VT调试器原理揭秘--DebugPort转移与重建调试体系]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3UThMdq5zmEbKfNmPbmoU5UKVqbEVeGqibZyCsrM06ou525E9hShIyVntclWCoibEExWsAmIfN6IeXcExsXP6RKlEicicianH3y14c/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前市面上主要纯在两种基于虚拟化的调试器：走无附加读写，利用驱动直接读写物理内存，不会调用KeStackAttachProcess，自然也不会留下句柄的痕迹，利用vt本身的MFT技术实现单步调试，断点</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=1&amp;sn=3da8fd74ca09ea5d3b1a7e5df02207ca&amp;chksm=b0664dda1c85636027c5897f6a9ad80dc6bb9f7c14dbf1a5aa3b2eca4a47535d9e2e0b7db241&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[9月11日13:30 | 人工智能赋能网络安全创新推进会（现场多轮抽奖）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0xEU6wcrGTj2rQA2AOFswK0WcnRmcED52BZkLtPlTRaGBsbmmr3wg6BKJ8QR3XoEvF2sg6h9IKz3mDmM2G2viaH2rqVxTHL3xU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026第五届上海网络安全博览会🔥 研讨会四｜人工智能赋能网络安全创新推进会⏰ 9月11日（周五）13:30‑16:35📍 上海跨国采购会展中心・一楼 B 会议室✅ 看雪科技出品｜AI 安全硬核专场🎙</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=2&amp;sn=6efd160280fa4ca392eb9540a3ba96c7&amp;chksm=b00bd9bcef9e2720f8f74b771e99c266d9db469f95220c1e66fbe3b9f36830cd5dea9a6e4a75&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic披露第四起AI模型入侵真实系统事件！Claude Opus 4.6闯祸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0ApZ1RVo0XR9ibWLQyFuA1HB05dGlhUfWPJ2vGvtf3ia9fM7QxCA1ticc9AOABQlMQqcAJcS53FBfNdONWniaZPmbDGGn3z9ct3XU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日对外公开第四起AI自主代理安全事故，旗下Claude系列大模型在安全评估测试期间，因环境配置错误，突破模拟沙箱，对真实第三方系统发起入侵行为。这也是继此前多起同类事件后，又一起引</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619748&amp;idx=3&amp;sn=14ecc6169822b3abd74bb3d645bcc424&amp;chksm=b071aee0b32fbf1287461b779a78d82c546e6ea231e68cb21d327fb74f53ed37fa192c58c3d8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 10 Sep 2026 18:05:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
