@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[腾讯云开源TeamAI，支持跨Agent共享Skill]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaBicXJCPQEIFR40XCk237avyV5bMib6yIib1M2dcskW74ObTAxZsJZrficJIpH6SttOgA19VlagNBmWmicgPQP1EWjm0QcuwjSskQEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>团队5个成员，用6种Agent，各自有不同的Skill和知识库，怎么协同？强烈推荐这个腾讯云内部自用、登上了GitHub Trending的开源项目——TeamAI。TeamAI 是一款基于Git的团</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654909578&amp;idx=1&amp;sn=5092bb85ffbbb387ce54df4b36b1e648&amp;chksm=bc6a52fe8869eac667b0e4341df6676249a4ac38782607ade53e4e445dc7e6d7223ea839ba32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 14:45:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[WorkBuddy重要更新：本地文件从此「自带」AI！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaDic0wPodC2wU2LewvibnLbsNJdrexSDCVMzwcLHD3XW4lfKib83QoVNp6Rjc58PiclRGrgfNgakdVCr61UVdwd6TmibGuPibEhB0JwQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去，用AI处理本地文件，第一步往往是先去找AI。现在，文件一打开，AI就在旁边。今天，WorkBuddy正式上线「独立文件浏览器」，面向本地文件提供独立查看和处理窗口。右键选择WorkBuddy打开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654909567&amp;idx=1&amp;sn=c0cfb4b433061575bcf828f19f4999a7&amp;chksm=bc5426bea944bba8a4c13148f593378e89b273f5fc121de869b41796c91a933a471fcb8ae6cf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaDqiahsIH2d0Mo01eJF9rpLWQ9VOhfLGDpx4CmyUyM9jialgC5iastnH12M7nvkImUoqOPttot3ib1z08s2c43qUZ5QuKvCJJpDIAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，和大家分享一个「硬核」好消息。 5月26日，莫斯科国立大学（MSU）举办的硬件视频编码比赛成绩揭晓（大赛官网👈🏻）：腾讯自研的编解码系列芯片“沧海”在30—240fps所有速度档位的SSIM、P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907817&amp;idx=1&amp;sn=cd421025170a1cfa8561c6a36e24c686&amp;chksm=bc8dac5703ab96e2d0bdd221f64e96b0cac08942a513241342156aa54f82a6322d0c7cdcaa3d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 12:19:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Gartner报告：腾讯云CPaaS，亚太第一！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaBmRmTt13CWkc86MgxiaDQKjIDH4WdFn1E9ZSY64t7fYO49wfr5zTS9xjvkzvaEwIMkUrB8eREwYoNWWXpXzxLtLpACw0SpYiajQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>和大家汇报：今天，Gartner®正式发布2026年CPaaS魔力象限报告——腾讯云不仅连续第四年入选“挑战者”象限，更在核心的“执行力（Ability to Execute）”维度，高居亚太第一！划</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907801&amp;idx=1&amp;sn=eaff29dd0527efa6758445df21962f45&amp;chksm=bc0fce33c3229a457410f98d2420a31c6992dba6f9bd95533734345685306ec3ace11e523285&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 16:53:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

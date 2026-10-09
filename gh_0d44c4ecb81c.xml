@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[TencentDB Agent Memory 新增DeepSeek Harness 桌面端接入支持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrQxZjzcwoH9boTBc3N7B4dbHiazGocfk4ib8ibc9NR1T7IziakD79Tj7DW8RpRSlR32tIFA8jrOtWGxsuBNh5HLhLp1gd5sjMTWCpV18PD3Pmc/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目地址：https://github.com/TencentCloud/TencentDB-Agent-MemoryTencentDB Agent Memory 新增 DeepSeek Harnes</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499239&amp;idx=1&amp;sn=02a7b16b012a59141536bbf09e7508e2&amp;chksm=c0347b8c2dfe937f07aa721ecd64e70b76bda96af09df89a7e1186e8671af8f2b4e3fab0bddf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 16:07:43 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CubeSandbox v0.7.0 发布：沙箱跨机流动，集群平滑演进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrQxZjzcwoEV1nQUPYr2HicKBwfFnebbPhfbovyAY8BvD295FWYtTvkDgKgxflKuj6UwDe1RqTUExBm56laL3Dya3icYodyAGhXojnlia1aMDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.6.0 中，我们把 CubeSandbox 送进了 Kubernetes，也交付了兼容 E2B 的 Volume 框架。控制面能以标准工作负载运行，计算节点作为可调度资源纳入集群，存储的选择</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499225&amp;idx=1&amp;sn=7d65645aa22d18d47b713fa46afdcf1d&amp;chksm=c040e4e813388d481d439084e0bb4b92b0dbecdd08571eb81bc7cb7c55cf29cc1192aa0628b4&amp;scene=0&amp;xtrack=1#rd</link>

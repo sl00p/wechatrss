@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[模型开放之后，AI能力为什么仍难以复用？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjXvNctqy7T86kTqJane7iaN2ibDBQR02SUwO54NmaFguibZgahgtZJvSoDVTyic968Mqsbwd0xib0ibjJoe5IQZWNtgOToibnXzxDwMs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 润竹 近年来，中国积极推动人工智能开源开放，全球 AI 开源生态也在持续发展。开放模型、开发工具和技术框架不断丰富，降低了技术应用门槛，让更多开发者能够基于已有成果开展创新。然而，随着 AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=1&amp;sn=353e58fe3e3363f32b7c076b25d32358&amp;chksm=bcde516aa2209d39cac7524e536d7f80261b118f6f8093a4a3404f240a1d926206db4669bd05&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让 AI 组队干活，最强模型也只完成约一半任务：AgentWorld 如何评测 Agent 协作能力？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjEd898NTFRsocvf3CKcmj1DVhrmWjKDDn1nib4LPX0I7SbibUagBNicyYEUl3b2ewxaF360S9iaBnJt3Ysd40aDQK5880CE5NOibD0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜Raphael Shu 个体能力强大的 AI Agent 正不断涌现。从编写代码、开发软件，到检索文献、辅助科学研究，它们能独立完成的工作越来越多。但随着这些“超级个体”变得更强，一个同样重要</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=2&amp;sn=c24b8e13f23aa004efc01e3dc1d2b1e1&amp;chksm=bc4a564df9f5a8dbb0c5ee02fb895c82bb54434bf9f813ee148a7c8911b9e3bebc169558fb75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在生产环境中保护 MCP：超越网关的纵深防御]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaHwShOl4SzQleejict1stEnPRNQwn2KVjKKQSyYZXxQa8epibEICHXb2K4iaetCxQwsxAb36GKxwlxg185qmudE1nWtHjhF9RGWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Nik Kale 译者 | 张卫滨 核心要点将 MCP 安全视为四个控制层而非单一的协议特性。执行、基础设施管理、出站信任与语义完整性都需要对应的强制执行点。使用网关进行认证、授权与审计，但</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=3&amp;sn=383ed569ed135cc030a8fd71cbb3c33b&amp;chksm=bcaf5e15ad65222b1e36b825d9e6f8a136bbcad3691f0a5cea41f2d05c2fd6584bbaa487f5b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4wBRAT2njC1Q3BTHv9hiaredpBAjFoGNetdTPUllkr09WzSS7TiaatSn3Mscd4VicA8r1HYKjphAcQ954PJMeJMgwyCrribMWerw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 Objective-See 基金会创始人、安全研究员 Patrick Wardle 披露了一个尚未修复的零日漏洞，该漏洞影响 Meta 新近发布的 M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=4&amp;sn=35a17f4176b3bf46f358efd8d82323ff&amp;chksm=bc158bfa210efbee3351fd846c5349d5cfb93045937a36f83fa4b19879c8b7458c714837a8f3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Read, Don't Write：重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjY32p8KqI0bwfdlzLA6icLMJosfmYyATWJ1UHiaUfVnRceiafmFR1cWHXBbwtK6udc3L8qvoibToPaLYWJnxalb4gJPabpmXKqup4/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=5&amp;sn=f6f34e791e6247d5c625301582987b0e&amp;chksm=bc2bd49a6d7d1bd4a564753adf1e527be403546fd64a15746b5964241823488ebf3aab26556f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaj6nia8qCfIskXoRyHXvnOvjE9TfblianbYfCVw9y0CAMpISnOlxPTM0rTTciccVqAJttj3iaeLqy7QDf3g3AbO7dHTMfTaxrZtOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 姚戈 AI 内容创业公司，已经不能只盯着模型与内容生产之间的 Workflow（工作流）。过去几年，定位为“工具”的 AI 内容公司在基础模型之上做了大量工程化工作。模型调度、角色一致性、资</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294615&amp;idx=1&amp;sn=9a54443a3d38ccb7d56e1b5c0fd1bafe&amp;chksm=bcc3c3804ebc622cd7b06f5e527c253d7442fd8f59187f332952d98b142634e299e47ea495e2&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaibpME3enykruqSkfzSyHqQzyFQrHPDm4Fz7H22SZro1jAI7TwFQBKRMo1QE0UliccEvSPk3eCjcvFS5ukURkutribvTByAa4yw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 姚戈 “AI 会深刻改变我们原有的工作流、认知和创作习惯。已经发生的事情，无法阻挡。”执导《可可西里》《南京！南京！》的导演陆川说。今年云栖大会，陆川使用阿里巴巴多模态模型，制作了短片《历史</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=1&amp;sn=f4280e8e1b8500ddf2ba110911825eae&amp;chksm=bcd76a6987866540b233b644a24c620c1d4d1f5680bab0f64e48daffcdbfc03ecb9ea3f0f5d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 19:46:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNh8QV2MBebbibI9IpQB3qvrGNhr4xDslQrk30Ddxzc9A3Jr2nJgbsReqBn4szGa0ZeWAbMOvEN9vGmlicHzichxCKXFFCBViaRE8oE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅 过去两年，AI 应用开发的重心正在发生变化。最早一轮生成式 AI 热潮中，开发者关心的是模型能力本身：模型能不能理解指令，能不能生成文本、图像、代码，能不能在某一类任务上达到可用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=2&amp;sn=fac409d7606ffdd87908985540130a1c&amp;chksm=bc19d46c7bfe8937e42992857638e823a32b4730e04e020c9f3d564985d133124d03a5de9092&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 19:46:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 有了“工号”，数据平台长出了手：Snowflake World Tour 上的三个变化]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaav0j1b1ruIiaQVKKRWbruUeIP0tXzM00RUwsSOAFKkV6Utb07KZE90lP4thFeBWqYpJPFctDVPGick6icV7XVCKh2KDI8AOkPvg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 郭炜 白鲸开源创始人兼 CEO 昨天我作为圆桌嘉宾参加 Snowflake World Tour Shanghai，晚上也和 Snowflake 全球产品总裁 Christian Klein</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=3&amp;sn=053637f37ad6d95a3738ec5c8d64f36e&amp;chksm=bc17394e51e66216eb71fcc9ec45fb57a36ec0053fd3a30d3937315862ddab3cace372e359c9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 19:46:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgHYoA5aic5mia2As8ugNkpDUf5A3vIX1EyZSZgw8e1QXBh2TZbEkA8vCl6wgqgd9hZwTyvR1uyictvwfoqYJQ90rez2uG42ibjruw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Craig Risi 译者 | 平川 Kubernetes 正在鼓励开发者更深入地了解 KYAML——这是一种更严格的 YAML 方言，旨在让 Kubernetes 配置更加明确、可预测，并</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=4&amp;sn=1c99a9f844935f3fb7645b3215df6c21&amp;chksm=bcff6cb8a03fa62069b372eb704aa10bc176bb9f59952d65f6f9b24eb4bc73d37653f03cb737&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 19:46:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码不再稀缺之后，软件工程还剩下什么？| 直播预告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjicKia48HgOXNria8qf3xZYAZ5OTM4AmVxJBZxUEMUPyA05LWaE8ALQyTXE3UcP4jFtOicwEg9Td9u4MxPOtCgLia0BZeMEKkmBJII/640?wxtype=jpeg&amp;wxfrom=0"/><p>代码不再稀缺之后，软件工程真正的瓶颈在哪里？本场直播由字节跳动、小红书、阿里巴巴、哔哩哔哩的一线专家，围绕 AI Coding、研发 Agent、确定性工程与大型项目实践，探讨 AI 如何重塑研发体系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293633&amp;idx=5&amp;sn=820eb573618a4bfba0aae27bed1dd5df&amp;chksm=bcf647abe77f15181ba9869b00cd4258a249bf3e4a083352d2140a9539f2742fc567126a76e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 19:46:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agents成新一代造王者，开发者正在快速失去技术决定权]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjJiccTHn5Y7I7icJTKyxAibxxiaqOZXkUz4hjeRJfzZg6bBawdvtHH343wOpsJ07Nbx8sQRYoqib3HAKgibpYFhkr3HYUlQkbXU8cTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者丨 Stephen O'Grady 译者丨明知山 策划丨 Tina 十多年前，《新造王者》记录了开发者如何从一个长期被低估的群体，变成技术行业真正的“造王者”。他们决定哪些软件被采用、哪些语言和框</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293534&amp;idx=1&amp;sn=b46961e0c5a6d3490646c6f47a24fb2e&amp;chksm=bc8d5c4e3b31058838c507efd25d2619f83b5cb715ebfc17951fc21f99c71d9e1492ebd1beed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 12:11:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

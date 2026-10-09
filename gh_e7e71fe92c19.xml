@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[三六零天御移动安全与合规检测智能体：以智能专家顾问，交付安全合规检测成果]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0R9icOYgcHuygicGibBibBlTRFmTZofFsCcNzViclkdo7V0lWR4hSkKOPOJqmbylVOLQ4ZrOMX8UJwAW4Do95yGwGibxVIJOQB6YqZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>三六零天御，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（S</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=1&amp;sn=aa8312a1717c4189c536715be99b5141&amp;chksm=b0f76a00d58364d858350ce04e93690368d27b86429e37c5620fa3a4d29ff1379667dbcd7729&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Chromium ABE（应用程序绑定加密）解密的工程化落地实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Rmh3Bt2oU378ZJqSVGbgV3o520xA3o6VX8J0tDO0UVNgI61yZYgjEDbI2ibPfCibicwGHfrgibaTOrxBdKu17TMl1oNa8sblErD8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Chromium 应用程序绑定（App-Bound Encryption，以下简称ABE）的解密已不是新鲜事，本文将侧重于讨论其在工程上的落地实践，以及分享过程中 AI &amp; Security 的体会。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=2&amp;sn=6fe4bc778c05e125c156086315878f0b&amp;chksm=b0821f709d2d21c28c8a708449e9383ecbff954563cd39dd9fd71b78b0db63be6c8d009142d9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源供应链攻击GhostAction持续肆虐，数万GitHub仓库植入恶意Actions窃取密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1vF3CZZ7pSoMtdQBtgIvUCbMKibRWaOBQwuH1kFApibU0qlxRNrl9GiceRQBuFFqOIoZZ00fqRE3ksIVkK7rMxS5II0WMyl7Hg98/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期网络安全研究团队披露GhostAction大规模凭证窃取供应链攻击的最新进展：攻击者劫持多名知名开源项目维护者账号，向海量代码仓库植入伪装成安全审计的GitHub Actions恶意工作流，批量盗</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=3&amp;sn=7924139702fa274f1c036fb16110e630&amp;chksm=b08157670b9c556cd85baa0b54af28928075a7e69a46b2aed5932b8c50f298013d785d9cb959&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 大语言模型驱动的移动软件安全分析实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3qEVt7FnY7iazTlXzfPgXIiaqaBdPpBuOS5cFPbPeibxMMkq5Uicwl3s5ZXqIfke68qibCmgCrdSzGW0sKwOgS9t9EPo5FibiaxEePxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型驱动的移动软件安全分析实践在移动软件安全分析领域，漏洞检测与逆向工程长期面临关键技术瓶颈：一方面，Android官方API与安全策略频繁更迭，依赖人工编写与维护静态检测规则极其耗时滞后，难以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=1&amp;sn=3607eb97d8f8832767600dce9c235942&amp;chksm=b09fecbe3a45a30c48de5513dae54fc1d734edb3169b7805e4eb3a988691bb86b03e7c60ac4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0KNeMhl8PsnzZstGqCricr0QIMxDECWriccTYe47TFw2Dt4j5O753aw3QHGTEwSCDu5OZAmpy6zw40C9I3EgicRtcyNP3lzqZUYw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OLLVM 是一类实现的统称：凡在官方 LLVM 上叠加混淆 Pass 的都算。它源自瑞士 HEIG-VD 的 obfuscator-llvm，提出了指令替换（-sub）、虚假控制流（-bcf）、控制</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620747&amp;idx=1&amp;sn=b6cdcf56b1664c94f4a37df1fd185ee5&amp;chksm=b044543ebedb04d3891474ebb68ea21b4e818ddb4bb1ffe03389826851209c71fd0f16717d6d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 19 Sep 2026 18:02:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于CVD的云手机定制与风控分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0cRUbItAShBbWFFRSIOuuoSxF4o3nVkprequqKb9NGdztser5ibModDGBjxiaZ5YXopCwff79jXoSwPGlIqvv4iaxOOSF0eGQgqk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《基于CVD的云手机定制与风控分析》这两年，很多人都在遇到一个越来越明显的问题：能用来做分析、做定制的设备，越来越少了。BL 能解锁的机型在减少新系统权限收紧，调试空间被压缩真机成本越来越高，维护越来</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620747&amp;idx=2&amp;sn=662385a51d32288a3332eec39beed28e&amp;chksm=b0e2b3482e05da2d93927fd16f461ce50836a7696bb55ffb74e25c562c5f824de3812c7aa985&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 19 Sep 2026 18:02:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“人工智能赋能网络安全创新推进会”在沪成功举办]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1ib0VqLmz0s3bibEI6ZEm1eAcRkelMpVYdvticiaiaSjicRTQ8yVNd2LZuHpic58S9a55fhyticSyeKOYGvUHx6AgFLf2n2BiaXGIOXKs4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年9月11日，新耀东方-2026第五届上海网络安全博览会“人工智能赋能网络安全创新推进会”在上海市普陀区成功举办。本推进会由上海看雪科技有限公司出品，来自高校、科研机构、安全企业及产业界的专家</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619808&amp;idx=1&amp;sn=6634f742efd384921dac79408d9e3ce5&amp;chksm=b0802dea63085c62a6ffebd32955fa0c1ae33f508e30b34aace6be05503e128b2697e9c3c99e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[招人！60-70K～招智驾安全、IoT 渗透、大模型安全工程师]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3FRiazaMl2XqMsqlrPRz6jYEpqdytsLbVbEFXK81k8ElMqFVcvJ8XtmA6OD7F7t5keKtA3hax9vs3ziccjyE19iam7qiasVFUYZCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周招聘专场上线！多家网安头部企业直招覆盖传感器安全、逆向分析、内核开发等方向扫码查看岗位，一键投递01伺服动态（南京）科技有限公司逆向工程师20-30k就职地点：南京市溧水区润淮大道28号职位描述1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458619808&amp;idx=2&amp;sn=3e745a23a056daacc5bac958dd4734ce&amp;chksm=b0962797cd8c3c3a7dcdfc18bb8ae9c04135ebf874788d2f5cf83ed5e06c5bfa1ad8cd05f1c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 11 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

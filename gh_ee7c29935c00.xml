@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[荷兰政府基于NixOS打造替代Windows的办公系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BmOTVLPoiaBCiaBECSn0rJgJnA04k7n6B6TI8QkPGKe0GFIn1ZkTNSztrqqgDXWxyXPE84SFlQSb3g1pFd9y5xb6iceIunibR0nvHAUKhStPqkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>荷兰政府正在给自己造一套基于 Linux 的办公系统，替代 Windows 和 Office。这套系统叫 DAWO（Digitaal Autonome Werkomgeving Overheid，自治</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623939&amp;idx=1&amp;sn=119860dcd6ce8115e64bd426ec573aa7&amp;chksm=f5c2375b0cc1ec7a461d24aa6416dda0bfbda1b671ae43efe1217ca6e5d6d080a83cf2dd3dac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 18:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码改完，如何自动跑回归测试？Codex + CueCast MCP 实战方案]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRnAtdI3dLfbUx2JYALVznItveqSq1UQv5XJNtpctBPrdpk0mf4X3Vqh9ciaF7t5Rtiaxw6cA8JsIQa8Kmeu0V0W9TsbysTOptTGohvAc0FnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>现在 AI 写代码已经越来越强了，那么代码写完之后，能不能把 UI 自测和回归也一起做了？当然可以。AI Agent 能直接操控浏览器，复杂场景也能应对，比如验证新功能、做探索性测试。但回归测试不一样</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623939&amp;idx=2&amp;sn=ac2621e2e0d3a2154b4340a40c772d29&amp;chksm=f5e85c0e05643c8fb061a787f4f96b0bce96207a3e73eba835735ca8f2951861d944a67a5f54&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 18:09:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[计算机科学家Margaret Hamilton去世，“软件工程”术语创造者]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCQRZHH3BrfFRCwZ6ICknkXe6fHdyxATg4bibc3usHpGRouhxd2G7HK4uia2IH5gS9coGkHicDmY6FsxnhwiaGibicFNt6RiaMGpd4pzM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Margaret Hamilton——那个站在一摞齐腰高的阿波罗代码打印纸旁边、让无数人第一次意识到『写代码』可以是什么的软件工程师——于 2026 年 9 月 30 日去世，享年 90 岁。MIT</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623899&amp;idx=1&amp;sn=cb0dd3c367ea557b266377a4479c7acd&amp;chksm=f51b630040454236baeaa3e47288e8601c65d74463b3670c921175aae8007e7d4930c2a0e34e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/v0fVFGmuo332BL3NlIfxQGtxpZuGbSE6jwJKqzvUoriaxcsjrxL6LlmWOQ5XYHct4aIbjCUdyOEWFKzdcsBEny5UXsoibc6EhJoXZAPMQjzFU/640?wxtype=jpeg&amp;wxfrom=0"/><p>提一个 Issue，AI 自动理解需求、编写代码并提交 Pull Request。创建一个项目，AI 持续跟踪任务进度，提前识别延期和交付风险。提交一段代码，AI 自动完成代码审查与安全扫描。现在，这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621677&amp;idx=1&amp;sn=daf3ff0e8cc768d027d38205771ecb3b&amp;chksm=f511f6fdb0fc87ab2770c62606e9acee313ab9ccd440be03a1922d6436128c4a458870eff5b6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Jul 2026 16:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Kimi K3全面解读：2.8万亿参数、48小时造芯片、以及一个正在被开源模型追上的AI竞争格局]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCCiaKRDbmlYct3uDvVnmZVnZN80CnA7D1xRicQxC8C6Etk03wdy5LaCIACo3f9DHKaWNkb0HIrfTxOBfadbkJgsEpxM7F07uJBw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月 17 日凌晨，月之暗面发布了 Kimi K3 。数字可以快速过一遍： 2.8 万亿参数 ，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621660&amp;idx=1&amp;sn=adb37b34a60b9b5649bd1341b92ee11d&amp;chksm=f55bb86719a815a99b110807b1c01c775636b04eb298036905472d90d005e5ec402fd4c6eb35&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Jul 2026 19:55:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[你的Coding Agent早就修过这个bug了，只是你不记得]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBAEJYLqicdz65jXL2GLpibzcWh6Bg01znO0SCK5yhmRNPic9d4qu36w9pDkUXtkJy15ZwHSwoElmrOmaat5IoKn0aIAImcBwaXjDs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 编程助手每天都在往你硬盘上写对话记录。Claude Code 的 JSONL、Codex 的 session 文件、opencode 的 SQLite 数据库——几个项目下来轻松破 GB，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247621589&amp;idx=1&amp;sn=92ac3d756b29d0162e994a4c9b7a1365&amp;chksm=f58f13a16e815553d869c7f4ae0aa0883f79430850d8798646e5b13062175ea4b78fbee12aeb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 16:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

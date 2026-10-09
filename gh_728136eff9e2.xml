@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Deno 全团队加入 Cloudflare, Deploy 将在 6 个月后关停]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcMcQrpcCQGhEZYYgfamdThpATTsqQKf3ib6iaibBuM8GfzXPyn67xQVaNwb6fFu5Gu3b8EAKic3YEjtu6b0fM3p4uBqynS7pMorom4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 9 日，Ryan Dahl 宣布，Deno 全团队将加入 Cloudflare。接下来，团队将把更多精力放在 celld 与 Cloudflare Workers 的整合上，重点是让 Wor</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548135&amp;idx=1&amp;sn=04db008e2084c97b051c8c31494c58a6&amp;chksm=fd169584191791a901d83615c01bf88f1acb0bc5c599a56aa2b363175d7a0e04306b34f2ddd8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 10 Oct 2026 15:34:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[稀土掘金×火山引擎 | AI用量周榜冲刺赛，冲榜赢好礼！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcNics3ksCYDS0VAVawAIFna3CdPj11ahBISVlqVHCicGtxQGFbDia4qvia69YqokfnfMdKaNmaQic96OotLjpVNtWIchWMASRT1T4Ho/640?wxtype=jpeg&amp;wxfrom=0"/><p>每天和Cursor、Claude、Codex 等AI编程工具并肩作战，你到底消耗了多少Token？哪款工具是你的效率主力，你的用量又排在社区的什么位置？稀土掘金【AI用量】将散落在多款AI编程工具中的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548032&amp;idx=1&amp;sn=9f30e7bc206345b6526a469a8132aa13&amp;chksm=fdf0b6a3c0e8808a53335c480278bce81de77cea540d622cdebca795e4dfdfac0e3521ac866f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsUibu6Sk0ib73Pjg1xoEUNvXqer6HC8sgxhCUhFsFDehJ3PWbqNfpOZ8c33icU7RI8vpnudqONCKURQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>TRAE Meetup 是由官方发起的技术爱好者交流盛会，汇聚 TRAE 生态核心力量，通过深度技术解析、实战案例研讨与开放社群互动，助力开发者掌握工具应用精髓，攻克技术难题，实现创新想法的高效落地。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547108&amp;idx=1&amp;sn=e590a4f9d5ed3699e6d5fbec2288af79&amp;chksm=fde230e2c16fdcfc150b6e3b300825030a296e8e73850901bbdb57a1edc2d44dd9e4bd3c7dec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 25 Nov 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[几种虚拟列表技术方案调研]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuBJ5hDZUia4zbKZ9T2wMib4PRXGNlugOwLS6rccA9PN6QhX83yI3OUDXZIxDZJJcVEiceVUKSvqicheg/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景什么是虚拟列表？虚拟列表（Virtual List）是一种优化长列表渲染性能的技术。其核心思想是「只渲染可见区域的列表项」，而不是渲染所有数据。当用户滚动时，动态地创建和销毁 DOM 元素，从而大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547101&amp;idx=1&amp;sn=0a2ecde5f87cb891d48cd94798557e91&amp;chksm=fddafcab2e50b9455cb83f80c2b66a6691fa46f7164170c2b9fa30d2bbc3ff08af0936cfe30a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 24 Nov 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
