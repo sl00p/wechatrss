@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近逛 GitHub ，挖到 3 个给力的开源项目，第一个比较硬核。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1oj6osVliceDPVGSyWnzDibGKLe0cUE0XzEIQiclgUcF57icyW0upqicM4vP0vg41IsXkoPD2fHic7BCg9eon3Vr2zDUGhoTMDIVC6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给你的 Agent 赋予 CAD 超能力text-to-cad 给 Claude Code、Codex 等 Agent 工具增加了 CAD 建模能力。CAD 就是用电脑设计工程图和三维模型，机械专</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537705&amp;idx=1&amp;sn=33d14b64d048e4941f677c6800ea90f3&amp;chksm=f81ac9efa4a00d9df2f4e6cf0824017ef29d0e50cd5ce1103bcd74aa558759c169f42f2eb689&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Oct 2026 16:54:53 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[3 个最近爆火的 Personal Agent ，在 GitHub 上有开源平替了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU32slMV3GaDqry4ggNcIo9VSaQLau60UJ7ial0qrEMGVwSy6wDkwMYXZGQCUHR7XqtB8xNHKOUWrqTIjITnLp9roMjFMoDuZJzk/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Rakazo：Grok Bot 的开源平替Rakazo 可以搭建持续运行的 AI Bot，每个 Bot 都有自己的对话、记忆、例行任务和工作历史。你可以给它连接模型，再配置一套执行任务用的电脑环境</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537624&amp;idx=1&amp;sn=10eccfc7b58a97b27b2144654b7ddd35&amp;chksm=f870923d9dc8de5de5287735b6f8d6fa74672ffaa726b9826ca67a7af5ec3f5e9a3e97e8644d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU21RVy6r3icX3jXibD1x2XQehkvQo2yHp2lmWbnNAeiaHSibWH7fjNiagYsaBy3zwsPolNVwWRHAFf3wM4OKK30JicuYd5l6NhbtSBIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>01专治生成网页的 AI 味现在让 AI 写一个落地页很容易，麻烦的是成品经常一眼就能认出来：渐变大标题、悬浮卡片、统一圆角，再配一套似曾相识的 SaaS 布局。Hallmark 是 Together</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535496&amp;idx=1&amp;sn=ff23514502bd1de2f138ed00f806fbe8&amp;chksm=f83d2acb7f62587f811929038571cf8225e16c0d2aced070616a95ea7c7771edb116d76600de&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 20 Jul 2026 15:40:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个 1 万 Star 的企业 AI 平台，真的能让业务用起来了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3rV3nD2oxbZibOv9ctVQicbsCib6iarGGHW0RHwoY6LzgBia3Ded3ZVlyiatN7agdYpiaGP1nxqCZA5E0Kt9WJd8ClXWIZFxpacr1SoI/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前给大家推荐过一个国产 AI 应用开发平台，叫 BISHENG 。这个企业级 AI 应用开发平台，主打 Agent 和工作流编排。最近，他们更新了一个新版本，难得看到一个真正站在业务人员视角打磨的产</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535489&amp;idx=1&amp;sn=2b122137eb37e19d8cf958519c1e1693&amp;chksm=f8c1f424f541d6eba43a02e368025a7a102dddea3d6f9f1ad809de75ee3a9f32205f39673e0c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 19 Jul 2026 17:27:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

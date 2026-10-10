@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rRA809AnIcInicmGKEUmUV3NTLaG8UgD3zzor7YtjbIHan5FtREDozrls4yttGCcIXP5ibkdQJmc84HGLf6u3gU8vlRPAc7ianE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic切断内部测试联网权限Anthropic于周五宣布，近期发现旗下AI模型出现对齐失效行为、针对真实网站发起操作后，将切断所有内部评估环境的实时互联网访问权限。在Claude</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=1&amp;sn=23ed5400053dc2b39d9ff2ed64b2e471&amp;chksm=bcf3fdf31b2a9d9d5b31b18bc0ee6853a19cf1d689909ca784733cb2a7dcc034d07f3130dbd9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cisco Talos发布安全预警，自主AI Agent可将渗透测试转为隐蔽红队攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX05bmLnicD4PjPcR2p3Ezf5r4TNSPicUG1ph2yDLZ4W2Ktw1YIzKCx3P5eLTwkPUt3tiaSWNibh8ZpqXh42Fqp2Fiaw1AQs9NewhhDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cisco Talos警告称，自主AI Agent将不再局限于高噪声的漏洞扫描，转而成为隐蔽、持久的攻击者。外界的担忧并非仅停留在AI能更快发现安全缺口这一层面。真正的风险在于，多组Agent可学会隐</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=2&amp;sn=dedab483bdf4a037b258a6488513234c&amp;chksm=bcef0ff785e4c0666e2aa21c68ed846e0a45a7c31f1e77f2b75a439620d7fbd6020ae62b4853&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：Atlassian曝严重漏洞；智能硬件企业CRA合规实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ibjLpkeI2K0CkKSPvHmgVvLt0rrhO3VoPvGj0wDz1kmVQ297CZKEkmBuvHX2mfz36ynz8qaGWeqVfzCzBtwqWoPHrTWcLNA98/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=3&amp;sn=3e92779cc344721f11c080ca4b708d8b&amp;chksm=bc553ed6365e257501a0c201fdf85c8f83120283ad0959b0d45650231eb690f9178a8fed8362&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3M5ibEvEPzEIBEfmPp43RriaUCZXsJuoygwYjIz6jm83RfQIndEUSicEuUqb1ByrniahqibKB8reAWVBrhwvoXUkoQibpzYmPlD8AzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>REA全称为Reverse Engineer Anything（逆向万物），可将Claude Code、Cursor等AI编码Agent，连接至各类无需源码即可检测软件内部结构的工具。这一开源项目将G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=1&amp;sn=419804be603aff82b7e62ef20b81813f&amp;chksm=bca982848caefeb21407842d45068e32caf749bb00bc491a0c1fbaeddad8d779975f696390cd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1bmD0LaunV8gT8h3VPT5vhtad9f0qmCwTQZVYnTEN8ADWVM4C6MFLndibn40b2fOP1l8qYhZStibgiasUK00ZicDnG4MdF5twUXvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sudo存在一处高危安全漏洞，本地攻击者可利用该漏洞绕过基于时间的访问限制，以高权限执行命令。该漏洞编号为CVE-2026-96512，影响1.8.20至1.9.17p2版本的Sudo，根源是程序对T</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=2&amp;sn=2ca481ef9dfb8a27933bdf0a2744cf50&amp;chksm=bc7d67dabef948cd52f4349d8ada322b0c46edf572f9f7b5238d1f08877fc27dcd7db9daa9f8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AI Agent百小时自主挑战；红蓝队渗透工具；非结构化资产分类分级]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0QibvbvdriaFcwLml6734n2ZestoXBicCz5fgth9YwBTHNRCP2CRMo1B5bRpWwy25qRONn8hbQ62mfedonVJkuOviaicLcMrQO93aI/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=3&amp;sn=f1ce70c9a2626d637a02d14045ff96d2&amp;chksm=bc9fa8b1aa789b3aa7a6d706f8d24519401d034903579f96078f678d1f2b38549d5087fc53e6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI智能体在自主入侵过程中“呼叫”DeepSeek、Kimi等共同破解验证码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1juBJaLQL3rLQ1fX5ZyUsvKonkbccJmZ6uaubnRjb34X409oOia3lfKKzfr1odOz9uCN2e9tAJftUxlLlib4UdRrYG2vtEQ5AQE/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月25日，Parse工程师联合其他研究人员发布最新调查，披露了OpenAI智能体今年7月入侵Hugging Face事件中更多此前未公开的操作记录。最出人意料的细节之一是：这些智能体在注册账号时尝试</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=1&amp;sn=49890f3c1432c80ff2f704da9f4eaaeb&amp;chksm=bcbe162199f2cb74c5b168b35bce11c25b0f47f0e48cab3887f536ce867d7c31949a0611771c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软揭露Storm-2570：同一黑客团伙使用四种勒索软件发起攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3SQ6ibojROejxm48OylaEqQmic3NV9BMZfDZGhHEHXpMOqbrbjZAryJ1z4ojuzVQr3w2h7ibtseNsypnoibka8T0HjjDO62D2Vib3s/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软已将多起最终部署四类不同勒索软件的攻击事件，关联到同一个勒索软件附属团伙。微软对该团伙的追踪编号为Storm-2570，其始终复用同一套攻击流程控制目标网络、窃取数据，为后续文件加密操作做准备。这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347748&amp;idx=2&amp;sn=075068cf95a7f4cbc91e6eccfbd50a65&amp;chksm=bc484b07d4d4a8f236261cea45462ca253e4e43ffd4129fed8d7345d48e83525573ddad87df3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
