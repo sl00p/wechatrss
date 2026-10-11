@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNianticFgznh4KB4l6c1txnSL8qQjialuea2Yib3ib2AN89FjngmlbAvukVbqIfdWWM245I5wA1VMd9ObaZgTDicIF03vCvIyZhtDLbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>策划｜QCon 全球软件开发大会编辑｜Kitty、燕珊2026 年，AI 正在发生一个值得关注的变化。过去，我们更多讨论的是“模型能做什么”：代码能不能写、图片能不能生成、复杂问题能不能回答。而今天，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294816&amp;idx=1&amp;sn=4ff037df653d43947f14029e3e1031f7&amp;chksm=bcccbaaec8ec28c34c91fd2630e825c67eb1c5b5f14a6a4dd28ee11331f166e3d3add9012851&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 13:19:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[字节Seed实习生曝DeepSeek-V4技术缺陷：长文本检索陷入“周期性盲区”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjxWHqjlpj9vMdaUKkjtHffAicPoSMOp9rSgwlcASnkaB8ec20ssKic9XMkHFlGCvQKK6ZJa2Lict1t0ADvhibSyVM1ibSWGKfKoPyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月DeepSeek 连自己官方开源的推理代码都能写错，而且错得相当有规律。最近，字节跳动 Seed 团队在测试 DeepSeek-V4 时，发现了一个相当诡异的现象：让模型补全其 FP8</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294816&amp;idx=2&amp;sn=eb4cbd67b5636c4eb0c36ef1743dea9b&amp;chksm=bce7ab2d4681b0048630663fc8a4e3aa401517ae4746f57af665e2c6275a5065171336536e2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 13:19:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj0rcjOf0OnNuQk1MENnXlzg0eclSWd0m7vokGlM9icriclbVRZL54gGj7JiaQ9tpPt2OADYzB8jWgPtGbFLJ9WpnGico4EppnpoT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 Perplexity 已将其核心搜索服务层从 Amazon DynamoDB 迁移到 CobbleDB，这是一款 使用 Rust 编写的内部自研分布式</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294816&amp;idx=3&amp;sn=42abf6a6598c9832ffd78ba2346e6cca&amp;chksm=bc187142b274527f0260d153cb2c4ae5a718c9ffb4a551c9d9a20d144ed54ee9201294d2f66e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 13:19:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNguAd7kG6GiaTXyO1JZVrgVQmA1gd886BGdU6nYW16HYU6PskcJD7Phnm1FSPu0icibaPB52MCgnmT1j3KSNfQCupZzD8HXUdbDwo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 平川 谷歌推出 AX（托管于 agentexecutor.io 以及 GitHub 上的 google/ax 项目）。该项目是一个采用 Apache 2.0</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294816&amp;idx=4&amp;sn=00d23da893f7a2309d11231b01ab74a4&amp;chksm=bc9b7868d27d724f5ee66aef6f5a0e148462d2472c012d0f0c55a2967765ff6f652cbeb51fdf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 13:19:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQcNNwtCYH3yQ5F5aDfttlsw6DxN5DWm54icxTUU0et13M0uFRDCj2je7eCCiazaW90Pyb9pTozYRCZibR8bIHFg5V34fWgVRYjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划 | Tina 这个月，个人助手突然成了 AI 行业最热门的产品类型。8 月，xAI 先推出 Grokbot。到了 9 月，竞争明显升温：Meta 发布 Muse，把“个人 AI Ag</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294765&amp;idx=1&amp;sn=f49a9a475ab611e59a6b7bf8bd08ec84&amp;chksm=bc8b24bfdef2285094cabbed155dfe446e38b5665d8b8872e53876e7e7382e56a37645a7b579&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaOicq73tO7NOFHFasPwoGj53fsdibToFwSjY1zjASIbZ4G2pq6uTxIicfN8CmibJzBFLeKsXF5xYKLux3xjSCdDPxThkrSDfBqvYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜于曦 华为这次最值得看的，可能不是昇腾 960 芯片。“5500 个光引擎，可以替代 48000 个 800G 光模块”。在刚刚过去的华为全联接大会 2026 上，这组数字比单卡性能参数更让我</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=2&amp;sn=699302a1d1bb44f9c5c82f27a11c465f&amp;chksm=bcf0ae9451dd7e0cc017f67be99271975dc7d7e69547f070dd0a2b416aa44f34e2ade18344d3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“数据比模型重要”成了共识，接下来拼什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg6S7Rh4CdZ4ETuGIGgMKwNTl19bNKjaJpltt9EKE7C74KLr393rickbM6roAeIytUIAvltDyyficcSN9Dic3F82YpM7bmOTxV2HM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 黎科峰 数势科技创始人兼 CEO 前几天在上海，和 Snowflake 全球产品总裁 Christian Kleinerman 做了一场闭门圆桌。同场的还有白鲸开源创始人郭炜、Snowfla</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=3&amp;sn=e111c3a145cf51927a19f6cc77799ee0&amp;chksm=bc862da72b9e63ca9a26ea5c1db7b288a756cd59b0257a12975a14f897261a296b74deb66145&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[硬件调试进入 Web 时代：浏览器成了新的工程师工作台]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjuMa8ibDbfgoIDiasGUsb87t9Fia7ribcicHWxkA9FPpDiaYu6CSOPPUSaVMyknG3fceGSKcN6Uc0EoR8rNgQFODafso7DpQ7Bdgia7s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 ESP32 Bit Pirate 项目 通过将固件置于浏览器驱动的生态系统中，重新构想了传统的多协议调试方式。该平台摆脱了僵化的本地工具链，利用 We</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=4&amp;sn=97ae8f9d9adeac43e8468d945bae49ad&amp;chksm=bcc1bcb93d50a81946d37c1473ef01704068d9f3e8eba0dfd9859466b801155b147a76044d39&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[端侧优先，云端兜底：端云协同调度在 B 端应用的工程实践｜QCon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhu5QLtQzFDiaVrQhcQcuLq9ZbrD6VC8pGTHjL7AgMNlezicWh15W7FhmAdmgYqWeuhX2265fkP3gdfbMgqAOsicW4vauHEDr25cM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=5&amp;sn=b8a40ed7fe04d765b5a700c570fcc426&amp;chksm=bcb7c19177a1e7ea6a3b06bdd1f4d22a838a3bf7607279b4eb2718f4d718d80cfdfa2b6a1038&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 年的云栖，阿里给 AI 行业递了一把新尺子]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjFzC7atWBsib7FP5CKqicO9YDU5jQhUUvg42ia7I0TCPOZdqmAGYw4pvM0Oltn3sfcyfrVLwGqOYfO8NCodmicpZeq7nTW1pfWcuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王一鹏2026 年，AI 行业最大的关键词可能不是某个模型的发布。而是两个字：落地。最早采用企业级 Agent 的企业已经开始算成本账，并对三个问题尤为好奇：Agent 的故事讲了两年，究竟</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293845&amp;idx=1&amp;sn=ec018a1c076098d95ad6c1a4e20ea5b9&amp;chksm=bce704740fba4ee565b8362667c7e6233e356bbcad0d0836ea08170c412a7eba8aa624a31b5b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

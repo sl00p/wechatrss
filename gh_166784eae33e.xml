@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[窃密木马盯上 AI Agent：Warden Stealer 三个月蹿红，专偷 Claude、Cursor 的"钥匙"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9c0riaLRUYOnicTTjzdXn9dFCenO5sUIv66NmXQXibREKUpUnA313Dou7vmWxyCL2v5gIFLFCetRXEAwyGrUlYfNeGicb7ibgZTwoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>恶意软件分析 · 窃密木马 · AI Agent 安全窃密木马盯上 AI AgentWarden Stealer 三个月蹿红，专偷 Claude、Cursor 的"钥匙"Rust 编写、AST/LLV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520870&amp;idx=1&amp;sn=f213058551e4aba138cd49b241f61abe&amp;chksm=eba656cd76a802dda44c5813893d85c9c1f72914671f72504940047e4d1d3fe29fc646b55c8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 14:40:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GhostAction 供应链攻击卷土重来：伪装“安全审计”的恶意工作流正在批量搬空 GitHub 仓库的云凭证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqiczL30kAb1gJLjHFibicw3MY2RcjA6aicjcSL4JSDwmLvT5H6llRO2pazBicEb9RoEGWC37SC1diamicTKxnBNImoQIeFOAq3QdHtrSk/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研判 · 供应链安全 · GitHub ActionsGhostAction 供应链攻击卷土重来伪装“安全审计”的恶意工作流正在批量搬空 GitHub 仓库的云凭证两个被入侵的维护者账户、约 40</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520849&amp;idx=1&amp;sn=e1f0739db90ce3889f092da763472f53&amp;chksm=eb8840a54d05edf75e07c1b201f87cca226060eeb7dd22f20d64b56166bb7c950c0e42ffc0c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicbk9aoZ0eNgDPJBsSpYr0LgV0ibnhSXXI8iaCSKo93OBFDic3ibiaSuMmeiabFs0vSWP5SXHMVU6zicpVvQaaR1AzdCVeGM0S1uBFE8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件脉络：从披露到大规模利用只用了 24 小时2026 年 5 月 14 日，微软通过 MSRC 公开披露 CVE-2026-42897，一处位于 Exchange Server Outlook We</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519409&amp;idx=1&amp;sn=dcc6363e9057f950e57e15f52e0efa1b&amp;chksm=ebe8ac1c376656b1139a0a7b860c12c4d7e493921fb7034cc97af90da25c5e16f93bf627fd81&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 11:23:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【原创】Operation Phnom Penh:银狐Ghost分发商针对特定目标投递MODBEACON特马]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8sPof1Cdq1Z0qnOrSy2CjTN4v8pDZk1RThWYQ6JEtae4tSxCtvPfWfQbLbiaQ6bBWnuk67es07LSoK1pjPx7PmxwoFJu2y5Sicw/640?wxtype=jpeg&amp;wxfrom=0"/><p>背景"银狐/UTG-Q-1000"长期被视作低水平、高活跃度、以 SEO 为渠道投递仿冒软件的黑产的代名词，但其背后实为多个分发商构成的、类似境外 Malware-as-a-Service (MaaS</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519404&amp;idx=1&amp;sn=bc392b684e5ff71b85b2665540490421&amp;chksm=ebb3cdec5cde076eb2b46c4e09f04c6ace4e0c532d9dc0e8be0ee08144028d12ef92c9b3afbd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 10:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

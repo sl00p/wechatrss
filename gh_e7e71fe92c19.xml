@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从端侧风险检测到策略闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Lu587oN19LHoaBxumq8wib4vXrN0NOzsxheCsneuStN7EWCeD00fd0MoEe0dM7ycUvPVLE8z6iaxr8ib59jAYdtFiaX7icynEicKyM/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今年的一月我开源 iOS-SDK 检测项目，加上七月开发的风控 Agent，今天我可以说终于能够真正写完，看完后你就能理解，现在的风控到底是怎么做的，以及他们做风控的根据是什么。前言先从一个问题开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=1&amp;sn=fa1be7ca9c800fa15539aa0b78716a4c&amp;chksm=b0add83435a7543ac4862d0cf63dcc3323e8a799bd0f10fc3c9f807f9f52733b7d3bdedcf672&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CVSS满分10.0！WordPress Bricksforge插件无认证RCE漏洞，现已被野外利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2H1RwQuSW9U4oHBcAEPH8F3ANyJgDCQGbFFo6bLwaUWl9PFIxKLfYNiaAN2ram95iaB8vc8QolLLJeOVsS36wl5micwiadKoFYpo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Patchstack安全监测平台证实，Bricksforge插件曝出严重安全漏洞CVE-2026-85097，该漏洞影响3.1.8.9及更早全部版本，官方已在3.1.8.10版本完成补丁修复（最新稳定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=2&amp;sn=f62d5878db08538051e7a35d79b6b1dc&amp;chksm=b05fdbce5022b0769317b82b780dc79473e255dda9b7cc48f40c789b0f54740366d25f670145&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=3&amp;sn=1ab8fb962e96ba3acec12d312809890e&amp;chksm=b0d6e1bd26b0c6d5718ac8910e3a197b5e56294c30017159567c2843896d34815e5aae536614&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026 议程重磅揭晓！10月23日上海见]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2aEY9nchIJrJiaxD48XpLn9FcPHWjeCiaaJrOMePh8EgAE79Xjg6tibcaHegdfjCery98NAgGx33MSc8O1vn2Ania9ZnBX7RPF5rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026人机共智·重构攻防当大模型深度融入攻防体系，安全边界正在被重新定义。第十届安全开发者峰会（SDC2026）将于10月23日在上海隆重举办，本届峰会以「人机共智・重构攻防」为主题，汇聚行业</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622664&amp;idx=1&amp;sn=5e5fbea1ad91e3eed1bc67a4d69d8691&amp;chksm=b001e9e92cd456c8fb4eba8e1fd64e6ae9e6f9808e3440dbeffe11be620828202009d954a1c1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0knuS4PTDdHvp3y8VcKkG77uINI2rIO0CB8djl1TlXbIwlVgH4oY6pw9fwTI6hibrfibll2Vic18x7HTsum9LLC4K7Er92ZErht8/640?wxtype=jpeg&amp;wxfrom=0"/><p>代号为WaterPlum（该攻击行动别名“传染性面试”Contagious Interview）的黑客组织，在2025年12月至2026年7月期间，通过伪造招聘流程实施大规模社会工程攻击，全球超100</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=2&amp;sn=2fa514ee8c22fa8d1f2823c8d7bb3366&amp;chksm=b074fced21e5e3c512b2925188045ae11506edacab880dbc3bf3473f9aba380f66b9595c2a4f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Sep 2026 18:07:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620822&amp;idx=3&amp;sn=b011ed0fa79c9f9e0328512ae026d85d&amp;chksm=b0425a015314d43373fe6dc5afe610aba83e70058119f3f61ebe0590f12210ca01f93806f7d7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 18:07:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人机共智·重构攻防｜WiFi万能钥匙，助力第十届安全开发者峰会（SDC2026）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/1UG7KPNHN8HibBXyWRNCaEUgzicWaZhSsWARZJq6Aw2Cqbm14LuwK6nv3v4GKFo9iaD42h5p6OSVwPJGaW0H15zNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>WiFi万能钥匙，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=1&amp;sn=8576b87125fb41988c3382a219e557d9&amp;chksm=b0166006ad14cbf2e746e6631716b75717b1c1bad3f26215ebcc7a918200e91cf74d63b4c250&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Black Hat 2023] Pwn House of minho 解题报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2UmJ9BtQaydMEoib46QfCezonoAdK3ia3iaRPveEPrPRYNXz5LFcd4TjicIAVugXnnf4f59ozFzmAOcZlrtFiafewOK29wibjGONO7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 题目信息 目标：nc 123.57.66.184 10050附件：附件：minhomain.cDockerfiledocker-compose.yml最终 flag：flag{bcddada9</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620796&amp;idx=2&amp;sn=48bad90cbb2c2db3fc17a98662193cc3&amp;chksm=b0a438c8e394aaa5b7ef98ac36c93a9ea0155e322905ebae6feba1890dd7727953899236da28&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 18:01:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

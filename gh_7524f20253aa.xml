@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[NVIDIA曝高危漏洞，超2000台GPU监控主机暴露公网]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1UxqMTzDhicwB01plexkORUupF2e9N4h0wSQwD7Jbh0GtGja9Iiak5iaPZ3VVuoicf2hF94TmA7Itzzkribedibic2oEK266bibtgZUKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA曝出DCGM Exporter中的高危漏洞（CVE-2026-47483）。该漏洞可被未授权远程攻击者利用，耗尽服务器资源、导致GPU监控崩溃，进而中断AI工作负载。Part01漏洞未授权</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=1&amp;sn=d789c735eb0b3cb593514b109e892317&amp;chksm=bc178e03c8cf4bb2e82529592cf7c3622e824c33f7d9f814aa0f714cdd0daba63db1ec3ef961&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0u35smibTiao3vNa41LMhUIeyg0xQkficZVia2Dsib9MX6zcAqDXicW8pmTCWvNvfica44skibvDCXe4OS6ibzcKnQ0rUdMfP4SjCByqLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>// 2026年10月12日，绿盟科技成功举办以“清风拂境·智御全域”为主题的智能体安全秋季成果发布会，全面展示了公司在AI安全防护领域的最新技术成果和实践经验。本次发布会以客户最为关心的大模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=2&amp;sn=499df8e711a5839507f46c813669032e&amp;chksm=bcc8df459851f7352e48ec53edcac2913b2f8c948fe33303fa0aa74aa9eaed81d21b3b9b9870&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[P7 DarkSword新变种曝光，iPhone钱包数据可被窃取并远程操控]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0wFeUlRpvdSeLJ1q3WuzZvdPJhbItv7acI6vT8DictDfET05SDcrOxaJ61h7h87zicvugicdaYx44tmia4W7g1Q751LibdJvPzyqPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了此前未被观测到的DarkSword iOS漏洞利用工具包变种，名为P7 DarkSword。iVerify在周四发布的最新报告中表示：“与我们通常观测到的变种相比，P7缩小了在设</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=3&amp;sn=a3f694b7d9e4cd5a3d74cc3e6a9e515b&amp;chksm=bcf17fa4f0f837e6b7343e3bb880fe6b5a2975ed8ee38ce9daa11ee607f2b748fd3b996a4b74&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agentic AI红队检查清单发布，222项测试覆盖20类攻击场景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yiaIdDsXMiaFw2cdnxvvcApFKU76s083jcWJfzRcs7cmCAkLnV1sUIejdkDW2ZvTJR2Uib4AVdkoaMykhE4ia1qSEFeCKJt5Aoiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份免费的Agentic AI红队测试清单正式推出，涵盖20类攻击场景，包含222项测试内容，用于评估自主AI系统安全性。其测试范围不局限于提示注入，覆盖基础设施、云访问、工具、内存、Agent通信等</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=4&amp;sn=ceae065df5ed8006ec7f9c50adfb0c84&amp;chksm=bcf53fdd6416c75a2e87ecbb543770cc060993dfe4dfe5c4591a72872beeeaa3faab0f7c2b3c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rRA809AnIcInicmGKEUmUV3NTLaG8UgD3zzor7YtjbIHan5FtREDozrls4yttGCcIXP5ibkdQJmc84HGLf6u3gU8vlRPAc7ianE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic切断内部测试联网权限Anthropic于周五宣布，近期发现旗下AI模型出现对齐失效行为、针对真实网站发起操作后，将切断所有内部评估环境的实时互联网访问权限。在Claude</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=1&amp;sn=23ed5400053dc2b39d9ff2ed64b2e471&amp;chksm=bcf3fdf31b2a9d9d5b31b18bc0ee6853a19cf1d689909ca784733cb2a7dcc034d07f3130dbd9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX36FibwZUEiaUPrAk9pav6TKlyFYuZC4s2GrricQCIOx96LqZzZkV93h7Ub0bVia9ktRHFIcf3XhjUszWGNORc30Fwt6GaKDfiaoRt8/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全领域负责人一直在争论AI是否会催生全新类别的网络攻击。但更近在眼前的变化早已悄然显现：AI大幅降低了攻击失败后的重试成本。这类场景已经十分常见：攻击者拿到一个低权限云账号后，第一次提权尝试失败。放</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=2&amp;sn=072b3de6b526977b307e32a704f18fce&amp;chksm=bcbfee0a4333cb20fbe1e87dc80ec291474d2cb774d264fd9b593165f773afc9cf81242cc36c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Oracle PeopleSoft漏洞遭大规模利用，攻击者绕过WAF植入WebShell]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3s0y42WF9LicDibK98Y8hKbALEMqlnzUOhibGAIDWIh6FJ7dcqoR2GBTdtz4qy3rlPtAIKV9I6ltibwwRibydmjmKB7Michozzfa0vA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01PeopleSoft漏洞遭利用Google警告称，Oracle PeopleSoft的一个已知安全漏洞正遭遇新一轮大规模利用，相关攻击活动波及全球多个行业。此次活动与ShinyHunter</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=3&amp;sn=c12ff7718f3eb18baa10ae926c0e1092&amp;chksm=bca14cc3d3223eb0aab75497fd927c56726374bb59d7db22f45acb6a9e980468cd0ac76f5e17&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Citrix NetScaler曝出0Day危机，两处RCE漏洞已遭实战利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RjE08LO4K4l8PyCbicuYdnHk10nYEnrIePKp4ySmCVGGksZYFxibArkDZic865Gm2do1A2qZnyRL2RxUJhXB1zc4LMrpW0oQ1OM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两起RCE 0Day遭在野利用Citrix NetScaler管理员近日收到安全通报，两款未公开的RCE漏洞已出现真实在野利用活动。watchTowr表示，这两个漏洞属于未修复的0Day，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347873&amp;idx=4&amp;sn=74cc28fe89e99b3403429497085bebe7&amp;chksm=bce8d85138415efc5e137a1589e80805bd0ece4d176b12691d9bb12340950ac39de8f36c18b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek生成、Qwen改写，AI攻击工具成功绕过两款EDR]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX28r1318Vff6SLLJQrwXCuUHyEYm56bP12vicyS3FD5mtPr2vRm90muX0KFKwUxsiaRsHZjNCLSpGnCGyiblnOnRweVynH9rKHzQQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员在受控实验室环境中完成测试，一款本地部署、无内容审查的AI模型经多轮调整修改Windows凭证转储工具，最终成功规避两款EDR产品的检测。这一结果凸显，获取门槛不断降低的生成式AI，可能会加速</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=1&amp;sn=37cf2e571e90b81ea308be490bc3f6a8&amp;chksm=bca292a942280594a5f34b41e44a4f0b63b0877e5ed9fe8bf7cf264e19a9c8437dc36a7742ed&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Sudo高危漏洞曝光，本地用户可绕过提权时间限制]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1bmD0LaunV8gT8h3VPT5vhtad9f0qmCwTQZVYnTEN8ADWVM4C6MFLndibn40b2fOP1l8qYhZStibgiasUK00ZicDnG4MdF5twUXvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Sudo存在一处高危安全漏洞，本地攻击者可利用该漏洞绕过基于时间的访问限制，以高权限执行命令。该漏洞编号为CVE-2026-96512，影响1.8.20至1.9.17p2版本的Sudo，根源是程序对T</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347802&amp;idx=2&amp;sn=2ca481ef9dfb8a27933bdf0a2744cf50&amp;chksm=bc7d67dabef948cd52f4349d8ada322b0c46edf572f9f7b5238d1f08877fc27dcd7db9daa9f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
