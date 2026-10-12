@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[软件能跑到全球，不等于能卖到全球]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaMl0GC2xl0qkyzbt5gUymLMZaU4dlwaPEGgVXplLVMvJGicqNzO8uzpfMAVVFhxiaYpBIibYLVJT2Wib2kIdRLtzmTGvMFfiashn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦10 月 13 日至 14 日，亚马逊云科技在深圳、顺德同期举办汽车与制造、游戏与泛娱乐、零售电商、软件四大行业峰会，以及亚马逊云科技 Marketplace 用户大会。四场峰会指向同一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=1&amp;sn=265d53b268ab325e58f0f8d2bc1654b4&amp;chksm=bcc25131a43877328c84f5b24757acb748136841cdc46dc3d5380f28f2ddb14237659f829178&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 Harness 到 Loop：真正决定 Agent 落地的，从来不是更强的模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjiaIkaGNrL5Baic43ExL2ydmvHQpVWQkCgTEhk2rYEaBg1TNF2PuFTibAUdkkOCaDjXszHBibpdplEE6Xeg9ROto03SWl2nicNsvDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kitty编辑 | 宇琪2026 年，行业里有一个越来越清晰的共识：模型能力本身正在“商品化”，真正的竞争壁垒已经转移到了模型之外的工程系统上。 那么，当</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=2&amp;sn=d92f97a1d71422721beed7683a1f93fa&amp;chksm=bce2116a61c04cc391fd8cfba6ce9b6b9a63ca0e08477e3acc5769e38bc06b7c6d58ac31d0a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaAnvPZWakp5O172KdmgnS7dxNYrtdOR8L8cFBiaFGcBoyAyoztMF75mvvlRhmZEjeMjrZvxFJpQ9JmZNqTIdD6NTp9BQFbsfB8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 明知山 谷歌安全团队验证了一条消除遗留基础设施中内存漏洞的新路径——利用 Gemini 将 C 语言代码库翻译成内存安全的 Rust 等价代码。该项目的改造</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=3&amp;sn=723cf75ff79a04c4e2ad05d2a11cb02c&amp;chksm=bc47021219335f9b6dd64f85aed3cdcd28199a2ce4e74304dcfb7cf43881b06bf8ff5c31ea64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjG80fbWmQfcgicqKnx5CZnTcJuD0ozib251ia1HowoBzHCd16ibZFmFK5g1kzq1P2tjoOJiaIhyXV36V8pIUlSbZIuiaHJcZDELozwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 平川 Cloudflare 重新设计 了其 1.1.1.1 解析器所使用的 DNS 缓存的内存表示，将每个条目的基准空间占用减少了 56%，并在整个服务器</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=4&amp;sn=7c6c497f9f71a446b6793072d2fe51e4&amp;chksm=bce88b12ffd366931805b17c6389a4b004bbe9016acd99030341b6537b0c0ceaf8521b206f19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNianticFgznh4KB4l6c1txnSL8qQjialuea2Yib3ib2AN89FjngmlbAvukVbqIfdWWM245I5wA1VMd9ObaZgTDicIF03vCvIyZhtDLbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>策划｜QCon 全球软件开发大会编辑｜Kitty、燕珊2026 年，AI 正在发生一个值得关注的变化。过去，我们更多讨论的是“模型能做什么”：代码能不能写、图片能不能生成、复杂问题能不能回答。而今天，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294816&amp;idx=1&amp;sn=4ff037df653d43947f14029e3e1031f7&amp;chksm=bcccbaaec8ec28c34c91fd2630e825c67eb1c5b5f14a6a4dd28ee11331f166e3d3add9012851&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiauG4qTZb2T3dAT6kYZuibqzkkMuxwtBMibe8icuibicXfS3kouibicPpicAT6AyVyXp14bZibBqAFFQEdZwdfI8A1q6KJhibcLyDIdYqZHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦 今天的企业做 AI Agent，常常有一个看起来顺理成章的想法：模型已经足够强，把内部资料接进去，应该就能用了。但是当真正动手之后，我们的“麻烦”才开始出现：一份文档里的“客户”，和另</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=2&amp;sn=28c44595536ff18990ff87a90129a0eb&amp;chksm=bcf5b4a8efa058178414647a3dae9c838b3c12166a20b2c5c5244d9dba1cbf10a8ac014eeaec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 25 Sep 2026 11:03:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里吴泳铭：千问将训练 5-10 万亿参数规模的新模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia2gcnGEGJkcUAlDon4ONuLbqFk4QLzibjYD1ZIKy0dPTO6wNPkme3kghicsaGNc8oefqroYPhKUWiaEkhdbChZ4VgOwUWnlN3jzk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 青和 审校 ｜ 四月 9 月 22 日，在 2026 杭州云栖大会上，阿里巴巴集团 CEO 吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。他表示：机器正在成为思考的主力，智能正在成为一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=3&amp;sn=3573c8cd5a897ed3b5be9c02a9c935b6&amp;chksm=bc5d5928751ab2a112a0759906ad107d9aa4f6880e831d06b4c58a97816234a749dcef47b426&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 11:03:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Rustls 十周年：发展历程、基准测试与未来路线图]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhViaCcYGFHic34QCOqRZA2SIynMXXBiaUA1XRibXAXePkuYM3ntWWtgEUH5zTwjXF3HOicUvDxicTgdMiagdF8p9q4OWicaibypww7lhbs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Olimpiu Pop 译者 ｜ 平川 Rustls 是一个用 Rust 语言编写的、据信内存安全的传输层安全（TLS）库。近日，它迎来了 十周年纪念日，并发布了一篇回顾文章，详细阐述了其演</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=4&amp;sn=738057d69d5feeb8944ba181ced831b9&amp;chksm=bcbc77c70f0dadcc9503486eed8b25a9cc05132457a57c68366cd4631ffc9a29411863f01035&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 11:03:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhNicWVZMbdh0H6ibqznSNLTCDqw05nmS3lokjPPDPBM1HVcVp4P4sU2o5HmoKeiaLD0DI4ZHWIyGTLiafdAJhtodyuHAgicoJ5XHHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 王玮 一个具身智能的数据版本，从采集完成到真正进入下一轮模型训练，可能需要两周，甚至一个月。在今年的云栖大会上，穹彻智能首席科学家吕峻用这样一个时间尺度，描述了具身智能数据链路的复杂程度。视</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=1&amp;sn=b55444423c7009cca32d30363bb139b5&amp;chksm=bc3c3299f62abadb8b88b202b01d018c44a231f2000d15393a9728364efb0ecc50495db518de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4096张卡如何成为“一台计算机”？读懂华为的超节点布局]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaOicq73tO7NOFHFasPwoGj53fsdibToFwSjY1zjASIbZ4G2pq6uTxIicfN8CmibJzBFLeKsXF5xYKLux3xjSCdDPxThkrSDfBqvYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜于曦 华为这次最值得看的，可能不是昇腾 960 芯片。“5500 个光引擎，可以替代 48000 个 800G 光模块”。在刚刚过去的华为全联接大会 2026 上，这组数字比单卡性能参数更让我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651293928&amp;idx=2&amp;sn=699302a1d1bb44f9c5c82f27a11c465f&amp;chksm=bcf0ae9451dd7e0cc017f67be99271975dc7d7e69547f070dd0a2b416aa44f34e2ade18344d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

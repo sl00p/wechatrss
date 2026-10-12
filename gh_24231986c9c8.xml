@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[像改文字一样改语音：火山引擎全新语音内容编辑模型]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeEJJu3dm6R78icw3Z49040VibJqhoWiaP3533YpIop5vic0Bcxiaou7HcTIuMvnYkEcM0YYoctbBhX4mNAGwntIVun4MPTpFNALQ2E/640?wxtype=jpeg&amp;wxfrom=0"/><p>💡说错一个词，不必重录一条片。输入原始音频，再用一句自然语言说明“要改哪里、改成什么”，语音内容编辑模型就能直接改写声音里真正说出来的话，并尽量保留原说话人的音色、语气和上下文表达。一段视频已经拍好，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523130&amp;idx=1&amp;sn=73df972c55af42fbfae77357ee59b7af&amp;chksm=e8b339eb13fa7122afe90d358f8572bacdd09f3d7b6f5f495b4704052ec345aad35da70baf55&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 19:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从看日志猜问题到基于证据链调试：Agentic AI 如何重塑 OpenBMC 软件诊断]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fec9X7bCGykdicNCqicicicBA4u35ib4P8o234d7fJeZOarXITBznjXWnwSRB7nU66mJ5vw4KaQhFdYbgP3ltylgaIWBEc6WibWCMpicbk/640?wxtype=jpeg&amp;wxfrom=0"/><p>在服务器固件系统中，一条异常日志往往只是故障露出水面的“冰山一角”。真正的根因，可能隐藏在更早的调用链、更复杂的状态流转，甚至某个本应执行但没有执行的恢复路径中。在 OSFC2026 (open so</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523100&amp;idx=1&amp;sn=b5ad83d4997a6f503ff106af2d9cae2f&amp;chksm=e828d7b8c966133c44a0e6219b050f0cdf9800f578e86cb4403411e6dd14aae8d795db568ab5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fec7oes6UJjRRCSoeBicXcLWYKFRUm8KEP8sVqCMmBlQrK4URh5Wf0tUibYTuaibN633n2JLWwZP1VqAATqFRnYx1qgibxcQoswXmYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>在今天召开的火山引擎Force原动力大会上，豆包大模型2.1正式发布，Coding和Agent场景下表现均有大幅提升。豆包视频生成模型Seedance 2.0同步升级 ，支持原生4K，Seedance</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520467&amp;idx=1&amp;sn=e6210ac0ffacb37351752b7fcb5259e5&amp;chksm=e863d6d2f24d0e01540de36f6d885cb918621c33a014befb35de510a33c1da6c1b2d1b7233db&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 19:50:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[沙发搬到线上：火山引擎视频云如何用 RTC+直播打造一场“云上陪看房”？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeerFg90k9q0D8nAtMhh6LSVGxS9G9P3Jj3OPFrM8ichguFObH56t3I9VsHPib2Vf7vB8q7cSNSfeKgz8LuiaAdZsxEqtn6yLMJeYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>真正让人愿意长时间看完一场球的，不只是比赛本身，而是有人一起看、一起喊、一起等那个关键时刻。不同步，是陪看体验的头号破坏者一个人看球最难受的不是错过精彩镜头，而是情绪来了却没人分享。进球想喊一嗓子，身</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520434&amp;idx=1&amp;sn=a64546f280df6673c7cceb76d3465a6e&amp;chksm=e86111041d399ae36155796f3d677aecaa398415d07f63711f1c1d49e5f2c9fd2852bfc87a55&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 22 Jun 2026 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

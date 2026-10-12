@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[半价Ledger的代价：藏在屏幕后的间谍芯片，卷走近亿美元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8E3Ia4d7dJlIXMSXMjt46RFCzc9My4rfXz2AbcaDUEicVm2L4M0wCyRMu0P67vCkIqATY57gbU5tnMpMz9SWibmKQg1yeGNgCPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 供应链攻击 · 硬件植入半价Ledger的代价藏在屏幕后的间谍芯片，卷走近亿美元东南亚经销商 CryptoBilis 渠道售出的部分 Ledger 设备被证实藏有“未经授权的硬件植入物”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520882&amp;idx=1&amp;sn=2b65d9a3793fe401523f120dc750f0f7&amp;chksm=ebf1cf390fa32e1f69f342083eea1df3d9b21daeddae4fc215af2b42a916d0ad16b2f9eb3477&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 17:21:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[窃密木马盯上 AI Agent：Warden Stealer 三个月蹿红，专偷 Claude、Cursor 的"钥匙"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9c0riaLRUYOnicTTjzdXn9dFCenO5sUIv66NmXQXibREKUpUnA313Dou7vmWxyCL2v5gIFLFCetRXEAwyGrUlYfNeGicb7ibgZTwoQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>恶意软件分析 · 窃密木马 · AI Agent 安全窃密木马盯上 AI AgentWarden Stealer 三个月蹿红，专偷 Claude、Cursor 的"钥匙"Rust 编写、AST/LLV</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520870&amp;idx=1&amp;sn=f213058551e4aba138cd49b241f61abe&amp;chksm=eba656cd76a802dda44c5813893d85c9c1f72914671f72504940047e4d1d3fe29fc646b55c8f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicyp6lNW8CDj1wCoyEsiaiahTcA0E5FH4iaQk68jAZxB5OKNOfKS9Prr34BRC1uhiapDI584bWibU22ReQkL2oehZvhzia2O2dvbujib8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一台远程支持设备，就是一扇通往企业内网的大门特权远程访问（PAM）和远程支持平台长期被安全团队视作"最后一道防线"——所有外部接入请求都汇聚到这里，一旦失守，攻击者相当于拿到了内网的万能钥匙。Beyo</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519414&amp;idx=1&amp;sn=06331b7197bacc2ff353c3934da04352&amp;chksm=ebe7ef01d397ad6226f81a466a0f7c6a2095c2429ada4b26d321d33b536f8f44190fbf864501&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 12:42:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一封邮件、零点击、零门槛：拆解 2026 年最让企业 IT 头疼的 Exchange XSS 攻击链（CVE-2026-42897 ）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicbk9aoZ0eNgDPJBsSpYr0LgV0ibnhSXXI8iaCSKo93OBFDic3ibiaSuMmeiabFs0vSWP5SXHMVU6zicpVvQaaR1AzdCVeGM0S1uBFE8o/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件脉络：从披露到大规模利用只用了 24 小时2026 年 5 月 14 日，微软通过 MSRC 公开披露 CVE-2026-42897，一处位于 Exchange Server Outlook We</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519409&amp;idx=1&amp;sn=dcc6363e9057f950e57e15f52e0efa1b&amp;chksm=ebe8ac1c376656b1139a0a7b860c12c4d7e493921fb7034cc97af90da25c5e16f93bf627fd81&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 11:23:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

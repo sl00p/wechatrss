@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[三万字长文：大语言模型从零入门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904vHgB203ZibD7LYRFV1kFR47BbnRuBLnHEckzfoQlVXibnRzfIgXsb7UxtribftgiaITBHmS9StVcKhUbbWVTcyIJWLNicZEr2kZK4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：flyflywang丨 导语 从图灵的模仿游戏到香农的熵，从一个神经元到千亿参数的 Transformer。一个只会预测下一个词的程序，何以通向智能？遍览诗书亿万行，唯将下字细思量。云山千里文中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804278&amp;idx=1&amp;sn=9e9c88b84f8188503c9862f9b226839b&amp;chksm=bf6ce2395184a1fcff6bac0bc5a649646abe155633fa815a7af3105c420f2cc73284006a8454&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 13 Oct 2026 17:59:11 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent、MCP、Skill、Cli、Model 一次讲透：老系统接入 AI 的概念地图与三条路径]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9052vUx6YaS3ThgHjhibe8LfLXQlUOc02ygjB7wSgfEQsE4nNgLbhoD7DrxN1uTfka3NSu269tfkclD3I0WckmZ753jjgugK1jwE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：robinji这篇文章尝试回答两个问题：一是 Agent、Skill、MCP、CLI、Model 这五个概念到底是什么关系，谁调用谁；二是企业里跑了多年的老系统，该从哪里切入，AI 才用得起来。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804252&amp;idx=1&amp;sn=073e0806e5a950fae374c9e5f7a2a8b6&amp;chksm=bf4bb1581f07d493e0e49e99e6b3a0b9b19c684c656dfaf5b630751196a36bb96b8466b723dd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[从0到1带你速通 Marvis马维斯]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：蟹钳AI技术飞速发展的今天，能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。很多非技术出身的朋友看完很多Agent 之后的第一反应都是：东西确实厉害，但我用不上。这句话其实挺</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802248&amp;idx=1&amp;sn=5091aa9c4be79a49c871a5503386135f&amp;chksm=bf9c418d31388fa72034bca2fbd6e18e06e1be5d72d0c022861731def6f7329ab8fddedac249&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 20:19:32 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026腾讯犀牛鸟开源人才培养计划正式开启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906nehQfE12pShMK1sXRuhz2R8b4npVzK7Ro2yzj96YICftPZkTm8uc7EoHA7By6hVINJqxcS5CN1AWpEuVkc39tLcvOossiaa6k/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、腾讯犀牛鸟开源人才培养计划自2021年以来，腾讯持续开展“犀牛鸟开源人才培养计划”，响应国家开源政策，打造面向高校学生的开源课程和开源实践培养方案。该计划由教育部计算机类专业教学指导委员会、教育部</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802248&amp;idx=2&amp;sn=192920746656c75f76d8fc634989642c&amp;chksm=bfdb6dedc834c20f88bc3cb2e6bbaef2e0c66e02646b4316328a52883ee8af13c5000697543b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 20:19:32 +0800</pubDate>
     </item>
   </channel>
