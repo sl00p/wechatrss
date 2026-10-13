@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic预警AI自我复制风险，智能电视等IoT设备恐遭利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3S93EibGh8usic2tgIicSB951xdt4eibqIxmGiaibKLw2PDnP4L0uJ2SicdePwNxicpcWMfouKCOGpFQxmAysiaSiaXd1tQdiaSIdgNRrMRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic发布预警，安全防护薄弱的智能电视及其他联网IoT设备，可能在数月后面临小型AI模型自我复制传播的风险。该机构研究显示，未来出现的AI蠕虫可直接在消费级硬件上运行，无需依赖数据中心，因</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=1&amp;sn=eece797ff0980bbd8bb606446efab1c8&amp;chksm=bc497ce0d0a3fa186de67f6e65c4207917a4f9ac916300aebbe12d191ae071beb9b63facb2b0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌四倍上调Chrome漏洞赏金基础标准，沙箱逃逸最高奖2万美元]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ahdNtvkHYR2icljoB4ROZ2QhmtSvUTfAtQEX4PXIT0LGDSvS5Y19mCg5dA90scNeFiaokcnmarZQ7Jo958dpiaZ8hIibdTGfbWeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌正在调整Chrome漏洞奖励计划（Chrome VRP），不仅提高了内存损坏漏洞的奖励金额，还进一步扩大了奖励范围，将其他类型的安全漏洞、漏洞修复方案以及安全研究工具纳入其中。此次调整也是为了进一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=2&amp;sn=fd8cd7785e7b83fc62fcf6092d49a04a&amp;chksm=bc0817a113bf3eafa918cd2b01114b2df6ccf6d3ce570a5ed11c6b2f2f0b86e8d1e604782ddb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ScgZvkZtTWu9Kd2b2Q1wIBopy8mibhblWG0LAOLuWa0ggR3UM3iavboutUgKPJ6ok3sibnf2XKKFbzBpe9g3a9fZibgLjuW2ArJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正利用思杰（Citrix）NetScaler的两个高危0Day漏洞，在暴露在公网的ADC和网关设备上部署修改版Platypus远程访问工具。这一攻击活动表明，攻击者从获取初始权限到持久控制边</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=3&amp;sn=7b697d3a6286d3af1fc87b3342810d46&amp;chksm=bc5038a3c264649207447d5f794399e64e5b561c7f15d39b9a4db0b4c3764cb9468a11a0bdc6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Docker修复Docker Hub存续两年高危漏洞，可冒用他人身份推送镜像]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2naKPxaFdG5y7fxTsuUibmYVR0dR88KWYdhicBJfBxias5Y1sKzQPW3cYEHliaOaQucryC9JHPFia9GNK42T83rdCMThhszKeSa4aI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Docker严重漏洞可冒用用户身份Docker Hub近日修复了一处存在两年多的严重安全漏洞。攻击者可利用该漏洞冒用其他用户身份，在镜像仓库中执行推送、拉取或删除操作。Docker已于9月</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=4&amp;sn=843c238cafa4619759c2b2b4f4e8e295&amp;chksm=bc2e9bcdcb5f12a2035f1fc806c6f0ca301d5a5ad5eba678e31fb2dc64a66605e5daf4f92abd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前沿AI大模型仅用16分钟攻入工控系统，直抵OT控制区]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ySqM8QCsMK2pQlbibRSXATicEXuNiaxnZCeKjCTPSjJhQHbxOp7tGkRnbhjcE7h1W5h1PicHQeYXXX5kEo6ibQIMRb9QickRx6xhDI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01博思艾伦开展OT攻防测试博思艾伦（Booz Allen）在其位于弗吉尼亚州尚蒂伊的实验室中，将前沿AI模型接入隔离的工业控制测试环境，观察到模型完成了预设的全部8项攻击目标。模型自主完成网</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=1&amp;sn=386bf412079585a27e175ef9d12c0465&amp;chksm=bc5f6b924d9be20bdac36eaf53a01b74258d179813cf67d0f21c53574d39df10eb2eb19d89b5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0BVUMk52KueVG7OXWsPdoyrcwRMHnbibnFp2Aj4FMUU1HY2fAR9rcfm8khgNmRHBvEmV8mtShykRPdnDTzrGHagssX6AIuicU4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年4月Anthropic推出Project Glasswing时，整个科技行业都做好了迎接重大冲击的准备。5个月过去，DevSecOps团队已经开始面对大量AI发现的漏洞，并从中筛选真正值得修复的问</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=2&amp;sn=6c30a3fb3c995e78a1209279764aef79&amp;chksm=bc98cb2e8bf5c255fac874b1f02f43bf7a71fc75bf1c727ce80f9cfa826529bace7e75b57564&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 30 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[五角大楼证实发生重大数据泄露，300余万人敏感信息遭访问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ndbrOw4oLltgndTUvdTXKLZxfw01bu4ZSVlTvaophpfyiadexVFMdrpqkiawEQ3J0vDzS0zm0O6SSEKAcJueUWffC3OAicy2y5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01DMDC系统遭入侵9个月美国五角大楼证实，国防人力数据中心（DMDC）的一套信息系统发生重大数据泄露，导致超300万人的敏感个人信息外泄。此次事件涉及276万名在世人员和约29.4万名已故</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=3&amp;sn=a0fec27e32171fc5e942c182f68b49a9&amp;chksm=bca9e6a811b0477a551403473622e820cd594e911ec32d933f00f92bf10ab30bb0f140bcdd77&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Bitget披露3.88亿美元被盗细节，第三方安全产品0Day成入侵入口]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0RO3H2L5MFnfYZ4GexW0jo6rLXG6Zdze1wlsR4e0UPpicbh6lf3wNyiaqKPEWibgrntP1jnCoJo6UF6JRs2JZIgU9p5hziapWicnhc/640?wxtype=jpeg&amp;wxfrom=0"/><p>加密货币交易所Bitget周一表示，攻击者从该平台盗走约3.88亿美元，初始入侵路径是其部署的一款第三方安全产品存在漏洞。Part01攻击者利用第三方产品0Day漏洞攻击者利用该漏洞获取了高权限内部凭</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=4&amp;sn=8354f285efaec4371d8c642ac29f2d37&amp;chksm=bc9340b1b5ce4aed426c540eb09b70a275fd2aa704f456abd35d95605a60684b74811650890f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[斗象科技谢忱：AI大模型改写漏洞攻防，旧规则已经失效]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1B0JT7jcv0CicoRCcBtS7Qy3rocZYDqnxS3PGfbb5DR9szohAiaiaGEkH1fuBzqhPicEVJDjeiadrRWkiclIdB5L3Y8J69mV9csp3JA/640?wxtype=jpeg&amp;wxfrom=0"/><p>9月22日，第十六届网络安全漏洞分析与风险评估大会（VARA）在重庆科学会堂举办。本届大会聚焦人工智能发展与安全，围绕人工智能漏洞治理、网络数据安全、智能化技术应用等前沿议题展开深入交流。斗象科技受邀</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=1&amp;sn=6fef31c9109bdb563edd2328ba7398a9&amp;chksm=bccb6e82b585e97417244773ac233950372711780ff6a40c1c0da3e2a24c94a4ca206709bc69&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业开始用AI了，安全怎么测？今晚19点直播聊聊]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PgKKyJkafe9PYOAZDwXPpLdOKgDYf6bx0v3Nok6oPOtNUvCHxa5ehltZranXiaATCRMpVKjuFURtu5CeZWIvjufONNBIASWaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型正在进入企业的办公、研发、知识库等业务场景，Agent也开始从回答问题，逐步走向调用工具、访问数据和执行任务。但新的安全问题也随之出现。敏感数据会不会泄露？Prompt注入和越狱风险怎么发现？当</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651347965&amp;idx=2&amp;sn=fce36276dabc881118240d3a3d35f3e6&amp;chksm=bcf01ad789d2cd5b386280bc3f4b1a85cfd00e7f0b06adc4c418f1c429ad571de90bb202243a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

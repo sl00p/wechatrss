@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文拆解Jev架构：一个判断模型是怎么被拼出来的]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5quC5sVvWZBADm1U2OhXTMxc2mzJXyYZMcQQp5gxS5wC72Y3WTmL2UqYETsRoTTk7ib5JanVAkycCcQdm1YrgoicMVvYuTia0PeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告在科技圈，炒作的周期总是惊人地相似。2026年9月，整个硅谷和开源社区都在为了一个名为Jev的模型而狂</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697748&amp;idx=1&amp;sn=6dd41375dac95f8b657330adc09bc0a1&amp;chksm=eb467b8c0382e3cf8368c69fd974f31e6568cd3417fc03711e4fec56625645049cdbd13aac26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TencentDB Agent Memory 新增DeepSeek Harness 桌面端接入支持]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6UHKtyDTvyy2tVf3nEPPuj0o2pr3DEPE1ibtW2dqVia4IhorO46EuyrBL65XvpiaUE5pwWHicP6AI6EHq54ftxl9NOt2heQ9IZjC0/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目地址：https://github.com/TencentCloud/TencentDB-Agent-MemoryTencentDB Agent Memory 新增 DeepSeek Harnes</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697748&amp;idx=2&amp;sn=495dd47abef8cc6482b7612ae0bc0d23&amp;chksm=eb7d78001cd55e8a3ea84424e366aad4605a3cb4a2f69a64dd1e4c68d0f3aff12d4865732ca6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[年薪百万的FDE，我认识的人里一个都没拿到]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5fE5auOdMQ4Q88UBEABuUeuwJqvSJGfdMJJPQjXBO13SlXJv1kc61cicsAxlibxgkiczEv2ejyBDx3q0IhcU0dF3JhuXhGwF6vQc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告要搞清楚FDE的概念，当然要从它的历史说起。01从历史看FDE：一个被逼出来的模式2003 年，刚成立</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697704&amp;idx=1&amp;sn=1413ad7edf8f58e0fb7ad1441506ff2f&amp;chksm=eb62fe56b9e8c0195709bf34d9135a8ee51b3ec89470b460e5afe912115e59d97d2b95ffc1fb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DkmqcxOVbCnGhYdauYc0v1zwiaX1p4uNLhwa9lhzJxJRGSd3xhcP2y6TaFRWIljJh9HDM0eHEjJKlvqGN0NiaO6qpBREYd4EibZuolYlgS6LFY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇在 Redis/Valkey 集群中，"自动故障转移"是高可用设计的核心能力之一，也是云服务向客户承诺 SLA 的基础。然而，当集群规模扩大到上百分片、且出现多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696073&amp;idx=2&amp;sn=f8de16a6bf962ded8f3f87d4c17ffe82&amp;chksm=eb903eba86c59989e78abd16cb012a1b3c1899455757a68cceb42ae9e8b9f89da6140b90a023&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[万字长文推演Claude的代码统治力从何而来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5koTibm6w74G5q57vl53SJVYXPKsowywvVyfRmrh1nHIVJWQwYNToO0cibjx8LMDjPktyDVwV6xFc51BBAGYraE3ynPp8jbcseE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇Claude 在代码能力上的领先不是偶然，而是一场精心设计的系统工程胜利。本文将 Anthropic 的公开论文与技术逻辑相结合，推理其背后的核心机制。全文约</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696065&amp;idx=1&amp;sn=80018ee5728e292b5f4af6d463ee73c9&amp;chksm=eb96a5fb6fc3ea3b38f5ce1a58c5b9c84cf5e0836410e8e2acf3f0bbe0751efd70e17f29c640&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[「腾讯云 NoSQL」 技术之 MongoDB 篇：物理备份磁盘膨胀率减少 90% 的内核优化实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5pGxEUGhU2nhtWxgA22BpQkVQcIKgpibpxY0ec9MZjT6zfhdrEYvms4GxhlKXICN5GjAcH1U1gyD0cicN4p4msvVwR7OJyfVuSE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇作者：腾讯云cmongo内核团队-杨亚洲、尹超关键词：MongoDB、WiredTiger、物理备份、空间回收、备份回档提速MongoDB 常见的备份方式有两种</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696065&amp;idx=2&amp;sn=937a114aefb9c40f80d9858740341034&amp;chksm=eba893fcd164b5e31aeae530e69d6be79bc4601b87ed363fdfbccc756d6e668eb85b21ebe19e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 30 Jun 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

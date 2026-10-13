@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh7SPtdW6v2TZoOiaX85flB1O6EcBp7sUEFyyiamVEicYgkicCmtaIVPP9DkXPfdWTwC7CDDCyhbNqAgTCOKwJy9yDUFYAGH2E3Wvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪策划｜TinaPi 迎来了今年规模最大的一次更新：项目升级到 1.0，Code Mode 与原生 MCP 正式进入稳定版；同一天，团队还推出了一套全新的 Harness——Pi Durabl</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=1&amp;sn=76d7f47b51d974e46567e9b7c7631640&amp;chksm=bcbd3f16bc828fc4fdd65e305f3f4ede9d20be2068c19ba1f0fa3c734617685f6e8bec197414&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Token 压缩率飙升60%：大模型分词告别贪心合并]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNj1h0IsVhOtvhnia7OncZHXM26S7ichqL0kFgsic5m1ygjgnrMCvVmsszibjz1kXtPd0mzUDyHTscnIH5niaUpmDcfia2BhctaB2D67M/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 契元 当前大模型效率优化的主流叙事，几乎都围绕“让每个 token 算得更快”展开：线性/稀疏/混合注意力机制加速注意力计算、KV-Cache 压缩减少显存占用并降低注意力计算的时间开销。这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=2&amp;sn=45cb590bc2fc115a7d08964c587ebb64&amp;chksm=bc3814b1a0bc227b391deaf88b690e6133f1eb7b102cff706f7667aa28fa842349db61a0206b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[设计安全、可扩展的人脸验证系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjfL9cLWLXogq4avQ89c68gtuWuKTsSXcibiaBzgbgZ0o3S01bRmbxLC94uO9dghOFibuHmWCicZWI35wZ1qV5xo3A72b6emKgM2E0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Praveen Kumar Gopalakrishnan 译者 ｜ 平川 为黑客马拉松构建人脸验证系统是一种充满乐趣的周末体验；而为关键任务型企业环境构建这样的系统则是一次令人谦卑的经历。我</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=3&amp;sn=561c57e2168738d52e21bdf1d40f14ae&amp;chksm=bceaa16b3a95700f90566b6871da680e41cb7726cb8f3bcb97c40e19b22189d631abd54802a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhlZkTHXVrfrLuyLuLCYoicmTYbbicTOyoQapWmdaShUlOftXyqZ0yDlUhZqiaRz7BuwOFRNlUnUY3XR1xvoFmBDiacYzvFiah8J5T4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 田橙 Canvas UI 是由 React Bits 作者 David Haz 推出的一款开源组件库。它是首个基于实验性 HTML-in-Canvas</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=4&amp;sn=89c57e02be710b9dca085967319b32ae&amp;chksm=bc4f4088874981f9bd6e81429c52e36d0fff488050133ad35c5fa0afea9e0006ecbe51685144&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhlvsDmy4ib4ormG0z1icRWSuLXmdAeicp7TIKvmHmIx5ibz5gMxWB9FEJjldW7s1eYZukW4SepKdp3Le3tVicicxsEMG31WHvyOhQw8/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=5&amp;sn=8af7e79ae3731f99083b8d8015340c4d&amp;chksm=bc478fa64857e7bdfe72ff4eecb17b93e2ac43eef04f12b04ca06e18690885e0e387841dc763&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[软件能跑到全球，不等于能卖到全球]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaMl0GC2xl0qkyzbt5gUymLMZaU4dlwaPEGgVXplLVMvJGicqNzO8uzpfMAVVFhxiaYpBIibYLVJT2Wib2kIdRLtzmTGvMFfiashn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦10 月 13 日至 14 日，亚马逊云科技在深圳、顺德同期举办汽车与制造、游戏与泛娱乐、零售电商、软件四大行业峰会，以及亚马逊云科技 Marketplace 用户大会。四场峰会指向同一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=1&amp;sn=265d53b268ab325e58f0f8d2bc1654b4&amp;chksm=bcc25131a43877328c84f5b24757acb748136841cdc46dc3d5380f28f2ddb14237659f829178&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhUqkHekCjWh23iaOpHOGxce2b9BGyD0dQIC4jYMniaWX5SNBouZBVT9madLVyFibpPghHPYPHmAJcjH6Demq08V6sYjvHjn9K6V0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Jürgen Schmidhuber 翻译 | 林绮蓓 最近一段时间，RSI（递归自我改进）成为人工智能领域的热门话题。近期，OpenAI 首次通过内部量化数据，系统披露 RSI 项目的实际</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294170&amp;idx=3&amp;sn=b516ac648a3236ce1938f22e6c8a761f&amp;chksm=bc3bb3d88778f79aece9083489250873be5c3dd23c1fbd6e5fe651053465f08fd5e135a97bac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 28 Sep 2026 22:33:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhhjTlh6w7rKv96noAZJ3wdqMOZZ0iaTDaKMV917icfiagg2KrYK1JRictxNBib1po4PHNQU2bxxco2ZibWlwTLv0e4j1I67oTdnP4fE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 蔡芳芳如果让 AI 接管 AI 研究本身，会发生什么？Richard Socher 正在用一家新公司押注这个问题。今年 5 月，这位曾任 Salesforce 首席科学家、先后创办 Meta</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294170&amp;idx=4&amp;sn=e79cc0f0542f47c4f5e7e7ac7df4a27e&amp;chksm=bc0281df43d8810997a4e756334e0fef8025d5ac8dcbb6adb536f948339aa6895643ac357f73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 22:33:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[会搭几个Agent，就敢给企业做AI转型了？FDE车祸现场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia3NkCI7yia6uUiaAjTKcic2oxNwEUOuZdTqJCc76NicyehEXoXy0aJ6mn8aMRu2nWmfqI86XhJCA40IfBxvuIexE4Wo7gn48BE9yk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 松子（李博源） 有些企业 AI 项目，还没进场，事故隐患就已经写进了课程表：一个项目部才能接住的工作，被当成了一个人的结课能力。 那天群里在聊 FDE，Forward Deployed En</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294046&amp;idx=1&amp;sn=34afdf55d9638fe892f6d16f48fa0911&amp;chksm=bcfed8b912bd908f7e61539e69c53acda662afe298aa9d9955c0cf3dc6468fc745ed937433a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 27 Sep 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pi 爆火真相 ：为什么只给模型一个 bash，反而赢了 Claude Code 和 Codex]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgclIlnJLQgKqZlnM3ec60vdzNArv5FiagXic7hf1k7OEIOqgNud7yH94D5T6ktZlejN8hrun1iaG2MWQz5PjCcKKle9cUhmGuOaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜褚杏娟 2025 年底，一个叫 Pi 的极简 Harness 在圣诞节前后突然火了起来。它没有塞满几十个工具，没有复杂的记忆系统，甚至没有云端方案，基本上只给了模型一个 bash，但</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294027&amp;idx=1&amp;sn=0e76805b8c2dfb1f37c226c8476473a8&amp;chksm=bcd65a91a9f160c7cc4986e238aefe1cac6d3997d57bb52c40eb24ff49cf32cda6948c41e588&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 26 Sep 2026 11:00:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhbRmlkzTibqYEYenVmgdErEZQpjPN27KnIRUed9SEQh0aBBkL6w5qKOJmtmIEg4mn4iagSy3Bqf8ccjLcibsFD29m0KIIBqgWbck/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 林绮蓓、蔡芳芳 策划 | Tina “它会逐渐退到软件背景中，像数据库、正则表达式或其他基础设施一样，成为开发者随手调用的普通能力。”这是 TypeSafe CEO、Jev 创始人 Diog</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=1&amp;sn=930fafd84de44fecffb90d8573c7c9e3&amp;chksm=bc16899193158667285d674705474008c90fa06b8a61eb454b09a3a408f97e6c5462ce4e9325&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 11:03:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 数据平台，要补的恰恰是“模型不知道的事”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiauG4qTZb2T3dAT6kYZuibqzkkMuxwtBMibe8icuibicXfS3kouibicPpicAT6AyVyXp14bZibBqAFFQEdZwdfI8A1q6KJhibcLyDIdYqZHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦 今天的企业做 AI Agent，常常有一个看起来顺理成章的想法：模型已经足够强，把内部资料接进去，应该就能用了。但是当真正动手之后，我们的“麻烦”才开始出现：一份文档里的“客户”，和另</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294004&amp;idx=2&amp;sn=28c44595536ff18990ff87a90129a0eb&amp;chksm=bcf5b4a8efa058178414647a3dae9c838b3c12166a20b2c5c5244d9dba1cbf10a8ac014eeaec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 11:03:25 +0800</pubDate>
     </item>
   </channel>
 </rss>

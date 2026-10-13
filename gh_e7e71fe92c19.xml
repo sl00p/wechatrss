@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 从字节到神经元： 一名二进制安全研究员的 AI 安全研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K03vSl8c6UZWNztKekWrORqpXDAwBS97K8yXqgMiboyQIIPNib3BuJnNsh1gRQgMxGBfdicAVLnBKYibaHoRjtywv7Hibmzvv0pkLME/640?wxtype=jpeg&amp;wxfrom=0"/><p>从字节到神经元：一名二进制安全研究员的 AI 安全研究随着大语言模型的本地部署越来越普遍，用户开始在自己的电脑上组合模型权重、推理框架和硬件，让模型实际运行起来。我也希望借此逐步建立对 Securit</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=1&amp;sn=8574a25e4806646f0a9007eb33a8536b&amp;chksm=b038bf8406b5571870e4c49e188e3316966ee1b1344af0ab4f2145146b5d61d187c4a6cb0613&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[逆向 HanaAgent：一次 Electron 组件自还原机制的定位与禁用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3L1FxGS3u0uyDhRht5YVKwzhdy9eceH9B4AJICYWyriag53nLzbDbDnPRBALicsziaGcllHK7uKibFvrMWYPOSH3zNy8kHMJc3TlE/640?wxtype=jpeg&amp;wxfrom=0"/><p>手上在用 HanaAgent 这个开源 AI Agent，Electron 写的，本机 0.450.0。用着用着发现它有个毛病：内置了一个叫 file-history 的模块，专门记录工作区文件的历史</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=2&amp;sn=abf4be871e03fcf018f2a318f0893680&amp;chksm=b02ad5a69f6c6216642aea0818dcb63c8fcb45014d85643be8b1145cf736ef496984c39d3e78&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI发现Linux内核vhost漏洞，本地用户提权Root，虚拟机可逃逸宿主机]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1zuESQwXfvJzBGCTSyTGD0sP015Ax9987N9nZBT4x9khKFyJkREzzzgcjoRrqnysl2J9AMntwNs77Q4OjXr5OjcLavSksVhuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯朱雀实验室借助AI多智能体系统Corvus AI，发现一处潜伏Linux内核近9年的高危漏洞，漏洞位于内核`vhost`子系统，可实现本地权限提升至Root，特定虚拟化场景下，恶意虚拟机还能突破隔</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=3&amp;sn=aad7790b91cde1769122515577e9a612&amp;chksm=b0df8f9c5b48fe33115668d737d2e93dd9dd53d7d54ba49db5bded20dea919a6234437bfc355&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2026，倒计时9天！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0mRbRrVwF1we5iak0icibdTjMibkjxnYKDiaO0jK6OEbNIZRyNU1LUKnOh2FuS7QBjUyDN95NpJ9C45MoAMicaYSLyoh6Jicapv6p0Rc/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=4&amp;sn=927dab2edc455d0c68e6b4b3c6f0d51e&amp;chksm=b0d308510914d7aff7f9230905a02bd8e7a6d62fcc6d1a73ca719350138868052d7f57d60a40&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[出行指南 | SDC2026参会攻略，请查收]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K02vicyh80n4X3tHeLQtG1cfXANDWDRmlwdhAhxTynibFb4XbcQNVqn6BupJ6CdukkwnxuMSGfJMxNLDWCD6U7zgIfnZWaXIloeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>住・食・行・游✦看雪·第十届安全开发者峰会✦📍 会议地点：上海环球港凯悦酒店｜普陀区宁夏路 718 号*直通上海环球港，地铁 3/4/13 号线金沙江路站直达🕒 会议时间：2026年10月23日09:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=1&amp;sn=66966d51833f086ddb597c08b4a249a0&amp;chksm=b02094dd86528b59a52ea361c8492bf85a7934636fcde4b3bc8305d2c7ee3454a189a4c59645&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2aEY9nchIJrJiaxD48XpLn9FcPHWjeCiaaJrOMePh8EgAE79Xjg6tibcaHegdfjCery98NAgGx33MSc8O1vn2Ania9ZnBX7RPF5rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026人机共智·重构攻防当大模型深度融入攻防体系，安全边界正在被重新定义。第十届安全开发者峰会（SDC2026）以「人机共智・重构攻防」为主题，汇聚行业顶尖研究者与一线实战专家，围绕 AI 安</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621752&amp;idx=1&amp;sn=a441196ba1fecde164b052739091d462&amp;chksm=b070c31a73ab80f444ea04989e03e1a95c9c731ee7f16218852f9e8bff5b5020489126e0fe73&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人机共智·重构攻防｜华为，助力第十届安全开发者峰会（SDC2026）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3XEh51sR7CLQ4XGoXySvr7781odRVuU6ZCynZKla8jHnbr867JPdbck2KpHQT6thNtWtkick7DicuhTiablCpPAicqdSWvMyIV60I/640?wxtype=jpeg&amp;wxfrom=0"/><p>华为，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。与此同时，Agent 越权、模型投毒、提示词</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=1&amp;sn=f257ef5c39824d9b599e370eae2f1b5e&amp;chksm=b0a676cc45e738a676592b70fef88d209cb918ee605679e5151332056204f64a2511ba3ac506&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HITCON2017 babyfirst-revenge 看雪 CTF 复现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1YXIKDMEJX38Ee3LKTujJGZECpKk18dzrOxLkckmiapItHsaKkRzibLREPWgfibCaHcIr6KLViblQb6LKowzCYiabN0Q4sWubujXEE/640?wxtype=jpeg&amp;wxfrom=0"/><p>我愿称之为“第三方 WP 都只差最后半步”的一题。原题本身并不新，核心还是利用长度不超过 5 的命令，通过文件名、续行符和 ls -t 拼出长命令。但是看雪环境有几个额外问题：REMOTE_ADDR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=2&amp;sn=533a3e69a43779501ce1971feff32da7&amp;chksm=b008af9756989bf9908087d3e25742be22c3dc5d81828d4cf9170cfd9bf3bbeff7458caaf9f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[F5 BIG-IP APM OAuth授权服务器存在零日漏洞，可无登录远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0JteYc06fHRE7PvkC7tYt3AzmpKh95pqCHjNxmmK3CRDLwxickXCdgsmScnjfmibosFJI3NlYiaGy159XD67EynbET2vNxyDTmyw/640?wxtype=jpeg&amp;wxfrom=0"/><p>F5官方披露BIG-IP Access Policy Manager（APM）存在一处高危零日漏洞（CVE-2026-94127），该漏洞已经观测到在野攻击利用。攻击者无需登录认证，即可在满足特定OA</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621086&amp;idx=3&amp;sn=bb7cbcd85bba87195da00496fc84cfb8&amp;chksm=b0a2ed69502acc5ff82a0c319e39939612396aed6abe6451c980b16c1930ee017793ccb49573&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 23 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[浅析 Google Play 自动保护（PairIP）：代码虚拟化、TEE 密钥与运行时反篡改]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1anlNg3vbUD8u3MxcQuJ6Q2thv0mC5iaD5rMaibruTWfqbxervNWCvy6XwPzJ9uXjkSfdq2QuStxgJqzX4RWqyhIYVmYLfMPP88/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近分析 Google Play 上的 Unity 游戏，碰到过几次类似的情况：JADX 中大量关键方法只剩一句 VMRunner.invoke("...")，逻辑全被掏空；模拟器中迅速闪退。这两件事</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458620834&amp;idx=1&amp;sn=bb5885497395f2a93a892c5f0d3be2e3&amp;chksm=b060f2ca6516b1f8f35ba77311969de8026aa6c83fb21bb0647b3811299621569ca3b53557d1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 22 Sep 2026 18:02:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

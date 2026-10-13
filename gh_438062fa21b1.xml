@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[手把手带工程同学从零实现一个完整的 LLM（CS336）——Transformer 篇]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4GMIZ1oibQcWhw2v2diaTCd6lIFSibiaQojsyTYxYIUuHBzicqMo91u4CQKLDLiboJrlsOYn7ea3jxoATbWY69vp9V9v5KBrRib8fe2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 68 篇文章（ 本文阅读时间：约 30 分钟 ）01前言最近我在学习 CS336「Language Modeling from Scratch」，是斯坦福大学的大语言模型构建课程。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512119&amp;idx=1&amp;sn=a4ac67dac7423d561fae8beb1cb626e4&amp;chksm=ce0183b1868ca5446127ef18eccf754cb1a2b184881df2d0052a632578a45dc6437f8a3cdabb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析 RSI：当 AI 开始实现自我迭代提升]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz6xo4bJdlPPiab0PrqSqOF5M4xRIE3gQ0QyN8UxuM4PxibgO6BEPBNP0t2KQEqbAibIkPLHiaerTpzQ0ibzic88uqkbbvwqOlScIdH48/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 67 篇文章（ 本文阅读时间：约 30 分钟 ）背景2026年注定是不平凡的一年，今年爆发式的出现了非常多新的 AI 概念、框架以及各类 Agent Harness，让人应接不暇。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247511873&amp;idx=1&amp;sn=8f45da7e2e5dc1513a6fb0ebc0490553&amp;chksm=ce162f7e43b94d07fee810aa9622491c381920f76c56db2ae61b00e7d6c93a907d7f8ed93e71&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4eibNnYGRpGMQn2m7mniaYrywagISeDl6wuhbsgedXj9kvx0fTiaIm5NeD7nfLgKKIIngx21gvCI6eU92tibMgmMJK532VDyUabicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第16篇文章（ 本文阅读时间：15分钟 ）前言最近在看 Codex 里 /goal 的实现，越看越觉得这个功能被低估了。很多人一聊起 Agent 长任务，就会说：让它自己规划、自己执行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509534&amp;idx=1&amp;sn=ce44055bdd33016cb7de0c200b36a8fc&amp;chksm=cea3df3ea5b15e0bfbc58313e3a8ed438c7ea9a33de64950c52f2bf4aa0cfbc4b581302afdff&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 23 May 2026 18:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从0到1搭建 Agent ：Agent 原理分析及个人助手实践（长文干货）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz7fZn11UtXic0YdX9xe3hzdVt3krvatZmDS1TvIyduFRicyicmt3NxoS9RfaQwaOa1k4nBiaZicqGEgW68HHdxLrB2kjg5sfyrYFDSE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第15篇文章（ 本文阅读时间：约50分钟 ）前言AI 发展越来越快，对于大部分人来说，想深入参与 LLM 研究的机会很少，但是大家都有机会成为 agent 开发者，或是低成本搭建一个a</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509516&amp;idx=1&amp;sn=0ffc19c81f807e83e59bae292205bdf9&amp;chksm=cefe700270e5c863dbff07c9b8c49285ece433d4568f127a93d95211c500d11f8f8edfe0214f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 19:28:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

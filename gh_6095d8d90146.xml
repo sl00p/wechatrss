@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/10/14)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Anthropic 研究：物联网网络可能成为自复制 AI 蠕虫的宿主https://www.darkreading.com/perimeter/anthropic-ingredients-fut</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960570&amp;idx=1&amp;sn=6ee1e3d24d3ffb881b40d34f0fc658c2&amp;chksm=8a0f252d66d6874f331408c0b6f0f26a698417f6ae6ec853862dacc554193af4b16f20f89ee8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 14 Oct 2026 10:45:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/10/9)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Plug&amp;Pwn：利用 Windows 即插即用机制通过 USB 模拟实现零点击 SYSTEM 级入侵https://blog.scrt.ch/2026/10/06/a-practical-gu</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960567&amp;idx=1&amp;sn=c12f6389ad60b2058b341f70007b6997&amp;chksm=8ad7eb8fb64613bdcb824aeac96be63ff0b6acbec04b31002843d6414b426be34a980d44762c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• GnuPG 多重关键漏洞事件https://sectoday.tencent.com/event/05UMapsBvMLTtVn_Hifm近期，GnuPG 被发现存在多个关键安全漏洞，涉及签名验</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960340&amp;idx=1&amp;sn=2a58da275f64b4fba81a3e233af31748&amp;chksm=8a5e79cebc17f4c012bc58027157059cab6335a48024d6efb18ddbd65d19149a00db9e8b279a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 31 Dec 2025 15:14:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/12/26)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用 CVE-2025-38352：在不使用内核补丁的情况下扩展竞争窗口https://faith2dxy.xyz/2025-12-24/cve_2025_38352_analysis_part</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960337&amp;idx=1&amp;sn=dee2e90c15423538229e230382e958b6&amp;chksm=8a45839377ce76bcb6db2b5b24fd99ab98359b20a43ab9955c6a2b8dfecd81fe82cc060899cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 26 Dec 2025 18:23:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
