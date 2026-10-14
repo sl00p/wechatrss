@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[清华在 GitHub 上开源的 Agent 工作台，最近更新了 2.0 版本。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU34f4F3pGcw9CarIYlPdCYYEugmdjXWOtJpExo0AjFbLaOkVdQRDZlmbfCyapIHFwWicqxzeHFyqXh7suDVIHznEKkQv0jZBQTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，看到了一个叫 PilotDeck 的开源项目，Harness 领域的开源小钢炮。它是由清华大学 THUNLP、面壁智能、OpenBMB 和 AI9Stars 联合开发的开源</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537716&amp;idx=1&amp;sn=b88d7aec28cf8cc8bbb217813d392f91&amp;chksm=f852dba1c46d4ad5600d09850e3153ae2469c5f4a14da8a1abe6def07ffa3782c0ecc640b18f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 14:02:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[分享一个还挺好玩的 GitHub 开源世界模型，能实时生成可交互世界。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2PKShcXvibk5wHiaFH6X1DAtdATy2B7sLKNDoNj1iboR0m6BHUBNrppt86cEho7BxnPkGd2c8DibMOuEy2ndYnMrQgNjibNMEdSnAM/640?wxtype=jpeg&amp;wxfrom=0"/><p>给 AI 一张图片，你就能用上下左右键在图片的画面里走动，转头看看周围，声音也会随着视角变化。Noiz AI 的 HelixWorld，正在尝试生成这样的交互式世界，目前已经开源了。先看这几段演示，建</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537714&amp;idx=1&amp;sn=fbda944a2de14753068dba37265e6897&amp;chksm=f82b4fd68fe5a1c619b31007cab22a2b9fa89c8bd124dc3b6b0b13f2e2532f673bbae690364c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3QrCRqSMlicw8L4YCrx5ktObbUNLoPUorbZxaRTg14ibkG2N49m1pH707OVyE7uV7nNibRGh1MFVxia8Kia5HkzJLPtNnTk61cTdXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>几乎每隔一两个月，AI 行业就会迎来一个史上最强模型。官方榜单再次刷新，编程能力提升多少个百分点，推理成绩超过多少人类专家。紧接着，社交平台上开始出现大量演示：一句话生成网站、复刻某款产品、制作 SV</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535739&amp;idx=1&amp;sn=441b699572183c854a552eb196994323&amp;chksm=f8faaa9ae86364ed589ddbc443c79d6755cdb9cd3e849c00ce7239bc89550b4d786d372445e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Aug 2026 14:05:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2a6PmwWibNPXnIvFE4lzfmEEpkspb3k2koCKD6Q1ZdRB1fATb446CjDLX5pae8NJV35ic5oFC8eibCiaEXibJiaOBLAO2bPkeBmDfmE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近逛 GitHub 的时候发现了两个开源项目，一个叫 OpenWork 一个叫 OpenWorker。尤其是这个 OpenWorker，它还是吴恩达开源的。今天这篇文章就介绍一下这两个开源 AI 同</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535704&amp;idx=1&amp;sn=623306f6ea42ed3afa182ecf9c5a3e3d&amp;chksm=f8da76f8b170ac65f7857d83767c21a051cf55da26e5e4ee41afbe1e0d36c1a015322abff291&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 02 Aug 2026 10:12:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

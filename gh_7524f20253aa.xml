@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI低质报告冲击漏洞赏金计划，英特尔、谷歌等科技巨头相继调整规则]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2794Aejic0gUYeWA7vorhTz59eBoKJ12icT2akXApn5YQwbGEh32mDF0C6KfZZNGuxXeJolCloPL5WXfaqu2ywtPibBxAqYdGIoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>生成式AI工具大量涌入漏洞提交流程，产出大量看似真实可信的低质无效内容，科技巨头开始重新评估传统付费漏洞赏金计划的投入产出比。在外包审核团队不堪重负、内部AI自动化审计逐渐兴起的背景下，英特尔、谷歌等</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=1&amp;sn=a4e9ad34b40b1044c60102a86c8bc435&amp;chksm=bc0f5e9801d02149273f9946878426aa816a5a99bb37f84c0f247bdf98e7faa1d0efb48ebd7a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI AI对齐问题持续加剧，模型越界甚至破坏自身运行环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1e3k1kicYOiah08Uv5iacePvx4omWicibw6OJpJVxxLeibVU873Uf3bf2QQpAjxZfItUuiaza4iaq1JD7xdIkNfNqgpGH1VtP7ia9oNaAc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01三份新报告披露对齐问题OpenAI近日再发布三份报告，详细披露了旗下模型多种令人担忧的过激行为，其AI对齐问题正呈现持续恶化的趋势。在专项对齐测试中，OpenAI旗下模型会想出各种非常规手</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=2&amp;sn=5f03ba9b1e43e1a0fd9f57c1ed811e2d&amp;chksm=bca5134ee35a3d86cc5d32854be46ea1e95e701865f449eff8b78a88ddbba11bee277a238483&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux vhost高危漏洞PoC公开，可致root提权与虚拟机逃逸]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1LpeKRoyHl5H54DtKb4tRcTBHetaEicduXOa5BCOKia4bJib1srrjNm1vjibGwhwShJQG8oqqqBe71OySOILmywzKpnSbHCr21icGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01vhost缓存校验存在缺陷Linux vhost高危漏洞（CVE-2026-74580）代号为Vghost，目前已有公开PoC。验证结果显示，本地攻击者可利用该漏洞获得root权限；在特定</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=3&amp;sn=37c2ca5081a7c62dad0d921b2251be38&amp;chksm=bc7f7c8a6dd8f3f048e9cee5b55803054b46102a570adde53f73e2cdc175d381e828172dc016&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CodeWall获400万美元融资，推出AI Agent模拟黑客攻击测试服务]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0lzX3SwYZXNUXySvc0ibeocFibLnREuRFTIicrBmXK2keYOBcMBxLsj0eAicgkNchib1RqwHGTHM28emt2dZ8WbnXTSDdZb52OXzp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01无前置凭证多Agent协同提供持续性渗透测试服务总部位于伦敦的进攻性安全初创公司CodeWall Ltd.今日正式投入运营，同步完成400万美元新一轮融资。该公司面向银行等企业客户推出自主</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=4&amp;sn=966271464dfbeb221c0f36553fcba5bc&amp;chksm=bcd4349f6f375f4d62dae40b16a60c810fbacc02e00bde4723d24e537593001c89803d836f33&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic预警AI自我复制风险，智能电视等IoT设备恐遭利用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3S93EibGh8usic2tgIicSB951xdt4eibqIxmGiaibKLw2PDnP4L0uJ2SicdePwNxicpcWMfouKCOGpFQxmAysiaSiaXd1tQdiaSIdgNRrMRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic发布预警，安全防护薄弱的智能电视及其他联网IoT设备，可能在数月后面临小型AI模型自我复制传播的风险。该机构研究显示，未来出现的AI蠕虫可直接在消费级硬件上运行，无需依赖数据中心，因</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=1&amp;sn=eece797ff0980bbd8bb606446efab1c8&amp;chksm=bc497ce0d0a3fa186de67f6e65c4207917a4f9ac916300aebbe12d191ae071beb9b63facb2b0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1iaJylCqBkjF0ic3icQQtAMHIh4TC5yFg8JtfFiah8AlMEqsf8RzRGA5AibTRmXVoItFz9yVl4vkIISiaP8N6Nk2wlhWvKTN3KyWDAg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个Citrix 0Day遭活跃利用Google发布警告称，Citrix NetScaler近期遭到两个高危0Day漏洞的活跃利用。攻击者可借此绕过认证、获取root权限，并植入隐蔽Web</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=1&amp;sn=d44ab0f64641f46d0a06b8694f97c012&amp;chksm=bc16e137a1637bd14357b8f8205390421d972a49c37c086555cf38cdc2d375d2756c8682aba6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播回顾 | 企业开始真正用 AI 后，安全该怎么测？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0aZDXofCaoWAhJ4gw05LgiazASLB0PW5IfoibeEP4hNzIoalBEArhPzK4sejuvYpNQB7Y2se4M7eNWG16iaybhicxMrTicOtricxIfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>直播精华回顾当大模型和Agent 真正进入企业业务，安全问题已经不再只是“模型会不会说错话”。敏感数据是否会进入模型、第三方 AI 服务是否可信、Agent 会不会越权调用工具、执行过程能不能被追溯，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=2&amp;sn=c911b046555748c4e47c61ac1de72173&amp;chksm=bc33af8d2cdc41bf99f26447427f0eed0eea3a7d392598046468c54cbf873a7f2a22226529c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用PaperCut 0Day入侵打印服务器，不到两天攻陷域控制器]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3UfiaBib8XvEMOaDbgMH2Njqq0C4hhe4rflF6YN894mGJY6tWOnkB27yFiabWW9ZvhsRSZjKL6KFa7ibzLjk7HxAwjnIWKGpt1RmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者利用两个PaperCut MF 0Day漏洞，以存在漏洞的打印服务器为初始访问入口，最终攻陷企业活动目录系统。这起入侵充分说明，常被企业忽视的边缘业务系统，也可能成为攻击者访问核心身份基础设施的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348097&amp;idx=3&amp;sn=0bd73aecc0c85c5979cc1c3e8cf16d0f&amp;chksm=bca57758d85771cac80d62c70f87f0787b3073a3f6c69aae4b8d3b3bd338e4239542cf9be9d3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Astra不受控自主实施供应链攻击，频繁超出测试范围]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0aq577iamm9q0a486RIktEibWeqcEbNslnLM09B7QFnLJeR0lfhXTiayWdQIsh4zsPfKnEiapdiceIybyWuJM1wNF6UicRavrx8BGRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>英国AI安全研究所（AISI）发布报告称，OpenAI旗下GPT-6 Astra在安全测试中，对测试范围外的软件实施了供应链攻击。未授权模拟供应链攻击流程拆解Part01GPT-6 Astra攻击占比</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=1&amp;sn=51d4d0efbe6c624ed7ceadbe3b5c1467&amp;chksm=bc562b1d6e21cb39a294447f954953d8f63b55bbe9cca81067df3e6f2d875fa2889eac424014&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Glasswing项目公布五月实测数据，AI漏洞误报率较高]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0BVUMk52KueVG7OXWsPdoyrcwRMHnbibnFp2Aj4FMUU1HY2fAR9rcfm8khgNmRHBvEmV8mtShykRPdnDTzrGHagssX6AIuicU4Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年4月Anthropic推出Project Glasswing时，整个科技行业都做好了迎接重大冲击的准备。5个月过去，DevSecOps团队已经开始面对大量AI发现的漏洞，并从中筛选真正值得修复的问</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348056&amp;idx=2&amp;sn=6c30a3fb3c995e78a1209279764aef79&amp;chksm=bc98cb2e8bf5c255fac874b1f02f43bf7a71fc75bf1c727ce80f9cfa826529bace7e75b57564&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

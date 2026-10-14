@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905tq5ncvs29eiaibRicdicuYQicnOSttQibXiaThVEuoOJpic4jiacTICibico5ME6FMR5MeiciaDYowY1ChJxCl14yWZ0ibdDdfYesyPicFrPIpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenzuo引言：10 月上旬一周内，GitHub 上一个叫 REA 的项目 Star 从 1.5 万冲到 23 万+，凭什么这么火？REA 全称 Reverse Engineer Any</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804299&amp;idx=1&amp;sn=e1808d10ae74ddad4c3b38a9e77d2c54&amp;chksm=bf28ab122cf4699508dca4a7e8572eb394535b9a113e2910474a589c4c6032582dc5a57ee390&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 17:38:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[三万字长文：大语言模型从零入门]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904vHgB203ZibD7LYRFV1kFR47BbnRuBLnHEckzfoQlVXibnRzfIgXsb7UxtribftgiaITBHmS9StVcKhUbbWVTcyIJWLNicZEr2kZK4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：flyflywang丨 导语 从图灵的模仿游戏到香农的熵，从一个神经元到千亿参数的 Transformer。一个只会预测下一个词的程序，何以通向智能？遍览诗书亿万行，唯将下字细思量。云山千里文中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804278&amp;idx=1&amp;sn=9e9c88b84f8188503c9862f9b226839b&amp;chksm=bf6ce2395184a1fcff6bac0bc5a649646abe155633fa815a7af3105c420f2cc73284006a8454&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907U0RGibEEmngoefzCE98NOTribmCqyhHibpTNyaMZoiaCzVxOldPBPA74cmLD5rRQscUycfFz6xupoaSe3ACnGbw7k5jYS9yFd5RY/640?wxtype=jpeg&amp;wxfrom=0"/><p>快问快答视频速览！</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802369&amp;idx=1&amp;sn=15cfdd4bef27d2bc08bf0af8d44eac5b&amp;chksm=bffc89c5714fdc28de4ecbaf52257133879fbbd1ee05c789f4d3319f79a3a31cedccd15b8424&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Jun 2026 19:35:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从0到1带你速通 Marvis马维斯]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907tBGPddnkVK9nZnHHzvhwGFSoNeicJbmxhTAZUL05jwsB3InMIeenS5Y0ibXpuFfroSh1BvGibolwpNL7qDrJS6FaUetdaMpUXKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：蟹钳AI技术飞速发展的今天，能力强大的Agent产品层出不穷，但对普通用户来说，门槛也是真的高。很多非技术出身的朋友看完很多Agent 之后的第一反应都是：东西确实厉害，但我用不上。这句话其实挺</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802248&amp;idx=1&amp;sn=5091aa9c4be79a49c871a5503386135f&amp;chksm=bf9c418d31388fa72034bca2fbd6e18e06e1be5d72d0c022861731def6f7329ab8fddedac249&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 20:19:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

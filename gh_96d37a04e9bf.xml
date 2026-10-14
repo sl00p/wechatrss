@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0Dw6rGTrf06QTesPHBz5LGAjiawuUyVrglBjV5Q3c8icvs6icNC52zQfzQiaUjWe3fnib8ibCYXdjFZ6X3FlZ26s6YrvnbIa56iaYQ1HP4/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读搜索和推荐场景中想要使用语言模型提高在线效果，往往面临着在线极低延迟的约束，现有通用大模型推理引擎并非在这一延迟约束下设计，因此本文从「具有确定 decode</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783496&amp;idx=1&amp;sn=53d56d7b5e384442b13fbba8f7e57ae2&amp;chksm=bc4b9832bb3508178d0e37b82307ab844e2eb314ae999feb1bb262e0eb4a25f00f1ba7c2f1e1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践 | 送中秋礼盒]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DwpZicHRQ2OJj3sl4XiazHjlA0wwQochZAoOXV8RUWRnwNw4ib08y2FTQNRTLibkQtHS82ibkyKvl0yPBLyibQZ1CnBrBDJDXFDtF1xc/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读美团在 MTGR 基础上提出统一推荐基座大模型 MTFM，首次实现外卖多个主要业务的统一精排模型。围绕规模可扩展性、场景可延展性与架构高效性三大挑战，MTFM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783470&amp;idx=1&amp;sn=da5e4ae285f534a2687fce77543806b0&amp;chksm=bced004e5163d6cbd9cdd86310940974979d7572bd0c0e0aac06d6c7c304c183bedda061e3c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[智启新春，一‘码’奔腾！NoCode 创新挑战赛重磅开启，丰厚大奖等你拿！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX9JRicfYWDh6sNz1iaNX90xPqK3QgUUnfpsmb4pWtaMI0jp1zUtxUN338rhRq508SPeowHg9MMCiceA/640?wxtype=jpeg&amp;wxfrom=10000"/><p>赛事指导：清华大学-美团数字生活联合研究院赛事支持：美团核心本地商业无论你是资深极客，还是不懂代码的创意达人，这里都有属于你的赛道。这个冬天，让我们用零代码令你的创意如骏马般奔腾，跑进 2026！零基</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781963&amp;idx=2&amp;sn=8ba7a63f44d210fa0b770391be701591&amp;chksm=bc8e4aeeb6d29cfea414f0c0e9b8c4309beb05a885922512c00dd66dc0b98ab24560ee71eb34&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Dec 2025 19:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“点对点”迈向“城市级航网”：美团无人机开启低空物流新阶段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/hEx03cFgUsX9JRicfYWDh6sNz1iaNX90xPMkCw6dA3SqpYylF6KOzYGAIyJW4Ft4DgSibmCwZMopomlqAJ3DtXyhw/640?wxtype=jpeg&amp;wxfrom=10000"/><p>当前，城市物流配送正在从地面“时效竞赛”向低空“空间破局”融合转变。值此关键节点，美团无人机低空航网发布会于12月19日在上海举行，重磅发布低空航网，率先定义了下一代低空配送新模式。这标志着低空经济从</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651781963&amp;idx=3&amp;sn=daee0b94a6df46be0b9ad4b93f359938&amp;chksm=bc43af2fc3092020b87c6c1dd158babc8782d0e26f90e5e842e2f3c202c0e61b8148c4d6b333&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 25 Dec 2025 19:58:00 +0800</pubDate>
     </item>
   </channel>

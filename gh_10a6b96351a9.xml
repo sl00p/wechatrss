@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大模型没有记忆，token就是钱，上下文窗口就是天花板（1/12）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcp8yAslMQP3E9qZ5Uo1jKyjSLfGugkicgPUMq0BcGPCjeSjicwK06yegAHNVeKhj85WiaAp29Szv3QQ7J6fBosKjuiablENcYicx4w/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第1讲：大模型的三个核心工作机制准备起一个新的系列《Agent原理与实践》，讲讲agent的原理，架构与实践。目标不贪心：1. 希望每篇文章有1-2个点能让大家有收获；2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981757&amp;idx=1&amp;sn=d396cf85e59db15a711c286cd8bab0c1&amp;chksm=bcc7ece601759b2889894a95c03e71401528feed8bf52cd13c1bb52da75e01781ecf297b9523&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 17:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[决定人生高度的9项底层能力，10月份，第四项：执行力。 我们的人生里，是否都藏着一个想了很久、却从未开始的计划？学一门手艺，写一本书，跑一次全程马拉松，搞一个AI项目... 然后，很多人会对自己说，等我准备好了，就开始执行。 然后，一等就是三年五年。 再然后，就没有然后了。 我也曾经是这样：买了不少书，报了不少课、立了不少志、说好要坚持不少习惯... 但最后执行下来的，却不到50%，另外50%，全成了遗憾。 我心里也都清楚，执行力，就是跨越从"知道"到"做到"的那把钥匙。 关于执行力，聊聊我的故事吧。 故事一，过去20年，职场的规划与执行：一个普通工程师，20年里经历了几次关键选择，哪些规划成了，哪些规划废了。 故事二，过去10年，架构师之路的规划与执行：一个技术公众号，从开号写到今天，写什么、怎么写、如何坚持。 故事三，过去2年，"沈剑和他的朋友们"的规划与执行：从0开始做社群，方向怎么定的，坑怎么填的。 故事四，最近的：10.8星球直播了《如何30分钟写出合格的skill》，一周时间，转成7节课的在线内容，发布了。 故事五，昨天的：我开始啃agent的架构与原理，一天时间，写了个几百行的小demo。 执行力这东西，不是讲出来的，是干出来的。 今晚直播，分享一个我的执行力公式，希望对大家有帮助。 关于执行力，你到了哪一层呢？ L0，迷茫者：没有目标； L1，空想家：我想做，但还没开始； L2，冲动者：我开始了，但坚持不下去； L3，苦干者：我很拼，但结果不理想，低水平重复； L4，高效执行者：目标清晰+行动有序+持续迭代，能把想法变成结果； 今晚直播，《窒息力：关于我的故事》。 欢迎预约，不见不散。]]></title>
       <description><![CDATA[<p>决定人生高度的9项底层能力，10月份，第四项：执行力。 我们的人生里，是否都藏着一个想了很久、却从未开始的计划？学一门手艺，写一本书，跑一次全程马拉松，搞一个AI项目... 然后，很多人会对自己</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981751&amp;idx=1&amp;sn=499f5ef0bf4cb40fb18002519fb89ddd&amp;chksm=bcae18bd13a839aa89deb652c9c41593b40764c027da83120209afe04b0bdbc53a896e686cc1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>大学毕业乳汁百度HI后，我的目标其实非常明确：要在5年内，成为一个顶尖的技术高手。 然后我开始拼了命的钻研技术： 接入模块TS，哇，单机能抗100W连接，太神奇了，得研究研究... 逻辑模块Ch</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981406&amp;idx=1&amp;sn=fd985a9dff965370e2942d8a95acea29&amp;chksm=bc2c6d905eb0f563369948ff43a3434cf7432bdd41a1565fa18d665b839bfec81dafff2d2dec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 16:58:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐一本Codex的书...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXcCZmXpyXha2ThflKsdaOVg2YJtFqojPdxJG5FHpLB0BWuDnKx0LhrM6RFOicCRiacDiaDAKRfia0jNrAib7lMyjasKFpQaUYxrV5yU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近后台经常有人问我：“用AI写代码，到底哪个工具最好用？”说实话，这个问题很难回答：Cursor、Claude Code、Codex、WorkBuddy... 每个工具都有让人上头的地方，也都有让人</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981404&amp;idx=1&amp;sn=5082946905eb31790f6ff97b0da19f50&amp;chksm=bc024918d047ea13ffe85e15afe5c67a9c1cd8320f062218299511de07075074fba04fc89031&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 23:13:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

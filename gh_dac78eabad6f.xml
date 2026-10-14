@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[给270万行代码开“上帝视角”：Agent 自主定位根因实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5MRVW7YdwdOhyCHOJXdMVQibiaZzWBqpicrlMicKn92ia4K3CIoicfqrrpv3BlsUYPOO3fBqP2rgSrW1ibjdwiaibFRKbOyheHlYFPMs8A/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告腾讯广告的商品数据生产链路是由60+个在线服务、50+个存储节点、490+条数据流关系与270万行代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697763&amp;idx=1&amp;sn=a5e75230ca5550ba7e79216a536ea8a2&amp;chksm=eb07236e9121dd66dfdaf64d09b3f091769870809687790dfebbfcc959ef74286d01fb912403&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文拆解Jev架构：一个判断模型是怎么被拼出来的]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5quC5sVvWZBADm1U2OhXTMxc2mzJXyYZMcQQp5gxS5wC72Y3WTmL2UqYETsRoTTk7ib5JanVAkycCcQdm1YrgoicMVvYuTia0PeQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告在科技圈，炒作的周期总是惊人地相似。2026年9月，整个硅谷和开源社区都在为了一个名为Jev的模型而狂</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697748&amp;idx=1&amp;sn=6dd41375dac95f8b657330adc09bc0a1&amp;chksm=eb467b8c0382e3cf8368c69fd974f31e6568cd3417fc03711e4fec56625645049cdbd13aac26&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[业务架构、应用架构、数据架构、技术架构……架构到底是什么？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4C1bvSmSMNUl00m6A2ySXFeu8v9XIuoOHTnrib3y6gHqjUTemeMQ3ldia7Yh6tJDNrD6kZC9PKITYsD5IdicoxnVvlyvZ4WAS1ro/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01架构=要素+结构+连接在软件行业，对于什么是架构一直有很多的争论，每个人都有自己的理解。不同的书籍上、不同的作者，对于架构的定义也不统一，角度不同，定义不同</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696073&amp;idx=1&amp;sn=8a58b4f5c3d9dabe8c097a7cedb93138&amp;chksm=ebf4644234e134f0f068c8f2c1f29b7a01b1492eeeb039d9ebf89ff149420ea31b3c12526510&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 01 Jul 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[「腾讯云 NoSQL」技术之 Redis 篇：针对集群选举投票冲突的优化方案]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/DkmqcxOVbCnGhYdauYc0v1zwiaX1p4uNLhwa9lhzJxJRGSd3xhcP2y6TaFRWIljJh9HDM0eHEjJKlvqGN0NiaO6qpBREYd4EibZuolYlgS6LFY/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇在 Redis/Valkey 集群中，"自动故障转移"是高可用设计的核心能力之一，也是云服务向客户承诺 SLA 的基础。然而，当集群规模扩大到上百分片、且出现多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696073&amp;idx=2&amp;sn=f8de16a6bf962ded8f3f87d4c17ffe82&amp;chksm=eb903eba86c59989e78abd16cb012a1b3c1899455757a68cceb42ae9e8b9f89da6140b90a023&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 01 Jul 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>

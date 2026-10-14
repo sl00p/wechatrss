@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[人机共智·重构攻防｜vivo，助力第十届安全开发者峰会（SDC2026）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1j7Eem9iaO4xlMWx0upt9pQxypfqKHZibznDPnAkUIJSGAThiblgO6akS4y5n72DKgACXciaCO8d5t2ibbXpECUPOlVC7UpicJk5AV4/640?wxtype=jpeg&amp;wxfrom=0"/><p>vivo，助力SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（SDC2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622850&amp;idx=1&amp;sn=383a023d54cd787ed745c6b0e18469b8&amp;chksm=b0cbd20202cde71c6e563c34047c877754d729b0c3ba18244b2a2efc337ac71a31ddf140c47a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 17:59:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Android MetaSec 签名链逆向：从 TTNet 到 Unidbg Native 还原]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0BKiaXnWBEqZDWfq8ttkxs2J9najl4lQkyBxibl2ADia7peoGV6DWheQ3ia4uJ5MlYL8I4g8rKR9cn8gr3yertDdjfle0fGqCmdCc/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 任务目标分析 Android 45.5.3 的搜索请求签名链，重点关注：x-gorgonx-argusx-ladonx-khronosx-ss-stub目标环境是已授权测试设备。本文只记录静态</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622850&amp;idx=2&amp;sn=af74132a4eb95bcd4adbef9003698b56&amp;chksm=b0e28cdc001b9006424be12e193312827b30bc186fec6d172bbfd9220804165360780e98842c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 17:59:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软发布3个Active Directory漏洞预警，支持远程绕过安全防护]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2SPicpO8zCaedBVTD9GRF3WBeps12OKHYA03WZ1wpXKsWp2HSBcYLMJOYglr6fb5jNKg9AV8ehZzOWRXQExHVE0G1g8tibkQyDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软官方披露了3个Active Directory身份服务漏洞，编号分别为：CVE-2026-69982、CVE-2026-96252、CVE-2026-108131。漏洞属于安全特性绕过类缺陷，远程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622850&amp;idx=3&amp;sn=5498ef6c424c4a8d16fd441ddb086d1a&amp;chksm=b0ddf66a1af307409a22dc65aad9c21f02490af773657e266c2bd897e81dec0ca86981c21e1e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 17:59:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 从字节到神经元： 一名二进制安全研究员的 AI 安全研究]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K03vSl8c6UZWNztKekWrORqpXDAwBS97K8yXqgMiboyQIIPNib3BuJnNsh1gRQgMxGBfdicAVLnBKYibaHoRjtywv7Hibmzvv0pkLME/640?wxtype=jpeg&amp;wxfrom=0"/><p>从字节到神经元：一名二进制安全研究员的 AI 安全研究随着大语言模型的本地部署越来越普遍，用户开始在自己的电脑上组合模型权重、推理框架和硬件，让模型实际运行起来。我也希望借此逐步建立对 Securit</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=1&amp;sn=8574a25e4806646f0a9007eb33a8536b&amp;chksm=b038bf8406b5571870e4c49e188e3316966ee1b1344af0ab4f2145146b5d61d187c4a6cb0613&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621952&amp;idx=2&amp;sn=8619d1e57ff56692441a3d1694363190&amp;chksm=b0007a8e12bb119fe8d7960ec139413f3302e3a9e9bca83089621b5d0162ba71c11097c2cfe5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 26 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026中秋致谢 | 月启新程，共守安澜（留言赠礼）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K107fzic8xpptiaNFrlibWHJE2I6RmdSP01ibxwLORjRCcK83W6w9nTSEVRoVqmIO9d5aNyREJEGgwIvO6DyRCeAIKKLumdavvLXt0/640?wxtype=jpeg&amp;wxfrom=0"/><p>秋深见笃，月照同行。岁月流转，又逢中秋。来自各方合作伙伴的佳节心意陆续抵达，感谢每一份相知与信任。值此良宵，看雪祝愿所有同行伙伴，中秋顺遂，万事安和。一起来看看大家的满满心意吧～*以下排名不分先后，首</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621951&amp;idx=1&amp;sn=2368a58281a7df9e2ba6ee31adfed3a1&amp;chksm=b04dc886021dc67bab8eed6fbfe1c9ca1489d75d0556a80957e283fd4fd3cba1af9cc9f0af0a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[纯静态分析DumpSDK所需的加密数据，动态定位加密UWorld、GameInstance、Object的未加密地址]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2UmJ9BtQaydMEoib46QfCezonoAdK3ia3iaRPveEPrPRYNXz5LFcd4TjicIAVugXnnf4f59ozFzmAOcZlrtFiafewOK29wibjGONO7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>0、如何Dump因为游戏采用了一种执行时解密技术，相关技术介绍文章：击败 Theia 反篡改完整脱壳方案（Arc Raiders PioneerGame.exe），当然内容仅提供思路，如果照搬原文的解</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621951&amp;idx=2&amp;sn=e59a7f58900fb55d57442f76aea9a62e&amp;chksm=b0ef93bd3715c4714c6ca86c61137c9ec0d87de87f527637c8d201859b62ee2a67b039707330&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[议题公布！SDC2026 议程上线，解锁人机时代攻防新篇]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2aEY9nchIJrJiaxD48XpLn9FcPHWjeCiaaJrOMePh8EgAE79Xjg6tibcaHegdfjCery98NAgGx33MSc8O1vn2Ania9ZnBX7RPF5rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026人机共智·重构攻防当大模型深度融入攻防体系，安全边界正在被重新定义。第十届安全开发者峰会（SDC2026）以「人机共智・重构攻防」为主题，汇聚行业顶尖研究者与一线实战专家，围绕 AI 安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458621752&amp;idx=1&amp;sn=a441196ba1fecde164b052739091d462&amp;chksm=b070c31a73ab80f444ea04989e03e1a95c9c731ee7f16218852f9e8bff5b5020489126e0fe73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

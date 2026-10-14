@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 生成的代码，怎么才能进得了工程体系？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgwkoQUJzEdmK2J7VsHuYrSygMyOlD9oUiajrPtMMBpyOEt2sTwPxica94hdI8u8ny1ZtZOicibO9ktU72Z3khjgIWmtB5icnxISibibs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦 AI 编程工具的竞争，在过去一年里换了个赛道。2025 年上半年，话题还集中在"能不能生成"——模型能不能写出可编译的代码，能不能一次跑通一个完整功能。到 2025 年下半年，Curs</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295116&amp;idx=1&amp;sn=c753111c9e79df92487ba754f81ff9ad&amp;chksm=bcc0d5ba5a47ed09382461a3c2a3053f46fbc510750592d8705f4caad43025015be2f7b8006e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[代码不再稀缺之后，软件工程还剩下什么？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjRPyD8t9zB7icyBOb2mcUFHkw2U3vx21VIEvOsnvDYFDteziaUtG9N38wtd6zrbMBeAvo3ibaeOe3kCvVdWxNCHYQp3t8QotF11k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kitty编辑 | 宇琪过去几十年，软件工程师最核心的工作之一，就是把需求变成代码。但过去两年，AI Coding 正在快速改变这件事情。从最早的代码补全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295116&amp;idx=2&amp;sn=12d3bdc472269e75e2ea2a545c8ded59&amp;chksm=bcd427e27f16c638235f6d508d5c4a639854bfef8156e0fc965a142327ff6f9beaedac409ed4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[百 PB 级智驾数据存储架构演进]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhiakCibgjSgSNV2vicUAsgn4JDqCyMaRLgS0bpFCpiayd3Xm7dAZLibjHWfKwBoBoiczYFzn4HZ4aPhibuzfJoFt7mYibKLAicOxoaT2KM/640?wxtype=jpeg&amp;wxfrom=0"/><p>卓驭起步于 2016 年，致力于成为国际一流的移动物理 AI 公司。依托独有的原生多模态基础模型和生成式 AI 技术，打造可高效适配多场景的统一移动智能技术底座，不仅为车企提供开放、可定制、量产导向的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295116&amp;idx=3&amp;sn=94d55e70d3362f1d10c13092e198a84a&amp;chksm=bc77ad7fe91d860ce7bc24b8ceef08d643be1b94eae23bc5a4d6f44d0e2b15b60875d1409825&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 16:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj5CXISSrBuwMBHI2PP0ibCsEiaic8K9BShaCaEZbfcUgJCBR3vnfbPadicIdRoUkKwp5I5MCoRe71Sp4DFia5BPDbny0IldEH905zo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 明知山 Uber 重新设计了 M3DB 的分片放置策略，引入了固定大小的子集群，以此来限制节点故障、运维和集群扩容带来的影响。这一改动解决了旧放置模型的一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295116&amp;idx=4&amp;sn=e64b7d473a73c2a5d38a6bed07d1070b&amp;chksm=bc8ffb1102964f20ca1cdc819ec64adb9dd824e5c27dc578c90486647b9c797b35b0610b6736&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 16:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNh7SPtdW6v2TZoOiaX85flB1O6EcBp7sUEFyyiamVEicYgkicCmtaIVPP9DkXPfdWTwC7CDDCyhbNqAgTCOKwJy9yDUFYAGH2E3Wvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪策划｜TinaPi 迎来了今年规模最大的一次更新：项目升级到 1.0，Code Mode 与原生 MCP 正式进入稳定版；同一天，团队还推出了一套全新的 Harness——Pi Durabl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=1&amp;sn=76d7f47b51d974e46567e9b7c7631640&amp;chksm=bcbd3f16bc828fc4fdd65e305f3f4ede9d20be2068c19ba1f0fa3c734617685f6e8bec197414&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgwmCAfp8vLJiaHicXzficzic1GZWnkzcdbkpcajic7BT48SqXJA6icuE9JHpYE2qTGdTyibZWd8NYWTAAWAicUzxobTCshrXdiaJDCzVLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 林绮蓓 编辑 | 蔡芳芳 9 月 20 日，千问开源 Qwen-Image-2.1，官方将其定义为“一个兼顾生成效果、推理效率与使用成本的图像模型”。具体来说，这是一款统一图像生成与编辑</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294264&amp;idx=3&amp;sn=4b48b02ee6dbb6a9558119a1d5bddfbf&amp;chksm=bc174244acea9c792842dd092d321f8e5bff3a45e945b2b631370bce1a769091da4c9c426ca0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 29 Sep 2026 18:13:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjpLibc9oN6yDo3YvA75WCwnqM06VSIhnLRoPvCotMXsRHB4Htjic03R3YkFicBv0Z1ZZAczM2TLfrBeA3rxYSyxwsMyZ6vwNBmkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 平川 Netflix 重新设计了其工作流编排引擎 Conductor，以应对公司范围内日益扩大的业务规模。目前，Conductor 支持着 150 个应用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294264&amp;idx=4&amp;sn=c6ee517f839ca7bc8306351a8d0e947d&amp;chksm=bc030791ffcf0d8076462fea7f83073244cf30331d5bdf0a5766186d3fa7f7d7a4dc19b6a99c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Sep 2026 18:13:54 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源之后再补偿，智谱 ZCode 能否重建信任？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaxdnxPIgOBHFEgEm0wIEXSdlAUFxuKJq61E6VIDGnsjGovmcmiaqJic5DJ6t691J3y8IE37cKCecXicdUWpm3ibgicgDBAk5ib9S6QM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 芳芳 9 月 28 日，智谱在社区公布了 ZCode 数据上传争议事件的补偿方案：付费用户以及一个月内回归的付费用户，将获赠 4 张周额度重置卡和 4 张 5 小时额度重置卡，权益有效期一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294170&amp;idx=1&amp;sn=19b4e2bcc39d13f48f2d11e319d1aef0&amp;chksm=bcc07b97a9edac0b496ede2200f249d24ed9dcb4ea8347fcd036aeda85a2c4d2dcfb0334320e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 22:33:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhXuibg8ntesIVPicJ5Ar5CfHSl0PhlqJoN8gYoDfNQUm1VfC54Cs8ibzVE6hjbEjF1UQs4vdjTxAJ6FaaSZOKAl5fWUyNYG8orLw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会 译者 | 高玉娴 近日，阿里巴巴开源的 AI 代码审查工具 Open Code Review（GitHub: alibaba/open-code-review）连</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294170&amp;idx=2&amp;sn=94ffbd0daf4ec46240623e7c976b9172&amp;chksm=bc1194387ebafa24537bcfd370bad177974216dceccb1b5858e44e2fc8df5ce8d299f4217600&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 22:33:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[被热议的 RSI，39 年前就已诞生？现代人工智能之父复盘 RSI 的漫长探索]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhUqkHekCjWh23iaOpHOGxce2b9BGyD0dQIC4jYMniaWX5SNBouZBVT9madLVyFibpPghHPYPHmAJcjH6Demq08V6sYjvHjn9K6V0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Jürgen Schmidhuber 翻译 | 林绮蓓 最近一段时间，RSI（递归自我改进）成为人工智能领域的热门话题。近期，OpenAI 首次通过内部量化数据，系统披露 RSI 项目的实际</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294170&amp;idx=3&amp;sn=b516ac648a3236ce1938f22e6c8a761f&amp;chksm=bc3bb3d88778f79aece9083489250873be5c3dd23c1fbd6e5fe651053465f08fd5e135a97bac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 22:33:19 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一把普通账号钥匙，打开AI网关的大门：LiteLLM两大高危漏洞深度解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9NXd0vAjUGgXRb9bVa05rRKic8iavrQQTPFIStAvkapiaPGvdhh0beicv4ib40fu45m2UtukF3FxbZDSAZ65btfuibPFljtbIib9RXJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞分析 · AI 网关安全 · LLM Gateway一把普通账号钥匙，打开 AI 网关的大门LiteLLM两大高危漏洞深度解析Check Point Research 披露最流行的开源 LLM 网</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520934&amp;idx=1&amp;sn=bb8b0ad66415622209dc02c9845737bb&amp;chksm=ebdf6eda06db33c4921a736923dffaf25e2abfd0cddad8f328895aaa646523c4dae3e1bf376d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 15 Oct 2026 15:09:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 蠕虫预警：15 台 55 美元电视盒子，跑起 260 亿参数模型]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8ZIZ8yiaJAX9iaj28HUL1SYnxBtibEDtr0IXQjWErwnxGv4ZqF9biaXNrxib7ia7x1JicPS5Y4dPfy6RRQuiaQvkBC8hsaibNKIhdic8uGE/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报解读 · AI 安全 · 自主复制AI 蠕虫预警15 台 55 美元电视盒子，跑起 260 亿参数模型Anthropic 前沿红队实验证明：小型 AI 模型距“在商用 IoT 设备上自我复制”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520896&amp;idx=1&amp;sn=4f25137305c30f83f32b95c65f31a6e4&amp;chksm=eb19da5e9edc969fb2b6b937951a96c702041bcd36b782c1b88746227e3e2ed21231ad5c57f6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Ryrd61liaXV06p31BLptTyQ4DLWVozKHCqhLWuuC8z2Rc8iaM7ZSx4YhQmjJURPlAJZ4xOLKNs0ET4iaGS0PibN8zD2iadmyIMOwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个负责保护全美关键基础设施的顶级网络安全机构，自己的承包商把844MB的内部凭据扔到了公共GitHub仓库上，公开放了将近六个月，期间自动告警发了9次无人处理，最后还是靠外部记者才捅到CISA面前。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519492&amp;idx=1&amp;sn=070fa63609f878e463faeaaac6827bdf&amp;chksm=eb85ff577fb90f43f8ee96ed8798a7469d7d4b4d0298fdbbc4341e4a4f2ce86e90686189bae9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 14 Jul 2026 11:12:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[UTG-Q-1000近期仿冒Zinst等软件分发银狐木马新变种]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqib0aWHs9icZxhNYBLskoRuddReKDC0LRibGThtZZd9ZjGDmfH9suXKrAVjUbbUeAduLRreRfmfHzzbpZcwAibHTUtQtM0coUb5rlU/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件背景近期奇安信威胁情报中心通过云沙箱捕获到多个UTG-Q-1000黑产团伙的新银狐木马变种，这批新变种从2026年6月初起开始投递使用，根据奇安信威胁情报中心的检测，该系列变种近期呈高密度、持续性</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519487&amp;idx=1&amp;sn=8ee1ee2f8c5a0473d25fa469490e27ab&amp;chksm=eb78def672fa938444633ce90d70608b3bbe9a639917742a458c1ebf0dce61c24b87a859395d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 10:31:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
