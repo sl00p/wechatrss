@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[3 个月用Harness重构90万行旧项目：实战经验与踩坑总结]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906tFDVS2WhhZEFiaPSxznjiaB0jrpII0FQaIQzFvLhnth4zGNbgX7du27JGuNx8k7tQ3iaORCTeUF7msHVuZXjWiaqHyYdIicyWHYTk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：komahu如今程序员越来越离不开AI Coding。当AI有足够能力很快把代码实现写出来，而开发人员在此过程中应该干什么？我们在开发过程中遇到的几个问题：这个需求到底要做成什么样？做完效果如何</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804394&amp;idx=1&amp;sn=e5c46efb358d97b9f327f49175a8da53&amp;chksm=bfa2653ce2778b9098f0e6fdd327b27583c0018293322ae341aa4145412e26da16e23c6525f2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905tq5ncvs29eiaibRicdicuYQicnOSttQibXiaThVEuoOJpic4jiacTICibico5ME6FMR5MeiciaDYowY1ChJxCl14yWZ0ibdDdfYesyPicFrPIpE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：stevenzuo引言：10 月上旬一周内，GitHub 上一个叫 REA 的项目 Star 从 1.5 万冲到 23 万+，凭什么这么火？REA 全称 Reverse Engineer Any</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804299&amp;idx=1&amp;sn=e1808d10ae74ddad4c3b38a9e77d2c54&amp;chksm=bf28ab122cf4699508dca4a7e8572eb394535b9a113e2910474a589c4c6032582dc5a57ee390&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905w9BuUXrAicj6gpIyNy7sGAibAIkQwO8LXQ9xibZP5PcP1nJicrjWPTQpYuX7U5FQp93p2G5loL9rbKhVP6iaPJhxeSI0nMOPB9yf4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：混元AI Infra推理团队本文将从算子优化与融合、并行策略、多级缓存、MTP和异步调度优化、量化与稀疏五大维度，逐一剖析各项技术的设计思路、核心算法与实测收益，全面揭示 Hy3 preview</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802370&amp;idx=1&amp;sn=933bed02fa58d278084e12946d3fa8ce&amp;chksm=bf68c3df9a0f8f565f1ee5581601c729624c2f36fcb2e86a5c94ff2173a436c86b30a8faf5b9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工当年高考都考了多少分？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907U0RGibEEmngoefzCE98NOTribmCqyhHibpTNyaMZoiaCzVxOldPBPA74cmLD5rRQscUycfFz6xupoaSe3ACnGbw7k5jYS9yFd5RY/640?wxtype=jpeg&amp;wxfrom=0"/><p>快问快答视频速览！</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802369&amp;idx=1&amp;sn=15cfdd4bef27d2bc08bf0af8d44eac5b&amp;chksm=bffc89c5714fdc28de4ecbaf52257133879fbbd1ee05c789f4d3319f79a3a31cedccd15b8424&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 25 Jun 2026 19:35:02 +0800</pubDate>
     </item>
   </channel>
 </rss>

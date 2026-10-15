@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.10.09~10.15)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicDibWWxgpZ3PnONHlpQoicTA2hpFHibISALDicqjq8OrPFyyTrebGfF2DLL0hRw46aKVe3uexTcAP0envHBDh7BaS1DrFS5a8bMyI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.10.09~10.15攻击团伙情报Kimsuky 的 GitPower 间谍行动针对乌克兰疑似 TraderTraitor 利用植入木马的 Terraform Provider 投放跨平台恶</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520935&amp;idx=1&amp;sn=8c4ebf54ba2432f8de1857bd8a6971f4&amp;chksm=ebc89e4a4c86440faac8b232d25769d45a3b41570724a190edf3ae38f800a4e3601e018bf60c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 14:33:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一把普通账号钥匙，打开AI网关的大门：LiteLLM两大高危漏洞深度解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9NXd0vAjUGgXRb9bVa05rRKic8iavrQQTPFIStAvkapiaPGvdhh0beicv4ib40fu45m2UtukF3FxbZDSAZ65btfuibPFljtbIib9RXJk/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞分析 · AI 网关安全 · LLM Gateway一把普通账号钥匙，打开 AI 网关的大门LiteLLM两大高危漏洞深度解析Check Point Research 披露最流行的开源 LLM 网</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520934&amp;idx=1&amp;sn=bb8b0ad66415622209dc02c9845737bb&amp;chksm=ebdf6eda06db33c4921a736923dffaf25e2abfd0cddad8f328895aaa646523c4dae3e1bf376d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9UzGsm3YezJD16Jdjv3bCdUoC12QHaJKoAEFSExicKn7vo2bGQS7KicmbfpGKQ5nkyFuIuniavfMvCHoHIkI20mSBSSaibQ654UMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份来自独立研究者的现场观察过去一年追踪了上百个初始访问（Initial Access）事件后，发现一个让人不安的趋势：传统的钓鱼邮件附件不再是攻击者最爱的敲门砖。取而代之的，是一种几乎不需要任何技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519497&amp;idx=1&amp;sn=b44b552e5cf0d52bead00e382aaaf56e&amp;chksm=eb5edac0b5645e4bde724d318d132ad8607eda2971c4293c8c9c45128daaa675d25e4fe32547&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 11:55:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[连自己的GitHub都管不好：CISA的844MB凭据泄露，给全行业上了一堂公开课]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9Ryrd61liaXV06p31BLptTyQ4DLWVozKHCqhLWuuC8z2Rc8iaM7ZSx4YhQmjJURPlAJZ4xOLKNs0ET4iaGS0PibN8zD2iadmyIMOwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个负责保护全美关键基础设施的顶级网络安全机构，自己的承包商把844MB的内部凭据扔到了公共GitHub仓库上，公开放了将近六个月，期间自动告警发了9次无人处理，最后还是靠外部记者才捅到CISA面前。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519492&amp;idx=1&amp;sn=070fa63609f878e463faeaaac6827bdf&amp;chksm=eb85ff577fb90f43f8ee96ed8798a7469d7d4b4d0298fdbbc4341e4a4f2ce86e90686189bae9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 11:12:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

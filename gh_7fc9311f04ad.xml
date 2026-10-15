@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[千问 AI Arena × 沙利文｜联合发布二期任务，聚焦“消费决策助手 Agent”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/na4ic9jGCdobjibhvH8IoX5qc0PFxMoBicXMGusjibzkmum84HPibicpL9pLKoJ836BNLcVClg3btT3ib7W1dFBMP797jF74P6vib4buMVUgLVLrEKI/640?wxtype=jpeg&amp;wxfrom=0"/><p>千问 AI Arena 第二期正式上线：打造你的智能选购顾问千问 AI Arena 是由千问 AI 平台推出的一个围绕真实行业需求，面向行业专家和开发者提供 Agent 开发、评测与展示机会的平台，致</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562482&amp;idx=1&amp;sn=97225f4837d67d92f49753bec0744a52&amp;chksm=e83aec3c793a960c74cb132f7e150efc4450278afed9585995ec72dcab2253f9927ffa4c42f5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 11:33:52 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen-Image-2.1 Pro、Turbo API 正式上线，让图像生成与编辑走进你的应用]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xK2d3XVU06yUp1UnRsuDSHs5u4KfTMOibcrvBbv0qnwlTZJuQHEAzUIPBg015iavz66Gq6skQVvkUjbGQJHPr1S0KU2hPicupc2U/640?wxtype=jpeg&amp;wxfrom=0"/><p>从一句描述生成一张图片，再通过自然语言继续修改，让创意成为可以反复打磨的作品。Qwen-Image-2.1 Pro 和 Turbo API 现已正式上线千问AI平台。 开发者可以通过 API 将图像生</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562479&amp;idx=1&amp;sn=98a5d92db5270a9cabb048cb8a99f0e0&amp;chksm=e80bcd528fee7898781f3092f14c25660246aabe4294af9cd1c8e79682ed95bb6816d2c2ca72&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wABibWs648qezQhuntUNB12XWOa4iabcDqOewteK1RO9puPEOickklyEFU8gGayVSnLpsYvrW9Fqv9nr4juhk0abiaYeyIIialeGkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景近几年，随着基模能力的快速升级与迭代，Agent 领域迎来了爆发式的增长。特别是近期，像 Cloud Code、Co</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560220&amp;idx=1&amp;sn=72a83c5317c93a91f78daf6b203d308d&amp;chksm=e85d76db484664ed86605f0b27cd220bd255410a11bfd54b42797c1421294e48c338fce14967&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wDYYTaaia9CGMrad0GTItRmezib90ICl5ALVHQbpiczqb6Be7pphhxB2J7iacHHHQVpvibuC6xIWRicTXlYJly8WnyMAc5bcLia22ibF0/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 体验差距到底在哪在依赖比较轻的项目里（比如前端、CLI 工具、纯本地的 Python 脚本），AI Coding 的体验是这样的：编辑代码 → 本地运行 → 测试验证 → AI 读取结果 → 自</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560145&amp;idx=1&amp;sn=ae14d8af22600c85a92201ef28517016&amp;chksm=e87ff453619eff7114f9475d933bbe11c98c3496d069269378dbc3e43d00a11b5720bf9dce3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 21 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

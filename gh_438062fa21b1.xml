@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[清华×阿里 AI Native人才培养计划暨格造社启动日活动举行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5uwjBAjQV9bSRu3eiaibmgpbHNTBd4yne4A3hwRWdSA3AYt0jKKddA6sajWomeSyLetickEqHmc6D5Xnezib2yYfKRrt0OVCnoPE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>10月15日，清华×阿里 AI Native人才培养计划暨格造社启动日活动在清华大学蒙民伟音乐厅举行。本次活动由清华大学无穹书院与阿里巴巴携手开展，以“从好奇到创造”为主题，通过首批课题发布、格造社启</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512125&amp;idx=1&amp;sn=a67f42a3bf1bf5443e8558b6bd1846c7&amp;chksm=ce861165bc68ffcab177a931c2ab302793d52f66ca12661fbb270e0603c723e2fa975b29a306&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 16 Oct 2026 13:04:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[手把手带工程同学从零实现一个完整的 LLM（CS336）——Transformer 篇]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4GMIZ1oibQcWhw2v2diaTCd6lIFSibiaQojsyTYxYIUuHBzicqMo91u4CQKLDLiboJrlsOYn7ea3jxoATbWY69vp9V9v5KBrRib8fe2A/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 68 篇文章（ 本文阅读时间：约 30 分钟 ）01前言最近我在学习 CS336「Language Modeling from Scratch」，是斯坦福大学的大语言模型构建课程。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512119&amp;idx=1&amp;sn=a4ac67dac7423d561fae8beb1cb626e4&amp;chksm=ce0183b1868ca5446127ef18eccf754cb1a2b184881df2d0052a632578a45dc6437f8a3cdabb&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5KzfdibZicd9TkAywHOoDgiafdtgO4jSy1WA8bLYFlicaYTGZuNPxDolhNO0YfAssOvkQvTD0OIRhN36KpX8SpKpAiaA6uV28de4s4/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第16篇文章（ 本文阅读时间：约20分钟 ）前言近年来，基于Diffusion Transformer（DiT）的视觉生成模型几乎每一个关键部件都被重新审视过：tokenizer、at</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509566&amp;idx=1&amp;sn=ace75be905d15523692f57dcd02142a4&amp;chksm=ce164165c8b28be8d0b2e3f6d182d412dacc0d03e7f0ff2822be5179702baa0d5ead92d11afb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 26 May 2026 18:50:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Codex 的 /goal 为什么能让 Agent 稳定做长任务？本质就是一张状态表]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4eibNnYGRpGMQn2m7mniaYrywagISeDl6wuhbsgedXj9kvx0fTiaIm5NeD7nfLgKKIIngx21gvCI6eU92tibMgmMJK532VDyUabicY/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第16篇文章（ 本文阅读时间：15分钟 ）前言最近在看 Codex 里 /goal 的实现，越看越觉得这个功能被低估了。很多人一聊起 Agent 长任务，就会说：让它自己规划、自己执行</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509534&amp;idx=1&amp;sn=ce44055bdd33016cb7de0c200b36a8fc&amp;chksm=cea3df3ea5b15e0bfbc58313e3a8ed438c7ea9a33de64950c52f2bf4aa0cfbc4b581302afdff&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 23 May 2026 18:28:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
