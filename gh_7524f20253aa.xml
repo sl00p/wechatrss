@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客利用Codex与DeepSeek发起攻击，全球440台PaperCut服务器遭入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0zkOdyOwx3z1hVr0wrRiaPiaoN2Xu5qjwfmnkmdXPzcuNFI3uqyIZRtAc2E6IiceeNTkO9IjZm1CtqUYztyxicPE4UApBcs8iatrLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全监测机构GreyNoise最新发布的报告显示，黑客利用数百个AI Agent，对暴露在公网的PaperCut NG/MF打印管理服务器发起大规模攻击。目前，至少440台服务器遭入侵，涉及全球4</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=1&amp;sn=d77f4721bae4ab99397417570be69c4f&amp;chksm=bc7c0d7387bc7c62318a7266391b6401bfe7c70d7adf1579eb1b9968705515a94f3b95e908a5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenBSD 37年历史内核漏洞可提权至root，PoC已发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX07z3cFvsnArV9lhicGkD74sicB5mPksfFrarV6bGdXkALzJYJia5liaGict5j3AHg6oPUhuyq8U5DX6t2OvicJsIe6Xw43bIDRLuCjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款漏洞利用PoC可通过串联两个内核漏洞，在OpenBSD系统上获取root权限，其中核心漏洞的历史可追溯至37年前的BSD原始源代码。安全公司Calif的研究人员表示，该漏洞之所以长期未被修复，是因</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=2&amp;sn=23f8b93cfd061160e8aba3844107efa7&amp;chksm=bc523e4ba2c5042aa22b035f1589eac705ccbee9cc2f0d32f5d2d30917fe3828677f4c867282&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[前沿AI大模型仅用16分钟攻入工控系统；Anthropic预警AI自我复制风险 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚙️ 前沿 AI 大模型仅用 16 分钟攻入工控系统，直抵 OT 控制区📺 Anthropic 预警：小型 AI 模型数月内可在智能电视等 IoT 设备自我复制，无需依托数据中心💰 AI 低质报告冲击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=3&amp;sn=78835ab8adb72be4f106f6bea959ec00&amp;chksm=bc010b3d0064740b130e2ac00038756b9ba75c2c17ef2e8ad7523c8d65944c07ce4b6fc207dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[地下论坛售卖黑客AI工具，多采用被盗Key和开源模型越狱]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX284OkdJ2ouk2hKqJNGVBQicwaYUsSMXn0OIMlGFuSpgbO8P3uic0yLyrNVNhd4VcCHjTsGHcMosZM7XTYwbVSXe8Zku89ZUBfiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>某封闭式网络犯罪论坛近期出现一款自主黑客工具，卖家直接使用窃取的OpenAI、Anthropic和Google API密钥为工具提供模型能力。买家只需将盗取的密钥填入工具，就能利用这些密钥驱动自动化扫</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348992&amp;idx=1&amp;sn=d3f36bf2e280add5f5e212a46ab456c7&amp;chksm=bc00f4bbee55469cf54437175509f4f34ffd738fdaac12711aac594b11aaf7096ac8275a7c02&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2LYC1XpROnjSUyPPFZLPkSNZUqZPEjNnt1h0JpnpD7QmHuDPLfUnMS2rNe93RmvGgklqTEFmj9t7QFAgd9UXUlqzXzgPHQEQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Jamf例行扫描发现恶意样本Jamf Threat Labs在VirusTotal例行扫描时，发现了隐藏在伪装Zoom客户端内的CloudSyncD恶意软件。研究人员最早在9月15日监测到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348229&amp;idx=3&amp;sn=291d2734ee7a9599c1fa88911232fd93&amp;chksm=bc16086a47bcf35689049471ed31962b442ce1e757fcf4652e366593a6fd2249b9f67e48707f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 04 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Fortinet邮件网关9.8分0Day遭在野利用，未授权即可写入文件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3HY9XfP4wU76fAs6JFwwOygl6Jrro1p8cYShrPK838bA121dTl0e40NHKkibGDB1OtH6MsK1lnTlgpoekH2dvcziauHhSRxZ094/640?wxtype=jpeg&amp;wxfrom=0"/><p>Fortinet旗下企业邮件安全网关FortiMail近日被曝存在严重安全漏洞CVE-2026-104286，CVSS评分高达9.8。攻击者无需身份认证，即可通过特制HTTP或HTTPS请求向设备底层</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=1&amp;sn=d7faa1a3e8ea8af24a6554e18baf7029&amp;chksm=bc3ff04ac6dbf72bbcde08224c9d9d90d63913078d1147e8fcc79c872b5d41f46ae220d3faae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitLab紧急修复AI Gateway 9.9分漏洞，可致服务器命令执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2dHBPhYY8eU2WQSQ8hGLBB4lia2abCIUzIsh1Rtiajh6wQ9eopXV4yEMib91nvgHraGGibPpmlibFInRgyVeab3L0tn8fia7zS1aUDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitLab已针对AI Gateway中的一处严重漏洞发布紧急安全更新，攻击者通过身份认证后可利用该漏洞远程执行代码。该漏洞编号为CVE-2026-90970，CVSS评分为9.9，主要影响自托管部署</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=2&amp;sn=0c705e7001950cf13d9229bcd46dac59&amp;chksm=bc77973950ae2862e84171699cb7117086b7a7ca2cc51fa377a116096c9ddbcecafce392cff2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果iCloud邮件曾可任意伪造，三重安全校验均被绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1ornZGg4LZeeKPWKvP1oLp9oEEjvibVfcDF6EGPLCgAZKpPebTMsO90P1LmLsiaUTUlCgYBMu2RDgsY2ibKfZwLicjunkiantk9QjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Timo Longin联合SEC Consult漏洞实验室，披露了苹果iCloud邮件基础设施存在的两个邮件伪造漏洞。攻击者仅需拥有一个免费iCloud账号，就能发送发件人显示为任意@icl</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348172&amp;idx=3&amp;sn=d8d689c91aa89e8b948880f8639777bd&amp;chksm=bc41cce1313f3ea443db0dc251a919966a41885a377eab21b04cb63e7c1695c76eff49a35ffc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[干掉 Bun 和 Tauri，旧插件全部报废！OpenCode 2.0 正式发布：一次“重大改造”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjs0UA5SE5BlDIb6OVic115Ql2icicYjQnMGvlUDA0ySeJ7icDpZxRcS7ia7IlvgTCWI8Ddt8FwcHR0NTznNYIO4UiaQC2HgibT1CTQlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 斩获 21.4 万星的开源编程 Agent 领跑者 OpenCode 正式发布 2.0 稳定版，全面转向 Node.js/Electron 架构并推出多项核心功能。然而，此次升级导</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=1&amp;sn=7ee15d8d6e2119e53b35255c35cf995c&amp;chksm=bc076b7b0acb509562789df94d98b62aee484b98b415c2eb2d6e10947df992c9e4f7e216e946&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用 AI 代码智能体优化软件架构的五种方法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjtWwbm9w4ibXqqHTWfzuYHlJgHpEE2E2PYlkndK1UxKh0qr01M4ljx9sJpj7Tm8IpTkBQ4hqQeggOMPXEyZTfibFZPJWM33XTto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Pierre Pureur, Kurt Bittner, Todd Miller 译者 | 明知山 自动代码生成并不是一个新概念，但 AI 编码智能体的编码速度远超以往的任何工具。这种速度带</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=2&amp;sn=3bb12b13f32ebdeddc3d8fbc617b525c&amp;chksm=bc6880c35f526f51bcfb5554ca63f9f9798c1c6531a640a6be3d0bc01e566f0275bbd487dbd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXCKPXj94XIa5cOIJOfoiaiaGLWhYxK74g34NmgB6Nh5E92E6bgncAibgsnibBm0gJfOVCBdzDiay0JLmDCOJu2ib8Ihbeia0lVOLkHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Steef-Jan Wiggers 译者 ｜ 田橙 CodeScene 发布了一项 案例研究：编码智能体在三周内重构了一个包含 30 万行 C 代码的代码库，token 成本约为 4000</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=3&amp;sn=38b16d3e03f2113fbe9fd53b43505f55&amp;chksm=bcf5e0b161a0a90b9d15cfc97806a5f055cce8b1143253f965a656475e339c784bae691a9cdb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cursor 使用基于 S3 的 WAL，将 Git 存储扩展到每秒 300 多次 Push]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia8gjNQiarjqbcfBOS0UpAreWcUJHRwGSxzFzZlF6rOLGibicQbnOT6ictQ5vuYeK8FeXx2Jnfez4FmcWJZnaOs3ibpJAQ1tHwjhrHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 马可薇 Cursor 开发的 Git 存储架构 Continuity，可以用 S3 上的预写日志（Write-Ahead Log，WAL）作为</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=4&amp;sn=5e82691ef9b336e27300d48039eaee07&amp;chksm=bc736b8f6b75fc7c731c0dd6f90366022843f0af2a16f92cfe48082cc01183f22d58d47a4ada&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Meta 发布 Muse Spark Open，号称全美最强开源模型，但编程基测输给智谱、Kimi]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjILZtqc6kqqTdMt1cCwXkgUobWEj17Ab5BQrQw2wAfolECuDIafBrdMiauQFibKlWPZKJA4MWY4F9rEZPdjSPxrv0SCCztSXU5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 Meta 将大型智能体模型带到了桌面设备上，但这次的“桌面”，需要两台高配置 Mac Studio。当地时间 10 月 15 日，Meta 宣布开放 Muse Spark Open 模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=1&amp;sn=4950ae783dc7ee419863243bb090b878&amp;chksm=bcd833e79ebc8e6d4a8be62a6e84bc7e11e1721142197e5441acc8652a6ffb1a13535de73348&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg5zN6BRiaFRKRgfkiaicyAicibvvvQ6tkAcJA2YfTsLNbvhEEmvXlBrjzjia2e3RfvrRXqkRmx7qhYuhstPrVAATIGqQ4NVgru3nAbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜StartLuxJev 为大模型领域带来了一条全新的技术思路，在决策效率与响应速度上展现出很强的潜力。我们十分欣赏该团队的创新，也高度认可这一技术方向。智能体真正执行任务时，每一步等待都会累积，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294387&amp;idx=2&amp;sn=9030fd2bd31a5497a05147cba914a098&amp;chksm=bce708b12e7e5fd1c35af13674eff118eddb3e36eafa4a425ca8c1c75a3756870bcd2ff93e12&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 02 Oct 2026 12:00:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiatSEafCziagM5VYXAF25l1hNGZ5qSAb7Cg1vLo0pdKI3sUcqMz12dO25nuNZYmGMRibJ17B10HoIbmYicHrteYRZYkib7zRLZvHVE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 刚刚，谷歌宣布推出新一代模型 Gemini 4 Argon，重点面向长流程软件工程、法律与金融等企业知识工作，以及网络安全防御。谷歌 CEO Sundar Pichai 在 x 上宣</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294363&amp;idx=1&amp;sn=836549714bcf8394007984a84a52e3cd&amp;chksm=bcb50b6d696776c9a90ac34fe21cef29282a7981a73cccd2c0088b3886a2da220dddd5098788&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 Oct 2026 05:53:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一个忘关的开关，与企业Agent的全栈技术账单]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhE4QN9S6miaibVDWpEiaicVeUnuu5e9PNsFPELlCGASD4qjoxVFUbRhuOfaXaq4f7pfAyMtJQjLvhaD3ho10nftVib0Yzjx0d2HhVo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 花田 云栖大会企业级 Agent 论坛开场前，极客邦科技创始人霍太稳接到一通电话。员工告诉他，上月上线的一个 AI 应用，原本预估 Token 费用约一万元，结算却花了三万。原因很简单：一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=1&amp;sn=4ae602e442b0886211edb1bcba525d57&amp;chksm=bcb913069a7e04402c7dd15c440caf9595e7e520fb191db598379a60bd0b19bea432bd8a5459&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaL6o4hcx9UyglYibgibEIar4Zmib9oXLE7VodGYBc7RH8SicbQwdMz6dzsmWxljT77ygRsR9UJPL1yB4mXVapk4JvueqO5NnvvYKM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 杨过 复杂 agent 任务在后台跑，对话在前台继续。实时模型与 Core Agent，开始按两种节奏配合，带来全新的交互体验。 AI 助手正在进入一种新的工作节奏：一边对话，一边调用工具办</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=2&amp;sn=a27ec193ba65fd966c3613af325d06f6&amp;chksm=bc5af785ccac8109c0681c64bdc177e086fd5155ec7116b885800a0dd28ff317dfaa4e1623ee&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人工智能时代的代码正在变为只写且可丢弃的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjCvxL9pnNJYlamghwPkCcR0DI6y9XPFSonCLW3PxIrfVbA5BAYUDibOL8N1ZExNbicW6dqzd8rGosVs0kL3fQH11tnibMfneG5NI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Ben Linders 译者 | 张卫滨 Phillip Mortimer 在 QCon London 的演讲“软件工程中的复杂性与创造力”上指出，人工智能（AI）使所有代码都趋向于“只写且</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294323&amp;idx=3&amp;sn=d085f57fa4d8e3452495d409cf5d0d16&amp;chksm=bce493e46f756b4da21735be51ef00987633a8f3bbcbf1959dd79a3d7c1b59d74896d09624af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 11:24:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

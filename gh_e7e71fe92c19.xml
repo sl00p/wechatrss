@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K240FiaO6iaawZbiaMeHcxia3JNUBzKen5gFT84ykicmAfNgMjMdQ51L6Jic98uZ0nqKZSXqBG6zkh0SVWzXIqDkVibyswRKuNicSuhmXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践大模型让软件层漏洞挖掘加速，但 IoT 设备的攻击面在物理层——串口、调试接口、总线、无线协议。Agent 能否像人类工程师一样接入这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=1&amp;sn=89006d52e87c01402146d6b270efaa9f&amp;chksm=b01ddc28b5c6e39049b44e44276d0d46d4be39e98214f8a0ed70cdbc7e0ad96b0d7b957f4156&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 17:59:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0lulrHotLJrwg2w2RkJOmxREB779bhJYC5eH667o6ljv8hPgdY3XcrNFPYqDhmjrao4Mx1xbiaicSAY0NlHicyS044Kq85icuprFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>适用读者:手里有一台 bootloader 回不去、想救回来的测试机的人;或者想把一个内核 exploit 移植到自己设备上的人。前置要求:会 adb,看得懂一点 C,愿意接受手机重启几十次。0. 事</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=2&amp;sn=36915887042b42ce81d9a8043bc026e4&amp;chksm=b08378771b32bb780feca8ebe405bc492e18cc19ddedc505095bd4bffb84d99990aea3252c5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 17 Oct 2026 17:59:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1CJZmSK9zqTFPQjcaAQSOnacdXunKpNpWFFbYprAqwWFUZl2g3dy8GQQSSlsiapZrOtHAm60BiakvicdkaukfqTHSgvlNzF5OozY/640?wxtype=jpeg&amp;wxfrom=0"/><p>ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程AI Agent已经能够阅读代码、调用工具并自主执行安全分析，但当目标从单一函数扩展到 Linux 内核、虚拟化系统、网络协议栈</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622868&amp;idx=1&amp;sn=93f5441a8bb0cfae0caf8d0832e1ef39&amp;chksm=b05704585d37a0ec85e4db58fdacb03b1f96dafbaf202a5c18d83b8a1e19b78ab4f99652d226&amp;scene=0&amp;xtrack=1#rd</link>
@@ -296,18 +308,6 @@
       <title><![CDATA[SDC2026议题预告 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Le5J2OArIgibu0NEb6Cnw2bILTVGMXOHeOicyfY0lSlvjOdiccNGaDmdIruMIYrUEtz6RuNTPP2QYFvJ4vEUMpRsNg4HVNcMxCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《从LLM到Agent：AI安全攻击面的过去、现在与未来》本议题以一线甲方攻防视角，复盘 AI 安全攻击面的迁移全程。过去，AI 只是一个 Web 应用，攻防沿用传统代码审计直取内网。现在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=1&amp;sn=043014a22d443e7be6abb991e8be078b&amp;chksm=b0302fc4c013608eed3e936e675ac9fa88fa6940ca6b4612eb07fa3bc9fa31079971a54589a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[r0re 自动逆向分析工具实战记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0mPdrmicncQcG1pUEcCtQ9gfvG2yyAZ5TafULoOVIBR40JXyAr062qkn9oMP9KItI0nVJH60QNMiaXicPM8fibvrysL76sw7FwicFM/640?wxtype=jpeg&amp;wxfrom=0"/><p>做 Android CTF 时经常碰到同一个问题：前面用 JADX、strings 很快能摸到入口，后面一碰到壳、动态注册 JNI、native 自解密或反调试，就开始在好几个终端和工具之间来回切。最</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=2&amp;sn=a06e997f8074ecf57710e15cffbca176&amp;chksm=b0de6942842d44a40219309bf67ba70301674fdfcb26067ed92aea19f54aacd77bde0277026d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Citrix NetScaler 2个0day RCE漏洞已被野外利用！CVSS 9.5]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3R5nzfIlibe4aGicxfGxLsCo51TkBPaQ4bmKXdiaUF2DtZJjYwTGdlgS4y4aEPMp5LyGIl9ZcLhU3iba39iaoBUUR5ia9FRiaHoRhQXo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Citrix官方已发布紧急安全更新，确认攻击者正在利用NetScaler ADC与NetScaler Gateway设备上的2个高危零日远程代码执行漏洞，未做防护的设备面临直接入侵风险。本次曝光的两个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=3&amp;sn=e8be9a1995e804652e998637e0b72b45&amp;chksm=b087123c9f4185919635cb08c8a8e2e131c916023175fd77af7e3036912b5cd138263abfb91e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
