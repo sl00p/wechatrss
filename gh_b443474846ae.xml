@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj7gdiabAxAfZ1ficZc0FnbZWicMErhkU4mWCfJE7fprLlQ5GKWAx62NepdX2fRwbVftWAhKNPwBCUSZkmb4ibjPBJhsRMuibMHNZqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译｜林绮蓓编辑｜蔡芳芳“我已经很久没好好看过代码了。”在 AI 编程工具越来越强的今天，这句话开始成为一些开发者描述自己工作方式的方式。需求交给 Agent，代码由它生成，测试和审查还可以交给其他</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=1&amp;sn=9ee14521ea3fad2bf13007ac2abec56f&amp;chksm=bc7e243a546c037df9b938c3a46884084f43354430955b137e812043969ec677bf61b029934e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude 写代码太快，Git 扛不住了：Anthropic 仅靠 7 人，5 个月重造版本控制系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjaict7ep07iaP6ecusfjOCy1NKQFz0CM0NhI3MjWf06Lk5hYJuBvaq9ia9UwBuGib9RtDwuuaia1hrgX23MffkXxddEVwVks7eicBr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 蔡芳芳 今年 5 月，Anthropic 平均每天合并约 2500 次代码修改。到了 9 月，这个数字已经超过 3 万次。短短四个月，代码合并量增长了 12 倍以上2026 年 1 月至 9</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=2&amp;sn=40c9df931feffe9a7deaa5375099ca4a&amp;chksm=bc841b5aa2a637839c2b032b835cf8346356293156f66f6f927f147b65843b4be157d9cbed32&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Claude开始自己写程序管理Agent了：Anthropic公开新一代多Agent编排架构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjZzaLdZsJLib14IwCxsl3biau83qaTaaelR3y2vvg3CRLr0Q4W1G8rJibhfp4Jd9fQIYxgZ5ZcQPnIZ1icQLEMmgUB8VjUlMl98Q8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 林绮蓓编辑 | 蔡芳芳在多 Agent 系统中，任务可以分给不同的 Agent 并行完成，但任务拆分之后，谁负责协调执行、传递结果，以及决定下一步该调用哪个 Agent，仍然需要一套编排机制</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=3&amp;sn=71768c99cf32c56d0371c9ef63f896b7&amp;chksm=bc73c75281ed84c8e9b6ec7825012893100a8471e4c5240496031374a226dfee85722e85ac5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 侦察团集结 QCon 上海：企业一号位，如何把 AI 从试点带进业务？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhXLnuLUJtTC4NCiaRD4ozxlsGOCUkY06s9MNstMJ9ibOJJpcq5ibMRcLc5kLL7dkkwyUZvf5Gg0MiaEWtuasoIcTx5lhricia969AeY/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 浪潮加速演进，企业 AI 转型需求持续升温。一方面，现有技术大会大多面向技术从业者，面向企业创始人、CEO 等最高决策者的深度交流场景仍相对稀缺；另一方面，身处 AI 时代的企业“一号位”，也面</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=4&amp;sn=1b8a2e0328fd6aac6beba87e8a81c9f6&amp;chksm=bc8f689712ac0e72ea60b9c133d6c95c509bc237e2d6dc716a033ceb57eb13b6a5437da4068f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[干掉 Bun 和 Tauri，旧插件全部报废！OpenCode 2.0 正式发布：一次“重大改造”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjs0UA5SE5BlDIb6OVic115Ql2icicYjQnMGvlUDA0ySeJ7icDpZxRcS7ia7IlvgTCWI8Ddt8FwcHR0NTznNYIO4UiaQC2HgibT1CTQlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 斩获 21.4 万星的开源编程 Agent 领跑者 OpenCode 正式发布 2.0 稳定版，全面转向 Node.js/Electron 架构并推出多项核心功能。然而，此次升级导</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=1&amp;sn=7ee15d8d6e2119e53b35255c35cf995c&amp;chksm=bc076b7b0acb509562789df94d98b62aee484b98b415c2eb2d6e10947df992c9e4f7e216e946&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjiaIx14zibLVb6LNSkBxT2LL9zZiclD6jaRhOd52FMEr3ddNahUpHdztHygr5zfxENW3Hewzia342FcSbr9BnjlAtibjeMk3KWEEug/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 OpenAI 的 ChatGPT 和 Codex 负责人 Tibo Sottiaux，昨晚在 X 上给团队立下了一份可以逐日检查的承诺：未来 28 天，每天要么推出一项对大多数 Codex</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294469&amp;idx=1&amp;sn=28cfb919a0d097c02710453694c19342&amp;chksm=bc7801c97310c3c837e3cca70f62c0a3508f367a5cd9e7e4b3c84505972afbf5700c2ec95b18&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 05 Oct 2026 12:52:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 刚把多 Agent 做成产品，o1 奠基人却说：1 万个 Agent 解出世界级难题，多 Agent 贡献不到 10%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhvDWM1B09g9NnNaAmalHlnUY435MWGnPia5J05Q7ZyicLglkTWsXMTA9ia1t0PGx1tNsZLMZVibkiaEKAwJJtF9OibXHRSC1oZeXZvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 林绮蓓策划 | Tina当地时间 9 月 29 日，OpenAI 在 DevDay 2026 上把多 Agent 从研究能力推到了产品主线，开始将可分工、可协作的“AI 团队”作为产品交付给</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294415&amp;idx=1&amp;sn=68e64d9e7b40319da59d86b0b95d7a4a&amp;chksm=bcf5872e63a27f58fc974553e1c0b79764b1c3ef935b621bac53be3a2c704e0e150c4cc7b9bb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 04 Oct 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhOkKNyXBbNhTUJSibibjTNJgkq6lXD63qodukVkGnCw4URBRhMj0nibAfIa1icibqmkmg4sia6iaAJ45txAZia2QnibSrZYBbLnia3bpc4c/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 ｜ 褚杏娟Anthropic 的两位关键技术负责人 Nicholas Marwell 和 Sholto Douglas 在播客中谈到的，在一个多月发布后的期间就已经切实发生。这期间，Anthro</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294414&amp;idx=1&amp;sn=7e7bc96a5a95445d01caa21e77fe7ffc&amp;chksm=bca414b215a17c47b55c55a543cd7a1628797f04a91323469eacfff976ae499690360122dd9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 03 Oct 2026 15:26:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球最大预印本平台arXiv全面限投！每人每月仅限2篇，AI论文暴增6倍压垮人工审核]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjQpp7tGgrt4xJh3wOtg27epbekVVxOnwesu9oGEkZX1OahQUVUoW3D48m2NPKRjQKw3oZS2CeY01ia5HGwyeMHGibQDNsOP6LZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 青和 编辑 | 四月 当大模型把论文生产推向工业化量产：两年里暴涨6倍的 AI 类论文冲破了人工审核的极限，把全球最大的论文预印本平台 arXiv，逼到了对全学科统一限流的地步。刚刚过去的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294387&amp;idx=1&amp;sn=1680160e51fff6a986127337614c7afb&amp;chksm=bcde15a2ea19a06a18e7213898c16446822dc66dcbefefa10bfb9e147558f0b01b9df44b5c20&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 12:00:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg5zN6BRiaFRKRgfkiaicyAicibvvvQ6tkAcJA2YfTsLNbvhEEmvXlBrjzjia2e3RfvrRXqkRmx7qhYuhstPrVAATIGqQ4NVgru3nAbM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜StartLuxJev 为大模型领域带来了一条全新的技术思路，在决策效率与响应速度上展现出很强的潜力。我们十分欣赏该团队的创新，也高度认可这一技术方向。智能体真正执行任务时，每一步等待都会累积，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294387&amp;idx=2&amp;sn=9030fd2bd31a5497a05147cba914a098&amp;chksm=bce708b12e7e5fd1c35af13674eff118eddb3e36eafa4a425ca8c1c75a3756870bcd2ff93e12&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 12:00:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

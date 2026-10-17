@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[火了两周的 30 万 Star 逆向 GitHub 开源神器，网友都用它来干啥？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1kE7Y44QvXickeicVAxGE2uAvWNePnvM9FPDvekBRmnMVdUpyJfictN7azA12MEpUsichJyAOJIZKkRDgCRkibh1U7phckicn8W7GYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这几天关注 AI 的朋友，应该都刷到过 REA。这个开源项目在 GitHub 上已经有 30 万多左右的 Star，真猛啊。能让 Claude Code、Codex 这些 Agent 工具去研究没有源</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537852&amp;idx=1&amp;sn=641d50231c757ac9c628f8657e3024c5&amp;chksm=f88a1f7fe1e839e8c874590a88a4f69c1839c9f3e95ff95ccf164d125e3d65b1a37dbf3e397b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 18 Oct 2026 11:08:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[清华在 GitHub 上开源的 Agent 工作台，最近更新了 2.0 版本。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU34f4F3pGcw9CarIYlPdCYYEugmdjXWOtJpExo0AjFbLaOkVdQRDZlmbfCyapIHFwWicqxzeHFyqXh7suDVIHznEKkQv0jZBQTw/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候，看到了一个叫 PilotDeck 的开源项目，Harness 领域的开源小钢炮。它是由清华大学 THUNLP、面壁智能、OpenBMB 和 AI9Stars 联合开发的开源</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537716&amp;idx=1&amp;sn=b88d7aec28cf8cc8bbb217813d392f91&amp;chksm=f852dba1c46d4ad5600d09850e3153ae2469c5f4a14da8a1abe6def07ffa3782c0ecc640b18f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1zcAUiaGpWqSl6JtKLcmWXiaOH6icA0YIibMVx783mdOu2d2WMN6LPZ1T6NIoWqg1HNAExndk2R64DgzDWcKzWVYHNYACQeribBcNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>下面这一模块提到的开源项目之前做过详细的介绍，所以就不单独一个个去介绍了。感兴趣的可以翻翻我之前的文章。或者直接搜索看项目的名称。这里一句话带过。① diegosouzapw/OmniRoute：把大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535740&amp;idx=1&amp;sn=91e0bc3a7d8e31877e005ced5b13f61a&amp;chksm=f866ce7296c42b6bc57a7d0b1617fe9172e755564210d6d35614e8b2aeaf56f94a1781be4ebd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Aug 2026 12:24:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Karpathy 刚发了一个帖子，怎么判断一个新模型到底行不行？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3QrCRqSMlicw8L4YCrx5ktObbUNLoPUorbZxaRTg14ibkG2N49m1pH707OVyE7uV7nNibRGh1MFVxia8Kia5HkzJLPtNnTk61cTdXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>几乎每隔一两个月，AI 行业就会迎来一个史上最强模型。官方榜单再次刷新，编程能力提升多少个百分点，推理成绩超过多少人类专家。紧接着，社交平台上开始出现大量演示：一句话生成网站、复刻某款产品、制作 SV</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535739&amp;idx=1&amp;sn=441b699572183c854a552eb196994323&amp;chksm=f8faaa9ae86364ed589ddbc443c79d6755cdb9cd3e849c00ce7239bc89550b4d786d372445e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 14:05:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
