@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/10/19)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 当Agent开始说自己的语言：潜在通信如何突破大模型的安全边界 - 安全内参 | 决策者的网络安全知识库https://www.secrss.com/articles/94784本文揭示了多智能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960573&amp;idx=1&amp;sn=07b8030a5030803ea899f59cd84e363f&amp;chksm=8a1d77136040d927e458dc5d31d64b45d9ca3c30f446fa3a7a69d04cc60bc43367c7d1b2dab3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 16:29:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/10/14)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Anthropic 研究：物联网网络可能成为自复制 AI 蠕虫的宿主https://www.darkreading.com/perimeter/anthropic-ingredients-fut</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960570&amp;idx=1&amp;sn=6ee1e3d24d3ffb881b40d34f0fc658c2&amp;chksm=8a0f252d66d6874f331408c0b6f0f26a698417f6ae6ec853862dacc554193af4b16f20f89ee8&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用内核补丁保护机制在Windows中隐藏进程以逃避任务管理器检测https://cybersecuritynews.com/hackers-can-leverage-kernel-patch-</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960354&amp;idx=1&amp;sn=ff35b3ed34eefc50ca32f7c5c8d6593d&amp;chksm=8a2f586e1b113a4857529a1ee71d4346ac0c0dba1c35e12e2716c1f5e358e5c355722fa5d46f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Jan 2026 13:00:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(25/12/31)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• GnuPG 多重关键漏洞事件https://sectoday.tencent.com/event/05UMapsBvMLTtVn_Hifm近期，GnuPG 被发现存在多个关键安全漏洞，涉及签名验</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960340&amp;idx=1&amp;sn=2a58da275f64b4fba81a3e233af31748&amp;chksm=8a5e79cebc17f4c012bc58027157059cab6335a48024d6efb18ddbd65d19149a00db9e8b279a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 31 Dec 2025 15:14:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

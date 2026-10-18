@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjcHl2TnLmvQRwf6S3Od4T6uV7HFN7dZz3y1Vo41Io5LyHbVBGdU9nJiaN6wbwTW8soDWY9MGAooRvSQzN213ToMU1o35rr7J74/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 谷歌研究团队开源了一套名为 Harness² 的智能体框架，试图让 AI Agent 在不修改模型权重的情况下，通过持续调整系统提示词、记忆、工具指导、skill、子智能体等外部组件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=1&amp;sn=b8c188b3e578205013431c43c98bc95d&amp;chksm=bc0d05dcf090960dbb91059cfceb55840c4eef86345ea5d3a8cb9534c9a9589c0a8c1e456b80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从 AI 办公到具身智能，10+ 落地现场10.24 杭州开放，社区与摊主招募中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhYclJiaEjasND4gc3fyPS0uLPxjibw3E97Via4iae9umaGic7jE1icD0dwgOd2GGicQJ0jFESR5Oth2Apoe7gBFvt2wEmvuric3nibGZFQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 24 日（周六），「1024 模力工场・AI 社区日」将在杭州云谷中心・云谷之芯举办，主题 "AI 落地，此刻发生"。这一天，我们把办公、科研、具身智能、制造、工程、安全等 10+ 行业的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=2&amp;sn=68bc72e935e35a563472c76fcb0a3206&amp;chksm=bcbefc1b2885b883c6cd5c557591f66dcd530b5a70688d4232f3c07dd00e2849166201e13694&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30 岁程序员，迎来了自己的黄金时代 | 极客时间]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhxbjSg5TJMQZSzazWOCenwHwsZ7TRr9avvibJB4thsK5am4IfjBpMnxrlakfxqsuM4n5EAPQmd2b5mhuXw4hruq9QnkvNlPktE/640?wxtype=jpeg&amp;wxfrom=0"/><p>跟着教程，你已经跑通了一个 Agent：输入主题，自动查资料，最后生成一份报告。但换个任务，工具调用开始失败，报告里的信息互相矛盾，任务跑偏了，又不知道该从哪里查。如果你做过 RAG、ChatBot</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=3&amp;sn=414115baa521fd3a4965206c5ca4bc3c&amp;chksm=bc163d0a513f3ae69efa80593eb7b284ae793cf3d710dfc8477d967febd59eccc65d98688f8f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare 修复了容器中的跨租户数据泄露问题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjdf76wkpRhhERZSHmZL05xaatdEBkQvKT8Z5a2NjgXs0ricFqRvh54R2FmDDEVDhQS8Swoy3nW0t29ibqiaT85t3WMuHARAv29F4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 平川 Cloudflare 最近披露了其 Containers 平台中存在的一个 跨租户数据泄露漏洞。该平台也为 Cloudflare Sand</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=4&amp;sn=99d7b1b770fe9bc89cf7ca7a6b6bc3ae&amp;chksm=bc114b478e845c9eef83d9c27325c9ea9398fd6ea28b37971c9791289344b11331bc5e5b6cfe&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon 上海]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjLdwYR1EkVkjzDgHVBE9FD3KvRKzW63HjrurN3q324moJBvaWDFpnGXVhACUtxu3Jf854eQ67iaM8TicpAibGtNXeSQgOC9lTkQ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=5&amp;sn=9e26701f2a20a35a50dc2014a965d352&amp;chksm=bc036b1c82f26e3448a2e0906f8d7e393d9997a08d80dac716782077739ecb776ff6f24a30b6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj7gdiabAxAfZ1ficZc0FnbZWicMErhkU4mWCfJE7fprLlQ5GKWAx62NepdX2fRwbVftWAhKNPwBCUSZkmb4ibjPBJhsRMuibMHNZqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译｜林绮蓓编辑｜蔡芳芳“我已经很久没好好看过代码了。”在 AI 编程工具越来越强的今天，这句话开始成为一些开发者描述自己工作方式的方式。需求交给 Agent，代码由它生成，测试和审查还可以交给其他</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=1&amp;sn=9ee14521ea3fad2bf13007ac2abec56f&amp;chksm=bc7e243a546c037df9b938c3a46884084f43354430955b137e812043969ec677bf61b029934e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhUtSvGKEan996M6gGyvZOYPX0wXTnFvqx8XicWHibwMUeicP6YZMSeX2WvuLHJHIA18fcugVP3IZmtu54COWFwY4473luNoRTyOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kimmy编辑 | 宇琪随着生成式 AI 技术的爆发式增长，大语言模型与多模态模型已逐步走出实验室，成为驱动企业数字化转型的核心引擎。然而，如何在保障数据</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294557&amp;idx=2&amp;sn=cfbc801ae285a2c92c75d1288bede175&amp;chksm=bc5a872bb601708c61291e5eb239750be89c4cd0ad96c00aafa47c204a7be28e1a1726f6bd56&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 Oct 2026 20:52:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[什么时候值得采用规范驱动开发]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNg3CvyBOX1wDmic1hNJVAeN2XxsRr0Dicic6CVskLC72gibaZ0G5qzjlTx5VQbrHxnAC41PJKicx5LXQ7kTY1dqZ0wu8sPruB4OSiaA4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Nitin Garg 译者 | 马可薇 1 验证成了新的瓶颈 AI 编程助手 已经不是什么新鲜事，而是逐渐变成了软件开发的基础设施。在 2026 年的今天，大多数工程团队每周都在用编程助手。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294557&amp;idx=3&amp;sn=2659545d86b0fffdd87313f64b7a67ed&amp;chksm=bcadc51e6236395fd3cdcc5db3148374867340ae249d3aead69a617add44436818608c503bc3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 20:52:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjFxEdntTAwIKJ8hibSVicSVuFUrbiaggxU2caAYWEt16Q7K7gBFnEXPtia8hiceD7ib13xkO7erI3xlAY3MNIYymicDklSd0x4guBH7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 田橙 TanStack Charts 是 Tanner Linsley 和 TanStack 团队推出的最新库，它以框架无关的 TypeScript 可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294557&amp;idx=4&amp;sn=913426375fa19d9baebcdede01ccd271&amp;chksm=bcb68f6dc3122a2321807c12b0b1e56874a3d86ccc8d1dc0bdfe13f62893aed4efc43f5d0f9f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 20:52:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[海外开源模型重新提速：Mistral、“美版DeepSeek”同时亮牌]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhvyu2cCD3riaCOS5KZ2410m1hpFW2DTXzDNW9tjVnfCQ79dF7BJOURVHjMf1J0ial2kXQAlzhOhrQRVpPZ7FGUQ9XHjPe1mnlib4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 ｜ 褚杏娟西方开放模型阵营开始提速。当地时间 10 月 5 日，被称作“美版 DeepSeek”的美国创业公司 Reflection 发布首款开放权重模型 Beam；一天之后，法国 Mistra</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294491&amp;idx=1&amp;sn=cc3dad30b2b4e7292e8c461c763e0094&amp;chksm=bceb9e2b0f592d31ebaf3083984ad8c77348c2a1436b21fdec932683b71dd27793cecec4e48b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Oct 2026 12:30:18 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgtVF152W3hmib1ZLTVRShsuJtmibSFUpSWL5q0aibwjmnzicSIWDY8EfTOGCOc3Diawuplyic9kmc69z53zKNDCsd5LU5bibJgDn8Yuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪策划｜Tina一个多月前，Claude Code 因拒绝兼容已被大量项目和 Coding Agent 采用的行业标准 AGENTS.md，遭到 Shopify CEO Tobi Lütke</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294485&amp;idx=1&amp;sn=1834071f4c1c2fd3f7f029083b6bf849&amp;chksm=bc32f0f229dc965bfd4a089627fed842e30fb9cda329b455a3249292c98e5dc59493e2edac84&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 Oct 2026 10:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[对话 Tibo：入职第三天就把生产环境弄宕机了，今天他掌管 Codex]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjiaIx14zibLVb6LNSkBxT2LL9zZiclD6jaRhOd52FMEr3ddNahUpHdztHygr5zfxENW3Hewzia342FcSbr9BnjlAtibjeMk3KWEEug/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑｜冬梅 OpenAI 的 ChatGPT 和 Codex 负责人 Tibo Sottiaux，昨晚在 X 上给团队立下了一份可以逐日检查的承诺：未来 28 天，每天要么推出一项对大多数 Codex</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294469&amp;idx=1&amp;sn=28cfb919a0d097c02710453694c19342&amp;chksm=bc7801c97310c3c837e3cca70f62c0a3508f367a5cd9e7e4b3c84505972afbf5700c2ec95b18&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 05 Oct 2026 12:52:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

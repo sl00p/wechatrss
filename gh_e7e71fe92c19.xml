@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题预告 | AI Agent 攻防下的代码保护之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BntKyh7Lo2GOiabYX4Ywju0lrWR6cicsqx0PN6mHhBgVrHJN3kBGT1fKzw23A5f64FdNzGBKJlzWadkfKRErPk9VvZYcUuXUv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 攻防下的代码保护之道AI 正在以小时级别破解你的应用或游戏，被 AI 破解已然成为软件安全的日常挑战。本议题将介绍安全数字人智能体破解加固应用与游戏的完整实录：剖析 AI背后的“感</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=1&amp;sn=2180c4b31e1ecabb5febe732f7feb02e&amp;chksm=b06077268d4d976ab609c02aff32fb5f1e677abe292e1ead13124900ace870676d7b61b041b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基础环境检测与对抗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0UKGlGJaPGZNz06ym2rwptAVQM8XktKWAK0D4j9ygiaEHGPBgjfX5acdb5omWFGD5xvt4XM0bcozePkdaexf51mQv4Bg83o0sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了基础的Frida和Root的环境检测方案和绕过方案，本人学习时间不长，若文章有纰漏，望各位高手们找出后及时提出。FridaFrida注入原理在多数教程中，都指导把Frida-server推送</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=2&amp;sn=5ee1224d6da0d970b61a0550a1a6d95c&amp;chksm=b09d90403175a79cb5e8c36a240dd17b3da5c6480589ff7522dae0369f0a920fa1d2daf3dcde&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Perplexity接入开源逆向工具REA：无需源码，AI可复刻Figma、Photopea等软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K00bezqD46rvm97dCeR3j9Pia707rExLJC2OsNgKoF5EicKVHVhtus5OMZD9UVntb0w3BALTffYib3PxvoGeNkwG5IMIL2XGnswicI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Perplexity宣布，已将开源逆向工程工具REA（Reverse Engineer Anything）集成至Computer。用户只需告知AI想要复刻的软件名称，系统就能在没有原始源代码的前提下分</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=3&amp;sn=e463962c4f3c84cc377cbbed61a66424&amp;chksm=b0aa64603e3c19bbfad9c9e0534d23fad8a9790767bccc0a5d1ad864acd4494b38a871e7f15b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K240FiaO6iaawZbiaMeHcxia3JNUBzKen5gFT84ykicmAfNgMjMdQ51L6Jic98uZ0nqKZSXqBG6zkh0SVWzXIqDkVibyswRKuNicSuhmXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践大模型让软件层漏洞挖掘加速，但 IoT 设备的攻击面在物理层——串口、调试接口、总线、无线协议。Agent 能否像人类工程师一样接入这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=1&amp;sn=89006d52e87c01402146d6b270efaa9f&amp;chksm=b01ddc28b5c6e39049b44e44276d0d46d4be39e98214f8a0ed70cdbc7e0ad96b0d7b957f4156&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0f89VZHf0hVBOIaPgpTyhfb7Oiaujr0rOHAq5ChlCYXjs7ZibnicYB2qcjGJzt3YTZX7mPTic7dPqmRHicIGDj00VBC5ZzOiaChKfvU/640?wxtype=jpeg&amp;wxfrom=0"/><p>金山毒霸企业安全 · 产品与技术服务全景端 · 网 · 数 · 表 · 智 · AI · 人一套系统化的企业网络安全防护体系豹趣科技&amp;名亭科技·SDC2026精彩预告AI，正在重新定义攻防。当智能体开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=1&amp;sn=b05868a554288c31afa183515d979414&amp;chksm=b0b3d05bf9da28e67591dd3186f07d8865a21f95c7bc01c518a206cd75805ac26281186e09d5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[V8 漏洞利用入门：从 StarCTF 2019 OOB 到任意读写与 WASM RCE]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2uhAeEcZhZHrVTveD7icBRgmrRIhHxv4bUicqzHanuBcXrokJLhfOCeKjxN2Qd1wNtAYrrFme0XFDY2P78FOvdOAU9Et7ZdIzLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境搭建原文作者选择在win上用WSL编译，笔者因为电脑比较得劲就开个ubuntu编译分配了12G内存、16核，time autoninja看了一下大概9min就好了。这里得先装一个git，然后装de</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=2&amp;sn=c88b62cdaa116b75541f7dec45170bd1&amp;chksm=b00bed1012e1e8f3a707052007a9df59eba2d30122fcfeb0a437a979a3172b679ee75da88f58&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[7分钟摧毁整个云环境？Storm-3168自动化攻击暴露Azure身份权限风险]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3csCOytYsvfXNr5YbzEJ6n9vDcN3FgFnQdrvaxPWTMTEtgPQYdbo0FAfcTXbKC79xN8Z58ic6dia8AZjRSeNyFSQuibh0ULB2xWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软追踪的攻击团伙 Storm-3168 被曝针对 Azure 环境发起高度自动化的破坏性攻击。攻击者利用被盗的服务主体身份，在短时间内完成资源探测、密钥访问和批量删除，造成大量存储账户、密钥保管库、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622359&amp;idx=3&amp;sn=17efaa325605871d756f83c8049c2922&amp;chksm=b03e8d4242d518a614a08069abd602498d1c95cc17036933c73b415f7f99eef6cac19f4297b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 29 Sep 2026 18:06:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Le5J2OArIgibu0NEb6Cnw2bILTVGMXOHeOicyfY0lSlvjOdiccNGaDmdIruMIYrUEtz6RuNTPP2QYFvJ4vEUMpRsNg4HVNcMxCE/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《从LLM到Agent：AI安全攻击面的过去、现在与未来》本议题以一线甲方攻防视角，复盘 AI 安全攻击面的迁移全程。过去，AI 只是一个 Web 应用，攻防沿用传统代码审计直取内网。现在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622068&amp;idx=1&amp;sn=043014a22d443e7be6abb991e8be078b&amp;chksm=b0302fc4c013608eed3e936e675ac9fa88fa6940ca6b4612eb07fa3bc9fa31079971a54589a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 28 Sep 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

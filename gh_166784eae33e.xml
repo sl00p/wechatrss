@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从一封“密钥泄露”邮件说起：OpenCode 蒸馏攻击事件全解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9A8KHOocAhH5tBQw5fQuG28LwXMSXPXmD8XupOJIH6U73JyQaNeMIKNCCD98ansk5LLquIZZhozKQhbVeTVd16RHfaKzyteNY/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · AI 供应链安全 · 事件分析从一封“密钥泄露”邮件说起OpenCode 蒸馏攻击事件全解析开源 AI 编码工具 OpenCode 的托管服务 OpenCode Console 遭入侵，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520943&amp;idx=1&amp;sn=5c950426f02eff0ae6768e1def0b2447&amp;chksm=eb533eebf698a56a0a5727aeaa3dd814a750302f2fd0d46ec32c13089024cd6932f60e4b96a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 15:14:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每周高级威胁情报解读(2026.10.09~10.15)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicDibWWxgpZ3PnONHlpQoicTA2hpFHibISALDicqjq8OrPFyyTrebGfF2DLL0hRw46aKVe3uexTcAP0envHBDh7BaS1DrFS5a8bMyI/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.10.09~10.15攻击团伙情报Kimsuky 的 GitPower 间谍行动针对乌克兰疑似 TraderTraitor 利用植入木马的 Terraform Provider 投放跨平台恶</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520935&amp;idx=1&amp;sn=8c4ebf54ba2432f8de1857bd8a6971f4&amp;chksm=ebc89e4a4c86440faac8b232d25769d45a3b41570724a190edf3ae38f800a4e3601e018bf60c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibHhPk9EzTG03P1XEAW1l5mWczJBluHsrofOXNXVyTbOWyQQicibj3M3Gy0PxMUa5qicrBRlYBkoSSibBf9PouicWuM1yw4LHzEicx5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个装了Claude浏览器扩展的上班族，某天发现自己的Gmail被悄然翻了个底朝天——而发号施令的，根本不是他自己。一、AI越聪明，边界越模糊大语言模型正在以惊人的速度接管我们的浏览器。读邮件、写文档</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519502&amp;idx=1&amp;sn=6afc8901a6d809e635f359ce0dc8bc08&amp;chksm=eb150a5c2aa73ebbc5bfe50390b4924d6b76a717dc75d8393d06bd7b49f5dff1c4a615eada02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 15:45:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一句假验证码，一条真命令：ClickFix 如何取代钓鱼邮件成为今年最暴利的渗透手段]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9UzGsm3YezJD16Jdjv3bCdUoC12QHaJKoAEFSExicKn7vo2bGQS7KicmbfpGKQ5nkyFuIuniavfMvCHoHIkI20mSBSSaibQ654UMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份来自独立研究者的现场观察过去一年追踪了上百个初始访问（Initial Access）事件后，发现一个让人不安的趋势：传统的钓鱼邮件附件不再是攻击者最爱的敲门砖。取而代之的，是一种几乎不需要任何技术</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519497&amp;idx=1&amp;sn=b44b552e5cf0d52bead00e382aaaf56e&amp;chksm=eb5edac0b5645e4bde724d318d132ad8607eda2971c4293c8c9c45128daaa675d25e4fe32547&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 15 Jul 2026 11:55:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

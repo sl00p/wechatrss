@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[打穿虚拟化边界！Corvus AI 与 隐藏十年的 Linux 内核漏洞的一场对决]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvavGABEALicAM1VLCB9o2icFSyMyzxr5grCbzSRDGicgbKB71QDNEzkLEBxYrd8ib14ia7U4khD1RWoysGDA3N0OQA4JsBrZcdaiaicQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一段自 2017 年起潜伏在 Linux 内核主线近十年的底层缺陷，在真实环境中被 Corvus AI 用时 2 小时捕获。这处被命名为 Vghost（CVE-2026-74580，CVSS 8.8</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208833&amp;idx=1&amp;sn=c6feb53ecd60d5b101274ccba3025d20&amp;chksm=bc6a6069fe8dd01d9439aa01059ed6db8723bc8e343841da8603273e71f4648b90e74e911b80&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 19 Oct 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开源，也能影响世界！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9icASLQUQzva8PkdtSS62OpUWynhhMxlPVChbXm6ZODP5ibXibCxSuPXKc90Lx4rlnYx2sLcUIHsjnekENbNuUZRo41VLEvc01EOohDkSdFD30/640?wxtype=jpeg&amp;wxfrom=0"/><p>两年前，A.I.G开源发布时，只做一件事，检测内网AI基础设施。随着AI和安全的逐步演化，我们陆续加入了大模型越狱、大模型安全评测、Agent、MCP、SKILL的检测。这一个场景接一个场景长起来的开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208806&amp;idx=1&amp;sn=2a3aad22ceab7097ed42358285198778&amp;chksm=bc2ce9369c03b66ceb9f472c20563f2d9141e2f4bd34399f93a4964b02d698d56b1fdefb2944&amp;scene=0&amp;xtrack=1#rd</link>
