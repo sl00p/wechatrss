@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[上下文是稀缺资源，Agent的上下文里，究竟要放哪些东西？（3/12）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXfOseynCia01Xx0AQwdTe3VoQOhJaGaicqwm0Pd0srZVFIwnsJrJ2ttPuqypKktscc7NoqDcY4Xc1369m4jF8439u8SNokIHpTwY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第3讲：上下文是稀缺资源准备起一个新的系列《Agent原理，架构与实践》。目标不贪心：1. 希望每篇文章有1-2个点能让大家有收获；2. 希望不被骂；本期第三讲，咱们开始</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981794&amp;idx=1&amp;sn=34c80a490ba2ce49fa6b95b4d7bf8c50&amp;chksm=bc6f38c2c0b6912452383fe91d636b4db15fb57df34a611925428c34b47bfd6c82f60d4c8c23&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 12:08:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你猜，大模型为什么会「幻觉」？这其实就是它的机制！（2/12）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXebLZJ5QbcTI7SODVDiaGJUNlWqxsFvsbSQvrKE5iaEkO2G7icfwgarggzZdXyGSFWpAeyAjGfqpDBdl422UibFdJNIsrIzBEmiaR6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第2讲：大模型的幻觉准备起一个新的系列《Agent原理，架构与实践》。目标不贪心：1. 希望每篇文章有1-2个点能让大家有收获；2. 希望不被骂；本期第二讲，咱们开始。上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981784&amp;idx=1&amp;sn=176e289fd80fa888d432e7ce83c7f8fe&amp;chksm=bc7fd4c83e70a2cfc5bacbd784986065aae4e8ba712b99d3977bbc0788292bae1d67904d677c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>上一篇提到，我在乳汁百度之后，晋升T5失败，才体会到“抓主要矛盾”的重要性。但真正让我被逼着学会聚焦的，还是在58同城。 在58，我的角色发生了一些改变，不再只是技术专家，还要带团队、负责技术委员会</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981440&amp;idx=1&amp;sn=4920f72efa1cbea91ac3ada0b365bb0b&amp;chksm=bc38df2c0a9862122ebd75aebe1fc47de7c2599736be666918fe562d2c83cfd8e407f63b5f00&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 12 Aug 2026 09:50:53 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全体码农做好下半年涨薪的准备吧！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdE5M3jey4jzXpbkQKHlkozceW8I5VcSyR1RXjmOKtfInrlO1YGhuupKVm0w0Fp7jGjq6E2TuhbvPjEGicvz4CLut1or9OicBOfc/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年已经过半，你年初立下的flag完成了多少？今年找工作的同学应该都已经感受到了职场的变化，在秋招、春招中，传统后端开发岗肉眼可见地少了，取而代之的，是铺天盖地的Agent开发、智能体开发岗位。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981438&amp;idx=1&amp;sn=d69d60f45450d999dfa65a1b59c34b8a&amp;chksm=bcea1223e8c8918dacb2c03c7ebd46cfab4fc94d1af00e093ef5248d7f77fdb0533621c06cbc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

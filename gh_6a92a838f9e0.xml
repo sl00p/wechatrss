@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Index-Translate：支持 150 种语言的多模态翻译模型是如何炼成的？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6SQD80d4y7e63nWribE39ElTWdH2Zk4nvx3ukrrE2y4HCQAC6kC69ibdIGicmFmKlTWcVWj2yLj0oJWhx0ErIzZypBEqJDRemAHGuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>1 概述一段内容进入另一种语言时，需要保留下来的往往不只有字面意思。字幕要适应画面时长，技术文档要保留术语和格式，小说要延续人物称呼与叙述风格，视频配音还要接住原声中的表达。翻译模型需要在语义忠实、任</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504445&amp;idx=1&amp;sn=f75fce7106f8ba37e7ee3918ab5aa787&amp;chksm=ce8c242b25b118995d69668a07d053dc3e603d80f673fe2600d057eda069ec65e327ac4aa682&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/tY0ozQev6STfGeMU0l3ewPWIb0ScSvmsPDYDfvq1w3yqhapaN2kWO1eicONOlxK4T4gSsPlfRK7yQ3cZc2rqulvkpeMulvbDlQKVM66rD920/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 概述大语言模型（LLMs）在多语言翻译领域取得了显著进展，但普遍存在系统性的“跨语言冗长偏差”（Verbosity Bias），导致译文往往过于啰嗦，难以满足字幕翻译、视频配音等对时间预算（Ti</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&amp;mid=2247504425&amp;idx=1&amp;sn=00e091f6f49d042e070bfb345f4369f6&amp;chksm=ce677bf17445228a65d1419e81ef79380f49aea0e563dc231248fdc9200e41b7ef5ca54eec08&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[元宝搜索，正式开放]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaAqnWmePsvlkHVIQ0KHKB93yxWoxCNGazzeNhCwGIoQnudOttOiaQaslU1eJV7mm8avWzrZ3ticwkS13vZoTSaEk3xops1XA8cr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>鹅厂Agent都在用的联网搜索——元宝搜索，今天正式通过腾讯云对外开放。过去一年，元宝持续打磨搜索体验与效率，整合全网公开资源和腾讯优质内容，将大模型技术应用于内容收录、理解与检索全链路，构建面向大模</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654909665&amp;idx=1&amp;sn=16f8462d6171125c3abdb37891ebb9ff&amp;chksm=bcb4a4e737cfcccb67c1bb2764224e24f0be827f0cb50899b366d8ce94ec1bb225c7a93010a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 15:26:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用腾讯Miora做短剧不烧心]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCpty6icg3Mx01lXCkTj3gcwzfZmdnPicsicxwSbPWkzeNnA9IxHE2Stps8d247lkbwzpcSMPnTOOt8W1OgD7IvSMvLtrCTZ3p7C8/640?wxtype=jpeg&amp;wxfrom=0"/><p>不懂剧本、人物小传、分镜、运镜、景别、剪辑……能不能做一部16集的AI短剧？能！正式介绍腾讯设计智能体 Miora 最近上新的功能——织影 Agent（storyWeave）。它将剧本编写、人物设计、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654909654&amp;idx=1&amp;sn=ffd014736bae52db516b9d0bfee310b8&amp;chksm=bce5bdcd774cb10bfa8ab36daa932e0bddbb7f1844c7b04069be493033030c142d6772f3bfcf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaDyFDGO9oQjxZaIsvNAoLRH6yewKobvG4usdcoBibekQgjnsO9MToJ5FhEpnqIqH12CWQhJPE3uOWwx2YaCYUyUbetxaTgXGiaCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，上海文化广播影视集团（SMG）与腾讯云达成战略合作。双方将在媒资管理、新闻采编、体育内容生产、研发效能四大场景落地AI能力，目标打造多支由人与Agent协同工作的“AI超级团队”。SMG旗下拥有</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908011&amp;idx=1&amp;sn=830ab88ab074d627b4e04f8a98c2129b&amp;chksm=bce347573090dcc8315d1f3c5a2db507ecf7fec38fc8026c6c302ddb29b1aaabb35df7433f0e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 14:48:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云AI加速出海：Agent基建升级，WorkBuddy、Miora全球上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaCWpuvcjPKFUnYIP62NjbKfYs40SpMkaPh9qmRvcsegoyaQANeE1iaqGGpfjGztnU8f4TeDypXnSEkvFf6YcZUm18QrlY7icXQns/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，腾讯云在香港面向全球开发者，发布多个Agent新品。Agent Runtime 全面升级。面向 Agent 长任务、高并发、自主调用等运行特征，首次构建覆盖运行、存储、记忆与安全访问的原生运行平</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654907852&amp;idx=1&amp;sn=189efe955eb9615b7cc0463213dd517e&amp;chksm=bc09ce0f4d9d69a3f3e77867659fb77199b5d2fd4afe348c206f17d22682c56794a5ac748ceb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 May 2026 12:14:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

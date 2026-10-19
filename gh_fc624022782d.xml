@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[关于TSRC漏洞奖励方案调整及测试行为违规通报的公告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9icASLQUQzvbLNMiaJRm7Fv71fblfw0XJEGqkgibZUDic48pw4sdO82JVARnpxfxia6679BfaBictwiaMgS82Ry6af7PJWd2j2ywZTEfFM0o2KEm1U/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位师傅感谢大家过去的每一次提交。每一个真实、有效的漏洞，都在让我们的产品离安全更近一步。为了让奖励更精准地回馈高质量的发现，TSRC全面更新了基础奖励方案，同时对漏洞测试过程中白帽的违规行为进行通报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208837&amp;idx=1&amp;sn=e752913b2c7d8dd46df1575a046d859b&amp;chksm=bc310551ef8c0702f37ffe6927b4337196928be557cbdc85d20536ed0774562f3b87051e46dd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 17:25:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[打穿虚拟化边界！Corvus AI 与 隐藏十年的 Linux 内核漏洞的一场对决]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvavGABEALicAM1VLCB9o2icFSyMyzxr5grCbzSRDGicgbKB71QDNEzkLEBxYrd8ib14ia7U4khD1RWoysGDA3N0OQA4JsBrZcdaiaicQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一段自 2017 年起潜伏在 Linux 内核主线近十年的底层缺陷，在真实环境中被 Corvus AI 用时 2 小时捕获。这处被命名为 Vghost（CVE-2026-74580，CVSS 8.8</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208833&amp;idx=1&amp;sn=c6feb53ecd60d5b101274ccba3025d20&amp;chksm=bc6a6069fe8dd01d9439aa01059ed6db8723bc8e343841da8603273e71f4648b90e74e911b80&amp;scene=0&amp;xtrack=1#rd</link>

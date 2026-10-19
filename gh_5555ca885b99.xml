@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CloudBase 远端 MCP 升级：支持 OAuth 授权]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbcwsqYQ8QUYuy1EA5Fn9ZVxKYgicxdLAMSQ5FLDQIXtG9zfMl9riatbSLfBGo0LeAg8M4Sp40N6rSLJXuHvxzXZUoVBgKouZVCzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CloudBase 远端 MCP 现在支持标准 OAuth 2.1 授权。客户端填一个地址就能接上，注册、授权、换令牌都由客户端自己完成。平台不用提交接入申请，用户不用填密钥。配置一下就能用在客户端的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540559&amp;idx=1&amp;sn=7d1441f4f27fa79767159e994356520e&amp;chksm=cf624a67fcaa9baee6dce02247945ac42663771a5625d160564110aa69cccabada59732c537d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 18:34:12 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[共享还是独享：一图看懂 CloudBase PostgreSQL 数据库该怎么选]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbc1LfUzqz2uRPVMBvAa2nTVXI32IfGwUibxJQAibEM5b4vQJRaLezcZT5ejTPbW7tZe1yxTWM8gIxF5weOicIpcN4aW1TtichZic488/640?wxtype=jpeg&amp;wxfrom=0"/><p>从开发测试到生产系统，各阶段的能力选择与使用方式一个后端业务从想法到上线再到真正跑起来，中间会经历几个阶段。每个阶段业务的样子不一样，数据库上的诉求也不一样。这篇分两部分说。第一部分先看开发者在各个阶</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540531&amp;idx=1&amp;sn=39618854a1dae14b9a7bd91544e14d8e&amp;chksm=cf4c7431c16f1dc63c87e912ddf5563e63e9564630409e087e0d912e0e38002273b04375ffb4&amp;scene=0&amp;xtrack=1#rd</link>
