@@ -11,6 +11,54 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[模型好选，搜索难做：一个投研Agent的两年开发历程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhssBMbMK3mB1YibyRQ6Pe0jghucXfwnBju1bmZ7yy2t3u3OPzAb3hzj0iahUIdUC00MsL1p83E0icibWJqg8uZEDG1K8Q3ZnbqkYE/640?wxtype=jpeg&amp;wxfrom=0"/><p>撰稿 | 白默陈万做付费投研简报快两年了。一周前，他从程序里删掉了两份维护已久的文件。一份叫 cleaner.py，负责清洗网页；另一份叫 sites.yaml，列着 387 个网址，用来筛选信息来源</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295590&amp;idx=1&amp;sn=a2b819f33503e11a484f1b976994171b&amp;chksm=bc569cbff44f52d32d13db237f9fa73ccf20fb2ec943e3ca89a25df605f570480386f620cec9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 19:52:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[面向 Qwen 系列模型线性注意力的高性能优化实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhQH6xgaDr9NJeOwcnwcc30vDfDj1K4mCWn5vnkPJKfFCuPmaxooic2hiaD7V5NgETnSBkbqVsp7vmUhxy2XwDP2ljTwKmxkXBDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 章程瑞东，阿里巴巴 Qwen 团队算法工程师 编辑 | 宇琪 审核 | KItty 策划 | AICon 全球人工智能开发与应用大会 随着大模型序列长度从几万向百万级迈进，softmax 注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295590&amp;idx=2&amp;sn=db55aba3c6ccb35d1dc2dd6ad9e94fbb&amp;chksm=bc242f1337db8945c902291cda97001b32e1556b93b57e88f19f5c8baf17f1f000b70659c4e6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 19:52:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[倒计时 3 天｜1024 AI 社区日到场指南：13 个 AI+ 方向，一次看全]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgnzQGgdwyqfc3GUrhpGiaIZjHKFjr3KxkDMXTUoObE4JpQWkuIwyZbmDhpgsJKLMs6tMibJibDowW3awnROgfAkTsJ8bzVRvFX7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>1024 模力工场·AI 社区日，一天时间，只做三件事：听 13 位一线实践者讲 AI 怎么落地；动手，把想法做成能跑的 Demo；逛 15+ 个摊位，边集章边抽奖。你无需准备作品，带上电脑来就行，在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295590&amp;idx=3&amp;sn=38f1c0c6bce92b3b5dc62bd5f380fedc&amp;chksm=bcba15956c6433347d4e989bcc9c987b529566e411f459bd046dc47a43aceecddb8625518595&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 19:52:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌的 Android 安全状态库支持组件级安全校验]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaeibsDVUEoEToffg669vyk63LXDpBDlerXOs1TzrIat8TczAjXuQibUTAX5yHVYC5nHP82ITVQ52OHT8wiaAI2IocpQ38ibKzFg2Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Sergio De Simone 译者 | 明知山 谷歌的 AndroidX Security State 库 让应用程序能够在单个组件级别验证安全补丁状态，而不是依赖单一的、面向整个设备的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295590&amp;idx=4&amp;sn=d0dabd6e8e7af88d554133d89edd88dd&amp;chksm=bc6c7601eb53c29548166766ec5301e22f2e6c34c7e6f87da364fbb5cb28d636b97c33444445&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 19:52:34 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀”回王座，顺手拿了个 Agent 国模第一]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiabsRmuCGjicUXkpicgXEX3heP2g61A0oabK47w08ic587ibXo0sqrFUhMib6Vjs6iamj1IGmMibhIw8Ahp3CFg419sbQ7tiaibqvglyv5g/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 冬梅 1 MiniMax M3.1 Flash 正式发布，白菜价拥有旗舰性能大模型行业，正在进入一场更现实的竞争。过去几年，模型厂商比参数规模、比榜单分数、比谁能在数学题和编程基准上拿到更高</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295536&amp;idx=1&amp;sn=d9e9b0d854101dc081c3797e4c267088&amp;chksm=bc35153460a0c13de69b2e63fcc9f0edcda2c01d293dbeac047cd4397b349158e4e09a65ddd5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 23:56:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[算力效率的边界：以体系结构量化与分布式工程破局 AI Infra]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaxI300HlcMXpNcqQVgPz5oPZVJk7CaSqMQibXBNnJE9VSDOBnIbic4ebnI7hVhIgibhwkcsYHCpiaYx0JeDQibtN45sx0Pa0wppVp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 冯嘉，分布式系统领域资深专家，中国基础软件开源领域的长期推动者。QCon 上海 2026 专题前瞻：贯通数据工程、集群调度与推理闭环，为什么算力效率决定了规模化落地的生死线。10 月 22-</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295536&amp;idx=2&amp;sn=bcd92735f82dd87596787929c5e4c58c&amp;chksm=bcbfff87af8ed84183ae9d86c06c9ff2b2024539f49337804fb29162709ae4ed411a6e27268c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 23:56:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[聊点 AI 落地的真问题！｜ 极客时间]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhsx30U4iaeCorx6ZCTJ17k75ibpgkbpVcTy3ibCw2YJZPxkyHltLzAr8VnuaEpjJAXIicatgIxu05mHX2nEeG5ibkic1ecZo9DpNLE0/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 AI 真正进入工作，很多人发现，问题才刚刚开始。场景应该怎么选？价值应该怎么算？一个项目怎样从试点走向正式应用？当 AI 接手越来越多的执行工作，人应该保留什么能力？这些问题没有统一答案，也很难只</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295536&amp;idx=3&amp;sn=0d2da9bd4fd21c2626f0e2ace7383b97&amp;chksm=bc8a572b484f046a08fdc155ef35a6ce4d29219dc84fff02d50acd194029f48644735d56f0b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 23:56:08 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Akka 在 65 个开源项目中测试基于规格的 AI 交付]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgwZcz6zRTmEs2iaCsxnYqiayQ50vLBR8IA6At1Fh87x9Dd13d7Nrex0kk1p0IUtFpYxn0jEkKxTum00SFzgTVaZoJ4dC2vPbZo8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 平川 Akka 利用 65 个开源项目，对一种基于规格说明的 AI 辅助软件移植工作流进行了 测试，评估内容包括：规格说明的结构、上下文、模型和工作量选择</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295536&amp;idx=4&amp;sn=2bdc8d4ac7b904e690fa235eac503cc9&amp;chksm=bc910da300b581aa357fc7eb7784ae7e5938fcd77397fb3862ec18eed7c9cb9b6471a01b0504&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 20 Oct 2026 23:56:08 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjcHl2TnLmvQRwf6S3Od4T6uV7HFN7dZz3y1Vo41Io5LyHbVBGdU9nJiaN6wbwTW8soDWY9MGAooRvSQzN213ToMU1o35rr7J74/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 谷歌研究团队开源了一套名为 Harness² 的智能体框架，试图让 AI Agent 在不修改模型权重的情况下，通过持续调整系统提示词、记忆、工具指导、skill、子智能体等外部组件</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=1&amp;sn=b8c188b3e578205013431c43c98bc95d&amp;chksm=bc0d05dcf090960dbb91059cfceb55840c4eef86345ea5d3a8cb9534c9a9589c0a8c1e456b80&amp;scene=0&amp;xtrack=1#rd</link>
@@ -261,54 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaHwShOl4SzQleejict1stEnPRNQwn2KVjKKQSyYZXxQa8epibEICHXb2K4iaetCxQwsxAb36GKxwlxg185qmudE1nWtHjhF9RGWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Nik Kale 译者 | 张卫滨 核心要点将 MCP 安全视为四个控制层而非单一的协议特性。执行、基础设施管理、出站信任与语义完整性都需要对应的强制执行点。使用网关进行认证、授权与审计，但</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=3&amp;sn=383ed569ed135cc030a8fd71cbb3c33b&amp;chksm=bcaf5e15ad65222b1e36b825d9e6f8a136bbcad3691f0a5cea41f2d05c2fd6584bbaa487f5b4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNia4wBRAT2njC1Q3BTHv9hiaredpBAjFoGNetdTPUllkr09WzSS7TiaatSn3Mscd4VicA8r1HYKjphAcQ954PJMeJMgwyCrribMWerw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 田橙 Objective-See 基金会创始人、安全研究员 Patrick Wardle 披露了一个尚未修复的零日漏洞，该漏洞影响 Meta 新近发布的 M</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=4&amp;sn=35a17f4176b3bf46f358efd8d82323ff&amp;chksm=bc158bfa210efbee3351fd846c5349d5cfb93045937a36f83fa4b19879c8b7458c714837a8f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Read, Don't Write：重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjY32p8KqI0bwfdlzLA6icLMJosfmYyATWJ1UHiaUfVnRceiafmFR1cWHXBbwtK6udc3L8qvoibToPaLYWJnxalb4gJPabpmXKqup4/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294721&amp;idx=5&amp;sn=f6f34e791e6247d5c625301582987b0e&amp;chksm=bc2bd49a6d7d1bd4a564753adf1e527be403546fd64a15746b5964241823488ebf3aab26556f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 13:37:46 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaj6nia8qCfIskXoRyHXvnOvjE9TfblianbYfCVw9y0CAMpISnOlxPTM0rTTciccVqAJttj3iaeLqy7QDf3g3AbO7dHTMfTaxrZtOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 姚戈 AI 内容创业公司，已经不能只盯着模型与内容生产之间的 Workflow（工作流）。过去几年，定位为“工具”的 AI 内容公司在基础模型之上做了大量工程化工作。模型调度、角色一致性、资</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294615&amp;idx=1&amp;sn=9a54443a3d38ccb7d56e1b5c0fd1bafe&amp;chksm=bcc3c3804ebc622cd7b06f5e527c253d7442fd8f59187f332952d98b142634e299e47ea495e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaL8bRT6ibl7NZ7JyVrQsWdf1cKb2lIm7p1f9k609Jk7ibH63rvkqrMYlNpgjPicUv3weqn2HBkbZokBX6VQ7EWONBoA03w9DenZU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于浩军，中软融鑫总工程师编辑｜宇琪审核 | 罗燕珊策划 | AICon 全球人工智能开发与应用大会在金融监管报送这一对数据准确性要求近乎苛刻的垂直领域中，通用大模型所展现出的"自由发挥"能力</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294615&amp;idx=2&amp;sn=e9e7af74a0a7636b17ab4068291fe1eb&amp;chksm=bc007bfba1affe0345a88ef7b76bc76251df8dc70d38060caa85ee322232ab4007932e87f043&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaZicUyvkQSD0wfEoIIlkd1CnMy08okQibRK0eccgwPLjWHcqJq1rmZ0dRfNl6tSKsOG9gD8ZZicTJQrHs8KWibjWpbgXbVI1Q7Gibc/640?wxtype=jpeg&amp;wxfrom=0"/><p>1024 又来了！每年这个时候，朋友圈都很热闹：程序员节快乐、代码无 bug、发量惊人、上线不崩。祝福都挺好，但今年我们为你提供了另一种过法。我们攒了个局：1 个主论坛，3 个分论坛，1 条 AI 市</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294615&amp;idx=3&amp;sn=576d4f5a0e521aa79acdd34a7298df81&amp;chksm=bc5114fc951a8b0b74af58aa0c181cb402a7c43cd1334ea53235e5578ad8af7b9e96a212c222&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaiaPlHvGqNXTE3aic1oApSZ9xxWOK22aqJPsss5dMurgVmbY5icx4DIkicHLKiayRkBppJe3w9SLJ5lic6iawdXcQ5pMIpYmy3mZCPQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 会不会写代码，已经不是 2026 年开发者最关心的问题。更难的问题是：它能不能在真实系统中持续工作？出了错能不能定位？权限能不能收住？成本能不能算清？生成的代码能不能维护？一个能在演示中完</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294615&amp;idx=4&amp;sn=648737d5c104af800b2e4d1311a34af3&amp;chksm=bca3dbeb691881c6d8b598afcf462c671f8f3998356b2689bd4b4b2657d1b80382e63d996bf9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 13:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhLbn4zMKFvZR58icSJGcnIyq1rcwicdXCLmaQdfKoyvu9SFPSiclYFTAvRBEGZm1uE8jXVzerAC1I4KAUuREUPl1AZa05xKjjiaLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译 | 林绮蓓编辑 | 蔡芳芳计算机操作（Computer use）的结果明明很容易验证，为什么这一技术的进展如此缓慢？AI 什么时候才能真的学会操作电脑？今年 6 月，知名播客主持人 Dwarke</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294557&amp;idx=1&amp;sn=ff0089742ee7b76ec686448f9496c60d&amp;chksm=bc39a6ab7160abc5ae04e6d478ff859002a4f1c3a03a55fbbe6c98dfd89c5cb195b87284aaad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 20:52:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhUtSvGKEan996M6gGyvZOYPX0wXTnFvqx8XicWHibwMUeicP6YZMSeX2WvuLHJHIA18fcugVP3IZmtu54COWFwY4473luNoRTyOs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kimmy编辑 | 宇琪随着生成式 AI 技术的爆发式增长，大语言模型与多模态模型已逐步走出实验室，成为驱动企业数字化转型的核心引擎。然而，如何在保障数据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294557&amp;idx=2&amp;sn=cfbc801ae285a2c92c75d1288bede175&amp;chksm=bc5a872bb601708c61291e5eb239750be89c4cd0ad96c00aafa47c204a7be28e1a1726f6bd56&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 20:52:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

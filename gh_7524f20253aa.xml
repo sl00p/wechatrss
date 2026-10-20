@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[PHP曝两大严重安全漏洞，疑似RCE风险威胁全球网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX150DbWqP8YFmKnZ8GpusKfpRtCdDENafjXicGF2PnmOr4rcKXGY1Kj37YNrKricEJpmXagy198XiahCWCpwg1nR6upmzhAALkbRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01PHP两大高危漏洞PHP安全团队已向用户预警两个严重安全漏洞，敦促管理员为即将发布的安全更新做好准备。两个漏洞的CVSS v4.0评分均为9.2。更新计划于2026年10月21日周三UTC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349303&amp;idx=1&amp;sn=86458815b0d0b880c32e19864a449a98&amp;chksm=bc3c143ca82bc3565a7477ef0056ff64f614b93084f7e62e5a5133f72d7506de3c5afd00b95c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[日本传媒集团披露数据泄露事件，超180万条记录受影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX30HGHXFaVJ67QtT8xeKEmicvIhMmRRYMLAdBoPWwic2xicEBS5JNtG38K2ZlaITt6KerHrVN6nWOqVEZ99ll7kPqfjicvVWnIGUR4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01黑客利用窃取凭证入侵日本传媒集团日经正式披露一起数据泄露事件，影响超180万条记录。日经是知名财经新闻出版商，旗下拥有《日经新闻》《金融时报》等刊物。本次事件中，攻击者的入侵目标是日经用于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349303&amp;idx=2&amp;sn=733eeac4e94a65c0f26e2056b11c597a&amp;chksm=bcacb785066ebc3cf8461a783782069dd35054af64d92ab887d1fefdaa7e729b344840d05286&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[KVM逃逸漏洞暴露Linux网络栈更广攻击面，影响多类虚拟化场景]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3o9h0jfOibvNpRjZMhjcuHfXDHJZg2M2icINtOxdTEicdmA2b9WsKahHqU2Lw5N1U4OqJYGlXZtd7XWnRiad6hNIqhpJDMQ8GDhyQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01PwnEscape漏洞引发KVM逃逸风险安全研究人员在Linux内核网络栈中发现一个严重漏洞，攻击者可借此逃逸KVM虚拟机，在主机系统上执行代码。该漏洞还可能波及其他基于Linux的虚拟化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349303&amp;idx=3&amp;sn=6eb3c3e45a3470556d7a96e3d3b935f4&amp;chksm=bc30051f53f64772bdf3e89317c8ad5baad402810825a826eb225fc63a9a2d3f49a2dbf3aaa6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软发布全新安全框架，将AI Agent视为内部威胁]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3wKznjyaBNx3JO8nFIpZD3AhKHibvp8TjMXRQxwIvcIDJkWpiamX8PVaMn50mHUyOoyibUGvZdES2WZib65zXfEuAU9licZcia6miaW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软发布详细博客文章，指导企业做好AI Agent的安全防护。微软将AI Agent视为日益凸显的内部威胁，而非仅存在于未来的潜在风险。AI Agent本身并无危险性，但它们可以访问核心系统，可能出现</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349303&amp;idx=4&amp;sn=e23f5d7c1632b52de731e00192d616d6&amp;chksm=bcc8123ebe2cf126135554cb19560debd12c16c619af62b6fa174bc515a585212ac02b721e5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前OpenAI工程师涉窃密设备案被拘，被曝曾与沙特王室成员联系]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2FxHO8L09Tgn4lD2R6Kc8ylkiaMPnkTVylNjsp6WdnHVxaicvaV46lRDrTGDrrqx0suXJ2Mp6jmicdd8f5jUpYLL31oHs5cjgsuI/640?wxtype=jpeg&amp;wxfrom=0"/><p>美国一家法院周一批准了美国政府的拘留申请，涉事人员为前OpenAI工程师，被控在该公司旧金山办公室的高管会议室放置录音设备，涉嫌窃取敏感机密。检方在周日提交的新法庭文件中披露，35岁的沙特籍人员Abd</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349222&amp;idx=1&amp;sn=21e842090216748d2ad019a0c44b9a2d&amp;chksm=bceca32266982a08406bebba37701aabfcce85349737bde532ec56acdade726f31eb3a758f96&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX17iaDQxx8XmRibib8s3q7zLC7qg0URggrfNjcwzWcW2AwL3iaOSqgS0R6LPNq4nG4Re8NTc59dhUY45FUq8H9dE8hnKHiawicZicVX7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，在2026年Pwn2Own爱尔兰站开赛首日，安全研究人员共利用32个独立0Day漏洞完成攻破，累计获得38.85万美元奖金。参赛队伍先后攻破三星Galaxy S26、OpenAI Codex、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=1&amp;sn=c5c95012ef91c3e08078ab56d31b834e&amp;chksm=bcb0dd77a7490ff0cad638191e2247a23269b964e27d2c8f014e53eab0532836a778476233be&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI曝出沙箱逃逸漏洞，无需API密钥就能免费调用付费模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3f3S3BssfibzPhhC0zoiaV16iaGbOWluU9uZj9OFXoHAVdDgibpISas4azbbSMibZFr7EXX6DeAtzuxbDSNPKGEtWU7UIzuZXvG1wY/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究员Oliver Fish表示，他发现OpenAI存在一处沙箱逃逸漏洞，无需API密钥甚至账号，就能调用OpenAI的付费AI模型。网上流传的截图显示，OpenAI针对这份题为《未认证沙箱逃逸可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=2&amp;sn=18e693efed9ce5df5c272feb59c8f7da&amp;chksm=bc90a91e8e8d009845a00551583dc2479d094f76a678ab3ad1987da60049b695f4abb79994ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenSSH 10.6修复多项高危漏洞，可致明文恢复、文件写入与注入]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0S0LlHduhmkwEJPdVI26LphSABqO40IBsm5EeIDCvPf2BbibsdaU0ARG2rgSlYNsx7WJicY7UUdVQ7KhqRric2iagOzaMKLLXeeQ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月6日，OpenSSH发布10.6版本，修复了多个安全漏洞。这些漏洞在特定条件下可导致敏感信息泄露、写入非预期目录文件，或触发shell注入攻击。本次更新同时覆盖客户端与服务端工具，所有</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=3&amp;sn=6b70277e2444d6f47853ad5d8812044d&amp;chksm=bc6dabe868873290b1234cffbed9e810f0c4eb3e95b4069b323a79973f0282a19b223eaa20b5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Apache Struts披露多个安全漏洞，可导致远程代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0zB2v6YTOf6MvusxXTRVRMUuSX0Mgib2jswScLtGsatfN4WFklm4TMicCLHThmPfPHicguRLx0ia5KPiaftouWxU422iaqvbq1mFdjQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01官方披露4个Struts漏洞Apache Struts 官方安全公告共披露4个安全漏洞，受影响应用可能面临远程代码执行、拒绝服务、非预期数据泄露三类风险。官方给出的修复方案明确：使用7.x</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=4&amp;sn=78bee153784f1c179de9fd4bc191bc8d&amp;chksm=bc238287191739cb4c8755f69c21e140e6a74d5845f356e19b28f1911901fdb10510e74570c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic放宽Claude访问限制，向认证安全人员开放三级权限]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX26iccwEX9NGShPgaeKibKiaickD0IL4CyAbADdpY3tzIErUvdFRibSN4B2emfia9ql47mhRtkeYpmIT58Yg4REs1rEozjAVpKwq5l3U/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic近日扩展了旗下网络验证计划（Cyber Verification Program，CVP），允许经过认证的安全专业人士访问高级Claude模型，同时放宽相关模型的网络安全使用限制。此</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348384&amp;idx=1&amp;sn=b0d043fbf6f272983df964e3f249232e&amp;chksm=bc598a082aeb2efb95aaaec3dd48d454cf056f15cd82f0b7e4477530e522348b6468db7d38de&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

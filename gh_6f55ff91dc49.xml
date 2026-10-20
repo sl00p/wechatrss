@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[盘点本周 11 个 Star 攀升最多的 GitHub 开源项目。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1ribIbwicV5V7C3mqqXgxcWpfZ7Jk9UNn5ejJAUgKdFXI7CgTcZTcyYqTNYv1Z4yBpJx0tib71vBPNmVibwibQBZwPthNSmBL4zJok/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AnyPS5：在电脑上玩 PS5 游戏AnyPS5 这个 GitHub 开源项目为什么登上了热榜呢？是因为 GTA 6 即将发售了，R 星目前公布的首发平台是 PS5 和 Xbox Series</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537903&amp;idx=1&amp;sn=69b07453177c4c06c464245954d7e217&amp;chksm=f836c00826465f7323d91b3a9896e853d1da0656674c4ccf9c6e01614585fd2bb28ec3ea51e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 21 Oct 2026 13:36:25 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我用 Codex 破解了家里这个设备，还能语音遥控。。。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU304Lv8mH4Ohg5dXMlPwwRqoHd0VB9XbNGib0QzjSB3CYFPPysaRsZghSaJLRSFy6Nck2Afb5RrpHC536SddVBGf940nzjX7Ov4/640?wxtype=jpeg&amp;wxfrom=0"/><p>我家的投影仪遥控器，经常找不到。找到之后，也是开机、打开腾讯视频找到播放记录，继续看上次没看完的综艺或者电视剧。想看电影的时候也纠结。饭都吃到一半了，电影还没选好。后来我就想，我电脑就在客厅，能不能直</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537902&amp;idx=1&amp;sn=bab85f388e137fed4534ec70fc77f18b&amp;chksm=f87cd67bc1ca769909000a1771cf4efaae3b1c05cfbc443e422e58590e4ffc2a50fb997d5d56&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0G6hx9GjYZUl0OUhFc4Ire2cB9cFFgWRibFBjG9r9xC8Fibae42gicbX69goMEeicfIV7RUw7djR2ia4BoS9jJoIBfsvCNbPfcF0ao/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前我介绍过 MonkeyCode 这个开源项目。这个开源项目发布以后一直在更新。从最初的 AI 编程平台，到移动端、私有化部署，再到最近上线的 MonkeyWork 桌面端，它的使用范围已经越来越大</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535831&amp;idx=1&amp;sn=f8ad4f1272911a634b2dc2638a187a30&amp;chksm=f822d5461b021b3362de7a12f17bae465bf7b10457f253bb0a042f32474de197800ebc90b751&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 15:19:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[外网跟着玩疯了，只因 Karpathy 做了个《指环王》实验。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2R7m1UD8yZUkYJic1XzdhEkPPyxuQhp8re54iaLVibSictk76FaSvN4fauWDUGR0dNf0WjCuJib3UaqkPMVBx4xXaXdibdTSfylbKics/640?wxtype=jpeg&amp;wxfrom=0"/><p>前几天，我介绍了卡帕西用 Claude Opus 5 制作《指环王》3D 短片的实验。他把小说第一段交给模型，给了 100 万 token 的预算，成本大约 10 美元。Opus 5 自己跑了两个小时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535827&amp;idx=1&amp;sn=3d6758567176f0b31f33ec93636b7772&amp;chksm=f8f09afd39a3eaedbf9298473da877aead67a2fb8c5c1386cb186da05989ae0d81e593d8546a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 13:18:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
