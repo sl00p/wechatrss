@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[关于 Xcode 27 与 iOS 27 的微信 OpenSDK 适配提醒]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/kNiaHzz7zLAvZibs7PldqyrZMKHscOZvRiakB6XqDpkz2Jk8pZia14FP3kLZtJVf8Wf4xU9ovVOqPCbxYqp9ExczQaJQKbeLx5Z1NgLGdHY2vak/640?wxtype=jpeg&amp;wxfrom=10000"/><p>各位开发者：Apple 调整了 scheme 查询白名单限制：使用 Xcode 27 编包且运行在 iOS 27 上时，LSApplicationQueriesSchemes 的有效查询项数从 50</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NDAxMDg4MA==&amp;mid=2650979670&amp;idx=1&amp;sn=b6248eaf89f0b2ff0db47330c068cae0&amp;chksm=bc64145ec8ed701e751240183c03c387053bc8d73a0f51ae39574de46d36d53cb39ae22e5b9e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 15:39:19 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[招募开启｜来小程序 AI 成长加速营，一起激流勇进]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/kNiaHzz7zLAvdHQTicrovN6ufYBGGdHSPialBficsmGwmhOf2Rry5NebIVc9Yv8XZTS2YmAO4dBQOGTlzn826r3KQNaDF0jmnv5mE6XO3ibOPr3c/640?wxtype=jpeg&amp;wxfrom=10000"/><p>2025 年以来，小程序持续完善开发、分发与商业化能力。通过成长计划提供 AI Token、云开发资源和 We 分析专业版资源；支持 iOS 支付、推出个人赞赏；并探索公众号、贴图号等分发渠道，帮助开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NDAxMDg4MA==&amp;mid=2650979654&amp;idx=1&amp;sn=05f219dd2f4dd3e8b83a5059ab9bdc2f&amp;chksm=bcbe97be93a5540be72366e3870988af242610297d365b153cfd7e90dd0393537422cc0694ad&amp;scene=0&amp;xtrack=1#rd</link>

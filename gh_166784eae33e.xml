@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[补丁未至，攻击先行：PHP2Shell 在野攻击全记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq846NjcLMmU2hwPgGNahTBC09FrpHss6bQcWR1uicPKiaOicSMsbmPM0wfIAZicL3am6OxhlzwYE5QQUvFryaHlRLkiaS25RJ2TDtkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞预警 · 在野攻击 · PHP补丁未至，攻击先行：PHP2Shell 在野攻击全记录两个潜伏约 14 年的 PHP 内核内存安全漏洞，在协调披露前夕被泄露——补丁落地前后数小时内，攻击尝试即进入规</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521009&amp;idx=1&amp;sn=45841c97d342011631156787322a6e8d&amp;chksm=ebfe545019c04a50fb7adf80d0cd52bd257fbfda2b4a3ae48ad685aa4498ef6bbd6ef2b052e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 16:30:23 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一把钥匙开千扇门：ConnectWise Cloud Backup 凭据失窃致数百个 Microsoft 365 租户沦陷]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibtbKHHYnia40IkwooicsHHvMpq5Bm9a2P7Jiculhl8073XlCmXq6ZY7SFTdwyAVYPcD7oMyKQ5ZYHM6VgWRrHpurA7k2xmKFNecI/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链攻击 · 云安全 · 事件分析一把钥匙开千扇门：ConnectWise Cloud Backup 凭据失窃致数百个 Microsoft 365 租户沦陷攻击者持失窃的 Cloud Backup</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520968&amp;idx=1&amp;sn=29280cac2dacef5922199acdaab9b128&amp;chksm=eb9e8ba67f774d513a0034eb4973f5eef692a0d100b83f8390322047c18875cc8117e17744d4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8hNBma2gh3rICpvEDtRsY1ib0tfvIQiawJFR8QqQoHZhCuaic2jhC930joX4niae98TibklEIg6iaB4jicCJrK0yu1iariaUMm0ic7UUbfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.07.24~07.30攻击团伙情报Mirage Kitten 推出新型恶意软件，瞄准中东和非洲地区"Angry Spark"间谍软件与"Operation Triangulation"基础设</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519656&amp;idx=1&amp;sn=7d0e5d7f586b7d0bdd52d08e20e25d51&amp;chksm=eb54cca048ea63f58a664f0347b38c42828d1ed657d33578ecb73d6deb4e68e5c2b258da5ad6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 31 Jul 2026 14:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[没有黑客坐在键盘前：一个AI智能体攻破了Hugging Face的生产环境]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicUPUuVJ6G4CWINJUN2MTjZk56StVWRDKwQVDyUAmvvYmicNPBYE6gXZ2nuYicTOo7iboSHiceI6EmQfkibwTDn0aw2PN51QriaqKia5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件速览2026年7月16日，Hugging Face 发布安全事件披露，确认其部分生产基础设施遭遇入侵。这起事件之所以值得每一个安全从业者关注，不在于攻击手法有多新颖，而在于执行者的身份：整个入侵过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519535&amp;idx=1&amp;sn=c7b38ec2459d546d697a1633b34cb87e&amp;chksm=eb55119f5fc2ff512a95432d92b5bde43163f0688a1b29d34328c27ed1ace8a5609b115f66c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 16:24:46 +0800</pubDate>
     </item>
   </channel>
 </rss>

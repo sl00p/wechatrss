@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[紧急！PHP两个9.2级漏洞已修复，未升级的赶紧检查]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcPfgHZoWYyRXFPib6x7ncEwGHd1Ho9qtgPJyIFhNZZcMYEJMw2yTpkldKLl7SQKbticU9MStBQz5qpLIoI765JKkD8wdoHQZy9mE/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天（10月21日），PHP官方发布紧急安全更新，修复了两个严重漏洞（CVE-2026-109618、CVE-2026-109619），CVSS评分均为9.2。这两个漏洞在特定条件下可导致未认证远程代</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548218&amp;idx=1&amp;sn=97d816b0e4f014f6f072c1537e0a4520&amp;chksm=fdba61cc21e49984adcb7b97c14679d247d3bfca7b2724ac3c7fa9b101a0d0b1d471094f4ad6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 08:10:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TRAE 征文活动冲刺邀请]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcNwR3N3rzcp2mnYHJPjIpU1rJfNQvcQu7Nz27bD8Jm4lGSFldZQuSZbnGVgmG4eekP7KEu6p9gonO2c6RcwEPPOmPovf1nC7Z4/640?wxtype=jpeg&amp;wxfrom=0"/><p>TRAE 双端融合征文活动，赛程已经过半。距离 10.31 截稿，还有不到两周。很多人心里都有一个"想做却一直没动手"的项目；比起功能罗列，真实体验这四个字才最有价值。现在就行动，跟我们分享你的真实使</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548203&amp;idx=1&amp;sn=bfd87deb22c315ffe43c1b7680d2c214&amp;chksm=fdcd6cacd626ce52cefde09bd2947460c4453921311763b1262046f1773d01246bbd40eea443&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsXUBPTs0aDicDCctRuAC59Z9yuncM0L8ibuibEp22RWSFOzScfqfH0ygNzWJD6K1tchQpwG1WunGO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在IOT开发连接Soft AP后发起网络请求时，发现一个奇怪的现象，经常有网络请求超时，一开始以为是硬件（提供Web服务）的原因，因为客户端代码看到网络请求已经出去了，但是硬件端反馈就是没收到。那问题</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547154&amp;idx=1&amp;sn=be8d1baeee4cca345192d76dba2dbe0b&amp;chksm=fdc946a7cca23021a6d1ec13a1790311f2c9a7dc893479224f7bc244e30732d703b1ca7c70c1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 01 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当上传不再只是 /upload，我们是怎么设计大文件上传的]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsKuDUV0SLjoAs39zN5WvytuIKVBq9gz8fx3VfiaLuEnQMNBV05EyMyIxO1BtZhVrjeicEdWLQf96kg/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）业务背景在正式讲之前，先看一个我们做的大文件上传 demo。下面这个视频演示的是上传一个 1GB 的压缩包，整个过程支持分片上传、断点续传、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547153&amp;idx=1&amp;sn=71db09d5456a56578e4ad152587961ae&amp;chksm=fdd86c1ef06809e2be1f173d4cee8d34fae3b4eb8cb6a318b77b11d7ed962b60f39115ef87c5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 30 Nov 2025 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

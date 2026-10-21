@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[又盘点了 4 个稀奇古怪的 GitHub 项目，第一个很抽象。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1x3hj64aybzoOj4LWTt1vhzfWkPo65C9Iy9z1xZbIVo23wA8p1elr2nzpuUGiaKly6XlWaYzfgIjs0iaDjVUHGxicwHQaEpUXicAE/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在你的电脑上打 LOL 的问号这个开源项目很抽象。可能玩《英雄联盟》的人才能懂这个梗。有开发者把 LOL 里面的信号轮盘搬到了电脑桌面上，做成了一个叫 lolPing 的小软件。危险、请求支援、敌</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537904&amp;idx=1&amp;sn=f91d24d988863606f9abb5445ef79296&amp;chksm=f86c5b5fbd1871c9add90ed479d71a07946d5050c337a78b8266419835646bdb604caaf2f19d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 15:40:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[盘点本周 11 个 Star 攀升最多的 GitHub 开源项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1ribIbwicV5V7C3mqqXgxcWpfZ7Jk9UNn5ejJAUgKdFXI7CgTcZTcyYqTNYv1Z4yBpJx0tib71vBPNmVibwibQBZwPthNSmBL4zJok/640?wxtype=jpeg&amp;wxfrom=0"/><p>01AnyPS5：在电脑上玩 PS5 游戏AnyPS5 这个 GitHub 开源项目为什么登上了热榜呢？是因为 GTA 6 即将发售了，R 星目前公布的首发平台是 PS5 和 Xbox Series</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537903&amp;idx=1&amp;sn=69b07453177c4c06c464245954d7e217&amp;chksm=f836c00826465f7323d91b3a9896e853d1da0656674c4ccf9c6e01614585fd2bb28ec3ea51e5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3Aj1fcLwENpiaa4Y4mfUr9gWw7bRW6vPvzRWUUrTt2mxRkibWjEiaw2XC9nHmKKgJGKS1D8nqicxwA4em2aytOzvlETKibnicmAoTmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>写 Skill，本质上是在把你一套熟练的工作流程翻译给 AI。很多人在写 Skill 时，会先列出一个大概的执行顺序：第一步先干嘛，第二步调用什么工具，第三步检查哪些结果。然后让 Agent 试跑一遍</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535843&amp;idx=1&amp;sn=9b1a388391a85d00b267f2f9084a5225&amp;chksm=f889466fa08997223bfa0a54d43d1d13988bad8ba1f273afdf92a199d7d381bddbce861477e2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 08 Aug 2026 14:35:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 4000 星星的桌面端 Agent ，每天 3000 万免费 Token。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0G6hx9GjYZUl0OUhFc4Ire2cB9cFFgWRibFBjG9r9xC8Fibae42gicbX69goMEeicfIV7RUw7djR2ia4BoS9jJoIBfsvCNbPfcF0ao/640?wxtype=jpeg&amp;wxfrom=0"/><p>之前我介绍过 MonkeyCode 这个开源项目。这个开源项目发布以后一直在更新。从最初的 AI 编程平台，到移动端、私有化部署，再到最近上线的 MonkeyWork 桌面端，它的使用范围已经越来越大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535831&amp;idx=1&amp;sn=f8ad4f1272911a634b2dc2638a187a30&amp;chksm=f822d5461b021b3362de7a12f17bae465bf7b10457f253bb0a042f32474de197800ebc90b751&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 15:19:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

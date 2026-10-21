@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gOUtVJZpgpwpEH1pAWO09pUibNFzv9ty14WDRs7RFIc2s0WPnrsuqLfYrYj3m1EcmZXfPfFp3MtKHnr3YibttXxmJhD1Efme9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI近日提出一套五阶段流程，用于处置广泛使用软件中的高危漏洞。这套流程源自团队历时两个月处置PHP漏洞的经验——PHP是支撑全球网站与Web应用运行的开源编程语言。本次披露的PHP漏洞中，一个</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=1&amp;sn=e43dd37747f83a802649092fcdeed26f&amp;chksm=bc132c9c00bcf8fcadb59933516aa72f2d9f396ff24655ae14a4648fee678186b2d07eadeeaf&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用Claude与Grok发起自动化攻击，波及拉美400余家金融机构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1hcPOVVciaktE91PSQLicezGC1WZIWdEVB8BDlTKAIPvTYVv05lne4bHZibkAD1JcvlrjsCNyDSCz3BJD7PmN4ibFzxhv5xkiaYjHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Straiker发布报告称，一个网络犯罪团伙利用AI Agent协同实施攻击，目标覆盖拉丁美洲400余家银行、支付服务商及其他金融机构。该团伙名为CyberCartel，据披露其使用Ant</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=2&amp;sn=fac0714f7e8bde0eb95e6f4b2356de94&amp;chksm=bc459bea8012506c1e7e1828039bb433ed5e62c9bd7f7e1be5bb51d1eb3340f985b457b499b2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA推出OpenShell参考架构，阻止Agent越过设定边界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0E84O0pI4IJ8ia6QQxp5HyyWNdDjmtcobibMtTPibfkdIicib7gicAmIpAK8bWYftygbes36BKR7cZ1MoKqeibxgzbX5h25QOlPxmsYQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA推出的OpenShell参考架构，旨在帮助企业管控运行在企业基础设施与本地计算系统上的Agent。该架构基于NVIDIA现有OpenShell安全软件打造，搭配专用硬件，可支撑AI模型运行</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=3&amp;sn=d1c50d21a21c087c205eaeb03bfcc1af&amp;chksm=bc21ef829cbcc6fda20e178855abb53285593d8bcdf245c2afb6928421f1b1b18ddd5597c319&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GitLab修复12年历史严重漏洞，可致自托管服务器未授权代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0CFD2JjhZcAibOjhktHr4ib107kA2Vlice8OpSXz6bbDOooUG6tRSc0G33rmdU533DTBJPmfpAS0jdkbU1icaGCeNKaKG2uLncAbU/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitLab已发布紧急安全更新，修复一处最高严重等级的漏洞。攻击者无需登录，即可在GitLab自托管服务器上执行任意代码。该漏洞编号为CVE-2026-110264，CVSS评分达满分10.0，同时影</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=4&amp;sn=35a2b59e11a421004a97d2ebe98ea305&amp;chksm=bc3b30501e00b302a297fdbae5fd09e03a8cbc7110812e5cb562016c293429a83e146b45d826&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PHP曝两大严重安全漏洞，疑似RCE风险威胁全球网站]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX150DbWqP8YFmKnZ8GpusKfpRtCdDENafjXicGF2PnmOr4rcKXGY1Kj37YNrKricEJpmXagy198XiahCWCpwg1nR6upmzhAALkbRI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01PHP两大高危漏洞PHP安全团队已向用户预警两个严重安全漏洞，敦促管理员为即将发布的安全更新做好准备。两个漏洞的CVSS v4.0评分均为9.2。更新计划于2026年10月21日周三UTC</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349303&amp;idx=1&amp;sn=86458815b0d0b880c32e19864a449a98&amp;chksm=bc3c143ca82bc3565a7477ef0056ff64f614b93084f7e62e5a5133f72d7506de3c5afd00b95c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16nuicrvWAsmPgHawvO4oXv4WNcHbOcVoHcIZtjGsdMz17QNgb1eo2G2CPvzibI2xSka9M1ZooICtZDBakFPjWaD6IlDemAdibdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名疑似单独行动的威胁攻击者使用名为ARTEX的AI驱动渗透测试工具，入侵韩国多家金融机构，窃取客户与员工数据。此次攻击活动发生在2026年9月底至10月初，波及银行、储蓄银行、资本公司及网络借贷平台</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=1&amp;sn=f8fd91dd11819d3b16ff85ffc80cd364&amp;chksm=bc4621b8607e2a961a7cce06096b200f915afd7bd48bc16511ba1842702f8dc383b95a4ca9bf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GhostAction供应链攻击卷土重来，恶意GitHub Actions窃取CI/CD凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1EnJnI2BrjuBVTnaj4LR19nDyFWqKyAIcvBOkA0Dc8HTcVA07yb4Jt7a86v7ma3SpQye1icRHPEEyC5I6WG9Au2vaEU2ibWyWec/640?wxtype=jpeg&amp;wxfrom=0"/><p>新一轮GhostAction供应链攻击已攻陷772个公共GitHub仓库。攻击者通过伪造GitHub Actions工作流文件，窃取CI/CD环境中的各类凭证。本次攻击活动时间为2026年8月31日至</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=2&amp;sn=a68965832f789128a4c9737496d0429f&amp;chksm=bcd584d49d8e5af042a2e664f4f3eae679b37f69519f4534dc0b13028b04d3fe1fa1e99da1e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX15RcLAQQOKbmP85f9dibmEuxF537n7wl254meFdWHDicoCZt6VTaNtJKenXFPDiczHtPotMia7Zr2Nnq04WibHYByGcAuLCF8s60jM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞影响Atlassian数据中心产品威胁行为者已开始利用CVE-2026-21589（CVSS评分9.3），这是Atlassian数据中心产品中的严重任意文件访问漏洞。在特定条件下，攻击</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=3&amp;sn=cda5c645a36e3a51edbb2ef6a8679dd1&amp;chksm=bc41304c4d111a9663459a326fe2309f106afbc2a70b875aba13029a28ce506525fe4ad81770&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用Web3与区块链C2隐藏供应链攻击，瞄准云凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX27QY25h3lHOf43byaWla7B9ISNvg9aN0TezzXs5IAtNeL9mZXANTNic2LcqKduT1vR0Ft6HjhS9jNibMe3UE7ANahItWib2JMUhM/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正越来越多地将公共区块链网络用作软件供应链恶意软件的命令与控制（C2）层，无需修改已在开发者系统上运行的恶意代码，即可轮换攻击基础设施。这种方式为攻击者提供了高韧性的通信通道，可将已感染的恶</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=4&amp;sn=51155c30e1cd368076d56956242d80a3&amp;chksm=bcfa8c3275ac15e25b291a0e8785fe66ebf500ab7e38f2b3fcfa3eae3077e2c82f6829ba31ef&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX17iaDQxx8XmRibib8s3q7zLC7qg0URggrfNjcwzWcW2AwL3iaOSqgS0R6LPNq4nG4Re8NTc59dhUY45FUq8H9dE8hnKHiawicZicVX7w/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，在2026年Pwn2Own爱尔兰站开赛首日，安全研究人员共利用32个独立0Day漏洞完成攻破，累计获得38.85万美元奖金。参赛队伍先后攻破三星Galaxy S26、OpenAI Codex、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348430&amp;idx=1&amp;sn=c5c95012ef91c3e08078ab56d31b834e&amp;chksm=bcb0dd77a7490ff0cad638191e2247a23269b964e27d2c8f014e53eab0532836a778476233be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
