@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 中台的构建和智能体调优实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT6YbjS4jgBiaZw5mqDAQibHmG0dBPLuf4m4ZSial8mK1RbHz2h64CkTpZprSMpSukBjicw1WSricYabgQ4DovRKce1lj9dovR6PvETE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为一家每天用 AI 处理大量客户预算的广告企业，我今天想分享的是，智能体如何真正接管一条完整的广告业务链路。它不只是一个聊天窗口，而是可协作、可进化的。一、易点天下的 AI 架构易点天下是一家全球化</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517108&amp;idx=1&amp;sn=8671bf45e2e76605087fcaae5fe64817&amp;chksm=f41afac038f21eb4e983fee021d0e860523fc82370bcf760086b9cf31e422b306a5182a20c16&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 10:24:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从 Jev 范式决策模型接入，到参与 Team 协作的完整实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT4nntkzIAYkpfTyPzAXhZN6gHkpFK2dhTjgEzZUeOgstRXjjXfF0yA4kJLoExpBBDHGYKEXUAjRSx6UZOwDQ9icmjLcdqniaHYXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们在《让 Agent 学会判断：从 JEV 接入到完整 Harness 决策流程》分享过，如何在 AgentScope Java 接入 Jev 决策模型，将类型化请求、结果解析和校验封装在 JevC</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517100&amp;idx=1&amp;sn=6180d7a9fc581378aba31e0a097288a6&amp;chksm=f4a2ae0329245f00ee9a4003888a6c21c799f6478e9289cd521fcc185b35bffb5cd7242ec9f0&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[掘金 X-lab · Coffee Talk 邀请你来见一面]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcOdIxbqkPs3FTQ9jln8Q8HrPcPNfMNVdCCo0JUSg7dZJYiaPR0YicRPnHk0Z6ZNUicfymcBGl83duqehNPxLOHlbQTD5VmwECjPZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>做产品的路上，总有一些问题，自己琢磨很久，也想找个人聊聊。一个功能到底值不值得做？产品上线后，第一批用户从哪里来？有人开始用了，又该怎么让他们愿意付费？这些问题，可能你正在经历，也可能你已经摸索出了一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548252&amp;idx=1&amp;sn=1cc4769b8b2c1efcf0a1bdca5420c15e&amp;chksm=fd2175787e5bc5f46579852e66c1c13ff15b5c6f9c0b7f7440fa34bd625af6e0e15844e013cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 16:12:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[紧急！PHP两个9.2级漏洞已修复，未升级的赶紧检查]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcPfgHZoWYyRXFPib6x7ncEwGHd1Ho9qtgPJyIFhNZZcMYEJMw2yTpkldKLl7SQKbticU9MStBQz5qpLIoI765JKkD8wdoHQZy9mE/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天（10月21日），PHP官方发布紧急安全更新，修复了两个严重漏洞（CVE-2026-109618、CVE-2026-109619），CVSS评分均为9.2。这两个漏洞在特定条件下可导致未认证远程代</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548218&amp;idx=1&amp;sn=97d816b0e4f014f6f072c1537e0a4520&amp;chksm=fdba61cc21e49984adcb7b97c14679d247d3bfca7b2724ac3c7fa9b101a0d0b1d471094f4ad6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaT5t7Bqr6uq8TNNyQrYkofTedLXdEYrdR7B5YucmDgnUsvXKOqS0SuWwicZiaruMxpA2brvxVlLibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）1. 背景与痛点我们团队维护着一个微前端子应用集群，每个子应用都需要同时服务 dev / test / release / online 多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547158&amp;idx=1&amp;sn=8a0d497cf4da7c6ffc9d08b7a4f10d59&amp;chksm=fd2ae39144d8dfcb4da07ffea9bcd2b9c4bfa4aca5366418d8e8037dcb44f78f04d167414904&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 02 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Android 网络请求超时？可能与连接池和脏连接有关]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsXUBPTs0aDicDCctRuAC59Z9yuncM0L8ibuibEp22RWSFOzScfqfH0ygNzWJD6K1tchQpwG1WunGO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>在IOT开发连接Soft AP后发起网络请求时，发现一个奇怪的现象，经常有网络请求超时，一开始以为是硬件（提供Web服务）的原因，因为客户端代码看到网络请求已经出去了，但是硬件端反馈就是没收到。那问题</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547154&amp;idx=1&amp;sn=be8d1baeee4cca345192d76dba2dbe0b&amp;chksm=fdc946a7cca23021a6d1ec13a1790311f2c9a7dc893479224f7bc244e30732d703b1ca7c70c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 01 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

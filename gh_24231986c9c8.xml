@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenViking 网关：让任意客户端用上 Agentic 记忆]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefLOWSNeiaicytxS5Bdp0HPNoJRDywyDvX4f5mnTRiaTZ3yFr26DkY3OKtyuicvjsJScWDNkeXoiazxtXsa7834uCJXR5csbI9UZfN0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个项目聊到第三天，你希望 AI 接着上次的结论往下做，而不是重新问一遍背景。要做到这一点，它需要在回答时找到之前的信息，也需要把新的进展保存下来。但接入记忆并不总是方便。有的客户端能装插件，有的只能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523647&amp;idx=1&amp;sn=f96a64e413be6cdbaf0936f0a2a69f23&amp;chksm=e873095f2d481ccfb06db8cf3847c332873207f30a14531c6e9faf79e893be7c3d4982274357&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 19:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[火山引擎云数据库 Lakebase 正式发布：让 Agent 高效访问库、湖数据]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeaWXV5u1AGfJHkx9hylSo5P3MRVu45Fc95DrnuuVW0XlKAibicliciaWHiaE53Tib1ptmQ22OgffEGXERceP4Zy52ju4VUUSvsL3ib30/640?wxtype=jpeg&amp;wxfrom=0"/><p>数据从哪里来？要到哪里存？怎么快速查？这是大模型用好企业数据最先要过的三道关。今天，火山引擎正式发布一款面向 Agent 的新型数据引擎 Lakebase：这款轻量化库湖服务具备 业务数据自动转换、多</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523456&amp;idx=1&amp;sn=33fb7c4c1b2c914c92ab3bd1ae11a117&amp;chksm=e8809986f83c95fa190792e2984b9100230c88ce8e9d3ede57f766c9b6ab350eaa116784d7ee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fec4FPI08zsLzqbBDuj8B1YKjh7u6HqD7BJyQhp9O7hp5llZaiaedlSs3JicrxDNDmIicqNibGeFoRYYO8d53g19uicSKNqM3Gtjejjc/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型持续推高内存存储需求与硬件成本，硬件成本正成为制约向量检索规模化的最大瓶颈之一；海量向量场景下，如何在固定预算内平衡“吞吐、延迟、召回率与数据导入效率”等各项性能指标成为业务扩张核心难题。火山</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520682&amp;idx=2&amp;sn=4cbdb81828435ba827ee4c34532f5de3&amp;chksm=e8ed43dd9baebc24bce6ae3b170c709839c7789670251f48ed02fade2d7c47948b5f6bb6ad0d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从数据库到 Agent 原生数据底座，火山引擎发布 Agentic 全栈数据管理服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fed6ON8ojbfLWQZdZB7n8wXLXDEJllROyEUdb4XkIVpM1I0j3t3fXwib0YCkx0pibVV4z8RdPL7epCIyWaJZmNUj7wS8o2fqMnwro/640?wxtype=jpeg&amp;wxfrom=0"/><p>当数据消费主体从 “Human + Application” 扩张至千万级 AI Agent，传统数据库的能力边界已被彻底打破——海量 AI Agent 全天候自主检索、推理、协作、调度数据，传统数据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520645&amp;idx=1&amp;sn=5a1c550f64db8f245237cbed6b6402e0&amp;chksm=e8a6a70d1ed7db1a7f2a890be4553067903611a7a68d97625dc0ba854b607a406679edf37476&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 19:28:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

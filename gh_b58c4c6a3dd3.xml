@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[当Agent开始办公提效，谁来管控数据外泄问题？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun4UDDhvH9tibkZw6K8hYv0xEac2iaF0bU7M8LRYsPByib9ibtofCicEsuUZLrbK0OcbKgUHPp0EBPoCKxzZXegmAJiaibbIbCj29lFwkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统的数据防泄漏（DLP），防的是“人”：员工有意或无意地把敏感文件发出去。这类事件相对低频，基于特征匹配的检测方式基本够用。Agent加入日常工作之后，情况变了。Agent执行任务时会大量读取、处理</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530963&amp;idx=1&amp;sn=05122685a9d973f0e4b0fc1f429a193d&amp;chksm=c14c104d82028950715b6e948e72dab2287a764043bcbaef7b052c210fc8a1b80994a35cd007&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 15:40:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CodeBuddy Security推出SCA漏洞可达性分析，告警降噪达88%]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4U7RicibqMuKIOmx0K4pZj5fXXxkNEdwmWNoTCHRt1v2tA6tiaxcT96kF8HoNtUo5pTBGIHibHocCCA3aA3amUAGUYM42NZ4AGyvE/640?wxtype=jpeg&amp;wxfrom=0"/><p>告警越来越多，先修谁仍靠人判断AI 智能体写代码、引入库依赖的速度，正在超过团队审查和分诊这些产出的速度。SCA 能快速找出受影响组件，但扫描后的问题仍留给团队：这么多告警，先修哪条？只按严重性排序还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530922&amp;idx=1&amp;sn=d132eb9c92e71550a2c7e0c2e021dbc5&amp;chksm=c13e15f3b1040a02da8055f9fcaa22395bac96afb5a72bb4663d29305a90cb9db56a2c1c1559&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun70xz4ggwV30rTZ0Bjiax1fQYt6miajJO3bnbpSGOcGAtzqgiaWbDLdr5icS1jLk7UJibzfPx7uTxJiaeMDRtibERYzsBEoYoLuMD9puk/640?wxtype=jpeg&amp;wxfrom=0"/><p>33.5万只裸奔的“虾”正在发生的业务风险OpenClaw“小龙虾”正成为全民热捧的“AI员工”，伴随其爆发式增长，安全风险也逐渐清晰。据OpenClaw Exposure Watchboard最新测</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529147&amp;idx=1&amp;sn=f2486a47b3f326d0a010de7f8f7bf105&amp;chksm=c13fbbdcc083b63938f4d36ea752192edb7ecf4d2a7a7109260f4ac2ff32d4082f3528f3264c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 23 Mar 2026 20:48:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给龙虾上“智能门禁”！腾讯云AI Agent安全网关，让企业实现精细化身份管控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun70eBF873Q6RsDuJTwD5TS2AOXlHI52e7Sp5leLSDmtICe1ym6Z2nwux0KSbTwJFjrnu3CK4kI0bMabRz7lqeYXiaVOdpAUmbRA/640?wxtype=jpeg&amp;wxfrom=0"/><p>想象一下：公司突然来了成千上万个"新员工"，他们24小时不间断工作，能访问各种系统、调用各种数据。但问题是——你不知道他们是谁、在做什么、有没有越权。这正是OpenClaw等AI Agent大规模应用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529133&amp;idx=1&amp;sn=09e97ea26ae9c6e6e8f73fa37f057722&amp;chksm=c1e800a4333d987180c7a514b8263b70ba98f99b098cb382a16b6fd5f59d0d4126243d1e5f68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 20 Mar 2026 16:12:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

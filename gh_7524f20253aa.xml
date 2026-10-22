@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX147AYvA1tGwicUZz2at7EwV2nxicMibVnYJbEUJ1M420Lvhh2tpz0MnYA9mO6A2tMAKNeSBfu6gLR8iatrxhE30yde8flLeCAlA7o/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于AI构建的攻击工具会自动搜寻互联网上所有可公开访问的AI模型，利用这些模型策划入侵行动，而产生的算力成本全部由模型所有者承担。研究人员Priti More、Susmit Yenkar写道，今年</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=1&amp;sn=141551c4da9361aacc8522b09851a89b&amp;chksm=bcb3c4f8f45caf84c67d91b8916aff1b409b5326bed341747607d960178b71d67edac9a3f678&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2EGP3f6M4qMkatcMjgS1Y9KopGHV57Qjlzicy7DxYDuF6u9icWZg2lFs2VqK4kTQhsb7EA6GiaYejSlyzXXFbC0a9bUmT2PduJkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个KSMBD RCE漏洞CVSS 9.0KSMBD是Linux内核内置的SMB服务器。只要Linux服务器运行该服务，就会面临两个已公开披露的远程代码执行漏洞风险。趋势科技旗下ZDI为这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=2&amp;sn=ec01d81e8dda6d7ea277525599796e79&amp;chksm=bc2bffafccd8984c35898b1c1c2f31c2828e275167801b6840c40c78e5596b66276b43fd554d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[朝鲜Lazarus黑客采用后量子加密，隐藏恶意载荷躲避安全工具]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ouqR40ds3EMfqlJmpzpQSSCpUloNKyjysibSFo89DBufa2ufeibaquvRMmdzFyokbdS4X5wibIrxgUNa4ngRwuR2aWwYzd6K0jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>与朝鲜存在关联的Lazarus黑客组织，在恶意软件投递链中使用后量子密码技术，躲避安全工具检测，隐藏后续阶段的恶意载荷。研究人员在代号Operation FlashHole的攻击活动中发现了这一手法，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=3&amp;sn=ce31c2ca9027e6f8499f26912ab2aa56&amp;chksm=bc6a133d3d80d5e84d60c5f9d626ca075e944dc02349e3f10f9c994e43520c22fb029cf4b3a1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软披露ConnectWise供应链攻击，Storm-0940借AI工具加速入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX259wptugcdInClKb0Jpo4Nlia7q7ic5qwj6hvpt1KjPRMuBFFZqWLkjgD3P57xBTe7rticibaBAB0qibxmVRDYZKR8iaY69xm1pIkO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Storm-0940动用ARTEX框架微软发布详细技术报告，认定Storm-0940威胁组织是ConnectWise云备份供应链入侵事件的幕后黑手。该组织在攻击中动用了ARTEX，这是一款</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=4&amp;sn=3b4d5e9474198c5d5777c39a6ea2d5d4&amp;chksm=bcfd676f06b4305ee99afab2f4a5224293d0fd029f4e9e5aa4f6afde1ad471fdff0e8f5f453a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gOUtVJZpgpwpEH1pAWO09pUibNFzv9ty14WDRs7RFIc2s0WPnrsuqLfYrYj3m1EcmZXfPfFp3MtKHnr3YibttXxmJhD1Efme9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI近日提出一套五阶段流程，用于处置广泛使用软件中的高危漏洞。这套流程源自团队历时两个月处置PHP漏洞的经验——PHP是支撑全球网站与Web应用运行的开源编程语言。本次披露的PHP漏洞中，一个</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=1&amp;sn=e43dd37747f83a802649092fcdeed26f&amp;chksm=bc132c9c00bcf8fcadb59933516aa72f2d9f396ff24655ae14a4648fee678186b2d07eadeeaf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3M5ibEvEPzEIBEfmPp43RriaUCZXsJuoygwYjIz6jm83RfQIndEUSicEuUqb1ByrniahqibKB8reAWVBrhwvoXUkoQibpzYmPlD8AzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>REA全称为Reverse Engineer Anything（逆向万物），可将Claude Code、Cursor等AI编码Agent，连接至各类无需源码即可检测软件内部结构的工具。这一开源项目将G</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=1&amp;sn=419804be603aff82b7e62ef20b81813f&amp;chksm=bca982848caefeb21407842d45068e32caf749bb00bc491a0c1fbaeddad8d779975f696390cd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 10 Oct 2026 18:09:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新品上市｜Bitdefender AI 安全，让 AI 使用看得见、风险可管理]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3bX7vbp1sJmNNJia3M249dGwmCibjap9zoTdBo05SQZsfXdsHukKJM4gr9ZNfWJWmVicJxib6gu0lQUavI83Eddic3xoYy4S43EnFw/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着AI的普及，员工会在网页上使用AI，开发人员也会在电脑中安装AI工具，让AI连接企业内部系统。AI的使用方式越来越分散，传统软件清单却难以完整覆盖。企业正在使用哪些AI？它们接触了哪些数据和系统？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=2&amp;sn=ecea800f71d0da78b9e4eb54219f888e&amp;chksm=bca926655c5c1536279ff577be486386e6bed8fb838a99988fcf357892468c34fdc5489b546f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 18:09:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3svv2K8KqhEgibnWT362wu1Ouia3gg3CyEBq3cJSrhY8ibricbibtqA5oibib9hbnjAfPdia1LSjxY2heaZHexqUlgOKGzNibjtfj8NGBU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic于2026年10月8日正式启动网络使命计划（Cyber Mission），帮助安全团队防护关键基础设施与开源软件。该项目整合了先进的Claude模型、工程师团队、威胁研究成果与配套资</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=3&amp;sn=95c99e9f4ac990ee2a9a9b7ff7106efa&amp;chksm=bc6ce49225a10dfe32f607dd911cc1cf1c9d3d8673e25f08b05b615fcc671e81a255419d5ad5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 18:09:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数万GitHub仓库遭植入恶意Actions工作流，窃取全量历史存储凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3pVRY2pxy3wmH37LFgQGRETazy1Q2kN2zFTMKl9QW2cR4AlH4XMtjICdWAOhpskYCCLr270ChhKuwzgadQvpoEUrRFAmW07Iw/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员近日披露了一场正在持续的凭证窃取攻击活动。攻击者已攻陷两个知名开源项目维护者的GitHub账号，向超过340个代码仓库推送了恶意GitHub Actions工作流。Part01Ghos</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=4&amp;sn=e7809b8ddc8006950b1e388a94af33f6&amp;chksm=bc2cb1e7413eaa1d9ff372b4f5600b3e9f0c0dbbfa0aa94d61d330e50de11fe8e5b7ba52d735&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 18:09:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用AI工具入侵韩国金融机构，窃取客户及员工数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16nuicrvWAsmPgHawvO4oXv4WNcHbOcVoHcIZtjGsdMz17QNgb1eo2G2CPvzibI2xSka9M1ZooICtZDBakFPjWaD6IlDemAdibdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>一名疑似单独行动的威胁攻击者使用名为ARTEX的AI驱动渗透测试工具，入侵韩国多家金融机构，窃取客户与员工数据。此次攻击活动发生在2026年9月底至10月初，波及银行、储蓄银行、资本公司及网络借贷平台</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348498&amp;idx=1&amp;sn=f8fd91dd11819d3b16ff85ffc80cd364&amp;chksm=bc4621b8607e2a961a7cce06096b200f915afd7bd48bc16511ba1842702f8dc383b95a4ca9bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

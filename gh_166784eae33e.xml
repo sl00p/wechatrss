@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.10.16~10.22)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibIPcuINgsmOnN20l5YmHiacrVJoFoOa555eJDDc0yCruzvos2l1cqNwalMQxGrjXDia5LjLseNc1hIibib3KQPvS1mkVs6ecMMqbk/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.10.16~10.22攻击团伙情报FlashHole 行动：Lazarus突破安全防线，规避管控Swallowtail 团伙针对两个北约国家国防企业实施网络间谍活动APT-C-55（Kims</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521011&amp;idx=1&amp;sn=033a8d339775d9a200037a94fa2b43b9&amp;chksm=eb25d6eba322a9d515f7c94c58bff6f316b786ffc437fa416b2c16da981360cc298dcbe9d7e0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 23 Oct 2026 14:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[补丁未至，攻击先行：PHP2Shell 在野攻击全记录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq846NjcLMmU2hwPgGNahTBC09FrpHss6bQcWR1uicPKiaOicSMsbmPM0wfIAZicL3am6OxhlzwYE5QQUvFryaHlRLkiaS25RJ2TDtkk/640?wxtype=jpeg&amp;wxfrom=0"/><p>漏洞预警 · 在野攻击 · PHP补丁未至，攻击先行：PHP2Shell 在野攻击全记录两个潜伏约 14 年的 PHP 内核内存安全漏洞，在协调披露前夕被泄露——补丁落地前后数小时内，攻击尝试即进入规</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521009&amp;idx=1&amp;sn=45841c97d342011631156787322a6e8d&amp;chksm=ebfe545019c04a50fb7adf80d0cd52bd257fbfda2b4a3ae48ad685aa4498ef6bbd6ef2b052e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibYsELomaHPaDJsbU3EgfEdRBFlBeLtIUQaT31iaIHUSAiaD9TeQpo6mbumhzqjl3UIqWCyaH8qdzrFFiaT3TdevZ6vibtJojFcTT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>一、概述这不是一个“AI 产生自我意识后主动攻击人类”的故事，也不是一起“公开版 Claude 防护失效”的事件。Anthropic 在对 141,006 次可能获得互联网访问能力的网络安全评测运行进</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519661&amp;idx=1&amp;sn=28e5b8a148ccdb38b814d182601f8648&amp;chksm=ebdcc56bbd4dfc8218315559d996843043d846e4f92cd684408bdc4cef5e7fb655786dd37909&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Aug 2026 15:41:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.07.24~07.30)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8hNBma2gh3rICpvEDtRsY1ib0tfvIQiawJFR8QqQoHZhCuaic2jhC930joX4niae98TibklEIg6iaB4jicCJrK0yu1iariaUMm0ic7UUbfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.07.24~07.30攻击团伙情报Mirage Kitten 推出新型恶意软件，瞄准中东和非洲地区"Angry Spark"间谍软件与"Operation Triangulation"基础设</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519656&amp;idx=1&amp;sn=7d0e5d7f586b7d0bdd52d08e20e25d51&amp;chksm=eb54cca048ea63f58a664f0347b38c42828d1ed657d33578ecb73d6deb4e68e5c2b258da5ad6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 14:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
