@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[今年 1024，我们想讲 5 个「想用、管用」的故事]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz40sZIoJnQKwOOedXrXyfHhPGIB4ctswJ4x4b1tpkiba0rM20zlIryoqZz1KBayDzeiblI34fFD2xhX5niaQ6366icia4CuEIHOUNGU/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年 1024，我们想讲 5 个小故事，关于阿里人如何通过技术解决普通人面临的具体困境。他们写下的代码，有的落在杭州的社区，有的落在长江源的保护站，也陪确诊罕见病的病人度过就医日常。有人接住了公益机构</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512172&amp;idx=1&amp;sn=b114ef2ea2f00876009cea96b5bf5825&amp;chksm=ce2b9f387be3a127a5e53f832d8384f4250b35307c246061a254edcf1ab6aad33c80c52c0c64&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Oct 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenSandbox 正式加入 AAIF，从阿里开源项目走向行业公共基础设施]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4gMCEw4OGEomRIXpoicbx8zdt3JeTCR8yanoX3JQ5SUDoRiberVoL84icia0KTVrWPkCtuibNGhW5wvcZEYEqP5ytHfW56A6o3UyE8/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Agentic AI Foundation（AAIF）正式宣布接收四个新项目，阿里巴巴捐赠的 OpenSandbox 位列其中。另外三个项目分别是 Anthropic 捐赠的 Agent Ski</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512151&amp;idx=1&amp;sn=4141fadeb55100e34b5481d5543e28b3&amp;chksm=cec7f8141cc767ca21e177a1aef4d34a06fcf8416f6db6e19bea80b764cbe3872377bc558921&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6S6teY5R5dMWu03E3xZObdUkdLWGb273g2NMJBibc9nrjLzHHcuuSuoXk8iadibA64E6UnlbmPXqwNVVqreOic2Pbemff46ZibnArE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第25篇文章（ 本文阅读时间：约20分钟 ）01背景此前已有不少文章围绕 Agent 自进化这个主题展开过讨论，内容涵盖了 Hermes Agent 等自进化框架，以及 Skill 自</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509834&amp;idx=1&amp;sn=b514f1bc2616df514cb218a5bad28296&amp;chksm=ceef757966e620e14860302a6ffc6c259e55256ecef29e6a00c6d88db8c1a4fe6c69aafcbc6f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 18 Jun 2026 18:20:22 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[后端架构 AI Friendly 的标准与路径：面向无人值守开发时代的系统重构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4KmFibLXrcicA4ncPOiacaIzpjmVB8rAG5fppmRyUgKKggU3PgaTB479z40uecFcvP3CCrnf3kWHzc4QVlKx3eWd18Ef2JGzZYME/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第24篇文章（ 本文阅读时间：约20分钟 ）前言过去十几年，互联网软件的后端系统核心目标大多围绕「人类工程师友好」展开：架构要清晰，接口要稳定，日志要可查，监控要完整，发布要可控，故障</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509820&amp;idx=1&amp;sn=c6bfc1326933573566b4e13f14625390&amp;chksm=ce75d5bd48f5e620fde26e8b5a5ef833f62f3a501ee2536e5ef0489845c9a56aa940657ad7df&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 19:26:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

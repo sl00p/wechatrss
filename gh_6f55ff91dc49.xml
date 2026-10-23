@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[最近又刷到 4 个黑科技 GitHub 项目，第 3 个重点看看。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2wEyWOdB3Js7NCxl4cH0KicicTicqibjLcj0bcXsHsQ6NHVCuChlPeRZuXSFVr5OuJY8O1icp1kp9JOhlsnuRBc99uYeBcQicxQLtb8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用一块开发板，让 AI 帮你操作 iPhoneESP32 iPhone Agent 把视觉大模型接到了 iPhone 手机上。给它一句任务，它会看着屏幕一步步点击、滑动。比如让 AI 设置一个早上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537991&amp;idx=1&amp;sn=69fafc227ed7436bf409e5cd3dd1a43d&amp;chksm=f8bd162d70967cf68cfaa286fcce368b1cfa35cea8e0544508d43b5f11266bef420e4d7c712d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Oct 2026 11:14:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[又盘点了 4 个稀奇古怪的 GitHub 项目，第一个很抽象。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1x3hj64aybzoOj4LWTt1vhzfWkPo65C9Iy9z1xZbIVo23wA8p1elr2nzpuUGiaKly6XlWaYzfgIjs0iaDjVUHGxicwHQaEpUXicAE/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在你的电脑上打 LOL 的问号这个开源项目很抽象。可能玩《英雄联盟》的人才能懂这个梗。有开发者把 LOL 里面的信号轮盘搬到了电脑桌面上，做成了一个叫 lolPing 的小软件。危险、请求支援、敌</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537904&amp;idx=1&amp;sn=f91d24d988863606f9abb5445ef79296&amp;chksm=f86c5b5fbd1871c9add90ed479d71a07946d5050c337a78b8266419835646bdb604caaf2f19d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0ur6gLQdUXkY3NGoXD2PQqjOLXwVR5GHaZqvS0wflf1PqB9icpAia4Nadt6khNia9F0IQsFOuPtnsrsAHLysPvYX8h0Y6AgYq7Vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个网页，把字幕、翻译、配音全包了做一条多语言视频，很多麻烦都来自工具太散，每个步骤本身反而没有那么难。先下载视频，再分离人声、生成字幕、翻译文本、合成配音，最后还要把素材重新对齐。Voice-P</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535880&amp;idx=1&amp;sn=56685f002d64ecd9a0823ca6864eb13c&amp;chksm=f88725299545410a6d1178219c3db55822aa15f3f8732ec8f2c9dd5924961c0ae5240841f271&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 09 Aug 2026 16:40:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软刚开源了 1 个神器：录一遍操作，自动学习内化成 Skill。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3Aj1fcLwENpiaa4Y4mfUr9gWw7bRW6vPvzRWUUrTt2mxRkibWjEiaw2XC9nHmKKgJGKS1D8nqicxwA4em2aytOzvlETKibnicmAoTmU/640?wxtype=jpeg&amp;wxfrom=0"/><p>写 Skill，本质上是在把你一套熟练的工作流程翻译给 AI。很多人在写 Skill 时，会先列出一个大概的执行顺序：第一步先干嘛，第二步调用什么工具，第三步检查哪些结果。然后让 Agent 试跑一遍</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535843&amp;idx=1&amp;sn=9b1a388391a85d00b267f2f9084a5225&amp;chksm=f889466fa08997223bfa0a54d43d1d13988bad8ba1f273afdf92a199d7d381bddbce861477e2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 08 Aug 2026 14:35:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

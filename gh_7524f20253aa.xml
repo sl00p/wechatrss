@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI发现Agents可绕过安全隔离，串联0Day漏洞逃逸]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AZTOcnHCYa3SOpia4sFscHOGBYgSsakibG6O0QCRlmtBaUqBPRB1TjcdGRjHsPIJl2Spdyicq2xP5Oib8W03WrVSddEsV2ur5WuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI在对其研究系统开展的大规模红队测试中发现，旗下AI Agents可发现0Day漏洞、逃出沙箱、接入真实公网，甚至跨隔离边界交换信息。测试结果于10月23日公布，展现了先进模型如何串联软件漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=1&amp;sn=b8bd78e2f2aca08a3c4e1833e70277cb&amp;chksm=bc3d83713b20cdf2acd3235510a5969deba306a776dd676ee885155d05d574c7a9c19275848f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Python常用Pillow图像库曝出严重漏洞，构造文件可触发代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0iaIXUPGibkwS2nZPqiaI9TvGr6D4W8SBLApSI0YcibfwianredU9f9rpk03ibbHEINPghY2jibJzXoPmxesYqmJpXLNvweGsWOxC6ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pillow是Python生态中应用最广泛的图像处理库，攻击者可通过构造传入的待打开文件名，诱使运行该库的服务器执行操作系统命令。编号为CVE-2026-112900的漏洞存在于Pillow的EPS图</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=2&amp;sn=97411cfe24c11fe5cc105f55af50c438&amp;chksm=bcc6adb370b8bdf72334a69b3bad2e1684f0628b44d81bbfde8ec3c645f8dcf6f183c6f26ffa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PHP预警两个CVSS 9.2级严重漏洞；OpenAI推出五阶段高危漏洞响应框架| FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚠️ PHP 预警两个 CVSS 9.2 级严重漏洞，敦促用户准备补丁更新 📋 OpenAI 推出五阶段高危漏洞响应框架，应对 AI 发现漏洞增长趋势 🚨 前 OpenAI 工程师涉窃密设备案被拘，被</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=3&amp;sn=412408cfc3df229c2d6c978a8c0aaadc&amp;chksm=bc9152500a8797079866a16cbc74c23b16dcd21d117f091e07e44bdcf65b8ff24276195fc2bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX147AYvA1tGwicUZz2at7EwV2nxicMibVnYJbEUJ1M420Lvhh2tpz0MnYA9mO6A2tMAKNeSBfu6gLR8iatrxhE30yde8flLeCAlA7o/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于AI构建的攻击工具会自动搜寻互联网上所有可公开访问的AI模型，利用这些模型策划入侵行动，而产生的算力成本全部由模型所有者承担。研究人员Priti More、Susmit Yenkar写道，今年</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=1&amp;sn=141551c4da9361aacc8522b09851a89b&amp;chksm=bcb3c4f8f45caf84c67d91b8916aff1b409b5326bed341747607d960178b71d67edac9a3f678&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rRA809AnIcInicmGKEUmUV3NTLaG8UgD3zzor7YtjbIHan5FtREDozrls4yttGCcIXP5ibkdQJmc84HGLf6u3gU8vlRPAc7ianE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic切断内部测试联网权限Anthropic于周五宣布，近期发现旗下AI模型出现对齐失效行为、针对真实网站发起操作后，将切断所有内部评估环境的实时互联网访问权限。在Claude</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=1&amp;sn=23ed5400053dc2b39d9ff2ed64b2e471&amp;chksm=bcf3fdf31b2a9d9d5b31b18bc0ee6853a19cf1d689909ca784733cb2a7dcc034d07f3130dbd9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cisco Talos发布安全预警，自主AI Agent可将渗透测试转为隐蔽红队攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX05bmLnicD4PjPcR2p3Ezf5r4TNSPicUG1ph2yDLZ4W2Ktw1YIzKCx3P5eLTwkPUt3tiaSWNibh8ZpqXh42Fqp2Fiaw1AQs9NewhhDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cisco Talos警告称，自主AI Agent将不再局限于高噪声的漏洞扫描，转而成为隐蔽、持久的攻击者。外界的担忧并非仅停留在AI能更快发现安全缺口这一层面。真正的风险在于，多组Agent可学会隐</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=2&amp;sn=dedab483bdf4a037b258a6488513234c&amp;chksm=bcef0ff785e4c0666e2aa21c68ed846e0a45a7c31f1e77f2b75a439620d7fbd6020ae62b4853&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：Atlassian曝严重漏洞；智能硬件企业CRA合规实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3ibjLpkeI2K0CkKSPvHmgVvLt0rrhO3VoPvGj0wDz1kmVQ297CZKEkmBuvHX2mfz36ynz8qaGWeqVfzCzBtwqWoPHrTWcLNA98/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=3&amp;sn=3e92779cc344721f11c080ca4b708d8b&amp;chksm=bc553ed6365e257501a0c201fdf85c8f83120283ad0959b0d45650231eb690f9178a8fed8362&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逆向万物！REA打通AI编码与逆向工具，支持多类目标无源码分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3M5ibEvEPzEIBEfmPp43RriaUCZXsJuoygwYjIz6jm83RfQIndEUSicEuUqb1ByrniahqibKB8reAWVBrhwvoXUkoQibpzYmPlD8AzA/640?wxtype=jpeg&amp;wxfrom=0"/><p>REA全称为Reverse Engineer Anything（逆向万物），可将Claude Code、Cursor等AI编码Agent，连接至各类无需源码即可检测软件内部结构的工具。这一开源项目将G</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348621&amp;idx=1&amp;sn=419804be603aff82b7e62ef20b81813f&amp;chksm=bca982848caefeb21407842d45068e32caf749bb00bc491a0c1fbaeddad8d779975f696390cd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 18:09:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
