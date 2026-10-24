@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjjzojHFhOHJxmzGiaXLBKvQibHgEoyCjJIPOkkkyicyZFricd1ss7ibH8ngFQiaQcb22vz0l9iacDveU3ZvdIPpSrUFIOQe2m00ia6V8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 蔡芳芳如果你是一名中层技术经理，过去十几年积累的管理经验，可能正在迅速贬值。曾在 Stripe、Uber 担任工程管理职务，后来出任 Carta、Calm CTO 的 Will Larson</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295930&amp;idx=1&amp;sn=55c59b1a0f84545a2c3bc59c4aa87047&amp;chksm=bc7fd122f5adafb32b2932199e5f585c3a4548f08614d5b803f3c08e335469eb3ced9caae889&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgZiaHeeiaJst4hhTso3HiaS3c9ibUaPDFGDEzZe2ahdBJsF6lDjY2oW4ibh4hItRQps8TNfTnd5qBW1YkucqqdedJNGfbCja1eBnNk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜蔡芳芳AI 编程工具正在大幅缩短开发者写代码的时间，但开源社区可能正在为这种效率提升付出另一种代价。10 月 20 日，Linux 基金会发布最新研究报告《Navigating Open Sou</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295930&amp;idx=2&amp;sn=98cca3bbe209ff96f696d873fc5db21f&amp;chksm=bc7b30717daaf59ab43e21c39cb4ac7ccba390667eee708880976e8fab0869a21301380c86d6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个响应头，就能把同一资源拆成几十份：Cloudflare 出手治理缓存抖动]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgxxMvmpzZQVWSoUbuPWWUoibhN4iaicP13m1ccGScKgQjDTGsWL3SFLBxbEJrYRhQS3RQib1kSk8WcAWhzZVRRVgvAeyjyrWLQrDI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Olimpiu Pop 译者 ｜ 田橙 Cloudflare 在其全球边缘网络中原生支持 HTTP Vary 响应头，并通过 Cache Rules 向所有套餐的客户开放这项能力。借助这一增</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295930&amp;idx=3&amp;sn=1a2ae224f4a805730fa7bdb7d1fab46d&amp;chksm=bc821b029fd7c0993d0b1259ba1340a3f9c333e5d821e6a3382118f826daaddfb8671ab9d517&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaNwicQRcbN5XwsctgBnQK8icAWHjKx3fx2KKJicnamXibLoibez1EGjLVqqKxhGibReHRHDRtF5gBDibxflawdYNhzxpa2hcfFrPWt8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Craig Risi 译者 ｜ 田橙 Adobe 工程师 介绍了 一种开源方案，让团队能够在多租户 Kubernetes 环境中自助访问自己的 Prometheus 指标，同时不会暴露其他团</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295930&amp;idx=4&amp;sn=f743e5f990a24fd3140fa1d6cbbebcb5&amp;chksm=bc68898ca1f773c40c621dcc36a496e393c950d4d724d7da61a76ea3c5fd77453cb017904f52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Kimi K3.1 Pro刚发布，社区先炸了：比K3快、性能逼近Opus，但额度10分钟就烧光了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgXKoJqs2VYlvHIlUibg8ag9GMUftdibY6fnpQ5sla6GEibYejJRc4lt4ibW8J6jRagicrrbr2QPmLjW0N97TQAqrk7IGCav6YjIjQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 褚杏娟 10 月 24 日，Kimi 正式发布 K3.1 系列首款模型 Kimi K3.1 Pro。这是 Kimi 迄今能力最强的 3 万亿级参数模型，支持百万 Token 上下文，重点强化</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295910&amp;idx=1&amp;sn=69fe74ceaa7e133f8c64496e3989a96c&amp;chksm=bcf8f98d6498093b2282c79b187d78a6c3fcdc0ede741e9353ec0669e968626de8fd61967bb9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhlZkTHXVrfrLuyLuLCYoicmTYbbicTOyoQapWmdaShUlOftXyqZ0yDlUhZqiaRz7BuwOFRNlUnUY3XR1xvoFmBDiacYzvFiah8J5T4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Daniel Curtis 译者 ｜ 田橙 Canvas UI 是由 React Bits 作者 David Haz 推出的一款开源组件库。它是首个基于实验性 HTML-in-Canvas</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=4&amp;sn=89c57e02be710b9dca085967319b32ae&amp;chksm=bc4f4088874981f9bd6e81429c52e36d0fff488050133ad35c5fa0afea9e0006ecbe51685144&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhlvsDmy4ib4ormG0z1icRWSuLXmdAeicp7TIKvmHmIx5ibz5gMxWB9FEJjldW7s1eYZukW4SepKdp3Le3tVicicxsEMG31WHvyOhQw8/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295023&amp;idx=5&amp;sn=8af7e79ae3731f99083b8d8015340c4d&amp;chksm=bc478fa64857e7bdfe72ff4eecb17b93e2ac43eef04f12b04ca06e18690885e0e387841dc763&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 14:10:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[软件能跑到全球，不等于能卖到全球]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhaMl0GC2xl0qkyzbt5gUymLMZaU4dlwaPEGgVXplLVMvJGicqNzO8uzpfMAVVFhxiaYpBIibYLVJT2Wib2kIdRLtzmTGvMFfiashn8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦10 月 13 日至 14 日，亚马逊云科技在深圳、顺德同期举办汽车与制造、游戏与泛娱乐、零售电商、软件四大行业峰会，以及亚马逊云科技 Marketplace 用户大会。四场峰会指向同一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=1&amp;sn=265d53b268ab325e58f0f8d2bc1654b4&amp;chksm=bcc25131a43877328c84f5b24757acb748136841cdc46dc3d5380f28f2ddb14237659f829178&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 Harness 到 Loop：真正决定 Agent 落地的，从来不是更强的模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjiaIkaGNrL5Baic43ExL2ydmvHQpVWQkCgTEhk2rYEaBg1TNF2PuFTibAUdkkOCaDjXszHBibpdplEE6Xeg9ROto03SWl2nicNsvDY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kitty编辑 | 宇琪2026 年，行业里有一个越来越清晰的共识：模型能力本身正在“商品化”，真正的竞争壁垒已经转移到了模型之外的工程系统上。 那么，当</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=2&amp;sn=d92f97a1d71422721beed7683a1f93fa&amp;chksm=bce2116a61c04cc391fd8cfba6ce9b6b9a63ca0e08477e3acc5769e38bc06b7c6d58ac31d0a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌借助 AI 与差分模糊测试将 C 语言依赖库改写为 Rust]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaAnvPZWakp5O172KdmgnS7dxNYrtdOR8L8cFBiaFGcBoyAyoztMF75mvvlRhmZEjeMjrZvxFJpQ9JmZNqTIdD6NTp9BQFbsfB8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 明知山 谷歌安全团队验证了一条消除遗留基础设施中内存漏洞的新路径——利用 Gemini 将 C 语言代码库翻译成内存安全的 Rust 等价代码。该项目的改造</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651294925&amp;idx=3&amp;sn=723cf75ff79a04c4e2ad05d2a11cb02c&amp;chksm=bc47021219335f9b6dd64f85aed3cdcd28199a2ce4e74304dcfb7cf43881b06bf8ff5c31ea64&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 19:38:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

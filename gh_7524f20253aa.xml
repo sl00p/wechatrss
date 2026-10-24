@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude Mythos 5测试中失控，伪装开发者向GitHub项目植入恶意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0AwftJOC7loDybQ2MzU38UOkqrsJUibRNPIqBGibDquO2FtughjibIGEcqwtqYZByicO2I5j2s2UOr8yI7DILNK9Jp6ddSSTiaj50I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic披露，在英国AI安全研究所（AISI）开展的网络安全测试中，其研发的Claude Mythos 5 AI Agent曾试图向真实GitHub项目植入恶意代码，还使用虚假身份劝说开发者</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=1&amp;sn=59a2d02a6614d247c068a9c68f3de83c&amp;chksm=bc0edcbf00e67be06cd795e2e10dade2dc8163b4293da86fe3a414e237bff92aba93fdecc9da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LiteLLM主密钥泄露，攻击者窃取GitHub令牌劫持发布流水线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0svVZw4MupNHsxPpHRBOXP9PPeS1AgTsBr0THk2V5JRlU1mlMjg4rGl5rcLfvsa3n3nfibsIHepahJPlT435eJP9sFejGzQHmM/640?wxtype=jpeg&amp;wxfrom=0"/><p>LiteLLM于周五披露，2026年5月底，一枚Agent Platform主密钥被意外发布到公开GitHub仓库，最终导致攻击者推送了这款热门Python包的恶意版本。LiteLLM的Oliver</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=2&amp;sn=d4f418b10e284e4c9c9384c85b906c04&amp;chksm=bc48de0a0fa4a5040ac95a7a941282e7cdeec4b93d226783aaa4cd8fc8817f600fa950b6a363&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每周PDF资源：AI Agent照片定位；LLM自我伤害研究；2026世界发展报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2sHA2yxb9t9z9eEraWrrQFVytJX5ekpIK9DS645EmeKuPIGSjrgwThAm2p4HFdNfIdR1xfoq66rtmTALF843BWXYRKe2cfSeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=3&amp;sn=e9b2db961ff6e12cf31c1043949c2ca5&amp;chksm=bc802c43143fd99fb013cae2fc29b8f25c7b4300e2039fa288baf340797009fb4668ef87b207&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenAI发现Agents可绕过安全隔离，串联0Day漏洞逃逸]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AZTOcnHCYa3SOpia4sFscHOGBYgSsakibG6O0QCRlmtBaUqBPRB1TjcdGRjHsPIJl2Spdyicq2xP5Oib8W03WrVSddEsV2ur5WuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI在对其研究系统开展的大规模红队测试中发现，旗下AI Agents可发现0Day漏洞、逃出沙箱、接入真实公网，甚至跨隔离边界交换信息。测试结果于10月23日公布，展现了先进模型如何串联软件漏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=1&amp;sn=b8bd78e2f2aca08a3c4e1833e70277cb&amp;chksm=bc3d83713b20cdf2acd3235510a5969deba306a776dd676ee885155d05d574c7a9c19275848f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0u35smibTiao3vNa41LMhUIeyg0xQkficZVia2Dsib9MX6zcAqDXicW8pmTCWvNvfica44skibvDCXe4OS6ibzcKnQ0rUdMfP4SjCByqLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>// 2026年10月12日，绿盟科技成功举办以“清风拂境·智御全域”为主题的智能体安全秋季成果发布会，全面展示了公司在AI安全防护领域的最新技术成果和实践经验。本次发布会以客户最为关心的大模型</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=2&amp;sn=499df8e711a5839507f46c813669032e&amp;chksm=bcc8df459851f7352e48ec53edcac2913b2f8c948fe33303fa0aa74aa9eaed81d21b3b9b9870&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[P7 DarkSword新变种曝光，iPhone钱包数据可被窃取并远程操控]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0wFeUlRpvdSeLJ1q3WuzZvdPJhbItv7acI6vT8DictDfET05SDcrOxaJ61h7h87zicvugicdaYx44tmia4W7g1Q751LibdJvPzyqPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全研究人员披露了此前未被观测到的DarkSword iOS漏洞利用工具包变种，名为P7 DarkSword。iVerify在周四发布的最新报告中表示：“与我们通常观测到的变种相比，P7缩小了在设</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=3&amp;sn=a3f694b7d9e4cd5a3d74cc3e6a9e515b&amp;chksm=bcf17fa4f0f837e6b7343e3bb880fe6b5a2975ed8ee38ce9daa11ee607f2b748fd3b996a4b74&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agentic AI红队检查清单发布，222项测试覆盖20类攻击场景]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0yiaIdDsXMiaFw2cdnxvvcApFKU76s083jcWJfzRcs7cmCAkLnV1sUIejdkDW2ZvTJR2Uib4AVdkoaMykhE4ia1qSEFeCKJt5Aoiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份免费的Agentic AI红队测试清单正式推出，涵盖20类攻击场景，包含222项测试内容，用于评估自主AI系统安全性。其测试范围不局限于提示注入，覆盖基础设施、云访问、工具、内存、Agent通信等</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=4&amp;sn=ceae065df5ed8006ec7f9c50adfb0c84&amp;chksm=bcf53fdd6416c75a2e87ecbb543770cc060993dfe4dfe5c4591a72872beeeaa3faab0f7c2b3c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2rRA809AnIcInicmGKEUmUV3NTLaG8UgD3zzor7YtjbIHan5FtREDozrls4yttGCcIXP5ibkdQJmc84HGLf6u3gU8vlRPAc7ianE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic切断内部测试联网权限Anthropic于周五宣布，近期发现旗下AI模型出现对齐失效行为、针对真实网站发起操作后，将切断所有内部评估环境的实时互联网访问权限。在Claude</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348635&amp;idx=1&amp;sn=23ed5400053dc2b39d9ff2ed64b2e471&amp;chksm=bcf3fdf31b2a9d9d5b31b18bc0ee6853a19cf1d689909ca784733cb2a7dcc034d07f3130dbd9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

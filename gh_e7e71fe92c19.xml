@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[议程公布｜腾讯数字生态大会 Agent 安全专场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bAvZFictiazRmiaK4MkrLLfHDpvzmjc5KOEnnSdQNfpz261ukYGGez9PyOeU7f9b5ib9eYtjYuE1ib1xzmvnP7d3jmJL8sYx3iaviaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 爆发，安全先行。当 AI 智能体拥有自主调度、工具调用、访问业务数据的能力，传统安全模型正在失效，新的攻击面、信任边界、风控难题持续涌现。腾讯全球数字生态大会Agent 安全专场议程正式公</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623105&amp;idx=1&amp;sn=df3cd640a3466199d7a695a824587cd1&amp;chksm=b082831230549d3c7ec9d7c91e088793a01646d728fd034a232928809ccb1715bff396241146&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[C++ 虚表全解剖：从对象内存布局到 glibc IO 攻击链路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2qGtySszvfIj0fD0Kc9CYPVXw75XMVibH1PveOxibibn5FnRUkkqQDicaaexVBmp2U9MZe6rIv2EJ1h1JGH0nROaZnsfLZEJLTO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一条从「对象首 8 字节」出发，一路走到 setcontext 的完整路径。全文以 Itanium C++ ABI（GCC / Clang）为准，MSVC 差异单独标注；glibc 部分以 2.23</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623105&amp;idx=2&amp;sn=b244e461bccb5085fae88e4c270a70a2&amp;chksm=b0371e5abadc9d63e11d2d1fc09adcd91978ce11e3a068e8da974a2b0a34075e2dde0bd5fd88&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 25 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[人机共智·重构安全 | 第十届安全开发者峰会于上海圆满举办！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0lmD0LPdRpp4nKVroNhxpTef9sKDY5uiaa8Q35RyeAePeriamwtmlbuGd5D5RsbDAdHZTiaL8A9RYISP5cytlryg0TXTTRCMDy8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月23日，第十届安全开发者峰会（SDC 2026）在上海环球港凯悦酒店举行。本届峰会以“人机共智·重构攻防”为主题，吸引近700位网络安全从业者、技术研究人员、企业安全负责人及高校学者到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623095&amp;idx=1&amp;sn=742a57b0a83b66f3a3eccf574a70ae6c&amp;chksm=b04f2889213c0752e227fc0ffac8fc7a9b7a679328a2300e5a70a3fdb2680a58b96a40126b1f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3EC6kpd2lJbDjwOmyAdIIbA5MR3Bz03U661icYnYcNldsU1uiaN3q4FXXibocdYAT2uZ5RdEAan9mPlUxrb4Oh5tB7bDRr7do2QI/640?wxtype=jpeg&amp;wxfrom=0"/><p>工具：IDA Pro 9.0 + ida-pro-mcp、Frida00TL;DRTips:iOS 应用 ≠ 都用系统 TLS 栈。 国内大厂的自研网络库(阿里 EMAS、字节 TTNet 这类)是整</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622475&amp;idx=2&amp;sn=dc75066efaca24128e6f771eefe8a161&amp;chksm=b0b3fb34df63aff5bb59de9ed1ced54f44646ad87f32fd421b67473d32dcb1d4ab4dfc9e1763&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 03 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ylNxnpef6IzHcQTw0SD0jHo3T92OJLSmskqNQ2TT4IRbpGjX7MibibRnMY74yhEv2HvxI2ONvdIPlsNar4NE4ycXtpwIuOo7eo/640?wxtype=jpeg&amp;wxfrom=0"/><p>一.议题简介《代码迁移中的安全隐患：Android框架中Java-Kotlin并行实现漏洞的分析与挖掘》随着Google推进“Kotlin-First”策略，Android操作系统开源项目（AOSP）</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622474&amp;idx=1&amp;sn=5a053c1ccd29130d88b0c43929c9f296&amp;chksm=b00ee9eaf0e326f03124f2f74686ec2340c0cc9e12468b8fc34626e73eff1041c5ab98022e81&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622474&amp;idx=2&amp;sn=03ef30ac2adf4b1848ba2004895e0bc7&amp;chksm=b0686c52cf0e2f4faa3b09af78d312d54b2bf532beaf440eae9bb968ab86921f6f1462eb972f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 02 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
