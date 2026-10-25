@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[免费测试！腾讯云AI渗透测试面向高校开放体检]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun64iaKibTzjsYoby6RY8atRF0yvIsyndREnWcn3QMozNFzD6oorGFlaQo2fAAJyfiaBPZeE7jm0yl8jgXicibXKTtHgSwYc6u3bGS7E/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI正在改变网络安全。10月21日，PHP披露两个严重的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，代号"PHP2Shell"）。参与研究的安全团队借助AI模型快</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530975&amp;idx=1&amp;sn=24d92ac6e6dc66197c6f3b7b34702ab6&amp;chksm=c11062d96ef792586e3fb3c587f02f2fe2d4e52215d562e433c21872e8087c26fe8e1bc3039f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 23:27:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当Agent开始办公提效，谁来管控数据外泄问题？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun4UDDhvH9tibkZw6K8hYv0xEac2iaF0bU7M8LRYsPByib9ibtofCicEsuUZLrbK0OcbKgUHPp0EBPoCKxzZXegmAJiaibbIbCj29lFwkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>传统的数据防泄漏（DLP），防的是“人”：员工有意或无意地把敏感文件发出去。这类事件相对低频，基于特征匹配的检测方式基本够用。Agent加入日常工作之后，情况变了。Agent执行任务时会大量读取、处理</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530963&amp;idx=1&amp;sn=05122685a9d973f0e4b0fc1f429a193d&amp;chksm=c14c104d82028950715b6e948e72dab2287a764043bcbaef7b052c210fc8a1b80994a35cd007&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6zcJKcGt1Zyj0kdl2c57YUZ1s4mASYoHF6GpaE129vTeTkCVnAAwPVoPa1RI6G3UdAIp1JOvU7nLhkiaTZnpHEOpgQ9vIwfQuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告愿景及目标读者随着OpenClaw应用的不断深入，其安全风险隐患也逐渐凸显，安全防护能力成为保障“云上养虾”顺利推进的关键。在此背景下，系统梳理OpenClaw发展现状、完善风险防护与安全体系、展</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529182&amp;idx=1&amp;sn=b0ce72ba128fbdb1f857a1274aca2888&amp;chksm=c19584cfeb6b421da04e67f3ceae71d2fd85f71501f3732ec2104963fdc9a1a6fa46d52cd891&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 25 Mar 2026 17:09:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[免费！腾讯OpenClaw安全体检首发，快来申请体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun70xz4ggwV30rTZ0Bjiax1fQYt6miajJO3bnbpSGOcGAtzqgiaWbDLdr5icS1jLk7UJibzfPx7uTxJiaeMDRtibERYzsBEoYoLuMD9puk/640?wxtype=jpeg&amp;wxfrom=0"/><p>33.5万只裸奔的“虾”正在发生的业务风险OpenClaw“小龙虾”正成为全民热捧的“AI员工”，伴随其爆发式增长，安全风险也逐渐清晰。据OpenClaw Exposure Watchboard最新测</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529147&amp;idx=1&amp;sn=f2486a47b3f326d0a010de7f8f7bf105&amp;chksm=c13fbbdcc083b63938f4d36ea752192edb7ecf4d2a7a7109260f4ac2ff32d4082f3528f3264c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 23 Mar 2026 20:48:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

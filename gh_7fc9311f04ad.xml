@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从生态坐标到生产级长跑：AgentScope2.0运行时与最佳实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zWeqiaJMWVcefJvFaE2EicXrWISYvhSMD6D0DPibnPwoVDP2GbShXsBVNhQTuRNBpaNDE1J0uib6ISOLMkSTcBzf5EUWMnGfQdIZ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文作者：唤辰，曾在商品领域基于 AgentScope 框架构建生产级智能体系统，也是 AgentScope 开源项目贡献者，对Harness 设计、上下文工程与多 Agent 协作有一定实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562551&amp;idx=1&amp;sn=b6e2e48616dda44707510e8fbb10b333&amp;chksm=e83bf59aa545a9bec8a6c2adc673666376f4be989e5683c70de45669ce985d4b5de1c66f5945&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 09:40:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[千问 AI Arena × 沙利文｜联合发布二期任务，聚焦“消费决策助手 Agent”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/na4ic9jGCdobjibhvH8IoX5qc0PFxMoBicXMGusjibzkmum84HPibicpL9pLKoJ836BNLcVClg3btT3ib7W1dFBMP797jF74P6vib4buMVUgLVLrEKI/640?wxtype=jpeg&amp;wxfrom=0"/><p>千问 AI Arena 第二期正式上线：打造你的智能选购顾问千问 AI Arena 是由千问 AI 平台推出的一个围绕真实行业需求，面向行业专家和开发者提供 Agent 开发、评测与展示机会的平台，致</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562482&amp;idx=1&amp;sn=97225f4837d67d92f49753bec0744a52&amp;chksm=e83aec3c793a960c74cb132f7e150efc4450278afed9585995ec72dcab2253f9927ffa4c42f5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wjFYxqL3WtHqk4KFrmRpcccmDrbRjZvzgicd6kY7q2JNEcNf51vwoZ3fibicQqhF8oAd8JpUqQWic8beTLXZCVVPJtntcqrSo7ncg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、做这个系统的背景故事的起点是我们持续在围绕高德地图PC站做SEO优化，在探索各个方向上能带来增长的可能。偶然在某社媒</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560242&amp;idx=1&amp;sn=37875b95003fe7c3c95e2966e48878f7&amp;chksm=e83a4895a9781f8261a79869fc08e8c9f42f8f73c1fc7bf50273d9e6d1a32c5919a5e822f0d7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 25 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent核心技术概念与范式发生了哪些演变以及背后的思考]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wABibWs648qezQhuntUNB12XWOa4iabcDqOewteK1RO9puPEOickklyEFU8gGayVSnLpsYvrW9Fqv9nr4juhk0abiaYeyIIialeGkA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景近几年，随着基模能力的快速升级与迭代，Agent 领域迎来了爆发式的增长。特别是近期，像 Cloud Code、Co</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560220&amp;idx=1&amp;sn=72a83c5317c93a91f78daf6b203d308d&amp;chksm=e85d76db484664ed86605f0b27cd220bd255410a11bfd54b42797c1421294e48c338fce14967&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 22 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

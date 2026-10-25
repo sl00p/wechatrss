@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Gia1nicgZAjhzNzxAnJVUlL2XuRxFRhnMvibzavzJMxZxwrZicCqJKP0heYHJsYhh0c9jDwKHVn74qT365gSnZ7WqX9YFJxvROko/640?wxtype=jpeg&amp;wxfrom=0"/><p>网名为killa的安全研究员利用两个PHP严重漏洞攻破测试服务器，赢下公开比特币挑战赛。整个攻击过程耗时19.28小时。2026年10月25日协调世界时15:47挑战赛决出胜负，当时奖金总额为0.02</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=1&amp;sn=d0753115bd9e6c7b4fe85b75ebfccae5&amp;chksm=bc7ebb8d90a25bfaaf1f4c0ba58d782a80dcd55976fd98d1354eb296975bc6e333a9486dcf6b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HTTP2Shell漏洞影响范围扩大，波及.NET、FFmpeg等主流软件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0sSHrCInuib4F3Yo9ziakgKQNc7b9EpLurOfGJJicuAqicqJxfybcLibicgNhnGDiciaq9FOJNtz7PbH5Piaa4Qso8AjbI4Rfy1kjwgticE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞根源为Brotli解码器缺陷HTTP2Shell漏洞的影响范围并不局限于Web流量，最新研究显示，其背后的Brotli解码器缺陷（CVE-2026-111497）可波及.NET应用、F</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=2&amp;sn=8e74440e9078bbd9c8638ca0e6743f51&amp;chksm=bc7fe948095ca4d5875415066bd123e5af07ba890cb6663fae98a2918800974b2a7f03b121e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tailscale SSH存在未修补漏洞，被入侵设备可获取其他服务器root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1xvSGxGUPUgvWknOzsS66oZyonmUriau2EberW29rosPSBM1AfN2RlicE1R8Lz3icqebQkcCPsdYkRa4PNRyzibXXdQJXibalLMFy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>本周有安全研究员发布研究结果显示，Tailscale网络中只要有一台设备被攻陷，攻击者就能借此获取网络内其他可访问服务器的root权限。这类攻击需要满足两个前提：一是Tailscale SSH开启了端</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=3&amp;sn=b417dd0e8c8df24def0dfd63f3b1edc3&amp;chksm=bcf67cb91fb3b9c58f0502970fbd8a52cbdface2174fb01364a8150e5a597e9271bb9af1edcc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[印度中央电影认证委员会遭数据泄露，500余部影片未公开资料外泄]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1bialyfBQ5svO7Y6UbmcNIcTiab6bWFwElKYZDXialhAkDuTt1T51LodQ8VZH61NP0svtPLHibljEmgicF6X1VT8X9JPMFaTHCJPb0/640?wxtype=jpeg&amp;wxfrom=0"/><p>印度中央电影认证委员会（CBFC）正就一起数据泄露事件展开调查，涉事机密文件关联500余部影片。此次泄露的文件包括片方通过其e-Cinepramaan门户提交的拍摄剧本、审查删改令、认证文件以及非公开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=4&amp;sn=1bd09f1db03807f727510da97b9048af&amp;chksm=bc06715207992e2097ef39a3103914a9070038772408e03c18b57ecc17fc6a3ae62e8562d3ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Mythos 5测试中失控，伪装开发者向GitHub项目植入恶意代码]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0AwftJOC7loDybQ2MzU38UOkqrsJUibRNPIqBGibDquO2FtughjibIGEcqwtqYZByicO2I5j2s2UOr8yI7DILNK9Jp6ddSSTiaj50I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic披露，在英国AI安全研究所（AISI）开展的网络安全测试中，其研发的Claude Mythos 5 AI Agent曾试图向真实GitHub项目植入恶意代码，还使用虚假身份劝说开发者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=1&amp;sn=59a2d02a6614d247c068a9c68f3de83c&amp;chksm=bc0edcbf00e67be06cd795e2e10dade2dc8163b4293da86fe3a414e237bff92aba93fdecc9da&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1EL2EJfqpvmxtrwef3LYefLEPibqTpVakysfCibT2zHcQjFZBlNibZUpBAAaVnbl4cwYfnLSIk7Yhx0Hh1UIM0q4o3kRTH6L4tXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项最新研究发现，攻击者只需诱导AI Agent复述特定文本，就可能让系统执行预先构造的恶意工具调用。研究团队利用这种被称为“跟我念”（Repeat-After-Me）的攻击手法，成功在6款主流AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=2&amp;sn=b96b5960f5b716e5d3d012643d48a239&amp;chksm=bc2c22eb8e7effc520fae47ec78088e322b4b1868c4691727d3c785b53088bdbdc65a479450c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitLab修复严重任意代码执行漏洞，无需登录即可远程利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0ibQ4fD7z7p5l37T3BvPUV73u2jJiaaYbTKpKsNwD0tgMj2RKsxCcwQGOCoJNAiaz05GuoJAp5SDFcMmib8qFeAZBco5UVhiaxKxib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01未授权远程执行GitLab已发布紧急安全更新，修复一处严重漏洞。攻击者无需登录，就可以在受影响服务器上执行任意代码。该漏洞编号为CVE-2026-97229，CVSS评分达最高值10.0，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=3&amp;sn=b1654e70b9eecbfa5e53669882724e9a&amp;chksm=bc9ba2849f2caedd2368d284bf539123af87f7e5aead4a2528d606a89fce13ffbd8a39aea1cc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SonicWall SMA 1000曝严重漏洞，补丁发布后遭135次攻击尝试]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0LQj8YEaJkC8Xprapyib2ymyMCOOkLeyo0zEFCq8A0xzCgibhTU0aJvsN0qcJHObEicDWKsI3QEKorvp1CkdDY49KSaWMrqbC3GM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01补丁发布后现135次利用尝试据观测，SonicWall Secure Mobile Access（SMA）1000设备近期披露的一处严重安全漏洞，在公开后数日内就遭到威胁行为者利用。该漏洞</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=4&amp;sn=25bfcdc9a55c3b80c4b7ce2f6bda6c8b&amp;chksm=bc433f7d01cbd076db0ec3852547291fb87016e2f83768a585050517aa8c7e16c8ff5ec292ec&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA曝高危漏洞，超2000台GPU监控主机暴露公网]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1UxqMTzDhicwB01plexkORUupF2e9N4h0wSQwD7Jbh0GtGja9Iiak5iaPZ3VVuoicf2hF94TmA7Itzzkribedibic2oEK266bibtgZUKY/640?wxtype=jpeg&amp;wxfrom=0"/><p>NVIDIA曝出DCGM Exporter中的高危漏洞（CVE-2026-47483）。该漏洞可被未授权远程攻击者利用，耗尽服务器资源、导致GPU监控崩溃，进而中断AI工作负载。Part01漏洞未授权</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=1&amp;sn=d789c735eb0b3cb593514b109e892317&amp;chksm=bc178e03c8cf4bb2e82529592cf7c3622e824c33f7d9f814aa0f714cdd0daba63db1ec3ef961&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0u35smibTiao3vNa41LMhUIeyg0xQkficZVia2Dsib9MX6zcAqDXicW8pmTCWvNvfica44skibvDCXe4OS6ibzcKnQ0rUdMfP4SjCByqLM/640?wxtype=jpeg&amp;wxfrom=0"/><p>// 2026年10月12日，绿盟科技成功举办以“清风拂境·智御全域”为主题的智能体安全秋季成果发布会，全面展示了公司在AI安全防护领域的最新技术成果和实践经验。本次发布会以客户最为关心的大模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348704&amp;idx=2&amp;sn=499df8e711a5839507f46c813669032e&amp;chksm=bcc8df459851f7352e48ec53edcac2913b2f8c948fe33303fa0aa74aa9eaed81d21b3b9b9870&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
