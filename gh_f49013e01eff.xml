@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[完整还原已经服务千家企业的 AIOps Agent 的评测和调优实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT7xia8wqRrYKOwhpbU9R1qn0heVV3RiamupwNzUP7YibeHbibYFK5mOS0kku7jEfWqH1LBaWWIAicnGaemdQIEWsYlR7GX1nJlxt54A/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里云 STAROps 是一个生产运维 Agent，通过连接多域数据、运维工具与专家经验，从被动响应走向智能自治，7×24 保障业务连续、稳定运行。本文将分享 STAROps 的评测和调优实践。本文已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517147&amp;idx=1&amp;sn=287bd95f3660786271b2475841eee70f&amp;chksm=f4d88487cc98318d6f83b6653b2632e48f9351fa582beffb6aafe5c74332466de8ce3fe7c2af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 20:53:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[交付周期从 51 天缩短到 14 天，多 Agent 协作产品⾃进化背后的组织重构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT7icMHKHavQfzob6AeQCEMDqZppKOB10MmWSoMvhNiaJkCsM6ribpiasiaMqkod2lZuia7ic2A74ZcINC3pjKaibgvpXGzCPLYocamdpbo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agentic SOC 是⼀个以多 Agent 协作为核⼼的安全运营产品。在建设过程中，我们逐步形成了由真实问题、统⼀评测、修改验证和⽣产反馈组成的产品改进闭环。随着 Agent 承担更多⼯作，团队也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517127&amp;idx=1&amp;sn=4a60f98a9a4b937a367977182bb7fbd4&amp;chksm=f42782482fc00d435bed1e9f558a8192f618d47a7d3714155610a578066018475d451573318c&amp;scene=0&amp;xtrack=1#rd</link>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[在电脑和手机上玩 Switch 游戏？这 5 个GitHub 项目值得看看。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2FRaWP7rRfYiatXXcW4ibftoMicOwl0FQKQHfk4ZHIbQSjaCtqLWdcaY6FOVu5aEfEoa1o5XFEATFhMkvcehINeBeGY1LMic1PIcA/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在苹果电脑上继续海拉鲁的冒险相信很多人都听过一句话：塞尔达是天。就是这个被称为天的游戏，最近很多开源项目都把它们移植到其他设备上了。MacNativeGames 就是把《塞尔达传说：王国之泪》带到</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538101&amp;idx=1&amp;sn=9586777b5d22d5b3dbfbc0693fda1098&amp;chksm=f8960a90891e12a6fc0fa5cef8ce6bdef63dc2e2ac75187d1a26901ed00a998e4f239570dbb5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 10:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[盘点 3 个安全相关的开源 Skill，都是最近登上热榜的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2a4SxkCx4KmNPrt2McZvhI9jITa2CktVCmkibluttqU8GKYA6ibnDQwZ6D8I7SickicT0cAnTUm6YKr86hibibQLuHkoNGicF4bWEdKk/640?wxtype=jpeg&amp;wxfrom=0"/><p>01Cloudflare 开源的安全 Skill确实最近一周有很多安全相关的开源项目获得了很多的 Star。具体因为啥，应该大家都知道，就是那个 PHP 的漏洞吧。比如第一个推荐的开源项目就是 Clo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538101&amp;idx=2&amp;sn=078856eda8d5566656a5ef45fdd0f971&amp;chksm=f85260101b6f9414bb58f9bbd3ce766027a0c0caae0174a44982968093ba97fc296d41c75c1b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 10:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近又刷到 4 个黑科技 GitHub 项目，第 3 个重点看看。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2wEyWOdB3Js7NCxl4cH0KicicTicqibjLcj0bcXsHsQ6NHVCuChlPeRZuXSFVr5OuJY8O1icp1kp9JOhlsnuRBc99uYeBcQicxQLtb8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01用一块开发板，让 AI 帮你操作 iPhoneESP32 iPhone Agent 把视觉大模型接到了 iPhone 手机上。给它一句任务，它会看着屏幕一步步点击、滑动。比如让 AI 设置一个早上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537991&amp;idx=1&amp;sn=69fafc227ed7436bf409e5cd3dd1a43d&amp;chksm=f8bd162d70967cf68cfaa286fcce368b1cfa35cea8e0544508d43b5f11266bef420e4d7c712d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1Nyiap0n0JqZI3AQmiceJ3icavOgUGjtWrmwuuPpGLw1CHiaRVgQQdgK1e6l28T8pJTOXCJuLySwoZYyRaAwM2DjCCnS61icjax8IE/640?wxtype=jpeg&amp;wxfrom=0"/><p>i-have-adhd 在 GitHub 收获了超过 1.8 万个 Star 。这个开源里最重要的内容，是一份约束 AI 如何回答问题的 SKILL.md。没有其它花里胡哨的东西，就做了一件事：把 A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535898&amp;idx=1&amp;sn=d7b494068dc8ac1d6f9f3dd833dee54f&amp;chksm=f8d09317fafe3d7e9623315784f971f0e8c31cf0d286f6d722b1db91fcc28341a24b55c91248&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 12:59:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[在 Codex 中用这 4 个 SKill，让你拍的照片变高级。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1B6A89sJKR10xNa06y4lWUUackl5QmGnECricdKqTaMRf5jQhEqOqsL5WCh091DkodcOkgEI7XvnYAsaOlVbyBBJHhtdH8MAeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01生成极简风格的海报旅行随手拍、一段文字或一个物件，都可以用 gc-minimal-zine-poster 做成竖版 zine 海报。它支持输入主题、句子、物件和照片。这个项目目前有 4000 多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535897&amp;idx=1&amp;sn=53e39a4647f656d4b52ebd1787d022dc&amp;chksm=f8cca8b98f805b9dd1b2c0f0046786b44a02e2ea665b99b4935bb6180182aa634f36265103cf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 16:21:09 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[语音 AI 爆发了，这 3 个 GitHub 开源项目建议了解一下。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0ur6gLQdUXkY3NGoXD2PQqjOLXwVR5GHaZqvS0wflf1PqB9icpAia4Nadt6khNia9F0IQsFOuPtnsrsAHLysPvYX8h0Y6AgYq7Vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一个网页，把字幕、翻译、配音全包了做一条多语言视频，很多麻烦都来自工具太散，每个步骤本身反而没有那么难。先下载视频，再分离人声、生成字幕、翻译文本、合成配音，最后还要把素材重新对齐。Voice-P</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247535880&amp;idx=1&amp;sn=56685f002d64ecd9a0823ca6864eb13c&amp;chksm=f88725299545410a6d1178219c3db55822aa15f3f8732ec8f2c9dd5924961c0ae5240841f271&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 09 Aug 2026 16:40:49 +0800</pubDate>
     </item>
   </channel>
 </rss>

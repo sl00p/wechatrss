@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[33万star、超过Ghidra三倍：REA为什么一夜爆火]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6u1zpkpVuZgSzTFgibmg3A9xWTI9nosgO96zKibs8fWk1QvmesyCzuCV7qOibibuhrxed37dtFFITrg0yM5skpLCuftU67Vib0YJMI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语2026 年 4 月 14 日，一个叫 REA（Reverse Engineer Anyth</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697904&amp;idx=1&amp;sn=d593ff48cba425ac128c5c665fdc5827&amp;chksm=eb2c1489aeb63d7d833e3fb9f7829ec9d77bdd647125bce21fd56648a20d03986fdfc1b6daff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[腾讯WorkBuddy FDE人才培养计划暨FDE精英班正式启动]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4eQetfPsiak8UKvSTMxX4OlfXAzwibXia82c9HNNQPTunK5zgBTwx8niaWPjWtmyvDJAXmuwcV2KU2BQuUAOAbkh2E1UWiaiaIMEN5U/640?wxtype=jpeg&amp;wxfrom=0"/><p>10.24三城启动授课，到27年底培养10000名FDE人才</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697880&amp;idx=1&amp;sn=840a0ad54e5ba73796bf35d4ce5a0e0f&amp;chksm=ebceb1b6995dc65e58c145c87035d58f5f0c36233be360eb2fc5580d8422a8c188c7a1e4d9d3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr7kGZGA6nwCZOYIuGPt9dwtlYyic71CClWNTRxIHN3yDHeHIgLmkZxC57MexiaplicGYYeP2TIXnJBR6Hf1Ok8wapMqhVuGSEiapN0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇上个月我差点干了件蠢事。让WorkBuddy评估一个开源项目PR的代码质量，它给了我一份极其专业的输出：架构耦合严重，核心模块职责边界模糊，建议拆分为独立子模块</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696416&amp;idx=1&amp;sn=ebb3c52b2bdcc699da2afc8d060d03be&amp;chksm=ebcb869bb2b8d156d53a42cfe51cb9edafb31b535f49c24c9c933da8aa6062426a56a2759977&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Jul 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一文讲透Skill]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5eeoSALexaQNWaF9SMOGoL2X4wubXJLpFibe33Gcm5D0dtrL3ypypAbDHgQNHr2dxEKx7dIdeic55icjkWo4moO1GvYOUeSFVu1M/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇00引言：从“聊天工具”到“数字员工”的跨越在 ChatGPT 刚出现的时候，它聊起天来似乎无所不知，但一旦你问它：“明天的天气怎么样”，它会告诉你：它无法获得</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696407&amp;idx=1&amp;sn=99394049f6a8ab40966f9116cf56c0e2&amp;chksm=eb0e6eb921a1b0992f67da0801a30dc4c23a560a2347cfccc00bd1087a48f1613728e452defb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

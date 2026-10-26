@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[仅凭一个恶意文本文件，黑客可劫持Codex与Claude Code]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2IhKuUwPbJ2tCoA0E3yyvje3UXSBwmicUYCEEIjEB6uqJEcTAicKGPyFZicibh1nJ0qexn36rwzP5QUhyVvxbW9JPWPAa8ib0nqPgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意文件攻击原理下载文件夹中的普通文本文件可诱骗AI编码Agent篡改自身设置、安装恶意软件，甚至泄露登录令牌。Forever Security是在拦截某真实客户计算机上的Agent安装已</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=1&amp;sn=63d7003e4b4b7cdbcdbe0fe4ba7d1841&amp;chksm=bc650a80d6f0a5726210fdf8601f7b4578c65f9fa9b9c718e7079016f587d99c8529373e545d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客武器化公开PHP2Shell利用代码，攻击高校与企业网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2o1MNxOHzxbvYHeogVY1mUDqh9Mg6KH8Gib9Uoibiazxmia1ibtianbia1icxxrsn4kdTLSZ1eAdGhZn9KB5sGSQBPrHEPbRydIsT5iaI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，黑客正利用公开的漏洞利用代码入侵运行PHP的网站，高校与企业站点是主要攻击目标。此轮攻击利用的是PHP引擎中的两个严重漏洞，编号分别为CVE-2026-109618、CVE-2026-10961</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=2&amp;sn=9a761fcb5bc1466e8921bf912fa40101&amp;chksm=bc992409478b2a9a4613ba7153a8526b9abae1bbf9d41b1f84a23f5d54c678042ddc9ce15b2b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客售卖ICMacOS远控木马，周费699美元针对Mac用户]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX13XGWR13ljPnOpnZkAW2vJb2CSzSeDZNySl7GXlp6MFBrva7zpFAbvDEsenIUkQIyScjOC4GSUmfd7rngPf4mbGUDdXW5xUnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正在售卖一款Mac恶意软件工具包，功能远不止窃取密码。这款名为ICMacOS（又称Icarus macOS）的工具在俄语区暗网论坛上架，周租价格为699美元。该工具最初只是基础的数据窃取程</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=3&amp;sn=31e38e1f9d10b6a55789a5cc45e2e3a3&amp;chksm=bca8bc9e926ff953b2b0ff4346ea4f102bab4eb7b8648ddce9ad8a23dc5d3e093e43dcf0dbe0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[uCreator安卓间谍软件可窃取Telegram 2FA密码，克隆微信账号]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3whxJbreYHL6npiaq9Mja7dTTPRHvS69st45Zj1bGGxXEtwMOGp04icEFyW2ct8Hzft7HScofM6egsHibY6LA6OPjRgelGzB25f0/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员Ovi发现，一款名为uCreator的可租赁安卓间谍软件工具包会将恶意代码隐藏在可正常运行的Telegram和微信篡改安装包中，进而接管两类账号。用户只有安装了这些在官方应用商店外传播的篡改应</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=4&amp;sn=f478fe0793b8873faa25df9a66b30956&amp;chksm=bc83d68eceb0c20c4bff7987f7345f95084a098b95fe70c47eb1f626f7cefbeec31e26ea9071&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Gia1nicgZAjhzNzxAnJVUlL2XuRxFRhnMvibzavzJMxZxwrZicCqJKP0heYHJsYhh0c9jDwKHVn74qT365gSnZ7WqX9YFJxvROko/640?wxtype=jpeg&amp;wxfrom=0"/><p>网名为killa的安全研究员利用两个PHP严重漏洞攻破测试服务器，赢下公开比特币挑战赛。整个攻击过程耗时19.28小时。2026年10月25日协调世界时15:47挑战赛决出胜负，当时奖金总额为0.02</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=1&amp;sn=d0753115bd9e6c7b4fe85b75ebfccae5&amp;chksm=bc7ebb8d90a25bfaaf1f4c0ba58d782a80dcd55976fd98d1354eb296975bc6e333a9486dcf6b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ahdNtvkHYR2icljoB4ROZ2QhmtSvUTfAtQEX4PXIT0LGDSvS5Y19mCg5dA90scNeFiaokcnmarZQ7Jo958dpiaZ8hIibdTGfbWeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌正在调整Chrome漏洞奖励计划（Chrome VRP），不仅提高了内存损坏漏洞的奖励金额，还进一步扩大了奖励范围，将其他类型的安全漏洞、漏洞修复方案以及安全研究工具纳入其中。此次调整也是为了进一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=2&amp;sn=fd8cd7785e7b83fc62fcf6092d49a04a&amp;chksm=bc0817a113bf3eafa918cd2b01114b2df6ccf6d3ce570a5ed11c6b2f2f0b86e8d1e604782ddb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用思杰NetScaler 0Day漏洞，部署Platypus远控工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ScgZvkZtTWu9Kd2b2Q1wIBopy8mibhblWG0LAOLuWa0ggR3UM3iavboutUgKPJ6ok3sibnf2XKKFbzBpe9g3a9fZibgLjuW2ArJU/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁行为者正利用思杰（Citrix）NetScaler的两个高危0Day漏洞，在暴露在公网的ADC和网关设备上部署修改版Platypus远程访问工具。这一攻击活动表明，攻击者从获取初始权限到持久控制边</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=3&amp;sn=7b697d3a6286d3af1fc87b3342810d46&amp;chksm=bc5038a3c264649207447d5f794399e64e5b561c7f15d39b9a4db0b4c3764cb9468a11a0bdc6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Docker修复Docker Hub存续两年高危漏洞，可冒用他人身份推送镜像]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2naKPxaFdG5y7fxTsuUibmYVR0dR88KWYdhicBJfBxias5Y1sKzQPW3cYEHliaOaQucryC9JHPFia9GNK42T83rdCMThhszKeSa4aI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Docker严重漏洞可冒用用户身份Docker Hub近日修复了一处存在两年多的严重安全漏洞。攻击者可利用该漏洞冒用其他用户身份，在镜像仓库中执行推送、拉取或删除操作。Docker已于9月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=4&amp;sn=843c238cafa4619759c2b2b4f4e8e295&amp;chksm=bc2e9bcdcb5f12a2035f1fc806c6f0ca301d5a5ad5eba678e31fb2dc64a66605e5daf4f92abd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前沿AI大模型仅用16分钟攻入工控系统，直抵OT控制区]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ySqM8QCsMK2pQlbibRSXATicEXuNiaxnZCeKjCTPSjJhQHbxOp7tGkRnbhjcE7h1W5h1PicHQeYXXX5kEo6ibQIMRb9QickRx6xhDI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01博思艾伦开展OT攻防测试博思艾伦（Booz Allen）在其位于弗吉尼亚州尚蒂伊的实验室中，将前沿AI模型接入隔离的工业控制测试环境，观察到模型完成了预设的全部8项攻击目标。模型自主完成网</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=1&amp;sn=386bf412079585a27e175ef9d12c0465&amp;chksm=bc5f6b924d9be20bdac36eaf53a01b74258d179813cf67d0f21c53574d39df10eb2eb19d89b5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[只需一句“跟我念”，6款主流AI Agent框架被诱导执行恶意指令]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1EL2EJfqpvmxtrwef3LYefLEPibqTpVakysfCibT2zHcQjFZBlNibZUpBAAaVnbl4cwYfnLSIk7Yhx0Hh1UIM0q4o3kRTH6L4tXg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一项最新研究发现，攻击者只需诱导AI Agent复述特定文本，就可能让系统执行预先构造的恶意工具调用。研究团队利用这种被称为“跟我念”（Repeat-After-Me）的攻击手法，成功在6款主流AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348770&amp;idx=2&amp;sn=b96b5960f5b716e5d3d012643d48a239&amp;chksm=bc2c22eb8e7effc520fae47ec78088e322b4b1868c4691727d3c785b53088bdbdc65a479450c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

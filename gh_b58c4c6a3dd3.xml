@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[白盒发现，黑盒验证：CodeBuddy Security打造AI代码审计的"可利用性闭环"]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4h4PWKScH19ckiaUIzgRicfIxowV05jL5EPRvOIoIQl1MBibWiaOicYVd6PPZ5hjicwoSib3XnVfvDYDibj5bTuvTsNFty9wfX5sicdKicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI让漏洞的"发现"变得前所未有的高效，也让"验证"成为新的瓶颈。CodeBuddy Security将白盒代码审计与黑盒渗透验证融合，让每一个漏洞结论都经过"实弹检验"。AI时代的新烦恼：漏洞"产能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530982&amp;idx=1&amp;sn=9d502bec0b526bf398805590d38fa93c&amp;chksm=c1d3701e26e6f75a227975264c403e9b337768c3dce8f873692f7e93cc8c73a8fd085c2e4534&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 11:13:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[免费测试！腾讯云AI渗透测试面向高校开放体检]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun64iaKibTzjsYoby6RY8atRF0yvIsyndREnWcn3QMozNFzD6oorGFlaQo2fAAJyfiaBPZeE7jm0yl8jgXicibXKTtHgSwYc6u3bGS7E/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI正在改变网络安全。10月21日，PHP披露两个严重的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，代号"PHP2Shell"）。参与研究的安全团队借助AI模型快</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530975&amp;idx=1&amp;sn=24d92ac6e6dc66197c6f3b7b34702ab6&amp;chksm=c11062d96ef792586e3fb3c587f02f2fe2d4e52215d562e433c21872e8087c26fe8e1bc3039f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6dKd3puQkLR4F4aTB0ZbwGGoqFKMCiaMBvuu39c5TzIaed1fh4DAZicNicicqWPOB1dRkGMPW3r0LnVoatey2jJ303ibARfEhQbQia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯iOA产品团队及腾讯云安全中心在日常安全监测中发现，知名API调试工具 Apifox 的公网 SaaS 版桌面客户端遭到供应链投毒攻击。攻击者通过篡改该客户端动态加载的外部 JavaScri</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529203&amp;idx=1&amp;sn=f8c78312519c42151761fe77e09de13d&amp;chksm=c10fc426a30bd3af9d04040558a8e1711991ec56eafb496138c4d4bd9ba341f5c839286ea33a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 26 Mar 2026 19:30:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[信通院联合腾讯云发布《云上养虾（OpenClaw）安全指南》]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6zcJKcGt1Zyj0kdl2c57YUZ1s4mASYoHF6GpaE129vTeTkCVnAAwPVoPa1RI6G3UdAIp1JOvU7nLhkiaTZnpHEOpgQ9vIwfQuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>报告愿景及目标读者随着OpenClaw应用的不断深入，其安全风险隐患也逐渐凸显，安全防护能力成为保障“云上养虾”顺利推进的关键。在此背景下，系统梳理OpenClaw发展现状、完善风险防护与安全体系、展</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529182&amp;idx=1&amp;sn=b0ce72ba128fbdb1f857a1274aca2888&amp;chksm=c19584cfeb6b421da04e67f3ceae71d2fd85f71501f3732ec2104963fdc9a1a6fa46d52cd891&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 25 Mar 2026 17:09:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

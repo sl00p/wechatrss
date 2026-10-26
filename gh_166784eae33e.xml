@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[【原创】当 AI 盯上医院：四小时攻击链与两处独立节点的反制取证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqib9T5qCmNLlnmfotRIVLzibCpXtAUCvVyozjTr9w4rW5oiaibv0M8s6hRv8F9OxTHc3Ppk6R5L9bNMlytQwfmNvm5rggvkIrQbSQ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研究 · AI 攻击与反制取证当 AI 盯上医院四小时攻击链与两处独立节点的反制取证在一次针对某医院 Web 服务器的入侵中，攻击者通过 Webshell 连续完成环境侦察、提权代码迭代、远控植入</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521038&amp;idx=1&amp;sn=190318e18c61bd4dd02492fecd43a7c6&amp;chksm=eb1d648420b78c597c055ecc42656e444554a07daddf7b12f7d7cbb40df0ee07a06ee70d25e9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 27 Oct 2026 11:33:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[4946 条请求背后：从攻击日志深度拆解 PHP2Shell 攻击]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibaH5wwqgH2gl67qpgWU0zB20zfTUH8qzTIqibBjHkr5CMzEtEkIdbY2vGsxl0MYxFQ4cyO3PaqU7nFIYFok4ZKDBxuib4trNo1g/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击分析 · 威胁狩猎 · PHP4946 条请求背后从攻击日志深度拆解 PHP2Shell 攻击批量扫描、传统会话投毒、管理员会话伪造、命令执行验证和恶意脚本投放混在同一热点里——真正需要优先处置的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521029&amp;idx=1&amp;sn=0b6b3b208022efa1acba99058de3ae12&amp;chksm=eb474b9999ee3c66d21f690504e49e0c472cd4055e4d4065aa0f54655b643997d0fa239cd470&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibg7vEHDx4JLeRqCPdIW4kYmmCHOkKbbxItLuic6icg2MKIPRRP88BWBIZjB16AJROwrhmib6dRyf6ApWXMMrQDBQjsaRic6XQCibXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>通行密钥（Passkey）被认为是密码的终结者。但 Palo Alto Networks Unit 42 的最新研究提醒我们：密码学没有被攻破，被攻破的是密码学周围的那一圈实现细节。当恶意软件已经站在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519701&amp;idx=1&amp;sn=bf19b4c24e89df1686763d7fd85c7f91&amp;chksm=ebb505aa4e403d99658e60033cdb51eb87ebf91e6fc478ba043cef79e28e76e3aec0cfaf65b9&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Aug 2026 14:47:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重保进行时 | 奇安信威胁分析数字专家 你我皆是样本分析师]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibwFDoMnMXItdfKNHuqt4XfujGbEk7a7QWSoIibG0sygpofVDJC0glxLzd2KiawkMSvXTpmGKC9X43th3yv4usHicU00ycuG4ib2ick/640?wxtype=jpeg&amp;wxfrom=0"/><p>奇安信威胁情报中心 · 实战案例重保进行时 | 奇安信威胁分析数字专家你我皆是样本分析师一枚把自己伪装成微软 Windows DeviceSync 系统组件的特种木马,在线提交样本后,奇安信威胁分析数</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519693&amp;idx=1&amp;sn=8aaa5dd1f446d1a2cf516feb8ec5fab5&amp;chksm=ebc232a9fc953dd309d097eea48f9d262571e9f38987f51e9fff87ed4c7081d7394ecc090241&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 16:56:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
