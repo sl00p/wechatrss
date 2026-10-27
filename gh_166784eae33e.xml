@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[他 Root 了自己的三星电视，然后 OpenAI 封了他的号：一场智能电视隐私追踪拆包实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq96UzMFrly7IcE9AffCRRbaB3jxZ8bTSRsvsbn8oLeso6I1mRwDhsLNfbkhyzk2rMuMEext5svSTZVqwVmYBicTzNkeMqotzhb4/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 事件分析他 Root 了自己的三星电视，然后 OpenAI 封了他的号：一场智能电视隐私追踪拆包实录安全研究员 Root 了自己 3000 美元的三星电视，拆出常驻监听、高频截屏、"借"</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521055&amp;idx=1&amp;sn=c998188c101a0702e3ef1120feb2093d&amp;chksm=ebee52f0363a2466ae8dcda83f8baaba7cd256a528804c6143547cd63a94ad770d30d7ec6f2e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 15:42:48 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[【原创】当 AI 盯上医院：四小时攻击链与两处独立节点的反制取证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqib9T5qCmNLlnmfotRIVLzibCpXtAUCvVyozjTr9w4rW5oiaibv0M8s6hRv8F9OxTHc3Ppk6R5L9bNMlytQwfmNvm5rggvkIrQbSQ0/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁研究 · AI 攻击与反制取证当 AI 盯上医院四小时攻击链与两处独立节点的反制取证在一次针对某医院 Web 服务器的入侵中，攻击者通过 Webshell 连续完成环境侦察、提权代码迭代、远控植入</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521038&amp;idx=1&amp;sn=190318e18c61bd4dd02492fecd43a7c6&amp;chksm=eb1d648420b78c597c055ecc42656e444554a07daddf7b12f7d7cbb40df0ee07a06ee70d25e9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicEJkS13iaGuicib1tiazQib97W0a3CLNrkCKydv29PBMUKKeC92gpzWb6rIUmR0L2UNNDIhGY9xGicxnVaPR3a35ibU2LSkd8cS0uoU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份看似无害的市场分析文档，被员工随手拖进 Copilot for Word 当作写作素材。几分钟后，Copilot 起草的季度财务报告里，所有数字悄悄缩水了一半——而这份"带病"的报告被分享到公司内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519706&amp;idx=1&amp;sn=2b99e60929c3f340e2faf2174d18951d&amp;chksm=eb37064f0b9ad23897f664382a0a3ea94d321ab20aaf6aa5a8de6925ca43bd537ffd9fae38c7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 14:39:13 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当“万能钥匙”也能被复制：谷歌同步 Passkey 三大攻击链深度解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibg7vEHDx4JLeRqCPdIW4kYmmCHOkKbbxItLuic6icg2MKIPRRP88BWBIZjB16AJROwrhmib6dRyf6ApWXMMrQDBQjsaRic6XQCibXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>通行密钥（Passkey）被认为是密码的终结者。但 Palo Alto Networks Unit 42 的最新研究提醒我们：密码学没有被攻破，被攻破的是密码学周围的那一圈实现细节。当恶意软件已经站在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519701&amp;idx=1&amp;sn=bf19b4c24e89df1686763d7fd85c7f91&amp;chksm=ebb505aa4e403d99658e60033cdb51eb87ebf91e6fc478ba043cef79e28e76e3aec0cfaf65b9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 14:47:49 +0800</pubDate>
     </item>
   </channel>
 </rss>

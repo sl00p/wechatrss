@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[别等用户告诉你：让 AI 每天替你巡一遍生产环境]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/C8KZWtRymbfVc2rfRsBwpw4voCJksmvs60aCZHs3jeuuQAPOicRPiavvTlITdslqiaMuIA0t3IeaqVyaA06WzrbgnAyPaYtX97ZUje54W4dibOQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>生产环境出了问题，团队往往先从用户那里知道：页面打不开、下单失败。等人开始翻日志、查监控，服务可能已经异常了一阵子。这些检查本身不难。读几个指标、查几段日志，再和上次对比，十几分钟就能做完。难的是记</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540608&amp;idx=1&amp;sn=0f3ac38c5487ad28539fe444247e15f3&amp;chksm=cf858beab9b7ecd5caabb4bceeede133898e851c10eb17d5f2790958a135f5911955930ec599&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 16:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CloudBase 远端 MCP 升级：支持 OAuth 授权]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/C8KZWtRymbcwsqYQ8QUYuy1EA5Fn9ZVxKYgicxdLAMSQ5FLDQIXtG9zfMl9riatbSLfBGo0LeAg8M4Sp40N6rSLJXuHvxzXZUoVBgKouZVCzg/640?wxtype=jpeg&amp;wxfrom=0"/><p>CloudBase 远端 MCP 现在支持标准 OAuth 2.1 授权。客户端填一个地址就能接上，注册、授权、换令牌都由客户端自己完成。平台不用提交接入申请，用户不用填密钥。配置一下就能用在客户端的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg3NTA1NjcyNQ==&amp;mid=2247540559&amp;idx=1&amp;sn=7d1441f4f27fa79767159e994356520e&amp;chksm=cf624a67fcaa9baee6dce02247945ac42663771a5625d160564110aa69cccabada59732c537d&amp;scene=0&amp;xtrack=1#rd</link>

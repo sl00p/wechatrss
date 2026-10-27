@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一句话生成看板｜灯塔AI数据分析从0到1完整指南]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9073cpevicc4cibGR7kcIV0EK0lVYfy2LIWaIzV7iacQm84Dlu9iamN01r2tNhmtkMAP9g7fcf0IjtL9ibR10FqPySVPuK0pGcKHCbLs/640?wxtype=jpeg&amp;wxfrom=0"/><p>灯塔AI，是腾讯灯塔面向外部用户全面升级的 2.0——一款人人可用的AI通用数据分析工具。此前我们发布过《腾讯内测Omega，一句话生成数据看板》，介绍的正是它的内测版本；如今，它已正式以「灯塔AI」</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804990&amp;idx=1&amp;sn=ab7cc44dcb144528b83bc90c81eb6321&amp;chksm=bfbe5d9e382a1501e063a7b121ebac8d29c7f028340da5cb0a37433c06cf68bb762bec50f0b4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 17:33:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的Personal Agent 如何真正跑起来？Agent实战指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz907IeGCAcFpNXzvfwItBQR5mJW7XicVAyduHTzMlc7icxJQicVnekZbxz7ZNHiaAhL4lZlC3ujoUdsNZPRn8EcNOMhSye1NvxaVsnMw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：spike，腾讯游戏数据团队负责人导语今年以来我一直在建设自己的分身，也在工作中用得非常多。前面几篇聊到了context、个人bias和判断带宽，这次想具体讲讲，我平时怎么用，以及这套东西是怎么</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804831&amp;idx=1&amp;sn=bcfae266ff83331edd3f2a72643592d3&amp;chksm=bf755cf1db400100dc9ece05cbcb7a8dca12c160bf287b6c357910be2b2fce467ed4ae2795d7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906zibCK7ibnolEYiadVQhfAd8icOVz68S2ic9gOPAg7cCLyWqJTVzicxGYNcZckU7eCptDIH4yeRjWCm5A5UcCdtwO830BpwYRibHj7xs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：fitchzheng、leoshli一篇属于后端微服务 + 前端微应用大仓的 Harness 实战分享。 不讲理念有多重要，只讲我们这一路是怎么搭起来、怎么撞墙、撞完怎么补的。写在前面这篇文章想</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802486&amp;idx=1&amp;sn=1d3872e7495a2a69857e9dcb5eb9c625&amp;chksm=bf396e2bc5867ad448498068203ded643c770bb9263d18b0722b35ca34d0624b939dd624e5c3&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 17:39:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯混元Hy3发布：Agent能力和产品体验跃升]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9062IdkEDBU4FaluuO4uQezUIo7loOzyZibnvZbRywyxF2PcAfywJKfcibPbNfFeEw3bD1xYvOUS4zwLYhDem12F6NdQa0XpnMVPA/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月6日，腾讯混元Hy3 正式发布。相比preview版本，它展现出显著强于同尺寸模型且比肩（参数规模2—5倍的）旗舰模型的智能水平，定价进一步降低，总体稳定性和性价比大幅提升。Hy3已在WorkBu</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802443&amp;idx=1&amp;sn=0d38771c47e94c4108453b12184fac88&amp;chksm=bf568f31bbcffc73818e9035ddc1f9bfcfc6735f2f80622830f8f3aa754378307a77ce56ddf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 16:04:37 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题回顾 | 一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K00OcbCibYgLu4I7aQp6OyabDa9zHL6JPAKDNCyWXkqDenZUZEpjBdXBIIPP3jZs2gUjQyicSHpwDHRaQ2ibibIOlyxYsBYLLHn4GU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾在自动化渗透实践中，Agent 的架构越复杂，实战效果就一定越好吗？从多智能体编排到单 Agent 连续执行，大模型、工具与 Harness 究竟谁更重要？在第十届安全开发者峰会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=1&amp;sn=a2f7444454ef6dd0e7fd9774e731b005&amp;chksm=b0cb8bf426d97d3c762074bf3d2f4d8efa19d3663d0d712887ccf409b441e2c61e46c3496f85&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[42 个 GitHub 仓库遭投毒！Claude、Cursor、Gemini 用户需警惕]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1VFHjnxXZQuW1Ecic9e7r42f0qfF0B4Sx1dZPvJxGnYjF5DfsevhlYfpEP40Oax7wcS0Z4yq3nCCEBarMGwYgkZOdMibARU5S8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog 安全研究团队披露了一起供应链攻击事件：攻击者劫持了 42 个真实 GitHub 仓库，涉及 11 个合法仓库所有者，并植入恶意代码，针对 Claude、Gemini、Cursor 及</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=2&amp;sn=a105156c2cf60620913cad18ac448e15&amp;chksm=b0732bd28b9ee03acdbc4cc11cdabef86780d2a3f6786949fc4461c9ffab01ec17ee7f91cb4e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=3&amp;sn=86804ff1c1a6dc61a83ef291bd89bf60&amp;chksm=b0e438336e99f31a543090e38a4e57c9cb748598abf190a90d6626272c22b58adc08ba14e263&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题回顾 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3E3h0f9iaFPVH6So16pIuMPM4ZEBlF7D6ibIDh5ibmAHsL7YBeoUw7sBUgRllo3xxAlW6dxA9hkeuiaFfk4JdDx63QuFHVftTVnnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾从 LLM 到 Agent，AI 的能力不断进化，安全攻击面也在随之扩张。从传统的代码漏洞，到提示词注入、工具滥用、记忆窃取，再到 Agent 自主行动中的失控风险，AI 安全正</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623168&amp;idx=1&amp;sn=c067079a13953815453d84054be125f5&amp;chksm=b0a3ae2b9f5aa68e3f75ac5fa70fbf922a99363efbf26358ff7a84b2c5c4817a2c7fa2c552a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2Tsib6QXAubfnT6kesic7Rcd68Q9OJuOoIWczuUfWs0cI6R5ns7Yy7rxt46gFGTymViasnZUDdU7iaKrrf4Qp4LfdH43cEXFAIm5I/640?wxtype=jpeg&amp;wxfrom=0"/><p>思科（Cisco）于10月7日对外发布安全公告，披露Nexus 3000、9000系列交换机存在3个高危漏洞，CVSS评分高达9.8分。攻击者无需账号登录，仅通过网络可达，就能远程执行代码获取设备ro</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=2&amp;sn=24a705329f5a1419abeaf7512db4cf55&amp;chksm=b0cdf8b364bdc2941432f87000e275f4b970c9ec2d2647f61c6ab57b21dd12c6b7630b0081f4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【彩蛋大放送】冰与火的战歌：Windows内核攻防实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——既是系统“防火墙”，也是攻防“主战场”。对于内核</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622529&amp;idx=3&amp;sn=fda47df3683a16a3fa8fe485abb5e7d7&amp;chksm=b05ae6a3e341229688597558dd9441d89a2e74442bb20e4dcd16772093b5aba18915ea4da46d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2JG4jPzMIRVhuwTrNw3h6rVGZia0sdmoJibyutpOpaibwTKS162k1clSYlPGBWdFhBjibjXeeCUfSmJ4C9xSUhreWc8o2N1wMGaib0/640?wxtype=jpeg&amp;wxfrom=0"/><p>从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术RISC-V 的开放性和模块化降低了处理器硬件设计门槛，也使安全分析面临实现多样、漏洞机理复杂等挑战。本报告介绍一套面向 RISC-V 处理</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622478&amp;idx=1&amp;sn=7a92ebdda86657e461928698f749424a&amp;chksm=b0e1e6e4c83f76c78a759c06a3632c9feab6bb4fda8d8d4eddfd71be4b27cdfb9f9ff55b691d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bvcQpjzWhR3ZKsVZDBuFalElso4eEiaN9tPZMubqFUUMAMRBHH1A9H1TAK9H9ganBNQLLZpCDFUl792GgU3Tlte23XY47jYzY/640?wxtype=jpeg&amp;wxfrom=0"/><p>在真实的企业安全体系中，防火墙从来不是“绝对安全”的代名词。相反，它位于所有网络流量的最前端，承担访问控制、协议检测与入侵防护等关键职责，是企业边界安全中最核心的一道关口。正因如此一旦出现漏洞，攻击者</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622478&amp;idx=2&amp;sn=2493f1ae2222a727e9420c80bc719906&amp;chksm=b0fbbf6a195d8847fcec55d0a28b94fefacaab0b51bd767e62c9028471ffa8516fe33547d6c0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

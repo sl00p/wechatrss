@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zVDNwNfamiaVswpjS7Z8cI1ibgVEcvBakjibKk0XiaRFabATD8KaPwmMibibibiaWiaNKaChtV7Urscn6yCOdicEj5OOkFiaXocp3ctiayVcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、业务背景策略效果类 Agent 的真正难题，不是“能不能生成策略”，而是从人工单点判断走向规模化生产后，质量如何持续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562577&amp;idx=1&amp;sn=22122e51ba24f88c044e29669bafd9e7&amp;chksm=e8488661cdbc727bcb8d8ddf4e438727ec0c3a22a7c1f5d2047567337217ea988a6c5860274e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 10:02:46 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析 Codex Harness 架构及其全新上下文压缩记忆体系的设计思路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zxl7GAoxzEALHq5rncswmMTYGicAYQM47ia1Jp0pBVsI2tuCw2mRLEDC6S8cm1N7YTicUPOm3A2uzPz4SGPO9GIs933rduAYGgus/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景近期 Codex 的开源项目也频繁更新了许多新特性，其中比较重要、也是我们本次会重点去讲的，就是关于 Memory</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562567&amp;idx=1&amp;sn=66f9aa9e8cfbbbb6bda19db56d51514b&amp;chksm=e83693399acbe6bda8b36e01a351cc9d188ed8df1dbd3c338c2690d2b4c8c54bfa44f4e23d13&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zkTPQL2WnmVUc0Cxy7VxoH0EnXCnHSG0F4BK45OkSFv8sVAHxJIxGWtduFaJUPLAnnnp3JT4kMaRMlYGg3ICVe1wCnzRXlttU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了一个面向数据开发团队的端到端数据验证 Agent Skill——verify-data。该技能通过自然语言交互，自动完成从表结构获取、基准表发现、代码逻辑分析、验数 SQL 生成、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560354&amp;idx=1&amp;sn=7f27739c5166be3e08890a75756e5811&amp;chksm=e8b465f2220f7cd637bfc9507609275b2c5c0e7642d3cf29022b5a473d3bf2b0eea1af025802&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 27 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness Engineering: C 端 AIGC 内容生产自优化实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xoYf7gQmJF6bUMh8LslEVjNseP8o8nfbiad03nAquYBHo5yCMtymfBzuYm5vc11cAj5oM2pluUEAveApAd35SVqNs4AC5fqfTg/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。在前一篇 《Harness Engineering:为 AI 打造可持续迭代环境的实践》 中,我们讲了 HelixVer</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560353&amp;idx=1&amp;sn=939768570beeacd145b5c1c91ae7827b&amp;chksm=e884afd7b73d0b11ed126e8b17165839be920afc88b71757100b4ecba9a9f4572e8da70fbbe1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 26 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

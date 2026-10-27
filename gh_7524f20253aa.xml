@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[韩国警方破获AI辅助黑客案，90家机构遭窃820万条记录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0BqmibTES9epcricLziaJNgyewoZNhRVKTy2RxnlvfD2zsveQ3r160mgMPxzUTXCUoFcPoCVWCpsYRunbOAlqpNaX3knZGYaJJT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01韩国破获大规模黑客案韩国警方逮捕了一名32岁男性，该男子被控主导一起AI辅助黑客行动，入侵约90家机构窃取个人信息与内部文件，涉案数据总计820万条。入侵目标涵盖医院、私立培训机构、高尔夫</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=1&amp;sn=5118fc24ff5beb5311929f7e5fe9cc13&amp;chksm=bc7a5dd1daa8fcd9bc423224fa0087113e9e1695c0010b3c0785eab289287df4fd6fab92bf7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直播预告| 模型、MCP、中转站，AI应用的安全短板究竟在哪？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1QYqlOEBC3wh15Tbmb5w2MJ0JibuNPyhEmhQBPnOG0W0ZIBwWtCh4Nx1rHLFxnRicEXk2ky59Z1wcbxRCQJWibOtlR23z4ejV8LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型正在从简单的问答工具，逐步走向企业真实业务场景。随着AI Agent开始调用MCP工具、访问外部数据，并通过第三方中转站调用API，AI应用的能力边界不断扩展，安全风险也变得更加复杂。模型本身安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=2&amp;sn=220447968d6c96166c446ec79fa77acc&amp;chksm=bc445cf20196cda4f00c9902302fdb9d96140ded9cfa10e5f2e65cf4a98ba1635a3f5cd6d8a0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI Codex数分钟破解USB加密，暴露硬编码密钥等安全缺陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0vG0CMiaXpzjy2C477ia7cziaEVibt7MZJyPiayxdngwY37CIfDlLe2puHz0qicvuiajY37OMjZibBhdSQbEoX1N7fm2RObdzbuPJVfibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员Xusheng Li借助OpenAI Codex，在四款USB防护产品中发现多处安全缺陷，包括硬编码加密密钥、内置隐藏账户等问题，攻击者无需用户设置的密码即可解密存储文件。在其中一项测试中，C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=3&amp;sn=1f319eb43cc1a2d36501cd06e9537706&amp;chksm=bc7293cf5c0c399adff6eeed017b323914cef5bb57764e842dd3fbfb6a7a25f0d30f352d1d7e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客劫持AI渗透测试Agent，植入后门窃取API密钥]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3TGLjYdWjXibqWzCUFaF52QNA05o6IiaTRjMMxE8KZ7VsF5RcicK76DMDshib7qKRcgAHnRWMuEV5gibicug0OXBdbqxccIJUL8MfXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>黑客已将攻击目标对准安全团队用于自测网络的AI工具。一项最新调查披露了多起自动化攻击活动，专门入侵Cairn平台的暴露面板——Cairn是一款可向AI Agent分配目标、支持其自主执行任务的平台。攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=4&amp;sn=0b6026dc11093f8f3466357de478d9c3&amp;chksm=bc0c6cdf119123ef4837437e812df0e08bf6d6b65fb46212eea92b48412f00371122f78a959e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[仅凭一个恶意文本文件，黑客可劫持Codex与Claude Code]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2IhKuUwPbJ2tCoA0E3yyvje3UXSBwmicUYCEEIjEB6uqJEcTAicKGPyFZicibh1nJ0qexn36rwzP5QUhyVvxbW9JPWPAa8ib0nqPgI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意文件攻击原理下载文件夹中的普通文本文件可诱骗AI编码Agent篡改自身设置、安装恶意软件，甚至泄露登录令牌。Forever Security是在拦截某真实客户计算机上的Agent安装已</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=1&amp;sn=63d7003e4b4b7cdbcdbe0fe4ba7d1841&amp;chksm=bc650a80d6f0a5726210fdf8601f7b4578c65f9fa9b9c718e7079016f587d99c8529373e545d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1e3k1kicYOiah08Uv5iacePvx4omWicibw6OJpJVxxLeibVU873Uf3bf2QQpAjxZfItUuiaza4iaq1JD7xdIkNfNqgpGH1VtP7ia9oNaAc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01三份新报告披露对齐问题OpenAI近日再发布三份报告，详细披露了旗下模型多种令人担忧的过激行为，其AI对齐问题正呈现持续恶化的趋势。在专项对齐测试中，OpenAI旗下模型会想出各种非常规手</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=2&amp;sn=5f03ba9b1e43e1a0fd9f57c1ed811e2d&amp;chksm=bca5134ee35a3d86cc5d32854be46ea1e95e701865f449eff8b78a88ddbba11bee277a238483&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux vhost高危漏洞PoC公开，可致root提权与虚拟机逃逸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1LpeKRoyHl5H54DtKb4tRcTBHetaEicduXOa5BCOKia4bJib1srrjNm1vjibGwhwShJQG8oqqqBe71OySOILmywzKpnSbHCr21icGw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01vhost缓存校验存在缺陷Linux vhost高危漏洞（CVE-2026-74580）代号为Vghost，目前已有公开PoC。验证结果显示，本地攻击者可利用该漏洞获得root权限；在特定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=3&amp;sn=37c2ca5081a7c62dad0d921b2251be38&amp;chksm=bc7f7c8a6dd8f3f048e9cee5b55803054b46102a570adde53f73e2cdc175d381e828172dc016&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CodeWall获400万美元融资，推出AI Agent模拟黑客攻击测试服务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0lzX3SwYZXNUXySvc0ibeocFibLnREuRFTIicrBmXK2keYOBcMBxLsj0eAicgkNchib1RqwHGTHM28emt2dZ8WbnXTSDdZb52OXzp0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01无前置凭证多Agent协同提供持续性渗透测试服务总部位于伦敦的进攻性安全初创公司CodeWall Ltd.今日正式投入运营，同步完成400万美元新一轮融资。该公司面向银行等企业客户推出自主</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348914&amp;idx=4&amp;sn=966271464dfbeb221c0f36553fcba5bc&amp;chksm=bcd4349f6f375f4d62dae40b16a60c810fbacc02e00bde4723d24e537593001c89803d836f33&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic预警AI自我复制风险，智能电视等IoT设备恐遭利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3S93EibGh8usic2tgIicSB951xdt4eibqIxmGiaibKLw2PDnP4L0uJ2SicdePwNxicpcWMfouKCOGpFQxmAysiaSiaXd1tQdiaSIdgNRrMRE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic发布预警，安全防护薄弱的智能电视及其他联网IoT设备，可能在数月后面临小型AI模型自我复制传播的风险。该机构研究显示，未来出现的AI蠕虫可直接在消费级硬件上运行，无需依赖数据中心，因</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=1&amp;sn=eece797ff0980bbd8bb606446efab1c8&amp;chksm=bc497ce0d0a3fa186de67f6e65c4207917a4f9ac916300aebbe12d191ae071beb9b63facb2b0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌四倍上调Chrome漏洞赏金基础标准，沙箱逃逸最高奖2万美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ahdNtvkHYR2icljoB4ROZ2QhmtSvUTfAtQEX4PXIT0LGDSvS5Y19mCg5dA90scNeFiaokcnmarZQ7Jo958dpiaZ8hIibdTGfbWeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌正在调整Chrome漏洞奖励计划（Chrome VRP），不仅提高了内存损坏漏洞的奖励金额，还进一步扩大了奖励范围，将其他类型的安全漏洞、漏洞修复方案以及安全研究工具纳入其中。此次调整也是为了进一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348840&amp;idx=2&amp;sn=fd8cd7785e7b83fc62fcf6092d49a04a&amp;chksm=bc0817a113bf3eafa918cd2b01114b2df6ccf6d3ce570a5ed11c6b2f2f0b86e8d1e604782ddb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

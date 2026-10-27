@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia30owwA87W7I00kZESEygU6xG1vSTXiclrLfmeibaxxzZKyJZCLMVT2TE0Tb55hxLYb2fXrDsCxAEH5ibDZAkJSQU6LpQmyZsTLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 高梦霞10 月 22 日，由 InfoQ 极客传媒主办，联合中欧国际工商学院 EMBA 课程部、独角兽创业营、TGO 鲲鹏会共同发起的 InfoQ AI 侦察团 @QCon 上海 2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296150&amp;idx=1&amp;sn=eae2158d82c963c077e1f417ca03bec4&amp;chksm=bc908b18e55848bbe5350df13e736db1ef4aae98ed27eb180f6e3fbbc034962002925e73b84f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 19:22:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Qwen4推理内核代码现身GitHub：27B架构细节引热议，新一代模型路线浮出水面？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/lYDricib2fsm7NC45MyMLDAIsmLibFOR0JQcUKNZpKm2Bh5sTMVOWGw8rllicrBZGFOhUrZ8wBluHhUU669MTCaPV1GCYPz5LOTpsvMUjkX3icfw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 四月 Qwen4 尚未发布，但一份已合并的开源推理内核代码 Pull Request（PR），却率先“透露”了架构线索。这份 PR 来自阿里云重要芯片供应商英特尔 GPU（XPU）推理加速仓</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296150&amp;idx=2&amp;sn=475b8f861bd93d178ff9f2a80d2761f1&amp;chksm=bc63b3ac1f3516ed6d57cd3763c8144e5181d53ad1a4bfd7cb238a00cecd26d4b64a3e44f7be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 19:22:09 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Kubernetes 1.37 发布：稳定版 Metrics API 和 Beta 版 Rootless Kubele]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjtJia5hpkHBCyVMlPKJvIs2Tq5KjRB6hOD3BI7fvB8RiaxiawLpcarWSibia97G8vHhsjtfBh20GKOFV1I0hpXNicS9elvK9woISTXU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Mostafa Radwan 译者 | 张卫滨 云原生计算基金会（CNCF）发布了 Kubernetes 1.37 版本，该版本命名为“Garhwal”，重点强调稳定性、安全性以及 AI/M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296150&amp;idx=3&amp;sn=009fcb5563707c2ffd75c6a09c7b007d&amp;chksm=bc1a31cead502cd3a84dde66c115bdcbd8f225303eb5bb7f57972e695696f4313afc44e810db&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 28 Oct 2026 19:22:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj0TicdLdib5DYOxVRdNbOk2HehEYicsC5bg2dPwyBa9BmVG12KMjYSKBVEBVyCUKY6Hqmwv35iaRmVZmaRZoDicgclFhOx6tLWCV0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 锣鼓喧天、AI hype 拉满的这一年，终于等来 Anthropic 的招股书。招股书里最核心的增长引擎是 Claude Code：头部企业客户每月支出是普通用户的 20 倍，9</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296067&amp;idx=1&amp;sn=c6f6f20c4cd5e3c829c672de5a61d3ba&amp;chksm=bcbc23123cc55f8b35d21fb82425e5201cb445302dac90f068d16ac8aefdb00d8e04422b3b97&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia9WcbdYXnQejdS0Gb8pXtiarZ2GOicZ5icn5ZmVJ4JdFN9FhD4rdJ938rwG2ibv08mibQPlD2CSqTrSbVGvQgibbuIojJia6l36ulOao/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜蔡芳芳成立不到半年的 AI 创业公司元环智能（MetaCircle），宣布连续完成种子轮和种子+轮融资，累计融资金额达数亿元。据公司提供的信息，种子轮由顺为资本领投，上海未来产业基金、星连资本、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=3&amp;sn=ae0f208ba912b999cfe05a73914ca951&amp;chksm=bc8880f9a6affa372c812f89de51bbf7c9df79c689c9ebd8dea8f96a82dffe040a83d1ed2333&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaWfOUV3uYnPLTb0a3kbhFrmiakTyBXCtCJT3dgQMmCgjUTPLIFtBwFfeeIEnu653jeSV2aic3Tpk0So4ojg5icQF1AX4RcheIYcc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Olimpiu Pop 译者 | 平川 点对点代码协作网络 Radicle 披露了其核心网络协议中存在的两个关键安全漏洞。这些漏洞会导致迄今为止所有节点版本的机密性不复存在。这些缺陷使得网络</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=4&amp;sn=62af723da21549a9ad412f313b07f62e&amp;chksm=bcaa9462f22ed9ba5bfc2e78c46141bd960e43cc5b60952f41a83148e3e2aa1c575b2cb2af93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据驱动的具身智能：迈向规模化之路｜QCon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia4lzdehMOf0ia9hoAuty0punDeNL2ibXibjpUb3wScVmoydm59Yffla4aicMZmxjeP26NtS6XQEibzpujeQzmymBpHDZew2h4RwITs/640?wxtype=jpeg&amp;wxfrom=0"/><p>具身智能如何走出实验室、进入真实产业现场？高质量数据与持续学习闭环，是迈向规模化落地的关键。10 月 22～24 日，QCon 全球软件开发大会将在上海举行。本次大会特别策划了专题《数据驱动的具身智能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=5&amp;sn=17d49e63040f878f1e241def3edf5194&amp;chksm=bc58aa35f53a545c4da111334e83274bdde7aebca971a7d7576d1e0b94533a293fbdecd764e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 生成的代码，怎么才能进得了工程体系？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgwkoQUJzEdmK2J7VsHuYrSygMyOlD9oUiajrPtMMBpyOEt2sTwPxica94hdI8u8ny1ZtZOicibO9ktU72Z3khjgIWmtB5icnxISibibs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 于曦 AI 编程工具的竞争，在过去一年里换了个赛道。2025 年上半年，话题还集中在"能不能生成"——模型能不能写出可编译的代码，能不能一次跑通一个完整功能。到 2025 年下半年，Curs</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295116&amp;idx=1&amp;sn=c753111c9e79df92487ba754f81ff9ad&amp;chksm=bcc0d5ba5a47ed09382461a3c2a3053f46fbc510750592d8705f4caad43025015be2f7b8006e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Oct 2026 16:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
