@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI Infra进阶：3万字深入理解线性注意力机制]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905x4DFejI4G7YViculHA931nLL9kdpPha8wLtzYGibSE0cjFBoWhlibcicqGzY34VNDTuLibPia81RibjGy8HKs9PmztbCDSQhjicicNZs0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu导语 本文非科普文～ 如果你真的想了解大模型的推理，本文绝对值得阅读最近有点沉迷学习AI Infra了，差不多废寝忘食的程度。强烈的好奇心驱使，每个地方想要做到"知其所以然"。然</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649807939&amp;idx=1&amp;sn=3f07a83e3ddf3f5bd3b97854077f66b1&amp;chksm=bfc25e220f493cfb0b846b9a83c177549d37cda3b1b0d1e7dd88b0d0884065ba2b31785197ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 17:27:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一句话生成看板｜灯塔AI数据分析从0到1完整指南]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9073cpevicc4cibGR7kcIV0EK0lVYfy2LIWaIzV7iacQm84Dlu9iamN01r2tNhmtkMAP9g7fcf0IjtL9ibR10FqPySVPuK0pGcKHCbLs/640?wxtype=jpeg&amp;wxfrom=0"/><p>灯塔AI，是腾讯灯塔面向外部用户全面升级的 2.0——一款人人可用的AI通用数据分析工具。此前我们发布过《腾讯内测Omega，一句话生成数据看板》，介绍的正是它的内测版本；如今，它已正式以「灯塔AI」</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649804990&amp;idx=1&amp;sn=ab7cc44dcb144528b83bc90c81eb6321&amp;chksm=bfbe5d9e382a1501e063a7b121ebac8d29c7f028340da5cb0a37433c06cf68bb762bec50f0b4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者： Kario Chen我最开始用龙虾，也是 Opus 从头到尾，觉得这样才算是释放了最大的生产力。随着 token 越来越不够用，我开始持续探索节省 token 的方案， 越深入越发现：真正的省</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802494&amp;idx=1&amp;sn=b9882f78a98dd26657b573d0f14eea8a&amp;chksm=bf387691ee59790a5d52db1d10fe9e615e637a95f628c4ebc573c50de8110265d028ad6025e7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 17:35:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从Vibe Coding到Harness—— 一套大仓AI工程化实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906zibCK7ibnolEYiadVQhfAd8icOVz68S2ic9gOPAg7cCLyWqJTVzicxGYNcZckU7eCptDIH4yeRjWCm5A5UcCdtwO830BpwYRibHj7xs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：fitchzheng、leoshli一篇属于后端微服务 + 前端微应用大仓的 Harness 实战分享。 不讲理念有多重要，只讲我们这一路是怎么搭起来、怎么撞墙、撞完怎么补的。写在前面这篇文章想</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802486&amp;idx=1&amp;sn=1d3872e7495a2a69857e9dcb5eb9c625&amp;chksm=bf396e2bc5867ad448498068203ded643c770bb9263d18b0722b35ca34d0624b939dd624e5c3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 17:39:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

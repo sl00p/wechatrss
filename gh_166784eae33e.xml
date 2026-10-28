@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[网络安全威胁2026年中报告]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibKhyKYrmWypkGcpMa8h45a6ADiaChAUEoztGCw8ZejrrqKDJzDibJJHQKJTlo1aicO2fsJdNVib7uVZzLzlwY1ktHx4icsEKtDYoP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者还在通过钓鱼邮件和漏洞发起攻击，但入口已经远不止于此。2026年上半年，软件更新通道、开发者凭据、云SaaS身份、智能体扩展和企业内网AI系统，正在成为新的攻击突破口。一次正常的软件升级、一次依</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521175&amp;idx=1&amp;sn=17b10496d5774fd3a46748981630b9b7&amp;chksm=eb17c6ed70a216335425f5eaf2d15ccc17ff9114e25d179cad888d0973ac08eab2511ef0ba62&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 13:59:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[他 Root 了自己的三星电视，然后 OpenAI 封了他的号：一场智能电视隐私追踪拆包实录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq96UzMFrly7IcE9AffCRRbaB3jxZ8bTSRsvsbn8oLeso6I1mRwDhsLNfbkhyzk2rMuMEext5svSTZVqwVmYBicTzNkeMqotzhb4/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 事件分析他 Root 了自己的三星电视，然后 OpenAI 封了他的号：一场智能电视隐私追踪拆包实录安全研究员 Root 了自己 3000 美元的三星电视，拆出常驻监听、高频截屏、"借"</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521055&amp;idx=1&amp;sn=c998188c101a0702e3ef1120feb2093d&amp;chksm=ebee52f0363a2466ae8dcda83f8baaba7cd256a528804c6143547cd63a94ad770d30d7ec6f2e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibiacpVlOJMESicElTicbCZduKfKIePAxYgiblRsHE5iaZb4bjPWnSoUbOBZlIUWTFdpj3ZdKjJ0znyFSBbvUwfM0LMCWPoglxe2vow/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 2021 年我们发现 Operation Dragon Dance[1] 活动以来，就不断强调国产 Electron 软件的脆弱性——基于 Chromium 嵌入式框架开发的产品极易遭受远程代码执</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519723&amp;idx=1&amp;sn=c1ab9a85f341a22dc22c26e30966cc79&amp;chksm=eb6401466315e20c780ef5b98e314742382a1e1687b8f7b2cb4ea371f9ae1f62b16f522a240d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 AI 助手开始替攻击者"打工"：微软 365 Copilot 连环提示注入漏洞深度解析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicEJkS13iaGuicib1tiazQib97W0a3CLNrkCKydv29PBMUKKeC92gpzWb6rIUmR0L2UNNDIhGY9xGicxnVaPR3a35ibU2LSkd8cS0uoU4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一份看似无害的市场分析文档，被员工随手拖进 Copilot for Word 当作写作素材。几分钟后，Copilot 起草的季度财务报告里，所有数字悄悄缩水了一半——而这份"带病"的报告被分享到公司内</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519706&amp;idx=1&amp;sn=2b99e60929c3f340e2faf2174d18951d&amp;chksm=eb37064f0b9ad23897f664382a0a3ea94d321ab20aaf6aa5a8de6925ca43bd537ffd9fae38c7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 14:39:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

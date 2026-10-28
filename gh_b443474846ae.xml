@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgdfm8RJ37ToBfvczWchS9DDWdysaXQhgaqaXGEM0ATCSvd38eymdMibCibnNctpPzqsJ3jEcqVln7SDYGvQHSsOQN3J9DjIsB58/640?wxtype=jpeg&amp;wxfrom=0"/><p>撰稿 | 白默 企业做 Agent，最该担心什么？花了钱换不来效率？安全和组织跟不上？系统不够稳定，模型一换，整套架构推倒重来？阿里云智能集团研发副总裁、云原生应用平台负责人周琦没有从中挑一个。他讲起</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296173&amp;idx=1&amp;sn=2f23d678c8bfa650d7bb88bcf40fade7&amp;chksm=bc1399e4b770b4238a98a50a62e25e4d72ec615b461c63a53b589a6b7e5d5368741712711da4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[别再迷信 Agent 的自主性了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaPbDaeNQwHQ5lgX91bibO4hDMDBSGUORcrsFTy9FK4mkaiax9hXUGmuxEwJtcNJsIj16sBnDtFrkFlWohPnIDxQvKSLibAibXeqjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | QCon 全球软件开发大会策划 | Kimmy编辑 | 宇琪如果 Agent 只是回答一个问题，答错了，用户可能再问一次；但如果 Agent 开始下单、参与调度、修改生产系统、调用真实业务能</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296173&amp;idx=2&amp;sn=9cc3620aa4dbce8e15fcae2010a0787a&amp;chksm=bcf269897cd53515456653ee5382916607610851466775f5691f0093c76548352aaeaaa72822&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhpBmFVD7iccicVg6FhIyomh0BtKicOuGtXMMg7YAaibXrbeTnC5Ria4XicXpu11iboJjJqiavJDfd2ibpYibAc12icC3SbM2QChttia0Upjvs/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Daniel Curtis 译者 | 平川 React 19.3 于 9 月 9 日在 npm 上发布，除了稳定的 View Transitions 和 Fragment Ref</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296173&amp;idx=3&amp;sn=da64a548971dbc6655e091f2982464fe&amp;chksm=bc6b475bee8c4fe37e9e2531cba6f1af050890e9227bb9eaab95f6950e7f1f76cbdc8f95b7d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia30owwA87W7I00kZESEygU6xG1vSTXiclrLfmeibaxxzZKyJZCLMVT2TE0Tb55hxLYb2fXrDsCxAEH5ibDZAkJSQU6LpQmyZsTLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 高梦霞10 月 22 日，由 InfoQ 极客传媒主办，联合中欧国际工商学院 EMBA 课程部、独角兽创业营、TGO 鲲鹏会共同发起的 InfoQ AI 侦察团 @QCon 上海 2026</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296150&amp;idx=1&amp;sn=eae2158d82c963c077e1f417ca03bec4&amp;chksm=bc908b18e55848bbe5350df13e736db1ef4aae98ed27eb180f6e3fbbc034962002925e73b84f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia8gjNQiarjqbcfBOS0UpAreWcUJHRwGSxzFzZlF6rOLGibicQbnOT6ictQ5vuYeK8FeXx2Jnfez4FmcWJZnaOs3ibpJAQ1tHwjhrHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 马可薇 Cursor 开发的 Git 存储架构 Continuity，可以用 S3 上的预写日志（Write-Ahead Log，WAL）作为</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=4&amp;sn=5e82691ef9b336e27300d48039eaee07&amp;chksm=bc736b8f6b75fc7c731c0dd6f90366022843f0af2a16f92cfe48082cc01183f22d58d47a4ada&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Meta 发布 Muse Spark Open，号称全美最强开源模型，但编程基测输给智谱、Kimi]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjILZtqc6kqqTdMt1cCwXkgUobWEj17Ab5BQrQw2wAfolECuDIafBrdMiauQFibKlWPZKJA4MWY4F9rEZPdjSPxrv0SCCztSXU5Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜冬梅 Meta 将大型智能体模型带到了桌面设备上，但这次的“桌面”，需要两台高配置 Mac Studio。当地时间 10 月 15 日，Meta 宣布开放 Muse Spark Open 模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=1&amp;sn=4950ae783dc7ee419863243bb090b878&amp;chksm=bcd833e79ebc8e6d4a8be62a6e84bc7e11e1721142197e5441acc8652a6ffb1a13535de73348&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[1024 杭州 AI 社区日来了！一天看遍 10+ 行业的 AI 落地现场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjoHEF72SataNbhnGJicgGBwgvUcL7WCeTDlic4EpHniafWjJXazTAAOfTLOJLOib7ayblnKC2lSAIzuib5Gn5bf5NOmsG9icucficSP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 24 日（周六）・杭州云谷中心・模力工场 AI 社区日现场直击 10+ AI 落地真实案例15+ AI 产品市集摊位2 场现场工作坊500+ AI 开发者/创业者/实践者现场同行👇免费扫码报</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=2&amp;sn=966297cb946299433415ce31a742e2f2&amp;chksm=bca84b0e2a7b2a5eac88f0108312f07900d0578df41adfc123c573ab69bf6500a4e1b947fed4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia9WcbdYXnQejdS0Gb8pXtiarZ2GOicZ5icn5ZmVJ4JdFN9FhD4rdJ938rwG2ibv08mibQPlD2CSqTrSbVGvQgibbuIojJia6l36ulOao/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者｜蔡芳芳成立不到半年的 AI 创业公司元环智能（MetaCircle），宣布连续完成种子轮和种子+轮融资，累计融资金额达数亿元。据公司提供的信息，种子轮由顺为资本领投，上海未来产业基金、星连资本、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295222&amp;idx=3&amp;sn=ae0f208ba912b999cfe05a73914ca951&amp;chksm=bc8880f9a6affa372c812f89de51bbf7c9df79c689c9ebd8dea8f96a82dffe040a83d1ed2333&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 11:53:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
