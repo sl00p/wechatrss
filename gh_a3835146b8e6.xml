@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿里最近放出了一只神秘的鸭子，把全球AI先行者都整成了侦探。 昨天，阿里旗下AI编程产品Qoder，突然上线了一款名为Qoduck的匿名模型。 没有公布模型身份，没有参数规模，连跑分海报都省了。 但不少开发者怀疑，这只鸭子很可能就是即将发布的千问Qwen4。 线索还挺多。 前天，千问官方刚发布了一张新模型预热海报，引用《庄子·逍遥游》中的“北冥有鱼，其名为＿”，旁边写着“The becoming begins”。 第二天，阿里自家的Qoder就冒出了一个神秘模型。 还有开发者通过Tokenizer指纹测试发现，Qoduck与千问模型家族高度吻合。AI Tracker的知识测试结果显示，它甚至超过了目前已经发布的Qwen3.8等千问模型。 阿里为什么急着放出新模型？ 看看最近的大模型圈，就知道竞争有多激烈了。 11月4日，腾讯刚刚发布混元Hy4，在Agent Arena榜单上拿下中国模型第一。 小米的MiMo-V2.6 Pro此前也拿下了SuperCLUE中文智能体编程榜首。 Kimi刚推出K3.1 Pro，号称自家最强模型，重点强化代码和长程Agent能力。DeepSeek的V4.1 Flash也在持续争夺开发者。 奇了怪了，现在国产大模型圈，几乎每家都能掏出一张自己排名第一的成绩单。 毕竟评测维度这么多，编程第一、Agent第一、开源第一、中文第一，大家都有机会当冠军。小编我，还是村里排名第一的vibecoding高手呢。 但榜单上的第一名越来越多，用户真正关心的还是那几个问题：写代码到底好不好用？复杂任务能不能一次完成？速度够不够快？价格够不够便宜？ Qoduck似乎就是冲着这些问题来的。 目前社区测评中，Qoduck的速度获得了不少好评，代码生成、多文件编辑和长链路Agent任务也有一些亮眼案例。但复杂编程任务的表现仍有不少吐槽，距离证明自己是一线模型，还有不少测试要做。 阿里还直接给个人用户开放每日免费额度，最高思考强度也不扣积分。 现在AI赛道竞争太激烈，总感觉阿里的速度总是慢半拍。 这只鸭子到底是不是Qwen4谁也不知道，但千问4真的该来了。 腾讯、小米、Kimi、DeepSeek都在秀肌肉，阿里总不能一直让大家猜鸭子吧。]]></title>
+      <description><![CDATA[<p>阿里最近放出了一只神秘的鸭子，把全球AI先行者都整成了侦探。 昨天，阿里旗下AI编程产品Qoder，突然上线了一款名为Qoduck的匿名模型。 没有公布模型身份，没有参数规模，连跑分海报都省了。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934202&amp;idx=1&amp;sn=442396badd6294edd2fc640d21ef1500&amp;chksm=bc8b4f9b3f34fceca2e5bf7493af9508e6c8161de4ca997945dea9be1c8cd5715316a2a692be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 11:59:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每个月给ChatGPT交200美元，结果一觉醒来，账号没了。 今天，多个AI社区陆续出现ChatGPT账号被封的反馈。有用户登录时直接收到账号已删除或停用的提示，连通知邮件都没收到。 根据网友的反馈，这次受影响的账号主要集中在几类： 一类是通过菲律宾、土耳其、埃及等低价地区订阅的账号。另一类是多人拼车共享的Team席位、学生认证账号，以及通过第三方工具进行API反向代理的账号。 这些账号被封，多少还能让人联想到支付风控、账号共享和额度滥用。 问题是，连一些正常使用的免费用户也报告了类似情况。还有连续订阅多年的Plus用户，以及每月花200美元的Pro用户表示自己也中招了。 目前，OpenAI尚未公布具体封号规模和原因。 最近OpenAI倒是接连调整了不少规则。 10月底，官方新增了银行卡和设备限制。同一张卡、同一台设备关联的付费账号太多，可能影响后续订阅，甚至限制已有账号在该设备上登录。 11月20日即将生效的新政策，进一步限制利用OpenAI模型训练竞争性产品，并要求提供第三方模型访问中转的服务商事先获得审批。 12月起，ChatGPT和Codex的智能体使用额度还将进一步合并，按Token计算消耗，普通Instant聊天不占用这部分额度。 官方还没说这次封号与新规有关。不过，对多账号订阅、第三方中转和算力转售加强管理，已经写进了规则。 说到封号，Claude可是老前辈了。 Anthropic此前披露，2026年上半年，Claude累计封禁了1140万个账号，平均每天超过6万个。 这封号效率，恐怕不少公司的拉新速度都赶不上。 前几天，Anthropic提交的IPO招股书，还披露了一笔相当惊人的收入。 2026年前9个月，Anthropic约5%—7%的营收，来自后来被认定违反使用政策或商业条款的客户。 按同期332.42亿美元的营收计算，涉及金额约16.6亿—23.3亿美元。 好家伙，折合人民币直接怒赚百亿了。 OpenAI也有误封的先例。今年6月，官方就承认部分用户账号被错误停用，随后进行了恢复。 现在大模型的推理成本依然不低。有人通过低价地区批量订阅，再利用共享账号、第三方中转等方式转卖额度，AI厂商肯定不愿意长期为这门生意买单。 AI公司越来越会算Token的账了，用户也该算算自己的风险。 辛辛苦苦给AI喂了几年资料，最后发现最不稳定的，居然是自己的账号。]]></title>
       <description><![CDATA[<p>每个月给ChatGPT交200美元，结果一觉醒来，账号没了。 今天，多个AI社区陆续出现ChatGPT账号被封的反馈。有用户登录时直接收到账号已删除或停用的提示，连通知邮件都没收到。 根据网友的反</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934198&amp;idx=1&amp;sn=3616949e2ab2bcfd1b785769314e7f15&amp;chksm=bc48228335a9d53c1c5b8918b276719e698f0a1308ff1044e15c4a2fe795a77dde4eae96db36&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[收藏！转型 AI 产品经理可执行进阶路径图]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQH3B8rAx5T4mKyAofxjqSfVtAAGcWibTq7gIIMW7PjWLTVd6tibcG1oXsQyKPfOwzBMCb3EpU0Fb1HRzON2dx64gDzziaeuoBUhsc/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026腾讯招聘最新消息 ，AI产品岗位持续热招 其它产品经理 产品策划岗位扩招39%。大中小厂都在积极拥抱AI，不少人也在积极规划转型，抓住这波AI红利。行动力强的朋友，已经成功更换赛道，拿到涨薪的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651932967&amp;idx=2&amp;sn=0ed72b438ad903d506262dbe1e0e0f3e&amp;chksm=bc88c09583df6f77600cc04e86856d1961124854ac5ef071c994f7e02edca2a3f8c02246867f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 14:42:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[电力现货交易的AI落地场景：告别“人工内耗”，重构交易效率新范式]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQFCkPpGFEDJgoicAibDqI6bibCokvkNuCpph4ZhXFsFTicsmzrFTUo2LmIzvMwb5hyzBK4fyhxw5ysLvd1QJqH7VNUhhgd1qjnk7jY/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下 AI 应用浪潮席卷各行各业，智能技术正在重塑各领域的工作模式与效率边界，电力现货交易领域也不例外，灵魂拷问随之而来：AI 是否会取代电力交易员？———— / BEGIN / ————当AI在金融</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651932967&amp;idx=3&amp;sn=4c31800c3c03a8d038f90a0c9fc5cd9b&amp;chksm=bcf4422f75f346ed873ab51007d5116d8d3927d951270e217463134c3331810fa1cc85b85def&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Oct 2026 14:42:43 +0800</pubDate>
     </item>
   </channel>

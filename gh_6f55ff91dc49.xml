@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[有个刚开源的 GitHub 项目贼有说法，竟然能在终端里再跑一台 Mac。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3IUVLkialgfljmYNfY8j8BPeUYppCl4LSCQNdh9LTItHicG9j8LribTGxcC4iaK4FmL7P2y6DvQZgH28h218odxRO9p21MADhqgwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上最近开源了一个叫 terminal-mac 的项目，能把一套 macOS 桌面放进终端窗口里。刚刚开源就已经有 2000 多人 Star 了。感觉这个开源项目后面真的可能会大火。你可以</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538388&amp;idx=1&amp;sn=76b1287f4a12472c0ea4c90697d47571&amp;chksm=f80839290e5d7ef2a5e4f5d0a851e69051845dd06cb4a29d922eada69370d0ec1826e54a54f1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 08 Nov 2026 11:05:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent 时代，中国移动开始发力了，做 AI 应用的关注一下。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3omTLxya6Aar0SBNk3oyQYQbub0icLzmmmckFb0KYGnd1YnRicLpQTicicZun7ibCrOiaBYFKqlUZ46EcDVseCXr9RcaGZHpmSWKibcQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 时代，中国移动开始发力了。这两天去参加了一个中国移动的大会。在 2026 移动网络大会期间，中国移动发布了 MoMA 开放计划。总结来说，中国移动它想通过这个计划，把模型厂商、做 Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538328&amp;idx=1&amp;sn=acde13ec1d0a26560db394b8d1c69d15&amp;chksm=f8c89e68d407f4babde9ea5f0d6f250fba031e78540d2db170ff089957be6cef28b1ca82d0fd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0W2cNjIfOrOkL8Vo5NuotHkicEZEic7ONvcZVr77Dqn7Pq62cXjaPs7C7bExb7CgG4hfWNo8eZWXJic3SqXia3Nzw19nuAtRTzs70/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，办公小浣熊桌面端正式发布了，支持 macOS 和 Windows。它可以直接调用本地文件、历史对话、 Obsidian 笔记、飞书文档发起任务。再配合 Skills、MCP、第三方应用、本地记忆</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536038&amp;idx=1&amp;sn=f648f7f86e883d0555f63e4b48189291&amp;chksm=f8863e80ae1a5d6ff5c9b7eb2fb55a739b5c63b1f1fd7703f27bc59296041b22612ac4205b92&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 17 Aug 2026 13:53:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10 万 Star 的 DeepSeek Harness，终于有开源桌面版了。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU34Byb8Vy0VVP6SqfIfzz8ibeicFUsnj4AziaoOBofyiajjFPnrr1jqVwTOLv08wYQXk9kYTyMmQ0uycVxypGZicUIic5Q3yRdK7faeg/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness 的涨势有点夸张。现在已经拿下 10 万+ 的 Star 了，这才一两天。这个 DeepSeek 开源的智能体框架，核心理念是 Everything is a Plug</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536030&amp;idx=1&amp;sn=e2c7ef972c3ff21b834237fff7a24470&amp;chksm=f838e74519aa152189116ca672f30499b22dcf1ef3590453244c8575ebb57b2b76fa897bb3f8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 16 Aug 2026 09:32:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
