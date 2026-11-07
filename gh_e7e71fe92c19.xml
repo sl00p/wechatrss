@@ -11,6 +11,36 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Euibw4kny7ZnXLDkQ616u42boGYiaoWKl7C2zW7vhY446tlJbbT48Nb0csWjqCj7dQXoTAQ8ehWaKHqczIRaEUDfBVysaKAT5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>固件漏洞挖掘的瓶颈不在于「模型看不懂汇编」，而在于没有一套可执行、可复核的工作流。本文介绍一个开源的 IoT 固件审计 Skill：它把资深审计员的工作骨架——流水线、资源分配、证据标准、质量门禁——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=1&amp;sn=4452ebefa4729f122b8231ff73cf22bc&amp;chksm=b08d5d4119cdc0e8d7003afb3df4926a70d315e7f851a100c7c45007d8a0737a11d56a38c1c7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=2&amp;sn=b3443f79121f85fcc3dc523e92166330&amp;chksm=b0820f457ca08d2142026a2dc3ba3af186e7bdc7a3bafe4b57f1f5c85837d086c775d6d22933&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SDC2026议题回顾 | 从字节到神经元——一名二进制安全研究员的 AI 安全研究]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0WFyQKFgvicHuhx3GMZJNpR3MZmSOlzB4iaCDREyYrtnrqtTbicWI8bgfyZBXxXlfJWrD7mMrMKKnkPlewJMTeqOdS8cXM09TUia0/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾当大模型逐渐成为日常开发与安全研究中的重要工具，我们对它的关注也不应仅停留在输入与输出层面。模型内部究竟是如何完成计算的？权重数据、内部激活与运行环境之间存在怎样的联系？如果从传</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=1&amp;sn=477001d7aa1d29a1da1ae75c6d8457c3&amp;chksm=b07aa289c4d2a8f03fa0ec45d29b56752d82d2646a2c38256d56662b443b61106bdf4af6fa61&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Cyber重磅发布：挖出81个Firefox高危漏洞，批量生成948个Linux本地提权EXP]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36LrvsRXEas2icbiaroQxibF6C8t0NRdVicqF2cPkugG8zLkf9wGOdpYKz61I1EMoGSKsCQS5KmPEm1FMWwuqa6hrVtVj0sf15CE8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1事件速览11月4日，OpenAI正式发布面向网络安全场景的专用模型 GPT-6 Cyber。这款模型主打漏洞挖掘、漏洞利用验证，相比上一代GPT-5.6 Cyber，攻防能力显著提升，在OpenAI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=2&amp;sn=882e4d2bde4db38c45e298c5baff4d94&amp;chksm=b0159f7856d1d3feba78fad1393745669c933332252323abd9ae8d0ad8a4e7dc6af4c11956b1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[360 ADE智能体工程师认证｜11月开班计划]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1wCicpzsSmJjc3DrmWSFfTPSUjw3myAiad1lNzV0kRKNfUEfKrGUCjcr7lyczjMlcmJEib1PHIpmZib9JgdFquyvknO7mAu0smtuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=3&amp;sn=7c35d2b0d195bb0fb333d7b1e76af076&amp;chksm=b02ff13f2197601046560ff6928f0b0ebc05cac0d97fe72781345c7f98d93874f131a2da6180&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GEEKCON 2026 上海站闭幕丨荣誉榜单·年度GEEK榜公布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1BvJtZunDe5PbtTbbxzE4CeSHkL4jHLywuumSRn1OX0mjfdOMyFGiaJxicwxqXmp8Qcm6uR6NUE6HV0WuDJgfsWdMGkyewJfnaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GEEKCON 2026 开场致辞欢迎大家来到GEEKCON。GEEKCON办了十三年，快二十届。从来没有什么领导致辞。只有我开场时说几句，说说每年GEEKCON在想什么。我们每年都精心制作开场视频，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623337&amp;idx=1&amp;sn=578818617cffdb9455f9cacf78bfc265&amp;chksm=b01410731f3770cac02707e0051ea4873522e42ced1fc9a18c05a85025034d805ade02fb39ae&amp;scene=0&amp;xtrack=1#rd</link>
@@ -279,36 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/R5j52okPbeibkDkZnI9eP1eWU7M57iaNEgRU0HpgAJibQOUPoFgDs0rVU4nTPOjJlxa7rhEyNwTXZ2qJabWOQSN9KxfEwMwfsDVXYsGibOhaXrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥福利来袭｜GEEKCON 2026 赠票抽奖！GEEKCON 2026 赛程议题现已正式公布，精彩议题、硬核技术分享蓄势待发。本次看雪社区联合 GEEKCON，为大家争取到3张大会票！🎁抽奖规则：在</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622664&amp;idx=2&amp;sn=06e7b4decf8b2a3c6cf9255eb0fa27e4&amp;chksm=b062290c5d29c79e0a65c9e2eca5c0b1b3483f1323948514cd0816f2617d875349bc1440eb8e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 11 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三六零天御移动安全与合规检测智能体：以智能专家顾问，交付安全合规检测成果]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0R9icOYgcHuygicGibBibBlTRFmTZofFsCcNzViclkdo7V0lWR4hSkKOPOJqmbylVOLQ4ZrOMX8UJwAW4Do95yGwGibxVIJOQB6YqZM/640?wxtype=jpeg&amp;wxfrom=0"/><p>三六零天御，即将亮相SDC2026AI，正在重新定义攻防。当智能体开始自主调用工具、执行任务，当大模型逐渐融入研发、运营与业务决策，安全攻防的边界正在被重新划定。10月23日，第十届安全开发者峰会（S</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=1&amp;sn=aa8312a1717c4189c536715be99b5141&amp;chksm=b0f76a00d58364d858350ce04e93690368d27b86429e37c5620fa3a4d29ff1379667dbcd7729&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Chromium ABE（应用程序绑定加密）解密的工程化落地实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1Rmh3Bt2oU378ZJqSVGbgV3o520xA3o6VX8J0tDO0UVNgI61yZYgjEDbI2ibPfCibicwGHfrgibaTOrxBdKu17TMl1oNa8sblErD8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Chromium 应用程序绑定（App-Bound Encryption，以下简称ABE）的解密已不是新鲜事，本文将侧重于讨论其在工程上的落地实践，以及分享过程中 AI &amp; Security 的体会。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=2&amp;sn=6fe4bc778c05e125c156086315878f0b&amp;chksm=b0821f709d2d21c28c8a708449e9383ecbff954563cd39dd9fd71b78b0db63be6c8d009142d9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开源供应链攻击GhostAction持续肆虐，数万GitHub仓库植入恶意Actions窃取密钥]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1vF3CZZ7pSoMtdQBtgIvUCbMKibRWaOBQwuH1kFApibU0qlxRNrl9GiceRQBuFFqOIoZZ00fqRE3ksIVkK7rMxS5II0WMyl7Hg98/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期网络安全研究团队披露GhostAction大规模凭证窃取供应链攻击的最新进展：攻击者劫持多名知名开源项目维护者账号，向海量代码仓库植入伪装成安全审计的GitHub Actions恶意工作流，批量盗</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622652&amp;idx=3&amp;sn=7924139702fa274f1c036fb16110e630&amp;chksm=b08157670b9c556cd85baa0b54af28928075a7e69a46b2aed5932b8c50f298013d785d9cb959&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 10 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 大语言模型驱动的移动软件安全分析实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3qEVt7FnY7iazTlXzfPgXIiaqaBdPpBuOS5cFPbPeibxMMkq5Uicwl3s5ZXqIfke68qibCmgCrdSzGW0sKwOgS9t9EPo5FibiaxEePxE/640?wxtype=jpeg&amp;wxfrom=0"/><p>大语言模型驱动的移动软件安全分析实践在移动软件安全分析领域，漏洞检测与逆向工程长期面临关键技术瓶颈：一方面，Android官方API与安全策略频繁更迭，依赖人工编写与维护静态检测规则极其耗时滞后，难以</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=1&amp;sn=3607eb97d8f8832767600dce9c235942&amp;chksm=b09fecbe3a45a30c48de5513dae54fc1d734edb3169b7805e4eb3a988691bb86b03e7c60ac4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[木马的密文里，出现了我的窗口标题：从主机取证、内存逆向到 C2 协议与渗透尝试复盘]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3YawKoK1V9TsgyOH6j5yMEaou7LKftp310HUgrB4ELoY2icP6EZOnpNbV5sPuz1iaic8JDBpic86UZWoOFOWy6tFYACz1vWBYGFOE/640?wxtype=jpeg&amp;wxfrom=0"/><p>最让人后背发凉的，并不是屏幕上跳出一个陌生进程，而是从它的密文里读到了自己熟悉的窗口标题。然而，真正把这次分析拖进深水区的，是另一个看似令人安心的结果：密文解开了，中文也出来了，验证程序还在不断打印成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622556&amp;idx=2&amp;sn=68832ce3c7706910df179d94bf37c9cf&amp;chksm=b00771b086c830484fe3f1cf40f5ac3763c40d54a407e466539e335af05ea0b6ed49d72dbbb4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 09 Oct 2026 18:00:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

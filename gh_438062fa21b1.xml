@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[决策模型 Jev 可以直接上生产？用实验和公式理解 logit 调优与训练要领（长文干货）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz59IFFGFI6BEjR0iakjibsnHzldo60KyxSN7bK97sMlNfSlIDiakWricgkeHcKKsGv5xvlPDPfpJiaFs33QVOuanNh8icEYNJ0oic3cVU/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 77 篇文章（ 本文阅读时间：约 30 分钟 ）前言Decision Model（jev-like）有一些深层次的潜力可以挖掘。并且，在上线业务前，有一些前置的调教工作要做。本文的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512450&amp;idx=1&amp;sn=65ef4a129320212fc63ac325a5e96786&amp;chksm=cefc4abe4e0ca4bc003ccb31b12af20b62b4d0f027e76039450cb2728b645dd10d33fa47028a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 17:58:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于 RSI 架构的淘宝闪购店铺装修选品 Agent 实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5lvbrp9MpBqAuvdYlmGZK4RCFicqzvQXib8kf7AUp1PIxWuib9ibDWRkWIdl99scCSdPuPb0iaJTKl2WeaA5BoDpfmzN5ZGQm5j0kE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 72 篇文章（ 本文阅读时间：约 30 分钟 ）摘要淘宝闪购app中的店铺里的装修展示位置有限，每个位置值得展示的商品却各不相同。店装业务下的选品大目标是要挑出有吸引力的单品进行展</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512312&amp;idx=1&amp;sn=21231fab634b576f13b966e8a5f44cbd&amp;chksm=ceb708e6584c1501a1cc50ea01da9d0e14ea22a39c8dd8ee3f75ce743b0ab3b284d7b2fac861&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6ydLnPn5ficruPEhB3XmzKnkJicnKa8yTI1R6cYggHXibLSkzUTfJsFIGQibKd6KrsQxDvLdaxUVzIW1ibfYK1qOLz0WORPJ9U9e3Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第29篇文章（ 本文阅读时间：约15分钟 ）缘起：一个 90% 的观察如果看过自己团队的大模型 token 消耗看板，我们多半会注意到一个现象：主力模型的缓存命中率常年挂在 90% 上</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509914&amp;idx=1&amp;sn=504b17755ea40067d8e4f460a367cbb4&amp;chksm=ce1cb372aa20692ee7f46989ab56eb03f2cdec4e9f284a5b149a8778d2859d124658b8ffc0fe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 03 Jul 2026 19:18:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent 评测：方法论与体系设计]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz683Hn7hqFOnW85bx3LMWYALR9MjicCc37rloSH3klsHuO1JX3nBH7JErcDR21RicYO18DL5x7C995NahZkW66g4ibKW5xsSdFjDA/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第28篇文章（ 本文阅读时间：约15分钟 ）01为什么 Agent 评测需要体系化划重点：Agent 评测是把「不稳定的智能行为」持续收敛成「可发布的工程质量」，不是上线前抽查。和传统</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509900&amp;idx=1&amp;sn=557d016ca3f5fa287840dbb2a18cf499&amp;chksm=cec01cc1a67a0186482dca6b7a0a862123b7802e332f8429ff6facb9def516639fce47255fdc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 02 Jul 2026 18:08:18 +0800</pubDate>
     </item>
   </channel>
 </rss>

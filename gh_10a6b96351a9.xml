@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何用一张验收清单，评估一个真实的Agent系统？（11/12）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdkPm5qTwpDBGvnhRw6Oar5hxSHW9fjrKsbUteGKdMwRHveB980N7PVqdIze3ibWnrgfgKZ2vN8WmUCBtfnUY6dA91mLianJqBhU/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第11讲：Agent验收评估准备起一个新的系列《Agent原理，架构与实践》。目标不贪心：1. 希望每篇文章有1-2个点能让大家有收获；2. 希望不被骂；本期第11讲，咱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981858&amp;idx=1&amp;sn=9292a1f92cb4881fa0f4ca0584a2837e&amp;chksm=bc94dd519cc7fcffec36931b5e2e37e3f6abac3ad57a3ad7e8e6451d2d13bab4fdb900cb1757&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[很多人问我说，感觉你执行力很强，对执行力来说，最重要的是什么的呢？ 我的答案是：人生目标感。 人生目标感，是执行力的根：做自己认同的事，能持久地执行下去；如果做的事情与人生目标感相左，再大的毅力也很难执行。 以自己举例，研究生毕业，乳汁百度之初，我就很明确，自己的人生目标感就是：要成为一个很厉害的人。 技术，最厉害的，架构师。 研发管理，最厉害的，CTO。 带业务，最厉害的，业务负责人。 20多年的时间，我又是如何做规划，如何保持超强的执行力，如何一步步逼近自己的人生目标感的？ 具体来说，五步。 首先，目标感具象化：我想通过20年的时间，成为互联网技术领域的一个顶尖高手。 接着，设定里程碑：刚拿到百度offer的时候，我就想过自己的5+5+5+5二十年里程碑规划。 5年：成为互联网技术专家。 5年：成为互联网研发管理专家。 5年：成为互联网业务专家。 5年：成为互联网创业者。 45岁，退休。 事后来看，时间进程，不太符合预期。现实中，我走得慢太多了。 但是，目标感不是目标，它不是用来"实现"的，而是用来"牵引"的。只要我在一步步往那个方向走，这个目标感就意义重大。 第三，达成里程碑，需要哪些能力？ 第四，这些能力如何获得？ 第五，如何分解成最小化行动计划，持续执行？ 任何脱离行动的计划都是耍流氓。有了计划，有了行动，一年一年，最终朝着人生目标感逐步逼近。 总的来说，要拥有超强执行力，人生目标感是一个避不开的话题。 那么问题来了： 你想过自己的人生目标感吗？ 你想过自己要去向何方，成为一个什么样的人吗？ 如何找到自己的人生目标感呢？ 今天，给大家分享一个“一堂”的工具： 两个维度： 1. 你的内心，是现实主义还是理想主义？ 2. 你的人生终局，是追求过程还是追求结果？ 四个象限： 你是追求成功型？追求帮人变好型？追求体验快乐型？追求自己变强型？ 九类细分： 你是赚钱型？出名型？作品型？成就型？过程型？生活型？体验型？内心型？高手型？ 找到自己的人生目标感，让自己的执行力有根。 除了人生目标感，还有另外三个工具：15分钟行动法、最小化行动计划、高效复盘。四个工具，30分钟拥有超强执行力。具体内容，咱们直播细聊。 欢迎预约，直播间不见不散！]]></title>
       <description><![CDATA[<p>很多人问我说，感觉你执行力很强，对执行力来说，最重要的是什么的呢？ 我的答案是：人生目标感。 人生目标感，是执行力的根：做自己认同的事，能持久地执行下去；如果做的事情与人生目标感相左，再大的毅力也</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981827&amp;idx=1&amp;sn=accabef06c40804af42da63e90e47360&amp;chksm=bc2ac2a701e2985df88a2fede3777ffd5fc27243564ce8028c4e1afb3fb610748a23f1e9da4c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>昨天发了一篇《给AI看的架构规范》，评论区的讨论很有意思。 观点一：AI训练了海量代码库，它的架构品位，比我们懂的那点东西强多了，完全不需要我们再抽象架构规范约束她了。 个人的观点：没错，AI见过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981477&amp;idx=1&amp;sn=b66c2c592ee41ec04410770486339819&amp;chksm=bcfa5cac40c636e603bb1498261eca1798608c090dd8bf22d781b278bb93139e6a8c038f528a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 10:06:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repository → Database ``` 1. API Routes：处理 HTTP 请求/响应，调用 Service 层； 2. Service：业务逻辑，不感知 HTTP； 3. Repository：数据访问，封装 SQL； 4. Database：由具体项目选择。 原则： 1. Server Components 可直接调用 Service 层获取数据； 2. API Routes 仅用于客户端请求、外部系统对接或需要 HTTP 语义（缓存头、状态码）的场景。 ## 目录结构约定 ``` src/ ├── app/ # 框架路由目录 │ ├── api/ # API Routes │ └── ... # 页面（按业务嵌套） ├── components/ # UI 组件 ├── services/ # Service 层 │ ├── dto/ # DTO 定义 │ └── exceptions/ # 自定义业务错误 ├── repositories/ # Repository 层 │ ├── xxx.repository.ts # 接口 │ └── xxx.repository.impl.ts # 实现 └── lib/ # 工具函数 ``` ## 接口与实现分离 所有层都必须遵循接口与实现分离： 1. Repository 层：`.repository.ts` 为接口，`.repository.impl.ts` 为实现； 2. Service 层：`.service.ts` 为接口，`.service.impl.ts` 为实现； 3. API Routes 层：HTTP handler 通常不需要接口/实现分离，但请求体验证和响应格式化应统一封装。 ...（限于篇幅，细节省略） ## Repository 层设计 ## Service 层设计 ## API Routes 层设计 ## 代码规范 ## CSS/Styling 实践 ## Next.js 实践 ## 安全实践 ## 测试规范 ## 依赖管理 ## 通用最佳实践 ### 单一职责 ### 日志记录 ### 事务边界 ### SQL 注入防护 ### 环境变量验证 ### 端口配置 ### 生产模式 vs 开发模式 几句话可能讲不清，周五直播和大家聊聊：《如何用AI做出架构师级别的高质量产品与系统？》 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。]]></title>
-      <description><![CDATA[<p>一直有童鞋问我，PRD生成PLAN之前，是用什么来约束架构的，我有一个大几百行的.md，大致长这样： # 架构规范 ## 分层架构 ``` API Routes → Service → Repos</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981475&amp;idx=1&amp;sn=ece55b12848eda217be55a0bb883f6ae&amp;chksm=bc20f2959c88c641c49063c206018258673778952c49bb735881f9a38a4cbb9ae2d762e0d35a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 20:40:04 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[多Agent协作的下一场竞争，不在模型，而在上下文]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906jGEzewoibLuk76lRy96HqOFNic7DiczZL8Riafgdojuoibr9EwIic0dSs17vd80C9LEIiazBl5tL8bTicibsxK0lt5CGF549P2ExvDCW8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：poppyliliAI 时代，人和 Agent 到底怎么协作？ 聊聊产品设计的底层逻辑——上下文如何在群里流动、隔离、接力。 我们做了一个司内工具Siboot ，讲讲我们如何重构 AI 时代的群</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808052&amp;idx=1&amp;sn=b3d44a9aff307ff725a3300d14efe314&amp;chksm=bf25264d4a16ca50638679adf1090d8f9120cf5693591ff58b4619e5be64b57e028817e35c2a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 17:38:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI Infra进阶：3万字深入理解线性注意力机制]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905x4DFejI4G7YViculHA931nLL9kdpPha8wLtzYGibSE0cjFBoWhlibcicqGzY34VNDTuLibPia81RibjGy8HKs9PmztbCDSQhjicicNZs0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：binnnliu导语 本文非科普文～ 如果你真的想了解大模型的推理，本文绝对值得阅读最近有点沉迷学习AI Infra了，差不多废寝忘食的程度。强烈的好奇心驱使，每个地方想要做到"知其所以然"。然</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649807939&amp;idx=1&amp;sn=3f07a83e3ddf3f5bd3b97854077f66b1&amp;chksm=bfc25e220f493cfb0b846b9a83c177549d37cda3b1b0d1e7dd88b0d0884065ba2b31785197ba&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906lUYLYVpjGicVeTJibIa1QCHXia2GADwndc8icY0ZwJRLAODibYOLiazmsrYuLc8ic3GCly8kOu0JbBibKVmXKpibkicTDMyFQKicJp3YjHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charliecli随着大模型时代的到来，AI 基础设施（AI Infra）正在经历深刻的变革。面对日益复杂的计算需求，传统上与单一计算范式深度耦合的调度系统已难以应对全局性挑战。本文结合开源社</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802581&amp;idx=1&amp;sn=6853e0881c8ef7e87dac7baf5ad82d22&amp;chksm=bf3801a5143f05a4d5aaa564d3537ffbad9a9d780af33f42992b2704132c518e171301097cb2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[精打细算虾养成指南： 省 Token 和把 AI 用好，从来就是一件事]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904HBoedWiccVA0nia5VDFA58tibjOJ68ibo4nasp3skJlqfAa62DLMeZzUEiaQlRCIicoia6bCqXcDhrMGiaxbIFQMNlnIrhru3HpGQO2k/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者： Kario Chen我最开始用龙虾，也是 Opus 从头到尾，觉得这样才算是释放了最大的生产力。随着 token 越来越不够用，我开始持续探索节省 token 的方案， 越深入越发现：真正的省</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802494&amp;idx=1&amp;sn=b9882f78a98dd26657b573d0f14eea8a&amp;chksm=bf387691ee59790a5d52db1d10fe9e615e637a95f628c4ebc573c50de8110265d028ad6025e7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 17:35:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhG89ERYicPM7LUncDpicO6Hd0Q3jWia3PfhMz2dZCNHicWrObLQCia3khibVem6SZcjZqe7ERDXylCmXrNHZBoV3R7yIicvoMXRZ82KY/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜Tina 曾任 Databricks 安全负责人、Robinhood 首席安全官，现任 Cloud Security Alliance AI 安全倡议主席的 Caleb Sima，几</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296772&amp;idx=1&amp;sn=4d7742a3836d989be4dc46afb1e971a3&amp;chksm=bcc8289bebb1832168e035a311496f3490d07a4fee304a020ab81e71d41050c994d232dfe4b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6自主爆改Qwen权重被吹成神？Meta知名研究员泼冷水]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lYDricib2fsm57VOYQHpEybhZdwsZbIlrxcmVuibyNhVbiaaFTwwXnCpjfLlIUGmnFmY8r65WL7m90gM3TxQRJlBpU0LmC1PljgqX0UkWJIM7ic0/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 青和、飞野编辑｜四月11 月 2 日，麻省理工学院（MIT）联合团队的一份技术实验在社交网络引爆了近 600 万次围观。实验设定极具冲击力：不给训练数据，不跑反向传播，只给一个纯 Pyth</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296772&amp;idx=2&amp;sn=791d578c76f245cc81e1e4de7c081d16&amp;chksm=bc14a2a63453e260fd2b9b6d84f17058ebd4fac1663153611fa481fdceaa9a231b844ec980b3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNg1o9byQRW0icTp7ZIv3fc0KKe9V7vRpibQMBmJUesicib7bPojG74FJ1SEjuu7hNuqP5A6Rk4uofrZwdfAjxZST3o4FklUO7ghBiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 田橙 Pinterest 为下一代数据库摄取框架引入了 基于事件时间的分区最终确认机制，让下游任务能够判断流式数据何时已经足够完整，可以安全消费。该方案使</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296772&amp;idx=3&amp;sn=08bd7fa031ee654868935b3c5fb0d40e&amp;chksm=bc783a6ccb8fb38e083fb0fb28b67b7394e44a2819c8ea49c2825eb2ee045257f9384035a483&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 10:15:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgdfm8RJ37ToBfvczWchS9DDWdysaXQhgaqaXGEM0ATCSvd38eymdMibCibnNctpPzqsJ3jEcqVln7SDYGvQHSsOQN3J9DjIsB58/640?wxtype=jpeg&amp;wxfrom=0"/><p>撰稿 | 白默 企业做 Agent，最该担心什么？花了钱换不来效率？安全和组织跟不上？系统不够稳定，模型一换，整套架构推倒重来？阿里云智能集团研发副总裁、云原生应用平台负责人周琦没有从中挑一个。他讲起</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296173&amp;idx=1&amp;sn=2f23d678c8bfa650d7bb88bcf40fade7&amp;chksm=bc1399e4b770b4238a98a50a62e25e4d72ec615b461c63a53b589a6b7e5d5368741712711da4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -290,24 +308,6 @@
       <title><![CDATA[干掉 Bun 和 Tauri，旧插件全部报废！OpenCode 2.0 正式发布：一次“重大改造”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjs0UA5SE5BlDIb6OVic115Ql2icicYjQnMGvlUDA0ySeJ7icDpZxRcS7ia7IlvgTCWI8Ddt8FwcHR0NTznNYIO4UiaQC2HgibT1CTQlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 斩获 21.4 万星的开源编程 Agent 领跑者 OpenCode 正式发布 2.0 稳定版，全面转向 Node.js/Electron 架构并推出多项核心功能。然而，此次升级导</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=1&amp;sn=7ee15d8d6e2119e53b35255c35cf995c&amp;chksm=bc076b7b0acb509562789df94d98b62aee484b98b415c2eb2d6e10947df992c9e4f7e216e946&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用 AI 代码智能体优化软件架构的五种方法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjtWwbm9w4ibXqqHTWfzuYHlJgHpEE2E2PYlkndK1UxKh0qr01M4ljx9sJpj7Tm8IpTkBQ4hqQeggOMPXEyZTfibFZPJWM33XTto/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Pierre Pureur, Kurt Bittner, Todd Miller 译者 | 明知山 自动代码生成并不是一个新概念，但 AI 编码智能体的编码速度远超以往的任何工具。这种速度带</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=2&amp;sn=3bb12b13f32ebdeddc3d8fbc617b525c&amp;chksm=bc6880c35f526f51bcfb5554ca63f9f9798c1c6531a640a6be3d0bc01e566f0275bbd487dbd5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXCKPXj94XIa5cOIJOfoiaiaGLWhYxK74g34NmgB6Nh5E92E6bgncAibgsnibBm0gJfOVCBdzDiay0JLmDCOJu2ib8Ihbeia0lVOLkHM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Steef-Jan Wiggers 译者 ｜ 田橙 CodeScene 发布了一项 案例研究：编码智能体在三周内重构了一个包含 30 万行 C 代码的代码库，token 成本约为 4000</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=3&amp;sn=38b16d3e03f2113fbe9fd53b43505f55&amp;chksm=bcf5e0b161a0a90b9d15cfc97806a5f055cce8b1143253f965a656475e339c784bae691a9cdb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cursor 使用基于 S3 的 WAL，将 Git 存储扩展到每秒 300 多次 Push]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia8gjNQiarjqbcfBOS0UpAreWcUJHRwGSxzFzZlF6rOLGibicQbnOT6ictQ5vuYeK8FeXx2Jnfez4FmcWJZnaOs3ibpJAQ1tHwjhrHw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Leela Kumili 译者 ｜ 马可薇 Cursor 开发的 Git 存储架构 Continuity，可以用 S3 上的预写日志（Write-Ahead Log，WAL）作为</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295294&amp;idx=4&amp;sn=5e82691ef9b336e27300d48039eaee07&amp;chksm=bc736b8f6b75fc7c731c0dd6f90366022843f0af2a16f92cfe48082cc01183f22d58d47a4ada&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 17 Oct 2026 13:58:50 +0800</pubDate>
     </item>
   </channel>

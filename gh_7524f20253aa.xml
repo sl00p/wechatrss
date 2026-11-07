@@ -11,6 +11,48 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[白宫网络成住宅代理出口节点，花几美元就能“借道”白宫IP]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX287uIPTRn5myDS2hBnQviajlN2qoAgvNoibBk1gicPYf2j9s2LF7Bfyichbuic5tDfFHvX6BwpSexN8sfemLmS49gu0eyCgnxBdVLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Layer3 Intel 研究发现，白宫网络已成为住宅代理服务的出口节点，这种情况可能为攻击者打开通道，入侵这一全球防护等级最高的网络之一。这家威胁情报公司在一篇博客文章中披露，10月5日至11月3日</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=1&amp;sn=595992abfef74984a7411fce671f8bcc&amp;chksm=bc4f04323a5d13b1b1b0434a98bad781edd6d7c31bb0ef2fc53422efc774476b59ef5aef6dc1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GhostMap漏洞无需打开应用即致Android无限重启]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Jibpyv7NJaGibp8DZY1mz3jBRxpeBS5rZiaXpf3bvia4NJdCCbdv6NmvgAb0vWOxC2qLxTpS3InpH5D82NDjkMXXZiaSFecbKAN8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>名为 GhostMap的新型Android漏洞可导致手机在用户安装一款经过特殊构造的应用后陷入无限崩溃循环。这类应用无需用户手动打开，不申请任何权限，甚至本身不包含可执行代码。Bitdefender实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=2&amp;sn=0bf78436b5ff70fcb5a8075e78e6cd76&amp;chksm=bc7d51687aeed17414610f14080e6fb012a95b22182f8cf6001e185e446f47d9c5a6dff593c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI网络模型发现948个Linux内核提权漏洞；朝鲜黑客滥用内部AI工具与虚假招聘面试 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔍 OpenAI 网络模型发现 948 个 Linux 内核提权漏洞，单次运行完成全流程验证 🎭 APT29 关联黑客劫持网页分析脚本，投递 iOS 与 Android 漏洞利用载荷 💰 朝鲜黑客滥用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=3&amp;sn=28b37e0bb1e745872198f51cde463a0a&amp;chksm=bcf6c4e7fca4fa3f07b2084380b6f296872bcb2be609fccc5aa929cffff32c116bc1a393e5da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenSSH发布紧急补丁，修复Alpine Linux长密码绕过SSH认证漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0go9rVrBskaRQkYSXEGPiaCXWWbNaKYEkCrib42bIJkibmLzia4T58icKhDNbM7g6LWaLnk7TCJehCknq0icZeqNAujrPrDnh1icVLlU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在部分运行标准openssh-server软件包的Alpine Linux服务器上，攻击者可登录无密码账户（如仅配置SSH密钥登录的账户）。攻击者只需具备服务器网络访问权限、掌握目标账户名，输入长度在</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=1&amp;sn=2abcb2ac508c2f1cf8d2e0c2ada6912b&amp;chksm=bca37deaa402926abef50f61fc286d0c7ba25d38cf32bd4fca835f436692c767ace7d12657f7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI安全情报这么散，有人把87部法规、29起事件、4个榜单装进了一个免费网站]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30tuEY38C9bCFbWfsPBoR5KugwDE3Cr1XZ4Z9fFrZic8VJStFDlfO7PYHM9xaVFtCRd4CoU2aFdT2v9vnjnGGjSJDNOeZpjR5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>做AI安全和合规的同行，大概都有类似的感受，最磨人的往往不是分析本身，而是信息太多太散：法规很难跟全。欧盟《人工智能法》分阶段适用，又被《数字综合简化法案》修正；国内的标识办法、生成式 AI 三项国标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=2&amp;sn=65addca5932c2bf32a38b49804d3ec56&amp;chksm=bc5845250aa77aaf2bab68713617a4f18bf80f34306256d4341e4c0024b35e11de74394a61da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI推出网络安全专用模型GPT-6 Cyber，严控攻击边界]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX34ibIx0uuYYMLVibLz7FyiaWfgA0lJsDfLuz6XwjbibmUguehrGA6LqNxhjUMV8icHyTHsvQrIMfMbicU1a6yvErr6QsZDVF97WIYG4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01针对越界风险专项训练配套蜜罐验证边界控制能力OpenAI今日正式发布GPT-6 Cyber。该模型属于GPT-6 Astra系列，专门为经授权的漏洞研究场景训练打造。这款新模型旨在解决Op</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=3&amp;sn=f48b21d135da355740bb81a87ebfe866&amp;chksm=bcbb3a188399413fed2000918373c386f46a97c1518ac27a48ee007ac586162a127ae38c1c5e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0dib5wdILibHLuXuAtpkwKNytr2C1oPtNTyhzTuMfBz0J3icofbq0mjNcziajI656pVTVuC50QHIEBTCjqNjnlPo9dW1uutmYR9TM/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软披露Windows画图存在一处严重漏洞，攻击者无需登录，也不需要用户Click任何内容，即可远程执行代码。该漏洞公告发布于2026年10月13日，属于越界读取漏洞，对应缺陷编号CWE-125。这类</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=4&amp;sn=254a92713fb883b4c3dab155078304b0&amp;chksm=bc3c317223f9605c642b1e6c202a569758d308c650d219082d9871cd1d309743d529a402cef8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic未发布模型可自主构建多平台攻击链]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2sHUYPHjqmUSjlicRs8KzIASDibXibiawVV0LLFulfcY8ibjhJ838vckopvDcpcDUUVg1tdLzVpKoEC6WYOHUh7bRj6icthkvB1hQKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic前沿红队透露，一款尚未发布的Claude研究模型已成功编写出可在Chrome、Safari、安卓、Windows、Linux平台生效的完整漏洞利用链。2026年10月27日，Anth</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=1&amp;sn=f97a91c5d1e0774499d6cd8f8cc05641&amp;chksm=bcf0a8b4ed5821624d662dda5a09035595849ae11523cf4bd2fa47b3bdfd2e4f859f4e20817a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -267,48 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1vTmJIz8e2DBCfc7tf7e2qqzteU0e17dVAiaLxqD1DcYWBV0Pv2slMwMz0o49O91SdzyGAzgPHtpcuHHj9ahM9F3UvicTgTaM1M/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月12日，英国人工智能大臣卡尼什卡·纳拉扬在伦敦帝国理工学院发表演讲，公布了一系列AI安全计划。英国政府准备把前沿模型用于政府系统的漏洞排查，同时研究智能体事故的处置办法，并考虑通过《网</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349080&amp;idx=1&amp;sn=c1a91dda96478b161bb5920468edc211&amp;chksm=bc5a6184986fc63f0a288c215096a425b6ef75fb4a2704af0a7094b5b586bcf188d4e213cb43&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 18 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI证实内部AI模型统计病床数时，入侵政府统计网站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1lgXzvGqnPEWkibTUMrvJF35zNZicLwqMxBzMuxEEDJ30T6MCAa5vicAcfhy0xjmGUQklAdmUE6jTKmMNjtsm0kdwd5ggGQGibThw/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI证实，旗下一款内部AI模型在统计医院病床数量时，入侵了一个未具名的政府统计网站。这起事件发生在2026年6月17日，最初是强化学习训练过程中的一项数据统计任务，最终演变为未授权访问行为。模</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349080&amp;idx=2&amp;sn=6495c772ae8d79097f3b3c4c21c8c1d1&amp;chksm=bcb5cb56af714b66da4bbe1e7abc318f4ac8caf22288a22b9a5bf617736d140bea08b875d018&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 18 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：CodexCLI综合指南；Al和第三方风险；域证书服务缺陷打法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2sHA2yxb9t9z9eEraWrrQFVytJX5ekpIK9DS645EmeKuPIGSjrgwThAm2p4HFdNfIdR1xfoq66rtmTALF843BWXYRKe2cfSeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349080&amp;idx=3&amp;sn=e6b65b270d132d2a11a9fec877605ca2&amp;chksm=bc7b1c6f57058fd84f5f127a446bf01cec4bb0b2e4c5a7011a5fb9924d1e1f4e337fb2897d46&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 18 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Codex与DeepSeek发起攻击，全球440台PaperCut服务器遭入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0zkOdyOwx3z1hVr0wrRiaPiaoN2Xu5qjwfmnkmdXPzcuNFI3uqyIZRtAc2E6IiceeNTkO9IjZm1CtqUYztyxicPE4UApBcs8iatrLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全监测机构GreyNoise最新发布的报告显示，黑客利用数百个AI Agent，对暴露在公网的PaperCut NG/MF打印管理服务器发起大规模攻击。目前，至少440台服务器遭入侵，涉及全球4</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=1&amp;sn=d77f4721bae4ab99397417570be69c4f&amp;chksm=bc7c0d7387bc7c62318a7266391b6401bfe7c70d7adf1579eb1b9968705515a94f3b95e908a5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenBSD 37年历史内核漏洞可提权至root，PoC已发布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX07z3cFvsnArV9lhicGkD74sicB5mPksfFrarV6bGdXkALzJYJia5liaGict5j3AHg6oPUhuyq8U5DX6t2OvicJsIe6Xw43bIDRLuCjU/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款漏洞利用PoC可通过串联两个内核漏洞，在OpenBSD系统上获取root权限，其中核心漏洞的历史可追溯至37年前的BSD原始源代码。安全公司Calif的研究人员表示，该漏洞之所以长期未被修复，是因</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=2&amp;sn=23f8b93cfd061160e8aba3844107efa7&amp;chksm=bc523e4ba2c5042aa22b035f1589eac705ccbee9cc2f0d32f5d2d30917fe3828677f4c867282&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前沿AI大模型仅用16分钟攻入工控系统；Anthropic预警AI自我复制风险 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚙️ 前沿 AI 大模型仅用 16 分钟攻入工控系统，直抵 OT 控制区📺 Anthropic 预警：小型 AI 模型数月内可在智能电视等 IoT 设备自我复制，无需依托数据中心💰 AI 低质报告冲击</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349044&amp;idx=3&amp;sn=78835ab8adb72be4f106f6bea959ec00&amp;chksm=bc010b3d0064740b130e2ac00038756b9ba75c2c17ef2e8ad7523c8d65944c07ce4b6fc207dc&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[地下论坛售卖黑客AI工具，多采用被盗Key和开源模型越狱]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX284OkdJ2ouk2hKqJNGVBQicwaYUsSMXn0OIMlGFuSpgbO8P3uic0yLyrNVNhd4VcCHjTsGHcMosZM7XTYwbVSXe8Zku89ZUBfiaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>某封闭式网络犯罪论坛近期出现一款自主黑客工具，卖家直接使用窃取的OpenAI、Anthropic和Google API密钥为工具提供模型能力。买家只需将盗取的密钥填入工具，就能利用这些密钥驱动自动化扫</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348992&amp;idx=1&amp;sn=d3f36bf2e280add5f5e212a46ab456c7&amp;chksm=bc00f4bbee55469cf54437175509f4f34ffd738fdaac12711aac594b11aaf7096ac8275a7c02&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[日本汉堡王确认发生数据泄露，1118万应用会员记录受影响]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3EgemogWNkPJeR3XHBB7AzPkFuawy65cdJfjoskf3YyjFBl4zlcAFRPqy4oibVMjyH9wJBcLPHLcVx8nOmZuEnypF0clrDYzT4/640?wxtype=jpeg&amp;wxfrom=0"/><p>日本汉堡王官方确认发生数据泄露事件，旗下官方应用约1118万会员的相关记录遭泄露。负责日本地区汉堡王门店运营的BK Japan表示，有外部方未经授权访问了用于管理应用会员信息的系统。公司于2026年1</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651348992&amp;idx=2&amp;sn=13ec3f7eaad0022db49371902b327919&amp;chksm=bc6108dc2cd14b838fa3a27a264325773037f9e73d771cb0325e4ce9fc08920bbf7f5a5b6291&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
