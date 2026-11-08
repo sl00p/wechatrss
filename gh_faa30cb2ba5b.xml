@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent 如何走进大规模生产：腾讯、MiniMax、美团等五家头部企业的落地实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/6FZLmrnGCLsicGn8mZIQ05VRxp90lFC2fQAWwAIXIibo4IDW7BpJdt0JFfDtr88eFQD5VMiaTEzINfuakKrICGwjcjgcSWaMl1bP05xIYteO6c/640?wxtype=jpeg&amp;wxfrom=0"/><p>// INTRO大模型训练需要同时拉起上万个执行环境，AI 办公 Agent 需要保留文件和工作进度，企业数字员工需要明确身份和权限。随着任务量和用户规模增长，环境准备、状态存储、资源成本和安全隔离，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527913&amp;idx=1&amp;sn=fa3ed88bc66260badf469cfc3aea3f01&amp;chksm=c160d036096913943b041ae663a638ec29e0e8ebf049f0494d95d9f010afc7e8859eb4391e28&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 18:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[智能体时代，重塑企业生产力！10.30 腾讯全球数字生态大会 Agent Infra 专场见]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/6FZLmrnGCLt2vVoMxMw5gibWcc04xPVBiaStq9lVrFj0g0VjiciaSJoclESptE10KHdrVqO6CpudcHFPe5lXmrl5vLL1xibTup4oMuQThttKeM8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>当 Agent 从本地 Demo 走向大规模生产，真正的挑战才刚开始。百万级并发沙箱如何撑住，Agent 如何在训练中稳定进化，一条完整的 Agent 链路又该如何观测与治理——这些问题，我们将在 1</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5NjA1MjkxNw==&amp;mid=2247527785&amp;idx=1&amp;sn=5346fe8cccd42978b59daef1af60c17b&amp;chksm=c1d682b5a2262d97df8a5945e93612f8f023a4307d0e0a74a3c1073dc97995a5088b65ed659c&amp;scene=0&amp;xtrack=1#rd</link>

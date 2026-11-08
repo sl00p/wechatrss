@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[欧洲制冷系统攻击复盘：当温度设定成为攻击目标]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqic29llPickWyHtbvbRWj38pcdRXsLrelMdKnicrEsk8JOov2negqblbWCnrtFoxpTd1jib3icnib3sT2icib3icKCMDUYCyANwSJe7J1tc/640?wxtype=jpeg&amp;wxfrom=0"/><p>冷链安全 · 威胁情报欧洲制冷系统攻击复盘：当温度设定成为攻击目标从法国超市到欧洲多国零售门店，再到法国血液服务机构冷库，攻击者滥用的不是“冰箱里的病毒”，而是远程管理权限。· 工业制冷 · 冷链 O</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521297&amp;idx=1&amp;sn=6a6eef9c97fc3d49ce58036988f6f573&amp;chksm=eb7f00a2d56d10cf94fa6826331efe0427f51d0702f480640514fa56fd0a5b1c96a199461a75&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 16:23:51 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[网络安全威胁2026年中报告]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibKhyKYrmWypkGcpMa8h45a6ADiaChAUEoztGCw8ZejrrqKDJzDibJJHQKJTlo1aicO2fsJdNVib7uVZzLzlwY1ktHx4icsEKtDYoP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者还在通过钓鱼邮件和漏洞发起攻击，但入口已经远不止于此。2026年上半年，软件更新通道、开发者凭据、云SaaS身份、智能体扩展和企业内网AI系统，正在成为新的攻击突破口。一次正常的软件升级、一次依</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521175&amp;idx=1&amp;sn=17b10496d5774fd3a46748981630b9b7&amp;chksm=eb17c6ed70a216335425f5eaf2d15ccc17ff9114e25d179cad888d0973ac08eab2511ef0ba62&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibEwFOuOicEUxvq5TyzBVOyJtXYwV8KRIA8h4Ts15s2RUUDjnZopj1cniafMI1hojrJkOicnm1maY83MafenakI2M4G5mCaHD4mUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 供应链安全48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT一条 require() 就能触发整条感染链——这次，攻击者连 install</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519773&amp;idx=1&amp;sn=6d2005d14c8d8e08c57fe63922ecda52&amp;chksm=eb82bc9c77f62b1cb1009c3659c572125f072c08ef96241cbaceee7cbeb27b5844b2faac02aa&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Aug 2026 14:40:58 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[【原创】AI时代下的国产Electron软件供应链攻击活动披露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibiacpVlOJMESicElTicbCZduKfKIePAxYgiblRsHE5iaZb4bjPWnSoUbOBZlIUWTFdpj3ZdKjJ0znyFSBbvUwfM0LMCWPoglxe2vow/640?wxtype=jpeg&amp;wxfrom=0"/><p>自 2021 年我们发现 Operation Dragon Dance[1] 活动以来，就不断强调国产 Electron 软件的脆弱性——基于 Chromium 嵌入式框架开发的产品极易遭受远程代码执</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519723&amp;idx=1&amp;sn=c1ab9a85f341a22dc22c26e30966cc79&amp;chksm=eb6401466315e20c780ef5b98e314742382a1e1687b8f7b2cb4ea371f9ae1f62b16f522a240d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

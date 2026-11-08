@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/11/9)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 无线音频安全的多层性：从固件漏洞到芯片组风险https://www.jamf.com/blog/the-bluetooth-trust-problem-we-carry-in-our-ears/</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960585&amp;idx=1&amp;sn=43fa7e8ac9ae55ba7bbd29442673a854&amp;chksm=8a5003b8346277463b76c9db9a36e6caf153a782a2f945ce8550942b04352b3cfb56cd002033&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 17:06:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/10/29)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Agent的长期记忆治理：ZoneClaw的三层记忆分区与四角色安全架构 - 安全内参 | 决策者的网络安全知识库https://www.secrss.com/articles/95020本文揭</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960576&amp;idx=1&amp;sn=5b61f0a19ddc3af901d0c3622158c675&amp;chksm=8a666a8618079b6d2de7d9ce35a2215d482690d8998190443f256c94cf0259d08beb26bb25b5&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• zlib untgz 工具缓冲区溢出漏洞https://sectoday.tencent.com/event/A59xvJsBvMLTtVn_S3r-zlib 压缩库中的 untgz 工具存在一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960360&amp;idx=1&amp;sn=f5f2e8349c82e549013eac597dee123a&amp;chksm=8a4bfa9f5d86e6d3b849c17a5a3152c4659199fff9ebbb02eff936c15c36945540f1478af090&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Jan 2026 11:53:59 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(26/1/13)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• RIOT OS 2026.01-devel-317 中 RIOT ethos 串行帧解析器的栈缓冲区溢出漏洞https://seclists.org/fulldisclosure/2026/Ja</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960357&amp;idx=1&amp;sn=587a4de36ff6f1d3339e74ef01d0511e&amp;chksm=8a0328d1a260efcbae6277433720843d35b545a323ff25a179049a92ee60cfcf12d98dc3945e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Jan 2026 12:24:45 +0800</pubDate>
     </item>
   </channel>
 </rss>

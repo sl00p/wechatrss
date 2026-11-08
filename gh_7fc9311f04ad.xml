@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[今天起，千问AI平台Token Plan额度上调70%以上]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zWHHAICZzmbLIScUy2j1JeInR1AAyvP15iaEsT338AU8mPlFdBKYrh6B2TqeEuwy7v67F3qLCib5V4IeKeDlLVZvAGIOkqQqAg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，千问AI平台上调Token Plan个人版订阅额度，Lite、Essential、Standard三档套餐月费不变，月度额度提升约74%至78%。具体来看，Lite套餐额度由1.15万Credi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562673&amp;idx=1&amp;sn=bd1d6662b36d44f8b949eac94a6f3d2a&amp;chksm=e84b4ff30016e3dd1bc6ce8ce43b2891a1c4804bdf50d883cfcad159e34cad6e7cebc45db845&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 20:39:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zVDNwNfamiaVswpjS7Z8cI1ibgVEcvBakjibKk0XiaRFabATD8KaPwmMibibibiaWiaNKaChtV7Urscn6yCOdicEj5OOkFiaXocp3ctiayVcY/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、业务背景策略效果类 Agent 的真正难题，不是“能不能生成策略”，而是从人工单点判断走向规模化生产后，质量如何持续</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562577&amp;idx=1&amp;sn=22122e51ba24f88c044e29669bafd9e7&amp;chksm=e8488661cdbc727bcb8d8ddf4e438727ec0c3a22a7c1f5d2047567337217ea988a6c5860274e&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPQibCfKZyyicvt3fey2MZ2PXSmXDa5gFmR8yI06P49MfA7QqaKFia0OAzmBhVuPrs1ziaP8oktXwia9HicoewBso5xRArcReOLgqPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景在 OpenClaw、Claude Code 等产品出现之前，开发同学实现一个 Agent 的基本思路是：基于</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560355&amp;idx=1&amp;sn=c7c83c7bf352322ee7221ca404468fb6&amp;chksm=e8cb870413635a7f3537c858d0a7cda7ffbd2ad59dae8eee3b79a303079ba60fa35e7839045c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 28 May 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[verify-data：一个端到端的数据验数 Agent Skill]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zkTPQL2WnmVUc0Cxy7VxoH0EnXCnHSG0F4BK45OkSFv8sVAHxJIxGWtduFaJUPLAnnnp3JT4kMaRMlYGg3ICVe1wCnzRXlttU/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读本文介绍了一个面向数据开发团队的端到端数据验证 Agent Skill——verify-data。该技能通过自然语言交互，自动完成从表结构获取、基准表发现、代码逻辑分析、验数 SQL 生成、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560354&amp;idx=1&amp;sn=7f27739c5166be3e08890a75756e5811&amp;chksm=e8b465f2220f7cd637bfc9507609275b2c5c0e7642d3cf29022b5a473d3bf2b0eea1af025802&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 27 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

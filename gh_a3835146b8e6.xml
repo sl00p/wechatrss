@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[95后，开始掌管大厂AI了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQFpHVYpXBs8JsaCo5yRje9TrgKf2OTPDfIfahdMXESPnP4eMTgo2w5AZQlefwBmJWLmT6Pr1DUHk5GTGkQVpAWhWoBCIzpgC0Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>同样是95后，有人还在为大厂晋升P7、P8发愁，有人已经开始负责腾讯、百度、小米最核心的AI研发业务。以前在大厂，一个技术人员想坐上核心负责人的位置，往往要熬很多年。腾讯的姚顺雨，1998年出生，负责</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934227&amp;idx=1&amp;sn=9f4f8ada35f8202ee48988fcdf201859&amp;chksm=bcaa93914849022dbd3798b81314e7d60ae13bd39138393189570d40d3caf4a4ec9493ff9c2d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 18:20:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[企业AI落地的3个关键决策]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQFQ8u08P0SduCkmia8iapMHtfLgKxBWCaTD8iaibKPzQaAZYKg1U1kEQsF9pqK0ZbMfJg8Y5KtdvnIwicsicaUlSibdfPSlTtibcHZiaWPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>"AI 项目，最难的不是做出 Demo。"过去一年，我接触了几十家正在做 AI 落地的企业。一个很深的感受是：技术的门槛在快速降低，真正决定成败的，反而是一些"非技术"的决策——而且这些决策，发生在写</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934227&amp;idx=2&amp;sn=7b485443d5a119802aa87ca64b1ea335&amp;chksm=bc06076b25bdcdc792ffd07a99c891f89866d2165b67e3fd6944ee87d55689af8a092d0ff3dc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 18:20:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[接了一个烂摊子，FDE先看哪里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQEupFbaUDhMtb8WLZw9SOejavwlSboUeiaHhRSHZzA0ghwymGaMXibcku8c5WV6ENziczVrzR4fzL8ia0DOjnV1QzwGlE7C1S3NjfA/640?wxtype=jpeg&amp;wxfrom=0"/><p>公司通知你，下周一去客户现场，接手上一任 FDE 留下的项目。你的第一反应是什么？本文分享一个方法，帮你在第一周快速搞清楚项目状况。———— / BEGIN / ————公司通知你下周一去客户现场，接</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934227&amp;idx=3&amp;sn=b4bbd534109fcfd539174f13b09266fc&amp;chksm=bc78b2a94daf645c8b1488a11cb9a2c55bafbdc868aebec25b589ab5e2c090668237a2bb32b7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 18:20:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[阿里最近放出了一只神秘的鸭子，把全球AI先行者都整成了侦探。 昨天，阿里旗下AI编程产品Qoder，突然上线了一款名为Qoduck的匿名模型。 没有公布模型身份，没有参数规模，连跑分海报都省了。 但不少开发者怀疑，这只鸭子很可能就是即将发布的千问Qwen4。 线索还挺多。 前天，千问官方刚发布了一张新模型预热海报，引用《庄子·逍遥游》中的“北冥有鱼，其名为＿”，旁边写着“The becoming begins”。 第二天，阿里自家的Qoder就冒出了一个神秘模型。 还有开发者通过Tokenizer指纹测试发现，Qoduck与千问模型家族高度吻合。AI Tracker的知识测试结果显示，它甚至超过了目前已经发布的Qwen3.8等千问模型。 阿里为什么急着放出新模型？ 看看最近的大模型圈，就知道竞争有多激烈了。 11月4日，腾讯刚刚发布混元Hy4，在Agent Arena榜单上拿下中国模型第一。 小米的MiMo-V2.6 Pro此前也拿下了SuperCLUE中文智能体编程榜首。 Kimi刚推出K3.1 Pro，号称自家最强模型，重点强化代码和长程Agent能力。DeepSeek的V4.1 Flash也在持续争夺开发者。 奇了怪了，现在国产大模型圈，几乎每家都能掏出一张自己排名第一的成绩单。 毕竟评测维度这么多，编程第一、Agent第一、开源第一、中文第一，大家都有机会当冠军。小编我，还是村里排名第一的vibecoding高手呢。 但榜单上的第一名越来越多，用户真正关心的还是那几个问题：写代码到底好不好用？复杂任务能不能一次完成？速度够不够快？价格够不够便宜？ Qoduck似乎就是冲着这些问题来的。 目前社区测评中，Qoduck的速度获得了不少好评，代码生成、多文件编辑和长链路Agent任务也有一些亮眼案例。但复杂编程任务的表现仍有不少吐槽，距离证明自己是一线模型，还有不少测试要做。 阿里还直接给个人用户开放每日免费额度，最高思考强度也不扣积分。 现在AI赛道竞争太激烈，总感觉阿里的速度总是慢半拍。 这只鸭子到底是不是Qwen4谁也不知道，但千问4真的该来了。 腾讯、小米、Kimi、DeepSeek都在秀肌肉，阿里总不能一直让大家猜鸭子吧。]]></title>
       <description><![CDATA[<p>阿里最近放出了一只神秘的鸭子，把全球AI先行者都整成了侦探。 昨天，阿里旗下AI编程产品Qoder，突然上线了一款名为Qoduck的匿名模型。 没有公布模型身份，没有参数规模，连跑分海报都省了。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934202&amp;idx=1&amp;sn=442396badd6294edd2fc640d21ef1500&amp;chksm=bc8b4f9b3f34fceca2e5bf7493af9508e6c8161de4ca997945dea9be1c8cd5715316a2a692be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQHamLHs7bdmtgAupMibv6w6BFTSop20vprvF41mibxbLmbv04bZVq4600cibEPnel8bcVQ0yZiaJTy4iaCqkLheBbKwdfzOzRZCtbms/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯最近开源的 teamai-cli 项目，绝对是大部分在用和即将要用 Agent 的团队的刚需。对正在做 AI 赋能的产品经理们来说更要花些时间体验、内化。过去做 AI 赋能，大部分都是这样的：找到</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933026&amp;idx=2&amp;sn=84f31efa9f8cadbc2c62dee33d8b5f90&amp;chksm=bcc58eeeacdfcaed55a208f1276c1091c736c8bd66980f4d236cbf1c5c896cc2e1dcb50fa8e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Oct 2026 07:53:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[30+了，转AI产品经理还来得及吗？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQGjczUgQPh1LVM9w0VYA9keCTShkXEex67qgf0a6XYLHR9GjiaGSOmm3JtibicKxOn5z7YZrrXPh0sVxddK8aiaQ1rl4vxsTzUsicb8/640?wxtype=jpeg&amp;wxfrom=0"/><p>33岁转AI产品经理，焦虑的根源不是年龄，而是没搞清岗位差异和自身经验的价值。本文拆解三类AI产品岗的核心要求，用采购场景说明旧经验如何落地，并给出从拿证据到小范围验证的转型路径，帮你算清成本、找准方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933026&amp;idx=3&amp;sn=7d7fba27fdf4e4d79c3b6b2e9aede2bd&amp;chksm=bcc65e3889c2568dc92d587ad827b9df0a343d723d64ac4e3a110bf5858e973046289d668110&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 07:53:20 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[张一鸣又造出一个亿级爆款]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQExcdBFCnu2RvgMsnCjBk802I2cR6opIGywNaqYD5rdIp2kBLlYnIAibbLVu0tSUmiaghiayuicaxoTKGxVokSnDkCQodDmbXh916c/640?wxtype=jpeg&amp;wxfrom=0"/><p>字节跳动又跑出了一个亿级爆款。这次，依然是短剧。根据Sensor Tower披露的数据，字节旗下海外短剧APP PineDrama上线约9个月，累计下载量已经突破1亿，日活跃用户达到约700万。这个成</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651932967&amp;idx=1&amp;sn=1c1af3ea1e889371f1056b085d04c194&amp;chksm=bc093543a60e87bf1a537e5e19bbd822ebb9750a65a40d2d6254b1911923ef3145f185958b33&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 14:42:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[收藏！转型 AI 产品经理可执行进阶路径图]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQH3B8rAx5T4mKyAofxjqSfVtAAGcWibTq7gIIMW7PjWLTVd6tibcG1oXsQyKPfOwzBMCb3EpU0Fb1HRzON2dx64gDzziaeuoBUhsc/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026腾讯招聘最新消息 ，AI产品岗位持续热招 其它产品经理 产品策划岗位扩招39%。大中小厂都在积极拥抱AI，不少人也在积极规划转型，抓住这波AI红利。行动力强的朋友，已经成功更换赛道，拿到涨薪的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651932967&amp;idx=2&amp;sn=0ed72b438ad903d506262dbe1e0e0f3e&amp;chksm=bc88c09583df6f77600cc04e86856d1961124854ac5ef071c994f7e02edca2a3f8c02246867f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 14:42:43 +0800</pubDate>
     </item>
   </channel>
 </rss>

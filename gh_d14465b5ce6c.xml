@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[说个最近越想越不对劲的事...... 《AI 编程的加速陷阱》 我是maple，目前主要在腾讯做Agent 相关的一些开发业务。 我们团队现在代码提交量大概是以前的几十倍。一开始大家挺兴奋，觉得效率上来了。但慢慢我发现，量上来了，可控性反而下去了，而且是整条链一起往下掉。 需求评审完，产品随口说了句，「这个边界先不用管，实际业务里不会这么用。」程序员点点头，测试也没为这个场景开单。这句话没进 PRD，没进纪要，也没变成用例，但它实实在在把系统复杂度降下来了。 现在换成 AI 编程。这句「先不用管」没人写进需求。AI 很认真地把边界展开成十几个状态、一堆异常路径和兼容分支。代码提交量上去了，测试单也上去了，所有人就被拖进了循环。 问题不是 AI 不努力，是它不知道人类本来会妥协。 传统手工编程时，我们从来没把所有状态全实现过。真正让东西能交付的，是产品、开发、测试在磨合里一次次把边界裁掉。哪些异常不会发生，哪些兼容可以放弃，哪些测试细节不值得开单。这些大多不在文档里，是组织里的隐性知识。 AI 没有这套隐性知识。没有显式约束时，它倾向于保守展开，所有边界都当有效，所有异常都当要覆盖。结果就是协调状态急剧膨胀，AI 处理不完，人也 review 不过来。 以前复杂度在进代码前就被人类裁掉了。现在复杂度先被展开，再想靠 review 和测试收回来。但人的带宽有限，变更一旦超过某个量级，review 就会从「判断对不对」退化成「看着像不像」。 上周我翻了一个中等需求的提交记录。以前类似需求大概二三十次提交，这次是六百多次。测试刚跑完一轮，第二天又多了八十多个 commit。他追不上，只能用 AI 批量生成用例、批量开单。开发收到一堆细节单，也只能继续用 AI 批量改。 这就陷入了恶性循环。 关键不是「AI 太快」，是加速链里没有中断点。软件工程本来需要一些减速带，需求裁剪、验收标准、测试取舍、发布门禁、人工否决。这些减速带被冲掉后，速度不会自动变成吞吐，反而会变成噪声和返工。 所以方向不是「事后 review 更多」，而是「生成前约束更多」。把不处理场景、可接受异常、兼容范围和人工兜底写清楚，让 AI 能读到、能执行。组织上也得保留人类说「停」的权力。 AI 编程缺的可能不是生成能力，是收敛能力。 没有中断的加速，不是吞吐，是噪声。]]></title>
+      <description><![CDATA[<p>说个最近越想越不对劲的事...... 《AI 编程的加速陷阱》 我是maple，目前主要在腾讯做Agent 相关的一些开发业务。 我们团队现在代码提交量大概是以前的几十</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808120&amp;idx=1&amp;sn=b007fdc7119e2018ef1a0ffda9a41b0a&amp;chksm=bf7da3890b18dafe17c7978aa657876b1745faf80bc1a5ef6f8c9d078ef8b0c7d1d884e26a31&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 18:07:03 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[多Agent协作的下一场竞争，不在模型，而在上下文]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906jGEzewoibLuk76lRy96HqOFNic7DiczZL8Riafgdojuoibr9EwIic0dSs17vd80C9LEIiazBl5tL8bTicibsxK0lt5CGF549P2ExvDCW8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：poppyliliAI 时代，人和 Agent 到底怎么协作？ 聊聊产品设计的底层逻辑——上下文如何在群里流动、隔离、接力。 我们做了一个司内工具Siboot ，讲讲我们如何重构 AI 时代的群</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808052&amp;idx=1&amp;sn=b3d44a9aff307ff725a3300d14efe314&amp;chksm=bf25264d4a16ca50638679adf1090d8f9120cf5693591ff58b4619e5be64b57e028817e35c2a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904HPovANDicyH3n1wribdOngljjMyOujD0LMof3MU10NhJ6t6vsic7wtIIf2XATiaF3mZicAiaHTIiaicncUO5VOQ3RwHFoMYOpBJBEKFo/640?wxtype=jpeg&amp;wxfrom=0"/><p>5月20日23点58分，Marvis 上线。22号上午，用户量激增，官方紧急扩容在冰冷的代码与闪烁的屏幕背后，是一席关于 AI 时代的产品真心话：“我们‘死磕’端云混布，就是在赌未来。”“即便在长途飞</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802628&amp;idx=1&amp;sn=e187a512c344ea924c370abb91b8962f&amp;chksm=bf7546c89e5f125651fa5cef15f1e5d90a3ab679d6c140ee164ba20cc94236ba2ce8ac81fbfd&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 15 Jul 2026 19:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz906lUYLYVpjGicVeTJibIa1QCHXia2GADwndc8icY0ZwJRLAODibYOLiazmsrYuLc8ic3GCly8kOu0JbBibKVmXKpibkicTDMyFQKicJp3YjHA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：charliecli随着大模型时代的到来，AI 基础设施（AI Infra）正在经历深刻的变革。面对日益复杂的计算需求，传统上与单一计算范式深度耦合的调度系统已难以应对全局性挑战。本文结合开源社</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802581&amp;idx=1&amp;sn=6853e0881c8ef7e87dac7baf5ad82d22&amp;chksm=bf3801a5143f05a4d5aaa564d3537ffbad9a9d780af33f42992b2704132c518e171301097cb2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[为什么个人AI提效容易，而团队AI提效却这么难？（12/12，文末有惊喜）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXfROqQL1qjgHug3aToNia6icu43VeUUm57riaRTozKnwLUIBJ8dicfqF7IoAjQEn9XS9Xu180clKyNX6OYRYOJyb79yb5JAjViclCr8/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第12讲：AI团队提效《Agent原理，架构与实践》，本期是最后一讲，咱们开始。画外音：文末有惊喜。上一讲咱们用六格清单评估一个Agent，评审通过了，它即将成为团队的新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981863&amp;idx=1&amp;sn=02f417c71381b061fa6b646fc480248e&amp;chksm=bc0ee95461ebb6abe08ca9b04896f5a6aee8558b2e98af63ffb9f81cb17c39bdff018ba043be&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 12:01:09 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如何用一张验收清单，评估一个真实的Agent系统？（11/12）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXdkPm5qTwpDBGvnhRw6Oar5hxSHW9fjrKsbUteGKdMwRHveB980N7PVqdIze3ibWnrgfgKZ2vN8WmUCBtfnUY6dA91mLianJqBhU/640?wxtype=jpeg&amp;wxfrom=0"/><p>《Agent原理，架构与实践》第11讲：Agent验收评估准备起一个新的系列《Agent原理，架构与实践》。目标不贪心：1. 希望每篇文章有1-2个点能让大家有收获；2. 希望不被骂；本期第11讲，咱</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981858&amp;idx=1&amp;sn=9292a1f92cb4881fa0f4ca0584a2837e&amp;chksm=bc94dd519cc7fcffec36931b5e2e37e3f6abac3ad57a3ad7e8e6451d2d13bab4fdb900cb1757&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>上周《抓主要矛盾》第3次直播，核心就一件事，通过2个工具，找到当下达成目标卡点的主要卡点。直播纪要，如下： 怎么抓主要矛盾？五个步骤： 1. 到底要去哪里？（目标锚定） 2. 当前处在哪个时间粒度？</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981479&amp;idx=1&amp;sn=175fb754eb95688418354f57c2473305&amp;chksm=bc6fc12445786b7a2e47325d21805ace83f6b58570bdc3b6b8d93f2bec8f35bed7fd08c65f68&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Aug 2026 17:20:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[昨天发了一篇《给AI看的架构规范》，评论区的讨论很有意思。 观点一：AI训练了海量代码库，它的架构品位，比我们懂的那点东西强多了，完全不需要我们再抽象架构规范约束她了。 个人的观点：没错，AI见过全世界最好的架构。但问题是，它不知道我们需要哪一种。如果不告诉它分层，它每次生成的"最佳实践"可能都不一样。AI不缺架构知识，缺的是我们项目的架构约束。 观点二：我们部门已经没人手搓代码，纯靠AI，一个人干三个人的活。 个人的观点：我相信你。但我想问你，你们公司用AI交付线上系统代码的，是不是仍然是程序员？产品经理，运营，也能用AI搓代码，能不能交付线上系统代码呢？我认为，至少现阶段，代码质量的兜底人，依然是工程师。 观点三：分层架构的规范可以精简成一句话：保持清晰、可维护、可拓展。AI知道怎么干，不需要我们告诉她细节。 个人的观点：这句话，是对的。对人来说，是原则；但是，对AI来说，是空话。"清晰"是什么？AI见过一万种"清晰"：MVC清晰，DDD清晰，洋葱架构也清晰。我们如果不收窄它的选择空间，它就用概率替我们做架构决策。 观点四：人为约束就是给上下文加噪音，告知红线就够了，让大模型自由发挥。" 个人的观点：红线保的是"不出事"，规范保的是"高质量"，这是两回事。"不允许跨层调用"是红线；但"接口和实现为什么要分离"，是专家经验。把多年的额踩坑经验喂给AI，恰恰是上下文里最有价值的部分，这不是噪音，这是蒸馏。 这些问题，没有标准答案，每个人的观点都不一样。无论如何，能引发我们的思考，才是最有价值。大伙的反馈我也很受用，面对AI，自己也仍在不断学习修炼之中。 今晚直播，和大家聊聊：《如何用AI做出架构师级别的高质量产品与系统？》 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。 PS：你认为，AI的能力这么强，未来还需要架构师吗？]]></title>
-      <description><![CDATA[<p>昨天发了一篇《给AI看的架构规范》，评论区的讨论很有意思。 观点一：AI训练了海量代码库，它的架构品位，比我们懂的那点东西强多了，完全不需要我们再抽象架构规范约束她了。 个人的观点：没错，AI见过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981477&amp;idx=1&amp;sn=b66c2c592ee41ec04410770486339819&amp;chksm=bcfa5cac40c636e603bb1498261eca1798608c090dd8bf22d781b278bb93139e6a8c038f528a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 10:06:36 +0800</pubDate>
     </item>
   </channel>
 </rss>

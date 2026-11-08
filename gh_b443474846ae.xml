@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia0tFicicKwXFuib9TAnHK5XP2jiaUrc4iaXZvPJicHVlGibKRTO2M6oQhOx2ZWibxoxcYmFnsibpPp6EnCZSzP2fBp7GHCsQU4xoc0WbMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 策划 | Tina 近日，Discord 联合创始人兼 CTO Stanislav Vishnevskiy 在 X 上宣布，Discord 正将客户端迁移至 Rust，桌面端将移除</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296873&amp;idx=1&amp;sn=f38dc6f8a6273f09af92b906c90ea8c5&amp;chksm=bcdf9a148287e2c627b2a9a484377b76fbc0a5777deba0588001feecd50652b6730af7829785&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hy4 更强了，模型调用的效率与成本账也有了新变化]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhZrDSytuDU4qQRQRnzc4sC1xpnJdKvdMXzzdFZrgZRMEyRMSEG39rtyPSxibx08yGImRqbeQoqggLGmZicQicRxia5xjvynqM0znE/640?wxtype=jpeg&amp;wxfrom=0"/><p>随着企业 AI 应用从简单问答走向复杂任务执行，模型的能力、调用成本与服务稳定性，正在共同影响 AI 的实际应用效果。尤其在 Agent 场景中，一项任务往往涉及多轮模型推理、工具调用和跨应用操作，企</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296873&amp;idx=2&amp;sn=e56a296f99a610143fd1aa6ba2bcc2f2&amp;chksm=bc41eee98ea08c5909b20d0fe8ea7ac1f9fd70f3b2d780c6a5797e23c04d440469563c297876&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[「AI 造游戏」创作大赛开启，赢最高 15000 元现金及硬件大奖！| 模力工场]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjL8AHa1vibQT85Xua36cQvVwBQodzVwX0PZRPsMxaicNB26dnhZElePWFUhhzWDaHOicjfkvkv9on7kNkIFXUfaAzIFohDhcR4oY/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI+∞ 开发者创作大赛每月围绕一个主题，邀请开发者用 AI 把灵感变成作品，让创意被真实体验与分享。第一期「AI+运营」，我们邀请运营人造自己的工具；第二期「AI+影视流」，我们一起用 AI，提前看</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296873&amp;idx=3&amp;sn=b77fe0490781cdbf601deeaf2d354209&amp;chksm=bc00fcfd5c406a075c90a369268d91d7551e32563ba3e430fbb1b5adcefddd58311c5a2d1908&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 16:30:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[千问“死磕”Personal Agent：为什么下限比上限更重要？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjfNIC1aRgcugZugPU6N3LiamLVPLOP3icyPwCuslwhsu8ON1tuwjGYb036NiaVngjlciabK5KeIpFu6aDKur0GkC93MOXUVibzHezE/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 褚杏娟 Personal Agent 已经渡过早期产品验证，进入了新一轮产品竞争阶段：Meta Muse、OpenAI Dots 等纷纷把产品从“炫技”推向了“长期稳定地替用户做事”。不过，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296808&amp;idx=1&amp;sn=355ba6e54379f37c92180f8af931a5fe&amp;chksm=bc0eac462d8e9dac2435e3b0466665a8a290079edd6a35d8518f9d9cee60dd99680789682ba9&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjdf76wkpRhhERZSHmZL05xaatdEBkQvKT8Z5a2NjgXs0ricFqRvh54R2FmDDEVDhQS8Swoy3nW0t29ibqiaT85t3WMuHARAv29F4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Steef-Jan Wiggers 译者 | 平川 Cloudflare 最近披露了其 Containers 平台中存在的一个 跨租户数据泄露漏洞。该平台也为 Cloudflare Sand</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=4&amp;sn=99d7b1b770fe9bc89cf7ca7a6b6bc3ae&amp;chksm=bc114b478e845c9eef83d9c27325c9ea9398fd6ea28b37971c9791289344b11331bc5e5b6cfe&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon 上海]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjLdwYR1EkVkjzDgHVBE9FD3KvRKzW63HjrurN3q324moJBvaWDFpnGXVhACUtxu3Jf854eQ67iaM8TicpAibGtNXeSQgOC9lTkQ4/640?wxtype=jpeg&amp;wxfrom=0"/><p>从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Age</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295407&amp;idx=5&amp;sn=9e26701f2a20a35a50dc2014a965d352&amp;chksm=bc036b1c82f26e3448a2e0906f8d7e393d9997a08d80dac716782077739ecb776ff6f24a30b6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Oct 2026 14:21:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNj7gdiabAxAfZ1ficZc0FnbZWicMErhkU4mWCfJE7fprLlQ5GKWAx62NepdX2fRwbVftWAhKNPwBCUSZkmb4ibjPBJhsRMuibMHNZqI/640?wxtype=jpeg&amp;wxfrom=0"/><p>翻译｜林绮蓓编辑｜蔡芳芳“我已经很久没好好看过代码了。”在 AI 编程工具越来越强的今天，这句话开始成为一些开发者描述自己工作方式的方式。需求交给 Agent，代码由它生成，测试和审查还可以交给其他</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=1&amp;sn=9ee14521ea3fad2bf13007ac2abec56f&amp;chksm=bc7e243a546c037df9b938c3a46884084f43354430955b137e812043969ec677bf61b029934e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude 写代码太快，Git 扛不住了：Anthropic 仅靠 7 人，5 个月重造版本控制系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjaict7ep07iaP6ecusfjOCy1NKQFz0CM0NhI3MjWf06Lk5hYJuBvaq9ia9UwBuGib9RtDwuuaia1hrgX23MffkXxddEVwVks7eicBr4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 蔡芳芳 今年 5 月，Anthropic 平均每天合并约 2500 次代码修改。到了 9 月，这个数字已经超过 3 万次。短短四个月，代码合并量增长了 12 倍以上2026 年 1 月至 9</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295352&amp;idx=2&amp;sn=40c9df931feffe9a7deaa5375099ca4a&amp;chksm=bc841b5aa2a637839c2b032b835cf8346356293156f66f6f927f147b65843b4be157d9cbed32&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 18 Oct 2026 10:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

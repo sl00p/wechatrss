@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[7 个近期 GitHub 上贼火火的开源项目，又是质量很高的一波。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3N5m92Vj25licmpapPZ18licpBULzehbon88ysk0cW17r5Szia6huqAAbbDiaP9icicKh4dMsMzOCLbXrov3liaPia60r74e42RKQQGQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01公开的 API 大合集Public APIs 是一个社区维护的公开 API 目录，按天气、图书、地理信息、开发工具等类别整理。做一个小应用，需要天气数据、图书资料，或者想补充一项查询能力，可以在这</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538420&amp;idx=1&amp;sn=9769127e763c53057c449032da509279&amp;chksm=f83ad0fac2ccc95410b90f6d1062960ea30889ab487a880991351545098c85e43ba22feb2c5a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 19:21:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[有个刚开源的 GitHub 项目贼有说法，竟然能在终端里再跑一台 Mac。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3IUVLkialgfljmYNfY8j8BPeUYppCl4LSCQNdh9LTItHicG9j8LribTGxcC4iaK4FmL7P2y6DvQZgH28h218odxRO9p21MADhqgwU/640?wxtype=jpeg&amp;wxfrom=0"/><p>GitHub 上最近开源了一个叫 terminal-mac 的项目，能把一套 macOS 桌面放进终端窗口里。刚刚开源就已经有 2000 多人 Star 了。感觉这个开源项目后面真的可能会大火。你可以</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538388&amp;idx=1&amp;sn=76b1287f4a12472c0ea4c90697d47571&amp;chksm=f80839290e5d7ef2a5e4f5d0a851e69051845dd06cb4a29d922eada69370d0ec1826e54a54f1&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1HSDmxRDyLtd8x1WVIya4K81fLPNZTt4LOAiaOiaNaqpdYckthNQ6OpXicvOFaQzPSxgFiaRPV6N9pU7zjtC4OOv8LcBoiaZhyQCro/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 AI 越多，和 Markdown 打交道的次数也越多。很多 Agent 也会通过 AGENTS.md、CLAUDE.md 这类文件读取项目规则。原因很实际。 Markdown 是纯文本，体积小，方</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536039&amp;idx=1&amp;sn=b83b2fd3d42adb14e89649ee7ac0c16a&amp;chksm=f8da575cae768f289ae7699c22c4d69f134a95f29134fb66cd3c21c705562ead0bd4dc185e05&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 14:11:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[这个国产桌面端 Agent 进化了，支持定时任务、接入 Obsidian和丰富 SKill。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU0W2cNjIfOrOkL8Vo5NuotHkicEZEic7ONvcZVr77Dqn7Pq62cXjaPs7C7bExb7CgG4hfWNo8eZWXJic3SqXia3Nzw19nuAtRTzs70/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，办公小浣熊桌面端正式发布了，支持 macOS 和 Windows。它可以直接调用本地文件、历史对话、 Obsidian 笔记、飞书文档发起任务。再配合 Skills、MCP、第三方应用、本地记忆</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536038&amp;idx=1&amp;sn=f648f7f86e883d0555f63e4b48189291&amp;chksm=f8863e80ae1a5d6ff5c9b7eb2fb55a739b5c63b1f1fd7703f27bc59296041b22612ac4205b92&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Aug 2026 13:53:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

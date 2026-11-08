@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[看雪双十一开启！课程最高立减2000元，限时4天]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1l827LKiacibVTZYOFEAXL9x3oUdh7PoEvJicGcicywqVXKicHYURLQEbND11jfnvWM83ae1l9DWtjJt7tiaTTPVI2KmFzicBrPz0Biao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=1&amp;sn=e09c17352cca70ac8dca6e9771251f83&amp;chksm=b049a4a3823ab3bb6f9a2f098b5e2dfe58019bdea11312f96a47951efe7f51cd2073139a3dac&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从零手写 ARM64 VMP]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2yO344Xe4Nmxc4DFic6yxNGS5A5rHWIQQSsicbzb4pcaBwxicEuica0w8icsWSEGe6A7LEWhvCA09ibxad8y2fvOlrS5w6gqnThKqXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>VMP（Virtual Machine Protection，虚拟机保护）简单说就是把.so中的关键代码转换成自定义的虚拟指令，交给程序内置的虚拟机执行，以此来增加逆向分析的难度。这里的VMP泛指代码</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=2&amp;sn=3169946034eebd6555b16ebb31b34618&amp;chksm=b02ceb1957c7793b4e27c7e9ae6722f5daf8f3df725b495304e0ae6581a25bdfd236a250685c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[​OpenSSH 高危认证绕过漏洞遭攻击者利用，超长密码即可绕过 SSH 登录验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Au4libD3FM2fCcCPw2leAfeMkgK67dg09Qck5OyD6Qm1T8PGc7I0Il5Ec4FzcPNN4kz5P4nyV45g7gmzkbQhQ65AWPqpyXvWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者已开始针对 OpenSSH 的 SSHole 认证绕过漏洞发起攻击。SANS 互联网风暴中心监测发现，攻击者通过提交异常长度的密码，尝试绕过 SSH 身份验证，在特定配置的 Linux 服务器上</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=3&amp;sn=ab8d04633e47d27c3a825e1582bc0458&amp;chksm=b0f21acf8afd8852cda4ab8f6ead7edfe86f8c1b246289fa18e82f022039dee1b3b65daa38aa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Euibw4kny7ZnXLDkQ616u42boGYiaoWKl7C2zW7vhY446tlJbbT48Nb0csWjqCj7dQXoTAQ8ehWaKHqczIRaEUDfBVysaKAT5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>固件漏洞挖掘的瓶颈不在于「模型看不懂汇编」，而在于没有一套可执行、可复核的工作流。本文介绍一个开源的 IoT 固件审计 Skill：它把资深审计员的工作骨架——流水线、资源分配、证据标准、质量门禁——</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=1&amp;sn=4452ebefa4729f122b8231ff73cf22bc&amp;chksm=b08d5d4119cdc0e8d7003afb3df4926a70d315e7f851a100c7c45007d8a0737a11d56a38c1c7&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2H1RwQuSW9U4oHBcAEPH8F3ANyJgDCQGbFFo6bLwaUWl9PFIxKLfYNiaAN2ram95iaB8vc8QolLLJeOVsS36wl5micwiadKoFYpo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Patchstack安全监测平台证实，Bricksforge插件曝出严重安全漏洞CVE-2026-85097，该漏洞影响3.1.8.9及更早全部版本，官方已在3.1.8.10版本完成补丁修复（最新稳定</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=2&amp;sn=f62d5878db08538051e7a35d79b6b1dc&amp;chksm=b05fdbce5022b0769317b82b780dc79473e255dda9b7cc48f40c789b0f54740366d25f670145&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=3&amp;sn=1ab8fb962e96ba3acec12d312809890e&amp;chksm=b0d6e1bd26b0c6d5718ac8910e3a197b5e56294c30017159567c2843896d34815e5aae536614&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026 议程重磅揭晓！10月23日上海见]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2aEY9nchIJrJiaxD48XpLn9FcPHWjeCiaaJrOMePh8EgAE79Xjg6tibcaHegdfjCery98NAgGx33MSc8O1vn2Ania9ZnBX7RPF5rI/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026人机共智·重构攻防当大模型深度融入攻防体系，安全边界正在被重新定义。第十届安全开发者峰会（SDC2026）将于10月23日在上海隆重举办，本届峰会以「人机共智・重构攻防」为主题，汇聚行业</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622664&amp;idx=1&amp;sn=5e5fbea1ad91e3eed1bc67a4d69d8691&amp;chksm=b001e9e92cd456c8fb4eba8e1fd64e6ae9e6f9808e3440dbeffe11be620828202009d954a1c1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GEEKCON 2026 赛程议题公布（文末赠票）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/R5j52okPbeibkDkZnI9eP1eWU7M57iaNEgRU0HpgAJibQOUPoFgDs0rVU4nTPOjJlxa7rhEyNwTXZ2qJabWOQSN9KxfEwMwfsDVXYsGibOhaXrg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔥福利来袭｜GEEKCON 2026 赠票抽奖！GEEKCON 2026 赛程议题现已正式公布，精彩议题、硬核技术分享蓄势待发。本次看雪社区联合 GEEKCON，为大家争取到3张大会票！🎁抽奖规则：在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622664&amp;idx=2&amp;sn=06e7b4decf8b2a3c6cf9255eb0fa27e4&amp;chksm=b062290c5d29c79e0a65c9e2eca5c0b1b3483f1323948514cd0816f2617d875349bc1440eb8e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 11 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
