@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[出厂即失陷：XCPE 如何把 130 万台 Android 设备变成“可出租”的后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicJYqFoMWbZySN2nJUEzDlxiaZt2KcicmYvEicOAEWicC4ibB7kfR2dXR0BwpXKiaG5PHWFx5o1uuScxMWDgJcK523ZOuZwMC8iahgrWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 恶意软件分析出厂即失陷：XCPE 如何把 130 万台Android 设备变成“可出租”的后门一台 Android 机顶盒，即使用户从未安装过来路不明的应用，也可能在第一次开机后就接</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521313&amp;idx=1&amp;sn=1bd52ac3229fa18e781a8aac3c4553ab&amp;chksm=eba8ef8df9614aaf1afbb6fb5433e4f09a87401a2543818277a2955285305af38671b33aeb92&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 15:35:15 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[欧洲制冷系统攻击复盘：当温度设定成为攻击目标]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqic29llPickWyHtbvbRWj38pcdRXsLrelMdKnicrEsk8JOov2negqblbWCnrtFoxpTd1jib3icnib3sT2icib3icKCMDUYCyANwSJe7J1tc/640?wxtype=jpeg&amp;wxfrom=0"/><p>冷链安全 · 威胁情报欧洲制冷系统攻击复盘：当温度设定成为攻击目标从法国超市到欧洲多国零售门店，再到法国血液服务机构冷库，攻击者滥用的不是“冰箱里的病毒”，而是远程管理权限。· 工业制冷 · 冷链 O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521297&amp;idx=1&amp;sn=6a6eef9c97fc3d49ce58036988f6f573&amp;chksm=eb7f00a2d56d10cf94fa6826331efe0427f51d0702f480640514fa56fd0a5b1c96a199461a75&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8vSrsX6UTWryAiaEdvblgykfe71rRqibjQNuF6YaFibKvMJunfoAWmo4vkDJA6ia8s5NiaYWUTsjibAAB8VAoBjpWQVM6MVsArmCndI/640?wxtype=jpeg&amp;wxfrom=0"/><p>OT安全 · 威胁分析一条从未见过的攻击路径黑客如何借道运营商"私有网络"打进热电厂2025年12月29日波兰能源攻击后续调查揭示：攻击者通过配电运营商私有APN完成横向移动，直接闯入热电厂OT网络—</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519791&amp;idx=1&amp;sn=713d02b5129e895f6701fc56b6be4620&amp;chksm=eb9907fe4c043894a836a79d0c373789887c40db1da226b621bb8a7c8e9a8492e37efe5e9259&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 11 Aug 2026 15:31:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibEwFOuOicEUxvq5TyzBVOyJtXYwV8KRIA8h4Ts15s2RUUDjnZopj1cniafMI1hojrJkOicnm1maY83MafenakI2M4G5mCaHD4mUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 供应链安全48小时投毒700+包：WEL1DROPPER用"AI幻觉包名"给npm开发者送上一份跨平台RAT一条 require() 就能触发整条感染链——这次，攻击者连 install</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519773&amp;idx=1&amp;sn=6d2005d14c8d8e08c57fe63922ecda52&amp;chksm=eb82bc9c77f62b1cb1009c3659c572125f072c08ef96241cbaceee7cbeb27b5844b2faac02aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 10 Aug 2026 14:40:58 +0800</pubDate>
     </item>
   </channel>
 </rss>

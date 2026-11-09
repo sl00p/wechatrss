@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[路演前夜，做Claude的Anthropic连打两张牌]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BRUibSegkTcOel6PlTxTZbf3MuAUGb9tXFKbS8gdNbrh1e1gp8F6StdYdgFOiahw9pfPIs9GVvQVaCgicRMcOR1N3gQFpQI5qGPSpA5L3IZmvw/640?wxtype=jpeg&amp;wxfrom=0"/><p>没等来 GPT-6.2，凌晨 Anthropic 先出手了。11 月 9 日，Anthropic 一口气发布两款新模型：ClaudeFable 5.2 和 Claude Mythos 5.2。这次更新</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548423&amp;idx=1&amp;sn=8abf6b8b418a03af08956008019443b5&amp;chksm=fd5c2314f4dbe8f2104b3c7770c3c9cb52efe3b0bf1ba42dc2ba6615427329b324dbb7b548fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 16:11:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[掘金 X-lab · Coffee Talk 邀请你来见一面]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcOdIxbqkPs3FTQ9jln8Q8HrPcPNfMNVdCCo0JUSg7dZJYiaPR0YicRPnHk0Z6ZNUicfymcBGl83duqehNPxLOHlbQTD5VmwECjPZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>做产品的路上，总有一些问题，自己琢磨很久，也想找个人聊聊。一个功能到底值不值得做？产品上线后，第一批用户从哪里来？有人开始用了，又该怎么让他们愿意付费？这些问题，可能你正在经历，也可能你已经摸索出了一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548252&amp;idx=1&amp;sn=1cc4769b8b2c1efcf0a1bdca5420c15e&amp;chksm=fd2175787e5bc5f46579852e66c1c13ff15b5c6f9c0b7f7440fa34bd625af6e0e15844e013cd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibuU2OJwzib1lk64icw6uZyAHvdcOAjGCS9H5d9yZjweqZpY4JexicePgfr3AgqqYKG01Mp8PPhUWBarQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）在 AI Coding 提效这件事上，我想我的经历让我有充分的发言权。今年上半年，作为团队中的校招新人，我承接了两位离职同事的业务模块。面对</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547196&amp;idx=1&amp;sn=acacf9267d8d02212eac7c4176548891&amp;chksm=fd70b07d530a7e37e91a775a234a1708685feefc1c12d01708f1e528520576916eeda3fa2f02&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 03 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从“版本号打架”到 30 秒内提醒用户刷新：一个微前端团队的实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibsiaT5t7Bqr6uq8TNNyQrYkofTedLXdEYrdR7B5YucmDgnUsvXKOqS0SuWwicZiaruMxpA2brvxVlLibw/640?wxtype=jpeg&amp;wxfrom=0"/><p>（💰TRAE SOLO实战赛火热进行中，速戳上图了解详情🔍）1. 背景与痛点我们团队维护着一个微前端子应用集群，每个子应用都需要同时服务 dev / test / release / online 多</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547158&amp;idx=1&amp;sn=8a0d497cf4da7c6ffc9d08b7a4f10d59&amp;chksm=fd2ae39144d8dfcb4da07ffea9bcd2b9c4bfa4aca5366418d8e8037dcb44f78f04d167414904&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 02 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

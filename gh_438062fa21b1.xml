@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从淘小蜜分流模型的实践，聊聊 Jev 与 System One]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4CCe1xy73EbNSRPIK17PLt1OGlzDiaX0p02iabDNlqMIibHOdcpYLZ8lRLlDJH9bRke9lfIcJdwicLhIJZ7wPica011c7P9zDuibmIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 79 篇文章（ 本文阅读时间：约 30 分钟 ）前言最近 Jev 很火，技术社区里也出现了不少复现项目。看完相关文档和项目后，我发现团队去年做的淘小蜜客服 Agent 分流模型和</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512476&amp;idx=1&amp;sn=071544b548af1892af197b38f330d562&amp;chksm=ce9a7f4232e552259fdec1cb9320ad8e972dd4eb2df573bbcb1fe3e175e3192ab673ad064842&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从进化到泛化，RSI 四大前沿框架如何实现 Agent 自动调优]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz78nAJIyicBBA3XCjpfQLUEJKaKaD4wiaqruSvljXiaiazfwRpKcawwzABIBDOMGOAdCrzDCMh2cfbD75FSpTRN3oBFB0O9OgoxrSs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 78 篇文章（ 本文阅读时间：约 20 分钟 ）前言在上一篇文章《深度解析 RSI：当 AI 开始实现自我迭代提升 》里，作者系统性介绍了 RSI（递归自我改进） 的背景理论和实现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512471&amp;idx=1&amp;sn=cce98b31a76694181957c85cc6109efb&amp;chksm=cec02d37a4d88b3e190edfef5cbe2e5519378af9d29f475ec02ae447f6b5ff13a231855a987a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz58iaKIOWSzkkgImpRbvpFD4s9f6qc10QlHqHT4Fz7Et25uibL3uluEfGK1n2kdem72TSAnzDu89VS8Jp4Gn4V0UNPYuG9ibTEZfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 31 篇文章（ 本文阅读时间：约15分钟 ）01当 AI 开始写代码，「敢不敢发」成了新问题先看一组数据：a1 CLI（一款统一研发命令行工具）—— 数十万行 Go 代码，数百个命</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509947&amp;idx=1&amp;sn=7d2cc8a374fb1454aeab9ca90ef28f5d&amp;chksm=cef20f0293dce938e0a4283f199d5df6a214107cd20c7bfcc394b7a5d6ab040397dff7f9188a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 07 Jul 2026 18:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么 Agent 时代，大家都在做 CLI ？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4DGfXXv6a9VEdDOXX0icFxibQYc0xpJUiaD7owPftibiarbG2lEs8wyhXnv1pYPs7RyUiaI7YJgeXiattR0HPlZN59I841wzliaiaSRY3k/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 30 篇文章（ 本文阅读时间：约15分钟 ）前言过去一段时间，AI Agent 相关工具出现了一个有意思的变化：能力在不断演进，交互入口却越来越多地回到最朴素的命令行。看起来像是一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509924&amp;idx=1&amp;sn=c2fae18bbccf057f1ed4664fee85b1e7&amp;chksm=cefb9ab3391432453ac37bc8206189c50c3b2a378394f9ad7f92c46a5107ac277872d878faba&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 06 Jul 2026 18:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

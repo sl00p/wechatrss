@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题回顾 | ZeroMDASH：领域自适应的Agent-Native 通用漏洞挖掘工程]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0tovFvpKDRqKpYYmhjMZYuwKPM98QbwiaD5hcW5EZW35Zic4e9SNa9qpG4MlXL3GP7SXUk3mKIVakicT4FbrnicwD19ib6Wp0fmv54/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾随着大模型能力不断提升，AI Agent 正在逐步参与复杂的软件漏洞挖掘工作。但面对超大型代码仓库和陌生技术领域，如何让 Agent 理解领域知识、建立有效的威胁模型，并持续完成</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=1&amp;sn=d81e5d15a36449e5a558cd171bb96c1e&amp;chksm=b0d303147ab858fbde52676f9e0d28990d2fd676c013f833fcf97b0e7388ce4eebf66d8d0d06&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当 AI 在加速狂奔，什么反而应该“慢”下来？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/sm1UZBHjpbjACG9w5B3S7NWWiaxvXHKtXEP0B6teibU5U66QRiaia94HHaKBqb09DdhpjMOoibeTxh5EZkbg1ZP40crXWGx4p5MpTd8bYSl8OqOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>王鹏 腾讯研究院专家加速时代的悖论：当“你的 AI”开始对“我的 AI”说话2026 年，人工智能正在经历一次深刻的角色跨越：从过去几年的“对话交互”，全面走向“自主交付”。过去，AI 停留在屏幕侧边</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=2&amp;sn=52107da80f8900bcc85ecbf3d1a1faea&amp;chksm=b0051ee98863291cecceb30addccd84d7c2ca52af7b22721d8a9cf1574bb9adc985fecaa1494&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google紧急修复Chrome高危零日漏洞：CVE-2026-125350已遭在野利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0LKEicqP79eECiaQMVNbBG6HFFh0xxQyIiczpcwtvreAIdWU0DsYxVzMEcRCd7qpTMXic8fGBaM7ibm6TF8v5ibv1ExMm7icr7KEap5o/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google近日发布Chrome浏览器安全更新，修复了一项已遭攻击者在野利用的高危零日漏洞。该漏洞编号为 CVE-2026-125350，存在于Chrome的XML组件中，属于释放后使用（Use-Af</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=3&amp;sn=36e6b97c2778f1f3d18d79cc1335d49f&amp;chksm=b06c439e8a7a077e3963dc2ca8c2df1745279faf055549a2dcf9d1fb4fafd582206c50223f4f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[看雪课程双十一限时满减，火热加购中...]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Dz2v8b8rW8LhrFXE1JbvQdnHHL9wmK0oodwiaicibobZYxFJfYicg8z4PwULl9RxKQAktCXovgI4qpMef204ejMAVxa2RYmSnU1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=4&amp;sn=4bbc0fe71466da516a0d7b5f6cf6a852&amp;chksm=b0377f78cb5b0059c9d4436881f0d343ec40764396074cba4586afdc15ca27b59dc42a239e13&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[看雪双十一开启！课程最高立减2000元，限时4天]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1l827LKiacibVTZYOFEAXL9x3oUdh7PoEvJicGcicywqVXKicHYURLQEbND11jfnvWM83ae1l9DWtjJt7tiaTTPVI2KmFzicBrPz0Biao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=1&amp;sn=e09c17352cca70ac8dca6e9771251f83&amp;chksm=b049a4a3823ab3bb6f9a2f098b5e2dfe58019bdea11312f96a47951efe7f51cd2073139a3dac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2eCMYtg50K47AxHffetficFsIPuAvicgK42KAiacr7UDtolZknIO5nEMNBnqjWjBYDM77ScDD5AibZV6wFybCHQBqnE1m2ce8nRoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近看到 Normanxbt 提到的一起安全事件，恰好和我们这段时间研究的 Web3 Agent 安全有关。事件的具体细节我们并不了解，这里就不展开，也不推测攻击过程。我想借这个机会，聊聊最近做实验时</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=2&amp;sn=50f5349dea00d8a7abc1c12311018973&amp;chksm=b06e9a03014419162b4c237249cd31c3494dc797a3b82da8ab5da7c45305ed59a3ddb683013c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 13 Oct 2026 18:11:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前沿AI自主渗透工控环境，最快16分钟直达OT控制区域]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2mgvRicXSgkuazLeqp3xEduggSAAID9ROZt2BA1FlI1S3EsXjRISj4aqAdKniahS8fYDGVnbmNybvzlg0pK8hUwZcdlVxAia47cI/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日博思艾伦（Booz Allen）公开一组工控安全实验数据，在隔离仿真工厂测试环境中，前沿大模型独立完成全部8项预设攻击任务，从突破网络边界到在OT控制区执行操作，最短耗时仅16分钟，这个速度已经大</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=3&amp;sn=a89a9df74a08940e749bdbb02c32610e&amp;chksm=b07d7c82e06bf8fb1fa0180803798b26682714240345d59375afdf15f4122b264228e571cbac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:11:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[倒计时10天！SDC2026，上海见]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3dibp9QHDLWiaRc06dP1Ym38SvEO3bS0xKZmv0qY3fu0vWUEMFYCPBjFh9ZmicUrBm9Q5JOz3xXt4G4UTZRySchnQoWkrBxFf2mM/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=4&amp;sn=cd98062b116c451e2027d6434118d869&amp;chksm=b0583c2a7d1b6eac6bfad539bc5515886d681b53918b3d34bb4acda17386d33b5b4483ce6acd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:11:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从端侧风险检测到策略闭环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Lu587oN19LHoaBxumq8wib4vXrN0NOzsxheCsneuStN7EWCeD00fd0MoEe0dM7ycUvPVLE8z6iaxr8ib59jAYdtFiaX7icynEicKyM/640?wxtype=jpeg&amp;wxfrom=0"/><p>就在今年的一月我开源 iOS-SDK 检测项目，加上七月开发的风控 Agent，今天我可以说终于能够真正写完，看完后你就能理解，现在的风控到底是怎么做的，以及他们做风控的根据是什么。前言先从一个问题开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=1&amp;sn=fa1be7ca9c800fa15539aa0b78716a4c&amp;chksm=b0add83435a7543ac4862d0cf63dcc3323e8a799bd0f10fc3c9f807f9f52733b7d3bdedcf672&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CVSS满分10.0！WordPress Bricksforge插件无认证RCE漏洞，现已被野外利用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2H1RwQuSW9U4oHBcAEPH8F3ANyJgDCQGbFFo6bLwaUWl9PFIxKLfYNiaAN2ram95iaB8vc8QolLLJeOVsS36wl5micwiadKoFYpo0/640?wxtype=jpeg&amp;wxfrom=0"/><p>Patchstack安全监测平台证实，Bricksforge插件曝出严重安全漏洞CVE-2026-85097，该漏洞影响3.1.8.9及更早全部版本，官方已在3.1.8.10版本完成补丁修复（最新稳定</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622732&amp;idx=2&amp;sn=f62d5878db08538051e7a35d79b6b1dc&amp;chksm=b05fdbce5022b0769317b82b780dc79473e255dda9b7cc48f40c789b0f54740366d25f670145&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 12 Oct 2026 18:06:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

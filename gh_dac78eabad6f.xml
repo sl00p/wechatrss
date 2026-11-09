@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一文拆解DSH Super-agent双层架构：如何做到后台跑任务、前台继续接活]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr76tFdT0Y60Mlhj8u8ephsiaMqpFUm8VCqKbj2qlFff3Y3zX87Hppf7b3iaLxKbnecLVv599w2l8lGz5NGic5d6Oc8T8ayRovekoc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告10 月 31 日晚，DeepSeek Harness 团队在公众号发表长文《Super-agent</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698141&amp;idx=1&amp;sn=7934b5a33583a433f7e8a0c0099e8e9b&amp;chksm=eb36e93d91f0075a4d0fb7ef07d35dcfa3b9ae961f5b54c04ab68d64083838a62083e980ff0b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一个人用AI像开挂，团队协作就打架？问题不在工具，在组织]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr65icXuzsKkxcklOFb0Piap873z877WRKFhV1jNulcu9BQ8KMDvfefibOvfHkcA8Dg9nUe6gZh6UHnR0pZnoCufVrybtgwIGoZwsk/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 引言这场分享来自一个已经跑了两年的真实实验场：一支千人规模的研发团队，把不同的 AI 编程路线分</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697959&amp;idx=1&amp;sn=44329ca3f8b9c5b9f1af1c6d6de45dc1&amp;chksm=eb7c810db352a6680698cea6938785a880cd7af6fad9d759d531bd2b38b24b61961e5d5b1f75&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gvmRz21icMEbnicnZobicpLGKhAxz0AagNiaolYuOq70nY7VTwo71uogN69wYkwqwboTjokNNTNOBialeIGj97WIsTlUKhejIDxlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇过去一年，AI 编程工具集中爆发——有的专注补全提示，帮开发者把代码写得更快；有的用对话交互驱动开发，一句话就能改代码；有的深度融入编辑器，AI 能力触手可及。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696809&amp;idx=1&amp;sn=e7e00717c8a296b8e0d92558f032edf8&amp;chksm=ebf00edf53b699ab6f98d9fe3cac56c39ef6df6637cecbac05b602f6c807f89fbdd0030fb753&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Loop Engineering就凉了？一文看懂Graph Engineering的“新范式”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5ibciaO4cneJhFtjlutmicicdKk4NibtG0L0Sp3WpOEYO7tt3Z4bjFnwqANztPia4lsHjiakX8Hib2IvLedCUcyBVTHf1qAbibhuVubG2g/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇01起源：一条推文，三天 270 万浏览先把这个词的来龙去脉讲清楚，因为它能帮你判断哪些是营销、哪些是真问题。2026 年 7 月 17 日，OpenClaw</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696757&amp;idx=1&amp;sn=3e44206309c2d8da1499253fba663304&amp;chksm=eb47e9e63718fe6dc767bc369e852968b7b59514ffd0dfc6dcc62484c17cc0f951ed0ce7775d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

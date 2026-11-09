@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[关于 DeepSeek 的 SuperAgent，以及我们的实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT5nwsfOSBtwZoW8AYibauty7OwrDC3Ric9w3g9ZXAIZXs9Gibc2fvN7ZTdWRnYX5kGC9SiaZGU3C23yzEVYHiaVlFTH2Qibpq1rcCeck/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文摘自《Alibaba Cloud AI Agent Handbook》，项目地址：https://github.com/aliyun/ai-agent-handbook阿里云 AgentCore</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517354&amp;idx=1&amp;sn=5cbc905ba5585fbeb6227ee1ebd43d93&amp;chksm=f47958501cf8db09c7c14b4d42bc6b3be17e93d1856e96877a1a9ea735c8f0cbafe4538c03ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 19:40:18 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让复杂任务由团队完成：阿里云 AgentCore 多 Agent 协作架构及实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT6qQC5m6qNCW8WLJIOziafP1dkNnqvCdibuYX7A3uPYibtQOXico1mtJKf8jkw55yFksVxTE8V7zFeicXkLh0sq566KdpDicBQJyTWuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>上一篇分享了如何将自定义的 Harness 框架 Codex 基于 AgentCore 落地企业生产化的实践。本篇将分享企业多源 Agents 如何基于 TeamHarness 进行协作的实践。一张跨</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517281&amp;idx=1&amp;sn=a349b49f81e2ac5d525e22d60affc85f&amp;chksm=f4c010df7362ac6b358346f1e3cae7475db457e29898f4903e1b4998cce4c6d35cb71964c7c6&amp;scene=0&amp;xtrack=1#rd</link>

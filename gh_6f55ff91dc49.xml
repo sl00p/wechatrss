@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把你的 AirPods 当鼠标用，这 3 个黑科技 GitHub 开源项目有趣。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0vG8RKXy0aF71soa5dvMjZVDwXVtuPiaMUDAqg0NLj1bJL13teeFIuYkkA5SHxyAm0N7gPACZgMF1LrgRyPHJyRUBr0yk6XMXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把耳机盒握在手里当鼠标有人把耳机盒搞成了一个空中鼠标。手里握着 AirPods 充电盒，通过手腕和手指对盒子的操作，就能实现类似空中鼠标的效果。这个帖子在外网确实还挺火的。作者说后面会开源，但目前</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538431&amp;idx=1&amp;sn=74a9f0be88c711205e42507b6b8e2b92&amp;chksm=f8fc198cf3836b5ca7353538fc8935efc12371508263ef5cf2ca2e147ab702dc10dd8f2cb9a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 10 Nov 2026 13:20:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[7 个近期 GitHub 上贼火火的开源项目，又是质量很高的一波。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3N5m92Vj25licmpapPZ18licpBULzehbon88ysk0cW17r5Szia6huqAAbbDiaP9icicKh4dMsMzOCLbXrov3liaPia60r74e42RKQQGQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01公开的 API 大合集Public APIs 是一个社区维护的公开 API 目录，按天气、图书、地理信息、开发工具等类别整理。做一个小应用，需要天气数据、图书资料，或者想补充一项查询能力，可以在这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538420&amp;idx=1&amp;sn=9769127e763c53057c449032da509279&amp;chksm=f83ad0fac2ccc95410b90f6d1062960ea30889ab487a880991351545098c85e43ba22feb2c5a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1mqPy61IGVsvkuK99Gj2ASEnfp6GqawF1sFgWLwAFgVK9oZ6a3nbmDQtndUXo7hIoO8pziaWtibKUx6wbFxCwDAQowe6Ysue4vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>太抽象了。最近 X 上有两个帖子很火。Codex 和 DeepSeek Harness 里突然多出一张德州扑克牌桌，玩家带着账户里的 Token 上桌，下注、加注，甚至直接 All-in。不少人看完截</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536057&amp;idx=1&amp;sn=d22b91470bec469c2124904d80b7cb32&amp;chksm=f8eae976423696f09f6b4737c4e1b832d684fb04f8744a80ae0da0069ef4d30d6d93b129b08d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 20 Aug 2026 09:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 时代 Markdown 又火了，7 款 GitHub 高赞开源编辑器。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1HSDmxRDyLtd8x1WVIya4K81fLPNZTt4LOAiaOiaNaqpdYckthNQ6OpXicvOFaQzPSxgFiaRPV6N9pU7zjtC4OOv8LcBoiaZhyQCro/640?wxtype=jpeg&amp;wxfrom=0"/><p>用 AI 越多，和 Markdown 打交道的次数也越多。很多 Agent 也会通过 AGENTS.md、CLAUDE.md 这类文件读取项目规则。原因很实际。 Markdown 是纯文本，体积小，方</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536039&amp;idx=1&amp;sn=b83b2fd3d42adb14e89649ee7ac0c16a&amp;chksm=f8da575cae768f289ae7699c22c4d69f134a95f29134fb66cd3c21c705562ead0bd4dc185e05&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 14:11:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
