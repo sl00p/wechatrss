@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[又 3 个刚开源但要火的 GitHub 项目，在 iPhone 上跑 macOS。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3vMficnMNQSUeeeJkNP7E2Wzt1NeuXqibqJ1Y07FibiaQANrjwNwA4hKehBLA6JqibollY3UEB7ePngjBKcaq2CfWicF9vGPUKjytQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 iPhone 本地安装 macOS这个叫 Henge 的开源项目能把 macOS 安装到 iPhone 里。它会下载苹果的系统恢复镜像，在本地完成安装，再通过手机里的模拟器运行桌面和应用。安装</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538432&amp;idx=1&amp;sn=631a5c0b7a3a95abf4d4efc11f80d944&amp;chksm=f852208fa9b6564a7aa5fd13774448c82d37f4659d5346449efd054aa618133236d2df422389&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 15:44:54 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把你的 AirPods 当鼠标用，这 3 个黑科技 GitHub 开源项目有趣。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0vG8RKXy0aF71soa5dvMjZVDwXVtuPiaMUDAqg0NLj1bJL13teeFIuYkkA5SHxyAm0N7gPACZgMF1LrgRyPHJyRUBr0yk6XMXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把耳机盒握在手里当鼠标有人把耳机盒搞成了一个空中鼠标。手里握着 AirPods 充电盒，通过手腕和手指对盒子的操作，就能实现类似空中鼠标的效果。这个帖子在外网确实还挺火的。作者说后面会开源，但目前</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538431&amp;idx=1&amp;sn=74a9f0be88c711205e42507b6b8e2b92&amp;chksm=f8fc198cf3836b5ca7353538fc8935efc12371508263ef5cf2ca2e147ab702dc10dd8f2cb9a4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0cicVDLzl1bDAtypIwe0jjQODg5cqvc7JsRkmJLBddXk9JHkhvEDtOXvwYwYHn1UPTMd80uiaBcBqsibtAlMdqA1MHs163qyBH94/640?wxtype=jpeg&amp;wxfrom=0"/><p>01两个 DSH 客户端不少人对 DSH 感兴趣，却不熟悉 Node.js、命令行和本地服务这些。其实 GitHub 上已经有挺多的 DSH 客户端了。能把 DSH 的 Web 界面、本地服务和插件系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536097&amp;idx=1&amp;sn=091f144430361965e333b86109bf3a05&amp;chksm=f867a33a47b73a08176ffe436a1f368488308b3ec6c13c8bef3b3691884d3b8eccf75487245c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 13:16:14 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[太抽象了，别急着更新 Codex，德州扑克功能并没上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1mqPy61IGVsvkuK99Gj2ASEnfp6GqawF1sFgWLwAFgVK9oZ6a3nbmDQtndUXo7hIoO8pziaWtibKUx6wbFxCwDAQowe6Ysue4vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>太抽象了。最近 X 上有两个帖子很火。Codex 和 DeepSeek Harness 里突然多出一张德州扑克牌桌，玩家带着账户里的 Token 上桌，下注、加注，甚至直接 All-in。不少人看完截</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536057&amp;idx=1&amp;sn=d22b91470bec469c2124904d80b7cb32&amp;chksm=f8eae976423696f09f6b4737c4e1b832d684fb04f8744a80ae0da0069ef4d30d6d93b129b08d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 09:18:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

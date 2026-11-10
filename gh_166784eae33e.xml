@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从构建逃逸到 AI 密钥窃取：Railway“10·21”攻击全链路复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9IwoVHrTHFpvbAMWUHK6A35SyLQUsrDKM08unQVCRzGE5VrG9h1OdKLyenJlmnabdpzQNWaOlhkcribSo51l9pVzaMjzDFFVDI/640?wxtype=jpeg&amp;wxfrom=0"/><p>事件复盘 · 云安全 · CI/CD从构建逃逸到 AI 密钥窃取：Railway“10·21”攻击全链路复盘一次构建文件系统隔离的局部逃逸，最终被攻击者发展成跨构建系统、CI/CD、云环境、内部编排节</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521326&amp;idx=1&amp;sn=d7f96e14e7dd16cb73491a6e7680d4a5&amp;chksm=eb44411dff83a4d4aa6a1dc778e1112e1897ea2b81526f38caf41c14d7ce01e533b8490d76a4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:02:06 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[出厂即失陷：XCPE 如何把 130 万台 Android 设备变成“可出租”的后门]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicJYqFoMWbZySN2nJUEzDlxiaZt2KcicmYvEicOAEWicC4ibB7kfR2dXR0BwpXKiaG5PHWFx5o1uuScxMWDgJcK523ZOuZwMC8iahgrWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 恶意软件分析出厂即失陷：XCPE 如何把 130 万台Android 设备变成“可出租”的后门一台 Android 机顶盒，即使用户从未安装过来路不明的应用，也可能在第一次开机后就接</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521313&amp;idx=1&amp;sn=1bd52ac3229fa18e781a8aac3c4553ab&amp;chksm=eba8ef8df9614aaf1afbb6fb5433e4f09a87401a2543818277a2955285305af38671b33aeb92&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibHIQYgtRtSibIShn2FiaaaSQHo1Lk1FJDjb3Os0MibiaHibktL52MsFK0Qay3sTibn3l8Lfc1DTSYpJI2D4RCRbd9hv5kh8czvKahY4/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 行业安全态势当黑客开始"预订"酒店：钓鱼邮件、被劫持的 Wi-Fi 网关与三线围剿钓鱼邮件、被劫持的 Wi-Fi 网关与三线围剿——酒店行业正成为网络攻击的高频目标。· 酒店安全 · 钓</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519829&amp;idx=1&amp;sn=e0b4afe971183576744947a54e117ae0&amp;chksm=ebdaf6e5a68e0adbc8a776e59114aad77137d0f7f60581315743d38bfe872e49e62b94e49f7c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Aug 2026 16:34:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一条从未见过的攻击路径：黑客如何借道运营商"私有网络"打进热电厂]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8vSrsX6UTWryAiaEdvblgykfe71rRqibjQNuF6YaFibKvMJunfoAWmo4vkDJA6ia8s5NiaYWUTsjibAAB8VAoBjpWQVM6MVsArmCndI/640?wxtype=jpeg&amp;wxfrom=0"/><p>OT安全 · 威胁分析一条从未见过的攻击路径黑客如何借道运营商"私有网络"打进热电厂2025年12月29日波兰能源攻击后续调查揭示：攻击者通过配电运营商私有APN完成横向移动，直接闯入热电厂OT网络—</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519791&amp;idx=1&amp;sn=713d02b5129e895f6701fc56b6be4620&amp;chksm=eb9907fe4c043894a836a79d0c373789887c40db1da226b621bb8a7c8e9a8492e37efe5e9259&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 11 Aug 2026 15:31:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

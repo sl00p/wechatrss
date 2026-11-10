@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[某咖啡附近门店接口逆向实战：从 Chaos VM 字节码到纯 Node.js 零登录复现]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ufWP5BYMFibDSQI7Yly1UXE22OajPGMeGXAoKiatbvXibyKAgPl3Semro9VgYnzsXSjXyA57rupEBuaxcfYjov1VEFLv4bDs3TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：不启动微信、不打开小程序，用一段纯 Node.js 代码直接拉取某咖啡"附近门店"列表。手段：xiaojianbang 小程序 trace 抓包 + 反汇编腾讯 Chaos VM 字节码 + 还</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624097&amp;idx=1&amp;sn=f89189c314a5a34170434256981c6a6b&amp;chksm=b05fb5849c30ee8c3613c3e3dea846510f237f26948427d813de357be2d1719e3954d282160b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:58:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新型 GhostFrame 恶意软件现身：可控制 VMware ESXi 虚拟机，无需进入系统即可窃取 Windows 凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0VMHTfdj9iaOP5DZ4IVicZvMNPibGQP3dDF1CiaPiaicJVTJE5kFjoNY9mx5IecfWm47MRsMlxu8s6VuWXDkvrLM8FNv8NpfX3FdB5c/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，Recorded Future 旗下 Insikt Group 研究团队披露了一种名为 GhostFrame 的新型恶意软件框架。该框架针对 VMware ESXi 虚拟化环境设计，攻击者在获得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624097&amp;idx=2&amp;sn=d5e566be4554abe25c7ae078f6218379&amp;chksm=b0a9b128ae11b0661640d630e868475ff083a63efe7a788b63823f473ffed05b2e5f23d3c606&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:58:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[（参与双11满减）今日更新！AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624097&amp;idx=3&amp;sn=7125f2b3e674078efe8adf97eca980c4&amp;chksm=b0aff7e85be0e05a79b556da2a242a4177dfcbe8862717059cfee3658df611f0aae4c332b02c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:58:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题回顾 | ZeroMDASH：领域自适应的Agent-Native 通用漏洞挖掘工程]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0tovFvpKDRqKpYYmhjMZYuwKPM98QbwiaD5hcW5EZW35Zic4e9SNa9qpG4MlXL3GP7SXUk3mKIVakicT4FbrnicwD19ib6Wp0fmv54/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾随着大模型能力不断提升，AI Agent 正在逐步参与复杂的软件漏洞挖掘工作。但面对超大型代码仓库和陌生技术领域，如何让 Agent 理解领域知识、建立有效的威胁模型，并持续完成</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=1&amp;sn=d81e5d15a36449e5a558cd171bb96c1e&amp;chksm=b0d303147ab858fbde52676f9e0d28990d2fd676c013f833fcf97b0e7388ce4eebf66d8d0d06&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1zuESQwXfvJzBGCTSyTGD0sP015Ax9987N9nZBT4x9khKFyJkREzzzgcjoRrqnysl2J9AMntwNs77Q4OjXr5OjcLavSksVhuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯朱雀实验室借助AI多智能体系统Corvus AI，发现一处潜伏Linux内核近9年的高危漏洞，漏洞位于内核`vhost`子系统，可实现本地权限提升至Root，特定虚拟化场景下，恶意虚拟机还能突破隔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=3&amp;sn=aad7790b91cde1769122515577e9a612&amp;chksm=b0df8f9c5b48fe33115668d737d2e93dd9dd53d7d54ba49db5bded20dea919a6234437bfc355&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026，倒计时9天！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0mRbRrVwF1we5iak0icibdTjMibkjxnYKDiaO0jK6OEbNIZRyNU1LUKnOh2FuS7QBjUyDN95NpJ9C45MoAMicaYSLyoh6Jicapv6p0Rc/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=4&amp;sn=927dab2edc455d0c68e6b4b3c6f0d51e&amp;chksm=b0d308510914d7aff7f9230905a02bd8e7a6d62fcc6d1a73ca719350138868052d7f57d60a40&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[出行指南 | SDC2026参会攻略，请查收]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K02vicyh80n4X3tHeLQtG1cfXANDWDRmlwdhAhxTynibFb4XbcQNVqn6BupJ6CdukkwnxuMSGfJMxNLDWCD6U7zgIfnZWaXIloeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>住・食・行・游✦看雪·第十届安全开发者峰会✦📍 会议地点：上海环球港凯悦酒店｜普陀区宁夏路 718 号*直通上海环球港，地铁 3/4/13 号线金沙江路站直达🕒 会议时间：2026年10月23日09:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=1&amp;sn=66966d51833f086ddb597c08b4a249a0&amp;chksm=b02094dd86528b59a52ea361c8492bf85a7934636fcde4b3bc8305d2c7ee3454a189a4c59645&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:11:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 Web3 Agent 被骗，谁来守住签名权？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2eCMYtg50K47AxHffetficFsIPuAvicgK42KAiacr7UDtolZknIO5nEMNBnqjWjBYDM77ScDD5AibZV6wFybCHQBqnE1m2ce8nRoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近看到 Normanxbt 提到的一起安全事件，恰好和我们这段时间研究的 Web3 Agent 安全有关。事件的具体细节我们并不了解，这里就不展开，也不推测攻击过程。我想借这个机会，聊聊最近做实验时</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622784&amp;idx=2&amp;sn=50f5349dea00d8a7abc1c12311018973&amp;chksm=b06e9a03014419162b4c237249cd31c3494dc797a3b82da8ab5da7c45305ed59a3ddb683013c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 13 Oct 2026 18:11:36 +0800</pubDate>
     </item>
   </channel>
 </rss>

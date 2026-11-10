@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开发者实测｜把视频处理交给 Agent：AI MediaKit Skill 深度评测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeVXfhGYsmwInd8CrxINKxJZCgLicv0oHRRuASNh9Txa4x3hHD2OfnJzHpB7OpCeIh8C3uqBJHIhibhVUP2dn4CFvwcIPDjkd4Os/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI MediaKit Skill 发布以来，我们陆续收到了许多开发者用户的投稿，他们结合真实使用场景，分享了自己从接入到成片的体验和测试记录。我们从中精选了几篇，陆续与大家分享。⚠️文中测试结论以及</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524166&amp;idx=1&amp;sn=a906ea8e660c7264fd65de893e7c82c2&amp;chksm=e8b857f52ca67421eaf982b4c0b150c32a57528b6d8e89f049f2aca26c76130f18a90e092941&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[迎战双十一，如何让智能客服 Agent 经得起真实业务考验？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefxOMrpFTMN4qKZxZGppfylian6uCYJKk5IuJW0YA6QljdMuGepu7wsP5aCgR3g3196rTKCEQmV71rIUhicxS29TuUEqFqaqjTNU/640?wxtype=jpeg&amp;wxfrom=0"/><p>导语面对双十一，智能客服 Agent 既要答得准确，也要服务可靠。如何打通业务数据、规范工具调用，让 Agent 经得起真实业务考验？影腾智联的售后智能客服实践提供了一个参考。影腾智联聚焦智能家居与物</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247523857&amp;idx=1&amp;sn=c63f2fea56a8eb3da19081b5e9564c00&amp;chksm=e81506fdc820cd378f6e3d98c473cf6aba2502d64bd12c8682c981523956e18756c9509b5484&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeclkpkjicdLpn9zP5DUnzGQZbEwniaX7Ww46dvE2svNticgia8TDnia0iax9eWab399icdRXoEHWdjs75XicXxvIx1pOQXFbLKPrmb69Vo/640?wxtype=jpeg&amp;wxfrom=0"/><p>你的销售团队是不是也这样？销售小王下午 3 点打开飞书，准备跟进 A 公司。他需要先翻两周前的群聊找客户口头提过的预算范围，再翻上周的会议纪要确认对接人换了谁，再去云文档里看产品经理写的需求分析，最后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=2&amp;sn=d28d61e9a893bc39fdbe6797404755cb&amp;chksm=e8fd5832899ca1c3159f1b2d39705e546f0c8be1f8ec66ac3c8dd8aacb646c87b34daee5a217&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeezkRqIOoQlkDibuQKtA0LmTmxuGaZ55JrSvDz0P3CGxMwib21KpEOuqysMciaEC2icDF2MnYPZqz3NEQ6TOCcib6snUZMI6LqykplM/640?wxtype=jpeg&amp;wxfrom=0"/><p>“我的 APP 已经通过 AI 开发好了，怎么才能快速上生产？”——这是许多 Vibe Coding 用户感受到最真实的体验断点。当 AI 把“代码生产”的时间压缩到秒级，而“结果落地”却卡在传统数据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520827&amp;idx=1&amp;sn=543e0e51b78349e2c5f87c4867713da5&amp;chksm=e896cef70b0623e102d33b1ec2de68658feb7cd094ba650d89c0d16059a714d9be98dd0cf952&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 14 Jul 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen4-Max 预览版首发上线千问AI平台Token Plan]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wqDM13P2QnaCviaDyrtp8EyH0ibmYASBXztYN7WBRZRygNOsx5hFJrCK1PUzmsBd3BEJg4TIZtCnrr8YhsurcXQg9ibJMk4Gxub4/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里全新一代大模型Qwen4-Max预览版发布，首发千问AI平台Token Plan。Qwen4模型拥有更强的世界知识和感知能力，并且在编程和Agentic这两项最关键的能力上再度升级，能更好地</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562678&amp;idx=1&amp;sn=4bca2da2340d7065386940ee76a34d51&amp;chksm=e8565c191cf1a0b1a86670cc8f3f86e118471a89906489fab71cadb827c370c492481a22528a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 10:42:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[今天起，千问AI平台Token Plan额度上调70%以上]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zWHHAICZzmbLIScUy2j1JeInR1AAyvP15iaEsT338AU8mPlFdBKYrh6B2TqeEuwy7v67F3qLCib5V4IeKeDlLVZvAGIOkqQqAg8/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，千问AI平台上调Token Plan个人版订阅额度，Lite、Essential、Standard三档套餐月费不变，月度额度提升约74%至78%。具体来看，Lite套餐额度由1.15万Credi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562673&amp;idx=1&amp;sn=bd1d6662b36d44f8b949eac94a6f3d2a&amp;chksm=e84b4ff30016e3dd1bc6ce8ce43b2891a1c4804bdf50d883cfcad159e34cad6e7cebc45db845&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zENWWKPF1Fic78MKkCPhs98qIQnXT0DdswRAticVJdaMwAMzm1kNyWfUrs2aoJbvlGSx0n6uzZVkicicLfT22GN5HSGiccxpGj128M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读如何把业务需求从进入、澄清、方案、实现、CR 协同、验收、发布到结项沉淀，组织成一套能减少人工干预、能自我验收、能吸收反馈并持续成长的 Agent 研发闭环。（文章内容基于作者个人技术实践与</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561033&amp;idx=1&amp;sn=a9f9a3ac3dce5aee757e0033f55dfd3f&amp;chksm=e8dc95d1269be1e3997c1c266005a2dcbe35537f16d8460e492fc448137877053f3f7ea5a4ea&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 15 Jun 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude code云端部署 &amp; 魔改sdk实现http流式调用保姆级教程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1wPQibCfKZyyicvt3fey2MZ2PXSmXDa5gFmR8yI06P49MfA7QqaKFia0OAzmBhVuPrs1ziaP8oktXwia9HicoewBso5xRArcReOLgqPI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、背景在 OpenClaw、Claude Code 等产品出现之前，开发同学实现一个 Agent 的基本思路是：基于</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247560355&amp;idx=1&amp;sn=c7c83c7bf352322ee7221ca404468fb6&amp;chksm=e8cb870413635a7f3537c858d0a7cda7ffbd2ad59dae8eee3b79a303079ba60fa35e7839045c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 28 May 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

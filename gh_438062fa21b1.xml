@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen4-Max 预览版上线，Qwen Code 1.0 Preview 发布]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5O9vzoBjLRZ5QQ1icmLmPQLfXrsAKXz83cib8kXsMLNAibnKl1D3NGc5FpcJFMdoorYBGInFV5GkYZad08eiczFibLTmooOMrbZ7iaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Qwen4-Max 预览版首发上线阿里 Token Plan，Qwen Code 1.0 Preview 同步开源。Qwen4-Max 预览版首发上线全新一代千问大模型 Qwen4 即将发布：知</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512488&amp;idx=1&amp;sn=8a921e6683912e7b07038d4b16e25f58&amp;chksm=cec4f9e15f443184dd279713a61e42beabf588e5a4b1bc073afdbaa6ff2f65f69a258e83c555&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 11:44:20 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从淘小蜜分流模型的实践，聊聊 Jev 与 System One]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4CCe1xy73EbNSRPIK17PLt1OGlzDiaX0p02iabDNlqMIibHOdcpYLZ8lRLlDJH9bRke9lfIcJdwicLhIJZ7wPica011c7P9zDuibmIk/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 79 篇文章（ 本文阅读时间：约 30 分钟 ）前言最近 Jev 很火，技术社区里也出现了不少复现项目。看完相关文档和项目后，我发现团队去年做的淘小蜜客服 Agent 分流模型和</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512476&amp;idx=1&amp;sn=071544b548af1892af197b38f330d562&amp;chksm=ce9a7f4232e552259fdec1cb9320ad8e972dd4eb2df573bbcb1fe3e175e3192ab673ad064842&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz75jbiaZDNnqdMRIchBnhSlTu60icbh3JVxxfLu0x0PCeQWTC5TcLvOzib3IMjUtciaRib2cxYibcGlgicDuChFlJDwplyib4fe2CLWufw/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月20日至24日，横跨阿里巴巴淘天集团与ATH事业群的年度最大技术节日——硬核少年技术节5.0将在杭州和北京两地同步启幕。为期一周的技术节涵盖技术市集、博见社、Openday、AI Hackatho</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509988&amp;idx=2&amp;sn=d9bf2c3466714c8c59fd844419f90d88&amp;chksm=ced52ce241d739deb7648791e7a0abd4b988fd6a4c497576686aad848232d9ac091666352f6d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 08 Jul 2026 19:36:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz58iaKIOWSzkkgImpRbvpFD4s9f6qc10QlHqHT4Fz7Et25uibL3uluEfGK1n2kdem72TSAnzDu89VS8Jp4Gn4V0UNPYuG9ibTEZfs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 31 篇文章（ 本文阅读时间：约15分钟 ）01当 AI 开始写代码，「敢不敢发」成了新问题先看一组数据：a1 CLI（一款统一研发命令行工具）—— 数十万行 Go 代码，数百个命</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509947&amp;idx=1&amp;sn=7d2cc8a374fb1454aeab9ca90ef28f5d&amp;chksm=cef20f0293dce938e0a4283f199d5df6a214107cd20c7bfcc394b7a5d6ab040397dff7f9188a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 07 Jul 2026 18:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

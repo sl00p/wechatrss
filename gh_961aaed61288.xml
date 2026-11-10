@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Agent自评到量化数据验证：华为云码道Skill自进化技术探索与实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjExNkEB8NZO2VrFmyvuhCCw0KxZnSelOA5E1xIesTZKRLEL6ToZfIfmOwtbic1raeuZicIfx6yVDMNRZRCAd3pRqLYcKFK7R3USXs/640?wxtype=jpeg&amp;wxfrom=0"/><p>面对反复出现的开发任务，开发者可以将要求写成 Skill，但传统编写方式常缺少量化评测数据：哪些要求真正被满足、下一版该改哪里，都不够清楚。码道构建了“意图识别 → 评测集生成 → Skill 编写</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838385&amp;idx=1&amp;sn=7641410905393657c0cd8c3fbb53b3d8&amp;chksm=c38ef07bcd3a26f60b42dc1b10be844b538c2aa959b71c3141b9739ea202546493a8c5683366&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[点一下「以后不再询问」，密码、API Key全被上传！Claude Code配置文件泄露数千条敏感信息，Anthropic回应]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEwhN6VVKHhkE42HFNJT6nqVFMQ6JKUvgeoy5oYpRtO2Q1fiarbN2ibj1OAblyXyYrWNanvXTqC3kUVo2zQc7YmruA89bxmicPKb7A/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）只是为了让 AI 少问自己几次，没想到却把家底都交出去了。近日，安全公司 Apiiro 的研究人员发现，公开的 GitHub 仓库中出现了大量</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838385&amp;idx=2&amp;sn=19480167345c77228c36b0d44f5950c6&amp;chksm=c36a92a5dc741ab5a75dd4d9114bb9a5adc7199e5d2779a0a681a99b9b814c49977b3994d7c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 17:30:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[“AI正在毁掉我的计算机学位！”一名大学生吐槽：作业量暴涨3倍，老师用AI出题，学生却成了“小白鼠”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzoD3Uia6Y9DC8jVHV2oBRibvQBfVm760icWC4LG79B8Ot5Kuncvm5qe3ibwS1sq5mXy0TEMbCicxUCibA6kXw28iczUU5HdHdWn1ZZN4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）好不容易拿到奖学金，终于能学自己从小就喜欢的计算机科学，结果刚上大学没多久，就被 AI 折腾得想“退学”了——最近，一名计算机专业的大学生</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838322&amp;idx=1&amp;sn=d7efcac022de24225b084877e0122845&amp;chksm=c37e7b9af0ed8aec86a8f17857bfdf6c597ebf5183aa1bd19ba9f3a35ef5188c9dff1871a4ac&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEzgg6Wwp5VF4tTDxcFyMA9X1AqUX3WNvDyLic0BDbdaMjYJosyuT61conX5BibdyJBiaprnWxGWg8mj5mGar7QXYG2fLumntoKG0g/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译 | 苏宓出品 | CSDN（ID：CSDNnews）用过 Windows XP 的人，大概都会记得它在软件兼容性上的表现：一些已经存在多年的老程序，装到 XP 上依然能够正常运行。XP 也因此给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836604&amp;idx=1&amp;sn=f7ea9132f1faebf68cb9f36fb683ea91&amp;chksm=c3c850a3f8fe39713dadbdc9a9b801131f3ed8641ad28fb4ea9d8e8d7a21dbf0976e581375de&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 02 Oct 2026 14:51:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三位大佬同台对话：马斯克要上天发电，黄仁勋要硬件熔断，A社创始人宣告代码不再值钱！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEyfZzK7Sf3lV6ZqQb4T5kKdySlZklsvXnqzZC4qQWCPOkzyQU56ubtDIU2IuyxyJLXy3bTAKNqVpxYLA2WFdl3Dr1AK084pwWM/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 王启隆出品丨奇点折射（ID：rgznai100）2026 年 9 月 30 日，在华盛顿举行的一场科技圆桌论坛上，英伟达 CEO 黄仁勋、特斯拉与 xAI 创始人埃隆·马斯克，以及 Anth</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836591&amp;idx=1&amp;sn=bfadd78bda5136beb3e9a4e0b3249d72&amp;chksm=c3f5e7525ba12015f98058a24495f61332c9bd647c3e2413e6e83198fe5c20b2c0fb62bb6140&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 01 Oct 2026 13:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“让AI卖个70元的键盘，结果它把陌生人招上门了！”曝Meta Muse「替人办事」翻车：擅自降价、发地址，还对买家说“我在家”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEzWM7DkuFsI8sSibYSkTicBkrOh08ibK20Nmt7v0mdTDAnM07qbLO0tiaiaAYXxjD0w0icfx7HGwEicQwdSeOeKVH4193qHdstmicz4HibQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）要说 AI Agent 最让人兴奋的地方，很大程度在于它终于不满足于“告诉你怎么做”，而是开始真的替你做事。可当这件事发生在真实世界里，一次</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836567&amp;idx=1&amp;sn=e65c41a48e0b597d3d21d0ba243aa31d&amp;chksm=c369c532826043d4cec365b27bdc734472351fd5a6e818f439682f3aa60976a22da33fdf65ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 30 Sep 2026 13:44:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

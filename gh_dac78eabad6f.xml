@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI 10分钟写完代码，你2小时还在验？用验收Agent补上最后一公里]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6ic46zg8KL70HAbJFVgj31zreP6jk5GwNUhn41NEcKxvRia5ZJ8Qoo3ib9Pl3qqiaXKowA4qqTef82NVrteskq5W79zyEYuROKlXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当 AI 大幅提升代码生成效率后，一个新的问题也慢慢浮现：代码写得更快了，却更难判断它是否真的能用。光</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698171&amp;idx=1&amp;sn=5e6fe83a729084fdff18bbc4d4ea97aa&amp;chksm=ebe5c2ce340f70c7edcd45c18369a6d4b9eed75bf650557ab927e6f3f54515f88f0c72052605&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 11 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[一文拆解DSH Super-agent双层架构：如何做到后台跑任务、前台继续接活]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr76tFdT0Y60Mlhj8u8ephsiaMqpFUm8VCqKbj2qlFff3Y3zX87Hppf7b3iaLxKbnecLVv599w2l8lGz5NGic5d6Oc8T8ayRovekoc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告10 月 31 日晚，DeepSeek Harness 团队在公众号发表长文《Super-agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698141&amp;idx=1&amp;sn=7934b5a33583a433f7e8a0c0099e8e9b&amp;chksm=eb36e93d91f0075a4d0fb7ef07d35dcfa3b9ae961f5b54c04ab68d64083838a62083e980ff0b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6GB04rWzKQ8faelhvelMHuUwNHGnQRA9G5Gvaic3DwETnItYCOEjaNVLLx4lLZQicOrLN1msdhVBbfXJNjBzyhJQcVsx8icFy2TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇删掉团队 harness 框架 61% 内容之后的一些思考：什么会被模型内化，什么永远不会，以及在开源框架遍地的今天，团队自己做 harness 的价值在哪。最</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696815&amp;idx=1&amp;sn=273c44cd529f4ae4cac7328bb19e54b8&amp;chksm=eb2e463aa4af50faca90a0e5da667e86de40e38b40cfffd7537ddbdc76d3db184ece11376d4b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Claude Code神级技巧：让AI编程更省心]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7gvmRz21icMEbnicnZobicpLGKhAxz0AagNiaolYuOq70nY7VTwo71uogN69wYkwqwboTjokNNTNOBialeIGj97WIsTlUKhejIDxlc/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇过去一年，AI 编程工具集中爆发——有的专注补全提示，帮开发者把代码写得更快；有的用对话交互驱动开发，一句话就能改代码；有的深度融入编辑器，AI 能力触手可及。</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696809&amp;idx=1&amp;sn=e7e00717c8a296b8e0d92558f032edf8&amp;chksm=ebf00edf53b699ab6f98d9fe3cac56c39ef6df6637cecbac05b602f6c807f89fbdd0030fb753&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
