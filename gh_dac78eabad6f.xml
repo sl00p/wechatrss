@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[维护3.3万字符的长Prompt？让优化Agent迭代执行Agent]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr73fNYYq2tc6QTPOMG232d64TSHMlrKNQibt4VJR3Ko83O8ZyousvGhrEoaZcy9wY7HdkJvqrXoCZwrJsateQNM0NiakPIxh3EVg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告手工调 Prompt 是个重复、费人、又难以持续的活。这篇文章记录我们如何借助 Google Rese</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698197&amp;idx=1&amp;sn=9106492007434b730027437c061fb762&amp;chksm=ebb69d448664b05e1d3657d04c5db85af659e332295e97d32e09be83f40126ca7bb5b96906cb&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 09:07:22 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI 10分钟写完代码，你2小时还在验？用验收Agent补上最后一公里]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6ic46zg8KL70HAbJFVgj31zreP6jk5GwNUhn41NEcKxvRia5ZJ8Qoo3ib9Pl3qqiaXKowA4qqTef82NVrteskq5W79zyEYuROKlXw/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当 AI 大幅提升代码生成效率后，一个新的问题也慢慢浮现：代码写得更快了，却更难判断它是否真的能用。光</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698171&amp;idx=1&amp;sn=5e6fe83a729084fdff18bbc4d4ea97aa&amp;chksm=ebe5c2ce340f70c7edcd45c18369a6d4b9eed75bf650557ab927e6f3f54515f88f0c72052605&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6OMyJd9wtDRTotKTPdboNzicWYq4oLO3yVszyVPHnEzhAbEXJ9JwLdVcRJSiamqUzJw8hDY15jP7b57eCaPLQAu6vgVnShe9RJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Memory支持团队记忆了！腾讯云Agent Memory 2.0.0大版本已上线，全新升级Team Memory，将长期记忆能力从个人扩展到团队协作场景。以后，团队与Agent协作过程中产生的代码知</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696836&amp;idx=2&amp;sn=32911b1613b2bb2cd3b2c93af4ccdfa0&amp;chksm=eb829d67c978a8510d53e492f280a00a241afba155ddffe493d4e96a662c4ab5e0b296509410&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型越来越强， harness该留下什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr6GB04rWzKQ8faelhvelMHuUwNHGnQRA9G5Gvaic3DwETnItYCOEjaNVLLx4lLZQicOrLN1msdhVBbfXJNjBzyhJQcVsx8icFy2TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇删掉团队 harness 框架 61% 内容之后的一些思考：什么会被模型内化，什么永远不会，以及在开源框架遍地的今天，团队自己做 harness 的价值在哪。最</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696815&amp;idx=1&amp;sn=273c44cd529f4ae4cac7328bb19e54b8&amp;chksm=eb2e463aa4af50faca90a0e5da667e86de40e38b40cfffd7537ddbdc76d3db184ece11376d4b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

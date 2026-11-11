@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[大量开源AI黑客系统运行于公网，部分控制台未设认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0pmxWic64mc6AREBR8DL2PjGUz5WI6KZt3GjsXryuNjkgVib7PSYrV1o3Y3g7coziczYU1sg4uicFhkyBtZaF0aibzvJTCxyZ66xLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前多款AI驱动的黑客与渗透测试框架正运行在可公开访问的互联网服务器上，部分框架的管理控制台未设置身份认证，完全对外开放。2026年11月7日的Shodan快照数据显示，公网共有1428个服务属于AR</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=1&amp;sn=0c647b5cbdb19ae3c32860e3fb87b689&amp;chksm=bc0dfcdf0edfcd9f0d533885c6fc8590686c21b1ed17d40a8817e732e02e5ee48ffa8d88ac73&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软研究证实修改不足10个神经元，无需重训就可以给AI Agent植入后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WWib2E7aNLENg8E3ZyCbaaORSiaiaYVT8sFF159Y3DAtHFFOupIjLrficE2PaQTHQj8bTGibiamAgotgVfrWeTkQjBLGK9WSdJSTEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软研究人员证实，攻击者只需修改AI模型中不到10个极少激活的神经元，无需重新训练模型，就能植入隐蔽后门。一旦预设触发词出现，模型就会输出攻击者指定的命令，调用该模型的Agent会以自身权限执行这条命</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=2&amp;sn=4faf92fc39380fdface1b42e964e5435&amp;chksm=bc854295f5632ba72bcfb7198a13ed7cca201b2dfcdf37418a72977f086b84a818459ddeebf2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[超3.5万个Grok生成应用在线暴露，部分泄露机密数据与密码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1AF3wzgDyEW8iakeejqLa9fIn3A6ZvoH5uwSpbhFIUQZib6kdWf01yeAc5mxZnPCtwicB2E9IU4gSJ0Z1BLP9k9t5ic6vcRwfJzww/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01超3.5万个Grok应用公开暴露安全公司Claroc的研究人员昨日表示，他们在全网共发现37571个由Grok生成的应用，其中35578个无需登录即可向所有人开放访问。这些公开应用中，有2</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=3&amp;sn=aef367211e7fd0edefc4cd31db93b86f&amp;chksm=bc264069d50abe5cc779f61b3d0437c9487da85e84f8e0a0f425481523e10239093133caf862&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者利用AhsayCBS漏洞，在PNG图片中隐藏恶意代码并部署隐蔽后门]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1BPSjiaOhn6ia5cTh85hrHRia1IbQdZKmv8TPxuxWlicvyxXUN6FlV68PPqGpkMXIDLialaXNwpz3PRxHK0pMmvFrNRYL2qsBeap04/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者针对AhsayCBS备份服务器发起漏洞利用攻击，植入多类webshell，将加密代码隐藏在PNG图片内，还部署了仅能在目标主机上运行的Python植入物。调查显示，此次入侵的活动范围不止加密货币</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=4&amp;sn=d6c10c07a18698dce1485e4b23ac2502&amp;chksm=bc45f6041b007de781352668179d42e84b7fddcb9105a28b0b0477fa7d15b844b632ad871573&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Anthropic发布Claude Mythos 5.2，漏洞挖掘能力增强、沙箱逃逸率下降]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1w4RnuVkAbRrscoia6JhUOWNuMpJI2cjk55s4ycoREe5xF2lAp4atqRd23s88U7naeGia5BJ4JkuDLvziaTBwtn4HO0usIhfIR0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic发布两款Claude新模型Anthropic正式发布Claude Fable 5.2与Claude Mythos 5.2两款模型。二者共用同一底层模型，其中面向广泛用户开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=1&amp;sn=9c2ac216014c316c6030d881998c2a56&amp;chksm=bc9294a0fabc57e4ebac88d14298b9a98f73aad55b1072781fe1ad6127a2997faf4e18df9c9a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2EGP3f6M4qMkatcMjgS1Y9KopGHV57Qjlzicy7DxYDuF6u9icWZg2lFs2VqK4kTQhsb7EA6GiaYejSlyzXXFbC0a9bUmT2PduJkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个KSMBD RCE漏洞CVSS 9.0KSMBD是Linux内核内置的SMB服务器。只要Linux服务器运行该服务，就会面临两个已公开披露的远程代码执行漏洞风险。趋势科技旗下ZDI为这</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=2&amp;sn=ec01d81e8dda6d7ea277525599796e79&amp;chksm=bc2bffafccd8984c35898b1c1c2f31c2828e275167801b6840c40c78e5596b66276b43fd554d&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[朝鲜Lazarus黑客采用后量子加密，隐藏恶意载荷躲避安全工具]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ouqR40ds3EMfqlJmpzpQSSCpUloNKyjysibSFo89DBufa2ufeibaquvRMmdzFyokbdS4X5wibIrxgUNa4ngRwuR2aWwYzd6K0jQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>与朝鲜存在关联的Lazarus黑客组织，在恶意软件投递链中使用后量子密码技术，躲避安全工具检测，隐藏后续阶段的恶意载荷。研究人员在代号Operation FlashHole的攻击活动中发现了这一手法，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=3&amp;sn=ce31c2ca9027e6f8499f26912ab2aa56&amp;chksm=bc6a133d3d80d5e84d60c5f9d626ca075e944dc02349e3f10f9c994e43520c22fb029cf4b3a1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软披露ConnectWise供应链攻击，Storm-0940借AI工具加速入侵]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX259wptugcdInClKb0Jpo4Nlia7q7ic5qwj6hvpt1KjPRMuBFFZqWLkjgD3P57xBTe7rticibaBAB0qibxmVRDYZKR8iaY69xm1pIkO8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Storm-0940动用ARTEX框架微软发布详细技术报告，认定Storm-0940威胁组织是ConnectWise云备份供应链入侵事件的幕后黑手。该组织在攻击中动用了ARTEX，这是一款</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=4&amp;sn=3b4d5e9474198c5d5777c39a6ea2d5d4&amp;chksm=bcfd676f06b4305ee99afab2f4a5224293d0fd029f4e9e5aa4f6afde1ad471fdff0e8f5f453a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI推出五阶段高危漏洞响应框架，应对AI发现漏洞增长趋势]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3gOUtVJZpgpwpEH1pAWO09pUibNFzv9ty14WDRs7RFIc2s0WPnrsuqLfYrYj3m1EcmZXfPfFp3MtKHnr3YibttXxmJhD1Efme9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI近日提出一套五阶段流程，用于处置广泛使用软件中的高危漏洞。这套流程源自团队历时两个月处置PHP漏洞的经验——PHP是支撑全球网站与Web应用运行的开源编程语言。本次披露的PHP漏洞中，一个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=1&amp;sn=e43dd37747f83a802649092fcdeed26f&amp;chksm=bc132c9c00bcf8fcadb59933516aa72f2d9f396ff24655ae14a4648fee678186b2d07eadeeaf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客利用Claude与Grok发起自动化攻击，波及拉美400余家金融机构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1hcPOVVciaktE91PSQLicezGC1WZIWdEVB8BDlTKAIPvTYVv05lne4bHZibkAD1JcvlrjsCNyDSCz3BJD7PmN4ibFzxhv5xkiaYjHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络安全公司Straiker发布报告称，一个网络犯罪团伙利用AI Agent协同实施攻击，目标覆盖拉丁美洲400余家银行、支付服务商及其他金融机构。该团伙名为CyberCartel，据披露其使用Ant</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349388&amp;idx=2&amp;sn=fac0714f7e8bde0eb95e6f4b2356de94&amp;chksm=bc459bea8012506c1e7e1828039bb433ed5e62c9bd7f7e1be5bb51d1eb3340f985b457b499b2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

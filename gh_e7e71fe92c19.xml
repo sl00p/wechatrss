@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题回顾 | AI Agent 攻防下的代码保护之道]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1caClZv0B5JZ5y1efVnjtIllNHOkWqxJMibrGczgzFpAVFjtLVYK5N60mUib2ibOLq5oN4IwAETlrE8QDhgK3wM6oXyyQr2IEY9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾随着 AI Agent 能力不断提升，软件逆向分析正从依赖人工经验的逐步探索，向自动化、智能化的分析模式演进。当 AI 能够自主完成代码定位、逻辑还原、动态调试等工作，传统软件保</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624110&amp;idx=1&amp;sn=e2a48f798465227f432e24f6f816f166&amp;chksm=b0a8582151517b2acf96eaf7475668cbc58f6002431a1a3792f11d870c270982c1d34f35b1c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[​黑客兜售月费千美元 Gmail 窃密工具，声称修改密码后仍可持续访问]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1JZBbzoo4rZgWEds4FrgZzVGia5JeCVFK05Zukh1npeCzkOFVfOULAibiasygHpYafvthdN6dOs2p0SnwzOCXosThicFick1I9fpko/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为 Remus Stealer 的信息窃取工具正在推广 Gmail 邮箱访问功能，开发者声称，即使用户修改密码、撤销登录会话，攻击者仍可能持续读取邮箱。目前，该能力尚未得到独立验证。近日，网络安</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624110&amp;idx=2&amp;sn=ce04bbc31a63e0825cedb29ab8aa6242&amp;chksm=b056b32a217118ecf533a46f811b03ea7937c5cb4bf23f1a8b741bd71496ac4ce6602fd6e855&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[已更新至第四章 | 检测大全：Android 检测对抗源码级实战（含试看）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0ItbR3fcsibiaONcwgiaYvCOgtJXLR05MtfJwgmQYvUbamHPklcry0An8DP5yqxCbPZZabFnkfMFgrX5TMGwYsYib4CY2kRVjkacQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>-写得一手 Frida 脚本，却屡屡被加固检测拦截？-网上找来的绕过方案，没过多久直接失效；-遇到 DexProtect、Promon 这类企业级壳就束手无策；-只会打地鼠式修补，不知道检测究竟从何而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624110&amp;idx=3&amp;sn=d6f2d1644bbfbe15e088306ee1dd3b6b&amp;chksm=b004cc79df771387a8519805ad63b3009ecb1145bc05acf638cf419f070abb5f95ffdc86a327&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[最后几小时！即将截止...看雪课程双十一限时满减]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Dz2v8b8rW8LhrFXE1JbvQdnHHL9wmK0oodwiaicibobZYxFJfYicg8z4PwULl9RxKQAktCXovgI4qpMef204ejMAVxa2RYmSnU1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624110&amp;idx=4&amp;sn=b6dfda9a1d9ef39804fca01593113103&amp;chksm=b0427c719ab5c4c0a6fb9e9c01ba40a832898186138583ca8bf79716d8ebc7b8ec9a1afd8d5d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[某咖啡附近门店接口逆向实战：从 Chaos VM 字节码到纯 Node.js 零登录复现]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ufWP5BYMFibDSQI7Yly1UXE22OajPGMeGXAoKiatbvXibyKAgPl3Semro9VgYnzsXSjXyA57rupEBuaxcfYjov1VEFLv4bDs3TU/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标：不启动微信、不打开小程序，用一段纯 Node.js 代码直接拉取某咖啡"附近门店"列表。手段：xiaojianbang 小程序 trace 抓包 + 反汇编腾讯 Chaos VM 字节码 + 还</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624097&amp;idx=1&amp;sn=f89189c314a5a34170434256981c6a6b&amp;chksm=b05fb5849c30ee8c3613c3e3dea846510f237f26948427d813de357be2d1719e3954d282160b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0BKiaXnWBEqZDWfq8ttkxs2J9najl4lQkyBxibl2ADia7peoGV6DWheQ3ia4uJ5MlYL8I4g8rKR9cn8gr3yertDdjfle0fGqCmdCc/640?wxtype=jpeg&amp;wxfrom=0"/><p>1. 任务目标分析 Android 45.5.3 的搜索请求签名链，重点关注：x-gorgonx-argusx-ladonx-khronosx-ss-stub目标环境是已授权测试设备。本文只记录静态</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622850&amp;idx=2&amp;sn=af74132a4eb95bcd4adbef9003698b56&amp;chksm=b0e28cdc001b9006424be12e193312827b30bc186fec6d172bbfd9220804165360780e98842c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 15 Oct 2026 17:59:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软发布3个Active Directory漏洞预警，支持远程绕过安全防护]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2SPicpO8zCaedBVTD9GRF3WBeps12OKHYA03WZ1wpXKsWp2HSBcYLMJOYglr6fb5jNKg9AV8ehZzOWRXQExHVE0G1g8tibkQyDE/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软官方披露了3个Active Directory身份服务漏洞，编号分别为：CVE-2026-69982、CVE-2026-96252、CVE-2026-108131。漏洞属于安全特性绕过类缺陷，远程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622850&amp;idx=3&amp;sn=5498ef6c424c4a8d16fd441ddb086d1a&amp;chksm=b0ddf66a1af307409a22dc65aad9c21f02490af773657e266c2bd897e81dec0ca86981c21e1e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 15 Oct 2026 17:59:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 从字节到神经元： 一名二进制安全研究员的 AI 安全研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K03vSl8c6UZWNztKekWrORqpXDAwBS97K8yXqgMiboyQIIPNib3BuJnNsh1gRQgMxGBfdicAVLnBKYibaHoRjtywv7Hibmzvv0pkLME/640?wxtype=jpeg&amp;wxfrom=0"/><p>从字节到神经元：一名二进制安全研究员的 AI 安全研究随着大语言模型的本地部署越来越普遍，用户开始在自己的电脑上组合模型权重、推理框架和硬件，让模型实际运行起来。我也希望借此逐步建立对 Securit</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=1&amp;sn=8574a25e4806646f0a9007eb33a8536b&amp;chksm=b038bf8406b5571870e4c49e188e3316966ee1b1344af0ab4f2145146b5d61d187c4a6cb0613&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[逆向 HanaAgent：一次 Electron 组件自还原机制的定位与禁用]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3L1FxGS3u0uyDhRht5YVKwzhdy9eceH9B4AJICYWyriag53nLzbDbDnPRBALicsziaGcllHK7uKibFvrMWYPOSH3zNy8kHMJc3TlE/640?wxtype=jpeg&amp;wxfrom=0"/><p>手上在用 HanaAgent 这个开源 AI Agent，Electron 写的，本机 0.450.0。用着用着发现它有个毛病：内置了一个叫 file-history 的模块，专门记录工作区文件的历史</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=2&amp;sn=abf4be871e03fcf018f2a318f0893680&amp;chksm=b02ad5a69f6c6216642aea0818dcb63c8fcb45014d85643be8b1145cf736ef496984c39d3e78&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI发现Linux内核vhost漏洞，本地用户提权Root，虚拟机可逃逸宿主机]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1zuESQwXfvJzBGCTSyTGD0sP015Ax9987N9nZBT4x9khKFyJkREzzzgcjoRrqnysl2J9AMntwNs77Q4OjXr5OjcLavSksVhuM/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯朱雀实验室借助AI多智能体系统Corvus AI，发现一处潜伏Linux内核近9年的高危漏洞，漏洞位于内核`vhost`子系统，可实现本地权限提升至Root，特定虚拟化场景下，恶意虚拟机还能突破隔</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622815&amp;idx=3&amp;sn=aad7790b91cde1769122515577e9a612&amp;chksm=b0df8f9c5b48fe33115668d737d2e93dd9dd53d7d54ba49db5bded20dea919a6234437bfc355&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 14 Oct 2026 18:03:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[做开发、写文档、读长代码库的小伙伴，豆包工作这次更新值得关注。 此前豆包工作只有豆包 2.1 Lite、豆包 2.1 Pro 两款自研模型，现在正式新增三款第三方模型：Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash，普通用户已经可以选用。10 月 29 日该功能先对团队、企业订阅版开放，11 月 12 日扩大开放范围。 对程序员来说，最大好处是不用来回切换多个平台、单独去各家厂商开 API。统一在豆包工作内切换，全部消耗同一个额度，页面会标注每个模型的额度消耗倍率，按需选模型就行。 不同模型各有擅长：读百万字长文档、梳理项目文档选 Kimi；代码调试、逻辑推理优先 DeepSeek V4.1 Flash；通用方案、需求梳理可以用 GLM 5.3，自研模型保留用来做轻量快速任务。 同步还有限时特惠，豆包 2.1 Lite、DeepSeek V4.1 Flash 下调消耗倍率，特定时段使用还有额度优惠，新用户电脑端登录可领取 30 天订阅权益。 现在多模型路由已经是 AI 生产力工具的主流方向，不用绑定单一模型，按任务选最合适的，写代码、查 bug、梳理技术方案、生成接口文档都更灵活。]]></title>
+      <description><![CDATA[<p>做开发、写文档、读长代码库的小伙伴，豆包工作这次更新值得关注。 此前豆包工作只有豆包 2.1 Lite、豆包 2.1 Pro 两款自研模型，现在正式新增三款第三方模型：Kimi K3.1 Pro、GL</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535751&amp;idx=1&amp;sn=6d6c1fad2a9043fc8dde1113fb61ab77&amp;chksm=eb524059080362617b26d6ca049f8431c8f3589e81b2ebee2f0973b33882e836be6d48bd590f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 17:26:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[10 岁搭档 14 岁开发者，不搞 Vibe Coding 有多难得]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0Miau5C28rTFeF2wHBaZOIVEfRHmghAWD1jzEYFXSUbF8Ky6lA77Ufic8fBP0bCEtu4R8WLoAVDWeO1tkwP2SEAYUHic02SIGRRG445C5LpbyM/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近一则少年开发者的故事，在程序员圈子里炸了锅。14 岁的 Rory 和 10 岁的 Owen，一对从未线下见面的线上搭档，开发了一款 FPV 视频修复工具 DVR Doctor，专门清除模拟图传录像</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535740&amp;idx=1&amp;sn=b0bf475a8b4cbc03bba685c770505017&amp;chksm=eb0ea863b9a69a41d0744405694f4eb61c551ec13308ad82334ca22ac397302e5ffa010a04df&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0Miau5C28rTGsChg9uY5yr5C640Iz6EvzxpDYoqdbWqlu5fHN3glwazichzEJ6AjdIrXEuG4pPY2CXyWP9HLBV30G6o5ibKNIzd8TVGBj0N880/640?wxtype=jpeg&amp;wxfrom=0"/><p>7 月 14 日，Linux 内核邮件列表爆发 AI 工具争议，面对一众抵制大模型的开发者，Linus Torvalds 直接下场定调，明确 Linux 不会成为反 AI 项目。此前工程师 Roman</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535448&amp;idx=1&amp;sn=9929e679902ef7938f42fcb87cb52522&amp;chksm=eb58dc3253c68a32b41df41cb5bb90640319847e2aa9f80b7190f83b6922a670fbcce21f60ef&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 17 Jul 2026 17:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[“10 亿 Token” 出圈，副局长回应泄密疑问]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/0Miau5C28rTEib1RVPk5AvAiaMEEia7uYSrLUYsenuicHwCTueSo96b0j5Ab409l4h8G4PFnxia9l8Qwtxndh6IYiaw8q4kYqE62WLOgX9LGsj5Wlg/640?wxtype=jpeg&amp;wxfrom=0"/><p>北京密云分局副局长谢陨石利用业余时间，依托 AI 耗费 10 亿 token 自主开发防汛小程序 “叫应”，引发网友热议。不少人关心开发成本，同时担忧录入群众信息存在泄密风险。谢陨石介绍，他使用大模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1OTQwOTg2Mg==&amp;mid=2247535442&amp;idx=1&amp;sn=cb109f52d5169b96f40b6ceca0706542&amp;chksm=eb22557b2a01ca539102157efabc9e1d992ab6ba2f20f941a4566c811c5d3c2757c110593ca1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 17:20:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

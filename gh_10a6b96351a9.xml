@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这一次，企业级AI编程，我下场了（2个月集训）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXezETcMUkNGMyhQ1uFtM2LOiaA4nFt8hynNcWj7LFN6DnMyTITtjwzXlMTyDUAWndsBez3jD5ibbGGzmruoVMiakzRviaPqucwCBtU/640?wxtype=jpeg&amp;wxfrom=0"/><p>很多人以为的AI编程：1. 只用claude code或者codex工具；2. 只用openspec或者superpowers技能；3. 只和Agent聊天“帮我实现一个功能”，“帮我修复一个bug”</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981885&amp;idx=1&amp;sn=4521017d78661f3e9723924621cc67ec&amp;chksm=bc7eb4b6b587187d68d27a38b5dc612bfa5442dbc6e89144f1d40c3d7d36f7cf894fb51b656f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 08:16:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[收到工资1002415.13元！爱你华为！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcPT4ic8yHot2s3UagFUtlAwiaM3c2X7d5OurgA72aPz735Lp2bo7gjev2BsibhmgiaCgZpBvGKTvqf8iaVN7RZEx0Fs6iadmibQrCMjE/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨夜，一位华为员工从传统开发岗成功转岗到AI大模型岗，在网上晒出自己100w的工资条并大胆示“爱”，在行业内掀起了阵阵热潮。如今，这股强劲的AI之风，终究还是吹到了传统开发领域，既是风险，也是机遇。传</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981869&amp;idx=1&amp;sn=0b192f04a3ba62078f4860d9f4d87fc5&amp;chksm=bc3a5dba0ef61690ae8c9d4ba31702e18f361da8d0c7bf24579d80cc67ee616373f091cedecf&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>有童鞋问我，按照传统的#AI编程 流程： 1. plan模式把PRD+arch.md生成PLAN； 2. code模式执行PLAN，生成代码； 最终得到的系统，功能能实现，#架构 也没问题，但样式像</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981485&amp;idx=1&amp;sn=52cc6c20ca665b3e3153228a84ba3983&amp;chksm=bc25f50a663a47e60a25db7ecc36e498e5b6c70490396786df3b0c9be409d2359b42c52ea38e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 29 Aug 2026 18:10:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[判断]会越来越贵。 AI时代，有三项能力在迅速贬值： 1. 手写代码的速度：我们敲一天，AI只需要几分钟； 2. 语法和API的熟练度：AI见过的文档，比我们多无数倍； 3. CRUD的熟练度：我们曾经是饭碗，现在是人人的标配。 但是，也有三项能力在升值： 其一，把需求讲清楚的能力。 PRD写不清，需求拆不明，AI越强，跑偏越快。能把模糊的业务需求，给AI讲清楚，这本身就是稀缺能力。 其二，技术判断与架构约束的能力。 "保持代码清晰、可维护、可拓展"，对人是原则，对AI是空话。MVC清晰，DDD清晰，洋葱架构也清晰... 如果我们不收窄它的选择空间，它就用概率替我们做架构决策。 给AI写架构规范，本质是什么？是把我们二十年踩坑的经验，蒸馏成AI可执行的规则。经验越厚，蒸馏出来的东西越值钱。 其三，质量兜底的能力。 大部分公司，用AI交付线上系统的，目前仍是程序员。为什么？AI无法为质量兜底，还是必须程序员为质量兜底（背锅）。 AI抹平的，是"手写代码"的差距；抹不平的，是"技术判断"的差距。 那么问题来了，如何通过AI[讲清楚需求]+[做好架构约束]+[保证代码质量]呢？ 一些浅见，直播聊聊，希望对大伙有帮助。 欢迎预约，直播间不见不散。 AI的能力这么强，还有程序员古法编程吗？]]></title>
-      <description><![CDATA[<p>前段时间，有童鞋留言说：我们部门已经没人手搓代码了，纯靠AI，一个人干三个人的活。我们程序员，还值钱吗？未来，提升什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981483&amp;idx=1&amp;sn=dc2d89fee35f1a07f34bc89897ae4c58&amp;chksm=bcf25045f7966c8da45976c87f9565f64a768f167d51076763bde14f8ff095fbce9784f8a93c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 26 Aug 2026 23:19:56 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenViking 3D理解模型上线轴测八视图及PMI解析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeceonErtmjFf2oIbcAy9ia6PTFQj2PQnj2LyYamZXKcN3Shs5NfmYlou8jW93wN15PASoO8FK3sA8DZ1wJdQ5ZLP91c79lfibAXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenViking如何理解一个3D模型OpenViking发布原生3D内容理解模型，支持三维.STEP文件的导入与解析，信息还原率做到 100%。导入一个3D文件，不仅会提取常规的正交视图、几何信息</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524273&amp;idx=1&amp;sn=00864fccfa91a8cf8533d53cf0a3c164&amp;chksm=e8f9ab4f43fe16a8a8c8be49731b01f75072c015a2246b471725a66536136fd9661bfeb31dea&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开发者实测｜把视频处理交给 Agent：AI MediaKit Skill 深度评测]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeVXfhGYsmwInd8CrxINKxJZCgLicv0oHRRuASNh9Txa4x3hHD2OfnJzHpB7OpCeIh8C3uqBJHIhibhVUP2dn4CFvwcIPDjkd4Os/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI MediaKit Skill 发布以来，我们陆续收到了许多开发者用户的投稿，他们结合真实使用场景，分享了自己从接入到成片的体验和测试记录。我们从中精选了几篇，陆续与大家分享。⚠️文中测试结论以及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524166&amp;idx=1&amp;sn=a906ea8e660c7264fd65de893e7c82c2&amp;chksm=e8b857f52ca67421eaf982b4c0b150c32a57528b6d8e89f049f2aca26c76130f18a90e092941&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefYCVya3XCia046Yc5SdzXdow97PwuytJSoibT3FCqiashTCNUkY5CMZndXOkXIyOJBKaBVdBiaibWfRtPSdXAa1kyP72wTyicdmjhRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心观点：Agent 正在把 AI 从"回答问题"推向"完成任务"，存储也随之从"提供容量、承载文件"的资源层，升级为贯穿 Agent 运行、协作与持续优化的关键底座。火山引擎存储团队以 Storag</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=1&amp;sn=bd7a4aa7ed7ce2d4ca65e807f53392f6&amp;chksm=e8384cb08c12df351a7c097e167ab9ac81d20fc5e97d5045bd109bf028e690adfd868662b2f0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[9.9 元/月，用 AgentPlan + OpenViking 给销售团队配一个不会忘事的 AI 助手]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeclkpkjicdLpn9zP5DUnzGQZbEwniaX7Ww46dvE2svNticgia8TDnia0iax9eWab399icdRXoEHWdjs75XicXxvIx1pOQXFbLKPrmb69Vo/640?wxtype=jpeg&amp;wxfrom=0"/><p>你的销售团队是不是也这样？销售小王下午 3 点打开飞书，准备跟进 A 公司。他需要先翻两周前的群聊找客户口头提过的预算范围，再翻上周的会议纪要确认对接人换了谁，再去云文档里看产品经理写的需求分析，最后</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=2&amp;sn=d28d61e9a893bc39fdbe6797404755cb&amp;chksm=e8fd5832899ca1c3159f1b2d39705e546f0c8be1f8ec66ac3c8dd8aacb646c87b34daee5a217&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
     </item>
   </channel>
