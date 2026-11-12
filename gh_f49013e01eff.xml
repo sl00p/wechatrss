@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把主力模型用在刀刃上：一个月 300 亿 Token、31 万行 Rust 背后的 AI Coding 实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT4KxnhQSG9ucBh092jrgTxmpKAlSQRc2KFLwLZ3DktzXwn0ibiaQFJ06C8wq1ZZXBZL10lpd6ZDgUEFEkgwByKX6aJLeZVdhRvrI/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理本机环境时，我打开 LoongSuite Pilot 看了眼近 30 天的用量。面板上是 30020.4M token，约合 300 亿。LoongSuite Pilot 的本机用量总览。近 30</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517387&amp;idx=1&amp;sn=76c4a48adb17ef3fefdaacf60b4b9e46&amp;chksm=f43a352eabbfab21fe74447a253f520747bff467722575e3fbcd6987f841c9d8795e63e7a43f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 14:23:10 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AgentCore 支持 DeepSeek Harness 托管，加速企业生产化验证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT6EowCmGicczcdQObtjBwM9oEyFH48dC9noDwsblSqQiaHxDVqdmCbbBjOSqkvEjpzYlZtpFore7lGp8XM1S6ovQyV5SojlysTDM/640?wxtype=jpeg&amp;wxfrom=0"/><p>DeepSeek Harness（简称 DSH）是 DeepSeek 于 2026 年 8 月以 MIT 协议开源的 Agent Harness。单人使用门槛不高，但推到部门时，多人各自部署会带来互不</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517386&amp;idx=1&amp;sn=86f2f5399cf1a2d0b18fdfab20b0b622&amp;chksm=f4c3b16000dfb91147cd717c46e7d2b9e6d4e46a4ccab559e9d3938929ead1359baa4fee7b39&amp;scene=0&amp;xtrack=1#rd</link>

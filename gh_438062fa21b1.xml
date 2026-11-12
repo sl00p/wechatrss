@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[基于本体的 AI 数据研发落地：淘宝行业经营分析实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5xgOIeSqXOic3RJmwTN8eksoayaRKBDc6zCWWbyGPxy8tNveVplLbwVVZt7XpeY02XhAeTSkk1Wp4nl5hibcx7U4ib21VxFO7yJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 81 篇文章（ 本文阅读时间：约 15 分钟 ）AI 写 SQL，快不等于能交付。在阿里的业务体系中，一个经营分析需求往往要关联数十甚至上百张表，同名字段在不同场景下含义不同，指标</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512497&amp;idx=1&amp;sn=82924a5a7f2f62006617c12080a83fc2&amp;chksm=ce0fb6aaebc8cab4bcb47826dcc2fb840a9b8f93a718c7183ce13bccf06a2d72e666dc05b33d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[授人以鱼不如授人以渔：我对企业级 AI 研发提效的思考与实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5n0cJpq44iaKrm3ucwzt4AIdDJJCZ5aTTxaXYsAecMiacOTTbfAyOY9VykQuC762KjHlgUiceqUnQMlJe4cztz1hc3agqcaPBDqM/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 80 篇文章（ 本文阅读时间：约 20 分钟 ）导读过去一段时间，Cursor、Claude Code、Codex 这些 AI 工具已经进入到团队日常研发的过程中，不知道大家是否经</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512492&amp;idx=1&amp;sn=2134349b220aff2dc128808e7324f391&amp;chksm=ce6a18cdfc81e28cd444afed2d143a04727ff76921c094470b8634926b48288048c80d8b5493&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6YMKRqYxBO0uaCGa655pC1ibGiaXg4cW4V1XwvSa1suib4nvOXnR1TpxbxMMB1qUgDiaSAJlkF69u7p3Ok5BoBWVpn4oCf8CpKSgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，Vision-Language-Action（VLA）模型正在成为通用机器人操作的重要路线。主流做法通常是把视觉观测、语言指令和机器人动作放在一起训练，让模型根据当前图像和语言目标直接预测下一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510088&amp;idx=2&amp;sn=18a09c3f6d3794079544b9907335b527&amp;chksm=ceb31b7ef739981eb83e4ca4a2097173f8a9b2e4f77223503ba07d49bb0d154b8812c352c1e8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 20:17:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Harness 工程实践：如何让 Agent 完成自主迭代]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6vlpS4GFBtibQXiabMj152YGSibAVvj8YyCZU8xaLqKmSPuyScB0hgicuBexGgvVTPt8cSUSicJCiaG3hRKkbunjfYzVTxTOvhHfvTE/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 32 篇文章（ 本文阅读时间：约20分钟 ）前言一个人一天最多跑一次迭代实验，但每周上百个 badcase 追着我们跑，这是团队今年年初的状态。我们负责一个服务大规模用户的线上业务</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247509988&amp;idx=1&amp;sn=077f18a5e969437efceb13f31d13bf73&amp;chksm=ce3ac6937d43502cf36e9eb85687595b6c1c7372058d06dd7e97835e1494cdec186a7338f860&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 08 Jul 2026 19:36:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

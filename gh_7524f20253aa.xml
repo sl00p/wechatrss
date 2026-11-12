@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[台积电确认发生数据泄露事件，4.6万条记录疑遭黑客挂牌出售]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0vL4A1yarr2uZFGpy06dTqLDnicMS0uoh9nmgQgT1ibVNbjxP4kKia4xPam9NzPQa9Fz7d4o9FhELm0iabjj3YLkKSkZqiaBlT28r4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01台积电确认员工数据外泄台积电证实，部分在职及离职员工的个人数据遭人未经授权发布到公开网络。台积电于2026年11月12日披露本次事件，称外泄信息与一家外部云服务商存储的记录完全匹配，目前没</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=1&amp;sn=d40fda9443a447f36a1a2cd4eb49824c&amp;chksm=bcc97397b5a3a705f8594db02186160c1b4c163b116f58c8810f0862f28b4b6b90a734450173&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软365爆发大规模服务宕机，全球多区域核心产品受影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1rdfEZbwLolGkewq1VfR3yfXUUmmS5VX6fr2yWiaOjEibibb6DDEzeZ45NnOqFbf8jU73ZnG46MGeia8XA5mdVe4Wnoo3vqtEJgtE/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年11月12日，微软365爆发大规模服务宕机，用户云服务访问受阻。故障持续至11月13日，微软正全力修复故障基础设施。微软最初仅排查美洲地区Exchange Online邮箱访问异常问题，随后</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=2&amp;sn=78ba7d065b4d34efab23371f7bdca357&amp;chksm=bc0b93111e69975be1a284017b0a8a27e9c8ebb15cd0b43dfd2e3be9a41aec2888d4effccac6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CISA确认Outlook 0Day遭在野利用，可泄露用户认证数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1GF3taSuMCn5z2HtO8Sk37qCIxmBj3AgyUfjibHMKzUjU3xkry3LD1oXmyJnrfcEA7dsd8eAtY1ZibPXKQF3dUYS5ZOZDjQTvwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01特制消息文件可触发漏洞CISA证实，微软Outlook存在一个编号为CVE-2026-124194的0Day漏洞，目前已遭在野利用。攻击者可利用该漏洞窃取用户的认证数据。根据微软发布的安全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=3&amp;sn=3395eecd9fc810f587cedf6d0f18c7fa&amp;chksm=bcd5c739c017b4d015d60e0b11a411a4be11ba79efbab51f3d05dbc6c10a6362a11ee788c972&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[派拓网络披露PAN-OS RCE漏洞，攻击者可获root权限执行任意代码]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2TVsZK4icry2o8ia9TbLvIdSibhx6bXtJhvm4qVeqP8dmicD2hCygWaXicafWY9EnIFhVYdevic9hbmkKrq70p86HrN3qibLptfenDn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>派拓网络（Palo Alto Networks）披露，Panorama设备运行的PAN-OS系统存在一处远程代码执行（RCE）漏洞，漏洞编号为CVE-2026-0330。拥有网络访问权限的认证管理员可</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=4&amp;sn=217b09450ce66cee23708bd01957fce5&amp;chksm=bc99932e0a56339ff3fabd0aa476cf71c83921d67ffc8871a9d2e7681fd50ed00845f918e643&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大量开源AI黑客系统运行于公网，部分控制台未设认证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0pmxWic64mc6AREBR8DL2PjGUz5WI6KZt3GjsXryuNjkgVib7PSYrV1o3Y3g7coziczYU1sg4uicFhkyBtZaF0aibzvJTCxyZ66xLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前多款AI驱动的黑客与渗透测试框架正运行在可公开访问的互联网服务器上，部分框架的管理控制台未设置身份认证，完全对外开放。2026年11月7日的Shodan快照数据显示，公网共有1428个服务属于AR</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=1&amp;sn=0c647b5cbdb19ae3c32860e3fb87b689&amp;chksm=bc0dfcdf0edfcd9f0d533885c6fc8590686c21b1ed17d40a8817e732e02e5ee48ffa8d88ac73&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AZTOcnHCYa3SOpia4sFscHOGBYgSsakibG6O0QCRlmtBaUqBPRB1TjcdGRjHsPIJl2Spdyicq2xP5Oib8W03WrVSddEsV2ur5WuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI在对其研究系统开展的大规模红队测试中发现，旗下AI Agents可发现0Day漏洞、逃出沙箱、接入真实公网，甚至跨隔离边界交换信息。测试结果于10月23日公布，展现了先进模型如何串联软件漏</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=1&amp;sn=b8bd78e2f2aca08a3c4e1833e70277cb&amp;chksm=bc3d83713b20cdf2acd3235510a5969deba306a776dd676ee885155d05d574c7a9c19275848f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Python常用Pillow图像库曝出严重漏洞，构造文件可触发代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0iaIXUPGibkwS2nZPqiaI9TvGr6D4W8SBLApSI0YcibfwianredU9f9rpk03ibbHEINPghY2jibJzXoPmxesYqmJpXLNvweGsWOxC6ew/640?wxtype=jpeg&amp;wxfrom=0"/><p>Pillow是Python生态中应用最广泛的图像处理库，攻击者可通过构造传入的待打开文件名，诱使运行该库的服务器执行操作系统命令。编号为CVE-2026-112900的漏洞存在于Pillow的EPS图</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=2&amp;sn=97411cfe24c11fe5cc105f55af50c438&amp;chksm=bcc6adb370b8bdf72334a69b3bad2e1684f0628b44d81bbfde8ec3c645f8dcf6f183c6f26ffa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PHP预警两个CVSS 9.2级严重漏洞；OpenAI推出五阶段高危漏洞响应框架| FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>⚠️ PHP 预警两个 CVSS 9.2 级严重漏洞，敦促用户准备补丁更新 📋 OpenAI 推出五阶段高危漏洞响应框架，应对 AI 发现漏洞增长趋势 🚨 前 OpenAI 工程师涉窃密设备案被拘，被</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=3&amp;sn=412408cfc3df229c2d6c978a8c0aaadc&amp;chksm=bc9152500a8797079866a16cbc74c23b16dcd21d117f091e07e44bdcf65b8ff24276195fc2bd&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客劫持公网暴露AI模型发起攻击，算力成本由受害者承担]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX147AYvA1tGwicUZz2at7EwV2nxicMibVnYJbEUJ1M420Lvhh2tpz0MnYA9mO6A2tMAKNeSBfu6gLR8iatrxhE30yde8flLeCAlA7o/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款基于AI构建的攻击工具会自动搜寻互联网上所有可公开访问的AI模型，利用这些模型策划入侵行动，而产生的算力成本全部由模型所有者承担。研究人员Priti More、Susmit Yenkar写道，今年</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=1&amp;sn=141551c4da9361aacc8522b09851a89b&amp;chksm=bcb3c4f8f45caf84c67d91b8916aff1b409b5326bed341747607d960178b71d67edac9a3f678&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux KSMBD曝两大9.0分RCE漏洞，主线内核尚未修复]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2EGP3f6M4qMkatcMjgS1Y9KopGHV57Qjlzicy7DxYDuF6u9icWZg2lFs2VqK4kTQhsb7EA6GiaYejSlyzXXFbC0a9bUmT2PduJkc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两个KSMBD RCE漏洞CVSS 9.0KSMBD是Linux内核内置的SMB服务器。只要Linux服务器运行该服务，就会面临两个已公开披露的远程代码执行漏洞风险。趋势科技旗下ZDI为这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349475&amp;idx=2&amp;sn=ec01d81e8dda6d7ea277525599796e79&amp;chksm=bc2bffafccd8984c35898b1c1c2f31c2828e275167801b6840c40c78e5596b66276b43fd554d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 18:05:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

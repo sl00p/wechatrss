@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[八项满分！WorkBuddy通过国家工业信息安全发展研究中心测评]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun7xoofYjibSSvxY7JNMumEyoHvo1ahsSgOhW8jsXAM1WaLhWSGiaODKmdiaY4w6yqaoIzD6J2A2eD7mOVksR3f7VMicjRAO81j2tmM/640?wxtype=jpeg&amp;wxfrom=0"/><p>据中国工业新闻网11月12日报道，为进一步规范AI治理标准，规避提示词注入、越权操作、恶意Skill等行为带来的危害，国家工业信息安全发展研究中心赛昇实验室完成对国内主流办公智能体的横向实测，并发布《</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247531439&amp;idx=1&amp;sn=36438b51a470e1384f9e9ac5a5035ec7&amp;chksm=c1711cc0d4176d7b562b7ee37af88ff7c4bcd16f91bf3edcf33d12da0088f9d5ae517fb75e51&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:18:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[白盒发现，黑盒验证：CodeBuddy Security打造AI代码审计的"可利用性闭环"]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/iczOE5KEJun4h4PWKScH19ckiaUIzgRicfIxowV05jL5EPRvOIoIQl1MBibWiaOicYVd6PPZ5hjicwoSib3XnVfvDYDibj5bTuvTsNFty9wfX5sicdKicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI让漏洞的"发现"变得前所未有的高效，也让"验证"成为新的瓶颈。CodeBuddy Security将白盒代码审计与黑盒渗透验证融合，让每一个漏洞结论都经过"实弹检验"。AI时代的新烦恼：漏洞"产能</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247530982&amp;idx=1&amp;sn=9d502bec0b526bf398805590d38fa93c&amp;chksm=c1d3701e26e6f75a227975264c403e9b337768c3dce8f873692f7e93cc8c73a8fd085c2e4534&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun7fDAibWtmGAnI1vf5bO1bC2BwibciaMiaXE6uLNHmrUUtD7ia4H1Yy4GKD9riaJAtDYHHxT9iamXs7M4xRTHiagdRgAP3X2hQraNXhJDg/640?wxtype=jpeg&amp;wxfrom=0"/><p>3月27日腾讯云城市峰会上海站，中国信通院与腾讯云联合发布《AI Agent安全实践指引》，系统梳理了AI Agent面临的高发风险，并提出“三步走”安全实践路径，助力企业及个人在AI Agent实践</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529213&amp;idx=1&amp;sn=adeb23ed448fb8858c07b7cdc3b285f8&amp;chksm=c10b7b4994dd4d83a0e1e70231ad5767ac4cb7c24fa916d4ca6dcca1fdc78cdb39094228e3cb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 27 Mar 2026 17:55:48 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高危风险提示｜Apifox 桌面客户端遭供应链攻击，请尽快排查更新]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/iczOE5KEJun6dKd3puQkLR4F4aTB0ZbwGGoqFKMCiaMBvuu39c5TzIaed1fh4DAZicNicicqWPOB1dRkGMPW3r0LnVoatey2jJ303ibARfEhQbQia8/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，腾讯iOA产品团队及腾讯云安全中心在日常安全监测中发现，知名API调试工具 Apifox 的公网 SaaS 版桌面客户端遭到供应链投毒攻击。攻击者通过篡改该客户端动态加载的外部 JavaScri</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&amp;mid=2247529203&amp;idx=1&amp;sn=f8c78312519c42151761fe77e09de13d&amp;chksm=c10fc426a30bd3af9d04040558a8e1711991ec56eafb496138c4d4bd9ba341f5c839286ea33a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 26 Mar 2026 19:30:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

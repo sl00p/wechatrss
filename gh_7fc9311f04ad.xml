@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[智能体 Skill 调优“焚诀”——业务逻辑之外的胜负手]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1x8nLrXwdOianNnMEnr5G79PCl8rO1ehb6Lpx0zwCibrD7ynlFfTraxPoYGKBchGCI24nfVqU4o5UJApPpVQiaEehK41r8zGicbj2M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。引子：37 个技能的"能跑"与"能用"今年5月底，我们在某AI投研平台做了一件事：借助 Coding Agent，4 天</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562689&amp;idx=1&amp;sn=e48b34b83266f63e8b791887839b8133&amp;chksm=e80150cd53fbf7aa47c6d86b67cc1525e07d8b7ffcfa4b4703306cd515c01c2b9bc11d33bb4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 15:44:40 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen4-Max 预览版首发上线千问AI平台Token Plan]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1wqDM13P2QnaCviaDyrtp8EyH0ibmYASBXztYN7WBRZRygNOsx5hFJrCK1PUzmsBd3BEJg4TIZtCnrr8YhsurcXQg9ibJMk4Gxub4/640?wxtype=jpeg&amp;wxfrom=0"/><p>刚刚，阿里全新一代大模型Qwen4-Max预览版发布，首发千问AI平台Token Plan。Qwen4模型拥有更强的世界知识和感知能力，并且在编程和Agentic这两项最关键的能力上再度升级，能更好地</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562678&amp;idx=1&amp;sn=4bca2da2340d7065386940ee76a34d51&amp;chksm=e8565c191cf1a0b1a86670cc8f3f86e118471a89906489fab71cadb827c370c492481a22528a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xMhXkFhncYweAjjLibxxnJa1zvq8atcoonh8wtP7Viazs02gO5p28TDDVjKLBe53WU8yHuLsuxQlibWYY2Aia2BDbiaicGmIFsG0IkI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读核心观点：AI Coding 的瓶颈正从"模型能力"转移到"流程工程"——模型已经足够聪明，但不稳定，而稳定性必须由外部框架供给。读完你能带走：一套可抄的 harness 分层结构、一个把"</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561121&amp;idx=1&amp;sn=82faa885d7d73f4e398dd1e186325b3d&amp;chksm=e8e71a3c482aa94ec70af97cbc96e90d9477b6db2381fc88b8a9ee072978e6b6a3bcd77884f6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 16 Jun 2026 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[如何搭建一个端到端业务需求专家 Agent]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zENWWKPF1Fic78MKkCPhs98qIQnXT0DdswRAticVJdaMwAMzm1kNyWfUrs2aoJbvlGSx0n6uzZVkicicLfT22GN5HSGiccxpGj128M/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读如何把业务需求从进入、澄清、方案、实现、CR 协同、验收、发布到结项沉淀，组织成一套能减少人工干预、能自我验收、能吸收反馈并持续成长的 Agent 研发闭环。（文章内容基于作者个人技术实践与</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561033&amp;idx=1&amp;sn=a9f9a3ac3dce5aee757e0033f55dfd3f&amp;chksm=e8dc95d1269be1e3997c1c266005a2dcbe35537f16d8460e492fc448137877053f3f7ea5a4ea&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 15 Jun 2026 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

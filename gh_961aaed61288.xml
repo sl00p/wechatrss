@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[昇腾Jev开源决策模型适配与调优大赛启动招募]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEziaGf6uAib8vAoRcBvTHfQJd0miaXCdbxUv5qewngDlMSPXAFRDN5MZEccbibFrgUFx1mhw13weXO6unzB61IuOwuWOdwu4iasCavY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Jev 开源决策类模型正在快速走出实验室，这类开源模型已经超过一百个，从 0.4B 的小模型到 35B 的 MoE，决策专用、视觉决策、多模态，品类齐全。对这类模型能在 NPU 上，「跑得对」和「跑得</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838495&amp;idx=1&amp;sn=b2a650bb39b04cb3f20b79535413df3e&amp;chksm=c3438c7a8515bfbffbd9c05d78ccc4eeb6c97f639f1b55d07e61effb26f304d965e1332aa06c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 14:50:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[只用了10行AI代码修Bug，就整个被判“出局”？独立游戏《Big Walk》遭19名评委联合抵制：凡是用过AI，一票不投！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEyA6ezpUaF5jmpYrhlfvqibRWDQaibyK5AzaVZOtJkzsdgO4kgzsUIN1Xzl9jDouaoVdwyibHJvRj6YHwJzoqvicwq0kibtoClD3Flo/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）一款游戏，如果只有不到 0.1% 的代码借助过 AI 完成，你会认为它是「AI 生成」的吗？——最近，独立游戏《Big Walk》的开发商</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838495&amp;idx=2&amp;sn=ab4344403e361171786f5f6781b8fb15&amp;chksm=c364de2232549b7101f0a500db6ecddc67e19b29dfad7af1554443ac64a1f0c8abe92419f950&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 14:50:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI代码暴涨30%，现实交付却为0？SoduWork要给脱缰的Agent立规矩]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzOUkkzmm6fG6icDQTsz6gbp44dTkswuP4rKdtcXyUvsLRU5obzHPHCqTwWZ6WExagSibKhuwM8kJicWJcVteqLUia8QXzj0tDWfXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>出品 | CSDN（ID：CSDNnews）如果把时间拨回到一年前，“用 AI 颠覆软件开发”还是科技圈最性感的叙事。那会儿，大家热衷于在社交平台上展示各种各样惊艳的 Demo：短短几十秒的录屏里，只</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247838469&amp;idx=1&amp;sn=c5ebf26eba254279cd4979195af98ce2&amp;chksm=c3b91aee31e3db6b969a21e9f1bbced5ebeeb4e5e55e2ad683881fe94fa02d0e5ea5499c754d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEw2qOnhO74qFek5gdyRsX5rCHEBYjA0DtLjrWNoDar5wcHKXW2icvbgiaBOwLYemUbfQN8kpIP7el5BiasMyud7zvLG5meRagSZJE/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 王启隆出品丨奇点折射（ID：rgznai100）在过去，把一个软件系统写成“动哪儿哪儿崩”的无法维护泥潭，需要上百号工程师折腾整整十年；如今有了大模型，一个人坐在工位上一周就能搞出同等规模的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836677&amp;idx=2&amp;sn=f43936655d95728c81920bea4044d86a&amp;chksm=c35e1dc24a427f9c1785f1b29d05543985fcc74298985ec910c93b52aeda2b0b5540e16947bf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 08 Oct 2026 15:13:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PR已死，有事发Prompt！OpenClaw之父对话GitHub创始人：手写代码已沦为体力活，连语法都不用记了还当什么码农]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzmicSakzwPdgHadIibzPE1f7VZ2zYDeZBk8f4MJo3SPfE6Jv3TSTM5yAB7w3ZpyF2VibstGbuo8S8EaBIngaxFxHmO5x7Kj2Ck8Y/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 王启隆出品丨奇点折射（ID：rgznai100）当一名工程师公开宣称自己“一天合入 600 次 Commit，且绝大多数代码看都没看”时，你的第一反应会是什么？AI 时代的“新程序员”可能不</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836664&amp;idx=1&amp;sn=74a1c6df97a563f8bc6208465003723f&amp;chksm=c390cdd49ced47d8f9787dda425cb5ffae30ee191860dcd93c47c64aa4a617d2903c51cd12f5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 07 Oct 2026 13:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DigitalMate：打造个人移动超级智能体，一站式完成复杂任务]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzDicXO02PulaoXkhrDOX8l3d2EHq739831jTV6sl50iaFh3K66XNiatEoaQibQIdlddE0A8FZsEpGJ5IBC4N6ALE9szeO5EPBLQOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在智能手机上完成一件事，常常要先完成一连串“找入口”的动作。准备一次出行，要在地图、铁路、航班和日历之间切换；处理工作消息，要分别打开邮箱、协作平台和文档工具；想找一家附近的咖啡店，也可能需要在地图、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247836658&amp;idx=1&amp;sn=7c1b90be3f2120f3cc326281c9f04ecb&amp;chksm=c3d6573c96c515c4bfca4a5bc0b468b728eccc99b348b51987f8f6cbf2f8fdfb43363580576a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 06 Oct 2026 12:05:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

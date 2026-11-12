@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每周高级威胁情报解读(2026.11.06~11.12)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq9GcseAKwE7R2Oyibcz8OZBlS4lR0yrJAPG7qy2yqyhUg81g0icCv1HyqSHw7WU6DoJdVfWXqXsorGeD9a4bA8fQ8mPA5ZL1kPmQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.11.06~11.12攻击团伙情报失控：曝光 Silent Lynx 服务器内幕Turla 新工具集 Cereal：劫持 Exchange 邮件流水线肚脑虫组织使用节日主题诱饵对巴基斯坦的攻</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521370&amp;idx=1&amp;sn=66e07d88c53ade99d8c61488f6eaf8d9&amp;chksm=eb892c0ee026e07e28e4a1df40bb19cc4806727e630d93d8a7ea9b205f80beea612f63c096a8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:08:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[供应链安全威胁档案周报——W46]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibVC2UcP0JueB7RictEreez5xANIRxmsG6ckCpeMCicVGoKw56Jch7e8Cka6zPCYa7Tibbfpic99hbsicpDuY8kSiaCxKL4bwKvveKTs/640?wxtype=jpeg&amp;wxfrom=0"/><p>SUPPLY CHAIN / THREAT FILESW46202611.07—11.13供应链安全威胁档案每周开源供应链安全情报整理事件研判 / 排查路径 / 处置动作04重点事件04类攻击面07天</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521370&amp;idx=2&amp;sn=3ff8802d5533bc48a7d5474def5ebd52&amp;chksm=eb0b49a941ead3f257e52acc37b18c8919265e99b58011260277ded504b02accd70323ade758&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 18:08:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[四次阻断，四次改道：AI 自主入侵已经走到哪一步]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibjic7az3pvNlicjicDOm9icIO8SEySCJl9GJT0ibNB3b2loYOt1Pc3VQeW6MCvgBicbD3Euf3z4pFBF7icYgT1cDB7c6d72ZxYyAtZ9Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 安全 · 威胁情报四次阻断，四次改道：AI 自主入侵已经走到哪一步一名中文操作者通过自定义智能体框架，将侦察、漏洞利用、权限提升、横向移动和数据获取等大量技术工作交由 AI 执行——四次被拦截后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521340&amp;idx=1&amp;sn=d86adafc458a77cf2854f7e3ea8aef5f&amp;chksm=ebc7de9031b287e3830f12362173322e863d1a127404724103c7ced703db870850153154d468&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicGfZicjrcAYga8YQCvgmvXXicYgZicEaN5GzicCQEufBacBWiaZHnERk15ObtT7dloibQfKBz9E4ia7WcwC0n3pMenicPQCwwibGKm2GYc/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 深度解析三次调用之后才"变脸"正在活跃中的 MCP 供应链攻击活动 Deadbugz 深度解析一个看似人畜无害的"文本格式化与摘要"MCP 服务器，在你调用它三次之后，会悄悄换掉返回给</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519875&amp;idx=1&amp;sn=3b1a002975f42029be1aa3510a4dac7a&amp;chksm=ebaf578653f20f2b8365ba3dd8f0653a35531312149f9a6a65c6917730ec3998d06e005019cb&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 15:59:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[扫描器反噬：从一份 152.5 GiB 泄露档案，复盘 TeamPCP“SANDCLOCK”供应链攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqibhxOICrrJxkRXILFE5ic49mkCbjT0ysfhLQ6FnicLGWy4Ie7VPHLqyS8W6AjLMXqWvCIG1qQfZpj76tBmHX7yCow0HvbaRX36K4/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全深度分析扫描器反噬从一份 152.5 GiB 泄露档案，复盘 TeamPCP"SANDCLOCK"供应链攻击一次针对安全工具的投毒，如何演变成波及 898 个 GitHub 组织、41 万份</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519866&amp;idx=1&amp;sn=7187b5988b3159ac70113274c7780a2c&amp;chksm=ebe03249cc307119145867d7f1a88520638ffcc9707c1ba251ad1ef0385874a97c70f246fff5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 17 Aug 2026 16:08:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.08.07~08.13)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicOwhcWFuAJ0lpoArmODobjzemyJqfhVPeic8Fy6YB6kz6YwrPkAT7JtCJhrxm7E7lnWtpoZL3g2dpRHjlO4FSibpS38067vz9l8/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.07~08.13攻击团伙情报Darkhotel 近期利用朝鲜相关诱饵发起的攻击活动分析Head Mare APT 组织利用未打补丁的 TrueConf 服务器中的漏洞投递恶意软件Laz</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519857&amp;idx=1&amp;sn=ac62fb3eb6bc94da52f0e696f31357c0&amp;chksm=ebdd58cb03488d7a6d73f98f58bc6c6a5a1b0ba98ee5a3ebbb7dc42b4e0428f2d40e2d46e303&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 14:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

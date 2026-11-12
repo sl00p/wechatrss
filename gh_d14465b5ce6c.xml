@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不只是Memory：Ontology如何让Coding Agent越用越懂项目？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9049T8h1Ae9s8Th6mg1T6PY1gAwVSGDlR9QCbjZiby0IcDPTTBKywQLTECWKxFSeSc3DBcUQjtZqG4OGHV2VLia5D7s6vQhqNkwb0/640?wxtype=jpeg&amp;wxfrom=0"/><p>一个 Agent 怎样才能逐渐熟悉一个项目? 通用模型提供了代码和推理能力, 但具体项目里的概念, 约定和历史, 还需要从团队的材料与实际工作中获得。 拿到这些信息之后, Agent 还要判断它们在什</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808188&amp;idx=1&amp;sn=9493b80e2a1e4c6ab409e77f2ac57584&amp;chksm=bfbee0654c296794ea58bae8af7f94736b3bb962db6a57b2badfddae2036431bfbaa8a0f7f87&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 13 Nov 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AI从Working、Coding到Oncall：腾讯视频如何让知识流动起来？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9065MYHLZje77uE3lJe9wtichjunhHCOkaVUd9FZocZ20ZGR8apZWxCHbl9mRmesqmXKKbkqicNU4s50WjpaCjktXFbGZicNOR4n9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：adawswang 共同作者：seasonzhou我们常调侃自己讨厌两类人，一类是不写文档的人，另一类是让我写文档的人。文档是知识的一种，在AI生产力爆炸的今天，有了 AI 似乎就能轻松建知识库</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808124&amp;idx=1&amp;sn=24e1795f9b37a52914a395ced0ec6c7f&amp;chksm=bf4e181c8dbda8aff4834e937c591afed5d8997e345a18b6c55683f10ac73b304c3b15c7d9f3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz905NpB5OTxwYF22W2TOp7ojTRYFjzb7ONPtriatBhMQt2TfIh6jrELBVxYed5jaibWFaXOcS5v4JSTEoUSPogH9lMZjxFw0rfYFSI/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：xiangnzhang本文是 DECO（一个跑在生产上的数仓 Agent 引擎）实践系列之一，聚焦护栏层：怎么用 Agent 框架的 Hook 切面，把 LLM 处理长文本时的"偷懒"（截断、略</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802659&amp;idx=1&amp;sn=8c2b4c6e4501a69632fe05b2e6e8e3b0&amp;chksm=bf7fe7540107c86733096b5619a8e8c669cc2ec62573e42fbd6594acd54f0097f38098cf702d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 17:50:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯PCG联合深圳河套学院：在全双工语音大模型领域取得重要突破，获 ACL 2026 杰出论文奖]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz9059MYgAUGpApViaLF9GRQMJNIPRibicfdgsQa90psgvfz49Tb1ITkZyuQZ08vX8RicWxZKruicejg0OvEmPskF8oLiaq1F6ytlmYoqsg/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，自然语言处理领域顶级国际学术会议 ACL 2026 公布获奖结果，腾讯PCG技术线-AI创新应用中心联合深圳河套学院AI训练平台张民教授团队凭借全双工语音大模型研究成果 《Hierarchica</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802659&amp;idx=2&amp;sn=d7eb836cbf1c5d47f8d6c2ea645375d8&amp;chksm=bf1cfb6561b57f296de99466c74bedae24d35415c83dad3c63a94d639f330872f915a07047ed&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 16 Jul 2026 17:50:29 +0800</pubDate>
     </item>
   </channel>
