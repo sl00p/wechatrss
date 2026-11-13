@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[搜罗了 5 个刚开源的 GitHub 项目，可以看看自己能不能用到。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dxd0HqtzaZUyOpsBJ6SmwzztCDrzUngItLG4gxLucDOrfQKpEkAsI5bRnA1PN3PY2CaTEXlz1eaJqhvt4Fw9O6X2LtU8blGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给一张参考图，让 AI 帮你做 GIFgif-factory 也就是 GIF 工厂。这个开源项目是一个让 Agent 帮你做 GIF 的神器。你发给它一张人物或宠物的参考图，再说清楚想要的画风和动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538466&amp;idx=1&amp;sn=8ce06fbf66930fa6d90e80f5be10fa3f&amp;chksm=f83bafcdeb163097753393e47a6f8a51d3702030178ab3f12250243af3ad17b4cf144e8ae01a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 10:29:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[又 3 个刚开源但要火的 GitHub 项目，在 iPhone 上跑 macOS。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3vMficnMNQSUeeeJkNP7E2Wzt1NeuXqibqJ1Y07FibiaQANrjwNwA4hKehBLA6JqibollY3UEB7ePngjBKcaq2CfWicF9vGPUKjytQY/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 iPhone 本地安装 macOS这个叫 Henge 的开源项目能把 macOS 安装到 iPhone 里。它会下载苹果的系统恢复镜像，在本地完成安装，再通过手机里的模拟器运行桌面和应用。安装</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538432&amp;idx=1&amp;sn=631a5c0b7a3a95abf4d4efc11f80d944&amp;chksm=f852208fa9b6564a7aa5fd13774448c82d37f4659d5346449efd054aa618133236d2df422389&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3YMjiayq3gkCP3kTLJUGmROoHGIPibx25dMbZyfkJ3ibxvo8QQLBhxEHYA2ykRN0UO1H64ggGmYmqXsGCVbvP2k9N752l1YdRAt4/640?wxtype=jpeg&amp;wxfrom=0"/><p>pi 这个开源 Agent 的含金量还在上升。基于 pi 构建的一个新项目 Prime Agent，最近登上了 GitHub 热榜。目前已经拿下了 17.7K 的 Star。这个项目的定位是：一款面向</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536098&amp;idx=1&amp;sn=f5d705af93475ffc2faa1d42915a7d61&amp;chksm=f846ae8d070c5e011cfc6ebef7bf58ed52cedc77acab8a5ba7893bd8616eead5346008ecc1ce&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 22 Aug 2026 15:05:44 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[挖到 15 个宝藏插件，网友把 DeepSeek Harness 玩出了花。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0cicVDLzl1bDAtypIwe0jjQODg5cqvc7JsRkmJLBddXk9JHkhvEDtOXvwYwYHn1UPTMd80uiaBcBqsibtAlMdqA1MHs163qyBH94/640?wxtype=jpeg&amp;wxfrom=0"/><p>01两个 DSH 客户端不少人对 DSH 感兴趣，却不熟悉 Node.js、命令行和本地服务这些。其实 GitHub 上已经有挺多的 DSH 客户端了。能把 DSH 的 Web 界面、本地服务和插件系</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536097&amp;idx=1&amp;sn=091f144430361965e333b86109bf3a05&amp;chksm=f867a33a47b73a08176ffe436a1f368488308b3ec6c13c8bef3b3691884d3b8eccf75487245c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 13:16:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

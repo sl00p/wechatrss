@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[记一次完整的 Zelix KlassMaster 本体逆向与源码级反混淆实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K10ibaxqUGvibpLS3awoQwcuAcP5VTQfZpaic5ygOrSGKwIrfknDHIicttTBrtIOtibK2p9BZg48ABwTicCHxzc9f3TZCnibxuv58oibicM/640?wxtype=jpeg&amp;wxfrom=0"/><p>源码已发布于：https://github.com/StylesFoundation/OpenZKM摘要本文以 Zelix KlassMaster（ZKM）自身为例，从反调试机制开始，逐层拆解 ZKM</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624224&amp;idx=1&amp;sn=34cf91f01b35defaf5eb80f5bfea1ab2&amp;chksm=b07273bc330911b8556ace222cd042b7d59f24336b439cc20ef72d06a4e9e4338f080ef423fa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 17:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624224&amp;idx=2&amp;sn=e3b42d1f79c2b5195c45227de6f37c61&amp;chksm=b04b9b7da4ba8f43ca199154cf94e6148bb5b384761506a294b7e8f2f24352d1dd8ecb2a9f18&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 17:31:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[学习某Desk远程，实现windows自动登录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2GBd09YMibPibpghXFcTVh7AvkSqlib3m3U7sd4mYCPFzqBcpNIVsTXt8Fuf0pUFj31w8j03ibAxkRRB3XhrVpzm3NNmeqWbztiass/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近发现某Desk远程桌面产品有一个很不错的功能，在软件上保存好目标计算机的密码之后，下次远程可以实现自动激活锁屏界面-自动输入密码-实现自动化登录，用起来很是舒畅，于是学习了一下相关的资料，实现了关</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624223&amp;idx=1&amp;sn=06575bba37c7fa5795eea47f568914a2&amp;chksm=b0501d48c2564708862ceef092961c6d9c4425cee4da202bc35bc72e277c9118891af59d11ee&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0lulrHotLJrwg2w2RkJOmxREB779bhJYC5eH667o6ljv8hPgdY3XcrNFPYqDhmjrao4Mx1xbiaicSAY0NlHicyS044Kq85icuprFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>适用读者:手里有一台 bootloader 回不去、想救回来的测试机的人;或者想把一个内核 exploit 移植到自己设备上的人。前置要求:会 adb,看得懂一点 C,愿意接受手机重启几十次。0. 事</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=2&amp;sn=36915887042b42ce81d9a8043bc026e4&amp;chksm=b08378771b32bb780feca8ebe405bc492e18cc19ddedc505095bd4bffb84d99990aea3252c5a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 17 Oct 2026 17:59:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1CJZmSK9zqTFPQjcaAQSOnacdXunKpNpWFFbYprAqwWFUZl2g3dy8GQQSSlsiapZrOtHAm60BiakvicdkaukfqTHSgvlNzF5OozY/640?wxtype=jpeg&amp;wxfrom=0"/><p>ZeroMDASH：领域自适应的Agent-Native通用漏洞挖掘工程AI Agent已经能够阅读代码、调用工具并自主执行安全分析，但当目标从单一函数扩展到 Linux 内核、虚拟化系统、网络协议栈</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622868&amp;idx=1&amp;sn=93f5441a8bb0cfae0caf8d0832e1ef39&amp;chksm=b05704585d37a0ec85e4db58fdacb03b1f96dafbaf202a5c18d83b8a1e19b78ab4f99652d226&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 17:59:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Unreal Engine 4引擎基础及其2024第九届游戏安全竞赛-初赛-安卓客户端安全为例]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2eCMYtg50K47AxHffetficFsIPuAvicgK42KAiacr7UDtolZknIO5nEMNBnqjWjBYDM77ScDD5AibZV6wFybCHQBqnE1m2ce8nRoU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文以 2024 第九届腾讯游戏安全竞赛安卓初赛题目（com.tencent.ace.match2024）为例，完整记录一次 UE4 手游的逆向过程。内容从 GUObjectArray、GWorld、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622868&amp;idx=2&amp;sn=bc2cba412443f25e07ea5bdcd3606bd1&amp;chksm=b0f6fd9e2b9042becb77e30ecc54faabb6dcc75e52513ebbeb07828cb1ed4eeb762035f97e29&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 16 Oct 2026 17:59:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

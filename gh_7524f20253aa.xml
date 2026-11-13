@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenAI发布Daybreak，AI Agent正式入局安全测试与漏洞修复闭环]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0aDW9rOlIUiaM51VhMup9Kibwy10UbQmX3cqbr7ywGSfHm2gKvic88ibThk7nMPcMsTwltZBvYuAwShicEg8XrXjllplVs6IZdpU6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI推出Daybreak，将AI Agent进一步融入软件安全流程，把Web应用渗透测试与漏洞排查、修复开发工具相结合。该产品包含红队、Defense Factory两大功能模块，打通从安全漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350982&amp;idx=1&amp;sn=660d79eee1b6373bc7bbcdc1d68b67e5&amp;chksm=bc1d62f58255f54fe6bbffacd3ab4aa3a1bae86bc4e8170ba5de7bfbfebc4948b59df149f015&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者爆破微软SQL服务器，猜解密码植入挖矿远控程序]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3n1v4Xghgo8v0wMzFXmw53ibDadTSLLVHWlNFnrPsE2veUIxqCK7rl07UiaejqXUBFKLjQiasra2ImZtib5ibzWfV1HKcppGuKMAPo/640?wxtype=jpeg&amp;wxfrom=0"/><p>新一轮攻击活动正通过密码猜解的方式入侵暴露在公网的微软SQL Server系统。攻击者使用包含超过2700个密码的字典尝试登录，成功后在被控机器上安装加密货币挖矿程序和远程访问木马（RAT）。这轮攻击</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350982&amp;idx=2&amp;sn=eb09b34c0aa1aaf781137dc40bf20c06&amp;chksm=bc4ce08fa26cb1d1a234bd892ec92c20c196354c10bfc09ae3a8c4e2e0421c145ac3a82b5b96&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[越狱版DeepSeek AI Agent入侵欧洲电信商；Anthropic发布Claude Mythos 5.2 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🦠 越狱版 DeepSeek AI Agent 入侵欧洲电信商，访问数百万份患者病历 🏛️ 白宫网络被监测到流出住宅代理流量，或成内部系统入侵入口 🔍 Anthropic 发布 Claude Myth</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350982&amp;idx=3&amp;sn=5ef066493addb42d2e3e0f0935162fb5&amp;chksm=bc23a1ce20e55cc7a05ac74b8bf61f2e77eea29a03a11ee12bb45229c0e3a47d7d934233cb42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 14 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[台积电确认发生数据泄露事件，4.6万条记录疑遭黑客挂牌出售]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0vL4A1yarr2uZFGpy06dTqLDnicMS0uoh9nmgQgT1ibVNbjxP4kKia4xPam9NzPQa9Fz7d4o9FhELm0iabjj3YLkKSkZqiaBlT28r4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01台积电确认员工数据外泄台积电证实，部分在职及离职员工的个人数据遭人未经授权发布到公开网络。台积电于2026年11月12日披露本次事件，称外泄信息与一家外部云服务商存储的记录完全匹配，目前没</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=1&amp;sn=d40fda9443a447f36a1a2cd4eb49824c&amp;chksm=bcc97397b5a3a705f8594db02186160c1b4c163b116f58c8810f0862f28b4b6b90a734450173&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0AwftJOC7loDybQ2MzU38UOkqrsJUibRNPIqBGibDquO2FtughjibIGEcqwtqYZByicO2I5j2s2UOr8yI7DILNK9Jp6ddSSTiaj50I/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic披露，在英国AI安全研究所（AISI）开展的网络安全测试中，其研发的Claude Mythos 5 AI Agent曾试图向真实GitHub项目植入恶意代码，还使用虚假身份劝说开发者</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=1&amp;sn=59a2d02a6614d247c068a9c68f3de83c&amp;chksm=bc0edcbf00e67be06cd795e2e10dade2dc8163b4293da86fe3a414e237bff92aba93fdecc9da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LiteLLM主密钥泄露，攻击者窃取GitHub令牌劫持发布流水线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0svVZw4MupNHsxPpHRBOXP9PPeS1AgTsBr0THk2V5JRlU1mlMjg4rGl5rcLfvsa3n3nfibsIHepahJPlT435eJP9sFejGzQHmM/640?wxtype=jpeg&amp;wxfrom=0"/><p>LiteLLM于周五披露，2026年5月底，一枚Agent Platform主密钥被意外发布到公开GitHub仓库，最终导致攻击者推送了这款热门Python包的恶意版本。LiteLLM的Oliver</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=2&amp;sn=d4f418b10e284e4c9c9384c85b906c04&amp;chksm=bc48de0a0fa4a5040ac95a7a941282e7cdeec4b93d226783aaa4cd8fc8817f600fa950b6a363&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周PDF资源：AI Agent照片定位；LLM自我伤害研究；2026世界发展报告]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2sHA2yxb9t9z9eEraWrrQFVytJX5ekpIK9DS645EmeKuPIGSjrgwThAm2p4HFdNfIdR1xfoq66rtmTALF843BWXYRKe2cfSeU/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349569&amp;idx=3&amp;sn=e9b2db961ff6e12cf31c1043949c2ca5&amp;chksm=bc802c43143fd99fb013cae2fc29b8f25c7b4300e2039fa288baf340797009fb4668ef87b207&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发现Agents可绕过安全隔离，串联0Day漏洞逃逸]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1AZTOcnHCYa3SOpia4sFscHOGBYgSsakibG6O0QCRlmtBaUqBPRB1TjcdGRjHsPIJl2Spdyicq2xP5Oib8W03WrVSddEsV2ur5WuE/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI在对其研究系统开展的大规模红队测试中发现，旗下AI Agents可发现0Day漏洞、逃出沙箱、接入真实公网，甚至跨隔离边界交换信息。测试结果于10月23日公布，展现了先进模型如何串联软件漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349530&amp;idx=1&amp;sn=b8bd78e2f2aca08a3c4e1833e70277cb&amp;chksm=bc3d83713b20cdf2acd3235510a5969deba306a776dd676ee885155d05d574c7a9c19275848f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
