@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Claude 最新模型发布 1 周了，瞧瞧外网惊艳到震撼的玩法。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1UwatibfEYVCdewQQVH9SbxqKr8ibA9ic5Qcy4bjDCXbWbaM4ia1d1BjC62Y4ZLxc0ycibibJnVqwPLuct42SzkfeUhrhPOXFkEicqtk/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年 5 月，在 DeepSeek 投资者闭门会上，梁文峰说：“3D 和视频生成可能跟智能的主线没有太大的关系，我们不会去做。”“现阶段我们觉得最重要的，应该还是 Coding Agent。”如果说全</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538534&amp;idx=1&amp;sn=ddb8b641f2e240e51c53cd7aa998299f&amp;chksm=f8f168ae7672987b993e4e7cd05d3f7bc8ab003e16436f0a1fa55cd3207b96e98f5180f82a0c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Nov 2026 11:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[搜罗了 5 个刚开源的 GitHub 项目，可以看看自己能不能用到。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU3dxd0HqtzaZUyOpsBJ6SmwzztCDrzUngItLG4gxLucDOrfQKpEkAsI5bRnA1PN3PY2CaTEXlz1eaJqhvt4Fw9O6X2LtU8blGI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01给一张参考图，让 AI 帮你做 GIFgif-factory 也就是 GIF 工厂。这个开源项目是一个让 Agent 帮你做 GIF 的神器。你发给它一张人物或宠物的参考图，再说清楚想要的画风和动</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538466&amp;idx=1&amp;sn=8ce06fbf66930fa6d90e80f5be10fa3f&amp;chksm=f83bafcdeb163097753393e47a6f8a51d3702030178ab3f12250243af3ad17b4cf144e8ae01a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2ZegDFYNZvqmsaZNwqJmWW7dOfnunGYBib6tSDoibkMYE54TqX7tAIvcJoq7ZWPCmAlLdqUe10L66ZcRGCs5pqtjBsQ5gTU42SQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一套美观开箱即用的 LinuxOmarchy 是 DHH 推出的一款开源 Linux 发行版。它基于 Arch Linux，采用能自动排列窗口的 Hyprland 桌面，并提前配置好主题、快捷键、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536122&amp;idx=1&amp;sn=b7a284d06296707235d8dde07c6f6d4e&amp;chksm=f8be8eafbea6b5fd76510b9a4e98e97c01a6f8f1cc874468ad01e9e4d69a88d207a3747cdd6a&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 23 Aug 2026 11:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推荐关注一下这个刚开源的自进化 Agent ，登上 GitHub 热榜了都。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU3YMjiayq3gkCP3kTLJUGmROoHGIPibx25dMbZyfkJ3ibxvo8QQLBhxEHYA2ykRN0UO1H64ggGmYmqXsGCVbvP2k9N752l1YdRAt4/640?wxtype=jpeg&amp;wxfrom=0"/><p>pi 这个开源 Agent 的含金量还在上升。基于 pi 构建的一个新项目 Prime Agent，最近登上了 GitHub 热榜。目前已经拿下了 17.7K 的 Star。这个项目的定位是：一款面向</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536098&amp;idx=1&amp;sn=f5d705af93475ffc2faa1d42915a7d61&amp;chksm=f846ae8d070c5e011cfc6ebef7bf58ed52cedc77acab8a5ba7893bd8616eead5346008ecc1ce&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 22 Aug 2026 15:05:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

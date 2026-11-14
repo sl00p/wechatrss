@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[是不是引入某一个工具集，就算SDD？（arch.md开源）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXe0W17peMicsNVUG5aAuZKRb21HnIOqsQmeFRDKL8KKr3kvvmyhjbbsoN9JE8c1EORQUdnyjcOqoVavxLZQKuQ2B3lXwiaSECRWs/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨天一篇《代码都被AI写了，那人的价值在哪里？（SDD超级干货）》，提到企业级SDD开发流程，不少有意思的留言。【第一类】SDD（规范驱动开发）已经落后了；TDD（测试驱动开发）已经落后了。SDD和T</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981915&amp;idx=1&amp;sn=b6c0f6ce02bb467fa2f6a35b2a560e6b&amp;chksm=bc91f65e80c2a355de111f588bc33ce6c00c900c0878156b672d0d98c4e3ef6ecf8fc3b7b7e5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 15 Nov 2026 12:37:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[代码都被AI写了，那人的价值在哪里？（SDD超级干货）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdagqUPFW4UvkzBiaQFaefr3qSBy1nfUNZ4VraibNpRUL73CpXSGovv2tro8NyiaU7TaY85BwzuicdEW28kxqcaibHia9RicbeicF218gk/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI驱动SDD企业级开发全流程》，欢迎预约。这次直播，和大家聊10个问题。问题一：古法编程时代，软件研发流程，大致是怎么样的？人做需求 → 人需求评审人做设计（指原型） → 人设计评审人做架构（总体</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981897&amp;idx=1&amp;sn=b23e2d29c3549d440746eed75f236842&amp;chksm=bc9d1a64e9127f08246ed0232d77063a43c833b0a23cc08c41dc54751b7c8a38fa10813b75f4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>我打磨了一个新项目：《49天企业AI编程实战行动营》，今晚开营。 核心三个字：AI实战！ 包括10次动手作业（含1次大作业）。 这个AI编程行动营，适合谁？ 1. 还没用过AI编程，想快速入局的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981491&amp;idx=1&amp;sn=8df77bed7086e96aef80a7bbb41f2760&amp;chksm=bc604d346766bda46c2f2c6167299f804890d21e2373c5faf4589d0d2619d326bc2e8088c1dc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 01 Sep 2026 11:41:27 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前段时间，有童鞋留言说：AI见过所有的架构，那未来究竟还要不要架构师？ 估计很多人都焦虑这个问题，先说我的观点：[架构]并没有消失，是[架构师]的工作方式，变了。 确实，AI见过所有架构，但AI并不知道我们要哪一种。见过所有，恰恰意味着，它拥有所有架构选项：不加约束，无异于"抽奖"。 如果不加约束，AI每次生成的"架构实践"都可能不一样。十个需求，十种架构设计。而架构师的价值，就是把抽奖变成确定性。 另外，AI的架构知识是公共的，而公司的架构约束是私有的。 每个公司都有自己的技术栈、技术规范、业务特性，这些东西不在任何公开语料里，AI没见过。把我们项目的个性化约束告诉AI，这件事，只能架构师来干。 最后，大家有没有想过，SKILL的本质是什么？ 不就是流程规范+场景约束吗。如果AI真的包容万象、不需要约束，那为什么SKILL会存在？ 约束不是对AI的不信任，是让AI稳定发挥的前提。 AI抹平的，是"手写代码"的差距；抹不平的，是"技术判断"的差距。 所以，我个人的观点是：架构师不会被替代。AI时代，架构师仍然要写约束、做判断、兜底线。 道理聊到这，大伙真正的疑问，或许是： 1. 道理我都懂，具体怎么做？ 2. AI编程的典型流程长什么样？ 3. 架构约束写在哪、写多少，才能保证架构的稳定性？ 4. 页面样式五花八门，设计的稳定性又怎么保证？ 5. AI时代，我们技术人到底该提升什么？ 这些问题，几句话讲不清，今晚直播，和大伙细聊：AI编程的典型流程，如何保证架构的稳定性，如何保证设计的稳定性，AI时代，对技术人的启示。 思考，比结论更重要。 一些浅见，希望对大伙有帮助。 欢迎预约，直播间不见不散。 PS：你认为，AI时代，还需要架构师吗？]]></title>
-      <description><![CDATA[<p>前段时间，有童鞋留言说：AI见过所有的架构，那未来究竟还要不要架构师？ 估计很多人都焦虑这个问题，先说我的观点：[架构]并没有消失，是[架构师]的工作方式，变了。 确实，AI见过所有架构，但AI并</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981489&amp;idx=1&amp;sn=f80407051a88955aa736504a5a61737d&amp;chksm=bc4c513fad33e032a85c7cc34e44e084feba5ecd5447d46031f30113939305842bfeed7f03c8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 31 Aug 2026 13:19:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
