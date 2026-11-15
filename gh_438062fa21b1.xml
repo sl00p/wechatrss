@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Qwen4-Max 正式上线！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz5L7vId3DcAe6ozbZyU4JFbkLmcibNrXH0BadmJsNrD1sbKibYFu2Z9LwN2sADR8nGPx6bxEmO8OAu9HwJdFLbYDibY9fMIwEB0nU/640?wxtype=jpeg&amp;wxfrom=0"/><p>我们正式发布 Qwen4-Max——与你并肩工作、创作和探索的全天候 AI 新同事。Qwen4-Max 基于 Qwen4 系列全新结构，拥有 2.4 万亿参数，具备原生视觉能力，支持百万 token</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512505&amp;idx=1&amp;sn=1c20deef6f26aaa98b23cfc483c123ca&amp;chksm=ce1de95b65f982970c26378079c35569dd4e3a2f678ae9dde4f8fef88deb90cf3e449f9cb8bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 11:14:42 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[基于本体的 AI 数据研发落地：淘宝行业经营分析实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5xgOIeSqXOic3RJmwTN8eksoayaRKBDc6zCWWbyGPxy8tNveVplLbwVVZt7XpeY02XhAeTSkk1Wp4nl5hibcx7U4ib21VxFO7yJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 81 篇文章（ 本文阅读时间：约 15 分钟 ）AI 写 SQL，快不等于能交付。在阿里的业务体系中，一个经营分析需求往往要关联数十甚至上百张表，同名字段在不同场景下含义不同，指标</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512497&amp;idx=1&amp;sn=82924a5a7f2f62006617c12080a83fc2&amp;chksm=ce0fb6aaebc8cab4bcb47826dcc2fb840a9b8f93a718c7183ce13bccf06a2d72e666dc05b33d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[一个小模型意图识别系统的 5 天进化实录｜支付宝618]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4fEmR9mrB3ZJm1ibcTjCP3ocIsbZnzwu9ia15s0dM78MMuflQ9BePsvXhlzACKc4kColPYVODmLWh7z5ZvK5PeDj82uTE2xiabDQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 35 篇文章（ 本文阅读时间：约 25 分钟 ）01业务背景2026 年，AI 不再是一个 buzzword——它已经切切实实地渗透进了每一行代码、每一次技术决策。说来惭愧，作为一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510088&amp;idx=1&amp;sn=ceb536a3507268c3b0f6fec609b233bb&amp;chksm=ce107be432df44683dfb0405b948b94d90fd0541ddd356ca65dcc4cb493ce57f85d9e8413801&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 13 Jul 2026 20:17:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[上交 x 阿里：让机器人闭眼先学动作，vla 成功率涨 43%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz6YMKRqYxBO0uaCGa655pC1ibGiaXg4cW4V1XwvSa1suib4nvOXnR1TpxbxMMB1qUgDiaSAJlkF69u7p3Ok5BoBWVpn4oCf8CpKSgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>近年来，Vision-Language-Action（VLA）模型正在成为通用机器人操作的重要路线。主流做法通常是把视觉观测、语言指令和机器人动作放在一起训练，让模型根据当前图像和语言目标直接预测下一</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510088&amp;idx=2&amp;sn=18a09c3f6d3794079544b9907335b527&amp;chksm=ceb31b7ef739981eb83e4ca4a2097173f8a9b2e4f77223503ba07d49bb0d154b8812c352c1e8&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 13 Jul 2026 20:17:01 +0800</pubDate>
     </item>
   </channel>

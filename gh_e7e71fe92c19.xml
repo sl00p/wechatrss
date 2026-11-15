@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[SDC2026议题回顾 | 物理世界的自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2keJ99TK5ZTRO5lg3ic4LRTta0LT5KL95Iq9dicbKRLwCyLSOH781ENKAzX2Obp3Qq77ORuhib1CSswjianiaRz6ib5SBNCB1bMLffU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾随着 AI 硬件、智能汽车、具身机器人等新型终端不断出现，IoT 设备的安全边界正在发生变化。设备不再只是一个独立的硬件，还涉及芯片、固件、无线通信、移动应用、云端服务和账号体系</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624294&amp;idx=1&amp;sn=c4bab0d9112149dbeb84c57d820af858&amp;chksm=b05602f78c646ea0ef47bc766ff0f450dda02fcc064c868dc733582f483a69e7c19a2b00ef2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Google Project Zero调整漏洞披露政策：报告后90天公开，不论厂商是否完成修复]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1glh0RP8xhw1ItwBgWX6q23iaFEt0I0j10SiceYAxdXlHYlFQ1ibZ9IqHQu8mq4PIKqbk8nqr9xBMvuRqem0q1iaRo4ARulNHmZUQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google旗下安全研究团队 Project Zero 宣布调整漏洞披露政策。根据新规则，团队向软件厂商提交漏洞报告后，将在规定期限届满时公开漏洞技术细节，不再以厂商是否完成修复作为公开条件。新政策名</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624294&amp;idx=2&amp;sn=02afbf48a83a48430131aa1ed3cb32c9&amp;chksm=b00777d840be72cf71ca802ffe5e6cabf6f7dd96c3d923630f5fd913e245cabbdd8755e7ce53&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[【招生中】AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624294&amp;idx=3&amp;sn=91d5ae0cc6ea846b1d5760952a73552b&amp;chksm=b026ceb5b94146f53b28cf200bc07e40f8493593d6aba3dfc362d638ba666b09d7f36eb6e268&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[记一次完整的 Zelix KlassMaster 本体逆向与源码级反混淆实战]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K10ibaxqUGvibpLS3awoQwcuAcP5VTQfZpaic5ygOrSGKwIrfknDHIicttTBrtIOtibK2p9BZg48ABwTicCHxzc9f3TZCnibxuv58oibicM/640?wxtype=jpeg&amp;wxfrom=0"/><p>源码已发布于：https://github.com/StylesFoundation/OpenZKM摘要本文以 Zelix KlassMaster（ZKM）自身为例，从反调试机制开始，逐层拆解 ZKM</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624224&amp;idx=1&amp;sn=34cf91f01b35defaf5eb80f5bfea1ab2&amp;chksm=b07273bc330911b8556ace222cd042b7d59f24336b439cc20ef72d06a4e9e4338f080ef423fa&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0UKGlGJaPGZNz06ym2rwptAVQM8XktKWAK0D4j9ygiaEHGPBgjfX5acdb5omWFGD5xvt4XM0bcozePkdaexf51mQv4Bg83o0sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了基础的Frida和Root的环境检测方案和绕过方案，本人学习时间不长，若文章有纰漏，望各位高手们找出后及时提出。FridaFrida注入原理在多数教程中，都指导把Frida-server推送</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=2&amp;sn=5ee1224d6da0d970b61a0550a1a6d95c&amp;chksm=b09d90403175a79cb5e8c36a240dd17b3da5c6480589ff7522dae0369f0a920fa1d2daf3dcde&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Perplexity接入开源逆向工具REA：无需源码，AI可复刻Figma、Photopea等软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K00bezqD46rvm97dCeR3j9Pia707rExLJC2OsNgKoF5EicKVHVhtus5OMZD9UVntb0w3BALTffYib3PxvoGeNkwG5IMIL2XGnswicI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Perplexity宣布，已将开源逆向工程工具REA（Reverse Engineer Anything）集成至Computer。用户只需告知AI想要复刻的软件名称，系统就能在没有原始源代码的前提下分</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=3&amp;sn=e463962c4f3c84cc377cbbed61a66424&amp;chksm=b0aa64603e3c19bbfad9c9e0534d23fad8a9790767bccc0a5d1ad864acd4494b38a871e7f15b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K240FiaO6iaawZbiaMeHcxia3JNUBzKen5gFT84ykicmAfNgMjMdQ51L6Jic98uZ0nqKZSXqBG6zkh0SVWzXIqDkVibyswRKuNicSuhmXQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践大模型让软件层漏洞挖掘加速，但 IoT 设备的攻击面在物理层——串口、调试接口、总线、无线协议。Agent 能否像人类工程师一样接入这</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=1&amp;sn=89006d52e87c01402146d6b270efaa9f&amp;chksm=b01ddc28b5c6e39049b44e44276d0d46d4be39e98214f8a0ed70cdbc7e0ad96b0d7b957f4156&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 17:59:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0lulrHotLJrwg2w2RkJOmxREB779bhJYC5eH667o6ljv8hPgdY3XcrNFPYqDhmjrao4Mx1xbiaicSAY0NlHicyS044Kq85icuprFA/640?wxtype=jpeg&amp;wxfrom=0"/><p>适用读者:手里有一台 bootloader 回不去、想救回来的测试机的人;或者想把一个内核 exploit 移植到自己设备上的人。前置要求:会 adb,看得懂一点 C,愿意接受手机重启几十次。0. 事</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622904&amp;idx=2&amp;sn=36915887042b42ce81d9a8043bc026e4&amp;chksm=b08378771b32bb780feca8ebe405bc492e18cc19ddedc505095bd4bffb84d99990aea3252c5a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 17:59:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[阿里字节接连出招，WorkBuddy水深火热中]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQHaayzR7UveYJVjTM9SpYax5MnjUbPVPlkgEl1TbeTSuZgwJwsHibNOu9rthLN6BGME4MEJoOHmltZQqfyeLHLJUxDuIdbqg8pE/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯WorkBuddy最近又被字节和阿里前后夹击了。11月12日，字节旗下的豆包工作宣布扩大第三方模型支持，新增Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934501&amp;idx=1&amp;sn=cc1d54e72ce1e94b14e2de196f1cbb50&amp;chksm=bceddebf7f5effff4afad965c8b81b94da6a7bb65db2d09f8f021fbb65c68dbd72a2b386f529&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 16:07:58 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[项目拆解 | 面向Agent的知识库检索怎么做]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQFKQaKR4mAkOUhshgPA5Ziann40oib7ZIrEGjQFiaibtQHOGrictoAx1sXX9tSlaGKAmUe8nMUKLISl8BXOkxiaKwzc2XG9jQXpoNticI/640?wxtype=jpeg&amp;wxfrom=0"/><p>工作流不火了以后，关于 RAG 的讨论也少了。前两天知名 RAG 项目 RAGFlow（GitHub 有 9 万+ stars）更新了正式的 1.0 版本，核心改动是面向 Agent 检索，不再只是给</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934501&amp;idx=2&amp;sn=560ba10324b84e9ca50837b2d9c4b236&amp;chksm=bcdf713246a117dec5f1d71f2710d63e87a2bb3ab9c367cee8c184f6f879aebac0017cf65496&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 16:07:58 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[工作5年，求职AI 产品经理该怎么准备？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQF2PQxIibxUYxrR7icicFOetojlEjmjian1QSERibib8mZcsiaZjDI7OPV4l2Kvmpub9PKJODZnajJr0aIzy0LoIjBFOmWYG2jogpUWicc/640?wxtype=jpeg&amp;wxfrom=0"/><p>做了5年B端、从没碰过AI和跨境电商的产品经理，去面一个25-40K的AI产品孵化岗，差距盘点下来5条要求只对上两条半。本文是作者的实战准备记录，供大家参考。———— / BEGIN / ————我做</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934501&amp;idx=3&amp;sn=4537fe0c9f5c5ab97f072a4ccfbc86e1&amp;chksm=bce25414e0a8e67f8aa04088f92ed49a7d6f68e387781ca3d66d3f2eec1bdc8cec04083dad19&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 16:07:58 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[本周的CoRL机器人学术会议上，OpenAI预订的208号展位空空荡荡，连Logo都没挂。 原因是，OpenAI又解散了独立机器人团队。这已经是第二次解散了，估计以后也不会有了吧？ 2019年，OpenAI靠机械手拧魔方刷屏。2020年却第一次撤掉团队。联合创始人后来解释：机器人训练数据太稀缺，其他技术路线可能更快实现AGI。随后公司押注大语言模型，最终跑出了ChatGPT，并大获成功。 2024年，多模态技术兴起、人形机器人火热，OpenAI又把团队组起来，与Figure合作开发“机器人大脑”。结果2025年2月，Figure宣布分手，转向自研。今年5月底，奥特曼还在招机器人工程师，公司甚至计划2027年公开展示自研人形机器人。 那为啥又突然解散团队呢？ OpenAI发现，GPT-6 Astra等通用模型已经能直接完成部分机器人任务。英伟达一项仿真测试中，Astra智能体成功率74.8%，专用机器人模型为51%。 虽然还只是仿真成绩，OpenAI已经决定将机器人研究人员并入核心模型团队，硬件与应用人员划入应用部门。 公司同时面临巨额亏损和成本控制压力，可想而知，搞真正的机器人项目也是哐哐烧钱。 国内大厂也在调整。腾讯今年撤销AI Lab，虽然Robotics X仍在，7月还展示了“小六”，但也明确不做机器人本体量产，重点发展具身模型和平台。 小米呢，还在持续加码，8月整合具身智能团队，由前字节机器人负责人孔涛挂帅。自称，其机器人在汽车工厂特定工位的作业成功率已达98%。 字节也把机器人团队归入多模态体系。 机器人未来究竟需不需要独立训练的“大脑”？这个问题，看来头部大厂们也还没有答案…… 对了，马上年底了，忙碌了一年，也该抽空学习学习了。 我们组了个局，邀请了26位做AI业务的朋友们，来分享他们过去半年一年的实践和总结，Qoder、元宝、WorkBuddy、MusicBuddy、百度搭子、神策数据、WPS AI、Vidu AI、Kimi、快手、商汤小浣熊、声网AI、QQ音乐等，总之，这嘉宾阵容绝对🐂🍺。。。真心别错过，具体信息看<a class="weapp_text_link" data-miniprogram-appid="d3hlOGEwMTUyMDNkNjdlODFj" data-miniprogram-nickname="活动行" data-miniprogram-path="cGFnZXMvZXZlbnQtZGV0YWlsL2V2ZW50LWRldGFpbC5odG1sP3NjZW5lPWlkJTNENjg3ODY0MzE5MjkxMQ==" data-miniprogram-servicetype="0" data-miniprogram-type="text" target="_blank" href="javascript:void(0);">2026 AI产品大会</a>]]></title>
       <description><![CDATA[<p>本周的CoRL机器人学术会议上，OpenAI预订的208号展位空空荡荡，连Logo都没挂。 原因是，OpenAI又解散了独立机器人团队。这已经是第二次解散了，估计以后也不会有了吧？ 2019年，O</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651934489&amp;idx=1&amp;sn=10b4cd615a1cc813daafef5d9ec7eb33&amp;chksm=bc3ad79b9c4ba4b06528f73d535afb8debb39de92a170cff8fc721fa28d1127b4fcf74bb5c40&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQHmMwMrxxruNS7bGmku87GOAEXXN7FpKMGlnPLPxiaKn4CibHJgbpUuFozgckmhdDywhkv76siaiamONylE81fiaJYicmn0xQxtbC1g4/640?wxtype=jpeg&amp;wxfrom=0"/><p>当AI客服需求遇上退款场景，产品经理如何避免“支持退款咨询”沦为一句空话？本文作者拉着客服一起写PRD，从一笔订单的查询、解释到转人工，拆解AI需求中“哪些事不该模型管”的边界，并分享如何用真实咨询路</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933285&amp;idx=3&amp;sn=ab66ee52980dd729cf2cb48cd42c3a5c&amp;chksm=bcd692be44235f2300772fed51322a970240f77d6ccfb0d1c165a4cd0f44bedda425abe89449&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 18 Oct 2026 18:23:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek开始招产品经理了，但它想做的不是豆包？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQEVdH6ANgPHvzoHOiaFVDOAFJPjia8fDuictLct9mYib0mYVqicfxVNKqKeSqhtZhpbRDNhVHgOY0WWox0Kd7o2jLs8QUmxRAIjWYbY/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 16 日，关于 DeepSeek 的两条消息几乎同时在朋友圈里刷屏。一条来自澎湃新闻：DeepSeek 把负责 Agent 运行时的 Harness 团队，和 Web、App、Platfor</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933225&amp;idx=1&amp;sn=d920a48c6090553da5826fbb70ef189e&amp;chksm=bc645c68538f5a3b2328b133e7ab1cabc704494c19dd03dd1969b64c79b92c7db8712b0e79f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 12:32:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯产品/AI产品类岗位扩招39%，不懂技术如何高效转型？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ibEdImMv0CQEpCwksSBHOMhSO5dasJLuiayrTnvibic13dFnFP9a13ibweFBhQFmC0HCNODkrmKC3xfOueTE3bVDPZ418myDUth2QNibTn52apPCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>当下，AI 相关的人才缺口已达 500 万，其中AI产品经理需求旺盛，薪资中位数再创新高，36k/月。如果是在头部公司，加上年终奖、项目奖金和期权等，一年50W不是梦想！随着Ai在不同业务场景中价值体</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933225&amp;idx=2&amp;sn=41293e707a56bd1bfe532e1d0c22a43e&amp;chksm=bc5f4c54646d97b4119568d5d451918dc7efdc0dcc7095a20c372471bb348cdaaecfc3a3315f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 12:32:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[需求评审总是在吵架，如何避免？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibEdImMv0CQGicyQI1pygttFBOKwvicjPZmJJxKzSqqjs5ic78RbjKl7K1GtdGQyID47GNWQ0w9pYJcXZvIeNknhhglRAYA2xNrxNdx4PbJr5TE/640?wxtype=jpeg&amp;wxfrom=0"/><p>需求评审总在争吵？问题可能不在沟通态度，而在于会前没有对齐共同事实。本文从电商退款进度案例出发，拆解如何用一张事实表理清目标、范围、流程、异常与验收条件，让评审从鸡同鸭讲变成可决策的讨论，并留下能交付</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&amp;mid=2651933225&amp;idx=3&amp;sn=9f2e0485ef958fda867ccbc799926949&amp;chksm=bc26c3fd8adc40b35e6b09ee26ea4d7ed1ab9e0c963862e2c1b07227d7d40e0ed8266eb50c13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 17 Oct 2026 12:32:12 +0800</pubDate>
     </item>
   </channel>
 </rss>

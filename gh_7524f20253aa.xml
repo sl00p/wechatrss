@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[仅靠3美元Arduino，Claude就破解了32年车龄Jeep ECU]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2A7wAqAg6kLj93qXrCpCQM1kc2VPicQ5b1XXKvBZS9ecqa5K4MXy9aIWePKglGJRG5PHpvPlaCzRIe9lshXWIKZleNTpMEeecw/640?wxtype=jpeg&amp;wxfrom=0"/><p>车主Muhammad Zulali表示，一款AI coding Agent帮助他读取、复制并在1994款Jeep切诺基的发动机电脑内运行代码。整个过程耗时约一周。他仅使用了价值3美元的Arduino</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351085&amp;idx=1&amp;sn=0377a28a0abd9be0cd0fc782fdcf91d7&amp;chksm=bc4d3cfb7730d7d40198ccc5ec2991308073a81aa28ae8b50d1b76ad456e6967a5be19d65312&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[谷歌Project Zero收紧漏洞披露规则，到期无论修复与否均公开]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1LxnPupT9DBgFwn1WryzTH76jMgDCgymgSYrDotTwZtADGibTTW3U7CWP6Jcic6wK4Pt4I2JF6d2ZxmZJBYmC4Stu9j8brmKatI/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌Project Zero将在向厂商报告漏洞90天后公开所发现的漏洞细节，无论厂商是否推出修复补丁。2027年2月2日，披露时限将缩短至60天，2028年1月3日进一步缩短至30天。团队将这套新政策</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351085&amp;idx=2&amp;sn=737604404db03c35c9909e1efab10dfa&amp;chksm=bc00875f4064ee06c85a4094f5a2cd5ffb4f9093249ecabd3e6c8547af249a3dbc6698ffcc02&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研究人员发现6个0Day漏洞，可未授权接管超市制冷系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2p7EDJBqibg7um5Cfa1zEWOAvHAvaCUC5hN8bOUGfUnwAN6t1nbiaCyjsJohlyCIrD872wPof3AmADbKOJR3bT8HZwf66VjAflA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Midnight Blue研究人员Carlo Meijer表示，丹佛斯AK-SM800A型超市制冷控制器存在6个预认证远程代码执行0Day漏洞，攻击者仅需约1小时即可远程接管设备。Part016个0D</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351085&amp;idx=3&amp;sn=11233335609959a3f310b1c54aeffafc&amp;chksm=bc718fbdcb234cd8307850e42bd7c978614f05d6af61c233a00ef7b693eace9111b5330f3f2d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ArcticRAT安卓恶意软件利用隐藏VNC控制手机，受害者仅可见黑屏]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2RqG3HrxN0L4BQqFBtu5T9I3G6uK6BI2zxLIksrNXvAhKI7t6fgQAdYoxz0D0TacHjafH3fYAvsRKctOD2JibWUF7blrH3b6c4/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为ArcticRAT的新型安卓远程访问木马可完全控制用户手机，机主仅能看到黑屏界面。设备表面看似锁屏或关机，攻击者却已在后台打开银行类应用、自动批准各类敏感权限申请并窃取数据。该恶意软件最初是一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351085&amp;idx=4&amp;sn=9dccd686b5e82f66e8bb9ee381940a6e&amp;chksm=bc826258b69e2367b8a2052f024c53d3d6c483ccf6d2fb280ad61329f747facc7c8657d1f771&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Cursor遭遇供应链投毒，恶意Claude Code扩展波及5000名用户]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1cVeibfEv8LQSDt7SKElfHZ1zZDicMJicrSsoQMJfZMic1V5LRxic7Ojs0wJuibjfPbzh92ywnQ2BGaD82hpV4t7l8M0LUDczwekjwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor将10月发生的安全事件溯源至Fireworks AI泄露的一枚访问密钥。攻击者利用该密钥窃取历史coding agent记录，找到更多凭证，最终在Cursor的市场缓存中植入了带后门的Cl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351016&amp;idx=1&amp;sn=9d6dd214b1d32213fe3d9638c7a5460c&amp;chksm=bc2c8568d0402546ca0661c1ba95642153698370521f70429d571bdb2d1286ad0cef43c37e05&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2o1MNxOHzxbvYHeogVY1mUDqh9Mg6KH8Gib9Uoibiazxmia1ibtianbia1icxxrsn4kdTLSZ1eAdGhZn9KB5sGSQBPrHEPbRydIsT5iaI4/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，黑客正利用公开的漏洞利用代码入侵运行PHP的网站，高校与企业站点是主要攻击目标。此轮攻击利用的是PHP引擎中的两个严重漏洞，编号分别为CVE-2026-109618、CVE-2026-10961</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=2&amp;sn=9a761fcb5bc1466e8921bf912fa40101&amp;chksm=bc992409478b2a9a4613ba7153a8526b9abae1bbf9d41b1f84a23f5d54c678042ddc9ce15b2b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[黑客售卖ICMacOS远控木马，周费699美元针对Mac用户]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX13XGWR13ljPnOpnZkAW2vJb2CSzSeDZNySl7GXlp6MFBrva7zpFAbvDEsenIUkQIyScjOC4GSUmfd7rngPf4mbGUDdXW5xUnI/640?wxtype=jpeg&amp;wxfrom=0"/><p>网络犯罪分子正在售卖一款Mac恶意软件工具包，功能远不止窃取密码。这款名为ICMacOS（又称Icarus macOS）的工具在俄语区暗网论坛上架，周租价格为699美元。该工具最初只是基础的数据窃取程</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=3&amp;sn=31e38e1f9d10b6a55789a5cc45e2e3a3&amp;chksm=bca8bc9e926ff953b2b0ff4346ea4f102bab4eb7b8648ddce9ad8a23dc5d3e093e43dcf0dbe0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[uCreator安卓间谍软件可窃取Telegram 2FA密码，克隆微信账号]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3whxJbreYHL6npiaq9Mja7dTTPRHvS69st45Zj1bGGxXEtwMOGp04icEFyW2ct8Hzft7HScofM6egsHibY6LA6OPjRgelGzB25f0/640?wxtype=jpeg&amp;wxfrom=0"/><p>研究人员Ovi发现，一款名为uCreator的可租赁安卓间谍软件工具包会将恶意代码隐藏在可正常运行的Telegram和微信篡改安装包中，进而接管两类账号。用户只有安装了这些在官方应用商店外传播的篡改应</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349739&amp;idx=4&amp;sn=f478fe0793b8873faa25df9a66b30956&amp;chksm=bc83d68eceb0c20c4bff7987f7345f95084a098b95fe70c47eb1f626f7cefbeec31e26ea9071&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[研究员凭PHP2Shell漏洞赢得比特币挑战赛，获两千美元奖金并发布PoC]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Gia1nicgZAjhzNzxAnJVUlL2XuRxFRhnMvibzavzJMxZxwrZicCqJKP0heYHJsYhh0c9jDwKHVn74qT365gSnZ7WqX9YFJxvROko/640?wxtype=jpeg&amp;wxfrom=0"/><p>网名为killa的安全研究员利用两个PHP严重漏洞攻破测试服务器，赢下公开比特币挑战赛。整个攻击过程耗时19.28小时。2026年10月25日协调世界时15:47挑战赛决出胜负，当时奖金总额为0.02</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=1&amp;sn=d0753115bd9e6c7b4fe85b75ebfccae5&amp;chksm=bc7ebb8d90a25bfaaf1f4c0ba58d782a80dcd55976fd98d1354eb296975bc6e333a9486dcf6b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HTTP2Shell漏洞影响范围扩大，波及.NET、FFmpeg等主流软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0sSHrCInuib4F3Yo9ziakgKQNc7b9EpLurOfGJJicuAqicqJxfybcLibicgNhnGDiciaq9FOJNtz7PbH5Piaa4Qso8AjbI4Rfy1kjwgticE/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01漏洞根源为Brotli解码器缺陷HTTP2Shell漏洞的影响范围并不局限于Web流量，最新研究显示，其背后的Brotli解码器缺陷（CVE-2026-111497）可波及.NET应用、F</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349662&amp;idx=2&amp;sn=8e74440e9078bbd9c8638ca0e6743f51&amp;chksm=bc7fe948095ca4d5875415066bd123e5af07ba890cb6663fae98a2918800974b2a7f03b121e9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 18:00:26 +0800</pubDate>
     </item>
   </channel>
 </rss>

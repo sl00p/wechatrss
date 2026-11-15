@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CubeSandbox v0.8.0 发布：跨机流动再进化，调度可定制，运行可观测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/rrQxZjzcwoEMLzJ5egicM6FThIq8Qib2NGDJSxd6qh4Uzo8k7vHa5Ozc0eMaUrZs4jfhDnszLGYmbGUfiaYju0K5RDw3Q6Iu7JsYsmkqlR5FdQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.7.0 中，我们让沙箱跨机流动：基于 S3vol 后端，沙箱可以在 A 节点暂停、B 节点恢复；组件多版本共存让升级不再打断存量资产。但当集群规模继续扩大、真正逼近生产时，更深层的问题会浮出</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499250&amp;idx=1&amp;sn=098aa5db419042ed1ddb64ee1cccf13c&amp;chksm=c07117b0b9da409835c4e65eb2b5a8c79e8dda434ad0a84f0314f782deef81e9ceab0bd7d878&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 16:53:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[TencentDB Agent Memory 适配 JEV 决策模型：让 Agent 按需调用团队经验]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrQxZjzcwoHx9Xiaat25thjqnSOtMNhBpfrOIorQrD0WHp5ETWica3She0iaIL5rtzq6r64gUtX6tpiaUw3lfkJmYtNOyvg7upyhP3xUo6ROYGk/640?wxtype=jpeg&amp;wxfrom=0"/><p>项目地址：https://github.com/TencentCloud/TencentDB-Agent-Memory今天，TencentDB Agent Memory 引入可插拔决策服务，将“是否召</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkyNTI1MjA3NQ==&amp;mid=2247499245&amp;idx=1&amp;sn=9fc604f9a4a3d3f958fdac8848287618&amp;chksm=c05b4f33973e0ebe6a0744bdaf0d28e7fa3d3a4819d67f8f96c67cc69aeb74e9bbd65fd567fe&amp;scene=0&amp;xtrack=1#rd</link>

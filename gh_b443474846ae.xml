@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaiaE9StFtRLfyibDKsOicEL5CFSozxemDn2XP4zw2IOpoMX4rjzCOAnOSqP9ib8Q9GFjL5okfxRop7lekEpn5HEmkat0tX9IIBGgQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 “所有 AI 生成的代码都应该开源。”11 月 15 日，开源开发者 Jakub T. Jankiewicz 公开呼吁将 AI 生成的代码全部开源，或者直接放入公共领域。他认为，AI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297376&amp;idx=1&amp;sn=db7d5ae25399cfd31ed979fddf05742d&amp;chksm=bc47d2a5219eb7ae686b372b23b8216c7cb0cdb3eae8b7b1ebd099e9ae3226462c26505c240e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 12:27:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[星云 Redis 容器化资源降一半交付不用等]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgwLqxKnACvJia1sKnydNJ8YZZiabd0ghZM0gp4y87QzBAZ1qQxMByOafP2PAZWoXbwzqmuia6RXoC18UKLyVg1kPnWPVVjRLOMdY/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 星巴克中国平台工程 星云的 Redis 容器化从立项到上线，用了两个月；但从“能部署”到“敢上生产”，又花了将近一年的时间做专项优化。这一年里我们做的事情，说穿了就一件：把过去靠供应商、靠熟</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297376&amp;idx=2&amp;sn=5bdb5e16523a95269c62c12a3ed1321e&amp;chksm=bc987679be9ae8e1e161f3e1936e7370c4146a00d6f3688c4e434f73295857b60d9e5f077621&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 12:27:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 写得快，谁来接住生产责任]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaV8MTlicMkYQ5wg6lr7u1ql1b29LEmFRBNcfXLOuiagLT3ZkWc3kbbC49l57LmguYGeicvxYa6ZBoq7NyY2T81P6h3enFe4J4eQU/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 已经能在几分钟内把一个应用的 Demo 写出来，这件事早就不新鲜了。真正悬而未决的，是这些 Demo 能不能走到生产环境，并且一直活下去。近日在 DBTalk 数据库 AI 技术沙龙成都站上，腾</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297376&amp;idx=3&amp;sn=9ed52ff3b361ced8265d43322d22b785&amp;chksm=bc02477a69b7da903078b3c2678ca35895fffbfc124b1c6d65af956dbe41e5217b49d0c9a5d0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 16 Nov 2026 12:27:24 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiat00Y6vib0F7xicQJ1S7SXURtE3ccWw9dJSNYqmfgob8suDVRibjNskoeriagKSPRgofbBLzUA9345Rgj5nCjNjwX63CibJrLPclhQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜林绮蓓策划｜Tina2016 年，一本蓝色封面的书砸进了整个技术行业，把“运维”这两个字从地下室拽进了工程学科的殿堂。在它之前，运维在大多数组织里是一个成本中心，是一群被凌晨告警叫醒的人，是开发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297307&amp;idx=1&amp;sn=75507e9f8044d11d995ef83167b1394a&amp;chksm=bce51ec09d395db66d29f83af84ab0df8a7c15b55777c0c2f5286b84592d771b5ced642eb370&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgU5ga7Mq9ficIqIPctl0NHvGs07DG88IKJO6PkqNTrVAWjicydUMU6RiaqQk38mv9oicHYgPg8WczoCTS8Fdq7xicThMrzTe8rDZAc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Aditya Mulik 译者 ｜ 明知山 在我们将基于 LLM 的库存推荐系统投入生产运行的第一个月末，约 15% 的智能体返回结果是幻觉——听起来言之凿凿，但内容毫无事实依据。六个月后，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295910&amp;idx=3&amp;sn=1ba1717d6519299a7aab6c1a443ac941&amp;chksm=bcc40565394236024a584f92584b159f7c0b830c9b1faa10ceab80b24c1ea23c0eeb799e354c&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 24 Oct 2026 09:58:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiapN5Pf8Su1Q3DfvKB7dlneEYraSNpFUADLJFNzoL6dDaQcicTvExicjMcNicVyqVLq0mA5NFvHHNElVZkgBl1Ojsw1rJicVD4gTgw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Steef-Jan Wiggers 译者 ｜ 平川 Cloudflare 最近 正式推出 了 Python Workers，距离 首个预览版 发布已经过去两年。如今，Python 已经与 J</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295910&amp;idx=4&amp;sn=6481a840e4b410606ea92b588ee351d5&amp;chksm=bc5aa1428ffc2a7608ad447cd0698915bcdd5f06a5955c351a18fc9405926b8183a061d9d28e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Oct 2026 09:58:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实测小艺 Work：从全媒体运营到深度研究的完整体验]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNgWCynBd9rG0bHqpKZH7kzWJ50WFHFCibOuXJBgsCh4YIIVy9iakIfwiaicrCiczXQ9U8gEJ4K1Cw0q98icudvovyiafZhiaaxL6FaFibug/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 杨过 2026 年，华为正在加快 Agent 的布局。今年 6 月，华为在开发者大会上宣布，HarmonyOS 7 将全面向 Agent 架构演进。小艺也从语音助手，逐步发展为能够理解用户意</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295848&amp;idx=1&amp;sn=c39b9268097f1dbdf2c41b8f7190c6a4&amp;chksm=bccf74b036f04afc2045fe45e9e4dfccc577cac319cb35e8cce0d785f1d097ed22f0585f02bf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 11:34:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌：为什么 Go 是 AI 辅助软件工程的理想语言]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaQ4G3Xhgb0oQ11OzVPEaZvbkgtkS0zMibXkYGWEiaYRLjKcV3BXtiaG46ibrFxOjEcua85oF8vXeD7wibf4YibQPrVjTWQWxUH4PQ1o/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文最初发表于 谷歌的开发者网站，由 InfoQ 中文站翻译分享。近年来，软件工程经历了一次深刻而根本性转变：以前我们的大多数代码都是手工编写的，而现在我们要求 AI 编码助手和智能体为我们生成大量的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295848&amp;idx=2&amp;sn=bcc18fda5293b46f0c9164bdf6cc3485&amp;chksm=bce5c6ae1ef2f2f9b0b07af3719e5e06848e9d772de7d655f4e6fec4bbcd1e35f7dcc019bc96&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 11:34:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
