@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[让数据按业务流动：EFS 数据流动重塑 AI 时代的文件存储]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeePo0apL0M5MxjwcBEsMsMcNuvIQtz1xOme1pHStkVUCAJXzQzRYxxhrqgCv5Q4hiacLcWH5eCT5rBb7cDAiahgy9vNv2WQsMLc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 | AI 业务提速，存储也要跟上节奏随着大模型训练和推理业务高速发展、数据规模持续增长，提升业务效率不仅依赖算力，也需要与业务需求相匹配的存储能力。从训练样本读取、Checkpoint 写入与恢</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524318&amp;idx=1&amp;sn=e834fd29a169549dd609f81979109eb9&amp;chksm=e85b9d860d0a5294780721a35db45c818cb524c1a5bc8f07433343f65e882aa0230c81b22d44&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[让算力说同一种管理语言：共建 XPU 带外管理标准]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeWNtcZUUjibwT6RVuhaWjjSzxkI0Yw301pK9CD6TPKTB6Fwiao6GEEBCEBcS1mFH8yRnUmvaP8MoAzVmib7NEzx3ufSdzDB0VDqE/640?wxtype=jpeg&amp;wxfrom=0"/><p>摘要： 从算力模组到加速卡，从数据采集到诊断与升级，异构算力需要共同的带外管理语言。阿里、字节跳动、腾讯共同推动三份规范联合发布，以共同能力、协议与接口约定，降低跨厂商管理成本，面向业界开放共建、持续</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524318&amp;idx=2&amp;sn=f87733fff5a5bfdcae6f2ffba1b65a93&amp;chksm=e8a0cd4f50e8f709ad76d9d8405c073dd5ccbf0bc677de933f72c0d06a37c024e4b142f9156f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenViking 3D理解模型上线轴测八视图及PMI解析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeceonErtmjFf2oIbcAy9ia6PTFQj2PQnj2LyYamZXKcN3Shs5NfmYlou8jW93wN15PASoO8FK3sA8DZ1wJdQ5ZLP91c79lfibAXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenViking如何理解一个3D模型OpenViking发布原生3D内容理解模型，支持三维.STEP文件的导入与解析，信息还原率做到 100%。导入一个3D文件，不仅会提取常规的正交视图、几何信息</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524273&amp;idx=1&amp;sn=00864fccfa91a8cf8533d53cf0a3c164&amp;chksm=e8f9ab4f43fe16a8a8c8be49731b01f75072c015a2246b471725a66536136fd9661bfeb31dea&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeiaNtEv8A5gxdpjYeALp8baNP3P4kIrFpdtnaAf9OSrVNDPlf0h7riaJouLRD3dFuicnorsqicXKXoJJXqHTwVpz6gKFreIrOJvU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>和优秀的人，做有挑战的事</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521059&amp;idx=1&amp;sn=3473116140a8c13351c998c519ca93a1&amp;chksm=e80a1d26509868483c0c12e26e72cf819902d3da327d56404c917e7b5eb711c5cd31e0c481af&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Aug 2026 19:26:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Storage Agent Family: Agent 时代，重构云存储的“人机交互”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9Fed5pPt6OqiaDj4nEKRZqFF8dm9t1qVGC8DWAWfW5C2fQQTbsqXInicdSQ70I4LAIgDRbCmicVAZuAAZrjliaIlW2mhibfkd2zIxjtnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>系列定位：本文是《从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构》的续篇。上一篇讲了 Agent 时代重新组织的三条存储主线：Sandbox Store、A</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520980&amp;idx=1&amp;sn=3473de7e69a0d88739c1684a4abfff7e&amp;chksm=e8f12d236ceecc4e449d50730e37879a774cb9c7865c7d90fb0ef29e955336a7585fdb862244&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefYCVya3XCia046Yc5SdzXdow97PwuytJSoibT3FCqiashTCNUkY5CMZndXOkXIyOJBKaBVdBiaibWfRtPSdXAa1kyP72wTyicdmjhRo/640?wxtype=jpeg&amp;wxfrom=0"/><p>核心观点：Agent 正在把 AI 从"回答问题"推向"完成任务"，存储也随之从"提供容量、承载文件"的资源层，升级为贯穿 Agent 运行、协作与持续优化的关键底座。火山引擎存储团队以 Storag</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247520930&amp;idx=1&amp;sn=bd7a4aa7ed7ce2d4ca65e807f53392f6&amp;chksm=e8384cb08c12df351a7c097e167ab9ac81d20fc5e97d5045bd109bf028e690adfd868662b2f0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 16 Jul 2026 18:58:24 +0800</pubDate>
     </item>
   </channel>
 </rss>

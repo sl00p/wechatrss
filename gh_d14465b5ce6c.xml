@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[登上GitHub Trending｜腾讯开源 LoopForge]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904EDia54qDPibQCG6naZia5mBKbPjyicI2TdJiaibYzPeTzeFtxmL3iaxF1TCLQoqXKgbOAxZias0HcVWPnzCEaeqrsHFIUIdn1peic8biaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>单机 Coding Agent 写代码很快，但一旦走进研发团队，合盖断流、多人上下文割裂、Vibe Coding 质量失控、日常盯单耗时与同类问题反复踩坑，依然会把团队卡在“单兵提效、全局内耗”的瓶颈</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808207&amp;idx=1&amp;sn=2e8dc64891bdc8488ea11e48c33711b4&amp;chksm=bfcbf95122cd395534f83647bb95f53b76c37bddcd03bab2fbcd46cc14615347095d5ff207c2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[用 Super-agent 的理念，拆解 Octop 团队模式]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz905ZZJtKBJTHm5xluEY8XRmX8U9FzRvXrtZqWeSjJ1apETvfic3v64XoSuQe0bDpOYCIsggpgbiarn6a00uGcMfq7iaeTIFMicuLSL8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：Jubaoliang，Octop 负责人导读DeepSeek 近日发布长文，系统阐述了其 Super-Agent 设计理念——打破 AI「单次仅能处理单一任务」的旧范式，以调度员（Router）</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808189&amp;idx=1&amp;sn=bde97fbc46f8cb2e118267dce763042c&amp;chksm=bf6e36c91b8e9f771371d3b85189f3dc28a25c862bd298ec7a340e437c1f586a0a487fc275da&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9062Lhl400eHMjUqfUEvRG2xsKMic1c9TYh9oDa7Vpz4QWG0pP7pJv8lafYJfPjFe3Ke8MbGyoMz4gobcna40u2pIiaSY1uL8WXQA/640?wxtype=jpeg&amp;wxfrom=0"/><p>7月18日，腾讯Robotics X实验室、福田实验室联合腾讯混元发布具身智能系列新模型和智能体新成果，首次系统性地打通“感知—身体—行动”的闭环，推动具身智能从“离身智能”迈向“具身原生智能”、从实</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802692&amp;idx=1&amp;sn=8c5db3c47928f6353929767373052e81&amp;chksm=bfdf55e5708c82d5ce0ef3eade0872282aa56d4fb18cc45f99c87bb0efaa02095bf9496ae121&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 18 Jul 2026 16:28:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[驾驭AI Coding：一份面向团队的Harness Engineering落地规范]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906CRXOoRfUM7JNPRo13DsrWXDUjQXDWVNrW4S93hBPNjN7qI2d9ogPyuT24A6eIl3h4jmJdIVRnaAwvPTEd13Q6E5IWomQJ6ibA/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：atreusliu交付代码的成本已经接近免费了，但交付好代码的成本依然很高。Harness Engineering 做的事情，就是把"好代码"的标准写进系统里，让 AI 在约束下自己干活。为什么</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802660&amp;idx=1&amp;sn=2b36909c6f4a6d563addd1f7f8c9f266&amp;chksm=bfba2c82dd818f7eca888b251a105d1f9ee4b380d548905da5d70cc3e4c6b68c79cb64d0d76e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 17 Jul 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

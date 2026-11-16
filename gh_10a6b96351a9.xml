@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[代码都被AI写了，那规范是AI写，还是人来写？（SPEC与PPT可收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcqYROMXgzHn9XMmS8zeIKNN1zibS2vfIPTacJ6up7wNIRoQa0C925hHvSNBoaLWxdRQJLtubAuPlsZdtIQoAqWbyGXnLgt3spk/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚直播《AI驱动SDD企业级开发全流程》，今天发个纪要，文末把SPEC和PPT分享给大家。本周直播AI编程个人10倍提效，欢迎预约。《AI驱动SDD企业级开发全流程》纪要。【1】AI工具提效后，古法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981945&amp;idx=1&amp;sn=51d24fba628274caf933a1e098ecd4dc&amp;chksm=bc3bcdefe861af48255706ce5865b359fcace5791e607ce892d1acb96d7b790401667d48ef95&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 08:16:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[前段时间，有童鞋留言说：我们部门90%的代码已经由AI来写了，纯靠AI，一个人干五个人的活。我们程序员，还值钱吗？未来，什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜，但[审美][判断][兜底]的能力会越来越贵。 首先，AI时代，程序员有三项能力在迅速贬值： 1. 手写代码的速度：我们敲一天，AI只需要几分钟； 2. 语法和API的熟练度：AI见过的文档，比我们多无数倍； 3. CRUD的熟练度：我们曾经是饭碗，现在是人人的标配。 而[审美][判断][兜底]的能力，是AI无法取代的。 其一，技术“审美”能力。 AI生成代码的能力，本质是在海量语料里取一个最大概率的“正确”：结构工整、模式标准、看起来没啥毛病。 但架构从来不是通解。不同公司，不同产品，不同团队，技术栈完全不一样。约束条件不同，历史包袱不同，团队能力不同，答案就必须不同。 审美不是玄学，它是在具体约束下判断“什么算好”的能力，这个判断，只能来自我们对业务、对团队、对未来的理解。 更具体来说，企业AI编程里的spec基线，必须来自于有经验的工程师和架构师。 其二，技术“判断”能力。 判断和审美的区别在于：审美是“好不好”，判断是“选哪个”。 在spec基线的约束之下，针对一个具体的产品需求，AI能列出三个技术方案，把每个的优缺点都写得很漂亮，但做权衡的，做决策的，始终是咱们。 更具体来说，企业AI编程里，Human On The Loop，Loop里的决策，必须是人来做。 其三，技术“兜底”能力。 AI不承担任何后果，它把代码写完就消失了。线上挂了，我们和老板解释“AI生成的代码有问题”吗？ 大部分公司，用AI交付线上系统的，目前仍是程序员。为什么？AI无法为质量兜底，还是必须程序员为质量兜底（背锅）。 更具体来说，保证质量，做好兜底，也是我们的能力。 那么问题来了，企业AI编程，如何通过SDD，和AI一起结对编程，来做好架构师的[审美][判断]和[兜底]呢？ 直播和大家聊聊：《企业AI编程，spec驱动到底是啥？》 完整几百行spec基线md，直播分享给大家。 欢迎预约，直播间不见不散。 AI的能力这么强，还有程序员古法编程吗？]]></title>
       <description><![CDATA[<p>前段时间，有童鞋留言说：我们部门90%的代码已经由AI来写了，纯靠AI，一个人干五个人的活。我们程序员，还值钱吗？未来，什么能力更值钱？ 估计很多人都焦虑这个问题，先说我的观点：[代码]会越来越便宜</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981890&amp;idx=1&amp;sn=177ab9ab38a05b6b3ed6a41a5337319b&amp;chksm=bc73221fea47f5e4563aae8208c3e15a75b6865807a4ebd16256aad7e0cba940fab4702c13c4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdfmlEQ1ibSEr7j2hddSIEVchWQb6zXAxZIzIDCqIYmiazVaPbj2yqcmJGL5U0kHZnAJLmASR5fu2zIOWEsxpFicoK7Rp1LKmNiawU/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯云架构师同盟组织的一个线下闭门技术沙龙，邀请制的，欢迎大家参加，推荐人填我（沈剑）就能来。凭啥？你面子大？额，不是的，我是演讲嘉宾，申请了30个名额。坐标：北京日期：9.12实践：14:00-17</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981507&amp;idx=1&amp;sn=06efac6973c9ca58b566673a0030500d&amp;chksm=bc8cb596871b5bbf79784b54c6d8af9afb2425374e069ea71de1fb84ad8483647ee15141f211&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 16:16:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI编程，我试图回答一个问题：AI接管执行之后，人要做什么？（开营直播）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdaVxKAuCXnbv8G83Y6dUpcib8cdoKWiaO9sPmxThNxQmxS1gIfLF4ibxNvNBibJkkqn6VNkZMVu38Uzvg3a6095nHKKb2lv75CjZs/640?wxtype=jpeg&amp;wxfrom=0"/><p>《49天企业AI编程行动营》昨晚开营直播分享了：1. 内容逻辑；2. 八大模块；3. 如何参与，以达成最好的效果；PPT见星球，纪要见下。一、AI编程,对谁更利好？个人观点：程序员/架构师。原因：相比</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981499&amp;idx=1&amp;sn=3ceb52c9d222f21bbc7f4d835c59b52a&amp;chksm=bc6ef69a5c6855188d1b7640918b9b2a05de46101f4c70b1590a95d33f991c77b941f69f78eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 17:29:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[勒索病毒样本分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2oibnxn06HqnuMfz4n4ua8LkITamoKqpBBTCqABpwGsyyaxsUiaTvfTaLtiaDtEeJWSUtbpQFrgbS1DQ4geUDRukUoEypcUKV2W0/640?wxtype=jpeg&amp;wxfrom=0"/><p>真实病毒样本，结合沙箱、Process Monitor 和 x32dbg，重点分析了副本释放、持久化、文件感染及勒索窗口相关行为，并定位了宿主文件的核心解密循环，当前报告侧重行为链和关键代码验证，尚未</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624317&amp;idx=1&amp;sn=5c5a4a7d1ef0a413fe971d096d0b459f&amp;chksm=b0ffc73ccc0ee1e6af816b072bc9ed4154cf467c95d17d9b5d33888f6861fd1428d845e0e0ad&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 18:03:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[178家知名网站沦陷！黑客利用第三方脚本窃取支付信息，iPhone用户也遭殃]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K19ByQDugRr3MiciaCf1llU92XuYIoYZBEOtgZdqpk7eFLdVvicFAdTwprxrl3qj9YUia90OUj72tuFCHkG8HSiamEfIOgkYogOib7Vs/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年11月16日，攻击者利用第三方网站实验平台 Optimizely Web 的 JavaScript 注入机制，向178家机构的网站植入恶意代码，涉及 Zoom、BBC、CNN、Salesfo</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624317&amp;idx=2&amp;sn=8ed00bb0c3faa51c0dc56e6845750e89&amp;chksm=b0c776795d1289e652c6271ddda0ac1e6fe6b11a201897b46c1ca218c6625ec328d8b726f8df&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 18:03:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[『热卖中』冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>彩蛋课堂：通过‘消息’实现shellcode注入在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件交互的核心权限——</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624317&amp;idx=3&amp;sn=09bf01d598dcb2b9e37e1cdc12406134&amp;chksm=b0e61b728ca8425b225a1aa106626e8ba7e203c39f9c29c8057f032bf8e8657a59423d31bde3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 18:03:21 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[SDC2026议题回顾 | 物理世界的自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2keJ99TK5ZTRO5lg3ic4LRTta0LT5KL95Iq9dicbKRLwCyLSOH781ENKAzX2Obp3Qq77ORuhib1CSswjianiaRz6ib5SBNCB1bMLffU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾随着 AI 硬件、智能汽车、具身机器人等新型终端不断出现，IoT 设备的安全边界正在发生变化。设备不再只是一个独立的硬件，还涉及芯片、固件、无线通信、移动应用、云端服务和账号体系</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624294&amp;idx=1&amp;sn=c4bab0d9112149dbeb84c57d820af858&amp;chksm=b05602f78c646ea0ef47bc766ff0f450dda02fcc064c868dc733582f483a69e7c19a2b00ef2f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0ibhaGBH8XynicoYkHKcgXrx6MpwPPm3g4iaVXLf4SbcmGo9M1VJdUMUehmjaCKcibeYnqYUEgbcGIDMxOBkdicTURwkpicgsdBHwSU/640?wxtype=jpeg&amp;wxfrom=0"/><p>本次属于典型GitHub Release供应链攻击，bCI/自动化更新脚本无哈希校验的环境风险最高。事件概述海外云厂商OVHcloud在GitHub上发布的命令行工具 ovhcloud-cli 曝出供</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623018&amp;idx=3&amp;sn=6490e521dd118fb02d85145ab2baa969&amp;chksm=b060ac63f1249c4bf8c946ee39578379419dc1df0cfa51f01ae39fa54442b5372427a449fa44&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Oct 2026 18:17:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[倒计时3天！SDC2026参会指南，请查收]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3NTBaHJA5PwHiafkA5vEgFjHVpVHeCqV4Ea7ibuBiaUB5ibiaR0WnVEBsic4ogNTPlIicvXVmb3icBzAbfc5AxUfxHqob7JIUtnoLh6H0/640?wxtype=jpeg&amp;wxfrom=0"/><p>住・食・行・游✦看雪·第十届安全开发者峰会✦📍 会议地点：上海环球港凯悦酒店｜普陀区宁夏路 718 号*直通上海环球港，地铁 3/4/13 号线金沙江路站直达🕒 会议时间：2026年10月23日09:</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623018&amp;idx=4&amp;sn=d267305ed4fa4187e72a09a7d349f354&amp;chksm=b05fdd52189039c26f14223f17c7a9e42ee1b3edac78a45b407019881f313fb6cf636856eea4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Oct 2026 18:17:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题预告 | AI Agent 攻防下的代码保护之道]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3BntKyh7Lo2GOiabYX4Ywju0lrWR6cicsqx0PN6mHhBgVrHJN3kBGT1fKzw23A5f64FdNzGBKJlzWadkfKRErPk9VvZYcUuXUv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI Agent 攻防下的代码保护之道AI 正在以小时级别破解你的应用或游戏，被 AI 破解已然成为软件安全的日常挑战。本议题将介绍安全数字人智能体破解加固应用与游戏的完整实录：剖析 AI背后的“感</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=1&amp;sn=2180c4b31e1ecabb5febe732f7feb02e&amp;chksm=b06077268d4d976ab609c02aff32fb5f1e677abe292e1ead13124900ace870676d7b61b041b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基础环境检测与对抗]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0UKGlGJaPGZNz06ym2rwptAVQM8XktKWAK0D4j9ygiaEHGPBgjfX5acdb5omWFGD5xvt4XM0bcozePkdaexf51mQv4Bg83o0sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文记录了基础的Frida和Root的环境检测方案和绕过方案，本人学习时间不长，若文章有纰漏，望各位高手们找出后及时提出。FridaFrida注入原理在多数教程中，都指导把Frida-server推送</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458622988&amp;idx=2&amp;sn=5ee1224d6da0d970b61a0550a1a6d95c&amp;chksm=b09d90403175a79cb5e8c36a240dd17b3da5c6480589ff7522dae0369f0a920fa1d2daf3dcde&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Oct 2026 18:13:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

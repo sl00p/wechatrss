@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 5000+ Star，这个开源 AI 工作台，让团队共享 Skills、模型和知识库。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU16PnWugia3uoWzuiaic1CU7RBZ836ibPaW9u5OA0zpdvK5htcj9VNx8ibe5sCSzBLAriaFOaqtwibT6icO5ldAq44ZphpXV2DY2iaDpVQk/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候发现了一个叫百智办公 MonkeyAI 的开源项目，目前已经有 5000 多个 Star 了。这是一个面向团队的开源 AI 办公工作台，由 MonkeyCode 发展而来。他不</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538592&amp;idx=1&amp;sn=acc2dbe9179d2eb7e6328d9025fee01d&amp;chksm=f83da47ed3ac42c851b2e333531751f926762eb3589efd60b48898a1193dc47a8f57e57810cd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 17 Nov 2026 11:03:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[最近逛 GitHub 挑了 8 个刚开源、Star 涨得挺快的项目。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU1C1iavlnZHBDEEeibPVKfQJbiaBZIKLQPe1ossgdZOejtWHE4tEibLgUrwB7aTKQwKOQC1VFY7pCjiaRGJCZzP779wh4TT0LAyIcJo/640?wxtype=jpeg&amp;wxfrom=0"/><p>01把 Switch 游戏移植到苹果设备上S2Arm 是个免费开源工具。可以把你已有的 Switch 游戏转换到 iPhone、iPad 或 Apple 芯片的 Mac 上。直接在苹果手机和电脑上玩</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538591&amp;idx=1&amp;sn=81c6b8648850ed76923ca6dac0f91c39&amp;chksm=f832a0febffc22ce5e0ab529255855fa689f5f670fecfd3f860dc67a253b3cb7e64f6ae611a6&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU03aXXXibYUBfIoia8KAPCDmHOnxoRibmIicSkXNIf1SHlwYQvhWQO0OauluFzx1u6Ez9RkeRvtLN8ibR2eZnAANu5FFgLibx0Uwr1sM/640?wxtype=jpeg&amp;wxfrom=0"/><p>以前上生物课，认识人体器官主要靠课本里的剖面图。心脏长什么样、心室和心房分布在哪里，你可以把知识点背下来，但比较难在脑子里建立一个完整的空间结构。最近逛 GitHub，我看到一个做得贼精致的 3D 人</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536181&amp;idx=1&amp;sn=29483fe8bc17c5e653f6395d0e6647c6&amp;chksm=f82b83c25959b0f0a59cd4f3ba4c3fdb31278e84d6ed07e7c92f2561674603ba06ca6f3696dc&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 26 Aug 2026 11:57:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用下这 3 个 GitHub 上的超精简 Skill，内容只有几句话，却很好用。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hbic4JWdeUo3WtSvZiavOrLB0B3ImrOiaRm5YJHTAXiardxdjSN7tlp8q4LdJWNzhNbrdXicYnJxgcjojMiaQqibRMthcp0KqDxptU8/640?wxtype=jpeg&amp;wxfrom=0"/><p>01去除写作 AI 味儿这个是我开源的一个 skill，就几行指导性的文本。但能有效去除 AI 生成文本的 AI 味儿。比如，使用 Claude Code + GLM模型，输入：生成一个文章，介绍一下</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536168&amp;idx=1&amp;sn=3b28f7bc3a53dc9183ff4d8940a12761&amp;chksm=f807f9e5cda9c9d5035b0a05abe1637be6aa1589bcddeaa185965184489bad52bfa8383f72b8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 25 Aug 2026 11:21:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
