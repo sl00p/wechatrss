@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GTIG首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9mbr3TibYWC9jLibdeDeia2536D3QYEUmW88IJPVtOH78G6kHbezyMQM2Nr0DcxfbrPa1Q8tx7ngyMaicibC54GyWplHicUv4GeSmxg/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · AI 攻击框架 · 漏洞利用GTIG 首次观测无人在环的漏洞发现与利用：拆解 exploit_agent 自动化漏洞利用链多智能体漏洞研究与武器化框架：持续比较补丁前后代码，识别潜在漏洞</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521414&amp;idx=1&amp;sn=7b5cca3655051388b0ed7f1343fa8cb8&amp;chksm=eb31406bf7751fc8d52412ede134fb53491cd432ffd9f9927f962d7d72837a2fd97755f19e52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 12:59:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OPTIMJACK事件：178家组织的受信任脚本，如何变成窃密入口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8Ria5O8XU3ibpa8ZCsiciclGI3EZWcTCewQmWVcmqBCW0YekZHH8ViaAXqg7cjbzZNg6TnRpoyeL4RoZmBcf0IcF4pVN10kGD57BHU/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链攻击 · 前端安全 · 事件复盘OPTIMJACK 事件：178 家组织的受信任脚本，如何变成窃密入口一段用于网站实验与个性化展示的第三方 JavaScript，被写入恶意代码后，沿既有信任链进</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521414&amp;idx=2&amp;sn=52f8eabd719231015b8c3f32d759b021&amp;chksm=ebc69fe262b135421bd41a941a056d60c91c53ff91409c69dedaca9d3ff1bd0066d8568f61b5&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 12:59:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[当“面试作业”成为入侵入口：AccuraSoftHire 虚假招聘活动分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq980pXfvqBYtyBibmXibnRCaEtlyV5gxsPt4obMWXKfTiaH27YBH6pBlvicBTLmQteHTVPDVqdgBgBcjiaDXbic4fM3l9X0eIUCqhu2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>虚假招聘 · 供应链攻击 · 威胁分析当“面试作业”成为入侵入口：AccuraSoftHire 虚假招聘活动分析从恶意 Tailwind 插件、摄像头“驱动”到以太坊死信解析· 虚假招聘 · 恶意 n</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521402&amp;idx=1&amp;sn=04366c3249b6d20f738c045e83a0ee46&amp;chksm=eb13c445154ea7b2be5fb0f33fe89ddb78507ef86118d0d5320d1d386a4c23299ceb733c47db&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOq8Kia37JrpOicLGMZicw8FWjSlhc1CflhRXWmiaiaWZpC8MoopiaYq5VhHxT2UvvB5H4wZGPKA92a7NkXEOJSKfbGKicDffqJ84tqyrGc/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · 深度复盘每 3 天一起投毒软件供应链攻击正式进入「蠕虫时代」复盘 2025–2026 年开源供应链攻击：当攻击者不再投毒软件，而是投毒「制造软件的工厂」· 深度技术报告 · 供应链安全</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519978&amp;idx=1&amp;sn=c3c6d5c7e21f72e966ef1702af707af7&amp;chksm=ebd1bc32695584dcdec67baa798b3b39b81be8fd5dc1a179e4ff15186b0274d891d9370ebb52&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 24 Aug 2026 15:21:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2.45亿次下载的Rust基石crate被投毒：一次编译，就是一次沦陷]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqiciberNhExDsUmXyQzx79XxkHu3XaqqRb9YpO4gqSsYOGHjwaqudlWTMsH41tJvoBRwF16lmdgJWgJvhNfia1h69bC8Nt3jRqsxI/640?wxtype=jpeg&amp;wxfrom=0"/><p>供应链安全 · Rust2.45亿次下载的Rust基石crate被投毒一次编译，就是一次沦陷2026年8月20日，arrayref维护者账号被盗，攻击者发布构建时恶意载荷。开发者甚至不需要运行程序，只</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519957&amp;idx=1&amp;sn=b666c8c8fef193b22443d9861d95d60c&amp;chksm=eb00196bff4be2ed8c6dd6d0f0280264730caaadbcfb62df8cefb4374a011b6d9c048da6b350&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 15:41:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每周高级威胁情报解读(2026.08.14~08.20)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqibiaiaAVXZYJnpH2p8c4YdfVBZC3g1eZ2XCkLg0jkJXf2Lh9CPLnxlg9Pqc4Kxjrg4tM88ctTs9LBGWiaBcYibXfKiaPO9UibuicbV6jU/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.14~08.20攻击团伙情报PurpleDelta欺诈性就业行动：朝鲜IT工人渗透西方企业的完整分析PATCHCORD：针对阿富汗电信和南亚关键基础设施的APT36新型恶意软件家族Ar</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247519957&amp;idx=2&amp;sn=aafeada85716143c834687ec457e4034&amp;chksm=ebd3c30c4e0bb4379e8359d2ced498b3895ada9d8fa1e1ba1cc6e356df9418c05fd56623eef5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 21 Aug 2026 15:41:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

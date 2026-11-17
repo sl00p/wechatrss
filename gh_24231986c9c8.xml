@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[把 80+ 项音视频能力装进 Claude Code 后，我合上了 FFmpeg 手册]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeKCQTFA2cBCKoaZqx0UJsicORkumoqVicibz3rRgkOQwAYJxAgq5sdw6LKBs4dgZ4ZSjh83QzEGibPy1L6oGjGak8KmrQDN18UJibc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI MediaKit Skill 发布以来，我们陆续收到了许多开发者用户的投稿，他们结合真实使用场景，分享了自己从接入到成片的体验和测试记录。我们从中精选了几篇，陆续与大家分享。⚠️文中测试结论以及</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524506&amp;idx=1&amp;sn=0d9dab639998e69bde48db3e1dadf652&amp;chksm=e85bb2a2299085863e558921bbea3cff63b97bef6e5fc006cc397585e7c28996d1e3f71b0c25&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[让数据按业务流动：EFS 数据流动重塑 AI 时代的文件存储]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeePo0apL0M5MxjwcBEsMsMcNuvIQtz1xOme1pHStkVUCAJXzQzRYxxhrqgCv5Q4hiacLcWH5eCT5rBb7cDAiahgy9vNv2WQsMLc4/640?wxtype=jpeg&amp;wxfrom=0"/><p>01 | AI 业务提速，存储也要跟上节奏随着大模型训练和推理业务高速发展、数据规模持续增长，提升业务效率不仅依赖算力，也需要与业务需求相匹配的存储能力。从训练样本读取、Checkpoint 写入与恢</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524318&amp;idx=1&amp;sn=e834fd29a169549dd609f81979109eb9&amp;chksm=e85b9d860d0a5294780721a35db45c818cb524c1a5bc8f07433343f65e882aa0230c81b22d44&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeHhStB9fTsicicVmQ9Sxgsovy1V4BNQOM0psiaspcNZVtrenEFEBoicLeYdicHMxoD56fsb9kMcbBlhMTrlOu8nbtonh8ybPv8yIBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>当企业 AI 应用从概念验证走向生产，一定遇到过这样的场景：商品图库每天新增几千张图片、企业知识库持续有新文档进入、训练数据平台需尽快感知新样本……这些内容的第一站，通常是对象存储。但“文件已经上传”</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=2&amp;sn=e4de10f386f34f1620fadc40729e8ec4&amp;chksm=e8534aab9aa1ba6ef8b25f041cb53081fdba946180f5a61d771d8036acf3eab2987ace632188&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[字节跳动2027校招正式启动！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeiaNtEv8A5gxdpjYeALp8baNP3P4kIrFpdtnaAf9OSrVNDPlf0h7riaJouLRD3dFuicnorsqicXKXoJJXqHTwVpz6gKFreIrOJvU0/640?wxtype=jpeg&amp;wxfrom=0"/><p>和优秀的人，做有挑战的事</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521059&amp;idx=1&amp;sn=3473116140a8c13351c998c519ca93a1&amp;chksm=e80a1d26509868483c0c12e26e72cf819902d3da327d56404c917e7b5eb711c5cd31e0c481af&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 19:26:05 +0800</pubDate>
     </item>
   </channel>
 </rss>

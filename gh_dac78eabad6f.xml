@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI时代，代码Review还有必要吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4ial7yWPFyJ7ClL8EboMAibWVe6cGh0bOm64oulTK8ibiaecpDpraRicpdyJJnFwOzgickdgnfAWHufWEbeyenTxKzmFbAoqsfMUY9w/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告上海QEcon中，有一个热门的话题：AI时代，还有必要CR吗？这里谈谈一个一线开发思考，供参考。01一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698248&amp;idx=1&amp;sn=231ec6d5f27becee1515974608c85cfd&amp;chksm=eb46b6ed33989d254dfabc8f2b9321ac550be7c958a2d995fea23de5f4fdcfaf5b195cec5d93&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent改了40个文件你才发现？用Harness Hook把止损写进架构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr69O6L1ZEA7MeEDmCg5NK9mic9uhI2slBruiaUsDAmX2cfpjoKY8nusaOKqYwhDO8c43tiayjmFQKyc6UKTnfvFfzWicJY7I5h0Z9s/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 写在前面用 Agent 跑长任务，做错一步其实不算什么，麻烦的是它错了还接着干：同一个补丁换着写</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698212&amp;idx=1&amp;sn=32258849c58ef5deecde5bbfdb34fc98&amp;chksm=ebe41e2a9c926cef58d8fed924398170694de092102e5f8325ce8a1882b0a276969ad099a7ed&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6XzCvb3GF8tjb1oogXWcJ8xaS0ia6gUrhdK5iapCB6YHYkKKy1dJBa8ZJ4vApoBowaAsT9Xu0zp041IzCeQWtOmNHmCuEianpKmc/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击👇阅读原文立刻报名</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696960&amp;idx=2&amp;sn=30375f8194928b2da11520b7c8789288&amp;chksm=ebc2bf3dccdd7dc26a658a3c5585198eeee5ac3e0651bc5dbc6e54d842690f5e591f71b37fba&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 13 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[4周上线鸿蒙电脑，WorkBuddy团队用AI给自己造了个“捷径”]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6ocIKlhdyzC81tCshZ6ubSJrhwicuy462C2x4YIAkyPsmnor6sIxG6RicbULa5ljOlR1ibwJle7kAszszYmUmkzt7lZZoIs42kFI/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告鸿蒙电脑的第一款第三方智能体应用，上线需要多久？腾讯WorkBuddy团队的回答是：4周。而且，大量的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696941&amp;idx=1&amp;sn=4ab2e9d01758ee75b0220db42f7f90c2&amp;chksm=ebd46e3f31cbc91fd9b3b467f66988c786c9b0dc335e736cdd894c24cf2553493e0aba9c7a97&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 12 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

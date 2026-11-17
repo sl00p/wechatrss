@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Google披露俄罗斯黑客攻击路径，借单次云入侵攻破另一家美国机构]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Sh0ak62cGGpcTyJV4O4Iyib5ay2vFKZryzGqeEcb1FNfkoOuKUz9tcOEJwyvESa1O71vpK6p3awtJxljyVnXfKxakwVnxpBvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年末，俄罗斯国家支持的黑客入侵了一家美国机构的Google Workspace环境，窃取员工目录与云文件，随后在2026年利用此次入侵获取的信息，攻击了第二家美国机构。Google与Mandi</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351221&amp;idx=1&amp;sn=b997b164abd4181702307140731f1d14&amp;chksm=bc3b4dffd4e9d92c2755d73992dabce3e2725087ba2273c0eda401a4d52078d53c19c6e38f21&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者投毒GitHub仓库劫持AI编码Agent，窃取开发者凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX32fDgwQIsJ8icWECzkEicJKPcjSMarqfbfDmyn2SwkQvuwhCTts7ajLc8srKiaXwd5dmJvllIzhFiaRLbZGJap7cicgMoOCFSnD05s/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者在GitHub公开仓库中植入投毒文件，诱导AI编码助手运行隐藏恶意程序。这类恶意程序不仅会窃取开发者凭证，还会利用窃取到的凭证向其他项目扩散。此次攻击活动针对Claude Code、Cursor</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351221&amp;idx=2&amp;sn=66018bbb244cc718b3482e9d9f117746&amp;chksm=bca386ffa6743f4738909b3173f84719429b8555a8ed2d28fefb267e64e1417dce7d543a5a76&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[东南亚多国政府网络遭长期渗透，攻击者部署定制RAT窃取情报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX31lEdCw4MuKnPOicc4GTay1Fb7gKTrLxXJCLYjqekAwrvvmsv1ev0WkyvvzsUPIt7bGHyQnibibpmcDIYm7qhnFXDDTztpp2Jvos/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正利用未打补丁的微软Exchange服务器和存在漏洞的Web服务器，入侵东南亚多国政府网络，投放定制远程访问木马（RAT）。这类木马专为隐蔽、长期的间谍活动设计，潜伏期间难以被检测。此次攻击活动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351221&amp;idx=3&amp;sn=859ee91050ee34b243642bf08d5ba003&amp;chksm=bcb3b7495333e6894874cb2bf85675eb06ded975e7aa0df8ecf5abcce61fdf426b69de6ac794&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[麦当劳iOS应用遭大规模推送通知攻击，引发ARTEX安全担忧]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3qND1t12Puq8BiaS7DWvuRICaiaUWMzicrwibtE6H8SmqmdUAHQwh6KjYjaIbNcIOQZvLUPD13aaOx0icRICBMo8EicOTaYoSX21iayI/640?wxtype=jpeg&amp;wxfrom=0"/><p>据报道，2026年11月17日，麦当劳iOS应用收到大量异常推送通知，外界担忧其通知系统可能遭滥用。Blackorbird报告称，当天14点20分左右，许多用户收到这类提醒，受影响用户以iPhone用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351221&amp;idx=4&amp;sn=cf496c39d26879e632afa5dd65333858&amp;chksm=bcc295c3121670325858d9c3f62c7a80e24d40de24964825eec4e64ee026ad75fd52b0b8333b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[日本10月网络事件创历史新高，1.85亿条个人记录面临泄露风险]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2yKnEY7aeorlG2jUf0aNfXWlpYJnmTIULHX2x7aZydlK14K45xicIzDFU5XTmPfX7Qk25YIwB7Z6kXXqdEeOWDr76GvJr9ZibZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>据朝日电视台援引趋势科技数据，2026年10月日本公开披露的网络安全事件达233起，约为此前单月最高纪录的2.4倍。这波事件潮波及企业、服务商和公共机构，攻击者可快速挖掘存储客户信息的系统漏洞，引发广</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351138&amp;idx=1&amp;sn=48d6fa7023f5dfed4992afb91a82f58b&amp;chksm=bcbb04b96f88ff55ef9204a23c6112db104c1df3cb5762820a1f7291d2a87cf89fb6cc8ed487&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2L4pyGDqlZ2wv0j2gGt0zIjp5lKJ9JrRTXUTP5VgpLwzllwMDdH54z2n7RgMlANCpXMxl6E8he5ib2nhSiaibxqDjOudGq9q7GfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01合计258万条记录受影响索尼网络通信（Sony Network Communications）正式确认，旗下So-net与plala（S Course）互联网服务发生数据泄露事件，共258</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=2&amp;sn=6e2963ea50147d5772e1f9f8745e7222&amp;chksm=bcd2d2203d76d219180e50ec1db733646e2eb1347e5d7ae3c454497f3231dee181f8a4f30602&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 29 Oct 2026 18:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[日本GMO悬赏百万美元，追查外汇交易云服务入侵黑客]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3IyYEHNevCVU0AYv28y1lr0UuhvwSp73Aia4UBDr25w0ubX6qHvQNNhu9iaVhIxxASNkLJWX2Ylmvrl2DibicPXFsYLxqUv2JQFnQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>日本GMO互联网集团拒绝支付勒索赎金后，现公开悬赏最高总计100万美元，征集线索协助抓获入侵其Onamae.com桌面云服务的攻击者。该悬赏计划于10月28日启动，仅当线索协助促成逮捕或发布国际通缉令</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=3&amp;sn=08c1c087176ec814d261f6cacf9e9e8e&amp;chksm=bc266548ec54887dff8be2e9ef76e47a05b4fd6bfa1a60aae8ff1d7930569184c81d780dcb30&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 18:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ShinyHunters利用的PeopleSoft 0Day，实为三漏洞链式攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0uqNw8TrpIj3YZQ8NQic4OG04EzIoTMOYpA9cbsyWedy1u3QI3BLicvqkU4Uicanj0LR64C01K4KoSg8HZ3n72aYRictmFSgVzNibg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part010Day补丁前已被利用本周，披露该漏洞的研究人员表示，ShinyHunters自5月起开始利用的Oracle PeopleSoft高危漏洞并非单个漏洞，而是由三个漏洞链式组合而成。今年6月</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=4&amp;sn=ca73d70e1104f77ed715198ac7b5fd8d&amp;chksm=bcc20a082614617906fa2c306fa3389be11a89de09301c5e679d2e992070319021acc35eb11a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 18:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[韩国警方破获AI辅助黑客案，90家机构遭窃820万条记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0BqmibTES9epcricLziaJNgyewoZNhRVKTy2RxnlvfD2zsveQ3r160mgMPxzUTXCUoFcPoCVWCpsYRunbOAlqpNaX3knZGYaJJT8/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01韩国破获大规模黑客案韩国警方逮捕了一名32岁男性，该男子被控主导一起AI辅助黑客行动，入侵约90家机构窃取个人信息与内部文件，涉案数据总计820万条。入侵目标涵盖医院、私立培训机构、高尔夫</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=1&amp;sn=5118fc24ff5beb5311929f7e5fe9cc13&amp;chksm=bc7a5dd1daa8fcd9bc423224fa0087113e9e1695c0010b3c0785eab289287df4fd6fab92bf7c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直播预告| 模型、MCP、中转站，AI应用的安全短板究竟在哪？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1QYqlOEBC3wh15Tbmb5w2MJ0JibuNPyhEmhQBPnOG0W0ZIBwWtCh4Nx1rHLFxnRicEXk2ky59Z1wcbxRCQJWibOtlR23z4ejV8LQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>大模型正在从简单的问答工具，逐步走向企业真实业务场景。随着AI Agent开始调用MCP工具、访问外部数据，并通过第三方中转站调用API，AI应用的能力边界不断扩展，安全风险也变得更加复杂。模型本身安</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349785&amp;idx=2&amp;sn=220447968d6c96166c446ec79fa77acc&amp;chksm=bc445cf20196cda4f00c9902302fdb9d96140ded9cfa10e5f2e65cf4a98ba1635a3f5cd6d8a0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
