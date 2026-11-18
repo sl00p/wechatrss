@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从Nintendo密码挑战到乘法的直觉理解]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3hb8FTOBZ1icZX6CrICHQ96ERNFDxLVN26e3iaBZIIO8bY3D4QD8n9eg5ib2qY7VhiajiaCq6eAbPmacT0uTg3MXTYBsLOU7e0ibDOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>几年前在CodinGame上遇到过一道没解出的题。最近再看到，思路阔然开朗，感慨颇多。题目是一段简单代码，核心只有一行表达式（原题见附件）：READ SizeREAD size / 16 intege</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624349&amp;idx=1&amp;sn=4dbe93b7e43cf95bbefc041b48e79663&amp;chksm=b056a0a4b88efdb9043b4bbfc58f11644a1ee8404155ddee4c58ca1883f52f89afce1171233b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 17:58:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI挖出Nginx潜伏十余年的RCE漏洞：无需认证，数千万服务器面临风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K21eggVZk2Nf4GBLTtrHykfflmx7uazrXQNfguXLMtJH25ZQxDk0hgqwcoiaONUhPs3icXicQmkwDoUErC6ZyTDG8SibicXlnXyLPEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI辅助安全研究再次取得突破。 多家安全团队利用AI Agent独立发现了Nginx HTTP/2实现中的多个安全漏洞，其中一个严重的远程代码执行（RCE）漏洞已在代码中潜伏超过10年。攻击者无需身份</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624349&amp;idx=2&amp;sn=5c135b90ad62216dc12ad4487b582ba3&amp;chksm=b0210f606192e5b4608e2f90cc6a328f75bcfbb8fc70431c675a58fe409a29b2f40e7844f439&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 17:58:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[30小时玩转 CTF！名校冠军讲师带队，多校多企业采购]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2syts4SOAgxpXYh9XxJhHlXs3ic2Uy93j2vYiaZC1epbnsjT7F507bvSfy8uPXUpsLz89duia10qXdBJaiayGH7kY6Beoa488Wr6s/640?wxtype=jpeg&amp;wxfrom=0"/><p>作为CTF初学者，在学习的过程中你是否遇到过以下问题：下定决心想要学习CTF，不知道如何入门从哪开始；知识点太过零散，没有一个明确的学习路径感到非常困惑；学完理论知识后，却找不到一个适合的实操环境来巩</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624349&amp;idx=3&amp;sn=4f1e4cf0c3e9107369faed16e7154a3f&amp;chksm=b04a013ee9f269a47149c8651609ea34d577cf47d138c8a6978ce6101a114bda6279190f9dc0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 17:58:41 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[某小程序逆向：双 MD5 签名还原与 wx.login code 打通登录搜索全链路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3hyMvUPuKePueDsibNogibmNFSbfVMSeRk3adsPPfibAeLzwAkuqCsoZlFvFFb5zJickRLcmtickynTt8DO3JbQyZYA0XH1C2pOf58/640?wxtype=jpeg&amp;wxfrom=0"/><p>目标很明确：拿到某小程序的请求构造规则，脱离微信环境，用纯协议完成「登录 + 搜索航班」。手头有一份 wmpf-trace 抓出来的 trace 日志（traceOut/run-...），里面有完整的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624328&amp;idx=1&amp;sn=260982b214ea0b826f953f93a6fa8727&amp;chksm=b0c7f49cd7dddc6ea4e695d38bdd10420215c66ad19c13b395ddba4f874e31d8bd5e8de2f6be&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bAvZFictiazRmiaK4MkrLLfHDpvzmjc5KOEnnSdQNfpz261ukYGGez9PyOeU7f9b5ib9eYtjYuE1ib1xzmvnP7d3jmJL8sYx3iaviaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 爆发，安全先行。当 AI 智能体拥有自主调度、工具调用、访问业务数据的能力，传统安全模型正在失效，新的攻击面、信任边界、风控难题持续涌现。腾讯全球数字生态大会Agent 安全专场议程正式公</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623105&amp;idx=1&amp;sn=df3cd640a3466199d7a695a824587cd1&amp;chksm=b082831230549d3c7ec9d7c91e088793a01646d728fd034a232928809ccb1715bff396241146&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 25 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[C++ 虚表全解剖：从对象内存布局到 glibc IO 攻击链路]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2qGtySszvfIj0fD0Kc9CYPVXw75XMVibH1PveOxibibn5FnRUkkqQDicaaexVBmp2U9MZe6rIv2EJ1h1JGH0nROaZnsfLZEJLTO2w/640?wxtype=jpeg&amp;wxfrom=0"/><p>一条从「对象首 8 字节」出发，一路走到 setcontext 的完整路径。全文以 Itanium C++ ABI（GCC / Clang）为准，MSVC 差异单独标注；glibc 部分以 2.23</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623105&amp;idx=2&amp;sn=b244e461bccb5085fae88e4c270a70a2&amp;chksm=b0371e5abadc9d63e11d2d1fc09adcd91978ce11e3a068e8da974a2b0a34075e2dde0bd5fd88&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人机共智·重构安全 | 第十届安全开发者峰会于上海圆满举办！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0lmD0LPdRpp4nKVroNhxpTef9sKDY5uiaa8Q35RyeAePeriamwtmlbuGd5D5RsbDAdHZTiaL8A9RYISP5cytlryg0TXTTRCMDy8g/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月23日，第十届安全开发者峰会（SDC 2026）在上海环球港凯悦酒店举行。本届峰会以“人机共智·重构攻防”为主题，吸引近700位网络安全从业者、技术研究人员、企业安全负责人及高校学者到</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623095&amp;idx=1&amp;sn=742a57b0a83b66f3a3eccf574a70ae6c&amp;chksm=b04f2889213c0752e227fc0ffac8fc7a9b7a679328a2300e5a70a3fdb2680a58b96a40126b1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 24 Oct 2026 14:11:10 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今天见！SDC2026参会指南]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2GDueTwpLtn8xSxYXzmDuAWpxEV7kPjvISlsicSfOJ2jG2OCrn8lzxje4QsduylCDwFNMGjGqIpKvHic8HiafQtF4cHNnFzmlFjs/640?wxtype=jpeg&amp;wxfrom=0"/><p>住・食・行・游✦看雪·第十届安全开发者峰会✦📍 会议地点：上海环球港凯悦酒店｜普陀区宁夏路 718 号7楼宴会厅*直通上海环球港，地铁 3/4/13 号线金沙江路站直达🕒 会议时间：2026年10月2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623042&amp;idx=1&amp;sn=08083cbfae6a68d3422454f81e8b2b51&amp;chksm=b089ed8019be9320ff3900ad69730ba450a8ab8a55d6649b22a661f84c8721e27cd9a67a9d93&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 23 Oct 2026 07:01:55 +0800</pubDate>
     </item>
   </channel>
 </rss>

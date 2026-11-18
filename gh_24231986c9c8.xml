@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[OpenViking 3D 理解模型 X 汽车行业 Benchmark 数据库]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feev1JSmAb8AZcxjTibdR4ICPl2iaSYRKfjdoYKSQ3l3gGgeGKuae9otOk1Fvb8GGMzjKldvJKRMy4zMjq5icRsMPLe54LdI9kRhiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenViking如何理解整车数据OpenViking 10月20日发布原生3D内容理解模型，支持三维.STEP, .DWG文件的导入与解析，信息还原率做到 100%。以如下整车模型为例，包含174</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524531&amp;idx=1&amp;sn=389bd912508d0b689da757928f16a91e&amp;chksm=e8952a40f752ed76f3fb7f9d7e02f845ec474ec30ce1a6f0ae70e0b6b75bc1ceaddbb8ac1391&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[把 80+ 项音视频能力装进 Claude Code 后，我合上了 FFmpeg 手册]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeKCQTFA2cBCKoaZqx0UJsicORkumoqVicibz3rRgkOQwAYJxAgq5sdw6LKBs4dgZ4ZSjh83QzEGibPy1L6oGjGak8KmrQDN18UJibc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI MediaKit Skill 发布以来，我们陆续收到了许多开发者用户的投稿，他们结合真实使用场景，分享了自己从接入到成片的体验和测试记录。我们从中精选了几篇，陆续与大家分享。⚠️文中测试结论以及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524506&amp;idx=1&amp;sn=0d9dab639998e69bde48db3e1dadf652&amp;chksm=e85bb2a2299085863e558921bbea3cff63b97bef6e5fc006cc397585e7c28996d1e3f71b0c25&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[为什么 AI 视频，需要“懂生成”的画质增强]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecJmt5BkPZOTHjg5icbYbAXPIH0urjufxpiaGWwcdRrEvE6p632BR8VPP0z56Zpb3WuqCp4ia0e4CBf1TP8taKIh0FfnXAobLSUIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 视频生成已经足够惊艳。一段提示词，就能生成一段精彩的视频。过去需要拍摄、建模、后期一起才能完成的画面，现在可以由模型快速生成出来。不过真正进入生产之后，我们会发现生成只是第一步。一条 AI 视频</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=1&amp;sn=464de2a00f29cfc21e3875a515d5fdbe&amp;chksm=e81f00a52a97ca9e3c9fc9ce76a98b4032b99c66336dc5016af6d3a83e4f79e123f6de91a5f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[文件上传即可检索｜实时多模态向量链路落地实践分享]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FeeHhStB9fTsicicVmQ9Sxgsovy1V4BNQOM0psiaspcNZVtrenEFEBoicLeYdicHMxoD56fsb9kMcbBlhMTrlOu8nbtonh8ybPv8yIBs/640?wxtype=jpeg&amp;wxfrom=0"/><p>当企业 AI 应用从概念验证走向生产，一定遇到过这样的场景：商品图库每天新增几千张图片、企业知识库持续有新文档进入、训练数据平台需尽快感知新样本……这些内容的第一站，通常是对象存储。但“文件已经上传”</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=2&amp;sn=e4de10f386f34f1620fadc40729e8ec4&amp;chksm=e8534aab9aa1ba6ef8b25f041cb53081fdba946180f5a61d771d8036acf3eab2987ace632188&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
     </item>
   </channel>

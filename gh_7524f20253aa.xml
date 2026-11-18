@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[NGINX曝“断网级”漏洞，含十年未授权RCE缺陷]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16WeGwf77VibDleHz5NfiavOickaO3MnRJ6AbMhnTttGxLk15PRKCS4D7EsH3NUWMj0rYIdcciaficYNVzg1dhfnJqs5PJo7rXQod0/640?wxtype=jpeg&amp;wxfrom=0"/><p>NGINX存在两个严重漏洞，远程攻击者无需登录即可在存在漏洞的Web服务器上执行代码。两个漏洞编号分别为CVE-2026-123633、CVE-2026-123007，披露时间为2026年11月18日</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351312&amp;idx=1&amp;sn=6496ff05d5b92bf3fcaf16d4bd5fa08d&amp;chksm=bc142183fa31409726c8cd4359c0a53ad69f97090c58800dacf3b60718a7eace7bffdaa0a71f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Java4Shell曝预认证RCE漏洞，Jira等主流应用面临风险]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX12UqJeARibCRostibbFbsxfvWmR6qNibouibTGzxeibT6ricYDEh0EkMV1aFRtQwunyg2KTcjXkBCHWnU7RWvndw0Ybcl26qwDV7YnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Java4Shell存在预认证RCE风险安全研究公司Calif本周披露，名为Java4Shell的Java漏洞可让未授权攻击者在Jira、Jenkins、Keycloak及另外三款广泛使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351312&amp;idx=2&amp;sn=40bb281daf14154393bd18470ced1290&amp;chksm=bc5e34ab0c05a540da35ef5dc9ea6b379cc65fdc3b6eb9b90d2c00d87f5c14b7a6067369713d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apache Roller RCE漏洞遭在野活跃利用，CVSS9.8分无需认证即可攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0J3Mm5vjyx2MtEeB5XicDzQNoLtWwevG5EZ7cYxMLpdFMGtubSy3BV2QGLVz5rr8ooQAFVMOQMZrOtzu5eeqZoKBShKbBBrJYs/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正利用Apache Roller的一处严重漏洞发起攻击，该漏洞可导致未授权远程代码执行，Apache官方已紧急发布安全更新。Part01漏洞CVSS评分9.8反序列化缺陷触发未授权RCEApac</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351312&amp;idx=3&amp;sn=cbd58bd6c3becb54dcc856ea1815a105&amp;chksm=bc399b4d5ba4009f308cf9352e23cdf597d8d2c10e26bb7a79cb0f2eef8f90a370d0c68028e3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI渗透框架CyberStrikeAI单会话执行221次工具操作，无人工审批]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX37L0jjHFibBndZfsRCnEnvY0MKrTa0czM0W0u5xHnVAXZU1XAAQrksHC6N1T9eM7c2DOCia5UUGUGjqUy9dTSM9qsSILB0sN7ek/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年11月16日，一个暴露在公网的CyberStrikeAI工作区在单轮会话中记录了221次工具执行操作。日志显示，框架的工具审批环节没有任何人工决策记录，后续留存的配置也证实审批校验功能已处于</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351312&amp;idx=4&amp;sn=81df5e887db7646f2dda20a35f4da546&amp;chksm=bc7a68f49afa7a2feb2b833a2c1ca930ccf6f816f315e498d6ca8874fc2681aff411edca9404&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Google披露俄罗斯黑客攻击路径，借单次云入侵攻破另一家美国机构]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Sh0ak62cGGpcTyJV4O4Iyib5ay2vFKZryzGqeEcb1FNfkoOuKUz9tcOEJwyvESa1O71vpK6p3awtJxljyVnXfKxakwVnxpBvo/640?wxtype=jpeg&amp;wxfrom=0"/><p>2025年末，俄罗斯国家支持的黑客入侵了一家美国机构的Google Workspace环境，窃取员工目录与云文件，随后在2026年利用此次入侵获取的信息，攻击了第二家美国机构。Google与Mandi</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351221&amp;idx=1&amp;sn=b997b164abd4181702307140731f1d14&amp;chksm=bc3b4dffd4e9d92c2755d73992dabce3e2725087ba2273c0eda401a4d52078d53c19c6e38f21&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30tuEY38C9bCFbWfsPBoR5KugwDE3Cr1XZ4Z9fFrZic8VJStFDlfO7PYHM9xaVFtCRd4CoU2aFdT2v9vnjnGGjSJDNOeZpjR5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>做AI安全和合规的同行，大概都有类似的感受，最磨人的往往不是分析本身，而是信息太多太散：法规很难跟全。欧盟《人工智能法》分阶段适用，又被《数字综合简化法案》修正；国内的标识办法、生成式 AI 三项国标</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=2&amp;sn=65addca5932c2bf32a38b49804d3ec56&amp;chksm=bc5845250aa77aaf2bab68713617a4f18bf80f34306256d4341e4c0024b35e11de74394a61da&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI推出网络安全专用模型GPT-6 Cyber，严控攻击边界]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX34ibIx0uuYYMLVibLz7FyiaWfgA0lJsDfLuz6XwjbibmUguehrGA6LqNxhjUMV8icHyTHsvQrIMfMbicU1a6yvErr6QsZDVF97WIYG4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01针对越界风险专项训练配套蜜罐验证边界控制能力OpenAI今日正式发布GPT-6 Cyber。该模型属于GPT-6 Astra系列，专门为经授权的漏洞研究场景训练打造。这款新模型旨在解决Op</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=3&amp;sn=f48b21d135da355740bb81a87ebfe866&amp;chksm=bcbb3a188399413fed2000918373c386f46a97c1518ac27a48ee007ac586162a127ae38c1c5e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软披露Windows画图严重漏洞，无需用户Click即可远程执行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0dib5wdILibHLuXuAtpkwKNytr2C1oPtNTyhzTuMfBz0J3icofbq0mjNcziajI656pVTVuC50QHIEBTCjqNjnlPo9dW1uutmYR9TM/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软披露Windows画图存在一处严重漏洞，攻击者无需登录，也不需要用户Click任何内容，即可远程执行代码。该漏洞公告发布于2026年10月13日，属于越界读取漏洞，对应缺陷编号CWE-125。这类</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=4&amp;sn=254a92713fb883b4c3dab155078304b0&amp;chksm=bc3c317223f9605c642b1e6c202a569758d308c650d219082d9871cd1d309743d529a402cef8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic未发布模型可自主构建多平台攻击链]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2sHUYPHjqmUSjlicRs8KzIASDibXibiawVV0LLFulfcY8ibjhJ838vckopvDcpcDUUVg1tdLzVpKoEC6WYOHUh7bRj6icthkvB1hQKw/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic前沿红队透露，一款尚未发布的Claude研究模型已成功编写出可在Chrome、Safari、安卓、Windows、Linux平台生效的完整漏洞利用链。2026年10月27日，Anth</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=1&amp;sn=f97a91c5d1e0774499d6cd8f8cc05641&amp;chksm=bcf0a8b4ed5821624d662dda5a09035595849ae11523cf4bd2fa47b3bdfd2e4f859f4e20817a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 18:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[索尼旗下So-net、plala遭数据泄露，涉及258万条用户记录]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2L4pyGDqlZ2wv0j2gGt0zIjp5lKJ9JrRTXUTP5VgpLwzllwMDdH54z2n7RgMlANCpXMxl6E8he5ib2nhSiaibxqDjOudGq9q7GfQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01合计258万条记录受影响索尼网络通信（Sony Network Communications）正式确认，旗下So-net与plala（S Course）互联网服务发生数据泄露事件，共258</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651349862&amp;idx=2&amp;sn=6e2963ea50147d5772e1f9f8745e7222&amp;chksm=bcd2d2203d76d219180e50ec1db733646e2eb1347e5d7ae3c454497f3231dee181f8a4f30602&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 18:59:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
