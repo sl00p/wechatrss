@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Hy4正式开源]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCJp4YaEqzCGUTBOupVRR1LvA8tBDb8yNjb3dvBnPWzJIeWIMhxkBA3MGt0cXZTmS0bTUP5iciaPPWibnORrFicjrWcBFIrHzQFfiaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Hy4正式开源，开发者可在GitHub、Hugging Face等社区下载模型，自行部署。也可以通过腾讯云TokenHub，直接调用Hy4 API。混元同步发布Hy4模型安全评估卡片（Syste</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654910147&amp;idx=1&amp;sn=ca11cd0368e50703bb9a986c8dc64266&amp;chksm=bc51d4b21edd66552d3daef49dc8aa7aa39bd23132b34b24075a760a73eb17e9c6bb5949f816&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 12:40:16 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[WorkBuddy日活超千万，奉上企业落地秘籍]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaCDlxgd3jDLrVjRQCAIHrhibOODcyFJ9hQz4fTDhNPdNH0CQWQUZKpDBgDK192ic1HuKxLXkEohOktr5eeLFcAt15fS67vYFl8Gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯财报昨日披露，WorkBuddy日活超1000万，日均Token调用量超100万亿。企业版已进入50多个行业，覆盖一半中国500强企业。引入WorkBuddy，企业绕不开一个问题，即怎么真正用起来</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654910140&amp;idx=1&amp;sn=31301700ecff25c7cbdfc400a713ee5e&amp;chksm=bc4d3336256cd0df6bd31541ad617393129e0958f8b276b9ebe42af751ab3a6ce8401ed97829&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaAu7jicrib53jMDeokYp9TAdeDlrp6XZJA5245B188VVdPz5mKWDokusgtZMFLooBvtMT1UtFZTIDYxn6WeHM6P229g9joetIhHk/640?wxtype=jpeg&amp;wxfrom=0"/><p>WorkBuddy最近一直在到处「上工」。 从李宁到长安汽车，从平安银行到金域医学，从TCL到新华三，跨了互联网、快消、金融、出行、医疗十几个行业。 这次入职的，是深圳港集团。 一张报关单二十多个字段</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908459&amp;idx=1&amp;sn=7dd66b52ca55414d09ae804485a2a4e1&amp;chksm=bc2366316fd35487a7727af48a57dd90216b342ca529d69ea07306eebbd6f1662b96ee444723&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 13:21:23 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[腾讯云Team Memory来了！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaDGoiagUDBQVpuP3ZzEYIVJP2yz6q3hqDrmIIbBgUtv8CQeBoFOQLGBREcDVDuzZNDejruOzG7yg4BKicZ0icoTAURw6icEVuicCO28/640?wxtype=jpeg&amp;wxfrom=0"/><p>Memory支持团队记忆了！腾讯云Agent Memory 2.0.0大版本已上线，全新升级Team Memory，将长期记忆能力从个人扩展到团队协作场景。以后，团队与Agent协作过程中产生的代码知</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908453&amp;idx=1&amp;sn=f6c4ba9d343c7c6ff3569a322c981b02&amp;chksm=bc1a5473c4cf67b97abe4d037d48ce2f0ff62b1dc3fbf174640baa67e2dd156043c587849926&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 15:37:48 +0800</pubDate>
     </item>
   </channel>
 </rss>

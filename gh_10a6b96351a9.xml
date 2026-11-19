@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI编程，你提效了几倍？ 1. 没怎么用，还是古法编程； 2. 有问题问问 AI，+50%； 3. AI 写日常编码，我负责审核修改，2 倍； 4. AI 包整个研发流程，我只审关键决策，5 倍； 5. 几乎全部交给 AI，我几乎不审核，10 倍+； 为什么效率提不上去？ 用 AI 写代码的人，几乎都踩过这几个坑： 1. 范围失控——让它改 A，它顺手把 B 也改了； 2. 代码报错——生成的代码根本跑不起来； 3. 功能偏差——做出来的东西不是你要的； 4. 反复修改——一个需求来来回回改十几次； 5. 会话失忆——开个新窗口，它全忘了； 6. 偷懒忽悠——没做完，它说做完了； 结果就是：把填坑的时间算进去，提升有限，甚至是负提升。 问题大概率不在你，也不在模型。根源只有一个：你把 AI 当聊天工具用，而企业级AI编程，把它当"生产系统"在驾驭。 效率的差距，就在三层。 第一层：流程（保证规范性与质量）。​ 不能把需求一句话丢给 AI 就开干。要先写清楚"为什么做、要做成什么、怎么验收"，再让 AI 动手——这就是规格驱动。 企业级最常见的编程流程组合：OpenSpec + Superpowers。 一次变更自动产出四份文档（提案/规格/设计/任务），探索、提案、实现、验证、归档六阶段走完，代码是带文档、带测试、可追溯的。 第二层：Loop工程（突破单次对话上限，单Agent提效）​。 AI编程，你问，AI答，你再问，AI再答，人在循环之上，效率必然高不到哪去。 解法：给它定一个可量化、可验证的目标，让它自己循环——执行、验证、反馈、修正，不达标不停，连续几轮没提升自动回退。 以前"没时间做"的代码质量、性能、安全，现在都能这么干。 第三层：多 Agent（一个人统筹一支Agent大军）​。 一个人，统筹五个 Agent：Leader 协调、架构师设计、前后端开发、测试、Review 各司其职。 模型搭配有讲究：贵的模型做规划决策，便宜的模型做执行——成本直接砍半。 限于小绿书1000字限制，直播和大家细聊：《企业级AI编程，个人如何10倍提效？》 欢迎预约，直播间不见不散。 用了AI，为啥效率还是提不上去呢？]]></title>
+      <description><![CDATA[<p>AI编程，你提效了几倍？ 1. 没怎么用，还是古法编程； 2. 有问题问问 AI，+50%； 3. AI 写日常编码，我负责审核修改，2 倍； 4. AI 包整个研发流程，我只审关键决策，5 倍； 5</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981984&amp;idx=1&amp;sn=5a285fe0990cb9d4856ea6554151e315&amp;chksm=bcbb51d690312971aa91935dd774f7f00f9671de7f97cf26809db830d91c0a6f4b34aee7e343&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 08:16:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[如今程序员面试，为什么都问Agent？（代码，架构图，提示词，PPT都分享）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXc8JqfQslian9au3Fe1XJtsNRd2uWuhyxdRK0zHkwqPkNIuzZ07BdR8qkBEqJ3zSWAanObIJnRia4qhW9kRoXepK7tWLHCLv3Q7g/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚直播《Agent原理与实践（1）》，今天发个纪要，文末把资料分享给大家。本周直播AI编程个人10倍提效，欢迎预约。《Agent原理与实践（1）》纪要。【模块一：基础知识】知识点一：大模型没有记忆。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981982&amp;idx=1&amp;sn=39ed52a9f329a98e9e7da3ce35dd81ac&amp;chksm=bc3d9b34f420d027aed1c25268b4e9213aaab00d67c57419539d0d8ea24f078efeaa22d44d14&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXfUrTFTel07UR6VTWZsicicibb2LzTrEpQkbK29EOhbLLXQewC206yOibBsblk1JgYyybzeGr8V38iaa3MDzVo7BsKI2uLaBr0BWgDo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，有童鞋留言：同一个Claude Code，为什么别人用，就是10倍生产力，而我自己用，就是个聊天机器人？估计很多人都有这个疑问，先说我的观点：差距不在模型，在[Harness]。我认为，Agen</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981567&amp;idx=1&amp;sn=ed2bb8bdf57b7f112018afd527beea11&amp;chksm=bc34f54be2630e68c68f7a46e7930a1b6cc4387b413105b91e7283fa62eafaf96b613c2c3721&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 07 Sep 2026 17:06:17 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[代码都被AI写了，那人干什么？（SDD超级干货）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdOleB0s0RQYBicPy7QuI5CQvZ5ictlzaUAuRUkmKHK9Q5glZicZ2gsZCIgZljy2KDME1fo8fSyVvNfia2yc0BFFEMAibDnlHR6zKls/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI驱动SDD工业化开发全流程》，3500字，阅读需要10分钟。一、传统研发流程为什么失效？传统研发流程：人做需求 → 人需求评审人做设计（指原型） → 人设计评审人做架构（总体+详细） → 人架构</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981533&amp;idx=1&amp;sn=44c7bc06302565071053a4fcdaa51801&amp;chksm=bce93eb9bfe78b24bcefb039a388c722c1e0894d8391c2f1e4d7853fbf63d88b3e4b8691bf68&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 05 Sep 2026 18:46:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

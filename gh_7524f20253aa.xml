@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[被各种2shell漏洞轰炸麻了，真的狼来了吗？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3zCdvUtiajZ55yXBT3jbaY785icNycvUs8HicEW31GfHJRmiaxdVKMsSdJDJsUAlrkZyXS7CX3cCBh1jP1j7Y1ZcAL9usEQbJ95HY/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击小程序，发布评论参与讨论👆从PHP2Shell、HTTP2Shell，到Java4Shell、NGINX2Root，最近一个月，安全圈几乎被各种“2Shell”漏洞轮番刷屏。漏洞刚曝光，PoC演示</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351377&amp;idx=1&amp;sn=152f8ac5b78dbbe9fc290f32a45ad2ea&amp;chksm=bc5b78e1459eb8a6414e480855a9c3971b0b43ca836f4a069376329d181858684e9753b967af&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 19:38:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微软官方Python Agent框架遭供应链投毒，恶意包窃取云与CI/CD凭证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3skCAy0Kh6ChmaXhKGCN7A0EF6J5uHlQBjia9iaV2ruJiacrSD30s4MIsNYtibviboibxFwD3GsQlvwvDFtEhQPxH0tQI08kmyylgiaI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01恶意版本植入隐蔽启动钩子开发者凭证面临窃取风险PyPI上发布的两个版本微软官方agent-framework包，内置可从开发者系统窃取云服务与CI/CD凭证的恶意代码。Agent Fram</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351377&amp;idx=2&amp;sn=9ad6873c79faad64d01cd952f9cecae7&amp;chksm=bc5dac3c087b36c03948a17e6f622c1380b6ad439ba0c3a6094b8203a0d02360c80407d9126e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 19:38:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VMware vCenter曝出9.8分严重漏洞，网络攻击者可绕过认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2SarwRDWRyY3xJ1FSWUI6oRSuj9PYiaDKWibMPr0JOIB1BSwAB1HSiaulB2ribFcqSRNzHpIwz0U3V05Hgm9Kwq4LutcXibpAnvsoY/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01vCenter 曝出9.8分认证绕过漏洞VMware所有者博通今日发布安全公告称，VMware vCenter存在一处严重漏洞，具备网络访问条件的攻击者可绕过认证机制，未授权访问系统。vC</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351377&amp;idx=3&amp;sn=fc0f79cc0d8a6e29925a55dbd7a35ec0&amp;chksm=bc0b6037b64cc7cd2da9f85fd4bb431801cfa88f4b6ae759ed9cf50659cd3851b4479c35059f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 19:38:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[欧盟委员会HR系统遭网络攻击，攻击者使用开源AI工具ARTEX]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3yPS8Z1C1ibzCmiawD9stFn4zvP1fsQHfxicOVqWPuyib2jAIpDzjBmy7Ypu4bMMlrKAtgyytMR8mHTlGezT3GzrVCeIXk3zGiaiapo/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01欧委会HR系统遭ARTEX入侵美国FBI此前向企业发布预警，称开源渗透测试工具ARTEX正受到网络攻击者的广泛使用。预警发布仅一周后，欧盟委员会就公开确认，此前入侵其HR系统的攻击者所使用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351377&amp;idx=4&amp;sn=6fddf8262c22063b60be9b1c60999042&amp;chksm=bcf0154b451b820ea0f197a0129d518644408eb635cdad035b82e14e5fd7dd8882b916d06af7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 19:38:14 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[NGINX曝“断网级”漏洞，含十年未授权RCE缺陷]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX16WeGwf77VibDleHz5NfiavOickaO3MnRJ6AbMhnTttGxLk15PRKCS4D7EsH3NUWMj0rYIdcciaficYNVzg1dhfnJqs5PJo7rXQod0/640?wxtype=jpeg&amp;wxfrom=0"/><p>NGINX存在两个严重漏洞，远程攻击者无需登录即可在存在漏洞的Web服务器上执行代码。两个漏洞编号分别为CVE-2026-123633、CVE-2026-123007，披露时间为2026年11月18日</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351312&amp;idx=1&amp;sn=6496ff05d5b92bf3fcaf16d4bd5fa08d&amp;chksm=bc142183fa31409726c8cd4359c0a53ad69f97090c58800dacf3b60718a7eace7bffdaa0a71f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX287uIPTRn5myDS2hBnQviajlN2qoAgvNoibBk1gicPYf2j9s2LF7Bfyichbuic5tDfFHvX6BwpSexN8sfemLmS49gu0eyCgnxBdVLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Layer3 Intel 研究发现，白宫网络已成为住宅代理服务的出口节点，这种情况可能为攻击者打开通道，入侵这一全球防护等级最高的网络之一。这家威胁情报公司在一篇博客文章中披露，10月5日至11月3日</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=1&amp;sn=595992abfef74984a7411fce671f8bcc&amp;chksm=bc4f04323a5d13b1b1b0434a98bad781edd6d7c31bb0ef2fc53422efc774476b59ef5aef6dc1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GhostMap漏洞无需打开应用即致Android无限重启]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Jibpyv7NJaGibp8DZY1mz3jBRxpeBS5rZiaXpf3bvia4NJdCCbdv6NmvgAb0vWOxC2qLxTpS3InpH5D82NDjkMXXZiaSFecbKAN8c/640?wxtype=jpeg&amp;wxfrom=0"/><p>名为 GhostMap的新型Android漏洞可导致手机在用户安装一款经过特殊构造的应用后陷入无限崩溃循环。这类应用无需用户手动打开，不申请任何权限，甚至本身不包含可执行代码。Bitdefender实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=2&amp;sn=0bf78436b5ff70fcb5a8075e78e6cd76&amp;chksm=bc7d51687aeed17414610f14080e6fb012a95b22182f8cf6001e185e446f47d9c5a6dff593c2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI网络模型发现948个Linux内核提权漏洞；朝鲜黑客滥用内部AI工具与虚假招聘面试 | FreeBuf周报]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔍 OpenAI 网络模型发现 948 个 Linux 内核提权漏洞，单次运行完成全流程验证 🎭 APT29 关联黑客劫持网页分析脚本，投递 iOS 与 Android 漏洞利用载荷 💰 朝鲜黑客滥用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=3&amp;sn=28b37e0bb1e745872198f51cde463a0a&amp;chksm=bcf6c4e7fca4fa3f07b2084380b6f296872bcb2be609fccc5aa929cffff32c116bc1a393e5da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenSSH发布紧急补丁，修复Alpine Linux长密码绕过SSH认证漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0go9rVrBskaRQkYSXEGPiaCXWWbNaKYEkCrib42bIJkibmLzia4T58icKhDNbM7g6LWaLnk7TCJehCknq0icZeqNAujrPrDnh1icVLlU/640?wxtype=jpeg&amp;wxfrom=0"/><p>在部分运行标准openssh-server软件包的Alpine Linux服务器上，攻击者可登录无密码账户（如仅配置SSH密钥登录的账户）。攻击者只需具备服务器网络访问权限、掌握目标账户名，输入长度在</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=1&amp;sn=2abcb2ac508c2f1cf8d2e0c2ada6912b&amp;chksm=bca37deaa402926abef50f61fc286d0c7ba25d38cf32bd4fca835f436692c767ace7d12657f7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI安全情报这么散，有人把87部法规、29起事件、4个榜单装进了一个免费网站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30tuEY38C9bCFbWfsPBoR5KugwDE3Cr1XZ4Z9fFrZic8VJStFDlfO7PYHM9xaVFtCRd4CoU2aFdT2v9vnjnGGjSJDNOeZpjR5M/640?wxtype=jpeg&amp;wxfrom=0"/><p>做AI安全和合规的同行，大概都有类似的感受，最磨人的往往不是分析本身，而是信息太多太散：法规很难跟全。欧盟《人工智能法》分阶段适用，又被《数字综合简化法案》修正；国内的标识办法、生成式 AI 三项国标</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350443&amp;idx=2&amp;sn=65addca5932c2bf32a38b49804d3ec56&amp;chksm=bc5845250aa77aaf2bab68713617a4f18bf80f34306256d4341e4c0024b35e11de74394a61da&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

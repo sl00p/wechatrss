@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[记录第一次的so文件逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1ffBBTmWV4qzyYNsNweetUdYLibqSCbRj89LfDguZafDWlbHXTmjicxwSyezV5vShD15tnD4ePPdUW2G7RKjPjEb1FsIl1Wh62Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>说明：本文由 AI 生成和整理，但里面的分析逻辑是我自己一步步跟下来的。1.介绍目标 app：某对 AI版本：7.8.0 (1820)参数：登录接口 sign2.找加密位置此 app 没有加壳，所以直</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624360&amp;idx=1&amp;sn=7939ea96689a45cff21588c8963ada87&amp;chksm=b04722f1752b0d0e40f99f1506db0bef3ce84e4d7d0b3ce5fb54281e5831376ff2842811a46a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 17:59:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周五求职专栏！高薪岗位更新汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2AEtGkywnaesOqrZvVnqN60PyBhwtZzMJYb6fZ30XeicmbpRKzF8r6IBEKaYza3QsZGe6j8cibyloTpedOTeZ28hrwbt3cL8coI/640?wxtype=jpeg&amp;wxfrom=0"/><p>每周五招聘专场上线！扫码查看岗位，一键投递岗位状态实时变动，感兴趣尽快沟通✦上海弦盾未来信息科技有限公司✦小于15人 · 上海/广州Web2安全研究员薪资：面议工作地：上海·漕河泾应届毕业生 / 本科</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624360&amp;idx=2&amp;sn=9b7c6f771c1e05c0e13e6e73ded6acdc&amp;chksm=b00ceb61306285f1cca2f2a07c3191028fbb973164b1b9976458b8fe9bbbea7efe8edca24657&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 17:59:33 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VMware vCenter曝出CVSS 9.8严重零日漏洞，黑客已利用数月绕过认证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3cxhljFxEV1DEIDwxibicFWQGWOWecaXVqXqYVCCcu64RicuOCT9OC0JyvFu8V9icm1eB1Z3jmuibrdiadFicP8RbLA7KTdn0EHxVGicg/640?wxtype=jpeg&amp;wxfrom=0"/><p>VMware vCenter 被曝存在一个严重身份认证绕过漏洞，攻击者只需具备网络访问条件，即可绕过身份验证并获得系统未授权访问权限。Broadcom 已发布安全公告及修复版本。Google 威胁情报</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624360&amp;idx=3&amp;sn=218adceed0e08c2de1c303e925c5a008&amp;chksm=b02c09e346d020a4e8a0a11f809dc9cb37e23dace3dffde6ec7d207db4cc446b7b554e741873&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 17:59:33 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从Nintendo密码挑战到乘法的直觉理解]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3hb8FTOBZ1icZX6CrICHQ96ERNFDxLVN26e3iaBZIIO8bY3D4QD8n9eg5ib2qY7VhiajiaCq6eAbPmacT0uTg3MXTYBsLOU7e0ibDOA/640?wxtype=jpeg&amp;wxfrom=0"/><p>几年前在CodinGame上遇到过一道没解出的题。最近再看到，思路阔然开朗，感慨颇多。题目是一段简单代码，核心只有一行表达式（原题见附件）：READ SizeREAD size / 16 intege</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624349&amp;idx=1&amp;sn=4dbe93b7e43cf95bbefc041b48e79663&amp;chksm=b056a0a4b88efdb9043b4bbfc58f11644a1ee8404155ddee4c58ca1883f52f89afce1171233b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fyAqocIicTmPcBV5Q8kbr7b7uJNzGDOlZpRZR17YYo5lPvUfBIb6KvfvrI1Ed1vEV1MKprgts6Uj5HiaULghQPxhRX3pnpEOibo/640?wxtype=jpeg&amp;wxfrom=0"/><p>*本文转自公众号：安在一、一场本该载入史册的极客盛会，混进了一只看不见的蛀虫2026年10月24日，上海，GeekCon 2026上海站落下帷幕。当天晚间，赛事官方推送了闭幕荣誉榜单与年度GEEK榜，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623122&amp;idx=1&amp;sn=f68c753c12bb0842fbf8c02ef7bf5970&amp;chksm=b02a743becfff6ce496501537d467aa3d22adbc367aaf955e2ca044a48c8b4d9ca3cd1302ae4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 26 Oct 2026 18:05:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[来腾讯云AI开放日，加入人类职业进化计划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2ia84qIa8xFmBiaKZCd9ITyXIQicfUsdFy6kdkUmabwnhbUYlJU4I5Yicj5fQLkibMbfEnKngdUcicovQVI6gAPrsx1MLgzDRatQbLY/640?wxtype=jpeg&amp;wxfrom=0"/><p>什么样的Agent能协同组织与人的共同进化？什么样的Agent能应用于专业人的专业领域？什么样的Agent能实现真正的AI普惠？10月30日，腾讯云AI开放日深圳启动，加入「人类职业进化计划」，你都能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623122&amp;idx=2&amp;sn=28dcb0cc878065870349c96e8a915188&amp;chksm=b01c2b5a71c9dde931cf03658ba889959ee9404022384d0a7d404a7cfd8ce1cdb5b8ce83834d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 18:05:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HTTP2Shell 漏洞范围再扩容！脱离 HTTP 链路，波及.NET/ClickHouse/FFmpeg/Apache Arrow]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1qHj8yTMvX8HjR8UQjdofvb1Ms2iaOIVicZCx5tKfbHT6JAgO0yBQX9llvcvCTeMCr2Kxzrv3GFABQhuKz24RGZgwlibpdpcq8OE/640?wxtype=jpeg&amp;wxfrom=0"/><p>原被命名为 HTTP2Shell（Node2Shell）的高危漏洞 CVE-2026-111497，近期曝出重大新发现：风险根源并不在 HTTP 协议本身，而是 Brotli 解码器的越界写缺陷，该问</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623122&amp;idx=3&amp;sn=0bcf731e7fc4e45e140d7013fcbe050b&amp;chksm=b019b1bf17850fd3af3b170f37d58b647c50557797b94fb75ff511fc22253393a4614d1971ca&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 18:05:24 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[议程公布｜腾讯数字生态大会 Agent 安全专场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2bAvZFictiazRmiaK4MkrLLfHDpvzmjc5KOEnnSdQNfpz261ukYGGez9PyOeU7f9b5ib9eYtjYuE1ib1xzmvnP7d3jmJL8sYx3iaviaA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Agent 爆发，安全先行。当 AI 智能体拥有自主调度、工具调用、访问业务数据的能力，传统安全模型正在失效，新的攻击面、信任边界、风控难题持续涌现。腾讯全球数字生态大会Agent 安全专场议程正式公</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623105&amp;idx=1&amp;sn=df3cd640a3466199d7a695a824587cd1&amp;chksm=b082831230549d3c7ec9d7c91e088793a01646d728fd034a232928809ccb1715bff396241146&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 25 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Anthropic 跌破开盘价，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaaEmOOIj550PtCsVEG070IzY1ccCLDWkpCjLkuUjvyicd7eIplHUIRGNTlkjbcdtvibl9axTwtSE1lzOkMWntofOGwmHRkCkQNk/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 Anthropic 于当地时间 2026 年 11 月 19 日正式在纳斯达克挂牌上市。其发行价为 83 美元，实际开盘价为 111.50 美元，较发行价高约 34.3%。“还没开始</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297642&amp;idx=1&amp;sn=8186fee75b937397bdcde78c40e9265e&amp;chksm=bc6ba6777621c2f15646ab728e2be55240ad175e715f08d5f35e47e67e7af5b6c2c9f161f705&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 01:46:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Fluid-Sinapis v0.1发布：让LLM+Agent 参与云原生缓存管理]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaQSclU25udpfJZWXh08v6JhtBKD9Hxdyp8rHy37dqvPNcztFarpgbD5hTDoOA5Frl89DAtsxUlSZhLbJExLRNfqdGOntnXneU/640?wxtype=jpeg&amp;wxfrom=0"/><p>”缓存使用率是 79%，扩容阈值设在 80%。这时，一个大小已经超过剩余缓存容量的热点文件需要进入缓存。规则还没触发，业务却已经需要更多空间。”这类问题在缓存管理中并不少见。容量使用率能告诉我们缓存用</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297642&amp;idx=2&amp;sn=3ca320325ce51b44929eefa0a54694d6&amp;chksm=bc8706e90c1a61f2ae7d30287817c750f6156d51e76d22c8cc32db8a69599116d04f9ef6e039&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 01:46:32 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNgKknYvLXe322I6Hm4aCP2l4xxRMIkVRKK68vegyzbYo7j11KkwFR6V4icJlH68dmKjERY0f7xZ52wJ2t6S1iaJc7WSq2p8HicjIg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Leela Kumili 译者 | 田橙 随着 AI 智能体在公司内部得到广泛采用，Uber 构建了一套 MCP Gateway，用于规范智能体发现和调用内部服务的方式，以解决集成碎片化、基</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297642&amp;idx=3&amp;sn=91f5403c5b6a51f00f526e74879d1444&amp;chksm=bc2ba8e345eaf8627bc09b3fb451325744cf8fa0526020eb0cac7d9874af15c25edd19cdf72d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 20 Nov 2026 01:46:32 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AICon 北京 2026 全日程揭晓｜探索 AI 应用边界，构建持续创造价值的生产体系]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiamK6EQCcPAOFeFIB3DKRj7gOC2HCSiaiaFmXuLYGBE4YIe3rD0HOvp18DfzibnmWibUYjianQrDuIGd0pAENELsPu6vu1HgLeXhphE/640?wxtype=jpeg&amp;wxfrom=0"/><p>策划｜AICon 全球人工智能开发与应用大会 编辑｜李忠良、康悦 AI 正在从回答问题的辅助工具，走向能够理解目标、调用系统并完成任务的工作承担者。当 Agent 真正进入企业流程，挑战不再只是「如何</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297589&amp;idx=1&amp;sn=4e7d43098da8c421c88c1b40ae6a0229&amp;chksm=bccdcc621ee7b75e1bab73a294ce974d3b4797f7619d002f0f15f0d8cb3afd441ccaaa40136d&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhen4n12F0Bt0a0KyrNvm5GszrJuZicicOKXalIXKpgzvIXmZU2LCUatvFD4OibNAsNSekyXBAIodDJFBhj98ibkibib02mACicVFDQSc/640?wxtype=jpeg&amp;wxfrom=0"/><p>嘉宾 ｜ 孟洪进 编辑 ｜ 李忠良 在 AICon 全球人工智能开发与应用大会上，小红书架构师孟洪进分享了企业级 AI 个人助理 Seal 的建设实践。春节前，小红书团队基于 OpenClaw 启动内</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296067&amp;idx=2&amp;sn=f783a9c1898aa1bcbc0a6cac8aec0f5a&amp;chksm=bce76da9f18349525a8ac2d48368f420cb417f68b174ed6cea6e4a4f0e415afc77eaf2d5e5e5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 27 Oct 2026 16:08:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNjRraPQdicVn0ic1EuPqXxKu7UCe6OlZdXYH4mOIR3YxjHxsam4m2BoticibS9t308baWhiaQ7Rg9H6D0QPccfT2Tlichy8yCkibtulmo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ 蔡芳芳 最近，两家中国 AI 公司相继开源针对自家模型优化的推理系统。10 月 20 日，DeepSeek 开源面向自家模型的推理框架 DeepInfer；随后，StartLux 也宣布开源</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296067&amp;idx=3&amp;sn=beb1f192ad02995c0c45a968e4f4ba8d&amp;chksm=bc9c68a4beac67095a54dc63a34eb5012f0136f10c178c03bad16c9ec971a02c91401333ea9d&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 16:08:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 越来越会做事，企业为什么仍然难以真正落地？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNiaibICrCo7JpR19ysj70TkicAGSK5LQzfQrqvTcHsVw6ibEudsZ9OFsokm2LOcR0WMDnac4DkBHOfib9ZicFob1T7fVEjaaw3GXqk4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>10 月 22 日至 24 日，由极客邦旗下 InfoQ 中国主办的 QCon 全球软件开发大会 2026 在上海举行。来自开发、架构、技术管理和产业一线的 1200 余位从业者齐聚现场，围绕 AI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295972&amp;idx=1&amp;sn=e32261b122f872e44a40fff8091c8d01&amp;chksm=bc024122295de643957fd31d285aace75b7125f513eb2d8e66ef99a05eb6dc8895d467184deb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 12:39:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[刘铁岩、诺奖、图灵奖得主等嘉宾共话 AI 的下一个十年：Transformer 一统天下之后，AI 的下一张王牌是什么？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNjT2oDm7bgKGOiaj1VQKRicXUNUDSJKM7ZeF7boib8vHnH8I7KianddsCcjP9nX1eVngNmKNGSXO9oERrA4PUcqvqrzXEQkG8jZZNg/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 冬梅 1956 年，达特茅斯会议为“人工智能”这一研究领域命名。70 年后，当 AI 已经从实验室走向千行百业，一个新的问题摆在研究者面前：如果机器真的能够学习、推理、写代码，甚至参与科学发</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651295972&amp;idx=2&amp;sn=6f81876ee334982f63268f2341539ef9&amp;chksm=bcfd5f7e379921dcc2c2729697056dea2b5603834ee2d860cf50714737234400ef67a7584529&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 26 Oct 2026 12:39:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
