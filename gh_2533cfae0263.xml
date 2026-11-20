@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[混元团队首次开发者社区AMA问答实录]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCUiaMyiauLym10XsVybomAHy6BMr2zLVh04Nib0ZvXAygiaVZSvM0aK27198ICp6vpC3ywjCw1Ogr56OEMyp4tibMtbMPytcBaePcg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天凌晨，腾讯首席AI科学家、混元大模型负责人姚顺雨与混元团队研究员在Reddit进行了一场AMA（Ask Me Anything，公开问答）。这是混元团队首次在开发者社区公开答问，两小时内共收到30</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654910162&amp;idx=1&amp;sn=a6b18b1b56e87ea718f3c3b56b3234e2&amp;chksm=bcd04fb1daa2278096c4f768124649aa48deaa74ccb80358bc12d13a5a499e3d41692dcea59f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 13:54:49 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Hy4正式开源]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/W41dM10xkaCJp4YaEqzCGUTBOupVRR1LvA8tBDb8yNjb3dvBnPWzJIeWIMhxkBA3MGt0cXZTmS0bTUP5iciaPPWibnORrFicjrWcBFIrHzQFfiaY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，Hy4正式开源，开发者可在GitHub、Hugging Face等社区下载模型，自行部署。也可以通过腾讯云TokenHub，直接调用Hy4 API。混元同步发布Hy4模型安全评估卡片（Syste</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654910147&amp;idx=1&amp;sn=ca11cd0368e50703bb9a986c8dc64266&amp;chksm=bc51d4b21edd66552d3daef49dc8aa7aa39bd23132b34b24075a760a73eb17e9c6bb5949f816&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaCbcKtCAAwvVWTZib7ibD5dJNfrSjI8wl7vujuuMPWqO5Nkk9qbmNUrVvtlWvVsH8pLGIFg1vDlhIkdCBhwUaE2RHMaptyvyxs1E/640?wxtype=jpeg&amp;wxfrom=0"/><p>每一个成熟的AI应用，背后都需要一个稳健的数据库。今天，腾讯云CloudBase正式支持PostgreSQL（开发者喜欢简称PG）。作为全球应用广泛的开源数据库，PG功能成熟、使用方式标准，天然适配A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908478&amp;idx=1&amp;sn=2c728fc875553c31c7d022198056054c&amp;chksm=bc836abfaadf85d60d33c3edd555c8209efe8811ba5492f402e0162f8059884a7b882b35ee52&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 10 Aug 2026 17:59:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WorkBuddy入职 +1，这次是深圳港集团！]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/W41dM10xkaAu7jicrib53jMDeokYp9TAdeDlrp6XZJA5245B188VVdPz5mKWDokusgtZMFLooBvtMT1UtFZTIDYxn6WeHM6P229g9joetIhHk/640?wxtype=jpeg&amp;wxfrom=0"/><p>WorkBuddy最近一直在到处「上工」。 从李宁到长安汽车，从平安银行到金域医学，从TCL到新华三，跨了互联网、快消、金融、出行、医疗十几个行业。 这次入职的，是深圳港集团。 一张报关单二十多个字段</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDgwMzc4MA==&amp;mid=2654908459&amp;idx=1&amp;sn=7dd66b52ca55414d09ae804485a2a4e1&amp;chksm=bc2366316fd35487a7727af48a57dd90216b342ca529d69ea07306eebbd6f1662b96ee444723&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 07 Aug 2026 13:21:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
