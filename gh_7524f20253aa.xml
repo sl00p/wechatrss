@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[AI生成补丁成黑客攻击重点，漏洞修复时间差持续拉大]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX35E8ucnjXuuibWpOmXqnQOia3S6lVEaPGsdEhiabL9fSiaxH16Z3aicicKRpL9CT9Y2enEaLAZW8zFibnHicG1DtKQMoZwxicA5w7yGFHs/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI正在加速漏洞发现、重塑漏洞修复模式，但AI辅助生成的补丁往往存在缺陷，反而让攻击者开展变体分析的效率大幅提升。Part01AI补丁普遍存在缺陷成攻击者变体分析蓝本今年夏天，每周下载量达100万次的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351452&amp;idx=1&amp;sn=fa3c1f0f74cd366e87dc8aa98a966bdf&amp;chksm=bc80c23542323ad02e2aad9834f785a40cbe6ce755ef62e9f70a0536577cc98aa304d57a9fb4&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 19:05:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者主动扫描LiteLLM AI服务器，漏洞链可实现无认证RCE]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX30QJMic3NfC3uC48OBuMnLjLLl56tKbeRyiabWke9qNwQrR8RMkaK8icJJiaQhOD1xhOCs8wbUtQluMNAeP2kqIk1iaCRJwvAibGiaCs/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者目前正全网扫描暴露的LiteLLM服务器，试图组合利用两个漏洞，无需登录即可获得RCE权限。此次扫描针对LiteLLM AI网关的测试端点，同时利用其依赖的Starlette Web框架存在的漏</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351452&amp;idx=2&amp;sn=4e0456a28daff472cab63f117cbf8a72&amp;chksm=bc82a7f0b84af52fb8143fed4dc28eb85f9c0a7fbb803e4b8d02d8fc642af32ec29519fea5bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 19:05:39 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NGINX HTTP/2曝出两个严重漏洞；Claude借助3美元Arduino破解32年车龄Jeep ECU | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🔴 NGINX HTTP/2 曝出两个严重漏洞，可致内存损坏与远程代码执行 🚗 Claude 借助 3 美元 Arduino 破解 32 年车龄 Jeep ECU，逆向分析发动机电脑 💰 美国冻结朝鲜</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351452&amp;idx=3&amp;sn=9b1fd0341837f49ceb92554ce709e8b4&amp;chksm=bc7f4079a29f1648dcc16d7cc5eba5ed7cef2656fb6a931baf7f13da11e52b7598baddca451c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 21 Nov 2026 19:05:39 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[被各种2shell漏洞轰炸麻了，真的狼来了吗？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3zCdvUtiajZ55yXBT3jbaY785icNycvUs8HicEW31GfHJRmiaxdVKMsSdJDJsUAlrkZyXS7CX3cCBh1jP1j7Y1ZcAL9usEQbJ95HY/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击小程序，发布评论参与讨论👆从PHP2Shell、HTTP2Shell，到Java4Shell、NGINX2Root，最近一个月，安全圈几乎被各种“2Shell”漏洞轮番刷屏。漏洞刚曝光，PoC演示</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351377&amp;idx=1&amp;sn=152f8ac5b78dbbe9fc290f32a45ad2ea&amp;chksm=bc5b78e1459eb8a6414e480855a9c3971b0b43ca836f4a069376329d181858684e9753b967af&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3vicpjA8PnqHyQ8ABz0Yp6a9cM4PApupqfQvQIITicACBzNCw5qTU5libPF6FT718eHNT08ria4tAOwrwpK1eWAb5VZ5JgIBEzaBI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI已经能够在数分钟内批量发现漏洞，但要判断这些漏洞会给企业带来多大影响，人类安全研究人员仍然具有明显优势。在近期的一次访谈中，HackerOne首席执行官Kara Sprague围绕AI对漏洞众测行</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350560&amp;idx=1&amp;sn=228a7fb3412506d6a86b5813eff4bc78&amp;chksm=bc7263cf26f36e129a28fab71340ccf316f711b2da93be01ce0d9e2e94492477149523beb26b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 08 Nov 2026 19:53:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[勒索团伙Dark Project招募加盟黑客，开出80%分成扩张网络攻击]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2P82JdJHtBrvtUXryhFzWdv9HuRRRAZzbvYchqftqbBia8dNaxdb9KOaraApGXrdKfJYibxa1wcNAkhvAMI2hFawM3aHpExlaaM/640?wxtype=jpeg&amp;wxfrom=0"/><p>名为Dark Project的勒索软件团伙正在招募犯罪合作者，承诺攻击成功后合作者可获得80%的收益分成，同时还提供全套勒索管理平台支持。安全行业2026年6月首次监测到该团伙活动，其以牟利为核心目的</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350560&amp;idx=2&amp;sn=2aa8c8606c879e4aa317d1e31e4020bf&amp;chksm=bc34142bb99874b7955f7728b0fda825477136f93c8cb48d3b602ec3b73130191c832d3836f3&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Nov 2026 19:53:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美国五家联邦机构联合预警，攻击者瞄准食药制冷控制系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3JpUbM30HCSDsud9oS0pugvXKL6FtfEVib5STJ5BfSpFz4m1SWWwHqWlfkyQelftWbsE3DSgHzVGvN6cq3VjVf7ZOb2ibLfwAP4/640?wxtype=jpeg&amp;wxfrom=0"/><p>五家美国联邦机构周四发布联合安全公告。公告显示，威胁行为者正攻击负责维持杂货店冰柜、冷库安全温度的控制器，可能迫使这些设备持续进入加热、除霜循环。CISA、FBI、美国卫生与公众服务部（HHS）、美国</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350560&amp;idx=3&amp;sn=ccd5e154a7e1171af5c9e01d9d313df1&amp;chksm=bc777be0f2b179e2da3675017618cc9e3a78cc288f3272588176aeb4c63b6087b3d47688bf1f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 08 Nov 2026 19:53:25 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白宫网络成住宅代理出口节点，花几美元就能“借道”白宫IP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX287uIPTRn5myDS2hBnQviajlN2qoAgvNoibBk1gicPYf2j9s2LF7Bfyichbuic5tDfFHvX6BwpSexN8sfemLmS49gu0eyCgnxBdVLQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Layer3 Intel 研究发现，白宫网络已成为住宅代理服务的出口节点，这种情况可能为攻击者打开通道，入侵这一全球防护等级最高的网络之一。这家威胁情报公司在一篇博客文章中披露，10月5日至11月3日</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350492&amp;idx=1&amp;sn=595992abfef74984a7411fce671f8bcc&amp;chksm=bc4f04323a5d13b1b1b0434a98bad781edd6d7c31bb0ef2fc53422efc774476b59ef5aef6dc1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Nov 2026 18:00:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
