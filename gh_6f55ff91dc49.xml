@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[很多人想把《GTA 6》移植到 PC 上，这 4 个 GitHub 项目在努力。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU2iczQ3SP3FmccrfQVhTUMAEiaGPjxxyODqaT1fe7pXA8Yls9TWZQf3qTV710yB3sABSwYa9ED49sc8JFSXDcvicT4ZHJ2xxVbSSg/640?wxtype=jpeg&amp;wxfrom=0"/><p>今年最备受瞩目的游戏应该是《GTA 6》和《时之笛·重制版》了吧。11 月这两款大作一发售。民间开发者就开始琢磨怎么让它们在电脑 PC 上玩了。先是《塞尔达传说：时之笛》的 Switch 2 重制版。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538720&amp;idx=1&amp;sn=6ea7087788cd169d016cc3c8f7d0cbc6&amp;chksm=f8611595f70bc945592231fe1d7330267536f02dceff7dbb3fa2d6928685057493c0acf6d66e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Nov 2026 11:36:26 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[谷歌 Chrome 团队出手了，GitHub 上斩获 1W 的 Star 了。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1XROp8JVLT8nIQia8bTbVpF0XniaVrcib9Z9vme9LzO0ibtB2RhicXGAhKgv20VOibtzGI5AuS3jQswku5hkww3Bcx2ic2IMq67cn2hw/640?wxtype=jpeg&amp;wxfrom=0"/><p>谷歌 Chrome 团队出手了，最近在 GitHub 上开源了一个项目：Modern Web Guidance。一直在 GitHub 日榜上挂着呢。他解决的问题是这样。现在让 AI 写网页，有时还会看</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538609&amp;idx=1&amp;sn=4f14737e2c3c5e739567c1406c764fa0&amp;chksm=f8411d28db50a7b071f5b543da742523ad4ee3a05c564d914d451b975c74c975b368584398e4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2hkZVONBQIhpBarxcLm0vBgqvnnT4bIsBPrbxNQq1Kjd57aD3RVFgjyJFC8rGBSVyP1aWHoBo1Qfic46tibBxbicqTuMddEGZn8U/640?wxtype=jpeg&amp;wxfrom=0"/><p>腾讯大模型混元 Hy4 preview 发布了。直接开源。总参数是 770B，激活参数 49B，上下文长度是 1M。相比上一个 Hy3 模型，全维度提升。目前 Hy4 preview 已经接入到 W</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536414&amp;idx=1&amp;sn=1e93e0621638b9b14682328a890b63e6&amp;chksm=f85e8aff02f7ca7efbcae5968b043629562aad83f387c356cfd2adf2b313550e2085e4101333&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 31 Aug 2026 10:53:45 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GitHub 上 2.5 万星星的开源 Skill 让 AI 画出漂亮图表。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0fxiafKM8LxxuRETCVvDRBUwibEjXTRfEYV2SIVp03av4c2mvFsN7wEV9FX4F9vIWVus5ULd1BKgyEl40qRbGAhGeNQTRLX0ODE/640?wxtype=jpeg&amp;wxfrom=0"/><p>逛 GitHub 的时候就看到了这个开源项目。这是一个做图表的，登上 GitHub 开源热榜，而且已经到了 2.8 万的 star。研究了一下，他这个画的图表的好处是能够直接拿去用。啥意思呢？很多用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536259&amp;idx=1&amp;sn=76854c4497eb2738decab0294cb4a149&amp;chksm=f8b512565af72a0f472c58372f67163bba3271c2690a526bbcb19e17427e96cdf058789e007e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 29 Aug 2026 11:49:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

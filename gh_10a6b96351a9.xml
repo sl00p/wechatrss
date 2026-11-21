@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[主要包含两个部分： 第一部分，关于【企业级】AI编程，5次； 第二部分，关于Agent原理与实践，4次。 企业级AI编程部分，是自己和专家团队一起辅导企业AI转型的经验分享。其中两讲已经聊完，纪要链接如下： 1. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6qu1r-jdy9if" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981945&amp;idx=1&amp;sn=51d24fba628274caf933a1e098ecd4dc&amp;scene=21#wechat_redirect">A企业级I编程，SPEC驱动到底是啥？</a> 2. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6r5se-yo8fut" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982013&amp;idx=1&amp;sn=54f64cd7d4b7fd16932521956df6a411&amp;scene=21#wechat_redirect">企业级AI编程，个人如何10倍提效？</a> 3. 企业级AI编程，团队如何10倍提效？ 4. 企业级AI编程，新项目如何AI从0到1交付？ 5. 企业级AI编程，老项目如何AI从-60分接手？ 关于Agent原理与实践的部分，是自己看了下Anthropic官方指南，结合自己的SDD场景，做了一个mini-agent，会分享： 1. 学到的知识； 2. 编写的sdd-site-agent代码（含架构图）； 3. 生成代码的提示词； 4. 一个月的心路历程。 其中第一讲已经聊完，纪要链接如下： 1. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6ybxz-kr0nms" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981982&amp;idx=1&amp;sn=39ed52a9f329a98e9e7da3ce35dd81ac&amp;scene=21#wechat_redirect">v1与v2版本mini-agent原理与实践</a> 2. v3版本mini-agent原理与实践 3. v4版本mini-agent原理与实践 4. mini-agent原理与实践总结 下一次分享，继续聊《企业级AI编程》。 欢迎对AI感兴趣的童鞋参与。 欢迎【预约】，一起来玩（分享PPT）。]]></title>
+      <description><![CDATA[<p>主要包含两个部分： 第一部分，关于【企业级】AI编程，5次； 第二部分，关于Agent原理与实践，4次。 企业级AI编程部分，是自己和专家团队一起辅导企业AI转型的经验分享。其中两讲已经聊完，纪要链</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982015&amp;idx=1&amp;sn=a8b73d067ba540caacda44f5430d16cc&amp;chksm=bc84e72c017d84312a3e31a28e5a6f1476dd932edbd44f9a0c73ac20a7abb1810d7234690c2f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sun, 22 Nov 2026 10:12:38 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[保证质量的前提下，AI编程，到底有没有可能实现10倍提效？（长文，收藏）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXeqibB1IvfGPiallXTT5AYs7zZW1ITszZIFzr7TRIdS0xoybTgYAA2960mBSgiaEakTeN3zASslQXSK5ohUakeD2DncacPDqMicpoY/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚直播《企业级AI编程，个人10倍提效》，今天把纪要+PPT分享给大家。下周继续直播企业级AI编程，欢迎预约。问题一：在保证质量的前提下，AI编程为你提升了多少效率？1. AI编程？还没怎么用的、一</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982013&amp;idx=1&amp;sn=54f64cd7d4b7fd16932521956df6a411&amp;chksm=bcc38153ff90183cc6cd2316f81964a3c4b5a459439885c0ae53fe8a427f9c405264d4bf4188&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>职场二十年，回头复盘，真正改变我职场轨迹的，不是加过的班、熬过的夜，而是4个重大选择。 第一个选择，研究生毕业，去哪儿？ 那个时候，手里有三个offer： 1. 百度，即时通讯，北京，10K； 2</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981569&amp;idx=1&amp;sn=561e6bb7fa429459b4b2b6a61241a751&amp;chksm=bc9b8a6bec22e12a5780fa1a747cd49dec69a1a1191d09b000269cd40a82a335b665f393a974&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 09 Sep 2026 08:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年，离职潮彻底消失了。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXcB2LdNWoUiatDPlszMYDSGOiaLFGJx3Xxib85XO0trMjxpZ7WtgUCY8xviciaAzYoIGQ8fAVQhSxQGEP2Gpcu5b1iandfwhQqgTdzlo/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近各大厂裁员消息满天飞，所有人都在说：“现在大环境不好，工作难找，千万别离职！”但比失业更严重的是：就业方向已经完全变了！打开招聘软件，变化很明显：以前按技术栈划分的前端、后端、测试……这些岗位JD</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981561&amp;idx=1&amp;sn=17c887c94a4d0da4fd9cf1469001b4b9&amp;chksm=bc8554134cb415a2d646eac251067dbdcc9094a8e6156431aa14007fdfc88b4fe061606c4fa9&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 08 Sep 2026 11:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
