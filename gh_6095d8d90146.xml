@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[每日安全动态推送(26/11/23)]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Chrome 给智能体造了个镜像宇宙：不碰真实网络，也能测浏览器代理 | CN-SEC 中文网https://cn-sec.com/archives/5602804.html本文揭示了 Chro</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960594&amp;idx=1&amp;sn=f19b37d1d65cd22d65764f631c575262&amp;chksm=8a4d1fd1943c0725390cf0aa06414fa4a1b9359b0bc845ef024543b5f922d223bee216b4cf52&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 17:15:44 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[每日安全动态推送(26/11/19)]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• 利用 Music.app 符号链接竞态条件绕过 macOS TCC：从漏洞发现到最终修复https://www.jamf.com/blog/music-app-race-conditions-t</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960591&amp;idx=1&amp;sn=c7b44ac12dbd91248eaf6a756df254d1&amp;chksm=8a8038c8412bc15da2fa3ffc876d7faf4b77c5b11a09d2fff5d20d84a4cf0c00dda811256331&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/dWDic6IAXZse8QL2JDaBZKACGeSicbxmP1scbr8xrzYUL9son3MMwdftxzMDs1mMK1ZLibUicO5jGeSdhvZOHtdib8w/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文是腾讯玄武实验室发布的《AI网络爬虫安全白皮书》。我们系统分析了 AI 时代服务端浏览器 / 爬虫在真实业务中的典型使用方式，以及由此带来的新的攻击面与风险。在这篇白皮书中，我们结合多款实际产品的</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960377&amp;idx=1&amp;sn=5b240d3c7813d2fa5f54703027c24451&amp;chksm=8ae39363f950cf6fe1a4de9f917d0c5e46f13fcda21ef4fcaa3b54f1b6ac53a9fa6c0b1215ac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 03 Feb 2026 16:29:03 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[每日安全动态推送(26/2/2)]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/dWDic6IAXZsfiaZW0JQviacCLMqWhF3SNibuLiadsQ0NIQTtMib9dtRNwicMAnvZMsHoH8R05VSkImpkiavrZ7h5ia6ZMew/640?wxtype=jpeg&amp;wxfrom=0"/><p>• Ivanti EPMM 零日远程代码执行漏洞遭利用https://sectoday.tencent.com/event/Mb4zEZwBnYhVxRrj9tzsIvanti 披露了其 Endpo</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&amp;mid=2651960372&amp;idx=1&amp;sn=1cd843c83eb4e3725ef8e167b3237064&amp;chksm=8aa07a20aa011960cdc659900d502c82dfb1608807c5b614eebae1b4105d9173d3b75f13d1c6&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 02 Feb 2026 16:22:28 +0800</pubDate>
     </item>
   </channel>
 </rss>

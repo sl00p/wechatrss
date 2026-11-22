@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[近期开源的 Durable Harness 对 Always-on 有什么帮助？]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT7hgv1Z8wTeqxvHlQZ7pwibAnmArJdyYjgEueHGrUIH5mFGas4p5wufaSw5WAtPxy1cIXc4QRyT9OdgLceXXqR0bQGiclMGEvVibU/640?wxtype=jpeg&amp;wxfrom=0"/><p>消耗 Token 的主体，正在从触发任务的人，变成自主运行的 Agent。Agent 执行的任务环境越来越复杂，链路越来越长，任务执行时长也越来越久，从几分钟延长到几小时，甚至全天候运行、跨天完成。因</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517461&amp;idx=1&amp;sn=602e741d401628a4f56d4f2bf7b974b6&amp;chksm=f452072c8bf2246ba412a14e730d90795073315b92d65a8d75102f100bc130af479496bae567&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 10:23:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AgentTeams 更新：全新工作台与官网，一键开启团队协作]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT40RzDmn6iaDPeu34miaPmbwfafW1Xp8iceOdeAmoacYNdAX5vXxW0AVfzEszNNba3JMePBTfYdwGW2WQPcWLDTJjb7ekUPpLRhiao/640?wxtype=jpeg&amp;wxfrom=0"/><p>AgentTeams 最近的三个版本：1.2.6 让执行过程更清楚，1.2.7 让安装和运行时选择更方便，1.2.8 带来全新工作台与 Team 协作升级，让任务交付更可靠，协作更省时、也更省上下文。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517454&amp;idx=1&amp;sn=2debd68287764ff5ad030eae0d290795&amp;chksm=f48e4000b12a75aefd0b88e76f5f043f50ac4a0c46a43a10b4ab34eb3a9c3e671c87313d7a02&amp;scene=0&amp;xtrack=1#rd</link>

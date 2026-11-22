@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GPT-6.2 Astra连破两类0Day漏洞，移动OS隐私与服务端安全告急]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0k79bS2N6RZIerFKSmwFAfoh1CgcdLICmJDHKdNejFNBX0s0jvCgXbOIPynx0UoI15ciahf9NNhF4EniblOMxGseeh3bgicOnKYs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两类漏洞暂未披露受影响产品细节根据OpenAI最新发布的系统卡，其旗下GPT-6.2 Astra已发现并成功利用两类0Day漏洞，分别影响一款主流移动操作系统和一款被广泛部署的网络服务。本</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351594&amp;idx=1&amp;sn=60c99b0e1e174c8ab7d4c3de9b2c2485&amp;chksm=bcb648055d2baaa5551146199a5e3054ca0e6c607776fa726fb847e23dc6a25e301823a91a42&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Xalgorix开源AI渗透测试工具上线，双Agent独立校验降低误报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2D2diclrY3Y0LDUkSTSl8WkibSeWrWicQHBzlNmchKEb8vkqeIzZvOUJAeicLFm9mToTR2Ron1Kh2iclqa5XhiaEm5S1xtl2AXSlQNA/640?wxtype=jpeg&amp;wxfrom=0"/><p>Xalgorix是一款开源AI渗透测试工具，在输出任何报告前都会先对结果进行自检。当主Agent发现潜在漏洞后，系统会调度第二个Agent再次对该漏洞进行利用验证。如果第二个Agent无法证实漏洞真实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351594&amp;idx=2&amp;sn=093d13c34b662807ce85e89fd34371e5&amp;chksm=bcc9d60ddc5c11697c8f9c6e3904d5f83331f37d2264995971fae12893a0d8c81826af499fe3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[研究人员通过蓝牙入侵大众汽车，可窃听对话追踪GPS位置]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2srMXZAzuicSYTZnqvzuhx0QduTFS6VfzAFDowgwhXiaeEGPvrHlcmu8QtnJSOhdTUxXbudWSJ3oic5yvH7dURN2NGdcw08D8bEo/640?wxtype=jpeg&amp;wxfrom=0"/><p>大众汽车存在的蓝牙漏洞可导致车内私密对话泄露、GPS位置暴露，还可能让攻击者未经授权控制座舱功能。本次研究发现，相关漏洞的补丁推送周期极长，部分车辆在漏洞公开约16个月后仍处于风险暴露状态。据heis</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351594&amp;idx=3&amp;sn=a351a3c7576c624a96659f5e77ff3d7d&amp;chksm=bcb39e57c9d9270169f41c437506096c7c057675a0242b4a3a2d9b23a96b7318bd7a0ff0879e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[论坛卖家叫卖VMware vCenter 0Day利用工具，售价3万美元未经验证]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0dXX0rnuH5ekm3wet5ibJTnaXMFAPrO6N1myfThUymxl2LwOWTib5FjGOG24Ggbr7SHFcicaibwc9DTlPv8mNjjyfp53ua8pzt628/640?wxtype=jpeg&amp;wxfrom=0"/><p>网名为Matilda的论坛卖家正以3万美元的价格，出售一款针对VMware vCenter Server严重漏洞CVE-2026-123890的漏洞利用工具。Dark Web Informer分享的截</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351594&amp;idx=4&amp;sn=f5c557a52b7d55b16d39dabb897349c4&amp;chksm=bcde0edca5800b147b6dce748c06a5b890341845973025e148c5b2bca7b88dce4a05c9fef555&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CrowdStrike洽谈收购Zscaler，望跻身史上最大网络安全交易]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0VocthBEfq2VaKXSfWr77sGuWBSxiazzsTdmsfYQiaiaeQuCG1H8GpNxTJgBUSg5pe47eiaSd6ZBJkWfM91fVxes35HJ3xUM6hAeE/640?wxtype=jpeg&amp;wxfrom=0"/><p>CrowdStrike正洽谈收购Zscaler，交易规模有望跻身网络安全史上最大交易之列。彭博社于11月20日周五率先援引两名知情人士的消息报道了本次洽谈，称相关谈判仍在进行中。本次谈判仍有可能最终无</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351526&amp;idx=1&amp;sn=9a508969631af85b9579d6b1cc80dc21&amp;chksm=bc71618917fd0e3b5f193df1aec46e979f8550192e80bf7a0b42c17c2d00e93ea52b5ec9329f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oaJgSW7QQQNiaWibNyibHQL1q7BRVj3SmwpHtGiaUviaIMTZHWYJFfo4IdWrN7V9OJSnZutWWKj7tTFrnA1iaJgLd6oSNpyWibjoeZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part010Day已遭在野利用谷歌已修复一款Chrome 0Day漏洞，目前攻击者已在利用该漏洞。该漏洞编号为CVE-2026-125350，远程攻击者可利用其在浏览器中执行恶意代码。本次稳定通道更</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350682&amp;idx=2&amp;sn=53e84ce2d254957a175d51dc54c446bc&amp;chksm=bc3f05c6a686b3938bc5cb32fcebdd5897baace570d12c8cd0d9cb2f70e1dffbc3d73cc60250&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[仿冒GitHub安全工具传播恶意软件，已感染超2000台设备]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1E4L82XtPIAF2vias2jXOXb2JIUe4be8B8wPBIjLYJsKGCZFpDLjbQatB3SDCcRwzbd1ZIaZeAjATKDIS9b9Nk0te81ia6pSctg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01仿冒项目暗藏恶意代码网络安全公司Doctor Web发现，多个伪装成安全工具的GitHub项目中暗藏恶意软件。相关攻击活动最早瞄准区块链游戏爱好者，近期又将网络安全从业者纳入目标范围。研究</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350682&amp;idx=3&amp;sn=2245973490ca36c91b100910676c02da&amp;chksm=bc64fb4bc5fa910fc1d25aeb2a7ac23c97220e45f7ab70e6e2ae4ba654d174186756c6434de5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Notepad++发布8.9.9版本，修复6个可触发插件命令执行的漏洞]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1Eicr8DpGIgt5UvOvJVxb05A53Yhvex8wQicfG0gL4CpAgkPEhcWDODfWgOIIgiay3CbEYuzCDxsUpdFwUX6PsL12MOGwR4xibGkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Notepad++消息处理缺陷可导致插件命令执行Notepad++于2026年11月6日发布8.9.9版本，修复了Windows消息处理、受保护文件保存、剪贴板操作、MIME Tools解</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350682&amp;idx=4&amp;sn=cacbd278292bce81951b42f41e068d16&amp;chksm=bc5fceae81ffefd2d109f076fcba0d0a3099a7f880c0f117a4d4672440aab60b827686058152&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI安全进入双向演进时代：润建股份构建AI安全攻防闭环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2lXz66wwK1VrFwQdoGU6CsJ5WuIB0fFibIzWPcUMcJSPicWjjIw6YJkWeHeqUsyYxxdQbiadfueFwjFUs152xmNZRbzbdvW6BrIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年10月，IDC发布《中国AI安全技术发展路线图2026》，对23项AI安全技术做了系统评估，并给出一个市场规模刻度：到2030年，中国AI安全市场规模将达到340亿元，未来五年复合增长率超过</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350618&amp;idx=1&amp;sn=f96ed6a9393b47c891bbc8ef0f65ad1d&amp;chksm=bc5c569d4529d5ccd1f69ed39c70d5364c944741f4d25e21d06cd65d9e3554ff1770b89b6868&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[React Server Components曝严重漏洞，攻击者无需认证可远程执行代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1uPkF6sTCvEV5Yd3neuJSZ93HQHahGPPVia7PwtThubZo5x6ztHTc5RIOXaaK0F3Oyrib0iaR2alPj5CewlFpUymOib2cJPuP0D7Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>React Server Components存在一处严重安全漏洞，攻击者无需登录即可远程执行代码。React团队于2026年10月14日发布安全公告，漏洞追踪编号为GHSA-xqc2-xf4c-x3</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350618&amp;idx=2&amp;sn=eedb0a7fff4f75e5ebfaba184c55a03a&amp;chksm=bc03806e41925d2b7b213c6ba761cd16e78a92c62781e9011c1bb53b42153e82f2e616b77c87&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你的技术修炼到什么境界了？看雪社区全新会员等级成长体系2026版正式上线！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3u2GyugiapVNG7ZZoAvXicDTbKBic8QFLiaz15SnFBWKbvHLA6XZ4ZEkhCyYQaH2UtwEZasda6qfbxltJNT7c9Gia2fpqm40BrBdUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>以技术见实力，以贡献促成长！亲爱的看雪会员：如果说网络世界是人们精神世界的延展，那么看雪就是这个世界中一片孕育技术与思想的土壤。从2000年至今，看雪始终致力于为广大安全技术爱好者、研究人员和开发者提</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624444&amp;idx=1&amp;sn=be9d0ff2751898d436da2b4f61e3474f&amp;chksm=b0511afab5f896930fc754c0a1bcfb1538297651239e81ebdb6a2938ec74e2d6408bd4fb3cbc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:02:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hypervisor : Intel VT 平台 DMA和VT-D对抗]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2TNCcvsbicKJaSK678pcibOeAVbjmNIGpM7UiaOuFFGs2ODYlgdnRHLvZ6w5zhIOhzrn16kSduxbgz3rAvKbXjvCR1J9cB5cPBeI/640?wxtype=jpeg&amp;wxfrom=0"/><p>这里主要聊一下基于uefi模式下的Hypervisor层的VT-D对抗（TYPE1型Hypervisor或者说某些反作弊的预加载方案）。这里不讨论固伪装和绕过保护手法只讨论保护方向。（全文无AI 古法</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624444&amp;idx=2&amp;sn=94cce2b0e1143562892e1c4398fe7766&amp;chksm=b0dbef3ad2ca77f70302a0f899a332d7602bdf8b13d67e3eba4ea4dc5eb29923a9e0c6e2efd2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:02:04 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3orrWvDfoP0kL4WNvxfjLh0cOdIWOx2xHOz2dzvO1zpg8oC5vKy4rSu6taIzl3jibibY20g6qhc7hrga3YKZj7GeV96byuIU8IM/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI 最新发布的系统卡披露，GPT-6.2 Astra 在安全测试中成功发现并利用了多个零日漏洞，涉及移动操作系统权限绕过和网络服务远程代码执行（RCE）。这一进展再次引发了业界对 AI 自动</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624444&amp;idx=3&amp;sn=7ec4d0204cc2cc1cd4c114162ef68c34&amp;chksm=b0acfc5b3594ff6dae9121599b0d02ac88440cd1925250b07e214fba3764670945e93248a135&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 18:02:04 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3c7R1icwQI72qrlk8ng9FJCQBTlzia0bpVGPVUzcssibh98iaMYhTHaQt1We3FHX4DzG8MC6lztjSvqb8QAfavziboZeCH6t4B7QZQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>【测试声明】（1）本文全部验证均在本地隔离环境完成（127.0.0.1，Docker 单机靶场，与生产网络物理隔离），未对任何第三方系统发起请求；（2）文中出现的脚本调用均指向官方公开仓库中的验证脚本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624361&amp;idx=1&amp;sn=35c1bfcaa62d03b1ebed692d70c5a7f0&amp;chksm=b03c2a42648da7f92992ca8afe7bd10dae69b5cef2f78aa8e3635a0cdc8cb338bc23a1825222&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1VFHjnxXZQuW1Ecic9e7r42f0qfF0B4Sx1dZPvJxGnYjF5DfsevhlYfpEP40Oax7wcS0Z4yq3nCCEBarMGwYgkZOdMibARU5S8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog 安全研究团队披露了一起供应链攻击事件：攻击者劫持了 42 个真实 GitHub 仓库，涉及 11 个合法仓库所有者，并植入恶意代码，针对 Claude、Gemini、Cursor 及</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=2&amp;sn=a105156c2cf60620913cad18ac448e15&amp;chksm=b0732bd28b9ee03acdbc4cc11cdabef86780d2a3f6786949fc4461c9ffab01ec17ee7f91cb4e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用AI人工智能辅助逆向分析]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0dGo5xSFy2fj4vQpV51hfyibozIhn4NnFC43kHiaPmShDDWcZrvniaBYA4GcVWgoic5MW9Eq6kHJyGsCR0icHjxljfnPYbDvqe7XUA/640?wxtype=jpeg&amp;wxfrom=0"/><p>手动分析、逐行调试、重复排查……在攻防对抗中，效率就是生命线，可当恶意样本指数级增长，人力终究有极限。这时候，如果AI能成为你的“外脑”，把低效劳动交给机器，而你专注攻克核心难题，那效率是否直接翻倍？</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=3&amp;sn=86804ff1c1a6dc61a83ef291bd89bf60&amp;chksm=b0e438336e99f31a543090e38a4e57c9cb748598abf190a90d6626272c22b58adc08ba14e263&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题回顾 | 从 LLM 到 Agent：AI 安全攻击面的过去、现在与未来]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3E3h0f9iaFPVH6So16pIuMPM4ZEBlF7D6ibIDh5ibmAHsL7YBeoUw7sBUgRllo3xxAlW6dxA9hkeuiaFfk4JdDx63QuFHVftTVnnU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾从 LLM 到 Agent，AI 的能力不断进化，安全攻击面也在随之扩张。从传统的代码漏洞，到提示词注入、工具滥用、记忆窃取，再到 Agent 自主行动中的失控风险，AI 安全正</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623168&amp;idx=1&amp;sn=c067079a13953815453d84054be125f5&amp;chksm=b0a3ae2b9f5aa68e3f75ac5fa70fbf922a99363efbf26358ff7a84b2c5c4817a2c7fa2c552a4&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 18:05:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 Agent 拥有更多能力，谁来守住安全边界？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2LcgU3BnZjn4n3DnEvaibEUTUHvetetDFYLCql3drYvAuMQGJiaapgZbGAP1USabElOk4icLwHkBCV0cejJ9CdS5zEUQ2LzX2ZQo/640?wxtype=jpeg&amp;wxfrom=0"/><p>谁在用？代表谁？有没有越权？成本超没超？随着 Agent 从对话走向执行，企业面临的安全挑战，正在从模型本身延伸到身份、权限、工具调用和业务风控。如何让 Agent 真正好用，同时做到可管、可控、可衡</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623168&amp;idx=2&amp;sn=2dbec3d9bd640a39e10fd10f03540942&amp;chksm=b08827e2c0cd17981ea63f9739cff2a8c5e89ed98c11b88a920a4c02291a28b09e06655afa0b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 27 Oct 2026 18:05:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

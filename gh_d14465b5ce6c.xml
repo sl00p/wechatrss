@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[50GB工作区秒级可访问，腾讯EROX破解Agent恢复难题]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904WvCa40yJpGjxUUlPVicpEVfz25CFnbicJ1WCIwDZGp8Vr7VpH8V3KnzPWSOZZNq4gE8WZibtakZ94KcnzM6VMalQON9x6ZR2u4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：hudsonzhuAI Agent 是有状态、长会话的——装依赖、跑任务、等大模型，状态要跨会话、跨节点延续。计算资源可以随时重建，数据却必须随用随到、跨机延续，数据恢复成了 Agent 启动与</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808258&amp;idx=1&amp;sn=4954a3eef1bc7617fc57abd0fafbd0c3&amp;chksm=bfa83ed10d460bba86debd89630c3743266603956f913c40c91a074dec65c72f36be80c6ef2d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CubeSandbox v0.8.0 发布：跨机流动再进化，调度可定制，运行可观测]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/KVER9adz904Zk8k2aoicTya91Uza2tbmxyFX3bbWjg8gFTm20q8ib9VY4WGpUPORLibE0ARk5kkbhqvmlhbltotqoHDSCfMuF9rric2rGxu0bYI/640?wxtype=jpeg&amp;wxfrom=0"/><p>在 v0.7.0 中，我们让沙箱跨机流动：基于 S3vol 后端，沙箱可以在 A 节点暂停、B 节点恢复；组件多版本共存让升级不再打断存量资产。但当集群规模继续扩大、真正逼近生产时，更深层的问题会浮出</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808258&amp;idx=2&amp;sn=5ac2a5154f7b50cbda4ca96997130515&amp;chksm=bf665739df1d256381da659e717cc7e9cf27b99f2eccee6650db80079212726b3c0b8d2138f6&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 17:36:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[我并网了，我变强了？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906Yk9yEmn1Amd92aOpTsm2pFSuowl3dYRnl3f4hboJ69SDKiadkeib8hWYBuN1ibxajicv20d531NOjia1UQibF2s38CJ3v0mvZ3ibbh4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：spike，腾讯游戏数据团队负责人引子最近跟团队一些同学聊，我说了一个自己的感受：现在团队的工作通过内部一款协作产品连接起来，我其实能直接参与部门里更多工种的工作了，有些事情，甚至可能有机会比原</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808250&amp;idx=1&amp;sn=d12cf910f8328e1078a6cd194e540bcb&amp;chksm=bfb3c20bd58b612a294f982af0e9c1cb3eafada5b619f8a5a6adf089f5952ef3afacd0a65c4b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904kib9OzgRRx6fUJicL1tURibkMDibV8wROecicNk9KsFNichC7gIZo5F7F6NruBkISJAIuDArIkpv3zhEO7r762VriaiaMn604vmjS0FM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：jiaxingjin上传一个 Excel，敲下一句话，等上几十秒，一张带着 KPI、趋势图和排行榜的页面就出现在屏幕上。颜色鲜艳，动画流畅，截图发到群里，很容易得到一句“这个厉害”。但如果你真打</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802990&amp;idx=1&amp;sn=dc5352efb04594f6eb0bf8644be49cad&amp;chksm=bf9acedf23cc951df0d684dbffd9cf33d830580879469bb73bf3c86c9afe80cc5dd42a4819e6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 03 Aug 2026 18:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[鹅厂员工有哪些小众的 AI 玩法？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz907icQNMicEyPbeATMjWibGSMSDd9s91NrQSicgjaQtghU9icOKXqfMVRgiaA9FOGRWdPp9vNYjIdp8JALUzaXFfFxhcibXfec8vRPeuVY/640?wxtype=jpeg&amp;wxfrom=0"/><p>当大多数人还在用 AI 写文案、做总结时，有人已经拿它修电动车、找耳机、选车牌，甚至复盘一场吵架。这次带大家看看鹅厂员工们发掘了哪些真实又小众的 AI 玩法？看似脑洞大开，却可能比你想象中更实用。也欢</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802968&amp;idx=1&amp;sn=2d2ebd6412b2698bc6e5cb18446a13b9&amp;chksm=bfbc370b1b8152c1896bf16fa64309e4912823109b2d7802547aa4bc052b3923a693022d4d60&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 31 Jul 2026 21:47:01 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904cAnSRVKLSyr8Zu1jooicvvrA84RA2BC82XDgDPlKoiaR7fyy1ianibEib07Z4bbXySXyGe2tnW1fUNKicV2CibjajjCibicrEHPMydfTc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：企业微信团队 - gomezlai一、问题：AI 写业务代码为什么总是"差一口气"？把"AI 辅助编码"放到企业级真实项目里，我们很快撞上一堵墙。下面这几个场景，每个移动端同学应该都不陌生：真实</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649802727&amp;idx=1&amp;sn=631188a7c6711314ff2febbe5cb721e5&amp;chksm=bfb0800f5500e1c27583a056a9ed941ecbf30f6fa52c3ead4c92b4baf0a7a0956cc5fc41ef3a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 20 Jul 2026 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

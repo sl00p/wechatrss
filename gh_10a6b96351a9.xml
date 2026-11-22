@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[你们【团队】，玩转AI提效了吗？ 0. 团队个P，token都花自己的钱； 1. 还没开始，个人都没玩转； 2. 只有核心几个人玩的飞起； 3. 个人提效了，团队精简了，人少了活没少，人更累了； 团队里每个成员一问，AI提效都很大。可整个团队的交付速度和质量，却跟之前差别不大。为什么会这样？ 个人玩的溜，团队一协同，五个问题全冒出来： 1. 调用失控：谁在调、花了多少，没人说得清； 2. 水平参差：高手起飞，新人拖后腿，下限决定交付； 3. 质量没底：代码写得太快，质量没跟上； 4. 经验不复用：同一个坑，每人轮流踩一遍； 5. 协作冲突：PR满天飞，分支天天撞车。 问题不在人，也不在模型，根源只有一个：个人靠技巧提效率，团队得靠体系和机制。机制差距，就在【五件事】。 第一件：网关收口。 所有大模型调用走同一个网关：每人一把key，鉴权、限流、计费、路由，每一次调用有账可查。 第二件：团队标配。 把验证过的好做法形成团队标配：规范、方法论、命令、配置，全组一份，git仓库管理，可评审可回滚。 第三件：质量门禁。 "有标准"和"标准被执行"是两码事。测试、linter、安全扫描挂进 CI/CD，必须门禁把关。AI可以初审代码，但只提意见、不做决定——签字必须是人。 第四件：项目知识库。 文档为什么会烂？因为它和代码不在同一条流水线上。README、specs、decisions、accidents，一个最小集就够开工。 第五件：团队合作。 AI把编码时间压到几分之一，瓶颈挪到了沟通和并行度。边界写进AGENTS.md，岗位融合，团队拆成2-3人小组，PR当天合入主干。 限于小绿书1000字限制，直播和大家细聊：《企业级AI编程，团队如何10倍提效？》。 欢迎预约，直播间不见不散。 你们公司统一出token吗（不是报销那种）？]]></title>
+      <description><![CDATA[<p>你们【团队】，玩转AI提效了吗？ 0. 团队个P，token都花自己的钱； 1. 还没开始，个人都没玩转； 2. 只有核心几个人玩的飞起； 3. 个人提效了，团队精简了，人少了活没少，人更累了； 团</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982017&amp;idx=1&amp;sn=42c5e228ca797275dccd44015c2a623e&amp;chksm=bcdaac2a1da38cd4013928cc825a8a5857a535fbd841b4a903e4b23b12f92a8504330329c6ff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Mon, 23 Nov 2026 08:16:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[主要包含两个部分： 第一部分，关于【企业级】AI编程，5次； 第二部分，关于Agent原理与实践，4次。 企业级AI编程部分，是自己和专家团队一起辅导企业AI转型的经验分享。其中两讲已经聊完，纪要链接如下： 1. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6qu1r-jdy9if" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981945&amp;idx=1&amp;sn=51d24fba628274caf933a1e098ecd4dc&amp;scene=21#wechat_redirect">A企业级I编程，SPEC驱动到底是啥？</a> 2. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6r5se-yo8fut" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982013&amp;idx=1&amp;sn=54f64cd7d4b7fd16932521956df6a411&amp;scene=21#wechat_redirect">企业级AI编程，个人如何10倍提效？</a> 3. 企业级AI编程，团队如何10倍提效？ 4. 企业级AI编程，新项目如何AI从0到1交付？ 5. 企业级AI编程，老项目如何AI从-60分接手？ 关于Agent原理与实践的部分，是自己看了下Anthropic官方指南，结合自己的SDD场景，做了一个mini-agent，会分享： 1. 学到的知识； 2. 编写的sdd-site-agent代码（含架构图）； 3. 生成代码的提示词； 4. 一个月的心路历程。 其中第一讲已经聊完，纪要链接如下： 1. <a class="normal_text_link mp_article_text_link" data-itemshowtype="0" data-unique-id="mwr6ybxz-kr0nms" target="_blank" href="https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981982&amp;idx=1&amp;sn=39ed52a9f329a98e9e7da3ce35dd81ac&amp;scene=21#wechat_redirect">v1与v2版本mini-agent原理与实践</a> 2. v3版本mini-agent原理与实践 3. v4版本mini-agent原理与实践 4. mini-agent原理与实践总结 下一次分享，继续聊《企业级AI编程》。 欢迎对AI感兴趣的童鞋参与。 欢迎【预约】，一起来玩（分享PPT）。]]></title>
       <description><![CDATA[<p>主要包含两个部分： 第一部分，关于【企业级】AI编程，5次； 第二部分，关于Agent原理与实践，4次。 企业级AI编程部分，是自己和专家团队一起辅导企业AI转型的经验分享。其中两讲已经聊完，纪要链</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982015&amp;idx=1&amp;sn=a8b73d067ba540caacda44f5430d16cc&amp;chksm=bc84e72c017d84312a3e31a28e5a6f1476dd932edbd44f9a0c73ac20a7abb1810d7234690c2f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<p>有童鞋在评论区留言：我用AI写代码，AI为什么每次用的方案都不一样？把架构越改越复杂，害得我总是要返工。 我回复：你有没有用SDD？使用规范去限制AI？ 他回复：SDD？不是一个很久远的概念吗？A</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981573&amp;idx=1&amp;sn=fa024d2d298de7751f00ef9374db039a&amp;chksm=bc05197b3d4109be76f8643c346c4f54f783ecc05cd29317d217243cbfb2ec1f3819d1a51582&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 10 Sep 2026 12:20:04 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[职场二十年，回头复盘，真正改变我职场轨迹的，不是加过的班、熬过的夜，而是4个重大选择。 第一个选择，研究生毕业，去哪儿？ 那个时候，手里有三个offer： 1. 百度，即时通讯，北京，10K； 2. 阿尔卡特朗讯-贝尔实验室，北京，10K； 3. 腾讯，深圳，9K。 很多人劝我选阿朗："外企更稳定"，"贝尔实验室，多有光环"。 如果是你，你怎么选？ 第二个选择，跳槽，怎么跳？ 那个时候，百度待了几年，面前四条路： 1. 留在百度，稳定晋升； 2. 去58，快速成长的公司； 3. 去创业公司，高风险； 4. 转行，放弃积累。 很多人劝我别走："离开百度，就是走下坡路。" 如果是你，你怎么选？ 第三个选择，转岗，去哪里？ 那个时候，在58正是顺风的时候，面前五条路： 1. 留在58，舒适区； 2. 去快狗，负责技术； 3. 去转转，汇报给原来的老大； 4. 去其他大厂，高薪； 5. 自己创业，孤注一掷。 很多人劝我别折腾："创业公司倒闭了怎么办？" 如果是你，你怎么选？ 第四个选择，离开职场，做什么？ 那个时候，前面4条路： 1. 继续做CTO，稳定； 2. 兼职创业，安全； 3. OPC，做个人成长方向； 4. OPC，做AI方向。 这一次，劝我的人最多："创业风险太大了。" 如果是你，你怎么选？ 今晚直播，《我职场的4个重大选择》，和大家聊聊我的故事，我的思考，直播间，和大伙细聊（欢迎预约）。 如果是你在2008年，百度，腾讯，贝尔实验室，你怎么选？]]></title>
-      <description><![CDATA[<p>职场二十年，回头复盘，真正改变我职场轨迹的，不是加过的班、熬过的夜，而是4个重大选择。 第一个选择，研究生毕业，去哪儿？ 那个时候，手里有三个offer： 1. 百度，即时通讯，北京，10K； 2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981569&amp;idx=1&amp;sn=561e6bb7fa429459b4b2b6a61241a751&amp;chksm=bc9b8a6bec22e12a5780fa1a747cd49dec69a1a1191d09b000269cd40a82a335b665f393a974&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 09 Sep 2026 08:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
