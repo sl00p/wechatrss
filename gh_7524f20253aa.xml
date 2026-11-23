@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[开源AI渗透测试框架Cairn现身真实攻击，自主Agent可利用0Day入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0zEmr1Lu0RgX7PlAd0oPmsKq7dEuRnFjb61Kqlf1icmTuIYxYtPeeJVNlibs2JNDWH4Lv5OYP7CgF2av85NOExwFdV6pFF2UiaqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>某中国背景威胁组织运行的自主AI Agent耗时近一整天尝试入侵高校服务器未果，随后在一款开源医学影像AI应用中找到并利用一个0Day漏洞，成功拿下据点。亚马逊威胁情报团队披露，这些Agent运行在开</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351651&amp;idx=1&amp;sn=3a21bd0c21615ba21300f418b2e3f765&amp;chksm=bcfa6bd314bc40c8afe21e95c8a4683f861c8ea75574b5559b5aeaa95fa57df6ca76a1f3c80f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CrowdStrike 440亿美元收购Zscaler，押注平台化挑战派拓网络]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1McibQVI7yzhaRPEt7DP8skszJovicYiaWyJ7lJtKicZ3LGuHx3rxNOPmWhqLtgJfPH1V6g33ymxUHjFknZyftWOv5KmSmRXI10DU/640?wxtype=jpeg&amp;wxfrom=0"/><p>几十年来，安全行业一直建议采购方选择单点最优的安全产品，再由安全从业者自行整合打通。各大分析机构也在助推这种模式，为不同品类产品分别推出Wave报告、魔力象限。但现实是，全品类都选单点最优产品，从来换</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351651&amp;idx=2&amp;sn=8f6887a331263be6235ba205a07a3d8d&amp;chksm=bcad6a95947a63b4174bd7fb5b290f945ff9519f7b3981829fd6cf30333713fc6d4e5faad73b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[思科Expressway漏洞遭在野利用，攻击者可获完整root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0cM67T9AE58twLJ46mD8VlZT0Zd5AZ3ot94AicWcicQDk6hiaMLZC9zwFicy53picTRiaf0hxxTyiboMWsUEVjF0G4gHKwtD5FpicofWk/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者正活跃利用CVE-2026-76466漏洞。该漏洞是思科Expressway的严重漏洞，远程攻击者可借此以root权限执行操作系统命令。2026年11月20日，美国网络安全和基础设施安全局（CI</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351651&amp;idx=3&amp;sn=8fdd61178767d483e6dbef25a5c7d2da&amp;chksm=bcfc0984a136c35b31e1b3c530362337d18975afe384f816601249b8bca5ef3ad0806999e308&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Node.js流行库simple-git爆严重漏洞，可导致远程代码执行]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ZJtYn9BV14qRsSnAra7TBXpo2jxD9p5oJKeKHS0AFqzmoe92E9X059Ul0jNgWme7Yh1JEazYQxOGBiaOkQzWDzZrUiahYPTZsI/640?wxtype=jpeg&amp;wxfrom=0"/><p>simple-git是Node.js生态中广泛用于执行Git命令的流行库，近期被曝出存在一处严重漏洞，攻击者可借此在服务器上执行任意命令。该漏洞编号为CVE-2026-134815，所有将不可信输入传</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351651&amp;idx=4&amp;sn=5a0106c3542bbf64c965265ac5247ee0&amp;chksm=bc8b3873b31f8d68d1f599a96b25ffea6973d7488c9d3bb4f008c61480c1f5671f79db11f27b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GPT-6.2 Astra连破两类0Day漏洞，移动OS隐私与服务端安全告急]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0k79bS2N6RZIerFKSmwFAfoh1CgcdLICmJDHKdNejFNBX0s0jvCgXbOIPynx0UoI15ciahf9NNhF4EniblOMxGseeh3bgicOnKYs/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01两类漏洞暂未披露受影响产品细节根据OpenAI最新发布的系统卡，其旗下GPT-6.2 Astra已发现并成功利用两类0Day漏洞，分别影响一款主流移动操作系统和一款被广泛部署的网络服务。本</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351594&amp;idx=1&amp;sn=60c99b0e1e174c8ab7d4c3de9b2c2485&amp;chksm=bcb648055d2baaa5551146199a5e3054ca0e6c607776fa726fb847e23dc6a25e301823a91a42&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ibGw6xdRicmSicCczkibDKJiaV2Zazr6ibAwFAeLHPHzDKxmPh9kTRPyIb80pcE3b0npQI0yT0NJTKsnm6LiaZiclmeUsgDswC1D15K8/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=2&amp;sn=e46aea0d0fe0e870f3012bdabec8e2a0&amp;chksm=bcf0e64ad6679bb1192094f690d14148cf7bace11f4cd4a4df80cb6e719fe345945e0ee879e1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[币安紧急预警iOS漏洞，跨应用读取或致加密钱包密钥泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0Zic2tXJ2AiazJE6fuEtGPYeiatVS9cibWNmr0OriadibMLqKJnske4WDvr806bJxCCcMrSnJnTbuJ9nDS74AOhjwY5dqkmH1vHXXd4/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01币安预警沙盒逃逸风险GitHub上公开了一款iOS沙盒逃逸利用代码，可在运行iOS 26、iOS 27的iPhone上实现跨应用文件读取。币安今日发布警告称，该漏洞可能导致助记词、私钥、登</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=3&amp;sn=138f76e6c830b2045be75e63865b3be6&amp;chksm=bc01135cae92bd5c6ca7f105aa6e95bcd544893ec66b48e0d62b300663200a03bbad75db2c76&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[新型GhostFrame攻击工具曝光，可从VMware ESXi直接窃取虚拟机凭证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1V0EOicEDFSQYSBF1dS5RRfaKWUBnia2vZWL0piaQnw4sGbqvdf9NOm8JpQicibAcibYZKdrNINY1mia8APMoJn42dicUicoXvfF1qIl7I/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为GhostFrame的新型攻击工具包为攻击者提供统一控制面板，可接管VMware ESXi服务器及运行在其上的虚拟机。Recorded Future旗下Insikt Group的研究人员在追踪</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=4&amp;sn=4b71b98957907738fbb161e34de9760f&amp;chksm=bc70f3060c385404bdcae375214ce3acd81b99bc9d813a042f9c9bb34462a1c1723969d88aaf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[越狱版DeepSeek Agent入侵欧洲电信商，数百万份患者病历泄露]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2NrWJYcB2icTgy0qj8BvadWPoAwYhfQl62Lw0ibmBXwQ6Xe4PqKVic51EgXZLjdgXTX8cfpY058KCBGNTHBOrhOC5FpM3icTPib5gg/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款经越狱处理的DeepSeek Agent耗时两周多，入侵了一家欧洲电信运营商及托管在其系统上的13家企业。据披露，攻击过程中该Agent访问了数百万份医疗健康记录。Malbear Labs研究人员</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350682&amp;idx=1&amp;sn=99347dc13d49dd57ff2ffd385a49f6e8&amp;chksm=bcc888ff324e80668452c8d45d580a2bcce7b8fdb3c05ae3c40fcd3e28663a49a6895707e206&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[谷歌修复Chrome在野0Day漏洞，可远程执行恶意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3oaJgSW7QQQNiaWibNyibHQL1q7BRVj3SmwpHtGiaUviaIMTZHWYJFfo4IdWrN7V9OJSnZutWWKj7tTFrnA1iaJgLd6oSNpyWibjoeZk/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part010Day已遭在野利用谷歌已修复一款Chrome 0Day漏洞，目前攻击者已在利用该漏洞。该漏洞编号为CVE-2026-125350，远程攻击者可利用其在浏览器中执行恶意代码。本次稳定通道更</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350682&amp;idx=2&amp;sn=53e84ce2d254957a175d51dc54c446bc&amp;chksm=bc3f05c6a686b3938bc5cb32fcebdd5897baace570d12c8cd0d9cb2f70e1dffbc3d73cc60250&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

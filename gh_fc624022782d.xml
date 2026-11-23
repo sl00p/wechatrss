@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[漏洞膨胀的真相：4 万条告警为什么只留下 250 条]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvYkXKb8Manrt7tRr8AL5esszTPBzib3pSuw2k2aMOTOhfh0j3QNov99sDJBb5ZEnEGt599U3FViaAIJXAIOu5x5iaiapfAwIvzFDQg/640?wxtype=jpeg&amp;wxfrom=0"/><p>过去半年，悟空代码安全团队同时在做两件听起来矛盾的事：让漏洞检测检出的风险更多，同时让推给研发的告警更少。一轮扫描产出 40,000 条告警，优选出 250 多条高危真实风险推修——中间被拦下的 39</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208868&amp;idx=1&amp;sn=a784a77357bcfeea2e0e2b80ff5665f5&amp;chksm=bc676761b61a968d58cd5d5e9ebdc682fb599933f394bbac8e946497a899ab6f922be033bf7c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 17:50:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[感谢同行，共守边界｜TSRC安全测试规范v2.0正式发布]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/9icASLQUQzvZnYRfibgcZuYgHRMlOHwYIU4ibicJLG2pkCibyrFrBOXCGXicVjTWZ9XXwXhxHZ0VeD4DUcm7Z7s9yhejiamYPkXn3IFs178fbHhDrU/640?wxtype=jpeg&amp;wxfrom=0"/><p>各位师傅：大家好，感谢大家一直以来对 TSRC 的信任与支持。TSRC 收到的每一份漏洞报告，都帮助我们更早发现和修复问题；每一次沟通和建议，也让平台变得更好。这份信任，是 TSRC 持续运转的重要基</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&amp;mid=2651208850&amp;idx=1&amp;sn=cc75b9cd3f6f9671bc8ab0e714a80a84&amp;chksm=bc3c34867b1e1fc73715c954ab7e3f223fdc9ccc957e4adda0fddf745dcbf9df41f756be79d7&amp;scene=0&amp;xtrack=1#rd</link>

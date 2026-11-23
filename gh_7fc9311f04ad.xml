@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从提示词优化到决策模型：Jev 辅助业务 Agent 技能路由的探索与落地]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xWkiaB6m6TYuqriaibvon8yc0hia2up9uYZia7a23UXlhiaCWpick6GOvD8tlNdPRHkcY70tHvciccwqhex9lwkDkiavWHodjXMdGwYMOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、业务背景：技能路由为什么需要新的优化思路？在实际使用场景中，从用户发起请求到 Agent 给出答案，系统内部需要反复</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562775&amp;idx=1&amp;sn=0603f659ab1306847898db1a8fefc314&amp;chksm=e8cd484a7f2a3498cf1973faf604332e0373e7de6a282a5e9b87ec062717897f44b1e90ef6a3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 10:05:01 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Qwen4-Max首发上线千问AI平台，API服务、Token Plan同步开放]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w8ia7vWl6vQd43ib4yTYO2KbHYNmFRib4sZbQCoEibUAt7X3s4ef5bpkajGkIskQTeiaFysTneMibR89JlcQXpibOVficXYPTicakLhofY/640?wxtype=jpeg&amp;wxfrom=0"/><p>今日，阿里巴巴全新一代基座大模型Qwen4正式发布，千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放。Qwen4-Max采用基于Qw</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562716&amp;idx=1&amp;sn=c26e9cb992b7f32c9ab6f7d3f82d390a&amp;chksm=e80910aa812994d4c13b3dd35d71f7b5e98081338e18a5411f687636d1ae5c624f743c41839c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xfcFrqWibOhJia74icEG1KjkU3Nj2viak6CG1noSmS0og5XZZyCJGgpOqYvhmP59UW8ze4ia6pPjXsnhbictCkRTNjuMJx4WibHMibRdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章记录了我们如何在 Devix 上构建一套 7x24 自动化运维系统——通过 Harness Engineering 为 AI Agent 建立可控的工程框架，使其能诊断故障、分级决策</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561199&amp;idx=1&amp;sn=c62b6db6dcc2bd3e63bc8bc4aa7498bf&amp;chksm=e82ba5a11394ec70acfc2ab55f2d85926edcf7301124a00e4704749618c83f611d33b6d78769&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 23 Jun 2026 09:46:47 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 时代，实时入湖正在告别 ETL：从 Kafka 到 Iceberg 的架构减法]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xg2ExNQ9CUKSibXdCPFcuwyaicnpxaVUaA66ON0M35DBzSceJ9mn3Cwb8HxlGMyhephph4ibqGuBomCfZndUNeLFDONCJGibYic4JM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。摘要在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。Kafka、Ic</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561192&amp;idx=1&amp;sn=125069c1fabd3e8d3295c00eb13f8236&amp;chksm=e8afa6720fd72997e5a4946c0994fce4dac133ec20c90cc498f7156dd3964e547c8d9bd82928&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 18 Jun 2026 14:32:58 +0800</pubDate>
     </item>
   </channel>
 </rss>

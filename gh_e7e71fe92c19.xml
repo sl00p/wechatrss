@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[攻防世界 GFSJ0508「黑客精神」- 逆向分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2HIqC5EsMIagC9MOfLzQ2obsEIajWkOPz8Dq2Xd8Q4RkroL40WYFyzxm5abWSghzJHS1iac4dbaJRG9BTCZeUHH8m7msQsg2eI/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境与工具准备00分析机为 macOS（自带 objdump 对 ARM Thumb-2 支持不完善，后面会踩坑），因此准备了一套 Python 逆向环境：# 1. 建立隔离 venv（managed</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624469&amp;idx=1&amp;sn=2e7177caf3512cc48b017ce1b7b4a94b&amp;chksm=b0801cdcf75ebde63c6f7756cd87ddcecb4f36d9785a610bd14dc51b5283ffa01055605900fc&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[蓝牙漏洞可远程操控拖车刹车！Elecbrakes控制器曝出3个安全漏洞]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K112kQFbz9mPAKp9mibXuzsicneTEkmI8y0yB8K4T1ibr27yeLXFfKRarrenIbj098nbsqKbv37NdjSKX9AZUmtU3ltrMVPnib9gqs/640?wxtype=jpeg&amp;wxfrom=0"/><p>安全研究人员披露，Elecbrakes 拖车制动控制器存在多个蓝牙安全漏洞。攻击者无需配对、PIN码或驾驶员授权，即可向存在漏洞的设备发送制动指令，远程施加、调整或解除拖车刹车。其中，两个漏洞的 CV</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624469&amp;idx=2&amp;sn=b7a0d3b9967279314e6416742e39397f&amp;chksm=b0da93bdc7ba785144b4a9318f8973bcb06f29c32025044599ab9cd3a5c72ff6f7b43ef71227&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:37 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[『本周更新2节』冰与火的战歌：Windows内核攻防实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0YbujPnu9sg9oyiaXRJWeKSvNVCW4ljDg56S7hgPVvibw49jNvoL1ngg5zVLdjVOARxfVzsibFbDP5IQB7dgwkibicwdwOKOkibu3MA/640?wxtype=jpeg&amp;wxfrom=0"/><p>彩蛋课堂：syscall的有效对抗-进程级“SSDT”监控本周更新在技术迭代如潮的今天，Windows内核依旧是系统安全与开发领域的“兵家必争之地”。它深藏于系统最底层，掌控着内存管理、进程调度、硬件</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624469&amp;idx=3&amp;sn=d2407b3ba661ce4229a849528866dfee&amp;chksm=b0a6788dd4a39cde47a54788eee46f57704921df41254940e653a7cceea4da5e64b7f0a414ba&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Tue, 24 Nov 2026 18:00:37 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[你的技术修炼到什么境界了？看雪社区全新会员等级成长体系2026版正式上线！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3u2GyugiapVNG7ZZoAvXicDTbKBic8QFLiaz15SnFBWKbvHLA6XZ4ZEkhCyYQaH2UtwEZasda6qfbxltJNT7c9Gia2fpqm40BrBdUY/640?wxtype=jpeg&amp;wxfrom=0"/><p>以技术见实力，以贡献促成长！亲爱的看雪会员：如果说网络世界是人们精神世界的延展，那么看雪就是这个世界中一片孕育技术与思想的土壤。从2000年至今，看雪始终致力于为广大安全技术爱好者、研究人员和开发者提</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624444&amp;idx=1&amp;sn=be9d0ff2751898d436da2b4f61e3474f&amp;chksm=b0511afab5f896930fc754c0a1bcfb1538297651239e81ebdb6a2938ec74e2d6408bd4fb3cbc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3CtZ5GSMdB2qM09sibIJpvHGzPKUksa61rQ8cjicNbmfIIxgyjaLtT0jiaBQ5picgMpdwHvVy0IYRemdtMZmA3ibOXxEuVFIKs7lqo/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击越来越智能，防御能否跟上？当 AI 开始参与漏洞挖掘、代码审计和渗透测试，传统安全工作流程正在迎来新的变化。如何将 AI 能力融入代码审计？如何建设智能渗透能力？企业又如何探索 AI 在攻防运营中</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623337&amp;idx=2&amp;sn=43f4a3c4c9c8468efbd18cf2c17703a5&amp;chksm=b0e21c61d7bd8f1a84c4ce4c4dafb2e0e4c0f3718f28b73cc56766c7b7ddb2ee5148d53b70d0&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 29 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Telegram 贴纸也能成为攻击入口？研究人员称发现零点击漏洞，可串联实现 iOS 代码执行]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3yuicNv5OncKIXxMqRvfYuibl5TxC1ficD2GxIsiaUL0F6o09IeQeRy0sYgicic0RRuc18v0Tz6MYBYN1dsMjwLrC4zfzmU81ORukbU/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，安全研究人员 Saifeldeen Aziz 声称，在 Telegram 的贴纸处理机制中发现了新的零点击漏洞，并通过多个漏洞组合，实现了在 iOS 版 Telegram 中执行代码的攻击链。据</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623337&amp;idx=3&amp;sn=e317afa0009fd17a48feac71d38f8146&amp;chksm=b014d3972d9b9d11b43db5afeb2c427a0f45c952ec0a4ece8dc20b985c21dc3d0a8a5c96d1be&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题回顾 | 一次渗透 Agent 的架构减法实践：大模型、工具和Harness谁更重要？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K00OcbCibYgLu4I7aQp6OyabDa9zHL6JPAKDNCyWXkqDenZUZEpjBdXBIIPP3jZs2gUjQyicSHpwDHRaQ2ibibIOlyxYsBYLLHn4GU/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾在自动化渗透实践中，Agent 的架构越复杂，实战效果就一定越好吗？从多智能体编排到单 Agent 连续执行，大模型、工具与 Harness 究竟谁更重要？在第十届安全开发者峰会</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=1&amp;sn=a2f7444454ef6dd0e7fd9774e731b005&amp;chksm=b0cb8bf426d97d3c762074bf3d2f4d8efa19d3663d0d712887ccf409b441e2c61e46c3496f85&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[42 个 GitHub 仓库遭投毒！Claude、Cursor、Gemini 用户需警惕]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1VFHjnxXZQuW1Ecic9e7r42f0qfF0B4Sx1dZPvJxGnYjF5DfsevhlYfpEP40Oax7wcS0Z4yq3nCCEBarMGwYgkZOdMibARU5S8E/640?wxtype=jpeg&amp;wxfrom=0"/><p>近日，JFrog 安全研究团队披露了一起供应链攻击事件：攻击者劫持了 42 个真实 GitHub 仓库，涉及 11 个合法仓库所有者，并植入恶意代码，针对 Claude、Gemini、Cursor 及</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623198&amp;idx=2&amp;sn=a105156c2cf60620913cad18ac448e15&amp;chksm=b0732bd28b9ee03acdbc4cc11cdabef86780d2a3f6786949fc4461c9ffab01ec17ee7f91cb4e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 28 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
