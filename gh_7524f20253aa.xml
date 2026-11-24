@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[FBI两个月内再遭黑客攻击，美国犯罪信息中心NCIC疑似失守]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2oumFcsY1NRRCH2lNywyK4JEId1EromvLPTPgTGf2bqOiaibpKYKAEaIzSEUAOJwKKqF0VBX3getrwOlxW63IJhj4TfIEXBWJ1E/640?wxtype=jpeg&amp;wxfrom=0"/><p>短短两个月，FBI再次陷入网络安全风波。11月20日，CNN援引两名知情人士的消息称，美国联邦调查局（FBI）正在调查一起针对美国犯罪信息中心（NCIC）的疑似入侵事件。该系统连接全美联邦、州及地方执</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351733&amp;idx=1&amp;sn=6219caa33423ff8e520aa8c66185298b&amp;chksm=bc3c717ce5984769dd8b64ead249eb0482925fe425cf9de40a29b61186726ebc537438a20fcd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:24:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI与思科推出AI辅助Linux安全工具，补丁部署前可阻断漏洞利用]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0NLiaYsqNpPsiagNFe75Bpo6eQ709BYMIFNGSOjyub92886ZA0DbpA3kOVnSFNEZYUXdY4JhMH9iaibfB6bNTPxiawb6hTECekWy90/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01OpenAI联合思科发布ShirudoOpenAI与思科联合推出开源Linux运行时安全工具Shirudo（日语意为“盾牌”），尝试让AI Agent在不影响业务连续性的情况下，为系统提供</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351733&amp;idx=2&amp;sn=a2b77bc12047e0a843c1ad47c14abc98&amp;chksm=bc426e19931662c9187bc6d5db1b29f7dc9028502609023d3f264164eebc5bbe4b39dc0b9f3a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:24:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Windows远程访问API存在漏洞，攻击者可获取PC完整SYSTEM控制权]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2fCmAcuhxpBhsWHIBEnib5w8o7XocWGnblWdd82QsPa5XGRP5YZQHaKenlrWeiaibchX4RSBjL6yfKb1bQvvicBGJQC3pebPsrp4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>Windows远程访问API存在一处漏洞，仅拥有计算机有限访问权限的攻击者可利用该漏洞以SYSTEM权限运行代码。微软在2026年11月10日发布的补丁星期二更新中修复了该漏洞，编号为CVE-2026</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351733&amp;idx=3&amp;sn=177ecfe17836460ee9ddf2a548d3d0b5&amp;chksm=bc8abc21f35c9e0e8076e399f2ba2b7ad2ac91281abdcf443e330cfc7b93e91cef69114060bd&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:24:56 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[攻击者在Linux服务器部署ZQAgent后门，可执行恶意命令并访问文件]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX31Br0yqOGn02M1ZNDsf1u5342CiaGbSJdwkjaTyqrf5DUg5IAfpSPo6KUwBlP20yBWYRbYfQf7InZKB7DN9avGNQLrTDLqtFqY/640?wxtype=jpeg&amp;wxfrom=0"/><p>一款名为ZQAgent的新型Linux后门，可帮助攻击者在被控服务器上建立长期立足点。该后门支持执行命令、遍历目录、读取文件、建立网络隧道，还会将自身伪装成正常系统进程以隐藏行踪。这款恶意软件由AI驱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351733&amp;idx=4&amp;sn=6d8e5248d03101ecb34d80b72f6b706d&amp;chksm=bc970a2e7798371229baba8ff2feeec3b9279832c252dfd0b0d6ca09b0ecf9b015abf761b10f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:24:56 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[开源AI渗透测试框架Cairn现身真实攻击，自主Agent可利用0Day入侵]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0zEmr1Lu0RgX7PlAd0oPmsKq7dEuRnFjb61Kqlf1icmTuIYxYtPeeJVNlibs2JNDWH4Lv5OYP7CgF2av85NOExwFdV6pFF2UiaqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>某中国背景威胁组织运行的自主AI Agent耗时近一整天尝试入侵高校服务器未果，随后在一款开源医学影像AI应用中找到并利用一个0Day漏洞，成功拿下据点。亚马逊威胁情报团队披露，这些Agent运行在开</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351651&amp;idx=1&amp;sn=3a21bd0c21615ba21300f418b2e3f765&amp;chksm=bcfa6bd314bc40c8afe21e95c8a4683f861c8ea75574b5559b5aeaa95fa57df6ca76a1f3c80f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WWib2E7aNLENg8E3ZyCbaaORSiaiaYVT8sFF159Y3DAtHFFOupIjLrficE2PaQTHQj8bTGibiamAgotgVfrWeTkQjBLGK9WSdJSTEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软研究人员证实，攻击者只需修改AI模型中不到10个极少激活的神经元，无需重新训练模型，就能植入隐蔽后门。一旦预设触发词出现，模型就会输出攻击者指定的命令，调用该模型的Agent会以自身权限执行这条命</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=2&amp;sn=4faf92fc39380fdface1b42e964e5435&amp;chksm=bc854295f5632ba72bcfb7198a13ed7cca201b2dfcdf37418a72977f086b84a818459ddeebf2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超3.5万个Grok生成应用在线暴露，部分泄露机密数据与密码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1AF3wzgDyEW8iakeejqLa9fIn3A6ZvoH5uwSpbhFIUQZib6kdWf01yeAc5mxZnPCtwicB2E9IU4gSJ0Z1BLP9k9t5ic6vcRwfJzww/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01超3.5万个Grok应用公开暴露安全公司Claroc的研究人员昨日表示，他们在全网共发现37571个由Grok生成的应用，其中35578个无需登录即可向所有人开放访问。这些公开应用中，有2</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=3&amp;sn=aef367211e7fd0edefc4cd31db93b86f&amp;chksm=bc264069d50abe5cc779f61b3d0437c9487da85e84f8e0a0f425481523e10239093133caf862&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[攻击者利用AhsayCBS漏洞，在PNG图片中隐藏恶意代码并部署隐蔽后门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1BPSjiaOhn6ia5cTh85hrHRia1IbQdZKmv8TPxuxWlicvyxXUN6FlV68PPqGpkMXIDLialaXNwpz3PRxHK0pMmvFrNRYL2qsBeap04/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者针对AhsayCBS备份服务器发起漏洞利用攻击，植入多类webshell，将加密代码隐藏在PNG图片内，还部署了仅能在目标主机上运行的Python植入物。调查显示，此次入侵的活动范围不止加密货币</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=4&amp;sn=d6c10c07a18698dce1485e4b23ac2502&amp;chksm=bc45f6041b007de781352668179d42e84b7fddcb9105a28b0b0477fa7d15b844b632ad871573&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic发布Claude Mythos 5.2，漏洞挖掘能力增强、沙箱逃逸率下降]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1w4RnuVkAbRrscoia6JhUOWNuMpJI2cjk55s4ycoREe5xF2lAp4atqRd23s88U7naeGia5BJ4JkuDLvziaTBwtn4HO0usIhfIR0c/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Anthropic发布两款Claude新模型Anthropic正式发布Claude Fable 5.2与Claude Mythos 5.2两款模型。二者共用同一底层模型，其中面向广泛用户开</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=1&amp;sn=9c2ac216014c316c6030d881998c2a56&amp;chksm=bc9294a0fabc57e4ebac88d14298b9a98f73aad55b1072781fe1ad6127a2997faf4e18df9c9a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[白帽集市首届双十一直播！千亿Token、Agent装备掉落......]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX3ibGw6xdRicmSicCczkibDKJiaV2Zazr6ibAwFAeLHPHzDKxmPh9kTRPyIb80pcE3b0npQI0yT0NJTKsnm6LiaZiclmeUsgDswC1D15K8/640?wxtype=jpeg&amp;wxfrom=0"/><p>推荐阅读电报讨论</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350764&amp;idx=2&amp;sn=e46aea0d0fe0e870f3012bdabec8e2a0&amp;chksm=bcf0e64ad6679bb1192094f690d14148cf7bace11f4cd4a4df80cb6e719fe345945e0ee879e1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FeeyKPOkMAichlIibFY9H0rlPS5tksYwyhsnhdqaibIKXlyqO18p9ib58VPgVfCEvX77uObVEZufqrEr1FDZqaraBE8EJ9zRAjvFgvA/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 帮你把页面做出来了，也部署上线了。换个设备打开，却发现之前添加的内容没了，因为数据还留在上一台电脑的浏览器里。想让所有人看到同一份数据，通常得再搭一个后端，申请数据库、写接口、处理部署。这条路，</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524676&amp;idx=1&amp;sn=d3c8dba365471f3ed41af535bebbead5&amp;chksm=e88bf7fd66412668d1bd021e5ba7d3228e6e572dd440d72be69174948acc375ef3e77767b61d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:09:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个向量库，两种检索：VikingDB 关键词检索实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Fec8icticXotz7WrBkWjDlC96Yu5lpB2xCicLHtdBQQxbhouHEg4KJ9N79COvCt44KrYATrEGZ8GAGtKmibyGgBajuQDBwXeqHOoj4g/640?wxtype=jpeg&amp;wxfrom=0"/><p>引言用户搜索内容时，既可能用自然语言描述问题，也可能直接输入关键词。向量检索按语义相似度匹配文本，即使用词不同，也能找到意思相近的内容。但有些查询需要区分具体的名称、型号或编号。这类词语即使只差一个字</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524676&amp;idx=2&amp;sn=d75e8a013600c2a94fb64ae29fde4d7c&amp;chksm=e87b21cefdde00935214df0faf38aef2bea73f28f6a19373d69e56c4b3d2f5a745e3d79c2d98&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:09:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[OpenViking 3D 理解模型 X 汽车行业 Benchmark 数据库]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9Feev1JSmAb8AZcxjTibdR4ICPl2iaSYRKfjdoYKSQ3l3gGgeGKuae9otOk1Fvb8GGMzjKldvJKRMy4zMjq5icRsMPLe54LdI9kRhiac/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenViking如何理解整车数据OpenViking 10月20日发布原生3D内容理解模型，支持三维.STEP, .DWG文件的导入与解析，信息还原率做到 100%。以如下整车模型为例，包含174</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247524531&amp;idx=1&amp;sn=389bd912508d0b689da757928f16a91e&amp;chksm=e8952a40f752ed76f3fb7f9d7e02f845ec474ec30ce1a6f0ae70e0b6b75bc1ceaddbb8ac1391&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FefwMzkdMM0hw8SHwOBswejKQEK5AcUeSr0xVdatAv008jrvStMG3MoOc5G6CobRukAk9D1JI6OqrHFM5GuiawNibPJPlYb9nQdy8/640?wxtype=jpeg&amp;wxfrom=0"/><p>点击阅读原文获取火山引擎 RDS MySQL 向量索引一、火山引擎 RDS MySQL 的高性能向量索引能力随着近两年 AI 的快速发展，像 AI 模型、 AI 助手等 AI 产品越来越多，这些 AI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521161&amp;idx=1&amp;sn=205af0499a556576a9543c04ec64b93d&amp;chksm=e8b829d80d240b7d100589d00c6f74e638d08092c63fc7d0dbdce954c730fccc8ea392a92b56&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 06 Aug 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不写一行代码，小 V 在 Codex 里搭起了视频搜索网站]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/FGB4hYw9FefaKFMreBOv2hZ5CRuLrNJib9taL5vvklAsC8IVXpSu8zxHrSRKzTmokSRiac6icG8AXJE7DNT3e6QHDGSNfpjJkA7JiaYmwW35u8k/640?wxtype=jpeg&amp;wxfrom=0"/><p>💡 一个想做“视频搜索网站”的开发者，靠 Viking AI 搜索 + SearchCLI，把视频数据上传、字段解析、索引配置全部丢给 Codex 里的 Agent 完成——没碰视频理解模型，没调向量</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521147&amp;idx=1&amp;sn=dc14c37c6a03dd9448d8b95c2d4f15d6&amp;chksm=e85c2754da21b8bd3946f6c519e95fe7c7e2fe861595dcaf1de61c03da9573b390f4cd9d0c6a&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 05 Aug 2026 19:55:30 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[为什么 AI 视频，需要“懂生成”的画质增强]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/FGB4hYw9FecJmt5BkPZOTHjg5icbYbAXPIH0urjufxpiaGWwcdRrEvE6p632BR8VPP0z56Zpb3WuqCp4ia0e4CBf1TP8taKIh0FfnXAobLSUIc/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 视频生成已经足够惊艳。一段提示词，就能生成一段精彩的视频。过去需要拍摄、建模、后期一起才能完成的画面，现在可以由模型快速生成出来。不过真正进入生产之后，我们会发现生成只是第一步。一条 AI 视频</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&amp;mid=2247521103&amp;idx=1&amp;sn=464de2a00f29cfc21e3875a515d5fdbe&amp;chksm=e81f00a52a97ca9e3c9fc9ce76a98b4032b99c66336dc5016af6d3a83e4f79e123f6de91a5f1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 04 Aug 2026 19:11:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

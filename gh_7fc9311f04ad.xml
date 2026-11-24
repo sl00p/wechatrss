@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zyu4EpaMXepQ94jia5tGGhY4lBdiblNbjFDw8qAoLia2DxteTEibch1tiatJArORgy7ElUkAgrYzpNRTiaIibONIAjTgwmgSNtkKc3tI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫 DSH Super-agent。如</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562800&amp;idx=1&amp;sn=dfde8934e08bc1d8bad6e28f1a906287&amp;chksm=e8e2160e90dbbba1494793563380572e2ece90d7b55bb860b51a834d1ebf14204c500497e30a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 09:45:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[从提示词优化到决策模型：Jev 辅助业务 Agent 技能路由的探索与落地]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1xWkiaB6m6TYuqriaibvon8yc0hia2up9uYZia7a23UXlhiaCWpick6GOvD8tlNdPRHkcY70tHvciccwqhex9lwkDkiavWHodjXMdGwYMOM/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、业务背景：技能路由为什么需要新的优化思路？在实际使用场景中，从用户发起请求到 Agent 给出答案，系统内部需要反复</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562775&amp;idx=1&amp;sn=0603f659ab1306847898db1a8fefc314&amp;chksm=e8cd484a7f2a3498cf1973faf604332e0373e7de6a282a5e9b87ec062717897f44b1e90ef6a3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zhvoBOlnREXicSRic9qicv9bBeEvlnu0uEIazNw5UXibHmS2VqUVugOdBB3U25k55ZVueHIQtp2t950QCeAjvQXq3RdlKicic9Ttofc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言AI 每天生成的代码量已经远超人工评审的上限 —— 以前每天 review 几百行，现在动辄几千、几万行。代码评审，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561229&amp;idx=1&amp;sn=edf43caeaaf1f167136b9c5c25359fa2&amp;chksm=e8e0e55a833f677ce1885a5099b8fd5f60bea21f4485c332fac45a2ae4ddcb858a639f1e3b2e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Jun 2026 09:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[当 Agent 替你值班：基于 Devix 构建 7x24 自动化运维 Harness Engineering]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1xfcFrqWibOhJia74icEG1KjkU3Nj2viak6CG1noSmS0og5XZZyCJGgpOqYvhmP59UW8ze4ia6pPjXsnhbictCkRTNjuMJx4WibHMibRdw/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读这篇文章记录了我们如何在 Devix 上构建一套 7x24 自动化运维系统——通过 Harness Engineering 为 AI Agent 建立可控的工程框架，使其能诊断故障、分级决策</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561199&amp;idx=1&amp;sn=c62b6db6dcc2bd3e63bc8bc4aa7498bf&amp;chksm=e82ba5a11394ec70acfc2ab55f2d85926edcf7301124a00e4704749618c83f611d33b6d78769&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Jun 2026 09:46:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

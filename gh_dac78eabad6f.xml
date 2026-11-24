@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent上下文管理，90%的人第一步就做反了]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4icfbH7X2GQLYqA32CLZJVJIOzrcva6nVz3JqTyEI9KBsLDyxcdgMfuVru51Ecl4NWn5gN7cOicqcEBv6tGibJCeehm1MJpaPlO4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告一提到 Agent 的上下文压缩，很多人第一反应是"让模型写个摘要"。但从 Claude Code、M</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698329&amp;idx=1&amp;sn=9344300fdf8a73ac262a97e86f2a5ffa&amp;chksm=eb4162934e72941f9d9ae7818856abd7f0d3768e3d0ebb432773a59c58eb768666a386390254&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[半年用AI写需求，我终于不用给AI当测试了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7ic25EYpnQz9ouwbMVzY6iam1twtbjk4CZb1dLkGoXwqOXtrUqoV5ZvlC9EhGJlYu89x7n7Cmg0mACiaQQFQUffVq1Sq8B0PIAYo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告用 AI 写需求半年，我最大的感受是：写代码这件事 AI 已经做得很快了，真正累人的是它写完之后。我得</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698317&amp;idx=1&amp;sn=e0ea1437d851a9b10d94c53bde6d9949&amp;chksm=eb05ca769f8745753bf612a22ba171685bf3f33c0df5f2dc9c89ac7a6fafbcf7fd9313eda57c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5vrhic3AWunZyPLFYPfPq0RqdM0eCwbLuBheJDfQ4icd5K29aictb7XMUYuA15J2KSAVsZz80bJialZFgDQhEW7lpo5BiaiaFyL1S0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语腾讯云轻量云有一套用来组织 AI 开发的工作流Devflow：我只需要把需求交给它，它会先判</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696974&amp;idx=1&amp;sn=7b3e885c64e10a944ea85e4018348a13&amp;chksm=eb91fb3993f3fe72d433823120afaf11ef3e1f99beb79a811f3e50b892590c1b71f1c14a3bc1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 18 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[企业内Agent工具落地实践：统一Harness、Skill与虚拟文件系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7Gkib5RJWCj2VulKQyWmJC6HCLibY2IwWG6wBmHYG31WDGkBMQEzicf4yciarFW4hcKnmCeoOUj3Q8dxic4wQmslQUupsCLUfBcz4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告这是一篇关于企业 Agent 落地的笔记：结合行业案例和自己的实践。我知道在 AI 时代写长文是逆潮流</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696970&amp;idx=1&amp;sn=5f7777dfa41a0a08c6d9e4d1feab6336&amp;chksm=eb29ead85e9a77d532b35b0f45393335f45e7d7199ba79e4390fd513c88ed6cd61d20ded3be1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 14 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

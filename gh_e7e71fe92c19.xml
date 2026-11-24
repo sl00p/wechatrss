@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[KernelGPT让大模型给 Linux 内核写 fuzz 规则：一条从源码到 QEMU 的流水线，和它踩过的坑]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ibr6noibyQOGxWfZElLjr6YBuibWYjibKHFHNmzgoG6sqQ7MibichcjXru0ia4k3HnoPO5bn3XKkBiaBSmyEvgoyP2Gp1KTYkPU0D4cs/640?wxtype=jpeg&amp;wxfrom=0"/><p>用一个 7 分钟、1 台虚拟机的冒烟测试，换来一条完整闭环的证明：内核源码 → Clang AST → LLM 推理 → Syzkaller 描述 → 常量提取 → 编译器校验 → QEMU 里真的执</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624483&amp;idx=1&amp;sn=a5eaccabf7e23f1ba54574ce1b3ee9a3&amp;chksm=b0fb13c4123b7ba3ce9f45ecc0ebcccc40f06fe8dcc5552cb3b209f4d9d190a1c84e0534eaff&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:04:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Palo Alto 确认 Fragnesia 漏洞遭在野利用，攻击者可获取防火墙 Root 权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0jxJERtL9XYFK0mpEU2Mavlpz0xeKicxfibdygAVIiaDmbg0nc3z6KgVzXAmou5Nb7oLHJQR21O8vwZ7GJ5brlf9jibgxYWdXXRcc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Palo Alto Networks 于 2026 年 11 月 25 日发布安全公告，确认攻击者正在利用 Linux 内核提权漏洞 Fragnesia（CVE-2026-46300），获取运行 PA</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624483&amp;idx=2&amp;sn=13a8727ea8f92e5c6a13ae495432be1b&amp;chksm=b00b1e4fe66e400b2f62f7c00e6b47cdc0e92c10cfd72fe86ae0b8714f7dea00353ca7643197&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:04:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[欢迎报名学习 | AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624483&amp;idx=3&amp;sn=3723101ea3a6f504a567a71372f27b0c&amp;chksm=b0d95433fd46c4df27df462e37025818fe21ec732f7f9d0332a102ec6b9e735dd0b257e69e3e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Wed, 25 Nov 2026 18:04:07 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[攻防世界 GFSJ0508「黑客精神」- 逆向分析]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2HIqC5EsMIagC9MOfLzQ2obsEIajWkOPz8Dq2Xd8Q4RkroL40WYFyzxm5abWSghzJHS1iac4dbaJRG9BTCZeUHH8m7msQsg2eI/640?wxtype=jpeg&amp;wxfrom=0"/><p>环境与工具准备00分析机为 macOS（自带 objdump 对 ARM Thumb-2 支持不完善，后面会踩坑），因此准备了一套 Python 逆向环境：# 1. 建立隔离 venv（managed</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624469&amp;idx=1&amp;sn=2e7177caf3512cc48b017ce1b7b4a94b&amp;chksm=b0801cdcf75ebde63c6f7756cd87ddcecb4f36d9785a610bd14dc51b5283ffa01055605900fc&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36LrvsRXEas2icbiaroQxibF6C8t0NRdVicqF2cPkugG8zLkf9wGOdpYKz61I1EMoGSKsCQS5KmPEm1FMWwuqa6hrVtVj0sf15CE8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1事件速览11月4日，OpenAI正式发布面向网络安全场景的专用模型 GPT-6 Cyber。这款模型主打漏洞挖掘、漏洞利用验证，相比上一代GPT-5.6 Cyber，攻防能力显著提升，在OpenAI</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=2&amp;sn=882e4d2bde4db38c45e298c5baff4d94&amp;chksm=b0159f7856d1d3feba78fad1393745669c933332252323abd9ae8d0ad8a4e7dc6af4c11956b1&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[360 ADE智能体工程师认证｜11月开班计划]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1wCicpzsSmJjc3DrmWSFfTPSUjw3myAiad1lNzV0kRKNfUEfKrGUCjcr7lyczjMlcmJEib1PHIpmZib9JgdFquyvknO7mAu0smtuw/640?wxtype=jpeg&amp;wxfrom=0"/><p>“AI不会淘汰人，但会淘汰不会用AI的人”——这句话，最近在安全圈刷了屏。看着同行用AI做漏洞分析、写运营方案、跑数据报告，自己还停留在“会问AI几个问题”，真正的差距，正在被快速拉开。从「用AI」升</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=3&amp;sn=7c35d2b0d195bb0fb333d7b1e76af076&amp;chksm=b02ff13f2197601046560ff6928f0b0ebc05cac0d97fe72781345c7f98d93874f131a2da6180&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GEEKCON 2026 上海站闭幕丨荣誉榜单·年度GEEK榜公布]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K1BvJtZunDe5PbtTbbxzE4CeSHkL4jHLywuumSRn1OX0mjfdOMyFGiaJxicwxqXmp8Qcm6uR6NUE6HV0WuDJgfsWdMGkyewJfnaQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>GEEKCON 2026 开场致辞欢迎大家来到GEEKCON。GEEKCON办了十三年，快二十届。从来没有什么领导致辞。只有我开场时说几句，说说每年GEEKCON在想什么。我们每年都精心制作开场视频，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623337&amp;idx=1&amp;sn=578818617cffdb9455f9cacf78bfc265&amp;chksm=b01410731f3770cac02707e0051ea4873522e42ced1fc9a18c05a85025034d805ade02fb39ae&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[10月30日直播预告｜攻击在 AI 化提速，防御如何跟上？]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3CtZ5GSMdB2qM09sibIJpvHGzPKUksa61rQ8cjicNbmfIIxgyjaLtT0jiaBQ5picgMpdwHvVy0IYRemdtMZmA3ibOXxEuVFIKs7lqo/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击越来越智能，防御能否跟上？当 AI 开始参与漏洞挖掘、代码审计和渗透测试，传统安全工作流程正在迎来新的变化。如何将 AI 能力融入代码审计？如何建设智能渗透能力？企业又如何探索 AI 在攻防运营中</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623337&amp;idx=2&amp;sn=43f4a3c4c9c8468efbd18cf2c17703a5&amp;chksm=b0e21c61d7bd8f1a84c4ce4c4dafb2e0e4c0f3718f28b73cc56766c7b7ddb2ee5148d53b70d0&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 29 Oct 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
