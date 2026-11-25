@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[4.1万行AI代码塞进Linux内核，Linus一顿怒斥：“告诉你的AI助手，先把自己的事情做好！”]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEzaj9y1FK9Z315dPibtNpYhgHZic86Z7ajXRYnPtHiar3ibvt8TuoLtAegMag5picvUCkYicPp4Oich5p7dqBp2VRRNNXgTpLUvKOdvG4/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）AI 写代码已经不是什么新鲜事，但如果有一天，开发者把 AI 生成的数万行代码打包提交给 Linux 内核，甚至美其名曰“修复 Bug”，你</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247839084&amp;idx=1&amp;sn=d20826eef137bd9ba82223091c335c04&amp;chksm=c30fd2d07704941fa30732a7defcb323a747cf0f51cf863b9d6dfc2b654480e98dc642dcae3d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:19:35 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MacBook触控板“张口说话”，还能来段Rap！开发者极限整活，开源便狂揽1.9k Star]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEx02zNiaml9DzEicjtibC84mxhsicIibcKB1nftFGvmY2rfZia3FnLqkLgtAr7IYTKaBmfiagsmU54zuVaVUrMty0AJrTJPYfzB8neAMc/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 屠敏出品 | CSDN（ID：CSDNnews）前有极客爆改 MacBook 触控板把它变成电子秤，如今又有人让触控板“张口说话”，甚至还能来一段机械感十足的 Rap！最近，开发者 Cody</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247839084&amp;idx=2&amp;sn=92c1dc0771463605795705535153a4b2&amp;chksm=c349857fb0019ed704ccbea85ca25c124948550f6044ca2652beeac1048d3b8a9b09c34f4811&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:19:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[花10小时改造一台“老电视”！因懒得下沙发，程序员让Claude写代码：看剧、打游戏全靠一个遥控器]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEyiarRnSacLxUuialW4BGYlic3QldIAgGZScdhQkVicS6WcVJ8dHVMTIZYp86VUthaia3OO2F4BCp8ZvNrehWWM2G5AM5ZbZBOdsib5k/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）提问：程序员到底能有多“懒”？有人为了少敲几行代码写脚本，有人为了少点几下鼠标开发自动化工具，还有人，竟然为了不从沙发上起来，花了整整 10</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247839027&amp;idx=1&amp;sn=1a8bcb5c448351e425fe0dd980fb59e2&amp;chksm=c307ce7f13ebfcf4736b5b732450a538c979b3db7ec9d91e9b3fe37e273b0e2760a2a37a76a0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEy8Z6IibLgPWrDm4fyGibLbicqPYsicIUAboJpibcmpuUtzyuzicicVuX5eTtC8tbC4QZiaPrziacoSOibEhh19tFcx71y954qz8uJqibcvJw/640?wxtype=jpeg&amp;wxfrom=0"/><p>从 AI 辅助提出研究假设，到真正推进科学研究，往往还需要经历几十次甚至上百次试错：第一条路线走不通，是否值得继续修改？某个方案当前表现最好，是否应该把剩余预算都投给它？计算任务还没有返回，下一步是等</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247837291&amp;idx=1&amp;sn=c9dbe78b5ae3db77ecfeb72acfe073d2&amp;chksm=c3b7694d5c36cd8eb3bf36fd10ee486659d3cf1b127b1863c3350f06f047343e95a5a6960e82&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 20 Oct 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[英伟达不只想卖 GPU！黄仁勋摊牌了：要让每家 AI 公司“想去哪就去哪”，软件授权、云分成，下一步就是把算力带到太空]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/S1iaf4GgGjEydd9dUmn87m93HkY2llkA9nbPkXM7GQUjUw0Wkal2eygMUO5cOS5icf4SgvsBc2SpwapqQaPnUeLWJOvOoa2x1eanvecDccJKA/640?wxtype=jpeg&amp;wxfrom=0"/><p>整理 | 何思思出品丨奇点折射（ID：rgznai100）“我们完全可以停下来，但如果今天停下来，我们就输了！”在最新一期长达100分钟的播客中，黄仁勋讲述了过去十天里，在白宫发生的一切，并给出了几个</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247837291&amp;idx=2&amp;sn=ca198830f4ee7f087947491d87867f41&amp;chksm=c3991851ddeaa640c068820b2ceac2d2602dfa931cc3d871ae99dd3717b16d8cf4afe15d8f22&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 20 Oct 2026 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[80%新增实例由Agent创建！专访阿里云杨辛军：当数据库不再为人设计]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/S1iaf4GgGjEzMSX8BXAKqutpTxWbVJqpcdIZK3iaP0Ciab7hfibC3sO2sBliaOFkia9iahWFVCEW9kY1CiaCrKM0qeo2Rw5XKkg2Bq33cJLC9EWtJiaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>9 月 22 日，阿里云数据库在云栖大会上推出 Agent Context、ApsaraLakebase 两大重磅新品，并对 AI 原生数据库服务（AIDBS）进行全新升级。主论坛上，阿里云智能集团研</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&amp;mid=2247837254&amp;idx=1&amp;sn=a9a3eace68607dda5a6d52d36505a206&amp;chksm=c3c9220291671b1763bf3dca370ddef29589d0785ecf265a4637c1f519102e72b3178f489a94&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 19 Oct 2026 17:01:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

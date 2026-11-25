@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从模仿到自我纠错：Keeta客服模型的RSI实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DxEvAaBKu8G9TJic4qQ6EVIGRM5Al0fuXYpBrZ88u75icwDjXZGmYQTjIKYVFlc5icevToMtynKMahITNLBLMdMkkJl8jhP1T4EW4/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读一个客服模型，能不能越用越聪明？递归自我改进（RSI）的难点不在“学”，而在“判”：错没错、错在谁、按哪一版规则算错。我们团队的闭环是：上线服务 → 巡检找错</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783786&amp;idx=1&amp;sn=d28007c681b2973c8383caf5b9c71b61&amp;chksm=bc8e5ec81cff7ae943a37744eb341a0116c4987e8a74694925d9d42a1268ea577449bd13610d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美团第四届低空经济与具身智能挑战赛圆满收官]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DwZulLmia2jUaPIjwcmzVny1sFvefYQykBPf06kTykj0DQfJXqiapBadDVjQbruWGmNNxtMqcicbicPKUmRUqkNfXy9W39N4jO3ibpc/640?wxtype=jpeg&amp;wxfrom=10000"/><p>巅峰对决，三强揭晓</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783786&amp;idx=2&amp;sn=e4ec97065895f4e5656c437a2a86a36a&amp;chksm=bce7554d542ddfddf977a4e9be3b836a54d2115b403dfa65c1426689be183ced6d167d72fa01&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 10:24:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[《Agent评测白皮书》业务实践篇：商家 AI 助手的评测与优化闭环实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0DzVZ8aicIWVNicXh1qibuYyxUDCbFNfG4LfYnoB3OsmjKkrxwc0I37kYdbrj2Qiaq2QicgCsTvDX1cw5SPh1U8T7dbIuU8XyMveliaic4/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读《Agent评测白皮书》系列关注如何将评测方法落到实际项目中。在系列第一篇《Agent评测全览》中，我们介绍了评测体系的整体构成，以及评测体系与 Agent</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651783747&amp;idx=1&amp;sn=d697bb242a34232160d2cc7f0cf71a9d&amp;chksm=bcaec95d2136c47533c5e16ef93fcdf00b7482b554e0e00d62f1d642c5b7a0c81a46654c4059&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dz8BIwGLPr3ufKa2z6QxzzbhtAQH2jXngeyOSRibHVE2mtsnbh4fnGPWM6boQ0HlxEmeaks6KTO4uicuic68Td7iaOFX99Q8ic3u13s/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~全文速读在美团，我们构建了以指标平台为核心的新一代 BI 架构，通过自动语义和增强计算两种核心能力的建设，部分解决了传统 BI 平台在个性化数据集驱动下产生的数据口径</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782375&amp;idx=1&amp;sn=9fa8942b14abb27fb85b9fe2ca0ae957&amp;chksm=bc501c6d392944cd62c53dc87d1708fb9e3792323fb6798379356cb936a42640f2639d07458e&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 19 Mar 2026 19:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/mmecoa_jpg/V95GN2mm0Dy83beyvgV9CncPNbsDvCL8zMiaHv62sOXiaQLmSJJPClDG1pIhUDiazEVjP0W3GY8xTphKBTYyCg8uvCxKsqjCqDPqT8cm6PvRr8/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~为突破传统 Web 框架的性能瓶颈，大众点评增长团队引入 Qwik.js 重构 M 站核心页面架构，解决了重构前页面加载慢、维护成本高的难题。借助“可恢复性”能力，我</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782334&amp;idx=1&amp;sn=33f1357d243060f9bdd511e7c7899139&amp;chksm=bcf668bb68396223745c6a82c43c960128b68236486e9e157d16d71a4382e4cd2ad8f5d75d76&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 19:58:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[报名｜ICLR 2026 美团论文精选及分享会（上）——搜推 ASX 专场]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/V95GN2mm0DyTbUkuicrR9OOSiafPeAtyiaa0dfhVsJZtJ3qrjcIgJAicWrJhicmMg7s42GAk4J1qia9va3Nw3A5MlUjrheED6iaaJbkU648vBGabrg/640?wxtype=jpeg&amp;wxfrom=10000"/><p>点亮👆“☆”星标，不错过推送内容~ICLR（International Conference on Learning Representations）是机器学习和人工智能领域最具影响力的年度学术会议之</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&amp;mid=2651782334&amp;idx=2&amp;sn=7953ce827cdd35a33f51669ad44467d0&amp;chksm=bca8cb8e21d5ce4c82203a7f88a566dc019d2e1604f5b90233cc9a169531dc4122d99488d81b&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Mar 2026 19:58:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

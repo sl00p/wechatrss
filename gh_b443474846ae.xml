@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[全球线上老系统不用再维护了，一年内全得用AI重写？一位写代码二十多年的千亿公司CEO最新判断]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhh9JSaobO4iaXqunHCV6dMXpdx1zynmo4s0GU1j59mCtv1DyBzJllHCe15mIMpl1CjeQ29icCJn5MLiaOJdCwFSdmaicXO0znyuOo/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | Tina 过去需要一个专职工程团队驻守整整一年才能维护好的核心代码仓库系统，在 Shopify 内部，只花了一个周末就被彻底重写了一遍——周五拍板立项，周一早晨，全新的生产代码就已经在服务器</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297991&amp;idx=1&amp;sn=820c454c3c147a051e63eb11ef7d693c&amp;chksm=bc0d3fbd859b0de6d6f817a3498bd751a10754ec0294c48372b94a0d1ef7801a7c42b3af1c5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhEMPFyhXciampoSAAuicFw4WmQGxt0aF3BpVHpNo1WGUJppibXtrpY3zRib6IPFAqrBKurkKeSrJl1QKf9uMlw0N5KvCZR2ibpZ7jw/640?wxtype=jpeg&amp;wxfrom=0"/><p>编辑 | 李忠良策划 | AICon 全球人工智能开发与应用大会以前，产品负责人追着团队要方案；用上 AI 后，产品经理很快就能改完 PRD，反过来追着负责人要决策。代码和原型的产出越来越快，需求理解</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297991&amp;idx=2&amp;sn=9f2ac909f54d4d1ea94ace3f3b61a7f7&amp;chksm=bc03921407d810cb92da26e3f7370aabf66e31d94ef723e0f10c7f44fe264fdddd79182f8207&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNhlFxhtOSao8lVAe6aibciaDaic2KBm9aOhiccKLSj1zbE4T328SxvzUjRn0M7jRvR5lNWoTwaqqz4xksdYpPriaz21VGconlhKxDv8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Sergio De Simone 译者 ｜ 明知山 Grab 表示，AI 编程助手的普及加快了开发速度，也让每个版本的代码变更量变多，缺陷和应用崩溃出现的概率随之上升。为应对这些挑战，他们实</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297991&amp;idx=3&amp;sn=a418ed3ee537c2f51d56916ef3dd173a&amp;chksm=bc12cee415a82c09b368cc52cb3b5b12ffac97d505441def96b5b10b59499c789ba15beb3179&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNiaXibvhAh7ZnWXyt3yx5p5SECJU1EMrh9j4KuWibsCzm5v9nkiaYnQbrMx8Pr9aIticwXUSZRxXiaHKTBcBjIQDSyyniaqrYmV2wVIyM/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 凌敏 Agent 想持续优化离不开评测，但或许鲜少有人关注过，当 Agent 任务变复杂时，评测本身也成了工程挑战。一条高质量评测用例可能要几百到上千元，如果没做好隔离，Agent 在评测过</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651297979&amp;idx=1&amp;sn=4812ba2ff0575c9eedd880d02cfab5bc&amp;chksm=bce20ca868ff0d3a0abe9f5ae01a122b4544f91654775cbdb18c93211a29b9505a36caebc0db&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/hLLZnAbUwNheyUF8FLyMe8WGd3XzIMDLmwhshvYBI7RROx6x8IobcFcT9E0GA6RFseSALNVfwuxV6RFqwEhdtgfWVmgPJHNyLaI5eyqh3I4/640?wxtype=jpeg&amp;wxfrom=0"/><p>编译｜宇琪 策划｜Tina T3 Code 的 Orchestrator V2 最近上线并进入稳定版——这套做了大约半年的多模型、多 Harness 编排能力终于跑顺了。从一个早期体验欠佳的开源替代品</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296945&amp;idx=1&amp;sn=8312a4f2fb27d556a2788a518cfab158&amp;chksm=bc4f7f75e55088829c75bf766b8570251e2d9372768def947ff9a406192f61ee872799009959&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Nov 2026 15:42:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent 从 Demo 到生产，究竟还差几步？4周实战课来了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhgBkqxGwh9WpA1gMgTfJEBVLsYKNtp9CuvAFibsJXDCiaXNlclelTFxqoL0t1B3bIicC7SOMc7yzl5ByH01pHywKldibHltoJeAF8/640?wxtype=jpeg&amp;wxfrom=0"/><p>造一个 Agent，正在变得越来越容易。借助大模型、开发框架和各类工具，开发者可以快速搭建一个能够理解指令、调用工具、执行任务的 Agent。但 Agent 能跑起来，就意味着可以投入生产了吗？模型升</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296945&amp;idx=2&amp;sn=c2d50189d9106d777c8b4683c65b7799&amp;chksm=bc8b727e39af0f6a2a5095894116d9bc1e81f1bd0914aab062a289db83c27837cf911e7ea161&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 15:42:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI 改变的是数据接口，而不是查询引擎]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNhiafCViaKO4HRfmardsTf40kA2ru4pQ87TRR7EfWLicByPGZ2HIBhfhgj9nQhNGvGD3cuicRj859PHW0kjCqcdUFK9bELJkiciaYWrw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 ｜ Peihao Yuan 译者 ｜ 明知山 AI 智能体如今可以生成分析代码、从对象存储读取文件，并将运维数据转为结构化报告。这是否意味着数据湖、湖仓一体和 SQL 引擎已经过时？我们在对一场</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296945&amp;idx=3&amp;sn=bf28f138385e127eaf37be8240f821eb&amp;chksm=bc008bce36a92f256abe0a73d086fe97f06e655f20dbe0efbd419c8d41dd1ab1ebfdde822c08&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 15:42:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/hLLZnAbUwNia0tFicicKwXFuib9TAnHK5XP2jiaUrc4iaXZvPJicHVlGibKRTO2M6oQhOx2ZWibxoxcYmFnsibpPp6EnCZSzP2fBp7GHCsQU4xoc0WbMU/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者 | 褚杏娟 策划 | Tina 近日，Discord 联合创始人兼 CTO Stanislav Vishnevskiy 在 X 上宣布，Discord 正将客户端迁移至 Rust，桌面端将移除</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&amp;mid=2651296873&amp;idx=1&amp;sn=f38dc6f8a6273f09af92b906c90ea8c5&amp;chksm=bcdf9a148287e2c627b2a9a484377b76fbc0a5777deba0588001feecd50652b6730af7829785&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 16:30:07 +0800</pubDate>
     </item>
   </channel>
 </rss>

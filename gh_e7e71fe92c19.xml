@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[CVE-2020-6507利用链]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ziaYQXvooficA4V8tOkQibib6BSoLpux6tAaJgnNjTRuFPCib4mPaNwqlzwBSZfJFADrO9OyuANtlNfDZORiaubjsgysNVUISDmYibk/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE启动某个版本Chrome的漏洞可以在谷歌的更新公告(https://chromereleases.googleblog.com/)上查看更新公告上可以找到bug的漏洞编号issue(https:</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624504&amp;idx=1&amp;sn=2e35c3517132f69b1ec60ea13a7dee42&amp;chksm=b0dff267cb4be574073e0e092bdd5ffd2b89b2e3530077b6583f8b479b74b41cb0947173b36b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1Password 遭入侵：客户数据与源代码被窃，攻击者通过 GitHub 渗透后端系统]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K23odHGicEv2M4BvBTic0XBnbXia4n1ofUicibC0x1ib9FfqAesa6UbFceVEmVLNjqW0U1Nphgibket5licnFo9rDRSDGQiaafzXK88cAys/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年11月25日，密码管理服务商 1Password 披露一起安全事件。攻击者入侵了一名员工的企业 GitHub 账号，并借此访问公司后端系统，窃取了部分客户数据及内部源代码。1Password</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624504&amp;idx=2&amp;sn=aa900613ddb1514f92a8e1c19aa8b89b&amp;chksm=b01e80a9dea72634a3f1c8dd6041c09facebbfa6208ad5448c704160e2631151651bf41a2873&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[12月18/19日，360 ADEA智能体工程师线下实战班将在北京开班！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2nUJhwQtwEhsD9z2ZniasoZVhFjhHJ6jrxGVDicZFjOn6BPH3U5xhpuH46PFqD4VrAjdJytgBbhYb5t3piaEEic5RDLLUvRR2ZSgo/640?wxtype=jpeg&amp;wxfrom=0"/><p>¥3280（原价¥9800）0 基础可学 一考双证 限时特惠12月开班计划安排12月开班📅 开班时间：12月18日-19日✅ 2天线下集中实战✅ 30天线上学习与应用指导✅ 1次免费线下复训📍</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624504&amp;idx=3&amp;sn=ea855aac63a04753c9b5b3d9c8b530d4&amp;chksm=b0ea2deaf8ad50ba59d45e89c2f9ad1a828f10f6fb92c81d114f8f4f6096781896ac244e4146&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:00:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[KernelGPT让大模型给 Linux 内核写 fuzz 规则：一条从源码到 QEMU 的流水线，和它踩过的坑]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K3ibr6noibyQOGxWfZElLjr6YBuibWYjibKHFHNmzgoG6sqQ7MibichcjXru0ia4k3HnoPO5bn3XKkBiaBSmyEvgoyP2Gp1KTYkPU0D4cs/640?wxtype=jpeg&amp;wxfrom=0"/><p>用一个 7 分钟、1 台虚拟机的冒烟测试，换来一条完整闭环的证明：内核源码 → Clang AST → LLM 推理 → Syzkaller 描述 → 常量提取 → 编译器校验 → QEMU 里真的执</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624483&amp;idx=1&amp;sn=a5eaccabf7e23f1ba54574ce1b3ee9a3&amp;chksm=b0fb13c4123b7ba3ce9f45ecc0ebcccc40f06fe8dcc5552cb3b209f4d9d190a1c84e0534eaff&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Euibw4kny7ZnXLDkQ616u42boGYiaoWKl7C2zW7vhY446tlJbbT48Nb0csWjqCj7dQXoTAQ8ehWaKHqczIRaEUDfBVysaKAT5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>固件漏洞挖掘的瓶颈不在于「模型看不懂汇编」，而在于没有一套可执行、可复核的工作流。本文介绍一个开源的 IoT 固件审计 Skill：它把资深审计员的工作骨架——流水线、资源分配、证据标准、质量门禁——</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=1&amp;sn=4452ebefa4729f122b8231ff73cf22bc&amp;chksm=b08d5d4119cdc0e8d7003afb3df4926a70d315e7f851a100c7c45007d8a0737a11d56a38c1c7&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 07 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0AGRUIZw5yaRTv129o0ETDicrDciaItOic4rH7xJlibZIeofC7uzu4F72AEAR55tf5icsFWbeUNxXXLKnL10sun3ylY8rFqS2kP7xw/640?wxtype=jpeg&amp;wxfrom=0"/><p>做Windows内核漏洞研究，你是不是还停留在：一个人、一套WinDbg，靠经验、靠运气挖洞？一周的审计工作量全凭人肉硬啃；AI给出漏洞假设，但分不清哪些是真相，哪些是幻觉；Fuzz跑了无数崩溃，却很</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=2&amp;sn=b3443f79121f85fcc3dc523e92166330&amp;chksm=b0820f457ca08d2142026a2dc3ba3af186e7bdc7a3bafe4b57f1f5c85837d086c775d6d22933&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SDC2026议题回顾 | 从字节到神经元——一名二进制安全研究员的 AI 安全研究]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0WFyQKFgvicHuhx3GMZJNpR3MZmSOlzB4iaCDREyYrtnrqtTbicWI8bgfyZBXxXlfJWrD7mMrMKKnkPlewJMTeqOdS8cXM09TUia0/640?wxtype=jpeg&amp;wxfrom=0"/><p>SDC2026议题回顾当大模型逐渐成为日常开发与安全研究中的重要工具，我们对它的关注也不应仅停留在输入与输出层面。模型内部究竟是如何完成计算的？权重数据、内部激活与运行环境之间存在怎样的联系？如果从传</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=1&amp;sn=477001d7aa1d29a1da1ae75c6d8457c3&amp;chksm=b07aa289c4d2a8f03fa0ec45d29b56752d82d2646a2c38256d56662b443b61106bdf4af6fa61&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 Cyber重磅发布：挖出81个Firefox高危漏洞，批量生成948个Linux本地提权EXP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K36LrvsRXEas2icbiaroQxibF6C8t0NRdVicqF2cPkugG8zLkf9wGOdpYKz61I1EMoGSKsCQS5KmPEm1FMWwuqa6hrVtVj0sf15CE8/640?wxtype=jpeg&amp;wxfrom=0"/><p>1事件速览11月4日，OpenAI正式发布面向网络安全场景的专用模型 GPT-6 Cyber。这款模型主打漏洞挖掘、漏洞利用验证，相比上一代GPT-5.6 Cyber，攻防能力显著提升，在OpenAI</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623854&amp;idx=2&amp;sn=882e4d2bde4db38c45e298c5baff4d94&amp;chksm=b0159f7856d1d3feba78fad1393745669c933332252323abd9ae8d0ad8a4e7dc6af4c11956b1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 06 Nov 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[好项目别藏着！来参加掘金 X-Lab 年度大会！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcNKdJkLibQJXIKCpujgG3YpcN9NFOZoAM1icy6Vvf4aApw2ZoNPYjCaicWgicpdSk7NXe0lcw0vPzUaSTG8pHc5sHBNA6M7UyM5nLI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 带来的新生意，可能就藏在你身边某个开发者朋友的电脑里。也许你的朋友正在开发一款 AI 工具，也许某个独立开发者已经悄悄做出了一个有意思的产品，又或者，你所在的技术社群里，正有人在寻找新的产品机会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548628&amp;idx=1&amp;sn=a46ffec1ded38aecec13a3fc371fe984&amp;chksm=fd2e2d09ce12a71aa39b95c8d327a3d67a180aefa5406fde10a1a8e00524a4e6a8c2a24efda8&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:27:50 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcOdiawTx7RFxV3VOHmWXVHQf98hicwJ0Vdv0LfTABSTJv8GYCbZ95AgEJx3tmGJr5DhJ6u2xTr2qicViaQakKYaI2W3tWXzjiaKzmac/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 带来的新生意，会长在哪些具体需求里？一项小商家过去负担不起的服务，一个因为成本做不出来的互动创意，一件家庭里反复协调却一直没有合适工具的事——这些需求一直都在，只是过去服务起来太贵、太难。当 A</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548628&amp;idx=2&amp;sn=a2022cdd351b2e6943388f94207d21b8&amp;chksm=fd8be9e051328faf5b1741fb6d3938a05e0056830722b1f17ea59e6cb3e17ef4a9fba3ad35b9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:27:50 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[大家欢迎这位穿蓝夹克的新人入职英伟达！]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BRUibSegkTcP2mxQOKOpLttmMmdInh19ypfrVCvcW1bibPSHbibD9ib1oClQlBp1x2xIl58rC9IwY30RADRl7IXF9Y9tQNiboBH3nUetnld016Jc/640?wxtype=jpeg&amp;wxfrom=0"/><p>[no content]</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247548623&amp;idx=1&amp;sn=5b38a7db83d533d5b51e3f10ea8507c4&amp;chksm=fd05d5e633fd567c44f947bd7d60931fbf4141dd7fbcb5fc78d162881908e9e3c2c15ada1948&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibvKPYoRAuFHeiboYCkfIhhImKm4NdecyEE5ib2HKWZw3tO2E2Sk85ShHibwAX5dYlB1zEJsxlGDGPVqA/640?wxtype=jpeg&amp;wxfrom=0"/><p>此前用 Popup 弹窗做联调，窗小、易误关、操作繁琐；于是我重构为 Sidebar 常驻侧栏：规则随时可见，刷新也不丢。「换成 Sidebar 侧边栏」：钉在页面右边，想开就开，数据都存着，再也不怕</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547598&amp;idx=1&amp;sn=c54e9131fe49fae7627f8fc02c7ed4ac&amp;chksm=fd51b4b0ff48820d11964a438d279b6dc7601ab1c1d138be0dacc51bab2a78c969caa09ab576&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 24 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前端一行代码生成数千页PDF，dompdf.js新增分页功能]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtKDhXKTLb8I3pVq0lqur3b8QSuxPRpfchd3GyJupR8bibb7AE048oQ0ibpBYt8NqnMHmzbjE26lOwA/640?wxtype=jpeg&amp;wxfrom=0"/><p>前端生成 PDF 不清晰？文字无法搜索选中编辑？体积太大？分页切割不精准？生成页数太少？dompdf.jsV1.1.0 版本更新后，这些都不在是问题，只需要一行代码，就可以将 html 页面生成数千页</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547542&amp;idx=1&amp;sn=57c007f67ef16c8b14bb69a035b2a37e&amp;chksm=fdfb730bbfff6a16a95e6255e77013f32f8427383b83170a23be06f6a7a2720a757a9551acdb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 23 Dec 2025 08:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数据标注平台重磅上线 | 标注赚现金 低门槛真收益]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/lCQLg02gtibtV9JNsrnx5vCFXALNfaytyJ7XOaJic7cyeA712tBLczPaL9Mp35tUaAiamjRfbCT5GKOTBM79E6gnA/640?wxtype=jpeg&amp;wxfrom=0"/><p>你是否想亲身体验最前沿的 AI 数据工作，却找不到专业的参与路径？你是否希望让精通的编程技能，在业余时间创造实实在在的价值？一个多领域的「数据采集与标注服务平台」，为你而来！「低门槛、真收益！」 利用</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&amp;mid=2247547397&amp;idx=1&amp;sn=9b33470f75331a7d79c60e040a7f77ba&amp;chksm=fdeaf8a93750f7283709ff83cf51e493a81207601e3f81e6d8186fe0a0e896dd9cfbcbb04f08&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 12 Dec 2025 08:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

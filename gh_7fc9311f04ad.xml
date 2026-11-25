@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[命令式、函数式与 λ 编码：不同代码表达对 AI 协作成本的影响]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1w68lVUykVZR9uGsMSGl4ibuPYdp6J5BZz8cb6wbN59jsxG3WQEOGAbh7SjGyQ4W0f0Vibm06AlVuHjoIJXfZp8bWibVRbxBDGxXA/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。摘要当 AI 开始参与代码理解、需求修改、缺陷定位和测试生成时，一个自然的问题是：命令式代码、函数式代码，以及 Prog</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562826&amp;idx=1&amp;sn=f5f8266a4acd4f29b2980674c0418a08&amp;chksm=e829bb247098648551abbe9cb3f5dae07be5872643cc4f4b4a932463faca64387ec05755dbe9&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 09:58:17 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zyu4EpaMXepQ94jia5tGGhY4lBdiblNbjFDw8qAoLia2DxteTEibch1tiatJArORgy7ElUkAgrYzpNRTiaIibONIAjTgwmgSNtkKc3tI/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。背景今年十月底，DeepSeek Harness 团队开源了一个新的原型项目，名字叫 DSH Super-agent。如</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247562800&amp;idx=1&amp;sn=dfde8934e08bc1d8bad6e28f1a906287&amp;chksm=e8e2160e90dbbba1494793563380572e2ece90d7b55bb860b51a834d1ebf14204c500497e30a&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/j7RlD5l5q1zmtY0ttBsSOQriaMZpMf9oaLR1WdcNE6gcia00zJv3aFZ1OFMyR2icpicsmcrltj3ic1Z3TNpckIlHVc9YdDqte44fxicU2yFH4icrvc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。一、为什么要知识库领域知识决定了 AI 在业务中能发挥多大的价值和作用。任何 AI 系统都由模型、知识、架构三部分组成。</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561257&amp;idx=1&amp;sn=d664dbf2543b9d4b772b4b3d87c3def7&amp;chksm=e83994287c961a5067875098c165e50d6caa806601ea40743469bcdcad048ad8c2fa4bad266b&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 26 Jun 2026 10:47:55 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里重磅开源！Open Code Review：一周 5k star，为你的代码保驾护航]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/j7RlD5l5q1zhvoBOlnREXicSRic9qicv9bBeEvlnu0uEIazNw5UXibHmS2VqUVugOdBB3U25k55ZVueHIQtp2t950QCeAjvQXq3RdlKicic9Ttofc/640?wxtype=jpeg&amp;wxfrom=0"/><p>阿里妹导读文章内容基于作者个人技术实践与独立思考，旨在分享经验，仅代表个人观点。前言AI 每天生成的代码量已经远超人工评审的上限 —— 以前每天 review 几百行，现在动辄几千、几万行。代码评审，</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&amp;mid=2247561229&amp;idx=1&amp;sn=edf43caeaaf1f167136b9c5c25359fa2&amp;chksm=e8e0e55a833f677ce1885a5099b8fd5f60bea21f4485c332fac45a2ae4ddcb858a639f1e3b2e&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 24 Jun 2026 09:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

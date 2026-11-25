@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[解放日常答疑琐事，客服 Agent 的构建和调优之路]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/3Xrv1bwNrT7ApDgicFPGfd1Ig8S2RuhyGt0LrZOVFBV33sWGySGibtbiaibfGfKQ2VzZAqFic29ib3GCROldicXEBsHeINlQYuO0Y1XZqRIaTMiba2s/640?wxtype=jpeg&amp;wxfrom=0"/><p>本文已收录至开源项目 Alibaba AI Agent Handbook，更多实践可访问：https://github.com/aliyun/ai-agent-handbook拿到工单、翻 SOP、查</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517548&amp;idx=1&amp;sn=c055cda6b5433681e8b3ecddf5ff1f8d&amp;chksm=f4d4657ca62cd6fc84a65d030560847447ec7852b1f8dd23c37a0956fe3c757c50c5e3e07e4a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 17:55:28 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[AgentCore 上新：一站式上下文工程方案，让 Agent 更懂企业业务]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/3Xrv1bwNrT6aoyzFc3wqjVHhX55pVtI7k9SQyULUMQ5uzyHI5fXFicaNBT8dVpNnNznHprWKlheBHxt2JkMVG42dIQXP5F7QMlnmMUyy0Ds8/640?wxtype=jpeg&amp;wxfrom=0"/><p>“昨天上海仓的订单情况怎么样？把需要关注的异常整理出来，按我们之前约定的格式汇报。”这是一项常见的运营任务。订单记录在业务系统里，异常处理规则写在操作手册中，汇报格式则来自此前的沟通。Agent 要完</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzcwOTMzMTQyMA==&amp;mid=2247517525&amp;idx=1&amp;sn=604cf062bef927c858b7b7fa3b2c96e2&amp;chksm=f4b262e99bbdf594b19c69ca86711d662cb393df8ac2dd14aa03350dbb7b82511c7c35892366&amp;scene=0&amp;xtrack=1#rd</link>

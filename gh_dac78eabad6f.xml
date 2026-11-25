@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[JEV决策模型落地QQ音乐实践：把决策延迟打到25ms]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr69AB7eXb10cI0VMZnibmOpLptsNycCxmlStSCZYiaFkxticicUtmr3g5kux9tWamfX26kia50VuJxb0BQFz5h8SOPxiawSu3ED57uW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告在智能应用里，用户query抵达系统后，系统要做的第一件事往往不是生成答案，而是"做一次判断"：这个请</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698373&amp;idx=1&amp;sn=29ed3569394123ec47615c2bedd98dae&amp;chksm=eb7cda9e8c647d06c67747d80d9f9af0847cbf611dabd56fd11aa9fdbd6434bc8519c9e708d3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Agent上下文管理，90%的人第一步就做反了]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr4icfbH7X2GQLYqA32CLZJVJIOzrcva6nVz3JqTyEI9KBsLDyxcdgMfuVru51Ecl4NWn5gN7cOicqcEBv6tGibJCeehm1MJpaPlO4/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告一提到 Agent 的上下文压缩，很多人第一反应是"让模型写个摘要"。但从 Claude Code、M</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698329&amp;idx=1&amp;sn=9344300fdf8a73ac262a97e86f2a5ffa&amp;chksm=eb4162934e72941f9d9ae7818856abd7f0d3768e3d0ebb432773a59c58eb768666a386390254&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GzKLaQjJB9ZKKBRxy2ag6PlnuutVgq2GbC1hykM26jWu6GLsCEsfKYGehyaibDb5vXibZOqxrCS3BKBFHJdZLLfYbqDNfrR5Qo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当前 个体提效 ≠ 组织提效 成了很多团队的痛点。本文阐述了腾讯健康从PM视角对这一现象进行Debug</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697007&amp;idx=1&amp;sn=f12d0ba52354af093099ab3c6c7c28f3&amp;chksm=eb46f094e13b100e94bfcd593f45999ebdbb2287eed3069d94a3ad793ce5aaea85c6dde73bbf&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 19 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agent的命门是上下文：关键不在少给，而在给对]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5vrhic3AWunZyPLFYPfPq0RqdM0eCwbLuBheJDfQ4icd5K29aictb7XMUYuA15J2KSAVsZz80bJialZFgDQhEW7lpo5BiaiaFyL1S0U/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语腾讯云轻量云有一套用来组织 AI 开发的工作流Devflow：我只需要把需求交给它，它会先判</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247696974&amp;idx=1&amp;sn=7b3e885c64e10a944ea85e4018348a13&amp;chksm=eb91fb3993f3fe72d433823120afaf11ef3e1f99beb79a811f3e50b892590c1b71f1c14a3bc1&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 18 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

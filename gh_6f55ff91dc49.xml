@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[GitHub 上 1.6 万 Star！这个 GitHub 项目让 AI 帮你复刻视频。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU24iavou3NuwzJ3bGfWZtduibXT1BkggwriaWJpgCS3BagSjkU2Fu4CibqZhfFicwD7rNRJAuPM2y8JqSjXybyXq3CJ7f1XTGCANVkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenMotion 这个开源项目还是很顶的，出自 OpenDesign 团队。开源没几天就一两万的 Star 了。你上传一个视频，这个开源项目就能直接拆解这个视频，直接复刻一个新的。把自己定位成 C</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538735&amp;idx=1&amp;sn=6a0f6a23ca5f9f9b466aff684ec31b3f&amp;chksm=f813945a324b0294cc1e699e50bd28fcde5bf316935172274aa944fa1f6c1fdb31f7f8686f7f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 11:06:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[本周 TOP 11 排名的 GitHub 开源项目大盘点，看看能用到哪些。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU1Gjn29OLMDt29nsXJlm4eVQ4CeibQeVL9jZOTmAeVR6eCzDPiauRXQibgp2ImDvqh8Sgp6XcPOeDZycFCDycN6lc2MmTYqDJTG6U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01网页版 Excel 和 WordUniver 这个开源项目应该是本周获得 Star 攀升数量最多的一个开源项目吧。它是一套给开发者用的开源办公组件。你可以把它理解成一套能装进自己网站的网页版 Ex</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538734&amp;idx=1&amp;sn=663aff51de396b45a5d7825f27439e6c&amp;chksm=f8ac1fc3a57e340bcfcc0f042ab2a990e94eafcd4675ffcf4365980072118540be66089c79d0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33q69nZAAAiaqYWgMSDCuDqxnrboOcHBD2w1D3yI0U6moxJvwFP2ibSIqhzKVwBN6ibSKicSzANiaicpWlw4HbZMdC5l3Phz010VxJI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01训练英语听说能力Echo Loop 是一款专门训练英语听说能力的开源 App。目前在 GitHub 上获得 3000 多的星星。它把一段英语音频拆成这么几个环节：盲听、精听、跟读、复述，再进入间隔</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536438&amp;idx=1&amp;sn=5b4b3820b7042c8e94b969f521764b1a&amp;chksm=f80351de879a52dab7aa8f77d0c29dae8e7eb47fc7ff18d836d1b57cd0156e694633b9e03323&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 03 Sep 2026 14:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分享 2 个刚开源的数据集，一个是健身动作，一个是 CAD。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0mgsjmIX3tNSiaKuiaXbrWlLxJIwxEfaOZoxiaricDkiaITWYPTJOic44gUKTak6bmB7Bs40zIdnTWTkiaWv0Nr11mGlzF9N5b8e7w4U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01健身 App 动作素材有开发者把 302 个常见健身动作整理成一套素材库，开源在 GitHub 上了。每个动作都有 3 帧，共 906 张图。而且，每个动作都带有结构化信息哦，比如动作名称、器械、</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536423&amp;idx=1&amp;sn=61f2af2610389840ab999a5efdab5214&amp;chksm=f8cb083d44aac1bf38cd97743f0da74d93a617c170e75ddde21f9d639e0d1384599577e27f55&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 02 Sep 2026 15:09:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

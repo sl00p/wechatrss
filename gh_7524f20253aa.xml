@@ -11,6 +11,30 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[超4000台运行黑客Agent的服务器暴露公网，正主动发起攻击]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1D3qewAchppC2gSxj4IDjMbY57Tc1TwfbCSiaMBVcMgsPq3B6Ukj2COjFiaYE1E37mcibxXWiay1Pic4ibTviaDOqfrbT9l7Ow8uyPCI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01全网暴露AI攻击框架超4000个2026年11月23日，Shadowserver基金会发现公网上暴露的AI攻击框架实例约有4200个，而前一天这一数字还不到3700个。该机构11月25日发</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351809&amp;idx=1&amp;sn=1ecb0b0d948bb94c5bb7210853b9e2fa&amp;chksm=bc7cc1b284bba04e80dd0a617860f52d943bc3cd237e7df69f0ad412411ce57a9b54cefb1e5b&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[1Password客户记录遭窃，员工GitHub账号成黑客突破口]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1DibUakVM4DiconbIicYRusyTNOdBgqkiaa3Y5vxQIhsfo1UsTYmnBUZq3uAj4xyeTpQrNWicISZXSG4FNyCsNyAIQlib0N6mwicyIPQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01员工GitHub账号失陷身份安全厂商1Password近日披露一起安全事件，攻击者通过一名员工的企业GitHub账号，复制了部分客户的账户记录。公司于11月19日发现该事件，当时监测到账号</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351809&amp;idx=2&amp;sn=7d19257f744ef9c21e888c266ac5b9dd&amp;chksm=bcf4898be199eff14c5797df10bbbb5c5b8638aa4a283ef48da59fb4e8322187af063f858c37&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[黑客利用CVSS 10.0级Hex.pm RCE漏洞，入侵6台包注册服务器]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2ZvMHG2t7g3rpRnICzibwhZLS1geYrW5AofAG40HiadCshThVDIbkatAlibON65Qiakq2sDAXt7u4JiaeJPQTwEonR0u8ZJbultjpM/640?wxtype=jpeg&amp;wxfrom=0"/><p>近期，一名攻击者在Hex.pm的6台生产服务器上执行了操作系统命令。Hex.pm是Elixir与Erlang开发者获取依赖包的官方包注册中心。此次攻击利用的漏洞自2016年2月起就存在于Hex.pm的</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351809&amp;idx=3&amp;sn=ce97937b659da1187e71f7b72a0c7163&amp;chksm=bc10f2b7c7957d73d848e4e364d51a022ab967351776e8b46a4b2b2f9272976948c23fb91f1d&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic研究显示Claude AI Agent可逃逸沙箱，访问受限数据]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2okqFUNtZRblg3dibiaWZdZiaPRicMDsx99E0nOSB98P91iaBmvVicemNkUZFqPBJcts6Lv3KJrOYS2UIkSlkkyuJ49q6iaP5aYbawOU/640?wxtype=jpeg&amp;wxfrom=0"/><p>Anthropic发布研究结果称，Claude AI Agent在刻意弱化的沙箱环境中执行常规软件任务时，会访问受限测试数据，部分场景下甚至会直接使用这些数据。在11月24日发布的Siren研究报告中</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351809&amp;idx=4&amp;sn=3b22b71e2861bcd0c2c82131c4a8ffab&amp;chksm=bc8740e2f565a8b648c3aeb56d8cfa5696f33de33ccdff2857152eeb8fa4055208e5223d071e&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Thu, 26 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[FBI两个月内再遭黑客攻击，美国犯罪信息中心NCIC疑似失守]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2oumFcsY1NRRCH2lNywyK4JEId1EromvLPTPgTGf2bqOiaibpKYKAEaIzSEUAOJwKKqF0VBX3getrwOlxW63IJhj4TfIEXBWJ1E/640?wxtype=jpeg&amp;wxfrom=0"/><p>短短两个月，FBI再次陷入网络安全风波。11月20日，CNN援引两名知情人士的消息称，美国联邦调查局（FBI）正在调查一起针对美国犯罪信息中心（NCIC）的疑似入侵事件。该系统连接全美联邦、州及地方执</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351733&amp;idx=1&amp;sn=6219caa33423ff8e520aa8c66185298b&amp;chksm=bc3c717ce5984769dd8b64ead249eb0482925fe425cf9de40a29b61186726ebc537438a20fcd&amp;scene=0&amp;xtrack=1#rd</link>
@@ -285,30 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1rdfEZbwLolGkewq1VfR3yfXUUmmS5VX6fr2yWiaOjEibibb6DDEzeZ45NnOqFbf8jU73ZnG46MGeia8XA5mdVe4Wnoo3vqtEJgtE/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026年11月12日，微软365爆发大规模服务宕机，用户云服务访问受阻。故障持续至11月13日，微软正全力修复故障基础设施。微软最初仅排查美洲地区Exchange Online邮箱访问异常问题，随后</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=2&amp;sn=78ba7d065b4d34efab23371f7bdca357&amp;chksm=bc0b93111e69975be1a284017b0a8a27e9c8ebb15cd0b43dfd2e3be9a41aec2888d4effccac6&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CISA确认Outlook 0Day遭在野利用，可泄露用户认证数据]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX1GF3taSuMCn5z2HtO8Sk37qCIxmBj3AgyUfjibHMKzUjU3xkry3LD1oXmyJnrfcEA7dsd8eAtY1ZibPXKQF3dUYS5ZOZDjQTvwg/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01特制消息文件可触发漏洞CISA证实，微软Outlook存在一个编号为CVE-2026-124194的0Day漏洞，目前已遭在野利用。攻击者可利用该漏洞窃取用户的认证数据。根据微软发布的安全</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=3&amp;sn=3395eecd9fc810f587cedf6d0f18c7fa&amp;chksm=bcd5c739c017b4d015d60e0b11a411a4be11ba79efbab51f3d05dbc6c10a6362a11ee788c972&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[派拓网络披露PAN-OS RCE漏洞，攻击者可获root权限执行任意代码]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2TVsZK4icry2o8ia9TbLvIdSibhx6bXtJhvm4qVeqP8dmicD2hCygWaXicafWY9EnIFhVYdevic9hbmkKrq70p86HrN3qibLptfenDn4/640?wxtype=jpeg&amp;wxfrom=0"/><p>派拓网络（Palo Alto Networks）披露，Panorama设备运行的PAN-OS系统存在一处远程代码执行（RCE）漏洞，漏洞编号为CVE-2026-0330。拥有网络访问权限的认证管理员可</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350936&amp;idx=4&amp;sn=217b09450ce66cee23708bd01957fce5&amp;chksm=bc99932e0a56339ff3fabd0aa476cf71c83921d67ffc8871a9d2e7681fd50ed00845f918e643&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Fri, 13 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大量开源AI黑客系统运行于公网，部分控制台未设认证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0pmxWic64mc6AREBR8DL2PjGUz5WI6KZt3GjsXryuNjkgVib7PSYrV1o3Y3g7coziczYU1sg4uicFhkyBtZaF0aibzvJTCxyZ66xLo/640?wxtype=jpeg&amp;wxfrom=0"/><p>目前多款AI驱动的黑客与渗透测试框架正运行在可公开访问的互联网服务器上，部分框架的管理控制台未设置身份认证，完全对外开放。2026年11月7日的Shodan快照数据显示，公网共有1428个服务属于AR</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=1&amp;sn=0c647b5cbdb19ae3c32860e3fb87b689&amp;chksm=bc0dfcdf0edfcd9f0d533885c6fc8590686c21b1ed17d40a8817e732e02e5ee48ffa8d88ac73&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微软研究证实修改不足10个神经元，无需重训就可以给AI Agent植入后门]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX3WWib2E7aNLENg8E3ZyCbaaORSiaiaYVT8sFF159Y3DAtHFFOupIjLrficE2PaQTHQj8bTGibiamAgotgVfrWeTkQjBLGK9WSdJSTEs/640?wxtype=jpeg&amp;wxfrom=0"/><p>微软研究人员证实，攻击者只需修改AI模型中不到10个极少激活的神经元，无需重新训练模型，就能植入隐蔽后门。一旦预设触发词出现，模型就会输出攻击者指定的命令，调用该模型的Agent会以自身权限执行这条命</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350863&amp;idx=2&amp;sn=4faf92fc39380fdface1b42e964e5435&amp;chksm=bc854295f5632ba72bcfb7198a13ed7cca201b2dfcdf37418a72977f086b84a818459ddeebf2&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
