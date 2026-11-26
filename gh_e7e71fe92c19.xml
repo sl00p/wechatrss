@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Python纯协议实现亿级短视频app的直播间弹幕采集]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fedRDkUhAubFfnn2AtMKksH2SjUPVQfOmQJOpBts8ULy0g6MzEoHuSFcEh8LibLNuoWibPS528T3SIlRF5zTYic0SG4yB2sVDdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>版本：20260923，40.6.0测试需求：纯协议获取直播间弹幕等信息最终效果随机抓包找的10个直播间id，随机注册10台设备信息监控上并且持续接收弹幕等信息从直播间 X-Cylons 到6神设备注</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624654&amp;idx=1&amp;sn=49c52cd612de71a69b69ef4cbbd48c64&amp;chksm=b0ff04dcde5a6c95e788b518918828f6d3107aca86114e1b5622f8291dfdff9f9ed36187aab0&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 18:02:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[本周五求职专栏！高薪岗位更新汇总]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2AEtGkywnaesOqrZvVnqN60PyBhwtZzMJYb6fZ30XeicmbpRKzF8r6IBEKaYza3QsZGe6j8cibyloTpedOTeZ28hrwbt3cL8coI/640?wxtype=jpeg&amp;wxfrom=0"/><p>每周五招聘专场上线！扫码查看岗位，一键投递岗位状态实时变动，感兴趣尽快沟通✦上海弦盾未来信息科技有限公司✦小于15人 · 上海/广州Web2安全研究员薪资：面议工作地：上海·漕河泾应届毕业生 / 本科</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624654&amp;idx=2&amp;sn=7c6139f5da15c9a39c90bf3213cd6dec&amp;chksm=b0855ae1f367ea5ccdac242abe9abf48f040b873cdf6fbb9ad3ece71809e537b4503bab0ca49&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 18:02:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tor Browser曝高危漏洞：恶意网站点击一次即可获取用户真实IP地址]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K2WuAd6bbrODfONzh1icxZ7lYC3zAZG3N1XJ5LicT4a4WWcLITGwj1K8ebvW9KxcFNwzHbr6WTS0qTozfNfAMceR1ia32nsEtXPTU/640?wxtype=jpeg&amp;wxfrom=0"/><p>据安全公司 Calif 于 2026 年 11 月 26 日发布的研究，Tor Browser 存在一项可能导致用户真实公网 IP 地址泄露的安全漏洞。攻击者通过构造恶意网页，在用户点击一次后，即可诱</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624654&amp;idx=3&amp;sn=798a28ca968f34b34b9d1c2cffbb6689&amp;chksm=b06a5ee558f887035904819c052ffa849d870bf0dcb5458f08ec1176712f04d1d9c773adde82&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 18:02:27 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CVE-2020-6507利用链]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3ziaYQXvooficA4V8tOkQibib6BSoLpux6tAaJgnNjTRuFPCib4mPaNwqlzwBSZfJFADrO9OyuANtlNfDZORiaubjsgysNVUISDmYibk/640?wxtype=jpeg&amp;wxfrom=0"/><p>CVE启动某个版本Chrome的漏洞可以在谷歌的更新公告(https://chromereleases.googleblog.com/)上查看更新公告上可以找到bug的漏洞编号issue(https:</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624504&amp;idx=1&amp;sn=2e35c3517132f69b1ec60ea13a7dee42&amp;chksm=b0dff267cb4be574073e0e092bdd5ffd2b89b2e3530077b6583f8b479b74b41cb0947173b36b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1l827LKiacibVTZYOFEAXL9x3oUdh7PoEvJicGcicywqVXKicHYURLQEbND11jfnvWM83ae1l9DWtjJt7tiaTTPVI2KmFzicBrPz0Biao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=1&amp;sn=e09c17352cca70ac8dca6e9771251f83&amp;chksm=b049a4a3823ab3bb6f9a2f098b5e2dfe58019bdea11312f96a47951efe7f51cd2073139a3dac&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从零手写 ARM64 VMP]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K2yO344Xe4Nmxc4DFic6yxNGS5A5rHWIQQSsicbzb4pcaBwxicEuica0w8icsWSEGe6A7LEWhvCA09ibxad8y2fvOlrS5w6gqnThKqXc/640?wxtype=jpeg&amp;wxfrom=0"/><p>VMP（Virtual Machine Protection，虚拟机保护）简单说就是把.so中的关键代码转换成自定义的虚拟指令，交给程序内置的虚拟机执行，以此来增加逆向分析的难度。这里的VMP泛指代码</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=2&amp;sn=3169946034eebd6555b16ebb31b34618&amp;chksm=b02ceb1957c7793b4e27c7e9ae6722f5daf8f3df725b495304e0ae6581a25bdfd236a250685c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[​OpenSSH 高危认证绕过漏洞遭攻击者利用，超长密码即可绕过 SSH 登录验证]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K3Au4libD3FM2fCcCPw2leAfeMkgK67dg09Qck5OyD6Qm1T8PGc7I0Il5Ec4FzcPNN4kz5P4nyV45g7gmzkbQhQ65AWPqpyXvWw/640?wxtype=jpeg&amp;wxfrom=0"/><p>攻击者已开始针对 OpenSSH 的 SSHole 认证绕过漏洞发起攻击。SANS 互联网风暴中心监测发现，攻击者通过提交异常长度的密码，尝试绕过 SSH 身份验证，在特定配置的 Linux 服务器上</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=3&amp;sn=ab8d04633e47d27c3a825e1582bc0458&amp;chksm=b0f21acf8afd8852cda4ab8f6ead7edfe86f8c1b246289fa18e82f022039dee1b3b65daa38aa&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0Euibw4kny7ZnXLDkQ616u42boGYiaoWKl7C2zW7vhY446tlJbbT48Nb0csWjqCj7dQXoTAQ8ehWaKHqczIRaEUDfBVysaKAT5s/640?wxtype=jpeg&amp;wxfrom=0"/><p>固件漏洞挖掘的瓶颈不在于「模型看不懂汇编」，而在于没有一套可执行、可复核的工作流。本文介绍一个开源的 IoT 固件审计 Skill：它把资深审计员的工作骨架——流水线、资源分配、证据标准、质量门禁——</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458623857&amp;idx=1&amp;sn=4452ebefa4729f122b8231ff73cf22bc&amp;chksm=b08d5d4119cdc0e8d7003afb3df4926a70d315e7f851a100c7c45007d8a0737a11d56a38c1c7&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 07 Nov 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

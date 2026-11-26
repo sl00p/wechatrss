@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[这篇帖子只说三件事：板子、点子和金子！]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCL7mwpNya1icH9JrlgDf3skZOHQKSzQFYrqhb6z2icBDrCcJfHRjV5z5XIqMRcfUiaV7OYWpYYpyNr4Uqd9oXrYYHFZpYEHhqGdk/640?wxtype=jpeg&amp;wxfrom=0"/><p>最近，我们联合移远通信发起了「Knect the UnKnected 别让脑洞掉线」硬件造物活动。不仅有 UniKnect Gen1 Pro 开发套件六折购板优惠，还有 2 万元现金奖励等你来争取。</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247627282&amp;idx=1&amp;sn=3c2939804f7569af99a33825a71b227b&amp;chksm=f5e17ff9930a05320baae027ce6dc4196616adca73db87e1c95f1c12bdfe1d3826f71cfce405&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[她禁止用AI写代码，一个月后又打脸]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Dibl90G3Zq6Msia8AWK1iaSfGD1ib397XRMc8c6ZLITlDmy58IiaDTqnaX2d4mkDSjQKxKxoEicN51GgDaib5lrCFxnuBqWvLznVDVv66MYWM4kX6Q/640?wxtype=jpeg&amp;wxfrom=0"/><p>Libreboot 上个月刚立下 AI 禁令，这个月又把相关文件删了。很多人看到这条消息，第一反应大概是：这不是自己打自己的脸吗？事情确实有点戏剧性，但如果仔细看维护者 Leah Rowe 写的内容，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247627281&amp;idx=1&amp;sn=c42cd8ccd70337d864d623878d80c0c1&amp;chksm=f52daf597cb9b10540de00b5228cea9594d8c9f964205b35492e98d7297f5f486f8148f9dd52&amp;scene=0&amp;xtrack=1#rd</link>
@@ -302,12 +308,6 @@
       <title><![CDATA[Unreal Agent：一款具有最先进成本效率的开源Agent框架]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBDIjjI15ibxdFlmTYpkKXVAmPayp067jibwDEDGia80xUE6ibVdjdQOEfFe5ibVL8IVm4a9v9gIdrRU5DNbT9SicfBULiaHJdxSAVs06k/640?wxtype=jpeg&amp;wxfrom=0"/><p>Unreal Labs 开源了自己的 agent 运行框架（harness），叫 Unreal Agent。核心卖点一句话：在真实生产工作负载和 coding/science 基准上，比 Codex</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623844&amp;idx=1&amp;sn=2c2cfe69876a49ba2af91bd4076718be&amp;chksm=f5964d35b8971a7bb2996e0737ed86569951e97236c81f341a1fedbc4f7ea38e0d74ea613087&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 24 Sep 2026 17:38:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[阿里发布Qwen Intelligence，规划Agent靠「模型 × Harness」，成功率达90%]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/BmOTVLPoiaBCeg9iaqAibqTf0MiaJgPqHuNg1q3EzEx8ffbtiaVK5gj82jIVagVVRawYCanT5r7EvD1bPwCD5Uv4ERWSgSOpibmibdWyqGBXpsE4PI/640?wxtype=jpeg&amp;wxfrom=0"/><p>AI 手机的概念喊了好几年，阿里这次把底座直接摆了出来。9 月 22 日云栖大会上，阿里千问发布 AI 手机全栈解决方案 Qwen Intelligence—— 不碰硬件生产，专门给手机厂商当「模型</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&amp;mid=2247623844&amp;idx=2&amp;sn=c650df3113eff8be5b2ed656df4cd621&amp;chksm=f5891a22e362f1fe6c099c75ab4bb05d7ecf8d04f9892895351158a9ae61fe91fec82a54d796&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Thu, 24 Sep 2026 17:38:00 +0800</pubDate>
     </item>
   </channel>

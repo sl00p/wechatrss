@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[一个 7B 模型服务冷启动要 2 分半，我们把它压进了 12 秒]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz6iabREuWSKGLhRu6FAia7icGjDsv4N0axRzzUzAnJ6NUpQ88IahV89zhTsPUbjaUnxgZ20RHRvDpyHzj4icwj3BCeNPNdxpY50iba4/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 85 篇文章（ 本文阅读时间：约 10 分钟 ）客户需要在一个平台上托管多种模型，比如 OCR、图像识别、内容审核、信息抽取、评论分析、公式处理等等。这类需求有一个共同的难题：模型</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512965&amp;idx=1&amp;sn=586669b4c9bf2dd547b6766a6953e1a9&amp;chksm=ce5fd5bdb8a21c71a25862f5d4ed3f9ff88f0bc26a6483acd66f5403ade7ed90d869f47cf8c1&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 18:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[智能体身份与授权：智能体生态的信任底座]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz4b0wa8UHnHbOMrLGrR7InhLHoTI2IfZ1byDHTnTJvkQricMBwDzkDBt8IxiahUe25LjbcUydibhr0WC4nfecRQEtBiaBb9WadqjaU/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 84 篇文章（ 本文阅读时间：约 10 分钟 ）阿里巴巴秉承“负责任的 AI”理念，提出了一套智能体安全治理原则，并在业务中落地。这套原则重点加强智能体生态中的身份、授权以及行为可</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247512957&amp;idx=1&amp;sn=e018f76617777f9304e13650b3381024&amp;chksm=ce7ea5f5bc63358a365997b7835621afb6a76cc6948fe8f88f29123449ee30770d301b3209d4&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/kN3t5R6pdz4G2U405J7AfwHgPTiadnwmrpI94CicqwlXkWmTkpv9I95zlZGibia0sCOalgSxib9SI27bmziaIEEwY1lwA8Xbcj3yUH3q06yMANECs/640?wxtype=jpeg&amp;wxfrom=0"/><p>这是2026年的第 48 篇文章（ 本文阅读时间：约 15 分钟 ）01Agent Flow我最近一直在做一个“小玩具”：Agent Flow。最初的目的很明确，就是想在某些特定场景和受众群里，取代现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510883&amp;idx=1&amp;sn=1988e51340f0d9a22b2e6908fc60eddc&amp;chksm=ce40f2150aa796f2e264da84f6c9077e49dbee29b0fdfd624a877b3113f167eed081440a8101&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Wed, 05 Aug 2026 18:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[面向生产力的 Qwen3.8、“千问办公”已同步上线]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/kN3t5R6pdz5oIBq2aNicskeX1jYEBJOp6z39SyPSV0G1mnLFT6ibPwiamsh4bgerd0wvaaXQpibrvShRxQFDExTpZ33XdjiaTib9PSChOOiaG7EAKc/640?wxtype=jpeg&amp;wxfrom=0"/><p>今天，我们正式发布新一代基座大模型Qwen3.8。Qwen3.8 总参数量 2.4 万亿，在编程（Coding）和专业办公（Cowork）方面能力大幅提升，今日放榜的权威三方榜单Arena中，整体性能</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&amp;mid=2247510872&amp;idx=1&amp;sn=147d7bfeca0f79d93bb231fae1f0a74b&amp;chksm=ce11b6602a7690c8540a89609becd6ca5217b55f5e07cc27a3d4770eae28f74182501a6fe93f&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 03 Aug 2026 11:17:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[从会话泄露到ARP投毒：DIVD入侵事件Agentic攻击链复盘]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/odcL3w4qOqicE78nORlqfClhrSyYwc3dZULuK2CkYtqawx26sI7uKHiaBiciamibRqvLZHJNIn1Me4IHujQC99TDLWBGz3xOxia8aZVZXdjmAYz4A/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 事件复盘 · Agentic攻击链从会话泄露到ARP投毒：DIVD入侵事件Agentic攻击链复盘990个自定义脚本、两项Zammad漏洞、针对数据库通信的数据包注入——攻击者借助Age</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521585&amp;idx=1&amp;sn=2b7d214b61b5d5ec69078ae282f81bf1&amp;chksm=eb781dea2a6cab98099d3871e77cfaa2ab054999170207232a1a3a99422a59863d2a011940da&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 11:42:35 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[攻击停了，凭据风险没停：Azure APIM事件的真正“后半场”]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOqicSMRjibYubeA8LBluwAK3xmR9x9pr99ewqJOUp5PunrxxiauFEFJgUTrViaPwPGYuicyStjQ9v3orQdNhOpgBDpMu0M7pS10OXfXM/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · 云端管理面 · 凭据风险攻击停了，凭据风险没停：Azure APIM事件的真正“后半场”从Equinor、Skagerak Energi事件，看云端管理面暴露后的轮换、追查与检测· 威胁</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247521536&amp;idx=1&amp;sn=3f7e713fb6f97c70ae06aa6c23c6795f&amp;chksm=eb3eb5d47a0d7082fa68492b2e7ebc9136349e8487bf276fbba21d00ab68b8163f69c196695c&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq8BK06R4a2E4Uy1Q0X6xmpLl78Z332jOFjdPl4liaxRsRA6ch3N6sTC5pojibp1gXhULiavH62kP0opCCDPuT1icpJI4MD0RL42FW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>2026.08.28~09.03攻击团伙情报Dark Caracal 卷土重来：使用新型恶意软件攻击原有目标群体Mirage Kitten 利用全新恶意工具集，针对中东与非洲地区航空业及金融科技行业发</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520246&amp;idx=1&amp;sn=b2b753df228dbb998ddc0fa321b9fa3d&amp;chksm=ebbef5bd1fab69ffc68b0319a7f1c196bad4e7ce8e1478ae71a9eef41a49a52ab01feff46572&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 04 Sep 2026 14:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一场“面试笔试”背后的入侵：Mirage Kitten 转向 Node.js/JavaScript 恶意软件]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/odcL3w4qOq9FicpsbWGSOjzGicR1wehgpkbKVPGR9w4ukV6LEpfMqrU23SQUZTs4ZNuiahTXfEmK7kgicMIWofUdyylWzKda421PXAJ3qmW5Lug/640?wxtype=jpeg&amp;wxfrom=0"/><p>威胁情报 · APT 追踪一场“面试笔试”背后的入侵Mirage Kitten 转向 Node.js/JavaScript 恶意软件Mirage Kitten 组织 NodeRabbit 与 Poll</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&amp;mid=2247520202&amp;idx=1&amp;sn=8006a96f5fd860011b5a2bf253037f58&amp;chksm=eb9a94e48dc133e34a4417cf8da60bf022fa1da7c828f68583804f2ff4609703db973746c8a8&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 15:06:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

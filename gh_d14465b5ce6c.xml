@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[如何让Agent 记得住、查得准、改得对？腾讯Octop Memory实践]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906U84TlDEXLemNlmH7ovByaEZIW1SK08iaeHkFWAM5VFKWQCldScb3yzk5FhT2zpETWj61paiaUcU5ZqYd8ZwibUKYaMSJl0Z9mz8/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：eileennchen人类最大的优势，是可以把反复验证过的经验沉淀为直觉。对 Agent 来说，能在恰当的时候想起、核对并更新过往经验，才能称得上好的Agent记忆。在构建开源多智能体框架 Oc</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808338&amp;idx=1&amp;sn=57cfea874bf5950111a3c255609227b5&amp;chksm=bfc49e12d70cc518ee8eb341dc3e4f64099a0d09ca103e84faf594e74c9c299a7cbf32d04218&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 09:01:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[CodeBuddy 三位一体 AI 全栈开发落地实践]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz904pjkHAovltgPTX4lWXd39Gdd3Wc0tWVBdgKceXA5fXOhMUx3sl99ooA24GtHgter6NEMKRb0wicPohRkGQH4xGUFoDLWOmYlic4/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：yorion，全栈开发工程师接口挂了，业务还能不能继续？过去要对全部接口逐个注入故障、操作页面、观察结果，再把截图和结论整理到文档里。快跑平台的强弱依赖分析功能把这些步骤串了起来：复用业务用例，</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649808323&amp;idx=1&amp;sn=efa282d3273912ecf90ce04af25cfe6f&amp;chksm=bf23c6250f528eb1ad4e486292176ab0b5d1681ac3953ef1b1421fd17eb46ec2d40e3d40d116&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz906ZXFOuRIdibtlpptCbMAvibyjjtymdQjzdfViaFvdic0LE2VicDiapN6D1NfTat9LT8XzgWpfWZXtEeZ1W5kIXdPzibvzSYfNYricWQSw/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：被删AI 时代赋予 AI 的新角色：AI 铲屎官。在 AI 很强的现在，依然很多人会认为，AI 更适用于新项目快速迭代，但很难在一个背负着沉重的历史包袱的项目中起到很大的用处。最近大半年都在重构</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803058&amp;idx=1&amp;sn=f3ed1b512d61666ebc7d4852a33911b5&amp;chksm=bfe2c037e5a30d1378c2882e93396ab4dd03ac6cd9a4a519820cd4af21dc883cabc4799245d2&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 07 Aug 2026 17:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Linux 内核藏了 18 年的漏洞，这次 AI 比所有人先找到]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/KVER9adz9055XX3gEsLOBTpu8XkU8xREt0wqicMJc3BJnIsroTF4tdFc1ibx4mJpjWE3VtbZTTOia6GcicIWzaiaHVRWTWqVonwJlkh5iaIqyfhcc/640?wxtype=jpeg&amp;wxfrom=0"/><p>作者：TencentOS 安全团队2026年7月23日，Linux内核主线合入了一份很短的补丁。它只改动了6行代码，修复的是一个已在Linux内核中存在超过18年的 0day 漏洞（CVE-2026-</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&amp;mid=2649803040&amp;idx=1&amp;sn=a0b7458e9bcc381edcbca4dbc1769f85&amp;chksm=bf3d5a72274690478de58f1a9f4d7bb938517c5ac3834cd3f477a6a19ea9f091cba7ec02f2eb&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 06 Aug 2026 17:37:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

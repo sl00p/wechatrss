@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[Agent越来越能干，我反而更忙了？Super Agent的注意力解法]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr5dhgT36K6OeCxLUTGAA1TA8rgarp9RF8lhKaf6ATZec73wjzCwGfc5khaDcX18Q3AOwGPaTRlQfAWwGdB3h6FC3hbz1BYZd34/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告Agent 越来越多，人越来越忙，是否能有一个答案？01从一个忙碌的早晨说起每天早上抵达工位，我的第一</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698403&amp;idx=1&amp;sn=35df1f98bff0cb7152262e3ed3817acf&amp;chksm=ebf4b792214fe0b2c66728036a84629b3f108933abdac311679391ee4fd35b966e096aea2298&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用 LoopForge 迭代 LoopForge：手把手搭一套 24 小时运转的 AI 研发工作台]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr4s5h6bibsZj3tFeaytqFV4xlrYZkrlJPyL91vyBAyuwGnzW2nSvWmv3NHXksvTBrlH8yXcH9DxBhWebQzNhaXicM9w79piaT3GmE/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告用 AI 写代码已经很快了，但管住交付质量、推着仓库持续演进，依然件件耗人。LoopForge 是我们</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698403&amp;idx=2&amp;sn=e36ca0a32fce3975928e392e387ab94d&amp;chksm=eb26151f71ea172995c77c26bb7ccd49d82c2b6a3153272b392d59d7a511a88f111a949d097f&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 08:45:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[JEV决策模型落地QQ音乐实践：把决策延迟打到25ms]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr69AB7eXb10cI0VMZnibmOpLptsNycCxmlStSCZYiaFkxticicUtmr3g5kux9tWamfX26kia50VuJxb0BQFz5h8SOPxiawSu3ED57uW0/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告在智能应用里，用户query抵达系统后，系统要做的第一件事往往不是生成答案，而是"做一次判断"：这个请</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247698373&amp;idx=1&amp;sn=29ed3569394123ec47615c2bedd98dae&amp;chksm=eb7cda9e8c647d06c67747d80d9f9af0847cbf611dabd56fd11aa9fdbd6434bc8519c9e708d3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr7EfQLSpic5Da62TCibC20mrHZiaDTVQePLFIK7Qz1peCaht8iaLqOIyhEjyLtt88rSWgQ6mVP2UWwl86Aaibj9hUd1ZDiaicczlXkRZg/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 引言和 AI 一起干活有段时间了，有些想法不吐不快。笔者作为一名互联网后台研发，日常的编码、调试</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697030&amp;idx=1&amp;sn=961b696054ae4d9c0f9eda068564203e&amp;chksm=eb2e9c5b6b4729538f4eca597447ce23fa982650edb775f273a6042caa992f9f31e3e2b986ec&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Fri, 21 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大规模分布式训练的稳定性工程：自动驾驶千卡集群的毛刺理论与优化实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZRhjO8xAWr5QKVosVHXaUtkuSqahAzTuAKSrqmsRk51bw2AO8E4EQHoibTkQ6csD4X9ibyefe99SadsNIicwicf0OiaoBgYl2rqdw2arGjW8Ozps/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告 导语大规模分布式训练的性能问题，往往是一个分布式系统可靠性工程问题，而非单纯的算力优化问题。本文</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697013&amp;idx=1&amp;sn=a9df1463ea815eb3f256986c7785d4d7&amp;chksm=eb9b40146e4281d96ff9630431d3b30460ac2da5752bd40b75ffa9920aafd92b996c026064ad&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 20 Aug 2026 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI Coding时代，研发项目管理新范式探索与实践]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/ZRhjO8xAWr6GzKLaQjJB9ZKKBRxy2ag6PlnuutVgq2GbC1hykM26jWu6GLsCEsfKYGehyaibDb5vXibZOqxrCS3BKBFHJdZLLfYbqDNfrR5Qo/640?wxtype=jpeg&amp;wxfrom=0"/><p>关注腾讯云开发者，一手技术干货提前解锁👇开发者公众号专属群聊扫码加入获取更多一手教程、科技前沿报告当前 个体提效 ≠ 组织提效 成了很多团队的痛点。本文阐述了腾讯健康从PM视角对这一现象进行Debug</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&amp;mid=2247697007&amp;idx=1&amp;sn=f12d0ba52354af093099ab3c6c7c28f3&amp;chksm=eb46f094e13b100e94bfcd593f45999ebdbb2287eed3069d94a3ad793ce5aaea85c6dde73bbf&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Wed, 19 Aug 2026 08:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

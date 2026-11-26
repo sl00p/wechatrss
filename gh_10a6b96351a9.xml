@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[很多用AI编程的人都有感触，新项目，用 AI 启动，容易！但老项目，用 AI 接手，并开发新功能，很难！ 如果咱们把老项目直接扔给 AI 读，这三个下场，几乎必然发生： 1. 定位慢：一个功能横跨页面、接口、逻辑、数据访问，AI 反复搜索试读，无关代码占满上下文； 2. 装不下：几十个模块，塞进去烧 token，读完还跑偏； 3. 换个会话，从头再来：项目背景只留在聊天记录里，下次需求重新介绍一遍。 问题大概率不在 AI，也不在项目。AI 编程高手接手老代码开发新功能，用的是这四步流水线。 第一步：了解项目资料。 别让它裸读源码。先建两样东西：项目 Wiki（项目干什么、模块怎么分工、主要流程、数据关系）和代码地图（功能入口、关键代码、调用路径）。 这里要用到【两个 skill】，一个解决 Wiki 的问题，一个解决 CodeMap 的问题。 第二步：明确需求与方案。 拒绝任何一句话需求，特别是老项目更是如此。原始需求没说清楚，一行代码都不能开始写。 这里也要用到【两个 skill】，一个解决需求精确化的问题，一个解决明确技术方案的问题。 第三步：代码实现与 Review。 明确了需求与技术方案之后，接下来用 AI 实现代码，并在完成之后 Review 代码。 这里还是要用到【两个 skill】。并且，写代码的 AI 和查代码的 AI，不能是同一个：必须换模型、开新会话，交叉审查。 第四步：测试与验收。 AI 做完 ≠ 能上线。上线前必须保证质量，除了 AI 测试之外，还需要人来兜底验收。毕竟，承担责任的，不会是 AI，不是吗？ 四个步骤，前一步生成的材料，都会作为下一步的输入。Wiki 和 CodeMap 喂给需求，需求喂给方案，方案喂给实现，实现喂给 Review，最后全部喂给测试——每一步都不从头开始。 整个过程中生成的文档，就是下次项目可复用的资产。 限于小绿书 1000 字限制，直播和大家细聊：《企业AI编程，项目需求全流程交付？》，要用到哪些 skill，现场和大家分享。 欢迎预约，直播间不见不散。]]></title>
+      <description><![CDATA[<p>很多用AI编程的人都有感触，新项目，用 AI 启动，容易！但老项目，用 AI 接手，并开发新功能，很难！ 如果咱们把老项目直接扔给 AI 读，这三个下场，几乎必然发生： 1. 定位慢：一个功能横跨页</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982077&amp;idx=1&amp;sn=c9ecc25ac7c97b90d5c0e9930604b670&amp;chksm=bc276f5d18936e9344d32110415b34b9437a4698ccaa74a43364c36b16a107ac03433256b2c3&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Fri, 27 Nov 2026 10:26:34 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[mini-agent已经从v1，v2演进到了v3（长文，慎入）]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXdZVicZlWSeYgKoy32BwPibtIzadeZ0vnHM6pEmy6a09h3KuU4jyWPc3oYSyL4ys4icIUcLoq86ex9DLUY4nmMgADMI2A17S2C3CM/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚直播《Agent原理与实践（2）》，今天发个纪要，文末把资料分享给大家。本周直播企业级AI编程，欢迎预约，一起来玩。【模块一：前篇回顾】mini-agent第一版核心要素：mini-agent第二</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982075&amp;idx=1&amp;sn=9764455d8ca358d288c0c34f5e880c20&amp;chksm=bc909df815b0a1e0df6cd70ce90e2531283294982882dad1e7f0502adcce508760c3f699e852&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXeDxiaMyG1zia5WjOGjJHJEMTicKoqicqwGnQAOHgnicbvREwnjSqict7C8woFN9l1pROdRdpbMuo2Y7XaNib7Y5iaCoRub5ENiacXicmBXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第5讲：让AI写缓存代码，spec怎么写？AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第5讲。现</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981660&amp;idx=1&amp;sn=26661f449a2f96ce32042b4b4e1198f5&amp;chksm=bcc026064fca9d081c28de7d756644f36311f315e0509fb917ab76a27dc2ce4e1a4cd7bc4ab5&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Mon, 21 Sep 2026 17:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[做了多年架构，发现很多人连架构设计的关键流程都不知道。系统上线不少，需求做了不少，但基本毫无方法，全凭想象。 架构设计，总共四步。 第一步，理解需求，定义系统边界。 和产品确定功能需求，根据业务确定性能需求，明确哪些做、哪些不做。 第二步，调研已有的类似系统。 你的系统是业内首创吗？不是的话，看看成熟系统怎么做的。参考优秀方案，事半功倍。 第三步，顶层设计。 设计核心组件和交互：要不要 cache，要不要 mq，单体还是微服务。产出粗略架构图。 第四步，解决主要矛盾，迭代设计。 哪里是主要矛盾，就细化哪里。解决一个，再找下一个。架构不是设计出来的，是迭代演进出来的。 问题来了：到了 AI 时代，这四步还成立吗？ 成立。但玩法变了。 第一步，理解需求，AI可以参与。把需求规范做成基线，按照基线生成具体需求，用工具理解需求，但需要注意，必须人来兜底。 步骤二，调研已有的类似系统，变化最大。 以前调研翻资料、看源码，短则几天长则几周。现在问 AI，秒回——AI 是史上最强的调研器。但它会一本正经地编。所以调研从"找资料"变成了"验真伪"：AI 给的方案，当线索，不当结论，还是人来兜底。 步骤三，顶层设计，提速了。 AI 辅助画架构图，但我们必须有能力判断，它画得对不对，人依然能兜底。 步骤四，找主要矛盾，没变。 主要矛盾在哪，AI 不知道。你的业务、你的流量曲线，都在你脑子里。找主要矛盾，AI 替不了。 还有一个贯穿四步的变化：每一步的产物，都要写成 spec。 以前写文档给人看，现在写 spec 给 AI 执行。写不清，AI 就自由发挥。 总结： 架构设计四步：定边界、调研、顶层设计、迭代主要矛盾。AI时代，AI执行，人做审美，做判断，做兜底。 以上四步，最容易被忽略的，是第二步调研，不行的程序员，看谁的代码都是shi；不行的架构师，觉得别人的方案都是shi、自己原创的才流弊——其实，自己原创的大部分架构方案，才是shi。 保持开放，善于借鉴，是优秀架构师的核心品质。 原文2000字，附案例，架构图，相关资料。 <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-chg1jf" href="">#架构师</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-ug6grl" href="">#AI</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-f23855" href="">#架构设计</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-6vfbai" href="">#程序员</a> <a class="wx_topic_link" data-topic="1" style="color: #576B95 !important;" topic-id="mu939pve-2uazek" href="">#职场进阶</a>]]></title>
-      <description><![CDATA[<p>做了多年架构，发现很多人连架构设计的关键流程都不知道。系统上线不少，需求做了不少，但基本毫无方法，全凭想象。 架构设计，总共四步。 第一步，理解需求，定义系统边界。 和产品确定功能需求，根据业务确</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981649&amp;idx=1&amp;sn=2c7dd0d5b5135ea2291f5e25d30aae36&amp;chksm=bc2031a8ac114d17e8de2eadfcc8d84e46a5e8f930c65ea422b00cf8dfbfab1734e01e32825c&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 20 Sep 2026 08:48:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
