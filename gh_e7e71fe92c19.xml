@@ -11,6 +11,18 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[安卓root方案APatch SELinux_hide mmap ABI漏洞分析]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K128uIczOsD4oRxsLlu7Q6e24SMUppHUUfAscYm70Ibc9FZygGQ2WsvrSkw69WG7L4SS43oOibib8iclzNAEUbm3jm60ZczsCAxaE/640?wxtype=jpeg&amp;wxfrom=0"/><p>KP 0.13.9 SELinux 隐藏功能漏洞技术分析——/sys/fs/selinux/status mmap ABI 违规分析（检测验证示例见附录）分析对象：KP（KernelPatch）0.1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624657&amp;idx=1&amp;sn=1414b6655d95ee3d6f624881d5d53838&amp;chksm=b0aacb00b4098784c61f3d52f76a5bb4542ff6bd1b7394e34e82d1f90497792f1288d5672e0a&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[检测大全：Android 检测对抗源码级实战（配套3大自研工具）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/Cpo2XCpI7K0ItbR3fcsibiaONcwgiaYvCOgtJXLR05MtfJwgmQYvUbamHPklcry0An8DP5yqxCbPZZabFnkfMFgrX5TMGwYsYib4CY2kRVjkacQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>-写得一手 Frida 脚本，却屡屡被加固检测拦截？-网上找来的绕过方案，没过多久直接失效；-遇到 DexProtect、Promon 这类企业级壳就束手无策；-只会打地鼠式修补，不知道检测究竟从何而</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624657&amp;idx=2&amp;sn=dbce1e15992286f8f4310873235a8e1d&amp;chksm=b0352ab998656c4f89cfb923327eaa75864b0866cc61825e716b886db8d43db973a0846b9c6c&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 17:59:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[Python纯协议实现亿级短视频app的直播间弹幕采集]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0fedRDkUhAubFfnn2AtMKksH2SjUPVQfOmQJOpBts8ULy0g6MzEoHuSFcEh8LibLNuoWibPS528T3SIlRF5zTYic0SG4yB2sVDdg/640?wxtype=jpeg&amp;wxfrom=0"/><p>版本：20260923，40.6.0测试需求：纯协议获取直播间弹幕等信息最终效果随机抓包找的10个直播间id，随机注册10台设备信息监控上并且持续接收弹幕等信息从直播间 X-Cylons 到6神设备注</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624654&amp;idx=1&amp;sn=49c52cd612de71a69b69ef4cbbd48c64&amp;chksm=b0ff04dcde5a6c95e788b518918828f6d3107aca86114e1b5622f8291dfdff9f9ed36187aab0&amp;scene=0&amp;xtrack=1#rd</link>
@@ -297,18 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K0LKEicqP79eECiaQMVNbBG6HFFh0xxQyIiczpcwtvreAIdWU0DsYxVzMEcRCd7qpTMXic8fGBaM7ibm6TF8v5ibv1ExMm7icr7KEap5o/640?wxtype=jpeg&amp;wxfrom=0"/><p>Google近日发布Chrome浏览器安全更新，修复了一项已遭攻击者在野利用的高危零日漏洞。该漏洞编号为 CVE-2026-125350，存在于Chrome的XML组件中，属于释放后使用（Use-Af</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=3&amp;sn=36e6b97c2778f1f3d18d79cc1335d49f&amp;chksm=b06c439e8a7a077e3963dc2ca8c2df1745279faf055549a2dcf9d1fb4fafd582206c50223f4f&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪课程双十一限时满减，火热加购中...]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1Dz2v8b8rW8LhrFXE1JbvQdnHHL9wmK0oodwiaicibobZYxFJfYicg8z4PwULl9RxKQAktCXovgI4qpMef204ejMAVxa2RYmSnU1k/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624076&amp;idx=4&amp;sn=4bbc0fe71466da516a0d7b5f6cf6a852&amp;chksm=b0377f78cb5b0059c9d4436881f0d343ec40764396074cba4586afdc15ca27b59dc42a239e13&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Tue, 10 Nov 2026 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[看雪双十一开启！课程最高立减2000元，限时4天]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Cpo2XCpI7K1l827LKiacibVTZYOFEAXL9x3oUdh7PoEvJicGcicywqVXKicHYURLQEbND11jfnvWM83ae1l9DWtjJt7tiaTTPVI2KmFzicBrPz0Biao/640?wxtype=jpeg&amp;wxfrom=0"/><p>一年一度的双十一来了！对于网络安全从业者、技术开发者和安全研究人员来说，持续学习、精进技术，是保持竞争力的重要方式。无论你正在学习逆向工程、漏洞挖掘、二进制安全，还是希望深入探索 AI 安全与攻防技术</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&amp;mid=2458624005&amp;idx=1&amp;sn=e09c17352cca70ac8dca6e9771251f83&amp;chksm=b049a4a3823ab3bb6f9a2f098b5e2dfe58019bdea11312f96a47951efe7f51cd2073139a3dac&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 09 Nov 2026 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

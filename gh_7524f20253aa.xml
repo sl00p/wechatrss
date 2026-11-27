@@ -11,6 +11,24 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[潜伏12年，Linux NFS曝严重漏洞，无需认证可远程获取root权限]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2FZUoSfVolsiaj5Oas5Xd3l1aiaN7cc1iaaIgwqplckicjv9R1zeURP9s0E5K9eAOeH1ePv952iaKtnicH840VnRhXscNECibdxCqqtM/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01NFS高危漏洞潜伏12年未授权可获取root权限研究人员在Linux内核的NFS文件共享服务中发现一处严重漏洞，未授权攻击者可在受影响系统上获取root shell。该漏洞在内核中隐藏了1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351889&amp;idx=1&amp;sn=0245a7cce51657f2db6f38781ff047f1&amp;chksm=bc78969326a6b313fb943b81f2e0a28483abda6b98dd0ac6406ce360d74dc44fc578d99f86d2&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 18:40:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Telegram警告iPhone用户遭大规模攻击，仅访问网站即可被入侵]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX2ILhXLOGOCG2V9prnjibWbxxsslzdAkrJUxbdtQYEsib04tic79PB1pyXxXjZHfpUGwr0nZAZJ0dibHCvJnce9CuStwibvvk8ssFqc/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01Telegram推送安全警报，提醒旧版iOS用户更新系统Telegram首席执行官Pavel Durov于11月27日表示，平台正为运行旧版iOS的iPhone用户推送安全警报。他在X平台</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351889&amp;idx=2&amp;sn=938ec5eb1940a301ad055580e7a319e0&amp;chksm=bcc94976b26168bd6d869530bcf08dd0df37428e9a4c4f3129a56cb8cf2e940df559a4824168&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 18:40:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开源AI渗透测试框架Cairn频繁现身真实攻击；1Password披露安全事件 | FreeBuf周报]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibqyrdrvYXibMZM7K7gQW9ymjN5AC57KhoGh2560gLib3vMgOmH431AZUh9TZwFaTjoh7Fq4HFvWSLg/640?wxtype=jpeg&amp;wxfrom=0"/><p>🦠 开源 AI 渗透测试框架 Cairn 频繁现身真实攻击，自主 Agent 可独立利用 0Day 入侵 🔐 1Password 披露安全事件，攻击者经员工 GitHub 账号复制客户记录 🚓 黑客疑</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351889&amp;idx=3&amp;sn=a8c3552d6b6dd7daad30aee64c72b651&amp;chksm=bc8635ec63a0601b5eb6ed18153dcf7d8f81c663daf680adce65c57019b4270af1e26ff8a1a7&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 18:40:47 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[黑客入侵东南亚政军及立法机构网络，窃取敏感文件泄露访问凭证]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX0icvpP2L7daZkRmoQQ8PrHtdiaSicFDLfz0xicTA5joCAnybicg7WpbPyy9ArhVFuXPy6sZLBU7KXBTCpH25qqnqey3CtWUO8FxgkQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>一场网络间谍活动近期入侵泰国、菲律宾两国的军事、政府及立法机构网络，攻击者窃取了数GB敏感文档，还泄露了多组政府访问凭证。这场代号为RedOps的攻击活动持续时间为2026年8月至9月，目前已确认5起</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351857&amp;idx=1&amp;sn=7c1e8559d915cf71c18e1170445526d2&amp;chksm=bc31f357a508b2071113af68c659ff581ddebfa6355b649fdb8ec548762cf26c0f1bdc47b81b&amp;scene=0&amp;xtrack=1#rd</link>
@@ -291,24 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/icBE3OpK1IX1cVeibfEv8LQSDt7SKElfHZ1zZDicMJicrSsoQMJfZMic1V5LRxic7Ojs0wJuibjfPbzh92ywnQ2BGaD82hpV4t7l8M0LUDczwekjwI/640?wxtype=jpeg&amp;wxfrom=0"/><p>Cursor将10月发生的安全事件溯源至Fireworks AI泄露的一枚访问密钥。攻击者利用该密钥窃取历史coding agent记录，找到更多凭证，最终在Cursor的市场缓存中植入了带后门的Cl</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351016&amp;idx=1&amp;sn=9d6dd214b1d32213fe3d9638c7a5460c&amp;chksm=bc2c8568d0402546ca0661c1ba95642153698370521f70429d571bdb2d1286ad0cef43c37e05&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sun, 15 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FBI曝光AI自动化攻击，ARTEX仅用3小时即可攻陷企业系统]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX2QuzAqO2P5gVhRX0icEl9mqUykRstLXxJHFsUs1YQngBdBX0pjhDppH7lBAY88Fcd9QymxbUGH1QVwWdwKicK6T8Gyof9f3iaWy4/640?wxtype=jpeg&amp;wxfrom=0"/><p>FBI发出警告，称攻击者正利用ARTEX AI Agents自动化实施网络攻击，部分入侵行动不到三小时就能获取特权访问。FBI在2026年11月13日发布的FLASH预警中，详细说明了攻击者如何组合窃</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351016&amp;idx=2&amp;sn=8a8a5902c0b9e63e934f8fb7d014c308&amp;chksm=bc5cecceffc76d3ee3fb03f2aa5657de085127c12dd09a7e644ff2e84858ac83c2b6b7e67e74&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[美国冻结朝鲜黑客盗取的27亿美元币安资产，涉案总金额达60亿美元]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0PCV8ZQt0AyiblsmTXUDJ9ePH7CnTdibDH3GLgY29zf229bJqxgpZqhM2DeqDoRpLnwdjQ7ichdsbmYDwZ3ibPlq60XNGKtcluYNQ/640?wxtype=jpeg&amp;wxfrom=0"/><p>Part01美冻结币安被盗案27亿美元美国政府已冻结2026年10月29日前后币安被盗加密货币中的27亿美元。FBI表示，朝鲜在此次盗窃事件中共窃取超过60亿美元加密资产。目前法院已下达指令，授权美国</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651351016&amp;idx=3&amp;sn=d224081e5f21f76580f08cd93c037d34&amp;chksm=bcce337088d012bf9c954bcf86a8a0b276b4f82b66a63dbd1d402245ac2e756bc5af0581c301&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sun, 15 Nov 2026 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI发布Daybreak，AI Agent正式入局安全测试与漏洞修复闭环]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/icBE3OpK1IX0aDW9rOlIUiaM51VhMup9Kibwy10UbQmX3cqbr7ywGSfHm2gKvic88ibThk7nMPcMsTwltZBvYuAwShicEg8XrXjllplVs6IZdpU6E/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenAI推出Daybreak，将AI Agent进一步融入软件安全流程，把Web应用渗透测试与漏洞排查、修复开发工具相结合。该产品包含红队、Defense Factory两大功能模块，打通从安全漏</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&amp;mid=2651350982&amp;idx=1&amp;sn=660d79eee1b6373bc7bbcdc1d68b67e5&amp;chksm=bc1d62f58255f54fe6bbffacd3ab4aa3a1bae86bc4e8170ba5de7bfbfebc4948b59df149f015&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Sat, 14 Nov 2026 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

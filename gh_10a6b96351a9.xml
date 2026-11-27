@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[用AI接手老项目，就用这4大步骤，6大工具！（长文，收藏）]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXecRticGDZeChHyXRtKtFWFGTZDabAtNeib61OicbfH6Aib6ICjh46KUJ40KjG3NqoZddRZJd8icicxjq955uIBPef23dl45bibmonxew/640?wxtype=jpeg&amp;wxfrom=0"/><p>昨晚直播《企业级AI编程，老项目接手全流程》，今天把纪要+PPT分享给大家。继续直播AI相关的话题，欢迎预约。【背景】刚接手一个项目，老员工离职，没有文档，没有交接，新需求却已经来了，怎么办？背景：1</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982111&amp;idx=1&amp;sn=90ffe8244c52c4d6f8f20ce05480af61&amp;chksm=bcef45ba8d4a509086cf5211e866e42e75408c680f42479666bc5433136961ac14053028dd26&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 11:46:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[很多用AI编程的人都有感触，新项目，用 AI 启动，容易！但老项目，用 AI 接手，并开发新功能，很难！ 如果咱们把老项目直接扔给 AI 读，这三个下场，几乎必然发生： 1. 定位慢：一个功能横跨页面、接口、逻辑、数据访问，AI 反复搜索试读，无关代码占满上下文； 2. 装不下：几十个模块，塞进去烧 token，读完还跑偏； 3. 换个会话，从头再来：项目背景只留在聊天记录里，下次需求重新介绍一遍。 问题大概率不在 AI，也不在项目。AI 编程高手接手老代码开发新功能，用的是这四步流水线。 第一步：了解项目资料。 别让它裸读源码。先建两样东西：项目 Wiki（项目干什么、模块怎么分工、主要流程、数据关系）和代码地图（功能入口、关键代码、调用路径）。 这里要用到【两个 skill】，一个解决 Wiki 的问题，一个解决 CodeMap 的问题。 第二步：明确需求与方案。 拒绝任何一句话需求，特别是老项目更是如此。原始需求没说清楚，一行代码都不能开始写。 这里也要用到【两个 skill】，一个解决需求精确化的问题，一个解决明确技术方案的问题。 第三步：代码实现与 Review。 明确了需求与技术方案之后，接下来用 AI 实现代码，并在完成之后 Review 代码。 这里还是要用到【两个 skill】。并且，写代码的 AI 和查代码的 AI，不能是同一个：必须换模型、开新会话，交叉审查。 第四步：测试与验收。 AI 做完 ≠ 能上线。上线前必须保证质量，除了 AI 测试之外，还需要人来兜底验收。毕竟，承担责任的，不会是 AI，不是吗？ 四个步骤，前一步生成的材料，都会作为下一步的输入。Wiki 和 CodeMap 喂给需求，需求喂给方案，方案喂给实现，实现喂给 Review，最后全部喂给测试——每一步都不从头开始。 整个过程中生成的文档，就是下次项目可复用的资产。 限于小绿书 1000 字限制，直播和大家细聊：《企业AI编程，项目需求全流程交付？》，要用到哪些 skill，现场和大家分享。 欢迎预约，直播间不见不散。]]></title>
       <description><![CDATA[<p>很多用AI编程的人都有感触，新项目，用 AI 启动，容易！但老项目，用 AI 接手，并开发新功能，很难！ 如果咱们把老项目直接扔给 AI 读，这三个下场，几乎必然发生： 1. 定位慢：一个功能横跨页</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651982077&amp;idx=1&amp;sn=c9ecc25ac7c97b90d5c0e9930604b670&amp;chksm=bc276f5d18936e9344d32110415b34b9437a4698ccaa74a43364c36b16a107ac03433256b2c3&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/O1HUibMqqHXexf3ThCdxZzUQXZxoCLMV7mv4ibowdNOJxpRkMGwialL6ic5UAO2raRFIlU41AjMibJgicQegU3iaPaHUeyfAWrrtbzNrFicN6HEH2lM/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第6讲：缓存不一致AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第6讲。上一讲，聊了《Cache</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981668&amp;idx=1&amp;sn=8b96fb9bb927400395b84f9e1c2389d4&amp;chksm=bc3eeea3c523c0dd45d36338bb322d383e68ae5f7d450ff40506bbc072c236f5d3c62f551db4&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Tue, 22 Sep 2026 11:54:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AI时代，让AI写缓存，spec怎么写（5/100）]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/O1HUibMqqHXeDxiaMyG1zia5WjOGjJHJEMTicKoqicqwGnQAOHgnicbvREwnjSqict7C8woFN9l1pROdRdpbMuo2Y7XaNib7Y5iaCoRub5ENiacXicmBXY/640?wxtype=jpeg&amp;wxfrom=0"/><p>《AI时代的架构设计100讲》第5讲：让AI写缓存代码，spec怎么写？AI时代，架构设计变了吗？架构师的职责变了吗？准备新起一个AI时代的架构设计系列，初定100讲，每周更新2-3讲，这是第5讲。现</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&amp;mid=2651981660&amp;idx=1&amp;sn=26661f449a2f96ce32042b4b4e1198f5&amp;chksm=bcc026064fca9d081c28de7d756644f36311f315e0509fb917ab76a27dc2ce4e1a4cd7bc4ab5&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Mon, 21 Sep 2026 17:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -11,6 +11,12 @@
       <link>https://mp.weixin.qq.com/</link>
     </image>
     <item>
+      <title><![CDATA[逛了最近刚开源 GitHub 榜单，这 3 个还挺有意思的。]]></title>
+      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU0cGA5UdGCsoDxqhQnd3fbzX8OK3mS0bP8Vn9lZzJaibiaZ3RawBQTdoDuAicpA7SMjwia9S7BibXazsXV68TVk9b1fNGSibRXMOX7tU/640?wxtype=jpeg&amp;wxfrom=0"/><p>01在 Windows 任务栏看设备电量BatteryHub 是个免费开源的 Windows 小工具。装上它，就能在任务栏看无线鼠标、键盘、耳机和游戏手柄的剩余电量了。电量低时数字还会变红，充电时也会</p>]]></description>
+      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538736&amp;idx=1&amp;sn=36e970efb8b69b95f8b66a102b628a62&amp;chksm=f8244777c5f271a477d89dc9b400cdaee5e8111df615eed1df761e92034968b4d506321801fa&amp;scene=0&amp;xtrack=1#rd</link>
+      <pubDate>Sat, 28 Nov 2026 11:14:00 +0800</pubDate>
+    </item>
+    <item>
       <title><![CDATA[GitHub 上 1.6 万 Star！这个 GitHub 项目让 AI 帮你复刻视频。]]></title>
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU24iavou3NuwzJ3bGfWZtduibXT1BkggwriaWJpgCS3BagSjkU2Fu4CibqZhfFicwD7rNRJAuPM2y8JqSjXybyXq3CJ7f1XTGCANVkg/640?wxtype=jpeg&amp;wxfrom=0"/><p>OpenMotion 这个开源项目还是很顶的，出自 OpenDesign 团队。开源没几天就一两万的 Star 了。你上传一个视频，这个开源项目就能直接拆解这个视频，直接复刻一个新的。把自己定位成 C</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538735&amp;idx=1&amp;sn=6a0f6a23ca5f9f9b466aff684ec31b3f&amp;chksm=f813945a324b0294cc1e699e50bd28fcde5bf316935172274aa944fa1f6c1fdb31f7f8686f7f&amp;scene=0&amp;xtrack=1#rd</link>
@@ -303,12 +309,6 @@
       <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/M2ibDBMdECU2rvrvnDQ9tCjw6t1oYiaIMmT5V1Vwa37XiaE4P1xeO21EPetBpFFJWCKxSCWzFibxyvwGxht3yGBZdWCWoDSqUoYYsBjMSNXRW7U/640?wxtype=jpeg&amp;wxfrom=0"/><p>01一大波科研 SkillsScientific Agent Skills 收录了 160 多个科研 Skill，并整理了 100 多个科学数据库的使用方式。这些 Skill 包括生物信息、药物发现、</p>]]></description>
       <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536562&amp;idx=1&amp;sn=9a8a6c9921b1c1b4b00ef60b32790354&amp;chksm=f807d41bbd746f8affe8840c63a3dde264f0733752644b2a4547ecc7e17fc63d3f08e50d8774&amp;scene=0&amp;xtrack=1#rd</link>
       <pubDate>Sat, 05 Sep 2026 13:41:07 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[今天推荐点别的，5 个 GitHub 上开源的英语学习神器。。。]]></title>
-      <description><![CDATA[<img referrerpolicy="no-referrer" src="https://mmbiz.qpic.cn/mmbiz_jpg/M2ibDBMdECU33q69nZAAAiaqYWgMSDCuDqxnrboOcHBD2w1D3yI0U6moxJvwFP2ibSIqhzKVwBN6ibSKicSzANiaicpWlw4HbZMdC5l3Phz010VxJI/640?wxtype=jpeg&amp;wxfrom=0"/><p>01训练英语听说能力Echo Loop 是一款专门训练英语听说能力的开源 App。目前在 GitHub 上获得 3000 多的星星。它把一段英语音频拆成这么几个环节：盲听、精听、跟读、复述，再进入间隔</p>]]></description>
-      <link>http://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247536438&amp;idx=1&amp;sn=5b4b3820b7042c8e94b969f521764b1a&amp;chksm=f80351de879a52dab7aa8f77d0c29dae8e7eb47fc7ff18d836d1b57cd0156e694633b9e03323&amp;scene=0&amp;xtrack=1#rd</link>
-      <pubDate>Thu, 03 Sep 2026 14:07:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
